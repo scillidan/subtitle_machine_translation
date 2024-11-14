@@ -1,8829 +1,7063 @@
 1
 00:00:00,000 --> 00:00:03,451
 [音乐播放]
-[MUSIC PLAYING]
 
 2
 00:00:16,201 --> 00:00:17,200
 科尔顿·奥格登：好的 
-COLTON OGDEN: All right.
 
 3
 00:00:17,200 --> 00:00:19,210
 欢迎来到GD50
-Welcome to GD50.
 
 4
 00:00:19,210 --> 00:00:20,517
 这是第10课 
-This is lecture 10.
 
 5
 00:00:20,517 --> 00:00:22,100
 今天 我们将讨论“门户” “
-Today we'll be talking about "Portal."
 
 6
 00:00:22,100 --> 00:00:25,030
 所以《传送门》是一款非常标志性的游戏 我想我们大多数人
-So "Portal" is a very iconic game, I think most of us
 
 7
 00:00:25,030 --> 00:00:26,380
 可能以前见过 
-have probably seen it before.
 
 8
 00:00:26,380 --> 00:00:32,590
 要点是你有一把传送门枪 一把可以发射椭圆形传送门的枪 
-The gist is you have a portal gun, a gun that shoots these elliptical portals.
 
 9
 00:00:32,590 --> 00:00:34,570
 如果你仔细看 你可以有效地
-If you look through one, you can effectively
 
 10
 00:00:34,570 --> 00:00:38,035
 看看另一个出来的是什么 这很酷 反之亦然 
-see what is coming out the other one, which is pretty cool, and vise versa.
 
 11
 00:00:38,035 --> 00:00:39,910
 然后 如果你走进传送门之间
-And then, if you walk in between the portals,
 
 12
 00:00:39,910 --> 00:00:42,070
 你就会被传送到另一边
-you'll actually be teleported to the other side.
 
 13
 00:00:42,070 --> 00:00:44,470
 因此 它们实现了很多非常有趣的效果
-And so, they achieve a lot of really interesting effects
 
 14
 00:00:44,470 --> 00:00:46,510
 一些很酷的小把戏
-with some pretty cool tricks and stuff.
 
 15
 00:00:46,510 --> 00:00:48,880
 实际上Valve自己也会来
-And actually Valve themselves will be coming
 
 16
 00:00:48,880 --> 00:00:51,280
 做一个关于很多技术的演讲 
-to give a talk on a lot of the technology
 
 17
 00:00:51,280 --> 00:00:53,140
 他们在第二次使用 
-that they used on the second.
 
 18
 00:00:53,140 --> 00:00:55,960
 所以我们可以一窥他们的“传送门 “
-So we can get a glimpse into their version of "Portal."
 
 19
 00:00:55,960 --> 00:00:59,077
 我的《传送门》版本更简单 但我们会
-My version of "Portal" is a bit simpler, but we'll
 
 20
 00:00:59,077 --> 00:01:00,910
 看看很多类似的原理
-look at a lot of the same sort of principles
 
 21
 00:01:00,910 --> 00:01:03,860
 看看我是如何完成很多相同的事情的 
-and see how I accomplished a lot of the same things.
 
 22
 00:01:03,860 --> 00:01:07,150
 这也是这学期的最后一节课
-So this is also the last lecture of the semester,
 
 23
 00:01:07,150 --> 00:01:08,780
 我们已经调查了很多地方
-and we've covered a lot of ground.
 
 24
 00:01:08,780 --> 00:01:11,270
 我这里有一些截图来展示一些游戏
-I have a few screenshots here to show some of the games
 
 25
 00:01:11,270 --> 00:01:12,270
 我们已经讨论过了 
-that we've talked about.
 
 26
 00:01:12,270 --> 00:01:15,760
 第一个游戏是“乒乓” 我们已经走了很长的路 
-The very first game was "Pong," and we've come sort of a long way.
 
 27
 00:01:15,760 --> 00:01:20,410
 我们已经经历了非常简单的街机Atari类游戏 
-We have gone through very simple arcadey Atari-like games like this,
 
 28
 00:01:20,410 --> 00:01:22,960
 并且有效地创造了世界 
-and have gone and created worlds effectively.
 
 29
 00:01:22,960 --> 00:01:25,800
 现在我们在3D中 我们正在做各种各样的真棒的东西 
-And now we're in 3D, we're doing all kinds of awesome stuff.
 
 30
 00:01:25,800 --> 00:01:28,662
 但这是我们开始课程的地方 
-But this was where we started the course.
 
 31
 00:01:28,662 --> 00:01:31,120
 回顾过去看看我们走到了哪里是一件很有趣的事情 
-And it's kind of fun to look back and see where we've come.
 
 32
 00:01:31,120 --> 00:01:34,690
 在这里 我们讨论了计分和有效地绘制形状
-So here, we talked about scoring and just effectively drawing shapes
 
 33
 00:01:34,690 --> 00:01:38,050
 然后我们切换到“Flappy Bird”或者“50 Bird”
-onto the screen, then we transition to "Flappy Bird" or "50 Bird,"
 
 34
 00:01:38,050 --> 00:01:40,570
 我们有精灵和人物 
-and we had sprites and characters.
 
 35
 00:01:40,570 --> 00:01:44,380
 我们讨论了滚动和无限级过程生成
-And we talked about scrolling and infinite level procedural generation
 
 36
 00:01:44,380 --> 00:01:47,291
 类型算法 这很有趣 
-type algorithms, and that was fun.
 
 37
 00:01:47,291 --> 00:01:49,540
 我们在《越狱》中更上一层楼
-We took things a step higher than that with "Breakout"
 
 38
 00:01:49,540 --> 00:01:52,300
 我们有着相同的程序性想法
-where we had the same sort of procedural ideas
 
 39
 00:01:52,300 --> 00:01:54,790
 在一个非常著名的街机游戏的背景下 
-in the context of a very famous arcade game.
 
 40
 00:01:54,790 --> 00:01:57,910
 我们谈到了粒子系统和一些街机风格
-We talked about particle systems and some arcade style
 
 41
 00:01:57,910 --> 00:01:59,649
 物理和高分 
-physics and high scores.
 
 42
 00:01:59,649 --> 00:02:00,940
 然后我们开始玩益智游戏 
-Then we went into puzzle games.
 
 43
 00:02:00,940 --> 00:02:03,520
 我们谈到了第三场比赛 以及如何实际计算
-We talked about Match Three" and how to actually calculate
 
 44
 00:02:03,520 --> 00:02:07,090
 是什么决定了我们是否找到了匹配的
-what goes on to determine whether we have gotten a match
 
 45
 00:02:07,090 --> 00:02:09,430
 以及如何清理积木和如何补间事物 
-and how to clear blocks and how to tween things,
 
 46
 00:02:09,430 --> 00:02:13,639
 随着时间的推移进行操作 这是一种同步 
-do operations over time, sort of this A synchronicity.
 
 47
 00:02:13,639 --> 00:02:16,180
 然后我们进入了可能是我最喜欢的讲座 
-Then we went into probably what is my favorite lecture, which
 
 48
 00:02:16,180 --> 00:02:17,888
 是《超级马里奥兄弟》 我们聊了聊
-was "Super Mario Brothers," and we talked
 
 49
 00:02:17,888 --> 00:02:20,740
 关于如何创建看起来完全不同的程序化世界
-about how to create procedural worlds that all look very different
 
 50
 00:02:20,740 --> 00:02:22,510
 用一些非常简单的算法 
-with some very simple algorithms.
 
 51
 00:02:22,510 --> 00:02:26,110
 然后我们有了触发点和一些事件发生 
-And then we had triggers and events sort of happening.
 
 52
 00:02:26,110 --> 00:02:29,470
 然后《塞尔达传奇》问世了 我们有了这个无限地牢算法 
-Then "Legend of Zelda" came, and we had this infinite dungeon algorithm.
 
 53
 00:02:29,470 --> 00:02:31,210
 我们有敌人四处走动 我们
-And we had enemies walking around that we
 
 54
 00:02:31,210 --> 00:02:36,080
 可以使用一把剑 所以感觉更像是一款实际的动作游戏 动作RPG 
-could use a sword on, so it felt more like an actual action game, action RPG.
 
 55
 00:02:36,080 --> 00:02:41,380
 然后在《愤怒的小鸟》中简要介绍了方框2D中的物理学 
-Then took a brief look at physics in the context of Box 2D with "Angry Birds,"
 
 56
 00:02:41,380 --> 00:02:43,960
 我还记得球坑的例子很可能是
-and I still remember the ball pit example was probably
 
 57
 00:02:43,960 --> 00:02:45,430
 这是我最喜欢的部分 
-my favorite part of that.
 
 58
 00:02:45,430 --> 00:02:48,700
 然后可能是这学期最复杂的例子
-And then probably the most complicated example of the semester
 
 59
 00:02:48,700 --> 00:02:52,540
 是《精灵宝可梦》 我们实际上有一个基于半满圈的
-was "Pokemon," where we actually had a semi full turn based
 
 60
 00:02:52,540 --> 00:02:57,370
 并行系统 和随机相遇 就像一个小世界 在那里
-parallel system, and random encounters, and like a little world where there's
 
 61
 00:02:57,370 --> 00:03:00,970
 实际上 我们的世界有两个主要阶段 那里有场
-actually two main stages to our world where there was the field
 
 62
 00:03:00,970 --> 00:03:05,920
 还有战斗场面 这在RPG中是很常见的 
-and the battle scene, which is a very common thing to have in RPGs.
 
 63
 00:03:05,920 --> 00:03:08,590
 在《精灵宝可梦》之后 这是最复杂的代码库 
-Following "Pokemon," which was the most complicated codebase,
 
 64
 00:03:08,590 --> 00:03:11,980
 我们进入了Unity 这是我们第一次进军3D 
-we went into Unity, which was our first foray into 3D.
 
 65
 00:03:11,980 --> 00:03:14,380
 尽管我们只是在探索2.5D 
-And even though we were just exploring 2.5D,
 
 66
 00:03:14,380 --> 00:03:17,500
 我们仍然有机会了解Unity引擎是如何工作的 以及如何
-we still got a chance to look at how does the Unity engine work and how do
 
 67
 00:03:17,500 --> 00:03:19,780
 我们把真实的3D模型搬上银幕？
-we get actual 3D models onto the screen?
 
 68
 00:03:19,780 --> 00:03:22,870
 我们制作了一个非常简单的《飞鸟》风格的游戏
-And we put together a very simple "Flappy Bird" esque game so
 
 69
 00:03:22,870 --> 00:03:25,900
 我们可以在某种程度上重复使用以前的想法 
-that we could sort of recycle prior ideas.
 
 70
 00:03:25,900 --> 00:03:29,290
 上周 我们看了《恐怖50》 这是一部恐怖的电影
-Last week, we looked at "Dread 50," which was sort of a Dreadhall's horror
 
 71
 00:03:29,290 --> 00:03:31,540
 受启发的游戏 我们可以看到灯光
-inspired game where we got to look at lighting
 
 72
 00:03:31,540 --> 00:03:36,760
 以及如何在场景之间进行实际转换 以及如何在Unity中使用一些基本的用户界面 
-and how to actually transition between scenes and use some basic UI in Unity.
 
 73
 00:03:36,760 --> 00:03:41,170
 今天 我们将讨论如何创建一个类似的游戏 
-And today, we'll be talking about how to create a game similar to this,
 
 74
 00:03:41,170 --> 00:03:42,610
 虽然简单多了 
-although much simpler.
 
 75
 00:03:42,610 --> 00:03:45,130
 今天基本上只是一个技术演示 而不是其他任何东西 
-Today is mostly just a tech demo more than anything else.
 
 76
 00:03:45,130 --> 00:03:47,570
 但这是实际游戏《门户》的截图 
-But this is a screenshot of the actual game "Portal."
 
 77
 00:03:47,570 --> 00:03:50,410
 正如你所看到的 他们做了很多非常酷的奇特的事情 
-And as you can see, they do a lot of really cool fancy things.
 
 78
 00:03:50,410 --> 00:03:52,272
 他们在斜坡上有一个入口 他们
-They have a portal on sort of a slope, they
 
 79
 00:03:52,272 --> 00:03:54,980
 另一个入口从后面的前墙出来 
-have another portal coming out of the front wall over back there.
 
 80
 00:03:54,980 --> 00:03:58,105
 有不同的颜色 所以你可以区分左和右 
-There are different colors so you can differentiate between left and right,
 
 81
 00:03:58,105 --> 00:03:59,350
 橙色和蓝色 
-orange and blue.
 
 82
 00:03:59,350 --> 00:04:02,170
 他们在边上放着这样的东西 
-They have sort of this object here on the side,
 
 83
 00:04:02,170 --> 00:04:05,700
 我相信这是为了射出立方体 这就是这里
-and I believe that's to shoot cubes out, which this here
 
 84
 00:04:05,700 --> 00:04:08,080
 是一个立方体 然后你可以用枪抓住它
-is a cube which you can then grab with your gun
 
 85
 00:04:08,080 --> 00:04:11,079
 然后把它射进传送门 看着它进出传送门 
-and then shoot it through portals and see it come in and out of portals,
 
 86
 00:04:11,079 --> 00:04:12,850
 这真的很酷 
-which is pretty cool.
 
 87
 00:04:12,850 --> 00:04:17,019
 今天我们将讨论如何创建一个简单的版本 主要是
-And we'll talk today about how to create a simple version of this, primarily
 
 88
 00:04:17,019 --> 00:04:20,260
 这只是我如何创建一个从另一个场景中看到的门户的方面
-just the aspect of how do I create a portal that looks out of another scene
 
 89
 00:04:20,260 --> 00:04:23,170
 然后看到它实时更新吗？
-and see it updating in real time?
 
 90
 00:04:23,170 --> 00:04:26,140
 我如何传送和往返于传送门之间
-And how do I teleport and get back and forth between the portals
 
 91
 00:04:26,140 --> 00:04:29,710
 携带一件武器 然后发射一条射线 实际上会在那里放置一个传送门
-and carry a weapon and then shoot a ray that will actually place a portal where
 
 92
 00:04:29,710 --> 00:04:31,454
 我想在游戏世界里吗？
-I want to in the game world?
 
 93
 00:04:31,454 --> 00:04:33,370
 那么今天 我们要谈的一些话题 
-So today, some of the topics we'll talk about.
 
 94
 00:04:33,370 --> 00:04:34,810
 所以第一 拿着武器 
-So one, holding a weapon.
 
 95
 00:04:34,810 --> 00:04:36,880
 所以我们使用了第一人称控制器 这是
-So we've used a first person controller, and this
 
 96
 00:04:36,880 --> 00:04:39,250
 这是一件非常容易和简单的事情 
-is a very easy and simple thing to do.
 
 97
 00:04:39,250 --> 00:04:41,060
 但它有助于解释什么是育儿 
-But it helps illustrate what parenting is.
 
 98
 00:04:41,060 --> 00:04:42,300
 所以我们会讨论这一点 
-And so we'll talk about that.
 
 99
 00:04:42,300 --> 00:04:45,760
 光线投射是从对象中实际射出光线
-Ray casting is the actual shooting out of a ray from your object
 
 100
 00:04:45,760 --> 00:04:47,175
 向Z方向前进 
-to Z direction forward.
 
 101
 00:04:47,175 --> 00:04:50,050
 所以你有一个X和一个Y 这是你所处的角度
-So you have an X and a Y, which are sort of the angle at which you're
 
 102
 00:04:50,050 --> 00:04:50,690
 四处走动 
-moving around.
 
 103
 00:04:50,690 --> 00:04:55,870
 但是你有Z 如果你使用前向向量
-But then you have Z, which if you're using the forward vector
 
 104
 00:04:55,870 --> 00:04:59,140
 从你的角色来看 它将在z轴上向前
-from your character, it's going to be forward in the z-axis
 
 105
 00:04:59,140 --> 00:05:00,770
 无论你在哪里有效地寻找 
-wherever you're looking effectively.
 
 106
 00:05:00,770 --> 00:05:06,040
 从这个意义上说 这让我们可以投射一条射线 也就是投篮
-And so that allows us to cast a ray, in that sense, which just means shoot
 
 107
 00:05:06,040 --> 00:05:08,740
 一条直线 从那一点开始的一条看不见的直线 
-a straight line, an invisible straight line from that point,
 
 108
 00:05:08,740 --> 00:05:11,070
 在该点与物体相交的任何地方 
-and wherever that point intersects with an object,
 
 109
 00:05:11,070 --> 00:05:13,394
 我们可以得到一些相关的信息 然后做
-we can get some information about that and then do
 
 110
 00:05:13,394 --> 00:05:14,560
 无论我们需要做什么工作 
-whatever work we need to do.
 
 111
 00:05:14,560 --> 00:05:18,587
 在这种情况下 取一个门户预制件 基本上只需将其固定在墙上即可 
-In this case, take a portal prefab and just affix it to the wall, basically.
 
 112
 00:05:18,587 --> 00:05:20,670
 将其从默认位置旋转 然后
-Rotate it from its default position, and then just
 
 113
 00:05:20,670 --> 00:05:23,010
 把它平放在墙上 
-put it flat up against the wall.
 
 114
 00:05:23,010 --> 00:05:29,350
 纹理遮罩是我们实现这种门户效果的方式 对吗？
-Texture masking is how we're going to achieve this portal effect, right?
 
 115
 00:05:29,350 --> 00:05:34,110
 因为当我们在Unity中创建所谓的渲染纹理时 这里是
-Because when we create what's called a render texture in Unity, which here's
 
 116
 00:05:34,110 --> 00:05:36,780
 第三个项目符号 渲染纹理的意思是纹理
-the third bullet, a render texture just means a texture
 
 117
 00:05:36,780 --> 00:05:39,060
 我们用摄像机渲染到的图像 
-that we're rendering to with a camera.
 
 118
 00:05:39,060 --> 00:05:42,501
 因此 与其让纹理成为游戏中的资产 不如在您的层次结构中
-So rather than have a texture be an asset in your game, in your hierarchy
 
 119
 00:05:42,501 --> 00:05:44,250
 用你在Photoshop中制作的东西 
-with something that you made in Photoshop,
 
 120
 00:05:44,250 --> 00:05:47,040
 您实际上可以在运行时动态创建它
-you can actually dynamically create it at runtime
 
 121
 00:05:47,040 --> 00:05:48,820
 与摄像机所看到的相吻合 
-with what the camera is seeing.
 
 122
 00:05:48,820 --> 00:05:50,820
 Unity很容易就会免费给你这个
-And Unity gives this to you for free very easily
 
 123
 00:05:50,820 --> 00:05:54,570
 使用所谓的渲染纹理 这只是另一种资源类型 
-with what's called a render texture, which is just another asset type.
 
 124
 00:05:54,570 --> 00:05:57,780
 然后纹理遮罩实际上也是同样的事情
-And then texture masking is effectively the same thing
 
 125
 00:05:57,780 --> 00:06:02,850
 作为模板 我们可以选择要删除的对象的某些像素 
-as stenciling where we can choose certain pixels of an object to delete.
 
 126
 00:06:02,850 --> 00:06:06,960
 在本例中 我们创建了一个中间是白色 然后是黑色的纹理
-In this case, we create a texture that's white in the center and then black
 
 127
 00:06:06,960 --> 00:06:10,380
 围绕着边缘呈椭圆形 
-around the edges in an elliptical shape.
 
 128
 00:06:10,380 --> 00:06:13,770
 这让我们可以用一个简单的着色器来告诉它 
-And what that allows us to do is tell it with a simple shader,
 
 129
 00:06:13,770 --> 00:06:17,482
 在实际渲染渲染纹理时不要渲染这些像素 
-don't render these pixels when you actually render the render texture,
 
 130
 00:06:17,482 --> 00:06:18,940
 只需渲染中间的那些 
-just render the ones in the middle.
 
 131
 00:06:18,940 --> 00:06:21,481
 因此 这就是我们如何实现椭圆 仅仅通过有效地
-And so, that's how we achieve an ellipse, just by effectively
 
 132
 00:06:21,481 --> 00:06:23,910
 丢弃外圈中的像素 
-discarding the pixels in the outer rim.
 
 133
 00:06:23,910 --> 00:06:28,740
 贴花是3D游戏中的一个想法 在3D游戏中 贴花只是一种
-Decals is an idea in 3D games where a decal is just something
 
 134
 00:06:28,740 --> 00:06:32,170
 将纹理或某个对象粘贴到表面上 
-that you affix a texture or some object that you affixed to a surface.
 
 135
 00:06:32,170 --> 00:06:34,794
 在本例中 我们将使用贴花作为我们的门户 
-In this case, we'll be using decals to act as our portal.
 
 136
 00:06:34,794 --> 00:06:36,960
 所以我们的门户实际上只会是贴花 
-So our portals are actually just going to be decals.
 
 137
 00:06:36,960 --> 00:06:39,990
 它们只是附着了渲染纹理的网格 
-They're just meshes with a render texture affixed to them.
 
 138
 00:06:39,990 --> 00:06:44,340
 然后我们所要做的就是每当我们拍摄它的时候就把它们拍到墙上 
-And then all we need to do is just slap them onto a wall whenever we shoot it,
 
 139
 00:06:44,340 --> 00:06:46,350
 我们得到了一条与墙相交的光线 
-and we get a ray that intersects with the wall.
 
 140
 00:06:46,350 --> 00:06:49,436
 这将会产生实际的效果
-And that will have the effect of actually making
 
 141
 00:06:49,436 --> 00:06:52,310
 它看起来像是我们在墙上建了一个入口 而实际上 我们
-it look like we're putting a portal on a wall, when in reality, we're
 
 142
 00:06:52,310 --> 00:06:55,350
 只是拿一个网眼 我们就像是把它拍到墙上一样 
-just taking a mesh and we're kind of just like slapping it onto a wall.
 
 143
 00:06:55,350 --> 00:06:58,470
 你可能在其他游戏中见过的其他一些贴花的例子
-Some other examples of decals that you've probably seen in other games
 
 144
 00:06:58,470 --> 00:07:02,190
 例如 使用相同原理的弹孔 
-are, for example, bullet holes, which use the same principle.
 
 145
 00:07:02,190 --> 00:07:04,920
 远程传送非常简单 尽管FPS控制器
-Teleporting is very easy, although the FPS controller sort
 
 146
 00:07:04,920 --> 00:07:06,400
 会让事情变得有点复杂 
-of complicates things a little bit.
 
 147
 00:07:06,400 --> 00:07:11,040
 因此 我们将讨论如何以及如何解决传送问题
-So we'll talk about how and about sort of solving the problem of teleporting
 
 148
 00:07:11,040 --> 00:07:13,350
 在某种程度上 这是有意义的 
-in a way that makes sense.
 
 149
 00:07:13,350 --> 00:07:18,390
 它通常就像设置某个对象的变换位置一样简单
-It's usually just as simple as setting something's transforms position
 
 150
 00:07:18,390 --> 00:07:20,850
 到另一个变换位置 设置旋转
-to another transforms position, setting the rotation
 
 151
 00:07:20,850 --> 00:07:23,100
 设置为变换旋转 
-to the transforms rotation.
 
 152
 00:07:23,100 --> 00:07:25,960
 但是FPS控制器将其旋转数据变现 
-But the FPS controller cashes its rotation data,
 
 153
 00:07:25,960 --> 00:07:27,960
 所以为了干净利落地传送 你可以说
-so in order to that teleport cleanly you sort of
 
 154
 00:07:27,960 --> 00:07:29,692
 必须覆盖某些默认行为 
-have to override some default behavior.
 
 155
 00:07:29,692 --> 00:07:31,650
 最后 我们来看看一些新工具
-And lastly, we'll take a look at some new tools
 
 156
 00:07:31,650 --> 00:07:35,580
 Unity在2018年0.1 Pro Builder和Pro中推出了
-that Unity has introduced with 2018 0.1 Pro Builder and Pro
 
 157
 00:07:35,580 --> 00:07:38,910
 栅格 允许您在场景中实际建模几何体 
-Grids, which allow you to actually model geometry in the scene.
 
 158
 00:07:38,910 --> 00:07:42,540
 这就是这份作业要关注的重点 
-And this is what the assignment is going to be focused on.
 
 159
 00:07:42,540 --> 00:07:47,670
 因为展望未来 我预见它将成为现代统一的重要组成部分
-Because going forward, I foresee it being a major part of modern unity
 
 160
 00:07:47,670 --> 00:07:49,710
 开发和/或原型制作 
-development and or prototyping.
 
 161
 00:07:49,710 --> 00:07:54,420
 无需第三方程序即可在Unity中为场景建模的能力
-The ability to model your scene in Unity without needing a third party program
 
 162
 00:07:54,420 --> 00:07:57,812
 大大优化了实际的创建过程
-heavily optimizes the actual creation process
 
 163
 00:07:57,812 --> 00:07:59,520
 它可以让你轻松地完成所谓的 
-and allows you to do easy, what's called,
 
 164
 00:07:59,520 --> 00:08:05,634
 “灰色拳击” 意思是在你的游戏引擎中创建一个关卡 然后制作原型 
-"gray boxing," meaning create a level in your game engine and then prototype it,
 
 165
 00:08:05,634 --> 00:08:08,550
 测试它 确保它真的可以马上玩游戏 
-test it, make sure that it's actually game playable right off the bat.
 
 166
 00:08:08,550 --> 00:08:10,264
 这叫做“灰色拳击” 
-That's called "gray boxing."
 
 167
 00:08:10,264 --> 00:08:11,430
 但首先 让我们来做一个演示 
-But first, let's get a demo.
 
 168
 00:08:11,430 --> 00:08:14,955
 那么 有没有人想来这里玩我的“门户”的实现？
-So does anybody want to come up here and play my implementation of "Portal?"
 
 169
 00:08:21,674 --> 00:08:25,035
 所以詹姆斯是内陆国 
-So James is landlocked.
 
 170
 00:08:25,035 --> 00:08:26,660
 好了 詹姆斯 你不是内陆的 
-All right James, you're not landlocked.
 
 171
 00:08:26,660 --> 00:08:27,160
 我们走吧 
-Let's go.
 
 172
 00:08:31,250 --> 00:08:34,100
 好的 现在我要开始设置了 
-All right, so I'm going to go ahead and set that up.
 
 173
 00:08:37,699 --> 00:08:39,740
 所以免责声明 实际上这里面有一个漏洞
-And so disclaimer, there's actually a bug in this
 
 174
 00:08:39,740 --> 00:08:43,190
 所以我很好奇你能不能发现这个bug 
-as well, so I'm curious to see if you can spot what the bug is.
 
 175
 00:08:43,190 --> 00:08:46,920
 准备好了就按播放键 
-Go ahead and hit play as soon as you're ready.
 
 176
 00:08:46,920 --> 00:08:50,880
 然后右边的鼠标将是你的角度你的门户 
-And then the mouse on the right will be your angle your portal.
 
 177
 00:08:50,880 --> 00:08:55,060
 所以我们在这里看到我有一个创建了一把传送门枪的角色 
-So we see here I have a character with a portal gun created.
 
 178
 00:08:55,060 --> 00:08:58,590
 詹姆斯 如果你用鼠标左键射击一面墙 就会产生一个传送门.
-So James, if you shoot a wall with the left mouse, that will create a portal.
 
 179
 00:08:58,590 --> 00:09:00,720
 然后如果用鼠标右键
-And then if use the right mouse--
 
 180
 00:09:00,720 --> 00:09:04,200
 这是另一个bug
-so that's one other bug.
 
 181
 00:09:04,200 --> 00:09:06,420
 所以让我们重新启动程序 
-So let's go ahead and restart the program, actually.
 
 182
 00:09:10,080 --> 00:09:12,910
 这是一个bug 
-So that's one bug.
 
 183
 00:09:12,910 --> 00:09:17,880
 因此 如果我们避免踏入那里的入口
-And so, if we avoid stepping into a portal that's there--
 
 184
 00:09:17,880 --> 00:09:21,280
 这个问题可以通过几种方式来解决 
-and this this could be fixed in a couple of ways.
 
 185
 00:09:21,280 --> 00:09:25,280
 所以现在你有两个门户网站基本上创建 
-So now you have two portals basically created.
 
 186
 00:09:25,280 --> 00:09:30,520
 你看到这两个入口的问题了吗
-Do you see what's wrong with the portal as it is here, both of these portals
 
 187
 00:09:30,520 --> 00:09:31,020
 是吗
-actually?
 
 188
 00:09:34,960 --> 00:09:37,960
 哦 实际上 不 对不起 这些入口实际上是完全正确的 
-Oh actually, no, I'm sorry, these portals are actually completely right.
 
 189
 00:09:37,960 --> 00:09:39,880
 但要穿过它们 
-But walk through them.
 
 190
 00:09:39,880 --> 00:09:41,230
 我会告诉你
-And I will show you--
 
 191
 00:09:41,230 --> 00:09:43,420
 好的 你可以看到它工作得很好 对吧？
-OK, so you can see it works pretty well, right?
 
 192
 00:09:43,420 --> 00:09:47,710
 你不仅可以看到你的角色完全渲染或移动
-You can not only see your character rendering completely or moving
 
 193
 00:09:47,710 --> 00:09:51,865
 在实时的时候 其他的纹理 但你可以通过他们跳
-in real time when the other texture, but you can jump through them
 
 194
 00:09:51,865 --> 00:09:52,740
 或者穿过它们
-or walk through them.
 
 195
 00:09:52,740 --> 00:09:54,810
 如果你愿意 你可以用空格键跳跃 
-You can jump with spacebar if you want, and that'll
 
 196
 00:09:54,810 --> 00:09:56,280
 把你传送到另一端
-teleport you throughout the other end so you
 
 197
 00:09:56,280 --> 00:09:58,260
 从另一个门户的角度来看 
-see from the perspective of the other portal.
 
 198
 00:09:58,260 --> 00:10:00,210
 但如果我们试着射击另一面墙
-But if we try shooting one of the other walls
 
 199
 00:10:00,210 --> 00:10:03,370
 比如说 像这些白墙 
-for instance, like one of these white walls,
 
 200
 00:10:03,370 --> 00:10:07,140
 你会发现这面墙有些奇怪
-you can see something weird happens with this particular wall.
 
 201
 00:10:07,140 --> 00:10:10,170
 你觉得那个传送门有什么奇怪的吗？
-Anything strike you as odd about that portal?
 
 202
 00:10:10,170 --> 00:10:10,980
 有人知道吗？
-Anybody?
 
 203
 00:10:10,980 --> 00:10:12,550
 它是颠倒的 
-It's upside down.
 
 204
 00:10:12,550 --> 00:10:17,890
 所以如果你穿过它 它工作得很好 
-And so if you walk through it though, it works perfectly fine.
 
 205
 00:10:17,890 --> 00:10:21,749
 现在它被颠倒的原因是 我花了大概10 15个小时
-Now the reason that it's upside down, I spent probably like 10, 15 hours
 
 206
 00:10:21,749 --> 00:10:23,790
 试图弄清楚为什么它处于一种状态
-trying to figure out why this is, it's in a state
 
 207
 00:10:23,790 --> 00:10:25,690
 所谓的“平衡环锁定”“
-of what's called "gimbal lock."
 
 208
 00:10:25,690 --> 00:10:30,210
 这个预制件在三维空间里有三个旋转轴
-So this prefab right here, there's three axis of rotation in 3D space.
 
 209
 00:10:30,210 --> 00:10:35,400
 如果你以某种奇怪的方式旋转 
-And if you perform a rotation in some odd way,
 
 210
 00:10:35,400 --> 00:10:37,480
 有一种东西叫做加油器角度 
-there are these things called oiler angles,
 
 211
 00:10:37,480 --> 00:10:40,890
 也就是你绕x y z轴旋转的角度 
-which are your angles of rotation about the x,y and z-axis.
 
 212
 00:10:40,890 --> 00:10:43,650
 你可以把它们想象成某种
-And you can sort of think of them as sort
 
 213
 00:10:43,650 --> 00:10:46,290
 能够相互依赖地旋转 
-of being able to rotate interdependently.
 
 214
 00:10:46,290 --> 00:10:49,830
 但在某种情况下 你可以--
-But there is a situation in which you can--
 
 215
 00:10:49,830 --> 00:10:53,220
 出于某种原因 单位旋转的内部表示
-for some reason, Unity's internal representation of a rotation
 
 216
 00:10:53,220 --> 00:10:55,590
 可以通过操纵这些角度来搞砸 
-can get messed up by manipulating these angles.
 
 217
 00:10:55,590 --> 00:10:58,260
 所以 你实际上可以把两个轴锁在一起
-And so, you can actually lock two axes together such
 
 218
 00:10:58,260 --> 00:11:02,850
 旋转--例如 在这个例子中 它是Z和Y 
-that rotating-- like for example, in this case, it's Z and Y,
 
 219
 00:11:02,850 --> 00:11:04,410
 它们都相互旋转 
-they both rotate each other.
 
 220
 00:11:04,410 --> 00:11:09,360
 因此 在这种情况下 你不能让门户旋转
-And so you're unable to get, in this particular case, the portal to rotate
 
 221
 00:11:09,360 --> 00:11:13,620
 关于让它看起来像它的右侧向上的轴
-about the axis that lets it look like its right side up based
 
 222
 00:11:13,620 --> 00:11:15,420
 在墙的表面法线上 
-on the wall's surface normal.
 
 223
 00:11:15,420 --> 00:11:19,530
 所以 如果我再多一个星期 我可能已经调试过了 
-And so, had I maybe another week, I probably could have debugged it,
 
 224
 00:11:19,530 --> 00:11:20,880
 但我不得不把它留在里面 
-but I had to leave it in.
 
 225
 00:11:20,880 --> 00:11:22,430
 不幸的是 我没时间了 
-Unfortunately, I ran out of time.
 
 226
 00:11:22,430 --> 00:11:27,030
 但有趣的是 如果你真的拍摄同一面墙--
-But the interesting thing is if you do shoot that same wall--
 
 227
 00:11:27,030 --> 00:11:29,850
 所以试着拍那面墙 另一面墙--
-so try and shoot that wall, the other wall with--
 
 228
 00:11:29,850 --> 00:11:34,019
 就像把两个门都放在马车墙上 所以是右边的墙 
-like put both portal on the buggy wall, so the right wall.
 
 229
 00:11:34,019 --> 00:11:36,060
 顺便说一句 出于某种原因 只是那堵墙 
-It's only that wall, by the way, for some reason.
 
 230
 00:11:36,060 --> 00:11:40,470
 所以请注意 现在它的右边朝上了 
-So notice that now its right side up.
 
 231
 00:11:40,470 --> 00:11:43,290
 所以如果你在同一面墙上拍摄两个入口 那堵墙 
-So if you shoot both portals on the same wall, that buggie wall,
 
 232
 00:11:43,290 --> 00:11:44,580
 它们确实是正面朝上的 
-they do get right side up.
 
 233
 00:11:44,580 --> 00:11:47,430
 而我无论如何也不能确切地确定原因 
-And I for the life of me couldn't ascertain exactly as to why.
 
 234
 00:11:47,430 --> 00:11:49,410
 我知道这是万向节锁 
-I know it's gimbal lock.
 
 235
 00:11:49,410 --> 00:11:52,394
 不幸的是 我无法及时对其进行调试 
-Unfortunately, I was unable to debug it quite in time.
 
 236
 00:11:52,394 --> 00:11:54,810
 但每隔一面墙 包括天花板和地板 
-But every other wall, including the ceiling and the floor,
 
 237
 00:11:54,810 --> 00:11:56,632
 如果你向他们发射传送门就行了 
-will work if you shoot a portal up on them.
 
 238
 00:11:56,632 --> 00:11:59,340
 所以你可以在上面创建一个 然后你就可以跳过它 
-So you can create one up there, and then you can jump through it.
 
 239
 00:11:59,340 --> 00:12:04,050
 看看它是怎么往下看的 然后它就会把你放在顶端 
-See how it's looking down, and then it'll put you at the top.
 
 240
 00:12:04,050 --> 00:12:09,160
 总而言之 除去万向节锁住传送门的奇怪的单一墙壁 
-And altogether, minus the weird single wall that gimbal locks the portal,
 
 241
 00:12:09,160 --> 00:12:11,370
 我们有一个非常实用的实现
-we have a pretty functional implementation
 
 242
 00:12:11,370 --> 00:12:13,950
 一款非常基本的门户游戏 对吧？
-of a very basic portal game, right?
 
 243
 00:12:13,950 --> 00:12:17,022
 我们有这样一个模式 就是在镜头前为人父母 
-We have this model here is parenting to the camera.
 
 244
 00:12:17,022 --> 00:12:19,980
 所以它总是会看向与相机完全相同的方向 
-So it's always going to look in the exact same direction as the camera.
 
 245
 00:12:19,980 --> 00:12:23,970
 我们从枪尖射出一束光线 然后
-We shoot a ray from the tip of the gun, and then
 
 246
 00:12:23,970 --> 00:12:27,510
 每当光线与平面相交 在这种情况下 这些墙中的任何一面 
-whenever that ray intersects with a plane, in this case any of these walls,
 
 247
 00:12:27,510 --> 00:12:29,760
 我们得到了关于交叉口的信息
-we get the information about the intersection
 
 248
 00:12:29,760 --> 00:12:35,530
 我们翻转传送门贴花 这样它就
-and we flip the portal decal so that it's
 
 249
 00:12:35,530 --> 00:12:38,700
 与墙旋转的角度相同 
-the same angle as the wall rotation.
 
 250
 00:12:38,700 --> 00:12:43,020
 然后 当我们实际上与其中一个入口相撞时会发生什么
-And then what happens when we actually collide with one of the portals just
 
 251
 00:12:43,020 --> 00:12:45,570
 在代码中 如果我们考虑如何实现
-in code if we were to think about how to implement
 
 252
 00:12:45,570 --> 00:12:48,432
 在这里发生的行为？
-the behavior that goes on here?
 
 253
 00:12:48,432 --> 00:12:49,640
 它是在运送球员 
-It's transporting the player.
 
 254
 00:12:49,640 --> 00:12:53,210
 它有效地设置了球员转换后的位置
-And it's doing effectively setting the player's transformed position
 
 255
 00:12:53,210 --> 00:12:56,900
 设置到与门户相同的变换位置 
-to the same transform position as the portal.
 
 256
 00:12:56,900 --> 00:12:59,960
 现在 如果我们在轮换时做同样的事情 
-Now, if we do the same thing on the rotation,
 
 257
 00:12:59,960 --> 00:13:04,700
 FPS控制器的旋转有点歪斜
-the FPS controller's rotation gets a bit skewed
 
 258
 00:13:04,700 --> 00:13:09,240
 如果您弄乱了它的X和Z旋转 默认控制器 
-if you mess with it's X and Z rotation, the default controller.
 
 259
 00:13:09,240 --> 00:13:13,860
 所以我们现在所做的就是保持这些值 X和Y旋转 
-So all we do for now is we just keep those values, the X and Y rotation,
 
 260
 00:13:13,860 --> 00:13:15,560
 但我们只是改变了Y旋转 
-but we just change the Y rotation.
 
 261
 00:13:15,560 --> 00:13:19,830
 Y旋转是它在空间中的位置 就像这样 
-Y rotation is its position in space like this effectively.
 
 262
 00:13:19,830 --> 00:13:22,340
 所以当我们从墙里跳出来的时候 
-So that allows us to get when we jump out of the wall,
 
 263
 00:13:22,340 --> 00:13:26,240
 我们注意到他是扁平的 但如果我们跳过任何一面墙
-we notice that he's flat from it, but if we jump through any of the wall
 
 264
 00:13:26,240 --> 00:13:29,360
 传送门--如果你在这里的墙上创建传送门 
-portals-- so if you create a portal on the wall here,
 
 265
 00:13:29,360 --> 00:13:34,240
 然后跳过它 你会注意到你有点成角度
-and then jump through it, you'll notice that you're sort of angled
 
 266
 00:13:34,240 --> 00:13:36,120
 在右边--
-at the right--
 
 267
 00:13:36,120 --> 00:13:38,970
 它倾斜的原因是因为这个是颠倒的 
-and the reason that it's skewed is because this one is upside down.
 
 268
 00:13:38,970 --> 00:13:42,600
 因此 它翻转了渲染纹理的相机
-And so it's flipping the camera that's rendering the texture
 
 269
 00:13:42,600 --> 00:13:44,100
 它看起来有点奇怪 
-and it's looking a little bit weird.
 
 270
 00:13:44,100 --> 00:13:48,930
 但当你跳过时 它基本上保持了你的X和Z 
-But when you jump through, it basically keeps your X and Z,
 
 271
 00:13:48,930 --> 00:13:51,600
 但旋转你的Y位置 这样你就出来了
-but rotates your Y position so that you come out
 
 272
 00:13:51,600 --> 00:13:55,320
 看起来就像是直接通过了入口 而不是默认的 
-looking as if you went straight through the portal, rather than by default,
 
 273
 00:13:55,320 --> 00:13:58,949
 它让你回头看你出来的门户 这有点奇怪 
-it has you look back at the portal that you came out of, which is a bit weird.
 
 274
 00:13:58,949 --> 00:14:00,990
 或者无论你朝哪个方向穿过它
-Or whatever direction you were walking through it
 
 275
 00:14:00,990 --> 00:14:02,948
 当你穿过传送门的时候 
-when you went through the portal.
 
 276
 00:14:02,948 --> 00:14:07,400
 观众：你怎么弄到镜子[INAUDIBLE] 这样你就能看到你自己了？
-AUDIENCE: How are you getting the mirror [INAUDIBLE] so you can see yourself?
 
 277
 00:14:07,400 --> 00:14:11,140
 科尔顿·奥格登：这是默认设置 因为它是渲染纹理 
-COLTON OGDEN: That's just default because it's a render texture.
 
 278
 00:14:11,140 --> 00:14:14,830
 所以每个入口后面实际上都有一个摄像头 
-So there's a camera actually behind each of these portals.
 
 279
 00:14:14,830 --> 00:14:17,170
 因此 预制是一个带有渲染纹理的网格 
-So the prefab is a mesh with a render texture.
 
 280
 00:14:17,170 --> 00:14:19,150
 然后在它的后面 有一个摄像头 
-And then behind it, there's a camera.
 
 281
 00:14:19,150 --> 00:14:22,330
 因此 摄像机正在实时呈现入口前的情况 
-And so, the camera is rendering in real time what's in front of the portal,
 
 282
 00:14:22,330 --> 00:14:23,980
 基本上 是从它的后面 
-basically, from behind it.
 
 283
 00:14:23,980 --> 00:14:28,450
 所以它从这两个门户看到了你的模型 
-And so it's seeing your model from both of these portals,
 
 284
 00:14:28,450 --> 00:14:30,730
 两个摄像头都能看到你的模特 所以它就出现了
-both cameras are seeing your model, and so it shows up
 
 285
 00:14:30,730 --> 00:14:35,150
 在另一个门户上的渲染纹理中 
-in the render texture on the other portal.
 
 286
 00:14:35,150 --> 00:14:39,910
 因此 这实际上就像是在看两个摄像机 而不是一个门户 
-So it's effectively like looking at two video cameras instead of a portal.
 
 287
 00:14:39,910 --> 00:14:41,740
 这是一种诡计 
-It's sort of a trick.
 
 288
 00:14:41,740 --> 00:14:43,930
 这是“门户”的一个非常粗糙的实现 
-And this is a very crude implementation of "Portal,"
 
 289
 00:14:43,930 --> 00:14:47,650
 实际的游戏使用了一个复杂得多的算法--
-the actual game uses a much more sophisticated algorithm for--
 
 290
 00:14:47,650 --> 00:14:50,950
 它还可以用摄像头跟踪你的位置
-and it also tracks your position with the camera
 
 291
 00:14:50,950 --> 00:14:53,140
 所以根据你的旋转角度 你会
-so that based on your angle of rotation, you'll
 
 292
 00:14:53,140 --> 00:14:56,007
 实际上在那里的纹理上看到了一些不同的东西 
-actually see something different on the texture there.
 
 293
 00:14:56,007 --> 00:14:58,840
 但把这样的东西放在一起要复杂得多 
-But it's a lot more complicated to put something like that together.
 
 294
 00:14:58,840 --> 00:15:02,089
 我有一些资源 我已经在作业的讲课中包含了
-I have some resources that I've included in the lecture in the assignment that
 
 295
 00:15:02,089 --> 00:15:04,960
 将会向你展示如何做到这一点 
-will show you actually how to do that.
 
 296
 00:15:04,960 --> 00:15:10,500
 但这比我制作这个演示所需的时间要多得多 
-But it would take many, many more hours than I had to put this demo together.
 
 297
 00:15:10,500 --> 00:15:12,250
 观众：是的 现在只是修好了 
-AUDIENCE: Yeah, right now it's just fixed.
 
 298
 00:15:12,250 --> 00:15:12,930
 科尔顿·奥格登：是的 已经修好了 
-COLTON OGDEN: Yeah it's fixed.
 
 299
 00:15:12,930 --> 00:15:14,638
 如果你真的从侧面看 
-If you actually look at it from the side,
 
 300
 00:15:14,638 --> 00:15:17,050
 你会注意到它只是一个平坦的纹理 
-you'll notice that it's just a flat texture.
 
 301
 00:15:17,050 --> 00:15:18,140
 没有远见 
-There's no perspective.
 
 302
 00:15:18,140 --> 00:15:19,840
 归根结底 它的视角 
-Ultimately, its perspective.
 
 303
 00:15:19,840 --> 00:15:22,270
 有一个很棒的视频 我要去看
-And there's an awesome video that I'm going
 
 304
 00:15:22,270 --> 00:15:25,720
 在稍后的幻灯片中 一位名叫Braxis的YouTuber展示了他实际上
-to show later in the slides by a YouTuber named Braxis where he actually
 
 305
 00:15:25,720 --> 00:15:31,720
 实现一个透视正确的着色器 允许您查看 
-implements a perspective correct shader that allows you to see,
 
 306
 00:15:31,720 --> 00:15:33,730
 并用摄像机跟踪玩家 
-and with camera tracking of the player.
 
 307
 00:15:33,730 --> 00:15:36,190
 就像两个摄像头都会跟踪玩家的位置一样 
-Like both cameras will track the position of the player,
 
 308
 00:15:36,190 --> 00:15:39,250
 以及渲染纹理 
-as well as render a texture.
 
 309
 00:15:39,250 --> 00:15:42,640
 其结果是因为摄像机正在改变它们的位置 
-And the result of that is because the cameras are changing their position,
 
 310
 00:15:42,640 --> 00:15:45,220
 这有点像改变场景的角度
-it's sort of like changing the angle at which the scene is
 
 311
 00:15:45,220 --> 00:15:48,220
 被渲染到门户网格上 
-being rendered onto the portal mesh.
 
 312
 00:15:48,220 --> 00:15:51,050
 但它的绘制方式也有一点不同 
-But also the way that it's being drawn is a little bit different,
 
 313
 00:15:51,050 --> 00:15:52,870
 因此 他有一个非常酷的着色器来实现这一点 
-and so he has a really cool shader that does that.
 
 314
 00:15:52,870 --> 00:15:54,250
 然后Vavle 当他们出现的时候 他们会
-And then Vavle, when they present, they'll
 
 315
 00:15:54,250 --> 00:15:57,440
 实际上展示了他们是如何做的 这甚至更复杂 
-actually show how they went about doing it, which is even more complex,
 
 316
 00:15:57,440 --> 00:16:02,410
 但它看起来真的很好 在技术上更有趣 
-but it looks really good and is a lot more technically interesting.
 
 317
 00:16:02,410 --> 00:16:06,610
 但是 是的 这是我的基本实现
-But yeah, that's my sort bare bones implementation
 
 318
 00:16:06,610 --> 00:16:09,230
 是什么让“门户”发挥作用 
-of what makes "Portal" work.
 
 319
 00:16:09,230 --> 00:16:13,690
 穿过这些入口是一件很有趣的事
-And it's somewhat fun to walk through these portals
 
 320
 00:16:13,690 --> 00:16:15,670
 就像是在玩弄它 
-and just sort of play around with it.
 
 321
 00:16:15,670 --> 00:16:21,310
 现在 如果你走进一个蓝色的门户 它不起作用的原因是
-Now the reason that if you just walk into a blue portal it doesn't work
 
 322
 00:16:21,310 --> 00:16:24,700
 是因为门户实际上存储在屏幕之外 直到您使用它们 
-is because the portals are actually stored off screen until you use them.
 
 323
 00:16:28,144 --> 00:16:29,310
 我将在这里打开场景 
-I'll open up the scene here.
 
 324
 00:16:29,310 --> 00:16:30,890
 哦 顺便说一句 谢谢詹姆斯来看演示 
-Oh, by the way, thanks James for coming up to demo.
 
 325
 00:16:30,890 --> 00:16:31,780
 我很感激 
-I appreciate it.
 
 326
 00:16:31,780 --> 00:16:35,650
 所以入口在这里 对吗？
-So the portals are over here, right?
 
 327
 00:16:35,650 --> 00:16:37,370
 他们两个都在这里 
-Both of them are right here.
 
 328
 00:16:37,370 --> 00:16:41,540
 因此 当你只射杀其中一人时 
-And so what that does is when you only shoot one of them,
 
 329
 00:16:41,540 --> 00:16:44,170
 另一个还在这里 所以当你走过它的时候
-the other one is still out here, so when you walk through it
 
 330
 00:16:44,170 --> 00:16:46,300
 你最终只是在水平之外进行心灵传送 
-you end up just teleporting outside the level.
 
 331
 00:16:46,300 --> 00:16:49,090
 为了不让这种情况发生 你真正需要做的是
-And in order to not have that happen, what you really need to do
 
 332
 00:16:49,090 --> 00:16:51,760
 两个人身上都有一面旗子 上面写着
-is have a flag on both of them that just says
 
 333
 00:16:51,760 --> 00:16:54,372
 除非你中过一枪 否则不要传送 对吗？
-don't teleport unless you've been shot once, right?
 
 334
 00:16:54,372 --> 00:16:56,830
 这将防止这种行为的发生 
-And that will prevent that sort of behavior from happening.
 
 335
 00:16:56,830 --> 00:17:01,600
 简单的解决办法 但一个有趣的看一看 
-Simple fix, but an entertaining one to take a look at.
 
 336
 00:17:01,600 --> 00:17:05,260
 这就是我对“门户”的粗略实现 
-And that is my crude implementation of "Portal."
 
 337
 00:17:05,260 --> 00:17:10,510
 它远没有真正的游戏那么完美 
-It's far from being anywhere near as polished as the actual game.
 
 338
 00:17:10,510 --> 00:17:13,270
 还有一堵小小的奇怪的墙 那个万向节
-And there is the slight weird wall that gimbal
 
 339
 00:17:13,270 --> 00:17:17,680
 锁住了传送门 我想弄清楚这到底是为什么 
-locks the portal, which I would like to figure out why exactly that is.
 
 340
 00:17:17,680 --> 00:17:19,920
 但其他的东西都在这里 
-But everything else is sort of in here.
 
 341
 00:17:19,920 --> 00:17:25,000
 现在 它不包括像通过它投篮这样的东西 
-Now, it doesn't include something like shooting blocks through it,
 
 342
 00:17:25,000 --> 00:17:26,950
 但同样的原则也适用于
-but the same sort of principles would apply
 
 343
 00:17:26,950 --> 00:17:30,280
 因为我们在门户上所做的一切实际上就是在说--
-because all we're effectively doing on the portal is saying--
 
 344
 00:17:30,280 --> 00:17:32,170
 它基本上是一个引爆器 对吗？
-it's basically a trigger, right?
 
 345
 00:17:32,170 --> 00:17:35,590
 上面有个盒子对撞机 上面写着如果我撞到什么东西 
-It's got a box collider on it, and it says if I collide with something,
 
 346
 00:17:35,590 --> 00:17:39,700
 在这种情况下 玩家 我想传送对撞机
-and in this case the player, I want to teleport that collider
 
 347
 00:17:39,700 --> 00:17:42,512
 到另一个门户 这意味着这些门户有点像
-to the other portal, which means that the portals sort of have
 
 348
 00:17:42,512 --> 00:17:43,720
 相互链接 对吗？
-to link to each other, right?
 
 349
 00:17:43,720 --> 00:17:45,970
 一个门户必须引用另一个门户
-One portal has to have a reference to the other portal
 
 350
 00:17:45,970 --> 00:17:48,640
 这样它就可以说 “传送到链接的门户 ”
-so that it can say, "Teleport to the linked portal."
 
 351
 00:17:48,640 --> 00:17:51,397
 反之亦然 链接门户应该有一个参考
-And vise versa, the link portal should have a reference
 
 352
 00:17:51,397 --> 00:17:53,230
 到其他门户网站 上面写着 “远程传送
-to the other portals that can say, "Teleport
 
 353
 00:17:53,230 --> 00:17:55,090
 如果你撞到这个 就会后退 “
-back if you collide with this."
 
 354
 00:17:55,090 --> 00:17:58,630
 所以 如果我们有另一个物体--比如说 我们向传送门发射一个立方体 
-And so, if we have another object-- like say, we shoot a cube into the portal,
 
 355
 00:17:58,630 --> 00:18:03,010
 它也会被传送到另一个入口 对吗？
-it would also get teleported to the other portal, right?
 
 356
 00:18:03,010 --> 00:18:06,240
 另一个需要考虑的问题是 如果它是刚体
-And the other consideration for that is like if its a rigid body
 
 357
 00:18:06,240 --> 00:18:08,500
 例如 它应用了物理学 
-and it has physics applied to it, for example,
 
 358
 00:18:08,500 --> 00:18:11,950
 假设它在X上的速度是10 它传送
-let's say its going like 10 on the X and it teleports
 
 359
 00:18:11,950 --> 00:18:16,122
 到一个垂直于它的入口 它仍然是10到X 
-to a portal that's perpendicular to it and it's still going 10 to the X,
 
 360
 00:18:16,122 --> 00:18:17,830
 一旦它从传送门发射出去 
-then as soon as it shoots out the portal,
 
 361
 00:18:17,830 --> 00:18:19,990
 它会一直向左转 这不是我们想要的行为 
-it's going to go straight left, which isn't the behavior we want.
 
 362
 00:18:19,990 --> 00:18:21,470
 我们希望它能向前发展 
-We want it to go forward.
 
 363
 00:18:21,470 --> 00:18:27,400
 因此 线速度需要校准
-So linear velocity needs to be calibrated
 
 364
 00:18:27,400 --> 00:18:28,961
 朝着不同的方向前进 
-to go in a different direction.
 
 365
 00:18:28,961 --> 00:18:31,460
 没有足够的时间来制作一个完整的演示 
-Didn't have enough time to put a full demo of that together,
 
 366
 00:18:31,460 --> 00:18:33,400
 但如果你很好奇 简而言之 那就是
-but if you were curious, in a nutshell, that's
 
 367
 00:18:33,400 --> 00:18:35,900
 有点像您需要做的事情 以实现
-sort of like what you would need to do in order to implement
 
 368
 00:18:35,900 --> 00:18:40,540
 关于《门户》的一些基本物理知识 
-some basic physics with "Portal."
 
 369
 00:18:40,540 --> 00:18:41,434
 所以拿着武器 
-So holding a weapon.
 
 370
 00:18:41,434 --> 00:18:43,350
 根据这张截图 有谁能告诉我
-Based on this screen shot, can anybody tell me
 
 371
 00:18:43,350 --> 00:18:46,830
 他们认为我从一个普通的FBS控制员 
-how they think I went from just a plain FBS controller,
 
 372
 00:18:46,830 --> 00:18:50,522
 一名手持枪支的联邦调查局控制员 
-to an FBS controller holding a gun.
 
 373
 00:18:50,522 --> 00:18:53,480
 观众：你能像一把枪一样--
-AUDIENCE: Can you stick a gun, like one--
 
 374
 00:18:53,480 --> 00:18:59,359
 他们把它叫做有色像素吗--相机前面的一个单元？
-do they call it colored pixels-- one unit in front of the camera?
 
 375
 00:18:59,359 --> 00:19:00,150
 科尔顿·奥格登：是的 
-COLTON OGDEN: Yeah.
 
 376
 00:19:00,150 --> 00:19:04,210
 3D空间中的像素并不一定是一个概念
-There's not really a notion necessarily of pixels in 3D space
 
 377
 00:19:04,210 --> 00:19:06,340
 因为这取决于你的分辨率 
-because that changes depending on your resolution.
 
 378
 00:19:06,340 --> 00:19:09,460
 但是 是的 联合部队--
-But yes, Unity units--
 
 379
 00:19:09,460 --> 00:19:13,210
 它实际上相当于一米 你可以改变
-it's effectively equivalent to a meter, and you can change
 
 380
 00:19:13,210 --> 00:19:16,660
 它在Unity设置中表示的内容 
-what it represents in Unity settings.
 
 381
 00:19:16,660 --> 00:19:17,260
 不过 是的 
-But yeah.
 
 382
 00:19:17,260 --> 00:19:19,700
 我的意思是 这不一定是一个单位 
-I mean, it doesn't necessarily have to be one unit.
 
 383
 00:19:19,700 --> 00:19:21,250
 它可以是一个任意的数量 
-It can be an arbitrary amount.
 
 384
 00:19:21,250 --> 00:19:25,000
 而我真正要做的就是带着这个模特来到这里 
-And what it really was me going into here with this model.
 
 385
 00:19:25,000 --> 00:19:27,440
 顺便说一句 我在评估商店免费买到了这个模型 
-By the way, I got this model on the Assess Store for free.
 
 386
 00:19:27,440 --> 00:19:29,290
 因此 如果你正在寻找 评估商店是一个很棒的地方
-So the Assess Store is an awesome place if you're looking
 
 387
 00:19:29,290 --> 00:19:31,070
 来快速制作你的游戏原型 
-to just quickly prototype your game.
 
 388
 00:19:31,070 --> 00:19:35,197
 他们没有任何明显的类似传送门的枪 看起来真的很好 
-They didn't have any obvious portal gun lookalikes that looked really good.
 
 389
 00:19:35,197 --> 00:19:37,780
 所以我就说 “哦 这些枪的颜色都一样 
-So I was like, "Oh, this guns got like the same kind of color.
 
 390
 00:19:37,780 --> 00:19:38,696
 我就选这个吧 
-I'll just choose this.
 
 391
 00:19:38,696 --> 00:19:41,170
 就像科幻小说里的枪“
-It's like a sci-fi kind of gun."
 
 392
 00:19:41,170 --> 00:19:44,440
 但你也看到了这里有等级制度 
-But as you can see, there's a hierarchy here.
 
 393
 00:19:44,440 --> 00:19:53,520
 现在 我们怎么把枪固定在摄像头所看到的地方 
-Now, how are we keeping the gun affixed to where the camera is looking,
 
 394
 00:19:53,520 --> 00:19:54,424
 我们知道吗？
-do we know?
 
 395
 00:19:54,424 --> 00:19:59,364
 观众：你做的事情和你做的第一人称射击游戏一样
-AUDIENCE: You do the same thing as you do with the first person shooter
 
 396
 00:19:59,364 --> 00:20:06,359
 密码是让摄像机跟着枪走或者反过来
-code is you have the camera follow the gun or vice versa.
 
 397
 00:20:06,359 --> 00:20:08,400
 科尔顿·奥格登：你让摄像机跟着枪 
-COLTON OGDEN: You have the camera follow the gun.
 
 398
 00:20:08,400 --> 00:20:10,317
 你对我们的进展有什么猜测吗？
-Do you have any guesses to how we're doing?
 
 399
 00:20:10,317 --> 00:20:12,150
 这其实是一件非常非常简单的事情 
-It's actually a really, really simple thing.
 
 400
 00:20:17,030 --> 00:20:19,970
 观众：我知道我在做 但是[听不见]
-AUDIENCE: I know i'm doing it, but [INAUDIBLE]
 
 401
 00:20:19,970 --> 00:20:21,410
 科尔顿·奥格登：所以我们所做的一切--
-COLTON OGDEN: So all we're doing--
 
 402
 00:20:21,410 --> 00:20:22,556
 噢 史蒂文 
-Oh, Steven.
 
 403
 00:20:22,556 --> 00:20:28,780
 观众：我想问的是 你把摄像机设置成
-AUDIENCE: I was going to say do you set the cameras to transform
 
 404
 00:20:28,780 --> 00:20:31,070
 如[不可闻] 
-as [INAUDIBLE].
 
 405
 00:20:34,754 --> 00:20:37,420
 枪的变形有偏移量吗 比如同一个方向
-Do the guns transform with an offset, like in the same direction
 
 406
 00:20:37,420 --> 00:20:38,829
 但有位置偏移吗
-but with a position offset?
 
 407
 00:20:38,829 --> 00:20:39,620
 是的 
-COLTON OGDEN: Yeah.
 
 408
 00:20:39,620 --> 00:20:40,119
 算是吧
-Kind of.
 
 409
 00:20:40,119 --> 00:20:44,230
 除了枪变换到相机变换 但只是有一个偏移 
-Except the guns transform to the cameras transform, but just with an offset.
 
 410
 00:20:44,230 --> 00:20:46,430
 这就是我们正在做的 
-And that is effectively what we're doing.
 
 411
 00:20:46,430 --> 00:20:48,380
 为了实现这一目标 
-And in order to accomplish that, it's really
 
 412
 00:20:48,380 --> 00:20:52,430
 就像让它成为那个东西的孩子一样简单 
-as simple as just making it a child of that thing.
 
 413
 00:20:52,430 --> 00:20:55,760
 这是第一人称角色控制器 
-So this is the first person character controller.
 
 414
 00:20:55,760 --> 00:20:57,600
 上面有个摄像头 
-It's got a camera attached to it.
 
 415
 00:20:57,600 --> 00:21:01,640
 任何你把别的东西变成孩子的东西 
-Anything that you make a child of something else,
 
 416
 00:21:01,640 --> 00:21:06,090
 它也会有同样的变化
-it's going to have the same transform changes applied to it,
 
 417
 00:21:06,090 --> 00:21:07,520
 包括轮换 
-including rotation.
 
 418
 00:21:07,520 --> 00:21:11,000
 所以通过把枪做成第一人称角色的孩子 
-So by making the gun just a child of the first person character, which
 
 419
 00:21:11,000 --> 00:21:12,419
 就是摄像机的位置
-is where the camera is here--
 
 420
 00:21:12,419 --> 00:21:14,210
 第一人称角色 顺便说一下 
-first person character, by the way, is just
 
 421
 00:21:14,210 --> 00:21:16,590
 FPS控制器的子组件 我将其重命名为
-a subcomponent of the FPS controller, which I renamed
 
 422
 00:21:16,590 --> 00:21:19,190
 传送门枪FPS控制器
-to portal gun FPS controller here.
 
 423
 00:21:19,190 --> 00:21:21,500
 传送门枪 任何时候这个第一人称角色
-The portal gun, anytime this first person character
 
 424
 00:21:21,500 --> 00:21:24,770
 也就是摄像机 所以只要摄像机旋转 
-is rotated, which is the camera, so anytime the camera is rotated,
 
 425
 00:21:24,770 --> 00:21:28,820
 它会将旋转作用到传送门枪上 这个枪网
-it applies that rotation to the portal gun here, this gun mesh.
 
 426
 00:21:28,820 --> 00:21:30,390
 所以 这给了你效果 
-And so, that gives you the effect.
 
 427
 00:21:30,390 --> 00:21:36,546
 所以你要做的就是在3D空间里像这样开始 
-So what you do is you start it off in 3D space like this.
 
 428
 00:21:36,546 --> 00:21:39,170
 你在看你的游戏场景 你有你的角色 
-You're looking at your game scene, and you have your character.
 
 429
 00:21:39,170 --> 00:21:41,360
 然后你移动你的枪支物体 
-And then you move your gun object around.
 
 430
 00:21:41,360 --> 00:21:45,839
 在这种情况下 让我们从两个布局到三个布局 
-In this case, let's go to layouts two by three.
 
 431
 00:21:45,839 --> 00:21:47,130
 所以你可以实时看到它 
-So you can see it in real time.
 
 432
 00:21:47,130 --> 00:21:50,088
 这是游戏视图 这是在Startup上的样子 
-This is the game view, this is what it's going to look like on Startup.
 
 433
 00:21:50,088 --> 00:21:55,760
 我将在这里转到我的编辑视图 
-I'm going to go over to my editor view here.
 
 434
 00:21:55,760 --> 00:22:00,710
 我只需要在这里拿到实际的枪支部件 
-And I'm just going to grab the actual gun component here,
 
 435
 00:22:00,710 --> 00:22:02,450
 我应该说的是枪支物体 
-the gun object I should say.
 
 436
 00:22:02,450 --> 00:22:05,310
 去把它放好 我就可以移动它了 对吗？
-Go and position it, and I can just move it, right?
 
 437
 00:22:05,310 --> 00:22:10,227
 这就是你如何改变你的枪相对于相机的位置 
-And so this is how you can change where your gun is relative to the camera.
 
 438
 00:22:10,227 --> 00:22:12,560
 这会影响它的感觉 对吗？
-And this is going to affect sort of how it feels, right?
 
 439
 00:22:12,560 --> 00:22:15,470
 就像我可以把它放在这里 它有点低 我可以把它放在这里 
-Like I could put it here and it's kind of a little lower, I could put it here,
 
 440
 00:22:15,470 --> 00:22:17,780
 这显然感觉有点奇怪 因为它没有手在上面 
-it feels a little weird obviously because it doesn't have a hand on it.
 
 441
 00:22:17,780 --> 00:22:19,690
 因此 它看起来几乎就像一款VR游戏 
-So it almost looks like a VR game.
 
 442
 00:22:19,690 --> 00:22:23,090
 这就是VR游戏所做的 它们会占据你的手的位置
-And that's kind of what VR games do is they take your hand positions
 
 443
 00:22:23,090 --> 00:22:26,930
 然后枪的变形基本上锁定在你手的位置
-and then the gun transform is locked to basically where your hand
 
 444
 00:22:26,930 --> 00:22:28,889
 控制器是 
-controllers are.
 
 445
 00:22:28,889 --> 00:22:30,930
 在这种情况下 我所做的只是定位它 
-In this case, all I did was I just positioned it.
 
 446
 00:22:30,930 --> 00:22:34,200
 我说：“我喜欢它现在的样子 所以我就这么做 ”
-I said, "I like how it looks right here, so I'm just going to do that."
 
 447
 00:22:34,200 --> 00:22:37,074
 一旦我让它成为第一人称角色的孩子 
-And as soon as I make it a child of the first person character, which
 
 448
 00:22:37,074 --> 00:22:40,200
 就是相机 它只会把所有的旋转都应用到它身上 
-is the camera, it's just going to get all the rotations applied to it.
 
 449
 00:22:40,200 --> 00:22:45,500
 所以 每当我们像我在这里所做的那样 对着摄像机做任何旋转 
-So anytime we make any rotations to the camera, which I'm doing here,
 
 450
 00:22:45,500 --> 00:22:49,340
 它与相机保持精确对准 
-it stays exactly aligned with the camera.
 
 451
 00:22:49,340 --> 00:22:52,310
 这适用于您在Unity中执行的任何操作
-This applies to any operation that you do in Unity
 
 452
 00:22:52,310 --> 00:22:55,650
 进行任何类型的变换时 位置比例都会发生变化 
-when you make any sort of transform position scale changes.
 
 453
 00:22:55,650 --> 00:22:59,210
 它们都是沿着链条传播的 
-They all get propagated down the chain.
 
 454
 00:22:59,210 --> 00:23:01,340
 属于以下对象的子级的所有对象
-All the objects that are children of an object that
 
 455
 00:23:01,340 --> 00:23:05,024
 应用于它们的Get Transform操作将具有相同的Transform操作
-get transform operations applied to them will have the same transform operations
 
 456
 00:23:05,024 --> 00:23:05,690
 适用于他们 
-applied to them.
 
 457
 00:23:05,690 --> 00:23:07,680
 有点像这种递归的效果 
-Sort of like this recursive kind of effect.
 
 458
 00:23:07,680 --> 00:23:08,814
 嗯?
-Yeah?
 
 459
 00:23:08,814 --> 00:23:11,766
 观众：所以如果你导入第一人称控制器 
-AUDIENCE: So if you import the first person controller,
 
 460
 00:23:11,766 --> 00:23:14,718
 [听不见]有跳跃和左右移动 
-[INAUDIBLE] has jump and moves left and right.
 
 461
 00:23:14,718 --> 00:23:21,114
 然后你只需移动你的资产 你的枪 放在控制器下面 
-And then you just move your asset, your gun, to be underneath that controller,
 
 462
 00:23:21,114 --> 00:23:22,120
 它就会跟着来吗？
-it would just follow?
 
 463
 00:23:22,120 --> 00:23:23,036
 科尔顿·奥格登：正确 
-COLTON OGDEN: Correct.
 
 464
 00:23:23,036 --> 00:23:27,070
 所以如果你只是导入香草FPS控制器 然后只是使枪 
-So if you just import the vanilla FPS controller, and then just make the gun.
 
 465
 00:23:27,070 --> 00:23:30,160
 具体来说 枪需要是这个的孩子 第一人称
-Specifically, the gun needs to be a child of this, the first person
 
 466
 00:23:30,160 --> 00:23:32,230
 因为它有摄像头
-character bit because that has the camera.
 
 467
 00:23:32,230 --> 00:23:34,960
 回想一下 相机是驱动我们旋转的 对吗？
-And recall, the camera is what's driving our rotation, right?
 
 468
 00:23:34,960 --> 00:23:37,422
 因为我们用鼠标移动摄像机的旋转 
-Because we're moving the camera's rotation with our mouse.
 
 469
 00:23:37,422 --> 00:23:39,130
 这将最终决定
-That is ultimately going to determine how
 
 470
 00:23:39,130 --> 00:23:40,720
 该变换被应用于枪 
-the transform gets applied to the gun.
 
 471
 00:23:40,720 --> 00:23:42,310
 但我知道
-But yes.
 
 472
 00:23:42,310 --> 00:23:45,970
 所以每当我们在Unity中做任何事情时--你会做很多事情
-And so whenever we're doing anything in Unity-- and you'll do a lot of things
 
 473
 00:23:45,970 --> 00:23:49,936
 一个物体的移动、缩放或旋转应该应用于另一个物体 
-where one things movement or scale or rotation should apply to another thing,
 
 474
 00:23:49,936 --> 00:23:52,060
 记住这通常就像
-just remember that's usually just as easy as making
 
 475
 00:23:52,060 --> 00:23:54,730
 它是别的东西的孩子 
-it a child of something else.
 
 476
 00:23:54,730 --> 00:24:00,500
 关于我们是如何实施武器的还有其他问题吗？
-So any other questions as to how we've gone about implementing the weapon?
 
 477
 00:24:00,500 --> 00:24:01,580
 好吧
-All right.
 
 478
 00:24:01,580 --> 00:24:02,530
 所以光线投射 
-So ray casting.
 
 479
 00:24:02,530 --> 00:24:06,620
 所以光线投射是Unity免费提供的一个很好的功能 
-So ray casting is a nice feature that Unity gives you for free.
 
 480
 00:24:06,620 --> 00:24:09,980
 它是Unity中物理命名空间的一部分 
-It's part of the physics sort of name space in Unity.
 
 481
 00:24:09,980 --> 00:24:11,960
 脚本API的一部分 
-Part of the scripting API.
 
 482
 00:24:11,960 --> 00:24:15,560
 它能让你有效地
-And what it allows you to do is effectively
 
 483
 00:24:15,560 --> 00:24:18,080
 从你正在进行的任何变换中看 
-look at from whatever transform you're operating at,
 
 484
 00:24:18,080 --> 00:24:21,210
 或者你把它作为源的任何变换 
-or whatever transform you give it as the source,
 
 485
 00:24:21,210 --> 00:24:25,280
 所以无论你给它一个点作为源 你都可以告诉它一个方向 
-so whatever point you give it as the source, you can tell a direction,
 
 486
 00:24:25,280 --> 00:24:27,620
 给它一个矢量作为方向 
-give it a vector as a direction.
 
 487
 00:24:27,620 --> 00:24:31,040
 在这种情况下 我们要做的就是transform. forward 
-In this case, what we're doing is we're saying transform.forward.
 
 488
 00:24:31,040 --> 00:24:33,920
 transform.forward的意思是
-And transform.forward just means basically
 
 489
 00:24:33,920 --> 00:24:37,200
 无论我们看X和Y 然后直接在Z方向 
-wherever we're looking X and Y, and then straight in the Z direction.
 
 490
 00:24:37,200 --> 00:24:39,290
 所以如果你在摄像机前做 
-So if you're doing it on a camera, it's always
 
 491
 00:24:39,290 --> 00:24:41,130
 就跟你现在看到的一样
-going to be exactly what you're looking at.
 
 492
 00:24:41,130 --> 00:24:43,270
 它总是向前的
-It's always going to be exactly forward on the--
 
 493
 00:24:43,270 --> 00:24:47,270
 transform.相机的前向总是像屏幕的中心
-transform.foward on a camera is always going to be like center of the screen
 
 494
 00:24:47,270 --> 00:24:48,780
 无论你在哪里看 
-wherever you're looking at.
 
 495
 00:24:48,780 --> 00:24:52,040
 所以如果我们从我们的性格出发--
-And so if we cast a ray from the point of our character--
 
 496
 00:24:52,040 --> 00:24:54,530
 或者说我们是用枪来完成的
-or actually we're doing it from the point of our gun,
 
 497
 00:24:54,530 --> 00:24:59,780
 到transform.forward--就像一条从玩家到transform的线
-to the transform.forward-- like a line going from our player to transform
 
 498
 00:24:59,780 --> 00:25:06,020
 它的特征的前向矢量 我们的相机的前向矢量 
-the forward vector of its character, the forward vector of our camera,
 
 499
 00:25:06,020 --> 00:25:09,110
 它将产生这样的效果--
-it's going to have the effect of--
 
 500
 00:25:09,110 --> 00:25:11,330
 我们可以射击一些东西 对吗？
-we can shoot something, right?
 
 501
 00:25:11,330 --> 00:25:16,250
 我们可以创建光线投射 然后在光线相交的任何地方附加一些东西 
-We can create a ray cast and then affix something wherever that ray intersects.
 
 502
 00:25:16,250 --> 00:25:19,000
 它将位于我们相机视野的正中央 
-And it'll be at the exact center of our camera view.
 
 503
 00:25:19,000 --> 00:25:20,390
 这说得通吗？
-Does that make sense?
 
 504
 00:25:20,390 --> 00:25:24,950
 所以你从你的z轴拍一条线 这是你的正向向量 
-So you shoot a line from your z-axis, which is your forward vector.
 
 505
 00:25:24,950 --> 00:25:26,990
 然后根据你旋转相机的方式 
-And then based on how you've rotated the camera,
 
 506
 00:25:26,990 --> 00:25:30,840
 X和Y是其中的X和Y部分 Z总是向前的 
-X and Y are the X and Y part of that, and Z is always forward,
 
 507
 00:25:30,840 --> 00:25:34,010
 这将让你直接在你面前投射物体或投射光线 
-that'll let you shoot things or cast rays directly in front of you.
 
 508
 00:25:34,010 --> 00:25:37,460
 您可以在任何对象之间、从任何源点投射光线
-And you can cast rays between any object and from any source point
 
 509
 00:25:37,460 --> 00:25:40,070
 任何你想要的方向 
-with any sort of direction you want.
 
 510
 00:25:40,070 --> 00:25:42,440
 但它在上下文中特别相关
-But it's particularly pertinent in the context
 
 511
 00:25:42,440 --> 00:25:45,069
 我们是如何用我们的枪射击它的 
-of how we've shot it from our gun.
 
 512
 00:25:45,069 --> 00:25:47,610
 所以这是一张屏幕截图 它看起来是什么样子 
-And so here is a screenshot actually of what that looks like.
 
 513
 00:25:47,610 --> 00:25:49,970
 因此 统一的好处实际上是
-And so the nice thing about Unity actually
 
 514
 00:25:49,970 --> 00:25:55,100
 它是否有一个名为或调试.dragray的函数 
-is it has a function called or debug.drawray,
 
 515
 00:25:55,100 --> 00:25:58,400
 我会在这里展示给你们看 
-which I'll show you here.
 
 516
 00:25:58,400 --> 00:26:03,860
 我在一个名为调试射线的组件中实现了它 
-I implemented it in a component called debug ray,
 
 517
 00:26:03,860 --> 00:26:10,334
 这样您就可以实际看到光线在场景中的投射位置
-so that you can actually see where a ray is being cast in your scene
 
 518
 00:26:10,334 --> 00:26:11,750
 并消除任何模棱两可的地方 
-and eliminate any ambiguity there.
 
 519
 00:26:11,750 --> 00:26:15,350
 因此您可以看到绘制光线、转换位置 然后
-So you can see draw ray, transform.position, and then
 
 520
 00:26:15,350 --> 00:26:18,560
 我们只说变形 从方向变形 
-we just say transform.transfromdirection,
 
 521
 00:26:18,560 --> 00:26:25,610
 向量3前进 然后乘以1,000表示从该点开始的1,000个单位 
-vector3.forward, and then times 1,000 just means 1,000 units from that point.
 
 522
 00:26:25,610 --> 00:26:28,220
 然后是红色 
-And then color.red.
 
 523
 00:26:28,220 --> 00:26:31,320
 所以这将会做的是--只有在编辑视图中 
-And so what that will do is-- only in the editor view,
 
 524
 00:26:31,320 --> 00:26:33,320
 所以这并不适用于实际的游戏 
-so this doesn't apply in the actual game.
 
 525
 00:26:33,320 --> 00:26:38,000
 这只是一个调试调用 DEBUG.Drawray 
-This is just a debug call, debug.drawray.
 
 526
 00:26:38,000 --> 00:26:42,180
 所以它将在这里的场景中渲染 只是在这里没有完成 
-And so it'll render in this scene up here, just not done here.
 
 527
 00:26:42,180 --> 00:26:44,750
 因此 如果我们点击Play 我实际上拥有所有的门户
-So if we hit play, I actually have all the portals
 
 528
 00:26:44,750 --> 00:26:47,910
 从他们的正向变换和我的枪渲染调试光线 
-rendering a debug ray from their forward transform and from my gun.
 
 529
 00:26:47,910 --> 00:26:51,170
 所以你可以在那里看到 我只是在调试 Dragray
-So you can see it there, I'm just doing a debug.drawray
 
 530
 00:26:51,170 --> 00:26:57,530
 只需转换.foward 并使用我的转换位置作为源点 
-with just transform.foward and using my transform.position as the source point.
 
 531
 00:26:57,530 --> 00:27:00,520
 注意Z方向的箭头 
-And notice that Z arrow.
 
 532
 00:27:00,520 --> 00:27:03,650
 它总是沿着同一个方向前进 对吗？
-It's always following the same direction, right?
 
 533
 00:27:03,650 --> 00:27:05,975
 X和Y在某种程度上改变了底板
-X and Y are sort of changing the backplanes
 
 534
 00:27:05,975 --> 00:27:11,990
 排序就像旋转一样 但是Z总是向前的 对吗？
-sort are like how that's rotated, but Z is always forward, right?
 
 535
 00:27:11,990 --> 00:27:14,400
 这就是我们的枪发出的光线 
-And so that's the ray coming from our gun.
 
 536
 00:27:14,400 --> 00:27:19,715
 如果我们在那里和那里发射传送门 我也会把它们设置成--
-And if we shoot a portal there and there, I have those also set to--
 
 537
 00:27:19,715 --> 00:27:21,840
 让我暂停一下 这样我可以稍微旋转一下视图 
-let me pause so I can rotate the view a little bit.
 
 538
 00:27:21,840 --> 00:27:24,840
 我也准备好了从他们的前锋位置引出一条光线 
-I have those also set to draw a ray from their forward position.
 
 539
 00:27:24,840 --> 00:27:30,930
 因此 这些也从他们的转变中吸取了一丝光芒 向前看 
-So those are also drawing a ray from what's their transform.foward,
 
 540
 00:27:30,930 --> 00:27:33,990
 它们的方向向量 
-their directional vector.
 
 541
 00:27:33,990 --> 00:27:35,100
 但没错 是光线选角 
-But yeah, ray casting.
 
 542
 00:27:35,100 --> 00:27:40,950
 以这种方式进行一些非常简单的碰撞测试是相当容易的
-It's pretty easy just to get some pretty simple collision tests this way
 
 543
 00:27:40,950 --> 00:27:44,020
 用枪 用很多不同的东西 
-with guns, with a lot of different things.
 
 544
 00:27:44,020 --> 00:27:47,790
 但主要是 你会看到它被用来计算一些东西
-But primarily, you'll see this used for like calculating whether something
 
 545
 00:27:47,790 --> 00:27:49,170
 是在阻挡其他东西 
-is blocking something else.
 
 546
 00:27:49,170 --> 00:27:52,950
 比如如果一辆车在移动 也许它检测到了另一辆车 就像《Grand》中的
-Like if a car is moving and maybe it detects another car, like in "Grand
 
 547
 00:27:52,950 --> 00:27:54,154
 偷窃汽车“ 例如 
-Theft Auto," for example.
 
 548
 00:27:54,154 --> 00:27:56,820
 你的车开到了路中央什么的
-And your car is driving down the center of the road or something
 
 549
 00:27:56,820 --> 00:28:00,180
 它想知道它前面两个单元是否有一辆车
-and it wants to know whether there's a car two units in front of it
 
 550
 00:28:00,180 --> 00:28:00,810
 或者别的什么 
-or something.
 
 551
 00:28:00,810 --> 00:28:03,090
 你只需投射一条光线 看看是否有任何几何体
-You just cast a ray and see if there's any geometry
 
 552
 00:28:03,090 --> 00:28:04,970
 从它的前向向量开始 对吗？
-there from its forward vector, right?
 
 553
 00:28:04,970 --> 00:28:07,170
 变换位置、汽车位置 然后
-Transform.position, car.position, and then
 
 554
 00:28:07,170 --> 00:28:10,260
 获取其正向向量 该向量将是其Z方向 
-get its forward vector, which will be its Z direction.
 
 555
 00:28:10,260 --> 00:28:13,140
 然后这取决于你的游戏是否是自上而下的 
-And then it depends on whether or maybe your game is top down,
 
 556
 00:28:13,140 --> 00:28:17,000
 也许它不是你的正向向量 在这种情况下它可能是你的Y向量 
-maybe it's not your forward vector, maybe it's your Y vector in that case.
 
 557
 00:28:17,000 --> 00:28:20,640
 但这将有效地给你--不仅是你有一个碰撞 
-But that will effectively give you-- not only that you've got a collision,
 
 558
 00:28:20,640 --> 00:28:24,000
 而且还能告诉你碰撞在哪里 这很好 
-but also tell you where the collision is too, which is nice.
 
 559
 00:28:24,000 --> 00:28:33,750
 我们在门户枪脚本中做到了这一点 我们称之为物理@光线广播 
-And we do that in the portal gun script where we call physics@raycast.
 
 560
 00:28:33,750 --> 00:28:36,860
 顺便说一下 这就是实际进行光线投射的函数 
-So this is the function, by the way, to actually do the ray cast.
 
 561
 00:28:36,860 --> 00:28:38,860
 在Unity中关于光线投射的有趣之处
-The interesting thing about ray casting in Unity
 
 562
 00:28:38,860 --> 00:28:41,740
 它返回一个结构对象 
-is that it returns a struct object.
 
 563
 00:28:41,740 --> 00:28:45,492
 因此 您需要声明这个Hit对象 它
-And so, you need to declare this hit object, which
 
 564
 00:28:45,492 --> 00:28:47,950
 会告诉你所有关于袭击的信息 比如在哪里
-will tell you all the information about the hit, like where
 
 565
 00:28:47,950 --> 00:28:50,890
 它是 无论它是不是一开始就很受欢迎 
-it was, whether it was a hit to begin with,
 
 566
 00:28:50,890 --> 00:28:55,420
 它与之相撞的表面上的法线是什么 所以角度
-and what the normal was on the surface that it collided with, so the angle
 
 567
 00:28:55,420 --> 00:29:00,610
 这种飞机就是从那里伸出来的 
-at which that sort of plane was projecting out.
 
 568
 00:29:00,610 --> 00:29:06,640
 然后 您可以使用位置和变换方向来调用物理@raycast 
-And then, you call physics@raycast with the position and a transform direction.
 
 569
 00:29:06,640 --> 00:29:09,640
 然后 你传进击出的球 
-And then, you pass in out hit.
 
 570
 00:29:09,640 --> 00:29:15,190
 所以Out很有趣 因为这是C Sharp的一种方式
-So out is interesting because it is sort of C Sharp's way of allowing you
 
 571
 00:29:15,190 --> 00:29:17,440
 为某物返回多个值 
-to return multiple values to something.
 
 572
 00:29:17,440 --> 00:29:20,320
 所以Out将是一个物体 在这种情况下 
-So out is going to be an object, in this case,
 
 573
 00:29:20,320 --> 00:29:23,440
 这将是我们在这里宣布的光线投射的热门节目 对吗？
-it's going to be our ray cast hit that we declared up here, right?
 
 574
 00:29:23,440 --> 00:29:27,610
 它是一个结构 它的recall只是一个变量集合 就像在C#中一样
-Which is a struct, which recall is just a collection of variables like in C
 
 575
 00:29:27,610 --> 00:29:30,210
 或C++ 
-or C++.
 
 576
 00:29:30,210 --> 00:29:34,750
 而Out Hit只是意味着通常我们将这些值传递给函数 
-And out hit just means that normally we pass in these values to the function,
 
 577
 00:29:34,750 --> 00:29:36,790
 他们不会被操控 对吧？
-they don't get manipulated, right?
 
 578
 00:29:36,790 --> 00:29:40,810
 但是我们将这个变量作为out传递 它
-But we pass in this variable as out, which
 
 579
 00:29:40,810 --> 00:29:42,620
 将允许此函数实际更改
-will allow this function to actually change
 
 580
 00:29:42,620 --> 00:29:45,670
 该命中变量中的数据 
-the data inside this hit variable.
 
 581
 00:29:45,670 --> 00:29:48,550
 因此 结果就是从这一点开始
-And so the result of that is hit from this point
 
 582
 00:29:48,550 --> 00:29:51,076
 Forward包含有关光线的所有信息
-forward contains all of the information about the ray
 
 583
 00:29:51,076 --> 00:29:55,150
 我们刚刚触发的投射 
-cast that we just triggered.
 
 584
 00:29:55,150 --> 00:29:57,160
 当我们调用mathf.inifity时 
-And when we call mathf.inifity, that just
 
 585
 00:29:57,160 --> 00:30:02,140
 意味着光线投射到无限 直到永无止境 
-means ray cast to infinity, which is until forever and ever.
 
 586
 00:30:02,140 --> 00:30:04,180
 而联合显然不会无限地检查
-And Unity obviously doesn't check infinitely
 
 587
 00:30:04,180 --> 00:30:08,980
 无论是什么东西与什么东西碰撞 它都会以正确的方式进行优化 
-whether something is colliding with something, it optimizes the right way.
 
 588
 00:30:08,980 --> 00:30:13,360
 但是 如果您不一定要指定i 则可以使用它
-But you can use that just if you don't want to necessarily specify I
 
 589
 00:30:13,360 --> 00:30:16,335
 想在我面前检查两个单位或五个单位或一千个单位 
-want to check two units or five units or a thousand units front of me.
 
 590
 00:30:16,335 --> 00:30:18,460
 我想永远检查一下 看看它是否会相撞
-I want to just check forever and see if it collides
 
 591
 00:30:18,460 --> 00:30:19,960
 在你的场景里有什么东西 对吗？
-with something in your scene, right?
 
 592
 00:30:22,480 --> 00:30:25,700
 然后 正如你在这里看到的 一旦我们检测到碰撞 
-And then as you can see here once we have detected a collision,
 
 593
 00:30:25,700 --> 00:30:28,150
 我们播放传送门声音 我们得到正确的传送门 
-we play a portal sound, we get the right portal,
 
 594
 00:30:28,150 --> 00:30:30,520
 然后我们设置门户的变换和旋转
-and then we set the portal's transform and rotation
 
 595
 00:30:30,520 --> 00:30:32,780
 基于命中点和旋转 
-based upon the hits point and rotation.
 
 596
 00:30:32,780 --> 00:30:36,229
 而这几乎就是枪击事件的全部内容 
-And that's pretty much all that's involved in shooting the gun.
 
 597
 00:30:36,229 --> 00:30:38,020
 你可以从这里看一看 如果你
-And you can take a look through here if you
 
 598
 00:30:38,020 --> 00:30:41,020
 我想了解它是如何工作的 也许还想探索一下
-want to get a sense of how it works, and maybe explore also
 
 599
 00:30:41,020 --> 00:30:45,220
 API的Physiics.raycast部分刚刚
-the physics.raycast section of the API just
 
 600
 00:30:45,220 --> 00:30:48,350
 以了解它到底返回了什么 以及您可以用它做什么 
-to understand what exactly it returns and what you can do with it.
 
 601
 00:30:48,350 --> 00:30:50,230
 但在这种情况下 这就是我们如何使用
-But in this case, this is how we're using
 
 602
 00:30:50,230 --> 00:30:53,350
 它可以检测我们是否与长城相交 
-it to detect whether we've intersected with the wall.
 
 603
 00:30:53,350 --> 00:30:56,470
 所以它可以与任何类型的网格相交 
-So it'll intersect with any sort of mesh.
 
 604
 00:30:56,470 --> 00:30:59,530
 然后 当它发生时 它会确切地告诉你它是如何做到的 
-And then when it does, it will tell you exactly how it did.
 
 605
 00:30:59,530 --> 00:31:02,450
 这就是光线投射 
-So that is what ray casting is.
 
 606
 00:31:02,450 --> 00:31:07,034
 雷·卡斯特罗对《沃尔芬斯坦》这样的老式游戏有另外一个名字 
-Ray casting has another name for like old school games like "Wolfenstein."
 
 607
 00:31:07,034 --> 00:31:08,950
 渲染的方法称为光线投射
-The method of rendering was called ray casting
 
 608
 00:31:08,950 --> 00:31:15,700
 你可以从屏幕的每个像素产生一条光线
-where you would generate a ray from every pixel of the screen
 
 609
 00:31:15,700 --> 00:31:19,090
 有效地 尽管它主要是屏幕上的每一行 
-effectively, although it was mostly just every line of the screen.
 
 610
 00:31:19,090 --> 00:31:22,460
 你只需上下看它在场景中相交的每一个地方 
-And you would just look up and down for everywhere it intersected in the scene,
 
 611
 00:31:22,460 --> 00:31:24,710
 然后在那里画一个纹理 
-and then just draw a texture there.
 
 612
 00:31:24,710 --> 00:31:28,731
 所以这将产生一个看起来像3D的世界 
-And so that would generate a world that looked 3D,
 
 613
 00:31:28,731 --> 00:31:31,480
 但你不能上下移动 因为它总是在产生
-but you couldn't move up and down because it was always generating
 
 614
 00:31:31,480 --> 00:31:32,813
 所有的光线都完全向前 
-all the rays completely forward.
 
 615
 00:31:32,813 --> 00:31:36,130
 所以你被锁在两个轴上 
-And so you were locked onto two axis.
 
 616
 00:31:36,130 --> 00:31:38,135
 但是光线投射在Unity中是不同的 
-But ray casting is different in Unity.
 
 617
 00:31:38,135 --> 00:31:40,270
 光线投射只是从字面上投射光线
-Ray casting is just literally casting a ray
 
 618
 00:31:40,270 --> 00:31:45,190
 在3D空间与它曾经的2D空间
-in 3D space versus the sort of 2D space that it was
 
 619
 00:31:45,190 --> 00:31:47,230
 在《沃尔芬斯坦》这样的游戏中选角 
-casting in games like "Wolfenstein."
 
 620
 00:31:47,230 --> 00:31:54,810
 这是另一个从我们的门户投射光线的法线截图 
-Here's another screenshot of normals from our portals casting out rays.
 
 621
 00:31:54,810 --> 00:31:58,690
 我想看看我能不能找到一张“沃尔芬斯坦”的照片
-And I want to look up and see if I can find a picture of what "Wolfenstein"
 
 622
 00:31:58,690 --> 00:31:59,190
 看起来像是 
-looked like.
 
 623
 00:32:02,180 --> 00:32:08,760
 我很肯定大多数人可能都熟悉 而不是新的 
-I'm pretty sure most folks are probably familiar with not the new one.
 
 624
 00:32:08,760 --> 00:32:10,620
 是啊 《沃尔芬斯坦3D》 
-Yeah, "Wolfenstein 3D."
 
 625
 00:32:10,620 --> 00:32:14,010
 这就是《沃尔芬斯坦》 
-So this was "Wolfenstein."
 
 626
 00:32:14,010 --> 00:32:18,470
 太老派了 但这种光线投射是不同的 
-So old school, but this sort of ray casting was different.
 
 627
 00:32:18,470 --> 00:32:24,300
 它基本上会从屏幕上的每一行上下发射射线 
-It would basically shoot rays from every single line of the screen up and down.
 
 628
 00:32:24,300 --> 00:32:26,760
 它会根据水平几何来检测--
-And it would detect, based on the level geometry-- which
 
 629
 00:32:26,760 --> 00:32:28,051
 是非常简单的水平几何学 
-was very simple level geometry.
 
 630
 00:32:28,051 --> 00:32:31,650
 基本上只是那里有没有一堵墙 真的还是假的 
-It was just basically whether there was a wall there or not, true or false,
 
 631
 00:32:31,650 --> 00:32:34,100
 有点像2D图像 
-kind of like a 2D image.
 
 632
 00:32:34,100 --> 00:32:36,120
 它会根据它有多远来画
-And it would draw, based on how far away it
 
 633
 00:32:36,120 --> 00:32:38,790
 就是 几何学中的那个点 
-was, that particular point of the geometry,
 
 634
 00:32:38,790 --> 00:32:43,959
 它只会在特定点绘制特定纹理的像素 
-it would just draw pixels from a specific texture at a specific point.
 
 635
 00:32:43,959 --> 00:32:46,000
 他们必须在纹理中的位置进行插补 
-And they had to interpolate where in the texture.
 
 636
 00:32:46,000 --> 00:32:47,550
 事情稍微复杂了一点 
-It was a little more complicated.
 
 637
 00:32:47,550 --> 00:32:52,860
 但如果你看到光线投射在这两种不同的意义上使用--
-But in case you see ray casting used in those two different senses--
 
 638
 00:32:52,860 --> 00:32:56,100
 在老式游戏引擎的情况下 在
-in the case of old school game engines, in the case
 
 639
 00:32:56,100 --> 00:33:07,790
 现代单位的光线投射 这就是涉及到的东西 
-of modern Unity sort of ray casting, that is what is involved in that.
 
 640
 00:33:07,790 --> 00:33:12,070
 简而言之 关于光线投射的任何问题
-So any questions as to how in a nutshell the ray casting
 
 641
 00:33:12,070 --> 00:33:16,005
 在我们这个游戏的背景下工作吗？
-works in the context of our game here?
 
 642
 00:33:16,005 --> 00:33:18,750
 观众：我们要用[INAUDIBLE]吗？
-AUDIENCE: Are we going to be using the [INAUDIBLE]??
 
 643
 00:33:18,750 --> 00:33:21,510
 科尔顿·奥格登：所以不幸的是 没有 
-COLTON OGDEN: So unfortunately, no.
 
 644
 00:33:21,510 --> 00:33:24,360
 Oculus在Mac上不起作用 
-The Oculus does not work on Mac.
 
 645
 00:33:24,360 --> 00:33:26,110
 他们没有Mac支持 
-They do not have Mac support.
 
 646
 00:33:26,110 --> 00:33:30,780
 因此 我们无法让它的一个版本工作 
-And so we were unable to get a version of it working.
 
 647
 00:33:30,780 --> 00:33:34,980
 考虑到我们有多少时间 我们没有必要的交通工具 
-We don't have the means to necessarily transport given how much time we had.
 
 648
 00:33:34,980 --> 00:33:39,460
 现在 让VR在Unity中工作实际上非常容易 
-Now getting VR working in Unity is actually very easy.
 
 649
 00:33:39,460 --> 00:33:43,860
 如果我没记错的话 我只需要记住菜单就行了 
-If I recall correctly, I have to just remember the exact menu.
 
 650
 00:33:43,860 --> 00:33:48,900
 我之前就已经预料到了这一点 
-I had sort of anticipated talking about this before.
 
 651
 00:33:48,900 --> 00:33:51,920
 我想是播放器XR设置的问题 
-I think it's player XR settings.
 
 652
 00:33:51,920 --> 00:33:52,950
 是的 就是这样 
-Yeah, that's it is.
 
 653
 00:33:52,950 --> 00:33:55,050
 所以这是非常简单的 
-So it's incredibly easy.
 
 654
 00:33:55,050 --> 00:33:58,560
 如果你想在Unity中用VR玩游戏 而且你有一台开箱即用的PC
-If you want to do a game in VR in Unity, and you have a PC, out of the box
 
 655
 00:33:58,560 --> 00:34:00,270
 很容易就能让它运转起来 
-is very easy just to get it working.
 
 656
 00:34:00,270 --> 00:34:06,090
 你所需要做的就是进入编辑项目设置 然后进入播放器 
-All you need to do is go to Edit Project Settings, and then go to Player.
 
 657
 00:34:06,090 --> 00:34:11,070
 然后在XR设置中--因此Unity已经设计了所有的VR AR设备
-And then in the XR settings-- so Unity has deamed all of its VR AR stuff
 
 658
 00:34:11,070 --> 00:34:13,460
 作为XR 
-as XR.
 
 659
 00:34:13,460 --> 00:34:15,670
 然后点击此处支持的虚拟现实 
-And you click Virtual Reality Supported Here.
 
 660
 00:34:15,670 --> 00:34:19,280
 你有你的Oculus Rift或Vibe或任何插头 
-And you have your Oculus Rift or Vibe or whatever plugged in,
 
 661
 00:34:19,280 --> 00:34:22,389
 它可以在大门外的摄像头下工作 
-it'll just work with the camera right out of the gate.
 
 662
 00:34:22,389 --> 00:34:23,352
 所以这很容易 
-So it's pretty easy.
 
 663
 00:34:23,352 --> 00:34:25,560
 您可能需要在您的计算机上安装驱动程序
-You may have to install drivers on your computer such
 
 664
 00:34:25,560 --> 00:34:28,060
 你的电脑知道你插了一台Oculus 
-that your computer knows that you have an Oculus plugged in,
 
 665
 00:34:28,060 --> 00:34:30,239
 但假设一切都准备好了 你的项目
-but assuming that's all set up, your project
 
 666
 00:34:30,239 --> 00:34:33,046
 只需点击此复选框即可轻松完成 
-is as easy as just clicking this checkbox.
 
 667
 00:34:33,046 --> 00:34:36,004
 观众：这款耳机支持哪些耳机？
-AUDIENCE: Which headsets does this support?
 
 668
 00:34:36,004 --> 00:34:41,540
 科尔顿·奥格登：全息镜头 Oculus Rift 还有我很确定的Vive 
-COLTON OGDEN: HoloLens, Oculus Rift, and I'm pretty sure the Vive.
 
 669
 00:34:41,540 --> 00:34:43,550
 90%肯定是万岁 
-90% sure the Vive.
 
 670
 00:34:43,550 --> 00:34:46,429
 我不是100% 不过我们可以在谷歌上搜索 
-I'm not 100%, we can Google it though.
 
 671
 00:34:46,429 --> 00:34:47,810
 让我们看看 
-Let's see.
 
 672
 00:34:47,810 --> 00:34:48,389
 团结5.
-Unity 5.
 
 673
 00:34:48,389 --> 00:34:51,097
 观众：这些耳机有没有特别的开发者版本 
-AUDIENCE: Is there a special developer version of those headsets,
 
 674
 00:34:51,097 --> 00:34:52,745
 或者是[INAUDIBLE]？
-or is it [INAUDIBLE]?
 
 675
 00:34:56,390 --> 00:34:57,890
 科尔顿·奥格登：看起来的确如此 
-COLTON OGDEN: It looks like it does.
 
 676
 00:34:57,890 --> 00:34:59,514
 看起来肯定是这样的 是的 
-It looks like it definitely does, yeah.
 
 677
 00:34:59,514 --> 00:35:02,450
 当然 VR Windows PC非常--
-And of course, VR Windows PC is very--
 
 678
 00:35:02,450 --> 00:35:03,170
 我向你道歉 
-I apologize.
 
 679
 00:35:03,170 --> 00:35:08,720
 我完全认为进入Oculus在Mac上工作的课程 
-I totally thought going into the course that Oculus worked on a Mac.
 
 680
 00:35:08,720 --> 00:35:11,769
 但就在10月份 他们就像是
-But as of even October, they were like it's not going
 
 681
 00:35:11,769 --> 00:35:13,310
 可以在任何MacBook上使用 
-to work on any MacBook ever released.
 
 682
 00:35:13,310 --> 00:35:17,270
 在PC上 不幸的是 
-So only on a PC, unfortunately.
 
 683
 00:35:17,270 --> 00:35:20,014
 也就是说 如果你有一台PC 超级容易工作 
-That said, if you do have a PC, super easy to get working.
 
 684
 00:35:20,014 --> 00:35:22,430
 看起来这实际上是一个很酷的教程 
-And it looks like this is actually a pretty cool tutorial.
 
 685
 00:35:22,430 --> 00:35:25,790
 我还没看过但我挺喜欢雷的
-I haven't looked at this, but I tend to like Ray--
 
 686
 00:35:25,790 --> 00:35:28,280
 我不知道他是叫文德利希还是文德利希
-I don't know if his name is Wenderlich or Wenderlich,
 
 687
 00:35:28,280 --> 00:35:31,940
 但他的游戏编程教程总体来说很不错 
-but he makes really good game programming tutorials in general.
 
 688
 00:35:31,940 --> 00:35:36,620
 因为我们碰巧在这里 如果你们好奇 
-So because we're co-incidentally here, if you guys are curious,
 
 689
 00:35:36,620 --> 00:35:39,890
 我真的很喜欢这个网站的基本教程的东西 
-I really like this website for basic tutorial stuff.
 
 690
 00:35:39,890 --> 00:35:42,873
 “难道 还有其他人回来吗？”
-AUDIENCE: Are there other [INAUDIBLE] coming back?
 
 691
 00:35:42,873 --> 00:35:44,129
 你有Vive 
-You have Vive.
 
 692
 00:35:44,129 --> 00:35:47,000
 科尔顿·奥格登：我们有Vive 
-COLTON OGDEN: We have Vive.
 
 693
 00:35:47,000 --> 00:35:51,090
 关于Vive 你需要在天花板上安装摄像头
-Well, the thing about Vive is you need to install ceiling mounted cameras
 
 694
 00:35:51,090 --> 00:35:52,380
 才能成功
-in order for it to work.
 
 695
 00:35:52,380 --> 00:35:54,420
 所以这是一种出了方程 
-So that's kind of out of the equation.
 
 696
 00:35:54,420 --> 00:36:00,215
 我们有Gear VR 但我们需要将其导出到移动设备并进行测试 
-We have the Gear VR, but we would need to export it to mobile and test it.
 
 697
 00:36:00,215 --> 00:36:02,100
 我没想到它对麦克不起作用 
-I didn't anticipate it not working for Mac,
 
 698
 00:36:02,100 --> 00:36:03,870
 所以说起来有点晚
-and so it kind of came up a bit late.
 
 699
 00:36:03,870 --> 00:36:04,860
 所以 都怪我 
-And so, it's on me.
 
 700
 00:36:04,860 --> 00:36:05,560
 我道歉
-I apologize.
 
 701
 00:36:05,560 --> 00:36:09,830
 但是如果你在Oculus上做一个PC游戏 你需要一些帮助 
-But if you are doing a PC game in Oculus and you want some assistance,
 
 702
 00:36:09,830 --> 00:36:11,087
 我很乐意帮忙 
-I'm happy to help out.
 
 703
 00:36:11,087 --> 00:36:14,420
 它看起来很容易只是得到与默认FPS控制器的工作
-It looks like it's very easy just to get working with the default FPS controller
 
 704
 00:36:14,420 --> 00:36:15,200
 相机
-camera.
 
 705
 00:36:15,200 --> 00:36:19,220
 所以 如果你正在开发Oculus 
-So definitely reach out if you're developing Oculus
 
 706
 00:36:19,220 --> 00:36:20,918
 需要一些帮助
-and need some assistance.
 
 707
 00:36:24,200 --> 00:36:31,879
 也许在我们下一个Unity课程中 我们可以有一个大型的VR日
-Maybe for the our next Unity course, we can have a big sort of VR day
 
 708
 00:36:31,879 --> 00:36:33,170
 我们把所有的枪都带来了
-where we bring in all the guns.
 
 709
 00:36:35,821 --> 00:36:36,320
 但是 是的 
-But, yeah.
 
 710
 00:36:36,320 --> 00:36:41,780
 回到射线铸造和我们刚刚谈论的 
-Back to ray casting and what we were just talking about.
 
 711
 00:36:41,780 --> 00:36:47,660
 根据你的旋转在z轴上发射一条射线 从中获取信息 
-Shooting a ray on your z-axis based on your rotation, get information from it,
 
 712
 00:36:47,660 --> 00:36:50,540
 然后我们要做的就是翻转传送门
-and then sort of what we do is we flip the portal
 
 713
 00:36:50,540 --> 00:36:55,430
 根据撞击表面的旋转
-based on the hit.rotation of the surface that we collided with.
 
 714
 00:36:55,430 --> 00:36:58,070
 这就是我们所做的所有光线投射
-And that's effectively all the ray casting that we
 
 715
 00:36:58,070 --> 00:37:01,520
 需要担心的问题“
-need to worry about for "Portal."
 
 716
 00:37:01,520 --> 00:37:05,390
 但《传送门》的实际制作可能是最有趣的部分
-But the actual making of "Portal" is probably the most interesting part
 
 717
 00:37:05,390 --> 00:37:06,380
 这整个项目 
-of this whole project.
 
 718
 00:37:06,380 --> 00:37:10,590
 所以让我们继续 回到现在的模式 
-And so let's go ahead and go back into present mode.
 
 719
 00:37:10,590 --> 00:37:19,530
 因此 渲染纹理是我们开始做这件事的基本方式 
-So a rendered texture is the fundamental way at which we go about doing it.
 
 720
 00:37:19,530 --> 00:37:22,100
 要做到这一点有多种方法
-And there are various ways to accomplish doing
 
 721
 00:37:22,100 --> 00:37:24,650
 它 一些在技术上更具挑战性的
-it, some that are more technically challenging
 
 722
 00:37:24,650 --> 00:37:26,510
 而且看起来比其他人好多了 
-and look a lot nicer than others.
 
 723
 00:37:26,510 --> 00:37:29,510
 我只是做了一个简单的版本
-I did a sort of simple version of it just
 
 724
 00:37:29,510 --> 00:37:32,455
 才能走出大门进行概念验证 
-to get to a proof of concept out of the gate.
 
 725
 00:37:32,455 --> 00:37:35,330
 但Unity只需设置一个简单的渲染纹理就很容易了
-But Unity makes it really easy just to get a simple render texture up
 
 726
 00:37:35,330 --> 00:37:36,170
 还有奔跑 
-and running.
 
 727
 00:37:36,170 --> 00:37:41,710
 因此 回想一下 渲染的纹理只是Unity中的一个纹理 
-So a rendered texture is, recall, just a texture in Unity.
 
 728
 00:37:41,710 --> 00:37:44,540
 因此 它是一种资产 是您可以创建的Unity资产 
-So it's an asset, it's an Unity asset that you can create.
 
 729
 00:37:44,540 --> 00:37:46,580
 渲染纹理之间的差异
-The difference between a rendered texture
 
 730
 00:37:46,580 --> 00:37:51,234
 以及您可能从Photoshop或Gimp导入的纹理 
-and a texture that you might have imported from like Photoshop or Gimp,
 
 731
 00:37:51,234 --> 00:37:53,150
 渲染的纹理可以渲染到 
-is that a rendered texture can be rendered to.
 
 732
 00:37:53,150 --> 00:37:57,470
 通常 它用于渲染到它的相机之类的东西 
-And typically, this is used for things like cameras being rendered to it.
 
 733
 00:37:57,470 --> 00:38:00,570
 不过 据我所知 你可以给它渲染任何东西 
-Although, from what I understand, you can render anything to it.
 
 734
 00:38:00,570 --> 00:38:03,090
 因此 您也可以通过这种方式创建程序纹理 
-So you can create procedural textures this way as well.
 
 735
 00:38:03,090 --> 00:38:07,550
 但在这个例子中 我们基本上是
-But in this example here, we're essentially
 
 736
 00:38:07,550 --> 00:38:09,950
 创造了一个我们正在观看的屏幕
-creating a screen into which we're looking
 
 737
 00:38:09,950 --> 00:38:12,950
 从我们另一个传送门的角度来看 对吗？
-at the viewpoint of our other portal, right?
 
 738
 00:38:12,950 --> 00:38:14,940
 从它的前进方向 
-From its forward direction.
 
 739
 00:38:14,940 --> 00:38:18,440
 所以我们可以看到一旦我们走出传送门会是什么样子
-So we can see what it will look like once we walk out of the portal
 
 740
 00:38:18,440 --> 00:38:21,920
 然后进入下一个区域 
-and go into the next area.
 
 741
 00:38:21,920 --> 00:38:24,710
 如果你想下载这些幻灯片 我在幻灯片里有一些 
-So I have some in the slides, if you want to download the slides.
 
 742
 00:38:24,710 --> 00:38:25,910
 他们来了 
-They're here.
 
 743
 00:38:25,910 --> 00:38:28,090
 您可以确切地看到如何创建渲染纹理 
-You can see exactly how to create a render texture,
 
 744
 00:38:28,090 --> 00:38:31,470
 因此 从字面上讲 只需创建并渲染纹理 即可创建渲染纹理 
-so literally just create and then render texture that creates a render texture.
 
 745
 00:38:31,470 --> 00:38:35,300
 这些是我用于实际渲染纹理的设置 
-These are the settings that I used for the actual render texture.
 
 746
 00:38:35,300 --> 00:38:39,920
 那么 我们认为 如果我们使用低分辨率渲染 会发生什么
-So what would happen, do we think, if we use like a low res render
 
 747
 00:38:39,920 --> 00:38:42,258
 质感 只是逻辑上的？
-texture, just logically?
 
 748
 00:38:45,610 --> 00:38:50,740
 或者假设我的渲染纹理是200 x 200像素？
-Or let's say my rendered texture was like 200 pixels by 200 pixels?
 
 749
 00:38:50,740 --> 00:38:56,225
 我们游戏的分辨率是10EDP吗？
-And the resolution of our game is like 10 EDP?
 
 750
 00:38:56,225 --> 00:38:58,710
 观众：这会被夸大吗？
-AUDIENCE: Will that just be blown up?
 
 751
 00:38:58,710 --> 00:39:00,670
 科尔顿·奥格登：它不会被炸毁 因为什么
-COLTON OGDEN: It won't be blown up because what
 
 752
 00:39:00,670 --> 00:39:03,930
 我们要做的就是拿一个网状物 然后把纹理贴在上面 
-we're doing is we're taking a mesh, and we're affixing the texture to it.
 
 753
 00:39:03,930 --> 00:39:07,490
 所以它只会缩放以填充网格 
-So it'll just scale to fill the mesh.
 
 754
 00:39:07,490 --> 00:39:11,389
 但是渲染后会是什么样子呢？
-But what will it look like when it's rendered?
 
 755
 00:39:11,389 --> 00:39:13,180
 因为它要渲染200像素的纹理 
-Because it's rendering a 200 pixel texture.
 
 756
 00:39:16,240 --> 00:39:19,730
 它会变尖 看起来很恶心 
-It'll apixelate it, it'll look really nasty.
 
 757
 00:39:19,730 --> 00:39:22,220
 为了解决这个问题 通常你会
-And so in order to fix that problem, typically what you'll
 
 758
 00:39:22,220 --> 00:39:26,350
 一个聪明的方法是在运行时动态地计算出
-do-- a smart way to do it, would be to dynamically figure out at runtime
 
 759
 00:39:26,350 --> 00:39:28,100
 你的游戏的分辨率是多少
-what's the resolution of your game, right?
 
 760
 00:39:28,100 --> 00:39:31,670
 如果它要以高达4K的各种分辨率呈现 
-If it's going to be rendered in various resolutions up to 4K,
 
 761
 00:39:31,670 --> 00:39:34,220
 可能会降到720 p 
-maybe down to 720p.
 
 762
 00:39:34,220 --> 00:39:38,560
 然后创建游戏大小的渲染纹理 
-And then create a render texture that is the size of your game.
 
 763
 00:39:38,560 --> 00:39:41,810
 通过这样做 它将确保无论你的决心是什么 
-And then by doing that, it will ensure that no matter what your resolution is,
 
 764
 00:39:41,810 --> 00:39:45,860
 它的像素比例总是1：1 即使你离它很近 对吗？
-it will always be 1:1 pixel ratio, even if you're right up close to it, right?
 
 765
 00:39:45,860 --> 00:39:48,020
 它会填满整个屏幕 
-It will fill up your whole screen.
 
 766
 00:39:48,020 --> 00:39:49,880
 在这种情况下 我们采用了一种更简单的方法
-In this case, we went for a simpler method
 
 767
 00:39:49,880 --> 00:39:53,624
 所以我们不需要对渲染的纹理做任何动态的实例化 
-so we didn't have to do any dynamic instantiation of the rendered texture,
 
 768
 00:39:53,624 --> 00:39:54,790
 你完全可以做到
-which you can absolutely do.
 
 769
 00:39:54,790 --> 00:39:56,940
 这是一种更稳健的方式 
-And it is the more robust way to do it.
 
 770
 00:39:56,940 --> 00:39:59,780
 但在这个例子中 我选择了1024 x1024 
-But in this case, I just chose 1024x1024,
 
 771
 00:39:59,780 --> 00:40:03,500
 认为这足以用于演示目的 
-figuring that that was going to be good enough for demonstration purposes.
 
 772
 00:40:03,500 --> 00:40:04,970
 大多数其他的设置--
-And most of these other settings--
 
 773
 00:40:04,970 --> 00:40:07,386
 我相信实际上所有这些其他的设置都是完全
-I believe actually all these other settings are completely
 
 774
 00:40:07,386 --> 00:40:08,880
 默认渲染纹理设置 
-default render texture settings.
 
 775
 00:40:08,880 --> 00:40:11,920
 唯一改变的是默认情况下是256 x256 
-The only ones that changed were this is 256x256 by default,
 
 776
 00:40:11,920 --> 00:40:14,600
 它看起来真的是像素化的和肮脏的 特别是当
-and it just looks really pixelated and nasty, especially when
 
 777
 00:40:14,600 --> 00:40:15,766
 你就离它很近
-you're right up close to it.
 
 778
 00:40:18,410 --> 00:40:20,510
 然后我们要做的就是
-And then all we need to do--
 
 779
 00:40:20,510 --> 00:40:25,770
 所以一旦我们在场景中创建了渲染纹理 在我们的资产中--
-so once we've created a rendered texture in our scene, in our assets--
 
 780
 00:40:25,770 --> 00:40:28,134
 所以在这里 我将去纹理 
-so here, I'm going to go to textures.
 
 781
 00:40:28,134 --> 00:40:30,550
 这是我展示所有纹理的地方 无论它们是
-This is where I'm showing all my textures, whether they're
 
 782
 00:40:30,550 --> 00:40:32,090
 渲染纹理或不 
-rendered textures or not.
 
 783
 00:40:32,090 --> 00:40:34,310
 我有这两个渲染纹理在这里 
-I have these two render textures here.
 
 784
 00:40:34,310 --> 00:40:36,019
 所以 这些是默认的 
-And so, these are by default, they're not
 
 785
 00:40:36,019 --> 00:40:39,184
 会被映射到任何东西 因为它们只是空的渲染纹理 
-going to be mapped to anything because they're just empty rendered textures.
 
 786
 00:40:39,184 --> 00:40:40,910
 我们已经有效地分配了他们 
-We've effectively allocated them and said
 
 787
 00:40:40,910 --> 00:40:44,220
 稍后会有一些东西呈现给它们 但现在它们只是空的 
-something will be rendering to these later, but for now they're just empty,
 
 788
 00:40:44,220 --> 00:40:45,490
 有占位符对吧
-there's placeholders, right?
 
 789
 00:40:45,490 --> 00:40:50,060
 它们就像是空白屏幕 但电视还没有打开 
-They're like blank screens, but the TV hasn't been turned on yet.
 
 790
 00:40:50,060 --> 00:40:58,580
 为了实际渲染到它们 我们使用任何相机
-In order to actually render to them, we go into whatever camera
 
 791
 00:40:58,580 --> 00:41:02,570
 我们要将其渲染到渲染纹理 
-we want to render it to, render to the render texture.
 
 792
 00:41:02,570 --> 00:41:05,270
 因为我们有效地利用了这些渲染纹理 
-Because we're effectively taking these render textures,
 
 793
 00:41:05,270 --> 00:41:07,850
 我们要把摄像机的视角渲染到他们身上 对吗？
-and we're rendering a camera view onto them, right?
 
 794
 00:41:07,850 --> 00:41:10,920
 每个入口后面都有一个摄像头 从后面向外看 
-Each of the portals has a camera behind it looking out from it.
 
 795
 00:41:10,920 --> 00:41:13,280
 所以我们想要从摄像机的角度来看 
-And so we want to take that camera's view,
 
 796
 00:41:13,280 --> 00:41:16,914
 我们想把它渲染到另一个传送门的脸上 
-and we want to render that onto the other portal's face.
 
 797
 00:41:16,914 --> 00:41:18,830
 另一个门户的渲染纹理、纹理
-The other portal's render texture, the texture
 
 798
 00:41:18,830 --> 00:41:21,360
 我们要把它放在上面 
-that we're going to put onto it.
 
 799
 00:41:21,360 --> 00:41:26,390
 所以 我们所要做的就是说 “这是我的橙色入口 
-And so, all we need to do is say, "Here's my orange portal.
 
 800
 00:41:26,390 --> 00:41:28,520
 我的相机在这里 
-I have my camera here.
 
 801
 00:41:28,520 --> 00:41:32,280
 每个摄像头都有一个刚出大门的目标纹理 
-Every camera has a target texture just right out the gate."
 
 802
 00:41:32,280 --> 00:41:35,510
 所以你可以说 “好的 我要用我的橙色入口纹理 
-So you can just say, "OK, I'm going to take my orange portal texture,
 
 803
 00:41:35,510 --> 00:41:37,710
 我的已实例化的渲染纹理
-my render texture that has been instantiated
 
 804
 00:41:37,710 --> 00:41:40,692
 因此它知道它将能够接收输入源 
-so it knows that it's going to be able to receive an input source.
 
 805
 00:41:40,692 --> 00:41:42,650
 我只需点击并将其拖到那里 
-And I'm going to just click and drag it there."
 
 806
 00:41:42,650 --> 00:41:43,525
 事情就是这么简单 
-And it's that simple.
 
 807
 00:41:43,525 --> 00:41:46,910
 现在 当你运行游戏时 你会注意到你的渲染纹理
-Now whenever you run the game, you'll notice that your render texture
 
 808
 00:41:46,910 --> 00:41:47,865
 最新消息 
-updates.
 
 809
 00:41:47,865 --> 00:41:50,240
 我不确定它是否在检查员中实时更新 
-I'm not sure if it updates in real time in the inspector,
 
 810
 00:41:50,240 --> 00:41:54,110
 但如果你把它展示给一个--
-but it renders if you're showing it on to a--
 
 811
 00:41:54,110 --> 00:41:56,080
 是的 它不会呈现在探长身上 
-yeah, it doesn't render in the inspector,
 
 812
 00:41:56,080 --> 00:41:59,930
 但如果您将其粘贴到任何其他曲面上 它将会更新 
-but it will update if you affix it to any other surface.
 
 813
 00:41:59,930 --> 00:42:01,870
 所以 我们要做的就是把它贴上
-And so, what we're doing is we're affixing it
 
 814
 00:42:01,870 --> 00:42:05,386
 到与每个门户相关联的网格 
-to the meshes that are associated with each portal.
 
 815
 00:42:05,386 --> 00:42:06,677
 詹姆斯 你有问题吗？
-James, did you have a question?
 
 816
 00:42:06,677 --> 00:42:07,591
 观众：是的 
-AUDIENCE: Yeah.
 
 817
 00:42:07,591 --> 00:42:09,419
 你是怎么做这个质地的？
-How did you make the texture?
 
 818
 00:42:09,419 --> 00:42:11,340
 科尔顿·奥格登：哦 当然 渲染纹理？
-COLTON OGDEN: Oh sure, the render texture?
 
 819
 00:42:11,340 --> 00:42:14,020
 所以我只需点击鼠标右键 然后去创建 
-So I just right click, and then I go to create,
 
 820
 00:42:14,020 --> 00:42:16,149
 然后在这里渲染纹理 
-and then to render texture right here.
 
 821
 00:42:16,149 --> 00:42:18,940
 这将为您提供设置所需的大部分设置
-And that will give you most of the settings that you need to get up
 
 822
 00:42:18,940 --> 00:42:21,231
 并带着它运行 你可以将它分配给相机 
-and running with it, and you can assign it to a camera.
 
 823
 00:42:21,231 --> 00:42:23,730
 但重要的是要考虑你的决心
-But the important thing is do consider your resolution
 
 824
 00:42:23,730 --> 00:42:24,730
 用于渲染纹理 
-for your render texture.
 
 825
 00:42:24,730 --> 00:42:28,109
 确保它足够高 以便您的游戏不会在以下情况下看起来像素化
-Make sure that it's high enough so that your game won't look pixelated when
 
 826
 00:42:28,109 --> 00:42:29,650
 你正近距离地看着它 
-you're looking at it pretty close up.
 
 827
 00:42:29,650 --> 00:42:30,657
 观众：就这么简单吗？
-AUDIENCE: So it's as easy as that?
 
 828
 00:42:30,657 --> 00:42:31,940
 你只是制作纹理 然后拖动相机？
-You just make the texture and then drag the camera?
 
 829
 00:42:31,940 --> 00:42:33,120
 科尔顿·奥格登：是的 
-COLTON OGDEN: Yup.
 
 830
 00:42:33,120 --> 00:42:33,960
 是的 
-Yup.
 
 831
 00:42:33,960 --> 00:42:38,150
 这将在两者之间建立起一种联系
-And what that will do is create a link between the two
 
 832
 00:42:38,150 --> 00:42:40,294
 所以摄像机拍到的任何东西 都不再是
-so that anything the camera sees, it's no longer
 
 833
 00:42:40,294 --> 00:42:42,210
 将渲染到场景或其他什么地方
-going to be rendering to the scene or anything
 
 834
 00:42:42,210 --> 00:42:44,190
 就像 它只会渲染到纹理上 
-like, it's just going to render to the texture.
 
 835
 00:42:44,190 --> 00:42:46,940
 事实上 我认为你可以把它与现场和纹理联系起来 
-And actually, I think you can run it to the scene and the texture,
 
 836
 00:42:46,940 --> 00:42:49,360
 但这些根本不会渲染到场景中 
-but these aren't rendering to the scene at all.
 
 837
 00:42:49,360 --> 00:42:52,380
 渲染到场景的唯一角色是第一人称角色
-The only one rendering to the scene is the first person character
 
 838
 00:42:52,380 --> 00:42:56,248
 因为它是默认的摄像头 主摄像头 
-because it's the default camera, main camera.
 
 839
 00:42:56,248 --> 00:43:03,733
 观众：如果将分辨率设置为[INAUDIBLE]会发生什么情况
-AUDIENCE: What happens if you set the resolution to [INAUDIBLE]
 
 840
 00:43:03,733 --> 00:43:06,220
 科尔顿·奥格登：如果分辨率太高 
-COLTON OGDEN: If it's too high of a resolution,
 
 841
 00:43:06,220 --> 00:43:09,807
 它只是要压缩 以适应网格 无论它贴在哪里 
-it's just going to compress to fit the mesh, whatever it's affixed to.
 
 842
 00:43:09,807 --> 00:43:11,890
 而且您可能会遇到性能问题 
-And you'll probably run into performance problems.
 
 843
 00:43:11,890 --> 00:43:13,210
 但它不会破裂 
-But it's not going to break.
 
 844
 00:43:13,210 --> 00:43:14,170
 嗯 
-Yeah.
 
 845
 00:43:14,170 --> 00:43:19,300
 因为你的决心并不一定会对
-Because your resolution doesn't really have an effect necessarily on whatever
 
 846
 00:43:19,300 --> 00:43:22,720
 在你的游戏世界里 这不会引起任何问题 
-is in your game world, and that doesn't cause any issues.
 
 847
 00:43:22,720 --> 00:43:24,190
 它会被插补 
-It gets interpolated.
 
 848
 00:43:24,190 --> 00:43:27,110
 Unity只会计算如何将其渲染到屏幕上 对吗？
-Unity will just calculate how to render it to the screen, right?
 
 849
 00:43:30,790 --> 00:43:34,000
 一般来说 游戏纹理的分辨率非常高 
-Game textures, generally, are very high resolution,
 
 850
 00:43:34,000 --> 00:43:40,489
 像4K纹理经常被使用 即使你运行你的游戏在1080p 
-like 4K textures are often used, even if you're running your game in 1080p.
 
 851
 00:43:40,489 --> 00:43:42,280
 游戏引擎可能会对其进行优化
-And a game engine will probably optimize it
 
 852
 00:43:42,280 --> 00:43:46,490
 并对纹理进行下采样 这样它实际上就像是1080p的纹理 
-and down sampled the texture so that it is like actually a 1080p texture.
 
 853
 00:43:46,490 --> 00:43:51,490
 你不是想要计算更多 画出比你需要更多的东西 
-And you're not trying to calculate more, draw more than you need to.
 
 854
 00:43:51,490 --> 00:43:53,392
 但团结会为你解决这一问题 
-But Unity will figure that out for you.
 
 855
 00:43:53,392 --> 00:43:54,850
 你不必担心这一点 
-You don't have to worry about that.
 
 856
 00:43:58,080 --> 00:43:59,990
 但没错 这就是渲染纹理的含义 
-But yeah, that's what a render texture is.
 
 857
 00:43:59,990 --> 00:44:02,360
 这就是我们创造这种错觉的方式 
-And that's how we are creating this illusion.
 
 858
 00:44:02,360 --> 00:44:06,530
 记住 游戏中的一切都是幻觉 
-Remember, everything in the game is an illusion.
 
 859
 00:44:06,530 --> 00:44:13,180
 在这种情况下 因为纹理是平坦的
-In this case, because the textures are flat
 
 860
 00:44:13,180 --> 00:44:14,930
 而且没有视角修正 你
-and there's no perspective correction, you
 
 861
 00:44:14,930 --> 00:44:19,130
 我可以看到它是一种质地 即使它从很远的地方看起来有点令人信服 
-can see that it's a texture, even if it is slightly convincing from far away.
 
 862
 00:44:19,130 --> 00:44:21,590
 就像从远处看 它实际上看起来--
-Like from far away it actually kind of looks--
 
 863
 00:44:21,590 --> 00:44:24,950
 我是说 我不知道它看起来是否真实 
-I mean, I don't know if it necessarily looks real.
 
 864
 00:44:24,950 --> 00:44:26,270
 我是说 有点像 对吧？
-I mean, it kind of does, right?
 
 865
 00:44:26,270 --> 00:44:27,440
 从这里 很难说 
-From here, it's hard to tell.
 
 866
 00:44:27,440 --> 00:44:30,050
 从这里看我们好像要去另一个房间 对吧？
-And from here it kind of looks like we're going into another room, right?
 
 867
 00:44:30,050 --> 00:44:32,390
 我就像这样--嗯 那是破碎的墙 
-I go like that-- well, that's the broken wall.
 
 868
 00:44:32,390 --> 00:44:34,010
 当我像那样走的时候 对吗？
-When I go like that, right?
 
 869
 00:44:34,010 --> 00:44:36,260
 那里有一个传送门 看起来像是
-There's a portal there, and it kind of looks like it's
 
 870
 00:44:36,260 --> 00:44:37,880
 一个真实的房间
-a real room that we're walking through.
 
 871
 00:44:37,880 --> 00:44:38,838
 只是一个决议 
-It's just a resolution.
 
 872
 00:44:38,838 --> 00:44:41,600
 但我们所做的只是画出摄像机的视角
-But all we're doing is we're just drawing a camera's view
 
 873
 00:44:41,600 --> 00:44:43,380
 实时地投射到纹理上 
-onto that texture in real time.
 
 874
 00:44:43,380 --> 00:45:01,030
 如果你注意到了 当我们移动的时候 我们可以看到枪 
-And if you notice, when we move, we can see the gun.
 
 875
 00:45:01,030 --> 00:45:03,732
 所以我们可以看到它是实时渲染的 
-So we can see that it's rendering it in real time.
 
 876
 00:45:03,732 --> 00:45:05,440
 这就是渲染纹理的力量 
-And that's the power of a render texture.
 
 877
 00:45:05,440 --> 00:45:07,523
 这将允许你做各种各样的事情 
-And this will allow you to do all kinds of things.
 
 878
 00:45:07,523 --> 00:45:09,850
 你可以在你的游戏里有电视屏幕
-You can have like TV screens in your game
 
 879
 00:45:09,850 --> 00:45:13,496
 渲染场景的另一部分 
-that are rendering another part of your scene.
 
 880
 00:45:13,496 --> 00:45:15,370
 很明显像这样的例子
-Obviously an example like this where you have
 
 881
 00:45:15,370 --> 00:45:17,050
 一个通往另一个区域的入口
-a portal looking into another area.
 
 882
 00:45:17,050 --> 00:45:18,940
 现在如果你用透视校正
-Now if you apply a perspective correction
 
 883
 00:45:18,940 --> 00:45:22,065
 你的摄像机可以跟踪球员的位置
-to this whereby your camera actually tracks where your player's position is
 
 884
 00:45:22,065 --> 00:45:25,330
 相对于门户 您可以实现更可信的外观 
-relative to the portal, you can accomplish a much more believable look.
 
 885
 00:45:25,330 --> 00:45:28,390
 实际上你可以让它看起来像是你在观察另一个领域
-And you can actually make it seem as if you're looking into another area
 
 886
 00:45:28,390 --> 00:45:31,240
 因为摄像机是随着你的播放器移动的 
-because the camera is literally moving with your player.
 
 887
 00:45:31,240 --> 00:45:34,385
 所以摄像头--比如它捕捉的东西
-So the cameras-- like the stuff that it's capturing
 
 888
 00:45:34,385 --> 00:45:37,510
 是实时变化的 不仅仅是你的角色模型 
-is going to be changing in real time, not only just your character's model,
 
 889
 00:45:37,510 --> 00:45:38,010
 对吧？
-right?
 
 890
 00:45:38,010 --> 00:45:42,040
 实际的角度会改变 因此 透视是正确的 
-The actual angle is going to change and therefore, be perspective correct.
 
 891
 00:45:42,040 --> 00:45:43,990
 有一个很棒的教程
-And there's an awesome tutorial that I'm going
 
 892
 00:45:43,990 --> 00:45:46,955
 链接到幻灯片中 幻灯片会告诉你如何去做 
-to link to in the slides that'll show you how to go about doing that.
 
 893
 00:45:46,955 --> 00:45:48,280
 它真的很棒 
-And it's really awesome.
 
 894
 00:45:48,280 --> 00:45:49,570
 这就是它最终的样子 
-And so this is what it ends up looking like.
 
 895
 00:45:49,570 --> 00:45:51,040
 这是在我改变之前
-This is actually before I changed--
 
 896
 00:45:51,040 --> 00:45:53,905
 其中一个入口的摄像头角度略有偏移
-one of the portals had a slightly offset camera angle.
 
 897
 00:45:53,905 --> 00:45:55,780
 所以你可以看到这里有点像
-So you can see here this is like a little bit
 
 898
 00:45:55,780 --> 00:45:58,880
 比这个高 尽管它们应该是一样的
-higher than this one is, even though they should be exactly the same.
 
 899
 00:45:58,880 --> 00:46:01,710
 但现在修好了 
-But it's fixed now.
 
 900
 00:46:01,710 --> 00:46:04,470
 所以纹理遮罩--哦 有什么问题吗？
-So texture masking-- oh, any questions about any of that
 
 901
 00:46:04,470 --> 00:46:06,480
 在我们讨论纹理遮罩之前的处理过程？
-process before we talk about texture masking?
 
 902
 00:46:09,360 --> 00:46:14,760
 好的 所以纹理遮罩基本上就是这个过程 
-OK, so texture masking is basically the process.
 
 903
 00:46:14,760 --> 00:46:18,770
 因此 如果我们只取一个平面 并在其上添加渲染纹理 
-So if we just take a plane and we put a render texture onto it,
 
 904
 00:46:18,770 --> 00:46:19,870
 看起来就是这样 
-that's what it looks like.
 
 905
 00:46:19,870 --> 00:46:21,910
 它看起来就像是个正方形 
-It just looks like it's just a square.
 
 906
 00:46:21,910 --> 00:46:26,260
 如果你想要一种方形的门户外观 这可能会很好地发挥作用 
-And this could work fine if you want sort of a square portal look,
 
 907
 00:46:26,260 --> 00:46:28,250
 你不需要做任何额外的工作 
-you don't have to do any extra work.
 
 908
 00:46:28,250 --> 00:46:31,390
 但如果你想要一个圆圈 你真的不能
-But if you want a circle, you can't really
 
 909
 00:46:31,390 --> 00:46:35,406
 像一个圆形的普通物体一样创造 那并不真正存在 
-create like a circle shaped plain object, that doesn't really exist.
 
 910
 00:46:35,406 --> 00:46:37,280
 即使是这样 也不会有效率 
-And even if it did, it wouldn't be efficient,
 
 911
 00:46:37,280 --> 00:46:41,830
 尤其是如果你想要一个非常平滑的平面 因为所有的东西
-especially if you want a very smooth plane because everything
 
 912
 00:46:41,830 --> 00:46:43,450
 是三角形和多边形 对吗？
-is triangles and polygons, right?
 
 913
 00:46:43,450 --> 00:46:45,730
 所以如果你有一个圆圈 它将是
-So if you have a circle, it's going to be
 
 914
 00:46:45,730 --> 00:46:48,640
 其中一些呈扇形分布 特别是分辨率非常高的多边形
-a bunch of these fanned out polygons, especially very high res
 
 915
 00:46:48,640 --> 00:46:49,930
 像这样围成一个圈 
-circle like one of these.
 
 916
 00:46:49,930 --> 00:46:51,880
 这是一个非常高的分辨率循环 
-That's a very high res circle.
 
 917
 00:46:51,880 --> 00:46:56,070
 创建一个看起来像那样的面并不是最佳方法
-Making a polygon that looks like that is not an optimal way
 
 918
 00:46:56,070 --> 00:46:58,125
 去解决这个问题 对吗？
-to go about solving that problem, right?
 
 919
 00:46:58,125 --> 00:47:00,000
 解决问题的更理想的方法
-The much more optimal way to go about solving
 
 920
 00:47:00,000 --> 00:47:05,400
 该问题将是指定某些纹理的特定像素
-that problem would be to designate certain pixels of some texture
 
 921
 00:47:05,400 --> 00:47:09,420
 作为我们想要读取的像素 然后是某些其他像素
-as being pixels that we want to read, and then certain other pixels
 
 922
 00:47:09,420 --> 00:47:12,180
 不是我们想要读取的像素 
-being not pixels that we want to read.
 
 923
 00:47:12,180 --> 00:47:19,880
 因此 产生最终的图像 然后放到几何体上 对吗？
-And therefore, produce the final image that gets put onto a geometry, right?
 
 924
 00:47:19,880 --> 00:47:23,380
 因此 我们最终要做的是首先创建一个图像 
-And so, what we end up doing is creating an image first.
 
 925
 00:47:23,380 --> 00:47:27,610
 所以就是这张图片 它很难被看到 
-So it's this image, which is kind of hard to see,
 
 926
 00:47:27,610 --> 00:47:30,682
 但这只是一种简单的--
-but it's just a simple sort of--
 
 927
 00:47:30,682 --> 00:47:31,640
 你能从那里看到吗？
-can you see from there?
 
 928
 00:47:31,640 --> 00:47:32,640
 不 你可以的 
-Yeah, you can.
 
 929
 00:47:32,640 --> 00:47:34,260
 所以这只是一个简单的椭圆形 对吗？
-So it's just a simple oval, right?
 
 930
 00:47:34,260 --> 00:47:37,620
 这正是我们希望我们的门户看起来像的形状 
-It's the exact shape that we want our portal to look like.
 
 931
 00:47:37,620 --> 00:47:40,737
 白色的像素是我们要渲染的像素 
-And the pixels that are white are the pixels that we're going to render,
 
 932
 00:47:40,737 --> 00:47:43,820
 黑色的像素是我们不想渲染的像素 
-and the pixels that are black are the pixels that we don't want to render.
 
 933
 00:47:43,820 --> 00:47:48,360
 我们希望有效地将它们视为纯零阿尔法 
-We want to consider those as pure zero alpha effectively.
 
 934
 00:47:48,360 --> 00:47:51,870
 使用一个很棒的着色器 你可以得到
-And using a awesome shader that you can get
 
 935
 00:47:51,870 --> 00:47:56,220
 在Unity网页上轻松免费--这只是一个遮罩着色器 
-for free just easily on the Unity web page-- this is just a masking shader.
 
 936
 00:47:56,220 --> 00:48:00,240
 我不擅长编写着色器 但它的作用是
-And I'm not great at writing shaders, but what this does
 
 937
 00:48:00,240 --> 00:48:01,350
 正在关闭照明 
-is turns lighting off.
 
 938
 00:48:01,350 --> 00:48:06,430
 首先 如果我们将照明应用于我们的门户会发生什么？
-First of all, what happens if we have lighting applied to our portals?
 
 939
 00:48:13,122 --> 00:48:14,830
 这看起来会有点奇怪 对吧？
-It's going to look a little weird, right?
 
 940
 00:48:14,830 --> 00:48:16,780
 你会在你的门户上投下阴影
-You're going to get shadows cast on your portals
 
 941
 00:48:16,780 --> 00:48:18,988
 这说不通 因为我们有效地
-and that doesn't make sense because we're effectively
 
 942
 00:48:18,988 --> 00:48:22,310
 应该是在调查另一个地方 另一个地区 
-supposed to be looking into another place, another area.
 
 943
 00:48:22,310 --> 00:48:24,610
 所以我们有阴影投射到我们的东西上 
-So we have shadows that are being cast onto our thing,
 
 944
 00:48:24,610 --> 00:48:29,130
 我们实际上就像在我们的门户上看到了一扇玻璃门 对吗？
-we're effectively like almost seeing like a glass door on our portal, right?
 
 945
 00:48:29,130 --> 00:48:30,760
 它在某种程度上打破了这种错觉 
-It sort of breaks the illusion.
 
 946
 00:48:30,760 --> 00:48:33,250
 所以灯光应该关掉 
-So lighting should be off.
 
 947
 00:48:33,250 --> 00:48:35,710
 很多这样的事情我不是百分之百的 因为我不是
-A lot of these things I'm not 100% on because I'm not
 
 948
 00:48:35,710 --> 00:48:38,830
 很擅长编写着色器 但它是一个非常简单、容易的着色器
-great at writing shaders, but it's a very simple, easy shader
 
 949
 00:48:38,830 --> 00:48:43,150
 你可以从Unity的网页上抓取 
-that you can grab off of the Unity web page.
 
 950
 00:48:43,150 --> 00:48:48,329
 我想我把最下面的url剪掉了 
-I think I clipped the url here at the very bottom.
 
 951
 00:48:48,329 --> 00:48:50,120
 但我是从Unity的网页上拿来的 
-But I grabbed it off of the Unity web page.
 
 952
 00:48:50,120 --> 00:48:56,710
 它所做的就是在你的材料上添加第二幅图像 
-And all it does is it adds onto your material this second image here,
 
 953
 00:48:56,710 --> 00:49:00,070
 它被放大了一点 因为Unity制作了任何质地
-and it gets blown up a little bit because Unity makes any texture
 
 954
 00:49:00,070 --> 00:49:05,240
 基本上可以应用于您的任何纹理
-that you apply to basically any texture you
 
 955
 00:49:05,240 --> 00:49:08,450
 像放进一个图像选择器就会被做成正方形 
-put into like an image selector will get made into a square shape.
 
 956
 00:49:08,450 --> 00:49:10,340
 我们的形象也不是正方形的 
-And our image is not square shaped.
 
 957
 00:49:10,340 --> 00:49:13,490
 但它所做的是 当您传入此图像时 
-But what this does is when you pass in this image, which
 
 958
 00:49:13,490 --> 00:49:18,740
 被称为煤遮罩 它基本上会将这两个图像结合起来
-is called a coaling mask, it will basically combine the two images
 
 959
 00:49:18,740 --> 00:49:25,140
 然后抵消掉上面任何黑色的像素 
-and then cancel out any of the pixels that are black on this.
 
 960
 00:49:25,140 --> 00:49:32,530
 它将有效地将黑白添加到纹理的Alpha中
-It'll effectively add the black and white to the alpha of the texture
 
 961
 00:49:32,530 --> 00:49:33,349
 像素 对吧？
-pixels, right?
 
 962
 00:49:33,349 --> 00:49:35,140
 所以你实际上可以把其中的一些变成灰色
-So you can actually make some of these gray
 
 963
 00:49:35,140 --> 00:49:38,230
 然后他们会产生让它变得半透明的效果 
-and then they'll have the effect of sort of making it half transparent.
 
 964
 00:49:38,230 --> 00:49:44,500
 但在这种情况下 我只选择了全透明和全硬255阿尔法 
-But in this case, I only went with full transparent and full hard 255 alpha.
 
 965
 00:49:44,500 --> 00:49:48,130
 因此 我们得到了门户网站的清晰轮廓 
-So we get sort of a crisp outline for our portals.
 
 966
 00:49:48,130 --> 00:49:56,800
 这就是你如何将一个基本的椭圆形组合在一起
-And that's how you end up putting together a basic sort of oval shape
 
 967
 00:49:56,800 --> 00:49:59,260
 在只是一个平坦的网状物上 
-on something that is just a flat mesh.
 
 968
 00:49:59,260 --> 00:50:01,310
 你可以在任何事情上做到这一点 
-And you can do this with anything.
 
 969
 00:50:01,310 --> 00:50:04,810
 任何时候你需要去掉一个细节
-Anytime you need to take away a detail that
 
 970
 00:50:04,810 --> 00:50:09,610
 会让制作网格变得非常困难 或者做一些非常酷的效果 
-would make making a mesh extremely difficult or doing really cool effects,
 
 971
 00:50:09,610 --> 00:50:12,439
 为它制作一个面具通常要容易得多
-it's often just a lot easier to create a mask for it
 
 972
 00:50:12,439 --> 00:50:14,980
 然后使用正确的着色器 该着色器应该具有该遮罩 
-and then use the right shader that's meant to have that mask.
 
 973
 00:50:14,980 --> 00:50:21,290
 然后只需按你需要的方式操纵它 
-And then just manipulate that however you need to.
 
 974
 00:50:21,290 --> 00:50:23,950
 同样 着色器的链接在这里 
-And again, the link here for the shader is here.
 
 975
 00:50:23,950 --> 00:50:27,880
 然后你可以用它做任何你想做的事情 
-And then you can use this for pretty much anything you want.
 
 976
 00:50:27,880 --> 00:50:31,430
 最终的结果是我们从一个正方形门户
-End result of that is we go from having a square portal
 
 977
 00:50:31,430 --> 00:50:33,050
 到一个椭圆形的入口 
-to an elliptical portal.
 
 978
 00:50:33,050 --> 00:50:33,860
 太棒了 
-So pretty nice.
 
 979
 00:50:37,110 --> 00:50:39,680
 我不用坐飞机 但它并不是真的
-I didn't have to use a plane, but it doesn't really
 
 980
 00:50:39,680 --> 00:50:48,690
 使用其他任何东西都是有意义的 因为使用立方体可以创建深度 
-make sense to use anything else because using a cube would create depth.
 
 981
 00:50:48,690 --> 00:50:51,110
 我们不希望门户有任何深度 真的 
-We don't want the portal to have any depth, really.
 
 982
 00:50:51,110 --> 00:50:52,764
 只是应该是一个平坦的表面 
-It's just should be a flat surface.
 
 983
 00:50:52,764 --> 00:50:54,680
 然后当我们经历它的时候 它应该
-And then when we go through it, it should just
 
 984
 00:50:54,680 --> 00:50:58,940
 将我们传送到另一个表面 让它看起来像是无缝的 
-teleport us to the other surface to make it look sort of seamless.
 
 985
 00:50:58,940 --> 00:51:03,170
 我不认为有任何其他的几何学选择
-I don't think there's any other choice of geometry that
 
 986
 00:51:03,170 --> 00:51:05,101
 对于这个用例来说是有意义的 
-makes sense for this use case.
 
 987
 00:51:05,101 --> 00:51:10,011
 观众：你不会只是把一个圆柱体压平 然后[INAUDIBLE]
-AUDIENCE: You wouldn't just make a cylinder flat and have [INAUDIBLE]
 
 988
 00:51:10,011 --> 00:51:10,993
 在上面投射吗？
-project on it?
 
 989
 00:51:10,993 --> 00:51:14,130
 科尔顿·奥格登：不 我可能不会 
-COLTON OGDEN: No, I probably wouldn't.
 
 990
 00:51:14,130 --> 00:51:19,170
 让圆柱体变平 然后投射出来 而且没有深度 
-To make a cylinder flat and project it and have no depth on it,
 
 991
 00:51:19,170 --> 00:51:23,820
 你仍然可以看到它上面的戒指 
-you would be able to still see the rings on it.
 
 992
 00:51:23,820 --> 00:51:27,870
 纹理处理也要稍微复杂一些
-And also texturing that is a little bit more complicated
 
 993
 00:51:27,870 --> 00:51:35,790
 因为您必须对蒙版和常规纹理进行UV贴图
-because you'd have to UV map both your mask and your regular texture
 
 994
 00:51:35,790 --> 00:51:40,306
 因为默认情况下 它会包装得很奇怪 
-onto that because by default it's going to wrap it weird.
 
 995
 00:51:40,306 --> 00:51:42,680
 这只是一个平面 所以无论映射到它的纹理是什么
-This is just a plane, so whatever you texture map onto it
 
 996
 00:51:42,680 --> 00:51:43,920
 将会是完全平坦的 
-is going to be completely flat.
 
 997
 00:51:43,920 --> 00:51:46,086
 但圆柱体会把它包裹在四面八方 
-But a cylinder is going to wrap it around all sides,
 
 998
 00:51:46,086 --> 00:51:49,374
 它看起来会有点时髦 
-and it's going to look a little bit funky.
 
 999
 00:51:49,374 --> 00:51:51,540
 我想理论上你可以用圆柱体来装它 
-I suppose in theory you could use a cylinder for it,
 
 1000
 00:51:51,540 --> 00:51:53,040
 但我认为这将是一项巨大的工作 
-but I think would be a tremendous amount of work.
 
 1001
 00:51:53,040 --> 00:51:56,090
 我认为这不会像让它起作用那样容易
-I don't think it would be anywhere near as easy as getting it to work
 
 1002
 00:51:56,090 --> 00:51:59,720
 只有一个平面或一个网状物 
-with just a flat plane or a mesh.
 
 1003
 00:51:59,720 --> 00:52:01,710
 不过 这个想法很有趣 
-Interesting idea, though.
 
 1004
 00:52:01,710 --> 00:52:05,220
 我猜理论上你可以创造一个圆柱体
-I guess you could theoretically create a cylinder
 
 1005
 00:52:05,220 --> 00:52:07,770
 如果你想成为连接两个世界的桥梁
-if you wanted to like a bridge between two worlds
 
 1006
 00:52:07,770 --> 00:52:11,707
 一端是入口 另一端是入口
-and have one end be one portal and one end be another portal
 
 1007
 00:52:11,707 --> 00:52:13,290
 然后能够在它们之间行走 
-and then be able to walk between them.
 
 1008
 00:52:13,290 --> 00:52:15,331
 这是一个很酷的想法 也许你可以做到这一点 
-That's a cool idea, maybe you can make that work.
 
 1009
 00:52:15,331 --> 00:52:20,610
 但我认为 对于这一点 飞机是正确的方式去 
-But I think for this, the plane is the right way to go.
 
 1010
 00:52:20,610 --> 00:52:23,640
 还有什么问题吗
-Any more questions as to how that works?
 
 1011
 00:52:27,710 --> 00:52:28,770
 好吧
-All right.
 
 1012
 00:52:28,770 --> 00:52:30,540
 我们现在来谈谈心灵传输 
-So we'll talk about teleporting now.
 
 1013
 00:52:30,540 --> 00:52:33,160
 所以瞬移很容易 
-So teleporting is pretty easy.
 
 1014
 00:52:33,160 --> 00:52:39,794
 我们真正需要做的就是创建一个网格碰撞器
-All we really need to do is just create a mesh collider
 
 1015
 00:52:39,794 --> 00:52:42,210
 在传送门网格上 橙色的传送门和蓝色的传送门 
-on the portal mesh, the orange portal and the blue portal.
 
 1016
 00:52:42,210 --> 00:52:47,077
 这个网格碰撞器是一个触发器 
-And then that mesh collider is a trigger and it
 
 1017
 00:52:47,077 --> 00:52:51,990
 检测到与其他物体的碰撞 我们可以在触发器上定义 输入 
-detects a collision with something else, we can just define on trigger, enter.
 
 1018
 00:52:51,990 --> 00:52:56,310
 这样我们就能传送对撞机
-And then with that, we can teleport the collider
 
 1019
 00:52:56,310 --> 00:52:59,730
 其他门户网站的位置 
-other to the other portals location.
 
 1020
 00:52:59,730 --> 00:53:03,150
 所以每个入口 这是入口的组成部分 
-So every portal, this is the portal component,
 
 1021
 00:53:03,150 --> 00:53:05,940
 它有一个链接的入口 因为我们需要知道在哪里传送
-it has a linked portal because we need to know where to teleport
 
 1022
 00:53:05,940 --> 00:53:07,890
 把玩家带到另一个入口
-the player to the other portal.
 
 1023
 00:53:07,890 --> 00:53:11,250
 所以我们需要一个对它的transform的引用 
-So we need to have a reference to its transform.
 
 1024
 00:53:11,250 --> 00:53:15,510
 它是否活跃是因为如果我们允许自己
-Whether it's active because if we allow ourselves
 
 1025
 00:53:15,510 --> 00:53:21,279
 传送到另一个传送门 然后在另一个传送门之间来回传送
-to teleport to another portal and another portal back and forth
 
 1026
 00:53:21,279 --> 00:53:23,820
 没有任何约束 你认为会发生什么？
-without any restraints, what do you think is going to happen?
 
 1027
 00:53:26,400 --> 00:53:27,020
 无限循环
-Infinite loop.
 
 1028
 00:53:27,020 --> 00:53:30,250
 我们就得到了一种无限的奇怪的闪烁效果 
-We just get an infinite sort of weird flickering effect.
 
 1029
 00:53:30,250 --> 00:53:33,270
 因此 您需要在两个门户上有效地设置切换开关
-So you need to effectively have a toggle switch on both portals
 
 1030
 00:53:33,270 --> 00:53:37,860
 说我一进入传送门就不能
-and say as soon as I enter a portal, I should not
 
 1031
 00:53:37,860 --> 00:53:40,137
 能够瞬间移动回到里面
-be able to teleport back into it.
 
 1032
 00:53:40,137 --> 00:53:41,970
 一旦我传送到另一个入口 
-And as soon as I teleport to another portal,
 
 1033
 00:53:41,970 --> 00:53:44,260
 我应该也无法瞬移进去 
-I should not be able to teleport into it either.
 
 1034
 00:53:44,260 --> 00:53:48,270
 但是一旦你离开了传送门 你应该可以传送回去 
-But once you exit the portal, you should be able to teleport back into it.
 
 1035
 00:53:48,270 --> 00:53:52,810
 因此 我们实际上进入了一个入口 
-And so, what that effectively does is we enter a portal,
 
 1036
 00:53:52,810 --> 00:53:55,900
 它就会被标记为不可传送
-it gets flagged as not teleportable.
 
 1037
 00:53:55,900 --> 00:53:57,970
 我们被传送到另一个入口 
-We get teleported to the other portal.
 
 1038
 00:53:57,970 --> 00:54:01,240
 一旦发生这种情况 这个入口现在可以传送到 
-As soon as that happens, this portal can now be teleported into,
 
 1039
 00:54:01,240 --> 00:54:06,560
 我们所在的这个传送门被标记为不可传送
-this portal that we're standing in is now flagged as not teleportable.
 
 1040
 00:54:06,560 --> 00:54:09,280
 然后我们走出它 我们被允许传送回来
-And then we walk out of it and we're allowed to teleport back
 
 1041
 00:54:09,280 --> 00:54:11,170
 分成两个部分
-into that one and the other one.
 
 1042
 00:54:11,170 --> 00:54:13,100
 所以实际上有一个开关操作
-So there's effectively an on off operation
 
 1043
 00:54:13,100 --> 00:54:15,880
 你必须适当地平衡 
-that you have to balance appropriately.
 
 1044
 00:54:15,880 --> 00:54:18,400
 实际的“门户”游戏稍微复杂一些 
-The actual "Portal" game is a little more complicated
 
 1045
 00:54:18,400 --> 00:54:22,060
 因为它们允许你在两个入口之间走进去 
-because they allow you to walk in between portals.
 
 1046
 00:54:22,060 --> 00:54:24,490
 这并没有深入到那种程度的细节 
-This does not go into that level of detail,
 
 1047
 00:54:24,490 --> 00:54:27,040
 这是一个需要解决的更复杂的问题 
-and it's a more complicated problem to solve.
 
 1048
 00:54:27,040 --> 00:54:29,700
 这个例子只是假设你走进一个门户 
-This example just assumes that you walk into a portal,
 
 1049
 00:54:29,700 --> 00:54:33,490
 你可以把它传送到另一端 没有中间状态 
-you can teleport it out the other end, and there's no in-between state.
 
 1050
 00:54:33,490 --> 00:54:35,740
 实际上 如果你在两个入口之间 
-And actually, if you're in-between two portals,
 
 1051
 00:54:35,740 --> 00:54:39,410
 有一个几何体的复制 Valve将在他们的演讲中谈到
-there's a replication of geometry, which Valve will talk about in their talk
 
 1052
 00:54:39,410 --> 00:54:41,410
 我认为这将是非常有趣的 
-as well, which I think will be very interesting.
 
 1053
 00:54:41,410 --> 00:54:45,100
 因为如果你在一个传送门中间看另一个传送门 
-Because if you look into another portal while you're in the middle of a portal,
 
 1054
 00:54:45,100 --> 00:54:49,330
 你想在那个门户里看到你自己 
-you want to be able to see yourself in that portal,
 
 1055
 00:54:49,330 --> 00:54:50,980
 在进入和离开那个传送门的中途 
-halfway in and out of that portal.
 
 1056
 00:54:50,980 --> 00:54:54,790
 所以有很多有趣的考虑
-So there is a lot of interesting considerations
 
 1057
 00:54:54,790 --> 00:54:57,010
 获得非常可信的门户系统 
-for getting very believable portal systems,
 
 1058
 00:54:57,010 --> 00:55:00,460
 但我们的是一个非常简单的例子 
-but ours is a very simple illustration.
 
 1059
 00:55:00,460 --> 00:55:02,380
 因此 这个切换功能就是我所要做的
-And so, this toggle function is all that I
 
 1060
 00:55:02,380 --> 00:55:05,620
 必须切换该功能的开启和关闭功能 
-have to toggle the function's on and off capability.
 
 1061
 00:55:05,620 --> 00:55:08,710
 它只是门户活动 而不是门户活动 
-And all it is just portal active is not portal active,
 
 1062
 00:55:08,710 --> 00:55:10,270
 而这只会颠覆这面旗帜 
-and that just flips that flag.
 
 1063
 00:55:10,270 --> 00:55:12,370
 这超级简单 
-It's super easy.
 
 1064
 00:55:12,370 --> 00:55:18,830
 在触发器进入时 我们有效地兑现了x轴和z轴上的头寸x 
-On trigger enter, we effectively cash our position x on the x and z-axis,
 
 1065
 00:55:18,830 --> 00:55:21,170
 所以我们不旋转它是因为当我们旋转我们的x
-so we don't rotate it because when we rotate our x
 
 1066
 00:55:21,170 --> 00:55:25,040
 和z在第一人称控制器上 
-and z on the first person controller by default,
 
 1067
 00:55:25,040 --> 00:55:28,010
 它导致了一些非常奇怪的错误行为 基于
-it causes some really weird buggy behavior based on the way
 
 1068
 00:55:28,010 --> 00:55:29,670
 FPS控制器工作正常 
-that the FPS controller works.
 
 1069
 00:55:29,670 --> 00:55:32,380
 所以我所要做的就是选择这些职位 
-So all I do is I just cast those positions,
 
 1070
 00:55:32,380 --> 00:55:34,400
 然后在y轴上旋转 
-and then make a rotation on the y-axis.
 
 1071
 00:55:34,400 --> 00:55:40,934
 这将为我们省去你将得到的奇怪的颠倒效应 
-And that'll save us that weird going topsy turvy effect that you'll get.
 
 1072
 00:55:40,934 --> 00:55:44,100
 如果默认情况下使用FPS控制器 并且确实在其上执行旋转 
-If you use the FPS controller by default and you do perform rotations on it,
 
 1073
 00:55:44,100 --> 00:55:45,110
 你会注意到这一点 
-you'll notice this.
 
 1074
 00:55:45,110 --> 00:55:49,434
 所以我还没有时间深入挖掘如何修复它 
-So I haven't had the time to dig in depth as to how to fix it,
 
 1075
 00:55:49,434 --> 00:55:51,350
 但这是我能够修复它的方法 
-but this is the way that I was able to fix it.
 
 1076
 00:55:51,350 --> 00:55:54,830
 至少在这个例子中 只允许您自己
-For this example, at least, only allow yourself
 
 1077
 00:55:54,830 --> 00:55:59,150
 在y方向上旋转 这是你看起来相对的方向
-to rotate on the y direction, which is where you're looking relative
 
 1078
 00:55:59,150 --> 00:56:00,500
 到地平面 
-to the ground plane.
 
 1079
 00:56:00,500 --> 00:56:03,650
 这将允许我们根据位置进行旋转
-And that will allow us to rotate based on where
 
 1080
 00:56:03,650 --> 00:56:09,516
 我们正在离开传送门 至少在上下的墙上
-we're exiting the portal, at least on the walls that are going up and down
 
 1081
 00:56:09,516 --> 00:56:11,390
 然后产生那种令人信服的效果 
-and then have that sort of believable effect.
 
 1082
 00:56:11,390 --> 00:56:14,210
 它不允许我们从上面跳下进入一个入口
-It doesn't allow us to jump down into a portal from up above
 
 1083
 00:56:14,210 --> 00:56:17,240
 然后看到我们从另一个入口下来 那个入口
-and see us coming down from the other portal, which
 
 1084
 00:56:17,240 --> 00:56:21,811
 令人遗憾的是 这是一个很酷的效果 但它确实允许我们在大多数情况下
-is a cool effect unfortunately, but it does allow us of to get most of the way
 
 1085
 00:56:21,811 --> 00:56:22,310
 那里 
-there.
 
 1086
 00:56:24,920 --> 00:56:27,840
 因此 我们将我们的位置设置为另一个门户的位置
-And so, we set our position to the other portal's position
 
 1087
 00:56:27,840 --> 00:56:29,730
 和我们的轮换 但只有y 
-and our rotation, but only the y.
 
 1088
 00:56:29,730 --> 00:56:35,130
 我们得到y 然后我们在这里用我们球员的欧拉角来表示它
-We get the y, and then we said it here using euler angles on our players
 
 1089
 00:56:35,130 --> 00:56:36,480
 变形 
-transform.
 
 1090
 00:56:36,480 --> 00:56:39,930
 然后是我创建的一个函数
-And then there's a function that I created
 
 1091
 00:56:39,930 --> 00:56:43,770
 称为鼠标重置 它实际上只是再次调用init
-called mouse reset, which effectively just calls init again
 
 1092
 00:56:43,770 --> 00:56:49,950
 关于FPS控制器在相机和播放器上的旋转 
-on the FPS controller's rotation on the camera and the player.
 
 1093
 00:56:49,950 --> 00:56:54,570
 然后 这有点像你需要的黑客攻击 以便--
-And then, that's sort of like the hack that you need in order to--
 
 1094
 00:56:54,570 --> 00:56:56,880
 许多怪异之处之所以存在
-the reason that a lot of the weirdness exists
 
 1095
 00:56:56,880 --> 00:57:01,000
 是因为玩家控制器兑现了它的轮换信息 
-is because the player controller cashes its rotation information.
 
 1096
 00:57:01,000 --> 00:57:04,740
 因此 如果您在FPS控制器上执行旋转
-And so if you perform a rotation on your FPS controller
 
 1097
 00:57:04,740 --> 00:57:07,720
 用手 而不是让它发生在鼠标上 
-by hand as opposed to allowing it to happen with the mouse,
 
 1098
 00:57:07,720 --> 00:57:12,180
 它将立即将其重置回其先前的位置和旋转 
-it will immediately reset it back to its prior position and rotation.
 
 1099
 00:57:12,180 --> 00:57:16,330
 其效果是当我们从一个门户传送到另一个门户时--
-Which has the effect of when we teleport from one portal to another--
 
 1100
 00:57:16,330 --> 00:57:18,570
 即使我们设置了旋转方向
-even though we set our direction of rotation
 
 1101
 00:57:18,570 --> 00:57:22,830
 在外面朝向入口所面对的方向 
-to be outside going in the direction of where the portal is facing,
 
 1102
 00:57:22,830 --> 00:57:26,490
 我们最终得到了与进入传送门相同的旋转 
-we end up having the same rotation that we did entering the portal.
 
 1103
 00:57:26,490 --> 00:57:29,370
 因此 我们最终走出门户往往只是倒退 
-So we end up coming out of portals often just backwards.
 
 1104
 00:57:29,370 --> 00:57:33,360
 因此 这只是第一人称控制者的一个限制 
-And so, that's just a limitation of the first person controller,
 
 1105
 00:57:33,360 --> 00:57:36,900
 但您可以通过调用鼠标重置来修复该问题 该函数
-but you can fix that by calling mouse reset, which is a function that
 
 1106
 00:57:36,900 --> 00:57:39,770
 本质上只是再次调用init 
-essentially just calls init again.
 
 1107
 00:57:39,770 --> 00:57:44,204
 它是FPS控制器的鼠标外观对象的一部分 
-Which init is part of the FPS controller's mouse look object.
 
 1108
 00:57:44,204 --> 00:57:46,620
 我不会太详细地谈论它 因为它是
-I won't go too much into detail about it just because it's
 
 1109
 00:57:46,620 --> 00:57:51,270
 有点晦涩难懂 如果你想看看里面的源代码
-a little bit arcane and the source codes in there if you want to take a look
 
 1110
 00:57:51,270 --> 00:57:52,560
 并涉足其中 
-and dabble with it.
 
 1111
 00:57:52,560 --> 00:57:57,600
 但有效地阻止了它缓存其旋转信息
-But effectively, preventing it from caching its rotation information
 
 1112
 00:57:57,600 --> 00:58:01,290
 只需对其进行硬设置 然后调用鼠标
-and just hard setting it, and then recalling the mouse
 
 1113
 00:58:01,290 --> 00:58:04,800
 查看init函数 该函数执行旋转的实际设置
-look init function, which does the actual setting of the rotation
 
 1114
 00:58:04,800 --> 00:58:07,740
 在摄像机和播放器上 
-on the camera and the player.
 
 1115
 00:58:07,740 --> 00:58:11,970
 有点奇怪 但那是Unity的FPS控制器 
-A little bit weird, but that's Unity's FPS controller,
 
 1116
 00:58:11,970 --> 00:58:14,980
 这就是其他人说要解决的问题 
-and that's how other people are saying to fix it.
 
 1117
 00:58:14,980 --> 00:58:17,730
 所以你可以使用你自己的 你可以创建你自己的FPS控制器
-So you could roll your own, you can create your own FPS controller
 
 1118
 00:58:17,730 --> 00:58:19,770
 并可能阻止这种情况的发生 
-and probably prevent this from happening.
 
 1119
 00:58:19,770 --> 00:58:21,853
 但如果你想使用常规的FPS控制器 
-But if you want to use the regular FPS controller,
 
 1120
 00:58:21,853 --> 00:58:24,060
 这就是那里的限制 
-that's the limitation there.
 
 1121
 00:58:24,060 --> 00:58:28,086
 但它大部分都起作用了 看起来相当不错 
-But it's mostly working and it looks pretty good.
 
 1122
 00:58:28,086 --> 00:58:30,960
 多花点时间 我们可能会让它看起来更好 
-Some more time on it, and we could probably make it look even better.
 
 1123
 00:58:30,960 --> 00:58:34,680
 但就目前而言 我认为这是件好事 
-But for now, I think it's good.
 
 1124
 00:58:34,680 --> 00:58:36,920
 所以这就是心灵传送 
-So that's teleporting.
 
 1125
 00:58:36,920 --> 00:58:38,940
 设定好你的位置 然后设定你的y旋转 
-Set your position, and then set your y rotation,
 
 1126
 00:58:38,940 --> 00:58:42,240
 覆盖FPS控制器的默认旋转缓存 
-override the FPS controller's default rotation caching,
 
 1127
 00:58:42,240 --> 00:58:46,800
 我们可以走进这个入口 然后立即走出这个入口 
-and we can walk in this portal and then instantly walk out this portal.
 
 1128
 00:58:46,800 --> 00:58:48,050
 这就是我们所看到的 
-And that's what we see.
 
 1129
 00:58:48,050 --> 00:58:52,710
 简而言之 对于这是如何运作的 有什么问题吗？
-So any questions as to how sort of this works in a nutshell?
 
 1130
 00:58:52,710 --> 00:58:57,200
 或者可能是我们门户中的任何代码？
-Or maybe any of the code here in our portal?
 
 1131
 00:59:00,686 --> 00:59:03,180
 好的 
-All right.
 
 1132
 00:59:03,180 --> 00:59:08,720
 因此 一个更好的门户版本 至少在呈现方面是这样的 
-So a much better version of the portal, at least from the rendering side,
 
 1133
 00:59:08,720 --> 00:59:09,750
 这个视频在这里吗 
-is this video here.
 
 1134
 00:59:09,750 --> 00:59:10,850
 所以是布拉克西斯 
-So it's Braxis.
 
 1135
 00:59:10,850 --> 00:59:15,150
 太好了 他把事情解释得很好 
-So good he explains things very well.
 
 1136
 00:59:15,150 --> 00:59:19,490
 他的视频质量非常高 
-He's got a very high quality to his videos.
 
 1137
 00:59:19,490 --> 00:59:21,920
 他创建了一系列的Unity教程 
-He creates a bunch of Unity tutorials.
 
 1138
 00:59:21,920 --> 00:59:24,020
 在这种情况下 他创建了一个门户
-And in this case, he created a portal that
 
 1139
 00:59:24,020 --> 00:59:27,980
 使用了一个有趣的着色器 只会
-used an interesting shader that will only
 
 1140
 00:59:27,980 --> 00:59:35,000
 渲染除几何体以外的所有对象 并将其渲染到平面上 在这种情况下 该平面 
-render everything but geometry and also onto a plane, in which case this plane.
 
 1141
 00:59:35,000 --> 00:59:39,650
 并且做我之前提到的播放器的相机插补 
-And does the camera interpolation of the player that I alluded to before,
 
 1142
 00:59:39,650 --> 00:59:41,870
 这让我们能够真正拥有--
-which allows us to actually have--
 
 1143
 00:59:41,870 --> 00:59:44,660
 所以现在这是两个不同的世界 
-so these are two separate worlds in tandem right now.
 
 1144
 00:59:44,660 --> 00:59:47,290
 所以这里有一个红色的世界 然后这个相机
-So there's this red world here, and then this camera
 
 1145
 00:59:47,290 --> 00:59:49,610
 正着眼于一个完全不同的绿色世界
-is looking at a completely different green world that's
 
 1146
 00:59:49,610 --> 00:59:52,350
 在远方完全出发了 
-completely set off in the distance.
 
 1147
 00:59:52,350 --> 00:59:55,730
 这是完全相同的几何图形 但完全是绿色的
-That's the exact same geometry, but completely colored green
 
 1148
 00:59:55,730 --> 00:59:56,752
 而不是红色 
-as opposed to red.
 
 1149
 00:59:56,752 --> 00:59:59,210
 如果你透过这里看 它是完全无缝的
-And if you look through here, it's just completely seamless
 
 1150
 00:59:59,210 --> 01:00:00,920
 而且穿行是完全无缝的 
-and the walk through is completely seamless.
 
 1151
 01:00:00,920 --> 01:00:02,960
 他详细介绍了他是如何完成这一切的 
-And he goes into detail as to how he accomplished all of this,
 
 1152
 01:00:02,960 --> 01:00:03,530
 如果你好奇的话 
-if you're curious.
 
 1153
 01:00:03,530 --> 01:00:05,930
 他还为您提供了可以免费使用的着色器 
-And he provides you the shader that you can use for free.
 
 1154
 01:00:05,930 --> 01:00:08,114
 所以 如果你对此感兴趣 一定要检查一下 
-So definitely check that out if that's of interest.
 
 1155
 01:00:08,114 --> 01:00:09,530
 视频中有一个链接 
-There's a link there in the video.
 
 1156
 01:00:09,530 --> 01:00:11,870
 以下是他在YouTube上的系列节目的链接 
-And here's a link to his YouTube series.
 
 1157
 01:00:11,870 --> 01:00:16,280
 我把其中的一些放在了闲置状态 因为有人要了一些人工智能视频 
-I put some of these in the slack because somebody requested some AI videos.
 
 1158
 01:00:16,280 --> 01:00:18,890
 他有一堆不同的人工智能视频
-And he has a bunch of different AI videos
 
 1159
 01:00:18,890 --> 01:00:20,690
 还有很多其他很酷的剧集 
-and a bunch of other really cool series.
 
 1160
 01:00:20,690 --> 01:00:23,270
 所以 如果你好奇的话 你可以看看这个 
-So you can take a look at that, if curious.
 
 1161
 01:00:23,270 --> 01:00:28,950
 而“门户”最好的版本显然就是门户本身 
-And the best version of "Portal" obviously is the portal itself.
 
 1162
 01:00:28,950 --> 01:00:32,690
 Dave Kircher和Tejeev Kohli是Valve的员工
-And Dave Kircher and Tejeev Kohli are employees involved at Valve
 
 1163
 01:00:32,690 --> 01:00:35,300
 为《门户网站》工作的人 他们将于5月2日来到这里
-who worked on "Portal," and they'll be here on May 2
 
 1164
 01:00:35,300 --> 01:00:39,320
 就所有技术方面的事情做一次演讲
-to give a talk as to all of the technical sort of things that
 
 1165
 01:00:39,320 --> 01:00:43,410
 在幕后 与渲染和物理有关
-went behind the scenes and related to rendering and physics
 
 1166
 01:00:43,410 --> 01:00:46,580
 只是得到了一种可信和美好的感觉
-and just getting a believable and good feeling
 
 1167
 01:00:46,580 --> 01:00:52,190
 体验实际打磨过的最终游戏《门户》
-experience with "Portal" for the actual polished final game
 
 1168
 01:00:52,190 --> 01:00:53,240
 这就是我们所说的 
-that we're talking about.
 
 1169
 01:00:53,240 --> 01:00:55,497
 所以如果你好奇的话一定要来听那个演讲 
-So definitely come to that talk if you're curious.
 
 1170
 01:00:55,497 --> 01:00:58,080
 我们要休息一下 然后一回来 
-We're going to take a break, and then as soon as we come back,
 
 1171
 01:00:58,080 --> 01:01:00,288
 我们要谈一谈一些新工具
-we're going to talk a little bit about some new tools
 
 1172
 01:01:00,288 --> 01:01:03,800
 Unity发布了名为ProBuilder和ProGrids的产品 
-that Unity has released called ProBuilder and ProGrids.
 
 1173
 01:01:03,800 --> 01:01:05,380
 我们会讨论作业的问题 
-And we'll talk about the assignment.
 
 1174
 01:01:05,380 --> 01:01:08,030
 这将是它的50加元 
-And that will be it for GD 50.
 
 1175
 01:01:08,030 --> 01:01:09,170
 好了 欢迎回来 
-All right, welcome back.
 
 1176
 01:01:09,170 --> 01:01:10,310
 这是第十课 
-This is Lecture 10.
 
 1177
 01:01:10,310 --> 01:01:13,640
 所以我们在休息前谈到了《门户》 我们谈到了光线投射 
-So we talked about "Portal" before the break, we talked about ray casting.
 
 1178
 01:01:13,640 --> 01:01:16,610
 我们谈到了渲染纹理 它们是什么 
-We talked about render textures, what those are,
 
 1179
 01:01:16,610 --> 01:01:18,500
 在统一中制作这些是多么容易 
-how easy it is to make those in Unity.
 
 1180
 01:01:18,500 --> 01:01:22,340
 我们讨论了如何给我们的第一人称控制员一把枪
-We talked about how to give our first person controller a gun
 
 1181
 01:01:22,340 --> 01:01:26,080
 这样我们就可以环顾四周 看起来就像拿着武器一样 
-so that we could actually look around and look as if we're holding a weapon.
 
 1182
 01:01:26,080 --> 01:01:29,080
 我们讨论了门户本身 以及如何掩盖渲染
-We talked about the portals themselves, how we're masking out the render
 
 1183
 01:01:29,080 --> 01:01:32,960
 应用于平面的纹理 以及每个纹理后面如何有摄影机
-texture as applied to a plane, and how each of those has a camera behind it
 
 1184
 01:01:32,960 --> 01:01:36,290
 这样它就可以呈现从门户在方向上发出的内容
-so that it can render what is going out from the portal in the direction
 
 1185
 01:01:36,290 --> 01:01:37,820
 它所面对的 
-that it's facing.
 
 1186
 01:01:37,820 --> 01:01:40,550
 我们现在要离开“门户网站” 谈谈
-We're going to deviate from "Portal" now, and talk
 
 1187
 01:01:40,550 --> 01:01:44,330
 关于ProBuilder和ProGrids 这两个工具
-about ProBuilder and ProGrids, which are two tools that
 
 1188
 01:01:44,330 --> 01:01:49,790
 是新的统一2018.1的一部分 它将允许我们实际建模
-are part of the new Unity 2018.1 which will allow us to actually model
 
 1189
 01:01:49,790 --> 01:01:51,710
 每个屏幕截图的几何体 
-geometry per the screenshot.
 
 1190
 01:01:51,710 --> 01:01:56,500
 这实际上是我创造的一个关卡 也就是在分区中 
-This is actually a level that I created and that is in the Distro.
 
 1191
 01:01:56,500 --> 01:01:59,780
 它将允许我们在实际场景视图中创建几何图形
-It will allow us to create geometry in the actual scene view
 
 1192
 01:01:59,780 --> 01:02:03,890
 不需要进入像Blder或Maya这样的第三方程序 
-without needing to go into a third party program like Blender or Maya,
 
 1193
 01:02:03,890 --> 01:02:07,880
 必须在这两者和进出口之间进行某种交替
-and have to sort of alternate between the two and import and export
 
 1194
 01:02:07,880 --> 01:02:09,259
 没完没了 
-incessantly.
 
 1195
 01:02:09,259 --> 01:02:11,300
 不仅如此 而且一旦你建立了某种模型
-Not only that, but as soon as you model something
 
 1196
 01:02:11,300 --> 01:02:13,297
 像这样在场景视图中的Unity中 您
-like this in Unity in the scene view, you
 
 1197
 01:02:13,297 --> 01:02:15,380
 可以立即测试它的游戏性 并确保
-can immediately test it for gameplay and make sure
 
 1198
 01:02:15,380 --> 01:02:16,966
 它确实适合你想要的东西 
-that it actually fits what you want.
 
 1199
 01:02:16,966 --> 01:02:19,840
 在导入时 您不必担心规模问题
-And you don't have to worry about scale issues when you are importing
 
 1200
 01:02:19,840 --> 01:02:22,880
 在某种程度上让它发挥作用 并最终弄清楚 “哦 
-and sort of making it work, and figuring out ultimately that, "Oh,
 
 1201
 01:02:22,880 --> 01:02:25,040
 我不喜欢这个关卡的方式 
-I don't like the way this mesh this level is.
 
 1202
 01:02:25,040 --> 01:02:27,650
 让我去调整一下 然后再重做一次 
-Let me go and tweak it and redo it."
 
 1203
 01:02:27,650 --> 01:02:30,800
 它只会给你带来极大的轻松和灵活性 
-It just allows you a ton of ease and flexibility.
 
 1204
 01:02:30,800 --> 01:02:32,710
 我之前提到过布拉克西斯 
-And I previously mentioned Braxis before,
 
 1205
 01:02:32,710 --> 01:02:34,460
 但他有几个很棒的教程
-but he's got a couple of awesome tutorials
 
 1206
 01:02:34,460 --> 01:02:37,760
 在ProBuilder和ProGrids上补充以下内容
-here on ProBuilder and ProGrids to supplement sort of what
 
 1207
 01:02:37,760 --> 01:02:39,330
 我们将在课堂上讨论今天的内容 
-we'll talk about today in lecture.
 
 1208
 01:02:39,330 --> 01:02:42,680
 但如果你想更多地展示这两种产品的所有功能 
-But if you want sort of more of a showcase of all the features of both,
 
 1209
 01:02:42,680 --> 01:02:46,350
 然后你可以在这里观看这些视频 并对它们的工作原理有一个了解 
-then you can look at these videos here and get a sense of how they work.
 
 1210
 01:02:46,350 --> 01:02:50,270
 因此 我们将继续讨论一下Pro Builder
-So we're going to go ahead and just mess around with pro builder a little bit
 
 1211
 01:02:50,270 --> 01:02:53,310
 在这里的场景视图中 我们可以看到它是什么样子的 
-here in the scene view so that we can see what it looks like.
 
 1212
 01:02:53,310 --> 01:02:55,040
 我要打开我的另一个场景 
-I'm going to open up my other scene.
 
 1213
 01:02:55,040 --> 01:02:56,442
 所以我有《门户》这一幕 
-So I have the "Portal" scene.
 
 1214
 01:02:56,442 --> 01:02:58,400
 如果你在演播厅 这里是所有人
-If you are in the Distro, this is where all the
 
 1215
 01:02:58,400 --> 01:03:01,360
 我们一直在看的东西是存在的 只有“门户”游戏 
-stuff that we've been looking at exists, just the "Portal" game.
 
 1216
 01:03:01,360 --> 01:03:05,600
 还有一个ProBuilder场景 我不打算保存它 
-There's a ProBuilder scene as well, which I'm going to not save that.
 
 1217
 01:03:05,600 --> 01:03:12,370
 所以这个ProBuilder场景就是我之前创建的标高几何体 
-And so this ProBuilder scene is the level geometry that I created earlier.
 
 1218
 01:03:12,370 --> 01:03:16,200
 现在看起来很可怕 因为我没有花太多时间
-Now it looks pretty horrendous because I didn't spend a terrible amount of time
 
 1219
 01:03:16,200 --> 01:03:16,700
 这就去 
-on it.
 
 1220
 01:03:16,700 --> 01:03:20,022
 无论如何 我并不是一个特别有天赋的视觉设计师 
-And I'm not a particularly talented visual designer by any stretch.
 
 1221
 01:03:20,022 --> 01:03:21,980
 让我继续把它弄大一点
-Let me go ahead and make it a little bit larger
 
 1222
 01:03:21,980 --> 01:03:23,563
 这样我们就能看得更清楚一点 
-so that we can see it a little better.
 
 1223
 01:03:25,867 --> 01:03:27,950
 但它展示了一些有趣的功能 
-But it showcases some of the interesting features.
 
 1224
 01:03:27,950 --> 01:03:36,320
 所以我们有明显的多边形正方形矩形几何图形 
-So we have obviously polygonal square shaped rectangular geometry.
 
 1225
 01:03:36,320 --> 01:03:38,990
 我们可以看到 有些面有纹理 有些则没有 
-We can see that some faces are textured and some aren't.
 
 1226
 01:03:38,990 --> 01:03:41,060
 例如 我们可以在这里看到这张脸 
-So we can see this face here, for example,
 
 1227
 01:03:41,060 --> 01:03:44,780
 仅为白色材质 即默认材质 
-is just white material, the default material.
 
 1228
 01:03:44,780 --> 01:03:49,040
 我们可以看到 所有这些都有砖块的纹理 这是我脱下的
-We can see that all of these have this brick texture, which I got off
 
 1229
 01:03:49,040 --> 01:03:51,680
 一个过程生成器网站 它允许
-a procedural generator website that allows
 
 1230
 01:03:51,680 --> 01:03:54,050
 您需要为您的纹理选择一个好的模板
-you to choose a good template for your texture
 
 1231
 01:03:54,050 --> 01:03:56,297
 然后指定颜色和类似的东西 
-and then specify colors and stuff like that.
 
 1232
 01:03:56,297 --> 01:03:57,880
 我对这个纹理做了同样的事情 
-I did the same thing for this texture.
 
 1233
 01:03:57,880 --> 01:04:00,110
 这是另一个程序纹理 它
-This is another procedural texture, which
 
 1234
 01:04:00,110 --> 01:04:04,240
 有点像蓝色的 马布利式的纹理 
-is kind of like a blue, marbley type texture.
 
 1235
 01:04:04,240 --> 01:04:06,739
 最酷的是--至少在纹理方面 
-The cool thing about it is-- at least for texturing,
 
 1236
 01:04:06,739 --> 01:04:09,280
 您可以只选择要设置纹理的任意面 
-you can just choose arbitrary faces that you want to texture,
 
 1237
 01:04:09,280 --> 01:04:12,130
 而不是像你一样让整件事变得更有质感
-rather than have to texture the whole thing like you
 
 1238
 01:04:12,130 --> 01:04:15,610
 如果只为网格提供默认材质 
-would do if you were to just give a mesh a default material,
 
 1239
 01:04:15,610 --> 01:04:17,320
 它将应用于整个网格 
-it'll apply to the whole mesh.
 
 1240
 01:04:17,320 --> 01:04:21,452
 在本例中 它只是将其应用于我们在ProBuilder中选择的任何面 
-In this case, it's just applying it to whatever faces we select in ProBuilder.
 
 1241
 01:04:21,452 --> 01:04:23,410
 另一件有趣的事 我真的很喜欢
-Another interesting thing, which I really like,
 
 1242
 01:04:23,410 --> 01:04:28,512
 ProBuilder为您提供了许多用于创建特殊类型几何的工具
-is ProBuilder gives you a lot of tools for creating special kinds of geometry
 
 1243
 01:04:28,512 --> 01:04:29,720
 非常快速和高效 
-very quickly and efficiently.
 
 1244
 01:04:29,720 --> 01:04:33,370
 在这种情况下 这是一个楼梯 我所要做的就是
-In this case, this is a staircase, which all I had to do
 
 1245
 01:04:33,370 --> 01:04:36,040
 是与ProBuilder选择构建楼梯 
-was with ProBuilder select build staircase,
 
 1246
 01:04:36,040 --> 01:04:38,290
 然后你可以选择很多不同的参数 
-and then you can choose a lot of different parameters.
 
 1247
 01:04:38,290 --> 01:04:40,540
 我们稍后会看看如何做到这一点 
-We'll take a look at how to do that in a second.
 
 1248
 01:04:40,540 --> 01:04:41,623
 我在这里也做了同样的事情 
-I did the same thing here.
 
 1249
 01:04:41,623 --> 01:04:44,390
 所以请注意这个楼梯有一种螺旋形 
-So notice this staircase has kind of a spiral to it.
 
 1250
 01:04:44,390 --> 01:04:46,964
 然后这个楼梯真的很高 但没有螺旋形 
-And then this staircase is really tall, but has no spiral.
 
 1251
 01:04:46,964 --> 01:04:48,880
 然后我们这里有另一个楼梯 它
-And then we have another staircase here, which
 
 1252
 01:04:48,880 --> 01:04:50,950
 有点短 而且没有螺旋形 
-is kind of shorter and doesn't have a spiral,
 
 1253
 01:04:50,950 --> 01:04:53,860
 然后它就到了这一点 
-and then it ends up coming up here to this point.
 
 1254
 01:04:53,860 --> 01:04:56,410
 如果这就是任务 也许
-And then if this were the assignment, maybe
 
 1255
 01:04:56,410 --> 01:05:00,160
 这个地方就是你放置对撞机的地方
-this spot here would be where you put your collider that
 
 1256
 01:05:00,160 --> 01:05:03,130
 他说 “哦 这就是水平的结论 
-says, "OH, this the level's conclusion.
 
 1257
 01:05:03,130 --> 01:05:04,300
 你已经达到了这个水平 
-You've been in the level."
 
 1258
 01:05:04,300 --> 01:05:07,750
 所以任务是用ProBuilder制作一个关卡 
-So the assignment is with ProBuilder, make a level.
 
 1259
 01:05:07,750 --> 01:05:09,740
 它不一定非得是什么非常奇特的东西 
-It doesn't have to be anything terribly fancy.
 
 1260
 01:05:09,740 --> 01:05:10,781
 我不是一个伟大的设计师 
-I'm not a great designer.
 
 1261
 01:05:10,781 --> 01:05:13,360
 但它至少应该有一个部分
-But it should have at least one section where
 
 1262
 01:05:13,360 --> 01:05:16,090
 你被要求跳跃 所以某种跳跃谜题
-you're required to jump, so some sort of jump puzzle
 
 1263
 01:05:16,090 --> 01:05:20,050
 只是为了让你能稍微考虑一下关卡的设计 
-just so that you can think about the design of your level a little bit.
 
 1264
 01:05:20,050 --> 01:05:24,220
 它应该是有意义的大 它不一定是巨大的 
-And it should be meaningfully large, it doesn't have to be gargantuan.
 
 1265
 01:05:24,220 --> 01:05:28,180
 它不应该很小 不应该是10米或--
-And it shouldn't be small, it shouldn't be 10 meters or--
 
 1266
 01:05:28,180 --> 01:05:32,770
 也许不是10米 但它不应该像5米那么大 
-maybe not 10 meters, but it shouldn't be like five meters large.
 
 1267
 01:05:32,770 --> 01:05:34,090
 显然 这是非常小的 
-Obviously, that's very small.
 
 1268
 01:05:34,090 --> 01:05:38,110
 这应该是你会考虑的一个相当大的水平 
-It should be something that you would consider a somewhat sizable level.
 
 1269
 01:05:38,110 --> 01:05:42,880
 使用这种大小的东西是一个公平的衡量标准 
-Using something of this size is a fair metric.
 
 1270
 01:05:42,880 --> 01:05:47,170
 所以ProBuilder--所以默认情况下 ProBuilder
-So ProBuilder-- so by default, ProBuilder
 
 1271
 01:05:47,170 --> 01:05:48,820
 未安装在您的项目中 
-is not installed in your project.
 
 1272
 01:05:48,820 --> 01:05:50,320
 你必须去资产商店 
-You have to go to the Asset Store.
 
 1273
 01:05:50,320 --> 01:05:53,570
 我不知道 Asset Store最近几天有点慢 
-I don't know, Asset Store has been a little bit slow last couple of days.
 
 1274
 01:05:53,570 --> 01:05:54,820
 让我们看看它是不是很快就能奏效 
-Let's see if it works quickly.
 
 1275
 01:05:54,820 --> 01:05:56,804
 看起来是这样的 
-It looks like it is.
 
 1276
 01:05:56,804 --> 01:05:59,470
 因此 如果我们去资产商店打开--它又开始连接了 
-So if we go to the Asset Store and open-- it's connecting again,
 
 1277
 01:05:59,470 --> 01:06:02,080
 它太慢了 
-it's being slow.
 
 1278
 01:06:02,080 --> 01:06:06,890
 因此 如果您搜索资产 只需输入ProBuilder 它将在此处弹出 
-So if you search for assets and just type ProBuilder, it will pop up here.
 
 1279
 01:06:06,890 --> 01:06:09,100
 请注意 上面写着联合技术 
-And notice that it says Unity technologies.
 
 1280
 01:06:09,100 --> 01:06:11,230
 任何基本上写着联合技术的东西
-Anything basically that says Unity technologies
 
 1281
 01:06:11,230 --> 01:06:14,020
 将是Unity的一种免费补充
-will be a free sort of supplement to Unity
 
 1282
 01:06:14,020 --> 01:06:16,690
 您只需从Asset Store导入即可 
-that you can easily just import from the Asset Store.
 
 1283
 01:06:16,690 --> 01:06:22,039
 现在这里的窗户有点挤 因为我用的是720p显示器 
-Now it's a little bit cramped the window here, because I'm in a 720p monitor.
 
 1284
 01:06:22,039 --> 01:06:24,580
 但您只需点击下载 然后按顺序导入
-But you just have to click Download, and then Import in order
 
 1285
 01:06:24,580 --> 01:06:27,130
 将其导入到您的项目中 
-to import it into your project.
 
 1286
 01:06:27,130 --> 01:06:29,650
 作业10的“门户”的配乐
-The Distro for "Portal" for assignment 10
 
 1287
 01:06:29,650 --> 01:06:32,740
 已安装ProBuilder和ProGrids 
-already has ProBuilder and ProGrids installed.
 
 1288
 01:06:32,740 --> 01:06:37,130
 ProGrids将是完全相同的过程 只是ProGrids就在这里 
-ProGrids would be the exact same process, just ProGrids right here.
 
 1289
 01:06:37,130 --> 01:06:40,360
 当您将这两项都导入到项目中时 
-And when you import both of those into your project,
 
 1290
 01:06:40,360 --> 01:06:43,870
 您将立即拥有使用工具的能力 
-you'll immediately have the ability to go up to Tools.
 
 1291
 01:06:43,870 --> 01:06:46,850
 你会在这里看到ProBuilder和ProGrid 
-And you'll see ProBuilder and ProGrids here.
 
 1292
 01:06:46,850 --> 01:06:51,430
 您所需要做的就是点击ProBuilder 然后点击ProBuilder窗口 
-And all you need to do is click on the ProBuilder and then ProBuilder window.
 
 1293
 01:06:51,430 --> 01:06:54,566
 你可以看到这个漂亮的小窗口弹出 
-And you can see here this nice little widget filled window pops up,
 
 1294
 01:06:54,566 --> 01:06:56,440
 如果你想的话也可以把它停在这里
-and you can also dock it here if you want to.
 
 1295
 01:06:56,440 --> 01:06:57,814
 实际上 我是不小心的 
-Actually, I did that on accident.
 
 1296
 01:06:57,814 --> 01:07:00,850
 但是Unity让它变得非常好 
-But Unity makes it pretty nice so you can dock
 
 1297
 01:07:00,850 --> 01:07:03,172
 你想把东西放哪就放哪
-your stuff wherever you want it to.
 
 1298
 01:07:03,172 --> 01:07:04,630
 还有一些不同的东西 
-And there's a few different things.
 
 1299
 01:07:04,630 --> 01:07:08,190
 所以你可以做一个新的形状和一个新的多边形 
-So you can do new shape and a new poly-shape.
 
 1300
 01:07:08,190 --> 01:07:11,170
 新的形状实际上为您提供了形状模板 
-The new shape actually gives you shape templates.
 
 1301
 01:07:11,170 --> 01:07:14,380
 在这里 我默认选择了立方体 
-So here, I have chosen just cube by default,
 
 1302
 01:07:14,380 --> 01:07:17,220
 它可以让你做楼梯 棱柱 圆柱 
-and it allows you to do stairs, prisms, cylinder.
 
 1303
 01:07:17,220 --> 01:07:19,180
 比如我可以做一个楼梯 然后
-So I can just do a stair, for example, and then
 
 1304
 01:07:19,180 --> 01:07:22,270
 我们马上就能看到这个楼梯网格
-we immediately see this stair mesh here.
 
 1305
 01:07:22,270 --> 01:07:25,480
 我可以通过改变滑块来生成我想要的步数 
-I can generate the number of steps that I want just by changing the slider.
 
 1306
 01:07:25,480 --> 01:07:28,930
 如果我想的话 我可以改变它的曲率 这样它就成了一个旋转的楼梯 
-I can change the curvature if I want, so that it's a rotating staircase.
 
 1307
 01:07:28,930 --> 01:07:33,670
 然后我还可以改变楼梯的宽度和高度 
-And then I can also change how wide and how tall the stairs are,
 
 1308
 01:07:33,670 --> 01:07:37,070
 这个内半径就像台阶的深度
-and also this inner radius is like how deep the steps are,
 
 1309
 01:07:37,070 --> 01:07:38,410
 如果这说得通的话
-if that makes sense.
 
 1310
 01:07:38,410 --> 01:07:41,350
 所有这些加在一起 一旦你完成了 
-And then all of these together, once you've finished,
 
 1311
 01:07:41,350 --> 01:07:43,180
 你只要点击build stair就可以了
-you just hit build stair, and it's done.
 
 1312
 01:07:43,180 --> 01:07:46,240
 现在你有了一个楼梯网格 你可以把它放在你关卡的任何地方 
-Now you have a stair mesh that you can just put anywhere in your level,
 
 1313
 01:07:46,240 --> 01:07:47,665
 爬楼梯也很容易
-and it's that easy to make stairs.
 
 1314
 01:07:50,230 --> 01:07:53,740
 在我深入了解ProBuilder的工作原理之前 
-Before I get into more of what makes ProBuilder, work,
 
 1315
 01:07:53,740 --> 01:07:56,060
 我将继续并启用ProGrid 
-I'm going to go ahead and enable ProGrids.
 
 1316
 01:07:56,060 --> 01:07:59,630
 所以ProGrids是一个很酷的功能 
-So ProGrids is a cool feature.
 
 1317
 01:07:59,630 --> 01:08:03,730
 这是一个很酷的附加功能 它实际上会锁定场景中的所有内容
-It's a cool add on, which will actually lock everything in your scene
 
 1318
 01:08:03,730 --> 01:08:08,200
 到一个特定的网格 您可以根据网格的精细或粗糙程度
-to a specific grid which you can designate based on how fine or coarse
 
 1319
 01:08:08,200 --> 01:08:10,260
 你想要的网格 
-you want the grid to be.
 
 1320
 01:08:10,260 --> 01:08:12,940
 这将允许我们做的是 当我移动时 
-And what that will allow us to do is when I move,
 
 1321
 01:08:12,940 --> 01:08:14,860
 注意它在网格上移动 
-notice that it's moving on the grid.
 
 1322
 01:08:14,860 --> 01:08:21,550
 它不是连续运动的 它实际上是离散的步骤 
-It's not moving in a continuous motion, it's actually discrete steps.
 
 1323
 01:08:21,550 --> 01:08:24,279
 这样做的好处是
-And the advantage of doing things this way
 
 1324
 01:08:24,279 --> 01:08:27,760
 当你在模拟你的水平或诸如此类的东西时 
-is that when you're modeling your level or whatnot--
 
 1325
 01:08:27,760 --> 01:08:33,670
 假设你有一个你已经创建的图表或绘图 
-let's say you have maybe a diagram or a drawing that you've created.
 
 1326
 01:08:33,670 --> 01:08:37,029
 你把它贴在一个纹理上 场景中的一个平面网格上 
-You slap it on a texture, a flat mesh in your scene,
 
 1327
 01:08:37,029 --> 01:08:39,700
 然后你只需在上面画上你的标高 
-and then you just sort of draw your level on top of it,
 
 1328
 01:08:39,700 --> 01:08:44,029
 当你创建你所有的几何体时 所有的东西都会被很好地、干净地映射出来 
-everything will map up nice and cleanly when you're creating all your geometry.
 
 1329
 01:08:44,029 --> 01:08:47,560
 你可以把东西放在一起 它会把所有的东西都对齐在同一个轴上 
-And you can snap things together and it will align all on the same axis.
 
 1330
 01:08:47,560 --> 01:08:50,759
 这使得创建这样的关卡变得容易得多 
-And it makes creating levels like this just a lot easier.
 
 1331
 01:08:50,759 --> 01:08:53,050
 你不必担心事情会稍微有点不对劲
-You don't have to worry about things being slightly off
 
 1332
 01:08:53,050 --> 01:08:55,450
 然后像缺少顶点之类的东西
-and then like missing vertices and everything
 
 1333
 01:08:55,450 --> 01:08:58,210
 看起来有点不干净 
-be looking a little bit unclean.
 
 1334
 01:08:58,210 --> 01:09:01,189
 这确保了一切都非常干净 
-This ensures that everything is very clean.
 
 1335
 01:09:01,189 --> 01:09:03,880
 所以 再说一次 只要注意它在移动的离散的步骤 
-So again, just notice the discrete steps that it's moving.
 
 1336
 01:09:03,880 --> 01:09:07,319
 这些都被锁定在这里的网格上 
-These are all locked to the grid here.
 
 1337
 01:09:07,319 --> 01:09:13,229
 因此 您可以更改此处的所有设置 以确定其大小 
-And so you can change all the settings here as to how large it is.
 
 1338
 01:09:13,229 --> 01:09:16,410
 如果我创建一个立方体 
-If I create a cube.
 
 1339
 01:09:16,410 --> 01:09:21,939
 因此 我将继续创建一个新的立方体并构建它 
-So I'm going to go ahead and create a new cube and build it.
 
 1340
 01:09:21,939 --> 01:09:27,100
 请注意 在这里 这四个按钮类似于
-Notice up here these four buttons are like the modes with which
 
 1341
 01:09:27,100 --> 01:09:29,109
 我们可以与我们的立方体互动 
-we can interact with our cube.
 
 1342
 01:09:29,109 --> 01:09:32,214
 这与你在3D软件中得到的非常相似 比如Blder 
-And this is very similar to what you get in 3D software, like Blender,
 
 1343
 01:09:32,214 --> 01:09:33,460
 玛雅 什么的 
-Maya, whatnot.
 
 1344
 01:09:33,460 --> 01:09:36,300
 使用鼠标左键选择顶点 然后
-You choose vertices with the left mouse, and then you
 
 1345
 01:09:36,300 --> 01:09:39,850
 可以按Shift键选择多个 然后只需移动它即可 
-can hit shift to select multiple, and then you can just move it.
 
 1346
 01:09:39,850 --> 01:09:44,170
 由于我使用的是ProGrids 它会将其捕捉到网格上 对吗？
-And since I'm using ProGrids, it's snapping it to the grid, right?
 
 1347
 01:09:44,170 --> 01:09:50,020
 因此 如果我关闭ProGrids 它应该是像这样连续的 
-So if I turn off ProGrids, it should just be continuous like that.
 
 1348
 01:09:50,020 --> 01:09:52,439
 所以 你可以得到任何角度
-And so, you can get whatever sort of angles
 
 1349
 01:09:52,439 --> 01:09:57,830
 您的需求取决于您的用例 
-you want depending on what your use case is.
 
 1350
 01:09:57,830 --> 01:09:59,990
 所以我要继续按下命令Z 
-So I'm going to go ahead and hit Command Z.
 
 1351
 01:09:59,990 --> 01:10:03,630
 如果我点击脸部模式 然后点击这个脸部 然后按下Shift键 
-If I click on the face mode and I click this face and I shift click,
 
 1352
 01:10:03,630 --> 01:10:06,600
 它实际上会挤压它 让它变成一个新的面孔 
-it'll actually extrude it and make a new face.
 
 1353
 01:10:06,600 --> 01:10:09,660
 我可以一遍又一遍地做这件事 
-And I can keep doing this over and over again.
 
 1354
 01:10:09,660 --> 01:10:12,370
 让我放大一点 这样我就能看得更清楚一点 
-Let me zoom out a little bit so I can see a little bit better.
 
 1355
 01:10:12,370 --> 01:10:17,480
 然后我挤出那个 然后我挤出那个 
-And I extrude that, and then I extrude that.
 
 1356
 01:10:17,480 --> 01:10:18,080
 对吗？
-Right?
 
 1357
 01:10:18,080 --> 01:10:20,120
 开始建造一些东西 
-Starting to build something.
 
 1358
 01:10:20,120 --> 01:10:23,260
 它不是很漂亮 但它是一种东西 
-It's not beautiful, but it's something.
 
 1359
 01:10:23,260 --> 01:10:24,380
 我可以再挤出一次 
-I can extrude that again.
 
 1360
 01:10:28,010 --> 01:10:31,570
 我相信我也能扩大规模 
-I believe I can scale as well.
 
 1361
 01:10:31,570 --> 01:10:35,130
 所以你可以像这样把它建起来 
-So you can build it out like that.
 
 1362
 01:10:35,130 --> 01:10:37,180
 我也没有花太多时间去掌握
-And I haven't spent a ton of time mastering
 
 1363
 01:10:37,180 --> 01:10:40,870
 如何使用这个工具 以及它的所有细节 但它非常 
-how to use that tool and all the ins and outs of it, but it is very,
 
 1364
 01:10:40,870 --> 01:10:45,100
 我认为 如果你想进入关卡设计 这很有用
-I think, useful if you're looking to get into level design
 
 1365
 01:10:45,100 --> 01:10:49,990
 并且您希望避免与第三方打交道的开销
-and you want to avoid the overhead of dealing with third party
 
 1366
 01:10:49,990 --> 01:10:53,770
 像Blender或Maya这样的软件 并拥有您正在
-software like Blender or Maya and having model files that you're
 
 1367
 01:10:53,770 --> 01:10:55,360
 导入和导出 
-importing and exporting.
 
 1368
 01:10:55,360 --> 01:10:57,110
 这可能是一种痛苦 
-It can be kind of a pain.
 
 1369
 01:10:57,110 --> 01:11:02,650
 然而 如果您想要导出模型 您绝对可以做到这一点 
-However, if you want to export models, you can definitely do that.
 
 1370
 01:11:02,650 --> 01:11:04,285
 这里有一个方法--
-There is a method here--
 
 1371
 01:11:04,285 --> 01:11:06,310
 我都忘了是哪一个了 
-I forget which one it is off hand.
 
 1372
 01:11:06,310 --> 01:11:08,180
 我想就是这个了 
-I think it's this one.
 
 1373
 01:11:08,180 --> 01:11:09,190
 不是的 
-No.
 
 1374
 01:11:09,190 --> 01:11:11,350
 其中之一允许您保存模型 
-One of these allows you to save the model.
 
 1375
 01:11:11,350 --> 01:11:13,460
 我记不清具体是哪一个了 
-I don't remember exactly which one it is.
 
 1376
 01:11:13,460 --> 01:11:14,370
 是这个吗？
-Is it this one?
 
 1377
 01:11:19,180 --> 01:11:22,950
 菜单有点挤 所以我要把它炸掉 
-The menu is a little bit cramped here, so I'm going to actually blow it up.
 
 1378
 01:11:26,106 --> 01:11:28,980
 现在 我想不起来哪一个允许你真正的出口了 
-Offhand, I can't recall which of these allows you to actually export.
 
 1379
 01:11:28,980 --> 01:11:32,220
 我还没有记住图标 因为它是一个相当新的工具 
-I don't have the icons memorized yet because it's a fairly new tool.
 
 1380
 01:11:32,220 --> 01:11:34,470
 但其中之一将允许您实际出口
-But one of these will allow you to actually export
 
 1381
 01:11:34,470 --> 01:11:38,700
 对象为FBX或OBJ 无论您的软件是什么
-the object as FBX or OBJ, whatever your software is
 
 1382
 01:11:38,700 --> 01:11:39,885
 你最终会想要--
-that you end up wanting to--
 
 1383
 01:11:43,060 --> 01:11:46,740
 因此 您还可以转到此处的导出菜单 这是
-so you can just also go up to here to the export menu, which is
 
 1384
 01:11:46,740 --> 01:11:48,780
 更容易看到每件事的名字 
-a lot easier to see everything by name.
 
 1385
 01:11:48,780 --> 01:11:50,654
 您还可以选择您想要的导出方式 
-And you can choose how you want it to export.
 
 1386
 01:11:50,654 --> 01:11:52,850
 您也可以为您的游戏导出资产
-You can also export assets too for your game
 
 1387
 01:11:52,850 --> 01:11:55,380
 因此 您可以在场景中包含ProBuilder
-so you can have objects in your scene that ProBuilder
 
 1388
 01:11:55,380 --> 01:11:58,290
 将生成以供使用 因此您可以通过这种方式创建预制件 
-will generate for using, so you can create prefabs that way.
 
 1389
 01:11:58,290 --> 01:12:00,480
 但这是OBJ 这样你就可以输出它了
-But then here's OBJ so that you can export it
 
 1390
 01:12:00,480 --> 01:12:05,130
 添加到您选择的3D软件 
-to your 3D software of choice.
 
 1391
 01:12:05,130 --> 01:12:08,130
 这与以下情况有关 例如 您
-This is relevant for situations where, for example, you
 
 1392
 01:12:08,130 --> 01:12:12,660
 我想喜欢装备和模型 并为网格制作动画 
-want to like rig and model and animate a mesh.
 
 1393
 01:12:12,660 --> 01:12:15,030
 你不能在ProBuilder中做任何形式的索具 
-You can't do any sort of rigging in ProBuilder,
 
 1394
 01:12:15,030 --> 01:12:17,940
 但你可以在其他3D软件中做到这一点 
-but you can do that in other 3D software.
 
 1395
 01:12:17,940 --> 01:12:20,340
 因此 以这种方式出口是有意义的 
-So it makes sense to export it that way.
 
 1396
 01:12:20,340 --> 01:12:24,000
 您还可以在此处创建模型、将其导出、装配 然后重新导入
-You can also create the model here, export it, rig it, and then re-import
 
 1397
 01:12:24,000 --> 01:12:26,010
 如果你想的话 这是相关的 
-it if you want to, and that's relevant.
 
 1398
 01:12:28,256 --> 01:12:29,880
 这是一个可用的场景 就像现在一样 
-This is a usable scene as is right now.
 
 1399
 01:12:29,880 --> 01:12:31,630
 闪电变得有点混乱 
-The lightning gets a little bit messed up.
 
 1400
 01:12:31,630 --> 01:12:34,960
 当你弄乱东西的时候 注意这里 但它会被修复 
-Notice here when you mess with stuff, but that gets fixed.
 
 1401
 01:12:34,960 --> 01:12:38,310
 这里有一米 它在那里做一些计算 
-There's of meter here where it does some calculating.
 
 1402
 01:12:38,310 --> 01:12:41,670
 默认情况下 它实际上会在所有对象上烘焙照明 
-And by default, it will actually bake lighting on all of your objects.
 
 1403
 01:12:41,670 --> 01:12:47,790
 但现在 这将与你拥有的任何角色完美地碰撞 
-But as is, this will perfectly collide with any characters that you have.
 
 1404
 01:12:47,790 --> 01:12:49,294
 所以我有一个FPS角色 
-So I have a FPS character.
 
 1405
 01:12:49,294 --> 01:12:51,210
 我要把这家伙带上来 我们开始吧
-I'm going to bring this guy up, let's go ahead
 
 1406
 01:12:51,210 --> 01:12:57,820
 把变形放在这里 把他放在正确的位置 
-and set the transform up here, put him in the right position.
 
 1407
 01:12:57,820 --> 01:13:01,840
 ProGrids正在连接它 使我所在的位置旁边的网格可见
-And ProGrids is attaching that, making that grid visible next to where I am.
 
 1408
 01:13:01,840 --> 01:13:05,640
 你可以为它设置轴 
-And you can set the axis for that.
 
 1409
 01:13:05,640 --> 01:13:07,290
 目前 我实际上已将其禁用 
-Currently, I have it actually disabled.
 
 1410
 01:13:07,290 --> 01:13:12,540
 因此 如果我现在启用它 这实际上会以增量的方式移动 看到了吗？
-So if I enable it now, this will actually move in increments, see?
 
 1411
 01:13:12,540 --> 01:13:15,180
 它会把它完美地捕捉到网格上 
-And it'll snap it to the grid perfectly.
 
 1412
 01:13:15,180 --> 01:13:25,088
 但当我按下Play时 我应该就在这里的这个网子上 
-But as I hit play, I should just be on this mesh up here.
 
 1413
 01:13:25,088 --> 01:13:26,520
 嗯 
-Yeah.
 
 1414
 01:13:26,520 --> 01:13:28,620
 所以这只是场景的一部分 就像
-And so this is just part of the scene now, like
 
 1415
 01:13:28,620 --> 01:13:31,590
 就好像你是在搅拌机或玛雅或其他什么地方做的一样 
-as if you had made it in Blender or Maya or whatever.
 
 1416
 01:13:31,590 --> 01:13:35,320
 如果你跳到我的实际水平 然后稍微探索一下 
-If you jump down to my actual level and then explore it a little bit,
 
 1417
 01:13:35,320 --> 01:13:40,320
 这一切都是随意创造的 
-this is all just haphazardly created.
 
 1418
 01:13:40,320 --> 01:13:45,310
 楼梯和其他网格之类的东西 
-Stairs and other meshes and stuff.
 
 1419
 01:13:45,310 --> 01:13:47,450
 所以 要一路走到顶端 
-And so, make it all the way to the top.
 
 1420
 01:13:47,450 --> 01:13:49,512
 我摔倒了 
-I fell down.
 
 1421
 01:13:49,512 --> 01:13:50,970
 我也不擅长玩游戏 
-I'm also horrible at playing games.
 
 1422
 01:13:50,970 --> 01:13:57,650
 但它的美妙之处在于你可以立即播放它 对吗？
-But the beauty of it is you can just play it instantly, right?
 
 1423
 01:13:57,650 --> 01:13:59,000
 就在大门外面 
-Right out the gate.
 
 1424
 01:13:59,000 --> 01:14:01,910
 现在我想展示的另一件很酷的事情
-Now another cool thing that I like to showcase
 
 1425
 01:14:01,910 --> 01:14:05,170
 我们之前谈过灰色拳击 
-is we talked about gray boxing earlier.
 
 1426
 01:14:05,170 --> 01:14:07,400
 对于制作内部级别 灰色拳击是
-For making interior levels, gray boxing is
 
 1427
 01:14:07,400 --> 01:14:10,240
 设置关卡并测试其可玩性的目的 
-the purpose of making levels and testing them for playability.
 
 1428
 01:14:10,240 --> 01:14:11,990
 ProBuilder最酷的一点是它
-The cool thing about ProBuilder is that it
 
 1429
 01:14:11,990 --> 01:14:19,250
 有一个反法线功能 我认为这是
-has a invert normals feature, which I think is just
 
 1430
 01:14:19,250 --> 01:14:23,780
 通常可在3D软件中访问 
-generally accessible in 3D software.
 
 1431
 01:14:23,780 --> 01:14:27,950
 我现在还不知道它在哪个菜单上 
-I don't know offhand which menu it's in.
 
 1432
 01:14:27,950 --> 01:14:32,610
 动作、几何体、我是否选择了正确的内容？
-Actions, geometry, do I have the right things selected?
 
 1433
 01:14:32,610 --> 01:14:36,840
 好的 我要打开ProBuilder窗口 
-All right, I'm going to open up ProBuilder window.
 
 1434
 01:14:36,840 --> 01:14:46,290
 其中之一就是反转选择 
-And then one of these is invert selection.
 
 1435
 01:14:46,290 --> 01:14:49,290
 抱歉 等等 
-Sorry, wait.
 
 1436
 01:14:49,290 --> 01:14:51,700
 翻转法线 开始吧 
-Flip normals, there we go.
 
 1437
 01:14:51,700 --> 01:14:55,620
 所以 现在这是一个内部层面 
-And so, what this does is now this is an interior level.
 
 1438
 01:14:55,620 --> 01:15:03,690
 所以我们之前所做的就是创建一个任意大小的多边形
-So all we did before was we made a polygonal creation of arbitrary size
 
 1439
 01:15:03,690 --> 01:15:04,620
 和造型 
-and shape.
 
 1440
 01:15:04,620 --> 01:15:08,190
 如果你反转法线--回想一下每个3D多边形 
-If you invert the normal-- so recall every 3D polygon,
 
 1441
 01:15:08,190 --> 01:15:10,600
 作为法线和任意方向的3D曲面
-3D surface as a normal and whatever direction
 
 1442
 01:15:10,600 --> 01:15:13,830
 这就是面对 朝着相反的方向 朝着正常的方向
-that's facing, going the opposite way, going towards that normal
 
 1443
 01:15:13,830 --> 01:15:15,000
 是所呈现的内容 
-is what gets rendered.
 
 1444
 01:15:15,000 --> 01:15:17,970
 但在它的后面 如果你朝与地面相反的方向走
-But behind it, if you're going in the opposite direction of the surface
 
 1445
 01:15:17,970 --> 01:15:20,070
 正常情况下 它是隐形的 
-normal, it's invisible.
 
 1446
 01:15:20,070 --> 01:15:23,220
 这样做的效果是 如果我们翻转一些东西的所有法线
-And so, the effect of that is if we flip all the normals of something that
 
 1447
 01:15:23,220 --> 01:15:26,367
 是凸的 我们就得到了一个室内场景 
-is convex, we get an interior scene.
 
 1448
 01:15:26,367 --> 01:15:28,200
 如果我们从外面看 
-And if we're looking at it from the outside,
 
 1449
 01:15:28,200 --> 01:15:29,658
 看起来有点奇怪 对吧？
-it looks a little bit weird, right?
 
 1450
 01:15:29,658 --> 01:15:31,740
 就像我们能看到它一样 
-Like we can see into it.
 
 1451
 01:15:31,740 --> 01:15:34,960
 这就是你可能会在《我的世界》中看到的东西 例如 
-And this is something that you might see like in "Minecraft," for example,
 
 1452
 01:15:34,960 --> 01:15:36,360
 当你在观察几何体的一部分时
-when you're looking in part of the geometry
 
 1453
 01:15:36,360 --> 01:15:37,776
 你应该看不到的东西 
-that you shouldn't be able to see.
 
 1454
 01:15:37,776 --> 01:15:40,580
 你可以点击这个世界 看到所有其他的东西
-You can click through the world and see all the other
 
 1455
 01:15:40,580 --> 01:15:44,490
 就像世界的内陆地区 因为你基本上
-like interior parts of the world because you've basically
 
 1456
 01:15:44,490 --> 01:15:47,430
 超出了该多边形的表面法线 
-gone beyond the surface normal of that polygon,
 
 1457
 01:15:47,430 --> 01:15:51,330
 你只能从这个角度来看问题
-and you're only seeing the from that perspective
 
 1458
 01:15:51,330 --> 01:15:56,110
 朝向您的方向的所有多边形的曲面法线
-all the surface normals of polygons that are facing in your direction in that
 
 1459
 01:15:56,110 --> 01:15:56,610
 道路 
-way.
 
 1460
 01:15:56,610 --> 01:15:59,010
 但通常情况下 它会让你直视一切
-But often, it will allow you to look straight through all
 
 1461
 01:15:59,010 --> 01:16:02,340
 其他类型的立方体
-of the other sort of cubes that are along the way
 
 1462
 01:16:02,340 --> 01:16:06,060
 因为你看到的是它们表面法线的所有倒数 
-because you're looking at all the inverse of their surface normal,
 
 1463
 01:16:06,060 --> 01:16:07,800
 你在朝那个方向看 
-you're looking in that direction.
 
 1464
 01:16:07,800 --> 01:16:12,390
 因此 同样 多边形一次只能照亮一个方向 
-And so, again, only one direction can a polygon be lit at once.
 
 1465
 01:16:12,390 --> 01:16:15,450
 即使我们从上面看 你也能看到这一点 
-And even if we look at it from the top, you can see that as well.
 
 1466
 01:16:15,450 --> 01:16:18,930
 我们从上往下看 翻转法线 
-We're looking at it from the top, flip the normals,
 
 1467
 01:16:18,930 --> 01:16:23,790
 它将成为一个凸起的3D对象 
-it becomes a convex 3D object.
 
 1468
 01:16:23,790 --> 01:16:26,340
 把它们翻过来 现在是内层 对吧？
-Flip them, now it's an interior level, right?
 
 1469
 01:16:26,340 --> 01:16:29,354
 所以我真的要深入到这一点 
-So I'm actually going to go into this.
 
 1470
 01:16:29,354 --> 01:16:31,020
 我将再次翻转法线 
-And I'm going to flip the normals again.
 
 1471
 01:16:31,020 --> 01:16:34,010
 我要点击这个 
-I'm going to click on this.
 
 1472
 01:16:34,010 --> 01:16:39,510
 事实上 我必须点击很多这样的东西 因为它分裂了网格 
-I have to click on a lot of these, actually, because it split up the mesh.
 
 1473
 01:16:39,510 --> 01:16:41,280
 但这将是足够容易的 
-But it's going to be easy enough.
 
 1474
 01:16:41,280 --> 01:16:43,352
 我正在点击所有的顶级服务 
-I'm clicking all the top services of this,
 
 1475
 01:16:43,352 --> 01:16:45,810
 以确保我不会意外地在另一边弄到任何东西 
-making sure I didn't get any on the other side on accident.
 
 1476
 01:16:45,810 --> 01:16:47,100
 我没有 
-I did not.
 
 1477
 01:16:47,100 --> 01:16:53,040
 我要挤压这个 然后我要翻转所有的法线 
-I'm going to extrude this, and then I'm going to flip all the normals,
 
 1478
 01:16:53,040 --> 01:16:56,580
 然后我要拿起我的FPS控制器 它在这里 
-and then I'm going to take my FPS controller, which is here,
 
 1479
 01:16:56,580 --> 01:16:59,000
 事实上 我认为它已经在里面了 它确实在里面 
-and actually I think it's already inside, which it is.
 
 1480
 01:16:59,000 --> 01:17:00,730
 我要按下播放键了 
-I'm going to hit play.
 
 1481
 01:17:00,730 --> 01:17:04,304
 灯光 我不确定会不会搞砸 
-The lighting, I'm not sure if it will be messed up.
 
 1482
 01:17:04,304 --> 01:17:07,470
 它搞砸了 因为它正在计算一堆东西 
-It is messed up because it is in the middle of calculating a bunch of stuff,
 
 1483
 01:17:07,470 --> 01:17:11,970
 但现在 我用以前奇怪的网格创建了一个内层 
-but now I've created an interior level with the weird mesh that I had before.
 
 1484
 01:17:11,970 --> 01:17:18,889
 所以 如果你把你的楼层做成这个凹形的东西
-And so, if you make the building of your level this concave thing
 
 1485
 01:17:18,889 --> 01:17:21,680
 然后你翻转所有的法线 你就可以创建一个室内场景
-and then you flip all the normals, you can create an interior scene
 
 1486
 01:17:21,680 --> 01:17:23,960
 很容易与天花板和其他一切 
-very easily with ceiling and everything else.
 
 1487
 01:17:23,960 --> 01:17:26,251
 通常情况下 否则 这将是一种痛苦的屁股 
-Normally otherwise, it'd be kind of a pain in the butt.
 
 1488
 01:17:26,251 --> 01:17:30,170
 但它使使用ProBuilder变得超级容易 
-But it makes it super easy to do with ProBuilder.
 
 1489
 01:17:30,170 --> 01:17:33,800
 还有很多其他功能 材质编辑就是其中之一 
-And there's a lot of other features, a material editor for one.
 
 1490
 01:17:33,800 --> 01:17:37,969
 因此 使用材质编辑器 您实际上可以指定特定的材质 
-So with the material editor, you can actually designate specific materials.
 
 1491
 01:17:37,969 --> 01:17:40,010
 在本例中 我创建了几个材质 
-In this case, I've created a couple of materials.
 
 1492
 01:17:40,010 --> 01:17:44,270
 这里是砖块纹理 还有大理石纹理 我用了一些纹理 
-A brick texture here, and a marble texture, which I took some textures,
 
 1493
 01:17:44,270 --> 01:17:48,020
 创造了材料 使这些材料的反照率成分
-created material, made the albedo component of those materials
 
 1494
 01:17:48,020 --> 01:17:50,040
 那种质感 
-that texture.
 
 1495
 01:17:50,040 --> 01:17:53,270
 这让我可以任意选择一张脸 
-And what that allows me to do is I can select an arbitrary face.
 
 1496
 01:17:53,270 --> 01:17:56,030
 所以在这种情况下 我会选择这些面孔 
-So in this case, I'm going to choose these faces.
 
 1497
 01:17:56,030 --> 01:17:58,580
 我只需点击这块砖的纹理 
-And I can just click on this brick texture.
 
 1498
 01:17:58,580 --> 01:18:01,760
 现在 这些都是像那块砖一样的纹理 
-And now, these are textured as that brick.
 
 1499
 01:18:01,760 --> 01:18:03,650
 它不是将其应用于整个网格 而是
-It's not applying it to the entire mesh, it's
 
 1500
 01:18:03,650 --> 01:18:07,310
 只是把它用在我们想要的任何特定的面孔上 
-just applying it to whatever specific face that we want to.
 
 1501
 01:18:07,310 --> 01:18:09,860
 还有一个UV编辑器 它可以让你真正
-And there's a UV editor, which will allow to actually take
 
 1502
 01:18:09,860 --> 01:18:12,870
 模型的网格 
-the mesh of your model.
 
 1503
 01:18:12,870 --> 01:18:15,320
 在这种情况下 这是我们的整个网状结构 
-In this case, this is our entire mesh here.
 
 1504
 01:18:15,320 --> 01:18:17,480
 记住 就像我们上周讨论的那样 
-Just remember, as we talked about it last week,
 
 1505
 01:18:17,480 --> 01:18:19,850
 所有的东西都被剪下来 弄平了 
-everything gets cut out and made flat.
 
 1506
 01:18:19,850 --> 01:18:21,062
 所以你可以看到--
-So you can sort of see--
 
 1507
 01:18:21,062 --> 01:18:23,270
 如果你还记得我们正在处理的东西的形状 
-if you remember the shape of what we're dealing with,
 
 1508
 01:18:23,270 --> 01:18:31,910
 所有由奇怪的大物体组成的多边形 
-all the polygons that comprised weird, large object.
 
 1509
 01:18:31,910 --> 01:18:37,370
 它们现在都为我们展开了 所以我们可以非常容易地获取纹理
-They're all now splayed out for us, so we can just very easily take a texture
 
 1510
 01:18:37,370 --> 01:18:40,400
 把它放在我们想放的任何地方 
-and put it wherever we want on here.
 
 1511
 01:18:40,400 --> 01:18:46,230
 现在我没有太多使用这个的经验 
-Now I don't have a ton of experience using this,
 
 1512
 01:18:46,230 --> 01:18:49,841
 所以我不是百分之百地相信我有能力对眼前的东西进行紫外线贴图
-so I'm not 100% confident in my ability to UV map something right now in front
 
 1513
 01:18:49,841 --> 01:18:50,340
 怕你 
-of you.
 
 1514
 01:18:50,340 --> 01:18:55,060
 但ProBuilder网站上的文档
-But the documentation on the ProBuilder web site
 
 1515
 01:18:55,060 --> 01:18:56,800
 详细介绍了如何使用它 
-goes in the detail as to how to use this.
 
 1516
 01:18:56,800 --> 01:19:01,450
 因此 如果你想让特定的纹理出现在网格的一部分 
-So if you wanted say a specific texture to be in part of the mesh,
 
 1517
 01:19:01,450 --> 01:19:03,940
 然后也许另一种纹理成为它的另一部分
-and then maybe another texture to be another part of it
 
 1518
 01:19:03,940 --> 01:19:09,176
 以一种特定的焊接方式 不会溅到上面 
-in a specific welded way that's not splat onto it,
 
 1519
 01:19:09,176 --> 01:19:10,800
 UV编辑器将帮助您实现这一点 
-the UV editor would help you with that.
 
 1520
 01:19:10,800 --> 01:19:13,300
 例如 角色模型上的一张脸或其他东西 
-For example, a face on a character model or something else.
 
 1521
 01:19:15,940 --> 01:19:19,150
 或者像某个门上的牌子 或者类似的东西 
-Or maybe like a sign on a door somewhere, or something like that.
 
 1522
 01:19:19,150 --> 01:19:22,900
 您可以在这里完成所有操作 只需单击并拖动所有的面 
-You can do that all here, just click and drag all the faces.
 
 1523
 01:19:22,900 --> 01:19:25,720
 这些面实际上是相互依赖地进入的
-The faces are actually entered dependent from one another
 
 1524
 01:19:25,720 --> 01:19:29,110
 以便您可以将它们以适合您的纹理的方式进行布局
-so that you can lay them out in a way that fits the texture that you
 
 1525
 01:19:29,110 --> 01:19:32,710
 正试图将一切都映射到 
-are trying to map everything to.
 
 1526
 01:19:32,710 --> 01:19:36,320
 简而言之 这就是ProBuilder 
-That is ProBuilder in a nutshell.
 
 1527
 01:19:36,320 --> 01:19:38,080
 有很多功能 
-There's a lot of features.
 
 1528
 01:19:38,080 --> 01:19:40,580
 我们没有时间涵盖所有这些问题 
-We don't have time to cover all of them.
 
 1529
 01:19:40,580 --> 01:19:42,590
 我是说 坦率地说 我只是不知道
-And I mean, frankly, I just don't know of all
 
 1530
 01:19:42,590 --> 01:19:46,420
 其中一些非常好 只是因为这项技术是如此之新 
-of them super well yet just because the technology is so new.
 
 1531
 01:19:46,420 --> 01:19:50,530
 但我认为这将是Unity未来的一大部分
-But I think this is going to be a huge part of Unity's future
 
 1532
 01:19:50,530 --> 01:19:53,980
 让人们可以访问它 否则可能会有
-and making it accessible for people that would otherwise have maybe
 
 1533
 01:19:53,980 --> 01:19:57,610
 因对其标高几何图形或其对象建模的想法而关闭
-been turned off by the idea of modeling their level geometry or their object
 
 1534
 01:19:57,610 --> 01:19:58,990
 几何图形 
-geometry.
 
 1535
 01:19:58,990 --> 01:20:02,710
 我的意思是 当然对我来说 这让我想要在Unity中制作一款游戏
-I mean, certainly for me, now this makes me want to make a game in Unity
 
 1536
 01:20:02,710 --> 01:20:06,910
 现在 因为我知道我可以立即开始创造我的关卡 
-right now because I know I can instantly start creating my levels.
 
 1537
 01:20:06,910 --> 01:20:08,650
 它很好 很容易 很方便 
-It's just nice and easy and convenient.
 
 1538
 01:20:08,650 --> 01:20:12,100
 和ProGrids 您一定要同时使用ProGrids
-And ProGrids, you should definitely use ProGrids in tandem
 
 1539
 01:20:12,100 --> 01:20:16,420
 使用ProBuilder 这样您就可以以最佳方式重新安排事物
-with ProBuilder so that you can optimally rearrange things in a way
 
 1540
 01:20:16,420 --> 01:20:20,390
 所以它们都是均匀排列在一起的 
-so that they're all evenly lined up with each other.
 
 1541
 01:20:20,390 --> 01:20:22,630
 否则 你最终会遇到一些问题
-Otherwise, you're going to end up with issues
 
 1542
 01:20:22,630 --> 01:20:26,020
 以一种非常具体的方式操纵他们的地位
-in manipulating their position in a very specific way
 
 1543
 01:20:26,020 --> 01:20:28,550
 然后来到这里 手动设置它们的值 
-and coming up here and setting their values manually.
 
 1544
 01:20:28,550 --> 01:20:30,850
 这只是一种痛苦 所以容易得多
-And that's just kind of a pain, so much easier
 
 1545
 01:20:30,850 --> 01:20:36,200
 只是为了把所有的东西都放到网格上 ProGrids 并以这种方式处理它 
-just to snap everything to the grid, the ProGrids, and deal with it that way.
 
 1546
 01:20:36,200 --> 01:20:40,120
 因此 这项任务在很大程度上正在进行
-And so, the assignment is largely just going
 
 1547
 01:20:40,120 --> 01:20:47,410
 要成为ProBuilder和ProGrids 只需与之平起平坐 
-to be take ProBuilder and ProGrids and just make a level with it.
 
 1548
 01:20:47,410 --> 01:20:50,530
 然后利用我们学到的原则 创建一个控制器 
-And then just take the principles that we've learned, create a controller,
 
 1549
 01:20:50,530 --> 01:20:55,180
 创建一个对撞机 只需创建一个非常简单的场景 
-create a collider, and just make a very simple scene.
 
 1550
 01:20:55,180 --> 01:21:00,400
 否则 你可能会把时间花在你的期末项目上 
-And otherwise, probably spend your time focused on your final project.
 
 1551
 01:21:00,400 --> 01:21:05,800
 那么 关于ProBuilder有什么问题吗？它是如何工作的 如何设置它？
-So any questions as to ProBuilder, how it works, how to get it set up?
 
 1552
 01:21:05,800 --> 01:21:06,486
 嗯?
-Yeah?
 
 1553
 01:21:06,486 --> 01:21:09,888
 观众：那么它看起来会是什么样子--一个角色真的能站在上面吗
-AUDIENCE: So what would it look like-- can a character actually stand on top
 
 1554
 01:21:09,888 --> 01:21:13,252
 拥有它的对象的[INAUDIBLE]
-of an object that had it's [INAUDIBLE]
 
 1555
 01:21:13,252 --> 01:21:13,960
 科尔顿·奥格登：没有 
-COLTON OGDEN: No.
 
 1556
 01:21:13,960 --> 01:21:17,290
 它应该会翻过它 
-It should flip through it.
 
 1557
 01:21:17,290 --> 01:21:21,120
 让我继续把这个放在这里 
-Let me go ahead and put this up here.
 
 1558
 01:21:21,120 --> 01:21:25,330
 事实上 我认为它仍然会引发碰撞 
-And actually I think it does still trigger collision,
 
 1559
 01:21:25,330 --> 01:21:30,760
 但你将能够看穿--
-but you'll be able to see through the--
 
 1560
 01:21:30,760 --> 01:21:32,346
 观众：这只是视觉效果？
-AUDIENCE: It's just visual?
 
 1561
 01:21:32,346 --> 01:21:33,970
 科尔顿·奥格登：是的 这只是一种视觉效果 
-COLTON OGDEN: Yeah, it's just a visual.
 
 1562
 01:21:33,970 --> 01:21:35,890
 这只是一个视觉上的错误 是一个闪电错误 
-It's just a visual bug, it's a lightning bug.
 
 1563
 01:21:35,890 --> 01:21:37,181
 物理学应该仍然适用 
-The physics should still apply.
 
 1564
 01:21:37,181 --> 01:21:41,170
 我要继续把模型放在这里 
-I'm going to go ahead and set the model up here.
 
 1565
 01:21:43,990 --> 01:21:44,850
 好的 
-OK.
 
 1566
 01:21:44,850 --> 01:21:45,350
 点击播放 
-Hit play.
 
 1567
 01:21:50,832 --> 01:21:52,790
 不 实际上它看起来像是穿过了它 
-No, actually it looked like it went through it.
 
 1568
 01:21:52,790 --> 01:21:59,840
 因此 它还反转了碰撞框 
-So it also inverts the collision box.
 
 1569
 01:21:59,840 --> 01:22:03,290
 我看过一些游戏 在这些游戏中你可以穿透一些东西
-I've seen some games where you can clip through something
 
 1570
 01:22:03,290 --> 01:22:05,204
 并且仍然与之相撞 
-and still collide with it.
 
 1571
 01:22:05,204 --> 01:22:08,120
 因此 我认为这最终取决于引擎或实现
-So I think it depends on, ultimately, the engine or the implementation
 
 1572
 01:22:08,120 --> 01:22:09,230
 你正在使用的东西 
-that you're using.
 
 1573
 01:22:09,230 --> 01:22:14,630
 但在这种情况下 当你翻转这个网格的曲面法线时 
-But in this case, when you flip the surface normals here of this mesh,
 
 1574
 01:22:14,630 --> 01:22:18,074
 它还会翻转网格碰撞器的法线 
-it also flips the mesh collider's normals.
 
 1575
 01:22:18,074 --> 01:22:18,574
 嗯?
-Yeah?
 
 1576
 01:22:18,574 --> 01:22:21,466
 观众：最明显的做法就是复制它 
-AUDIENCE: The obvious thing to do would be copy it,
 
 1577
 01:22:21,466 --> 01:22:24,334
 稍微估计一下 然后不要[INAUDIBLE]它 
-size it up a liitle bit, and then not [INAUDIBLE] it.
 
 1578
 01:22:24,334 --> 01:22:27,250
 然后你会有一种内层和外层[INAUDIBLE].
-And then you would have kind of an inner and outer layer [INAUDIBLE]..
 
 1579
 01:22:27,250 --> 01:22:28,499
 科尔顿·奥格登：没错 
-COLTON OGDEN: Precisely, yeah.
 
 1580
 01:22:28,499 --> 01:22:33,560
 如果你愿意 你可以复制一份内部装饰 
-If you wanted, you could make a copy of the interior.
 
 1581
 01:22:33,560 --> 01:22:37,170
 我想你会把它改成同样大小的 
-You'd make it the same size, I suppose.
 
 1582
 01:22:37,170 --> 01:22:41,360
 然后不要翻转 它是法线 所以你有一个壳和一个内部 
-And then not flip it's normals such that you have a shell and an interior.
 
 1583
 01:22:41,360 --> 01:22:44,640
 是啊 当然了 
-Yeah, absolutely.
 
 1584
 01:22:44,640 --> 01:22:47,270
 是啊 这要看情况 
-Yeah, it depends.
 
 1585
 01:22:47,270 --> 01:22:51,670
 很多内部的层面 你永远不会超出他们的界限 
-A lot of interior levels, you will never ever be outside of their boundaries.
 
 1586
 01:22:51,670 --> 01:22:53,430
 所以你不会经常看到这样的事情发生 
-And so you don't often see that happening,
 
 1587
 01:22:53,430 --> 01:22:56,092
 但很大程度上 你可以让这种情况发生 
-but it's very much the case that you could have that happening.
 
 1588
 01:22:56,092 --> 01:22:58,550
 例如 如果你有一个房屋模型 那么是的 
-And if you have like a house model, for example, then yeah.
 
 1589
 01:22:58,550 --> 01:23:03,810
 你实际上会看到软管模型是用两个平面的墙来建模的 
-You'll actually see hosue models are modeled with walls that are two planes,
 
 1590
 01:23:03,810 --> 01:23:05,160
 所以这里有一点厚度 
-so there's a bit of thickness.
 
 1591
 01:23:05,160 --> 01:23:08,400
 它实际上是一个矩形 所以它可以
-It's actually a rectangular shape, so it allows
 
 1592
 01:23:08,400 --> 01:23:13,750
 你想要在一边和另一边发生碰撞
-you to have a collision on one side and another side
 
 1593
 01:23:13,750 --> 01:23:18,640
 因为对撞机有两个平面 
-because there's two planes of the collider,
 
 1594
 01:23:18,640 --> 01:23:23,610
 而不仅仅是单个平面 后者是曲面法线的方向 
-rather than just the single plane, which is the direction of the surface normal.
 
 1595
 01:23:23,610 --> 01:23:25,240
 关于ProBuilder还有其他问题吗？
-Any further questions on ProBuilder?
 
 1596
 01:23:25,240 --> 01:23:25,740
 嗯?
-Yeah?
 
 1597
 01:23:25,740 --> 01:23:28,230
 观众：那你怎么能从天花板上穿过去呢？
-AUDIENCE: So how come you can [INAUDIBLE] through the ceiling
 
 1598
 01:23:28,230 --> 01:23:29,271
 但不是从门进来的 
-but not through the door.
 
 1599
 01:23:29,271 --> 01:23:30,720
 最上面有[INAUDIBLE]吗？
-Is there [INAUDIBLE] in the top?
 
 1600
 01:23:30,720 --> 01:23:33,553
 科尔顿·奥格登：因为底部的表面法线指向上方 
-COLTON OGDEN: Because the bottom's surface normal is pointed upward.
 
 1601
 01:23:33,553 --> 01:23:36,180
 所以这里是朝上的 
-So this right here is pointed upwards.
 
 1602
 01:23:36,180 --> 01:23:40,204
 但请注意 在这里 曲面法线实际上指向下方 
-But notice that here, the surface normal is actually pointed down.
 
 1603
 01:23:40,204 --> 01:23:42,870
 因此您只能与曲面法线的方向碰撞
-So you can only collide with the direction of the surface normal
 
 1604
 01:23:42,870 --> 01:23:46,680
 这是你面临的问题 如果这有道理的话 
-that's facing you, if that makes sense.
 
 1605
 01:23:46,680 --> 01:23:50,970
 你可以朝曲面法线的方向走 
-You can walk towards the direction of the surface normal,
 
 1606
 01:23:50,970 --> 01:23:54,610
 但不是针对曲面法线 如果这是有意义的话 
-but not against the surface normal, if that makes sense.
 
 1607
 01:23:54,610 --> 01:23:58,670
 这是Unity计算其网格渲染器组件的方式 
-That's the way that Unity calculates its mesh renderer component.
 
 1608
 01:23:58,670 --> 01:24:00,669
 观众：嗯 也有左的和右的 
-AUDIENCE: Well, there's also left and the right.
 
 1609
 01:24:00,669 --> 01:24:05,052
 所以左边是--你能从左边走到右边吗？
-So the left is-- can you go through on the left to the right?
 
 1610
 01:24:05,052 --> 01:24:08,230
 科尔顿·奥格登：你可以从这个方向穿过 
-COLTON OGDEN: You could go through from this direction,
 
 1611
 01:24:08,230 --> 01:24:11,170
 但你不能走这个方向 
-but you could not go through this direction.
 
 1612
 01:24:11,170 --> 01:24:14,986
 因为这个方向 曲面法线指向这个方向 
-Because this direction, the surface normal is pointed this way,
 
 1613
 01:24:14,986 --> 01:24:17,860
 因此 如果我们试图与之背道而驰 我们就是在与正常情况相反 
-so if we try to walk against it, we'll be walking against the normal.
 
 1614
 01:24:17,860 --> 01:24:21,790
 因此 我们将触发碰撞 
-And so, we will trigger a collision.
 
 1615
 01:24:21,790 --> 01:24:24,070
 但如果你穿过它 你就会
-But if you're walking through it in such that you're
 
 1616
 01:24:24,070 --> 01:24:26,290
 沿着与曲面法线相同的方向 
-going the same direction as the surface normal,
 
 1617
 01:24:26,290 --> 01:24:31,190
 所以如果你是从这个方向来的 那么它就不会检测到碰撞 
-so if you're coming from this direction then it won't detect a collision.
 
 1618
 01:24:31,190 --> 01:24:32,280
 这说得通吗？
-Does that make sense?
 
 1619
 01:24:32,280 --> 01:24:34,020
 嗯 
-Yeah.
 
 1620
 01:24:34,020 --> 01:24:36,480
 Tany的建议是在它周围做一个贝壳 
-What Tany suggested, which was to make a shell around it,
 
 1621
 01:24:36,480 --> 01:24:37,780
 就能解决这个问题 
-would solve that problem.
 
 1622
 01:24:37,780 --> 01:24:42,390
 因此 如果我们创建这个精确的网格 复制它 然后反转它 
-So if we created this exact mesh, duplicated it, and then inverted it,
 
 1623
 01:24:42,390 --> 01:24:44,310
 然后我们就会有两个相同的物体 
-then we would have two of the same object,
 
 1624
 01:24:44,310 --> 01:24:46,800
 但是法线是单向的 法线是单向的
-but with normals going one direction and normals going
 
 1625
 01:24:46,800 --> 01:24:49,950
 另一个方向 以便网格渲染器
-the other direction such that the mesh renderers
 
 1626
 01:24:49,950 --> 01:24:53,080
 考虑到两个潜在的移动方向 
-account for both potential movement directions.
 
 1627
 01:24:53,080 --> 01:24:54,381
 凉爽的 
-Cool.
 
 1628
 01:24:54,381 --> 01:24:54,880
 好的 
-All right.
 
 1629
 01:24:54,880 --> 01:24:57,920
 关于ProBuilder还有其他问题吗？
-Any further questions on ProBuilder?
 
 1630
 01:24:57,920 --> 01:25:00,050
 再说一次 这并不意味着是一个全面的教程 
-Again, not meant to be a comprehensive tutorial.
 
 1631
 01:25:00,050 --> 01:25:04,940
 我在幻灯片中链接了一些视频和文档 
-There's videos and documentation that I've linked to in the slides,
 
 1632
 01:25:04,940 --> 01:25:08,900
 但更多的是为了说明这个工具有多棒
-but more just to illustrate how awesome this tool is really
 
 1633
 01:25:08,900 --> 01:25:12,380
 这可能会挽救一些人做
-and that this is probably going to save some people doing
 
 1634
 01:25:12,380 --> 01:25:20,840
 如果您正在进行任何资产建模或关卡建模 则需要及时进行unity项目 
-Unity projects in time if you're doing any asset modeling or level modeling.
 
 1635
 01:25:20,840 --> 01:25:23,510
 还有一件事--
-Another thing that--
 
 1636
 01:25:23,510 --> 01:25:27,320
 我没有为它做幻灯片 但我在课堂上谈到了
-I didn't make a slide for it, but which I talked about in class
 
 1637
 01:25:27,320 --> 01:25:29,000
 是着色器图形 
-was Shader Graph.
 
 1638
 01:25:29,000 --> 01:25:34,440
 因此 着色器图形是另一个2018.1功能 
-And so, a Shader Graph is another 2018.1 feature,
 
 1639
 01:25:34,440 --> 01:25:38,000
 这使得不必编写着色器
-which allows rather than having to write shaders
 
 1640
 01:25:38,000 --> 01:25:43,970
 在Shader Lab中 这是Unity的着色器语言 它可以相当
-in Shader Lab, which is Unity's shader language, which can be quite
 
 1641
 01:25:43,970 --> 01:25:46,790
 这是一次非常可怕的经历 
-an experience, quite intimidating.
 
 1642
 01:25:46,790 --> 01:25:50,804
 你现在可以用这种基于节点的编程语言来创建它们--
-You can actually create them now with this node based programming language--
 
 1643
 01:25:50,804 --> 01:25:52,970
 不是真正的编程语言 而是这个节点基于
-not really programming language, but this node based
 
 1644
 01:25:52,970 --> 01:25:55,490
 我应该说是编程环境 
-programming environment, I should say.
 
 1645
 01:25:55,490 --> 01:25:58,970
 这将允许您选择所有这些预设节点 
-Which will allow you to choose all these preset nodes that
 
 1646
 01:25:58,970 --> 01:26:01,280
 影响着色器的行为 
-influence the shader's behavior.
 
 1647
 01:26:01,280 --> 01:26:03,770
 而且有很多不同的种类 
-And there's a lot of different kinds.
 
 1648
 01:26:03,770 --> 01:26:08,960
 这样做的结果是您可以看到着色器的每一步 
-And have the result of that be you can see your shader every step of the way,
 
 1649
 01:26:08,960 --> 01:26:11,750
 所以着色器只是一系列的变换
-so the shader is just a series of transformations going
 
 1650
 01:26:11,750 --> 01:26:15,680
 在一个方向上从左到右 
-from left to right in one direction.
 
 1651
 01:26:15,680 --> 01:26:17,510
 所有这些转变 你可以看到
-All of these transformations, you can see
 
 1652
 01:26:17,510 --> 01:26:21,860
 它们最终是如何累积起来产生这种最终效果的 
-how they end up accumulating to produce this final effect.
 
 1653
 01:26:21,860 --> 01:26:22,930
 在这种情况下 这里--
-In which case here--
 
 1654
 01:26:22,930 --> 01:26:29,570
 如果这可能有点难的话 是一个海军陆战队的家伙带着这些蓝洞
-if it maybe kind of hard to dicern, is a marine guy with these blue holes
 
 1655
 01:26:29,570 --> 01:26:31,940
 实际上是在掩盖他的网状结构 
-that are actually masking his mesh.
 
 1656
 01:26:31,940 --> 01:26:33,710
 我们早些时候谈到了遮盖 
-And we talked about masking earlier.
 
 1657
 01:26:33,710 --> 01:26:39,320
 该着色器本身看起来像是应用了一个带有此噪波的遮罩
-This shader itself looks like it's applying a mask with this noise that
 
 1658
 01:26:39,320 --> 01:26:40,130
 正在产生 
-is generating.
 
 1659
 01:26:40,130 --> 01:26:43,730
 它带有噪声产生功能 产生节点 
-And it comes with noise generation functions, generation nodes,
 
 1660
 01:26:43,730 --> 01:26:47,570
 这将允许您将这些内容提供给着色器的质量组件
-which will allow you to feed those into the mass component of your shader
 
 1661
 01:26:47,570 --> 01:26:49,910
 然后产生一些非常有趣的酷炫效果 
-and then produce some very interesting cool effects.
 
 1662
 01:26:49,910 --> 01:26:53,060
 否则 这将是一种--
-Otherwise, this would be kind of--
 
 1663
 01:26:53,060 --> 01:26:58,070
 除非你是着色器专家 而我不是 否则事情会很复杂
-unless you're a shader expert, which I am not, it would be pretty complicated
 
 1664
 01:26:58,070 --> 01:27:01,190
 仅仅用代码来实现这样的东西并不是一件容易的事情 
-and non-trivial to implement something like this with just code.
 
 1665
 01:27:01,190 --> 01:27:03,710
 但这会为您生成代码 这样您就不会
-But this generates code for you, such that you don't
 
 1666
 01:27:03,710 --> 01:27:06,984
 必须实际编写任何代码 
-have to actually write any code at all.
 
 1667
 01:27:06,984 --> 01:27:08,900
 但您仍然可以看到生成的着色器
-But you can still see the produced shader that
 
 1668
 01:27:08,900 --> 01:27:12,590
 从着色器图形为您创建 
-gets created for you from shader graph.
 
 1669
 01:27:12,590 --> 01:27:17,514
 我相信它现在只是一种资产 我不能百分之百确定 
-I believe that it's just a asset now, I'm not 100% sure.
 
 1670
 01:27:17,514 --> 01:27:18,680
 我没有测试过这个 
-I didn't test this going in.
 
 1671
 01:27:25,960 --> 01:27:28,120
 希望我不只是怀念它 
-Hopefully, I'm not just missing it.
 
 1672
 01:27:28,120 --> 01:27:30,880
 据推测 您应该能够直接导入它 
-Supposedly, you should be able to just import it.
 
 1673
 01:27:30,880 --> 01:27:31,690
 我不是100% 
-I'm not 100%.
 
 1674
 01:27:31,690 --> 01:27:36,640
 让我们看看你实际上是如何--它说这篇文章可能会使用它 
-Let's see how you actually-- it said this article maybe uses it.
 
 1675
 01:27:36,640 --> 01:27:37,660
 通过Package Manger 
-Via the Package Manger.
 
 1676
 01:27:40,480 --> 01:27:43,580
 我想这是一个新的窗口包管理器 
-I think this is a new Window Package Manager.
 
 1677
 01:27:43,580 --> 01:27:47,165
 于是我们转到Window 然后转到Package Manager 
-So we to Window and then Package Manager.
 
 1678
 01:27:51,420 --> 01:27:52,800
 然后就是一切 
-And then all.
 
 1679
 01:27:56,280 --> 01:27:57,290
 然后是着色器图形 
-And then Shader Graph.
 
 1680
 01:27:57,290 --> 01:27:57,790
 嗯 
-Yeah.
 
 1681
 01:27:57,790 --> 01:27:58,460
 所以就在这里 
-So right here.
 
 1682
 01:27:58,460 --> 01:28:02,190
 依次选择Window、Package Manager和Shader Graph
-So Window, and then Package Manager, and then Shader Graph
 
 1683
 01:28:02,190 --> 01:28:07,470
 这将允许你输入这些手段
-and that will allow you to import the means
 
 1684
 01:28:07,470 --> 01:28:11,970
 我用它来创建这些图表布局 如果您使用
-by which I create these graph layouts if you're using
 
 1685
 01:28:11,970 --> 01:28:14,920
 2018.1 这门课程正在使用它 
-2018.1, which the course is using.
 
 1686
 01:28:14,920 --> 01:28:21,630
 但如果你在家使用2017.4 那么更新到2018.1 
-But if you're at home and you're using 2017.4, then update to 2018.1,
 
 1687
 01:28:21,630 --> 01:28:24,510
 您应该在包管理器中看到这一点 
-and you should see this in your package manager.
 
 1688
 01:28:24,510 --> 01:28:26,700
 一旦你做到了这一点 你实际上可以
-And then once you do that, you can actually
 
 1689
 01:28:26,700 --> 01:28:28,440
 创建新的Shader Graph对象 
-create a new Shader Graph object.
 
 1690
 01:28:28,440 --> 01:28:31,440
 然后你会看到它是场景中弹出的一个新窗口 
-And then you'll see it as a new window that pops up in your scene,
 
 1691
 01:28:31,440 --> 01:28:33,690
 然后您就可以开始添加节点了 
-and then you can start adding nodes.
 
 1692
 01:28:33,690 --> 01:28:36,230
 我没有为它准备任何材料 
-I don't have any material prepared for it,
 
 1693
 01:28:36,230 --> 01:28:38,550
 我也没有预料到一定要谈论这件事 
-and I didn't anticipate talking about it necessarily,
 
 1694
 01:28:38,550 --> 01:28:41,642
 但这似乎是一件非常改变游戏规则的事情 
-but it's something that seems to be very game changing.
 
 1695
 01:28:41,642 --> 01:28:44,100
 这是虚幻已经存在很长时间的东西
-And it's something that Unreal has had for a long time that
 
 1696
 01:28:44,100 --> 01:28:46,980
 在我看来 它在某种程度上有别于统一 
-sort of differentiated it from Unity, in my opinion.
 
 1697
 01:28:46,980 --> 01:28:49,650
 我认为他们有一件非常有价值的事情
-And I think a very valuable thing that they've
 
 1698
 01:28:49,650 --> 01:28:55,050
 他补充说 这表明2018年取得了很多令人惊叹的进展 
-added that shows a lot of awesome progress for 2018.
 
 1699
 01:28:55,050 --> 01:28:59,430
 所以 再说一次 如果你想知道详细信息 可以链接到Braxis
-So, again, a link to Braxis if you want details
 
 1700
 01:28:59,430 --> 01:29:03,600
 关于如何使用--不仅是ProBuilder ProGrid 
-on how to use-- not only ProBuilder ProGrid,
 
 1701
 01:29:03,600 --> 01:29:06,870
 但也有很多其他很棒的Unity功能 做了很多很酷的事情 
-but a lot of other awesome features of Unity and to do a lot of cool stuff.
 
 1702
 01:29:06,870 --> 01:29:09,050
 他制作了一些很酷的视频 
-He makes some really cool videos.
 
 1703
 01:29:09,050 --> 01:29:14,100
 作业10 因此作业10将使用ProBuilder创建一个级别
-Assignment 10, so assignment 10 is going to be creating a level with ProBuilder
 
 1704
 01:29:14,100 --> 01:29:16,680
 只是为了把你的手弄湿 
-just to get your hands wet with it.
 
 1705
 01:29:16,680 --> 01:29:18,930
 水平应该是相当复杂的 
-The level should be pretty complex.
 
 1706
 01:29:18,930 --> 01:29:24,030
 所以就像我之前说的 不像是一个完成的游戏级别 
-So like I said earlier, not like a finished game level.
 
 1707
 01:29:24,030 --> 01:29:27,490
 我不期望你做很棒、很棒、很不可思议的事情 
-I'm not expecting you to do awesome, amazing, incredible things.
 
 1708
 01:29:27,490 --> 01:29:31,470
 但这一层可能有几个有趣的几何图形 
-But a level that has maybe a few pieces of interesting geometry,
 
 1709
 01:29:31,470 --> 01:29:34,840
 可能会生成一些楼梯 有一些可以生成的管道 
-maybe generate some stairs, has some pipes you can generate,
 
 1710
 01:29:34,840 --> 01:29:37,890
 还有其他一些事情 
-and some other things.
 
 1711
 01:29:37,890 --> 01:29:39,660
 里面有一个跳跃拼图 
-Have a jumping puzzle in there.
 
 1712
 01:29:39,660 --> 01:29:42,570
 所以这意味着玩家应该有一个跳跃谜题 
-So this says there should be one jumping puzzle for the player,
 
 1713
 01:29:42,570 --> 01:29:44,520
 任务还没有正式说明 
-the assignment doesn't officially say it yet,
 
 1714
 01:29:44,520 --> 01:29:46,440
 但我要做个改变 让它成为
-but I'm going to make a change to make it say
 
 1715
 01:29:46,440 --> 01:29:48,023
 应该有一个跳跃拼图 
-that there should be a jumping puzzle.
 
 1716
 01:29:48,023 --> 01:29:52,020
 你可以随心所欲地解释这一点 只需几个平台就可以了 
-You can interpret this however you want, just a couple of platforms is fine.
 
 1717
 01:29:52,020 --> 01:29:56,100
 但说实话 你想要什么都行 
-But honestly, whatever you would like.
 
 1718
 01:29:56,100 --> 01:29:58,320
 并且有两种不同的质地或材质 
-And have two different textures or materials.
 
 1719
 01:29:58,320 --> 01:30:02,200
 因此 您只需导入您想要的任何纹理 
-So you can just import whatever texture you want,
 
 1720
 01:30:02,200 --> 01:30:06,220
 或者 您可以访问允许您创建纹理过程的网站 
-or you can go to a website that allows you to procedure the create a texture.
 
 1721
 01:30:06,220 --> 01:30:08,700
 你可以把它分配给一种材料 把它
-And you can assign it to a material, put it
 
 1722
 01:30:08,700 --> 01:30:10,920
 在ProBuilder的材质编辑器中 然后使用
-in the material editor of ProBuilder, and then use
 
 1723
 01:30:10,920 --> 01:30:15,730
 也就是说 如果您愿意 可以将其指定给一个面或整个对象 
-that to assign it to a face or to the whole object, if you want to.
 
 1724
 01:30:15,730 --> 01:30:17,962
 但至少应该有两个 而不是默认的 
-But there should be at least two, not the default,
 
 1725
 01:30:17,962 --> 01:30:19,420
 所以为了让它变得有点有趣 
-so to make it a little interesting.
 
 1726
 01:30:19,420 --> 01:30:23,590
 如果愿意 您可以使用更多 但只需要两个 
-You can use many more if you want to, but only two are required.
 
 1727
 01:30:23,590 --> 01:30:26,370
 所以这应该是一种完整的场景 
-So this should be kind of like a complete scene.
 
 1728
 01:30:26,370 --> 01:30:30,000
 因此 将新场景与ProBuilder场景分开 
-So make a new scene separate from the ProBuilder scene,
 
 1729
 01:30:30,000 --> 01:30:33,660
 独立于“门户”场景 包括一个FPS控制器
-separate from the "Portal" scene, include an FPS controller
 
 1730
 01:30:33,660 --> 01:30:37,200
 这样我们就可以在创建网格后立即在场景中移动 
-so that we can move around the scene immediately after creating the mesh,
 
 1731
 01:30:37,200 --> 01:30:39,737
 对吗？
-right?
 
 1732
 01:30:39,737 --> 01:30:41,820
 但话虽如此 您可以使用默认控制器 
-But that said, you can use the default controller.
 
 1733
 01:30:41,820 --> 01:30:43,320
 你不需要做任何花哨的事情 
-You don't need to do anything fancy.
 
 1734
 01:30:43,320 --> 01:30:46,050
 然后在最后 你应该在对撞机上有一个触发器
-And then at the very end, you should have a trigger on a collider
 
 1735
 01:30:46,050 --> 01:30:48,330
 在某个地方 它可能是看不见的 
-somewhere, which can be invisible.
 
 1736
 01:30:48,330 --> 01:30:51,205
 它不一定是隐形的 你可以让它成为你想要的任何东西 
-It doesn't have to be invisible, you can make this whatever you want.
 
 1737
 01:30:51,205 --> 01:30:52,780
 你可以做得像一个拱门 或者--
-You can make like an arch or--
 
 1738
 01:30:52,780 --> 01:30:54,390
 我不知道 
-I don't know.
 
 1739
 01:30:54,390 --> 01:30:57,370
 你可以尽情发挥你的想象力 
-You're free to use your imagination as much as you want,
 
 1740
 01:30:57,370 --> 01:31:01,590
 但需要有一些对撞机 无论它是不是隐形的
-but there needs to be some collider, whether it's invisible or not
 
 1741
 01:31:01,590 --> 01:31:02,489
 在最后一刻 
-at the very end.
 
 1742
 01:31:02,489 --> 01:31:05,280
 需要有一个触发器 然后当你与它相撞时 
-And there needs to be a trigger, and then when you collide with it,
 
 1743
 01:31:05,280 --> 01:31:07,710
 屏幕上应该写着“关卡完成” 
-it should say, "Level Complete" on the screen.
 
 1744
 01:31:07,710 --> 01:31:12,930
 所以只需从Unity2D中获取一个文本对象 这是画布的一部分 
-So just take a text object from Unity 2D, part of the canvas.
 
 1745
 01:31:12,930 --> 01:31:15,915
 如果您只是在场景中添加一个UI文本 它
-If you just add a UI text in the scene, it
 
 1746
 01:31:15,915 --> 01:31:19,800
 将自动为您添加画布和活动系统 
-will automatically add a canvas and an event system for you.
 
 1747
 01:31:19,800 --> 01:31:22,079
 创建标签 然后将其设置为开或关 
-Create the label, and then just set it on or off,
 
 1748
 01:31:22,079 --> 01:31:24,620
 这取决于你是否撞上了扳机 
-depending on whether or not you've collided with the trigger.
 
 1749
 01:31:24,620 --> 01:31:30,030
 在直升机游戏的“游戏结束”文本脚本中有这方面的代码 
-There is code for this in the helicopter game in the "Game Over" text script.
 
 1750
 01:31:30,030 --> 01:31:32,400
 您可以确切地看到这是如何完成的 
-You can see exactly how this is done.
 
 1751
 01:31:32,400 --> 01:31:37,830
 它有效地将文本的颜色设置为0000对0001 
-All it effectively is setting the color of the text to 0000 vs 0001,
 
 1752
 01:31:37,830 --> 01:31:40,920
 或者任何你想要的有效的颜色 只是为了改变Alpha
-or whatever color you want to effectively just to change on the alpha
 
 1753
 01:31:40,920 --> 01:31:43,560
 文本颜色的组件 
-component of the text color.
 
 1754
 01:31:43,560 --> 01:31:46,420
 一旦完成 你就有了一个完整的任务 
-And then once that's done, then you have a complete assignment.
 
 1755
 01:31:46,420 --> 01:31:48,240
 然后你就可以花更多的精力 
-And then you can spend more energy.
 
 1756
 01:31:48,240 --> 01:31:51,480
 希望 这应该只需要一个小时 也许更短 
-Hopefully, this should only take maybe an hour, maybe less.
 
 1757
 01:31:51,480 --> 01:31:57,429
 你可以把更多的精力花在你的期末项目上 该项目将于11日到期 
-You can spend more energy on your final project, which will be due on the 11th.
 
 1758
 01:31:57,429 --> 01:32:00,220
 但总的来说 教授这门课程是一种令人敬畏的乐趣 
-But altogether, it's been an awesome pleasure teaching this course.
 
 1759
 01:32:00,220 --> 01:32:03,600
 我希望你们中的许多人能够学到很多有趣的东西
-And I hope that a lot of you were able to learn a lot of interesting things
 
 1760
 01:32:03,600 --> 01:32:06,270
 希望受到启发去创造一些你自己的项目
-and hopefully were inspired to create some of your own projects
 
 1761
 01:32:06,270 --> 01:32:10,290
 并将在未来继续创造一些你自己的产品 
-and will continue to create some of your own products in the future.
 
 1762
 01:32:10,290 --> 01:32:13,630
 我当然喜欢做很多东西 特别是《超级马里奥》
-I certainly enjoyed making a lot of the stuff, especially "Super Mario
 
 1763
 01:32:13,630 --> 01:32:14,130
 兄弟们 “
-Brothers."
 
 1764
 01:32:14,130 --> 01:32:15,720
 我想那是我最喜欢的 
-I think that was my favorite.
 
 1765
 01:32:15,720 --> 01:32:17,970
 但这是GD50 
-But this was GD50.
 
 1766
 01:32:17,970 --> 01:32:20,720
 所以非常感谢你们 
-So thank you so much.
