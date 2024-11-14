@@ -1,0 +1,1736 @@
+1
+00:00:00,040 --> 00:00:02,440
+it's time to learn about animation or
+
+2
+00:00:02,440 --> 00:00:05,200
+more specifically key frame animation
+
+3
+00:00:05,200 --> 00:00:07,279
+because character animation with its
+
+4
+00:00:07,279 --> 00:00:09,760
+Rigs and bones and things is its own
+
+5
+00:00:09,760 --> 00:00:11,519
+entire separate Beast we're not going to
+
+6
+00:00:11,519 --> 00:00:13,519
+get into we're just going to do a very
+
+7
+00:00:13,519 --> 00:00:16,039
+simple camera move specifically we want
+
+8
+00:00:16,039 --> 00:00:18,279
+the camera to start above the donuts and
+
+9
+00:00:18,279 --> 00:00:21,880
+then fall down to reveal the final plate
+
+10
+00:00:21,880 --> 00:00:23,880
+uh at the end right it's an excuse to
+
+11
+00:00:23,880 --> 00:00:26,119
+learn about key framing well the basics
+
+12
+00:00:26,119 --> 00:00:27,920
+of Animation is really simple if you go
+
+13
+00:00:27,920 --> 00:00:29,519
+to the bottom of your screen if you're
+
+14
+00:00:29,519 --> 00:00:30,480
+in layout
+
+15
+00:00:30,480 --> 00:00:32,840
+uh layout at the layout layout at the
+
+16
+00:00:32,840 --> 00:00:35,480
+top uh we can drag up on this divider
+
+17
+00:00:35,480 --> 00:00:36,879
+here and you can see we've got a
+
+18
+00:00:36,879 --> 00:00:38,680
+timeline which if I click and drag
+
+19
+00:00:38,680 --> 00:00:40,320
+across is currently doing nothing
+
+20
+00:00:40,320 --> 00:00:43,280
+because there is no animation so if we
+
+21
+00:00:43,280 --> 00:00:46,120
+pull out right I'm just going to do a
+
+22
+00:00:46,120 --> 00:00:47,559
+really simple animation to show you you
+
+23
+00:00:47,559 --> 00:00:49,039
+don't have to follow this because this
+
+24
+00:00:49,039 --> 00:00:50,320
+is a different animation what we're
+
+25
+00:00:50,320 --> 00:00:52,399
+going to do it animation is really
+
+26
+00:00:52,399 --> 00:00:53,800
+simple you select the object that you
+
+27
+00:00:53,800 --> 00:00:55,960
+want to apply a key frame to and then
+
+28
+00:00:55,960 --> 00:01:00,719
+you hit I I for insert key frame frame
+
+29
+00:01:00,719 --> 00:01:02,960
+and you get this like scary looking menu
+
+30
+00:01:02,960 --> 00:01:04,360
+apparently they're going to change this
+
+31
+00:01:04,360 --> 00:01:06,400
+eventually but for now you would place a
+
+32
+00:01:06,400 --> 00:01:08,400
+key frame on what it is you're planning
+
+33
+00:01:08,400 --> 00:01:09,960
+to animate so in this case it's the
+
+34
+00:01:09,960 --> 00:01:11,479
+location right so I want to move the
+
+35
+00:01:11,479 --> 00:01:15,040
+camera location then I change my frame
+
+36
+00:01:15,040 --> 00:01:17,240
+count to be the frame I want it to end
+
+37
+00:01:17,240 --> 00:01:20,079
+at then I move the object how I want it
+
+38
+00:01:20,079 --> 00:01:22,240
+to move right there and then I add
+
+39
+00:01:22,240 --> 00:01:24,799
+another key frame I and then say
+
+40
+00:01:24,799 --> 00:01:27,439
+location and now as I play it back which
+
+41
+00:01:27,439 --> 00:01:29,360
+I can do by hitting space bar you can
+
+42
+00:01:29,360 --> 00:01:32,280
+see that the camera is moving haha look
+
+43
+00:01:32,280 --> 00:01:35,399
+at us right a very simple camera move
+
+44
+00:01:35,399 --> 00:01:36,600
+now I don't actually want that though so
+
+45
+00:01:36,600 --> 00:01:38,840
+I'm going to delete those key frames um
+
+46
+00:01:38,840 --> 00:01:41,040
+and what we want is we want what I
+
+47
+00:01:41,040 --> 00:01:42,399
+showed you at the start we want our
+
+48
+00:01:42,399 --> 00:01:45,360
+camera to start uh up here right rotated
+
+49
+00:01:45,360 --> 00:01:47,360
+pointing down this way and then we want
+
+50
+00:01:47,360 --> 00:01:50,040
+it to move in an arc uh in this
+
+51
+00:01:50,040 --> 00:01:53,280
+direction terrible Arrow um pointed this
+
+52
+00:01:53,280 --> 00:01:55,159
+way right now you could do this you
+
+53
+00:01:55,159 --> 00:01:57,520
+could move the camera up there you could
+
+54
+00:01:57,520 --> 00:02:00,000
+then rotate it to point it down and then
+
+55
+00:02:00,000 --> 00:02:02,039
+do a key frame for the location rotation
+
+56
+00:02:02,039 --> 00:02:04,479
+and then do another one over here but it
+
+57
+00:02:04,479 --> 00:02:06,840
+would be very difficult to control that
+
+58
+00:02:06,840 --> 00:02:09,440
+movement and really this is a rather
+
+59
+00:02:09,440 --> 00:02:11,520
+simple movement if we have a pivot
+
+60
+00:02:11,520 --> 00:02:14,080
+object if we have something here and
+
+61
+00:02:14,080 --> 00:02:15,640
+then we parent that camera to that
+
+62
+00:02:15,640 --> 00:02:16,959
+object and then we just rotate that
+
+63
+00:02:16,959 --> 00:02:19,959
+object it's a lot easier so what we need
+
+64
+00:02:19,959 --> 00:02:22,680
+to add is uh first of all I want to
+
+65
+00:02:22,680 --> 00:02:24,319
+think what do I want to be the center of
+
+66
+00:02:24,319 --> 00:02:26,480
+it what do I want to be where do I want
+
+67
+00:02:26,480 --> 00:02:28,519
+that pivot object so I think you know
+
+68
+00:02:28,519 --> 00:02:30,160
+somewhere roughly in the middle of these
+
+69
+00:02:30,160 --> 00:02:32,560
+Donuts so right here I'm going to hold
+
+70
+00:02:32,560 --> 00:02:34,599
+down shift and then right click and
+
+71
+00:02:34,599 --> 00:02:37,200
+that's going to put my 3D cursor um
+
+72
+00:02:37,200 --> 00:02:40,200
+right where I've put it and now to add
+
+73
+00:02:40,200 --> 00:02:43,239
+an object shift a and I'm looking for
+
+74
+00:02:43,239 --> 00:02:45,080
+empty so an empty I mean if you're
+
+75
+00:02:45,080 --> 00:02:47,760
+familiar with other creative tools you
+
+76
+00:02:47,760 --> 00:02:48,840
+probably already know but it's just
+
+77
+00:02:48,840 --> 00:02:51,080
+something it's uh similar to a null
+
+78
+00:02:51,080 --> 00:02:53,120
+object in After Effects Etc it's just
+
+79
+00:02:53,120 --> 00:02:54,200
+something that's going to be in the 3D
+
+80
+00:02:54,200 --> 00:02:56,440
+view Port that won't be rendered okay a
+
+81
+00:02:56,440 --> 00:02:57,840
+number of options here it doesn't matter
+
+82
+00:02:57,840 --> 00:02:59,840
+which one you choose you can go plain
+
+83
+00:02:59,840 --> 00:03:02,159
+axes uh and then if you went to the
+
+84
+00:03:02,159 --> 00:03:04,040
+options here the data you could change
+
+85
+00:03:04,040 --> 00:03:06,400
+the display here to what we saw um
+
+86
+00:03:06,400 --> 00:03:08,959
+before but this is just like a different
+
+87
+00:03:08,959 --> 00:03:11,760
+display um object right depending on
+
+88
+00:03:11,760 --> 00:03:13,400
+what you're looking for I think the
+
+89
+00:03:13,400 --> 00:03:15,560
+sphere is actually the most useful it's
+
+90
+00:03:15,560 --> 00:03:17,159
+way too big currently so I'm going to
+
+91
+00:03:17,159 --> 00:03:20,200
+change the size to be something about
+
+92
+00:03:20,200 --> 00:03:23,159
+that and there we go okay so now what we
+
+93
+00:03:23,159 --> 00:03:25,040
+need to do is we want to parent our
+
+94
+00:03:25,040 --> 00:03:28,360
+camera to this new empty object so
+
+95
+00:03:28,360 --> 00:03:31,200
+select the camera first then shift
+
+96
+00:03:31,200 --> 00:03:33,080
+select that new empty that we've just
+
+97
+00:03:33,080 --> 00:03:35,480
+created and then I'm going to hit contrl
+
+98
+00:03:35,480 --> 00:03:38,480
+p and then set parent object keep
+
+99
+00:03:38,480 --> 00:03:40,760
+transform just like what we did um with
+
+100
+00:03:40,760 --> 00:03:42,959
+the icing and the donut so now you
+
+101
+00:03:42,959 --> 00:03:45,480
+should see if you select that empty and
+
+102
+00:03:45,480 --> 00:03:47,439
+as I rotate it around the camera will
+
+103
+00:03:47,439 --> 00:03:49,319
+rotate with it and if you look through
+
+104
+00:03:49,319 --> 00:03:51,239
+the camera with numpad zero and then
+
+105
+00:03:51,239 --> 00:03:54,000
+just double tap r you can see that I can
+
+106
+00:03:54,000 --> 00:03:56,560
+track ball rotate around it um and you
+
+107
+00:03:56,560 --> 00:03:58,879
+can see this is like way more flexible
+
+108
+00:03:58,879 --> 00:04:00,560
+for what we want we want the camera to
+
+109
+00:04:00,560 --> 00:04:02,120
+be focused on one point and then we just
+
+110
+00:04:02,120 --> 00:04:03,519
+want to move the camera around that
+
+111
+00:04:03,519 --> 00:04:06,040
+point um and you can do some really nice
+
+112
+00:04:06,040 --> 00:04:07,599
+fast camera moves here if you wanted to
+
+113
+00:04:07,599 --> 00:04:09,640
+do something snazzy in our case we're
+
+114
+00:04:09,640 --> 00:04:12,319
+going to do a nice simple slow movement
+
+115
+00:04:12,319 --> 00:04:15,200
+so first of all this angle this look
+
+116
+00:04:15,200 --> 00:04:16,680
+that we've got right here is where we
+
+117
+00:04:16,680 --> 00:04:18,399
+want the final reveal to be so this is
+
+118
+00:04:18,399 --> 00:04:20,639
+where I want the end point the End Key
+
+119
+00:04:20,639 --> 00:04:23,400
+frame of my animation to be so you can
+
+120
+00:04:23,400 --> 00:04:25,160
+make your animation as long as you want
+
+121
+00:04:25,160 --> 00:04:28,240
+I think about 160 frames is about right
+
+122
+00:04:28,240 --> 00:04:30,360
+for this sort of uh the the the speed of
+
+123
+00:04:30,360 --> 00:04:33,479
+this animation so on frame 160 there you
+
+124
+00:04:33,479 --> 00:04:35,360
+can see it's also mentioned there I'm
+
+125
+00:04:35,360 --> 00:04:38,000
+going to with my empty selected not my
+
+126
+00:04:38,000 --> 00:04:40,840
+camera I'm going to hit I and then not
+
+127
+00:04:40,840 --> 00:04:42,800
+select location like I did before but
+
+128
+00:04:42,800 --> 00:04:44,240
+rotation because we're going to be just
+
+129
+00:04:44,240 --> 00:04:46,600
+rotating that Pivot Point not changing
+
+130
+00:04:46,600 --> 00:04:50,039
+its um its position so rotation then I'm
+
+131
+00:04:50,039 --> 00:04:51,919
+going to go to the first frame which I
+
+132
+00:04:51,919 --> 00:04:54,160
+could do by clicking and dragging or
+
+133
+00:04:54,160 --> 00:04:56,520
+shift left Arrow will jump you to the
+
+134
+00:04:56,520 --> 00:04:58,240
+first uh frame or you can click these
+
+135
+00:04:58,240 --> 00:05:00,280
+little um I don't know you call that
+
+136
+00:05:00,280 --> 00:05:03,120
+button jump to end point um you can do
+
+137
+00:05:03,120 --> 00:05:05,120
+that as well and now that I'm here I'm
+
+138
+00:05:05,120 --> 00:05:08,240
+going to rotate this along not the Tilt
+
+139
+00:05:08,240 --> 00:05:10,840
+axis which it is by default but the x
+
+140
+00:05:10,840 --> 00:05:14,479
+axis aha right so now you can see we're
+
+141
+00:05:14,479 --> 00:05:16,360
+doing that exact move we want and in the
+
+142
+00:05:16,360 --> 00:05:17,919
+top left hand corner you can see the
+
+143
+00:05:17,919 --> 00:05:20,120
+exact number of degrees um and I'm going
+
+144
+00:05:20,120 --> 00:05:22,479
+to go with exactly minus 90 so if you
+
+145
+00:05:22,479 --> 00:05:24,440
+hold down control you can see it's
+
+146
+00:05:24,440 --> 00:05:27,240
+snapping to uh minus 90 and then I'm
+
+147
+00:05:27,240 --> 00:05:29,520
+going to click okay now before I change
+
+148
+00:05:29,520 --> 00:05:31,560
+my my frame if I was to change the frame
+
+149
+00:05:31,560 --> 00:05:32,919
+um you can see it's just snapped me back
+
+150
+00:05:32,919 --> 00:05:35,280
+to where I were so always remember you
+
+151
+00:05:35,280 --> 00:05:36,759
+have to create a key frame if you've
+
+152
+00:05:36,759 --> 00:05:38,639
+changed its movement without saving it
+
+153
+00:05:38,639 --> 00:05:41,000
+or without putting in a new key frame so
+
+154
+00:05:41,000 --> 00:05:43,039
+back up to here minus 90 and I'm going
+
+155
+00:05:43,039 --> 00:05:46,680
+to hit I and then say rotation okay and
+
+156
+00:05:46,680 --> 00:05:49,440
+now we should see if we hit space bar to
+
+157
+00:05:49,440 --> 00:05:53,440
+play a very very simple
+
+158
+00:05:53,440 --> 00:05:56,479
+animation okay now we can tweak this
+
+159
+00:05:56,479 --> 00:05:58,160
+though we can improve this because you
+
+160
+00:05:58,160 --> 00:06:00,039
+can see that for one it's a little
+
+161
+00:06:00,039 --> 00:06:02,240
+awkward that the camera starts in a
+
+162
+00:06:02,240 --> 00:06:04,520
+completely stationary stop position then
+
+163
+00:06:04,520 --> 00:06:07,240
+it ramps up and then it slows down
+
+164
+00:06:07,240 --> 00:06:09,160
+towards the end it's a little bit of a
+
+165
+00:06:09,160 --> 00:06:11,479
+weird camera move what I want instead is
+
+166
+00:06:11,479 --> 00:06:13,479
+I want it to start I already want it to
+
+167
+00:06:13,479 --> 00:06:15,759
+be moving right like almost like it's
+
+168
+00:06:15,759 --> 00:06:17,240
+from another shot that's kind of faded
+
+169
+00:06:17,240 --> 00:06:19,680
+into this one I want it to start moving
+
+170
+00:06:19,680 --> 00:06:22,400
+and then to much more slowly fade it out
+
+171
+00:06:22,400 --> 00:06:23,919
+than it is currently CU you can see it
+
+172
+00:06:23,919 --> 00:06:25,199
+just kind of like drops down here and
+
+173
+00:06:25,199 --> 00:06:27,000
+then the camera just stops and it's a
+
+174
+00:06:27,000 --> 00:06:29,080
+little too sudden and while you could
+
+175
+00:06:29,080 --> 00:06:31,039
+change the key frames here like you can
+
+176
+00:06:31,039 --> 00:06:33,919
+do some very simple uh handle type
+
+177
+00:06:33,919 --> 00:06:36,240
+changes this view this layout view is
+
+178
+00:06:36,240 --> 00:06:38,400
+not the best place to do this so instead
+
+179
+00:06:38,400 --> 00:06:40,759
+if you go to the animation tab at the
+
+180
+00:06:40,759 --> 00:06:42,680
+top there you can see it's again it's
+
+181
+00:06:42,680 --> 00:06:45,080
+rearranged all your screens um this over
+
+182
+00:06:45,080 --> 00:06:47,319
+here is just another 3D view over here
+
+183
+00:06:47,319 --> 00:06:50,199
+is the camera uh the camera view but at
+
+184
+00:06:50,199 --> 00:06:51,479
+the bottom here you can see we've
+
+185
+00:06:51,479 --> 00:06:54,360
+changed from the timeline which is what
+
+186
+00:06:54,360 --> 00:06:56,520
+we had before and it's changed to a dope
+
+187
+00:06:56,520 --> 00:06:58,360
+sheet so a dope sheet is just going to
+
+188
+00:06:58,360 --> 00:07:00,199
+show you more information
+
+189
+00:07:00,199 --> 00:07:02,160
+um about the key frames so for example
+
+190
+00:07:02,160 --> 00:07:04,560
+you can see that the X rotation has a
+
+191
+00:07:04,560 --> 00:07:06,479
+DOT over here and a DOT over here but
+
+192
+00:07:06,479 --> 00:07:09,759
+the Y and the Zed um has a different
+
+193
+00:07:09,759 --> 00:07:11,800
+look it's got a continuous line across
+
+194
+00:07:11,800 --> 00:07:13,720
+it and that's to show you that this
+
+195
+00:07:13,720 --> 00:07:16,360
+actually hasn't changed that the Y and
+
+196
+00:07:16,360 --> 00:07:18,840
+the Zed has no information that's uh
+
+197
+00:07:18,840 --> 00:07:20,560
+changed from the start to the end so we
+
+198
+00:07:20,560 --> 00:07:23,080
+don't actually need these key frames so
+
+199
+00:07:23,080 --> 00:07:25,160
+I only need the X rotation so I'm going
+
+200
+00:07:25,160 --> 00:07:27,400
+to select the Y and the Zed and I'm just
+
+201
+00:07:27,400 --> 00:07:28,720
+going to delete them just by hitting the
+
+202
+00:07:28,720 --> 00:07:30,360
+delete key so we've now just got one
+
+203
+00:07:30,360 --> 00:07:31,680
+channel that the animation is happening
+
+204
+00:07:31,680 --> 00:07:33,919
+on right but we can't really change it
+
+205
+00:07:33,919 --> 00:07:35,680
+we can't make it so this starts faster
+
+206
+00:07:35,680 --> 00:07:37,720
+and then this slows down from this view
+
+207
+00:07:37,720 --> 00:07:39,639
+instead we need to change to a different
+
+208
+00:07:39,639 --> 00:07:42,319
+view so in the top leftand Corner click
+
+209
+00:07:42,319 --> 00:07:44,000
+this and we're going to change the
+
+210
+00:07:44,000 --> 00:07:48,080
+window type to be graph editor okay so
+
+211
+00:07:48,080 --> 00:07:50,080
+the graph editor looks like this I'm
+
+212
+00:07:50,080 --> 00:07:52,240
+going to use middle Mouse to uh pan
+
+213
+00:07:52,240 --> 00:07:54,080
+around here and you can see we've now
+
+214
+00:07:54,080 --> 00:07:57,400
+got a line right with some handles on it
+
+215
+00:07:57,400 --> 00:07:59,599
+which is a lot easier to understand but
+
+216
+00:07:59,599 --> 00:08:01,319
+it's hard to get it all in the view so
+
+217
+00:08:01,319 --> 00:08:03,560
+you could hit the home key and that will
+
+218
+00:08:03,560 --> 00:08:06,319
+automatically reorient everything um to
+
+219
+00:08:06,319 --> 00:08:08,759
+position it in the view or if you hold
+
+220
+00:08:08,759 --> 00:08:11,240
+down control and middle Mouse button
+
+221
+00:08:11,240 --> 00:08:13,360
+this enables you to just moving around
+
+222
+00:08:13,360 --> 00:08:15,240
+just dragging around control middle
+
+223
+00:08:15,240 --> 00:08:18,400
+Mouse button will change the uh the axis
+
+224
+00:08:18,400 --> 00:08:21,800
+Zoom as well as the Y right up and down
+
+225
+00:08:21,800 --> 00:08:24,000
+like that um which is just a really
+
+226
+00:08:24,000 --> 00:08:25,840
+handy way to quickly Orient yourself
+
+227
+00:08:25,840 --> 00:08:27,840
+around so control middle Mouse to change
+
+228
+00:08:27,840 --> 00:08:29,879
+this and then you can uh middle Mouse to
+
+229
+00:08:29,879 --> 00:08:32,839
+pan to a different area Okay so again
+
+230
+00:08:32,839 --> 00:08:34,719
+making sure I'm looking at the X
+
+231
+00:08:34,719 --> 00:08:37,479
+rotation there right and if we look you
+
+232
+00:08:37,479 --> 00:08:39,440
+should see the problem that we have
+
+233
+00:08:39,440 --> 00:08:41,679
+right we have the start of the animation
+
+234
+00:08:41,679 --> 00:08:44,880
+it's a very slow curve that's going up
+
+235
+00:08:44,880 --> 00:08:47,440
+it picks up speed in the middle uh and
+
+236
+00:08:47,440 --> 00:08:49,800
+then it ends here and the end is a
+
+237
+00:08:49,800 --> 00:08:52,360
+little abrupt considering uh the amount
+
+238
+00:08:52,360 --> 00:08:54,399
+of movement that it has so really we
+
+239
+00:08:54,399 --> 00:08:57,120
+want um this line instead to look a
+
+240
+00:08:57,120 --> 00:09:00,120
+little bit closer to this line right or
+
+241
+00:09:00,120 --> 00:09:02,160
+even I mean that was kind of a bad line
+
+242
+00:09:02,160 --> 00:09:04,920
+pull it rather like that okay that's the
+
+243
+00:09:04,920 --> 00:09:06,959
+kind of look that we want so with our
+
+244
+00:09:06,959 --> 00:09:09,480
+starting key frame here I'm going to use
+
+245
+00:09:09,480 --> 00:09:11,399
+the same hotkey that you use everywhere
+
+246
+00:09:11,399 --> 00:09:13,480
+uh and that's R um to just get that
+
+247
+00:09:13,480 --> 00:09:15,680
+angle to look a lot closer to what I
+
+248
+00:09:15,680 --> 00:09:18,040
+want don't go too far up if you go like
+
+249
+00:09:18,040 --> 00:09:20,079
+vertical you'll see that the start is
+
+250
+00:09:20,079 --> 00:09:22,600
+like so abrupt it's almost like it's
+
+251
+00:09:22,600 --> 00:09:24,720
+like skipping down or something so I
+
+252
+00:09:24,720 --> 00:09:26,360
+don't want it to be that far I'm going
+
+253
+00:09:26,360 --> 00:09:28,480
+to rotate a little bit out like that so
+
+254
+00:09:28,480 --> 00:09:30,519
+there's a little bit of a harsh movement
+
+255
+00:09:30,519 --> 00:09:32,560
+but not too harsh if you know what I
+
+256
+00:09:32,560 --> 00:09:35,320
+mean there we go something like that and
+
+257
+00:09:35,320 --> 00:09:37,880
+then for this end bit you can see it
+
+258
+00:09:37,880 --> 00:09:40,959
+ends rather suddenly maybe you disagree
+
+259
+00:09:40,959 --> 00:09:42,200
+but I found when I looked at the
+
+260
+00:09:42,200 --> 00:09:43,839
+animation it was rather sudden so this
+
+261
+00:09:43,839 --> 00:09:46,040
+final end point here I'm going to scale
+
+262
+00:09:46,040 --> 00:09:48,560
+It Out by hitting s so again same
+
+263
+00:09:48,560 --> 00:09:50,320
+hotkeys work all across blender which is
+
+264
+00:09:50,320 --> 00:09:53,600
+very nice awesome so now if I play it
+
+265
+00:09:53,600 --> 00:09:56,360
+back you should see it moves rather fast
+
+266
+00:09:56,360 --> 00:09:59,120
+at the beginning and then slowly tapers
+
+267
+00:09:59,120 --> 00:10:02,120
+out out towards the end to a nice soft
+
+268
+00:10:02,120 --> 00:10:05,160
+Landing which is really cool and that's
+
+269
+00:10:05,160 --> 00:10:08,440
+pretty well yeah that's a pretty good
+
+270
+00:10:08,440 --> 00:10:11,040
+animation now we could stop here but the
+
+271
+00:10:11,040 --> 00:10:12,160
+other thing we could do to get a little
+
+272
+00:10:12,160 --> 00:10:14,279
+bit more Motion in it is we could have
+
+273
+00:10:14,279 --> 00:10:17,360
+the camera start closer to the donuts
+
+274
+00:10:17,360 --> 00:10:19,399
+and then pull out as it goes further
+
+275
+00:10:19,399 --> 00:10:20,839
+away I hate that this keeps uh
+
+276
+00:10:20,839 --> 00:10:22,880
+interrupting I'm going to hide that okay
+
+277
+00:10:22,880 --> 00:10:25,760
+there we go select my Pivot there we go
+
+278
+00:10:25,760 --> 00:10:27,760
+so uh essentially we could have it so
+
+279
+00:10:27,760 --> 00:10:29,959
+that it starts like the camera starts
+
+280
+00:10:29,959 --> 00:10:32,360
+right about here and then it pulls out
+
+281
+00:10:32,360 --> 00:10:34,040
+and then as it pulls out it goes a
+
+282
+00:10:34,040 --> 00:10:36,079
+little bit further away and like ends
+
+283
+00:10:36,079 --> 00:10:38,200
+back here so have a think about how you
+
+284
+00:10:38,200 --> 00:10:40,120
+would do that how would you have the
+
+285
+00:10:40,120 --> 00:10:43,120
+camera start closer to the pivot point
+
+286
+00:10:43,120 --> 00:10:44,800
+right now you might think well okay we
+
+287
+00:10:44,800 --> 00:10:46,880
+could animate the camera pulling in
+
+288
+00:10:46,880 --> 00:10:48,839
+closer but that would be overly
+
+289
+00:10:48,839 --> 00:10:50,959
+complicated we can just use the same
+
+290
+00:10:50,959 --> 00:10:53,160
+pivot point but we can scale it because
+
+291
+00:10:53,160 --> 00:10:55,760
+you can see if I hit s look at that the
+
+292
+00:10:55,760 --> 00:10:58,040
+camera goes closer and if I pull it out
+
+293
+00:10:58,040 --> 00:10:59,560
+you can see the camera moves f further
+
+294
+00:10:59,560 --> 00:11:01,079
+away so what I want to do is I want to
+
+295
+00:11:01,079 --> 00:11:03,040
+go to the uh the final Endo here the
+
+296
+00:11:03,040 --> 00:11:05,399
+frame 160 which by the way you can jump
+
+297
+00:11:05,399 --> 00:11:07,720
+to an existing key frame just by using
+
+298
+00:11:07,720 --> 00:11:10,320
+the up and down arrows so if I go up you
+
+299
+00:11:10,320 --> 00:11:12,760
+can see it's uh that key frame or down
+
+300
+00:11:12,760 --> 00:11:15,480
+it uh takes me to the front so I want to
+
+301
+00:11:15,480 --> 00:11:17,720
+go here and I want to create uh a key
+
+302
+00:11:17,720 --> 00:11:20,600
+frame just for the scale information so
+
+303
+00:11:20,600 --> 00:11:22,519
+here cuz this is the end view that I
+
+304
+00:11:22,519 --> 00:11:24,560
+want so I'm going to hit I and then say
+
+305
+00:11:24,560 --> 00:11:28,680
+not rotation but scale so now I'm going
+
+306
+00:11:28,680 --> 00:11:31,000
+to go to the front of the animation and
+
+307
+00:11:31,000 --> 00:11:32,959
+I'm going to scale it in to get a nice
+
+308
+00:11:32,959 --> 00:11:35,200
+closeup of the donuts right there and
+
+309
+00:11:35,200 --> 00:11:37,079
+then I'm going to add another key frame
+
+310
+00:11:37,079 --> 00:11:40,040
+I and then scale so you should now see
+
+311
+00:11:40,040 --> 00:11:42,639
+in your graph editor that's what it's
+
+312
+00:11:42,639 --> 00:11:45,320
+called um you should see your rotation
+
+313
+00:11:45,320 --> 00:11:46,720
+information and then your scale
+
+314
+00:11:46,720 --> 00:11:48,360
+information now you'll know that the
+
+315
+00:11:48,360 --> 00:11:50,279
+scale is like like where is the scale
+
+316
+00:11:50,279 --> 00:11:53,920
+information it's here but it's so small
+
+317
+00:11:53,920 --> 00:11:57,079
+like the amount of uh variant here it's
+
+318
+00:11:57,079 --> 00:11:59,560
+so small that it it's just not readable
+
+319
+00:11:59,560 --> 00:12:01,839
+and the reason for that is that it's
+
+320
+00:12:01,839 --> 00:12:04,079
+trying to combine two different data
+
+321
+00:12:04,079 --> 00:12:06,440
+types into one view right because
+
+322
+00:12:06,440 --> 00:12:09,079
+rotation is happening on a you can see
+
+323
+00:12:09,079 --> 00:12:12,000
+here it's a oh I just wrote over the top
+
+324
+00:12:12,000 --> 00:12:14,639
+of it it's 0 degre and then down here
+
+325
+00:12:14,639 --> 00:12:18,680
+you've got minus 90 so this is a minus
+
+326
+00:12:18,680 --> 00:12:21,519
+90 right but then up here we've got
+
+327
+00:12:21,519 --> 00:12:24,399
+scale that's happening between a zero
+
+328
+00:12:24,399 --> 00:12:27,320
+range and a one range which is right
+
+329
+00:12:27,320 --> 00:12:30,399
+next to it okay so one you could just
+
+330
+00:12:30,399 --> 00:12:32,880
+hide your rotation or you can click on
+
+331
+00:12:32,880 --> 00:12:35,720
+normalize and normalize will uh put
+
+332
+00:12:35,720 --> 00:12:38,560
+everything between a zero to one range
+
+333
+00:12:38,560 --> 00:12:40,160
+but just know that when you're in this
+
+334
+00:12:40,160 --> 00:12:43,040
+range if you try to move a key frame to
+
+335
+00:12:43,040 --> 00:12:44,880
+be a different value like you took your
+
+336
+00:12:44,880 --> 00:12:46,800
+scale and then you moved it down when
+
+337
+00:12:46,800 --> 00:12:49,160
+you confirm it it'll snap back to where
+
+338
+00:12:49,160 --> 00:12:50,839
+it was and that's because with normalize
+
+339
+00:12:50,839 --> 00:12:53,440
+on it'll always put everything between 0
+
+340
+00:12:53,440 --> 00:12:55,800
+to 1 so don't do it if you're planning
+
+341
+00:12:55,800 --> 00:12:58,720
+to change a value of something normalize
+
+342
+00:12:58,720 --> 00:13:00,160
+um but other otherwise it's uh it's okay
+
+343
+00:13:00,160 --> 00:13:02,199
+to use for changing the handles like in
+
+344
+00:13:02,199 --> 00:13:04,440
+this case but I'm going to hide my
+
+345
+00:13:04,440 --> 00:13:06,160
+rotation anyway cuz it's just going to
+
+346
+00:13:06,160 --> 00:13:08,279
+get in the way um and instead you can
+
+347
+00:13:08,279 --> 00:13:10,440
+see that x y and Zed all have
+
+348
+00:13:10,440 --> 00:13:11,680
+information in them because of course
+
+349
+00:13:11,680 --> 00:13:13,320
+we're not scaling it on any particular
+
+350
+00:13:13,320 --> 00:13:16,560
+axis it's across all three axes at once
+
+351
+00:13:16,560 --> 00:13:17,760
+because it's like a yeah it's the
+
+352
+00:13:17,760 --> 00:13:19,519
+uniform value of
+
+353
+00:13:19,519 --> 00:13:22,399
+scale so um again I could do the same
+
+354
+00:13:22,399 --> 00:13:24,839
+thing here I could rotate this I don't
+
+355
+00:13:24,839 --> 00:13:26,199
+want there to be too much of a
+
+356
+00:13:26,199 --> 00:13:28,120
+difference like it's actually pretty
+
+357
+00:13:28,120 --> 00:13:31,000
+good by default like the scale isn't as
+
+358
+00:13:31,000 --> 00:13:33,480
+noticeable that it slowly ramps up um
+
+359
+00:13:33,480 --> 00:13:35,000
+and it's good to have like a kind of a
+
+360
+00:13:35,000 --> 00:13:37,320
+softer movement as it pulls away but I
+
+361
+00:13:37,320 --> 00:13:38,680
+do want to change it a little bit I'm
+
+362
+00:13:38,680 --> 00:13:40,680
+going to select these final end points
+
+363
+00:13:40,680 --> 00:13:42,760
+I'll scale that out a little bit as well
+
+364
+00:13:42,760 --> 00:13:45,040
+just so it's a little softer as it
+
+365
+00:13:45,040 --> 00:13:46,760
+scales
+
+366
+00:13:46,760 --> 00:13:50,240
+out and that is pretty good
+
+367
+00:13:50,240 --> 00:13:52,920
+folks now you'll note as I play through
+
+368
+00:13:52,920 --> 00:13:54,680
+this that in the top leftand corner of
+
+369
+00:13:54,680 --> 00:13:57,199
+the screen you've got FPS which stands
+
+370
+00:13:57,199 --> 00:13:59,440
+for frames per second if you play video
+
+371
+00:13:59,440 --> 00:14:01,199
+games you're already well familiar with
+
+372
+00:14:01,199 --> 00:14:03,120
+that term uh and you can see as we play
+
+373
+00:14:03,120 --> 00:14:04,399
+through it it can't really make up its
+
+374
+00:14:04,399 --> 00:14:08,399
+mind it's like 24 no 25 26 24 it's I
+
+375
+00:14:08,399 --> 00:14:10,240
+think it's just a readout glitch in in
+
+376
+00:14:10,240 --> 00:14:12,639
+blunder it's actually a constant 24
+
+377
+00:14:12,639 --> 00:14:14,480
+frames per second by default but for
+
+378
+00:14:14,480 --> 00:14:15,360
+whatever reason it's kind of like
+
+379
+00:14:15,360 --> 00:14:18,000
+fluctuating between them anyway point is
+
+380
+00:14:18,000 --> 00:14:20,360
+is you can change that amount by going
+
+381
+00:14:20,360 --> 00:14:22,880
+to your output settings over here and
+
+382
+00:14:22,880 --> 00:14:24,680
+then underneath format you've got frame
+
+383
+00:14:24,680 --> 00:14:26,759
+rate now for whatever reason blunder
+
+384
+00:14:26,759 --> 00:14:29,320
+chose 24 frames per second which is
+
+385
+00:14:29,320 --> 00:14:31,959
+really only used for feature film
+
+386
+00:14:31,959 --> 00:14:34,440
+everyone else for like TV or YouTube
+
+387
+00:14:34,440 --> 00:14:37,399
+it's 30 frames per second you can also
+
+388
+00:14:37,399 --> 00:14:39,759
+uh go 60 frames per second if you wanted
+
+389
+00:14:39,759 --> 00:14:42,320
+to really pay for longer render times
+
+390
+00:14:42,320 --> 00:14:43,920
+because it means things uh have to be
+
+391
+00:14:43,920 --> 00:14:45,160
+you have to render like twice as many
+
+392
+00:14:45,160 --> 00:14:47,000
+frames but it means things are buttery
+
+393
+00:14:47,000 --> 00:14:49,160
+smooth you won't actually see it right
+
+394
+00:14:49,160 --> 00:14:51,199
+now because I'm recording this tutorial
+
+395
+00:14:51,199 --> 00:14:54,279
+at 30 frames per second anyways really
+
+396
+00:14:54,279 --> 00:14:55,759
+the the options that most people choose
+
+397
+00:14:55,759 --> 00:14:59,759
+are 24 for Cinema and feature films 30
+
+398
+00:14:59,759 --> 00:15:01,279
+if you're a normal person and you're
+
+399
+00:15:01,279 --> 00:15:03,600
+making things for internet or YouTube or
+
+400
+00:15:03,600 --> 00:15:06,560
+anything and then 60 if it's for like 3D
+
+401
+00:15:06,560 --> 00:15:08,079
+content or something that has to be
+
+402
+00:15:08,079 --> 00:15:10,240
+really really smooth anyways we're going
+
+403
+00:15:10,240 --> 00:15:11,959
+to set it to 30 cuz that is the more
+
+404
+00:15:11,959 --> 00:15:13,839
+standard frame rate for uh for most
+
+405
+00:15:13,839 --> 00:15:15,800
+things I know people like to argue but
+
+406
+00:15:15,800 --> 00:15:18,680
+yes 30 is in my opinion a much more
+
+407
+00:15:18,680 --> 00:15:21,079
+reasonable uh frame rate for most things
+
+408
+00:15:21,079 --> 00:15:23,320
+and the final thing you'll note um as we
+
+409
+00:15:23,320 --> 00:15:24,800
+play through this is that it gets to
+
+410
+00:15:24,800 --> 00:15:26,720
+frame 160 and then it just kind of
+
+411
+00:15:26,720 --> 00:15:29,000
+pauses for a bit until it gets to frame
+
+412
+00:15:29,000 --> 00:15:31,759
+250 and then it Loops back and that is
+
+413
+00:15:31,759 --> 00:15:34,240
+because uh the end frame is set to 250
+
+414
+00:15:34,240 --> 00:15:36,880
+so if we set this to 160 instead which
+
+415
+00:15:36,880 --> 00:15:39,000
+is what our animation ends at you can
+
+416
+00:15:39,000 --> 00:15:40,720
+see it will now play through and it'll
+
+417
+00:15:40,720 --> 00:15:42,319
+get to the end and then it will loop
+
+418
+00:15:42,319 --> 00:15:43,800
+back to the start and also if you want
+
+419
+00:15:43,800 --> 00:15:46,759
+to like reset this this uh this view in
+
+420
+00:15:46,759 --> 00:15:48,560
+your timeline you can hit the home key
+
+421
+00:15:48,560 --> 00:15:50,639
+and that'll like expand it out a little
+
+422
+00:15:50,639 --> 00:15:53,680
+bit um and there you go so that is
+
+423
+00:15:53,680 --> 00:15:56,720
+basically our final animation you can
+
+424
+00:15:56,720 --> 00:15:58,079
+tweak it you can make it look a little
+
+425
+00:15:58,079 --> 00:16:00,440
+bit more polished than what I have here
+
+426
+00:16:00,440 --> 00:16:01,839
+cuz when I'm recording a tutorial I can
+
+427
+00:16:01,839 --> 00:16:04,759
+only do so much before people get bored
+
+428
+00:16:04,759 --> 00:16:06,399
+um but that's that's pretty good it's
+
+429
+00:16:06,399 --> 00:16:09,720
+not bad so we are nearing the end go
+
+430
+00:16:09,720 --> 00:16:12,560
+ahead click here to join me in what
+
+431
+00:16:12,560 --> 00:16:14,560
+might be the final part uh we're going
+
+432
+00:16:14,560 --> 00:16:17,560
+to do rendering and forming that uh that
+
+433
+00:16:17,560 --> 00:16:19,680
+final animation so click there and I
+
+434
+00:16:19,680 --> 00:16:22,560
+will see you there
+

@@ -1,0 +1,1063 @@
+1
+00:00:00,160 --> 00:00:03,399
+well you made it the end of the series
+
+2
+00:00:03,399 --> 00:00:07,520
+you've watched 14 videos so uh before I
+
+3
+00:00:07,520 --> 00:00:10,400
+show you how to turn the image sequence
+
+4
+00:00:10,400 --> 00:00:12,639
+into a final video I do want to say
+
+5
+00:00:12,639 --> 00:00:15,599
+congratulations because um everyone says
+
+6
+00:00:15,599 --> 00:00:17,320
+they want to learn new skills and very
+
+7
+00:00:17,320 --> 00:00:18,920
+few people actually want to put in the
+
+8
+00:00:18,920 --> 00:00:21,160
+time so if you're watching this you have
+
+9
+00:00:21,160 --> 00:00:23,039
+clearly put in the time so I mean that
+
+10
+00:00:23,039 --> 00:00:26,199
+truly well done now if you are able to
+
+11
+00:00:26,199 --> 00:00:28,000
+go from this series and then go off and
+
+12
+00:00:28,000 --> 00:00:29,439
+create and get what you want out of
+
+13
+00:00:29,439 --> 00:00:32,079
+blender then fantastic uh but what I've
+
+14
+00:00:32,079 --> 00:00:34,079
+learned over the years is that there is
+
+15
+00:00:34,079 --> 00:00:36,559
+a percentage of people who want more
+
+16
+00:00:36,559 --> 00:00:38,239
+they want to know what tutorials to
+
+17
+00:00:38,239 --> 00:00:41,440
+watch next to level up their career so I
+
+18
+00:00:41,440 --> 00:00:43,840
+am in the process of creating a blender
+
+19
+00:00:43,840 --> 00:00:48,280
+course for beginners M special so this
+
+20
+00:00:48,280 --> 00:00:50,520
+is going to be for you guys essentially
+
+21
+00:00:50,520 --> 00:00:52,559
+people who finished this course and then
+
+22
+00:00:52,559 --> 00:00:54,920
+they want more they want to know uh how
+
+23
+00:00:54,920 --> 00:00:57,520
+do they do other parts of blender Beyond
+
+24
+00:00:57,520 --> 00:01:00,160
+just a donut so it's not available yet
+
+25
+00:01:00,160 --> 00:01:02,840
+but I'm looking to release it in early
+
+26
+00:01:02,840 --> 00:01:05,760
+2024 if I can um so if you want to be
+
+27
+00:01:05,760 --> 00:01:07,600
+notified when it is available uh click
+
+28
+00:01:07,600 --> 00:01:09,360
+the link in the description and you can
+
+29
+00:01:09,360 --> 00:01:11,759
+join a separate email list just for this
+
+30
+00:01:11,759 --> 00:01:13,759
+course to be notified once it uh is
+
+31
+00:01:13,759 --> 00:01:15,960
+available it's not going to be free it
+
+32
+00:01:15,960 --> 00:01:18,040
+is going to be a paid course um but it
+
+33
+00:01:18,040 --> 00:01:19,600
+is uh yeah for people who really want to
+
+34
+00:01:19,600 --> 00:01:21,159
+take this seriously and make a career
+
+35
+00:01:21,159 --> 00:01:24,040
+out of it that is for you so with that
+
+36
+00:01:24,040 --> 00:01:26,600
+out of the way now on to the tutorial if
+
+37
+00:01:26,600 --> 00:01:28,439
+you followed the last part correctly you
+
+38
+00:01:28,439 --> 00:01:30,360
+should find inside this
+
+39
+00:01:30,360 --> 00:01:35,119
+folder 160 Tiff files which are you know
+
+40
+00:01:35,119 --> 00:01:36,680
+you can open them individually and look
+
+41
+00:01:36,680 --> 00:01:38,240
+at the images but if you want to create
+
+42
+00:01:38,240 --> 00:01:40,920
+a video then this is what you do if
+
+43
+00:01:40,920 --> 00:01:42,560
+you're using this as part of another
+
+44
+00:01:42,560 --> 00:01:45,000
+video project um then you might be using
+
+45
+00:01:45,000 --> 00:01:46,680
+software like Premier I know that's not
+
+46
+00:01:46,680 --> 00:01:47,960
+all of you but I'll just quickly show
+
+47
+00:01:47,960 --> 00:01:49,399
+you for those who want to use Premiere
+
+48
+00:01:49,399 --> 00:01:51,240
+instead you just click on the first
+
+49
+00:01:51,240 --> 00:01:54,000
+image and then check image sequence uh
+
+50
+00:01:54,000 --> 00:01:55,759
+that'll import it and then just drag
+
+51
+00:01:55,759 --> 00:01:57,719
+that into a new sequence and there you
+
+52
+00:01:57,719 --> 00:01:59,840
+go and then you can just import uh sorry
+
+53
+00:01:59,840 --> 00:02:01,439
+export that as you would anything in
+
+54
+00:02:01,439 --> 00:02:04,479
+Premiere or edit it Etc but if you want
+
+55
+00:02:04,479 --> 00:02:06,000
+to use blender if you want to go the
+
+56
+00:02:06,000 --> 00:02:08,199
+free route there is actually a video
+
+57
+00:02:08,199 --> 00:02:11,319
+editor inside of blender now you can
+
+58
+00:02:11,319 --> 00:02:14,200
+access it from uh inside here um but I
+
+59
+00:02:14,200 --> 00:02:16,200
+actually find it easier and better to
+
+60
+00:02:16,200 --> 00:02:18,720
+just create a new blender instance so
+
+61
+00:02:18,720 --> 00:02:21,239
+for that I go file new and then you can
+
+62
+00:02:21,239 --> 00:02:23,000
+go General but actually if you go video
+
+63
+00:02:23,000 --> 00:02:25,879
+editing um then that will just set it up
+
+64
+00:02:25,879 --> 00:02:27,680
+for you ready to go and it'll just it
+
+65
+00:02:27,680 --> 00:02:29,400
+saves a bunch of time this isn't like a
+
+66
+00:02:29,400 --> 00:02:31,080
+special version of blender or anything
+
+67
+00:02:31,080 --> 00:02:32,879
+when you choose this like if you want to
+
+68
+00:02:32,879 --> 00:02:34,840
+use you know the standard blender layout
+
+69
+00:02:34,840 --> 00:02:36,920
+or whatever it's still there it's just
+
+70
+00:02:36,920 --> 00:02:40,480
+it's created this video like this screen
+
+71
+00:02:40,480 --> 00:02:41,959
+layout and everything is already
+
+72
+00:02:41,959 --> 00:02:43,879
+configured and ready to go for you
+
+73
+00:02:43,879 --> 00:02:46,640
+anyways so down here this is your video
+
+74
+00:02:46,640 --> 00:02:48,680
+editor this is the sequenc as it's
+
+75
+00:02:48,680 --> 00:02:50,000
+called and then up here is going to show
+
+76
+00:02:50,000 --> 00:02:52,000
+you the video that it's uh displaying so
+
+77
+00:02:52,000 --> 00:02:53,480
+the first thing we need to do is load in
+
+78
+00:02:53,480 --> 00:02:56,519
+that image sequence so shift a hotkey
+
+79
+00:02:56,519 --> 00:02:59,040
+works all over blender choose image
+
+80
+00:02:59,040 --> 00:03:01,599
+sequence navigate to that folder where
+
+81
+00:03:01,599 --> 00:03:04,159
+you have uh all of these Tiff files and
+
+82
+00:03:04,159 --> 00:03:05,560
+unlike Premier where you select the
+
+83
+00:03:05,560 --> 00:03:07,120
+first one and then import that this one
+
+84
+00:03:07,120 --> 00:03:08,920
+you need to select all of them so the
+
+85
+00:03:08,920 --> 00:03:11,360
+hotkey is just a to select everything
+
+86
+00:03:11,360 --> 00:03:13,560
+hot Keys work everywhere across blender
+
+87
+00:03:13,560 --> 00:03:17,680
+and then go add image strip aha now you
+
+88
+00:03:17,680 --> 00:03:19,200
+can see we've got this strip at the
+
+89
+00:03:19,200 --> 00:03:21,120
+bottom here and if we hit the space bar
+
+90
+00:03:21,120 --> 00:03:23,360
+we should see at the top the uh image
+
+91
+00:03:23,360 --> 00:03:26,879
+sequence playing awesome now it looks a
+
+92
+00:03:26,879 --> 00:03:28,840
+little slow and you'll see actually in
+
+93
+00:03:28,840 --> 00:03:30,439
+the top left hand cornner it's playing
+
+94
+00:03:30,439 --> 00:03:32,400
+at 24 frames a second and that's because
+
+95
+00:03:32,400 --> 00:03:34,640
+although we set it up as 30 frames a
+
+96
+00:03:34,640 --> 00:03:37,000
+second we just rendered that into the uh
+
+97
+00:03:37,000 --> 00:03:38,720
+image sequence doesn't know what the
+
+98
+00:03:38,720 --> 00:03:40,239
+frame rate is the only reason we did
+
+99
+00:03:40,239 --> 00:03:41,480
+that was so that when you're playing the
+
+100
+00:03:41,480 --> 00:03:42,920
+animation in the viewport it's actually
+
+101
+00:03:42,920 --> 00:03:45,239
+at the correct speed but to set it up
+
+102
+00:03:45,239 --> 00:03:47,519
+here uh you set your frame rate here
+
+103
+00:03:47,519 --> 00:03:51,680
+from uh 24 to 30 and now if you play it
+
+104
+00:03:51,680 --> 00:03:53,159
+you'll see it's going at 30 frames a
+
+105
+00:03:53,159 --> 00:03:54,640
+second it's a little faster it's a
+
+106
+00:03:54,640 --> 00:03:57,840
+little smoother and uh it looks good
+
+107
+00:03:57,840 --> 00:03:59,680
+great now you can see it just kind of
+
+108
+00:03:59,680 --> 00:04:01,920
+kind of ends right just goes into like
+
+109
+00:04:01,920 --> 00:04:04,040
+blank nothing and we don't want that I
+
+110
+00:04:04,040 --> 00:04:06,200
+want to really hold on this end frame
+
+111
+00:04:06,200 --> 00:04:08,159
+because this is the important frame
+
+112
+00:04:08,159 --> 00:04:09,720
+where all the donuts are revealed at the
+
+113
+00:04:09,720 --> 00:04:12,439
+end there and it's really easy to extend
+
+114
+00:04:12,439 --> 00:04:15,159
+the last frame you just click on the end
+
+115
+00:04:15,159 --> 00:04:16,959
+of that strip at the bottom there till
+
+116
+00:04:16,959 --> 00:04:18,639
+it lights up white and then you can
+
+117
+00:04:18,639 --> 00:04:20,759
+either click and drag out or hit the
+
+118
+00:04:20,759 --> 00:04:24,600
+hotkey g um to grab and we can just move
+
+119
+00:04:24,600 --> 00:04:27,320
+it all the way to the end so 250 that's
+
+120
+00:04:27,320 --> 00:04:30,199
+what the uh the final like the frame
+
+121
+00:04:30,199 --> 00:04:31,840
+range here is right if you want it to be
+
+122
+00:04:31,840 --> 00:04:33,400
+longer or shorter you can change it
+
+123
+00:04:33,400 --> 00:04:36,039
+there but I'm going to keep it at 250 so
+
+124
+00:04:36,039 --> 00:04:38,000
+that means now it gets to the end and
+
+125
+00:04:38,000 --> 00:04:40,199
+then it just holds here and let you soak
+
+126
+00:04:40,199 --> 00:04:44,639
+it in soak in those uh those donuts um
+
+127
+00:04:44,639 --> 00:04:47,400
+cool and this is fine you could export
+
+128
+00:04:47,400 --> 00:04:49,759
+this but I also just want to have a nice
+
+129
+00:04:49,759 --> 00:04:52,000
+fade out at the end because why not just
+
+130
+00:04:52,000 --> 00:04:53,880
+learn about something in the video
+
+131
+00:04:53,880 --> 00:04:56,199
+sequence editor um to do that I'm going
+
+132
+00:04:56,199 --> 00:04:59,400
+to go shift a and then add in a color
+
+133
+00:04:59,400 --> 00:05:01,600
+and and the color is already set up as
+
+134
+00:05:01,600 --> 00:05:03,840
+black so that's fine so I'm just
+
+135
+00:05:03,840 --> 00:05:07,039
+dragging it over the end here and you
+
+136
+00:05:07,039 --> 00:05:08,600
+can see it just jumps to the color CU
+
+137
+00:05:08,600 --> 00:05:10,039
+that's now over the top of that other
+
+138
+00:05:10,039 --> 00:05:12,360
+strip so it's it's reading top to bottom
+
+139
+00:05:12,360 --> 00:05:15,080
+so it's black is over the top and uh
+
+140
+00:05:15,080 --> 00:05:17,160
+instead of it being a jump cut to black
+
+141
+00:05:17,160 --> 00:05:19,080
+we obviously want to fade it so to do
+
+142
+00:05:19,080 --> 00:05:22,160
+that just click that that uh strip there
+
+143
+00:05:22,160 --> 00:05:25,039
+and then say shift a and then say fade
+
+144
+00:05:25,039 --> 00:05:27,960
+fade in and you'll see it's uh it's hard
+
+145
+00:05:27,960 --> 00:05:29,800
+to read here from this cuz it's got like
+
+146
+00:05:29,800 --> 00:05:31,960
+black at the bottom but there is a
+
+147
+00:05:31,960 --> 00:05:33,240
+actually can I do
+
+148
+00:05:33,240 --> 00:05:36,000
+that uh I'm using the same uh hotkey
+
+149
+00:05:36,000 --> 00:05:37,600
+control middle Mouse Button as when
+
+150
+00:05:37,600 --> 00:05:39,680
+we're using the graph editor but you can
+
+151
+00:05:39,680 --> 00:05:41,759
+see there is like a slight uh like a
+
+152
+00:05:41,759 --> 00:05:43,880
+little ramp up like that it's just
+
+153
+00:05:43,880 --> 00:05:46,440
+showing you it's fading in um but there
+
+154
+00:05:46,440 --> 00:05:48,360
+you go that's the fade in uh effect
+
+155
+00:05:48,360 --> 00:05:50,520
+there and what that is doing is it's
+
+156
+00:05:50,520 --> 00:05:53,280
+just created um a key frame animation
+
+157
+00:05:53,280 --> 00:05:55,720
+for this opacity slider to just do a
+
+158
+00:05:55,720 --> 00:05:59,120
+very quick uh fade in there um but there
+
+159
+00:05:59,120 --> 00:06:02,720
+you go so now that's it that's what we
+
+160
+00:06:02,720 --> 00:06:06,160
+want this is what we want to form into a
+
+161
+00:06:06,160 --> 00:06:08,000
+video file which we could upload to
+
+162
+00:06:08,000 --> 00:06:10,400
+Youtube or Instagram or whatever so to
+
+163
+00:06:10,400 --> 00:06:13,479
+create that here in your output settings
+
+164
+00:06:13,479 --> 00:06:15,720
+you want to again choose a folder that
+
+165
+00:06:15,720 --> 00:06:18,000
+you want to save it to I usually save it
+
+166
+00:06:18,000 --> 00:06:19,960
+inside of the folder with the frames and
+
+167
+00:06:19,960 --> 00:06:24,319
+I just call it video and then say accept
+
+168
+00:06:24,319 --> 00:06:27,039
+now because we uh set this up as a new
+
+169
+00:06:27,039 --> 00:06:29,160
+video editing file it's automatically
+
+170
+00:06:29,160 --> 00:06:31,960
+set the file format for us as
+
+171
+00:06:31,960 --> 00:06:34,800
+ffmpeg video and this is actually the
+
+172
+00:06:34,800 --> 00:06:37,319
+most flexible I've never needed Avi jpeg
+
+173
+00:06:37,319 --> 00:06:39,919
+or raw it just creates those ginormous
+
+174
+00:06:39,919 --> 00:06:42,120
+gigabyte files that you can never do
+
+175
+00:06:42,120 --> 00:06:44,560
+anything with anyway so ffmpeg is the
+
+176
+00:06:44,560 --> 00:06:45,919
+one you want because it's got the most
+
+177
+00:06:45,919 --> 00:06:49,319
+options um and go underneath encoding
+
+178
+00:06:49,319 --> 00:06:50,960
+and this is where you'll find all of
+
+179
+00:06:50,960 --> 00:06:54,160
+your video settings um for encoding so
+
+180
+00:06:54,160 --> 00:06:56,639
+the container that is your like think of
+
+181
+00:06:56,639 --> 00:06:58,560
+it as the file extension right so if
+
+182
+00:06:58,560 --> 00:07:01,720
+it's a mob file that would be QuickTime
+
+183
+00:07:01,720 --> 00:07:05,720
+if it is a MKV file that annoying format
+
+184
+00:07:05,720 --> 00:07:08,240
+that premere can't read and it's
+
+185
+00:07:08,240 --> 00:07:10,840
+supposed to be better than MP4s but
+
+186
+00:07:10,840 --> 00:07:13,680
+nothing can read it except VLC anyways
+
+187
+00:07:13,680 --> 00:07:17,560
+that would be Metro metosa metosa is the
+
+188
+00:07:17,560 --> 00:07:20,520
+the one webm that's like a format that
+
+189
+00:07:20,520 --> 00:07:22,759
+is becoming more common online you could
+
+190
+00:07:22,759 --> 00:07:25,280
+use that anyways we're going to use MP4
+
+191
+00:07:25,280 --> 00:07:27,599
+so that's MPEG 4 uh because that's the
+
+192
+00:07:27,599 --> 00:07:29,840
+most common one that most people need
+
+193
+00:07:29,840 --> 00:07:31,319
+video codak we're going to leave it at
+
+194
+00:07:31,319 --> 00:07:35,280
+the default F sorry h264 is
+
+195
+00:07:35,280 --> 00:07:37,800
+fine now uh you're if you're used to
+
+196
+00:07:37,800 --> 00:07:39,960
+like all these settings of bit rates and
+
+197
+00:07:39,960 --> 00:07:41,680
+all that you can go into that just by
+
+198
+00:07:41,680 --> 00:07:43,199
+setting like constant bit rate and you
+
+199
+00:07:43,199 --> 00:07:46,159
+can change all this but I usually just
+
+200
+00:07:46,159 --> 00:07:49,159
+choose one of the uh think of these as
+
+201
+00:07:49,159 --> 00:07:51,759
+like presets right so high quality is
+
+202
+00:07:51,759 --> 00:07:53,639
+probably good enough for most people if
+
+203
+00:07:53,639 --> 00:07:55,400
+you want to go even higher quality
+
+204
+00:07:55,400 --> 00:07:57,879
+perceptually lossless will mean it's
+
+205
+00:07:57,879 --> 00:07:59,319
+almost the highest quality possible
+
+206
+00:07:59,319 --> 00:08:02,680
+possible so there's no loss uh lossless
+
+207
+00:08:02,680 --> 00:08:05,240
+would put it at no loss at all so it's
+
+208
+00:08:05,240 --> 00:08:07,479
+like the highest quality I don't think
+
+209
+00:08:07,479 --> 00:08:09,919
+you ever need that like perceptually
+
+210
+00:08:09,919 --> 00:08:11,960
+lossless is probably fine for like more
+
+211
+00:08:11,960 --> 00:08:14,599
+than every case you would need right so
+
+212
+00:08:14,599 --> 00:08:17,280
+perceptually lossless and that's it um
+
+213
+00:08:17,280 --> 00:08:19,360
+oh audio we don't have any audio if you
+
+214
+00:08:19,360 --> 00:08:22,000
+wanted to you could add in sound here if
+
+215
+00:08:22,000 --> 00:08:23,919
+you wanted to we don't have audio so I'm
+
+216
+00:08:23,919 --> 00:08:26,319
+going to set the audio codc to no audio
+
+217
+00:08:26,319 --> 00:08:27,720
+I don't think it makes a differ to the
+
+218
+00:08:27,720 --> 00:08:31,000
+output but anyway and uh that's it so
+
+219
+00:08:31,000 --> 00:08:34,080
+now what do you do to export this the
+
+220
+00:08:34,080 --> 00:08:36,719
+same as before it's render animation and
+
+221
+00:08:36,719 --> 00:08:39,640
+what this does is it just chews through
+
+222
+00:08:39,640 --> 00:08:41,799
+those frames in the sequence and you can
+
+223
+00:08:41,799 --> 00:08:44,159
+see at the bottom there how fast it's
+
+224
+00:08:44,159 --> 00:08:48,440
+going and it's going to fade out Boop
+
+225
+00:08:48,440 --> 00:08:51,279
+and that's it so the reason it did that
+
+226
+00:08:51,279 --> 00:08:53,240
+by the way is like cuz like how would it
+
+227
+00:08:53,240 --> 00:08:55,360
+know like not to render from the camera
+
+228
+00:08:55,360 --> 00:08:57,600
+cuz we just said render animation it's
+
+229
+00:08:57,600 --> 00:09:01,320
+because in your oh where is it way at
+
+230
+00:09:01,320 --> 00:09:03,959
+the bottom there on my face we've got
+
+231
+00:09:03,959 --> 00:09:06,600
+postprocessing and it's set to sequencer
+
+232
+00:09:06,600 --> 00:09:09,079
+right and if it detects anything in your
+
+233
+00:09:09,079 --> 00:09:10,720
+sequencer if it detects anything in this
+
+234
+00:09:10,720 --> 00:09:12,760
+strip here it will then render this
+
+235
+00:09:12,760 --> 00:09:14,880
+instead of what is in the camera so
+
+236
+00:09:14,880 --> 00:09:16,880
+that's how it knows to use those frames
+
+237
+00:09:16,880 --> 00:09:21,200
+instead of random anyways all to say
+
+238
+00:09:21,200 --> 00:09:26,040
+look we have Al
+
+239
+00:09:26,040 --> 00:09:30,200
+video playing nicely holds oh soak it up
+
+240
+00:09:30,200 --> 00:09:34,320
+look at them Donuts Fade Out T so well
+
+241
+00:09:34,320 --> 00:09:36,680
+done you did it congratulations you made
+
+242
+00:09:36,680 --> 00:09:39,560
+it to the end of the series if you want
+
+243
+00:09:39,560 --> 00:09:43,440
+a challenge ooh why not create some dut
+
+244
+00:09:43,440 --> 00:09:46,200
+variations you could change the color of
+
+245
+00:09:46,200 --> 00:09:48,200
+the icing and then model some
+
+246
+00:09:48,200 --> 00:09:49,920
+star-shaped sprinkles and then you've
+
+247
+00:09:49,920 --> 00:09:53,600
+got a patriotic dut scene M you could
+
+248
+00:09:53,600 --> 00:09:55,920
+use the polygon add-on to import some of
+
+249
+00:09:55,920 --> 00:09:58,920
+our free candles and then some Moonlight
+
+250
+00:09:58,920 --> 00:10:02,079
+for for a moody candl light dut scene
+
+251
+00:10:02,079 --> 00:10:03,760
+you could experiment with some different
+
+252
+00:10:03,760 --> 00:10:05,680
+marble textures there's a lot there you
+
+253
+00:10:05,680 --> 00:10:07,560
+could make the sprinkles gold you could
+
+254
+00:10:07,560 --> 00:10:10,320
+add in some whiskey glasses a serving
+
+255
+00:10:10,320 --> 00:10:13,720
+board for a high class expensive dut
+
+256
+00:10:13,720 --> 00:10:15,880
+looking scene you could decorate it with
+
+257
+00:10:15,880 --> 00:10:18,200
+fruit and palm tree models for a
+
+258
+00:10:18,200 --> 00:10:20,640
+tropical themed dut scene or you could
+
+259
+00:10:20,640 --> 00:10:22,920
+add in some pumpkins change the colors
+
+260
+00:10:22,920 --> 00:10:25,440
+around and you've got a full themed dut
+
+261
+00:10:25,440 --> 00:10:28,360
+scene there's a lot that you could do so
+
+262
+00:10:28,360 --> 00:10:30,760
+have a stack have a go at it and try to
+
+263
+00:10:30,760 --> 00:10:32,800
+elevate this and make the dut scene your
+
+264
+00:10:32,800 --> 00:10:34,680
+own cuz that's where the real learning
+
+265
+00:10:34,680 --> 00:10:36,880
+comes in otherwise thank you so much for
+
+266
+00:10:36,880 --> 00:10:39,520
+watching and I will see you in a future

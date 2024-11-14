@@ -1,0 +1,2348 @@
+1
+00:00:00,199 --> 00:00:02,639
+we are on the home stretch well done for
+
+2
+00:00:02,639 --> 00:00:05,440
+sticking with the series it's uh it's a
+
+3
+00:00:05,440 --> 00:00:08,920
+lot of work a lot to uh retain but uh
+
+4
+00:00:08,920 --> 00:00:11,240
+well done for sticking with it now a
+
+5
+00:00:11,240 --> 00:00:13,480
+couple of things before we jump into
+
+6
+00:00:13,480 --> 00:00:17,039
+compositing the fun compositing stuff um
+
+7
+00:00:17,039 --> 00:00:18,240
+I noticed a couple of things that I
+
+8
+00:00:18,240 --> 00:00:20,039
+could tweak to the lighting just to
+
+9
+00:00:20,039 --> 00:00:21,600
+improve it and it's important we do it
+
+10
+00:00:21,600 --> 00:00:23,439
+now because what we're going to do next
+
+11
+00:00:23,439 --> 00:00:26,439
+relies on the lighting being uh correct
+
+12
+00:00:26,439 --> 00:00:29,560
+so um the first is I noticed that the
+
+13
+00:00:29,560 --> 00:00:32,040
+the light rotation it would be a little
+
+14
+00:00:32,040 --> 00:00:34,879
+bit better if I rotated it so it's
+
+15
+00:00:34,879 --> 00:00:37,440
+almost like a 90° like completely side
+
+16
+00:00:37,440 --> 00:00:40,320
+onto the donuts um so that's pretty
+
+17
+00:00:40,320 --> 00:00:42,480
+simple change the other one I noticed is
+
+18
+00:00:42,480 --> 00:00:44,920
+that I'm getting this like kind of ugly
+
+19
+00:00:44,920 --> 00:00:47,760
+bounce light coming off this uh both the
+
+20
+00:00:47,760 --> 00:00:52,600
+plate and the table so to fix that I can
+
+21
+00:00:52,600 --> 00:00:56,160
+just move right go into edit mode Edge
+
+22
+00:00:56,160 --> 00:00:58,280
+select mode select the edge of this
+
+23
+00:00:58,280 --> 00:01:00,320
+window and then if I just drag drag it
+
+24
+00:01:00,320 --> 00:01:01,600
+you'll see that the light just
+
+25
+00:01:01,600 --> 00:01:04,119
+disappears off the front there and now I
+
+26
+00:01:04,119 --> 00:01:06,479
+have controlled the light now the other
+
+27
+00:01:06,479 --> 00:01:08,200
+thing speaking of control I notice
+
+28
+00:01:08,200 --> 00:01:09,479
+looking at this wall like I was trying
+
+29
+00:01:09,479 --> 00:01:12,280
+to tweak it and just try to improve it
+
+30
+00:01:12,280 --> 00:01:15,600
+but this is like a huge uh source of
+
+31
+00:01:15,600 --> 00:01:18,680
+light right and so if you look on our
+
+32
+00:01:18,680 --> 00:01:22,040
+donut it's not very controlled right I
+
+33
+00:01:22,040 --> 00:01:24,119
+could either if I if I want to fill in
+
+34
+00:01:24,119 --> 00:01:25,759
+this space I could increase the
+
+35
+00:01:25,759 --> 00:01:27,799
+brightness of that wall but you can see
+
+36
+00:01:27,799 --> 00:01:30,400
+it just it throws light just everywhere
+
+37
+00:01:30,400 --> 00:01:31,920
+and I don't really have any control over
+
+38
+00:01:31,920 --> 00:01:34,920
+it so change my mind let's not use that
+
+39
+00:01:34,920 --> 00:01:37,200
+as a fill Source let's just drop the
+
+40
+00:01:37,200 --> 00:01:39,880
+value to zero so there is now no light
+
+41
+00:01:39,880 --> 00:01:42,320
+coming off of that wall it is a black
+
+42
+00:01:42,320 --> 00:01:44,840
+void um which is actually pretty I mean
+
+43
+00:01:44,840 --> 00:01:46,320
+that's like a photographer holding up a
+
+44
+00:01:46,320 --> 00:01:49,280
+black uh fill card next to her face uh
+
+45
+00:01:49,280 --> 00:01:50,840
+and
+
+46
+00:01:50,840 --> 00:01:52,759
+instead excuse
+
+47
+00:01:52,759 --> 00:01:56,600
+me okay quick break there had to get a
+
+48
+00:01:56,600 --> 00:01:58,560
+drink of water
+
+49
+00:01:58,560 --> 00:02:01,680
+instead I'm going to add in a lamp Okay
+
+50
+00:02:01,680 --> 00:02:03,320
+so I'm going to shift right Mouse click
+
+51
+00:02:03,320 --> 00:02:05,719
+so that I drop it on the ground here in
+
+52
+00:02:05,719 --> 00:02:07,880
+front uh sorry to the side and then I'm
+
+53
+00:02:07,880 --> 00:02:09,959
+going to go shift a and I'm going to add
+
+54
+00:02:09,959 --> 00:02:12,599
+in not a point lamp not a sun but an
+
+55
+00:02:12,599 --> 00:02:15,239
+area lamp Okay so this is this is what
+
+56
+00:02:15,239 --> 00:02:17,680
+it looks like it's just it looks like a
+
+57
+00:02:17,680 --> 00:02:19,959
+plane right flat Square thing and it
+
+58
+00:02:19,959 --> 00:02:23,080
+casts it in the direction of that Arrow
+
+59
+00:02:23,080 --> 00:02:26,160
+so I want to rotate it along the Y AIS
+
+60
+00:02:26,160 --> 00:02:27,840
+just holding down control and in the top
+
+61
+00:02:27,840 --> 00:02:30,760
+left you can see we get a 90 ° angle so
+
+62
+00:02:30,760 --> 00:02:32,680
+that's what I'm looking for and then the
+
+63
+00:02:32,680 --> 00:02:34,560
+size of this I want to drop the size in
+
+64
+00:02:34,560 --> 00:02:37,000
+the setting there okay so I just can go
+
+65
+00:02:37,000 --> 00:02:38,159
+really small
+
+66
+00:02:38,159 --> 00:02:41,440
+actually and now if I pull in close with
+
+67
+00:02:41,440 --> 00:02:43,800
+render View mode we should see a lot
+
+68
+00:02:43,800 --> 00:02:44,840
+more
+
+69
+00:02:44,840 --> 00:02:47,519
+control over where that fill light goes
+
+70
+00:02:47,519 --> 00:02:50,440
+all right so I can pull it in nice and
+
+71
+00:02:50,440 --> 00:02:53,840
+close right now that's obviously way too
+
+72
+00:02:53,840 --> 00:02:56,920
+bright so I'll just now dial that
+
+73
+00:02:56,920 --> 00:02:59,440
+back like so and I can now pull it
+
+74
+00:02:59,440 --> 00:03:01,120
+forward forward so that I get the fill
+
+75
+00:03:01,120 --> 00:03:04,319
+light exactly where I want but that's
+
+76
+00:03:04,319 --> 00:03:06,319
+you know that's 3D right you try out an
+
+77
+00:03:06,319 --> 00:03:08,080
+idea you're like okay that could work
+
+78
+00:03:08,080 --> 00:03:09,920
+and then you look at and you're like H
+
+79
+00:03:09,920 --> 00:03:11,440
+maybe not you know I'll try a different
+
+80
+00:03:11,440 --> 00:03:13,599
+one um but yeah so I'm just going to
+
+81
+00:03:13,599 --> 00:03:15,760
+give it a bit of a yellowy tint and
+
+82
+00:03:15,760 --> 00:03:19,400
+that's better awesome okay so now we can
+
+83
+00:03:19,400 --> 00:03:22,120
+do some compositing first of all what is
+
+84
+00:03:22,120 --> 00:03:25,120
+it well the compositor is a way to add
+
+85
+00:03:25,120 --> 00:03:27,480
+effects to the final render so that
+
+86
+00:03:27,480 --> 00:03:29,200
+could be everything from a simple color
+
+87
+00:03:29,200 --> 00:03:32,599
+grade to like really stylized uh renders
+
+88
+00:03:32,599 --> 00:03:34,280
+so in our case we're going to use it to
+
+89
+00:03:34,280 --> 00:03:37,720
+add glare to better emulate a camera
+
+90
+00:03:37,720 --> 00:03:38,879
+that's really the purpose for this
+
+91
+00:03:38,879 --> 00:03:42,040
+tutorial so at the top of your screen
+
+92
+00:03:42,040 --> 00:03:45,879
+click on the compositor tab so this will
+
+93
+00:03:45,879 --> 00:03:48,519
+arrange your screen again disorient you
+
+94
+00:03:48,519 --> 00:03:50,439
+for a moment um but yeah wouldn't you
+
+95
+00:03:50,439 --> 00:03:53,799
+believe it it's another node screen so
+
+96
+00:03:53,799 --> 00:03:56,280
+click use nodes at the top there for
+
+97
+00:03:56,280 --> 00:03:57,959
+whatever reason they always appear off
+
+98
+00:03:57,959 --> 00:04:00,200
+your screen um at least in my case maybe
+
+99
+00:04:00,200 --> 00:04:02,159
+it it appears on yours but if you middle
+
+100
+00:04:02,159 --> 00:04:04,360
+Mouse up or just scroll down you should
+
+101
+00:04:04,360 --> 00:04:05,799
+be able to see it or you can just hit
+
+102
+00:04:05,799 --> 00:04:07,079
+the home key as well and that'll bring
+
+103
+00:04:07,079 --> 00:04:09,400
+it into Focus so it's actually pretty
+
+104
+00:04:09,400 --> 00:04:11,480
+similar to like geometry nodes in that
+
+105
+00:04:11,480 --> 00:04:13,560
+on the left hand side this is your
+
+106
+00:04:13,560 --> 00:04:15,079
+original like what you've started with
+
+107
+00:04:15,079 --> 00:04:16,959
+your original render and then on the
+
+108
+00:04:16,959 --> 00:04:19,399
+right hand side um it's going to be your
+
+109
+00:04:19,399 --> 00:04:21,399
+final output like that's what's uh going
+
+110
+00:04:21,399 --> 00:04:23,680
+to be saved to an image and then in
+
+111
+00:04:23,680 --> 00:04:25,479
+between here you can put whatever it is
+
+112
+00:04:25,479 --> 00:04:28,160
+you want you could put um a a color
+
+113
+00:04:28,160 --> 00:04:30,240
+grade you could do some post processing
+
+114
+00:04:30,240 --> 00:04:33,360
+glare and shine and things like that um
+
+115
+00:04:33,360 --> 00:04:35,039
+but before we can see anything because
+
+116
+00:04:35,039 --> 00:04:37,320
+normally you would see your result here
+
+117
+00:04:37,320 --> 00:04:39,960
+we can't for two reasons the first is we
+
+118
+00:04:39,960 --> 00:04:41,880
+haven't done a render okay it's not
+
+119
+00:04:41,880 --> 00:04:43,880
+enough to just look in like rendered
+
+120
+00:04:43,880 --> 00:04:46,960
+View mode here right this is just like a
+
+121
+00:04:46,960 --> 00:04:48,320
+temporary view whilst we're moving
+
+122
+00:04:48,320 --> 00:04:49,960
+around we have to do a proper render by
+
+123
+00:04:49,960 --> 00:04:52,880
+hitting F12 but if we did one right now
+
+124
+00:04:52,880 --> 00:04:55,680
+we would have we'd be waiting a while
+
+125
+00:04:55,680 --> 00:04:58,080
+because the maximum samples is 4,000
+
+126
+00:04:58,080 --> 00:04:59,720
+which is maybe it's like probably pretty
+
+127
+00:04:59,720 --> 00:05:01,960
+good for like film animation production
+
+128
+00:05:01,960 --> 00:05:04,280
+quality but it's Overkill and especially
+
+129
+00:05:04,280 --> 00:05:06,360
+for um for this like we're just doing
+
+130
+00:05:06,360 --> 00:05:08,720
+some test renders so let's set it to 100
+
+131
+00:05:08,720 --> 00:05:10,960
+samples and that'll do it way faster so
+
+132
+00:05:10,960 --> 00:05:13,520
+now let's hit F12 on that there we go so
+
+133
+00:05:13,520 --> 00:05:15,800
+that came through for me 7 seconds again
+
+134
+00:05:15,800 --> 00:05:18,400
+I got 4 309s it'll probably be a little
+
+135
+00:05:18,400 --> 00:05:19,919
+slower if you're on a laptop but yeah
+
+136
+00:05:19,919 --> 00:05:21,479
+just you know be patient it'll it'll
+
+137
+00:05:21,479 --> 00:05:23,520
+come through now go to the compositing
+
+138
+00:05:23,520 --> 00:05:25,880
+tab and we still can't see it because we
+
+139
+00:05:25,880 --> 00:05:28,319
+need to add a viewer node um and connect
+
+140
+00:05:28,319 --> 00:05:30,560
+it to this and you can do that just by
+
+141
+00:05:30,560 --> 00:05:32,720
+holding down controll shift and then
+
+142
+00:05:32,720 --> 00:05:35,360
+left clicking on your render layer and
+
+143
+00:05:35,360 --> 00:05:38,039
+now we have a viewer node and in the
+
+144
+00:05:38,039 --> 00:05:40,919
+background we have our render so some
+
+145
+00:05:40,919 --> 00:05:42,639
+people find it like a little weird to
+
+146
+00:05:42,639 --> 00:05:44,400
+have the render in the background you
+
+147
+00:05:44,400 --> 00:05:46,360
+can move it around just by holding down
+
+148
+00:05:46,360 --> 00:05:48,160
+alt and then middle Mouse button and
+
+149
+00:05:48,160 --> 00:05:49,479
+then middle Mouse button will move your
+
+150
+00:05:49,479 --> 00:05:51,720
+nodes around so alt middle Mouse button
+
+151
+00:05:51,720 --> 00:05:53,360
+for the background and then uh middle
+
+152
+00:05:53,360 --> 00:05:55,880
+Mouse for the nodes anyways as a very
+
+153
+00:05:55,880 --> 00:05:58,680
+quick example let's do a simple color
+
+154
+00:05:58,680 --> 00:06:01,120
+adjustment so adjustment color balance
+
+155
+00:06:01,120 --> 00:06:03,960
+right drop this in here now the if you
+
+156
+00:06:03,960 --> 00:06:05,560
+just dropped it into your viewer node
+
+157
+00:06:05,560 --> 00:06:06,880
+then this would be just what is going to
+
+158
+00:06:06,880 --> 00:06:08,479
+be shown in the background here but it
+
+159
+00:06:08,479 --> 00:06:10,199
+wouldn't be saved in your render until
+
+160
+00:06:10,199 --> 00:06:12,880
+it went through your composite uh node
+
+161
+00:06:12,880 --> 00:06:14,800
+but for just this quick effect it's uh
+
+162
+00:06:14,800 --> 00:06:18,560
+it's good enough so this is a um graders
+
+163
+00:06:18,560 --> 00:06:20,919
+know exactly what this is but it's for
+
+164
+00:06:20,919 --> 00:06:22,440
+uh on the left hand side your your
+
+165
+00:06:22,440 --> 00:06:25,120
+blacks right uh your midtones is in the
+
+166
+00:06:25,120 --> 00:06:26,560
+middle and the right hand side is your
+
+167
+00:06:26,560 --> 00:06:28,800
+highlights so if I wanted to make uh you
+
+168
+00:06:28,800 --> 00:06:31,639
+know I don't know like a cooler midtone
+
+169
+00:06:31,639 --> 00:06:34,199
+and then like a warmer highlight right
+
+170
+00:06:34,199 --> 00:06:36,880
+and then I don't know something for the
+
+171
+00:06:36,880 --> 00:06:39,520
+blacks like make it more green I don't
+
+172
+00:06:39,520 --> 00:06:41,039
+know just make something horrible you
+
+173
+00:06:41,039 --> 00:06:43,560
+could do it here you could make simple
+
+174
+00:06:43,560 --> 00:06:45,759
+color adjustments you could do it there
+
+175
+00:06:45,759 --> 00:06:47,880
+and your your original render hasn't
+
+176
+00:06:47,880 --> 00:06:50,000
+changed this is just a postprocessing
+
+177
+00:06:50,000 --> 00:06:52,360
+step but actually on the note of making
+
+178
+00:06:52,360 --> 00:06:54,599
+things look uh more contrasted and
+
+179
+00:06:54,599 --> 00:06:56,599
+Punchy I wouldn't actually bother with
+
+180
+00:06:56,599 --> 00:06:59,240
+the color balance note we used to but uh
+
+181
+00:06:59,240 --> 00:07:01,599
+now now blender has some pretty good
+
+182
+00:07:01,599 --> 00:07:03,319
+color management so I'm going to hit
+
+183
+00:07:03,319 --> 00:07:05,840
+controll X on that to just remove it but
+
+184
+00:07:05,840 --> 00:07:08,440
+retain its connection and then if you go
+
+185
+00:07:08,440 --> 00:07:10,479
+down in your render settings to color
+
+186
+00:07:10,479 --> 00:07:15,400
+management uh there is um a look uh drop
+
+187
+00:07:15,400 --> 00:07:19,240
+down here so if you set this to uh high
+
+188
+00:07:19,240 --> 00:07:22,080
+contrast that's exactly a the same as
+
+189
+00:07:22,080 --> 00:07:23,039
+like what we were doing there like
+
+190
+00:07:23,039 --> 00:07:24,680
+trying to like increase the highlights
+
+191
+00:07:24,680 --> 00:07:26,319
+or reduce the midtones it's a very
+
+192
+00:07:26,319 --> 00:07:27,440
+common thing to try and make something
+
+193
+00:07:27,440 --> 00:07:29,599
+look punchier and these looks will do
+
+194
+00:07:29,599 --> 00:07:32,080
+that but do it really well um a lot of
+
+195
+00:07:32,080 --> 00:07:34,319
+people make the assumption that this is
+
+196
+00:07:34,319 --> 00:07:36,000
+like you shouldn't use these or it's
+
+197
+00:07:36,000 --> 00:07:37,440
+going to like mess with the colors in
+
+198
+00:07:37,440 --> 00:07:39,599
+some way and like other applications
+
+199
+00:07:39,599 --> 00:07:43,080
+true um a lot of uh like art apps they
+
+200
+00:07:43,080 --> 00:07:45,199
+just you know you you use one of their
+
+201
+00:07:45,199 --> 00:07:46,680
+contrast settings and it just starts
+
+202
+00:07:46,680 --> 00:07:48,840
+like clipping highlights and things but
+
+203
+00:07:48,840 --> 00:07:51,520
+this was designed by Troy sabotka who
+
+204
+00:07:51,520 --> 00:07:52,759
+understands color science and color
+
+205
+00:07:52,759 --> 00:07:54,919
+management so it's a proper S curve you
+
+206
+00:07:54,919 --> 00:07:57,080
+won't have any clipping going on um so I
+
+207
+00:07:57,080 --> 00:07:58,599
+use this all the time usually the one I
+
+208
+00:07:58,599 --> 00:08:01,440
+go for is a medium high contrast look um
+
+209
+00:08:01,440 --> 00:08:03,319
+and it just makes a really nice looking
+
+210
+00:08:03,319 --> 00:08:05,360
+result by the way just a quick mention
+
+211
+00:08:05,360 --> 00:08:07,520
+in 4.0 this version of blender we
+
+212
+00:08:07,520 --> 00:08:09,560
+switched the view transform through to
+
+213
+00:08:09,560 --> 00:08:12,840
+agx which creates more realistic uh
+
+214
+00:08:12,840 --> 00:08:14,840
+looking images because previously it was
+
+215
+00:08:14,840 --> 00:08:17,080
+on filmic and it looked like this and
+
+216
+00:08:17,080 --> 00:08:19,240
+you can see the difference is
+
+217
+00:08:19,240 --> 00:08:22,520
+agx has it just looks more real um but
+
+218
+00:08:22,520 --> 00:08:25,360
+the reason for that is that filmi was uh
+
+219
+00:08:25,360 --> 00:08:27,120
+and actually the same with Aces right
+
+220
+00:08:27,120 --> 00:08:29,520
+now the the film like the the the one
+
+221
+00:08:29,520 --> 00:08:31,800
+the academy all the people in bfx shoes
+
+222
+00:08:31,800 --> 00:08:33,240
+and everything it's got this same
+
+223
+00:08:33,240 --> 00:08:36,240
+problem but when uh you've got color the
+
+224
+00:08:36,240 --> 00:08:38,599
+more exposed a color is it should
+
+225
+00:08:38,599 --> 00:08:40,719
+actually start to desaturate but what
+
+226
+00:08:40,719 --> 00:08:42,919
+Aces and what filmi was doing is it was
+
+227
+00:08:42,919 --> 00:08:44,320
+making that color more and more
+
+228
+00:08:44,320 --> 00:08:46,080
+saturated so that's why these bright
+
+229
+00:08:46,080 --> 00:08:47,600
+colors here are just starting to get
+
+230
+00:08:47,600 --> 00:08:50,680
+ugly right but agx fixes that and it
+
+231
+00:08:50,680 --> 00:08:52,839
+starts to behave more like film where it
+
+232
+00:08:52,839 --> 00:08:54,839
+desaturates those colors um as it
+
+233
+00:08:54,839 --> 00:08:57,680
+exposes for so very cool um and I'm glad
+
+234
+00:08:57,680 --> 00:08:59,200
+that they've got that while I'm here is
+
+235
+00:08:59,200 --> 00:09:00,800
+as well I'm just going to increase the
+
+236
+00:09:00,800 --> 00:09:03,440
+exposure a bit um it's going to blow it
+
+237
+00:09:03,440 --> 00:09:05,120
+out a little anyway we'll fix it a bit
+
+238
+00:09:05,120 --> 00:09:07,880
+with the lighting uh later but anyways
+
+239
+00:09:07,880 --> 00:09:09,279
+okay back to the
+
+240
+00:09:09,279 --> 00:09:12,240
+compositor so one thing that I often use
+
+241
+00:09:12,240 --> 00:09:14,480
+the compositor for is for uh what you
+
+242
+00:09:14,480 --> 00:09:16,440
+see in the rear World which is glare
+
+243
+00:09:16,440 --> 00:09:18,200
+right if you've got a shiny metallic
+
+244
+00:09:18,200 --> 00:09:20,200
+object a bumper or something like that
+
+245
+00:09:20,200 --> 00:09:22,680
+you want to have that that Starburst
+
+246
+00:09:22,680 --> 00:09:24,360
+right coming off it because that's what
+
+247
+00:09:24,360 --> 00:09:25,880
+you see in the real world you see it
+
+248
+00:09:25,880 --> 00:09:27,640
+both with your eyes like if you squinted
+
+249
+00:09:27,640 --> 00:09:29,440
+something in the distance you'll see
+
+250
+00:09:29,440 --> 00:09:30,800
+like uh yeah like this kind of like
+
+251
+00:09:30,800 --> 00:09:32,959
+Starburst around like a street light at
+
+252
+00:09:32,959 --> 00:09:34,360
+night that's actually because the
+
+253
+00:09:34,360 --> 00:09:37,320
+eyelashes on your eye but on a camera
+
+254
+00:09:37,320 --> 00:09:38,640
+it's for a different reason it's because
+
+255
+00:09:38,640 --> 00:09:40,320
+of the optical elements it's kind of
+
+256
+00:09:40,320 --> 00:09:42,360
+like refracting around itself and it's
+
+257
+00:09:42,360 --> 00:09:45,000
+creating this uh Starburst look I don't
+
+258
+00:09:45,000 --> 00:09:46,440
+understand it fully but I know that it's
+
+259
+00:09:46,440 --> 00:09:49,720
+an artifact which has artistic use as
+
+260
+00:09:49,720 --> 00:09:53,320
+well um so we are going to add it it is
+
+261
+00:09:53,320 --> 00:09:54,600
+a little fiddly I'll be honest like
+
+262
+00:09:54,600 --> 00:09:56,200
+other software they just have a button
+
+263
+00:09:56,200 --> 00:09:58,279
+and it just like adds the bloom and the
+
+264
+00:09:58,279 --> 00:09:59,720
+glare and stuff
+
+265
+00:09:59,720 --> 00:10:02,920
+we we have to do this for now so shift a
+
+266
+00:10:02,920 --> 00:10:04,560
+we probably could if more people donated
+
+267
+00:10:04,560 --> 00:10:06,519
+to blender right we could have stuff
+
+268
+00:10:06,519 --> 00:10:09,480
+like this but anyways so not to guilt
+
+269
+00:10:09,480 --> 00:10:12,360
+you all filter
+
+270
+00:10:12,360 --> 00:10:14,519
+glare okay and that was shift a by the
+
+271
+00:10:14,519 --> 00:10:17,240
+way same hot key works everywhere um and
+
+272
+00:10:17,240 --> 00:10:20,079
+drop this in Okay so we've got little
+
+273
+00:10:20,079 --> 00:10:22,360
+Starburst we've only got four which is
+
+274
+00:10:22,360 --> 00:10:24,680
+not ideal we want as many as we can get
+
+275
+00:10:24,680 --> 00:10:27,800
+really so drag it up to 16 that's better
+
+276
+00:10:27,800 --> 00:10:29,720
+now uh there's two two values here you
+
+277
+00:10:29,720 --> 00:10:31,040
+really want to change the first is the
+
+278
+00:10:31,040 --> 00:10:33,279
+threshold that'll decide how much of the
+
+279
+00:10:33,279 --> 00:10:36,920
+image is affected like as I drag this up
+
+280
+00:10:36,920 --> 00:10:40,120
+in value it means only the really bright
+
+281
+00:10:40,120 --> 00:10:41,600
+stuff is going to be affected if you
+
+282
+00:10:41,600 --> 00:10:43,000
+dragged it really low then like
+
+283
+00:10:43,000 --> 00:10:44,720
+everything is going to give off a star
+
+284
+00:10:44,720 --> 00:10:46,399
+burst and it's not going to be uh what
+
+285
+00:10:46,399 --> 00:10:48,800
+you want and the other one is the mix
+
+286
+00:10:48,800 --> 00:10:51,079
+value so if you drag it all the way to
+
+287
+00:10:51,079 --> 00:10:53,720
+one then it's going to be just the just
+
+288
+00:10:53,720 --> 00:10:55,519
+the effect by itself if you drag it all
+
+289
+00:10:55,519 --> 00:10:57,320
+the way to minus one it's going to be
+
+290
+00:10:57,320 --> 00:10:59,519
+the original render so so if you wanted
+
+291
+00:10:59,519 --> 00:11:01,480
+a nice blend between it you could go
+
+292
+00:11:01,480 --> 00:11:03,959
+like a minus. n or something and then
+
+293
+00:11:03,959 --> 00:11:05,600
+you've got the star burst over the top
+
+294
+00:11:05,600 --> 00:11:07,560
+of the original render but if you want
+
+295
+00:11:07,560 --> 00:11:10,160
+to blend this with something else I find
+
+296
+00:11:10,160 --> 00:11:13,079
+it best to actually drag it the mix all
+
+297
+00:11:13,079 --> 00:11:14,720
+the way to one so that we're just
+
+298
+00:11:14,720 --> 00:11:17,560
+looking at the effect by itself um I can
+
+299
+00:11:17,560 --> 00:11:19,399
+then also let me just quickly adjust the
+
+300
+00:11:19,399 --> 00:11:21,440
+threshold so that I'm only getting it in
+
+301
+00:11:21,440 --> 00:11:24,440
+the really bright places yep that's good
+
+302
+00:11:24,440 --> 00:11:25,320
+and
+
+303
+00:11:25,320 --> 00:11:29,040
+then um I can blend it with another
+
+304
+00:11:29,040 --> 00:11:31,079
+effect that I want so I'm going to hit
+
+305
+00:11:31,079 --> 00:11:33,519
+uh control shift d and that's going to
+
+306
+00:11:33,519 --> 00:11:35,320
+duplicate it but it's going to keep it
+
+307
+00:11:35,320 --> 00:11:37,320
+connected to my render layer here and
+
+308
+00:11:37,320 --> 00:11:39,360
+then this one I'm going to make the fog
+
+309
+00:11:39,360 --> 00:11:41,760
+glow because looking at reference it's
+
+310
+00:11:41,760 --> 00:11:43,560
+not just the star burst but it's also
+
+311
+00:11:43,560 --> 00:11:46,480
+got a uh like a glare like this glow
+
+312
+00:11:46,480 --> 00:11:48,880
+blurry glow coming off it so the fog
+
+313
+00:11:48,880 --> 00:11:52,000
+glow is that look right it's just that
+
+314
+00:11:52,000 --> 00:11:55,480
+um and let's increase the size I think
+
+315
+00:11:55,480 --> 00:11:58,240
+and let's set the quality to high do we
+
+316
+00:11:58,240 --> 00:11:59,920
+need high quality yeah I think it looks
+
+317
+00:11:59,920 --> 00:12:02,839
+better all right all right so first to
+
+318
+00:12:02,839 --> 00:12:04,880
+blend this all together with the the
+
+319
+00:12:04,880 --> 00:12:07,240
+render layer what we want to do is uh
+
+320
+00:12:07,240 --> 00:12:09,000
+just like you would do in Photoshop if
+
+321
+00:12:09,000 --> 00:12:10,639
+you would use a like a blend mode you
+
+322
+00:12:10,639 --> 00:12:12,760
+would set the blend to screen or add we
+
+323
+00:12:12,760 --> 00:12:16,399
+can do that by blending with shift a
+
+324
+00:12:16,399 --> 00:12:21,040
+color mix mix color Okay so this we're
+
+325
+00:12:21,040 --> 00:12:23,760
+going to drag in both of our glare
+
+326
+00:12:23,760 --> 00:12:25,880
+effects and then instead of mix we're
+
+327
+00:12:25,880 --> 00:12:28,120
+going to set it to add so that will just
+
+328
+00:12:28,120 --> 00:12:30,279
+basically ignore the black values and it
+
+329
+00:12:30,279 --> 00:12:31,839
+will just take the white values and
+
+330
+00:12:31,839 --> 00:12:34,279
+combine them on the top of each other
+
+331
+00:12:34,279 --> 00:12:36,040
+all right now the way blender works
+
+332
+00:12:36,040 --> 00:12:37,760
+unlike Photoshop where it's like top to
+
+333
+00:12:37,760 --> 00:12:40,160
+bottom in this case it's bottom input up
+
+334
+00:12:40,160 --> 00:12:42,440
+so this Factor value will will Define
+
+335
+00:12:42,440 --> 00:12:45,600
+how bright the bottom input is okay it's
+
+336
+00:12:45,600 --> 00:12:47,560
+a little weird I guess in that respect
+
+337
+00:12:47,560 --> 00:12:49,480
+but so this is the strength of that
+
+338
+00:12:49,480 --> 00:12:51,680
+bottom input um yeah so when you're
+
+339
+00:12:51,680 --> 00:12:52,880
+blending something and you want to
+
+340
+00:12:52,880 --> 00:12:54,000
+control it you just put it into the
+
+341
+00:12:54,000 --> 00:12:56,199
+bottom input so the streaks it's like
+
+342
+00:12:56,199 --> 00:12:57,800
+it's way too heavy so I just want to go
+
+343
+00:12:57,800 --> 00:13:00,360
+to like a0 2 or something like that
+
+344
+00:13:00,360 --> 00:13:03,160
+really really subtle even lower goodness
+
+345
+00:13:03,160 --> 00:13:05,360
+it's yeah it's really heavy this Dr I
+
+346
+00:13:05,360 --> 00:13:07,680
+don't know why it is so bright but I
+
+347
+00:13:07,680 --> 00:13:11,480
+never want it as bright as it is um okay
+
+348
+00:13:11,480 --> 00:13:13,880
+and now to blend it with the original
+
+349
+00:13:13,880 --> 00:13:17,240
+render for my final trick I duplicate
+
+350
+00:13:17,240 --> 00:13:19,560
+that drop it in
+
+351
+00:13:19,560 --> 00:13:21,880
+here um and put this into the bottom
+
+352
+00:13:21,880 --> 00:13:24,040
+input and I'll connect this to my
+
+353
+00:13:24,040 --> 00:13:26,600
+viewer um and then let's set this to a
+
+354
+00:13:26,600 --> 00:13:29,360
+one by the way so the composite maybe I
+
+355
+00:13:29,360 --> 00:13:30,880
+explain anyway the composite is going to
+
+356
+00:13:30,880 --> 00:13:32,800
+be what's saved into your render the
+
+357
+00:13:32,800 --> 00:13:34,199
+viewer is just going to be what is
+
+358
+00:13:34,199 --> 00:13:36,320
+displayed in your your background here
+
+359
+00:13:36,320 --> 00:13:38,000
+so if you don't have something connected
+
+360
+00:13:38,000 --> 00:13:39,440
+into the composite it's not going to be
+
+361
+00:13:39,440 --> 00:13:42,079
+saved when you do uh the render okay but
+
+362
+00:13:42,079 --> 00:13:43,440
+that's pretty good so that's how we've
+
+363
+00:13:43,440 --> 00:13:45,519
+got a very quick glare effect over
+
+364
+00:13:45,519 --> 00:13:47,360
+everything it's a little heavy I might
+
+365
+00:13:47,360 --> 00:13:50,160
+just drop it back a bit um because we
+
+366
+00:13:50,160 --> 00:13:52,560
+want it to be just like just enough that
+
+367
+00:13:52,560 --> 00:13:55,720
+you can see it um but not crazy by the
+
+368
+00:13:55,720 --> 00:13:57,680
+way if you uh want to zoom in in your
+
+369
+00:13:57,680 --> 00:14:02,279
+backdrop you can hit uh V will shrink
+
+370
+00:14:02,279 --> 00:14:05,040
+the size of it and ALT V will zoom in
+
+371
+00:14:05,040 --> 00:14:06,959
+they really need a better one I I agree
+
+372
+00:14:06,959 --> 00:14:10,560
+I agree with that um it's uh yeah it
+
+373
+00:14:10,560 --> 00:14:11,839
+definitely could be better I think
+
+374
+00:14:11,839 --> 00:14:13,600
+there's oh you can control it like that
+
+375
+00:14:13,600 --> 00:14:15,279
+okay so if you hit your viewer node
+
+376
+00:14:15,279 --> 00:14:16,920
+you've got these little uh okay you can
+
+377
+00:14:16,920 --> 00:14:18,880
+do it like that as well but yeah have V
+
+378
+00:14:18,880 --> 00:14:21,120
+and all V it's like a keyboard shortcut
+
+379
+00:14:21,120 --> 00:14:23,680
+from the old days of blender and anyways
+
+380
+00:14:23,680 --> 00:14:25,639
+all right um D back I don't want to go
+
+381
+00:14:25,639 --> 00:14:27,199
+too heavy like the thing with
+
+382
+00:14:27,199 --> 00:14:28,759
+postprocessing when you're doing stuff
+
+383
+00:14:28,759 --> 00:14:32,000
+in the compositor is you can like you
+
+384
+00:14:32,000 --> 00:14:34,440
+just get like uh distracted you just get
+
+385
+00:14:34,440 --> 00:14:37,920
+like um like hypnotized by the effect
+
+386
+00:14:37,920 --> 00:14:41,199
+and it's so common to have a render that
+
+387
+00:14:41,199 --> 00:14:42,480
+a beginner has done that's actually
+
+388
+00:14:42,480 --> 00:14:44,720
+pretty solid but then they have just
+
+389
+00:14:44,720 --> 00:14:46,399
+really hammed up the post-processing
+
+390
+00:14:46,399 --> 00:14:49,560
+effect so don't do that don't get overly
+
+391
+00:14:49,560 --> 00:14:51,759
+obsessed with it because um it's almost
+
+392
+00:14:51,759 --> 00:14:53,880
+certainly Overkill you just need to dial
+
+393
+00:14:53,880 --> 00:14:56,759
+it back to like less than you're
+
+394
+00:14:56,759 --> 00:14:58,199
+comfortable with and then it's probably
+
+395
+00:14:58,199 --> 00:15:00,279
+right um because whilst you're adding it
+
+396
+00:15:00,279 --> 00:15:02,639
+you get really excited um anyways that's
+
+397
+00:15:02,639 --> 00:15:04,440
+what I found myself the other thing I'll
+
+398
+00:15:04,440 --> 00:15:06,800
+show you is uh if we just bring up this
+
+399
+00:15:06,800 --> 00:15:08,440
+bottom window I don't know why dope
+
+400
+00:15:08,440 --> 00:15:10,959
+sheet is the selected one makes no sense
+
+401
+00:15:10,959 --> 00:15:13,360
+for the uh compositing layout but if you
+
+402
+00:15:13,360 --> 00:15:15,199
+click the little drop down the top left
+
+403
+00:15:15,199 --> 00:15:18,480
+change it to 3D viewport and now in
+
+404
+00:15:18,480 --> 00:15:20,600
+rendered mode click the little drop down
+
+405
+00:15:20,600 --> 00:15:22,279
+next to it and you should see at the
+
+406
+00:15:22,279 --> 00:15:25,240
+bottom you've got options for compositor
+
+407
+00:15:25,240 --> 00:15:28,720
+H so let's click always and what you'll
+
+408
+00:15:28,720 --> 00:15:30,880
+see is that the compositing effects
+
+409
+00:15:30,880 --> 00:15:32,880
+what's happening up here is now being
+
+410
+00:15:32,880 --> 00:15:36,759
+composed live over the top of your your
+
+411
+00:15:36,759 --> 00:15:38,920
+viewport and this is a very new feature
+
+412
+00:15:38,920 --> 00:15:40,800
+I think it's actually 4.0 is when it was
+
+413
+00:15:40,800 --> 00:15:43,600
+officially um added in um but it's it's
+
+414
+00:15:43,600 --> 00:15:45,880
+huge because it means you can do and
+
+415
+00:15:45,880 --> 00:15:48,000
+preview your effects whilst you're
+
+416
+00:15:48,000 --> 00:15:49,839
+looking around your scene so you could
+
+417
+00:15:49,839 --> 00:15:51,480
+like look at this like hey I can see the
+
+418
+00:15:51,480 --> 00:15:53,759
+exact amount of that glare that's coming
+
+419
+00:15:53,759 --> 00:15:56,240
+off it um you could do you know you can
+
+420
+00:15:56,240 --> 00:15:57,759
+do crazy stuff in the compositing and
+
+421
+00:15:57,759 --> 00:15:59,040
+it'll it'll show through like as an
+
+422
+00:15:59,040 --> 00:16:02,120
+example there's a new uh
+
+423
+00:16:02,120 --> 00:16:05,000
+kahara uh filter that looks like this
+
+424
+00:16:05,000 --> 00:16:07,880
+kind of like painterly style um and you
+
+425
+00:16:07,880 --> 00:16:11,720
+can uh yeah you can preview it like live
+
+426
+00:16:11,720 --> 00:16:13,360
+in the 3D view it's like I feel like I'm
+
+427
+00:16:13,360 --> 00:16:15,680
+looking at a painting right now right
+
+428
+00:16:15,680 --> 00:16:17,920
+it's really crazy um that they that you
+
+429
+00:16:17,920 --> 00:16:20,160
+can do this real time so I'm I'm really
+
+430
+00:16:20,160 --> 00:16:21,600
+glad it's finally in there because it's
+
+431
+00:16:21,600 --> 00:16:24,079
+been uh been talked about for like a
+
+432
+00:16:24,079 --> 00:16:25,480
+year I think was when it was first
+
+433
+00:16:25,480 --> 00:16:27,399
+previewed um so it's really cool that
+
+434
+00:16:27,399 --> 00:16:29,240
+it's finally in here so one thing I will
+
+435
+00:16:29,240 --> 00:16:31,519
+use it for actually is to check that the
+
+436
+00:16:31,519 --> 00:16:34,079
+threshold that I've set for the the fog
+
+437
+00:16:34,079 --> 00:16:35,600
+and the streaks is actually correct so
+
+438
+00:16:35,600 --> 00:16:37,279
+I'm going to look through the let's go
+
+439
+00:16:37,279 --> 00:16:39,639
+to the streaks I think streaks is pretty
+
+440
+00:16:39,639 --> 00:16:41,600
+it's a bit slow but uh anyways let's
+
+441
+00:16:41,600 --> 00:16:43,079
+pull in
+
+442
+00:16:43,079 --> 00:16:45,839
+here um and let's just take a look I
+
+443
+00:16:45,839 --> 00:16:47,560
+might have to add in a little bit okay
+
+444
+00:16:47,560 --> 00:16:48,959
+there we go I have to add in a little
+
+445
+00:16:48,959 --> 00:16:50,519
+bit of the original render so I can
+
+446
+00:16:50,519 --> 00:16:51,959
+actually see but I just want to make
+
+447
+00:16:51,959 --> 00:16:53,839
+sure that it's mostly coming through on
+
+448
+00:16:53,839 --> 00:16:56,160
+the metallic objects so I might actually
+
+449
+00:16:56,160 --> 00:16:58,279
+try increasing so you can see as it's
+
+450
+00:16:58,279 --> 00:17:00,199
+like all the way at zero you're just
+
+451
+00:17:00,199 --> 00:17:01,800
+getting everything is going to get star
+
+452
+00:17:01,800 --> 00:17:03,959
+beams but then as I increase it slowly
+
+453
+00:17:03,959 --> 00:17:06,319
+slowly slowly it starts to disappear and
+
+454
+00:17:06,319 --> 00:17:07,439
+then the only thing that's really
+
+455
+00:17:07,439 --> 00:17:10,520
+getting it is those metallic objects um
+
+456
+00:17:10,520 --> 00:17:12,079
+and that's generally the look that I
+
+457
+00:17:12,079 --> 00:17:13,880
+want to go for so the okay so I went for
+
+458
+00:17:13,880 --> 00:17:17,480
+a much higher amount threshold um for
+
+459
+00:17:17,480 --> 00:17:19,640
+that anyways um you could have a
+
+460
+00:17:19,640 --> 00:17:22,000
+different amount for the the glow but I
+
+461
+00:17:22,000 --> 00:17:23,520
+think it's generally one in the same
+
+462
+00:17:23,520 --> 00:17:24,640
+effect so I think they should have the
+
+463
+00:17:24,640 --> 00:17:26,799
+same threshold so I'm actually going to
+
+464
+00:17:26,799 --> 00:17:29,600
+uh just Mouse over this and hit contrl C
+
+465
+00:17:29,600 --> 00:17:31,240
+and then Mouse over this and hit contrl
+
+466
+00:17:31,240 --> 00:17:33,520
+V so that's how you can uh copy values
+
+467
+00:17:33,520 --> 00:17:35,919
+let me just preview that yeah the fog
+
+468
+00:17:35,919 --> 00:17:37,880
+glow looks pretty good oh it's on high
+
+469
+00:17:37,880 --> 00:17:38,840
+that's why it's going to be a little bit
+
+470
+00:17:38,840 --> 00:17:40,160
+slow if you set it to medium I think
+
+471
+00:17:40,160 --> 00:17:42,880
+it'd be a little bit more interactive um
+
+472
+00:17:42,880 --> 00:17:45,559
+but anyways the GPU compositing I'll say
+
+473
+00:17:45,559 --> 00:17:47,919
+is is very new um as I mentioned it's
+
+474
+00:17:47,919 --> 00:17:50,440
+it's this release and it actually for
+
+475
+00:17:50,440 --> 00:17:53,760
+4.0 the actual final render like when
+
+476
+00:17:53,760 --> 00:17:56,200
+you hit render and it creates the 2D
+
+477
+00:17:56,200 --> 00:17:58,679
+image um it's actually still going to be
+
+478
+00:17:58,679 --> 00:18:01,320
+using the CPU apparently in 4.1 maybe
+
+479
+00:18:01,320 --> 00:18:03,480
+4.2 it will change and it'll be fully
+
+480
+00:18:03,480 --> 00:18:05,400
+GPU at that point but until then you
+
+481
+00:18:05,400 --> 00:18:07,520
+will have like slightly longer render
+
+482
+00:18:07,520 --> 00:18:09,400
+times just because of the compositor cuz
+
+483
+00:18:09,400 --> 00:18:11,679
+the compositor is famously has been
+
+484
+00:18:11,679 --> 00:18:13,360
+famously slow and blender for years it's
+
+485
+00:18:13,360 --> 00:18:15,440
+only just now that it's uh it's being
+
+486
+00:18:15,440 --> 00:18:17,320
+improved so we're not really going to do
+
+487
+00:18:17,320 --> 00:18:18,799
+a lot with a composite like I really
+
+488
+00:18:18,799 --> 00:18:20,360
+generally think you don't want to go
+
+489
+00:18:20,360 --> 00:18:22,880
+Overkill um you can just add too many
+
+490
+00:18:22,880 --> 00:18:24,200
+like bells and whistles to the
+
+491
+00:18:24,200 --> 00:18:26,360
+compositor um but really like if you
+
+492
+00:18:26,360 --> 00:18:28,039
+want to do like drastic changes you
+
+493
+00:18:28,039 --> 00:18:30,200
+should try to do it in the scene unless
+
+494
+00:18:30,200 --> 00:18:31,240
+you're doing something crazy like
+
+495
+00:18:31,240 --> 00:18:32,640
+spider-verse in which case it's all
+
+496
+00:18:32,640 --> 00:18:35,080
+stylized right um but try to do it in
+
+497
+00:18:35,080 --> 00:18:37,720
+the scene because um yeah I don't know I
+
+498
+00:18:37,720 --> 00:18:39,640
+I feel like it can be more of like a
+
+499
+00:18:39,640 --> 00:18:41,440
+crutch you tend to like lean towards
+
+500
+00:18:41,440 --> 00:18:43,080
+like I'll fix it in the compositor I'll
+
+501
+00:18:43,080 --> 00:18:44,640
+improve it in the compositor and it
+
+502
+00:18:44,640 --> 00:18:47,000
+doesn't one thing you might want to add
+
+503
+00:18:47,000 --> 00:18:51,280
+is underneath uh where is it transform
+
+504
+00:18:51,280 --> 00:18:53,760
+lens Distortion okay if you add in this
+
+505
+00:18:53,760 --> 00:18:56,039
+node this can replicate an effect that
+
+506
+00:18:56,039 --> 00:18:58,000
+is actually in all cameras as well and
+
+507
+00:18:58,000 --> 00:19:00,799
+that's lens Distortion all right so you
+
+508
+00:19:00,799 --> 00:19:03,480
+can see uh it actually makes more sense
+
+509
+00:19:03,480 --> 00:19:05,799
+to actually see it on the 2D image um so
+
+510
+00:19:05,799 --> 00:19:08,320
+I'll put that in the background there um
+
+511
+00:19:08,320 --> 00:19:12,159
+but basically where the edges of a uh a
+
+512
+00:19:12,159 --> 00:19:13,600
+shot it's like if you take a photo with
+
+513
+00:19:13,600 --> 00:19:15,200
+your iPhone on like a w it's most
+
+514
+00:19:15,200 --> 00:19:17,840
+visible on like wider lenses but the uh
+
+515
+00:19:17,840 --> 00:19:19,720
+straight vertical things start to look
+
+516
+00:19:19,720 --> 00:19:21,720
+bent um and it's just it's Barrel
+
+517
+00:19:21,720 --> 00:19:23,360
+Distortion and there's no way to get
+
+518
+00:19:23,360 --> 00:19:26,280
+around it unless you use a pinhole
+
+519
+00:19:26,280 --> 00:19:28,039
+camera it's it's kind of interesting
+
+520
+00:19:28,039 --> 00:19:29,200
+thing but it's it's all because of the
+
+521
+00:19:29,200 --> 00:19:31,520
+Optics of the lens that bends the the
+
+522
+00:19:31,520 --> 00:19:34,480
+objects like that um so anyways it is in
+
+523
+00:19:34,480 --> 00:19:37,280
+all objects uh it does though because
+
+524
+00:19:37,280 --> 00:19:39,799
+it's a like a post effect it does kind
+
+525
+00:19:39,799 --> 00:19:42,080
+of blow so it's like manipulating those
+
+526
+00:19:42,080 --> 00:19:43,760
+pixels so it means those pixels aren't
+
+527
+00:19:43,760 --> 00:19:45,640
+going to be as sharp so I generally
+
+528
+00:19:45,640 --> 00:19:48,039
+don't like it for that reason um but if
+
+529
+00:19:48,039 --> 00:19:49,559
+you wanted to you could add this just
+
+530
+00:19:49,559 --> 00:19:52,559
+keep it really low like a 0.1 amount
+
+531
+00:19:52,559 --> 00:19:55,520
+with fit so that it doesn't get that uh
+
+532
+00:19:55,520 --> 00:19:57,960
+you know TV screen look on the edges and
+
+533
+00:19:57,960 --> 00:19:59,640
+then the other thing you could add is a
+
+534
+00:19:59,640 --> 00:20:01,520
+little bit of chromatic aberration um
+
+535
+00:20:01,520 --> 00:20:04,840
+I'll show you just uh yeah this is what
+
+536
+00:20:04,840 --> 00:20:07,240
+that does so you can see this is where
+
+537
+00:20:07,240 --> 00:20:09,600
+it turned up a lot you can see the edges
+
+538
+00:20:09,600 --> 00:20:11,640
+of the objects right it has this kind of
+
+539
+00:20:11,640 --> 00:20:15,000
+uh the red and the cyan and the red and
+
+540
+00:20:15,000 --> 00:20:17,120
+the yellow it like towards the edges of
+
+541
+00:20:17,120 --> 00:20:19,960
+it it gets this um yeah this kind of
+
+542
+00:20:19,960 --> 00:20:21,960
+separation of the colors and that is
+
+543
+00:20:21,960 --> 00:20:23,520
+again a naturally occurring thing that
+
+544
+00:20:23,520 --> 00:20:25,120
+happens with cameras because of the
+
+545
+00:20:25,120 --> 00:20:27,400
+Optics um and the cheaper the Optics the
+
+546
+00:20:27,400 --> 00:20:28,880
+cheaper the lens the more likely it's to
+
+547
+00:20:28,880 --> 00:20:32,440
+happen um but it is there I try not to
+
+548
+00:20:32,440 --> 00:20:35,000
+use it because it can be very overused
+
+549
+00:20:35,000 --> 00:20:36,760
+and very like I don't just makes it look
+
+550
+00:20:36,760 --> 00:20:38,760
+cheap like hey this person just
+
+551
+00:20:38,760 --> 00:20:40,400
+discovered there's the chromatic
+
+552
+00:20:40,400 --> 00:20:42,320
+apparation but if you are going to use
+
+553
+00:20:42,320 --> 00:20:45,039
+it go really low really low like because
+
+554
+00:20:45,039 --> 00:20:47,159
+actually this you have to think of the
+
+555
+00:20:47,159 --> 00:20:50,400
+story of the shot and someone has like
+
+556
+00:20:50,400 --> 00:20:51,760
+framed this shot beautifully got
+
+557
+00:20:51,760 --> 00:20:53,320
+beautiful sunlight right this is a
+
+558
+00:20:53,320 --> 00:20:55,200
+professional professional has taken this
+
+559
+00:20:55,200 --> 00:20:57,400
+photograph of the donuts on the counter
+
+560
+00:20:57,400 --> 00:20:58,400
+they're not going to be using using a
+
+561
+00:20:58,400 --> 00:21:00,520
+cheap lens so although there might be
+
+562
+00:21:00,520 --> 00:21:02,480
+some chromatic aberration it'll be very
+
+563
+00:21:02,480 --> 00:21:05,600
+very uh minimal um but if you want that
+
+564
+00:21:05,600 --> 00:21:07,679
+um you know what I I'll keep it in yeah
+
+565
+00:21:07,679 --> 00:21:10,720
+why not we'll keep it in um but yeah
+
+566
+00:21:10,720 --> 00:21:13,360
+that's basically what I'm going to do
+
+567
+00:21:13,360 --> 00:21:16,039
+for this so this is my final node setup
+
+568
+00:21:16,039 --> 00:21:18,880
+if you'd like to copy it have ADD it the
+
+569
+00:21:18,880 --> 00:21:20,480
+final thing I'll mention as well is if
+
+570
+00:21:20,480 --> 00:21:22,400
+you want to disable your composit like
+
+571
+00:21:22,400 --> 00:21:23,559
+say you're doing some renders and you
+
+572
+00:21:23,559 --> 00:21:25,440
+don't you just want to see it without
+
+573
+00:21:25,440 --> 00:21:27,799
+the post-processing effects on top of it
+
+574
+00:21:27,799 --> 00:21:29,440
+um rather than having to come in here
+
+575
+00:21:29,440 --> 00:21:32,000
+and then like you know reconnect and
+
+576
+00:21:32,000 --> 00:21:34,200
+disconnect a bunch of nodes um instead
+
+577
+00:21:34,200 --> 00:21:36,080
+if you just go to your what's that the
+
+578
+00:21:36,080 --> 00:21:38,159
+output property settings way at the
+
+579
+00:21:38,159 --> 00:21:40,080
+bottom you've got postprocessing so if
+
+580
+00:21:40,080 --> 00:21:42,159
+you just uncheck compositing that means
+
+581
+00:21:42,159 --> 00:21:43,320
+you're only going to be seeing the
+
+582
+00:21:43,320 --> 00:21:45,200
+original render um and then check it
+
+583
+00:21:45,200 --> 00:21:47,039
+again and it's going to be uh kicking in
+
+584
+00:21:47,039 --> 00:21:48,600
+whatever is uh in your compositing
+
+585
+00:21:48,600 --> 00:21:50,880
+settings but that's it for this video
+
+586
+00:21:50,880 --> 00:21:53,000
+click here to watch the next part and I
+
+587
+00:21:53,000 --> 00:21:56,559
+will see you there
+

@@ -1,0 +1,3184 @@
+1
+00:00:00,080 --> 00:00:02,120
+we've got the donuts we've got the
+
+2
+00:00:02,120 --> 00:00:06,120
+animation now it's time to do our final
+
+3
+00:00:06,120 --> 00:00:07,599
+lovely
+
+4
+00:00:07,599 --> 00:00:10,320
+render so we are rendering using the
+
+5
+00:00:10,320 --> 00:00:13,480
+Cycles rendering engine which to jog
+
+6
+00:00:13,480 --> 00:00:16,119
+your memory from the uh rendering video
+
+7
+00:00:16,119 --> 00:00:18,960
+the way it works is turning off D noise
+
+8
+00:00:18,960 --> 00:00:21,480
+is it starts with a very noisy image
+
+9
+00:00:21,480 --> 00:00:23,439
+with a low sample count and then over
+
+10
+00:00:23,439 --> 00:00:25,160
+time you can see in the top left there
+
+11
+00:00:25,160 --> 00:00:28,080
+it throws more samples at it and it
+
+12
+00:00:28,080 --> 00:00:30,640
+refines that image to be uh cleaner and
+
+13
+00:00:30,640 --> 00:00:33,120
+cleaner essentially so if we were to set
+
+14
+00:00:33,120 --> 00:00:35,559
+this uh maximum sample count to a really
+
+15
+00:00:35,559 --> 00:00:38,239
+absurdly low value like say 10 samples
+
+16
+00:00:38,239 --> 00:00:40,480
+you can see it renders very quickly
+
+17
+00:00:40,480 --> 00:00:43,000
+right it's done almost instantaneously
+
+18
+00:00:43,000 --> 00:00:45,440
+but it's so noisy that you can't see any
+
+19
+00:00:45,440 --> 00:00:49,160
+of the detail now there is the magical D
+
+20
+00:00:49,160 --> 00:00:51,719
+noise function which we will be using
+
+21
+00:00:51,719 --> 00:00:54,320
+however that is not it it does solve a
+
+22
+00:00:54,320 --> 00:00:56,920
+lot it's definitely definitely helpful
+
+23
+00:00:56,920 --> 00:00:59,079
+but it's not perfect especially for
+
+24
+00:00:59,079 --> 00:01:02,000
+animations because on each frame the
+
+25
+00:01:02,000 --> 00:01:04,599
+sample variation um even though it's set
+
+26
+00:01:04,599 --> 00:01:07,320
+to be stable um there will be variances
+
+27
+00:01:07,320 --> 00:01:09,560
+frameo frame so if you're using a low
+
+28
+00:01:09,560 --> 00:01:12,159
+sample count this Aid noiser it will do
+
+29
+00:01:12,159 --> 00:01:14,360
+its best but it'll still have like
+
+30
+00:01:14,360 --> 00:01:16,479
+splotchy patterns that will appear and
+
+31
+00:01:16,479 --> 00:01:17,880
+you can actually notice it if you go
+
+32
+00:01:17,880 --> 00:01:19,520
+looking for it um like the other day I
+
+33
+00:01:19,520 --> 00:01:21,720
+was watching one of uh Mr BEAST's videos
+
+34
+00:01:21,720 --> 00:01:23,360
+and there was like an animation in it
+
+35
+00:01:23,360 --> 00:01:25,600
+and I was looking at and I saw like all
+
+36
+00:01:25,600 --> 00:01:28,400
+this splotchy stuff like in on the sides
+
+37
+00:01:28,400 --> 00:01:30,479
+and I was like oh damn that must be on
+
+38
+00:01:30,479 --> 00:01:32,520
+like a really tight deadline cuz they
+
+39
+00:01:32,520 --> 00:01:34,960
+did not have time to render out uh the
+
+40
+00:01:34,960 --> 00:01:39,119
+proper the proper samples um but anyways
+
+41
+00:01:39,119 --> 00:01:41,240
+so I did a few tests for this exact
+
+42
+00:01:41,240 --> 00:01:43,200
+scene here um you can see this is with
+
+43
+00:01:43,200 --> 00:01:45,280
+20 samples you zoom into the background
+
+44
+00:01:45,280 --> 00:01:47,799
+there you can see splotchiness it's um
+
+45
+00:01:47,799 --> 00:01:49,799
+especially noticeable in out of focus
+
+46
+00:01:49,799 --> 00:01:51,799
+areas which I'll show you how to do that
+
+47
+00:01:51,799 --> 00:01:53,920
+out of focusness soon um but you can see
+
+48
+00:01:53,920 --> 00:01:55,560
+it's very splotchy and you wouldn't ever
+
+49
+00:01:55,560 --> 00:01:58,320
+want to use it 50 starts to look a
+
+50
+00:01:58,320 --> 00:02:00,240
+little more stable but still the
+
+51
+00:02:00,240 --> 00:02:01,960
+splotchiness is very noticeable you
+
+52
+00:02:01,960 --> 00:02:04,600
+don't want that 100 this is where it's
+
+53
+00:02:04,600 --> 00:02:07,479
+starting to look usable but still not
+
+54
+00:02:07,479 --> 00:02:10,360
+great I wouldn't consider that good 300
+
+55
+00:02:10,360 --> 00:02:12,480
+samples is where I consider the uh the
+
+56
+00:02:12,480 --> 00:02:14,959
+bare minimum for a scene like this but
+
+57
+00:02:14,959 --> 00:02:17,200
+ideally you would be able to go up to
+
+58
+00:02:17,200 --> 00:02:19,800
+500 samples which is where a lot of that
+
+59
+00:02:19,800 --> 00:02:21,720
+splotchiness is so negligible that you
+
+60
+00:02:21,720 --> 00:02:23,560
+don't really notice it and if you have
+
+61
+00:02:23,560 --> 00:02:25,560
+time or you don't mind rendering you
+
+62
+00:02:25,560 --> 00:02:27,239
+know overnight or something like that or
+
+63
+00:02:27,239 --> 00:02:29,840
+maybe a couple of overnights a thousand
+
+64
+00:02:29,840 --> 00:02:31,879
+samples will get you an even cleaner
+
+65
+00:02:31,879 --> 00:02:34,840
+looking result so for my Max sample
+
+66
+00:02:34,840 --> 00:02:38,040
+amount I'm going to go with 500 and by
+
+67
+00:02:38,040 --> 00:02:39,800
+the way there is viewport and there is
+
+68
+00:02:39,800 --> 00:02:41,879
+render and these settings are identical
+
+69
+00:02:41,879 --> 00:02:43,360
+um I was tweaking viewport before
+
+70
+00:02:43,360 --> 00:02:44,840
+because I was showing you uh in the
+
+71
+00:02:44,840 --> 00:02:46,560
+viewport but obviously it's what's in
+
+72
+00:02:46,560 --> 00:02:48,040
+the render settings which is going to be
+
+73
+00:02:48,040 --> 00:02:50,159
+saved into your final uh animation there
+
+74
+00:02:50,159 --> 00:02:52,959
+is also noise threshold also known as
+
+75
+00:02:52,959 --> 00:02:55,080
+adaptive sampling and the way this works
+
+76
+00:02:55,080 --> 00:02:56,879
+is it will try to look at the image and
+
+77
+00:02:56,879 --> 00:02:59,159
+determine which areas are already clean
+
+78
+00:02:59,159 --> 00:03:01,159
+enough and then which areas need more
+
+79
+00:03:01,159 --> 00:03:02,760
+samples like dark areas where there's
+
+80
+00:03:02,760 --> 00:03:04,360
+not enough light or something and it'll
+
+81
+00:03:04,360 --> 00:03:06,159
+throw more samples specifically into
+
+82
+00:03:06,159 --> 00:03:08,519
+that area and it's very efficient and I
+
+83
+00:03:08,519 --> 00:03:10,840
+would love to use it unfortunately it
+
+84
+00:03:10,840 --> 00:03:13,200
+doesn't play well with the denoiser with
+
+85
+00:03:13,200 --> 00:03:15,319
+the denoiser it can create splotchy
+
+86
+00:03:15,319 --> 00:03:18,280
+areas which are not good obviously so if
+
+87
+00:03:18,280 --> 00:03:20,280
+you're using the denoiser which let's
+
+88
+00:03:20,280 --> 00:03:23,159
+face it is probably 99% of the time then
+
+89
+00:03:23,159 --> 00:03:25,239
+you can't really use the noise Threshold
+
+90
+00:03:25,239 --> 00:03:26,760
+at least as far as I've seen I haven't
+
+91
+00:03:26,760 --> 00:03:29,159
+seen it work uh reliably enough so
+
+92
+00:03:29,159 --> 00:03:31,519
+uncheck noise threshold samples I went
+
+93
+00:03:31,519 --> 00:03:33,879
+with 500 try to go yeah if you're on a
+
+94
+00:03:33,879 --> 00:03:36,680
+laptop maybe 300 but try to go uh up
+
+95
+00:03:36,680 --> 00:03:38,159
+from there and you'll get a nice a clean
+
+96
+00:03:38,159 --> 00:03:40,439
+result there's also time limit I almost
+
+97
+00:03:40,439 --> 00:03:42,480
+never use this but this just puts like a
+
+98
+00:03:42,480 --> 00:03:45,799
+cap on each frame so if I don't know the
+
+99
+00:03:45,799 --> 00:03:48,280
+samples was going to take the image like
+
+100
+00:03:48,280 --> 00:03:50,760
+25 seconds to render if you set your
+
+101
+00:03:50,760 --> 00:03:52,879
+your time limit to be 20 seconds it
+
+102
+00:03:52,879 --> 00:03:55,120
+would just stop at whatever uh sample
+
+103
+00:03:55,120 --> 00:03:56,920
+count 20 seconds gives it and then it
+
+104
+00:03:56,920 --> 00:03:58,720
+would move on to the next frame but as I
+
+105
+00:03:58,720 --> 00:04:00,079
+said I almost never use it I just want
+
+106
+00:04:00,079 --> 00:04:02,360
+to use the exact sample count awesome
+
+107
+00:04:02,360 --> 00:04:04,239
+now you might remember previously um
+
+108
+00:04:04,239 --> 00:04:05,760
+that when you want to do a render you go
+
+109
+00:04:05,760 --> 00:04:08,360
+render render image or you hit F12 and
+
+110
+00:04:08,360 --> 00:04:10,840
+then this will kick off a single still
+
+111
+00:04:10,840 --> 00:04:13,840
+render and then from here if I wanted to
+
+112
+00:04:13,840 --> 00:04:16,560
+save this image I would go image save as
+
+113
+00:04:16,560 --> 00:04:17,759
+well what we want to do is we want to
+
+114
+00:04:17,759 --> 00:04:20,199
+render a sequence like a you know as
+
+115
+00:04:20,199 --> 00:04:22,919
+every single frame um and so to do that
+
+116
+00:04:22,919 --> 00:04:24,320
+we want to use not just render but
+
+117
+00:04:24,320 --> 00:04:25,479
+render
+
+118
+00:04:25,479 --> 00:04:27,800
+animation and when you do that it will
+
+119
+00:04:27,800 --> 00:04:30,520
+use and it will save the file for you in
+
+120
+00:04:30,520 --> 00:04:32,880
+whatever you put in the output settings
+
+121
+00:04:32,880 --> 00:04:35,160
+over here so if we bring this out over
+
+122
+00:04:35,160 --> 00:04:36,919
+here uh you can see your resolutions
+
+123
+00:04:36,919 --> 00:04:38,560
+defined up there you got your frame rate
+
+124
+00:04:38,560 --> 00:04:40,960
+yada yada the output one here so this is
+
+125
+00:04:40,960 --> 00:04:43,039
+the folder where it's going to save the
+
+126
+00:04:43,039 --> 00:04:46,400
+file to and then your file format I'll
+
+127
+00:04:46,400 --> 00:04:48,560
+just move this up um this is a really
+
+128
+00:04:48,560 --> 00:04:50,680
+important one now you would think that
+
+129
+00:04:50,680 --> 00:04:52,840
+because we want to create a video file
+
+130
+00:04:52,840 --> 00:04:54,240
+right that you could upload to Instagram
+
+131
+00:04:54,240 --> 00:04:55,720
+or YouTube or whatever that you would
+
+132
+00:04:55,720 --> 00:04:57,240
+want to use one of these movie settings
+
+133
+00:04:57,240 --> 00:04:59,199
+maybe an AVI or an FFM Peg or something
+
+134
+00:04:59,199 --> 00:05:00,400
+like that
+
+135
+00:05:00,400 --> 00:05:03,120
+but you would not you would be wrong but
+
+136
+00:05:03,120 --> 00:05:05,000
+it's a common uh mistake a lot of
+
+137
+00:05:05,000 --> 00:05:06,880
+beginners make the reason you don't want
+
+138
+00:05:06,880 --> 00:05:10,400
+to ever ever render a scene directly
+
+139
+00:05:10,400 --> 00:05:13,400
+into this format is that if if at any
+
+140
+00:05:13,400 --> 00:05:16,440
+point during the uh rendering process
+
+141
+00:05:16,440 --> 00:05:19,039
+your computer was to crash or let's face
+
+142
+00:05:19,039 --> 00:05:21,680
+it Windows was to do another update
+
+143
+00:05:21,680 --> 00:05:23,600
+overnight and you can never figure out
+
+144
+00:05:23,600 --> 00:05:24,639
+when it's going to do it and it just
+
+145
+00:05:24,639 --> 00:05:27,199
+does it randomly and you anyways uh if
+
+146
+00:05:27,199 --> 00:05:28,759
+it was to do that you would lose
+
+147
+00:05:28,759 --> 00:05:30,120
+everything everything you have rendered
+
+148
+00:05:30,120 --> 00:05:32,120
+has just vanished because it will not
+
+149
+00:05:32,120 --> 00:05:33,759
+have created any file that you can
+
+150
+00:05:33,759 --> 00:05:36,520
+actually read so instead you always
+
+151
+00:05:36,520 --> 00:05:40,319
+render to still images okay so you want
+
+152
+00:05:40,319 --> 00:05:42,039
+every single one of these frames to
+
+153
+00:05:42,039 --> 00:05:45,280
+create a PNG and then put it into the
+
+154
+00:05:45,280 --> 00:05:47,199
+output folder there which you will then
+
+155
+00:05:47,199 --> 00:05:50,919
+later take that sequence of 300 PNG
+
+156
+00:05:50,919 --> 00:05:52,800
+images let's say or it's 160 in this
+
+157
+00:05:52,800 --> 00:05:55,800
+case um and then put that into another
+
+158
+00:05:55,800 --> 00:05:57,639
+process which I'll show you to uh to
+
+159
+00:05:57,639 --> 00:06:00,960
+create that final video file so PNG is
+
+160
+00:06:00,960 --> 00:06:03,639
+actually pretty good for most cases uh
+
+161
+00:06:03,639 --> 00:06:05,360
+if you want to go a slightly higher
+
+162
+00:06:05,360 --> 00:06:07,599
+quality you could use Tiff if you really
+
+163
+00:06:07,599 --> 00:06:08,639
+know what you're doing you could use
+
+164
+00:06:08,639 --> 00:06:10,919
+open exr but the problem with that is
+
+165
+00:06:10,919 --> 00:06:13,400
+that it will not use uh it won't embed
+
+166
+00:06:13,400 --> 00:06:16,319
+like a display uh transform in it so
+
+167
+00:06:16,319 --> 00:06:18,400
+it'll save it into linear format
+
+168
+00:06:18,400 --> 00:06:20,080
+technical jargon just to say it's going
+
+169
+00:06:20,080 --> 00:06:21,560
+to look terrible if you don't know what
+
+170
+00:06:21,560 --> 00:06:23,280
+you're doing with it so generally
+
+171
+00:06:23,280 --> 00:06:26,880
+speaking uh PNG or or Tiff is the one
+
+172
+00:06:26,880 --> 00:06:29,039
+you want never jpeg the compression on
+
+173
+00:06:29,039 --> 00:06:30,520
+that is terrible unless you're just you
+
+174
+00:06:30,520 --> 00:06:32,160
+know throwing a still image up on
+
+175
+00:06:32,160 --> 00:06:34,919
+Facebook or something uh but PNG or Tiff
+
+176
+00:06:34,919 --> 00:06:36,840
+that's fine and the color depth uh you
+
+177
+00:06:36,840 --> 00:06:39,520
+could go8 or 16 bits 16 bits will give
+
+178
+00:06:39,520 --> 00:06:41,039
+you a lot more range but it will be
+
+179
+00:06:41,039 --> 00:06:43,400
+larger files um unless you're planning
+
+180
+00:06:43,400 --> 00:06:45,000
+to do color grading and something like
+
+181
+00:06:45,000 --> 00:06:46,680
+after effect or nuke or something I
+
+182
+00:06:46,680 --> 00:06:48,520
+wouldn't bother with 16bit 8 should be
+
+183
+00:06:48,520 --> 00:06:51,680
+fine so you set your output folder to be
+
+184
+00:06:51,680 --> 00:06:52,960
+something that makes sense I usually
+
+185
+00:06:52,960 --> 00:06:55,720
+just create a folder called uh frames uh
+
+186
+00:06:55,720 --> 00:06:57,000
+and then within here I just create
+
+187
+00:06:57,000 --> 00:06:59,520
+another sub folder I call it like one um
+
+188
+00:06:59,520 --> 00:07:00,960
+just because you almost always need to
+
+189
+00:07:00,960 --> 00:07:03,560
+render multiple times but anyways you
+
+190
+00:07:03,560 --> 00:07:05,039
+you you create a sub folder there called
+
+191
+00:07:05,039 --> 00:07:07,879
+one um and then yeah I just kick off uh
+
+192
+00:07:07,879 --> 00:07:10,759
+the render by going render animation but
+
+193
+00:07:10,759 --> 00:07:13,879
+before you do that it is a good idea to
+
+194
+00:07:13,879 --> 00:07:15,520
+check your scene to make sure that you
+
+195
+00:07:15,520 --> 00:07:17,520
+haven't got any mistakes because you're
+
+196
+00:07:17,520 --> 00:07:19,400
+going to be rendering and usually you're
+
+197
+00:07:19,400 --> 00:07:21,440
+rendering overnight or maybe a sequence
+
+198
+00:07:21,440 --> 00:07:24,080
+of days and you don't want to have to go
+
+199
+00:07:24,080 --> 00:07:25,960
+through the whole process of rendering
+
+200
+00:07:25,960 --> 00:07:28,080
+only to bring it up and then go like oh
+
+201
+00:07:28,080 --> 00:07:30,360
+crap I forgot to turn on that layer or I
+
+202
+00:07:30,360 --> 00:07:32,160
+forgot to fix that problem or I didn't
+
+203
+00:07:32,160 --> 00:07:34,039
+notice this before I did the render and
+
+204
+00:07:34,039 --> 00:07:35,240
+then you have to do the whole thing all
+
+205
+00:07:35,240 --> 00:07:38,720
+over again so here's a checklist first
+
+206
+00:07:38,720 --> 00:07:40,479
+in solid View mode click this little
+
+207
+00:07:40,479 --> 00:07:42,319
+drop down next to your viewport overlays
+
+208
+00:07:42,319 --> 00:07:45,560
+and then go face orientation now what
+
+209
+00:07:45,560 --> 00:07:48,199
+this is showing you is which faces are
+
+210
+00:07:48,199 --> 00:07:51,440
+facing the correct direction so the face
+
+211
+00:07:51,440 --> 00:07:53,159
+is the solid part of the mesh and it's
+
+212
+00:07:53,159 --> 00:07:55,680
+like paper thin right but there is a
+
+213
+00:07:55,680 --> 00:07:57,319
+correct direction and there is a wrong
+
+214
+00:07:57,319 --> 00:07:59,720
+direction so the correct direction is is
+
+215
+00:07:59,720 --> 00:08:01,720
+the direction that the the camera and
+
+216
+00:08:01,720 --> 00:08:04,039
+the Shader expects to see and it can
+
+217
+00:08:04,039 --> 00:08:06,000
+render correctly if it's showing you the
+
+218
+00:08:06,000 --> 00:08:07,639
+opposite side of the face it means that
+
+219
+00:08:07,639 --> 00:08:10,080
+the shading is likely to get screwed up
+
+220
+00:08:10,080 --> 00:08:12,159
+so if you see anything in your scene
+
+221
+00:08:12,159 --> 00:08:14,840
+that is red it means that it is facing
+
+222
+00:08:14,840 --> 00:08:17,520
+the wrong direction okay so in this case
+
+223
+00:08:17,520 --> 00:08:19,039
+it thought that the kitchen should be
+
+224
+00:08:19,039 --> 00:08:21,639
+rendered outside right because it was a
+
+225
+00:08:21,639 --> 00:08:23,440
+cube that we started with so it puts the
+
+226
+00:08:23,440 --> 00:08:25,080
+faces outside it cuz it wouldn't know
+
+227
+00:08:25,080 --> 00:08:27,319
+that we want to render inside it so in
+
+228
+00:08:27,319 --> 00:08:29,400
+this case if you have a red face like
+
+229
+00:08:29,400 --> 00:08:31,840
+this you select it select everything on
+
+230
+00:08:31,840 --> 00:08:33,799
+the mesh just by tapping a and then you
+
+231
+00:08:33,799 --> 00:08:37,360
+want to hit shift n okay now that should
+
+232
+00:08:37,360 --> 00:08:39,760
+fix it if it doesn't because on the case
+
+233
+00:08:39,760 --> 00:08:41,559
+you want to have it facing uh inwards
+
+234
+00:08:41,559 --> 00:08:43,159
+like in this case uh this little
+
+235
+00:08:43,159 --> 00:08:45,240
+recalculate normals box here if you
+
+236
+00:08:45,240 --> 00:08:47,120
+click that you can then click the check
+
+237
+00:08:47,120 --> 00:08:49,560
+boox that says inside or a hotkey for it
+
+238
+00:08:49,560 --> 00:08:51,360
+is control shiftn and that will do a
+
+239
+00:08:51,360 --> 00:08:54,120
+recalculation uh inside anyways long
+
+240
+00:08:54,120 --> 00:08:55,200
+story short you just want to make sure
+
+241
+00:08:55,200 --> 00:08:56,959
+that everything you see is blue if
+
+242
+00:08:56,959 --> 00:08:59,040
+you've got anything a Sprinkle or you
+
+243
+00:08:59,040 --> 00:09:00,920
+know a donut or a plate or anything like
+
+244
+00:09:00,920 --> 00:09:02,519
+that just make sure everything is
+
+245
+00:09:02,519 --> 00:09:04,519
+showing up as blue um because that's
+
+246
+00:09:04,519 --> 00:09:06,320
+very important all right so now that's
+
+247
+00:09:06,320 --> 00:09:08,880
+done I can turn that off the other thing
+
+248
+00:09:08,880 --> 00:09:10,079
+that you want to check is that you
+
+249
+00:09:10,079 --> 00:09:14,519
+haven't got any Rogue uh objects that
+
+250
+00:09:14,519 --> 00:09:15,839
+will be showing up in the render that
+
+251
+00:09:15,839 --> 00:09:18,279
+you don't want to be there like for
+
+252
+00:09:18,279 --> 00:09:20,680
+example this weird looking little UFO
+
+253
+00:09:20,680 --> 00:09:22,720
+thing right these little sprinkles that
+
+254
+00:09:22,720 --> 00:09:25,040
+are just hovering off into space here so
+
+255
+00:09:25,040 --> 00:09:26,600
+that is because we've got some sprinkles
+
+256
+00:09:26,600 --> 00:09:27,800
+which are being referenced on our
+
+257
+00:09:27,800 --> 00:09:29,760
+geometry node stack but we don't want
+
+258
+00:09:29,760 --> 00:09:31,560
+these individual ones which are being
+
+259
+00:09:31,560 --> 00:09:34,279
+referenced to appear in the render so on
+
+260
+00:09:34,279 --> 00:09:36,120
+the sprinkles collection I'm just going
+
+261
+00:09:36,120 --> 00:09:38,800
+to uncheck this little camera icon and
+
+262
+00:09:38,800 --> 00:09:40,920
+that means it's viewable in the viewport
+
+263
+00:09:40,920 --> 00:09:42,240
+but it's not going to appear in the
+
+264
+00:09:42,240 --> 00:09:44,959
+render this will not affect the objects
+
+265
+00:09:44,959 --> 00:09:46,880
+over here when it's referenced in a
+
+266
+00:09:46,880 --> 00:09:48,800
+geometry node system it's just going to
+
+267
+00:09:48,800 --> 00:09:50,519
+treat that as its own separate thing and
+
+268
+00:09:50,519 --> 00:09:52,160
+it's not going to uh hide it from the
+
+269
+00:09:52,160 --> 00:09:54,519
+render but it just means that these five
+
+270
+00:09:54,519 --> 00:09:55,920
+little reference sprinkles will be
+
+271
+00:09:55,920 --> 00:09:57,959
+invisible in the render the other thing
+
+272
+00:09:57,959 --> 00:09:59,959
+that you want to check is is to look at
+
+273
+00:09:59,959 --> 00:10:02,440
+your intersections okay because looking
+
+274
+00:10:02,440 --> 00:10:04,640
+at my donut look at that wow I've got a
+
+275
+00:10:04,640 --> 00:10:07,440
+massive intersection and this would be
+
+276
+00:10:07,440 --> 00:10:09,320
+noticeable because the camera is now
+
+277
+00:10:09,320 --> 00:10:11,760
+moving and it is above it right so you
+
+278
+00:10:11,760 --> 00:10:13,680
+don't want to have uh intersections so
+
+279
+00:10:13,680 --> 00:10:14,720
+I'm actually going to use this as an
+
+280
+00:10:14,720 --> 00:10:18,440
+excuse to uh slightly reorient um my
+
+281
+00:10:18,440 --> 00:10:21,120
+donuts and create a much more appealing
+
+282
+00:10:21,120 --> 00:10:23,200
+looking stack cuz I was experimenting
+
+283
+00:10:23,200 --> 00:10:26,040
+before I hit the record button and I
+
+284
+00:10:26,040 --> 00:10:28,320
+thought if I just create you know both
+
+285
+00:10:28,320 --> 00:10:29,680
+of these stacks so they're kind of like
+
+286
+00:10:29,680 --> 00:10:31,920
+leaning on each other then I rotate them
+
+287
+00:10:31,920 --> 00:10:34,000
+a little bit like this then I take this
+
+288
+00:10:34,000 --> 00:10:37,120
+donut I could move it out rotate
+
+289
+00:10:37,120 --> 00:10:40,680
+that something like
+
+290
+00:10:41,480 --> 00:10:46,600
+this there we go right and then oh
+
+291
+00:10:46,600 --> 00:10:49,680
+yeah I'll rotate this a little bit more
+
+292
+00:10:49,680 --> 00:10:52,639
+it's a leaning tower of
+
+293
+00:10:52,639 --> 00:10:56,440
+Donuts I'll move that out a little
+
+294
+00:10:56,440 --> 00:10:59,279
+bit but really with this many many
+
+295
+00:10:59,279 --> 00:11:00,560
+objects on top of each other you're
+
+296
+00:11:00,560 --> 00:11:02,160
+bound to have something that looks a
+
+297
+00:11:02,160 --> 00:11:04,839
+little funky so just look at it from
+
+298
+00:11:04,839 --> 00:11:06,320
+different angles I mean the most
+
+299
+00:11:06,320 --> 00:11:08,560
+important one is the camera right making
+
+300
+00:11:08,560 --> 00:11:10,800
+sure that it is uh sensible but because
+
+301
+00:11:10,800 --> 00:11:12,240
+we've got a moving camera it kind of has
+
+302
+00:11:12,240 --> 00:11:15,839
+to look good from multiple angles um the
+
+303
+00:11:15,839 --> 00:11:18,399
+other thing I noticed also is uh it
+
+304
+00:11:18,399 --> 00:11:19,880
+would look a lot better if I could see
+
+305
+00:11:19,880 --> 00:11:23,000
+the top of this dut here so I noticed if
+
+306
+00:11:23,000 --> 00:11:25,600
+I select this stack and I rotate it like
+
+307
+00:11:25,600 --> 00:11:27,240
+this almost like it's on the edge of
+
+308
+00:11:27,240 --> 00:11:28,680
+that plate there like the lip and it's
+
+309
+00:11:28,680 --> 00:11:31,040
+kind of leaning this way it looks a lot
+
+310
+00:11:31,040 --> 00:11:33,360
+nicer yeah see now I can see the top of
+
+311
+00:11:33,360 --> 00:11:36,200
+that donut and uh yeah just feels a lot
+
+312
+00:11:36,200 --> 00:11:40,399
+nicer might actually rotate a little bit
+
+313
+00:11:40,399 --> 00:11:42,720
+further and then I'll move it
+
+314
+00:11:42,720 --> 00:11:45,839
+up rotate this
+
+315
+00:11:45,839 --> 00:11:49,160
+one I'll pull that in a little
+
+316
+00:11:49,160 --> 00:11:52,440
+bit and that's pretty good that's not
+
+317
+00:11:52,440 --> 00:11:56,079
+bad all right there so that's a lot more
+
+318
+00:11:56,079 --> 00:11:57,959
+interesting and I've also corrected a
+
+319
+00:11:57,959 --> 00:12:00,360
+lot of the inter sections there but you
+
+320
+00:12:00,360 --> 00:12:02,200
+know as I mentioned before guys this is
+
+321
+00:12:02,200 --> 00:12:04,839
+a tutorial and I can't fix everything
+
+322
+00:12:04,839 --> 00:12:08,240
+whilst I'm uh running the tutorial so uh
+
+323
+00:12:08,240 --> 00:12:10,120
+have a look at your scene and have a
+
+324
+00:12:10,120 --> 00:12:12,720
+look at you know the plate is there a
+
+325
+00:12:12,720 --> 00:12:14,920
+doughnut which is hovering above the
+
+326
+00:12:14,920 --> 00:12:17,399
+plate like it is here make sure that
+
+327
+00:12:17,399 --> 00:12:18,959
+it's not or at least make sure that it
+
+328
+00:12:18,959 --> 00:12:21,519
+is not in a place that's noticeable um
+
+329
+00:12:21,519 --> 00:12:23,560
+because that will not be good and you'll
+
+330
+00:12:23,560 --> 00:12:25,639
+be on I mean I actually finished the
+
+331
+00:12:25,639 --> 00:12:28,399
+final animation sequence uh for this
+
+332
+00:12:28,399 --> 00:12:30,440
+tutorial and then notice right at the
+
+333
+00:12:30,440 --> 00:12:32,519
+end uh that one of the donuts was like
+
+334
+00:12:32,519 --> 00:12:34,440
+this and I just didn't notice it right
+
+335
+00:12:34,440 --> 00:12:37,519
+until I did uh after the uh the render
+
+336
+00:12:37,519 --> 00:12:39,079
+sequence was complete and actually a
+
+337
+00:12:39,079 --> 00:12:40,519
+co-worker of mine was also working on
+
+338
+00:12:40,519 --> 00:12:42,519
+the scene helping render some uh extra
+
+339
+00:12:42,519 --> 00:12:44,800
+sequences and he didn't notice it either
+
+340
+00:12:44,800 --> 00:12:46,360
+and we're both like damn how did we miss
+
+341
+00:12:46,360 --> 00:12:48,120
+that cuz you just don't go looking for
+
+342
+00:12:48,120 --> 00:12:50,040
+it so I'm calling it out now cuz I'm
+
+343
+00:12:50,040 --> 00:12:51,959
+sure a lot of you watching have got
+
+344
+00:12:51,959 --> 00:12:53,920
+intersections and uh it's good to try to
+
+345
+00:12:53,920 --> 00:12:56,800
+fix it now another one to check for is
+
+346
+00:12:56,800 --> 00:12:59,279
+your lighting and your Expos exposure
+
+347
+00:12:59,279 --> 00:13:01,519
+ranges so first thing I know is that
+
+348
+00:13:01,519 --> 00:13:03,839
+looking at this is this is good it's
+
+349
+00:13:03,839 --> 00:13:05,120
+putting a lot of the attention on the
+
+350
+00:13:05,120 --> 00:13:07,959
+donuts which is great but this uh
+
+351
+00:13:07,959 --> 00:13:09,880
+everything here in the background is
+
+352
+00:13:09,880 --> 00:13:12,680
+just it's so dark it's almost hard to
+
+353
+00:13:12,680 --> 00:13:15,199
+see and it feels a little bit too moody
+
+354
+00:13:15,199 --> 00:13:17,440
+right it's almost like a Rembrant uh
+
+355
+00:13:17,440 --> 00:13:19,160
+painting or something like that I want
+
+356
+00:13:19,160 --> 00:13:20,959
+it to feel a little lighter a little bit
+
+357
+00:13:20,959 --> 00:13:24,040
+more uh friendly so on the roof here on
+
+358
+00:13:24,040 --> 00:13:26,880
+the ceiling of my kitchen I'm going to
+
+359
+00:13:26,880 --> 00:13:28,959
+shift and then right click to put my 3
+
+360
+00:13:28,959 --> 00:13:30,680
+cursor there and then right at that
+
+361
+00:13:30,680 --> 00:13:33,120
+point I'm going to add in an area lamp
+
+362
+00:13:33,120 --> 00:13:34,120
+and I'm just going to move it down
+
+363
+00:13:34,120 --> 00:13:35,320
+slightly just to make sure it's not
+
+364
+00:13:35,320 --> 00:13:38,680
+clipping through the surface um and then
+
+365
+00:13:38,680 --> 00:13:41,800
+yeah let's go look in this so this is
+
+366
+00:13:41,800 --> 00:13:43,800
+what it is with it off and then if I
+
+367
+00:13:43,800 --> 00:13:45,720
+just increase this you can see it's just
+
+368
+00:13:45,720 --> 00:13:47,399
+adding a little bit of fill light to the
+
+369
+00:13:47,399 --> 00:13:49,399
+whole scene to just feel a little bit
+
+370
+00:13:49,399 --> 00:13:52,440
+lighter um and a little less uh yeah
+
+371
+00:13:52,440 --> 00:13:55,279
+extreme in its uh light choice but yeah
+
+372
+00:13:55,279 --> 00:13:57,560
+that looks pretty good now by the way
+
+373
+00:13:57,560 --> 00:13:59,320
+this power value there's something
+
+374
+00:13:59,320 --> 00:14:00,959
+called the inverse Square law that
+
+375
+00:14:00,959 --> 00:14:02,639
+applies to all lights in the real world
+
+376
+00:14:02,639 --> 00:14:04,720
+and in 3D software it just means that if
+
+377
+00:14:04,720 --> 00:14:07,279
+something is double like twice as close
+
+378
+00:14:07,279 --> 00:14:08,680
+to something it means it's going to be
+
+379
+00:14:08,680 --> 00:14:11,279
+four times as bright so what this means
+
+380
+00:14:11,279 --> 00:14:13,880
+is that I've just added in a an area
+
+381
+00:14:13,880 --> 00:14:16,279
+lamp right at the top of my ceiling but
+
+382
+00:14:16,279 --> 00:14:18,120
+that's because this is just the size of
+
+383
+00:14:18,120 --> 00:14:20,320
+the box that I've got if yours is a
+
+384
+00:14:20,320 --> 00:14:23,120
+little bit uh shorter than this right
+
+385
+00:14:23,120 --> 00:14:25,320
+then when you placed it then this lamp
+
+386
+00:14:25,320 --> 00:14:27,120
+and this lamp energy that we've just
+
+387
+00:14:27,120 --> 00:14:29,000
+defined here as you know 10 watts it's
+
+388
+00:14:29,000 --> 00:14:31,720
+going to be a lot brighter so don't copy
+
+389
+00:14:31,720 --> 00:14:33,440
+the values that I'm putting here have a
+
+390
+00:14:33,440 --> 00:14:35,160
+look at your scene and try to evaluate
+
+391
+00:14:35,160 --> 00:14:37,000
+and go is it bright enough is it too
+
+392
+00:14:37,000 --> 00:14:39,199
+bright do I feel that this fill light is
+
+393
+00:14:39,199 --> 00:14:41,560
+too overpowering right or is it
+
+394
+00:14:41,560 --> 00:14:43,880
+underpowering just evaluate and try to
+
+395
+00:14:43,880 --> 00:14:45,759
+do it um as fairly as you can and
+
+396
+00:14:45,759 --> 00:14:48,240
+something that I recommend um and this I
+
+397
+00:14:48,240 --> 00:14:50,839
+do uh a lot of the time for a lot of
+
+398
+00:14:50,839 --> 00:14:53,600
+final renders is underneath your color
+
+399
+00:14:53,600 --> 00:14:55,759
+management if you go to view transform
+
+400
+00:14:55,759 --> 00:15:00,800
+change it from agx to false color H now
+
+401
+00:15:00,800 --> 00:15:02,360
+this obviously you never want to do for
+
+402
+00:15:02,360 --> 00:15:04,480
+a final render but this is revealing to
+
+403
+00:15:04,480 --> 00:15:06,759
+you what is the exposure range of
+
+404
+00:15:06,759 --> 00:15:08,639
+different parts of the image kind of
+
+405
+00:15:08,639 --> 00:15:10,040
+like if you're using a camera and it's
+
+406
+00:15:10,040 --> 00:15:12,279
+got like a zebra thing to like show you
+
+407
+00:15:12,279 --> 00:15:14,240
+which parts are clipping this is like
+
+408
+00:15:14,240 --> 00:15:16,959
+that but it's like to an advanced level
+
+409
+00:15:16,959 --> 00:15:18,480
+essentially it's showing you I mean I'll
+
+410
+00:15:18,480 --> 00:15:19,639
+put this up from the blender
+
+411
+00:15:19,639 --> 00:15:21,360
+documentation but it's showing you what
+
+412
+00:15:21,360 --> 00:15:23,120
+is the exposure range of which parts of
+
+413
+00:15:23,120 --> 00:15:25,199
+the image and there's no like right or
+
+414
+00:15:25,199 --> 00:15:27,160
+wrong here but generally speaking you
+
+415
+00:15:27,160 --> 00:15:29,120
+want to have a nice range because then
+
+416
+00:15:29,120 --> 00:15:30,800
+it's showing there are parts that are in
+
+417
+00:15:30,800 --> 00:15:32,000
+light and then there are parts that are
+
+418
+00:15:32,000 --> 00:15:34,279
+in Shadows and there is a range there so
+
+419
+00:15:34,279 --> 00:15:36,000
+that you can reveal the form there are
+
+420
+00:15:36,000 --> 00:15:37,639
+exceptions to it but generally that's
+
+421
+00:15:37,639 --> 00:15:40,079
+the idea now in my case I want to make
+
+422
+00:15:40,079 --> 00:15:42,639
+sure that um really there's very few
+
+423
+00:15:42,639 --> 00:15:44,920
+areas that are in the red or the white
+
+424
+00:15:44,920 --> 00:15:46,680
+the white means there is actually no
+
+425
+00:15:46,680 --> 00:15:48,639
+information there because it has clipped
+
+426
+00:15:48,639 --> 00:15:51,040
+so that is not good it's okay for a few
+
+427
+00:15:51,040 --> 00:15:52,519
+areas right where there's a few
+
+428
+00:15:52,519 --> 00:15:54,000
+highlights but generally speaking you
+
+429
+00:15:54,000 --> 00:15:55,800
+don't want too much now in my case I
+
+430
+00:15:55,800 --> 00:15:57,560
+think it's a little bit too high so I'm
+
+431
+00:15:57,560 --> 00:15:59,519
+just dialing it back and just so that I
+
+432
+00:15:59,519 --> 00:16:01,600
+get most of you know the part of the
+
+433
+00:16:01,600 --> 00:16:03,839
+donut where it's hitting the light um
+
+434
+00:16:03,839 --> 00:16:05,800
+it's mostly in the orange to Yellow
+
+435
+00:16:05,800 --> 00:16:09,519
+range with a very small amounts of um
+
+436
+00:16:09,519 --> 00:16:12,240
+yeah red or white coming through so once
+
+437
+00:16:12,240 --> 00:16:13,519
+I'm happy with that make sure you change
+
+438
+00:16:13,519 --> 00:16:15,120
+it back to agx otherwise you'll be
+
+439
+00:16:15,120 --> 00:16:17,040
+rendering to false color and that will
+
+440
+00:16:17,040 --> 00:16:19,360
+look horrible a few other aesthetic
+
+441
+00:16:19,360 --> 00:16:21,480
+choices I noticed that the pink was a
+
+442
+00:16:21,480 --> 00:16:24,199
+little bit too hot the saturation does
+
+443
+00:16:24,199 --> 00:16:25,800
+make a difference so I'm just going to
+
+444
+00:16:25,800 --> 00:16:28,920
+dial it back to around about a 6 value I
+
+445
+00:16:28,920 --> 00:16:30,600
+also noticed that this yellow color was
+
+446
+00:16:30,600 --> 00:16:33,079
+a little bit too close to mustard so I'm
+
+447
+00:16:33,079 --> 00:16:35,440
+just going to tweak the Hue here just to
+
+448
+00:16:35,440 --> 00:16:37,319
+make it a little bit more exciting kind
+
+449
+00:16:37,319 --> 00:16:39,920
+of like a banana yellow right and a
+
+450
+00:16:39,920 --> 00:16:41,839
+little bit brighter as well just a
+
+451
+00:16:41,839 --> 00:16:44,160
+little bit more cheerful the blue I'm
+
+452
+00:16:44,160 --> 00:16:46,680
+going to make a little closer to an aqua
+
+453
+00:16:46,680 --> 00:16:48,880
+which is a little more funky a little I
+
+454
+00:16:48,880 --> 00:16:50,360
+don't know more interesting at least to
+
+455
+00:16:50,360 --> 00:16:52,959
+me uh the base color oh yeah this one
+
+456
+00:16:52,959 --> 00:16:56,240
+here so I decided after looking at this
+
+457
+00:16:56,240 --> 00:16:58,079
+and evaluating it I'm like I should just
+
+458
+00:16:58,079 --> 00:16:59,560
+go with the the white icing like what I
+
+459
+00:16:59,560 --> 00:17:02,920
+had in my uh my final render so just
+
+460
+00:17:02,920 --> 00:17:04,520
+creating a new material call it white
+
+461
+00:17:04,520 --> 00:17:07,359
+icing right um and also for the doughnut
+
+462
+00:17:07,359 --> 00:17:08,959
+I noticed I forgot to put subsurface
+
+463
+00:17:08,959 --> 00:17:11,240
+scattering on the doughnut itself um
+
+464
+00:17:11,240 --> 00:17:13,839
+because doughnut although it's bread
+
+465
+00:17:13,839 --> 00:17:15,359
+right it's not going to have as much
+
+466
+00:17:15,359 --> 00:17:17,240
+subsurface scattering as the icing but
+
+467
+00:17:17,240 --> 00:17:19,280
+it will have some right so I'm going to
+
+468
+00:17:19,280 --> 00:17:21,720
+give it a weight of one uh radius make
+
+469
+00:17:21,720 --> 00:17:23,319
+sure that's always set to one and then
+
+470
+00:17:23,319 --> 00:17:25,439
+this value here let's go
+
+471
+00:17:25,439 --> 00:17:27,319
+01 um like that which I think is
+
+472
+00:17:27,319 --> 00:17:29,440
+actually more than the icing we gave it
+
+473
+00:17:29,440 --> 00:17:31,520
+but anyways it works because it's kind
+
+474
+00:17:31,520 --> 00:17:34,760
+of doughy um we can kind of get away
+
+475
+00:17:34,760 --> 00:17:36,960
+maybe maybe we having second thoughts
+
+476
+00:17:36,960 --> 00:17:39,440
+right now uh yeah we got Point 01 why
+
+477
+00:17:39,440 --> 00:17:41,440
+not make it look a little bit more
+
+478
+00:17:41,440 --> 00:17:43,960
+stylized and uh cartoonish the other
+
+479
+00:17:43,960 --> 00:17:46,080
+thing that I can see looking at this is
+
+480
+00:17:46,080 --> 00:17:48,480
+that this part here right with these
+
+481
+00:17:48,480 --> 00:17:51,520
+ball sprinkles on it is it's very like
+
+482
+00:17:51,520 --> 00:17:53,600
+high frequency detail which is just like
+
+483
+00:17:53,600 --> 00:17:56,000
+a technical term to mean like small
+
+484
+00:17:56,000 --> 00:17:58,559
+detail artists always invent terms just
+
+485
+00:17:58,559 --> 00:18:00,679
+to sound uh smarter than they are but it
+
+486
+00:18:00,679 --> 00:18:02,960
+looks high frequency right and it's a
+
+487
+00:18:02,960 --> 00:18:04,960
+little too high frequency it's good to
+
+488
+00:18:04,960 --> 00:18:06,880
+have some small detail but not that
+
+489
+00:18:06,880 --> 00:18:08,840
+small it's just uh it's kind of gritty
+
+490
+00:18:08,840 --> 00:18:11,320
+and it's kind of like it's sticking out
+
+491
+00:18:11,320 --> 00:18:13,200
+like a sore thumb to me so what I'm
+
+492
+00:18:13,200 --> 00:18:15,320
+going to do is go to my geometry nose
+
+493
+00:18:15,320 --> 00:18:18,120
+setup just for my round sprinkles here
+
+494
+00:18:18,120 --> 00:18:20,159
+um and by the way also make sure you
+
+495
+00:18:20,159 --> 00:18:21,640
+you're looking at the correct one not
+
+496
+00:18:21,640 --> 00:18:24,320
+long sprinkles uncheck that little pin
+
+497
+00:18:24,320 --> 00:18:26,840
+if you've got it like I did um and then
+
+498
+00:18:26,840 --> 00:18:29,240
+I'm going to change the round sprinkle
+
+499
+00:18:29,240 --> 00:18:31,640
+scale dragging down to
+
+500
+00:18:31,640 --> 00:18:34,559
+1.5 so it's a lot bigger which means I
+
+501
+00:18:34,559 --> 00:18:37,200
+can use a different distance Min
+
+502
+00:18:37,200 --> 00:18:38,840
+value
+
+503
+00:18:38,840 --> 00:18:42,440
+002 and whilst I'm here um I'm also
+
+504
+00:18:42,440 --> 00:18:44,360
+going to change the distance value for
+
+505
+00:18:44,360 --> 00:18:46,799
+the long sprinkles cuz I noticed it was
+
+506
+00:18:46,799 --> 00:18:48,480
+feeling a little too even the
+
+507
+00:18:48,480 --> 00:18:50,280
+distribution of these which generally
+
+508
+00:18:50,280 --> 00:18:52,039
+means that with this pron disc
+
+509
+00:18:52,039 --> 00:18:54,520
+distribution it's using the distance to
+
+510
+00:18:54,520 --> 00:18:56,400
+make sure they're all perfectly evenly
+
+511
+00:18:56,400 --> 00:18:58,640
+spaced and it's a little bit it's it's
+
+512
+00:18:58,640 --> 00:19:00,360
+too big essentially so I'm going to set
+
+513
+00:19:00,360 --> 00:19:03,440
+this to 0.4 instead which means you will
+
+514
+00:19:03,440 --> 00:19:06,720
+have some overlaps and some clipping but
+
+515
+00:19:06,720 --> 00:19:09,960
+if we use a lower count here in our
+
+516
+00:19:09,960 --> 00:19:14,240
+setup like 80 for example or even lower
+
+517
+00:19:14,240 --> 00:19:17,400
+right it should feel a lot more natural
+
+518
+00:19:17,400 --> 00:19:19,080
+right it doesn't look like like before
+
+519
+00:19:19,080 --> 00:19:21,840
+it was like 200 um when it was uh you
+
+520
+00:19:21,840 --> 00:19:24,880
+know this was 06 and now it's like 30
+
+521
+00:19:24,880 --> 00:19:26,360
+but it still almost feels like the same
+
+522
+00:19:26,360 --> 00:19:27,720
+as what it was before because that
+
+523
+00:19:27,720 --> 00:19:29,200
+distance when you lower it you're
+
+524
+00:19:29,200 --> 00:19:30,600
+getting more sprinkles in there even
+
+525
+00:19:30,600 --> 00:19:32,559
+though it's a lower sprinkle density
+
+526
+00:19:32,559 --> 00:19:35,320
+anyways technical uh also lower this one
+
+527
+00:19:35,320 --> 00:19:37,080
+cuz that's just too many so let's go
+
+528
+00:19:37,080 --> 00:19:40,360
+like 50 for that um and that's pretty
+
+529
+00:19:40,360 --> 00:19:42,559
+good you can also experiment like I
+
+530
+00:19:42,559 --> 00:19:45,559
+tried changing the different um um like
+
+531
+00:19:45,559 --> 00:19:48,480
+whether this one has long sprinkles or
+
+532
+00:19:48,480 --> 00:19:50,440
+whether this one at the top has round
+
+533
+00:19:50,440 --> 00:19:53,080
+you can play around with these I went uh
+
+534
+00:19:53,080 --> 00:19:55,480
+I think the bottom one I gave long this
+
+535
+00:19:55,480 --> 00:19:58,960
+one I'm going to turn it off so none
+
+536
+00:19:58,960 --> 00:20:01,200
+no sprinkles on that one and just try
+
+537
+00:20:01,200 --> 00:20:03,600
+and get a nice you know feel for it
+
+538
+00:20:03,600 --> 00:20:04,559
+really you're just trying to go for
+
+539
+00:20:04,559 --> 00:20:05,799
+something that looks a little balanced
+
+540
+00:20:05,799 --> 00:20:08,120
+in its detail so you don't have too much
+
+541
+00:20:08,120 --> 00:20:10,320
+repetition um across it so I'm trying to
+
+542
+00:20:10,320 --> 00:20:13,159
+get a nice breakup of like round long
+
+543
+00:20:13,159 --> 00:20:17,280
+nun none round you know Etc the other
+
+544
+00:20:17,280 --> 00:20:19,320
+thing since we're talking about detail
+
+545
+00:20:19,320 --> 00:20:21,880
+is looking at this right this is small
+
+546
+00:20:21,880 --> 00:20:25,480
+detail this is small detail these shapes
+
+547
+00:20:25,480 --> 00:20:28,600
+here right this is large detail Okay so
+
+548
+00:20:28,600 --> 00:20:30,679
+we've got large and we've got this small
+
+549
+00:20:30,679 --> 00:20:34,360
+detail we don't have any medium detail
+
+550
+00:20:34,360 --> 00:20:36,320
+um and it's good to have a variance
+
+551
+00:20:36,320 --> 00:20:37,919
+across the scene just I don't know it's
+
+552
+00:20:37,919 --> 00:20:39,880
+one of the design rules it just helps
+
+553
+00:20:39,880 --> 00:20:42,080
+things feel a little bit more
+
+554
+00:20:42,080 --> 00:20:45,120
+aesthetically pleasing so uh something I
+
+555
+00:20:45,120 --> 00:20:46,919
+I saw when I was looking on Pinterest
+
+556
+00:20:46,919 --> 00:20:49,400
+many years ago uh for one of the old
+
+557
+00:20:49,400 --> 00:20:52,200
+Donut series was like uh you can put
+
+558
+00:20:52,200 --> 00:20:54,679
+bigger sprinkles like a few big chunky
+
+559
+00:20:54,679 --> 00:20:57,480
+sprinkles on it and uh it just adds
+
+560
+00:20:57,480 --> 00:20:59,360
+variance to it and it just makes it look
+
+561
+00:20:59,360 --> 00:21:02,400
+a lot more appealing so for that I'm you
+
+562
+00:21:02,400 --> 00:21:04,360
+could do it using geometry nodes but I
+
+563
+00:21:04,360 --> 00:21:07,320
+just do it by hand placing like three
+
+564
+00:21:07,320 --> 00:21:10,679
+sprinkles so on this donut here shift
+
+565
+00:21:10,679 --> 00:21:12,720
+right clicking on this part of the donut
+
+566
+00:21:12,720 --> 00:21:14,880
+uh I'll go into uh here we go solid View
+
+567
+00:21:14,880 --> 00:21:16,960
+mode and then shift a and then I'm going
+
+568
+00:21:16,960 --> 00:21:19,400
+to add in a UV sphere default settings
+
+569
+00:21:19,400 --> 00:21:22,200
+are okay just going to scale it
+
+570
+00:21:22,200 --> 00:21:25,559
+down like that right so this is the size
+
+571
+00:21:25,559 --> 00:21:27,480
+of the sprinkle quite big you could
+
+572
+00:21:27,480 --> 00:21:29,960
+imagine it almost as like a gumball or
+
+573
+00:21:29,960 --> 00:21:31,880
+something um it's probably not big
+
+574
+00:21:31,880 --> 00:21:33,000
+enough to be a gumball but you know what
+
+575
+00:21:33,000 --> 00:21:35,120
+I mean like something big right make
+
+576
+00:21:35,120 --> 00:21:37,919
+sure you're using shade smooth and for
+
+577
+00:21:37,919 --> 00:21:38,840
+the
+
+578
+00:21:38,840 --> 00:21:40,760
+material um sorry if this is like
+
+579
+00:21:40,760 --> 00:21:42,360
+getting to in the weeds but a lot of
+
+580
+00:21:42,360 --> 00:21:43,880
+people when they're following tutorials
+
+581
+00:21:43,880 --> 00:21:45,320
+they like to know the exact settings
+
+582
+00:21:45,320 --> 00:21:47,240
+that I used so I'm trying to show them
+
+583
+00:21:47,240 --> 00:21:50,840
+all um whilst not taking too long um but
+
+584
+00:21:50,840 --> 00:21:53,960
+yeah there we go so I go for like a aqua
+
+585
+00:21:53,960 --> 00:21:57,120
+color yeah like that and then I want to
+
+586
+00:21:57,120 --> 00:21:58,840
+turn the roughness like like all the way
+
+587
+00:21:58,840 --> 00:22:02,320
+down like that cool and now I just need
+
+588
+00:22:02,320 --> 00:22:05,360
+to duplicate that sprinkle so duplicate
+
+589
+00:22:05,360 --> 00:22:07,520
+here uh I'll pull it out and I'm just
+
+590
+00:22:07,520 --> 00:22:09,400
+going to go with three you could go for
+
+591
+00:22:09,400 --> 00:22:11,520
+more but I'm just going to go with three
+
+592
+00:22:11,520 --> 00:22:13,480
+and I'm only going to put it on this dut
+
+593
+00:22:13,480 --> 00:22:14,640
+I'm not going to bother with the others
+
+594
+00:22:14,640 --> 00:22:16,559
+I'm going to say this is the special one
+
+595
+00:22:16,559 --> 00:22:18,039
+this is the one that we want your eye to
+
+596
+00:22:18,039 --> 00:22:19,640
+be drawn to so this is the one with a
+
+597
+00:22:19,640 --> 00:22:21,400
+little bit more detail than the others
+
+598
+00:22:21,400 --> 00:22:22,919
+I'm sorry if I'm doing a horrible
+
+599
+00:22:22,919 --> 00:22:25,720
+zigzaggy job of I could do snapping but
+
+600
+00:22:25,720 --> 00:22:28,400
+I'm like eh it's just too much work to
+
+601
+00:22:28,400 --> 00:22:30,679
+the snapping functions for this so I'm
+
+602
+00:22:30,679 --> 00:22:33,000
+going to select those three shift select
+
+603
+00:22:33,000 --> 00:22:35,600
+the icing contrl p and then go keep
+
+604
+00:22:35,600 --> 00:22:37,600
+transform there we go so now they're all
+
+605
+00:22:37,600 --> 00:22:39,320
+attached to that just in case I move the
+
+606
+00:22:39,320 --> 00:22:43,720
+donut it's uh it's correctly uh done the
+
+607
+00:22:43,720 --> 00:22:45,279
+final thing I think I changed was the
+
+608
+00:22:45,279 --> 00:22:47,520
+world settings underneath the air and
+
+609
+00:22:47,520 --> 00:22:49,919
+dust for our Sky texture I just dialed
+
+610
+00:22:49,919 --> 00:22:52,240
+it back to around about a 7 just a
+
+611
+00:22:52,240 --> 00:22:54,520
+little bit cooler in the lighting right
+
+612
+00:22:54,520 --> 00:22:56,600
+as I might remember I told you if you go
+
+613
+00:22:56,600 --> 00:22:58,520
+all the way there it's like the sky just
+
+614
+00:22:58,520 --> 00:23:01,400
+becomes like blue um and if it's too far
+
+615
+00:23:01,400 --> 00:23:03,440
+up then it becomes yellow and orange or
+
+616
+00:23:03,440 --> 00:23:05,640
+whatever like kind of too decayed but
+
+617
+00:23:05,640 --> 00:23:08,279
+you know like a 7ish it'll just look it
+
+618
+00:23:08,279 --> 00:23:10,919
+just feels a little cleaner um in
+
+619
+00:23:10,919 --> 00:23:13,039
+comparison to what it was awesome now
+
+620
+00:23:13,039 --> 00:23:14,760
+we're F we're almost there I promise you
+
+621
+00:23:14,760 --> 00:23:16,480
+we're almost there the one thing that
+
+622
+00:23:16,480 --> 00:23:18,360
+you probably do want to know how to add
+
+623
+00:23:18,360 --> 00:23:21,080
+is depth of field it adds a lot because
+
+624
+00:23:21,080 --> 00:23:22,360
+every single camera in the real world
+
+625
+00:23:22,360 --> 00:23:24,760
+has depth of field except for pinhole
+
+626
+00:23:24,760 --> 00:23:26,520
+cameras interestingly because there is
+
+627
+00:23:26,520 --> 00:23:28,400
+no Optics in a pinhole camera so it can
+
+628
+00:23:28,400 --> 00:23:30,279
+have like infinite depth of field
+
+629
+00:23:30,279 --> 00:23:34,240
+supposedly um anyways the uh the depth
+
+630
+00:23:34,240 --> 00:23:36,080
+of field settings is underneath your
+
+631
+00:23:36,080 --> 00:23:38,520
+camera okay so select your camera then
+
+632
+00:23:38,520 --> 00:23:42,000
+click on the data here and then depth of
+
+633
+00:23:42,000 --> 00:23:44,200
+field right at the bottom so check that
+
+634
+00:23:44,200 --> 00:23:46,799
+box and everything will become blurry
+
+635
+00:23:46,799 --> 00:23:48,760
+because it doesn't have a focus object
+
+636
+00:23:48,760 --> 00:23:51,520
+yet so click the little ey dropper tool
+
+637
+00:23:51,520 --> 00:23:53,720
+and then just click on this icing this
+
+638
+00:23:53,720 --> 00:23:55,559
+uh pink doughnut icing right in the the
+
+639
+00:23:55,559 --> 00:23:57,320
+front here and there you go so that is
+
+640
+00:23:57,320 --> 00:23:59,080
+depth of field used to be really
+
+641
+00:23:59,080 --> 00:24:01,080
+difficult to do in blender um I started
+
+642
+00:24:01,080 --> 00:24:02,679
+like you know 20 years ago and it was
+
+643
+00:24:02,679 --> 00:24:04,400
+this horrible like motion blow thing you
+
+644
+00:24:04,400 --> 00:24:06,240
+had to do for the camera to like rotate
+
+645
+00:24:06,240 --> 00:24:08,919
+it anyway it's it's it's just a checkbox
+
+646
+00:24:08,919 --> 00:24:11,320
+now it's it's fascinating anyways uh the
+
+647
+00:24:11,320 --> 00:24:12,760
+f- stop if you're unfamiliar with
+
+648
+00:24:12,760 --> 00:24:14,720
+cameras the lower the F stop the
+
+649
+00:24:14,720 --> 00:24:16,440
+shallower that depth of field so you can
+
+650
+00:24:16,440 --> 00:24:18,279
+see very little of this image is
+
+651
+00:24:18,279 --> 00:24:20,840
+actually in Focus so it's actually good
+
+652
+00:24:20,840 --> 00:24:23,279
+for like Miniatures um but if you want
+
+653
+00:24:23,279 --> 00:24:25,360
+more of the scene to be in Focus like
+
+654
+00:24:25,360 --> 00:24:27,080
+you want more of this donut stack to be
+
+655
+00:24:27,080 --> 00:24:29,159
+seen I would go with an F stop somewhere
+
+656
+00:24:29,159 --> 00:24:31,919
+between six or eight um you know
+
+657
+00:24:31,919 --> 00:24:32,880
+something around the range I think I
+
+658
+00:24:32,880 --> 00:24:34,840
+went with eight for my final one or
+
+659
+00:24:34,840 --> 00:24:37,200
+maybe it was six can't remember anyways
+
+660
+00:24:37,200 --> 00:24:38,159
+but you can see the stuff in the
+
+661
+00:24:38,159 --> 00:24:39,840
+background there is now out of focus and
+
+662
+00:24:39,840 --> 00:24:41,840
+it puts the attention where it should be
+
+663
+00:24:41,840 --> 00:24:43,159
+right on those donuts in the middle
+
+664
+00:24:43,159 --> 00:24:45,640
+there and the other thing that I always
+
+665
+00:24:45,640 --> 00:24:48,440
+forget to enable is motion blur so
+
+666
+00:24:48,440 --> 00:24:51,320
+underneath your render settings here uh
+
+667
+00:24:51,320 --> 00:24:53,679
+you just need to check motion blur and I
+
+668
+00:24:53,679 --> 00:24:55,399
+actually find the default setting is
+
+669
+00:24:55,399 --> 00:24:57,799
+usually fine it's a little smooth like a
+
+670
+00:24:57,799 --> 00:24:59,840
+it's a a little bit too blurry sometimes
+
+671
+00:24:59,840 --> 00:25:01,559
+so you might want to drop it to like 04
+
+672
+00:25:01,559 --> 00:25:03,399
+or something but I don't know it should
+
+673
+00:25:03,399 --> 00:25:05,159
+be defined with a default it usually
+
+674
+00:25:05,159 --> 00:25:09,399
+looks okay so are we ready to render our
+
+675
+00:25:09,399 --> 00:25:12,480
+final animation well I actually thought
+
+676
+00:25:12,480 --> 00:25:14,399
+yes so that little jump cut that you saw
+
+677
+00:25:14,399 --> 00:25:16,880
+there was me going yep let's render that
+
+678
+00:25:16,880 --> 00:25:19,240
+animation and then I rendered it out and
+
+679
+00:25:19,240 --> 00:25:21,640
+then I came back and I went wait a
+
+680
+00:25:21,640 --> 00:25:24,320
+minute I've made some
+
+681
+00:25:24,320 --> 00:25:27,799
+errors now can you tell what they are I
+
+682
+00:25:27,799 --> 00:25:30,440
+will give you a
+
+683
+00:25:30,440 --> 00:25:33,480
+clue right here right here right here
+
+684
+00:25:33,480 --> 00:25:35,919
+we're missing those three little balls
+
+685
+00:25:35,919 --> 00:25:37,440
+that we created little sprinkles and
+
+686
+00:25:37,440 --> 00:25:39,520
+then also look in the background here
+
+687
+00:25:39,520 --> 00:25:42,559
+mysteriously dark almost as if the area
+
+688
+00:25:42,559 --> 00:25:45,880
+lamp that we added is not there so I'll
+
+689
+00:25:45,880 --> 00:25:47,600
+first of all say it's very common to do
+
+690
+00:25:47,600 --> 00:25:50,640
+this you think that you're finally ready
+
+691
+00:25:50,640 --> 00:25:52,600
+like yeah everything looks good kick off
+
+692
+00:25:52,600 --> 00:25:55,159
+the final uh animation I've I've
+
+693
+00:25:55,159 --> 00:25:57,279
+sometimes waited like over a week for a
+
+694
+00:25:57,279 --> 00:25:59,320
+whole animation to finish and then I
+
+695
+00:25:59,320 --> 00:26:01,279
+come back and then I open it up and then
+
+696
+00:26:01,279 --> 00:26:04,240
+I go oh no I forgot to turn off that
+
+697
+00:26:04,240 --> 00:26:06,760
+layer I forgot to turn on that layer I
+
+698
+00:26:06,760 --> 00:26:08,720
+forgot you know actually a technique
+
+699
+00:26:08,720 --> 00:26:10,919
+that Pixar uses um I learned at one of
+
+700
+00:26:10,919 --> 00:26:13,039
+the uh sigraph presentations they did
+
+701
+00:26:13,039 --> 00:26:15,360
+they said they render the first frame
+
+702
+00:26:15,360 --> 00:26:17,640
+the middle frame and the end frame of
+
+703
+00:26:17,640 --> 00:26:20,240
+every shot before they do the full
+
+704
+00:26:20,240 --> 00:26:23,080
+animation uh sequence uh because that
+
+705
+00:26:23,080 --> 00:26:25,320
+usually reveals any problems um in the
+
+706
+00:26:25,320 --> 00:26:27,200
+animation which they can then uh correct
+
+707
+00:26:27,200 --> 00:26:30,000
+so I should have done that but didn't um
+
+708
+00:26:30,000 --> 00:26:33,960
+anyways what was my mistake well when we
+
+709
+00:26:33,960 --> 00:26:36,919
+uh disabled this sprinkles collection
+
+710
+00:26:36,919 --> 00:26:38,720
+right we disabled it from appearing in
+
+711
+00:26:38,720 --> 00:26:41,840
+the render that's fine but when we
+
+712
+00:26:41,840 --> 00:26:44,480
+created these objects I didn't check
+
+713
+00:26:44,480 --> 00:26:46,600
+what was the active collection so when
+
+714
+00:26:46,600 --> 00:26:48,399
+you add a new object it adds it to
+
+715
+00:26:48,399 --> 00:26:50,480
+whatever is the selected collection this
+
+716
+00:26:50,480 --> 00:26:52,080
+little one with the little uh box around
+
+717
+00:26:52,080 --> 00:26:55,559
+it so obviously it put it inside of that
+
+718
+00:26:55,559 --> 00:26:57,840
+collection so these spheres should not
+
+719
+00:26:57,840 --> 00:26:59,600
+be inside the sprinkles so I'm going to
+
+720
+00:26:59,600 --> 00:27:02,240
+drag it out into a duts uh collection
+
+721
+00:27:02,240 --> 00:27:03,559
+which is where it should be and then
+
+722
+00:27:03,559 --> 00:27:05,679
+this area lamp as well that's the reason
+
+723
+00:27:05,679 --> 00:27:07,880
+that the uh the background is dark um is
+
+724
+00:27:07,880 --> 00:27:09,399
+cuz that was inside the sprinkle so it
+
+725
+00:27:09,399 --> 00:27:11,679
+was hidden from the rendler as well so
+
+726
+00:27:11,679 --> 00:27:13,919
+now putting that into the environment
+
+727
+00:27:13,919 --> 00:27:16,919
+that now should look a lot better so do
+
+728
+00:27:16,919 --> 00:27:20,200
+a test render just by hitting F12 see
+
+729
+00:27:20,200 --> 00:27:22,279
+how that looks first what I should have
+
+730
+00:27:22,279 --> 00:27:24,480
+done I mean even just doing one render
+
+731
+00:27:24,480 --> 00:27:26,080
+could have revealed this problem it's
+
+732
+00:27:26,080 --> 00:27:29,440
+that obvious um but do a test render
+
+733
+00:27:29,440 --> 00:27:31,799
+check look we've got the balls appearing
+
+734
+00:27:31,799 --> 00:27:34,120
+The Fill light is now in the background
+
+735
+00:27:34,120 --> 00:27:35,520
+and the other thing I noticed and this
+
+736
+00:27:35,520 --> 00:27:37,000
+is because it's the next day that I'm
+
+737
+00:27:37,000 --> 00:27:38,720
+recording this um when you look at
+
+738
+00:27:38,720 --> 00:27:41,480
+something with fresh eyes you often
+
+739
+00:27:41,480 --> 00:27:44,000
+notice different things so I thought
+
+740
+00:27:44,000 --> 00:27:46,480
+that this exposure looked pretty good
+
+741
+00:27:46,480 --> 00:27:48,960
+but then now having a look at it um the
+
+742
+00:27:48,960 --> 00:27:51,960
+next day I can see that it's a little
+
+743
+00:27:51,960 --> 00:27:54,360
+Overexposed okay so if you look uh at
+
+744
+00:27:54,360 --> 00:27:56,519
+the false color this is what it looks
+
+745
+00:27:56,519 --> 00:27:58,919
+like and there's just too much orange
+
+746
+00:27:58,919 --> 00:28:00,440
+there so essentially I'm going to drop
+
+747
+00:28:00,440 --> 00:28:02,960
+this back to be so it's like mostly
+
+748
+00:28:02,960 --> 00:28:05,000
+yellow across the uh the front of these
+
+749
+00:28:05,000 --> 00:28:06,960
+Donuts here well not mostly yellow but
+
+750
+00:28:06,960 --> 00:28:08,600
+more yellow than what there was uh
+
+751
+00:28:08,600 --> 00:28:10,360
+before there's not really an exact way
+
+752
+00:28:10,360 --> 00:28:13,399
+to sort of uh pinpoint it but I could
+
+753
+00:28:13,399 --> 00:28:15,279
+just tell it's a little Overexposed so
+
+754
+00:28:15,279 --> 00:28:17,039
+I'm just dialing it back to be a little
+
+755
+00:28:17,039 --> 00:28:19,279
+more reasonable again your exposure
+
+756
+00:28:19,279 --> 00:28:21,679
+ranges might be different depending on
+
+757
+00:28:21,679 --> 00:28:23,240
+you know how close your Donuts are to
+
+758
+00:28:23,240 --> 00:28:25,640
+the window or something but look at it
+
+759
+00:28:25,640 --> 00:28:27,760
+with your own eyes and if it looks wrong
+
+760
+00:28:27,760 --> 00:28:29,240
+when you're using this exposure range
+
+761
+00:28:29,240 --> 00:28:31,399
+use a different value tweak it and try
+
+762
+00:28:31,399 --> 00:28:33,600
+to make it um look accurate cuz actually
+
+763
+00:28:33,600 --> 00:28:35,360
+I was on Discord this morning looking at
+
+764
+00:28:35,360 --> 00:28:37,039
+some of your renders join the Discord if
+
+765
+00:28:37,039 --> 00:28:38,720
+you're not on there um and I was like
+
+766
+00:28:38,720 --> 00:28:40,320
+okay a lot of people also have
+
+767
+00:28:40,320 --> 00:28:42,480
+Overexposed uh renders so I should bring
+
+768
+00:28:42,480 --> 00:28:45,440
+that up anyway we are now finally ready
+
+769
+00:28:45,440 --> 00:28:48,640
+to do a render so again I am using no
+
+770
+00:28:48,640 --> 00:28:51,279
+noise threshold 500 samples probably get
+
+771
+00:28:51,279 --> 00:28:52,880
+that up to a th000 if you want it to be
+
+772
+00:28:52,880 --> 00:28:56,200
+non- jittery D noise open image D noise
+
+773
+00:28:56,200 --> 00:28:59,200
+and then I'm outputting it to tiffs just
+
+774
+00:28:59,200 --> 00:29:01,799
+RGB we don't need alpha 8 bit and then
+
+775
+00:29:01,799 --> 00:29:04,159
+I'm just putting it into a folder which
+
+776
+00:29:04,159 --> 00:29:05,919
+because I made a mistake uh I'm going to
+
+777
+00:29:05,919 --> 00:29:07,440
+put it into another F actually made two
+
+778
+00:29:07,440 --> 00:29:08,720
+mistakes rendered it
+
+779
+00:29:08,720 --> 00:29:11,880
+twice I'll put it into uh three right
+
+780
+00:29:11,880 --> 00:29:13,600
+that's why I put them in sub folders
+
+781
+00:29:13,600 --> 00:29:15,080
+anyways now that I'm ready I'm going to
+
+782
+00:29:15,080 --> 00:29:18,399
+go render render animation and this is
+
+783
+00:29:18,399 --> 00:29:20,919
+now kicking it off I can now leave it
+
+784
+00:29:20,919 --> 00:29:23,440
+walk away and it will just start as it
+
+785
+00:29:23,440 --> 00:29:25,760
+finishes uh rendering it'll just start
+
+786
+00:29:25,760 --> 00:29:28,480
+dumping it into the folder and there you
+
+787
+00:29:28,480 --> 00:29:30,440
+go so you can see it's uh it's rendered
+
+788
+00:29:30,440 --> 00:29:32,279
+three frames so we've got three images
+
+789
+00:29:32,279 --> 00:29:34,799
+here once it's finished we should have
+
+790
+00:29:34,799 --> 00:29:38,919
+160 Tiff files inside this folder which
+
+791
+00:29:38,919 --> 00:29:40,919
+you will have to watch the final part of
+
+792
+00:29:40,919 --> 00:29:43,440
+this tutorial to learn how to take that
+
+793
+00:29:43,440 --> 00:29:46,200
+sequence and form a video file that you
+
+794
+00:29:46,200 --> 00:29:49,720
+can use and send Etc so click here to
+
+795
+00:29:49,720 --> 00:29:52,120
+watch the final part of this tutorial
+
+796
+00:29:52,120 --> 00:29:54,840
+series
+

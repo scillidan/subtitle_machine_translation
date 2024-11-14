@@ -1,0 +1,2384 @@
+1
+00:00:00,440 --> 00:00:04,080
+we've got round sprinkles why not long
+
+2
+00:00:04,080 --> 00:00:07,319
+sprinkles it'll be more interesting and
+
+3
+00:00:07,319 --> 00:00:09,800
+it'll enable us to uh learn some new
+
+4
+00:00:09,800 --> 00:00:11,240
+techniques about blender which is what
+
+5
+00:00:11,240 --> 00:00:13,400
+this whole series is about so first
+
+6
+00:00:13,400 --> 00:00:16,160
+things first we need to uh model those
+
+7
+00:00:16,160 --> 00:00:19,680
+sprinkles so let's move to the left here
+
+8
+00:00:19,680 --> 00:00:22,199
+and uh we want to add an object we
+
+9
+00:00:22,199 --> 00:00:23,840
+haven't mentioned it before but when you
+
+10
+00:00:23,840 --> 00:00:25,720
+add an object it's going to put it at
+
+11
+00:00:25,720 --> 00:00:28,000
+your 3D cursor and your 3D cursor is
+
+12
+00:00:28,000 --> 00:00:31,039
+that thing that weird little thing
+
+13
+00:00:31,039 --> 00:00:32,520
+little Crosshair at the bottom there
+
+14
+00:00:32,520 --> 00:00:35,160
+that's your 3D cursor and uh yeah I
+
+15
+00:00:35,160 --> 00:00:36,480
+don't know blunder has a 3D cursor maybe
+
+16
+00:00:36,480 --> 00:00:38,040
+other applications don't it's going to
+
+17
+00:00:38,040 --> 00:00:39,520
+put it there and if you don't want it
+
+18
+00:00:39,520 --> 00:00:41,000
+there you can move that 3D cursor
+
+19
+00:00:41,000 --> 00:00:43,239
+somewhere else by hitting shift and
+
+20
+00:00:43,239 --> 00:00:45,160
+right clicking and you can see it's now
+
+21
+00:00:45,160 --> 00:00:46,719
+moved it and actually attached it to the
+
+22
+00:00:46,719 --> 00:00:48,559
+plane which is where we would want it if
+
+23
+00:00:48,559 --> 00:00:50,480
+you don't have a mouse do get a mouse
+
+24
+00:00:50,480 --> 00:00:52,440
+but in the interim you can also use the
+
+25
+00:00:52,440 --> 00:00:54,440
+the uh cursor tool and that'll do uh the
+
+26
+00:00:54,440 --> 00:00:56,559
+same thing all right so we're adding
+
+27
+00:00:56,559 --> 00:00:58,719
+long sprinkles so obviously the object
+
+28
+00:00:58,719 --> 00:01:02,640
+that we want to add is shift a mesh it's
+
+29
+00:01:02,640 --> 00:01:06,320
+the cylinder okay too big by default so
+
+30
+00:01:06,320 --> 00:01:08,119
+let's change click this little thing
+
+31
+00:01:08,119 --> 00:01:10,159
+bring this up change the radius all the
+
+32
+00:01:10,159 --> 00:01:12,159
+way to its lowest and the depth all the
+
+33
+00:01:12,159 --> 00:01:14,520
+way to its lowest as well and the
+
+34
+00:01:14,520 --> 00:01:16,560
+vertices that's the uh like the
+
+35
+00:01:16,560 --> 00:01:18,880
+resolution right oh we'll fix that in a
+
+36
+00:01:18,880 --> 00:01:21,280
+sec um the resolution it' be way too
+
+37
+00:01:21,280 --> 00:01:23,560
+high at 32 to be scattered on an object
+
+38
+00:01:23,560 --> 00:01:25,400
+so let's set this to 12 and that'll be
+
+39
+00:01:25,400 --> 00:01:27,079
+just enough that it won't look Jagged
+
+40
+00:01:27,079 --> 00:01:30,119
+and it'll look smooth okay great now I'm
+
+41
+00:01:30,119 --> 00:01:31,680
+going to move this up just so it's above
+
+42
+00:01:31,680 --> 00:01:35,960
+the plane Zed okay now this problem that
+
+43
+00:01:35,960 --> 00:01:38,600
+you have if you go in too far it
+
+44
+00:01:38,600 --> 00:01:42,600
+disappears the reason for that is that
+
+45
+00:01:42,600 --> 00:01:45,880
+uh blender has a clipping start value
+
+46
+00:01:45,880 --> 00:01:47,759
+and because we're working at such a
+
+47
+00:01:47,759 --> 00:01:49,880
+small small scale we've got sprinkle
+
+48
+00:01:49,880 --> 00:01:52,479
+sized things now um it's too small and
+
+49
+00:01:52,479 --> 00:01:55,320
+it's clipping it out so if you hit n and
+
+50
+00:01:55,320 --> 00:01:58,320
+go to your view tab the clip start value
+
+51
+00:01:58,320 --> 00:02:01,000
+there it's 1 cm by default drag it all
+
+52
+00:02:01,000 --> 00:02:02,280
+the way to the left and it's now a
+
+53
+00:02:02,280 --> 00:02:04,520
+millimeter and it will have fixed that I
+
+54
+00:02:04,520 --> 00:02:06,479
+don't know why it's not the default like
+
+55
+00:02:06,479 --> 00:02:08,318
+maybe somebody can tell me why is that
+
+56
+00:02:08,318 --> 00:02:10,160
+not the default value maybe there's a
+
+57
+00:02:10,160 --> 00:02:12,160
+reason but to me that would make sense
+
+58
+00:02:12,160 --> 00:02:13,800
+cuz then you never have this problem I
+
+59
+00:02:13,800 --> 00:02:16,440
+don't know any disadvantages so anyway
+
+60
+00:02:16,440 --> 00:02:18,360
+we've got uh the base of a Sprinkle need
+
+61
+00:02:18,360 --> 00:02:22,200
+to make it long so tab into edit mode s
+
+62
+00:02:22,200 --> 00:02:24,840
+scale it Zed along the Z axis to
+
+63
+00:02:24,840 --> 00:02:28,440
+elongate it and now we've got the rough
+
+64
+00:02:28,440 --> 00:02:31,319
+length of a Sprinkle but how long is a
+
+65
+00:02:31,319 --> 00:02:34,560
+Sprinkle there's no actual answer to
+
+66
+00:02:34,560 --> 00:02:36,760
+that if you look at reference they are
+
+67
+00:02:36,760 --> 00:02:38,640
+all over the place the government
+
+68
+00:02:38,640 --> 00:02:40,480
+evidently never stepped in and said like
+
+69
+00:02:40,480 --> 00:02:42,640
+we're going to regulate it this is the
+
+70
+00:02:42,640 --> 00:02:45,319
+the length of a Sprinkle this is the
+
+71
+00:02:45,319 --> 00:02:47,400
+size of a spring I mean it's it's it's
+
+72
+00:02:47,400 --> 00:02:48,959
+the wild west out there they're doing
+
+73
+00:02:48,959 --> 00:02:52,040
+crazy things so uh what that means as
+
+74
+00:02:52,040 --> 00:02:54,440
+artists is we get to pick whatever is
+
+75
+00:02:54,440 --> 00:02:58,319
+most visually pleasing and I like the
+
+76
+00:02:58,319 --> 00:03:01,680
+ones which are more readable and to show
+
+77
+00:03:01,680 --> 00:03:05,080
+you what I mean if we pull up two right
+
+78
+00:03:05,080 --> 00:03:07,319
+this one on the left is like large
+
+79
+00:03:07,319 --> 00:03:09,840
+sprinkles right very like bold and then
+
+80
+00:03:09,840 --> 00:03:11,799
+one on the right here is like long thin
+
+81
+00:03:11,799 --> 00:03:13,200
+wispy ones that look like theyd get
+
+82
+00:03:13,200 --> 00:03:16,040
+stuck in your teeth and if we zoom out
+
+83
+00:03:16,040 --> 00:03:19,200
+on this and then zoom out on this you
+
+84
+00:03:19,200 --> 00:03:21,159
+can see that the ones on the right tend
+
+85
+00:03:21,159 --> 00:03:23,120
+to kind of like the colors and
+
+86
+00:03:23,120 --> 00:03:24,480
+everything just kind of blur together
+
+87
+00:03:24,480 --> 00:03:26,120
+and it just looks like a dut whereas the
+
+88
+00:03:26,120 --> 00:03:27,920
+one on the left the sprinkles are still
+
+89
+00:03:27,920 --> 00:03:30,200
+readable so that's what we mean by
+
+90
+00:03:30,200 --> 00:03:31,920
+readable and that's the one I like the
+
+91
+00:03:31,920 --> 00:03:34,760
+most so we're going to go with some uh
+
+92
+00:03:34,760 --> 00:03:38,080
+larger looking long sprinkles but you
+
+93
+00:03:38,080 --> 00:03:39,799
+can see that the sizes there's no
+
+94
+00:03:39,799 --> 00:03:42,159
+standard size because I think it's
+
+95
+00:03:42,159 --> 00:03:43,920
+actually like it's from a Piping Bag at
+
+96
+00:03:43,920 --> 00:03:45,200
+least if you make them at home but you
+
+97
+00:03:45,200 --> 00:03:47,480
+can just pipe out icing and then when it
+
+98
+00:03:47,480 --> 00:03:49,280
+dries you just smash it up and it
+
+99
+00:03:49,280 --> 00:03:51,680
+becomes sprinkles um but yeah they they
+
+100
+00:03:51,680 --> 00:03:53,319
+just come out at any odd size so we got
+
+101
+00:03:53,319 --> 00:03:55,319
+long ones we got medium ones we got
+
+102
+00:03:55,319 --> 00:03:58,400
+short ones and we've even got some curvy
+
+103
+00:03:58,400 --> 00:03:59,720
+looking ones right these little like
+
+104
+00:03:59,720 --> 00:04:03,959
+like just slightly bsh looking ones so
+
+105
+00:04:03,959 --> 00:04:06,079
+we're going to model small medium large
+
+106
+00:04:06,079 --> 00:04:08,000
+and a bsh looking one and then we're
+
+107
+00:04:08,000 --> 00:04:10,799
+going to scatter that across the object
+
+108
+00:04:10,799 --> 00:04:13,879
+so back in blender this is going to be
+
+109
+00:04:13,879 --> 00:04:15,239
+yeah let's this this will be the the
+
+110
+00:04:15,239 --> 00:04:18,918
+short one uh okay but the end speaking
+
+111
+00:04:18,918 --> 00:04:21,478
+of which this end bit here uh it's a
+
+112
+00:04:21,478 --> 00:04:24,280
+very sharp edge and even if we hit uh
+
+113
+00:04:24,280 --> 00:04:26,520
+shade smooth it's not going to solve it
+
+114
+00:04:26,520 --> 00:04:28,479
+we want that like a rounded form to it
+
+115
+00:04:28,479 --> 00:04:31,919
+not this hor Blobby looking shape um
+
+116
+00:04:31,919 --> 00:04:34,039
+because the reference again you can see
+
+117
+00:04:34,039 --> 00:04:35,000
+oh it's another it's a different
+
+118
+00:04:35,000 --> 00:04:37,639
+reference now is uh is a rounded shape
+
+119
+00:04:37,639 --> 00:04:40,560
+all right so to create that rounded form
+
+120
+00:04:40,560 --> 00:04:43,639
+we're going to create a bevel and so I
+
+121
+00:04:43,639 --> 00:04:47,120
+want you to go into face select mode
+
+122
+00:04:47,120 --> 00:04:48,360
+okay which you can do by that so this is
+
+123
+00:04:48,360 --> 00:04:51,520
+the faces right this is the edges if you
+
+124
+00:04:51,520 --> 00:04:52,840
+go to Edge select mode and then this is
+
+125
+00:04:52,840 --> 00:04:55,840
+the the face there so select the bottom
+
+126
+00:04:55,840 --> 00:04:58,560
+and the top face like that and then
+
+127
+00:04:58,560 --> 00:05:00,520
+we're going to add a bell which will
+
+128
+00:05:00,520 --> 00:05:02,000
+immediately become clear when you do it
+
+129
+00:05:02,000 --> 00:05:04,479
+contrl B and now that we're in this
+
+130
+00:05:04,479 --> 00:05:06,919
+state as we pull out we can change the
+
+131
+00:05:06,919 --> 00:05:09,479
+the amount of the bevel and this is uh
+
+132
+00:05:09,479 --> 00:05:11,039
+you can see it's it's like yeah it's
+
+133
+00:05:11,039 --> 00:05:13,880
+just adding a 45° angle on that that
+
+134
+00:05:13,880 --> 00:05:16,160
+corner there but if you scroll up it's
+
+135
+00:05:16,160 --> 00:05:18,440
+going to add another level to it and if
+
+136
+00:05:18,440 --> 00:05:19,840
+you scroll up again it's going to add
+
+137
+00:05:19,840 --> 00:05:22,240
+another level to that so we can very
+
+138
+00:05:22,240 --> 00:05:24,400
+quickly create a rounded Edge to the
+
+139
+00:05:24,400 --> 00:05:26,000
+sprinkle uh you don't want to go too
+
+140
+00:05:26,000 --> 00:05:27,199
+much higher because again this is going
+
+141
+00:05:27,199 --> 00:05:29,000
+to be scattered all over the donut you
+
+142
+00:05:29,000 --> 00:05:30,759
+don't want to go too high poly so
+
+143
+00:05:30,759 --> 00:05:33,319
+that'll do so that's a simple bevel
+
+144
+00:05:33,319 --> 00:05:35,120
+operation and it's very common when
+
+145
+00:05:35,120 --> 00:05:37,639
+you're modeling so yeah contrl B is how
+
+146
+00:05:37,639 --> 00:05:40,240
+you do that all right so look at that
+
+147
+00:05:40,240 --> 00:05:43,080
+we've got one sprinkle so now we need to
+
+148
+00:05:43,080 --> 00:05:45,720
+create three more so this is the small
+
+149
+00:05:45,720 --> 00:05:49,199
+so let's go shift d and then X to just
+
+150
+00:05:49,199 --> 00:05:51,120
+move it along the x-axis this is going
+
+151
+00:05:51,120 --> 00:05:54,479
+to be the medium one so edit mode and
+
+152
+00:05:54,479 --> 00:05:58,319
+I'm going to go into toggle YF frame and
+
+153
+00:05:58,319 --> 00:06:01,840
+verticy select mode and now selecting
+
+154
+00:06:01,840 --> 00:06:05,160
+the top part of the sprinkle hit G Zed
+
+155
+00:06:05,160 --> 00:06:06,520
+and I'm going to move oops if you got
+
+156
+00:06:06,520 --> 00:06:09,039
+proportional editing turn that off g z
+
+157
+00:06:09,039 --> 00:06:10,199
+move that
+
+158
+00:06:10,199 --> 00:06:13,800
+up okay that'll be the medium one yep
+
+159
+00:06:13,800 --> 00:06:17,039
+and now shift d x move it along this is
+
+160
+00:06:17,039 --> 00:06:18,680
+going to be the long one so edit mode
+
+161
+00:06:18,680 --> 00:06:22,240
+and again g z move it up and this is
+
+162
+00:06:22,240 --> 00:06:24,599
+going to be the long sprinkle I don't go
+
+163
+00:06:24,599 --> 00:06:26,919
+too long maybe that long okay and then I
+
+164
+00:06:26,919 --> 00:06:28,720
+want to make a bent sprinkle it's
+
+165
+00:06:28,720 --> 00:06:32,479
+slightly like curved so shift d x move
+
+166
+00:06:32,479 --> 00:06:35,919
+it across and now with this one if I was
+
+167
+00:06:35,919 --> 00:06:38,120
+to try to like curve this out there's
+
+168
+00:06:38,120 --> 00:06:39,639
+not enough information here like if I
+
+169
+00:06:39,639 --> 00:06:41,199
+move that it's just a straight edge
+
+170
+00:06:41,199 --> 00:06:43,319
+there so if I want to make it curved I
+
+171
+00:06:43,319 --> 00:06:45,759
+got to have more geometry there so like
+
+172
+00:06:45,759 --> 00:06:48,840
+we've done in the past crlr is how you
+
+173
+00:06:48,840 --> 00:06:50,919
+create a loop cut so when you do that it
+
+174
+00:06:50,919 --> 00:06:52,840
+says where do you want to put it I want
+
+175
+00:06:52,840 --> 00:06:54,160
+more than one though so I'm going to
+
+176
+00:06:54,160 --> 00:06:57,039
+scroll up till I get yeah just a bunch
+
+177
+00:06:57,039 --> 00:06:59,360
+of Loops until I get what looks like squ
+
+178
+00:06:59,360 --> 00:07:01,639
+square faces on those points somewhere
+
+179
+00:07:01,639 --> 00:07:03,879
+around that I don't want to go too high
+
+180
+00:07:03,879 --> 00:07:06,879
+poly yeah like that what is that that's
+
+181
+00:07:06,879 --> 00:07:09,199
+in the bottom leftand corner eight eight
+
+182
+00:07:09,199 --> 00:07:11,919
+Cuts Okay click and then it's say way do
+
+183
+00:07:11,919 --> 00:07:13,440
+you want to place it right click to
+
+184
+00:07:13,440 --> 00:07:14,800
+cancel the movement so it places it
+
+185
+00:07:14,800 --> 00:07:17,960
+right in the center and
+
+186
+00:07:17,960 --> 00:07:21,199
+now there we go okay now we've got this
+
+187
+00:07:21,199 --> 00:07:22,440
+one over here that is just long and
+
+188
+00:07:22,440 --> 00:07:24,280
+straight but low poly and this one same
+
+189
+00:07:24,280 --> 00:07:28,360
+shape but High poly so to add a uh Bend
+
+190
+00:07:28,360 --> 00:07:30,240
+to it in previous tutorials I actually
+
+191
+00:07:30,240 --> 00:07:32,039
+went into like edit mode and we did like
+
+192
+00:07:32,039 --> 00:07:34,199
+proportional editing and it was just
+
+193
+00:07:34,199 --> 00:07:35,960
+complicated and it actually didn't look
+
+194
+00:07:35,960 --> 00:07:37,599
+great I've learned actually there's a
+
+195
+00:07:37,599 --> 00:07:40,240
+modifier that'll do it very simply go to
+
+196
+00:07:40,240 --> 00:07:43,280
+your modifier stack add modifier uh you
+
+197
+00:07:43,280 --> 00:07:45,479
+could find it inside here uh or you
+
+198
+00:07:45,479 --> 00:07:47,840
+could search for it but it's the simple
+
+199
+00:07:47,840 --> 00:07:52,080
+deform uh modifier so add that and by
+
+200
+00:07:52,080 --> 00:07:53,720
+default it is wrong so change it from
+
+201
+00:07:53,720 --> 00:07:56,800
+twist to bend and look at that we've got
+
+202
+00:07:56,800 --> 00:07:59,919
+our sprinkle ha and you can very easily
+
+203
+00:07:59,919 --> 00:08:02,879
+whoops change the amount from a little
+
+204
+00:08:02,879 --> 00:08:05,800
+curve to a large curve and I think
+
+205
+00:08:05,800 --> 00:08:08,879
+somewhere around the 30° Mark you will
+
+206
+00:08:08,879 --> 00:08:10,159
+notice though that it's it's like it's
+
+207
+00:08:10,159 --> 00:08:12,680
+bent more at this angle and that's
+
+208
+00:08:12,680 --> 00:08:14,639
+because it's bending it according to the
+
+209
+00:08:14,639 --> 00:08:16,720
+origin point so you see these little
+
+210
+00:08:16,720 --> 00:08:18,240
+dots you might have wondered what they
+
+211
+00:08:18,240 --> 00:08:20,479
+are in blender that's called your origin
+
+212
+00:08:20,479 --> 00:08:22,960
+point and it's used for a lot of things
+
+213
+00:08:22,960 --> 00:08:24,599
+like if you rotate an object you can see
+
+214
+00:08:24,599 --> 00:08:26,599
+it's rotating from the point of that
+
+215
+00:08:26,599 --> 00:08:30,039
+origin Point um like physics a bunch of
+
+216
+00:08:30,039 --> 00:08:31,720
+things use the origin point the best way
+
+217
+00:08:31,720 --> 00:08:33,120
+to think of it is like the center of
+
+218
+00:08:33,120 --> 00:08:35,279
+mass for the object so generally
+
+219
+00:08:35,279 --> 00:08:36,599
+speaking as a rule of thumb you want it
+
+220
+00:08:36,599 --> 00:08:38,240
+to be in the center of the object and
+
+221
+00:08:38,240 --> 00:08:40,000
+you can do it very quickly you select
+
+222
+00:08:40,000 --> 00:08:42,000
+multiple objects you want to clear its
+
+223
+00:08:42,000 --> 00:08:44,839
+uh origin Point shift select all of them
+
+224
+00:08:44,839 --> 00:08:46,880
+and then right click and then say set
+
+225
+00:08:46,880 --> 00:08:50,519
+origin origin to geometry and now you
+
+226
+00:08:50,519 --> 00:08:52,120
+can see it's put it in the middle and
+
+227
+00:08:52,120 --> 00:08:54,480
+now our curve is actually based on the
+
+228
+00:08:54,480 --> 00:08:56,120
+uh starting in the middle which is what
+
+229
+00:08:56,120 --> 00:08:59,160
+we want so y for us now I need to apply
+
+230
+00:08:59,160 --> 00:09:01,279
+app this or else the next part it'll go
+
+231
+00:09:01,279 --> 00:09:03,880
+wonky so apply your simple to form so
+
+232
+00:09:03,880 --> 00:09:07,440
+that it's actually uh yeah uh realized
+
+233
+00:09:07,440 --> 00:09:09,640
+onto the uh onto the mesh okay so going
+
+234
+00:09:09,640 --> 00:09:11,680
+to your outline you can see we've well
+
+235
+00:09:11,680 --> 00:09:13,279
+we started from humble beginnings but
+
+236
+00:09:13,279 --> 00:09:15,720
+we've now got too much going on and it's
+
+237
+00:09:15,720 --> 00:09:17,040
+it's all starting to get a little bit
+
+238
+00:09:17,040 --> 00:09:19,959
+chaotic so the way you organize things
+
+239
+00:09:19,959 --> 00:09:22,600
+in your outline and in blender generally
+
+240
+00:09:22,600 --> 00:09:25,079
+uh is uh you can group things together
+
+241
+00:09:25,079 --> 00:09:27,560
+um by creating collections so by default
+
+242
+00:09:27,560 --> 00:09:28,680
+we've actually got one collection
+
+243
+00:09:28,680 --> 00:09:31,079
+already just called collection but we
+
+244
+00:09:31,079 --> 00:09:33,240
+can create new collections by this
+
+245
+00:09:33,240 --> 00:09:34,480
+little button in the top right hand
+
+246
+00:09:34,480 --> 00:09:36,800
+corner to create new collection um and I
+
+247
+00:09:36,800 --> 00:09:39,360
+want to create it outside of our I mean
+
+248
+00:09:39,360 --> 00:09:40,680
+I don't actually know if we need like I
+
+249
+00:09:40,680 --> 00:09:42,279
+don't know why it creates a collection
+
+250
+00:09:42,279 --> 00:09:44,320
+for you for no I mean you could just
+
+251
+00:09:44,320 --> 00:09:46,519
+it's in the scene collection anyways I
+
+252
+00:09:46,519 --> 00:09:48,160
+don't know if we actually need that one
+
+253
+00:09:48,160 --> 00:09:49,800
+um so we create a new collection just by
+
+254
+00:09:49,800 --> 00:09:51,920
+hitting that and we can double click it
+
+255
+00:09:51,920 --> 00:09:53,640
+to rename it to be whatever it is we
+
+256
+00:09:53,640 --> 00:09:57,480
+want so I'm going to call this sprinkles
+
+257
+00:09:57,480 --> 00:10:00,399
+okay um and because we have two types of
+
+258
+00:10:00,399 --> 00:10:02,519
+sprinkles we have the sphere round
+
+259
+00:10:02,519 --> 00:10:04,079
+sprinkle and then we have these long
+
+260
+00:10:04,079 --> 00:10:07,040
+sprinkles I'm going to create two other
+
+261
+00:10:07,040 --> 00:10:10,399
+um collections within this collection so
+
+262
+00:10:10,399 --> 00:10:11,959
+hitting new again you can see it's
+
+263
+00:10:11,959 --> 00:10:13,600
+placed it underneath it and I'm going to
+
+264
+00:10:13,600 --> 00:10:16,320
+call this one round and then clicking
+
+265
+00:10:16,320 --> 00:10:17,720
+sprinkles again I'll add another
+
+266
+00:10:17,720 --> 00:10:21,040
+collection and this one I will call long
+
+267
+00:10:21,040 --> 00:10:24,680
+oh wait sorry this one long there we go
+
+268
+00:10:24,680 --> 00:10:26,600
+okay so to move something to a
+
+269
+00:10:26,600 --> 00:10:28,240
+collection you can do it one of two ways
+
+270
+00:10:28,240 --> 00:10:29,560
+one you can select
+
+271
+00:10:29,560 --> 00:10:31,880
+the uh the sphere which is the round
+
+272
+00:10:31,880 --> 00:10:33,680
+remember it's this little guy over here
+
+273
+00:10:33,680 --> 00:10:35,800
+the little tiny round sprinkle you can
+
+274
+00:10:35,800 --> 00:10:38,240
+just drag that into the uh that
+
+275
+00:10:38,240 --> 00:10:39,440
+collection and you can see it's now
+
+276
+00:10:39,440 --> 00:10:41,440
+moved it there the other way is in your
+
+277
+00:10:41,440 --> 00:10:44,040
+3D viewport if you select all of the
+
+278
+00:10:44,040 --> 00:10:45,880
+objects that you want to move to a new
+
+279
+00:10:45,880 --> 00:10:48,519
+collection hit M and it brings up this
+
+280
+00:10:48,519 --> 00:10:52,000
+and you just say move to the sprinkles
+
+281
+00:10:52,000 --> 00:10:54,720
+long sub collection there we go and now
+
+282
+00:10:54,720 --> 00:10:57,040
+they're all moved there and now this one
+
+283
+00:10:57,040 --> 00:10:58,839
+here if you wanted to give this a name
+
+284
+00:10:58,839 --> 00:11:02,000
+you could um we got the camera we got
+
+285
+00:11:02,000 --> 00:11:03,920
+the light we got the plane yeah you know
+
+286
+00:11:03,920 --> 00:11:07,000
+what let's move our donut our donut and
+
+287
+00:11:07,000 --> 00:11:08,360
+our icing let's move that to a new
+
+288
+00:11:08,360 --> 00:11:10,800
+collection as well so M and we can
+
+289
+00:11:10,800 --> 00:11:12,480
+actually create a new collection from
+
+290
+00:11:12,480 --> 00:11:14,399
+the move uh options as well so I'm going
+
+291
+00:11:14,399 --> 00:11:17,560
+to go new and let's call this do let's
+
+292
+00:11:17,560 --> 00:11:19,200
+say Donuts cuz we're going to duplicate
+
+293
+00:11:19,200 --> 00:11:21,279
+and make more Donuts in the future so
+
+294
+00:11:21,279 --> 00:11:24,040
+Donuts okay great so now this one here
+
+295
+00:11:24,040 --> 00:11:25,360
+has got the camera the light and the
+
+296
+00:11:25,360 --> 00:11:27,120
+plane so I'm going to do what I
+
+297
+00:11:27,120 --> 00:11:28,399
+sometimes do with a scene is just call
+
+298
+00:11:28,399 --> 00:11:31,399
+this one EnV which is for environment
+
+299
+00:11:31,399 --> 00:11:32,720
+since this is a tutorial I'll actually
+
+300
+00:11:32,720 --> 00:11:34,240
+just type it out I'm not going to be
+
+301
+00:11:34,240 --> 00:11:36,600
+lazy environment Okay so we've got some
+
+302
+00:11:36,600 --> 00:11:38,959
+organization in our scene so that as we
+
+303
+00:11:38,959 --> 00:11:40,560
+add and grow our scene it's not going to
+
+304
+00:11:40,560 --> 00:11:44,760
+get too uh crazy all right so it's also
+
+305
+00:11:44,760 --> 00:11:45,920
+good that we've created collections
+
+306
+00:11:45,920 --> 00:11:47,440
+because we can now use that to scatter
+
+307
+00:11:47,440 --> 00:11:50,600
+across the geometry notes so with our uh
+
+308
+00:11:50,600 --> 00:11:52,839
+donut here so the icing and the donut
+
+309
+00:11:52,839 --> 00:11:55,320
+we're going to create a duplicate and uh
+
+310
+00:11:55,320 --> 00:11:56,720
+this is going to be the variant with the
+
+311
+00:11:56,720 --> 00:12:00,880
+long sprinkles so shift D and then hit X
+
+312
+00:12:00,880 --> 00:12:03,560
+to move it along the uh x axis so let's
+
+313
+00:12:03,560 --> 00:12:05,800
+just place next to it and then clicking
+
+314
+00:12:05,800 --> 00:12:08,399
+your icing you can see we've got the
+
+315
+00:12:08,399 --> 00:12:10,519
+modify stack that we've uh we created
+
+316
+00:12:10,519 --> 00:12:12,680
+the geometry nodes on and if we were to
+
+317
+00:12:12,680 --> 00:12:14,360
+start tweaking this and make this look
+
+318
+00:12:14,360 --> 00:12:17,040
+like long sprinkles it would apply to
+
+319
+00:12:17,040 --> 00:12:19,160
+this one over here because we can see
+
+320
+00:12:19,160 --> 00:12:20,920
+that little number next to it and that
+
+321
+00:12:20,920 --> 00:12:22,600
+number if you hover over it I think we
+
+322
+00:12:22,600 --> 00:12:24,519
+mentioned it before but displays the
+
+323
+00:12:24,519 --> 00:12:27,600
+number of users sharing this data so any
+
+324
+00:12:27,600 --> 00:12:29,040
+change you make to this is going to be
+
+325
+00:12:29,040 --> 00:12:32,160
+reflected on that one um so if we click
+
+326
+00:12:32,160 --> 00:12:34,880
+the two button it's now independent so
+
+327
+00:12:34,880 --> 00:12:37,000
+we'll now have two different versions so
+
+328
+00:12:37,000 --> 00:12:39,519
+the one on the left the one the original
+
+329
+00:12:39,519 --> 00:12:43,199
+one let's call that round sprinkles and
+
+330
+00:12:43,199 --> 00:12:45,839
+the one on the right let's call that one
+
+331
+00:12:45,839 --> 00:12:48,399
+long brain fart for a second there long
+
+332
+00:12:48,399 --> 00:12:52,040
+sprinkles okay and now with that object
+
+333
+00:12:52,040 --> 00:12:54,800
+selected let's go back to the geometry
+
+334
+00:12:54,800 --> 00:12:57,480
+nodes tab okay all right so make sure
+
+335
+00:12:57,480 --> 00:12:59,000
+you're looking at the right object make
+
+336
+00:12:59,000 --> 00:13:00,199
+sure it's the the one with long
+
+337
+00:13:00,199 --> 00:13:02,839
+sprinkles in the name and if we were to
+
+338
+00:13:02,839 --> 00:13:05,959
+start editing here we would have one we
+
+339
+00:13:05,959 --> 00:13:08,199
+we would have made one big mistake and
+
+340
+00:13:08,199 --> 00:13:09,800
+it would it's because this is actually
+
+341
+00:13:09,800 --> 00:13:12,480
+not the long sprinkles node setup we
+
+342
+00:13:12,480 --> 00:13:15,079
+click the pin button remember that the
+
+343
+00:13:15,079 --> 00:13:16,839
+pin means it's always going to be there
+
+344
+00:13:16,839 --> 00:13:18,160
+even if it's another object with a
+
+345
+00:13:18,160 --> 00:13:20,199
+different geometry node setup so
+
+346
+00:13:20,199 --> 00:13:22,320
+remember yeah it's a common mistake you
+
+347
+00:13:22,320 --> 00:13:23,800
+always do it you forget you've got pin
+
+348
+00:13:23,800 --> 00:13:25,600
+on and you start changing things and it
+
+349
+00:13:25,600 --> 00:13:27,399
+does the wrong one so make sure you're
+
+350
+00:13:27,399 --> 00:13:28,800
+looking at the one that has long
+
+351
+00:13:28,800 --> 00:13:31,959
+sprinkles in the name okay so the bit
+
+352
+00:13:31,959 --> 00:13:33,519
+the bit that obviously matters the most
+
+353
+00:13:33,519 --> 00:13:37,440
+is this this bit where it goes into our
+
+354
+00:13:37,440 --> 00:13:39,519
+instance on points node and we've
+
+355
+00:13:39,519 --> 00:13:42,240
+currently got it connected to a sphere
+
+356
+00:13:42,240 --> 00:13:43,839
+so I mean you could change that to
+
+357
+00:13:43,839 --> 00:13:45,560
+another object but that won't help us
+
+358
+00:13:45,560 --> 00:13:47,519
+because we've got more than one object
+
+359
+00:13:47,519 --> 00:13:48,839
+we want to scatter four different
+
+360
+00:13:48,839 --> 00:13:51,240
+objects across it so we can delete that
+
+361
+00:13:51,240 --> 00:13:54,720
+and instead just drag from your outliner
+
+362
+00:13:54,720 --> 00:13:57,720
+don't just uh if if you click on it um
+
+363
+00:13:57,720 --> 00:13:59,240
+oh yeah yeah if you click off it it's
+
+364
+00:13:59,240 --> 00:14:00,959
+just going to disappear so make sure you
+
+365
+00:14:00,959 --> 00:14:03,000
+don't do it uh you've clicked the icing
+
+366
+00:14:03,000 --> 00:14:05,839
+but you need to click and drag into your
+
+367
+00:14:05,839 --> 00:14:09,040
+node setup and now it's got a collection
+
+368
+00:14:09,040 --> 00:14:11,399
+info node rather than object info node
+
+369
+00:14:11,399 --> 00:14:14,839
+drag that into your instance input and
+
+370
+00:14:14,839 --> 00:14:17,160
+nothing happened it has actually
+
+371
+00:14:17,160 --> 00:14:19,639
+happened but it's off center in a weird
+
+372
+00:14:19,639 --> 00:14:21,959
+place why is it doing that it's because
+
+373
+00:14:21,959 --> 00:14:24,279
+of the way 3D software handles data it's
+
+374
+00:14:24,279 --> 00:14:27,399
+now doing it on its like Global or local
+
+375
+00:14:27,399 --> 00:14:29,600
+position not Rel relative to anyway it
+
+376
+00:14:29,600 --> 00:14:31,959
+doesn't matter all what you need to do
+
+377
+00:14:31,959 --> 00:14:34,360
+is check three boxes whenever you use
+
+378
+00:14:34,360 --> 00:14:38,360
+collections to scatter separate reset
+
+379
+00:14:38,360 --> 00:14:40,759
+children now it's on the mesh correctly
+
+380
+00:14:40,759 --> 00:14:43,199
+and then it's you can see it's actually
+
+381
+00:14:43,199 --> 00:14:46,320
+using all four of them on each point so
+
+382
+00:14:46,320 --> 00:14:48,199
+then you click pick instance and now
+
+383
+00:14:48,199 --> 00:14:50,279
+it's going to use one of those not all
+
+384
+00:14:50,279 --> 00:14:54,360
+four of them together okay so it's good
+
+385
+00:14:54,360 --> 00:14:57,199
+it's uh it's using it but what's going
+
+386
+00:14:57,199 --> 00:14:59,560
+on well the reason reason this one was
+
+387
+00:14:59,560 --> 00:15:01,519
+easier with its round sprinkles is that
+
+388
+00:15:01,519 --> 00:15:02,920
+the rotation of the objects didn't
+
+389
+00:15:02,920 --> 00:15:04,920
+matter because it was round now that we
+
+390
+00:15:04,920 --> 00:15:07,240
+have long sprinkles you can see the
+
+391
+00:15:07,240 --> 00:15:09,160
+rotation matters and it's currently
+
+392
+00:15:09,160 --> 00:15:12,360
+screwed up so how do we fix that the
+
+393
+00:15:12,360 --> 00:15:14,040
+first way well yeah there's a number of
+
+394
+00:15:14,040 --> 00:15:15,199
+things you need to do to make it work
+
+395
+00:15:15,199 --> 00:15:17,320
+correctly you you'll see is uh we want
+
+396
+00:15:17,320 --> 00:15:20,519
+to take the rotation of the face so the
+
+397
+00:15:20,519 --> 00:15:22,759
+face of this these mesh here we want it
+
+398
+00:15:22,759 --> 00:15:26,000
+to affect the objects right so we take
+
+399
+00:15:26,000 --> 00:15:28,720
+the output of our distribute points on
+
+400
+00:15:28,720 --> 00:15:31,120
+faces the rotation of that and drag it
+
+401
+00:15:31,120 --> 00:15:33,759
+into the rotation input of the instances
+
+402
+00:15:33,759 --> 00:15:35,920
+and now you can see it's having some
+
+403
+00:15:35,920 --> 00:15:38,519
+effect it's still not right but that is
+
+404
+00:15:38,519 --> 00:15:40,040
+because these
+
+405
+00:15:40,040 --> 00:15:42,319
+sprinkles are currently just pointed
+
+406
+00:15:42,319 --> 00:15:44,639
+upwards so it thinks okay well you want
+
+407
+00:15:44,639 --> 00:15:47,920
+to point them all outwards anyways to
+
+408
+00:15:47,920 --> 00:15:49,120
+fix that I mean you could fix it a
+
+409
+00:15:49,120 --> 00:15:50,279
+number you could actually fix it in
+
+410
+00:15:50,279 --> 00:15:52,720
+Geometry noes this is simpler so if we
+
+411
+00:15:52,720 --> 00:15:55,600
+just rotate those sprinkles along the x
+
+412
+00:15:55,600 --> 00:15:58,519
+axis so RX right and then we just want
+
+413
+00:15:58,519 --> 00:16:00,839
+to to lie them down flat so essentially
+
+414
+00:16:00,839 --> 00:16:03,639
+90° you could type in 90° or holding
+
+415
+00:16:03,639 --> 00:16:05,880
+down control we'll move it in 5°
+
+416
+00:16:05,880 --> 00:16:08,560
+increments okay so 90 and then do a
+
+417
+00:16:08,560 --> 00:16:09,440
+single
+
+418
+00:16:09,440 --> 00:16:13,000
+click okay so why has that not worked
+
+419
+00:16:13,000 --> 00:16:14,560
+well it's because as I mentioned before
+
+420
+00:16:14,560 --> 00:16:16,759
+when you're scaling or rotating things
+
+421
+00:16:16,759 --> 00:16:19,079
+it's not actually saved to the object so
+
+422
+00:16:19,079 --> 00:16:22,120
+to apply it you have to go control a and
+
+423
+00:16:22,120 --> 00:16:24,279
+then say rotation now that we've done
+
+424
+00:16:24,279 --> 00:16:26,959
+that it's worked correctly all right so
+
+425
+00:16:26,959 --> 00:16:28,920
+now you can see what I said by uh to do
+
+426
+00:16:28,920 --> 00:16:31,440
+a lot to make it work correctly um the
+
+427
+00:16:31,440 --> 00:16:33,519
+rotation is working but it's not doing
+
+428
+00:16:33,519 --> 00:16:35,319
+what you would expect and that's because
+
+429
+00:16:35,319 --> 00:16:37,000
+geometry nodes are so flexible you have
+
+430
+00:16:37,000 --> 00:16:38,959
+to tell it exactly what you want to do
+
+431
+00:16:38,959 --> 00:16:41,600
+we want actually random rotation so
+
+432
+00:16:41,600 --> 00:16:43,360
+around each of the points we don't want
+
+433
+00:16:43,360 --> 00:16:45,519
+to each have the exact same rotation we
+
+434
+00:16:45,519 --> 00:16:47,880
+need to randomize it so for that if you
+
+435
+00:16:47,880 --> 00:16:50,480
+want to tweak the rotation on anything
+
+436
+00:16:50,480 --> 00:16:52,759
+between this point here on this uh
+
+437
+00:16:52,759 --> 00:16:54,399
+dotted Blue Line let's just move that
+
+438
+00:16:54,399 --> 00:16:57,839
+out the way uh we need to add shift a
+
+439
+00:16:57,839 --> 00:16:59,720
+utility
+
+440
+00:16:59,720 --> 00:17:05,119
+rotation rotate not Ula Oiler that yes I
+
+441
+00:17:05,119 --> 00:17:07,199
+know they went with the weird
+
+442
+00:17:07,199 --> 00:17:09,119
+pronunciation I think it was a Frenchman
+
+443
+00:17:09,119 --> 00:17:11,199
+right could be German doesn't matter
+
+444
+00:17:11,199 --> 00:17:14,959
+same same right just to annoy all the
+
+445
+00:17:14,959 --> 00:17:18,039
+Europeans um anyways rotate Oiler and
+
+446
+00:17:18,039 --> 00:17:19,480
+we're just going to drop it on that line
+
+447
+00:17:19,480 --> 00:17:21,199
+till it lines up okay so nothing's
+
+448
+00:17:21,199 --> 00:17:23,240
+happened currently but with this we
+
+449
+00:17:23,240 --> 00:17:25,160
+could change the rotation of our
+
+450
+00:17:25,160 --> 00:17:27,679
+sprinkles up here but you'll notice that
+
+451
+00:17:27,679 --> 00:17:29,320
+as you rotate it's kind of weird it's
+
+452
+00:17:29,320 --> 00:17:31,240
+not the rotation that you would expect
+
+453
+00:17:31,240 --> 00:17:34,200
+for each point it's the relative to the
+
+454
+00:17:34,200 --> 00:17:36,440
+actual object as a whole right which
+
+455
+00:17:36,440 --> 00:17:37,880
+just means we need to change from object
+
+456
+00:17:37,880 --> 00:17:40,559
+to local and now as you move it around
+
+457
+00:17:40,559 --> 00:17:42,320
+you can see we're able to rotate those
+
+458
+00:17:42,320 --> 00:17:44,480
+sprinkles but again it's not changing
+
+459
+00:17:44,480 --> 00:17:46,720
+the RO like randomizing it it's giving a
+
+460
+00:17:46,720 --> 00:17:50,360
+solid value so to randomize it if we
+
+461
+00:17:50,360 --> 00:17:53,559
+drag out of the rotate by input and then
+
+462
+00:17:53,559 --> 00:17:57,039
+type in random it'll bring up uh this
+
+463
+00:17:57,039 --> 00:17:59,280
+and we're looking for random value Val
+
+464
+00:17:59,280 --> 00:18:01,640
+click and now we get this
+
+465
+00:18:01,640 --> 00:18:06,360
+ooh so this node looks kind of scary
+
+466
+00:18:06,360 --> 00:18:08,080
+right it's got a whole bunch of
+
+467
+00:18:08,080 --> 00:18:09,520
+different values in it and it says
+
+468
+00:18:09,520 --> 00:18:11,919
+vector and it's very very foreign it's
+
+469
+00:18:11,919 --> 00:18:13,480
+actually easy to understand it from a
+
+470
+00:18:13,480 --> 00:18:16,520
+float uh point of view with with the
+
+471
+00:18:16,520 --> 00:18:18,280
+random value if it's in a float State
+
+472
+00:18:18,280 --> 00:18:20,760
+it's going to generate a value from zero
+
+473
+00:18:20,760 --> 00:18:23,480
+to one on each point so if you've got
+
+474
+00:18:23,480 --> 00:18:24,640
+like 10 points one of them is going to
+
+475
+00:18:24,640 --> 00:18:27,600
+be like 015 one is going to be like 092
+
+476
+00:18:27,600 --> 00:18:30,520
+and one's you know whatever when it's in
+
+477
+00:18:30,520 --> 00:18:33,159
+Vector State it's the exact same thing
+
+478
+00:18:33,159 --> 00:18:35,039
+you've got Min and you've got Max but
+
+479
+00:18:35,039 --> 00:18:37,120
+there are three values and the reason
+
+480
+00:18:37,120 --> 00:18:39,360
+for that is that there are three axes
+
+481
+00:18:39,360 --> 00:18:41,960
+there's the x axis there's the y axis
+
+482
+00:18:41,960 --> 00:18:43,440
+and there's the Zed
+
+483
+00:18:43,440 --> 00:18:46,760
+axis and same here right so you're able
+
+484
+00:18:46,760 --> 00:18:49,600
+to Define what type of rotation on each
+
+485
+00:18:49,600 --> 00:18:52,520
+axis so if we set both uh by the way if
+
+486
+00:18:52,520 --> 00:18:53,919
+you want to change multiple values at
+
+487
+00:18:53,919 --> 00:18:55,960
+once in blender um you can just click
+
+488
+00:18:55,960 --> 00:18:58,760
+and drag down and then you can uh change
+
+489
+00:18:58,760 --> 00:19:00,960
+all of them so we set all of them to
+
+490
+00:19:00,960 --> 00:19:03,640
+zero and uh now you could see this
+
+491
+00:19:03,640 --> 00:19:05,240
+bottom one is going to be the Zed
+
+492
+00:19:05,240 --> 00:19:07,320
+because it's XY Z it doesn't tell you
+
+493
+00:19:07,320 --> 00:19:08,600
+like I don't know because it's Vector
+
+494
+00:19:08,600 --> 00:19:10,520
+math I guess it's there's other areas of
+
+495
+00:19:10,520 --> 00:19:13,919
+PL anyway but this this is the Zed axis
+
+496
+00:19:13,919 --> 00:19:16,240
+if we increase this one you can see
+
+497
+00:19:16,240 --> 00:19:17,480
+that's the main one that we want to
+
+498
+00:19:17,480 --> 00:19:19,400
+change right because that's the one that
+
+499
+00:19:19,400 --> 00:19:22,000
+makes uh the most difference now you
+
+500
+00:19:22,000 --> 00:19:23,280
+might also know looking at this you're
+
+501
+00:19:23,280 --> 00:19:24,760
+probably thinking like okay well we need
+
+502
+00:19:24,760 --> 00:19:27,600
+to rotate it by 360° so we would set
+
+503
+00:19:27,600 --> 00:19:30,039
+this to 300 60 but you can see they're
+
+504
+00:19:30,039 --> 00:19:34,039
+more than rotating fully already so what
+
+505
+00:19:34,039 --> 00:19:38,480
+value is this exactly this is radians oh
+
+506
+00:19:38,480 --> 00:19:41,600
+just to get real so radians degrees
+
+507
+00:19:41,600 --> 00:19:43,320
+actually like I had to ask chat gbt
+
+508
+00:19:43,320 --> 00:19:44,840
+before I recorded this what's the
+
+509
+00:19:44,840 --> 00:19:47,080
+difference radians are more mathematical
+
+510
+00:19:47,080 --> 00:19:49,360
+and easier for mathematical equations uh
+
+511
+00:19:49,360 --> 00:19:51,799
+it's uh it's the
+
+512
+00:19:51,799 --> 00:19:56,880
+circumference of Pi No 2 pi is the
+
+513
+00:19:56,880 --> 00:19:59,240
+circumference look obviously I don't
+
+514
+00:19:59,240 --> 00:20:02,080
+know um but what I'm trying to tell you
+
+515
+00:20:02,080 --> 00:20:05,880
+is it's you just need double pi to to
+
+516
+00:20:05,880 --> 00:20:08,799
+make it 360° which is
+
+517
+00:20:08,799 --> 00:20:11,760
+actually to to make it really
+
+518
+00:20:11,760 --> 00:20:14,600
+complicated it's to so double Pi so Pi
+
+519
+00:20:14,600 --> 00:20:16,480
+is uh
+
+520
+00:20:16,480 --> 00:20:20,440
+3142 to is double that and uh anyways
+
+521
+00:20:20,440 --> 00:20:22,080
+you get the idea so you can type in to
+
+522
+00:20:22,080 --> 00:20:23,360
+and it'll actually give you the correct
+
+523
+00:20:23,360 --> 00:20:28,200
+value so that's 360° rotation um we also
+
+524
+00:20:28,200 --> 00:20:30,559
+want it cuz you can see this is the
+
+525
+00:20:30,559 --> 00:20:32,520
+other axes like the the middle one
+
+526
+00:20:32,520 --> 00:20:34,480
+spinning around so we also want it on
+
+527
+00:20:34,480 --> 00:20:36,559
+that one cuz we've got a curved one so
+
+528
+00:20:36,559 --> 00:20:39,520
+let's make that towel and then this top
+
+529
+00:20:39,520 --> 00:20:41,480
+one is the X which is actually going to
+
+530
+00:20:41,480 --> 00:20:43,520
+make it like wonky like so these will be
+
+531
+00:20:43,520 --> 00:20:46,360
+like seesing up so if you increase that
+
+532
+00:20:46,360 --> 00:20:48,039
+that's where it gets crazy and you don't
+
+533
+00:20:48,039 --> 00:20:50,559
+really want to use that um you do want a
+
+534
+00:20:50,559 --> 00:20:52,360
+little bit though because it it would
+
+535
+00:20:52,360 --> 00:20:53,840
+make sense if they're sprinkles they're
+
+536
+00:20:53,840 --> 00:20:55,960
+not going to be completely flat you're
+
+537
+00:20:55,960 --> 00:20:58,320
+going to have some variance where like
+
+538
+00:20:58,320 --> 00:21:00,679
+some bit has absorbed into the icing at
+
+539
+00:21:00,679 --> 00:21:02,600
+a different angle than another but just
+
+540
+00:21:02,600 --> 00:21:04,280
+not too much essentially or else it
+
+541
+00:21:04,280 --> 00:21:06,360
+starts to look like uh like little
+
+542
+00:21:06,360 --> 00:21:09,640
+marshmallows or whatever all over it um
+
+543
+00:21:09,640 --> 00:21:11,799
+but guys that's roughly it that's the
+
+544
+00:21:11,799 --> 00:21:13,799
+hard work that was I mean I know that
+
+545
+00:21:13,799 --> 00:21:15,240
+was very technical but it was really it
+
+546
+00:21:15,240 --> 00:21:17,720
+was just two notes rotate Oiler set it
+
+547
+00:21:17,720 --> 00:21:19,880
+to local and then this random value and
+
+548
+00:21:19,880 --> 00:21:22,159
+we're changing that to rotate and we did
+
+549
+00:21:22,159 --> 00:21:25,200
+it we got nice looking rotation now one
+
+550
+00:21:25,200 --> 00:21:28,640
+thing we do have to change is
+
+551
+00:21:28,640 --> 00:21:31,600
+the distance Min so because these longer
+
+552
+00:21:31,600 --> 00:21:33,919
+sprinkles obviously are bigger then the
+
+553
+00:21:33,919 --> 00:21:35,840
+distance Min has to change as well so we
+
+554
+00:21:35,840 --> 00:21:37,159
+can change that to something that makes
+
+555
+00:21:37,159 --> 00:21:38,720
+sense let's go
+
+556
+00:21:38,720 --> 00:21:41,559
+04 H that might have actually been
+
+557
+00:21:41,559 --> 00:21:44,120
+pretty perfect let's try
+
+558
+00:21:44,120 --> 00:21:46,880
+three three's got a little bit oh
+
+559
+00:21:46,880 --> 00:21:49,480
+actually you know what the other thing I
+
+560
+00:21:49,480 --> 00:21:51,440
+again looking at reference I like those
+
+561
+00:21:51,440 --> 00:21:53,039
+big chunky looking sprinkles so I want
+
+562
+00:21:53,039 --> 00:21:56,159
+these to be bigger so we could you know
+
+563
+00:21:56,159 --> 00:21:58,279
+alter the scale of the actual sprinkles
+
+564
+00:21:58,279 --> 00:21:59,520
+but we're working with geometry nodes
+
+565
+00:21:59,520 --> 00:22:00,880
+and we've actually got a scale value
+
+566
+00:22:00,880 --> 00:22:02,520
+right here so we could change it here
+
+567
+00:22:02,520 --> 00:22:04,720
+just as easily so the scale dragging
+
+568
+00:22:04,720 --> 00:22:06,600
+down and again there's not just one
+
+569
+00:22:06,600 --> 00:22:09,600
+value there's three axis so XY Z so drag
+
+570
+00:22:09,600 --> 00:22:11,520
+down on all
+
+571
+00:22:11,520 --> 00:22:14,480
+1.5 is going to give us some nice big
+
+572
+00:22:14,480 --> 00:22:16,880
+chunky looking sprinkles and now this
+
+573
+00:22:16,880 --> 00:22:18,760
+distance value needs to be a lot bigger
+
+574
+00:22:18,760 --> 00:22:20,559
+so let's go
+
+575
+00:22:20,559 --> 00:22:23,400
+06 that's actually pretty good I I'm
+
+576
+00:22:23,400 --> 00:22:25,880
+getting pretty good at nailing it no no
+
+577
+00:22:25,880 --> 00:22:27,679
+no I was right before there's always
+
+578
+00:22:27,679 --> 00:22:29,240
+going to be some overlap right you're
+
+579
+00:22:29,240 --> 00:22:31,520
+not going to be able to stop it cuz it's
+
+580
+00:22:31,520 --> 00:22:34,120
+it's not look doing object like
+
+581
+00:22:34,120 --> 00:22:36,080
+collisions it's nothing like that it's a
+
+582
+00:22:36,080 --> 00:22:38,480
+very simple again it's doing a point and
+
+583
+00:22:38,480 --> 00:22:40,640
+then it's creating a radius around it
+
+584
+00:22:40,640 --> 00:22:43,000
+and if you do the correct amount which
+
+585
+00:22:43,000 --> 00:22:44,600
+for this is probably something like this
+
+586
+00:22:44,600 --> 00:22:46,360
+then it looks way too predictable and
+
+587
+00:22:46,360 --> 00:22:49,840
+boring which we don't want so uh 0.6
+
+588
+00:22:49,840 --> 00:22:51,720
+looks pretty good for me with a scale of
+
+589
+00:22:51,720 --> 00:22:56,600
+1.5 for these and that is it um I was
+
+590
+00:22:56,600 --> 00:22:59,120
+going to put in the uh random color in
+
+591
+00:22:59,120 --> 00:23:00,559
+this part of the tutorial but I think
+
+592
+00:23:00,559 --> 00:23:02,480
+we've gone over already so join me in
+
+593
+00:23:02,480 --> 00:23:04,559
+the next part and we will finally add
+
+594
+00:23:04,559 --> 00:23:06,960
+some color to our sprinkles and make
+
+595
+00:23:06,960 --> 00:23:09,039
+this look nice so join me in the next
+
+596
+00:23:09,039 --> 00:23:11,679
+part
+

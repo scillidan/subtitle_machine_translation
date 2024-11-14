@@ -1,0 +1,1952 @@
+1
+00:00:00,120 --> 00:00:02,399
+now we know how blender functions let's
+
+2
+00:00:02,399 --> 00:00:06,520
+start building that donut so as before
+
+3
+00:00:06,520 --> 00:00:08,440
+Let's uh well first of all just to
+
+4
+00:00:08,440 --> 00:00:10,000
+repeat make sure you are working with a
+
+5
+00:00:10,000 --> 00:00:12,480
+new scene completely new scene don't
+
+6
+00:00:12,480 --> 00:00:14,120
+want any remaining monkey heads lying
+
+7
+00:00:14,120 --> 00:00:17,240
+around let's begin fresh slate and let's
+
+8
+00:00:17,240 --> 00:00:19,279
+delete our default Cube just with the
+
+9
+00:00:19,279 --> 00:00:21,160
+delete key and let's replace it with a
+
+10
+00:00:21,160 --> 00:00:22,519
+new object you might remember the hot
+
+11
+00:00:22,519 --> 00:00:25,480
+key for that is shift a and as I
+
+12
+00:00:25,480 --> 00:00:27,880
+mentioned before you usually want what
+
+13
+00:00:27,880 --> 00:00:29,400
+is underneath mesh cuz these are your
+
+14
+00:00:29,400 --> 00:00:30,560
+Primitives
+
+15
+00:00:30,560 --> 00:00:32,079
+so we want to start with something that
+
+16
+00:00:32,079 --> 00:00:34,120
+most resembles what it is we're building
+
+17
+00:00:34,120 --> 00:00:35,680
+you if it was a house you might start
+
+18
+00:00:35,680 --> 00:00:37,360
+with a cube if it was a vase you might
+
+19
+00:00:37,360 --> 00:00:39,719
+start with a cylinder in our case we
+
+20
+00:00:39,719 --> 00:00:42,399
+want the donut shaped one although
+
+21
+00:00:42,399 --> 00:00:44,200
+mathematicians call it a Taurus for some
+
+22
+00:00:44,200 --> 00:00:47,239
+reason so let's add that now if I zoom
+
+23
+00:00:47,239 --> 00:00:50,440
+in by scrolling up we can see we have
+
+24
+00:00:50,440 --> 00:00:52,559
+something resembling a dut looks like a
+
+25
+00:00:52,559 --> 00:00:54,640
+pretty weak looking dut you know very
+
+26
+00:00:54,640 --> 00:00:56,800
+flimsy looks like the the doughnut
+
+27
+00:00:56,800 --> 00:00:58,280
+before it's cooked when they just drop
+
+28
+00:00:58,280 --> 00:00:59,640
+it into the vat and it's just this
+
+29
+00:00:59,640 --> 00:01:04,199
+little wispy thing um so immediately
+
+30
+00:01:04,199 --> 00:01:06,799
+after you do some actions in blender you
+
+31
+00:01:06,799 --> 00:01:08,840
+have options to change it and the
+
+32
+00:01:08,840 --> 00:01:10,320
+options are hidden down here in the
+
+33
+00:01:10,320 --> 00:01:11,759
+bottom left hand corner you see a little
+
+34
+00:01:11,759 --> 00:01:14,119
+box and if you click that box you see
+
+35
+00:01:14,119 --> 00:01:16,479
+options and look we can change the
+
+36
+00:01:16,479 --> 00:01:19,040
+dimensions of our Taurus now something
+
+37
+00:01:19,040 --> 00:01:20,960
+to note is that these options in blender
+
+38
+00:01:20,960 --> 00:01:23,680
+only appear immediately after you have
+
+39
+00:01:23,680 --> 00:01:25,960
+done that action if you do another
+
+40
+00:01:25,960 --> 00:01:28,840
+action like say deselect your Taurus by
+
+41
+00:01:28,840 --> 00:01:31,680
+mistake it's gone right because blender
+
+42
+00:01:31,680 --> 00:01:33,720
+has assumed you have moved on you've
+
+43
+00:01:33,720 --> 00:01:36,600
+accepted the state of your donut and
+
+44
+00:01:36,600 --> 00:01:38,880
+this is the one you want right now if
+
+45
+00:01:38,880 --> 00:01:40,560
+you haven't done anything drastic or
+
+46
+00:01:40,560 --> 00:01:42,640
+changed this object in some severe way
+
+47
+00:01:42,640 --> 00:01:44,840
+you can temporarily bring it back by
+
+48
+00:01:44,840 --> 00:01:47,600
+hitting F9 I never actually remember
+
+49
+00:01:47,600 --> 00:01:49,640
+that hotkey I just remember that
+
+50
+00:01:49,640 --> 00:01:52,840
+immediately after I have uh added an
+
+51
+00:01:52,840 --> 00:01:54,520
+object if I want to tweak it now's my
+
+52
+00:01:54,520 --> 00:01:56,320
+chance before I move on to something
+
+53
+00:01:56,320 --> 00:01:58,960
+else okay so we could change you know
+
+54
+00:01:58,960 --> 00:02:02,000
+the size of it here we can also change
+
+55
+00:02:02,000 --> 00:02:04,039
+the resolution I'll use the term
+
+56
+00:02:04,039 --> 00:02:08,038
+resolution Loosely um to uh to make it
+
+57
+00:02:08,038 --> 00:02:10,959
+higher or lower Fidelity and a mistake
+
+58
+00:02:10,959 --> 00:02:13,280
+that a lot of beginners make and I say
+
+59
+00:02:13,280 --> 00:02:14,840
+this because this was the exact mistake
+
+60
+00:02:14,840 --> 00:02:17,200
+I made way back in 2003 when I started
+
+61
+00:02:17,200 --> 00:02:19,680
+learning blender is they go well I need
+
+62
+00:02:19,680 --> 00:02:23,080
+a a realistic looking donut so I guess I
+
+63
+00:02:23,080 --> 00:02:27,120
+need to go really high resolution I
+
+64
+00:02:27,120 --> 00:02:29,040
+remember my first project one of my
+
+65
+00:02:29,040 --> 00:02:31,280
+first projects was for a high school
+
+66
+00:02:31,280 --> 00:02:32,800
+film project and I wanted to have a
+
+67
+00:02:32,800 --> 00:02:35,440
+closeup of a face didn't realize faces
+
+68
+00:02:35,440 --> 00:02:37,239
+were going to be difficult but I went
+
+69
+00:02:37,239 --> 00:02:39,599
+really high poly and then it was just an
+
+70
+00:02:39,599 --> 00:02:41,840
+absolute nightmare to work with so the
+
+71
+00:02:41,840 --> 00:02:43,440
+problem the reason you don't want this
+
+72
+00:02:43,440 --> 00:02:45,480
+is that for starters things that are
+
+73
+00:02:45,480 --> 00:02:47,959
+high poly are very slow to render and
+
+74
+00:02:47,959 --> 00:02:49,400
+they're very hard to work with if you
+
+75
+00:02:49,400 --> 00:02:51,760
+want to tweak the shape of it but also
+
+76
+00:02:51,760 --> 00:02:54,599
+as you learn and you grow with 3D you'll
+
+77
+00:02:54,599 --> 00:02:57,280
+discover that it is a lot easier to add
+
+78
+00:02:57,280 --> 00:02:59,080
+resolution to something later on but is
+
+79
+00:02:59,080 --> 00:03:01,400
+very difficult to take it away if you've
+
+80
+00:03:01,400 --> 00:03:02,720
+already built it into it and you don't
+
+81
+00:03:02,720 --> 00:03:04,920
+need it so long way to say what we
+
+82
+00:03:04,920 --> 00:03:08,560
+actually want is to have as few Poes
+
+83
+00:03:08,560 --> 00:03:11,720
+these are called poy uh as you can get
+
+84
+00:03:11,720 --> 00:03:13,560
+away with so I'm going to go with 32
+
+85
+00:03:13,560 --> 00:03:16,000
+major and 12 minor and don't worry that
+
+86
+00:03:16,000 --> 00:03:17,879
+it looks all Jagged because we will fix
+
+87
+00:03:17,879 --> 00:03:20,680
+that in a moment now the major and minor
+
+88
+00:03:20,680 --> 00:03:23,200
+this is really up to you but I find that
+
+89
+00:03:23,200 --> 00:03:25,120
+something that looks uh looks kind of
+
+90
+00:03:25,120 --> 00:03:27,640
+chunky like a fat donut just looks
+
+91
+00:03:27,640 --> 00:03:29,239
+really delicious so I'm going with
+
+92
+00:03:29,239 --> 00:03:30,280
+something
+
+93
+00:03:30,280 --> 00:03:33,120
+around about this size okay and once I'm
+
+94
+00:03:33,120 --> 00:03:35,159
+happy with this once I'm ready to click
+
+95
+00:03:35,159 --> 00:03:37,560
+off I click off the options are gone and
+
+96
+00:03:37,560 --> 00:03:40,239
+this is it this is the donut that I am
+
+97
+00:03:40,239 --> 00:03:42,400
+now working with so how do we make this
+
+98
+00:03:42,400 --> 00:03:45,720
+look higher resolution less Jagged well
+
+99
+00:03:45,720 --> 00:03:48,400
+one way is to use smooth shading so if
+
+100
+00:03:48,400 --> 00:03:50,799
+you rightclick with your object selected
+
+101
+00:03:50,799 --> 00:03:52,799
+go to shade
+
+102
+00:03:52,799 --> 00:03:55,120
+smooth and look at that this is
+
+103
+00:03:55,120 --> 00:03:57,480
+immediately better without getting too
+
+104
+00:03:57,480 --> 00:03:59,720
+technical this is kind of a fakery it's
+
+105
+00:03:59,720 --> 00:04:01,720
+sort of like the Shader is telling the
+
+106
+00:04:01,720 --> 00:04:04,519
+renderer that this is a really high poly
+
+107
+00:04:04,519 --> 00:04:06,599
+dense mesh when it really isn't it's
+
+108
+00:04:06,599 --> 00:04:08,720
+just basically kind of like averaging
+
+109
+00:04:08,720 --> 00:04:12,640
+out uh V uh faces and anyway it's very
+
+110
+00:04:12,640 --> 00:04:13,959
+technical but basically means it's not
+
+111
+00:04:13,959 --> 00:04:15,239
+going to add anything to your render
+
+112
+00:04:15,239 --> 00:04:17,120
+time but it's going to look smoother and
+
+113
+00:04:17,120 --> 00:04:19,160
+so this is generally what you want for
+
+114
+00:04:19,160 --> 00:04:21,918
+something that is smooth and and organic
+
+115
+00:04:21,918 --> 00:04:23,680
+looking like we want if you were
+
+116
+00:04:23,680 --> 00:04:25,720
+rendering like architectural or like
+
+117
+00:04:25,720 --> 00:04:27,720
+hard surfaces like later on we're going
+
+118
+00:04:27,720 --> 00:04:29,639
+to put this on a counter then the object
+
+119
+00:04:29,639 --> 00:04:31,479
+would obviously want to be flat but in
+
+120
+00:04:31,479 --> 00:04:32,960
+our case we're just going to use shade
+
+121
+00:04:32,960 --> 00:04:34,759
+smooth but you might notice that looking
+
+122
+00:04:34,759 --> 00:04:37,080
+at this especially if you go side on
+
+123
+00:04:37,080 --> 00:04:40,680
+that you've got this sort of uh Jagged
+
+124
+00:04:40,680 --> 00:04:42,560
+shape around here right so the
+
+125
+00:04:42,560 --> 00:04:44,360
+silhouette is really breaking that
+
+126
+00:04:44,360 --> 00:04:46,919
+illusion that this is a high poly or a
+
+127
+00:04:46,919 --> 00:04:49,800
+smooth looking donut but thankfully
+
+128
+00:04:49,800 --> 00:04:52,360
+rather than adding all of that complex
+
+129
+00:04:52,360 --> 00:04:54,520
+density into the mesh itself and then
+
+130
+00:04:54,520 --> 00:04:56,080
+making it hard to remove later on there
+
+131
+00:04:56,080 --> 00:04:59,240
+is another way through modifiers so if
+
+132
+00:04:59,240 --> 00:05:01,240
+we go over here to our properties right
+
+133
+00:05:01,240 --> 00:05:03,840
+this very confusing lots of option
+
+134
+00:05:03,840 --> 00:05:06,840
+looking properties click on the wrench
+
+135
+00:05:06,840 --> 00:05:10,600
+and this is the section called modifiers
+
+136
+00:05:10,600 --> 00:05:13,840
+and this is one of those uh object
+
+137
+00:05:13,840 --> 00:05:15,840
+dependent uh things so if you've got
+
+138
+00:05:15,840 --> 00:05:17,840
+your camera selected you won't see it so
+
+139
+00:05:17,840 --> 00:05:19,680
+it's only when you've got actual meshes
+
+140
+00:05:19,680 --> 00:05:21,680
+that you might see uh this uh this
+
+141
+00:05:21,680 --> 00:05:23,680
+modifier here so it's much easier to
+
+142
+00:05:23,680 --> 00:05:26,160
+explain if we just add one so up here
+
+143
+00:05:26,160 --> 00:05:28,639
+add modify and you got a range of
+
+144
+00:05:28,639 --> 00:05:30,520
+options here that can do a whole number
+
+145
+00:05:30,520 --> 00:05:32,039
+of things the one that we're looking for
+
+146
+00:05:32,039 --> 00:05:34,759
+is underneath generate and it is called
+
+147
+00:05:34,759 --> 00:05:38,440
+subdivision surface and it is a really
+
+148
+00:05:38,440 --> 00:05:40,360
+common modifier that you use all the
+
+149
+00:05:40,360 --> 00:05:42,000
+time in fact it's so common it's
+
+150
+00:05:42,000 --> 00:05:43,880
+actually you can just immediately add it
+
+151
+00:05:43,880 --> 00:05:45,600
+to any object just by hitting control
+
+152
+00:05:45,600 --> 00:05:47,479
+one but don't do that cuz we've already
+
+153
+00:05:47,479 --> 00:05:50,199
+got it so there now some of you might
+
+154
+00:05:50,199 --> 00:05:52,160
+have just discovered that your donut has
+
+155
+00:05:52,160 --> 00:05:54,319
+disappeared if that is the case you need
+
+156
+00:05:54,319 --> 00:05:56,440
+to go to edit preferences and then
+
+157
+00:05:56,440 --> 00:05:58,240
+underneath viewport where it's got
+
+158
+00:05:58,240 --> 00:06:00,600
+subdivision at the very bottom disable
+
+159
+00:06:00,600 --> 00:06:03,039
+GPU subdivision that will then make the
+
+160
+00:06:03,039 --> 00:06:05,199
+subdivision perform on your CPU instead
+
+161
+00:06:05,199 --> 00:06:07,039
+instead of your GPU which is maybe
+
+162
+00:06:07,039 --> 00:06:10,080
+nonexistent or not performing whatever
+
+163
+00:06:10,080 --> 00:06:12,400
+um but disable that and it should appear
+
+164
+00:06:12,400 --> 00:06:13,639
+but if it's already working for you
+
+165
+00:06:13,639 --> 00:06:15,319
+don't disable it keep it going cuz GPU
+
+166
+00:06:15,319 --> 00:06:17,840
+will be faster so what exactly is this
+
+167
+00:06:17,840 --> 00:06:20,000
+doing well it's a lot easier to explain
+
+168
+00:06:20,000 --> 00:06:22,720
+if we look at the shade flat mode
+
+169
+00:06:22,720 --> 00:06:24,639
+because we're not being uh tricked by
+
+170
+00:06:24,639 --> 00:06:27,919
+the the smooth shading there um if I set
+
+171
+00:06:27,919 --> 00:06:31,360
+this levels viewport to zero this is our
+
+172
+00:06:31,360 --> 00:06:33,680
+original mesh this is before we add the
+
+173
+00:06:33,680 --> 00:06:36,000
+subsurface essentially when we increase
+
+174
+00:06:36,000 --> 00:06:38,360
+this you can see that it is adding
+
+175
+00:06:38,360 --> 00:06:40,960
+resolution to our mesh and the more I
+
+176
+00:06:40,960 --> 00:06:44,240
+increase this viewport levels here uh
+
+177
+00:06:44,240 --> 00:06:46,840
+the finer and finer that detail becomes
+
+178
+00:06:46,840 --> 00:06:48,720
+so to explain it because this is such a
+
+179
+00:06:48,720 --> 00:06:51,720
+very very common uh modifier it's kind
+
+180
+00:06:51,720 --> 00:06:53,000
+of important to understand how it's
+
+181
+00:06:53,000 --> 00:06:56,440
+working you can see that uh this is uh
+
+182
+00:06:56,440 --> 00:06:58,000
+these squares here these are called
+
+183
+00:06:58,000 --> 00:07:00,120
+Faces by the way and and for each one of
+
+184
+00:07:00,120 --> 00:07:02,879
+these faces here as I add a level you
+
+185
+00:07:02,879 --> 00:07:05,879
+can see it's becoming four faces right
+
+186
+00:07:05,879 --> 00:07:07,720
+and then now if I zoomed in on this one
+
+187
+00:07:07,720 --> 00:07:10,120
+one face here if I do another level
+
+188
+00:07:10,120 --> 00:07:12,199
+that's now become four faces and then if
+
+189
+00:07:12,199 --> 00:07:14,199
+I zoom in again it's now become four
+
+190
+00:07:14,199 --> 00:07:16,960
+faces so it's exponentially adding
+
+191
+00:07:16,960 --> 00:07:19,639
+detail and you might also know that it
+
+192
+00:07:19,639 --> 00:07:21,520
+is smoothing it out as well like this
+
+193
+00:07:21,520 --> 00:07:23,360
+Jagged Edge that we've got here you can
+
+194
+00:07:23,360 --> 00:07:25,879
+see now becomes smoother so to quickly
+
+195
+00:07:25,879 --> 00:07:27,800
+visualize that if I just draw like
+
+196
+00:07:27,800 --> 00:07:31,280
+imagine you've got like a 90 Dee uh
+
+197
+00:07:31,280 --> 00:07:34,240
+corner right like this if you add a Subs
+
+198
+00:07:34,240 --> 00:07:36,120
+surf modifier what it's going to do is
+
+199
+00:07:36,120 --> 00:07:39,240
+it's going to add uh a point here right
+
+200
+00:07:39,240 --> 00:07:41,000
+because this is uh the extra detail it's
+
+201
+00:07:41,000 --> 00:07:42,479
+also going to take that point there and
+
+202
+00:07:42,479 --> 00:07:44,440
+it's going to average it out it's going
+
+203
+00:07:44,440 --> 00:07:46,280
+to average it out between these points
+
+204
+00:07:46,280 --> 00:07:47,240
+and it's going to create another one
+
+205
+00:07:47,240 --> 00:07:48,800
+there and another one there so you go
+
+206
+00:07:48,800 --> 00:07:51,639
+then from having that really hard corner
+
+207
+00:07:51,639 --> 00:07:53,000
+there to having something that looks a
+
+208
+00:07:53,000 --> 00:07:55,560
+lot smoother so it's going to take a
+
+209
+00:07:55,560 --> 00:07:57,479
+point and it's also going to uh change
+
+210
+00:07:57,479 --> 00:07:59,680
+it to make it look smoother gener
+
+211
+00:07:59,680 --> 00:08:02,520
+speaking so there we go um so now as I
+
+212
+00:08:02,520 --> 00:08:04,039
+increase this you can see it's getting
+
+213
+00:08:04,039 --> 00:08:06,000
+uh smoother and smoother now the reason
+
+214
+00:08:06,000 --> 00:08:07,599
+there are two options here you've got
+
+215
+00:08:07,599 --> 00:08:09,960
+levels viewport and levels render so
+
+216
+00:08:09,960 --> 00:08:13,120
+reminder this gray area that we operate
+
+217
+00:08:13,120 --> 00:08:15,720
+in is called our viewport the render is
+
+218
+00:08:15,720 --> 00:08:18,879
+the pretty version so as an example um
+
+219
+00:08:18,879 --> 00:08:20,120
+you could see if I just turned it off
+
+220
+00:08:20,120 --> 00:08:21,759
+for the viewboard it looks very Jagged
+
+221
+00:08:21,759 --> 00:08:23,400
+but then for my render if I increase
+
+222
+00:08:23,400 --> 00:08:25,479
+that to three if I do my render which
+
+223
+00:08:25,479 --> 00:08:27,319
+you could go up there F uh and render
+
+224
+00:08:27,319 --> 00:08:29,680
+image or remember the hotkey F12 you can
+
+225
+00:08:29,680 --> 00:08:31,840
+see that that donut is now smooth but I
+
+226
+00:08:31,840 --> 00:08:33,640
+go back and you can see it's Jagged so
+
+227
+00:08:33,640 --> 00:08:35,240
+the viewport you want to generally keep
+
+228
+00:08:35,240 --> 00:08:37,440
+it lightweight and then the render time
+
+229
+00:08:37,440 --> 00:08:39,399
+that's where you want to get uh a really
+
+230
+00:08:39,399 --> 00:08:41,399
+nice looking pretty image so you want to
+
+231
+00:08:41,399 --> 00:08:43,958
+often have two different levels um in
+
+232
+00:08:43,958 --> 00:08:45,959
+our case though I don't really think we
+
+233
+00:08:45,959 --> 00:08:48,600
+need to go beyond one even for our final
+
+234
+00:08:48,600 --> 00:08:51,959
+pretty image um because this with uh
+
+235
+00:08:51,959 --> 00:08:54,880
+shade smoothing turned on is good enough
+
+236
+00:08:54,880 --> 00:08:56,160
+and we're going to be adding more to the
+
+237
+00:08:56,160 --> 00:08:57,279
+scene later on so we don't want to make
+
+238
+00:08:57,279 --> 00:09:00,120
+it too complex so this is actually
+
+239
+00:09:00,120 --> 00:09:04,680
+pretty good okay so we have a perfect
+
+240
+00:09:04,680 --> 00:09:07,839
+dut and that's the problem it's too
+
+241
+00:09:07,839 --> 00:09:10,600
+perfect you could spend decades trying
+
+242
+00:09:10,600 --> 00:09:12,519
+to develop a machine in the real world
+
+243
+00:09:12,519 --> 00:09:14,519
+that make it that made a donut this
+
+244
+00:09:14,519 --> 00:09:17,240
+perfect and you never would this is so
+
+245
+00:09:17,240 --> 00:09:20,000
+mathematically precise that the eye will
+
+246
+00:09:20,000 --> 00:09:22,839
+always see this as looking fake so
+
+247
+00:09:22,839 --> 00:09:24,200
+that's actually a problem you learn
+
+248
+00:09:24,200 --> 00:09:26,320
+pretty quickly in 3D that things that
+
+249
+00:09:26,320 --> 00:09:28,440
+are too perfect just look fake so you
+
+250
+00:09:28,440 --> 00:09:30,440
+have to spend time making things look
+
+251
+00:09:30,440 --> 00:09:33,279
+misshapen and adding variation there
+
+252
+00:09:33,279 --> 00:09:34,760
+like you see in the real world because
+
+253
+00:09:34,760 --> 00:09:37,560
+your eye expects to see it so how do we
+
+254
+00:09:37,560 --> 00:09:39,120
+do that how do we make this doughnut
+
+255
+00:09:39,120 --> 00:09:42,160
+look a little more lumpy and interesting
+
+256
+00:09:42,160 --> 00:09:45,640
+I do that by changing the mesh itself so
+
+257
+00:09:45,640 --> 00:09:47,360
+this mode that we are in right now where
+
+258
+00:09:47,360 --> 00:09:49,720
+we can uh you know click on different
+
+259
+00:09:49,720 --> 00:09:52,120
+objects is called object mode and I know
+
+260
+00:09:52,120 --> 00:09:53,600
+that because in the top leftand corner
+
+261
+00:09:53,600 --> 00:09:55,920
+you can see we are in object mode but if
+
+262
+00:09:55,920 --> 00:09:57,880
+I click the drop down you can see I get
+
+263
+00:09:57,880 --> 00:10:00,079
+a number of other options options here
+
+264
+00:10:00,079 --> 00:10:01,800
+and these options again will change
+
+265
+00:10:01,800 --> 00:10:03,560
+depending on the object you've got
+
+266
+00:10:03,560 --> 00:10:05,360
+selected if I've got a lamp my little
+
+267
+00:10:05,360 --> 00:10:07,160
+light there selected you can see I've
+
+268
+00:10:07,160 --> 00:10:09,480
+only got object mode my camera I've only
+
+269
+00:10:09,480 --> 00:10:12,240
+got object mode but a mesh will give you
+
+270
+00:10:12,240 --> 00:10:14,800
+extra options here so let's enter into
+
+271
+00:10:14,800 --> 00:10:17,120
+edit mode
+
+272
+00:10:17,120 --> 00:10:20,399
+ooh right now you can see our mesh our
+
+273
+00:10:20,399 --> 00:10:23,320
+sorry our object has become something
+
+274
+00:10:23,320 --> 00:10:24,959
+that looks weird it's got a bunch of uh
+
+275
+00:10:24,959 --> 00:10:27,600
+little points on it with lines and very
+
+276
+00:10:27,600 --> 00:10:30,279
+technical well that's because this is
+
+277
+00:10:30,279 --> 00:10:32,399
+actually what the mesh is made up of
+
+278
+00:10:32,399 --> 00:10:33,760
+these little points here which you can
+
+279
+00:10:33,760 --> 00:10:35,959
+click on just by selecting are called
+
+280
+00:10:35,959 --> 00:10:39,120
+your vertices the singular term is
+
+281
+00:10:39,120 --> 00:10:41,720
+called vertex I never say that I like to
+
+282
+00:10:41,720 --> 00:10:43,760
+just call all of them vertices
+
+283
+00:10:43,760 --> 00:10:45,560
+regardless of whether it's one or two
+
+284
+00:10:45,560 --> 00:10:47,399
+just because you always get some
+
+285
+00:10:47,399 --> 00:10:50,360
+comments that go um actually it's called
+
+286
+00:10:50,360 --> 00:10:53,600
+vertex if it is singular anyway so these
+
+287
+00:10:53,600 --> 00:10:56,360
+are called your vertices and if you have
+
+288
+00:10:56,360 --> 00:10:58,600
+two of them joined by a line that is
+
+289
+00:10:58,600 --> 00:11:01,680
+called an edge and if you have four of
+
+290
+00:11:01,680 --> 00:11:05,120
+them forming uh a face then it's called
+
+291
+00:11:05,120 --> 00:11:09,000
+a face so with these I can quickly
+
+292
+00:11:09,000 --> 00:11:11,160
+change the shape of my object by using
+
+293
+00:11:11,160 --> 00:11:13,760
+the same hot Keys as before and if I
+
+294
+00:11:13,760 --> 00:11:16,200
+want to move this then I would simply
+
+295
+00:11:16,200 --> 00:11:19,120
+tap G right and you can see it's now
+
+296
+00:11:19,120 --> 00:11:21,000
+attached to my cursor and then if I want
+
+297
+00:11:21,000 --> 00:11:22,399
+to confirm its movement I just do a
+
+298
+00:11:22,399 --> 00:11:25,079
+single left click and there it is now if
+
+299
+00:11:25,079 --> 00:11:27,440
+I go back into object
+
+300
+00:11:27,440 --> 00:11:30,519
+mode like that you can see that my mesh
+
+301
+00:11:30,519 --> 00:11:32,839
+has changed okay and by the way the hot
+
+302
+00:11:32,839 --> 00:11:35,160
+key for jumping in and out of object and
+
+303
+00:11:35,160 --> 00:11:37,920
+edit mode is Just Tab okay so you can
+
+304
+00:11:37,920 --> 00:11:39,920
+see it's just toggling between those two
+
+305
+00:11:39,920 --> 00:11:42,279
+modes because it's so common that you
+
+306
+00:11:42,279 --> 00:11:44,120
+want to just quickly change things that
+
+307
+00:11:44,120 --> 00:11:46,839
+it's just uh easily accessible by that
+
+308
+00:11:46,839 --> 00:11:49,639
+now this is okay right but you can see
+
+309
+00:11:49,639 --> 00:11:51,760
+it's like it's got like some artifacting
+
+310
+00:11:51,760 --> 00:11:55,000
+it's like it's not the greatest lump
+
+311
+00:11:55,000 --> 00:11:56,720
+right so how do we make it look a little
+
+312
+00:11:56,720 --> 00:11:59,200
+more uh natural well I mean you could
+
+313
+00:11:59,200 --> 00:12:01,320
+you know you move one drag it out Okay
+
+314
+00:12:01,320 --> 00:12:03,000
+click and then I move oh the next one
+
+315
+00:12:03,000 --> 00:12:05,480
+next to it right I'll move that out and
+
+316
+00:12:05,480 --> 00:12:07,639
+then I'll move this one out a little bit
+
+317
+00:12:07,639 --> 00:12:09,480
+and then and then I move this one it's
+
+318
+00:12:09,480 --> 00:12:10,880
+like okay well now I've got the thing
+
+319
+00:12:10,880 --> 00:12:13,079
+but it took me like five action
+
+320
+00:12:13,079 --> 00:12:15,320
+ridiculous right no one wants to do that
+
+321
+00:12:15,320 --> 00:12:17,800
+no one's got time for that thankfully
+
+322
+00:12:17,800 --> 00:12:20,160
+there is a tool in blunder uh just for
+
+323
+00:12:20,160 --> 00:12:21,880
+this and it's called proportional
+
+324
+00:12:21,880 --> 00:12:24,000
+editing and you can enable it up there
+
+325
+00:12:24,000 --> 00:12:27,000
+in your toolbar so if you enable that
+
+326
+00:12:27,000 --> 00:12:30,279
+now if I hit G and I move it out you
+
+327
+00:12:30,279 --> 00:12:32,480
+will see I get a little ring around my
+
+328
+00:12:32,480 --> 00:12:35,240
+cursor there and that is now changing uh
+
+329
+00:12:35,240 --> 00:12:37,560
+the mesh around it now a lot of people
+
+330
+00:12:37,560 --> 00:12:38,880
+in my previous tutorials were like I
+
+331
+00:12:38,880 --> 00:12:40,760
+don't see what's what's going on you
+
+332
+00:12:40,760 --> 00:12:43,680
+have to have something selected first
+
+333
+00:12:43,680 --> 00:12:46,880
+and then when you hit G you will see uh
+
+334
+00:12:46,880 --> 00:12:50,720
+that uh that little circle of influence
+
+335
+00:12:50,720 --> 00:12:53,000
+okay now this circle of influence if I
+
+336
+00:12:53,000 --> 00:12:55,240
+scroll down sorry if I scroll up you can
+
+337
+00:12:55,240 --> 00:12:57,279
+see it's shrinking its circle of
+
+338
+00:12:57,279 --> 00:12:59,399
+influence and if I scroll down it is
+
+339
+00:12:59,399 --> 00:13:01,360
+expanding its influence so it's only
+
+340
+00:13:01,360 --> 00:13:04,279
+going to affect what is in that uh that
+
+341
+00:13:04,279 --> 00:13:08,440
+ring there okay if you are on uh yeah if
+
+342
+00:13:08,440 --> 00:13:10,160
+you don't have a mouse with a scroll
+
+343
+00:13:10,160 --> 00:13:12,040
+wheel you can also change the influence
+
+344
+00:13:12,040 --> 00:13:15,639
+by using page up and page down and if
+
+345
+00:13:15,639 --> 00:13:17,399
+you don't have page up or page down
+
+346
+00:13:17,399 --> 00:13:19,120
+because you're on a Mac keyboard then
+
+347
+00:13:19,120 --> 00:13:20,199
+what you would have to do is go to
+
+348
+00:13:20,199 --> 00:13:22,639
+keymap and then change your page up and
+
+349
+00:13:22,639 --> 00:13:24,920
+page down to something else just so that
+
+350
+00:13:24,920 --> 00:13:26,959
+you could get around that but guys you
+
+351
+00:13:26,959 --> 00:13:28,440
+got to get a mouse get a mouse with a
+
+352
+00:13:28,440 --> 00:13:30,279
+scroll wheel I think they're I don't
+
+353
+00:13:30,279 --> 00:13:32,240
+know 50 cents or just in the nearest
+
+354
+00:13:32,240 --> 00:13:34,600
+landfill somewhere get a mouse cuz it's
+
+355
+00:13:34,600 --> 00:13:36,600
+going to make uh your life in 3D a lot
+
+356
+00:13:36,600 --> 00:13:39,600
+easier okay so with this I can now uh
+
+357
+00:13:39,600 --> 00:13:42,800
+make quick work of uh of lumpy shapes
+
+358
+00:13:42,800 --> 00:13:44,680
+okay so I just drag that out okay I've
+
+359
+00:13:44,680 --> 00:13:46,320
+got a little lumpy shape there maybe I
+
+360
+00:13:46,320 --> 00:13:49,320
+go down here and I pull this up just by
+
+361
+00:13:49,320 --> 00:13:52,920
+hitting G moving it up okay so already
+
+362
+00:13:52,920 --> 00:13:55,440
+this is looking a little more natural
+
+363
+00:13:55,440 --> 00:13:57,800
+right cuz even if we were making a
+
+364
+00:13:57,800 --> 00:14:00,320
+stylized world for a Pixar movie or
+
+365
+00:14:00,320 --> 00:14:02,519
+something like that you can't have just
+
+366
+00:14:02,519 --> 00:14:05,160
+a a spherical looking donut sorry
+
+367
+00:14:05,160 --> 00:14:07,040
+spherical round looking circular
+
+368
+00:14:07,040 --> 00:14:09,040
+doughnut cuz it just your eye will see
+
+369
+00:14:09,040 --> 00:14:11,480
+it as fake so very quickly I'm able to
+
+370
+00:14:11,480 --> 00:14:14,480
+add a little bit of variation to the dut
+
+371
+00:14:14,480 --> 00:14:16,680
+um just all around it just a little bit
+
+372
+00:14:16,680 --> 00:14:20,399
+over here and you can see that I am uh
+
+373
+00:14:20,399 --> 00:14:22,519
+just changing my circle of influence
+
+374
+00:14:22,519 --> 00:14:25,279
+depending on what size of a a lump I
+
+375
+00:14:25,279 --> 00:14:26,639
+want to make so if I just want to make
+
+376
+00:14:26,639 --> 00:14:28,000
+like a little bit that sticks out I can
+
+377
+00:14:28,000 --> 00:14:30,759
+make a small Circle just by scrolling up
+
+378
+00:14:30,759 --> 00:14:32,519
+like that um and you just want to do
+
+379
+00:14:32,519 --> 00:14:34,600
+that until you get something that
+
+380
+00:14:34,600 --> 00:14:37,279
+looks a little more natural I might want
+
+381
+00:14:37,279 --> 00:14:39,680
+to make the the inner part as well maybe
+
+382
+00:14:39,680 --> 00:14:41,959
+just drag that in with a smaller
+
+383
+00:14:41,959 --> 00:14:44,279
+Circle and that's pretty good let's just
+
+384
+00:14:44,279 --> 00:14:46,680
+have a look from the top I might
+
+385
+00:14:46,680 --> 00:14:48,079
+actually just drag that out make it a
+
+386
+00:14:48,079 --> 00:14:50,199
+little bit more like
+
+387
+00:14:50,199 --> 00:14:52,720
+that but there you go that's pretty good
+
+388
+00:14:52,720 --> 00:14:55,240
+for a donut it's still kind of simple
+
+389
+00:14:55,240 --> 00:14:58,240
+it's not too detailed um but it's got
+
+390
+00:14:58,240 --> 00:15:00,759
+just enough variation in it that uh it's
+
+391
+00:15:00,759 --> 00:15:03,800
+more interesting to look at oh one more
+
+392
+00:15:03,800 --> 00:15:05,839
+thing forgot to mention go back into
+
+393
+00:15:05,839 --> 00:15:08,880
+edit mode with tab um Donuts when
+
+394
+00:15:08,880 --> 00:15:11,160
+they're sitting in the uh little vat
+
+395
+00:15:11,160 --> 00:15:13,519
+thing right uh they're only like half
+
+396
+00:15:13,519 --> 00:15:15,759
+submerged then they have to be flipped
+
+397
+00:15:15,759 --> 00:15:17,560
+uh but it means that the bit that's
+
+398
+00:15:17,560 --> 00:15:19,560
+nearest to the surface is getting less
+
+399
+00:15:19,560 --> 00:15:22,680
+heat so essentially what I'm saying is
+
+400
+00:15:22,680 --> 00:15:25,639
+the bit that's around the the dut the
+
+401
+00:15:25,639 --> 00:15:27,000
+the circumference of it is usually a
+
+402
+00:15:27,000 --> 00:15:28,839
+little bit flatter so Donuts aren't like
+
+403
+00:15:28,839 --> 00:15:30,920
+perfectly round all the way around they
+
+404
+00:15:30,920 --> 00:15:32,560
+usually a little bit flatter so what I
+
+405
+00:15:32,560 --> 00:15:34,560
+want to do is I want to select these
+
+406
+00:15:34,560 --> 00:15:36,279
+vertices along here and then I want to
+
+407
+00:15:36,279 --> 00:15:39,480
+shrink them now I could go around one by
+
+408
+00:15:39,480 --> 00:15:41,160
+one like this which is actually what I
+
+409
+00:15:41,160 --> 00:15:42,880
+used to do when I was uh learning
+
+410
+00:15:42,880 --> 00:15:46,600
+blender pre YouTube days and there was
+
+411
+00:15:46,600 --> 00:15:48,959
+uh no tutorials what I would I would do
+
+412
+00:15:48,959 --> 00:15:51,560
+this if I wanted to select this silly
+
+413
+00:15:51,560 --> 00:15:54,759
+because there's a a a function a tool
+
+414
+00:15:54,759 --> 00:15:57,000
+for that and it is Edge select so if you
+
+415
+00:15:57,000 --> 00:15:58,959
+hold down alt on your keyboard board and
+
+416
+00:15:58,959 --> 00:16:01,920
+then do a single left click on not the
+
+417
+00:16:01,920 --> 00:16:04,399
+points but on the edge right this little
+
+418
+00:16:04,399 --> 00:16:07,199
+line here you can see it's selected all
+
+419
+00:16:07,199 --> 00:16:08,920
+the way around so it's anything that's
+
+420
+00:16:08,920 --> 00:16:11,199
+connected along that line is now
+
+421
+00:16:11,199 --> 00:16:14,319
+selected so if I want to shrink this
+
+422
+00:16:14,319 --> 00:16:16,639
+right what would I do well I mean yeah
+
+423
+00:16:16,639 --> 00:16:18,160
+you could like move it around right we
+
+424
+00:16:18,160 --> 00:16:19,800
+want to shrink it we want to change the
+
+425
+00:16:19,800 --> 00:16:21,680
+scale of it so we would change we would
+
+426
+00:16:21,680 --> 00:16:25,839
+use the hotkey S for scale so s and I'm
+
+427
+00:16:25,839 --> 00:16:27,360
+going to scale that in and I actually
+
+428
+00:16:27,360 --> 00:16:28,800
+don't want proportional editor so I'm
+
+429
+00:16:28,800 --> 00:16:31,759
+going to turn that off and now scale in
+
+430
+00:16:31,759 --> 00:16:34,000
+and just make it a little bit flatter
+
+431
+00:16:34,000 --> 00:16:35,959
+and there you go see just feels a little
+
+432
+00:16:35,959 --> 00:16:37,800
+bit more natural doesn't it looks a
+
+433
+00:16:37,800 --> 00:16:39,839
+little bit closer to what a donut looks
+
+434
+00:16:39,839 --> 00:16:41,199
+like and by the way don't worry if yours
+
+435
+00:16:41,199 --> 00:16:42,959
+doesn't look exactly like this like your
+
+436
+00:16:42,959 --> 00:16:44,680
+lump is a little bit off like some
+
+437
+00:16:44,680 --> 00:16:46,040
+people get a little bit too precious
+
+438
+00:16:46,040 --> 00:16:47,880
+with the G I got to match exactly
+
+439
+00:16:47,880 --> 00:16:49,959
+everything I do like I'm just working on
+
+440
+00:16:49,959 --> 00:16:52,079
+the fly as well so just make what you
+
+441
+00:16:52,079 --> 00:16:54,160
+think looks good maybe you think this is
+
+442
+00:16:54,160 --> 00:16:56,160
+not misshapen enough and you want to add
+
+443
+00:16:56,160 --> 00:16:58,279
+more go for it because it might actually
+
+444
+00:16:58,279 --> 00:17:00,240
+turn turn out better than what mine is
+
+445
+00:17:00,240 --> 00:17:03,319
+now before we move to the next part um
+
+446
+00:17:03,319 --> 00:17:06,640
+how to save how to save blender very
+
+447
+00:17:06,640 --> 00:17:08,359
+very easy you just go save as and you
+
+448
+00:17:08,359 --> 00:17:11,919
+just get one file it's called dot blend
+
+449
+00:17:11,919 --> 00:17:14,199
+um very literal file extension really
+
+450
+00:17:14,199 --> 00:17:15,559
+pushing the limits of what a file
+
+451
+00:17:15,559 --> 00:17:17,919
+extension can be that's almost a word
+
+452
+00:17:17,919 --> 00:17:20,319
+blender anyway um dot blend and that's
+
+453
+00:17:20,319 --> 00:17:21,520
+it and then next time you open it up
+
+454
+00:17:21,520 --> 00:17:23,079
+it's exactly like it it's not like
+
+455
+00:17:23,079 --> 00:17:25,199
+zbrush where you got like four or five
+
+456
+00:17:25,199 --> 00:17:27,240
+different ways to save a project or an
+
+457
+00:17:27,240 --> 00:17:29,640
+object or a tool
+
+458
+00:17:29,640 --> 00:17:33,480
+hate zbrush okay um that's how you save
+
+459
+00:17:33,480 --> 00:17:35,559
+now also finally I will say uh if you
+
+460
+00:17:35,559 --> 00:17:37,520
+need help because I know if you if
+
+461
+00:17:37,520 --> 00:17:39,280
+you're stuck and then you leave a a
+
+462
+00:17:39,280 --> 00:17:40,919
+YouTube comment you might not get a
+
+463
+00:17:40,919 --> 00:17:43,039
+reply uh if you want immediate help I've
+
+464
+00:17:43,039 --> 00:17:45,400
+got a Discord so I'll put the link uh
+
+465
+00:17:45,400 --> 00:17:47,960
+below so there's like a little channel
+
+466
+00:17:47,960 --> 00:17:49,440
+in there where you can just ask for
+
+467
+00:17:49,440 --> 00:17:51,799
+specific uh donut help so if you're
+
+468
+00:17:51,799 --> 00:17:54,120
+having issues uh feel free to jump into
+
+469
+00:17:54,120 --> 00:17:56,120
+that and also guys don't beat yourself
+
+470
+00:17:56,120 --> 00:17:59,360
+up like 3D is definitely a uh has like a
+
+471
+00:17:59,360 --> 00:18:01,280
+steepish learning curve so you're in
+
+472
+00:18:01,280 --> 00:18:05,200
+that that steep slope right now and it's
+
+473
+00:18:05,200 --> 00:18:06,640
+it's really common like a lot of this
+
+474
+00:18:06,640 --> 00:18:08,960
+stuff is very foreign 3D is very unique
+
+475
+00:18:08,960 --> 00:18:11,840
+it's very different to a lot of 2D tools
+
+476
+00:18:11,840 --> 00:18:14,000
+um but don't give up like it's it's
+
+477
+00:18:14,000 --> 00:18:16,440
+definitely achievable to learn and
+
+478
+00:18:16,440 --> 00:18:18,080
+self-learn at home you don't have to go
+
+479
+00:18:18,080 --> 00:18:19,640
+to school you don't have to pay for a
+
+480
+00:18:19,640 --> 00:18:22,760
+tutor um it's really easy to uh to get
+
+481
+00:18:22,760 --> 00:18:25,320
+help online nowadays so do make use of
+
+482
+00:18:25,320 --> 00:18:28,440
+that Discord um post uh comments as well
+
+483
+00:18:28,440 --> 00:18:30,520
+in the YouTube comment if you want to um
+
+484
+00:18:30,520 --> 00:18:32,440
+but I hope hope you stay with it so if
+
+485
+00:18:32,440 --> 00:18:34,080
+you're ready to jump to the next part
+
+486
+00:18:34,080 --> 00:18:35,840
+after you've saved your blend file go
+
+487
+00:18:35,840 --> 00:18:37,720
+ahead click here and I will see you
+
+488
+00:18:37,720 --> 00:18:40,600
+there
+
