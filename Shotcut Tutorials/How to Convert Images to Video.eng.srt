@@ -1,0 +1,208 @@
+1
+00:00:01,490 --> 00:00:04,320
+in this video I'll show you how to
+
+2
+00:00:04,320 --> 00:00:07,500
+import a sequence of images into shot
+
+3
+00:00:07,500 --> 00:00:09,570
+cut and have it be converted into just a
+
+4
+00:00:09,570 --> 00:00:12,749
+video so to do this we have a sequence
+
+5
+00:00:12,749 --> 00:00:14,219
+of images here if I just push forward
+
+6
+00:00:14,219 --> 00:00:16,289
+this is just looking at them in the
+
+7
+00:00:16,289 --> 00:00:19,800
+picture viewer and what we need to do is
+
+8
+00:00:19,800 --> 00:00:22,170
+just drag and drop the very first image
+
+9
+00:00:22,170 --> 00:00:25,199
+of the sequence into our playlist area
+
+10
+00:00:25,199 --> 00:00:27,599
+so you need to click on playlist and
+
+11
+00:00:27,599 --> 00:00:29,400
+then drag that in and then while that
+
+12
+00:00:29,400 --> 00:00:31,949
+selected click on properties if you
+
+13
+00:00:31,949 --> 00:00:33,210
+don't have a properties tab you can also
+
+14
+00:00:33,210 --> 00:00:34,980
+get to it by clicking properties up here
+
+15
+00:00:34,980 --> 00:00:37,050
+and then we just check this checkbox
+
+16
+00:00:37,050 --> 00:00:41,010
+next to image sequence and this has how
+
+17
+00:00:41,010 --> 00:00:43,260
+many pictures do you want per frame this
+
+18
+00:00:43,260 --> 00:00:47,250
+is only a 20 frame movie but I'll just
+
+19
+00:00:47,250 --> 00:00:48,750
+say 1 you could if you wanted to go
+
+20
+00:00:48,750 --> 00:00:51,510
+slower you could have more play but then
+
+21
+00:00:51,510 --> 00:00:52,800
+we just click and it'll play through
+
+22
+00:00:52,800 --> 00:00:55,290
+very quickly or we can hold and click
+
+23
+00:00:55,290 --> 00:00:57,390
+and look through with those and then
+
+24
+00:00:57,390 --> 00:00:58,590
+once that's done if we go back to our
+
+25
+00:00:58,590 --> 00:01:00,030
+playlist that's now converted we can
+
+26
+00:01:00,030 --> 00:01:01,500
+left-click and drag it down to the
+
+27
+00:01:01,500 --> 00:01:04,230
+timeline and now our videos here in the
+
+28
+00:01:04,230 --> 00:01:06,780
+timeline and we can zoom in since it's
+
+29
+00:01:06,780 --> 00:01:09,570
+very very small and we can see that
+
+30
+00:01:09,570 --> 00:01:10,830
+whole video here if we want to just
+
+31
+00:01:10,830 --> 00:01:12,930
+export this short video now we could
+
+32
+00:01:12,930 --> 00:01:14,040
+leave it just like this if we're not
+
+33
+00:01:14,040 --> 00:01:15,690
+doing any more edits we can just click
+
+34
+00:01:15,690 --> 00:01:18,030
+up on export and then we can click on
+
+35
+00:01:18,030 --> 00:01:19,800
+YouTube which want to export for YouTube
+
+36
+00:01:19,800 --> 00:01:22,440
+for example click export file and then
+
+37
+00:01:22,440 --> 00:01:25,820
+give it a name just call this test under
+
+38
+00:01:25,820 --> 00:01:34,890
+videos and hit save we'll just call this
+
+39
+00:01:34,890 --> 00:01:37,680
+test and then click Save and that will
+
+40
+00:01:37,680 --> 00:01:39,690
+export shouldn't take long at all with a
+
+41
+00:01:39,690 --> 00:01:42,630
+tiny video like this and now that video
+
+42
+00:01:42,630 --> 00:01:45,420
+is done and if we go into the videos on
+
+43
+00:01:45,420 --> 00:01:47,370
+my computer where I saved that we now
+
+44
+00:01:47,370 --> 00:01:50,729
+have a folder called test oh I put it in
+
+45
+00:01:50,729 --> 00:01:52,920
+a folder called test and also I already
+
+46
+00:01:52,920 --> 00:01:54,810
+have a folder called test but now we
+
+47
+00:01:54,810 --> 00:01:57,659
+have this video and there it is a video
+
+48
+00:01:57,659 --> 00:01:59,640
+from an image sequence if you have any
+
+49
+00:01:59,640 --> 00:02:00,720
+questions or comments please leave them
+
+50
+00:02:00,720 --> 00:02:02,310
+below appreciate you watching we'll
+
+51
+00:02:02,310 --> 00:02:05,150
+catch you in the next video
+
+52
+00:02:11,110 --> 00:02:13,170
+you
+

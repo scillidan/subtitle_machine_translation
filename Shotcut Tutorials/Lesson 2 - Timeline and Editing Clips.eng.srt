@@ -1,0 +1,1108 @@
+1
+00:00:02,240 --> 00:00:04,830
+welcome back to another shotcut video
+
+2
+00:00:04,830 --> 00:00:06,660
+editing tutorial in this video we're
+
+3
+00:00:06,660 --> 00:00:09,030
+gonna spend a lot more time on using the
+
+4
+00:00:09,030 --> 00:00:11,369
+timeline editing our video we're
+
+5
+00:00:11,369 --> 00:00:12,419
+learning about lots of different tools
+
+6
+00:00:12,419 --> 00:00:14,730
+to do that so to get started we'll just
+
+7
+00:00:14,730 --> 00:00:18,619
+type in a project name and hit start and
+
+8
+00:00:18,619 --> 00:00:21,390
+then if again like like in the last
+
+9
+00:00:21,390 --> 00:00:22,710
+video if yours doesn't look exactly the
+
+10
+00:00:22,710 --> 00:00:25,380
+same way we can click on settings and or
+
+11
+00:00:25,380 --> 00:00:27,029
+click on View and go to layout and
+
+12
+00:00:27,029 --> 00:00:28,199
+choose from some of these different
+
+13
+00:00:28,199 --> 00:00:29,880
+layouts but the most important thing is
+
+14
+00:00:29,880 --> 00:00:32,130
+to have this playlists active so you
+
+15
+00:00:32,130 --> 00:00:33,870
+might have filters you can go down here
+
+16
+00:00:33,870 --> 00:00:35,040
+and click on playlists
+
+17
+00:00:35,040 --> 00:00:37,020
+if playlist doesn't appear you can click
+
+18
+00:00:37,020 --> 00:00:39,150
+on playlist and it'll bring it up so
+
+19
+00:00:39,150 --> 00:00:41,340
+once we have playlists then we can
+
+20
+00:00:41,340 --> 00:00:43,710
+actually go to our video clips so I have
+
+21
+00:00:43,710 --> 00:00:45,900
+some clips selected here I just hit hold
+
+22
+00:00:45,900 --> 00:00:47,970
+down the shift key and select multiple
+
+23
+00:00:47,970 --> 00:00:50,940
+clips and then left click and drag and
+
+24
+00:00:50,940 --> 00:00:54,360
+drop them in and that it starts playing
+
+25
+00:00:54,360 --> 00:00:56,490
+so we have all these clips in here that
+
+26
+00:00:56,490 --> 00:00:58,550
+I just brought in from my computer
+
+27
+00:00:58,550 --> 00:01:00,930
+another way to bring in clips is to just
+
+28
+00:01:00,930 --> 00:01:03,390
+go to open and then you can select
+
+29
+00:01:03,390 --> 00:01:05,550
+multiple clips or individual clips and
+
+30
+00:01:05,550 --> 00:01:07,710
+it will add them here as well this one's
+
+31
+00:01:07,710 --> 00:01:09,590
+already I already brought it in once and
+
+32
+00:01:09,590 --> 00:01:14,070
+so if we double click on one of these in
+
+33
+00:01:14,070 --> 00:01:15,990
+the playlist it shows us what we're
+
+34
+00:01:15,990 --> 00:01:18,810
+looking at as our source our project is
+
+35
+00:01:18,810 --> 00:01:20,370
+not active yet there's nothing in our
+
+36
+00:01:20,370 --> 00:01:22,860
+actual project and down here there's
+
+37
+00:01:22,860 --> 00:01:24,780
+that there's also timeline and keyframes
+
+38
+00:01:24,780 --> 00:01:26,550
+and I just want to mention if you're on
+
+39
+00:01:26,550 --> 00:01:28,470
+keyframes and you try and drag a video
+
+40
+00:01:28,470 --> 00:01:31,260
+down it's not gonna go down it's not
+
+41
+00:01:31,260 --> 00:01:33,780
+gonna go into your project because you
+
+42
+00:01:33,780 --> 00:01:35,640
+don't have any project you have to go to
+
+43
+00:01:35,640 --> 00:01:37,710
+Timeline and then you can drag it in and
+
+44
+00:01:37,710 --> 00:01:39,750
+then you'll actually have this video
+
+45
+00:01:39,750 --> 00:01:43,140
+track so right now I just brought this
+
+46
+00:01:43,140 --> 00:01:45,450
+video in here and we can bring it right
+
+47
+00:01:45,450 --> 00:01:47,070
+to the beginning if I want to have a
+
+48
+00:01:47,070 --> 00:01:48,930
+different video clip like this one here
+
+49
+00:01:48,930 --> 00:01:52,320
+I can drag it down and now I have a gap
+
+50
+00:01:52,320 --> 00:01:54,330
+in there as well and if I want to bring
+
+51
+00:01:54,330 --> 00:01:56,310
+in this is like a very long video it's
+
+52
+00:01:56,310 --> 00:01:58,650
+one minute and 29 seconds I'm not very
+
+53
+00:01:58,650 --> 00:02:00,690
+long but it's a if I bring it down it's
+
+54
+00:02:00,690 --> 00:02:02,100
+going to take up quite a bit of space on
+
+55
+00:02:02,100 --> 00:02:04,260
+my timeline and I can zoom out and see
+
+56
+00:02:04,260 --> 00:02:06,360
+compared to these first two this one's
+
+57
+00:02:06,360 --> 00:02:09,810
+pretty long which is fine so I can
+
+58
+00:02:09,810 --> 00:02:11,609
+left-click and move these around but
+
+59
+00:02:11,609 --> 00:02:13,230
+maybe I only want a small portion of
+
+60
+00:02:13,230 --> 00:02:13,830
+this
+
+61
+00:02:13,830 --> 00:02:15,420
+video there's a couple ways to get just
+
+62
+00:02:15,420 --> 00:02:17,850
+a portion so I can find the part that I
+
+63
+00:02:17,850 --> 00:02:19,860
+want maybe this part where he's
+
+64
+00:02:19,860 --> 00:02:22,560
+hammering on this piece of iron we just
+
+65
+00:02:22,560 --> 00:02:25,620
+get to play head to that portion and if
+
+66
+00:02:25,620 --> 00:02:27,180
+we hover over this tool we can see what
+
+67
+00:02:27,180 --> 00:02:28,860
+it's called this tool is called split at
+
+68
+00:02:28,860 --> 00:02:31,740
+playhead if we can click it and it will
+
+69
+00:02:31,740 --> 00:02:33,390
+split the video right where the playhead
+
+70
+00:02:33,390 --> 00:02:36,060
+was now I have two video clips this one
+
+71
+00:02:36,060 --> 00:02:38,880
+and this one if I hit play they're gonna
+
+72
+00:02:38,880 --> 00:02:40,590
+seamlessly go right next to each other
+
+73
+00:02:40,590 --> 00:02:43,080
+because it's even though there are two
+
+74
+00:02:43,080 --> 00:02:45,480
+video clips you know we split it so it's
+
+75
+00:02:45,480 --> 00:02:47,910
+supposed to be there if we click this
+
+76
+00:02:47,910 --> 00:02:49,680
+first one I hit the Delete key it'll go
+
+77
+00:02:49,680 --> 00:02:52,080
+away and then we can come to the portion
+
+78
+00:02:52,080 --> 00:02:53,430
+maybe we only want to have the hammering
+
+79
+00:02:53,430 --> 00:02:55,740
+happen during this you know about this
+
+80
+00:02:55,740 --> 00:02:59,690
+length we hit the split again select the
+
+81
+00:02:59,690 --> 00:03:01,620
+second part of the video by left
+
+82
+00:03:01,620 --> 00:03:02,850
+clicking on it and hitting the Delete
+
+83
+00:03:02,850 --> 00:03:04,800
+key on the keyboard and now we just have
+
+84
+00:03:04,800 --> 00:03:08,130
+a nice short video clip of just
+
+85
+00:03:08,130 --> 00:03:11,220
+hammering on this piece of steel I can
+
+86
+00:03:11,220 --> 00:03:12,750
+left-click and drag it and bring it
+
+87
+00:03:12,750 --> 00:03:14,640
+closer into my project actually I'm
+
+88
+00:03:14,640 --> 00:03:15,690
+gonna bring it away for one set because
+
+89
+00:03:15,690 --> 00:03:17,730
+I want to show you another way if I want
+
+90
+00:03:17,730 --> 00:03:22,530
+to have this video clip of this horn
+
+91
+00:03:22,530 --> 00:03:24,410
+looks like a Powderhorn
+
+92
+00:03:24,410 --> 00:03:27,870
+we can left-click here and we can shrink
+
+93
+00:03:27,870 --> 00:03:29,610
+this down as well so we hover to the end
+
+94
+00:03:29,610 --> 00:03:32,010
+of the video clip hold down left click
+
+95
+00:03:32,010 --> 00:03:35,310
+and we can make that video shorter so
+
+96
+00:03:35,310 --> 00:03:38,780
+now I have a couple short clips here
+
+97
+00:03:42,260 --> 00:03:45,269
+they even publish it I made even a
+
+98
+00:03:45,269 --> 00:03:47,340
+little bit shorter than that but I want
+
+99
+00:03:47,340 --> 00:03:49,050
+to show you another way we can do so
+
+100
+00:03:49,050 --> 00:03:50,820
+this one here if we go back to our
+
+101
+00:03:50,820 --> 00:03:55,350
+source on this one we see now we're
+
+102
+00:03:55,350 --> 00:03:56,820
+playing and it's not moving on our
+
+103
+00:03:56,820 --> 00:03:57,870
+timeline because we're looking at our
+
+104
+00:03:57,870 --> 00:03:59,850
+source but if I want to get just this
+
+105
+00:03:59,850 --> 00:04:03,510
+portion of the fire I can actually come
+
+106
+00:04:03,510 --> 00:04:06,239
+over here and I can click these little
+
+107
+00:04:06,239 --> 00:04:09,450
+triangles now I can select just a small
+
+108
+00:04:09,450 --> 00:04:13,950
+portion of video here and I can drag it
+
+109
+00:04:13,950 --> 00:04:16,108
+down so maybe it's a teeny tiny portion
+
+110
+00:04:16,108 --> 00:04:18,329
+I can left-click and drag and now it
+
+111
+00:04:18,329 --> 00:04:20,459
+brings in just this little sliver of
+
+112
+00:04:20,459 --> 00:04:22,740
+video it doesn't bring in the whole one
+
+113
+00:04:22,740 --> 00:04:24,419
+minute and 29 seconds worth it just
+
+114
+00:04:24,419 --> 00:04:26,160
+brings in this little tiny portion right
+
+115
+00:04:26,160 --> 00:04:26,620
+here
+
+116
+00:04:26,620 --> 00:04:28,510
+so we can play that and see what looks
+
+117
+00:04:28,510 --> 00:04:33,400
+like another good way to do that is go
+
+118
+00:04:33,400 --> 00:04:35,470
+back to the source we can change if we
+
+119
+00:04:35,470 --> 00:04:37,120
+want the out point instead of dragging
+
+120
+00:04:37,120 --> 00:04:39,220
+this triangle we can just go to that
+
+121
+00:04:39,220 --> 00:04:41,080
+portion and hit the O key on the
+
+122
+00:04:41,080 --> 00:04:43,360
+keyboard and that selects the out point
+
+123
+00:04:43,360 --> 00:04:45,130
+we can go to this part and select the I
+
+124
+00:04:45,130 --> 00:04:46,930
+key on the keyboard I select the end
+
+125
+00:04:46,930 --> 00:04:49,630
+point so while that's playing we can
+
+126
+00:04:49,630 --> 00:04:54,550
+press I then press o on the keyboard and
+
+127
+00:04:54,550 --> 00:04:56,470
+now we've got a tiny little sliver of
+
+128
+00:04:56,470 --> 00:04:59,050
+video that we can use so play with that
+
+129
+00:04:59,050 --> 00:05:00,729
+it's a really really good tool and it's
+
+130
+00:05:00,729 --> 00:05:02,590
+similar functionality you'll find in
+
+131
+00:05:02,590 --> 00:05:06,190
+lots of video editing software if we
+
+132
+00:05:06,190 --> 00:05:07,780
+want to get rid of a clip again we
+
+133
+00:05:07,780 --> 00:05:10,450
+left-click it'll be selected in red we
+
+134
+00:05:10,450 --> 00:05:12,639
+have the Delete key and it goes away but
+
+135
+00:05:12,639 --> 00:05:15,000
+there's a gap now there's a black gap
+
+136
+00:05:15,000 --> 00:05:18,160
+that'll play this black nothingness and
+
+137
+00:05:18,160 --> 00:05:20,500
+then it jumps to the next part of the
+
+138
+00:05:20,500 --> 00:05:23,950
+video so if I hit control Z it'll undo
+
+139
+00:05:23,950 --> 00:05:25,990
+that change will come back you can also
+
+140
+00:05:25,990 --> 00:05:30,070
+go to edit undo to bring it back but if
+
+141
+00:05:30,070 --> 00:05:32,020
+I want this clip to disappear and I want
+
+142
+00:05:32,020 --> 00:05:33,880
+the gap to not be there I want this
+
+143
+00:05:33,880 --> 00:05:35,740
+video to just kind of shrink up and
+
+144
+00:05:35,740 --> 00:05:37,750
+appear right there let me zoom in a
+
+145
+00:05:37,750 --> 00:05:39,789
+little bit so we can see that more we
+
+146
+00:05:39,789 --> 00:05:41,289
+could actually just click the cut over
+
+147
+00:05:41,289 --> 00:05:44,080
+here and we'll cut that clip out and
+
+148
+00:05:44,080 --> 00:05:46,300
+then everything just shrinks up right to
+
+149
+00:05:46,300 --> 00:05:49,810
+her it was going to be before and now
+
+150
+00:05:49,810 --> 00:05:51,789
+that video clip is now saved in our
+
+151
+00:05:51,789 --> 00:05:54,490
+clipboard so if I want to we come over
+
+152
+00:05:54,490 --> 00:05:56,740
+here to the playhead I can hit the paste
+
+153
+00:05:56,740 --> 00:05:59,289
+icon and now that video that I cut out
+
+154
+00:05:59,289 --> 00:06:02,260
+is gonna be pasted here at the end so if
+
+155
+00:06:02,260 --> 00:06:03,849
+I want to move this clip to the end
+
+156
+00:06:03,849 --> 00:06:06,820
+without creating a gap I mean I could
+
+157
+00:06:06,820 --> 00:06:09,430
+just left-click and move it but now
+
+158
+00:06:09,430 --> 00:06:11,349
+there's a gap there so if I want to move
+
+159
+00:06:11,349 --> 00:06:12,849
+it to the end without creating a gap I
+
+160
+00:06:12,849 --> 00:06:16,360
+had the cut I select it first hit cut
+
+161
+00:06:16,360 --> 00:06:19,030
+and then go to how the playhead to go to
+
+162
+00:06:19,030 --> 00:06:20,919
+wherever I want it to paste it which
+
+163
+00:06:20,919 --> 00:06:23,200
+will lead to the end and hit paste now
+
+164
+00:06:23,200 --> 00:06:25,270
+I've effectively moved that to the end
+
+165
+00:06:25,270 --> 00:06:26,919
+without creating any gaps does that make
+
+166
+00:06:26,919 --> 00:06:29,289
+sense maybe I want this portion over
+
+167
+00:06:29,289 --> 00:06:31,539
+here I can play it see what this looks
+
+168
+00:06:31,539 --> 00:06:32,050
+like
+
+169
+00:06:32,050 --> 00:06:33,910
+I want this portion of the video to play
+
+170
+00:06:33,910 --> 00:06:36,550
+multiple times well what I can do is hit
+
+171
+00:06:36,550 --> 00:06:38,680
+the copy so I copy
+
+172
+00:06:38,680 --> 00:06:40,240
+now that's copied to the
+
+173
+00:06:40,240 --> 00:06:42,370
+bored and now I can paste it I can go to
+
+174
+00:06:42,370 --> 00:06:45,130
+the end and hit paste and it paste this
+
+175
+00:06:45,130 --> 00:06:47,560
+video so it's still over here but it's
+
+176
+00:06:47,560 --> 00:06:51,160
+also over here and I can just keep
+
+177
+00:06:51,160 --> 00:06:53,020
+hitting paste a couple times really so i
+
+178
+00:06:53,020 --> 00:06:54,699
+wherever the playhead is is where it
+
+179
+00:06:54,699 --> 00:06:56,770
+will paste it in so if i want this to be
+
+180
+00:06:56,770 --> 00:06:59,470
+between these two i hit paste and it
+
+181
+00:06:59,470 --> 00:07:01,630
+appears between those two so if i wanted
+
+182
+00:07:01,630 --> 00:07:03,520
+to here i come right to here and hit
+
+183
+00:07:03,520 --> 00:07:06,550
+paste and now it appears there so now we
+
+184
+00:07:06,550 --> 00:07:09,430
+have kind of this fire happening in
+
+185
+00:07:09,430 --> 00:07:18,300
+between every little clip what else
+
+186
+00:07:19,900 --> 00:07:21,970
+snapping do we talk about snapping so if
+
+187
+00:07:21,970 --> 00:07:24,069
+we want to snap to the playhead I have
+
+188
+00:07:24,069 --> 00:07:26,770
+snapping enabled right now if I take it
+
+189
+00:07:26,770 --> 00:07:30,099
+off it's this little magnet magnet icon
+
+190
+00:07:30,099 --> 00:07:32,409
+if I have that off then it's gonna be a
+
+191
+00:07:32,409 --> 00:07:34,210
+little bit harder for me if I try and
+
+192
+00:07:34,210 --> 00:07:35,889
+drag this clip right up here I'm always
+
+193
+00:07:35,889 --> 00:07:37,840
+gonna have a little bit of like a little
+
+194
+00:07:37,840 --> 00:07:39,639
+yellow gap in there I'm not gonna get
+
+195
+00:07:39,639 --> 00:07:42,580
+right to it because it's kind of hard
+
+196
+00:07:42,580 --> 00:07:44,530
+without snapping but what snapping does
+
+197
+00:07:44,530 --> 00:07:46,719
+is it makes it so that we always snap
+
+198
+00:07:46,719 --> 00:07:49,479
+right to the clip so what kind of pauses
+
+199
+00:07:49,479 --> 00:07:51,789
+and lets it snap to a clip or to the
+
+200
+00:07:51,789 --> 00:07:53,740
+playhead if I want this to snap to the
+
+201
+00:07:53,740 --> 00:07:55,270
+playhead it'll also kind of pause a
+
+202
+00:07:55,270 --> 00:07:57,460
+little bit and let me snap right to the
+
+203
+00:07:57,460 --> 00:08:00,550
+playhead if I have a gap and I want to
+
+204
+00:08:00,550 --> 00:08:03,130
+move a video in and the gap is not large
+
+205
+00:08:03,130 --> 00:08:05,800
+enough I can't get the video in there so
+
+206
+00:08:05,800 --> 00:08:07,539
+sometimes you'll be like this video will
+
+207
+00:08:07,539 --> 00:08:08,770
+fit there won't it and you're wondering
+
+208
+00:08:08,770 --> 00:08:10,990
+why it won't go well it's because you
+
+209
+00:08:10,990 --> 00:08:13,780
+don't have a big enough space that's
+
+210
+00:08:13,780 --> 00:08:15,370
+only when you're moving video from
+
+211
+00:08:15,370 --> 00:08:17,860
+within the timeline if you're bringing
+
+212
+00:08:17,860 --> 00:08:20,050
+in video from up here like this one with
+
+213
+00:08:20,050 --> 00:08:24,069
+the horn if I drag this down it's
+
+214
+00:08:24,069 --> 00:08:26,440
+usually it gives me a warning oh I guess
+
+215
+00:08:26,440 --> 00:08:29,110
+maybe it'll do it there but if I have it
+
+216
+00:08:29,110 --> 00:08:30,729
+selected here and I drag it down it's
+
+217
+00:08:30,729 --> 00:08:33,010
+gonna say overwrite so it's gonna say
+
+218
+00:08:33,010 --> 00:08:35,289
+warning this is like where by dragging
+
+219
+00:08:35,289 --> 00:08:36,969
+this clip in if you drag it in right
+
+220
+00:08:36,969 --> 00:08:38,770
+here now you're gonna overwrite
+
+221
+00:08:38,770 --> 00:08:40,630
+everything that's we'll kind of shaded
+
+222
+00:08:40,630 --> 00:08:43,870
+white here which would mean this all
+
+223
+00:08:43,870 --> 00:08:45,910
+these video clips will be gone and it'll
+
+224
+00:08:45,910 --> 00:08:48,190
+cut into this one and cut into this ones
+
+225
+00:08:48,190 --> 00:08:50,350
+that make sense let's give it a try so
+
+226
+00:08:50,350 --> 00:08:53,420
+we bring it down and we bring it there
+
+227
+00:08:53,420 --> 00:08:54,829
+now this video clip is here and
+
+228
+00:08:54,829 --> 00:08:56,329
+everything else that was there is now
+
+229
+00:08:56,329 --> 00:08:58,700
+gone so just be aware of that when
+
+230
+00:08:58,700 --> 00:09:00,529
+you're bringing in video clips it's good
+
+231
+00:09:00,529 --> 00:09:02,120
+to bring them into like a blank space
+
+232
+00:09:02,120 --> 00:09:04,610
+over the back to my source it's good to
+
+233
+00:09:04,610 --> 00:09:05,990
+bring them into the blank space at the
+
+234
+00:09:05,990 --> 00:09:07,760
+end of yours if you're worried about
+
+235
+00:09:07,760 --> 00:09:09,410
+over writing and it'll tell you if
+
+236
+00:09:09,410 --> 00:09:13,850
+you're gonna overwrite it or not so I
+
+237
+00:09:13,850 --> 00:09:14,990
+think that's all we're gonna do in this
+
+238
+00:09:14,990 --> 00:09:16,100
+one if ever you're wondering what
+
+239
+00:09:16,100 --> 00:09:18,260
+something does you can hover over and
+
+240
+00:09:18,260 --> 00:09:21,339
+see what these different things do and
+
+241
+00:09:21,339 --> 00:09:25,399
+so like the ripple delete does kind of
+
+242
+00:09:25,399 --> 00:09:26,779
+similar to what we're talking about is
+
+243
+00:09:26,779 --> 00:09:28,070
+where it gets rid of it and then
+
+244
+00:09:28,070 --> 00:09:29,570
+everything sucks in so it's the same as
+
+245
+00:09:29,570 --> 00:09:32,089
+doing kept so if you click on a clip and
+
+246
+00:09:32,089 --> 00:09:33,820
+then hit ripple delete it deletes it and
+
+247
+00:09:33,820 --> 00:09:37,130
+sucks in everything without leaving an
+
+248
+00:09:37,130 --> 00:09:42,410
+empty gap here so yeah and then the
+
+249
+00:09:42,410 --> 00:09:44,660
+scrub this is this enabled scrubbing so
+
+250
+00:09:44,660 --> 00:09:46,910
+that when you move a video clip you can
+
+251
+00:09:46,910 --> 00:09:48,170
+hear what's happening with it at the
+
+252
+00:09:48,170 --> 00:09:51,380
+same time that's kind of I don't really
+
+253
+00:09:51,380 --> 00:09:53,240
+use that feature so I think I'm gonna
+
+254
+00:09:53,240 --> 00:09:54,800
+end this video here go ahead and play
+
+255
+00:09:54,800 --> 00:09:56,750
+with you know resizing your your
+
+256
+00:09:56,750 --> 00:09:58,760
+timeline play with some of these cut
+
+257
+00:09:58,760 --> 00:10:00,560
+copy and paste tools you can also use
+
+258
+00:10:00,560 --> 00:10:03,250
+the keyboard shortcuts control X to cut
+
+259
+00:10:03,250 --> 00:10:10,130
+ctrl C to copy and ctrl V to paste go
+
+260
+00:10:10,130 --> 00:10:11,300
+ahead and play with some of those play
+
+261
+00:10:11,300 --> 00:10:13,820
+with adding in different clips make sure
+
+262
+00:10:13,820 --> 00:10:14,630
+you know the difference between your
+
+263
+00:10:14,630 --> 00:10:17,089
+source and your project and on your
+
+264
+00:10:17,089 --> 00:10:19,279
+source play with some of the in and out
+
+265
+00:10:19,279 --> 00:10:21,529
+of selecting just a certain portion so
+
+266
+00:10:21,529 --> 00:10:23,060
+you don't have to come down here and you
+
+267
+00:10:23,060 --> 00:10:25,519
+know cut it out by splitting it playhead
+
+268
+00:10:25,519 --> 00:10:28,459
+all that and then be aware too you can
+
+269
+00:10:28,459 --> 00:10:30,140
+do all these edits instead of using
+
+270
+00:10:30,140 --> 00:10:32,029
+these icons you can click on edit up top
+
+271
+00:10:32,029 --> 00:10:34,490
+and we also have cut copy paste undo
+
+272
+00:10:34,490 --> 00:10:36,440
+redo I guess it's not all of them up
+
+273
+00:10:36,440 --> 00:10:38,180
+there but we have some of those tools
+
+274
+00:10:38,180 --> 00:10:40,760
+available at the top thank you for
+
+275
+00:10:40,760 --> 00:10:42,410
+watching go ahead and like comment
+
+276
+00:10:42,410 --> 00:10:44,540
+subscribe leave your questions below and
+
+277
+00:10:44,540 --> 00:10:47,589
+I'll catch you in the next video
+

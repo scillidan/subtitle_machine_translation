@@ -1,0 +1,832 @@
+1
+00:00:02,450 --> 00:00:04,950
+welcome back to another shotcut video
+
+2
+00:00:04,950 --> 00:00:06,900
+editing tutorial in this video we're
+
+3
+00:00:06,900 --> 00:00:08,459
+going to be learning how to apply a
+
+4
+00:00:08,459 --> 00:00:11,070
+filters and effects to your video clips
+
+5
+00:00:11,070 --> 00:00:12,629
+so to get started I'm just going to
+
+6
+00:00:12,629 --> 00:00:14,129
+bring in a video clip I've got one here
+
+7
+00:00:14,129 --> 00:00:16,529
+on my computer we'll just do this one
+
+8
+00:00:16,529 --> 00:00:18,810
+right here so it starts playing the
+
+9
+00:00:18,810 --> 00:00:20,640
+video I can pause it by pressing the
+
+10
+00:00:20,640 --> 00:00:24,509
+spacebar and to do so right now we have
+
+11
+00:00:24,509 --> 00:00:26,070
+the playlist opened up but that's just
+
+12
+00:00:26,070 --> 00:00:29,550
+for me your layout might be different it
+
+13
+00:00:29,550 --> 00:00:30,779
+seems like different versions have
+
+14
+00:00:30,779 --> 00:00:32,400
+different things there's these tabs at
+
+15
+00:00:32,400 --> 00:00:33,480
+the bottom we've kind of touched on a
+
+16
+00:00:33,480 --> 00:00:36,090
+little bit so filters is one of the tabs
+
+17
+00:00:36,090 --> 00:00:39,540
+and it it's just called filters you
+
+18
+00:00:39,540 --> 00:00:42,000
+apply a filter to a video clip either an
+
+19
+00:00:42,000 --> 00:00:43,920
+audio filter or a video filter and that
+
+20
+00:00:43,920 --> 00:00:46,530
+will produce an effect there are certain
+
+21
+00:00:46,530 --> 00:00:48,630
+filters for like cropping and resizing
+
+22
+00:00:48,630 --> 00:00:50,790
+and rotating there's filters for color
+
+23
+00:00:50,790 --> 00:00:53,580
+there's filters to increase the audio so
+
+24
+00:00:53,580 --> 00:00:56,430
+it's called filters in shot cuts another
+
+25
+00:00:56,430 --> 00:00:58,560
+way to get to filters is to click up on
+
+26
+00:00:58,560 --> 00:01:00,330
+the filters at the top and it just does
+
+27
+00:01:00,330 --> 00:01:01,800
+the same thing it brings up the same
+
+28
+00:01:01,800 --> 00:01:03,300
+thing as if you just click on the
+
+29
+00:01:03,300 --> 00:01:05,190
+filters tab and like we've kind of
+
+30
+00:01:05,190 --> 00:01:06,480
+talked about in the past if we left
+
+31
+00:01:06,480 --> 00:01:08,190
+click on this filters we can actually
+
+32
+00:01:08,190 --> 00:01:10,290
+move it to a different part of the
+
+33
+00:01:10,290 --> 00:01:13,170
+interface and then if it gets closed and
+
+34
+00:01:13,170 --> 00:01:15,540
+we click filters again up top it just
+
+35
+00:01:15,540 --> 00:01:19,409
+appears where it last was at so you just
+
+36
+00:01:19,409 --> 00:01:20,700
+know that yours might not be exactly
+
+37
+00:01:20,700 --> 00:01:23,070
+where mine is these tabs can trade
+
+38
+00:01:23,070 --> 00:01:23,640
+places
+
+39
+00:01:23,640 --> 00:01:25,620
+but the filters tab is where we get to
+
+40
+00:01:25,620 --> 00:01:27,750
+all the effects okay so to add an effect
+
+41
+00:01:27,750 --> 00:01:29,940
+we actually just click on this plus sign
+
+42
+00:01:29,940 --> 00:01:33,900
+and so it brings up by default all these
+
+43
+00:01:33,900 --> 00:01:35,820
+favorites and then you can search by
+
+44
+00:01:35,820 --> 00:01:37,680
+just video effects and just audio
+
+45
+00:01:37,680 --> 00:01:39,750
+effects in this video we're just going
+
+46
+00:01:39,750 --> 00:01:41,880
+to be covering the video effects so just
+
+47
+00:01:41,880 --> 00:01:42,930
+to show you kind of what's going on here
+
+48
+00:01:42,930 --> 00:01:44,340
+we're gonna add like this color grading
+
+49
+00:01:44,340 --> 00:01:46,020
+one all we do is just left click on it
+
+50
+00:01:46,020 --> 00:01:48,540
+and it applies the filter and so then we
+
+51
+00:01:48,540 --> 00:01:50,520
+can change some of the settings for this
+
+52
+00:01:50,520 --> 00:01:52,680
+filter we can adjust some of the
+
+53
+00:01:52,680 --> 00:01:54,620
+coloring so this is like an extreme
+
+54
+00:01:54,620 --> 00:01:56,880
+coloring we've done and actually if you
+
+55
+00:01:56,880 --> 00:01:59,400
+notice I'm applying this to a clip in my
+
+56
+00:01:59,400 --> 00:02:02,280
+source so it's not really applied but
+
+57
+00:02:02,280 --> 00:02:03,270
+there's not really anything in the
+
+58
+00:02:03,270 --> 00:02:04,530
+timeline it's just showing me what this
+
+59
+00:02:04,530 --> 00:02:06,540
+would look like and then if I add this
+
+60
+00:02:06,540 --> 00:02:09,598
+down to the timeline it adds it in with
+
+61
+00:02:09,598 --> 00:02:12,329
+this effect applied to it
+
+62
+00:02:12,329 --> 00:02:15,250
+another thing we can do here well just
+
+63
+00:02:15,250 --> 00:02:16,840
+show you actually if we just split this
+
+64
+00:02:16,840 --> 00:02:18,610
+right now we click this button here and
+
+65
+00:02:18,610 --> 00:02:20,890
+we split it into two separate clips both
+
+66
+00:02:20,890 --> 00:02:22,900
+clips have the effect applied to it
+
+67
+00:02:22,900 --> 00:02:27,340
+because any any clip that has a filter
+
+68
+00:02:27,340 --> 00:02:30,280
+at effect applied to it will just keep
+
+69
+00:02:30,280 --> 00:02:31,930
+that even if it becomes split or moved
+
+70
+00:02:31,930 --> 00:02:33,670
+around so if you want to increase the
+
+71
+00:02:33,670 --> 00:02:36,340
+audio for example which we'll cover in
+
+72
+00:02:36,340 --> 00:02:37,780
+the next video you would increase it on
+
+73
+00:02:37,780 --> 00:02:40,209
+the entire clip you bring in before
+
+74
+00:02:40,209 --> 00:02:42,519
+making any edits or cuts to it but now
+
+75
+00:02:42,519 --> 00:02:43,810
+that these are separate now we could
+
+76
+00:02:43,810 --> 00:02:45,430
+change them we can change and have them
+
+77
+00:02:45,430 --> 00:02:47,829
+be different colors so now we have you
+
+78
+00:02:47,829 --> 00:02:50,069
+know the red and then the green
+
+79
+00:02:50,069 --> 00:02:52,120
+something to pay attention to as well
+
+80
+00:02:52,120 --> 00:02:53,859
+whatever clip is selected is the one
+
+81
+00:02:53,859 --> 00:02:55,209
+you're going to be editing effects for
+
+82
+00:02:55,209 --> 00:02:57,790
+not the clip that's being viewed so
+
+83
+00:02:57,790 --> 00:02:59,230
+right now we're on the project tab we're
+
+84
+00:02:59,230 --> 00:03:01,060
+viewing what's in our project we can hit
+
+85
+00:03:01,060 --> 00:03:03,970
+spacebar and play it and we're looking
+
+86
+00:03:03,970 --> 00:03:05,739
+at this green here but if we want to
+
+87
+00:03:05,739 --> 00:03:07,090
+come over and change the color and make
+
+88
+00:03:07,090 --> 00:03:09,670
+it a little bit more red we move over
+
+89
+00:03:09,670 --> 00:03:11,590
+here and nothing's happening well that's
+
+90
+00:03:11,590 --> 00:03:13,480
+because even though we're looking where
+
+91
+00:03:13,480 --> 00:03:15,549
+our playhead is at the clip that's
+
+92
+00:03:15,549 --> 00:03:18,400
+selected is this one over here so we're
+
+93
+00:03:18,400 --> 00:03:20,079
+making changes to that one we're just
+
+94
+00:03:20,079 --> 00:03:21,370
+not viewing the changes that we're
+
+95
+00:03:21,370 --> 00:03:22,870
+making if you want to see what we're
+
+96
+00:03:22,870 --> 00:03:24,669
+changing while we're changing it we have
+
+97
+00:03:24,669 --> 00:03:26,949
+to move the playhead over here to the
+
+98
+00:03:26,949 --> 00:03:28,840
+clip that's selected and now when we
+
+99
+00:03:28,840 --> 00:03:31,329
+make changes it'll you know it'll show
+
+100
+00:03:31,329 --> 00:03:34,419
+in there if we want to we can add
+
+101
+00:03:34,419 --> 00:03:35,829
+multiple effects at once if you want to
+
+102
+00:03:35,829 --> 00:03:37,480
+apply another effect over top of this we
+
+103
+00:03:37,480 --> 00:03:39,489
+just click the plus sign again and we
+
+104
+00:03:39,489 --> 00:03:41,049
+can add like a blur maybe
+
+105
+00:03:41,049 --> 00:03:43,269
+and so the blur has different settings
+
+106
+00:03:43,269 --> 00:03:44,530
+obviously because it's a different
+
+107
+00:03:44,530 --> 00:03:46,930
+effect a different filter and so this
+
+108
+00:03:46,930 --> 00:03:47,979
+one we can just make the whole thing
+
+109
+00:03:47,979 --> 00:03:50,409
+really blurry and just get kind of crazy
+
+110
+00:03:50,409 --> 00:03:52,299
+with it and now we have this kind of
+
+111
+00:03:52,299 --> 00:03:57,370
+blurry colored video also you may have
+
+112
+00:03:57,370 --> 00:03:58,810
+noticed it's kind of slows down the more
+
+113
+00:03:58,810 --> 00:04:00,129
+effects we add and depending on your
+
+114
+00:04:00,129 --> 00:04:03,280
+computer specs it'll it may not render
+
+115
+00:04:03,280 --> 00:04:05,769
+as quickly and in playback like right
+
+116
+00:04:05,769 --> 00:04:06,950
+now
+
+117
+00:04:06,950 --> 00:04:09,020
+but when we actually export the video
+
+118
+00:04:09,020 --> 00:04:10,700
+it'll be full speed it won't have that
+
+119
+00:04:10,700 --> 00:04:14,060
+lag enos to it if we find maybe we want
+
+120
+00:04:14,060 --> 00:04:16,339
+to get rid of the this blur effect and
+
+121
+00:04:16,339 --> 00:04:18,829
+go back we can just click the minus
+
+122
+00:04:18,829 --> 00:04:20,779
+button and it gets rid of whatever one
+
+123
+00:04:20,779 --> 00:04:23,210
+selected let me bring back another one
+
+124
+00:04:23,210 --> 00:04:24,410
+note so that we have to cuz I want to
+
+125
+00:04:24,410 --> 00:04:26,360
+show you something else we can do like
+
+126
+00:04:26,360 --> 00:04:28,639
+this glow one maybe so it adds a glow
+
+127
+00:04:28,639 --> 00:04:29,960
+you can kind of see what it's doing and
+
+128
+00:04:29,960 --> 00:04:32,210
+to kind of and if we want to see exactly
+
+129
+00:04:32,210 --> 00:04:33,800
+what it's doing we can just check the
+
+130
+00:04:33,800 --> 00:04:35,630
+box to the to the left of it right now
+
+131
+00:04:35,630 --> 00:04:38,450
+it's checked if we uncheck it it takes
+
+132
+00:04:38,450 --> 00:04:40,850
+the effect off but it still keeps it
+
+133
+00:04:40,850 --> 00:04:44,510
+over here under you know so we can take
+
+134
+00:04:44,510 --> 00:04:45,860
+this off and see what our original looks
+
+135
+00:04:45,860 --> 00:04:48,350
+like without actually deleting the the
+
+136
+00:04:48,350 --> 00:04:50,030
+filter or the effect that we're we're
+
+137
+00:04:50,030 --> 00:04:51,770
+using so I'm gonna check both of these
+
+138
+00:04:51,770 --> 00:04:53,389
+we can see what it looks like and so
+
+139
+00:04:53,389 --> 00:04:54,770
+sometimes maybe you want to just see
+
+140
+00:04:54,770 --> 00:04:55,940
+what it looks like before you started
+
+141
+00:04:55,940 --> 00:04:57,680
+doing the covering but then when you go
+
+142
+00:04:57,680 --> 00:04:59,419
+to export you just check this and make
+
+143
+00:04:59,419 --> 00:05:02,180
+sure that they're all applied I've
+
+144
+00:05:02,180 --> 00:05:03,979
+reloaded this clip and I've cleared out
+
+145
+00:05:03,979 --> 00:05:05,120
+all the filters and I actually brought
+
+146
+00:05:05,120 --> 00:05:07,010
+in four more Clips because I want to
+
+147
+00:05:07,010 --> 00:05:09,020
+show you another feature we can do with
+
+148
+00:05:09,020 --> 00:05:11,000
+these filters and that is copying a
+
+149
+00:05:11,000 --> 00:05:13,010
+filter and applying it to multiple Clips
+
+150
+00:05:13,010 --> 00:05:14,990
+so welcome back here to this first one
+
+151
+00:05:14,990 --> 00:05:16,940
+we'll just go add and we can just type
+
+152
+00:05:16,940 --> 00:05:18,350
+in up here too so there's one called
+
+153
+00:05:18,350 --> 00:05:21,680
+like film grain or film dust it's this
+
+154
+00:05:21,680 --> 00:05:23,390
+old film just like this old film look
+
+155
+00:05:23,390 --> 00:05:25,550
+I'll apply this it's really small here
+
+156
+00:05:25,550 --> 00:05:26,990
+but I'll make it a little bit bigger and
+
+157
+00:05:26,990 --> 00:05:30,140
+extreme just to kinda show you know
+
+158
+00:05:30,140 --> 00:05:33,710
+illustrate what's going on here whoa so
+
+159
+00:05:33,710 --> 00:05:35,900
+now we play we see all this kind of film
+
+160
+00:05:35,900 --> 00:05:39,830
+dust happening on there go back and if
+
+161
+00:05:39,830 --> 00:05:41,539
+we want to apply this to multiple Clips
+
+162
+00:05:41,539 --> 00:05:43,550
+we can just come over here while we have
+
+163
+00:05:43,550 --> 00:05:45,350
+the clip selected that has the filter
+
+164
+00:05:45,350 --> 00:05:47,450
+applied to it we hover over and there's
+
+165
+00:05:47,450 --> 00:05:49,880
+this icon that says copy the filters we
+
+166
+00:05:49,880 --> 00:05:51,590
+click copy and that'll actually copy all
+
+167
+00:05:51,590 --> 00:05:53,630
+the filters we only have one applied so
+
+168
+00:05:53,630 --> 00:05:54,950
+it doesn't really matter but it does
+
+169
+00:05:54,950 --> 00:05:56,570
+copy all of them to be aware of that and
+
+170
+00:05:56,570 --> 00:05:58,520
+then we'll come over here to this next
+
+171
+00:05:58,520 --> 00:05:59,960
+clip that doesn't have any filters and
+
+172
+00:05:59,960 --> 00:06:02,450
+then hit the paste icon and now this one
+
+173
+00:06:02,450 --> 00:06:05,000
+should have the same filter with the
+
+174
+00:06:05,000 --> 00:06:07,100
+same settings that we gave it so it
+
+175
+00:06:07,100 --> 00:06:09,020
+gives it a consistent feel across all of
+
+176
+00:06:09,020 --> 00:06:10,820
+it we come to this one do the same thing
+
+177
+00:06:10,820 --> 00:06:12,979
+come to this one do the same thing and
+
+178
+00:06:12,979 --> 00:06:14,419
+now our whole project is going to have
+
+179
+00:06:14,419 --> 00:06:17,189
+this old film look to it
+
+180
+00:06:17,189 --> 00:06:19,349
+and so that's a way that you can apply
+
+181
+00:06:19,349 --> 00:06:21,599
+multiple filters if you do have split up
+
+182
+00:06:21,599 --> 00:06:23,399
+in different clips but you want to all
+
+183
+00:06:23,399 --> 00:06:26,099
+have the same filter like there's a good
+
+184
+00:06:26,099 --> 00:06:28,229
+one - that's like white balance that you
+
+185
+00:06:28,229 --> 00:06:31,499
+use pretty commonly so for white balance
+
+186
+00:06:31,499 --> 00:06:33,959
+if you're if all your clips are shot the
+
+187
+00:06:33,959 --> 00:06:36,119
+same day in the same location but you
+
+188
+00:06:36,119 --> 00:06:37,889
+want to have them have a consistent look
+
+189
+00:06:37,889 --> 00:06:39,409
+you can adjust the white balance
+
+190
+00:06:39,409 --> 00:06:42,509
+accordingly and oops
+
+191
+00:06:42,509 --> 00:06:45,899
+that was not oh we had we applied white
+
+192
+00:06:45,899 --> 00:06:46,889
+balance to this one is that that's an
+
+193
+00:06:46,889 --> 00:06:48,809
+example of something what I was talking
+
+194
+00:06:48,809 --> 00:06:50,429
+about just not to do where we were
+
+195
+00:06:50,429 --> 00:06:52,229
+making changes to the clip without
+
+196
+00:06:52,229 --> 00:06:53,249
+looking at it so this is the white
+
+197
+00:06:53,249 --> 00:06:55,050
+balance here that we can see make it you
+
+198
+00:06:55,050 --> 00:06:59,849
+know much warmer or much colder anyway
+
+199
+00:06:59,849 --> 00:07:00,749
+hopefully you found this video
+
+200
+00:07:00,749 --> 00:07:02,279
+informative in the next one we're gonna
+
+201
+00:07:02,279 --> 00:07:04,529
+talk more about filters and specifically
+
+202
+00:07:04,529 --> 00:07:06,389
+applying audio filters and working with
+
+203
+00:07:06,389 --> 00:07:08,519
+audio in our timeline so hopefully found
+
+204
+00:07:08,519 --> 00:07:09,629
+this informative go ahead and play
+
+205
+00:07:09,629 --> 00:07:11,669
+around filters I don't forget to Like
+
+206
+00:07:11,669 --> 00:07:13,139
+comment subscribe leave your questions
+
+207
+00:07:13,139 --> 00:07:14,610
+below and I'll catch you in the next
+
+208
+00:07:14,610 --> 00:07:16,999
+video
+

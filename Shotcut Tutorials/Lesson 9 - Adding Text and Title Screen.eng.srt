@@ -1,0 +1,712 @@
+1
+00:00:02,450 --> 00:00:04,890
+welcome back to another shotcut video
+
+2
+00:00:04,890 --> 00:00:06,779
+editing tutorial in this video we'll be
+
+3
+00:00:06,779 --> 00:00:09,209
+adding text as a text overlay on top of
+
+4
+00:00:09,209 --> 00:00:11,369
+our video and also adding text title
+
+5
+00:00:11,369 --> 00:00:13,949
+screens I'm actually remaking this video
+
+6
+00:00:13,949 --> 00:00:15,809
+the last one I made I was having issues
+
+7
+00:00:15,809 --> 00:00:18,000
+with shotcut crashing when I was trying
+
+8
+00:00:18,000 --> 00:00:20,550
+to do some of the animation and like
+
+9
+00:00:20,550 --> 00:00:22,320
+animating text having an move on the
+
+10
+00:00:22,320 --> 00:00:24,990
+screen the the reason was as someone
+
+11
+00:00:24,990 --> 00:00:26,939
+pointed out on YouTube I was using an
+
+12
+00:00:26,939 --> 00:00:28,800
+outdated version so the version I'm
+
+13
+00:00:28,800 --> 00:00:31,410
+using now is the latest version the nice
+
+14
+00:00:31,410 --> 00:00:32,850
+thing about open source software is it's
+
+15
+00:00:32,850 --> 00:00:36,150
+always continually being updated and so
+
+16
+00:00:36,150 --> 00:00:37,500
+hopefully I haven't I'm actually just
+
+17
+00:00:37,500 --> 00:00:38,460
+remaking this for the first time I
+
+18
+00:00:38,460 --> 00:00:39,900
+haven't tested to see if the bugs are
+
+19
+00:00:39,900 --> 00:00:41,730
+fixed but hopefully we don't have that
+
+20
+00:00:41,730 --> 00:00:43,410
+same crashing issue we were having last
+
+21
+00:00:43,410 --> 00:00:45,750
+time so to add text it's actually a
+
+22
+00:00:45,750 --> 00:00:48,690
+filter so we bring a video into our
+
+23
+00:00:48,690 --> 00:00:51,150
+timeline while it's selected in red we
+
+24
+00:00:51,150 --> 00:00:53,520
+just click Add and it's a video filter
+
+25
+00:00:53,520 --> 00:00:56,850
+it's just called text and that adds some
+
+26
+00:00:56,850 --> 00:00:58,890
+text by default it adds the timecode so
+
+27
+00:00:58,890 --> 00:01:01,530
+if we hit play it just shows the current
+
+28
+00:01:01,530 --> 00:01:04,230
+time of the video we can also we can
+
+29
+00:01:04,230 --> 00:01:06,390
+erase that we can do frame so it shows
+
+30
+00:01:06,390 --> 00:01:08,700
+the current frame rate of the video not
+
+31
+00:01:08,700 --> 00:01:10,470
+incredibly useful for most projects but
+
+32
+00:01:10,470 --> 00:01:11,580
+there are some different things you can
+
+33
+00:01:11,580 --> 00:01:13,350
+just click here that are sort of
+
+34
+00:01:13,350 --> 00:01:16,500
+variable to your video file you can also
+
+35
+00:01:16,500 --> 00:01:18,390
+obviously just type in your own text
+
+36
+00:01:18,390 --> 00:01:20,880
+though so you say in my video and we can
+
+37
+00:01:20,880 --> 00:01:22,590
+change the color of the text so if we
+
+38
+00:01:22,590 --> 00:01:24,180
+wanted to be a different color maybe we
+
+39
+00:01:24,180 --> 00:01:25,590
+didn't want it to be like this red here
+
+40
+00:01:25,590 --> 00:01:27,540
+we can change the actual font by
+
+41
+00:01:27,540 --> 00:01:29,729
+clicking here we can choose a different
+
+42
+00:01:29,729 --> 00:01:34,290
+type of font that we like and that you
+
+43
+00:01:34,290 --> 00:01:35,970
+can also change the font size in here
+
+44
+00:01:35,970 --> 00:01:37,200
+but I wouldn't recommend doing it that
+
+45
+00:01:37,200 --> 00:01:39,240
+way to change the size you can either
+
+46
+00:01:39,240 --> 00:01:40,950
+come down here and click and just change
+
+47
+00:01:40,950 --> 00:01:43,500
+these numbers manually or you can resize
+
+48
+00:01:43,500 --> 00:01:45,780
+here by coming in the top right or left
+
+49
+00:01:45,780 --> 00:01:47,970
+or bottom corner and resize it there's
+
+50
+00:01:47,970 --> 00:01:49,590
+also a handle in the middle you can move
+
+51
+00:01:49,590 --> 00:01:53,010
+the text around if you get it sort of
+
+52
+00:01:53,010 --> 00:01:54,720
+maybe off screen or somewhere you don't
+
+53
+00:01:54,720 --> 00:01:56,700
+want you can always reset it by just
+
+54
+00:01:56,700 --> 00:01:57,750
+coming over here and clicking this
+
+55
+00:01:57,750 --> 00:02:00,000
+little like reset button that just
+
+56
+00:02:00,000 --> 00:02:01,650
+restores everything to how it was before
+
+57
+00:02:01,650 --> 00:02:04,619
+so we have position and size there's
+
+58
+00:02:04,619 --> 00:02:06,330
+also an outline that's set to zero right
+
+59
+00:02:06,330 --> 00:02:08,549
+now the thickness if we bring that up we
+
+60
+00:02:08,549 --> 00:02:10,430
+can see it gets this kind of black thick
+
+61
+00:02:10,430 --> 00:02:13,379
+outline stroke on the text and we can
+
+62
+00:02:13,379 --> 00:02:14,040
+change that
+
+63
+00:02:14,040 --> 00:02:20,340
+color as well and and then matific dance
+
+64
+00:02:20,340 --> 00:02:22,470
+I don't love it oh I always make that
+
+65
+00:02:22,470 --> 00:02:23,640
+mistake I hit the enter key which
+
+66
+00:02:23,640 --> 00:02:25,140
+toggles between our project and our
+
+67
+00:02:25,140 --> 00:02:27,180
+source so go back to the project
+
+68
+00:02:27,180 --> 00:02:28,620
+everything's there if every if maybe you
+
+69
+00:02:28,620 --> 00:02:30,569
+do the same thing if you hit Enter while
+
+70
+00:02:30,569 --> 00:02:32,879
+you're on this it'll everything goes
+
+71
+00:02:32,879 --> 00:02:33,989
+away and you're like what's going on
+
+72
+00:02:33,989 --> 00:02:35,400
+here but it's because it takes you back
+
+73
+00:02:35,400 --> 00:02:39,049
+to source we need to go back to project
+
+74
+00:02:39,049 --> 00:02:42,390
+anyway so if we can now we can change
+
+75
+00:02:42,390 --> 00:02:44,459
+this so the vertical lift if we go top
+
+76
+00:02:44,459 --> 00:02:46,799
+it Orient's the text to the top middle
+
+77
+00:02:46,799 --> 00:02:48,840
+and bottom and that's if it's
+
+78
+00:02:48,840 --> 00:02:50,640
+constrained in that orientation if we
+
+79
+00:02:50,640 --> 00:02:52,379
+constrain it this way we can go left
+
+80
+00:02:52,379 --> 00:02:55,349
+right or center so there's multiple ways
+
+81
+00:02:55,349 --> 00:02:58,769
+to move this text around I would say
+
+82
+00:02:58,769 --> 00:03:00,659
+just leave everything maybe just I like
+
+83
+00:03:00,659 --> 00:03:02,639
+to leave it centered actually and then I
+
+84
+00:03:02,639 --> 00:03:04,349
+can just move this box around and it
+
+85
+00:03:04,349 --> 00:03:06,299
+kind of behaves the way I think it
+
+86
+00:03:06,299 --> 00:03:08,849
+should I shoulda show this first maybe
+
+87
+00:03:08,849 --> 00:03:10,620
+because with the animation there's these
+
+88
+00:03:10,620 --> 00:03:12,659
+different presets here but it'll reset
+
+89
+00:03:12,659 --> 00:03:15,389
+all the coloring and any changes we made
+
+90
+00:03:15,389 --> 00:03:17,400
+to the font but if we go like slide in
+
+91
+00:03:17,400 --> 00:03:19,560
+from bottom left and go back go to the
+
+92
+00:03:19,560 --> 00:03:22,739
+beginning the text will animate in what
+
+93
+00:03:22,739 --> 00:03:24,239
+is this slide or slide in from bottom
+
+94
+00:03:24,239 --> 00:03:25,859
+not left this is just slide in from
+
+95
+00:03:25,859 --> 00:03:27,510
+bottom so the text sort of animates in
+
+96
+00:03:27,510 --> 00:03:30,780
+there and we see that there was a slide
+
+97
+00:03:30,780 --> 00:03:34,949
+in from the here's slide in from left so
+
+98
+00:03:34,949 --> 00:03:38,549
+kind of the same thing so some different
+
+99
+00:03:38,549 --> 00:03:40,500
+ways that you can do that if you want to
+
+100
+00:03:40,500 --> 00:03:41,849
+make changes to that we'll touch on this
+
+101
+00:03:41,849 --> 00:03:43,230
+more in a future video but we go to
+
+102
+00:03:43,230 --> 00:03:45,359
+keyframes and we can actually change
+
+103
+00:03:45,359 --> 00:03:47,910
+here the speed that comes in so right
+
+104
+00:03:47,910 --> 00:03:49,739
+now it comes in further quickly we can
+
+105
+00:03:49,739 --> 00:03:51,540
+click on this handle here there's sort
+
+106
+00:03:51,540 --> 00:03:54,599
+of this black triangle shaded area so
+
+107
+00:03:54,599 --> 00:03:56,909
+now it'd be much much slower as it
+
+108
+00:03:56,909 --> 00:04:00,150
+animates in again we'll touch more on
+
+109
+00:04:00,150 --> 00:04:02,609
+that that's under this keyframes tab not
+
+110
+00:04:02,609 --> 00:04:04,669
+under the timeline it's under keyframes
+
+111
+00:04:04,669 --> 00:04:06,870
+okay one more thing we're gonna try and
+
+112
+00:04:06,870 --> 00:04:08,340
+do so we'll keep this here but let's go
+
+113
+00:04:08,340 --> 00:04:11,159
+into add a title screen there's a couple
+
+114
+00:04:11,159 --> 00:04:13,470
+ways to do it if we go up to here to
+
+115
+00:04:13,470 --> 00:04:16,738
+open other we can just open a color and
+
+116
+00:04:16,738 --> 00:04:18,659
+we can just choose right now it's
+
+117
+00:04:18,659 --> 00:04:20,130
+transparent we can choose like a black
+
+118
+00:04:20,130 --> 00:04:22,169
+color and then all of a sudden we have
+
+119
+00:04:22,169 --> 00:04:24,389
+just this black in here we can bring it
+
+120
+00:04:24,389 --> 00:04:26,669
+over to our playlist and then we can
+
+121
+00:04:26,669 --> 00:04:27,850
+always just bring it down
+
+122
+00:04:27,850 --> 00:04:29,560
+we have this yeah so we should be able
+
+123
+00:04:29,560 --> 00:04:31,660
+to bring this down and insert it into
+
+124
+00:04:31,660 --> 00:04:34,900
+our video clip so I didn't do that in
+
+125
+00:04:34,900 --> 00:04:36,130
+the right place but that's okay I'll
+
+126
+00:04:36,130 --> 00:04:39,340
+just erase this so now we have some some
+
+127
+00:04:39,340 --> 00:04:41,980
+empty blackness right before our video
+
+128
+00:04:41,980 --> 00:04:43,540
+and then it kind of jumps in to our
+
+129
+00:04:43,540 --> 00:04:47,080
+video here so we can get we can select
+
+130
+00:04:47,080 --> 00:04:48,760
+this clip we can go to filters we go to
+
+131
+00:04:48,760 --> 00:04:51,760
+add text and we can put text right onto
+
+132
+00:04:51,760 --> 00:04:53,710
+this clip just like we would if it were
+
+133
+00:04:53,710 --> 00:04:56,290
+a video clip let me show you another way
+
+134
+00:04:56,290 --> 00:04:57,970
+to do it though if we delete this we can
+
+135
+00:04:57,970 --> 00:05:00,910
+also go to open other and we just go to
+
+136
+00:05:00,910 --> 00:05:03,400
+text what that does is by default it
+
+137
+00:05:03,400 --> 00:05:05,170
+opens up a background with text already
+
+138
+00:05:05,170 --> 00:05:07,900
+on it and we can put our own text so we
+
+139
+00:05:07,900 --> 00:05:11,800
+can say this is my video and then we
+
+140
+00:05:11,800 --> 00:05:13,330
+choose the color of the background this
+
+141
+00:05:13,330 --> 00:05:16,110
+time maybe let's do a darker blue color
+
+142
+00:05:16,110 --> 00:05:19,000
+and then we just hit OK and now we have
+
+143
+00:05:19,000 --> 00:05:22,540
+a well so this is just up here in our
+
+144
+00:05:22,540 --> 00:05:24,220
+sources if we navigate away from it
+
+145
+00:05:24,220 --> 00:05:25,780
+we'll lose it so we can left-click and
+
+146
+00:05:25,780 --> 00:05:29,440
+bring the whole clip into our playlist
+
+147
+00:05:29,440 --> 00:05:30,910
+in case we ever want to grab it again
+
+148
+00:05:30,910 --> 00:05:32,770
+because now if we click up here we're on
+
+149
+00:05:32,770 --> 00:05:34,390
+something out so we get back to it and
+
+150
+00:05:34,390 --> 00:05:36,400
+then we can drag it down into our
+
+151
+00:05:36,400 --> 00:05:41,650
+timeline and so now we have this text
+
+152
+00:05:41,650 --> 00:05:45,220
+I'm on the back of blue and someone
+
+153
+00:05:45,220 --> 00:05:46,960
+brought up two when we touch on
+
+154
+00:05:46,960 --> 00:05:49,750
+transitions with this ripple select or
+
+155
+00:05:49,750 --> 00:05:51,520
+this ripple trim and drop this let sit
+
+156
+00:05:51,520 --> 00:05:52,900
+so if we move forward it'll just
+
+157
+00:05:52,900 --> 00:05:55,180
+automatically push forward everything if
+
+158
+00:05:55,180 --> 00:05:57,610
+this were not selected we would create a
+
+159
+00:05:57,610 --> 00:06:00,640
+transition between these two and and
+
+160
+00:06:00,640 --> 00:06:02,290
+when bringing in Clips it behaves
+
+161
+00:06:02,290 --> 00:06:03,670
+differently as well so play with
+
+162
+00:06:03,670 --> 00:06:05,040
+toggling this on and off I think I
+
+163
+00:06:05,040 --> 00:06:07,780
+didn't touch on that too much when I was
+
+164
+00:06:07,780 --> 00:06:10,990
+going over that at the beginning yeah
+
+165
+00:06:10,990 --> 00:06:12,430
+let's see what this looks like this will
+
+166
+00:06:12,430 --> 00:06:15,190
+be I can fade crossfade transition with
+
+167
+00:06:15,190 --> 00:06:17,860
+text anyway hopefully you found that
+
+168
+00:06:17,860 --> 00:06:19,300
+informative and as you can see we did
+
+169
+00:06:19,300 --> 00:06:20,890
+some we played with it nothing crashed
+
+170
+00:06:20,890 --> 00:06:23,140
+so huge shout out to the shotgun
+
+171
+00:06:23,140 --> 00:06:24,670
+developers for always continually
+
+172
+00:06:24,670 --> 00:06:27,700
+improving this software if you find the
+
+173
+00:06:27,700 --> 00:06:30,760
+software useful consider visiting shot
+
+174
+00:06:30,760 --> 00:06:32,710
+cut the official website I'll include
+
+175
+00:06:32,710 --> 00:06:34,030
+the link in description of this video to
+
+176
+00:06:34,030 --> 00:06:36,460
+show your support for this software and
+
+177
+00:06:36,460 --> 00:06:38,140
+for the developers thanks for watching
+
+178
+00:06:38,140 --> 00:06:41,400
+catch you in the next video
+

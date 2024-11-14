@@ -1,0 +1,832 @@
+1
+00:00:02,240 --> 00:00:04,800
+welcome back to another shotcut video
+
+2
+00:00:04,800 --> 00:00:06,570
+editing tutorial in this video we're
+
+3
+00:00:06,570 --> 00:00:08,730
+going to be looking at the green screen
+
+4
+00:00:08,730 --> 00:00:12,690
+chroma key feature and taking out a
+
+5
+00:00:12,690 --> 00:00:15,089
+certain color and then compositing it
+
+6
+00:00:15,089 --> 00:00:17,609
+over a different video so should be a
+
+7
+00:00:17,609 --> 00:00:19,349
+lot of fun what we're gonna do first is
+
+8
+00:00:19,349 --> 00:00:21,599
+click here and go to add video track and
+
+9
+00:00:21,599 --> 00:00:23,220
+then add video track we need to have two
+
+10
+00:00:23,220 --> 00:00:26,550
+tracks because we need a video for our
+
+11
+00:00:26,550 --> 00:00:27,869
+background I'm just going to choose this
+
+12
+00:00:27,869 --> 00:00:30,749
+one in this case so whatever's on this
+
+13
+00:00:30,749 --> 00:00:32,070
+lower track will appear in the
+
+14
+00:00:32,070 --> 00:00:33,780
+background and then whatever we place on
+
+15
+00:00:33,780 --> 00:00:36,090
+top of it so in this case it'll be our
+
+16
+00:00:36,090 --> 00:00:38,130
+clip with a green or blue screen or a
+
+17
+00:00:38,130 --> 00:00:39,990
+consistent color that we want to remove
+
+18
+00:00:39,990 --> 00:00:43,860
+and so what we'll do is take out this so
+
+19
+00:00:43,860 --> 00:00:46,650
+if we play it now we see that it's just
+
+20
+00:00:46,650 --> 00:00:49,050
+the green we're not seeing this
+
+21
+00:00:49,050 --> 00:00:50,430
+background like we want it we want to
+
+22
+00:00:50,430 --> 00:00:52,620
+see the jet of course but we don't want
+
+23
+00:00:52,620 --> 00:00:53,790
+to see this green we want it to be
+
+24
+00:00:53,790 --> 00:00:56,010
+transparent so to turn it transparent we
+
+25
+00:00:56,010 --> 00:00:58,620
+use the chroma key feature and basically
+
+26
+00:00:58,620 --> 00:01:01,560
+it's a filter so we add it as under
+
+27
+00:01:01,560 --> 00:01:03,060
+video and it's just chroma key there
+
+28
+00:01:03,060 --> 00:01:05,069
+simple and advanced we'll just start
+
+29
+00:01:05,069 --> 00:01:07,560
+with simple and we see that by default
+
+30
+00:01:07,560 --> 00:01:09,960
+since it's it was set up for this green
+
+31
+00:01:09,960 --> 00:01:11,880
+color we can choose a certain color so
+
+32
+00:01:11,880 --> 00:01:14,250
+this is what it might look like oh
+
+33
+00:01:14,250 --> 00:01:16,020
+actually we want to black either if we
+
+34
+00:01:16,020 --> 00:01:17,909
+choose a weird color that this doesn't
+
+35
+00:01:17,909 --> 00:01:19,320
+have then we kind of see what this
+
+36
+00:01:19,320 --> 00:01:21,450
+looked like originally and then we can
+
+37
+00:01:21,450 --> 00:01:23,610
+actually take this eyedropper and select
+
+38
+00:01:23,610 --> 00:01:26,400
+this green color to really help it look
+
+39
+00:01:26,400 --> 00:01:28,620
+more natural there's still a little bit
+
+40
+00:01:28,620 --> 00:01:30,240
+of green up here we can see it looks a
+
+41
+00:01:30,240 --> 00:01:32,790
+little bit strange but at least this
+
+42
+00:01:32,790 --> 00:01:34,920
+actually isn't too bad so the video
+
+43
+00:01:34,920 --> 00:01:36,990
+still playing in the background and then
+
+44
+00:01:36,990 --> 00:01:38,729
+we also have this jet just flying away
+
+45
+00:01:38,729 --> 00:01:40,979
+from the house super low to the ground
+
+46
+00:01:40,979 --> 00:01:45,510
+and then yeah that's that so I'm not too
+
+47
+00:01:45,510 --> 00:01:47,370
+bad and then if we want to we can bring
+
+48
+00:01:47,370 --> 00:01:49,020
+that in and see some of that green that
+
+49
+00:01:49,020 --> 00:01:50,909
+we don't really would like to adjust a
+
+50
+00:01:50,909 --> 00:01:53,010
+little bit we can adjust and fine-tune
+
+51
+00:01:53,010 --> 00:01:55,170
+here and see so that kind of makes that
+
+52
+00:01:55,170 --> 00:01:57,869
+all kind of green in we can adjust until
+
+53
+00:01:57,869 --> 00:01:59,460
+a lot of that green goes away but if we
+
+54
+00:01:59,460 --> 00:02:01,770
+go too far we start losing some of our
+
+55
+00:02:01,770 --> 00:02:04,740
+some clarity too so we just adjust there
+
+56
+00:02:04,740 --> 00:02:06,900
+and that looks pretty good
+
+57
+00:02:06,900 --> 00:02:11,460
+yeah not too bad though huh it helps
+
+58
+00:02:11,460 --> 00:02:13,200
+that my video clip if I go back to the
+
+59
+00:02:13,200 --> 00:02:15,480
+source it helps that these video clips
+
+60
+00:02:15,480 --> 00:02:17,280
+are the same size
+
+61
+00:02:17,280 --> 00:02:20,130
+I go to properties I see is 1920 by 1080
+
+62
+00:02:20,130 --> 00:02:21,990
+both of them are which makes it nice
+
+63
+00:02:21,990 --> 00:02:23,760
+otherwise that jet would be really small
+
+64
+00:02:23,760 --> 00:02:26,190
+and I would have to scale it first if it
+
+65
+00:02:26,190 --> 00:02:27,600
+were smaller than my source of it than
+
+66
+00:02:27,600 --> 00:02:29,820
+my the other video I was compositing it
+
+67
+00:02:29,820 --> 00:02:32,190
+against or vice versa so when doing
+
+68
+00:02:32,190 --> 00:02:33,480
+chroma key it's a good idea to always
+
+69
+00:02:33,480 --> 00:02:35,370
+have your your Clips be the same size
+
+70
+00:02:35,370 --> 00:02:37,620
+but it's not necessary I mean we can
+
+71
+00:02:37,620 --> 00:02:39,480
+always change it in fact what we could
+
+72
+00:02:39,480 --> 00:02:41,580
+do if we want this jet to be a little
+
+73
+00:02:41,580 --> 00:02:43,290
+bit smaller and just up here in the sky
+
+74
+00:02:43,290 --> 00:02:46,440
+we could now go to filters and apply a
+
+75
+00:02:46,440 --> 00:02:51,270
+size what do I do a size and position we
+
+76
+00:02:51,270 --> 00:02:53,280
+click on this go to filters go to add
+
+77
+00:02:53,280 --> 00:02:57,090
+and we type in size and position so now
+
+78
+00:02:57,090 --> 00:02:59,340
+we can actually take this and we can
+
+79
+00:02:59,340 --> 00:03:01,890
+resize it and it resizes it with the
+
+80
+00:03:01,890 --> 00:03:03,750
+green screen and we can kind of put it
+
+81
+00:03:03,750 --> 00:03:06,870
+up here I don't know if this is gonna
+
+82
+00:03:06,870 --> 00:03:08,280
+make anything because you didn't look
+
+83
+00:03:08,280 --> 00:03:10,200
+good or not let's go to the beginning of
+
+84
+00:03:10,200 --> 00:03:12,060
+see now we have the jet just sort of up
+
+85
+00:03:12,060 --> 00:03:15,830
+there slowly flying by this part of it
+
+86
+00:03:15,830 --> 00:03:20,580
+right there so you can do you know
+
+87
+00:03:20,580 --> 00:03:22,910
+multiple and a lot of times you will do
+
+88
+00:03:22,910 --> 00:03:26,489
+size and position and scale your green
+
+89
+00:03:26,489 --> 00:03:28,800
+screened object because you want it to
+
+90
+00:03:28,800 --> 00:03:30,150
+just be floating in the middle of your
+
+91
+00:03:30,150 --> 00:03:33,000
+of your video let's look at doing one
+
+92
+00:03:33,000 --> 00:03:34,470
+more well let's look at the advanced now
+
+93
+00:03:34,470 --> 00:03:37,020
+so I'm going to click on here and delete
+
+94
+00:03:37,020 --> 00:03:38,910
+and that gets rid of all the effects we
+
+95
+00:03:38,910 --> 00:03:41,670
+did too and then might as well just
+
+96
+00:03:41,670 --> 00:03:44,010
+since we're deleting anyway let's bring
+
+97
+00:03:44,010 --> 00:03:47,340
+in this is a cool one this door so let's
+
+98
+00:03:47,340 --> 00:03:49,260
+bring in this clip that I'm sure you're
+
+99
+00:03:49,260 --> 00:03:51,989
+not sick of yet and let's bring in this
+
+100
+00:03:51,989 --> 00:03:55,560
+one so what we're gonna do is have this
+
+101
+00:03:55,560 --> 00:04:00,170
+door open and we'll see hopefully
+
+102
+00:04:00,170 --> 00:04:02,310
+someone playing the banjo out on the
+
+103
+00:04:02,310 --> 00:04:04,800
+back porch but so we after this green is
+
+104
+00:04:04,800 --> 00:04:07,230
+a lot more pale and then that last one
+
+105
+00:04:07,230 --> 00:04:08,550
+we were looking at so let's see how this
+
+106
+00:04:08,550 --> 00:04:10,830
+works we go to filters we select the
+
+107
+00:04:10,830 --> 00:04:13,709
+clip with the door we go to add video
+
+108
+00:04:13,709 --> 00:04:17,399
+and we go to let's try now we'll just do
+
+109
+00:04:17,399 --> 00:04:19,048
+the advanced so we need to pick the
+
+110
+00:04:19,048 --> 00:04:21,120
+color so we'll grab our I draw
+
+111
+00:04:21,120 --> 00:04:23,729
+and tell it that that shade well look at
+
+112
+00:04:23,729 --> 00:04:26,850
+that pretty good so far so that's the
+
+113
+00:04:26,850 --> 00:04:29,820
+shade we want and then let's move this
+
+114
+00:04:29,820 --> 00:04:32,610
+video a little bit where is it at so we
+
+115
+00:04:32,610 --> 00:04:35,790
+go to size and position so let's move
+
+116
+00:04:35,790 --> 00:04:37,440
+this over a little bit here so we can Oh
+
+117
+00:04:37,440 --> 00:04:40,440
+wrong one control let's get rid of size
+
+118
+00:04:40,440 --> 00:04:43,139
+in position there let's come over here
+
+119
+00:04:43,139 --> 00:04:47,040
+and let's apply a size and position to
+
+120
+00:04:47,040 --> 00:04:52,199
+this background video so we go now we
+
+121
+00:04:52,199 --> 00:04:56,750
+can move this and have it be back here
+
+122
+00:04:58,639 --> 00:05:02,690
+this is my buddy Reef playing the banjo
+
+123
+00:05:02,690 --> 00:05:06,720
+alright so here we go not too bad
+
+124
+00:05:06,720 --> 00:05:09,900
+so this door gets opened and reached out
+
+125
+00:05:09,900 --> 00:05:13,199
+here larger-than-life playing banjo ok
+
+126
+00:05:13,199 --> 00:05:14,820
+we can make some adjustments on here now
+
+127
+00:05:14,820 --> 00:05:16,470
+so we come back to this one that has the
+
+128
+00:05:16,470 --> 00:05:18,660
+the chroma key and now we can make some
+
+129
+00:05:18,660 --> 00:05:20,130
+adjustments just like we did before on
+
+130
+00:05:20,130 --> 00:05:22,110
+this simple well now this basically has
+
+131
+00:05:22,110 --> 00:05:23,699
+some different ones that we can adjust
+
+132
+00:05:23,699 --> 00:05:26,400
+so we can do this one we don't want to
+
+133
+00:05:26,400 --> 00:05:28,349
+start getting rid of that door though so
+
+134
+00:05:28,349 --> 00:05:29,880
+we kind of make some changes here to get
+
+135
+00:05:29,880 --> 00:05:31,410
+rid of some of that green and some of
+
+136
+00:05:31,410 --> 00:05:35,520
+that weird-looking yeah just some
+
+137
+00:05:35,520 --> 00:05:37,680
+artifacting happening there so we don't
+
+138
+00:05:37,680 --> 00:05:39,090
+we again we don't want to go too much
+
+139
+00:05:39,090 --> 00:05:42,630
+and we digest we can apply some lighting
+
+140
+00:05:42,630 --> 00:05:43,919
+filters too to kind of match the
+
+141
+00:05:43,919 --> 00:05:45,870
+lighting since this is done in a studio
+
+142
+00:05:45,870 --> 00:05:49,560
+and this one's done out doors oh by the
+
+143
+00:05:49,560 --> 00:05:51,180
+way I should just mention both of these
+
+144
+00:05:51,180 --> 00:05:55,260
+clips I got from pixabay so there's some
+
+145
+00:05:55,260 --> 00:05:57,240
+different Clips you can get include the
+
+146
+00:05:57,240 --> 00:05:58,410
+link it's pixabay.com
+
+147
+00:05:58,410 --> 00:06:02,760
+and some great open source or very open
+
+148
+00:06:02,760 --> 00:06:05,220
+licensing for getting some nice video
+
+149
+00:06:05,220 --> 00:06:07,490
+clips if you need something to work with
+
+150
+00:06:07,490 --> 00:06:09,990
+oh and then you can change what also
+
+151
+00:06:09,990 --> 00:06:11,250
+other settings you're not exactly sure
+
+152
+00:06:11,250 --> 00:06:13,620
+what these do but see it changes the the
+
+153
+00:06:13,620 --> 00:06:15,479
+way this appears so play with some of
+
+154
+00:06:15,479 --> 00:06:17,729
+these settings and see that floor looks
+
+155
+00:06:17,729 --> 00:06:19,139
+a little bit strange it's all black
+
+156
+00:06:19,139 --> 00:06:22,380
+there so some of these we can change and
+
+157
+00:06:22,380 --> 00:06:23,610
+make it look a little bit more natural
+
+158
+00:06:23,610 --> 00:06:28,530
+and then this shape kind of just affects
+
+159
+00:06:28,530 --> 00:06:29,849
+I actually don't know exactly what it
+
+160
+00:06:29,849 --> 00:06:31,919
+does but it affects the way the green
+
+161
+00:06:31,919 --> 00:06:32,990
+screening works
+
+162
+00:06:32,990 --> 00:06:36,470
+we'll go back to the ellipse maybe there
+
+163
+00:06:36,470 --> 00:06:39,850
+you have it that is doing chroma key in
+
+164
+00:06:39,850 --> 00:06:42,500
+shot cut actually really not too bad at
+
+165
+00:06:42,500 --> 00:06:42,830
+all
+
+166
+00:06:42,830 --> 00:06:45,320
+this invert here actually inverts it the
+
+167
+00:06:45,320 --> 00:06:47,390
+other way around so now we're seeing the
+
+168
+00:06:47,390 --> 00:06:48,860
+base basically it's like switching these
+
+169
+00:06:48,860 --> 00:06:50,930
+two clips so now we're actually seeing
+
+170
+00:06:50,930 --> 00:06:52,340
+this part of the green screen
+
+171
+00:06:52,340 --> 00:06:55,940
+everything else is masked out but yeah
+
+172
+00:06:55,940 --> 00:06:59,060
+play with that and let me know if you
+
+173
+00:06:59,060 --> 00:07:01,010
+have any questions comments below this
+
+174
+00:07:01,010 --> 00:07:03,260
+might be the last shot cut video I do in
+
+175
+00:07:03,260 --> 00:07:06,290
+a little while but I'll keep adding to
+
+176
+00:07:06,290 --> 00:07:08,630
+as more projects come to mind just so
+
+177
+00:07:08,630 --> 00:07:10,130
+you know I have been using shot cut to
+
+178
+00:07:10,130 --> 00:07:12,770
+compile all of these video this video
+
+179
+00:07:12,770 --> 00:07:15,920
+tutorial series and there's been some
+
+180
+00:07:15,920 --> 00:07:17,090
+pluses and minuses you know if you've
+
+181
+00:07:17,090 --> 00:07:17,990
+been watching the last couple videos
+
+182
+00:07:17,990 --> 00:07:20,180
+we've had some crashes I'm haven't been
+
+183
+00:07:20,180 --> 00:07:22,510
+really impressed with the stability of
+
+184
+00:07:22,510 --> 00:07:26,660
+of shot cut but what I will say is the
+
+185
+00:07:26,660 --> 00:07:28,040
+rendering is very quick so it's actually
+
+186
+00:07:28,040 --> 00:07:29,780
+faster rendering when we go to export
+
+187
+00:07:29,780 --> 00:07:32,060
+our video the rendering is much quicker
+
+188
+00:07:32,060 --> 00:07:34,520
+than kdenlive it takes full advantage or
+
+189
+00:07:34,520 --> 00:07:36,700
+a lot more advantage of GPU and CPU
+
+190
+00:07:36,700 --> 00:07:39,140
+whereas for the time being kdenlive is
+
+191
+00:07:39,140 --> 00:07:42,080
+only cpu rendering at least without some
+
+192
+00:07:42,080 --> 00:07:44,270
+workarounds so I do like the rendering I
+
+193
+00:07:44,270 --> 00:07:46,550
+love the simplicity of the interface I
+
+194
+00:07:46,550 --> 00:07:48,470
+think for like your grandma this would
+
+195
+00:07:48,470 --> 00:07:50,210
+be the best open source program she can
+
+196
+00:07:50,210 --> 00:07:52,430
+use for video editing but when you do
+
+197
+00:07:52,430 --> 00:07:54,080
+get into the upper end of some of the
+
+198
+00:07:54,080 --> 00:07:57,440
+different effects transitions filters I
+
+199
+00:07:57,440 --> 00:07:59,150
+think you can want to go over towards
+
+200
+00:07:59,150 --> 00:08:01,760
+kdenlive or something like The DaVinci
+
+201
+00:08:01,760 --> 00:08:04,040
+Resolve if you want more you know some
+
+202
+00:08:04,040 --> 00:08:06,230
+of those more advanced features anyway I
+
+203
+00:08:06,230 --> 00:08:07,790
+really appreciate you sticking with me
+
+204
+00:08:07,790 --> 00:08:09,890
+and watching this tutorial series go
+
+205
+00:08:09,890 --> 00:08:11,060
+ahead and like comment subscribe leave
+
+206
+00:08:11,060 --> 00:08:13,040
+your questions below and I hope to see
+
+207
+00:08:13,040 --> 00:08:14,630
+you soon in another video tutorial
+
+208
+00:08:14,630 --> 00:08:16,840
+series
+

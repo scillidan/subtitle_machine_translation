@@ -1,0 +1,844 @@
+1
+00:00:02,360 --> 00:00:05,009
+welcome back to another shotcut tutorial
+
+2
+00:00:05,009 --> 00:00:06,570
+in this video we'll be working with
+
+3
+00:00:06,570 --> 00:00:08,669
+multiple audio tracks we're gonna add
+
+4
+00:00:08,669 --> 00:00:11,099
+music to a video and we're going to look
+
+5
+00:00:11,099 --> 00:00:13,409
+at the audio filters and effects in shot
+
+6
+00:00:13,409 --> 00:00:15,839
+cut so to get started I'm going to open
+
+7
+00:00:15,839 --> 00:00:17,519
+a file and I'm going to open up just
+
+8
+00:00:17,519 --> 00:00:20,730
+this that's an mp3 music file so I'll
+
+9
+00:00:20,730 --> 00:00:22,529
+open that up and we see it appears here
+
+10
+00:00:22,529 --> 00:00:24,480
+it starts playing its gonna follow the
+
+11
+00:00:24,480 --> 00:00:26,339
+same rules as if it were a video clip so
+
+12
+00:00:26,339 --> 00:00:28,140
+we can jump to a certain part hit the
+
+13
+00:00:28,140 --> 00:00:31,349
+spacebar to play or we can control here
+
+14
+00:00:31,349 --> 00:00:33,540
+and play it and we can go reverse go to
+
+15
+00:00:33,540 --> 00:00:36,030
+the beginning if we drag this down to
+
+16
+00:00:36,030 --> 00:00:38,220
+our timeline it'll appear and it comes
+
+17
+00:00:38,220 --> 00:00:41,730
+on as a video track v1 so we can play it
+
+18
+00:00:41,730 --> 00:00:43,230
+here and now we're watching it in the
+
+19
+00:00:43,230 --> 00:00:47,070
+video track as opposed to our source but
+
+20
+00:00:47,070 --> 00:00:48,480
+what we really want is an audio track
+
+21
+00:00:48,480 --> 00:00:49,980
+here so we could leave it in in the
+
+22
+00:00:49,980 --> 00:00:51,720
+video track it's just gonna play as a
+
+23
+00:00:51,720 --> 00:00:54,960
+video with a black background whatever
+
+24
+00:00:54,960 --> 00:00:56,730
+the our settings are I think 1920 by
+
+25
+00:00:56,730 --> 00:00:59,340
+1080 but if we click on filters here or
+
+26
+00:00:59,340 --> 00:01:00,810
+like we learned in the last video we can
+
+27
+00:01:00,810 --> 00:01:02,400
+also click filters up here it does the
+
+28
+00:01:02,400 --> 00:01:04,650
+same thing it just brings up the filters
+
+29
+00:01:04,650 --> 00:01:08,040
+tab and then it says what is selected is
+
+30
+00:01:08,040 --> 00:01:10,880
+this Bach concerto in D for two violins
+
+31
+00:01:10,880 --> 00:01:14,850
+D minor and it's selected in red and so
+
+32
+00:01:14,850 --> 00:01:16,950
+we can zoom out and kind of see this
+
+33
+00:01:16,950 --> 00:01:18,900
+selection so anything we apply will
+
+34
+00:01:18,900 --> 00:01:21,330
+happen to this entire selection which is
+
+35
+00:01:21,330 --> 00:01:23,610
+the entire audio so I'll just click this
+
+36
+00:01:23,610 --> 00:01:26,520
+plus and if we click on audio it'll show
+
+37
+00:01:26,520 --> 00:01:28,020
+us different audio effects so we have
+
+38
+00:01:28,020 --> 00:01:30,180
+fade in and fade out of the audio we
+
+39
+00:01:30,180 --> 00:01:32,159
+have gain and volume which is I use
+
+40
+00:01:32,159 --> 00:01:34,050
+quite a bit to increase or decrease the
+
+41
+00:01:34,050 --> 00:01:37,800
+volume of a clip balance and pan are
+
+42
+00:01:37,800 --> 00:01:40,470
+going to be for like right and left so
+
+43
+00:01:40,470 --> 00:01:41,550
+let's click on just to show you I'll
+
+44
+00:01:41,550 --> 00:01:43,860
+click on this gain volume 1 and the
+
+45
+00:01:43,860 --> 00:01:45,930
+option we have here is just level so
+
+46
+00:01:45,930 --> 00:01:47,580
+it's just a single level if we hit play
+
+47
+00:01:47,580 --> 00:01:49,380
+we can look over here in this audio peak
+
+48
+00:01:49,380 --> 00:01:51,240
+meter and we can kind of see what this
+
+49
+00:01:51,240 --> 00:01:55,049
+is doing here so this is the volume
+
+50
+00:01:55,049 --> 00:01:58,470
+right now if we adjust it lower the
+
+51
+00:01:58,470 --> 00:02:00,690
+volume gets softer and we can see over
+
+52
+00:02:00,690 --> 00:02:02,940
+here it's you know down to negative 40
+
+53
+00:02:02,940 --> 00:02:06,960
+50 decibels if we go up above 0 it'll
+
+54
+00:02:06,960 --> 00:02:08,969
+get louder and if we go too high it's
+
+55
+00:02:08,969 --> 00:02:10,258
+gonna get red
+
+56
+00:02:10,258 --> 00:02:13,459
+and kind of clip out at certain points
+
+57
+00:02:13,459 --> 00:02:15,870
+so we want to avoid that read whenever
+
+58
+00:02:15,870 --> 00:02:22,560
+adjusting audio okay well I want to show
+
+59
+00:02:22,560 --> 00:02:23,819
+you though so this is on the video track
+
+60
+00:02:23,819 --> 00:02:25,319
+so suppose we did want to bring in some
+
+61
+00:02:25,319 --> 00:02:27,599
+video too we can go open file we can
+
+62
+00:02:27,599 --> 00:02:31,200
+find some video here so I'll just do
+
+63
+00:02:31,200 --> 00:02:35,129
+this go to this clip right here so this
+
+64
+00:02:35,129 --> 00:02:37,079
+clip already has some audio associated
+
+65
+00:02:37,079 --> 00:02:38,819
+with it if I were to bring it down right
+
+66
+00:02:38,819 --> 00:02:39,269
+now
+
+67
+00:02:39,269 --> 00:02:42,299
+it would overwrite whatever portion this
+
+68
+00:02:42,299 --> 00:02:43,829
+white portion it would actually
+
+69
+00:02:43,829 --> 00:02:47,400
+overwrite the audio we could also do if
+
+70
+00:02:47,400 --> 00:02:49,950
+we check this little icon here this
+
+71
+00:02:49,950 --> 00:02:52,139
+ripple trim and drop what it will do now
+
+72
+00:02:52,139 --> 00:02:55,409
+it changes from overwrite to insert so
+
+73
+00:02:55,409 --> 00:02:56,730
+what this will actually do is break the
+
+74
+00:02:56,730 --> 00:02:59,579
+audio so we'll come in the very
+
+75
+00:02:59,579 --> 00:03:01,379
+beginning we'll play the audio here and
+
+76
+00:03:01,379 --> 00:03:05,370
+what it'll do if I were to take that oh
+
+77
+00:03:05,370 --> 00:03:07,230
+now I lost my video see it's not in the
+
+78
+00:03:07,230 --> 00:03:08,700
+playlist because all I did was open that
+
+79
+00:03:08,700 --> 00:03:10,170
+so we have to reopen the video again and
+
+80
+00:03:10,170 --> 00:03:13,920
+I drag it down pause we drag it down
+
+81
+00:03:13,920 --> 00:03:15,900
+we're gonna point to insert this video
+
+82
+00:03:15,900 --> 00:03:20,269
+so now the video is inserted here
+
+83
+00:03:20,660 --> 00:03:22,769
+meaning it'll play the video and then
+
+84
+00:03:22,769 --> 00:03:28,799
+pick up right where I left off and so
+
+85
+00:03:28,799 --> 00:03:31,560
+it's not actually over it didn't
+
+86
+00:03:31,560 --> 00:03:34,010
+overwrite the audio if that makes sense
+
+87
+00:03:34,010 --> 00:03:36,239
+anyway what we can actually do if we
+
+88
+00:03:36,239 --> 00:03:37,410
+don't want to have it on the same track
+
+89
+00:03:37,410 --> 00:03:38,730
+which we don't really that's not ideal
+
+90
+00:03:38,730 --> 00:03:40,620
+we want to be able to play the waterfall
+
+91
+00:03:40,620 --> 00:03:42,419
+and have the music playing in the
+
+92
+00:03:42,419 --> 00:03:43,019
+background
+
+93
+00:03:43,019 --> 00:03:45,449
+so we need a separate audio track to do
+
+94
+00:03:45,449 --> 00:03:47,129
+that we click these three lines here and
+
+95
+00:03:47,129 --> 00:03:50,069
+we go add audio track now we have an A
+
+96
+00:03:50,069 --> 00:03:53,370
+one A one down here and V one here so
+
+97
+00:03:53,370 --> 00:03:55,169
+that a is the audio track and the V is
+
+98
+00:03:55,169 --> 00:03:57,090
+the video so we see the video has an
+
+99
+00:03:57,090 --> 00:04:00,150
+option for turning on and off the video
+
+100
+00:04:00,150 --> 00:04:02,519
+turning on and off the sound this lock
+
+101
+00:04:02,519 --> 00:04:04,620
+icon just locks the track and keeps it
+
+102
+00:04:04,620 --> 00:04:07,349
+so we can't edit it at all but that down
+
+103
+00:04:07,349 --> 00:04:08,669
+here on the audio track it has an option
+
+104
+00:04:08,669 --> 00:04:10,349
+for turning off the audio and locking
+
+105
+00:04:10,349 --> 00:04:12,090
+but there's no picture because the video
+
+106
+00:04:12,090 --> 00:04:15,209
+track only has audio with it so then
+
+107
+00:04:15,209 --> 00:04:16,680
+we'll have to open up because I'm not
+
+108
+00:04:16,680 --> 00:04:18,870
+using this play the playlist I probably
+
+109
+00:04:18,870 --> 00:04:21,180
+should do that if we go open file we
+
+110
+00:04:21,180 --> 00:04:23,690
+have to go back to our audio file
+
+111
+00:04:23,690 --> 00:04:26,540
+and bring it in here we can drag it to
+
+112
+00:04:26,540 --> 00:04:27,890
+the playlist and then we won't keep
+
+113
+00:04:27,890 --> 00:04:30,050
+losing it every time and then we also
+
+114
+00:04:30,050 --> 00:04:33,350
+drag it down to our audio track so we
+
+115
+00:04:33,350 --> 00:04:34,790
+put it down here in the audio track it's
+
+116
+00:04:34,790 --> 00:04:36,830
+to the very beginning and now we'll just
+
+117
+00:04:36,830 --> 00:04:40,010
+click this and hit delete and that
+
+118
+00:04:40,010 --> 00:04:41,630
+deleted that just that part of the audio
+
+119
+00:04:41,630 --> 00:04:43,340
+will click this first part and hit all
+
+120
+00:04:43,340 --> 00:04:44,870
+that the this one here this is the
+
+121
+00:04:44,870 --> 00:04:46,580
+ripple delete so it deletes and sucks it
+
+122
+00:04:46,580 --> 00:04:48,680
+back to the beginning and now we'll have
+
+123
+00:04:48,680 --> 00:04:50,720
+both the waterfall and the music playing
+
+124
+00:04:50,720 --> 00:04:52,910
+because the video has its own audio
+
+125
+00:04:52,910 --> 00:04:55,730
+track and the audio is on a separate
+
+126
+00:04:55,730 --> 00:04:57,230
+track from the video so we have two
+
+127
+00:04:57,230 --> 00:04:59,360
+audio sources and one video source
+
+128
+00:04:59,360 --> 00:05:05,270
+playing and maybe if we find so this
+
+129
+00:05:05,270 --> 00:05:07,490
+audio down here doesn't have the effects
+
+130
+00:05:07,490 --> 00:05:09,020
+we applied to it if we click on filters
+
+131
+00:05:09,020 --> 00:05:10,760
+we see there's no effect because that
+
+132
+00:05:10,760 --> 00:05:12,110
+effect we applied was up here on this
+
+133
+00:05:12,110 --> 00:05:13,790
+other one that we deleted so we'd have
+
+134
+00:05:13,790 --> 00:05:15,860
+to reapply this it sounds like the
+
+135
+00:05:15,860 --> 00:05:18,050
+waterfall is a little bit too noisy so
+
+136
+00:05:18,050 --> 00:05:20,300
+we can actually click this plus and add
+
+137
+00:05:20,300 --> 00:05:25,700
+in this gain volume to the audio of see
+
+138
+00:05:25,700 --> 00:05:28,160
+what's selected just the video clip so
+
+139
+00:05:28,160 --> 00:05:32,210
+we'll turn that down and now that the we
+
+140
+00:05:32,210 --> 00:05:33,500
+should hear the music a lot more than
+
+141
+00:05:33,500 --> 00:05:35,570
+than the audio then the audio from the
+
+142
+00:05:35,570 --> 00:05:36,560
+waterfall
+
+143
+00:05:36,560 --> 00:05:40,790
+[Music]
+
+144
+00:05:40,960 --> 00:05:43,940
+that's kind of cool and then we can add
+
+145
+00:05:43,940 --> 00:05:45,620
+in other ones too we can do like
+
+146
+00:05:45,620 --> 00:05:47,300
+balances gonna be left and right if it
+
+147
+00:05:47,300 --> 00:05:48,380
+comes out of the left speaker or the
+
+148
+00:05:48,380 --> 00:05:53,060
+right speaker we can add in fade in so
+
+149
+00:05:53,060 --> 00:05:54,980
+if we hadn't fade in it kind of you can
+
+150
+00:05:54,980 --> 00:05:58,070
+see we'll zoom in here a little bit so
+
+151
+00:05:58,070 --> 00:05:59,780
+this little black triangle can be
+
+152
+00:05:59,780 --> 00:06:01,490
+adjusted right now it's doing about a
+
+153
+00:06:01,490 --> 00:06:05,990
+one-second fade I think so we didn't
+
+154
+00:06:05,990 --> 00:06:07,130
+hardly notice that one but let's do a
+
+155
+00:06:07,130 --> 00:06:09,380
+fade out that when we will notice so
+
+156
+00:06:09,380 --> 00:06:11,540
+we'll add a fade out and now we'll hear
+
+157
+00:06:11,540 --> 00:06:14,340
+this sort of fade out to the music oh
+
+158
+00:06:14,340 --> 00:06:16,240
+[Music]
+
+159
+00:06:16,240 --> 00:06:18,410
+I'm sorry I'm applying it to the
+
+160
+00:06:18,410 --> 00:06:18,860
+waterfall
+
+161
+00:06:18,860 --> 00:06:21,890
+nothing nothing music no wonder listen
+
+162
+00:06:21,890 --> 00:06:23,240
+let's come over here I'm gonna cut the
+
+163
+00:06:23,240 --> 00:06:24,800
+music to the end of this so we'll click
+
+164
+00:06:24,800 --> 00:06:27,260
+here to split and I'll go to the second
+
+165
+00:06:27,260 --> 00:06:29,660
+having to delete so now while I have the
+
+166
+00:06:29,660 --> 00:06:31,520
+audio track selected you see a mistake
+
+167
+00:06:31,520 --> 00:06:33,680
+that you'll probably make too but I make
+
+168
+00:06:33,680 --> 00:06:35,810
+it quite often so I apply the effect to
+
+169
+00:06:35,810 --> 00:06:37,490
+the wrong clip we see I did a fade in
+
+170
+00:06:37,490 --> 00:06:39,470
+and fade out to the waterfall and not to
+
+171
+00:06:39,470 --> 00:06:41,480
+the music so now that the music selected
+
+172
+00:06:41,480 --> 00:06:44,840
+I'll add in the fade in and I'll add in
+
+173
+00:06:44,840 --> 00:06:46,520
+the fade out so now we have a fade in
+
+174
+00:06:46,520 --> 00:06:47,810
+and fade out applied to both of our
+
+175
+00:06:47,810 --> 00:06:49,550
+Clips we actually don't even need them
+
+176
+00:06:49,550 --> 00:06:50,960
+on the waterfall one so I'm just gonna
+
+177
+00:06:50,960 --> 00:06:54,830
+get rid of them on here and now we'll
+
+178
+00:06:54,830 --> 00:06:58,820
+play this so you hear that the audio
+
+179
+00:06:58,820 --> 00:07:04,610
+fades in and then the idea of audio
+
+180
+00:07:04,610 --> 00:07:07,580
+fades out so that's kind of cool
+
+181
+00:07:07,580 --> 00:07:10,010
+not a whole lot of audio effects here we
+
+182
+00:07:10,010 --> 00:07:12,470
+have what's this one Pass
+
+183
+00:07:12,470 --> 00:07:14,780
+so this is gonna be like I don't even
+
+184
+00:07:14,780 --> 00:07:16,790
+know but there's some different options
+
+185
+00:07:16,790 --> 00:07:18,169
+here if you know audio and you know what
+
+186
+00:07:18,169 --> 00:07:20,780
+you want to do I do a lot of my audio in
+
+187
+00:07:20,780 --> 00:07:22,850
+audacity so if I have to do too much
+
+188
+00:07:22,850 --> 00:07:24,320
+crazy stuff I'll actually edit it
+
+189
+00:07:24,320 --> 00:07:27,530
+outside in audacity and then I'll bring
+
+190
+00:07:27,530 --> 00:07:30,140
+it in once it's all once I have the
+
+191
+00:07:30,140 --> 00:07:33,080
+things to apply to it that I want anyway
+
+192
+00:07:33,080 --> 00:07:35,750
+that's working with effects and filters
+
+193
+00:07:35,750 --> 00:07:39,229
+for audio in shot cut and also how to
+
+194
+00:07:39,229 --> 00:07:40,970
+work with multiple tracks and we can add
+
+195
+00:07:40,970 --> 00:07:42,229
+in if we want we can add in another
+
+196
+00:07:42,229 --> 00:07:43,610
+audio track and then we have another one
+
+197
+00:07:43,610 --> 00:07:45,560
+we can add in a video track and we'll
+
+198
+00:07:45,560 --> 00:07:47,630
+talk more about that to working with a
+
+199
+00:07:47,630 --> 00:07:49,340
+lot of different tracks here but if ever
+
+200
+00:07:49,340 --> 00:07:50,720
+you get a lot going on you can always
+
+201
+00:07:50,720 --> 00:07:53,530
+click here and go to make track shorter
+
+202
+00:07:53,530 --> 00:07:56,000
+then we can see all of all the tracks we
+
+203
+00:07:56,000 --> 00:07:58,370
+have going on we can also adjust this if
+
+204
+00:07:58,370 --> 00:08:00,110
+we want to see more of what's happening
+
+205
+00:08:00,110 --> 00:08:01,280
+in our tracks and less of what's
+
+206
+00:08:01,280 --> 00:08:04,550
+happening up here so yeah go ahead and
+
+207
+00:08:04,550 --> 00:08:05,479
+leave your questions or comments below
+
+208
+00:08:05,479 --> 00:08:06,650
+if you have any questions about working
+
+209
+00:08:06,650 --> 00:08:08,690
+with audio with the filters or audio
+
+210
+00:08:08,690 --> 00:08:11,180
+tracks in shotcut and I hope to see you
+
+211
+00:08:11,180 --> 00:08:13,960
+in the next video
+

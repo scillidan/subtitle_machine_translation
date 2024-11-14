@@ -1,0 +1,620 @@
+1
+00:00:02,540 --> 00:00:05,130
+welcome back to another shot cut video
+
+2
+00:00:05,130 --> 00:00:06,900
+editing tutorial in this video we're
+
+3
+00:00:06,900 --> 00:00:08,879
+going to learn how to export our project
+
+4
+00:00:08,879 --> 00:00:11,969
+into a video or in any format we want so
+
+5
+00:00:11,969 --> 00:00:13,110
+to get started I'm just going to type in
+
+6
+00:00:13,110 --> 00:00:14,369
+something here
+
+7
+00:00:14,369 --> 00:00:19,140
+I like test2 and hit start so I have a
+
+8
+00:00:19,140 --> 00:00:21,269
+video project here just empty we'll drag
+
+9
+00:00:21,269 --> 00:00:22,980
+in a couple I have some files on my
+
+10
+00:00:22,980 --> 00:00:26,880
+computer will drag in this one it will
+
+11
+00:00:26,880 --> 00:00:30,539
+also drag in this one I'll drag in a few
+
+12
+00:00:30,539 --> 00:00:33,450
+here pause this so now I have a couple
+
+13
+00:00:33,450 --> 00:00:35,250
+different video files I'm going to drag
+
+14
+00:00:35,250 --> 00:00:37,770
+just down to the timeline and in fact
+
+15
+00:00:37,770 --> 00:00:38,850
+we're not gonna do the whole thing we'll
+
+16
+00:00:38,850 --> 00:00:40,530
+shrink this way way way down by left
+
+17
+00:00:40,530 --> 00:00:41,730
+clicking here at the end of the video
+
+18
+00:00:41,730 --> 00:00:43,470
+we'll take this down to just a couple of
+
+19
+00:00:43,470 --> 00:00:45,780
+seconds and then we'll grab this one and
+
+20
+00:00:45,780 --> 00:00:47,730
+this way we're gonna we're gonna choose
+
+21
+00:00:47,730 --> 00:00:49,440
+our in and out point of the video here
+
+22
+00:00:49,440 --> 00:00:52,080
+and grab a few seconds of this and then
+
+23
+00:00:52,080 --> 00:00:55,680
+this last one right there this last one
+
+24
+00:00:55,680 --> 00:00:58,770
+I'm going to will bring it in as well
+
+25
+00:00:58,770 --> 00:01:01,200
+the whole thing and I'll just select a
+
+26
+00:01:01,200 --> 00:01:03,240
+portion here and go split at playhead
+
+27
+00:01:03,240 --> 00:01:06,630
+and we'll go split at playhead just so
+
+28
+00:01:06,630 --> 00:01:09,150
+we can see a few different ways there to
+
+29
+00:01:09,150 --> 00:01:11,550
+adjust the size of our Clips so now we
+
+30
+00:01:11,550 --> 00:01:14,600
+have three different Clips in here and
+
+31
+00:01:14,600 --> 00:01:19,470
+make this a little bit longer okay we
+
+32
+00:01:19,470 --> 00:01:21,630
+have three video clips in our project we
+
+33
+00:01:21,630 --> 00:01:22,860
+can play and see what this looks like
+
+34
+00:01:22,860 --> 00:01:30,990
+it's a 4 second video clip alright
+
+35
+00:01:30,990 --> 00:01:32,909
+that's a fun video so we got about 4
+
+36
+00:01:32,909 --> 00:01:35,010
+seconds of video here if we want to
+
+37
+00:01:35,010 --> 00:01:37,050
+export this now because we do have a
+
+38
+00:01:37,050 --> 00:01:38,670
+project we see when we're clicking on
+
+39
+00:01:38,670 --> 00:01:41,010
+project we have a timeline we have three
+
+40
+00:01:41,010 --> 00:01:43,020
+video clips in a single video timeline
+
+41
+00:01:43,020 --> 00:01:45,479
+and there's also audio associated with
+
+42
+00:01:45,479 --> 00:01:48,380
+this video we can export this
+
+43
+00:01:48,380 --> 00:01:50,610
+intuitively sometimes you people just
+
+44
+00:01:50,610 --> 00:01:53,010
+think if you click file and go to save
+
+45
+00:01:53,010 --> 00:01:55,830
+it's gonna save your video that saved a
+
+46
+00:01:55,830 --> 00:01:58,920
+test to MLT so it's saved a video
+
+47
+00:01:58,920 --> 00:02:01,530
+project file that we can then open up
+
+48
+00:02:01,530 --> 00:02:02,729
+and they'll show it just like this
+
+49
+00:02:02,729 --> 00:02:04,920
+that's a good thing to do but that's not
+
+50
+00:02:04,920 --> 00:02:07,350
+a video we can play or upload to youtube
+
+51
+00:02:07,350 --> 00:02:09,598
+or share with friends to get an actual
+
+52
+00:02:09,598 --> 00:02:11,279
+video that we can share we need to click
+
+53
+00:02:11,279 --> 00:02:11,630
+on
+
+54
+00:02:11,630 --> 00:02:14,030
+sport so we click export' here and it
+
+55
+00:02:14,030 --> 00:02:16,370
+brings up a new dialog over here it
+
+56
+00:02:16,370 --> 00:02:18,740
+actually was already here by the way we
+
+57
+00:02:18,740 --> 00:02:20,510
+can toggle between playlists where we
+
+58
+00:02:20,510 --> 00:02:22,400
+were looking at our different source
+
+59
+00:02:22,400 --> 00:02:25,550
+files and export we can just toggle
+
+60
+00:02:25,550 --> 00:02:27,490
+between there there's also filters
+
+61
+00:02:27,490 --> 00:02:29,900
+properties but right now we're on the
+
+62
+00:02:29,900 --> 00:02:32,210
+export tab and so if that gets closed or
+
+63
+00:02:32,210 --> 00:02:33,440
+for whatever reason that's not showing
+
+64
+00:02:33,440 --> 00:02:35,810
+up for you just click export and it'll
+
+65
+00:02:35,810 --> 00:02:38,270
+appear somewhere in your interface but
+
+66
+00:02:38,270 --> 00:02:40,430
+probably here on on the left it gives us
+
+67
+00:02:40,430 --> 00:02:42,020
+some options for how we want to export
+
+68
+00:02:42,020 --> 00:02:44,360
+this it says you know what do you what
+
+69
+00:02:44,360 --> 00:02:45,790
+do you want to do do you want it to be
+
+70
+00:02:45,790 --> 00:02:48,290
+for YouTube you can click you to it has
+
+71
+00:02:48,290 --> 00:02:50,180
+a preset for that do you want it to be a
+
+72
+00:02:50,180 --> 00:02:53,990
+WebM file extension if you want it to be
+
+73
+00:02:53,990 --> 00:02:57,950
+just the mp3 just an audio file or we
+
+74
+00:02:57,950 --> 00:02:59,360
+have all these different settings here
+
+75
+00:02:59,360 --> 00:03:01,580
+but for the most part if you know a
+
+76
+00:03:01,580 --> 00:03:03,020
+specific thing that you want you can
+
+77
+00:03:03,020 --> 00:03:04,550
+explore some of these other ones down
+
+78
+00:03:04,550 --> 00:03:08,320
+here but we're just going to do I
+
+79
+00:03:08,320 --> 00:03:11,000
+actually do a lot of this h.264 main
+
+80
+00:03:11,000 --> 00:03:13,190
+profile but I think it's very similar to
+
+81
+00:03:13,190 --> 00:03:14,900
+YouTube so I'm gonna click on YouTube
+
+82
+00:03:14,900 --> 00:03:17,750
+and we'll use this as our profile so
+
+83
+00:03:17,750 --> 00:03:19,700
+YouTube is now selected all we have to
+
+84
+00:03:19,700 --> 00:03:21,800
+do is hit export file and it brings up
+
+85
+00:03:21,800 --> 00:03:24,590
+this dialog that says it says wear on
+
+86
+00:03:24,590 --> 00:03:26,240
+your computer who you want to save it so
+
+87
+00:03:26,240 --> 00:03:28,850
+we'll just we'll call it test dot -
+
+88
+00:03:28,850 --> 00:03:32,060
+let's save it under videos and we'll
+
+89
+00:03:32,060 --> 00:03:33,980
+call it test out - under videos and then
+
+90
+00:03:33,980 --> 00:03:36,380
+hit save and it takes we see it
+
+91
+00:03:36,380 --> 00:03:38,480
+processing over here so it's rendering
+
+92
+00:03:38,480 --> 00:03:43,100
+this video it's a 50% done now what it's
+
+93
+00:03:43,100 --> 00:03:44,930
+doing is just going through we didn't do
+
+94
+00:03:44,930 --> 00:03:46,610
+money we just did some edits some splits
+
+95
+00:03:46,610 --> 00:03:48,410
+is all we really did so it's done now it
+
+96
+00:03:48,410 --> 00:03:50,390
+didn't take too long and now I can open
+
+97
+00:03:50,390 --> 00:03:52,820
+up on my computer and go to videos and I
+
+98
+00:03:52,820 --> 00:03:55,700
+can find that video called test2 and we
+
+99
+00:03:55,700 --> 00:03:58,430
+can click play and we can play it
+
+100
+00:03:58,430 --> 00:04:04,430
+let's see what that video looks like so
+
+101
+00:04:04,430 --> 00:04:06,129
+that's it just playing on the computer
+
+102
+00:04:06,129 --> 00:04:09,860
+and that's an mp4 file so if we wanted a
+
+103
+00:04:09,860 --> 00:04:12,590
+different file format we could choose
+
+104
+00:04:12,590 --> 00:04:13,879
+one of these other ones like maybe we
+
+105
+00:04:13,879 --> 00:04:16,699
+want to burn it to a DVD and so I'm not
+
+106
+00:04:16,699 --> 00:04:17,750
+quite sure actually how this will work
+
+107
+00:04:17,750 --> 00:04:19,519
+if we can actually if we go to export
+
+108
+00:04:19,519 --> 00:04:21,858
+file yeah here we go so this is going to
+
+109
+00:04:21,858 --> 00:04:25,250
+be a dot VOB file so we hit save and now
+
+110
+00:04:25,250 --> 00:04:26,930
+it's just a different type of file
+
+111
+00:04:26,930 --> 00:04:29,840
+that's kind of formatted ideally for
+
+112
+00:04:29,840 --> 00:04:32,060
+burning to a DVD that's gonna be played
+
+113
+00:04:32,060 --> 00:04:35,300
+in North America NTSC if we want just
+
+114
+00:04:35,300 --> 00:04:36,919
+the audio portion we can click on this
+
+115
+00:04:36,919 --> 00:04:40,010
+mp3 or WAV let's do mp3 and go to export
+
+116
+00:04:40,010 --> 00:04:42,410
+file and now it's going to be test -
+
+117
+00:04:42,410 --> 00:04:47,300
+dot-mpeg and that happened very quickly
+
+118
+00:04:47,300 --> 00:04:50,180
+so now when we go to that directory I'm
+
+119
+00:04:50,180 --> 00:04:52,970
+on my computer under videos we see I
+
+120
+00:04:52,970 --> 00:04:56,570
+have an mp3 file it's just the audio
+
+121
+00:04:56,570 --> 00:05:01,150
+portion of my video project see that and
+
+122
+00:05:01,150 --> 00:05:04,370
+it's just playing in VLC player so
+
+123
+00:05:04,370 --> 00:05:06,560
+hopefully that kind of makes sense
+
+124
+00:05:06,560 --> 00:05:08,240
+there's lots of different ways you can
+
+125
+00:05:08,240 --> 00:05:10,520
+export it's not just one video if you're
+
+126
+00:05:10,520 --> 00:05:12,560
+not familiar with video formats there's
+
+127
+00:05:12,560 --> 00:05:14,510
+a lot of different video formats but
+
+128
+00:05:14,510 --> 00:05:15,770
+probably the safest thing for you to do
+
+129
+00:05:15,770 --> 00:05:17,449
+is just click this YouTube format and
+
+130
+00:05:17,449 --> 00:05:19,010
+export it in YouTube if you're gonna be
+
+131
+00:05:19,010 --> 00:05:21,050
+sharing this video on the web if you're
+
+132
+00:05:21,050 --> 00:05:23,240
+doing something more higher quality you
+
+133
+00:05:23,240 --> 00:05:26,599
+might do like this h.264 high profile or
+
+134
+00:05:26,599 --> 00:05:28,400
+some of these other different profiles
+
+135
+00:05:28,400 --> 00:05:31,090
+down here that maybe give you some more
+
+136
+00:05:31,090 --> 00:05:33,349
+detail and higher quality than just
+
+137
+00:05:33,349 --> 00:05:35,510
+sharing online also if you're curious
+
+138
+00:05:35,510 --> 00:05:36,919
+about these what's happening you can
+
+139
+00:05:36,919 --> 00:05:38,720
+click on advanced and it tells you more
+
+140
+00:05:38,720 --> 00:05:40,310
+information about the codec being used
+
+141
+00:05:40,310 --> 00:05:42,830
+about how the audio is being saved and
+
+142
+00:05:42,830 --> 00:05:44,870
+you can actually make changes to this
+
+143
+00:05:44,870 --> 00:05:46,250
+too if you know what you're doing and
+
+144
+00:05:46,250 --> 00:05:48,199
+you can save it as you know different
+
+145
+00:05:48,199 --> 00:05:50,780
+containers different audio different
+
+146
+00:05:50,780 --> 00:05:53,510
+video formats but that's if you know
+
+147
+00:05:53,510 --> 00:05:54,800
+what you're doing if not just click on
+
+148
+00:05:54,800 --> 00:05:58,370
+YouTube and export file hopefully you
+
+149
+00:05:58,370 --> 00:06:00,310
+found this video informative in the next
+
+150
+00:06:00,310 --> 00:06:02,270
+couple tutorials we're gonna be playing
+
+151
+00:06:02,270 --> 00:06:04,340
+more with applying video and audio
+
+152
+00:06:04,340 --> 00:06:07,340
+effects working with multiple video and
+
+153
+00:06:07,340 --> 00:06:09,860
+audio tracks in the same timeline so
+
+154
+00:06:09,860 --> 00:06:11,450
+stay tuned for that
+
+155
+00:06:11,450 --> 00:06:14,530
+catch you in the next video
+

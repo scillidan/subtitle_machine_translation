@@ -1,0 +1,235 @@
+1
+00:00:00,000 --> 00:00:06,800
+Welcome back to another Shotcut video editing tutorial. In this video we're
+
+2
+00:00:06,800 --> 00:00:12,080
+going to be learning how to scale and change the size and rotate our video
+
+3
+00:00:12,080 --> 00:00:15,760
+clips. So I have three clips loaded in here. I'm just going to drag one of them down to
+
+4
+00:00:15,760 --> 00:00:21,800
+the timeline and we'll zoom in a little bit here. So it is a filter that we're
+
+5
+00:00:21,800 --> 00:00:24,840
+going to apply to do that. So we go into filters like we've done in the past. We
+
+6
+00:00:24,840 --> 00:00:31,800
+click add and then there is a filter and effect for that under video. So the ones
+
+7
+00:00:31,800 --> 00:00:36,440
+we're going to be doing is rotate and scale and size and position. So the first
+
+8
+00:00:36,440 --> 00:00:40,120
+one we'll do is just rotate and scale. It's a little bit easier to use in my
+
+9
+00:00:40,120 --> 00:00:45,000
+opinion. So the scaling is just based off a percentage. So it's 100% right now. If
+
+10
+00:00:45,000 --> 00:00:48,880
+we scale it up we can zoom in. If we scale it out we can zoom out a little bit
+
+11
+00:00:48,880 --> 00:00:52,200
+there and make it smaller. But we can't actually click over here and make any
+
+12
+00:00:52,200 --> 00:00:56,520
+changes. We just have these four different options. Scale and we have
+
+13
+00:00:56,520 --> 00:01:02,440
+rotation. We can turn it you know 90 degrees, 180 degrees and if we ever want
+
+14
+00:01:02,440 --> 00:01:05,640
+to get it back to zero we could try and find exact zero on here or we can just
+
+15
+00:01:05,640 --> 00:01:09,720
+click this button and it resets any changes that we've made. So if we want to
+
+16
+00:01:09,720 --> 00:01:13,360
+just reset everything back to how it was we just do that real quick. Offset is
+
+17
+00:01:13,360 --> 00:01:18,360
+going to be basically our position. So that means we can scale up and find a
+
+18
+00:01:18,360 --> 00:01:23,200
+certain point in here. So that's one way to kind of position the video and scale
+
+19
+00:01:23,200 --> 00:01:26,880
+it. Okay I want to show you another way to do it. So we'll click the minus sign
+
+20
+00:01:26,880 --> 00:01:30,960
+we'll get rid of that. Everything's back to how it was. So we'll add in now, scroll
+
+21
+00:01:30,960 --> 00:01:36,360
+down under video or we can even just type in. Scale and Rotate is what we did.
+
+22
+00:01:36,360 --> 00:01:39,960
+So the next one is called size and position. It's not called transform which
+
+23
+00:01:39,960 --> 00:01:43,800
+is what I'm used to in CaydenLive and some other video editing programs. It's
+
+24
+00:01:43,800 --> 00:01:47,880
+called size and position but basically it's similar to transform. This one when
+
+25
+00:01:47,880 --> 00:01:51,640
+it's applied it does give us some handles. We can click here left click and
+
+26
+00:01:51,640 --> 00:01:55,760
+actually move the video around. So kind of accomplishing the same thing as that
+
+27
+00:01:55,760 --> 00:02:00,400
+offset on the X and Y axis. We can also click these handles and just scale it up
+
+28
+00:02:00,400 --> 00:02:05,320
+and down and right now we're doing the size mode is set to fill which means
+
+29
+00:02:05,320 --> 00:02:09,120
+it's going to scale according to whatever I it's going to keep the X and
+
+30
+00:02:09,120 --> 00:02:13,760
+Y axis the same. So it's not going to distort but if we click distort then we
+
+31
+00:02:13,760 --> 00:02:19,400
+actually can scale and make this like very skinny. But if we want to reset
+
+32
+00:02:19,400 --> 00:02:23,120
+that we can just reset everything. See as I move these it's actually changing
+
+33
+00:02:23,120 --> 00:02:27,680
+these numbers over here. The position and the size. So if I move this one it moves
+
+34
+00:02:27,680 --> 00:02:32,840
+just the position on the X and Y. So I can come over here and put a 2 in and it
+
+35
+00:02:32,840 --> 00:02:37,160
+moves it over here. I can put an 8 in it'll move it over here towards the
+
+36
+00:02:37,160 --> 00:02:42,280
+right and so I can change the size as well. This way I can have it be we'll
+
+37
+00:02:42,280 --> 00:02:47,160
+change this one to 400 and then it's like much smaller. Anyway I can reset
+
+38
+00:02:47,160 --> 00:02:51,080
+all of these back to how they were by default. There's also this little button
+
+39
+00:02:51,080 --> 00:02:54,720
+here which sets a key frame. We'll learn about this in the future but this lets
+
+40
+00:02:54,720 --> 00:03:00,560
+us actually change the position and move that position so we could have our video
+
+41
+00:03:00,560 --> 00:03:04,760
+like slowly animate and move across the screen. So check out a future tutorial
+
+42
+00:03:04,760 --> 00:03:10,600
+learning how to use key frames. You can do the same thing with the with the
+
+43
+00:03:10,600 --> 00:03:15,000
+Rotate and Scale as well. So Rotate and Scale has these options here. We click it
+
+44
+00:03:15,000 --> 00:03:20,680
+and it adds a key frame down here and we can actually have different we'll learn
+
+45
+00:03:20,680 --> 00:03:23,360
+how to do that in the future. So don't worry about that just click on it again
+
+46
+00:03:23,360 --> 00:03:28,560
+and you can just get rid of it. Anyway that is size and position. Go ahead and
+
+47
+00:03:28,560 --> 00:03:31,920
+play with those. Oh and right now I have both applied. Just so you know you can
+
+48
+00:03:31,920 --> 00:03:36,280
+have both applied at the same time. So we can rotate this and then come into our
+
+49
+00:03:36,360 --> 00:03:41,160
+size and position and then we can move it on within there but it gets a little
+
+50
+00:03:41,160 --> 00:03:46,160
+bit crazy. So see right now because it's because we've rotated it's doing it we're
+
+51
+00:03:46,160 --> 00:03:50,120
+moving at kind of one within the other and we can actually rotate we can move
+
+52
+00:03:50,120 --> 00:03:53,800
+this and see which one has priority as well. Whether we have rotate on top or
+
+53
+00:03:53,800 --> 00:03:57,240
+size and position it'll do whatever whatever filter it gets to first is what
+
+54
+00:03:57,240 --> 00:04:02,360
+gets processed first. So just be aware that can happen. I would recommend
+
+55
+00:04:02,360 --> 00:04:12,680
+sticking with one or the other and not both. But that is using yeah scale, rotate,
+
+56
+00:04:12,680 --> 00:04:17,120
+size, position. It's a filter in Shotcut. Go ahead and play with those and the more
+
+57
+00:04:17,120 --> 00:04:20,400
+you use them the more familiar you'll get with them. If you have any questions
+
+58
+00:04:20,400 --> 00:04:24,160
+let me know. I'll do my best to answer them and I sincerely thank you for
+
+59
+00:04:24,160 --> 00:04:28,320
+watching and look forward to seeing you in future tutorials.

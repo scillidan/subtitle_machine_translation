@@ -1,0 +1,288 @@
+1
+00:00:01,940 --> 00:00:04,080
+in this video I'll show you how to
+
+2
+00:00:04,080 --> 00:00:06,509
+better format a video that's been taken
+
+3
+00:00:06,509 --> 00:00:08,249
+like this in the kind of vertical
+
+4
+00:00:08,249 --> 00:00:10,349
+position and add some blurred sides to
+
+5
+00:00:10,349 --> 00:00:10,650
+it
+
+6
+00:00:10,650 --> 00:00:13,079
+in shotcut so what we're gonna really do
+
+7
+00:00:13,079 --> 00:00:15,869
+is drag and drop this down once to the
+
+8
+00:00:15,869 --> 00:00:17,310
+video track and then we're gonna add a
+
+9
+00:00:17,310 --> 00:00:19,140
+second instance so I'll right-click and
+
+10
+00:00:19,140 --> 00:00:21,420
+go to add video track and I'll do the
+
+11
+00:00:21,420 --> 00:00:22,830
+same thing I'll go back to the very
+
+12
+00:00:22,830 --> 00:00:24,720
+beginning and I'll drag this down again
+
+13
+00:00:24,720 --> 00:00:27,599
+so now we have it in duplicate and I
+
+14
+00:00:27,599 --> 00:00:29,070
+only need the audio one so I'm going to
+
+15
+00:00:29,070 --> 00:00:30,779
+turn off the audio on the second video
+
+16
+00:00:30,779 --> 00:00:33,090
+track and now when we play we're just
+
+17
+00:00:33,090 --> 00:00:34,440
+gonna see what's happening on top of
+
+18
+00:00:34,440 --> 00:00:36,180
+this first video track all right and
+
+19
+00:00:36,180 --> 00:00:39,000
+then back below we'll just see we can't
+
+20
+00:00:39,000 --> 00:00:40,250
+really see what's happening underneath
+
+21
+00:00:40,250 --> 00:00:42,420
+let's take our let's go to the bottom
+
+22
+00:00:42,420 --> 00:00:45,690
+one and let's go to filters and let's
+
+23
+00:00:45,690 --> 00:00:50,160
+just add a size and position filter so
+
+24
+00:00:50,160 --> 00:00:51,630
+we'll add size and position on here and
+
+25
+00:00:51,630 --> 00:00:53,670
+then all of a sudden we see it goes over
+
+26
+00:00:53,670 --> 00:00:55,860
+to this black area so we can see if we
+
+27
+00:00:55,860 --> 00:00:58,890
+move this it it goes behind this one so
+
+28
+00:00:58,890 --> 00:01:00,180
+we're manipulating the bottom track
+
+29
+00:01:00,180 --> 00:01:03,780
+right now well all we have to do is take
+
+30
+00:01:03,780 --> 00:01:08,010
+and go to distort is what we want on the
+
+31
+00:01:08,010 --> 00:01:13,020
+size mode and then when that's done
+
+32
+00:01:13,020 --> 00:01:14,580
+we'll apply a blur so we'll apply this
+
+33
+00:01:14,580 --> 00:01:17,040
+like a will do blur and we'll do with a
+
+34
+00:01:17,040 --> 00:01:19,890
+Gaussian blur Gaussian and we'll turn
+
+35
+00:01:19,890 --> 00:01:21,720
+that up so it's quite blurry on the
+
+36
+00:01:21,720 --> 00:01:24,840
+sides there and now when we play this it
+
+37
+00:01:24,840 --> 00:01:26,340
+will kind of play through and we see
+
+38
+00:01:26,340 --> 00:01:31,950
+what's happening on the side like easier
+
+39
+00:01:31,950 --> 00:01:34,229
+way to do it and then we could even take
+
+40
+00:01:34,229 --> 00:01:36,750
+this original top one and apply a kind
+
+41
+00:01:36,750 --> 00:01:39,540
+of a crop to it so we can add a size and
+
+42
+00:01:39,540 --> 00:01:42,360
+position here and we can just scale it
+
+43
+00:01:42,360 --> 00:01:44,130
+so it's not really going to be we're
+
+44
+00:01:44,130 --> 00:01:45,390
+gonna be moving it towards the center
+
+45
+00:01:45,390 --> 00:01:46,979
+and we'll really just make this a little
+
+46
+00:01:46,979 --> 00:01:48,630
+bit larger so instead of really doing a
+
+47
+00:01:48,630 --> 00:01:50,220
+crop what we're really doing is just
+
+48
+00:01:50,220 --> 00:01:51,750
+kind of making this a little bit larger
+
+49
+00:01:51,750 --> 00:01:54,120
+here and depending on your video you
+
+50
+00:01:54,120 --> 00:01:55,740
+could kind of adjust it too but see
+
+51
+00:01:55,740 --> 00:01:57,360
+there's a lot of space up on the top
+
+52
+00:01:57,360 --> 00:01:59,159
+that's kind of wasted there so I might
+
+53
+00:01:59,159 --> 00:02:01,560
+enlarge that sort of like this and then
+
+54
+00:02:01,560 --> 00:02:03,540
+put it back to the center I could have
+
+55
+00:02:03,540 --> 00:02:05,670
+also used the edge crop for that and now
+
+56
+00:02:05,670 --> 00:02:07,500
+when we go through and play this it's
+
+57
+00:02:07,500 --> 00:02:09,269
+going to look sort of like this and then
+
+58
+00:02:09,269 --> 00:02:10,619
+when I render this out it's going to be
+
+59
+00:02:10,619 --> 00:02:12,209
+much it's gonna have much smoother
+
+60
+00:02:12,209 --> 00:02:13,800
+playback it's just a little bit
+
+61
+00:02:13,800 --> 00:02:15,660
+right now because I'm dating it in an
+
+62
+00:02:15,660 --> 00:02:18,060
+online software but to render it I would
+
+63
+00:02:18,060 --> 00:02:20,460
+just click on export go to export file
+
+64
+00:02:20,460 --> 00:02:22,290
+and then choose the location on my
+
+65
+00:02:22,290 --> 00:02:24,690
+computer where I want to export this but
+
+66
+00:02:24,690 --> 00:02:26,820
+that's basically a quick look at adding
+
+67
+00:02:26,820 --> 00:02:29,580
+in these blurred edges and kind of
+
+68
+00:02:29,580 --> 00:02:32,070
+reframing a video that'll have take up
+
+69
+00:02:32,070 --> 00:02:33,720
+the full area instead of having those
+
+70
+00:02:33,720 --> 00:02:35,730
+black bars on the side hopefully found
+
+71
+00:02:35,730 --> 00:02:37,170
+them formative thanks for watching catch
+
+72
+00:02:37,170 --> 00:02:40,070
+you in the next video
+

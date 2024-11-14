@@ -1,0 +1,944 @@
+1
+00:00:02,480 --> 00:00:04,920
+welcome back to another shotcut video
+
+2
+00:00:04,920 --> 00:00:06,600
+editing tutorial in this video we're
+
+3
+00:00:06,600 --> 00:00:08,400
+going to talk about the keyframes
+
+4
+00:00:08,400 --> 00:00:11,339
+feature so adding keyframes this is
+
+5
+00:00:11,339 --> 00:00:12,809
+getting starting to touch on maybe
+
+6
+00:00:12,809 --> 00:00:15,209
+animation or making things change
+
+7
+00:00:15,209 --> 00:00:18,060
+effects and filters at different points
+
+8
+00:00:18,060 --> 00:00:20,970
+of the video so to get started we're
+
+9
+00:00:20,970 --> 00:00:23,429
+gonna drag in this video clip to our
+
+10
+00:00:23,429 --> 00:00:28,189
+timeline and some different filters have
+
+11
+00:00:28,189 --> 00:00:30,480
+can be keyframe than some canned in the
+
+12
+00:00:30,480 --> 00:00:31,619
+last video we talked a little bit about
+
+13
+00:00:31,619 --> 00:00:34,830
+text so when we add text on like if we
+
+14
+00:00:34,830 --> 00:00:36,960
+add text we click on video go down to
+
+15
+00:00:36,960 --> 00:00:39,710
+text so we have our different text here
+
+16
+00:00:39,710 --> 00:00:44,130
+you say my text so this has some options
+
+17
+00:00:44,130 --> 00:00:46,560
+for one click on keyframe it has some
+
+18
+00:00:46,560 --> 00:00:48,840
+options for when it first appears if we
+
+19
+00:00:48,840 --> 00:00:51,030
+that's this green start so if we play
+
+20
+00:00:51,030 --> 00:00:53,790
+our video here it won't appear until it
+
+21
+00:00:53,790 --> 00:00:55,890
+gets to that point in time and if we
+
+22
+00:00:55,890 --> 00:00:58,560
+want to go to the end of this and have
+
+23
+00:00:58,560 --> 00:01:00,990
+it only be on for a short amount of time
+
+24
+00:01:00,990 --> 00:01:03,270
+we just bring it to here so this is all
+
+25
+00:01:03,270 --> 00:01:05,940
+happening on this keyframes tab not on
+
+26
+00:01:05,940 --> 00:01:07,410
+the timeline tab if you're wondering
+
+27
+00:01:07,410 --> 00:01:10,140
+where that green and start end is if we
+
+28
+00:01:10,140 --> 00:01:11,460
+come here to the end it just shortens
+
+29
+00:01:11,460 --> 00:01:12,330
+the length of the video
+
+30
+00:01:12,330 --> 00:01:14,520
+so under keyframes is where we get to
+
+31
+00:01:14,520 --> 00:01:16,020
+this red and green with these little
+
+32
+00:01:16,020 --> 00:01:18,330
+black circles but this will put the text
+
+33
+00:01:18,330 --> 00:01:21,960
+on the video just for a short time and
+
+34
+00:01:21,960 --> 00:01:24,570
+then again it goes off and if we're
+
+35
+00:01:24,570 --> 00:01:27,180
+doing if we zoom in here if we have any
+
+36
+00:01:27,180 --> 00:01:30,090
+effects to this this is where it kind of
+
+37
+00:01:30,090 --> 00:01:32,909
+changes maybe the position so this is
+
+38
+00:01:32,909 --> 00:01:35,010
+actually right now it's the same because
+
+39
+00:01:35,010 --> 00:01:37,950
+nothing has changed but we could do it
+
+40
+00:01:37,950 --> 00:01:40,830
+so by this point one thing we could do
+
+41
+00:01:40,830 --> 00:01:42,720
+is change the color so if we change the
+
+42
+00:01:42,720 --> 00:01:44,580
+color and go to red it's going to be red
+
+43
+00:01:44,580 --> 00:01:46,049
+at this point but since we didn't change
+
+44
+00:01:46,049 --> 00:01:48,870
+it at the beginning maybe that part is
+
+45
+00:01:48,870 --> 00:01:51,150
+not keyframe well oh it's not so the
+
+46
+00:01:51,150 --> 00:01:53,159
+text color I guess is not keyframe level
+
+47
+00:01:53,159 --> 00:01:55,770
+unfortunately and the reason we can tell
+
+48
+00:01:55,770 --> 00:01:57,780
+that is there's no icon right here to
+
+49
+00:01:57,780 --> 00:01:59,070
+the side of it that says it's keyframe
+
+50
+00:01:59,070 --> 00:02:00,659
+of all so the only thing that's key
+
+51
+00:02:00,659 --> 00:02:03,090
+frame of all of this text is the
+
+52
+00:02:03,090 --> 00:02:06,000
+position of it and the size isn't the
+
+53
+00:02:06,000 --> 00:02:08,340
+where it's at the justification isn't
+
+54
+00:02:08,340 --> 00:02:10,769
+the text itself isn't just the position
+
+55
+00:02:10,769 --> 00:02:11,840
+is
+
+56
+00:02:11,840 --> 00:02:14,060
+and if we hover over that says use
+
+57
+00:02:14,060 --> 00:02:16,099
+keyframes for this parameter so that
+
+58
+00:02:16,099 --> 00:02:17,510
+just tells us that it's able to be
+
+59
+00:02:17,510 --> 00:02:19,640
+keyframe Abul so what we could do now is
+
+60
+00:02:19,640 --> 00:02:24,080
+move this up to like here and what that
+
+61
+00:02:24,080 --> 00:02:26,510
+will do is it'll start down here it'll
+
+62
+00:02:26,510 --> 00:02:29,660
+appear and then it'll move but it's not
+
+63
+00:02:29,660 --> 00:02:31,370
+working properly it move the text box if
+
+64
+00:02:31,370 --> 00:02:33,470
+it's not moving the text super-annoying
+
+65
+00:02:33,470 --> 00:02:35,569
+but at least we're learning what's
+
+66
+00:02:35,569 --> 00:02:38,209
+happening it has sort of let's get rid
+
+67
+00:02:38,209 --> 00:02:41,000
+of this one altogether because a better
+
+68
+00:02:41,000 --> 00:02:44,840
+example is if we do maybe let's do
+
+69
+00:02:44,840 --> 00:02:46,130
+another effect like blur
+
+70
+00:02:46,130 --> 00:02:49,610
+I think blur was keyframe Abul yeah so
+
+71
+00:02:49,610 --> 00:02:50,840
+we see it has this little icon to the
+
+72
+00:02:50,840 --> 00:02:53,600
+side of it use keyframes so we couldn't
+
+73
+00:02:53,600 --> 00:02:54,860
+click this we're gonna do that in a
+
+74
+00:02:54,860 --> 00:02:58,400
+second but for now we can just go to the
+
+75
+00:02:58,400 --> 00:03:00,620
+keyframes on it and we can just use this
+
+76
+00:03:00,620 --> 00:03:02,750
+little slide out so it's going to start
+
+77
+00:03:02,750 --> 00:03:04,610
+with these settings and by the time we
+
+78
+00:03:04,610 --> 00:03:06,769
+get to here we can change these settings
+
+79
+00:03:06,769 --> 00:03:09,380
+we can make it really blurry let's do
+
+80
+00:03:09,380 --> 00:03:13,190
+this so that should adjust and start out
+
+81
+00:03:13,190 --> 00:03:15,410
+not very blurry and then gradually get
+
+82
+00:03:15,410 --> 00:03:17,660
+blurry we probably do it the other way
+
+83
+00:03:17,660 --> 00:03:18,260
+around
+
+84
+00:03:18,260 --> 00:03:20,690
+so it gets more and more blurry then it
+
+85
+00:03:20,690 --> 00:03:24,260
+just stays blurry so if we wanted to do
+
+86
+00:03:24,260 --> 00:03:25,700
+that other way around we just reset this
+
+87
+00:03:25,700 --> 00:03:27,950
+to how it was we go to the beginning and
+
+88
+00:03:27,950 --> 00:03:31,459
+then we make it more blurry to start
+
+89
+00:03:31,459 --> 00:03:34,220
+with now it'll come into focus as we
+
+90
+00:03:34,220 --> 00:03:39,410
+play so that's just using the basic
+
+91
+00:03:39,410 --> 00:03:41,450
+rudimentary this doesn't really it
+
+92
+00:03:41,450 --> 00:03:44,420
+really gives us two keyframes one at the
+
+93
+00:03:44,420 --> 00:03:46,609
+beginning and then one word for this
+
+94
+00:03:46,609 --> 00:03:48,680
+circle is it's a really it's kind of an
+
+95
+00:03:48,680 --> 00:03:50,480
+easy user-friendly way to do it but it
+
+96
+00:03:50,480 --> 00:03:52,130
+doesn't give us a lot of control because
+
+97
+00:03:52,130 --> 00:03:55,220
+there's only two keyframes the keyframe
+
+98
+00:03:55,220 --> 00:03:57,019
+means we can't change anything in
+
+99
+00:03:57,019 --> 00:03:59,120
+between here we can't adjust and change
+
+100
+00:03:59,120 --> 00:04:01,250
+the blurriness right here we can only
+
+101
+00:04:01,250 --> 00:04:03,620
+change it right at this point of the
+
+102
+00:04:03,620 --> 00:04:06,200
+circle or at the very beginning of the
+
+103
+00:04:06,200 --> 00:04:08,299
+clip okay I've loaded in a new video
+
+104
+00:04:08,299 --> 00:04:09,680
+clip I'm gonna show you the more
+
+105
+00:04:09,680 --> 00:04:11,720
+advanced way of doing keyframes in shot
+
+106
+00:04:11,720 --> 00:04:13,459
+cut I don't have any filters applied to
+
+107
+00:04:13,459 --> 00:04:15,200
+this right now but while it selected
+
+108
+00:04:15,200 --> 00:04:17,209
+we'll apply a filter we could do the
+
+109
+00:04:17,209 --> 00:04:19,190
+blur again but really any filter that
+
+110
+00:04:19,190 --> 00:04:22,490
+has this keyframe icon this little icon
+
+111
+00:04:22,490 --> 00:04:24,020
+that says use keyframes for this
+
+112
+00:04:24,020 --> 00:04:25,970
+parameter this tells us that
+
+113
+00:04:25,970 --> 00:04:28,490
+we can use these so what this does is
+
+114
+00:04:28,490 --> 00:04:31,460
+it'll actually change the coloring of
+
+115
+00:04:31,460 --> 00:04:34,520
+the clip here and so we can click down
+
+116
+00:04:34,520 --> 00:04:36,410
+here and all of a sudden that creates
+
+117
+00:04:36,410 --> 00:04:39,140
+this mid-tones gamma which matches this
+
+118
+00:04:39,140 --> 00:04:41,150
+and we see this as highlighted in blue
+
+119
+00:04:41,150 --> 00:04:44,330
+so now any changes we make here will be
+
+120
+00:04:44,330 --> 00:04:46,430
+applied to this clip and it put a little
+
+121
+00:04:46,430 --> 00:04:48,470
+dot at the point we were at whenever
+
+122
+00:04:48,470 --> 00:04:50,780
+when we click that so if we come to a
+
+123
+00:04:50,780 --> 00:04:53,960
+new point while we're here on the
+
+124
+00:04:53,960 --> 00:04:56,210
+keyframes and we can make an adjustment
+
+125
+00:04:56,210 --> 00:04:58,100
+to this so now we make it sort of this
+
+126
+00:04:58,100 --> 00:05:00,650
+red well we see down here well let's
+
+127
+00:05:00,650 --> 00:05:01,820
+make it blue just so we're not confused
+
+128
+00:05:01,820 --> 00:05:05,840
+there's this little red node this is a
+
+129
+00:05:05,840 --> 00:05:08,660
+keyframe at this point there's another
+
+130
+00:05:08,660 --> 00:05:10,070
+keyframe at the beginning so we see
+
+131
+00:05:10,070 --> 00:05:12,200
+there's two so this is essentially what
+
+132
+00:05:12,200 --> 00:05:13,610
+we were doing last time where it's gonna
+
+133
+00:05:13,610 --> 00:05:16,820
+it's gonna fade it's gonna slowly apply
+
+134
+00:05:16,820 --> 00:05:19,010
+we see that's happening so you look up
+
+135
+00:05:19,010 --> 00:05:21,920
+here on the actual color wheel we see
+
+136
+00:05:21,920 --> 00:05:24,260
+that dot just moving by itself and then
+
+137
+00:05:24,260 --> 00:05:27,710
+it gets that point it'll just stop if we
+
+138
+00:05:27,710 --> 00:05:29,180
+want it to go to a different color we
+
+139
+00:05:29,180 --> 00:05:31,040
+can come to whatever point we want and
+
+140
+00:05:31,040 --> 00:05:32,660
+we can move it down to maybe like this
+
+141
+00:05:32,660 --> 00:05:36,020
+green and now it's gonna fade to that so
+
+142
+00:05:36,020 --> 00:05:37,850
+it'll fade to this color then it will
+
+143
+00:05:37,850 --> 00:05:41,360
+fade over to this more green and it just
+
+144
+00:05:41,360 --> 00:05:43,760
+stays at that last one and if we wanted
+
+145
+00:05:43,760 --> 00:05:45,740
+to go back to how it was originally we
+
+146
+00:05:45,740 --> 00:05:48,560
+just move it back to the middle and now
+
+147
+00:05:48,560 --> 00:05:49,970
+we have this so we have these different
+
+148
+00:05:49,970 --> 00:05:53,800
+key frames we've now set for keyframes
+
+149
+00:05:53,800 --> 00:05:57,560
+just for the mid-tones so all it's doing
+
+150
+00:05:57,560 --> 00:06:00,169
+is doing the mid-tones maybe we want to
+
+151
+00:06:00,169 --> 00:06:01,850
+add in another one we can click this one
+
+152
+00:06:01,850 --> 00:06:03,830
+here this highlights and that'll create
+
+153
+00:06:03,830 --> 00:06:05,720
+let's not do the highlights let's click
+
+154
+00:06:05,720 --> 00:06:07,910
+it click yes so we won't do that one
+
+155
+00:06:07,910 --> 00:06:12,310
+instead let's do a different let's do
+
+156
+00:06:12,310 --> 00:06:16,040
+well we can do I guess we'll do the blur
+
+157
+00:06:16,040 --> 00:06:17,690
+since we had that one up before because
+
+158
+00:06:17,690 --> 00:06:18,890
+the blur has two different ones as well
+
+159
+00:06:18,890 --> 00:06:21,650
+width and height so under blur we can
+
+160
+00:06:21,650 --> 00:06:24,110
+add a keyframe in starting right here
+
+161
+00:06:24,110 --> 00:06:26,419
+and they'll show us the width and then
+
+162
+00:06:26,419 --> 00:06:29,330
+we can come again to here and make an
+
+163
+00:06:29,330 --> 00:06:33,169
+adjustment to that oh this one there we
+
+164
+00:06:33,169 --> 00:06:35,600
+go so now we have it blurred there and
+
+165
+00:06:35,600 --> 00:06:37,700
+then we come back down to this point and
+
+166
+00:06:37,700 --> 00:06:39,410
+go reset
+
+167
+00:06:39,410 --> 00:06:42,620
+so now it's going to blur but it's also
+
+168
+00:06:42,620 --> 00:06:44,300
+still applying those colors
+
+169
+00:06:44,300 --> 00:06:46,310
+it gets really blurry up at this point
+
+170
+00:06:46,310 --> 00:06:49,610
+here then it goes back down to be not
+
+171
+00:06:49,610 --> 00:06:51,980
+blurred and back to the normal colors so
+
+172
+00:06:51,980 --> 00:06:54,650
+we have two different filters applied
+
+173
+00:06:54,650 --> 00:06:57,320
+but we need to click on them to see so
+
+174
+00:06:57,320 --> 00:06:59,300
+listen has chose the mid-tones this one
+
+175
+00:06:59,300 --> 00:07:01,010
+shows the blur but there are each on
+
+176
+00:07:01,010 --> 00:07:02,960
+their own and so unless it's selected
+
+177
+00:07:02,960 --> 00:07:05,230
+we're not gonna see which one there is
+
+178
+00:07:05,230 --> 00:07:08,810
+that makes sense but I guess we could do
+
+179
+00:07:08,810 --> 00:07:10,490
+this one so we could up these ones we
+
+180
+00:07:10,490 --> 00:07:11,960
+can apply and have three different ones
+
+181
+00:07:11,960 --> 00:07:14,330
+as long as it's on the same filter when
+
+182
+00:07:14,330 --> 00:07:16,580
+we go to a new filter it doesn't show so
+
+183
+00:07:16,580 --> 00:07:20,390
+we can't see width on the same keyframes
+
+184
+00:07:20,390 --> 00:07:22,640
+tab I guess you could say as these
+
+185
+00:07:22,640 --> 00:07:25,100
+different colors but we can color these
+
+186
+00:07:25,100 --> 00:07:26,390
+and add these and they're gonna be all
+
+187
+00:07:26,390 --> 00:07:28,760
+their own separate ones and so we get
+
+188
+00:07:28,760 --> 00:07:31,130
+all these different kinds of adjustments
+
+189
+00:07:31,130 --> 00:07:34,040
+happening here and then we just see some
+
+190
+00:07:34,040 --> 00:07:36,520
+craziness going on with coloring and
+
+191
+00:07:36,520 --> 00:07:40,970
+also with a second it should blur here
+
+192
+00:07:40,970 --> 00:07:44,690
+as we go in to blur that makes sense
+
+193
+00:07:44,690 --> 00:07:45,830
+what's going on if you've never used
+
+194
+00:07:45,830 --> 00:07:47,690
+keyframes before it can be confusing if
+
+195
+00:07:47,690 --> 00:07:49,340
+you have used keyframes you should be
+
+196
+00:07:49,340 --> 00:07:50,630
+pretty familiar with what's going on
+
+197
+00:07:50,630 --> 00:07:52,490
+here these ones are just setting since
+
+198
+00:07:52,490 --> 00:07:54,290
+there's so many data points these things
+
+199
+00:07:54,290 --> 00:07:55,910
+are just setting the actual point
+
+200
+00:07:55,910 --> 00:07:58,460
+whereas this one is actually showing the
+
+201
+00:07:58,460 --> 00:08:00,890
+level so we can instead of clicking up
+
+202
+00:08:00,890 --> 00:08:02,240
+here under width we can actually click
+
+203
+00:08:02,240 --> 00:08:04,430
+the node now and we can take that blur
+
+204
+00:08:04,430 --> 00:08:06,860
+up or down so this this line is
+
+205
+00:08:06,860 --> 00:08:09,080
+representing the intensity whereas the
+
+206
+00:08:09,080 --> 00:08:11,210
+other one wasn't we can do the height on
+
+207
+00:08:11,210 --> 00:08:13,400
+this one too so if we add in height and
+
+208
+00:08:13,400 --> 00:08:16,100
+we go to this point and just make some
+
+209
+00:08:16,100 --> 00:08:20,000
+sort of a change and then come here so
+
+210
+00:08:20,000 --> 00:08:21,320
+now we're adding in a few different
+
+211
+00:08:21,320 --> 00:08:26,720
+things so now we have to we're adjusting
+
+212
+00:08:26,720 --> 00:08:28,610
+this height and this width if you watch
+
+213
+00:08:28,610 --> 00:08:30,800
+these bars as I play these bars are
+
+214
+00:08:30,800 --> 00:08:33,190
+slowly changing you know back and forth
+
+215
+00:08:33,190 --> 00:08:37,210
+to do some interesting types of things
+
+216
+00:08:37,210 --> 00:08:40,340
+so any filter that you find any filter
+
+217
+00:08:40,340 --> 00:08:44,330
+at all that has the audio so we have
+
+218
+00:08:44,330 --> 00:08:47,930
+this gain and volume is keyframe Abul so
+
+219
+00:08:47,930 --> 00:08:50,030
+we could we could apply an adjustment to
+
+220
+00:08:50,030 --> 00:08:51,740
+the volume and have it be a different
+
+221
+00:08:51,740 --> 00:08:53,250
+volume level at
+
+222
+00:08:53,250 --> 00:08:56,279
+point then another point we can apply a
+
+223
+00:08:56,279 --> 00:08:57,899
+lot of these a lot of the different
+
+224
+00:08:57,899 --> 00:09:00,629
+effects just look at to see if they have
+
+225
+00:09:00,629 --> 00:09:02,550
+it so sharpen is going to have it most
+
+226
+00:09:02,550 --> 00:09:03,569
+of the effects are going to have these
+
+227
+00:09:03,569 --> 00:09:05,399
+icons so play around with those
+
+228
+00:09:05,399 --> 00:09:06,720
+hopefully you found this video
+
+229
+00:09:06,720 --> 00:09:09,389
+informative really experienced and just
+
+230
+00:09:09,389 --> 00:09:10,949
+playing and seeing what happens when you
+
+231
+00:09:10,949 --> 00:09:12,629
+apply different keyframes and changing
+
+232
+00:09:12,629 --> 00:09:14,160
+them is what's really gonna help you
+
+233
+00:09:14,160 --> 00:09:16,949
+learn how they work and so play with
+
+234
+00:09:16,949 --> 00:09:18,149
+that go and leave your questions and
+
+235
+00:09:18,149 --> 00:09:20,189
+comments below and I'll catch you in the
+
+236
+00:09:20,189 --> 00:09:22,699
+next video
+

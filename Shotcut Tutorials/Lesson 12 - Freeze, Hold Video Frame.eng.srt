@@ -1,0 +1,188 @@
+1
+00:00:02,090 --> 00:00:04,290
+this is a quick video showing how to
+
+2
+00:00:04,290 --> 00:00:07,799
+freeze a particular frame in shop cut so
+
+3
+00:00:07,799 --> 00:00:09,179
+if we have this video here and doesn't
+
+4
+00:00:09,179 --> 00:00:10,019
+even have to be in our timeline
+
+5
+00:00:10,019 --> 00:00:12,629
+necessarily we have a video here we can
+
+6
+00:00:12,629 --> 00:00:15,929
+play this video and let's say there's a
+
+7
+00:00:15,929 --> 00:00:17,699
+certain point like this picture right
+
+8
+00:00:17,699 --> 00:00:19,410
+here where it's saying 2.0 we want to
+
+9
+00:00:19,410 --> 00:00:22,050
+just freeze on this frame sometimes it's
+
+10
+00:00:22,050 --> 00:00:25,500
+called freeze or hold the frame we want
+
+11
+00:00:25,500 --> 00:00:27,330
+to actually just export this as a
+
+12
+00:00:27,330 --> 00:00:28,890
+picture so one way you might imagine is
+
+13
+00:00:28,890 --> 00:00:30,810
+to like you can do print screen and then
+
+14
+00:00:30,810 --> 00:00:32,820
+crop out the picture but shotgun has a
+
+15
+00:00:32,820 --> 00:00:34,320
+way built in to do this we just go to
+
+16
+00:00:34,320 --> 00:00:36,480
+file when we're at that point in the
+
+17
+00:00:36,480 --> 00:00:39,810
+video and go to export frame and then we
+
+18
+00:00:39,810 --> 00:00:41,070
+just choose where to put it we'll put it
+
+19
+00:00:41,070 --> 00:00:42,210
+on the desktop we'll just call it
+
+20
+00:00:42,210 --> 00:00:44,640
+something miscellaneous here and hit
+
+21
+00:00:44,640 --> 00:00:46,800
+save and now that's saved on the desktop
+
+22
+00:00:46,800 --> 00:00:49,380
+as a picture a PNG we can open it up and
+
+23
+00:00:49,380 --> 00:00:54,510
+look at just that PNG image so here it
+
+24
+00:00:54,510 --> 00:00:56,820
+is and then we can also bring it in so
+
+25
+00:00:56,820 --> 00:00:58,560
+we can drag and drop it into shot cut or
+
+26
+00:00:58,560 --> 00:01:00,840
+we can go to open file and then we can
+
+27
+00:01:00,840 --> 00:01:05,780
+choose to open that door so that desktop
+
+28
+00:01:05,780 --> 00:01:07,800
+I'll get a couple things there named
+
+29
+00:01:07,800 --> 00:01:09,960
+miscellaneous stuff and now this is
+
+30
+00:01:09,960 --> 00:01:12,450
+actually just the the image so now we
+
+31
+00:01:12,450 --> 00:01:14,460
+have the video which is right here it's
+
+32
+00:01:14,460 --> 00:01:16,920
+seven minutes long so we can go to this
+
+33
+00:01:16,920 --> 00:01:19,350
+video in our store so we can find a
+
+34
+00:01:19,350 --> 00:01:22,440
+certain part of the video or if we want
+
+35
+00:01:22,440 --> 00:01:24,360
+we can come over here and we can just
+
+36
+00:01:24,360 --> 00:01:25,830
+put in if I delete this out of the
+
+37
+00:01:25,830 --> 00:01:27,390
+timeline we can drag down just the
+
+38
+00:01:27,390 --> 00:01:30,060
+picture so now just this picture will
+
+39
+00:01:30,060 --> 00:01:33,150
+play for about two seconds we can make
+
+40
+00:01:33,150 --> 00:01:36,840
+it longer or shorter but that is how you
+
+41
+00:01:36,840 --> 00:01:38,850
+would hold a frame and so we could put
+
+42
+00:01:38,850 --> 00:01:40,920
+part of the video before and part of the
+
+43
+00:01:40,920 --> 00:01:43,440
+video after and essentially hold this
+
+44
+00:01:43,440 --> 00:01:45,659
+frame in between or we could just grab a
+
+45
+00:01:45,659 --> 00:01:47,790
+picture out and do it that way there two
+
+46
+00:01:47,790 --> 00:01:49,290
+questions leave them below catch you the
+
+47
+00:01:49,290 --> 00:01:51,680
+next video
+

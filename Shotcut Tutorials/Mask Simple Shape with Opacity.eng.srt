@@ -1,0 +1,672 @@
+1
+00:00:02,060 --> 00:00:04,860
+hi everyone its Rendon with TJ free and
+
+2
+00:00:04,860 --> 00:00:06,300
+in this video we're going to be using
+
+3
+00:00:06,300 --> 00:00:09,269
+shot cut to create some highlighted
+
+4
+00:00:09,269 --> 00:00:12,150
+areas or rather we're going to make
+
+5
+00:00:12,150 --> 00:00:14,369
+parts of the video dark and then mask
+
+6
+00:00:14,369 --> 00:00:15,659
+out the part that we want to draw
+
+7
+00:00:15,659 --> 00:00:18,170
+attention to so we're going to be using
+
+8
+00:00:18,170 --> 00:00:21,359
+masking and first we need to find a part
+
+9
+00:00:21,359 --> 00:00:23,490
+of this video that we want to I'll just
+
+10
+00:00:23,490 --> 00:00:25,169
+come to a part that we want to highlight
+
+11
+00:00:25,169 --> 00:00:26,880
+so maybe selecting this tool right here
+
+12
+00:00:26,880 --> 00:00:28,859
+is a good place selecting the text tool
+
+13
+00:00:28,859 --> 00:00:30,660
+instead of having everything be visible
+
+14
+00:00:30,660 --> 00:00:31,800
+and it's kind of hard to see the mouse
+
+15
+00:00:31,800 --> 00:00:34,200
+right there we can highlight that so I'm
+
+16
+00:00:34,200 --> 00:00:36,120
+going to come up here and get a second
+
+17
+00:00:36,120 --> 00:00:38,670
+video track I'll right click and go to
+
+18
+00:00:38,670 --> 00:00:41,970
+add video track and then I'm going to go
+
+19
+00:00:41,970 --> 00:00:45,270
+open other and go to color and I'm just
+
+20
+00:00:45,270 --> 00:00:47,340
+gonna keep this as it says transparent
+
+21
+00:00:47,340 --> 00:00:49,830
+right now I'll change the color to a
+
+22
+00:00:49,830 --> 00:00:52,980
+black and go to actually we can do it
+
+23
+00:00:52,980 --> 00:00:55,620
+opacity maybe I should do that let's do
+
+24
+00:00:55,620 --> 00:00:57,000
+this one right here if we can and go to
+
+25
+00:00:57,000 --> 00:00:57,570
+select
+
+26
+00:00:57,570 --> 00:01:00,360
+I haven't tried the okay doesn't do
+
+27
+00:01:00,360 --> 00:01:01,950
+opacity so this is just black that looks
+
+28
+00:01:01,950 --> 00:01:03,720
+like but what we're gonna do we're gonna
+
+29
+00:01:03,720 --> 00:01:05,489
+go into we're gonna drag this down to
+
+30
+00:01:05,489 --> 00:01:08,130
+the timeline first and then we'll select
+
+31
+00:01:08,130 --> 00:01:11,040
+it oh it did do opacity okay great so
+
+32
+00:01:11,040 --> 00:01:12,630
+this is already it has some opacity if
+
+33
+00:01:12,630 --> 00:01:14,040
+it didn't there's a filter called
+
+34
+00:01:14,040 --> 00:01:16,790
+opacity we could add and we just add
+
+35
+00:01:16,790 --> 00:01:19,020
+opacity and then we can change the
+
+36
+00:01:19,020 --> 00:01:20,760
+amount of opacity we want that put into
+
+37
+00:01:20,760 --> 00:01:23,159
+this but this is actually less steps so
+
+38
+00:01:23,159 --> 00:01:24,659
+we're not going to apply opacity you can
+
+39
+00:01:24,659 --> 00:01:26,850
+see it's already it's already made it so
+
+40
+00:01:26,850 --> 00:01:28,050
+that we can kind of see through but it's
+
+41
+00:01:28,050 --> 00:01:31,290
+darker and now we're going to add in a
+
+42
+00:01:31,290 --> 00:01:33,360
+mask so we'll go back to the beginning
+
+43
+00:01:33,360 --> 00:01:35,370
+of the clip here and we'll go to filters
+
+44
+00:01:35,370 --> 00:01:37,050
+and go to add and then we'll just search
+
+45
+00:01:37,050 --> 00:01:38,820
+for masks and there's a couple different
+
+46
+00:01:38,820 --> 00:01:40,950
+ones but we're gonna do masks a simple
+
+47
+00:01:40,950 --> 00:01:42,659
+shape because we're gonna do a rectangle
+
+48
+00:01:42,659 --> 00:01:45,479
+and that creates this black rectangle so
+
+49
+00:01:45,479 --> 00:01:47,340
+what we need to do is I'm gonna come in
+
+50
+00:01:47,340 --> 00:01:48,270
+here so we can see it a little bit
+
+51
+00:01:48,270 --> 00:01:48,570
+better
+
+52
+00:01:48,570 --> 00:01:51,180
+we click on the clip and then we come
+
+53
+00:01:51,180 --> 00:01:52,409
+over here to these settings and we can
+
+54
+00:01:52,409 --> 00:01:55,350
+change the location of it so we change
+
+55
+00:01:55,350 --> 00:01:57,630
+horizontal and vertical until this is
+
+56
+00:01:57,630 --> 00:02:00,299
+right over top of the tool that we want
+
+57
+00:02:00,299 --> 00:02:02,159
+and then we change the size the width
+
+58
+00:02:02,159 --> 00:02:04,140
+and height over here so that it's kind
+
+59
+00:02:04,140 --> 00:02:06,479
+of smaller and you're seeing the problem
+
+60
+00:02:06,479 --> 00:02:09,029
+of course is that it's covering up what
+
+61
+00:02:09,029 --> 00:02:12,629
+we want to see instead of exposing it so
+
+62
+00:02:12,629 --> 00:02:13,980
+we changed this operation
+
+63
+00:02:13,980 --> 00:02:17,489
+from over right to subtract and then it
+
+64
+00:02:17,489 --> 00:02:19,590
+shows the transparent background in
+
+65
+00:02:19,590 --> 00:02:21,840
+there and it also shows this and we can
+
+66
+00:02:21,840 --> 00:02:23,280
+fine tune if you use your scroll wheel
+
+67
+00:02:23,280 --> 00:02:25,379
+over top of the bar it makes really
+
+68
+00:02:25,379 --> 00:02:28,440
+large adjustments oh that's rotation we
+
+69
+00:02:28,440 --> 00:02:30,030
+can reset that back to zero by clicking
+
+70
+00:02:30,030 --> 00:02:33,120
+there but if we go back to width if we
+
+71
+00:02:33,120 --> 00:02:35,370
+hover over and use our mouse wheel over
+
+72
+00:02:35,370 --> 00:02:37,440
+top of the numbers with a percentage
+
+73
+00:02:37,440 --> 00:02:40,319
+it'll do a much more fine adjustment so
+
+74
+00:02:40,319 --> 00:02:42,660
+I can finally come in here and I could
+
+75
+00:02:42,660 --> 00:02:46,140
+type it in too but I'll just quickly get
+
+76
+00:02:46,140 --> 00:02:48,329
+this right to the place that I want you
+
+77
+00:02:48,329 --> 00:02:52,250
+didn't hear my squeaky mouse wheel and
+
+78
+00:02:52,400 --> 00:02:55,200
+maybe that's about good right there and
+
+79
+00:02:55,200 --> 00:02:57,030
+then what we can do is we can apply a
+
+80
+00:02:57,030 --> 00:02:59,190
+fade so right now if we play this it'll
+
+81
+00:02:59,190 --> 00:03:02,069
+look like this it just cuts over to that
+
+82
+00:03:02,069 --> 00:03:03,959
+tool and we can move it so I'll move
+
+83
+00:03:03,959 --> 00:03:05,099
+this up a little bit we'll move this
+
+84
+00:03:05,099 --> 00:03:09,569
+back and I can play no cut to that I can
+
+85
+00:03:09,569 --> 00:03:11,160
+I can left-click and hold and move this
+
+86
+00:03:11,160 --> 00:03:13,349
+back and we can make it longer make it
+
+87
+00:03:13,349 --> 00:03:15,209
+display longer to if we want to the
+
+88
+00:03:15,209 --> 00:03:20,910
+whole thing that's pretty good and now
+
+89
+00:03:20,910 --> 00:03:23,069
+we can apply a fade and there's a couple
+
+90
+00:03:23,069 --> 00:03:24,630
+ways to do that we could just click on
+
+91
+00:03:24,630 --> 00:03:26,730
+the clip and go into filters and add a
+
+92
+00:03:26,730 --> 00:03:30,389
+fade if we wanted to a video fade or we
+
+93
+00:03:30,389 --> 00:03:32,700
+can just if I get out of this we can
+
+94
+00:03:32,700 --> 00:03:34,410
+just come to the clip and hover over and
+
+95
+00:03:34,410 --> 00:03:36,630
+this black circle appears left click and
+
+96
+00:03:36,630 --> 00:03:38,040
+hold on that black circle and we can
+
+97
+00:03:38,040 --> 00:03:39,840
+drag this out as long as we want the
+
+98
+00:03:39,840 --> 00:03:42,359
+fade to happen at the beginning and then
+
+99
+00:03:42,359 --> 00:03:43,500
+the same thing at the end and that will
+
+100
+00:03:43,500 --> 00:03:46,500
+fade in and out any audio or video
+
+101
+00:03:46,500 --> 00:03:48,750
+associated with the clip so now it fades
+
+102
+00:03:48,750 --> 00:03:51,000
+and then we need to click on the clip
+
+103
+00:03:51,000 --> 00:03:52,650
+and go to those fade options we don't
+
+104
+00:03:52,650 --> 00:03:53,790
+need to fade audio because there's no
+
+105
+00:03:53,790 --> 00:03:56,130
+audio on this clip but the fade video in
+
+106
+00:03:56,130 --> 00:03:57,480
+we want to make sure we click this
+
+107
+00:03:57,480 --> 00:04:00,419
+checkbox adjust opacity instead of a
+
+108
+00:04:00,419 --> 00:04:03,569
+fade instead of fade with black so on
+
+109
+00:04:03,569 --> 00:04:05,459
+both of them on the fade in and out
+
+110
+00:04:05,459 --> 00:04:07,290
+we'll make sure that's checked and now
+
+111
+00:04:07,290 --> 00:04:09,299
+it'll look really cool it'll fade in the
+
+112
+00:04:09,299 --> 00:04:12,599
+whole thing just like this and then it
+
+113
+00:04:12,599 --> 00:04:15,060
+shows it and it's going very slow right
+
+114
+00:04:15,060 --> 00:04:15,419
+now
+
+115
+00:04:15,419 --> 00:04:19,560
+then it'll fade it out so maybe that's
+
+116
+00:04:19,560 --> 00:04:22,289
+even too much and then if we want to use
+
+117
+00:04:22,289 --> 00:04:25,590
+this same effect or this same mask with
+
+118
+00:04:25,590 --> 00:04:26,700
+these settings we can just right click
+
+119
+00:04:26,700 --> 00:04:27,630
+and go to copy
+
+120
+00:04:27,630 --> 00:04:29,880
+and we can go to another location in the
+
+121
+00:04:29,880 --> 00:04:31,140
+video to where we're selecting another
+
+122
+00:04:31,140 --> 00:04:32,670
+tool suppose we're selecting a tool over
+
+123
+00:04:32,670 --> 00:04:34,710
+here we can come to that location and
+
+124
+00:04:34,710 --> 00:04:38,580
+just do ctrl V to paste that and now we
+
+125
+00:04:38,580 --> 00:04:40,620
+have it pasted over here and if it's a
+
+126
+00:04:40,620 --> 00:04:42,180
+different tool we can just come over to
+
+127
+00:04:42,180 --> 00:04:44,760
+this vertical and change where that is
+
+128
+00:04:44,760 --> 00:04:46,800
+at on the vertical so we can change that
+
+129
+00:04:46,800 --> 00:04:48,390
+we can even come over here and select a
+
+130
+00:04:48,390 --> 00:04:50,070
+tool across the top by changing vertical
+
+131
+00:04:50,070 --> 00:04:51,930
+and horizontal so whatever tool we
+
+132
+00:04:51,930 --> 00:04:53,790
+happen to be selecting we can just
+
+133
+00:04:53,790 --> 00:04:56,760
+highlight that and it'll show that tool
+
+134
+00:04:56,760 --> 00:04:58,740
+and it'll still apply it with the exact
+
+135
+00:04:58,740 --> 00:05:00,780
+same fades and everything and if we've
+
+136
+00:05:00,780 --> 00:05:02,040
+suppose we were doing something over
+
+137
+00:05:02,040 --> 00:05:04,740
+here we could even it doesn't have to be
+
+138
+00:05:04,740 --> 00:05:06,960
+just a rectangle so we can come over
+
+139
+00:05:06,960 --> 00:05:09,060
+here and change or a square we can
+
+140
+00:05:09,060 --> 00:05:14,790
+change the width here to more like a
+
+141
+00:05:14,790 --> 00:05:17,160
+rectangular area to cover like a whole
+
+142
+00:05:17,160 --> 00:05:19,680
+thing or width and height and we can
+
+143
+00:05:19,680 --> 00:05:22,590
+come down just like this so this is a
+
+144
+00:05:22,590 --> 00:05:24,360
+really cool feature you can do the same
+
+145
+00:05:24,360 --> 00:05:25,260
+thing in kdenlive
+
+146
+00:05:25,260 --> 00:05:27,870
+and in all kinds of you know all kinds
+
+147
+00:05:27,870 --> 00:05:28,950
+of different video editors that are
+
+148
+00:05:28,950 --> 00:05:30,720
+open-source as well I just thought it's
+
+149
+00:05:30,720 --> 00:05:32,940
+particularly easy to accomplish this in
+
+150
+00:05:32,940 --> 00:05:35,850
+shot cut you can also save these presets
+
+151
+00:05:35,850 --> 00:05:38,310
+over here like these exact presets if
+
+152
+00:05:38,310 --> 00:05:40,020
+you want to you can come over here and
+
+153
+00:05:40,020 --> 00:05:42,420
+go preset and go add and then you can
+
+154
+00:05:42,420 --> 00:05:46,470
+just call this large box or whatever you
+
+155
+00:05:46,470 --> 00:05:49,140
+want to call it and then that way if
+
+156
+00:05:49,140 --> 00:05:51,120
+even after you close the program and get
+
+157
+00:05:51,120 --> 00:05:52,560
+back in you can always come to this
+
+158
+00:05:52,560 --> 00:05:54,330
+preset so if you change things over to
+
+159
+00:05:54,330 --> 00:05:56,550
+here and you want that preset of where
+
+160
+00:05:56,550 --> 00:05:58,410
+it was over there you just come down to
+
+161
+00:05:58,410 --> 00:06:02,130
+your large box preset and it sets it up
+
+162
+00:06:02,130 --> 00:06:04,230
+exactly how it was so thanks for
+
+163
+00:06:04,230 --> 00:06:05,310
+watching guys if you have any questions
+
+164
+00:06:05,310 --> 00:06:06,630
+or comments leave them below hope you
+
+165
+00:06:06,630 --> 00:06:08,100
+find this video informative and look
+
+166
+00:06:08,100 --> 00:06:09,390
+forward to catching you in the next
+
+167
+00:06:09,390 --> 00:06:11,720
+video
+
+168
+00:06:17,849 --> 00:06:19,909
+you
+
