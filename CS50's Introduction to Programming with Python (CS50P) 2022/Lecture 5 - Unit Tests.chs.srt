@@ -1,5116 +1,4092 @@
-
 1
 00:00:25,250 --> 00:00:28,400
 David Malan：这是CS50的S介绍使用Python语言编程 
-DAVID MALAN: This is CS50's Introduction to Programming with Python.
 
 2
 00:00:28,400 --> 00:00:29,480
 我叫大卫·马兰 
-My name is David Malan.
 
 3
 00:00:29,480 --> 00:00:31,940
 本周是我们进行单元测试的一周 
-And this is our week on unit tests.
 
 4
 00:00:31,940 --> 00:00:34,070
 到目前为止 我们一直在编写大量代码 
-Up until now, we've been writing a lot of code,
 
 5
 00:00:34,070 --> 00:00:37,207
 您可能一直在通过运行您的程序来测试代码 
-and you might have been testing your code by running your program,
 
 6
 00:00:37,207 --> 00:00:40,040
 并传入一些样本输入 然后再次运行它 然后传递
-and passing in some sample inputs, and running it again, and passing
 
 7
 00:00:40,040 --> 00:00:42,530
 在一些样本输入中 或者您可能一直在等待
-in some sample inputs, or you might have been waiting
 
 8
 00:00:42,530 --> 00:00:44,180
 让我们测试您的代码 
-for us to test your code instead.
 
 9
 00:00:44,180 --> 00:00:47,270
 但实际上更好的做法是尽早养成这个习惯
-But it's actually much better practice to get into the habit sooner
 
 10
 00:00:47,270 --> 00:00:51,877
 而不是稍后使用您自己的代码测试您自己的代码 
-rather than later of testing your own code using code of your own.
 
 11
 00:00:51,877 --> 00:00:53,960
 事实上 无论你是在写一个个人项目
-In fact, whether you're writing a personal project
 
 12
 00:00:53,960 --> 00:00:57,065
 或者在工业中工作 如今很常见的不仅仅是编写代码
-or working in industry, it's very common nowadays to not only write code
 
 13
 00:00:57,065 --> 00:00:58,940
 要解决你想要解决的问题 
-to solve the problems that you want to solve,
 
 14
 00:00:58,940 --> 00:01:03,260
 还可以编写一些额外的代码来测试您编写的代码 
-but also to write a little extra code to test the code that you wrote.
 
 15
 00:01:03,260 --> 00:01:06,590
 这就是我们今天要关注的 编写我们自己的测试
-And that's what we're going to focus on today, writing our own test so as
 
 16
 00:01:06,590 --> 00:01:08,900
 更加自信 更加确定 
-to be all the more confident, all the more certain,
 
 17
 00:01:08,900 --> 00:01:12,930
 我们一直试图解决的问题实际上得到了正确的解决 
-that the problems we have been trying to solve are, in fact, solved correctly.
 
 18
 00:01:12,930 --> 00:01:17,720
 现在让我们回到几周前我们编写的一个程序 
-So let's rewind a few weeks now to a program we wrote a while back,
 
 19
 00:01:17,720 --> 00:01:20,540
 即计算数字 
-namely to calculate numbers.
 
 20
 00:01:20,540 --> 00:01:23,450
 具体地说 我们没有使用这个计算器
-And specifically, we left off with this calculator
 
 21
 00:01:23,450 --> 00:01:27,050
 关于试图计算一个数字的幂 比如x的平方
-on trying to compute the power of a number, like x squared
 
 22
 00:01:27,050 --> 00:01:31,250
 或者其中x可以是2、3或其他一些数字 
-or where x might be two or three or some other number as well.
 
 23
 00:01:31,250 --> 00:01:34,850
 让我进入终端窗口 继续恢复该文件
-Let me go ahead and resurrect that file by going into my terminal window
 
 24
 00:01:34,850 --> 00:01:38,750
 在这里再次运行culator.py的代码 
-here and running again code of calculator.py.
 
 25
 00:01:38,750 --> 00:01:42,410
 让我继续 从很久以前我们停止的地方开始
-And let me go ahead and pick up where we left off way back when
 
 26
 00:01:42,410 --> 00:01:44,367
 通过在这里定义一个主函数 
-by defining a main function here.
 
 27
 00:01:44,367 --> 00:01:46,700
 然后在我的主要功能中 我做了这样的事情 
-And then in my main function, I did something like this.
 
 28
 00:01:46,700 --> 00:01:49,550
 我说 x等于输入的int 
-I said, x equals int of input.
 
 29
 00:01:49,550 --> 00:01:52,730
 我问用户 x是什么 问号？
-And I ask the user, what's x, question mark?
 
 30
 00:01:52,730 --> 00:01:55,880
 然后我立即开始打印 打印出了这样的东西 
-And then I immediately went ahead and printed out something like,
 
 31
 00:01:55,880 --> 00:02:00,020
 X的平方是 然后我作为第二个参数传入
-x squared is, and then I passed in as a second argument
 
 32
 00:02:00,020 --> 00:02:02,450
 打印调用名为的函数的结果
-to print the result of calling a function called
 
 33
 00:02:02,450 --> 00:02:04,790
 平方传递那个值 x 
-square passing in that value, x.
 
 34
 00:02:04,790 --> 00:02:08,639
 当然 现在我还没有实现Square函数 
-Now of course, I haven't yet implemented the square function.
 
 35
 00:02:08,639 --> 00:02:10,110
 所以让我们也来定义一下 
-So let's define that as well.
 
 36
 00:02:10,110 --> 00:02:12,560
 让我沿着几行来定义正方形 
-Let me go down a couple of lines and define square.
 
 37
 00:02:12,560 --> 00:02:15,938
 它需要一个参数调用 这个参数在当时
-And it takes an argument recall, a parameter that at the time
 
 38
 00:02:15,938 --> 00:02:18,980
 我给n打了个号码 所以我会再做一次 尽管从技术上讲我可以
-I called n, for number, so I'll do that again, though I could technically
 
 39
 00:02:18,980 --> 00:02:21,140
 为该变量选择任意名称 
-choose any name for this variable.
 
 40
 00:02:21,140 --> 00:02:22,730
 我记得 就是这样做的 
-And I recall, did this.
 
 41
 00:02:22,730 --> 00:02:25,190
 我返回了n乘以n 
-I returned n times n.
 
 42
 00:02:25,190 --> 00:02:27,560
 有多种方法可以做到这一点 
-And there were multiple ways to do this.
 
 43
 00:02:27,560 --> 00:02:30,120
 对一个数字进行平方就是将其自身相乘 
-Squaring a number is multiplying it by itself.
 
 44
 00:02:30,120 --> 00:02:32,150
 所以我也可以在这里使用其他语法 但是这个
-So I could also use other syntax here, but this
 
 45
 00:02:32,150 --> 00:02:34,130
 是我们最终决定的 然后
-is what we ultimately settled on, and then
 
 46
 00:02:34,130 --> 00:02:37,430
 回想一下 我最终调用了Main 以便启动
-recall that I ultimately called main in order to kick off
 
 47
 00:02:37,430 --> 00:02:39,090
 运行该程序的过程 
-the process of running this program.
 
 48
 00:02:39,090 --> 00:02:41,900
 因此 就像手动测试一样 让我继续运行
-So just as a test manually, let me go ahead and run
 
 49
 00:02:41,900 --> 00:02:44,750
 Python.py并按Enter键 
-Python of calculator.py and hit Enter.
 
 50
 00:02:44,750 --> 00:02:45,530
 X是什么？
-What's x?
 
 51
 00:02:45,530 --> 00:02:47,180
 让我们从2开始 
-Let's start with 2.
 
 52
 00:02:47,180 --> 00:02:48,530
 X的平方是4 
-x squared is 4.
 
 53
 00:02:48,530 --> 00:02:49,595
 我想这是对的 
-I think that's correct.
 
 54
 00:02:49,595 --> 00:02:51,470
 所以让我们再运行一次 只是为了更好地衡量 
-So let's run it again, just for good measure.
 
 55
 00:02:51,470 --> 00:02:55,880
 Py的Python 这一次让我们输入x的3 
-Python of calculator.py, let's type in 3 for x this time.
 
 56
 00:02:55,880 --> 00:02:57,110
 X的平方是9 
-X squared is 9.
 
 57
 00:02:57,110 --> 00:02:58,370
 我认为这是正确的 
-And I think that's correct.
 
 58
 00:02:58,370 --> 00:03:00,412
 在这一点上我可能感觉很好 
-And I might be feeling pretty good at this point,
 
 59
 00:03:00,412 --> 00:03:02,450
 然后我去把我的代码提交给一个课程 
-and I go off and submit my code to a course,
 
 60
 00:03:02,450 --> 00:03:04,580
 或者我把它发布到互联网上 供其他人使用 
-or I post it on the internet for others to use.
 
 61
 00:03:04,580 --> 00:03:07,550
 但我还没有真正系统地测试过这段代码 
-But I haven't really methodically tested this code.
 
 62
 00:03:07,550 --> 00:03:10,280
 而且情况并不一定是完全有效的 
-And it's not necessarily the case that it works entirely.
 
 63
 00:03:10,280 --> 00:03:13,100
 事实上 我还没有真正考虑过一些角落案例 
-In fact, I haven't really considered a number of corner cases.
 
 64
 00:03:13,100 --> 00:03:17,570
 我用了一些非常明显的数字 比如2和3 但0呢？
-I went with some pretty obvious numbers like 2 and 3, but what about 0?
 
 65
 00:03:17,570 --> 00:03:18,930
 那么负数呢？
-What about negative numbers?
 
 66
 00:03:18,930 --> 00:03:20,990
 那么任何数量的其他无穷大的数字呢？
-What about any number of other infinite numbers?
 
 67
 00:03:20,990 --> 00:03:23,090
 我们不会测试无限数量的输入
-We're not going to test an infinite number of inputs
 
 68
 00:03:23,090 --> 00:03:25,007
 对于这一点 因为这个程序永远不会停止 
-to this, because the program would never halt,
 
 69
 00:03:25,007 --> 00:03:28,610
 但我们最终应该测试一些有代表性的投入 
-but we should test some representative inputs ultimately.
 
 70
 00:03:28,610 --> 00:03:31,970
 但在此之前 让我们养成一个习惯 确保
-But before we do that, let's get into the habit of making sure
 
 71
 00:03:31,970 --> 00:03:33,770
 这条主干道并不总是被称为Main 
-that main isn't always called.
 
 72
 00:03:33,770 --> 00:03:43,910
 让我们再一次养成这样的习惯 如果__name__==“__main__” 
-Let's adopt this habit, again, of doing If__name__=="__main__",
 
 73
 00:03:43,910 --> 00:03:45,920
 只有到那时 我们才能执行Main 
-only then should we execute main.
 
 74
 00:03:45,920 --> 00:03:48,320
 我现在正在积极地做这件事 因为我
-And I'm doing this now proactively, because I
 
 75
 00:03:48,320 --> 00:03:53,210
 我想确保在我导入平方函数时 也许
-want to make sure that when I import my square function, perhaps
 
 76
 00:03:53,210 --> 00:03:56,930
 从另一个库 从另一个文件 将其视为库 
-from another library, from another file, treating it as though it's a library,
 
 77
 00:03:56,930 --> 00:04:00,840
 我希望确保main不会被自动调用 
-I want to make sure that main is not just automatically called itself.
 
 78
 00:04:00,840 --> 00:04:03,920
 现在我现在想做什么 因为我已经
-Now what do I want to do from here now that I've
 
 79
 00:04:03,920 --> 00:04:06,320
 是否按如下方式修改此程序？
-modified this program as follows?
 
 80
 00:04:06,320 --> 00:04:09,560
 让我们继续编写一个完全不同的程序 它的唯一目的是
-Let's go ahead and write a completely different program whose sole purpose
 
 81
 00:04:09,560 --> 00:04:12,210
 现在就是在生活中考验这个程序 
-in life is to now test this program.
 
 82
 00:04:12,210 --> 00:04:15,410
 所以我得到了我的实际计算器和计算器.py 
-So I've got my actual calculator and calculator.py.
 
 83
 00:04:15,410 --> 00:04:18,200
 我已经准备好有条件地给Main打电话
-I've readied myself to call main conditionally
 
 84
 00:04:18,200 --> 00:04:23,568
 这样我就可以安全地将一个或多个内容从此文件导入到另一个文件中 
-so that I can safely import one or more things from this file in another file.
 
 85
 00:04:23,568 --> 00:04:24,860
 另一个文件应该是什么？
-What should that other file be?
 
 86
 00:04:24,860 --> 00:04:28,340
 按照惯例 我将创建一个名为test_的文件 
-By convention, I'm going to create a file that's called test_,
 
 87
 00:04:28,340 --> 00:04:31,580
 然后因为我测试的是这个计算器本身 
-and then because the thing I'm testing is this calculator itself,
 
 88
 00:04:31,580 --> 00:04:34,910
 让我们将该文件命名为test_culator.py 
-let's call this file test_calculator.py.
 
 89
 00:04:34,910 --> 00:04:36,920
 这将给我一个新的标签 在其中我
-That's going to give me a new tab, in which I
 
 90
 00:04:36,920 --> 00:04:39,080
 我可以写一个全新的程序 它的人生目标
-can write a brand new program whose purpose in life
 
 91
 00:04:39,080 --> 00:04:41,330
 现在专门用来测试这个程序 
-is now specifically to test that program,
 
 92
 00:04:41,330 --> 00:04:43,850
 但实际上这是该程序的特定功能 
-but really that program's specific functionality.
 
 93
 00:04:43,850 --> 00:04:46,700
 该程序内置了Square函数 
-Built into that program is the square function.
 
 94
 00:04:46,700 --> 00:04:49,730
 让我们专注于测试该功能 
-Let's focus on testing that function.
 
 95
 00:04:49,730 --> 00:04:52,760
 那么 我如何访问该程序中的功能呢？
-So how do I access that function in this program?
 
 96
 00:04:52,760 --> 00:04:55,610
 回想一下 我可以从另一个文件导入函数
-Recall that I can import a function from another file
 
 97
 00:04:55,610 --> 00:04:58,480
 就好像它是我自己的一个库 一个所谓的模块 
-as though it's a library of my own, a so-called module.
 
 98
 00:04:58,480 --> 00:04:59,480
 所以我要这么做 
-So I'm going to do this.
 
 99
 00:04:59,480 --> 00:05:03,170
 从计算器中导入正方形 
-From calculator, import square.
 
 100
 00:05:03,170 --> 00:05:05,600
 我可以继续下去 只需导入Square本身 
-I could go ahead and just import square itself.
 
 101
 00:05:05,600 --> 00:05:09,440
 但是我必须在我使用的Square recall前面加上前缀
-But then I would have to prefix my use of square recall
 
 102
 00:05:09,440 --> 00:05:12,440
 通过说计算器到处都是点 它只是更干净一点
-by saying calculator dot everywhere, and it's just a little cleaner
 
 103
 00:05:12,440 --> 00:05:14,060
 来只导入一个函数 
-to just import the one function.
 
 104
 00:05:14,060 --> 00:05:16,440
 现在让我继续做这件事 
-And now let me go ahead and do this.
 
 105
 00:05:16,440 --> 00:05:19,910
 让我们继续定义一个名为test square的函数 
-Let me go ahead and define a function called test square.
 
 106
 00:05:19,910 --> 00:05:21,270
 这也是一场大会 
-This too is a convention.
 
 107
 00:05:21,270 --> 00:05:25,390
 如果您想测试一个名为Square的函数 那么您要测试的函数
-If you want to test a function called square, your function for testing
 
 108
 00:05:25,390 --> 00:05:27,700
 应该称为test_square 
-should be called test_square.
 
 109
 00:05:27,700 --> 00:05:30,430
 或者 您也可以执行Square_test 
-Or alternatively, you could do square_test,
 
 110
 00:05:30,430 --> 00:05:31,930
 我将在这里采用这一惯例 
-I'll adopt this convention here.
 
 111
 00:05:31,930 --> 00:05:34,270
 现在我们可以做什么样的测试呢？
-Now what kind of tests can we do?
 
 112
 00:05:34,270 --> 00:05:38,920
 我不喜欢我之前运行的测试 测试x等于2 x等于3 
-I don't dislike the tests I ran earlier, testing x equals 2 and x equals 3.
 
 113
 00:05:38,920 --> 00:05:41,745
 但每次我之前想测试我的程序时 
-But every time I want to test my program previously,
 
 114
 00:05:41,745 --> 00:05:43,120
 我必须手动完成这项工作 
-I would have to do that manually.
 
 115
 00:05:43,120 --> 00:05:44,050
 这将会变得单调乏味 
-And that's going to get tedious.
 
 116
 00:05:44,050 --> 00:05:45,880
 对于其他人来说 测试它并不容易 
-It's not going to be easy for someone else to test it.
 
 117
 00:05:45,880 --> 00:05:47,990
 如果我真的在现实世界中工作 
-And if I'm actually working in the real world,
 
 118
 00:05:47,990 --> 00:05:49,720
 如果我能不假思索地
-it would be nice if I could automatically
 
 119
 00:05:49,720 --> 00:05:54,040
 让我的程序通过运行一些自动化进程来一次又一次地进行测试
-have my program tested again and again by having some automated process run
 
 120
 00:05:54,040 --> 00:05:54,910
 我自己的代码 
-my own code.
 
 121
 00:05:54,910 --> 00:05:58,130
 因此 让我们这样做 并最终将人类排除在方程式之外 
-So let's do that and take the human ultimately out of the equation.
 
 122
 00:05:58,130 --> 00:06:00,850
 那么我该如何开始测试平方函数呢
-So how might I go about testing the square function
 
 123
 00:06:00,850 --> 00:06:03,670
 我现在每一行都导入了什么？
-that I've now imported per line one?
 
 124
 00:06:03,670 --> 00:06:05,800
 在我的检验平方函数中 为什么不这样做呢？
-In my test square function, why don't I do this?
 
 125
 00:06:05,800 --> 00:06:11,198
 如果调用2的平方的结果不等于4 
-If the result of calling square of 2 does not equal 4,
 
 126
 00:06:11,198 --> 00:06:13,240
 为什么我们不继续打印一条错误消息 
-why don't we go ahead and print an error message,
 
 127
 00:06:13,240 --> 00:06:17,080
 因为我知道在现实世界中 2的平方应该等于4 
-because I know that in the real world, 2 squared should equal 4,
 
 128
 00:06:17,080 --> 00:06:21,572
 因此 如果2的平方不等于4 则我的程序中存在错误 
-so if square of 2 does not equal 4, there's a bug in my program.
 
 129
 00:06:21,572 --> 00:06:22,780
 我的函数中有一个错误 
-There's a bug in my function.
 
 130
 00:06:22,780 --> 00:06:23,780
 我犯了个错误 
-I've made a mistake.
 
 131
 00:06:23,780 --> 00:06:26,655
 所以让我继续打印一些类似的东西 这样我或其他人
-So let me go ahead and print something like that so I or someone else
 
 132
 00:06:26,655 --> 00:06:30,050
 例如 知道2的平方不是4 
-knows 2 squared was not 4, for instance.
 
 133
 00:06:30,050 --> 00:06:31,640
 这样我就可以打印出这里的任何东西 
-So I could print out anything here.
 
 134
 00:06:31,640 --> 00:06:33,163
 也许下一次我应该做什么测试？
-What should I maybe next test?
 
 135
 00:06:33,163 --> 00:06:34,330
 让我们做不止一次测试 
-Let's do more than one test.
 
 136
 00:06:34,330 --> 00:06:40,120
 比方说 如果3的平方不等于3的平方9 那么我们继续
-Let's say if the square of 3 does not equal 3 squared 9, then let's go ahead
 
 137
 00:06:40,120 --> 00:06:43,390
 打印出3的平方不是9 
-and print out that 3 squared was not 9.
 
 138
 00:06:43,390 --> 00:06:46,240
 所以我没有比之前做更多的测试 
-So I haven't done any more testing than I did earlier.
 
 139
 00:06:46,240 --> 00:06:52,390
 但我已经将x等于2和x等于3这两个测试放入了我自己的代码中
-But I've baked those two tests, x equals 2 and x equals 3, into my own code
 
 140
 00:06:52,390 --> 00:06:55,910
 现在 我可以自动运行这些测试 如果您愿意的话 
-here, so I can now run those tests automatically, if you will.
 
 141
 00:06:55,910 --> 00:06:59,890
 现在 仅仅定义一个称为检验平方的函数是不够的 
-Now, it's not enough to just define a function called test square.
 
 142
 00:06:59,890 --> 00:07:02,830
 实际上 如果我想运行这个函数 需要以某种方式调用它 
-I actually, if I want to run this function, need to call it somehow.
 
 143
 00:07:02,830 --> 00:07:06,250
 我们这样做的惯例是一如既往的 
-And our convention for doing that is the same as always.
 
 144
 00:07:06,250 --> 00:07:08,530
 在这个文件中 也让我定义Main 
-In this file too, let me define main.
 
 145
 00:07:08,530 --> 00:07:12,670
 而Main在生活中的唯一目标将是测试Square 
-And main's sole purpose in life is going to be to test square.
 
 146
 00:07:12,670 --> 00:07:15,310
 现在 和以前一样 在这个文件的底部 
-And now at the bottom of this file, as before,
 
 147
 00:07:15,310 --> 00:07:23,860
 让我继续采用我的惯例：if__name__==“__main__” 
-let me go ahead and adopt my convention of if__name__=="__main__",
 
 148
 00:07:23,860 --> 00:07:26,170
 然后继续呼叫Main 
-then go ahead and call main.
 
 149
 00:07:26,170 --> 00:07:27,890
 因此 这些都只是例行公事 
-So a lot of this is just boilerplate.
 
 150
 00:07:27,890 --> 00:07:29,890
 我们以前见过这种情况 定义了一个主函数
-We've seen this before, defining a main function
 
 151
 00:07:29,890 --> 00:07:32,073
 并调用一个函数来启动某个进程 
-and calling a function to kick off some process,
 
 152
 00:07:32,073 --> 00:07:34,240
 现在在文件的底部添加条件
-now adding the conditional at the bottom of the file
 
 153
 00:07:34,240 --> 00:07:37,900
 以确保我只是有条件地调用main 以防我导入
-to make sure I'm only conditionally calling main, just in case I import
 
 154
 00:07:37,900 --> 00:07:40,220
 其他地方的这份文件里有没有发现 
-anything from this file elsewhere.
 
 155
 00:07:40,220 --> 00:07:41,050
 让我们来看看 
-So let's see.
 
 156
 00:07:41,050 --> 00:07:43,030
 现在让我们继续测试我的代码 
-Let's go ahead and test my code now.
 
 157
 00:07:43,030 --> 00:07:47,800
 让我继续运行test_culator Python并按Enter键 
-Let me go ahead and run test_calculator Python and hit Enter,
 
 158
 00:07:47,800 --> 00:07:49,780
 而且什么都不会产生 
-and nothing outputs.
 
 159
 00:07:49,780 --> 00:07:50,920
 什么都没有输出 
-Nothing outputs.
 
 160
 00:07:50,920 --> 00:07:53,110
 但我觉得这没问题 
-But I think it's OK.
 
 161
 00:07:53,110 --> 00:07:56,800
 我认为没有输出是好的 因为看看我的测试平方函数 
-I think no output is good, because look at my test square function.
 
 162
 00:07:56,800 --> 00:08:00,430
 如果一切顺利 我不会打印任何东西 
-I'm not printing anything if all seems well.
 
 163
 00:08:00,430 --> 00:08:03,197
 所以让我们回到我的计算器来演示一下 
-So let's demonstrate as much by going back to my calculator,
 
 164
 00:08:03,197 --> 00:08:04,030
 让我来打破它 
-and let me break it.
 
 165
 00:08:04,030 --> 00:08:05,180
 让我来介绍一个错误 
-Let me introduce a bug.
 
 166
 00:08:05,180 --> 00:08:07,180
 也许我第一次都没答对 
-Maybe I didn't even get it right the first time.
 
 167
 00:08:07,180 --> 00:08:09,010
 也许我的代码最初是这样的 
-Maybe my code originally looked like this.
 
 168
 00:08:09,010 --> 00:08:10,000
 我当时没在想 
-I wasn't thinking.
 
 169
 00:08:10,000 --> 00:08:11,200
 我忘了带我的方格 
-I forgot my squares.
 
 170
 00:08:11,200 --> 00:08:15,160
 所以我认为一个数字的平方是n加n 
-And so I thought that the square of a number is n plus n,
 
 171
 00:08:15,160 --> 00:08:18,130
 而不是n乘以n 所以犯了一个合理的错误 
-instead of n times n, so a reasonable mistake to make,
 
 172
 00:08:18,130 --> 00:08:19,390
 也许是算术上的 
-perhaps arithmetically.
 
 173
 00:08:19,390 --> 00:08:21,340
 现在让我回到我的测试计算器 
-Let me now go back to my test calculator,
 
 174
 00:08:21,340 --> 00:08:24,010
 我不会改变它 但我会重新运行它 
-which I'm not going to change, but I am going to rerun it,
 
 175
 00:08:24,010 --> 00:08:26,410
 测试计算器.py的Python 
-python of test_calculator.py.
 
 176
 00:08:26,410 --> 00:08:29,170
 我要在这里祈祷 但无缘无故 我
-I'm going to cross my fingers here, but for naught, I'm
 
 177
 00:08:29,170 --> 00:08:33,309
 马上就会发现3的平方不是9 
-going to see immediately that 3 squared was not 9.
 
 178
 00:08:33,309 --> 00:08:35,020
 现在是什么事？
-Now what is it?
 
 179
 00:08:35,020 --> 00:08:39,400
 让我们看看 当你的测试失败时 我们怎么能指出哪里出了问题？
-Let's see, when your tests fail, how can we put our finger on what's wrong?
 
 180
 00:08:39,400 --> 00:08:42,520
 有点有趣的是 我完全破坏了我的平方函数 
-It's a little interesting that I completely broke my square function,
 
 181
 00:08:42,520 --> 00:08:45,460
 然而 这些测试中只有一项失败了 
-and yet only one of these tests is failing.
 
 182
 00:08:45,460 --> 00:08:49,672
 这个测试 第9行和第10行 看起来没问题 
-It looks like this test, lines 9 and 10, is fine,
 
 183
 00:08:49,672 --> 00:08:51,130
 因为我看不到这样的结果 
-because I'm not seeing that output.
 
 184
 00:08:51,130 --> 00:08:54,310
 但是当然这两条线 这个测试 
-But of course these two lines, this test,
 
 185
 00:08:54,310 --> 00:08:57,640
 失败了 因为当我使用加号时 3的平方不是9 
-is failing, because 3 squared is not 9 when I'm using plus.
 
 186
 00:08:57,640 --> 00:09:03,880
 所以在这里澄清一下 为什么我的功能只有部分损坏 
-So just to be clear here, why is my function only partially broken,
 
 187
 00:09:03,880 --> 00:09:04,930
 我只想说清楚 
-just to be clear.
 
 188
 00:09:04,930 --> 00:09:07,990
 为什么我只看到我的错误 而不是两个 
-Why am I seeing only I error instead of two,
 
 189
 00:09:07,990 --> 00:09:11,785
 即使平方函数现在在数学上被破坏了？
-even though the square function is now mathematically broken?
 
 190
 00:09:11,785 --> 00:09:13,200
 演讲者1：因为2加2等于4 
-SPEAKER 1: Because 2 plus 2 is 4.
 
 191
 00:09:13,200 --> 00:09:14,950
 大卫·马兰：是的 就这么简单 
-DAVID MALAN: Yeah, it's as simple as that.
 
 192
 00:09:14,950 --> 00:09:18,313
 我只是很幸运 2加2等于2乘以2 
-I just got lucky that 2 plus 2 is the same thing as 2 times 2.
 
 193
 00:09:18,313 --> 00:09:20,230
 所以这是一个角落里的案例 而这个
-So this is one of those corner cases, and this
 
 194
 00:09:20,230 --> 00:09:22,480
 这就是为什么养成不只测试一件事的习惯是好的 
-is why it's good to be in the habit of not just testing one thing,
 
 195
 00:09:22,480 --> 00:09:25,610
 但测试几个 并确保您的基础 可以这么说 
-but test several and make sure you're covering your bases, so to speak.
 
 196
 00:09:25,610 --> 00:09:27,010
 所以我在这里很幸运 
-So I got lucky here.
 
 197
 00:09:27,010 --> 00:09:29,470
 这就解释了为什么我只看到了I错误 
-And that explains why I'm seeing only I error,
 
 198
 00:09:29,470 --> 00:09:32,800
 尽管函数本身是有缺陷的 但让我建议
-even though the function itself is flawed, but let me propose that there's
 
 199
 00:09:32,800 --> 00:09:35,050
 另一种我们可以做的方式 因为老实说 
-another way we could do this, because honestly,
 
 200
 00:09:35,050 --> 00:09:39,280
 如果我从这个简单的例子推断 运行的不仅仅是两个测试
-if I extrapolate from this simple example, running not just two tests
 
 201
 00:09:39,280 --> 00:09:45,010
 但是3个、4个、10个或20个测试 你可以想象 天哪 
-but 3, or 4, or 10, or 20 tests, you can imagine that, my God,
 
 202
 00:09:45,010 --> 00:09:48,460
 代码将变得比函数本身复杂得多 
-the code is going to get so much more complicated than the function itself.
 
 203
 00:09:48,460 --> 00:09:53,290
 看 在culator.py中 有问题的函数已经有两行长了 
-Already, look, in calculator.py, the function in question is two lines long.
 
 204
 00:09:53,290 --> 00:09:58,330
 然而 在TEST_COMPUATOR中 有问题的代码有五行长 
-And yet in test_calculator, the code in question is five lines long.
 
 205
 00:09:58,330 --> 00:10:01,900
 我编写了比实际编写的原始代码更多的代码来测试我的代码 
-I've written more code to test my code than I actually wrote original code.
 
 206
 00:10:01,900 --> 00:10:05,890
 因此 我们在测试代码时可以编写的代码行越少 
-So the fewer lines of code we can write when testing code,
 
 207
 00:10:05,890 --> 00:10:08,118
 我觉得你和我越有可能这么做 
-I think the more likely you and I are to do it,
 
 208
 00:10:08,118 --> 00:10:09,910
 因为从字面上讲 这将是一种
-because it's going to be literally a little
 
 209
 00:10:09,910 --> 00:10:12,740
 工作量更少 犯错的机会也更少 
-less work and just fewer opportunities for mistakes.
 
 210
 00:10:12,740 --> 00:10:15,400
 那么 我还可以采取什么其他方法呢？
-So what's another approach I can take here?
 
 211
 00:10:15,400 --> 00:10:19,700
 事实证明 在Python中 还有一个我们还没有使用过的关键字 
-it turns out in Python, there is another keyword that we haven't yet used,
 
 212
 00:10:19,700 --> 00:10:21,640
 这就是这里 断言 
-which is this here, assert.
 
 213
 00:10:21,640 --> 00:10:25,330
 Assert是Python和其他一些语言中的关键字
-Assert is a keyword in Python and some other languages as well
 
 214
 00:10:25,330 --> 00:10:28,300
 它允许你这样做 就像在英语中 断言
-that allow you to do exactly that, as in English, to assert
 
 215
 00:10:28,300 --> 00:10:31,910
 某件事是真的 大胆地宣称某事是真的 
-that something is true, to sort of boldly claim that something is true.
 
 216
 00:10:31,910 --> 00:10:34,420
 如果是这样的话 什么都不会发生 
-And if it is, nothing's going to happen.
 
 217
 00:10:34,420 --> 00:10:36,290
 屏幕上不会出现任何错误 
-No errors are going to appear on the screen.
 
 218
 00:10:36,290 --> 00:10:40,240
 但如果你用Python语言断言某件事 而这不是真的 那就是 
-But if you assert something in Python, and it is not true, that is,
 
 219
 00:10:40,240 --> 00:10:44,230
 您要插入的断言是一个布尔表达式 它是假的 
-the thing you're insert asserting, a Boolean expression, is false,
 
 220
 00:10:44,230 --> 00:10:47,930
 实际上 您将在屏幕上看到某种错误 
-you're actually going to see some kind of error on the screen.
 
 221
 00:10:47,930 --> 00:10:50,870
 因此 让我们继续尝试这个新关键字 如下所示 
-So let's go ahead and try this new keyword as follows.
 
 222
 00:10:50,870 --> 00:10:52,550
 让我在这里回到我的代码 
-Let me go back to my code here.
 
 223
 00:10:52,550 --> 00:10:54,880
 为了让事情简单一点 让我们
-And just to make it a little simpler, let
 
 224
 00:10:54,880 --> 00:10:58,130
 我建议我使用这个新的关键字 如下所示 
-me propose that I use this new keyword as follows.
 
 225
 00:10:58,130 --> 00:11:04,120
 让我简单地断言 2的平方应该等于4 
-Let me simply assert that the square of 2 should equal 4.
 
 226
 00:11:04,120 --> 00:11:05,440
 所以我改变了我的逻辑 
-So I've changed my logic.
 
 227
 00:11:05,440 --> 00:11:07,480
 而不是检查不等于 我现在是
-Instead of checking for not equals, I'm now
 
 228
 00:11:07,480 --> 00:11:11,260
 非常大声地断言它应该等于4 
-asserting very loudly that it should equal 4.
 
 229
 00:11:11,260 --> 00:11:13,810
 然后在另一行 让我做另一个测试 
-And then on one additional line, let me do the other test,
 
 230
 00:11:13,810 --> 00:11:17,590
 断言3的平方等于9 
-assert that the square of 3 equals equals 9.
 
 231
 00:11:17,590 --> 00:11:21,040
 就是这样 没有缩进的指纹 
-And that's it, no indented print.
 
 232
 00:11:21,040 --> 00:11:24,010
 我只想更简单地断言这两个
-I'm just going to assert more simply these two
 
 233
 00:11:24,010 --> 00:11:26,080
 我想要成真的事情 
-things that I want to be true.
 
 234
 00:11:26,080 --> 00:11:29,740
 现在让我继续 计算器.py仍然是坏的 
-Let me go ahead now, with calculator.py still broken.
 
 235
 00:11:29,740 --> 00:11:33,670
 我还是不小心用了加号 而不是乘法 
-I'm still using plus accidentally, instead of multiplication.
 
 236
 00:11:33,670 --> 00:11:37,900
 现在让我继续运行测试计算器.py的Python 
-Let me go ahead now and run Python of test calculator.py,
 
 237
 00:11:37,900 --> 00:11:41,320
 像往常一样祈祷 但这一次不会很顺利 
-crossing my fingers as always, but it's not going to go well this time.
 
 238
 00:11:41,320 --> 00:11:44,240
 屏幕上似乎出现了一大堆错误 
-A whole lot of errors seem to appear on the screen.
 
 239
 00:11:44,240 --> 00:11:46,600
 如果我滚动到这里进行回溯 
-And if I scroll up here for this traceback,
 
 240
 00:11:46,600 --> 00:11:53,020
 我们将看到失败的是这里的这一行 断言Square(3)==9 
-we'll see that the thing that failed was this line here, assert square(3) == 9.
 
 241
 00:11:53,020 --> 00:11:55,450
 不幸的是 当您使用ASSERT关键字时 
-Now unfortunately, when you're using the assert keyword,
 
 242
 00:11:55,450 --> 00:11:57,460
 它的用户友好性不是很好 
-it's not terribly user friendly.
 
 243
 00:11:57,460 --> 00:11:59,982
 它向您显示所涉及的文件和行号 
-It shows you the files and the line numbers involved,
 
 244
 00:11:59,982 --> 00:12:02,440
 但它确实向您显示了失败的特定代码行 
-but it does show you the specific line of code that failed,
 
 245
 00:12:02,440 --> 00:12:04,600
 可以说 这一断言失败了 
-the assertion that failed, so to speak.
 
 246
 00:12:04,600 --> 00:12:08,560
 现在就靠你和我来推断了 等等 
-It's now kind of up to you and me to infer from this, wait a minute,
 
 247
 00:12:08,560 --> 00:12:11,020
 为什么平方根3不等于9？
-why is the square root 3 not equal to 9?
 
 248
 00:12:11,020 --> 00:12:13,187
 所以它不是超级用户友好型的 但老实说 它
-So it's not super user friendly, but honestly, it
 
 249
 00:12:13,187 --> 00:12:14,770
 是我要写的代码的一半 
-was half as much code for me to write.
 
 250
 00:12:14,770 --> 00:12:16,990
 只有两行 而不是之前的四行 
-It's just two lines, instead of those previous four.
 
 251
 00:12:16,990 --> 00:12:19,450
 但请注意下面这一小块残留物 
-But notice this little remnant down here.
 
 252
 00:12:19,450 --> 00:12:21,070
 这是一个断言错误 
-This was an assertion error.
 
 253
 00:12:21,070 --> 00:12:23,350
 我们以前也见过错误 
-And we have seen errors before.
 
 254
 00:12:23,350 --> 00:12:27,460
 当我们在代码中犯了其他错误时 我们以前也见过错误 
-We've seen errors before when we've made other mistakes in our code.
 
 255
 00:12:27,460 --> 00:12:34,010
 在过去 我们捕捉这些错误的解决方案是什么？
-And in the past, what was our solution for catching those errors?
 
 256
 00:12:34,010 --> 00:12:37,610
 我们如何捕捉看起来像这样的错误 
-How do we catch errors that seem to resemble this,
 
 257
 00:12:37,610 --> 00:12:39,977
 即使我们以前没见过这个？
-even though we've not seen this one before?
 
 258
 00:12:39,977 --> 00:12:41,060
 演讲者2：试着排除 
-SPEAKER 2: Try and except.
 
 259
 00:12:41,060 --> 00:12:44,060
 David Malan：是的 在Python中 我们可以使用Try和Except关键字
-DAVID MALAN: Yeah, in Python, we can use the try and except keywords
 
 260
 00:12:44,060 --> 00:12:48,180
 试着乐观地做某事 除非出了什么差错 
-to try to do something, optimistically, except if something goes wrong,
 
 261
 00:12:48,180 --> 00:12:49,680
 相反 做些其他的事情 
-do something else instead.
 
 262
 00:12:49,680 --> 00:12:53,235
 所以这是向前迈出的一步 因为我至少可以捕捉到这个错误 
-So this is a step forward, in that I can at least catch this error.
 
 263
 00:12:53,235 --> 00:12:55,610
 但这可能会是一种倒退 因为我
-But it's going to be perhaps a step backward, in that I'm
 
 264
 00:12:55,610 --> 00:12:59,700
 我要提前承认 最终要写的是更多的代码 
-going to end up writing, I'll admit in advance, a little more code instead.
 
 265
 00:12:59,700 --> 00:13:01,050
 所以 让我继续试一试 
-So let me go ahead and try this.
 
 266
 00:13:01,050 --> 00:13:02,850
 让我在这里回到我的代码 
-Let me go back into my code here.
 
 267
 00:13:02,850 --> 00:13:05,960
 与其盲目地断言 不如让
-And instead of just asserting, blindly, let
 
 268
 00:13:05,960 --> 00:13:10,400
 我继续 按照托拉的提议 试着做第一个断言 
-me go ahead, as Tola proposed, and try to do this first assertion,
 
 269
 00:13:10,400 --> 00:13:16,280
 除非出现断言错误 就像我们刚才看到的那样 然后继续
-except if there is an assertion error, like we saw a moment ago, then go ahead
 
 270
 00:13:16,280 --> 00:13:18,320
 并打印出更方便用户的内容
-and print out something more user friendly
 
 271
 00:13:18,320 --> 00:13:20,210
 这就解释了什么才是真正失败的 
-that explains what actually failed.
 
 272
 00:13:20,210 --> 00:13:23,420
 2的平方不是4 
-2 squared was not 4.
 
 273
 00:13:23,420 --> 00:13:28,100
 让我以同样的方式继续 试着断言3的平方
-And let me go ahead similarly and try to assert that the square of 3
 
 274
 00:13:28,100 --> 00:13:33,000
 等于9 除非存在断言错误 在这种情况下 
-equals 9, except if there's an assertion error there, in which case,
 
 275
 00:13:33,000 --> 00:13:37,370
 我要打印出来 更人性化 3的平方不是9 
-I'm going to print out, more user friendly, 3 squared was not 9.
 
 276
 00:13:37,370 --> 00:13:39,920
 所以我前进了一步 但也后退了一步 
-So I've taken a step forward, but also a step back,
 
 277
 00:13:39,920 --> 00:13:41,180
 因为现在我有了更多的代码 
-because now I have more code.
 
 278
 00:13:41,180 --> 00:13:44,288
 但我至少引入了断言和例外
-But I have at least introduced assertions and exceptions
 
 279
 00:13:44,288 --> 00:13:46,580
 以一种与我们过去所见一致的方式 
-in a manner consistent with how we've seen in the past.
 
 280
 00:13:46,580 --> 00:13:50,450
 当出现问题时 您实际上会看到异常被引发 
-When something goes wrong, you actually see an exception raised.
 
 281
 00:13:50,450 --> 00:13:53,330
 现在让我继续运行这个版本的程序 
-Let me go ahead and run this version of the program now instead.
 
 282
 00:13:53,330 --> 00:13:57,800
 测试计算器.py的巨蟒 祈祷我的手指
-Python of test calculator.py, crossing my fingers,
 
 283
 00:13:57,800 --> 00:14:00,170
 它仍然失败 因为我看到了输出 
-it's still failed, because I'm seeing output.
 
 284
 00:14:00,170 --> 00:14:02,850
 但我们至少回到了用户友好的输出 
-But we're back to at least user friendly output.
 
 285
 00:14:02,850 --> 00:14:05,690
 因此 这至少是在某种程度上的进步 
-So that's at least progress in some way here.
 
 286
 00:14:05,690 --> 00:14:09,088
 但同样 它的代码可能比理想的要多 
-But it's, again, more code than might have been ideal.
 
 287
 00:14:09,088 --> 00:14:11,630
 事实上 如果我们继续这样做 如果我们真的
-And in fact, if we continue this further, what if we actually
 
 288
 00:14:11,630 --> 00:14:14,900
 还想在这里添加额外的测试用例吗？
-want to add additional test cases here as well?
 
 289
 00:14:14,900 --> 00:14:18,980
 看起来我们最终可能会写出比理想中多得多的代码 
-It seems like we might end up writing way more code than would be ideal.
 
 290
 00:14:18,980 --> 00:14:21,260
 例如 我现在正在测试2和3 
-For instance, I'm testing 2 and 3 now.
 
 291
 00:14:21,260 --> 00:14:24,000
 我也应该测试一些负数 
-I should probably test some negative numbers as well.
 
 292
 00:14:24,000 --> 00:14:26,870
 所以我为什么不继续加进去呢 比如说--让我继续
-So why don't I go ahead and add in, for instance-- let me go ahead
 
 293
 00:14:26,870 --> 00:14:28,710
 复制粘贴这个
-and copy and paste this.
 
 294
 00:14:28,710 --> 00:14:32,780
 让我试着断言负2的平方根等于
-Let me try to assert that the square root of negative 2 equals
 
 295
 00:14:32,780 --> 00:14:34,978
 等于4 数学上应该是这样 
-equals 4, which should be the case mathematically.
 
 296
 00:14:34,978 --> 00:14:36,770
 如果没有 让我继续改变这个
-And if not, let me go ahead and change this
 
 297
 00:14:36,770 --> 00:14:39,410
 负2的平方不是4
-to say negative 2 squared was not 4.
 
 298
 00:14:39,410 --> 00:14:41,930
 让我继续复制粘贴这个 
-And let me go ahead and copy paste this again,
 
 299
 00:14:41,930 --> 00:14:44,280
 测试另一个负数 只是为了更好地衡量 
-test another negative number, just for good measure.
 
 300
 00:14:44,280 --> 00:14:47,900
 让我们测试负3的平方根 它应该等于9 
-Let's test the square root of negative 3, which should equal 9.
 
 301
 00:14:47,900 --> 00:14:53,330
 但如果不是 我们继续假设负3的平方不是9 
-But if it doesn't, let's go ahead and say that negative 3 squared was not 9.
 
 302
 00:14:53,330 --> 00:14:56,900
 在这里大声思考一下 还有什么值得测试的？
-And just to think aloud here, what might be another good value to test?
 
 303
 00:14:56,900 --> 00:14:57,890
 我试过两次 
-I've tried 2.
 
 304
 00:14:57,890 --> 00:14:58,550
 我试过三个 
-I've tried 3.
 
 305
 00:14:58,550 --> 00:14:59,330
 我试过负2 
-I've tried negative 2.
 
 306
 00:14:59,330 --> 00:15:00,247
 我试过负3 
-I've tried negative 3.
 
 307
 00:15:00,247 --> 00:15:01,820
 我不能尝试无限的数字 
-I can't try infinite numbers.
 
 308
 00:15:01,820 --> 00:15:03,320
 但至少有一点
-But there's at least something that's a little
 
 309
 00:15:03,320 --> 00:15:04,737
 这些价值观之间的差异 
-different in between those values.
 
 310
 00:15:04,737 --> 00:15:05,240
 让我们试试0 
-Let's try 0.
 
 311
 00:15:05,240 --> 00:15:08,540
 0也是一个有趣的例子 以防万一 
-0 is an interesting case too, just in case something might be wrong.
 
 312
 00:15:08,540 --> 00:15:09,740
 为什么是0？
-And why 0?
 
 313
 00:15:09,740 --> 00:15:11,720
 我只是凭直觉 
-I'm just going with instincts here.
 
 314
 00:15:11,720 --> 00:15:14,928
 正数的概率一般都是一样的 
-Odds are positive numbers are generally going to behave the same.
 
 315
 00:15:14,928 --> 00:15:16,970
 负数的行为通常是相同的 
-Negative numbers might generally behave the same.
 
 316
 00:15:16,970 --> 00:15:18,650
 0可能有点反常 
-0 might be a little anomalous.
 
 317
 00:15:18,650 --> 00:15:23,060
 这不一定是科学 而是你自己考虑一下
-There's no science to it necessarily, but rather considering for yourself
 
 318
 00:15:23,060 --> 00:15:26,457
 根据您自己的经验 潜在的极端情况是基于什么
-based on your own experience, what are the potential corner cases based
 
 319
 00:15:26,457 --> 00:15:28,040
 你要测试的功能上的区别吗
-on the function you're trying to test?
 
 320
 00:15:28,040 --> 00:15:29,790
 我在试着测试一些数学问题 
-I'm trying to test something mathematical,
 
 321
 00:15:29,790 --> 00:15:31,560
 所以我想测试代表性的值 
-so I want to test representative values.
 
 322
 00:15:31,560 --> 00:15:34,520
 所以让我继续粘贴在一个尝试除了块 
-So let me go ahead and paste in one more try except block.
 
 323
 00:15:34,520 --> 00:15:38,120
 让我们断言0的平方应该等于0 
-Let's assert that the square of 0 should equal 0.
 
 324
 00:15:38,120 --> 00:15:43,460
 如果不是 我会解释一下 比如0的平方不是0 
-And if not, I'll say something explanatory, like 0 squared was not 0.
 
 325
 00:15:43,460 --> 00:15:48,950
 现在如果我继续运行这个 Python的test_calculator.py 然后按Enter 
-Now if I go ahead and run this, Python of test_calculator.py, and hit Enter,
 
 326
 00:15:48,950 --> 00:15:50,780
 现在我看到了多个错误 
-now I see multiple errors.
 
 327
 00:15:50,780 --> 00:15:51,890
 这很有趣
-And this is interesting.
 
 328
 00:15:51,890 --> 00:15:55,580
 这是一条线索 因为注意到一些 但不是全部 
-It's a bit of a clue, because notice that some, but not all,
 
 329
 00:15:55,580 --> 00:15:57,320
 这些断言都失败了 
-of these assertions are failing.
 
 330
 00:15:57,320 --> 00:16:02,210
 正如我们前面提到的 1比2的平方显然是可以的 
-The 1 for 2 squared is apparently OK, as we noted earlier.
 
 331
 00:16:02,210 --> 00:16:05,450
 回想一下 2的平方正好是2加2 
-Recall that 2 squared happens to be 2 plus 2.
 
 332
 00:16:05,450 --> 00:16:07,707
 所以这个错误并不会影响我们的测试 
-So that bug doesn't really throw off our test,
 
 333
 00:16:07,707 --> 00:16:09,290
 但这是一件好事 我们测试了3 
-but it's a good thing we tested for 3.
 
 334
 00:16:09,290 --> 00:16:11,450
 幸好我们检测到了负2和负3 
-It's a good thing we tested for negative 2 and negative 3,
 
 335
 00:16:11,450 --> 00:16:13,370
 因为所有这些测试都发现了这个错误 
-because all of those tests caught this error.
 
 336
 00:16:13,370 --> 00:16:18,740
 0测试没有注意到 因为0的平方当然是0 但0加0
-The 0 test did not notice, because 0 squared is, of course, 0, but 0 plus 0
 
 337
 00:16:18,740 --> 00:16:19,370
 为0 
-is 0.
 
 338
 00:16:19,370 --> 00:16:22,130
 因此 我们在那里变得幸运或不幸 取决于
-So we're getting lucky or unlucky there, depending
 
 339
 00:16:22,130 --> 00:16:25,280
 在这里 你如何看待杯子是半满还是半空 
-on how you view the glass as half full or half empty here.
 
 340
 00:16:25,280 --> 00:16:30,500
 我们至少通过多次测试以某种方式发现了这个错误 
-We at least by way of having multiple tests caught this mistake somehow.
 
 341
 00:16:30,500 --> 00:16:35,870
 所以 如果我们不在这里写那么多该死的代码 那就太好了 
-So it would be nice, though, if we weren't writing so much darn code here,
 
 342
 00:16:35,870 --> 00:16:37,170
 因为注意我的所作所为 
-because notice what I've done.
 
 343
 00:16:37,170 --> 00:16:39,710
 我试过 除了试过 试过 
-I have try, except, try, except.
 
 344
 00:16:39,710 --> 00:16:41,150
 我有所有这些断言 
-I have all of these assertions.
 
 345
 00:16:41,150 --> 00:16:42,600
 我有一个主要的功能 
-I have a main function.
 
 346
 00:16:42,600 --> 00:16:45,470
 我在我的文件底部有这个有条件的 
-I have this if conditional at the bottom of my file.
 
 347
 00:16:45,470 --> 00:16:49,020
 老实说 谁会想要写31行代码
-Honestly, who's going to want to write 31 lines of code
 
 348
 00:16:49,020 --> 00:16:51,830
 现在来测试一个两行函数？
-now just to test a two line function?
 
 349
 00:16:51,830 --> 00:16:53,780
 没有人会写出这样的测试代码
-No one's going to write test code like this
 
 350
 00:16:53,780 --> 00:16:57,620
 如果我们都要编写更多的代码来进行实际测试 
-if we're all writing so much more code to do the actual testing.
 
 351
 00:16:57,620 --> 00:16:59,970
 所以人们已经解决了这个问题 
-So people have solved this problem.
 
 352
 00:16:59,970 --> 00:17:02,720
 如果您习惯于大量测试代码 或者想要这样做 
-If you are in the habit of testing your code a lot, or wanting to,
 
 353
 00:17:02,720 --> 00:17:04,700
 如果我养成了经常测试代码的习惯 
-if I'm in the habit of wanting to test my code a lot,
 
 354
 00:17:04,700 --> 00:17:07,283
 如果现实世界中的每个人都有这种想要的习惯
-if everyone else in the real world is in this habit of wanting
 
 355
 00:17:07,283 --> 00:17:09,319
 为了测试他们的代码 我们为什么不创建工具
-to test their code, why don't we create tools
 
 356
 00:17:09,319 --> 00:17:11,690
 这会让你更容易做到这一点吗？
-that make it a little easier to do so?
 
 357
 00:17:11,690 --> 00:17:14,000
 事实上 有一种机制可以让你
-And in fact, there is a mechanism for doing
 
 358
 00:17:14,000 --> 00:17:17,780
 这就是说 我们可以使用一种通常被称为“最高测试”的工具 
-this, whereby we can use a tool that's popularly called pytest.
 
 359
 00:17:17,780 --> 00:17:21,920
 所以PYTEST是一个第三方程序 你可以下载和安装
-So pytest is a third party program that you can download and install
 
 360
 00:17:21,920 --> 00:17:26,450
 这将自动测试代码 只要您编写测试即可 
-that will automate the testing of your code, so long as you write the tests.
 
 361
 00:17:26,450 --> 00:17:29,150
 但这个图书馆和其他图书馆有什么好的
-But what's nice about this library and others
 
 362
 00:17:29,150 --> 00:17:31,580
 就像它采用了一些惯例 所以
-like it is that it adopts some conventions so
 
 363
 00:17:31,580 --> 00:17:35,320
 您不必自己手动编写那么多行代码 
-that you don't have to write as many lines of code yourself manually.
 
 364
 00:17:35,320 --> 00:17:38,090
 他们会自动为你做一些这样的事情 
-They do some of that automatically for you.
 
 365
 00:17:38,090 --> 00:17:39,520
 这是一个第三方图书馆 
-Now this is a third party library.
 
 366
 00:17:39,520 --> 00:17:42,520
 可以说 还有其他用于单元测试的库 
-There's other libraries for unit tests, so to speak,
 
 367
 00:17:42,520 --> 00:17:44,440
 测试你的代码单元 
-that is testing units of your code.
 
 368
 00:17:44,440 --> 00:17:46,240
 其中一些是由Python本身提供的 
-Some of them come with Python itself.
 
 369
 00:17:46,240 --> 00:17:48,813
 我们建议今天就来看看pytest
-We're proposing that we look at pytest today
 
 370
 00:17:48,813 --> 00:17:50,980
 因为它实际上比单位更简单
-because it's actually a little simpler than the unit
 
 371
 00:17:50,980 --> 00:17:53,170
 测试Python自带的框架 
-testing frameworks that come with Python itself.
 
 372
 00:17:53,170 --> 00:17:54,760
 单元测试是什么意思？
-And what do we mean by unit testing?
 
 373
 00:17:54,760 --> 00:17:57,910
 单元测试只是描述测试的一种形式化方法
-Unit testing is just a formal way of describing testing
 
 374
 00:17:57,910 --> 00:18:00,297
 你的程序的单个单元 
-individual units of your program.
 
 375
 00:18:00,297 --> 00:18:01,630
 这些个体单位是什么？
-What are those individual units?
 
 376
 00:18:01,630 --> 00:18:02,960
 它们是典型的函数 
-They're typically functions.
 
 377
 00:18:02,960 --> 00:18:07,360
 因此 单元测试通常是对您编写的函数的测试 
-So unit tests are typically tests for functions that you have written.
 
 378
 00:18:07,360 --> 00:18:09,610
 这在实践中意味着什么 
-Now what does this mean in practice here.
 
 379
 00:18:09,610 --> 00:18:12,910
 让我回到我的VS代码 
-Let me go back to my VS code here and let
 
 380
 00:18:12,910 --> 00:18:17,260
 我建议我们大大简化我的测试计算器 
-me propose that we simplify my test calculator significantly.
 
 381
 00:18:17,260 --> 00:18:22,930
 我要删除所有这些测试 
-I'm going to go ahead and delete all of these tests, which were accumulating
 
 382
 00:18:22,930 --> 00:18:24,400
 喜欢31行代码 
-to like 31 lines of code.
 
 383
 00:18:24,400 --> 00:18:28,750
 让我们看看我们是否可以使用pytest提取测试的本质 
-And let's see if we can distill the tests to their essence, using pytest.
 
 384
 00:18:28,750 --> 00:18:32,350
 从我的同一个计算器程序 让我仍然进口平方 
-From my same calculator program, let me still import square.
 
 385
 00:18:32,350 --> 00:18:34,270
 所以我仍然需要这行代码 
-So I do still need that line of code so that I
 
 386
 00:18:34,270 --> 00:18:35,980
 可以测试它的具体功能 
-can test that's specific function.
 
 387
 00:18:35,980 --> 00:18:39,010
 现在我要继续定义一个函数 就像我之前做的一样 
-Now I'm going to go ahead and define a function, just like I did before,
 
 388
 00:18:39,010 --> 00:18:39,800
 如下
-as follows.
 
 389
 00:18:39,800 --> 00:18:42,430
 我将定义一个函数 叫做测试正方形
-I'm going to define a function called test square, again
 
 390
 00:18:42,430 --> 00:18:46,360
 按照惯例 测试下划线和要测试的函数的名称 
-by convention, test underscore and the name of the function you want to test,
 
 391
 00:18:46,360 --> 00:18:47,957
 虽然不一定非要这样
-though it doesn't have to be that way.
 
 392
 00:18:47,957 --> 00:18:50,290
 现在我要继续做一些断言 
-And now I'm going to go ahead and make a few assertions.
 
 393
 00:18:50,290 --> 00:18:53,350
 我断言2的平方应该等于4 
-I'm going to assert that the square of 2 should equal 4.
 
 394
 00:18:53,350 --> 00:18:57,310
 我断言3的平方应该等于9 
-I'm going to assert that the square of 3 should equal 9.
 
 395
 00:18:57,310 --> 00:19:01,750
 我断言负2的平方应该等于4 
-I'm going to assert that the square of negative 2 should equal 4.
 
 396
 00:19:01,750 --> 00:19:06,250
 我断言负3的平方应该等于9 
-And I'm going to assert that the square of negative 3 should equal 9.
 
 397
 00:19:06,250 --> 00:19:10,990
 最后 我将断言0的平方应该等于0 
-And lastly for now I'm going to assert that the square of 0 should equal 0.
 
 398
 00:19:10,990 --> 00:19:14,860
 所以我仍然使用assert关键字 正如我前面介绍的那样 
-So I'm still using the assert keyword, as I introduced earlier.
 
 399
 00:19:14,860 --> 00:19:17,290
 尽管打字有点乏味 
-And even though it was a little tedious to type those,
 
 400
 00:19:17,290 --> 00:19:18,910
 现在只有八行代码了
-it's only eight lines of code now.
 
 401
 00:19:18,910 --> 00:19:20,440
 它们很容易打字 
-And they're so easy to type.
 
 402
 00:19:20,440 --> 00:19:22,750
 这不是尝试和例外以及所有这一切 
-It's not try and except and all of this.
 
 403
 00:19:22,750 --> 00:19:26,410
 如果其他的东西 其他的人 
-Wouldn't it be nice if something else, someone else,
 
 404
 00:19:26,410 --> 00:19:31,930
 办理了试车、排版、打印、所有标准化工作
-handled the try, the except, the printing, all of the standardization
 
 405
 00:19:31,930 --> 00:19:33,400
 真的进行这些测试吗？
-of actually running these tests?
 
 406
 00:19:33,400 --> 00:19:36,370
 事实上 这就是PYTEST发挥作用的地方 
-And that's where, indeed, pytest comes into play.
 
 407
 00:19:36,370 --> 00:19:40,180
 根据pytest的文档 它本身可以与pip一起安装 
-Per the documentation for pytest, which can itself be installed with pip
 
 408
 00:19:40,180 --> 00:19:44,170
 安装PYTEST 我们过去用它来安装其他库 
-install pytest, which we've used to install other libraries in the past,
 
 409
 00:19:44,170 --> 00:19:47,980
 您可以查看这里的文档 了解它的所有正式用法 
-you can look at the documentation here for all of its formal usage.
 
 410
 00:19:47,980 --> 00:19:51,760
 但幸运的是 就测试框架而言 PYTEST是非常用户友好的 
-But fortunately, pytest is pretty user friendly, as testing frameworks go,
 
 411
 00:19:51,760 --> 00:19:55,660
 它实际上允许我们只需在代码上运行pytest就可以直接进入
-and it actually allows us to dive right in by just running pytest on the code
 
 412
 00:19:55,660 --> 00:19:56,510
 这是我们写的 
-that we've written.
 
 413
 00:19:56,510 --> 00:20:00,310
 因此 如果我回到这里的VS代码 并查看我的test_culator.py 
-So if I go back to VS Code here and look at my test_calculator.py, which,
 
 414
 00:20:00,310 --> 00:20:04,210
 注意 不再有主函数--它没有条件 
-notice, has no main function anymore-- it has no conditional.
 
 415
 00:20:04,210 --> 00:20:05,440
 它没有尝试过 
-It has no tries.
 
 416
 00:20:05,440 --> 00:20:06,460
 它也不例外 
-It has no excepts.
 
 417
 00:20:06,460 --> 00:20:07,450
 它没有指纹 
-It has no prints.
 
 418
 00:20:07,450 --> 00:20:11,320
 它只有我的几个断言--pytest和其他库
-It just has my few assertions-- pytest and other libraries
 
 419
 00:20:11,320 --> 00:20:14,890
 就像它会自动为我运行这些测试一样
-like it are going to automate the process of running these tests for me
 
 420
 00:20:14,890 --> 00:20:20,320
 并在屏幕上告诉我这些测试中是否有失败的 
-and informing me on the screen whether or not any of those tests failed.
 
 421
 00:20:20,320 --> 00:20:21,692
 所以让我继续做这件事 
-So let me go ahead and do this.
 
 422
 00:20:21,692 --> 00:20:24,400
 我将继续增加我的终端窗口的大小
-I'm going to go ahead and increase the size of my terminal window
 
 423
 00:20:24,400 --> 00:20:26,567
 暂时 只是为了让我们能在屏幕上看到更多 
-for a moment, just so we can see more on the screen.
 
 424
 00:20:26,567 --> 00:20:29,170
 我要运行的不是蟒蛇 就像我一直做的那样 
-And I'm going to run not python, as I've been doing.
 
 425
 00:20:29,170 --> 00:20:32,620
 我将运行PYTEST 这也是第三方
-I'm going to run pytest, which, again, is this third party
 
 426
 00:20:32,620 --> 00:20:35,110
 用于在代码中运行测试的工具 
-tool for running tests in your code.
 
 427
 00:20:35,110 --> 00:20:39,880
 我将运行TEST_COMPUATOR的pytest 所以相同的文件 
-I'm going to run pytest of test_calculator, so that same file.
 
 428
 00:20:39,880 --> 00:20:42,490
 我要像往常一样祈祷然后按回车键 
-I'm going to cross my fingers as always and hit Enter,
 
 429
 00:20:42,490 --> 00:20:46,040
 我们会发现有些事情失败了 
-and we'll see that something has failed.
 
 430
 00:20:46,040 --> 00:20:48,340
 现在不得不承认 尽管我确实认为你会
-Now admittedly, even though I do think you'll
 
 431
 00:20:48,340 --> 00:20:51,290
 我发现pytest使用起来相对简单 
-find that pytest is relatively simple to use,
 
 432
 00:20:51,290 --> 00:20:55,490
 它的输出 至少乍一看 不一定是超级用户友好的 
-it's output, at least at first glance, is not necessarily super user friendly.
 
 433
 00:20:55,490 --> 00:20:56,950
 那么我们在这里看到的是什么呢？
-So what are we seeing here?
 
 434
 00:20:56,950 --> 00:21:01,660
 请注意 在我的窗口的最顶部是我在提示符后运行的命令 
-Notice at the very top of my window is the command that I ran after my prompt.
 
 435
 00:21:01,660 --> 00:21:05,470
 就在它的正下方是一个红色的F 意思是失败 
-Right below that is a single F in red, which means fail,
 
 436
 00:21:05,470 --> 00:21:07,180
 所以并不是很鼓舞人心 
-so not very encouraging.
 
 437
 00:21:07,180 --> 00:21:10,600
 我在这里真的很努力 但不及格是我在这个项目上的分数 
-I tried really hard here, but fail is my grade on this program.
 
 438
 00:21:10,600 --> 00:21:12,460
 但让我们来看看到底发生了什么 
-But let's see exactly what happened.
 
 439
 00:21:12,460 --> 00:21:15,530
 如果我看一下这段失败的节选 
-If I look at this excerpt here under failures,
 
 440
 00:21:15,530 --> 00:21:18,400
 您将看到 测试正方形是失败的函数 
-you'll see that test square is the function that failed.
 
 441
 00:21:18,400 --> 00:21:20,650
 这是有道理的 因为这是我唯一写的 
-That makes sense, because that's the only one I wrote.
 
 442
 00:21:20,650 --> 00:21:25,390
 您将在这里看到一些晦涩难懂的输出 描述错误是什么 
-And you'll see here somewhat arcane output describing what the error was.
 
 443
 00:21:25,390 --> 00:21:28,930
 所以你在这里看到的是第一行的输出等于4 
-So what you're seeing here is the first line of output equals equals 4,
 
 444
 00:21:28,930 --> 00:21:29,530
 这很好 
-which is fine.
 
 445
 00:21:29,530 --> 00:21:32,230
 下面没有红色错误消息 所以这一条是正常的 
-There's no red error message below that, so that one's OK.
 
 446
 00:21:32,230 --> 00:21:36,640
 但这行代码断言3的平方等于9 
-But this line of code here assert that square of 3 equals equals 9,
 
 447
 00:21:36,640 --> 00:21:40,880
 皮斯特不喜欢这种断言 因为它最终并不是真的 
-pytest did not like that assertion, because it didn't end up being true.
 
 448
 00:21:40,880 --> 00:21:44,480
 事实上 根据这行开头的红色E 
-In fact, per the red E at the start of this line,
 
 449
 00:21:44,480 --> 00:21:50,350
 你们会看到 我实际上是在试图断言6等于9 
-you'll see that I'm effectively trying to assert that 6 equals equals 9.
 
 450
 00:21:50,350 --> 00:21:52,280
 现在 这6个人是从哪里来的？
-Now, where did the 6 come from?
 
 451
 00:21:52,280 --> 00:21:56,920
 等等 如果我的测试涉及到这一点 注意6等于3的平方 
-Wait a minute, if my test involves this, notice that where 6 equals square of 3,
 
 452
 00:21:56,920 --> 00:22:01,360
 这就是说 因为我调用了Square 传入了值3 
-this is saying that because I've called square, passing in a value of 3,
 
 453
 00:22:01,360 --> 00:22:03,790
 结果是它的返回值是6 
-it turns out it's return value is 6.
 
 454
 00:22:03,790 --> 00:22:07,690
 当然 从数学上讲 6不等于9 
-And of course, mathematically, 6 does not equal equal 9.
 
 455
 00:22:07,690 --> 00:22:09,760
 这就是为什么这一计划失败了 
-So that's why this is failing.
 
 456
 00:22:09,760 --> 00:22:13,240
 现在 PYTEST并不像告诉你的那样用户友好
-Now, pytest is not as user friendly as telling you
 
 457
 00:22:13,240 --> 00:22:16,750
 究竟为什么会有漏洞 或者如何修复它 
-exactly why the bug is there or how to fix it.
 
 458
 00:22:16,750 --> 00:22:19,840
 这真的只是一个线索 告诉你肯定是哪里出了问题 
-This is really just a clue to you what must be wrong.
 
 459
 00:22:19,840 --> 00:22:23,020
 你在这里看到的是第一次测试通过的线索 
-What you're seeing here is a clue that the first test passed,
 
 460
 00:22:23,020 --> 00:22:26,860
 因为该行代码下面没有红色错误 但该测试失败了 
-because there's no red error below that line of code, but this test failed.
 
 461
 00:22:26,860 --> 00:22:32,290
 不知何故 您的平方函数返回6
-Somehow or other, your square function is returning 6
 
 462
 00:22:32,290 --> 00:22:34,840
 当传入3而不是9时 
-when passed in 3 instead of 9.
 
 463
 00:22:34,840 --> 00:22:37,180
 所以在这一点上 你可以戴上你的侦探帽子 
-So at this point, you sort of put your detective hat on,
 
 464
 00:22:37,180 --> 00:22:39,490
 您返回到您的实际代码 然后您认为
-you go back to your actual code, and you think
 
 465
 00:22:39,490 --> 00:22:42,340
 关于culator.py 世界上到底是怎样的
-about in calculator.py, how in the world is
 
 466
 00:22:42,340 --> 00:22:47,380
 我的Square函数的第7行返回6而不是9 
-line 7 of my square function returning 6 instead of 9.
 
 467
 00:22:47,380 --> 00:22:49,380
 在这一点上 很可能是灯泡
-And at this point, odds are the light bulb
 
 468
 00:22:49,380 --> 00:22:51,130
 会飞到你头上 这是众所周知的 
-would go off above your head proverbially,
 
 469
 00:22:51,130 --> 00:22:55,390
 你们会看到 我用的是加法 而不是乘法 
-and you would see, I'm using addition, instead of multiplication.
 
 470
 00:22:55,390 --> 00:22:57,640
 但PYTEST为我们做的是自动化
-But what pytest has done for us is automate
 
 471
 00:22:57,640 --> 00:23:00,610
 至少为我们指出这个错误的过程 
-the process of at least pointing out that error for us.
 
 472
 00:23:00,610 --> 00:23:03,147
 如果我现在进去解决这个问题--让我继续 
-And if I now go in and fix this-- let me go ahead,
 
 473
 00:23:03,147 --> 00:23:04,480
 灯泡也熄灭了 
-and the light bulb has gone off.
 
 474
 00:23:04,480 --> 00:23:08,320
 我把加号改成乘号 
-I change the plus to a multiply.
 
 475
 00:23:08,320 --> 00:23:10,660
 现在我要继续 在清空我的屏幕后 
-Now I'm going to go ahead, and after clearing my screen,
 
 476
 00:23:10,660 --> 00:23:15,130
 我要运行的不是Python 而是test_culator.py的pytest 
-I'm going to run not Python, but pytest of test_calculator.py,
 
 477
 00:23:15,130 --> 00:23:16,390
 再一次为我祈祷 
-crossing my fingers again.
 
 478
 00:23:16,390 --> 00:23:17,800
 现在它是绿色的 
-And now it's green.
 
 479
 00:23:17,800 --> 00:23:21,760
 我只看到一个点 这表明我唯一的一次测试通过了 
-And I see just a dot, which indicates that my one and only test passed.
 
 480
 00:23:21,760 --> 00:23:27,080
 我很好 在修复了那个错误后 我的测试现在100%成功 
-I'm good, 100% success with my test now after fixing that bug.
 
 481
 00:23:27,080 --> 00:23:30,550
 让我在这里暂停一下 看看有没有什么问题 
-Let me pause here and see if there's any questions.
 
 482
 00:23:30,550 --> 00:23:33,520
 演讲者3：所以我的问题是 如果用户 
-SPEAKER 3: So my question is, what if a user,
 
 483
 00:23:33,520 --> 00:23:36,160
 而不是因为我们从用户那里获取输入 
-instead of, because we are taking input from the user,
 
 484
 00:23:36,160 --> 00:23:41,590
 如果用户有点恶意 而是输入了一个字符串 该怎么办
-what if the user is somewhat malicious and types in a string instead
 
 485
 00:23:41,590 --> 00:23:46,420
 或者他输入的是浮点数或其他数据类型？
-of an integer, or maybe he types in a float or some other data type?
 
 486
 00:23:46,420 --> 00:23:48,730
 David Malan：是的 如果用户 像我们这样
-DAVID MALAN: Yeah, so what if the user, like we've
 
 487
 00:23:48,730 --> 00:23:51,655
 在以前的示例中看到 在以下情况下 键入cat 而不是数字
-seen in past examples, types in cat, instead of a number, when
 
 488
 00:23:51,655 --> 00:23:52,780
 我们要的是一个整数吗？
-we're expecting an integer?
 
 489
 00:23:52,780 --> 00:23:54,940
 我们怎么测试这样的东西呢？
-How do we test for something like that?
 
 490
 00:23:54,940 --> 00:23:57,970
 目前 我诚然不是在测试用户输入 
-At the moment, I'm admittedly not testing user input.
 
 491
 00:23:57,970 --> 00:24:02,750
 如果我回到这里的代码 请注意我的计算器功能 当然 
-If I go back to my code here, notice that my calculator function, of course,
 
 492
 00:24:02,750 --> 00:24:05,290
 具有我们不断测试和重新测试的平方函数 
-has the square function that we keep testing and retesting.
 
 493
 00:24:05,290 --> 00:24:08,470
 但请注意 所有用户输入当前都是
-But notice that all of the user input is currently
 
 494
 00:24:08,470 --> 00:24:10,300
 被降级为我的主要职责 
-relegated to my main function.
 
 495
 00:24:10,300 --> 00:24:14,120
 诚然 到目前为止 我并没有测试我的主要功能 
-And admittedly, as of now, I am not testing my main function.
 
 496
 00:24:14,120 --> 00:24:15,760
 所以可能有一种虫子 
-So there could be one of those bugs.
 
 497
 00:24:15,760 --> 00:24:19,600
 事实上 会有的 因为如果用户输入一个字符串 就像猫一样 
-And in fact, there would be, because if the user types in a string, like cat,
 
 498
 00:24:19,600 --> 00:24:24,850
 而不是像2或3这样整数 那么第二行调用实际上将
-instead of an integer, like 2 or 3, then line two recall would actually
 
 499
 00:24:24,850 --> 00:24:26,990
 引发值错误异常 
-raise a value error exception.
 
 500
 00:24:26,990 --> 00:24:28,160
 所以我们以前见过这种情况 
-So we've seen that before.
 
 501
 00:24:28,160 --> 00:24:30,280
 因此 在测试代码时 这一点
-So when it comes to testing your code, this
 
 502
 00:24:30,280 --> 00:24:35,080
 实际上是在程序中拥有多个函数的一个很好的理由 
-is actually a good reason for having multiple functions in your program.
 
 503
 00:24:35,080 --> 00:24:37,900
 与其将所有的逻辑都放在文件本身中 
-Rather than putting all of your logic in just the file itself,
 
 504
 00:24:37,900 --> 00:24:40,240
 与其把所有的逻辑都放在Main里 
-rather than putting all of the logic in just main,
 
 505
 00:24:40,240 --> 00:24:43,030
 这实际上是非常好的 非常有帮助的练习
-it's actually really good, really helpful practice
 
 506
 00:24:43,030 --> 00:24:46,750
 将你的想法分解成更小的函数
-to break your ideas up into smaller bit-sized functions
 
 507
 00:24:46,750 --> 00:24:48,370
 他们自己是可测试的 
-that themselves are testable.
 
 508
 00:24:48,370 --> 00:24:49,630
 我在这里是什么意思？
-And what do I mean here?
 
 509
 00:24:49,630 --> 00:24:52,270
 Square是完全可测试的 
-Square is perfectly testable.
 
 510
 00:24:52,270 --> 00:24:52,810
 为什么？
-Why?
 
 511
 00:24:52,810 --> 00:24:56,020
 因为它接受名为n的参数作为输入 
-Because it takes as input a parameter called n,
 
 512
 00:24:56,020 --> 00:24:59,680
 并且它以整数形式返回输出 这是
-and it returns as output in integer, which is going
 
 513
 00:24:59,680 --> 00:25:01,390
 希望能成为正方形 
-to be the square thereof, hopefully.
 
 514
 00:25:01,390 --> 00:25:04,120
 它有一个定义良好的输入和一个定义良好的输出 
-It has a well-defined input and a well-defined output.
 
 515
 00:25:04,120 --> 00:25:08,080
 因此 在测试程序中它完全在您的控制之下
-It is therefore completely within your control in your test program
 
 516
 00:25:08,080 --> 00:25:09,730
 来传递这些值 
-to pass in those values.
 
 517
 00:25:09,730 --> 00:25:15,730
 现在我要说的是 如果您想测试Square是否正常运行
-Now I will say, if you want to test whether square behaves properly
 
 518
 00:25:15,730 --> 00:25:18,280
 当传递类似字符串的东西时 比如 引号 不引号 
-when passed something like a string, like, quote, unquote,
 
 519
 00:25:18,280 --> 00:25:20,920
 “猫” 我们绝对可以做这样的事情 
-"cat," we could absolutely do something like this,
 
 520
 00:25:20,920 --> 00:25:24,520
 断言引号的平方 不引号 “猫 ”
-assert that the square of quote, unquote, "cat,"
 
 521
 00:25:24,520 --> 00:25:26,050
 它不会等于某些东西 
-it's not going to equal something.
 
 522
 00:25:26,050 --> 00:25:28,210
 您实际上可以使用不同的语法 
-You can actually, using different syntax,
 
 523
 00:25:28,210 --> 00:25:31,000
 断言将引发特定的异常 
-assert that a specific exception will be raised.
 
 524
 00:25:31,000 --> 00:25:34,060
 所以如果我们真的要回到平方函数 
-So if we were actually going to go back into our square function,
 
 525
 00:25:34,060 --> 00:25:37,880
 改进它 并故意引发异常 我们也可以测试这一点 
-improve it, and deliberately raise an exception, we could test for that too.
 
 526
 00:25:37,880 --> 00:25:41,200
 但现在 我故意只测试平方函数 
-But for now, I'm deliberately only testing the square function.
 
 527
 00:25:41,200 --> 00:25:43,990
 我不是在测试特定的用户输入 
-I'm not testing for specific user input.
 
 528
 00:25:43,990 --> 00:25:45,670
 但这是另一个需要解决的问题 
-But that's another problem to be solved.
 
 529
 00:25:45,670 --> 00:25:49,890
 现在关于单元测试的其他问题？
-Other questions now on unit tests?
 
 530
 00:25:49,890 --> 00:25:56,670
 演讲者4：是否使用单元测试来测试CS50检查的代码？
-SPEAKER 4: Do use the unit test to test code for the CS50 check?
 
 531
 00:25:56,670 --> 00:25:58,830
 大卫·马兰：所以Check 50在精神上是相似的 
-DAVID MALAN: So Check 50 is similar in spirit.
 
 532
 00:25:58,830 --> 00:26:03,000
 Check 50是我们CS50编写的一个工具 它本质上是在做一些事情
-Check 50 is a tool that we, CS50, wrote that is essentially doing something
 
 533
 00:26:03,000 --> 00:26:06,750
 比如为了评估学生的代码而使用的PYTEST 
-like pytest for the evaluation of students' code.
 
 534
 00:26:06,750 --> 00:26:10,080
 它在精神上是相似的 但想想支票50
-It is similar in spirit, but think of Check 50
 
 535
 00:26:10,080 --> 00:26:12,697
 如果你愿意的话 可以把它当做一种替代品 
-as being an alternative to pytest, if you will.
 
 536
 00:26:12,697 --> 00:26:14,280
 但它的工作原理略有不同 
-But it works a little bit differently.
 
 537
 00:26:14,280 --> 00:26:17,370
 但是相同的想法 最快测试和单元测试更多
-But same idea, pytest and unit testing more
 
 538
 00:26:17,370 --> 00:26:19,890
 通常是一种独立于CS50的技术
-generally is a technique that is independent of CS50
 
 539
 00:26:19,890 --> 00:26:23,430
 和是您可以也应该对您自己的代码执行的操作 无论是在
-and is something that you can and should be doing on your own code, both in
 
 540
 00:26:23,430 --> 00:26:25,240
 或者在这门课之外 
-or outside of this class.
 
 541
 00:26:25,240 --> 00:26:31,322
 我们的单元测试中还有一个问题呢？
-How about one other question here on our unit tests?
 
 542
 00:26:31,322 --> 00:26:33,030
 演讲者5：我的问题是
-SPEAKER 5: My question is that is instead
 
 543
 00:26:33,030 --> 00:26:37,140
 四次写字 就像2的平方和4的平方 
-of writing four times, like as a square of, 2 squared 4,
 
 544
 00:26:37,140 --> 00:26:43,450
 取而代之的是 我们能不能把我们想要的数字写在方括号中 
-instead of that, can we write equals to in square brackets the numbers we want,
 
 545
 00:26:43,450 --> 00:26:44,980
 而不是写四行？
-instead of writing four lines?
 
 546
 00:26:44,980 --> 00:26:46,980
 大卫·马兰：绝对是一个非常好的问题 
-DAVID MALAN: A really good question, absolutely.
 
 547
 00:26:46,980 --> 00:26:49,620
 现在 如果我返回到test_culator.py 
-Right now if I go back to test_calculator.py,
 
 548
 00:26:49,620 --> 00:26:51,420
 这确实是相当手动的 
-it's indeed pretty manual.
 
 549
 00:26:51,420 --> 00:26:54,570
 我花了一段时间才说出并打出了这几行字 
-It took me a while to say and to type out those several lines,
 
 550
 00:26:54,570 --> 00:26:58,710
 您可以想象编写某种类型的循环来在循环中断言
-and you could imagine writing some kind of loop to just assert in a loop
 
 551
 00:26:58,710 --> 00:27:02,220
 这个等于那个 这个等于那个 以此类推 使用一个列表
-that this equals that, that this equals that, and so forth, using a list
 
 552
 00:27:02,220 --> 00:27:05,530
 或者使用列表、词典或类似的结构 
-or using maybe a list or a dictionary or some structure like that.
 
 553
 00:27:05,530 --> 00:27:08,008
 因此 是的 您完全可以自动执行其中的一些测试
-So yes, you can absolutely automate some of these tests
 
 554
 00:27:08,008 --> 00:27:10,050
 而不是一遍又一遍地做同样的事情 
-by not just doing the same thing again and again.
 
 555
 00:27:10,050 --> 00:27:12,660
 您仍然可以使用Python的所有语法来执行循环 
-You can still use all of the syntax of Python to do loops.
 
 556
 00:27:12,660 --> 00:27:16,200
 但总的来说 您的测试应该非常简单 
-But generally speaking, your tests should be pretty simple.
 
 557
 00:27:16,200 --> 00:27:21,510
 事实上 让我建议我们进一步改进这个设计 
-And in fact, let me propose that we improve upon even this design further,
 
 558
 00:27:21,510 --> 00:27:28,320
 因为目前 当我进行所有这些测试时 情况并不理想
-because at the moment what's not really ideal, when I run all of these tests
 
 559
 00:27:28,320 --> 00:27:32,010
 当我的函数出现错误时 请注意我得到的输出 
-when my function is buggy, is notice the output that I got.
 
 560
 00:27:32,010 --> 00:27:35,550
 让我通过更改我的乘法来重新引入相同的错误
-Let me reintroduce that same bug by changing my multiplication back
 
 561
 00:27:35,550 --> 00:27:36,520
 为了加法 
-to addition.
 
 562
 00:27:36,520 --> 00:27:39,150
 让我再次增加终端窗口的大小 
-Let me increase the size of my terminal window again.
 
 563
 00:27:39,150 --> 00:27:42,600
 让我再次运行test_culator.py的pytest 
-And let me run pytest again of test_calculator.py.
 
 564
 00:27:42,600 --> 00:27:46,260
 这就是我现在的代码版本 它又有了这个错误 
-So this is the version of my code now that has the bug again.
 
 565
 00:27:46,260 --> 00:27:49,290
 所以我会看到一场巨大的失败
-So I'm going to see that big massive failure where
 
 566
 00:27:49,290 --> 00:27:52,530
 这一失败已经向我展示了 
-this failure has been displayed to me.
 
 567
 00:27:52,530 --> 00:27:55,260
 但这并不像它可能的那样有帮助 
-But this is not as helpful as it could be,
 
 568
 00:27:55,260 --> 00:27:58,180
 因为我的代码中有所有这些其他测试 
-because I have all of those other tests in my code.
 
 569
 00:27:58,180 --> 00:28:01,350
 回想一下 我有 一 二 三 四 五个不同的测试 
-Recall that I had, what, one, two, three, four, five separate tests,
 
 570
 00:28:01,350 --> 00:28:03,270
 我只看到了第一个的输出 
-and I'm only seeing the output of the first.
 
 571
 00:28:03,270 --> 00:28:04,410
 为什么会这样呢？
-Now, why is that?
 
 572
 00:28:04,410 --> 00:28:06,690
 如果我们回到我这里的代码 你会看到
-If we go back to my code here, you'll see
 
 573
 00:28:06,690 --> 00:28:11,370
 第一个失败的断言 也就是这里的这个断言 
-that the first assertion that's failing, namely this one here, that assert
 
 574
 00:28:11,370 --> 00:28:15,750
 3的平方等于9 其他测试甚至没有运行 
-of square of 3 equals equals 9, the other tests aren't even getting run.
 
 575
 00:28:15,750 --> 00:28:19,830
 这并不是什么大事 因为我的代码有错误 所以一个或多个
-And that's not a big deal in the sense that my code is buggy, so one or more
 
 576
 00:28:19,830 --> 00:28:21,630
 他们中的一些人可能无论如何都会失败 
-of them are probably going to fail anyway,
 
 577
 00:28:21,630 --> 00:28:24,870
 但是 知道他们中的哪些人会失败 不是很好吗？
-but wouldn't it be nice to know which of them are going to fail?
 
 578
 00:28:24,870 --> 00:28:27,900
 事实上 一次运行尽可能多的测试是理想的
-And in fact, it's ideal to run as many tests all at once as possible
 
 579
 00:28:27,900 --> 00:28:31,020
 给你尽可能多的线索来找到你的虫子 
-to give you as many clues as possible to finding your bug.
 
 580
 00:28:31,020 --> 00:28:35,010
 所以让我建议我们改进我的测试代码的设计
-So let me propose that we improve the design of my testing code
 
 581
 00:28:35,010 --> 00:28:38,040
 现在 仍然使用pyest 如下所示 
-now, still using pytest as follows.
 
 582
 00:28:38,040 --> 00:28:41,280
 而不是使用一个名为test_square的大函数
-Instead of having one big function called test_square
 
 583
 00:28:41,280 --> 00:28:45,090
 它用这么多不同的输入来测试整个函数本身 
-that tests the entire function itself with so many different inputs,
 
 584
 00:28:45,090 --> 00:28:48,270
 让我们把我的测试分成不同的类别 
-let's break down my tests into different categories.
 
 585
 00:28:48,270 --> 00:28:51,100
 在这里 也没有一种正确的方法来做到这一点 
-And here, too, there's no one right way to do this.
 
 586
 00:28:51,100 --> 00:28:53,430
 但我的头脑在想 也许我应该
-But my mind is thinking that I should maybe
 
 587
 00:28:53,430 --> 00:28:57,840
 分别测试正数 分别测试负数 并测试0
-test positive numbers separately, test negative numbers separately, and test 0
 
 588
 00:28:57,840 --> 00:28:58,470
 分开的 
-separately.
 
 589
 00:28:58,470 --> 00:28:59,637
 我可以想出其他办法 
-I could think of other ways.
 
 590
 00:28:59,637 --> 00:29:00,810
 我可以测试偶数 
-I could test even numbers.
 
 591
 00:29:00,810 --> 00:29:03,930
 我可以测试奇数或者其他模式 
-I could test odd numbers or maybe some other pattern altogether,
 
 592
 00:29:03,930 --> 00:29:07,140
 但将这一重大测试分成多个测试
-but separating this big test into multiple tests
 
 593
 00:29:07,140 --> 00:29:10,150
 可能会在出问题的时候给我提供更多线索 
-is probably going to yield more clues for me when something goes wrong.
 
 594
 00:29:10,150 --> 00:29:11,620
 那就让我来做吧 
-So let me do this.
 
 595
 00:29:11,620 --> 00:29:15,570
 让我继续并将此函数重命名为初始测试阳性 
-Let me go ahead and rename this function to test positive initially,
 
 596
 00:29:15,570 --> 00:29:19,170
 让我在这个函数中只包含前两个测试 
-and let me include in that function only those first two tests.
 
 597
 00:29:19,170 --> 00:29:23,560
 然后 让我在这里创建另一个函数 称为测试负值 
-Let me then create another function here called test negative.
 
 598
 00:29:23,560 --> 00:29:27,780
 在这个函数中 我只测试负2和负3 
-And in this function, let me test only negative 2 and negative 3.
 
 599
 00:29:27,780 --> 00:29:31,500
 然后在这里 让我再定义一次test_Zero 
-Then down here, let me do one more def of test_zero,
 
 600
 00:29:31,500 --> 00:29:33,660
 我只会在那里做一次测试 
-and I'll just run one test in there.
 
 601
 00:29:33,660 --> 00:29:36,690
 所以我有同样的断言 同样的五个 
-So I have the same assertions, the same five,
 
 602
 00:29:36,690 --> 00:29:39,960
 但我现在将它们划分为三个不同的函数 
-but I've now divided them up among three separate functions.
 
 603
 00:29:39,960 --> 00:29:43,470
 PYTEST和其他单元测试框架有什么优点
-What's nice about pytest and other unit testing frameworks
 
 604
 00:29:43,470 --> 00:29:47,340
 这三个测试功能都将自动运行 
-is that all three of these test functions will be run automatically.
 
 605
 00:29:47,340 --> 00:29:50,400
 即使其中一个失败了 其他的也会尝试 
-Even if one of them fails, the others will be attempted.
 
 606
 00:29:50,400 --> 00:29:53,790
 这意味着如果他们中的一个或两个或三个失败了 
-That means that if one or two or three of them fail,
 
 607
 00:29:53,790 --> 00:29:58,235
 我现在有一条、两条或三条线索来帮助我找出那个错误 
-I'll have one or two or three clues now for helping me find that mistake.
 
 608
 00:29:58,235 --> 00:30:01,110
 因此 让我继续并再次增加我的终端窗口的大小 
-So let me go ahead and again increase the size of my terminal window,
 
 609
 00:30:01,110 --> 00:30:02,693
 只是为了让我们能在屏幕上看到更多 
-just so we can see more on the screen.
 
 610
 00:30:02,693 --> 00:30:07,350
 我的计算器仍然有错误 使用加法 而不是乘法 
-My calculator still has the bug, using addition, instead of multiplication.
 
 611
 00:30:07,350 --> 00:30:12,060
 让我们继续运行 不是运行Python 而是再次运行test_culator.py的pytest 
-Let me go ahead and run not Python, but again, pytest of test_calculator.py,
 
 612
 00:30:12,060 --> 00:30:14,550
 一如既往地祈祷 现在 哦 我的上帝 
-crossing my fingers as always, and now, oh my God,
 
 613
 00:30:14,550 --> 00:30:16,500
 屏幕上的错误甚至更多 
-there's even more errors on the screen.
 
 614
 00:30:16,500 --> 00:30:19,038
 但这本身就更有帮助 
-But this in itself is more helpful.
 
 615
 00:30:19,038 --> 00:30:20,830
 让我们自上而下地学习它们 
-Let's work through them from top to bottom.
 
 616
 00:30:20,830 --> 00:30:22,677
 所以 在这里失败的情况下 大写的 
-So under FAILURES here, in all caps, which
 
 617
 00:30:22,677 --> 00:30:25,260
 我知道看到失败并不是很令人振奋
-I know is not very encouraging to see failure when you're just
 
 618
 00:30:25,260 --> 00:30:28,260
 试图解决一个问题 但这就是这些框架所做的 
-trying to solve a problem, but that's what these frameworks do,
 
 619
 00:30:28,260 --> 00:30:31,530
 在FAILES下 第一个失败的函数是TEST_PRECTIVE 
-under FAILURES, the first function that failed is test_positive.
 
 620
 00:30:31,530 --> 00:30:34,230
 但在这里 我们也看到了与以前相同的线索 
-But here, too, we see the same clue as before.
 
 621
 00:30:34,230 --> 00:30:38,230
 第一个 2 2的平方等于4 那一个很好 
-The first one, 2, the square of 2 equals equals 4, that one is fine.
 
 622
 00:30:38,230 --> 00:30:40,210
 它不会有任何红色错误 
-It's not erring with any red errors.
 
 623
 00:30:40,210 --> 00:30:41,650
 但下一次失败了 
-But the next one is failing.
 
 624
 00:30:41,650 --> 00:30:45,150
 所以我知道当我传到3的时候 正方形是被打破的 
-So I know that square is broken when I pass in 3.
 
 625
 00:30:45,150 --> 00:30:46,122
 那下面呢？
-What about down here?
 
 626
 00:30:46,122 --> 00:30:49,080
 不幸的是 看起来我的测试阴性功能也失败了 
-It looks like, unfortunately, my test negative function is failing too.
 
 627
 00:30:49,080 --> 00:30:49,950
 为什么？
-Why?
 
 628
 00:30:49,950 --> 00:30:53,880
 当我进入时--哦 这很有趣--现在 这里是负2
-When I pass in-- oh, this is interesting-- here now, negative 2
 
 629
 00:30:53,880 --> 00:30:55,270
 都不管用了 
-doesn't even work.
 
 630
 00:30:55,270 --> 00:30:56,640
 所以我幸运地得到了正2 
-So I got lucky with positive 2.
 
 631
 00:30:56,640 --> 00:30:58,050
 但负2不起作用 
-But negative 2 isn't working.
 
 632
 00:30:58,050 --> 00:30:59,400
 这是一个小小的线索 
-So that's a bit of a clue.
 
 633
 00:30:59,400 --> 00:31:02,850
 但总体而言 只有两次测试失败 
-But in total, only two tests failed.
 
 634
 00:31:02,850 --> 00:31:07,500
 所以请注意 在最下面 这个总结 两个失败 一个通过 
-So notice at the very bottom, this summary, two failed and one passed.
 
 635
 00:31:07,500 --> 00:31:08,400
 另一个是什么？
-What's the other one?
 
 636
 00:31:08,400 --> 00:31:09,358
 第三个是什么？
-What was the third one?
 
 637
 00:31:09,358 --> 00:31:10,020
 测试零 
-Test zero.
 
 638
 00:31:10,020 --> 00:31:11,970
 因此 测试零正在通过 
-So test zero is passing.
 
 639
 00:31:11,970 --> 00:31:13,590
 这两家公司都在失败 
-These two are failing.
 
 640
 00:31:13,590 --> 00:31:17,170
 因此 如果你愿意的话 这可以从逻辑上、数学上引导我 
-And so that kind of leads me logically, mathematically, if you will,
 
 641
 00:31:17,170 --> 00:31:18,282
 找到了病毒的源头 
-to the source of the bug.
 
 642
 00:31:18,282 --> 00:31:20,490
 我也要说清楚 如果你有很多测试 
-And just to be clear too, if you have a lot of tests,
 
 643
 00:31:20,490 --> 00:31:23,910
 这一小行输出是有帮助的 尽管也有点令人沮丧 
-this little one line output is helpful, even though also a bit discouraging,
 
 644
 00:31:23,910 --> 00:31:27,180
 FAIL、FAIL和圆点表示通过 
-fail, fail, and dot means pass.
 
 645
 00:31:27,180 --> 00:31:28,930
 所以有刚才描述的三个测试
-So there are the three tests just depicted
 
 646
 00:31:28,930 --> 00:31:31,480
 在图形上有一点不同 
-graphically a little bit differently.
 
 647
 00:31:31,480 --> 00:31:35,590
 现在让我回过头来 回到culator.py 
-Let me rewind now and go back in to calculator.py.
 
 648
 00:31:35,590 --> 00:31:38,050
 让我们修复这个错误 因为让我们假设
-Let's fix that bug, because let's suppose
 
 649
 00:31:38,050 --> 00:31:40,150
 我已经推断出我在使用加法 
-that I've deduced I'm using addition.
 
 650
 00:31:40,150 --> 00:31:42,460
 我应该一直在用乘法 
-I should have been using multiplication all this time.
 
 651
 00:31:42,460 --> 00:31:44,710
 现在让我在修复错误之后再一次 
-Let me now after fixing the bug yet again,
 
 652
 00:31:44,710 --> 00:31:46,550
 让我回到我的大航站楼 
-let me go back to my big terminal.
 
 653
 00:31:46,550 --> 00:31:51,160
 让我运行test_culator.py的pytest 按Enter键 现在祈祷 
-Let me run pytest of test_calculator.py, hitting Enter, crossing my fingers now,
 
 654
 00:31:51,160 --> 00:31:53,620
 圆点表示一切都很好 
-and dot dot dot means all is well.
 
 655
 00:31:53,620 --> 00:31:56,360
 我所有的测试都通过了 三次都通过了 
-100% of my tests passed, all three of them.
 
 656
 00:31:56,360 --> 00:31:57,620
 所以现在我很好 
-So now I'm good.
 
 657
 00:31:57,620 --> 00:32:02,110
 这并不一定意味着我的代码是100%正确的 
-It doesn't necessarily mean that my code is 100% correct.
 
 658
 00:32:02,110 --> 00:32:05,950
 但这确实意味着它已经100%通过了我目前的测试 
-But it does mean that it has passed 100% of my current tests.
 
 659
 00:32:05,950 --> 00:32:10,150
 因此 我们应该更认真地考虑一下
-And so it would probably behoove us to think a little harder about maybe
 
 660
 00:32:10,150 --> 00:32:11,710
 我们应该测试更大的数字 
-we should test bigger numbers.
 
 661
 00:32:11,710 --> 00:32:13,600
 也许我们应该测试更小的数字 
-Maybe we should test even smaller numbers.
 
 662
 00:32:13,600 --> 00:32:15,610
 也许我们应该测试一下字符串或其他东西 
-Maybe we should test strings or something else.
 
 663
 00:32:15,610 --> 00:32:19,090
 最终的责任是你来决定你要测试什么 
-The onus is ultimately on you to decide what you're going to test.
 
 664
 00:32:19,090 --> 00:32:22,360
 但在现实世界中 你会对自己非常不满意
-But in the real world, you're going to be very unhappy with yourself
 
 665
 00:32:22,360 --> 00:32:25,900
 或者其他人--也许你的老板会对你非常不满意--
-or someone else-- maybe your boss is going to be very unhappy with you--
 
 666
 00:32:25,900 --> 00:32:29,320
 如果你没有在你的代码中发现一个错误 你可能已经发现了
-if you did not catch a bug in your code, which you could have caught
 
 667
 00:32:29,320 --> 00:32:33,070
 您是否刚刚编写了一个测试来尝试这种输入 
-had you just written a test to try that kind of input.
 
 668
 00:32:33,070 --> 00:32:35,500
 让我再暂停一次 看看现在是否有任何问题
-Let me pause again and see if there's any questions now
 
 669
 00:32:35,500 --> 00:32:38,740
 关于使用pytest进行单元测试 
-on unit testing with pytest.
 
 670
 00:32:38,740 --> 00:32:41,950
 演讲者6：所以 如果你想测试 就像之前有人建议的那样 
-SPEAKER 6: So if you wanted to test, like someone suggested before,
 
 671
 00:32:41,950 --> 00:32:45,430
 用户输入以及测试您的功能 
-user input as well as testing your function,
 
 672
 00:32:45,430 --> 00:32:47,500
 您是否在同一文件中执行此操作？
-do you do that within the same file?
 
 673
 00:32:47,500 --> 00:32:50,260
 或者 您是否为不同类型的测试创建单独的文件？
-Or do you make separate files for different types of tests?
 
 674
 00:32:50,260 --> 00:32:51,677
 大卫·马兰：这个问题问得很好 
-DAVID MALAN: Really good question.
 
 675
 00:32:51,677 --> 00:32:55,120
 您绝对可以创建单独的文件来测试不同类型的东西 
-You could absolutely make separate files to test different types of things.
 
 676
 00:32:55,120 --> 00:32:58,300
 或者 如果您没有那么多 您可以将它们都保存在同一个文件中 
-Or if you don't have that many, you can keep them all in the same file.
 
 677
 00:32:58,300 --> 00:33:01,827
 目前 为了方便起见 我一直将我所有的测试存储在一个文件中 
-At the moment, I've been storing all of my tests in one file for convenience,
 
 678
 00:33:01,827 --> 00:33:03,410
 而且它们的数量也不是很多 
-and there's not terribly many of them.
 
 679
 00:33:03,410 --> 00:33:05,380
 但我们将通过一个例子来了解一下
-But we'll take a look in a bit at an example
 
 680
 00:33:05,380 --> 00:33:08,470
 这样我就可以把它们放到一个文件夹里 甚至运行pytest
-that allows me to put them into a folder and even run pytest
 
 681
 00:33:08,470 --> 00:33:11,090
 在整个测试文件夹上也是如此 
-on the whole folder of tests as well.
 
 682
 00:33:11,090 --> 00:33:12,010
 所以这是可能的 
-So that's possible.
 
 683
 00:33:12,010 --> 00:33:14,120
 关于单元测试的其他问题 
-Other questions on unit testing.
 
 684
 00:33:14,120 --> 00:33:16,810
 演讲者7：我有两个问题 
-SPEAKER 7: So I've got two questions.
 
 685
 00:33:16,810 --> 00:33:22,960
 几年前 您刚刚使用了一个名为--
-So a couple of while ago, you just used an exception called--
 
 686
 00:33:22,960 --> 00:33:26,110
 我不确定这是什么--哦 是的 断言错误 
-I'm not sure what it was-- oh yeah, assertion error.
 
 687
 00:33:26,110 --> 00:33:30,160
 这个特定的错误到底捕捉到了什么？
-What exactly does that particular error catch?
 
 688
 00:33:30,160 --> 00:33:36,500
 我的第二个问题是 Assert关键字
-And my second question is, does the assert keyword
 
 689
 00:33:36,500 --> 00:33:39,320
 站在编者面前 准确地告诉他们
-stand out to the compiler, exactly tell them
 
 690
 00:33:39,320 --> 00:33:42,987
 来插入这行特定的代码？
-to insert this particular line of code?
 
 691
 00:33:42,987 --> 00:33:43,820
 大卫·马兰：确实如此 
-DAVID MALAN: Indeed.
 
 692
 00:33:43,820 --> 00:33:48,320
 我们看到的ASSERT关键字和前面看到的断言错误
-The assert keyword we're seeing and the assertion error we saw earlier
 
 693
 00:33:48,320 --> 00:33:49,530
 是交织在一起的 
-are intertwined.
 
 694
 00:33:49,530 --> 00:33:52,460
 因此 当您使用Assert而断言失败时 
-So when you use assert and the assertion fails,
 
 695
 00:33:52,460 --> 00:33:56,570
 因为无论你用的是什么布尔表达式 都不是真的 而是假的 
-because whatever Boolean expression you're using is not true, it's false,
 
 696
 00:33:56,570 --> 00:34:00,170
 根据Python的定义 将引发断言错误 
-an assertion error, by definition of Python, will be raised.
 
 697
 00:34:00,170 --> 00:34:02,180
 因此 这两者是协同工作的 
-So those two work in conjunction.
 
 698
 00:34:02,180 --> 00:34:06,920
 那些错误 那些断言错误 仍然由我的代码引发
-Those errors, those assertion errors, are still being raised by my code
 
 699
 00:34:06,920 --> 00:34:09,320
 在这里 当这些代码行中的任何一行失败时 
-here when any of these lines of code fail.
 
 700
 00:34:09,320 --> 00:34:12,139
 然而 PYTEST这个第三方库 
-However, pytest, this third party library,
 
 701
 00:34:12,139 --> 00:34:16,639
 正在为我处理自动捕获这些异常的过程 
-is handling the process of catching those exceptions automatically for me,
 
 702
 00:34:16,639 --> 00:34:18,810
 以便给我这个标准的输出 
-so as to give me this standard output.
 
 703
 00:34:18,810 --> 00:34:22,488
 因此 我们从自己真正实现单元测试开始了今天的故事 
-So we started today's story by really implementing unit testing myself.
 
 704
 00:34:22,488 --> 00:34:23,780
 所有的代码都是我自己写的 
-I wrote all of the code myself.
 
 705
 00:34:23,780 --> 00:34:24,440
 我写了Main 
-I wrote main.
 
 706
 00:34:24,440 --> 00:34:25,400
 我做了我的附带条件 
-I did my conditional.
 
 707
 00:34:25,400 --> 00:34:26,540
 我确实试过了 除了 
-I did try and except.
 
 708
 00:34:26,540 --> 00:34:29,277
 老实说 编写测试将变得非常痛苦
-Honestly, it's going to get incredibly painful to write tests
 
 709
 00:34:29,277 --> 00:34:32,360
 长期而言 如果你和我每次都要写那么多代码 特别是
-long term if you and I have to write that much code every time, especially
 
 710
 00:34:32,360 --> 00:34:34,010
 当我们的功能这么小的时候 
-when our function is this small.
 
 711
 00:34:34,010 --> 00:34:38,239
 因此 PYTEST和类似的单元测试框架可以自动完成很多工作 
-So pytest and unit testing frameworks like it just automate so much of that.
 
 712
 00:34:38,239 --> 00:34:43,460
 本质上 PYTEST为您添加了try、Except、If和指纹 
-Essentially, pytest adds the try, the except, the if, the prints for you,
 
 713
 00:34:43,460 --> 00:34:46,580
 因此 您可以只关注测试的本质 即
-so you can just focus on the essence of the test, which
 
 714
 00:34:46,580 --> 00:34:49,130
 真正的是这些输入和输出 
-really are these inputs and outputs.
 
 715
 00:34:49,130 --> 00:34:52,980
 这里还有一个关于单元测试的问题 你觉得呢？
-How about time for one other question here on unit testing as well?
 
 716
 00:34:52,980 --> 00:35:00,320
 演讲者8：所以当我们输入-x或-5的平方时 
-SPEAKER 8: So when we enter minus x or minus 5 squared,
 
 717
 00:35:00,320 --> 00:35:03,270
 这个数字的平方根就出来了 
-square root of that number comes up.
 
 718
 00:35:03,270 --> 00:35:07,460
 但当我们把6.6或5.6放入这个整数时 
-But when we put 6.6 or 5.6, something like that integer,
 
 719
 00:35:07,460 --> 00:35:11,370
 则行显示错误 
-then line shows error.
 
 720
 00:35:11,370 --> 00:35:13,590
 那么那里发生了什么呢？
-So what's happening there?
 
 721
 00:35:13,590 --> 00:35:16,850
 大卫·马兰：所以我现在故意测试整数 
-DAVID MALAN: So I'm deliberately testing integers right now,
 
 722
 00:35:16,850 --> 00:35:19,953
 很大程度上是因为我只想让POW对整数进行运算 
-in large part because I only want pow to operate on integers.
 
 723
 00:35:19,953 --> 00:35:23,120
 这可能会在Python的文档或我自己的文档中传达出来
-And that might be conveyed in Python's documentation or my own documentation
 
 724
 00:35:23,120 --> 00:35:24,050
 来完成这项任务 
-for that function.
 
 725
 00:35:24,050 --> 00:35:26,850
 如果你要传递其他东西 比如一个花车 
-If you were to pass in something else, like a float,
 
 726
 00:35:26,850 --> 00:35:30,920
 事实证明 Python和其他语言中的浮点值
-it turns out that floating point values in Python and other languages
 
 727
 00:35:30,920 --> 00:35:33,150
 实际上非常困难 如果不是不可能的话 
-are actually very hard, if not impossible,
 
 728
 00:35:33,150 --> 00:35:35,420
 以100%准确地代表 
-to represent 100% precisely.
 
 729
 00:35:35,420 --> 00:35:39,020
 因此 如果你试图将其与其他价值进行比较 
-And so if you are trying to compare it against some other value,
 
 730
 00:35:39,020 --> 00:35:41,900
 因此 可能会有轻微的舍入误差 
-there might be slight rounding errors as a result.
 
 731
 00:35:41,900 --> 00:35:43,940
 我只是根据你所描述的推断 
-I'm just inferring from what you've described,
 
 732
 00:35:43,940 --> 00:35:47,480
 但我现在非常有意地测试这个函数 只使用输入
-but I'm very deliberately now testing this function with only the inputs
 
 733
 00:35:47,480 --> 00:35:48,680
 这是我所期待的 
-that I would expect.
 
 734
 00:35:48,680 --> 00:35:53,300
 如果传递了其他输入 它确实可能抛出其他错误 
-It might indeed throw other errors if other inputs are passed.
 
 735
 00:35:53,300 --> 00:35:56,240
 请允许我提议我们考虑一下如果双方达成协议
-Allow me to propose that we consider what should happen if square
 
 736
 00:35:56,240 --> 00:35:58,100
 实际上并没有传递一个数字 
-isn't actually passed a number.
 
 737
 00:35:58,100 --> 00:36:01,100
 例如 如果我返回到culator.py 
-For instance, if I go back to calculator.py,
 
 738
 00:36:01,100 --> 00:36:04,730
 假设我 或者其他使用平方函数的人 
-and suppose that I, or perhaps someone else using my square function,
 
 739
 00:36:04,730 --> 00:36:09,020
 只是忘记将输入的返回值从字符串转换为整型 
-simply forgets to convert the return value of input from a str to an int,
 
 740
 00:36:09,020 --> 00:36:11,270
 例如 将行修改为此处 
-as by modifying line to here.
 
 741
 00:36:11,270 --> 00:36:14,870
 现在 如果我输入一个字符串 肯定会出错
-Now, something's definitely going to go wrong if I type in a str
 
 742
 00:36:14,870 --> 00:36:16,910
 而不是看起来是整型的 
-instead of what appears to be an int.
 
 743
 00:36:16,910 --> 00:36:18,980
 例如 如果我在这里清除我的终端 
-For instance, if I clear my terminal here,
 
 744
 00:36:18,980 --> 00:36:22,250
 运行culator.py的Python并按Enter--
-run Python of calculator.py and hit Enter--
 
 745
 00:36:22,250 --> 00:36:26,220
 让我们输入cat作为x的值--当然 
-let's type in cat as our value for x-- and of course,
 
 746
 00:36:26,220 --> 00:36:27,570
 这现在引发了一个类型错误 
-this raises now a type error.
 
 747
 00:36:27,570 --> 00:36:28,070
 为什么？
-Why?
 
 748
 00:36:28,070 --> 00:36:30,620
 不能将序列与类型为‘str.’的非int相乘 
-Can't multiply sequence by non-int of type 'str.'
 
 749
 00:36:30,620 --> 00:36:31,700
 那是什么意思？
-What does that mean?
 
 750
 00:36:31,700 --> 00:36:35,000
 你不能做猫乘以猫 因为事实上 正方形是
-You can't do cat times cat, because indeed, square is
 
 751
 00:36:35,000 --> 00:36:36,860
 期待这一结局的将是一些数字 
-expecting that end will be some number.
 
 752
 00:36:36,860 --> 00:36:39,650
 但这并不一定意味着Square本身就有漏洞 
-But that doesn't necessarily mean that square itself is buggy.
 
 753
 00:36:39,650 --> 00:36:43,070
 但这确实意味着 如果我预计会引发类型错误 
-But this does mean that if I expect a type error to be raised,
 
 754
 00:36:43,070 --> 00:36:47,790
 让我们也对此进行测试 这样我就知道行为确实像预期的那样工作 
-let's test for that too, so that I know the behavior indeed works as expected.
 
 755
 00:36:47,790 --> 00:36:53,070
 因此 让我回到test_culator.py 然后添加第四个测试
-So let me go back to test_calculator.py, and let me go in add a fourth test down
 
 756
 00:36:53,070 --> 00:36:53,570
 这里 
-here.
 
 757
 00:36:53,570 --> 00:36:56,240
 定义测试下划线如何 我将
-How about define test underscore, and I'll
 
 758
 00:36:56,240 --> 00:36:59,510
 将其称为test_str 因为我将明确而有意地通过
-call this test_str, because I'm going to specifically and deliberately pass
 
 759
 00:36:59,510 --> 00:37:01,080
 在用于测试的字符串中 
-in a str for testing.
 
 760
 00:37:01,080 --> 00:37:06,290
 我想在精神上断言 像猫对方这样的传球
-And I want to in spirit assert that passing in something like cat to square
 
 761
 00:37:06,290 --> 00:37:08,030
 将引发类型错误 
-will raise a type error.
 
 762
 00:37:08,030 --> 00:37:10,550
 但是我们没有使用ASSERT关键字 
-But we don't use the assert keyword for that.
 
 763
 00:37:10,550 --> 00:37:11,630
 相反 我们需要这个 
-Rather, we need this.
 
 764
 00:37:11,630 --> 00:37:14,570
 让我转到此文件的顶部 并让我另外
-Let me go to the top of this file, and let me additionally
 
 765
 00:37:14,570 --> 00:37:18,020
 导入pytest库本身 因为它被证明
-import the pytest library itself, because it turns out
 
 766
 00:37:18,020 --> 00:37:20,180
 在该库中有一个名为
-there's a function in that library called
 
 767
 00:37:20,180 --> 00:37:25,280
 引发 这使我能够表示我希望引发异常 
-raises that allows me to express that I expect an exception to be raised.
 
 768
 00:37:25,280 --> 00:37:29,330
 我可以用下面的pytest来表达这一点 
-And I can express that as follows with pytest.raises,
 
 769
 00:37:29,330 --> 00:37:33,180
 然后在括号中 我可以传递我期望的异常类型 
-and then in parentheses I can pass in the type of exception I expect,
 
 770
 00:37:33,180 --> 00:37:35,720
 在这种情况下 这将是一个类型错误 
-which is going to be a type error in this case.
 
 771
 00:37:35,720 --> 00:37:38,720
 现在 我应该在什么时候引发该类型错误呢？
-And now when do I expect that type error to be raised?
 
 772
 00:37:38,720 --> 00:37:42,320
 每当我做一些事情 比如调用Square 而不是传入数字时 
-Whenever I do something like calling square and passing in not a number,
 
 773
 00:37:42,320 --> 00:37:44,150
 但有点像猫 
-but something like cat.
 
 774
 00:37:44,150 --> 00:37:46,380
 所以现在如果我回到我的终端窗口 
-So now if I go back to my terminal window,
 
 775
 00:37:46,380 --> 00:37:51,050
 运行测试计算器.py的pytest 这一次有四个测试 
-run pytest of test calculator.py, this time having four tests,
 
 776
 00:37:51,050 --> 00:37:55,880
 我应该看到现在所有四个都是成功的 
-I should see that all four now are successful.
 
 777
 00:37:55,880 --> 00:37:59,870
 现在让我们考虑如何测试不只是期望数字的代码
-Let's now consider how we could test code that doesn't just expect numbers
 
 778
 00:37:59,870 --> 00:38:02,000
 作为输入 但实际上是字符串 
-as input, but actually strings.
 
 779
 00:38:02,000 --> 00:38:04,640
 让我在VS Code中及时回顾一下
-And let me rewind us in time here in VS Code
 
 780
 00:38:04,640 --> 00:38:09,380
 对于第一个程序 我们编写了几个不同版本的in hello.py
-to that very first program we wrote a few different versions of in hello.py
 
 781
 00:38:09,380 --> 00:38:11,610
 它最终看起来有点像这样 
-that ultimately looked a little something like this.
 
 782
 00:38:11,610 --> 00:38:14,480
 我有一个主功能 可以提示用户
-I had a main function that prompted the user
 
 783
 00:38:14,480 --> 00:38:18,020
 通过问他们“你叫什么名字？”来获取变量的值 
-for the value of a variable by asking them, "what's your name?"
 
 784
 00:38:18,020 --> 00:38:19,050
 问号 
-question mark.
 
 785
 00:38:19,050 --> 00:38:21,650
 然后我们继续前进 做了一些类似于打招呼的事情 
-And then we went ahead and did something like hello,
 
 786
 00:38:21,650 --> 00:38:26,570
 打开Paren name 将该用户名传递给一个名为Hello的函数 
-open paren, name, passing that user's name into a function called hello.
 
 787
 00:38:26,570 --> 00:38:30,210
 现在函数Hello recall最终看起来是这样的 
-Now that function hello recall ultimately looked like this.
 
 788
 00:38:30,210 --> 00:38:33,530
 我们将Hello定义为接受一个名为to的参数 
-We defined hello as taking a parameter called to,
 
 789
 00:38:33,530 --> 00:38:37,850
 其缺省值为World 且该函数非常简单
-the default value of which was world, and that function very simply
 
 790
 00:38:37,850 --> 00:38:41,780
 打印问候 后跟逗号 然后什么都行
-printed hello, followed by a comma, and then whatever
 
 791
 00:38:41,780 --> 00:38:43,310
 已传入的名称 
-the name that had been passed in.
 
 792
 00:38:43,310 --> 00:38:46,520
 然后我们最终调用了Main 但现在开始 
-And then we ultimately called main, but for now onward,
 
 793
 00:38:46,520 --> 00:38:48,650
 如果有条件 我会一直加上这一点 
-I'm going to always add this if conditional,
 
 794
 00:38:48,650 --> 00:38:53,360
 如果名称等于等于下划线Main 则仅当
-if name equals equals underscore underscore main, then and only then
 
 795
 00:38:53,360 --> 00:38:54,380
 我要不要给Main打电话 
-do I want to call main.
 
 796
 00:38:54,380 --> 00:38:58,580
 所以这基本上就是这个程序在上一次化身中的样子 
-So that's essentially what this program looked like in its last incarnation.
 
 797
 00:38:58,580 --> 00:39:00,560
 我们该如何进行测试呢？
-How do we go about testing it?
 
 798
 00:39:00,560 --> 00:39:03,800
 在这里 我也不打算在main中测试用户的输入本身 
-Here again too, I'm not going to test the user's input per se in main.
 
 799
 00:39:03,800 --> 00:39:07,580
 我将真正集中在代码模块上
-I'm going to focus really on the module of code
 
 800
 00:39:07,580 --> 00:39:10,220
 这就是我们感兴趣的 这就是Hello函数本身 
-here that's of interest, which is the hello function itself.
 
 801
 00:39:10,220 --> 00:39:14,420
 我如何开始测试Hello函数？
-How can I go about testing the hello function?
 
 802
 00:39:14,420 --> 00:39:19,550
 不幸的是 即使我开始做一些类似于测试hello.py的代码--
-Unfortunately, even if I start by doing something like code of test hello.py--
 
 803
 00:39:19,550 --> 00:39:22,340
 让我开始着手编写一个测试程序--
-let me go about and start writing a test program--
 
 804
 00:39:22,340 --> 00:39:26,210
 我可以从我的Hello程序中导入一个名为Hello的函数 
-I could import from my hello program a function called hello.
 
 805
 00:39:26,210 --> 00:39:28,700
 所以从问候导入中看到有点奇怪
-So a bit strange to see from hello import
 
 806
 00:39:28,700 --> 00:39:32,900
 您好 但是请注意 在这一行 我是从模块导入的--
-hello, but notice that on this line here, I'm importing from the module--
 
 807
 00:39:32,900 --> 00:39:36,680
 这就是名为hello.py的文件--名为Hello的函数 
-that is the file called hello.py-- the function called hello.
 
 808
 00:39:36,680 --> 00:39:40,400
 我该如何进行测试呢？
-And how do I go about testing this?
 
 809
 00:39:40,400 --> 00:39:46,610
 如果我有一个像定义测试参数这样的函数--
-If I have a function like define test_argument like this--
 
 810
 00:39:46,610 --> 00:39:48,090
 让我来做吧 
-let me do this.
 
 811
 00:39:48,090 --> 00:39:53,510
 那么 如果我要定义一个函数 比如定义TEST_HELLO 我该怎么办呢？
-So if I were to define a function like define test_hello, what could I do?
 
 812
 00:39:53,510 --> 00:39:59,840
 我可以用引号 不带引号 说“大卫”来打招呼
-I could call hello with quote, unquote, say, "David,"
 
 813
 00:39:59,840 --> 00:40:04,760
 然后检查它是否等于 “你好 大卫 ”
-and then check if it equals, what, "hello, David."
 
 814
 00:40:04,760 --> 00:40:07,400
 那么 这种方法在这里行得通吗？
-So would this work, this approach here?
 
 815
 00:40:07,400 --> 00:40:10,730
 如果我已经编写了一个名为test_Hello的测试 那么
-If I've written a test, called test_hello, that
 
 816
 00:40:10,730 --> 00:40:14,240
 使用david参数调用Hello 然后测试其返回值 
-calls hello with an argument of David and then tests its return value,
 
 817
 00:40:14,240 --> 00:40:19,820
 就像我们对我们的计算器所做的那样 这会像写的那样工作吗？
-just like we've done for our calculator, would this work as written?
 
 818
 00:40:19,820 --> 00:40:22,370
 让我稍后回到这个版本
-And let me go back to in just a moment the version
 
 819
 00:40:22,370 --> 00:40:23,730
 我们正在测试的问候 
-of hello that we're testing.
 
 820
 00:40:23,730 --> 00:40:25,550
 所以你可以看到函数Hello 
-So you can see that function hello.
 
 821
 00:40:25,550 --> 00:40:27,380
 这就是测试 
-Here's the test.
 
 822
 00:40:27,380 --> 00:40:29,900
 以下是实际的代码 
-Here is the actual code.
 
 823
 00:40:29,900 --> 00:40:32,900
 这项测试现在会奏效吗？
-Would this test now work?
 
 824
 00:40:32,900 --> 00:40:34,010
 有什么想法吗？
-Any thoughts?
 
 825
 00:40:34,010 --> 00:40:38,060
 演讲者9：我认为问题在于 在hello.py的第一个版本中 
-SPEAKER 9: I think the problem is that in the first version in hello.py,
 
 826
 00:40:38,060 --> 00:40:42,860
 您使用的是您第一次声明的to参数 当您声明
-you're using the to argument that you first declared, when you declared
 
 827
 00:40:42,860 --> 00:40:47,070
 函数 而不是使用名称 
-the function instead of using the name.
 
 828
 00:40:47,070 --> 00:40:50,580
 大卫·马兰：这在这里实际上不是一个错误 
-DAVID MALAN: That is actually not a bug here.
 
 829
 00:40:50,580 --> 00:40:53,730
 所以让我规定在hello.py中 这段代码实际上
-So let me stipulate that in hello.py, this code actually
 
 830
 00:40:53,730 --> 00:40:54,863
 确实如预期的那样工作 
-does work as intended.
 
 831
 00:40:54,863 --> 00:40:57,780
 让我继续手动测试 只是为了演示一下 
-And let me go ahead and test it manually, just to demonstrate as much.
 
 832
 00:40:57,780 --> 00:41:03,610
 让我运行hello.py的Python 输入我的名字D-A-V-I-D 我看到了 
-Let me run Python of hello.py, typing in, as my name, D-A-V-I-D, and I see,
 
 833
 00:41:03,610 --> 00:41:05,280
 事实上 它是在说 “你好 大卫 ”
-in fact, that it says, "hello, David."
 
 834
 00:41:05,280 --> 00:41:07,560
 不过 如果我改变这个计划 
-If, though, I were to change this program,
 
 835
 00:41:07,560 --> 00:41:11,460
 去掉name参数 去掉name变量 
-and get rid of the name argument, get rid of the name variable,
 
 836
 00:41:11,460 --> 00:41:14,790
 然后再次调用Hello 运行hello.py的Python 
-and just call hello, again, running Python of hello.py,
 
 837
 00:41:14,790 --> 00:41:17,700
 这一次我甚至没有得到提示 因为我摆脱了我的输入电话 
-this time I'm not even prompted, because I got rid of my input call,
 
 838
 00:41:17,700 --> 00:41:19,740
 但它的表现确实符合我的预期 
-but it does behave as I expect.
 
 839
 00:41:19,740 --> 00:41:21,660
 它确实在说“你好 世界 ”
-It does say "hello, world."
 
 840
 00:41:21,660 --> 00:41:26,820
 因此 让我规定当前形式的代码实际上是正确的 
-So let me stipulate that this code in its current form is actually correct,
 
 841
 00:41:26,820 --> 00:41:30,310
 但我的测试并没有像我希望的那样奏效 
-but my test is not going to work as I'd hoped.
 
 842
 00:41:30,310 --> 00:41:38,310
 我的Hello函数之间有一个细微的区别
-And there's a subtle difference between my hello function
 
 843
 00:41:38,310 --> 00:41:41,490
 我的平方函数可以解释 
-and my square function that explains.
 
 844
 00:41:41,490 --> 00:41:45,420
 为什么这项测试可能不会像预期的那样有效？
-Why might this test not work as intended?
 
 845
 00:41:45,420 --> 00:41:47,445
 演讲者10：因为它没有返回值 
-SPEAKER 10: Because it's not returning a value.
 
 846
 00:41:47,445 --> 00:41:48,570
 大卫·马兰：是的 确实如此 
-DAVID MALAN: Yeah, exactly.
 
 847
 00:41:48,570 --> 00:41:50,850
 回想一下我们早先关于函数的讨论 
-Recall our discussion early on about functions.
 
 848
 00:41:50,850 --> 00:41:54,420
 函数可以返回值 就像我的方形函数Hands
-Functions can either return a value, like my square function hands
 
 849
 00:41:54,420 --> 00:41:56,580
 你支持有一定价值的平方 否则他们
-you back the square of some value, or they
 
 850
 00:41:56,580 --> 00:41:59,425
 可能会有副作用 一种视觉假象
-can have side effects, sort of visual artifacts
 
 851
 00:41:59,425 --> 00:42:02,550
 这可能会发生在屏幕上 就像在屏幕上打印一些东西一样 
-that might happen on the screen, like printing something out on the screen.
 
 852
 00:42:02,550 --> 00:42:05,290
 根据定义 这就是印刷品的工作方式 
-And by definition, that's how print works.
 
 853
 00:42:05,290 --> 00:42:08,550
 注意Hello 它很短 但它最终实现了
-Notice that hello, it is short, but it's implemented ultimately
 
 854
 00:42:08,550 --> 00:42:12,240
 使用print函数 该函数并不像我在这里使用的那样返回值 
-using the print function, which does not return a value as I'm using it here.
 
 855
 00:42:12,240 --> 00:42:15,510
 相反 它的副作用是将一些东西打印到屏幕上 
-It instead has this side effect of printing something onto the screen.
 
 856
 00:42:15,510 --> 00:42:19,110
 所以在我的测试函数中检查是不正确的
-So it is not correct in my test function to check
 
 857
 00:42:19,110 --> 00:42:23,820
 如果Hello的返回值等于Hello David 
-if the return value of hello equals equals hello David,
 
 858
 00:42:23,820 --> 00:42:26,280
 因为再说一次 Hello不会返回任何内容 
-because again, hello is not returning anything.
 
 859
 00:42:26,280 --> 00:42:28,050
 它是在打印一些东西 那种副作用 
-It's printing something, that side effect,
 
 860
 00:42:28,050 --> 00:42:31,350
 但请注意 从字面上看 它没有Return关键字 
-but notice, literally, it has no return keyword,
 
 861
 00:42:31,350 --> 00:42:34,290
 不像我的平方函数 它做到了 
-unlike my square function, which did.
 
 862
 00:42:34,290 --> 00:42:37,440
 所以这是一个或许可以改变的机会
-So here's an opportunity to perhaps change
 
 863
 00:42:37,440 --> 00:42:41,040
 我是如何实现我的实际功能的 
-how I go about implementing my actual functions.
 
 864
 00:42:41,040 --> 00:42:44,790
 事实证明 随着您的程序变得越来越复杂 越来越
-It turns out that as your programs get more and more sophisticated, more
 
 865
 00:42:44,790 --> 00:42:47,730
 更复杂的是 最好不要
-and more complicated, it tends to be best practice not
 
 866
 00:42:47,730 --> 00:42:50,250
 如果你能避免的话会有副作用 
-to have side effects if you can avoid it,
 
 867
 00:42:50,250 --> 00:42:52,650
 尤其是如果您希望您的代码是可测试的 
-especially if you want your code to be testable.
 
 868
 00:42:52,650 --> 00:42:56,910
 事实上 我将建议我们更改我的Hello程序以使其正常工作
-And in fact, I'm going to propose that we change my hello program to now work
 
 869
 00:42:56,910 --> 00:42:57,850
 具体如下 
-as follows.
 
 870
 00:42:57,850 --> 00:43:03,180
 让我继续更改该函数 不再打印问候和姓名 
-Let me go ahead and change this function to not print hello and then that name.
 
 871
 00:43:03,180 --> 00:43:05,760
 让我继续下去 也许真的会回来
-Let me go ahead and literally return maybe
 
 872
 00:43:05,760 --> 00:43:09,210
 一个F字符串 它将使这一点变得更清楚 你好逗号
-an F string, which will clean this up a little bit, hello comma
 
 873
 00:43:09,210 --> 00:43:11,970
 在结尾用引号结束 
-to close quotes at the end.
 
 874
 00:43:11,970 --> 00:43:15,540
 所以我这里的语法就是熟悉的f字符串或格式字符串 
-So my syntax here is just the familiar f string or format string.
 
 875
 00:43:15,540 --> 00:43:19,800
 它将返回Hello、World或Hello、David或Hello 不管是谁的名字
-It's going to return hello, world or hello, David or hello, whomever's name
 
 876
 00:43:19,800 --> 00:43:23,010
 作为该参数传入 但我现在返回它 
-is passed in as that argument, but I'm returning it now.
 
 877
 00:43:23,010 --> 00:43:24,810
 我不会把它打印出来的 
-I'm not printing it out.
 
 878
 00:43:24,810 --> 00:43:27,480
 那么 这里需要改变的是什么呢？
-So what needs to change up here?
 
 879
 00:43:27,480 --> 00:43:29,560
 我可以做这样的事 
-I could do something like this.
 
 880
 00:43:29,560 --> 00:43:33,000
 我可以这样说 产出等于你好
-I could say something like output equals hello
 
 881
 00:43:33,000 --> 00:43:35,940
 然后在我的Main函数中打印输出 
-and then print output in my main function.
 
 882
 00:43:35,940 --> 00:43:38,880
 或者我可以简化它 因为我并不真的需要这个变量 
-Or I can simplify that, because I don't really need that variable.
 
 883
 00:43:38,880 --> 00:43:40,560
 我可以干脆这么做 
-I could instead just do this.
 
 884
 00:43:40,560 --> 00:43:44,700
 我仍然可以打个招呼 但我可以立即把结果打印出来 
-I could still call hello, but I could immediately print out the result.
 
 885
 00:43:44,700 --> 00:43:49,500
 现在 我的Hello程序的这个版本实际上更易于测试 
-And this version of my hello program now is actually more testable.
 
 886
 00:43:49,500 --> 00:43:50,040
 为什么？
-Why?
 
 887
 00:43:50,040 --> 00:43:52,440
 因为我们使用的这些断言语句 
-Because these assert statements that we're using,
 
 888
 00:43:52,440 --> 00:43:54,930
 到目前为止我们的测试 真的是
-and we've seen thus far for our tests, are really
 
 889
 00:43:54,930 --> 00:44:00,150
 旨在测试函数中的参数并返回值
-designed to test arguments into functions and return values
 
 890
 00:44:00,150 --> 00:44:02,450
 它们来自 不是测试副作用 
-they're from, not testing side effects.
 
 891
 00:44:02,450 --> 00:44:05,700
 所以如果你做的是等于 你在寻找一个返回值 
-So if you're doing equals equals, you're looking for a return value, something
 
 892
 00:44:05,700 --> 00:44:07,390
 这是从函数返回的 
-that's handed back from the function.
 
 893
 00:44:07,390 --> 00:44:08,340
 所以这很好 
-So that's fine.
 
 894
 00:44:08,340 --> 00:44:11,970
 如果我现在修改我的程序设计 不只是打印问候 
-If I modify the design of my program now not to just print hello,
 
 895
 00:44:11,970 --> 00:44:17,400
 但要返回我想要构建的字符串、句子和短语 
-but to return the string, the sentence, the phrase that I want to construct,
 
 896
 00:44:17,400 --> 00:44:19,290
 我可以把它留给打电话的人--
-I can leave it to the caller--
 
 897
 00:44:19,290 --> 00:44:22,170
 这就是使用Hello函数的函数--
-that is the function who's using this hello function--
 
 898
 00:44:22,170 --> 00:44:24,090
 来处理实际的打印 
-to handle the actual printing.
 
 899
 00:44:24,090 --> 00:44:25,830
 这在我的代码中意味着什么？
-Now what does this mean in my code?
 
 900
 00:44:25,830 --> 00:44:28,800
 这意味着如果我的hello.py看起来像这样 
-It means now if my hello.py looks like this,
 
 901
 00:44:28,800 --> 00:44:33,000
 在我的test_Hello函数中 Hello确实返回了一个值 
-and hello is indeed returning a value, in my test_hello function,
 
 902
 00:44:33,000 --> 00:44:35,320
 我可以完全像这样测试它 
-I can test it exactly like this.
 
 903
 00:44:35,320 --> 00:44:38,970
 因此 让我继续运行test_hello.py的pytest 
-So let me go ahead and run pytest of test_hello.py,
 
 904
 00:44:38,970 --> 00:44:42,300
 像往常一样 我的手指交叉 瞧 一个过去了 
-crossing my fingers as always, and voila, one passed.
 
 905
 00:44:42,300 --> 00:44:45,240
 所以我通过了这项测试 因为显然Hello的返回值
-So I passed this test, because apparently the return value of hello
 
 906
 00:44:45,240 --> 00:44:48,300
 确实等于“你好 大卫 ”
-does indeed equal "hello, David."
 
 907
 00:44:48,300 --> 00:44:49,920
 让我们测试另一个场景 
-Let's test the other scenario.
 
 908
 00:44:49,920 --> 00:44:53,190
 如果我在没有任何参数的情况下调用Hello会怎么样？
-What if I call hello without any arguments?
 
 909
 00:44:53,190 --> 00:44:56,730
 让我们断言 在这些括号中没有任何内容的情况下呼叫Hello
-Let's assert that calling hello with nothing in those parentheses
 
 910
 00:44:56,730 --> 00:45:00,690
 类似地 等于问候逗号 但世界 缺省值 
-similarly equals hello comma, but world, the default value.
 
 911
 00:45:00,690 --> 00:45:04,560
 现在让我继续运行test_hello.py的pytest 
-Let me now go ahead and run pytest of test_hello.py.
 
 912
 00:45:04,560 --> 00:45:07,020
 而这也完全过去了 
-And that too passes entirely.
 
 913
 00:45:07,020 --> 00:45:09,780
 但在这一点上 假设我犯了一些错误 
-But there too, suppose that I had made some mistakes.
 
 914
 00:45:09,780 --> 00:45:12,030
 假设我的代码中有一个错误 
-Suppose that there were a bug in my code.
 
 915
 00:45:12,030 --> 00:45:15,610
 在这一个函数中组合多个测试可能不是最佳实践 
-It might not be best practice to combine multiple tests in this one function,
 
 916
 00:45:15,610 --> 00:45:18,330
 因此 让我们更清楚地知道什么可能通过 什么可能失败 
-so let's make it more clear what might pass or fail.
 
 917
 00:45:18,330 --> 00:45:22,350
 让我们调用第一个函数来测试此函数的缺省值 
-Let's call the first function test the default to this function.
 
 918
 00:45:22,350 --> 00:45:24,660
 让我们只包含这第一行代码 
-And let's only include this first line of code.
 
 919
 00:45:24,660 --> 00:45:28,140
 然后让我们继续定义另一个函数 比如test_argument 
-And then let's go ahead and define another function, like test_argument,
 
 920
 00:45:28,140 --> 00:45:30,730
 来测试这里的另一行代码 
-to test this other line of code here.
 
 921
 00:45:30,730 --> 00:45:32,820
 所以现在我有两种不同的测试 每一种
-So now I have two different tests, each of which
 
 922
 00:45:32,820 --> 00:45:35,620
 正在测试一些从根本上不同的东西 
-is testing something a little fundamentally different.
 
 923
 00:45:35,620 --> 00:45:38,430
 所以现在当我运行我的代码时 它仍然没有损坏 
-So now when I run my code, it's still not broken.
 
 924
 00:45:38,430 --> 00:45:43,740
 如果我运行test_hello.py的pytest 输入 我现在已经通过了两个测试 
-If I run pytest of test_hello.py, Enter, I've now passed two tests.
 
 925
 00:45:43,740 --> 00:45:45,800
 这和以前一样好 
-And that's just as good as before.
 
 926
 00:45:45,800 --> 00:45:49,220
 但如果我真的有缺陷 有两次测试而不是一次
-But if I did have a bug, having two tests instead of one
 
 927
 00:45:49,220 --> 00:45:54,000
 或许会给我更多一点关于哪里出了问题的提示 
-would indeed give me, perhaps, a bit more of a hint as to what's wrong.
 
 928
 00:45:54,000 --> 00:45:57,570
 现在关于返回值测试的问题 
-Questions now on this testing of return values,
 
 929
 00:45:57,570 --> 00:46:00,720
 当这些返回值现在是字符串而不是整数时
-when these return values are now strings instead of integers
 
 930
 00:46:00,720 --> 00:46:02,310
 我们为什么要这么做？
-and why we've done this?
 
 931
 00:46:02,310 --> 00:46:07,050
 演讲者11：所以我的问题是关于函数内部的函数 
-SPEAKER 11: So my question is about function inside the function.
 
 932
 00:46:07,050 --> 00:46:14,020
 我们能不能也测试一下 或者我们还没见过的递归呢？
-Can we test that too or recursion we haven't seen?
 
 933
 00:46:14,020 --> 00:46:17,200
 David Malan：如果你有一个递归函数 我们还没有
-DAVID MALAN: If you have a recursive function, which we've not
 
 934
 00:46:17,200 --> 00:46:19,330
 在这节课上讨论过的 是的 你绝对可以
-discussed in this class, yes, you can absolutely
 
 935
 00:46:19,330 --> 00:46:23,530
 也可以通过简单地以这种方式调用它们来测试它们 
-test those too by simply calling them exactly in this way.
 
 936
 00:46:23,530 --> 00:46:25,603
 递归不会影响此过程 
-Recursion does not affect this process.
 
 937
 00:46:25,603 --> 00:46:27,520
 下面是关于单元测试的另一个问题
-How about one more question here on unit tests
 
 938
 00:46:27,520 --> 00:46:29,890
 在我们看最后一个例子之前？
-before we look at one final example?
 
 939
 00:46:29,890 --> 00:46:34,780
 演讲者12：在检验我们的论点时 我们可以
-SPEAKER 12: When testing our arguments, can we
 
 940
 00:46:34,780 --> 00:46:41,220
 使用循环之类的东西 还是在资产内部使用 或者用于价值？
-use something like loops or inside of assets or for the values?
 
 941
 00:46:41,220 --> 00:46:42,220
 大卫·马兰：当然 
-DAVID MALAN: Absolutely.
 
 942
 00:46:42,220 --> 00:46:45,100
 您绝对可以使用循环来测试多个值 
-You can absolutely use a loop to test multiple values.
 
 943
 00:46:45,100 --> 00:46:48,200
 例如 在这种情况下 我可以做这样的事情 
-In this case, for instance, I could do something like this.
 
 944
 00:46:48,200 --> 00:46:57,730
 我可以在下面赫敏的名单上说出名字 比如说 哈利和罗恩 
-I could say for name in the following list of Hermione, say, Harry, and Ron,
 
 945
 00:46:57,730 --> 00:47:02,830
 然后 我可以在这个循环中断言给定名称的Hello等于
-I could then within this loop assert that hello of that given name equals
 
 946
 00:47:02,830 --> 00:47:08,680
 等于 比方说 Hello、逗号名称、
-equals, say, the format string of hello, comma name,
 
 947
 00:47:08,680 --> 00:47:13,390
 然后在这里一次运行所有这些 再次运行 
-and then run all of these here at once by running, again,
 
 948
 00:47:13,390 --> 00:47:15,160
 Test_hello.py的pytest 
-pytest of test_hello.py.
 
 949
 00:47:15,160 --> 00:47:17,865
 这仍然只是该功能中的一项测试 
-It's still going to be just one test within that function,
 
 950
 00:47:17,865 --> 00:47:20,740
 但如果这几根弦有什么有趣的地方 
-but if there's something interesting about those several strings that
 
 951
 00:47:20,740 --> 00:47:23,440
 使得测试所有这些功能变得很有说服力 您完全可以
-makes it compelling to test all of them, you can absolutely
 
 952
 00:47:23,440 --> 00:47:24,860
 以这种方式自动执行测试 
-automate the test in that way.
 
 953
 00:47:24,860 --> 00:47:27,520
 也就是说 理想情况下 您的每一项测试都应该
-With that said, each of your tests should ideally
 
 954
 00:47:27,520 --> 00:47:30,040
 要非常简单 也要非常小 
-be pretty simple and pretty small.
 
 955
 00:47:30,040 --> 00:47:30,580
 为什么？
-Why?
 
 956
 00:47:30,580 --> 00:47:32,630
 因为你不想写太多代码 
-Because you don't want to write so much code,
 
 957
 00:47:32,630 --> 00:47:35,860
 如此复杂的代码 以至于您的测试可能存在缺陷 
-so much complicated code that your tests might be flawed.
 
 958
 00:47:35,860 --> 00:47:38,890
 我们不想做的是为我们的测试和测试编写测试
-What we don't want to have to do is write tests for our tests and test
 
 959
 00:47:38,890 --> 00:47:41,240
 为了我们的测试 因为它永远不会结束 
-for our tests for our test, because it would never end.
 
 960
 00:47:41,240 --> 00:47:44,023
 因此 让测试保持良好和简单才是真正的目标 
-So keeping tests nice and simple is really the goal,
 
 961
 00:47:44,023 --> 00:47:45,940
 所以一个有理智的人 包括你自己 
-so that a reasonable human, yourself included,
 
 962
 00:47:45,940 --> 00:47:49,630
 可以盯着他们看 然后声称 是的 这是正确的 
-can eyeball them and just claim, yeah, that is correct.
 
 963
 00:47:49,630 --> 00:47:51,973
 我们的测试不需要测试 
-We don't need tests for our tests.
 
 964
 00:47:51,973 --> 00:47:53,140
 还有一项功能呢？
-How about one other feature?
 
 965
 00:47:53,140 --> 00:47:56,560
 假设我们不只有一项测试 而是有许多不同的测试 
-Suppose that we don't have just one test, but many different tests instead,
 
 966
 00:47:56,560 --> 00:47:59,920
 我们希望开始将这些测试组织到多个文件中 甚至
-and we want to start to organize those tests into multiple files and even
 
 967
 00:47:59,920 --> 00:48:00,580
 一个文件夹 
-a folder.
 
 968
 00:48:00,580 --> 00:48:03,740
 Pytest和其他框架也支持这一范例 
-Pytest and other frameworks support that paradigm as well.
 
 969
 00:48:03,740 --> 00:48:08,127
 事实上 让我继续使用测试文件夹测试hello.py 
-In fact, let me go ahead and test hello.py using a folder of tests,
 
 970
 00:48:08,127 --> 00:48:09,960
 从技术上讲只有一次测试 但它会
-with technically just one test, but it would
 
 971
 00:48:09,960 --> 00:48:12,520
 代表那个文件夹里有更多的东西 
-be representative of having even more in that folder.
 
 972
 00:48:12,520 --> 00:48:15,700
 接下来 我将创建一个名为test的新文件夹
-I'm going to go ahead and create a new folder called test
 
 973
 00:48:15,700 --> 00:48:18,040
 在我的命令行中使用mkdir 
-using mkdir at my command line.
 
 974
 00:48:20,315 --> 00:48:23,440
 然后在该文件夹中 我将继续创建一个名为
-And then within that folder, I'm going to go ahead and create a file called
 
 975
 00:48:23,440 --> 00:48:25,510
 Test_hello.py 
-test_hello.py.
 
 976
 00:48:25,510 --> 00:48:28,490
 同时 在这个文件中 我将测试相同的东西 
-Within this file, meanwhile, I'm going to test the same thing.
 
 977
 00:48:28,490 --> 00:48:31,970
 所以我将继续 从Hello开始 导入Hello 
-So I'm going to go ahead, and from hello, import hello.
 
 978
 00:48:31,970 --> 00:48:36,260
 接下来 我将定义一个类似于测试默认设置的函数
-And I'm going to go ahead and define a function like test default that
 
 979
 00:48:36,260 --> 00:48:39,710
 简单地测试不带参数的Hello的场景
-simply tests the scenario where hello with no arguments
 
 980
 00:48:39,710 --> 00:48:41,600
 返回您好 逗号世界 
-returns hello, comma world.
 
 981
 00:48:41,600 --> 00:48:43,610
 我将拥有另一个功能 即
-And I'm going to have that other function where
 
 982
 00:48:43,610 --> 00:48:45,802
 我测试是否传递了一个参数 
-I test that an argument is passed.
 
 983
 00:48:45,802 --> 00:48:47,510
 在这种情况下 我会选择一个论点
-And in this case, I'll choose an argument
 
 984
 00:48:47,510 --> 00:48:50,360
 比如断言 你好 引用 引用 大卫 
-like asserting that hello, quote, unquote, David,
 
 985
 00:48:50,360 --> 00:48:54,740
 等于 确实 你好 逗号 不是世界 而是大卫 
-equals, indeed, hello, comma, not world, but David.
 
 986
 00:48:54,740 --> 00:48:57,440
 因此 在这个例子中 我刚刚重新创建了与前面相同的测试 
-So in this case, I've just recreated the same test as earlier,
 
 987
 00:48:57,440 --> 00:49:01,220
 但它们现在位于一个名为TEST的文件夹中 
-but they're in a file now in a folder called test.
 
 988
 00:49:01,220 --> 00:49:03,260
 PYTEST也允许我在这里运行这些程序 
-Pytest allows me to run these here too.
 
 989
 00:49:03,260 --> 00:49:06,500
 但要做到这一点 我实际上需要创建另一个文件 
-But to do so, I actually need to create one other file.
 
 990
 00:49:06,500 --> 00:49:14,780
 在我的测试目录中 我需要创建一个名为__init__.py的文件 
-Within my test directory, I need to create a file called __init__.py,
 
 991
 00:49:14,780 --> 00:49:18,200
 它的效果是 即使这个文件是空的 
-which has the effect, even if this file is empty,
 
 992
 00:49:18,200 --> 00:49:24,230
 告诉Python不仅要将该文件夹视为一个模块 还要将其视为一个包 
-of telling Python to treat that folder as not just a module, but a package,
 
 993
 00:49:24,230 --> 00:49:25,190
 可以这么说 
-so to speak.
 
 994
 00:49:25,190 --> 00:49:28,340
 包是一个或多个Python模块
-A package is a Python module or multiple modules
 
 995
 00:49:28,340 --> 00:49:30,560
 它们被组织在一个文件夹内 
-that are organized inside of a folder.
 
 996
 00:49:30,560 --> 00:49:36,860
 而这个名为__init__.py的文件只是一个可视指示器 用于指示Python确实
-And this file, __init__.py, is just a visual indicator to Python that indeed
 
 997
 00:49:36,860 --> 00:49:39,170
 它应该将该文件夹视为一个包 
-it should treat that folder as a package.
 
 998
 00:49:39,170 --> 00:49:41,960
 如果这个文件夹中有更多的代码 我可以做更多的事情
-If I had more code in this folder, I could do even more things
 
 999
 00:49:41,960 --> 00:49:42,683
 用这份文件 
-with this file.
 
 1000
 00:49:42,683 --> 00:49:44,600
 但就目前而言 这只是一个线索 表明它确实是
-But for now, it's just a clue that it's indeed
 
 1001
 00:49:44,600 --> 00:49:48,530
 意味着是一个包 而不仅仅是一个模块或文件 
-meant to be a package and not just a module or file alone.
 
 1002
 00:49:48,530 --> 00:49:53,360
 最后 我可以做的是运行pytest 而不是在该特定文件上运行 
-What I can now do in closing is run pytest, not even on that specific file,
 
 1003
 00:49:53,360 --> 00:49:55,460
 而是一大堆测试 
-but on a whole folder of tests.
 
 1004
 00:49:55,460 --> 00:50:00,920
 因此 如果我运行pytest of test 其中test是该文件夹的名称 
-So if I run pytest of test, where the test is the name of that folder,
 
 1005
 00:50:00,920 --> 00:50:03,530
 PYTEST将自动搜索该文件夹 查找
-pytest will automatically search through that folder looking
 
 1006
 00:50:03,530 --> 00:50:07,650
 对于所有可能的测试 假设只有这两个人在这个文件中 
-for all possible tests, granted there's just those two in this one file,
 
 1007
 00:50:07,650 --> 00:50:11,480
 但是 当我现在用Enter键运行它时 我仍然可以通过这些测试 
-but when I run it now with Enter, I'll still pass those tests.
 
 1008
 00:50:11,480 --> 00:50:12,960
 我还是会拿到100%的 
-I'll still get 100%.
 
 1009
 00:50:12,960 --> 00:50:16,280
 最终 我现在有了一种机制来测试我自己的代码 
-And I now have a mechanism, ultimately, for testing my own code.
 
 1010
 00:50:16,280 --> 00:50:19,580
 因此 无论您是在编写返回整数的函数还是其他函数 
-So whether you're writing functions that return integers or something else,
 
 1011
 00:50:19,580 --> 00:50:22,490
 具有可重写为函数的副作用的函数
-functions that have side effects that could be rewritten as functions
 
 1012
 00:50:22,490 --> 00:50:24,350
 返回值 您现在就有了一种机制
-that return values, you now have a mechanism
 
 1013
 00:50:24,350 --> 00:50:27,740
 不仅仅是等待 一个 像我们这样的人来测试你的代码
-to not just wait for, one, someone like us to test your code
 
 1014
 00:50:27,740 --> 00:50:30,380
 而不仅仅是一次又一次地手动测试代码 这
-and not just test your code manually again and again, which
 
 1015
 00:50:30,380 --> 00:50:32,360
 可能会变得单调乏味 你可能会犯错误
-might get tedious, and you might make mistakes
 
 1016
 00:50:32,360 --> 00:50:34,670
 通过不包括一些可能的输入 我们现在
-by not including some possible inputs, we now
 
 1017
 00:50:34,670 --> 00:50:37,970
 有一种自动机制来测试自己的代码 这是
-have an automated mechanism for testing one's own code that's
 
 1018
 00:50:37,970 --> 00:50:41,100
 当你开始与他人合作时 你会变得更加强大
-going to be even more powerful when you start collaborating with others
 
 1019
 00:50:41,100 --> 00:50:44,030
 这样您就可以编写测试 以确保如果它们
-so that you can write tests that ensure that if they
 
 1020
 00:50:44,030 --> 00:50:47,870
 更改相同的代码 他们还没有破解您已经破译的代码
-make a change to the same code, they haven't broken the code that you've
 
 1021
 00:50:47,870 --> 00:50:48,990
 写的 
-written.
 
 1022
 00:50:48,990 --> 00:50:50,040
 本周就到这里吧 
-That's it for this week.
 
 1023
 00:50:50,040 --> 00:50:52,240
 我们下次再见 
-We'll see you next time.
 

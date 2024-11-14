@@ -1,415 +1,332 @@
 1
 00:00:24,000 --> 00:00:25,083
 大卫·马兰：大家好 世界 
-DAVID MALAN: Hello, world.
 
 2
 00:00:25,083 --> 00:00:28,410
 我是大卫·马兰 这是CS50的S介绍
-My name is David Malan, and this is CS50's Introduction
 
 3
 00:00:28,410 --> 00:00:29,880
 到使用Python语言编程 
-to Programming with Python.
 
 4
 00:00:29,880 --> 00:00:33,720
 而CS50本身就是对知识型企业的介绍
-Whereas CS50 itself is an introduction to the intellectual enterprises
 
 5
 00:00:33,720 --> 00:00:35,880
 计算机科学和编程艺术 
-of computer science and the art of programming,
 
 6
 00:00:35,880 --> 00:00:40,210
 本课程特别侧重于使用Python本身进行编程 
-this course is specifically focused on programming in Python itself.
 
 7
 00:00:40,210 --> 00:00:42,210
 在课程开始时 我们将专注于
-At the beginning of the course, we'll be focused
 
 8
 00:00:42,210 --> 00:00:45,570
 关于编程中的一个主题 称为函数和变量、机制
-on a topic in programming known as functions and variables, mechanisms
 
 9
 00:00:45,570 --> 00:00:48,150
 通过它 您可以编写解决较小问题的代码 
-via which you can write code that solves smaller problems,
 
 10
 00:00:48,150 --> 00:00:51,000
 但您可以将这些较小的解决方案组合成解决方案
-but you can compose those smaller solutions into solutions
 
 11
 00:00:51,000 --> 00:00:52,530
 更大的问题 
-to larger problems still.
 
 12
 00:00:52,530 --> 00:00:54,630
 然后我们将过渡到条件句 
-We'll then transition to a look at conditionals,
 
 13
 00:00:54,630 --> 00:00:59,070
 一种用代码逻辑表达自己的方式 可能会做一些事情
-a way in code of expressing yourself logically, to maybe do something
 
 14
 00:00:59,070 --> 00:01:02,340
 如果某个问题的答案是真的 或者不是
-if some question has an answer of true, or not
 
 15
 00:01:02,340 --> 00:01:04,260
 如果答案是假的 就做点什么 
-do something if the answer is false.
 
 16
 00:01:04,260 --> 00:01:06,240
 之后我们会过渡到介绍你
-We'll transition thereafter to introducing you
 
 17
 00:01:06,240 --> 00:01:09,900
 循环 在代码中 一次又一次地做某事的能力 
-to loops, the ability, in code, to do something again, and again,
 
 18
 00:01:09,900 --> 00:01:11,820
 一次又一次 
-and again some number of times.
 
 19
 00:01:11,820 --> 00:01:14,280
 然后我们将过渡到更具技术性的东西 
-We'll then transition to something a little more technical,
 
 20
 00:01:14,280 --> 00:01:15,390
 被称为例外情况 
-known as exceptions.
 
 21
 00:01:15,390 --> 00:01:18,353
 不幸的是 在编写代码时可能会出现很多错误 其中一些
-Unfortunately, a lot can go wrong when you're writing code, some of it
 
 22
 00:01:18,353 --> 00:01:20,520
 你的错 其中一些可能是别人的错 
-your fault, some of it perhaps someone else's fault.
 
 23
 00:01:20,520 --> 00:01:23,790
 但可以说 您可以编写防御性代码 并且实际上
-But you can write code defensively, so to speak, and actually
 
 24
 00:01:23,790 --> 00:01:26,100
 捕捉那些类型的异常 那些错误 
-catch those kinds of exceptions, those errors,
 
 25
 00:01:26,100 --> 00:01:29,310
 并正确处理它们 以便您为其编写代码的用户
-and handle them properly so that the users you're writing code for
 
 26
 00:01:29,310 --> 00:01:30,990
 实际上 我看不到同样的东西 
-don't actually see the same.
 
 27
 00:01:30,990 --> 00:01:34,380
 此后 我们将看看库、第三方代码、
-Thereafter, we'll take a look at libraries, third-party code,
 
 28
 00:01:34,380 --> 00:01:37,470
 通常是别人写的 也可能是你自己写的 
-written by other people, often, or perhaps yourself in the past,
 
 29
 00:01:37,470 --> 00:01:40,040
 可以在您自己的项目中使用和重复使用的
-that you can use and reuse in your own projects
 
 30
 00:01:40,040 --> 00:01:42,960
 以避免一次又一次地重复发明轮子 
-so as to avoid reinventing the wheel again and again.
 
 31
 00:01:42,960 --> 00:01:45,690
 之后 我们将介绍一种称为单元测试的东西 
-We'll look thereafter at something called unit tests.
 
 32
 00:01:45,690 --> 00:01:49,530
 事实证明 您实际上将编写代码来测试您自己的代码 
-It turns out, you'll actually write code to test your own code.
 
 33
 00:01:49,530 --> 00:01:51,780
 但是您不必为您的测试编写测试 
-But you won't have to write tests for your tests.
 
 34
 00:01:51,780 --> 00:01:55,240
 事实上 这是业界的最佳实践 为代码编写测试
-Indeed, this is a best practice in industry, writing tests for your code
 
 35
 00:01:55,240 --> 00:01:58,200
 因此 您可以肯定您今天的代码是 希望是 
-so that one, you can be sure that your code today is, hopefully,
 
 36
 00:01:58,200 --> 00:02:00,490
 如果您的测试是正确的 请自行更正 
-if your tests are correct, correct itself.
 
 37
 00:02:00,490 --> 00:02:04,320
 而且 如果您或其他人明天或以后修改您的代码
-But moreover, if you or someone else modifies your code tomorrow, or down
 
 38
 00:02:04,320 --> 00:02:07,380
 您可以重新运行相同的测试以确保
-the line, you can rerun those same tests to ensure
 
 39
 00:02:07,380 --> 00:02:10,850
 这些新的更改没有破坏您自己的代码的任何内容 
-that those new changes have not broken anything about your own code.
 
 40
 00:02:10,850 --> 00:02:12,600
 然后我们将看一看一种叫做
-We'll then take a look at something called
 
 41
 00:02:12,600 --> 00:02:15,780
 文件I/O、用于输入和输出的I/O、能力
-File I/O, I/O for input and output, the ability
 
 42
 00:02:15,780 --> 00:02:19,200
 不仅要将信息存储在计算机的内存中 
-to not just store information inside of a computer's memory,
 
 43
 00:02:19,200 --> 00:02:23,567
 而是持久地将其保存到磁盘 可以说 保存到文件和文件夹 
-but rather save it persistently to disk, so to speak, to files and folders.
 
 44
 00:02:23,567 --> 00:02:25,650
 然后我们来看一下另一种技术 即
-We'll then take a look at another technique, known
 
 45
 00:02:25,650 --> 00:02:29,760
 作为正则表达式 因此 在Python中 您可以定义模式
-as regular expressions, whereby, in Python, you can define patterns
 
 46
 00:02:29,760 --> 00:02:33,240
 你可以验证数据 以确保人类在你输入的时候输入一些东西
-and you can validate data to make sure the human typed something in as you
 
 47
 00:02:33,240 --> 00:02:33,910
 期待吧 
-expect.
 
 48
 00:02:33,910 --> 00:02:36,360
 或许 您可以使用正则表达式来提取数据
-You can use regular expressions to extract data, perhaps
 
 49
 00:02:36,360 --> 00:02:38,760
 从你想要分析的某个数据集 
-from some data set you're trying to analyze.
 
 50
 00:02:38,760 --> 00:02:42,660
 然后 我们将最终了解面向对象编程 
-We'll then take a look, ultimately, at object-oriented programming,
 
 51
 00:02:42,660 --> 00:02:46,530
 一种范例 一种编写代码的方式 由此你可以用代码来表示 
-a paradigm, a way of writing code, whereby you can represent, in code,
 
 52
 00:02:46,530 --> 00:02:47,777
 真实世界的实体 
-real-world entities.
 
 53
 00:02:47,777 --> 00:02:50,610
 这是对其他编程范例的补充 我们将
-And this is in addition to other paradigms of programming that we'll
 
 54
 00:02:50,610 --> 00:02:53,220
 还探索了其中的过程性编程 
-also explore, among them procedural programming,
 
 55
 00:02:53,220 --> 00:02:55,440
 在那里你可以编写很多这样的函数、过程
-where you write lots of those functions, procedures
 
 56
 00:02:55,440 --> 00:02:58,110
 真的 从上到下 一步一步地解决问题 
-really, top to bottom, to solve problems step by step,
 
 57
 00:02:58,110 --> 00:03:01,053
 甚至还有一些被称为函数式编程的东西 
-and even something known as functional programming, as well.
 
 58
 00:03:01,053 --> 00:03:02,970
 然后在课程的最后 我们将
-And then at the very end of the course will we
 
 59
 00:03:02,970 --> 00:03:06,270
 为你的工具箱配备更多的工具 
-equip you with all the more tools for your toolkit.
 
 60
 00:03:06,270 --> 00:03:09,180
 和更多的构建块 更多的词汇
-and additional building blocks, additional vocabulary
 
 61
 00:03:09,180 --> 00:03:12,300
 通过它 在同样的课程结束后 你可以自己走
-via which, after this same course, you can go off on your own
 
 62
 00:03:12,300 --> 00:03:15,150
 或者参加其他课程 或者自己解决项目 
-and either take other courses or solve projects of your own,
 
 63
 00:03:15,150 --> 00:03:17,250
 使用所有这些机制 
-using all of these mechanisms.
 
 64
 00:03:17,250 --> 00:03:20,860
 现在 本课程本身假定没有以前的编程背景 
-Now this course itself assumes no prior programming background.
 
 65
 00:03:20,860 --> 00:03:23,610
 因此 您不需要用Python编写一行代码 
-So you don't have to have written a single line of code in Python,
 
 66
 00:03:23,610 --> 00:03:25,150
 或任何语言 目前还没有 
-or any language, yet.
 
 67
 00:03:25,150 --> 00:03:29,730
 但这也是一门您可以在CS50之前、期间甚至之后学习的课程
-But this is also a course that you can take before, during, or even after CS50
 
 68
 00:03:29,730 --> 00:03:33,000
 如果你想更精通Python 那就可以了 
-itself, if you'd like to get all the more versed with Python.
 
 69
 00:03:33,000 --> 00:03:35,700
 每周 通过课程讲座 
-Each week, via the courses lectures, will we introduce you
 
 70
 00:03:35,700 --> 00:03:37,830
 我们将
-to any number of concepts that we'll then
 
 71
 00:03:37,830 --> 00:03:41,070
 每周以习题集的形式进行更深入的探究 
-drill down more deeply into in the form of problem sets each week.
 
 72
 00:03:41,070 --> 00:03:43,470
 也就是说 编程项目 
-That is, programming projects that will enable
 
 73
 00:03:43,470 --> 00:03:47,460
 你应该把学到的一些东西应用到你自己的问题上 
-you to apply some of those lessons learned to problems of your very own.
 
 74
 00:03:47,460 --> 00:03:49,650
 在课程结束的时候 你会有
-And by the end of the course, you'll have
 
 75
 00:03:49,650 --> 00:03:53,190
 解决了很多问题 理想情况下 
-solved so many problems that, ideally, are representative
 
 76
 00:03:53,190 --> 00:03:55,930
 你最终会在现实世界中遇到的问题 
-of problems you'll eventually encounter in the real world,
 
 77
 00:03:55,930 --> 00:03:58,680
 无论你是否渴望在技术世界中解决代码问题
-whether you aspire to solve code in the technical world
 
 78
 00:03:58,680 --> 00:04:01,440
 或者艺术 人文 社会科学 
-or perhaps in the arts, the humanities, the social sciences,
 
 79
 00:04:01,440 --> 00:04:03,210
 自然科学 或超越 
-the natural sciences, or beyond.
 
 80
 00:04:03,210 --> 00:04:06,570
 你最终会拥有词汇量和技术技能
-You'll have, ultimately, the vocabulary and the technical skills
 
 81
 00:04:06,570 --> 00:04:08,580
 通过它来接近同样的东西 
-via which to approach the same.
 
 82
 00:04:08,580 --> 00:04:10,500
 这就是CS50 
-This, then, is CS50.
 
 83
 00:04:10,500 --> 00:04:15,470
 这是CS50的Introduction to Programming with Python 
-And this is CS50's Introduction to Programming with Python.
 
