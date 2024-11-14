@@ -1,0 +1,524 @@
+1
+00:00:02,810 --> 00:00:04,920
+welcome back to another audacity
+
+2
+00:00:04,920 --> 00:00:06,630
+tutorial in this video I just want to go
+
+3
+00:00:06,630 --> 00:00:07,890
+over a couple more effects that's gonna
+
+4
+00:00:07,890 --> 00:00:11,070
+help our audio to sound better and also
+
+5
+00:00:11,070 --> 00:00:13,799
+to work with silence and noise so I
+
+6
+00:00:13,799 --> 00:00:15,900
+recorded here some audio and we see just
+
+7
+00:00:15,900 --> 00:00:17,939
+by looking at it it's about 32 seconds
+
+8
+00:00:17,939 --> 00:00:20,310
+long and it has a bunch of empty space
+
+9
+00:00:20,310 --> 00:00:23,490
+empty silence in the beginning if we
+
+10
+00:00:23,490 --> 00:00:26,099
+just hit play it's empty over here
+
+11
+00:00:26,099 --> 00:00:29,599
+I'm just like is this thing on
+
+12
+00:00:29,599 --> 00:00:31,710
+I'm just kind of like testing and has
+
+13
+00:00:31,710 --> 00:00:34,890
+some silence in here okay we're starting
+
+14
+00:00:34,890 --> 00:00:37,950
+okay we're starting now okay got it so
+
+15
+00:00:37,950 --> 00:00:39,990
+what I can do actually if you ever have
+
+16
+00:00:39,990 --> 00:00:41,460
+an audio file like this and sometimes
+
+17
+00:00:41,460 --> 00:00:43,710
+it'll be like an hour long there's
+
+18
+00:00:43,710 --> 00:00:46,620
+actually a nice effect or a nice tool in
+
+19
+00:00:46,620 --> 00:00:49,680
+audacity to remove all this silence what
+
+20
+00:00:49,680 --> 00:00:51,210
+we do we just double click anywhere to
+
+21
+00:00:51,210 --> 00:00:53,760
+select everything or press ctrl-a or go
+
+22
+00:00:53,760 --> 00:00:56,190
+to edit we're going to select all once
+
+23
+00:00:56,190 --> 00:00:58,110
+everything is all selected go to effects
+
+24
+00:00:58,110 --> 00:01:01,700
+and then we go to truncate silence and
+
+25
+00:01:01,700 --> 00:01:03,750
+this brings up we have some different
+
+26
+00:01:03,750 --> 00:01:06,060
+options but I just leave it leave it the
+
+27
+00:01:06,060 --> 00:01:07,920
+same unless you need to adjust it to try
+
+28
+00:01:07,920 --> 00:01:11,760
+and then we just go to okay and look it
+
+29
+00:01:11,760 --> 00:01:13,860
+actually cuts out all that silence so
+
+30
+00:01:13,860 --> 00:01:15,750
+instead of being 30 seconds long now
+
+31
+00:01:15,750 --> 00:01:17,940
+it's only 11 seconds long so it
+
+32
+00:01:17,940 --> 00:01:19,620
+automatically detected any where there
+
+33
+00:01:19,620 --> 00:01:22,470
+was a big gap of silence and then cut it
+
+34
+00:01:22,470 --> 00:01:24,600
+out cut most of it out it left some gaps
+
+35
+00:01:24,600 --> 00:01:27,780
+of silence in here otherwise our audio
+
+36
+00:01:27,780 --> 00:01:29,430
+would just like run right in together to
+
+37
+00:01:29,430 --> 00:01:29,940
+each other
+
+38
+00:01:29,940 --> 00:01:31,590
+but now we can play and see what this
+
+39
+00:01:31,590 --> 00:01:33,780
+sounds like are we on is this thing
+
+40
+00:01:33,780 --> 00:01:35,370
+recording is this thing on
+
+41
+00:01:35,370 --> 00:01:37,170
+okay we're starting okay we're starting
+
+42
+00:01:37,170 --> 00:01:40,440
+now okay so I said the same thing over
+
+43
+00:01:40,440 --> 00:01:41,940
+and over again but it's didn't sound
+
+44
+00:01:41,940 --> 00:01:43,950
+quite so strange when I had a bunch of
+
+45
+00:01:43,950 --> 00:01:46,799
+gaps in between alright but now what we
+
+46
+00:01:46,799 --> 00:01:48,720
+can do we can take this audio and so
+
+47
+00:01:48,720 --> 00:01:49,979
+this part this first part actually I
+
+48
+00:01:49,979 --> 00:01:54,240
+didn't even play for you yet so maybe I
+
+49
+00:01:54,240 --> 00:01:57,540
+want to apply like a nice effect to just
+
+50
+00:01:57,540 --> 00:02:00,299
+this a nice echo effect so we go to
+
+51
+00:02:00,299 --> 00:02:02,700
+effect so we go down to echo and we can
+
+52
+00:02:02,700 --> 00:02:06,680
+actually say we can say delay this 0.1
+
+53
+00:02:06,680 --> 00:02:10,249
+seconds we can preview
+
+54
+00:02:10,590 --> 00:02:13,860
+so we can do that I'll just say okay so
+
+55
+00:02:13,860 --> 00:02:15,030
+that gives us sort of like this an
+
+56
+00:02:15,030 --> 00:02:17,130
+interesting effect we did this a little
+
+57
+00:02:17,130 --> 00:02:18,720
+bit earlier to under effects we can also
+
+58
+00:02:18,720 --> 00:02:20,450
+go to reverb
+
+59
+00:02:20,450 --> 00:02:22,860
+this will make it sound like I'm in like
+
+60
+00:02:22,860 --> 00:02:28,290
+a big a big room we'll just leave all
+
+61
+00:02:28,290 --> 00:02:29,400
+that the rest the same but just know you
+
+62
+00:02:29,400 --> 00:02:31,680
+can play with this quite a bit and so
+
+63
+00:02:31,680 --> 00:02:33,110
+[Music]
+
+64
+00:02:33,110 --> 00:02:35,160
+another thing I should show you here
+
+65
+00:02:35,160 --> 00:02:38,610
+what was it oh yeah okay of course so
+
+66
+00:02:38,610 --> 00:02:40,320
+this makes it sound like I'm in like a
+
+67
+00:02:40,320 --> 00:02:45,510
+big hall kind of if I want to change
+
+68
+00:02:45,510 --> 00:02:48,000
+some of this here to sound like I can
+
+69
+00:02:48,000 --> 00:02:49,410
+select all this part here and let's go
+
+70
+00:02:49,410 --> 00:02:52,920
+to effects we can go to equalization and
+
+71
+00:02:52,920 --> 00:02:54,360
+there's a bunch of different profiles
+
+72
+00:02:54,360 --> 00:02:56,010
+here so if you're not familiar with this
+
+73
+00:02:56,010 --> 00:02:57,840
+it's kind of outside the scope of this
+
+74
+00:02:57,840 --> 00:02:59,130
+video and actually I don't do a whole
+
+75
+00:02:59,130 --> 00:03:01,590
+lot with this but I know like there's
+
+76
+00:03:01,590 --> 00:03:03,590
+different frequencies of the audio and
+
+77
+00:03:03,590 --> 00:03:05,970
+we can change different portions of it
+
+78
+00:03:05,970 --> 00:03:07,740
+so a lot of times you'll see like this
+
+79
+00:03:07,740 --> 00:03:09,270
+will be like a lot of our base over here
+
+80
+00:03:09,270 --> 00:03:10,830
+and this will be like a lot of our
+
+81
+00:03:10,830 --> 00:03:13,830
+treble so we can change this to affect
+
+82
+00:03:13,830 --> 00:03:16,140
+the way that musics going to sound but
+
+83
+00:03:16,140 --> 00:03:18,470
+there's also some pre-selected curves
+
+84
+00:03:18,470 --> 00:03:20,970
+for like AM radio this kind of gives
+
+85
+00:03:20,970 --> 00:03:22,890
+that effect of an AM radio which is like
+
+86
+00:03:22,890 --> 00:03:25,050
+not much bass at all not much trouble at
+
+87
+00:03:25,050 --> 00:03:28,040
+all and it sounds more like this
+
+88
+00:03:28,040 --> 00:03:31,680
+recording which you might not not notice
+
+89
+00:03:31,680 --> 00:03:32,940
+a big difference there this is like
+
+90
+00:03:32,940 --> 00:03:34,830
+walkie talkie which is even more extreme
+
+91
+00:03:34,830 --> 00:03:36,720
+so you know that effect of talking into
+
+92
+00:03:36,720 --> 00:03:38,970
+a walkie talkie just sounds like very
+
+93
+00:03:38,970 --> 00:03:45,990
+kind of like hollow and like shallow sea
+
+94
+00:03:45,990 --> 00:03:48,060
+and we can even get more we can if we
+
+95
+00:03:48,060 --> 00:03:50,490
+affect this a little bit we can even get
+
+96
+00:03:50,490 --> 00:03:52,140
+more of that effect by just going like
+
+97
+00:03:52,140 --> 00:03:58,050
+that C sounds like GI Joe kind of
+
+98
+00:03:58,050 --> 00:04:04,680
+talking into the radio anyway and so we
+
+99
+00:04:04,680 --> 00:04:06,030
+can we can go okay we can actually
+
+100
+00:04:06,030 --> 00:04:08,489
+change that wave to to be that effect so
+
+101
+00:04:08,489 --> 00:04:10,709
+just know under here Equalization you
+
+102
+00:04:10,709 --> 00:04:11,880
+can change a lot you can have some
+
+103
+00:04:11,880 --> 00:04:15,180
+different presets bass boost will just
+
+104
+00:04:15,180 --> 00:04:17,339
+sigh boost the bass of course we got
+
+105
+00:04:17,339 --> 00:04:19,829
+treble boost boost is the treble and so
+
+106
+00:04:19,829 --> 00:04:21,690
+some different things we can do here
+
+107
+00:04:21,690 --> 00:04:23,790
+and then also we've got effects
+
+108
+00:04:23,790 --> 00:04:26,520
+normalize will kind of just normalize
+
+109
+00:04:26,520 --> 00:04:27,930
+our audio and there's some different
+
+110
+00:04:27,930 --> 00:04:29,340
+sayings we can leave it we can preview
+
+111
+00:04:29,340 --> 00:04:32,790
+and see what it sounds like so it
+
+112
+00:04:32,790 --> 00:04:34,260
+actually makes our audio sound a lot
+
+113
+00:04:34,260 --> 00:04:36,120
+better it takes our wave and just kind
+
+114
+00:04:36,120 --> 00:04:37,890
+of averages and it's called
+
+115
+00:04:37,890 --> 00:04:40,140
+normalization but even though with that
+
+116
+00:04:40,140 --> 00:04:42,000
+walkie-talkie it makes our just our
+
+117
+00:04:42,000 --> 00:04:44,790
+audio sound a lot better so those are a
+
+118
+00:04:44,790 --> 00:04:46,680
+few things you can do you normalize your
+
+119
+00:04:46,680 --> 00:04:48,330
+audio play with the equalization of
+
+120
+00:04:48,330 --> 00:04:50,280
+course supply like effects and different
+
+121
+00:04:50,280 --> 00:04:52,680
+probably not so much echo but the reverb
+
+122
+00:04:52,680 --> 00:04:54,420
+can give it if you do it subtly the
+
+123
+00:04:54,420 --> 00:04:56,360
+reverb can just give a nice little
+
+124
+00:04:56,360 --> 00:04:59,940
+subtle effect if we take it down and you
+
+125
+00:04:59,940 --> 00:05:04,860
+know have some of this stuff not be just
+
+126
+00:05:04,860 --> 00:05:06,450
+kind of gives it more of a feel of like
+
+127
+00:05:06,450 --> 00:05:12,720
+a more of a presence yeah that's why I'm
+
+128
+00:05:12,720 --> 00:05:13,860
+going to share with you in this video
+
+129
+00:05:13,860 --> 00:05:16,020
+just a quick one go and play with those
+
+130
+00:05:16,020 --> 00:05:17,640
+get familiar with them and I'll catch
+
+131
+00:05:17,640 --> 00:05:20,330
+you in the next video
+

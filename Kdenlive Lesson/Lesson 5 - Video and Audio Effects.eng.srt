@@ -1,0 +1,1156 @@
+1
+00:00:03,020 --> 00:00:05,640
+welcome back to another video editing
+
+2
+00:00:05,640 --> 00:00:07,049
+tutorial using the free software
+
+3
+00:00:07,049 --> 00:00:07,980
+kdenlive
+
+4
+00:00:07,980 --> 00:00:10,469
+in this video we're going to be adding
+
+5
+00:00:10,469 --> 00:00:12,570
+video and audio effects so we're just
+
+6
+00:00:12,570 --> 00:00:13,349
+going to go through some of the
+
+7
+00:00:13,349 --> 00:00:15,119
+different effects that kdenlive has to
+
+8
+00:00:15,119 --> 00:00:17,070
+offer there's a lot of them solicits
+
+9
+00:00:17,070 --> 00:00:18,570
+gonna be a brief introduction of how to
+
+10
+00:00:18,570 --> 00:00:19,740
+apply the effects and some of the
+
+11
+00:00:19,740 --> 00:00:21,150
+different ways to use them
+
+12
+00:00:21,150 --> 00:00:23,429
+if you're curious of how we got to this
+
+13
+00:00:23,429 --> 00:00:25,589
+point watch the last tutorial we
+
+14
+00:00:25,589 --> 00:00:28,080
+downloaded some footage and we just were
+
+15
+00:00:28,080 --> 00:00:31,019
+just using this audio and video and we
+
+16
+00:00:31,019 --> 00:00:32,310
+kind of created some different spaces
+
+17
+00:00:32,310 --> 00:00:35,540
+I'll show you what this video looks like
+
+18
+00:00:35,870 --> 00:00:39,210
+so we kind of we set up we split our
+
+19
+00:00:39,210 --> 00:00:40,320
+audio files so we have two different
+
+20
+00:00:40,320 --> 00:00:42,330
+audio clips and then we just kind of
+
+21
+00:00:42,330 --> 00:00:44,310
+broke up these and we could have put
+
+22
+00:00:44,310 --> 00:00:45,900
+these all down on the same video track
+
+23
+00:00:45,900 --> 00:00:46,980
+but we have them on three separate
+
+24
+00:00:46,980 --> 00:00:49,400
+tracks just because we can and for fun
+
+25
+00:00:49,400 --> 00:00:51,900
+I'm gonna to get started though I'm
+
+26
+00:00:51,900 --> 00:00:53,640
+gonna left click on this bottom most
+
+27
+00:00:53,640 --> 00:00:56,240
+audio track I'm hit the Delete key and
+
+28
+00:00:56,240 --> 00:00:58,920
+we'll just delete that audio portion out
+
+29
+00:00:58,920 --> 00:01:02,460
+of there and yeah so we'll just we'll
+
+30
+00:01:02,460 --> 00:01:03,570
+leave the at the track we could delete
+
+31
+00:01:03,570 --> 00:01:05,099
+the track all together too by going to
+
+32
+00:01:05,099 --> 00:01:06,390
+delete track but I'll just keep it in
+
+33
+00:01:06,390 --> 00:01:08,370
+there for now and again if you ever want
+
+34
+00:01:08,370 --> 00:01:09,930
+to add a track you can right click and
+
+35
+00:01:09,930 --> 00:01:12,540
+just insert you can add an audio track
+
+36
+00:01:12,540 --> 00:01:17,040
+or a video track in there as well so to
+
+37
+00:01:17,040 --> 00:01:18,540
+apply effects let's say we want to have
+
+38
+00:01:18,540 --> 00:01:20,460
+each one of these different so every
+
+39
+00:01:20,460 --> 00:01:23,850
+time it changes to its recent kind of
+
+40
+00:01:23,850 --> 00:01:25,560
+goes black then it resets and shows a
+
+41
+00:01:25,560 --> 00:01:29,280
+different portion let's let's change on
+
+42
+00:01:29,280 --> 00:01:30,990
+just on the video let's see if we can
+
+43
+00:01:30,990 --> 00:01:33,659
+grab a nice video effect to change the
+
+44
+00:01:33,659 --> 00:01:35,940
+look of the video every time it goes to
+
+45
+00:01:35,940 --> 00:01:38,909
+a different clip so we'll start with
+
+46
+00:01:38,909 --> 00:01:40,500
+this one here and these are the
+
+47
+00:01:40,500 --> 00:01:41,900
+different effects we have to play with
+
+48
+00:01:41,900 --> 00:01:44,430
+so we can click this little triangle and
+
+49
+00:01:44,430 --> 00:01:46,650
+it brings up different effects and if
+
+50
+00:01:46,650 --> 00:01:48,120
+you have an effect in mind you can also
+
+51
+00:01:48,120 --> 00:01:51,330
+just type it in like mute for audio we
+
+52
+00:01:51,330 --> 00:01:55,190
+can mute the audio or we can do like a
+
+53
+00:01:55,190 --> 00:02:00,390
+zoom and so like position and zoom I'm
+
+54
+00:02:00,390 --> 00:02:01,500
+not sure what we have as far as eye
+
+55
+00:02:01,500 --> 00:02:04,049
+color goes so I'll type in color so we
+
+56
+00:02:04,049 --> 00:02:05,130
+have all these different things under
+
+57
+00:02:05,130 --> 00:02:07,350
+miscellaneous under color let's try like
+
+58
+00:02:07,350 --> 00:02:08,878
+this Technicolor I actually don't know
+
+59
+00:02:08,878 --> 00:02:10,318
+what it does if we hover over it it
+
+60
+00:02:10,318 --> 00:02:12,719
+tells us over saturate the colors in a
+
+61
+00:02:12,719 --> 00:02:13,780
+video like
+
+62
+00:02:13,780 --> 00:02:16,420
+old Technicolor movies okay cool so if
+
+63
+00:02:16,420 --> 00:02:18,220
+we want to use this one I'm gonna left
+
+64
+00:02:18,220 --> 00:02:19,780
+click and just drag it over top of
+
+65
+00:02:19,780 --> 00:02:22,030
+whatever clip we want it to go in let's
+
+66
+00:02:22,030 --> 00:02:23,950
+put it in this first one and then it
+
+67
+00:02:23,950 --> 00:02:25,569
+brings up these properties over here and
+
+68
+00:02:25,569 --> 00:02:28,660
+again if depending on your layout and
+
+69
+00:02:28,660 --> 00:02:31,450
+the everythings are always changing from
+
+70
+00:02:31,450 --> 00:02:32,830
+different releases that it may be
+
+71
+00:02:32,830 --> 00:02:35,800
+different but we can move this so for
+
+72
+00:02:35,800 --> 00:02:38,890
+example we could put it in here and then
+
+73
+00:02:38,890 --> 00:02:41,950
+it appears as a tab below so see now we
+
+74
+00:02:41,950 --> 00:02:44,440
+have all of our effects like we had
+
+75
+00:02:44,440 --> 00:02:46,060
+before but then if we want to see the
+
+76
+00:02:46,060 --> 00:02:47,440
+properties of that effect we click on
+
+77
+00:02:47,440 --> 00:02:49,480
+properties or I can left-click and drag
+
+78
+00:02:49,480 --> 00:02:51,250
+and put it in its own window here which
+
+79
+00:02:51,250 --> 00:02:53,800
+is what I've done okay so the properties
+
+80
+00:02:53,800 --> 00:02:55,450
+for get to wherever the properties for
+
+81
+00:02:55,450 --> 00:02:59,380
+that those this effects is properties
+
+82
+00:02:59,380 --> 00:03:01,959
+are and then we can look at some
+
+83
+00:03:01,959 --> 00:03:03,610
+different ways we can change them so by
+
+84
+00:03:03,610 --> 00:03:05,200
+default we see if we go to the clip
+
+85
+00:03:05,200 --> 00:03:07,360
+ahead we see this one looks normal
+
+86
+00:03:07,360 --> 00:03:10,569
+ish and this one's kind of more the
+
+87
+00:03:10,569 --> 00:03:13,569
+colors are a lot more dramatic we can
+
+88
+00:03:13,569 --> 00:03:15,340
+make them even more if we want to get
+
+89
+00:03:15,340 --> 00:03:17,350
+completely like really dramatic effect
+
+90
+00:03:17,350 --> 00:03:19,150
+yeah this is a pretty good Technicolor
+
+91
+00:03:19,150 --> 00:03:21,220
+filter that's cool so this is the
+
+92
+00:03:21,220 --> 00:03:22,959
+original and then this is the improved
+
+93
+00:03:22,959 --> 00:03:24,820
+one we'll just leave this exactly how it
+
+94
+00:03:24,820 --> 00:03:26,860
+is now let's move on to our next clip
+
+95
+00:03:26,860 --> 00:03:30,400
+and let's find a different kind of for
+
+96
+00:03:30,400 --> 00:03:32,650
+this one let's do a cover rise to so
+
+97
+00:03:32,650 --> 00:03:34,120
+under cover eyes we can hover over and
+
+98
+00:03:34,120 --> 00:03:36,610
+see colorize images to select hue
+
+99
+00:03:36,610 --> 00:03:39,130
+saturation lightness so that's good I'm
+
+100
+00:03:39,130 --> 00:03:41,820
+the left click and drag this one in and
+
+101
+00:03:41,820 --> 00:03:44,920
+this one will just leave well will couch
+
+102
+00:03:44,920 --> 00:03:46,600
+we can change the saturation of this
+
+103
+00:03:46,600 --> 00:03:48,670
+color the lightness and darkness let's
+
+104
+00:03:48,670 --> 00:03:49,870
+make let's make it a little bit more
+
+105
+00:03:49,870 --> 00:03:52,209
+dark maybe and then the hue is gonna be
+
+106
+00:03:52,209 --> 00:03:55,359
+that the color that we have it be so you
+
+107
+00:03:55,359 --> 00:03:56,590
+know one cool effect might be to just
+
+108
+00:03:56,590 --> 00:03:58,390
+colorize each one of these a different
+
+109
+00:03:58,390 --> 00:04:01,989
+color but let's let's make this one what
+
+110
+00:04:01,989 --> 00:04:04,470
+we're going to do red let's make it
+
+111
+00:04:04,470 --> 00:04:07,630
+doesn't really matter yeah sure we'll
+
+112
+00:04:07,630 --> 00:04:09,640
+make it red alright cool so now we have
+
+113
+00:04:09,640 --> 00:04:11,470
+this one which is like full bright color
+
+114
+00:04:11,470 --> 00:04:13,120
+this is the original kind of what's
+
+115
+00:04:13,120 --> 00:04:15,280
+going to then it's gonna get intense
+
+116
+00:04:15,280 --> 00:04:17,289
+saturation then it's gonna go to like
+
+117
+00:04:17,289 --> 00:04:19,690
+this red a little bit darker alright
+
+118
+00:04:19,690 --> 00:04:21,930
+what should we do for this third clip
+
+119
+00:04:21,930 --> 00:04:24,130
+let's watch and see what we have so far
+
+120
+00:04:24,130 --> 00:04:25,120
+just so you know what's going on
+
+121
+00:04:25,120 --> 00:04:26,590
+[Music]
+
+122
+00:04:26,590 --> 00:04:29,270
+yeah it kind of went a little bit fast
+
+123
+00:04:29,270 --> 00:04:32,420
+but that's okay so let's go here to this
+
+124
+00:04:32,420 --> 00:04:34,580
+third clip and let's see what we have if
+
+125
+00:04:34,580 --> 00:04:37,190
+I delete everything here let's try maybe
+
+126
+00:04:37,190 --> 00:04:39,680
+this blur let's make one like really
+
+127
+00:04:39,680 --> 00:04:42,920
+blurry so let's go to this blur we hover
+
+128
+00:04:42,920 --> 00:04:47,030
+over blur using 2d iir filters okay
+
+129
+00:04:47,030 --> 00:04:47,780
+let's try that
+
+130
+00:04:47,780 --> 00:04:50,450
+so we'll hover we'll drag this blur and
+
+131
+00:04:50,450 --> 00:04:52,760
+to this third one and then we see the
+
+132
+00:04:52,760 --> 00:04:55,100
+the type of blur we want to do so this
+
+133
+00:04:55,100 --> 00:04:57,110
+is low-pass what we have now and then
+
+134
+00:04:57,110 --> 00:04:58,820
+the amount we don't want to get too
+
+135
+00:04:58,820 --> 00:05:00,860
+crazy sometimes with these if with the
+
+136
+00:05:00,860 --> 00:05:03,380
+effects it's not as refined as some
+
+137
+00:05:03,380 --> 00:05:06,470
+software so if you try to mix effects
+
+138
+00:05:06,470 --> 00:05:09,890
+and your you specify like if we type in
+
+139
+00:05:09,890 --> 00:05:11,930
+a million here it might actually crash
+
+140
+00:05:11,930 --> 00:05:15,290
+kdenlive especially on windows maybe not
+
+141
+00:05:15,290 --> 00:05:17,450
+so much on linux but so just be careful
+
+142
+00:05:17,450 --> 00:05:20,090
+to not ever get too crazy with some of
+
+143
+00:05:20,090 --> 00:05:22,610
+these but here we have a nice blur so
+
+144
+00:05:22,610 --> 00:05:24,470
+we'll get a look at pretty extreme blur
+
+145
+00:05:24,470 --> 00:05:28,160
+there we go so now we'll have our kind
+
+146
+00:05:28,160 --> 00:05:30,500
+of saturated look Technicolor we have
+
+147
+00:05:30,500 --> 00:05:32,300
+our red color this one just gonna be
+
+148
+00:05:32,300 --> 00:05:34,550
+blur and then this one is gonna be
+
+149
+00:05:34,550 --> 00:05:37,490
+irregular again until till we change it
+
+150
+00:05:37,490 --> 00:05:40,130
+and so again it applies it to this whole
+
+151
+00:05:40,130 --> 00:05:41,810
+clip and the reason it's doing these
+
+152
+00:05:41,810 --> 00:05:44,150
+clips we put this black space in between
+
+153
+00:05:44,150 --> 00:05:47,780
+we didn't have to do that but anything
+
+154
+00:05:47,780 --> 00:05:49,850
+the whole duration of the clip if we
+
+155
+00:05:49,850 --> 00:05:51,620
+were to apply it a fill and effect to
+
+156
+00:05:51,620 --> 00:05:53,780
+this the whole extents of this red
+
+157
+00:05:53,780 --> 00:05:55,880
+selection box is what the effect will be
+
+158
+00:05:55,880 --> 00:05:57,980
+applied to and in fact will apply some
+
+159
+00:05:57,980 --> 00:06:00,080
+effect to this audio here too and so
+
+160
+00:06:00,080 --> 00:06:02,600
+it'll apply to the entire audio unless
+
+161
+00:06:02,600 --> 00:06:04,010
+we were to cut it if we want it to only
+
+162
+00:06:04,010 --> 00:06:06,440
+apply to the first half we just go to
+
+163
+00:06:06,440 --> 00:06:08,840
+the razor tool and then cut and now we
+
+164
+00:06:08,840 --> 00:06:10,610
+have two separate we have a beginning
+
+165
+00:06:10,610 --> 00:06:14,000
+audio and then a later audio I'm gonna
+
+166
+00:06:14,000 --> 00:06:17,390
+hit ctrl Z to undo that cut let's add
+
+167
+00:06:17,390 --> 00:06:19,580
+one more video effect to our final last
+
+168
+00:06:19,580 --> 00:06:22,400
+video and let's do something really good
+
+169
+00:06:22,400 --> 00:06:28,430
+for this distort okay mm-hmm what's wave
+
+170
+00:06:28,430 --> 00:06:32,780
+a hover over it to read first wave make
+
+171
+00:06:32,780 --> 00:06:35,540
+waves on your clip with keyframes we
+
+172
+00:06:35,540 --> 00:06:36,590
+okay we don't wanna do anything with
+
+173
+00:06:36,590 --> 00:06:38,580
+keyframes right now so
+
+174
+00:06:38,580 --> 00:06:40,680
+let's do this distort plasma wheel this
+
+175
+00:06:40,680 --> 00:06:44,460
+hover will drag it in distort move I
+
+176
+00:06:44,460 --> 00:06:45,960
+don't want to do anything too taxing
+
+177
+00:06:45,960 --> 00:06:48,780
+because I don't want to crash kdenlive
+
+178
+00:06:48,780 --> 00:06:51,000
+oh cool oh man so this is gonna this one
+
+179
+00:06:51,000 --> 00:06:53,340
+is gonna actually distort as it's going
+
+180
+00:06:53,340 --> 00:06:55,949
+it's sort of like changing the trees you
+
+181
+00:06:55,949 --> 00:06:56,940
+see the whole picture
+
+182
+00:06:56,940 --> 00:06:59,280
+is being distorted so let's not look
+
+183
+00:06:59,280 --> 00:07:02,280
+kind of interesting all right that's
+
+184
+00:07:02,280 --> 00:07:04,800
+kind of cool this whole thing what we
+
+185
+00:07:04,800 --> 00:07:07,979
+really should do is apply a a speed this
+
+186
+00:07:07,979 --> 00:07:09,419
+is actually a little bit too fast but I
+
+187
+00:07:09,419 --> 00:07:10,950
+can just hover over and scrub through
+
+188
+00:07:10,950 --> 00:07:13,020
+and we kind of see what these effects
+
+189
+00:07:13,020 --> 00:07:15,419
+would look like in slow motion so we've
+
+190
+00:07:15,419 --> 00:07:16,740
+got these different effects that we've
+
+191
+00:07:16,740 --> 00:07:20,850
+applied to the video and that's a cool
+
+192
+00:07:20,850 --> 00:07:22,320
+one see that one's changing the whole
+
+193
+00:07:22,320 --> 00:07:24,150
+kind of video distorting and then it
+
+194
+00:07:24,150 --> 00:07:26,220
+goes back to our last one alright this
+
+195
+00:07:26,220 --> 00:07:27,630
+video is getting long let's apply one
+
+196
+00:07:27,630 --> 00:07:31,440
+more final effect to our audio down here
+
+197
+00:07:31,440 --> 00:07:33,810
+so under audio you noticed like if we go
+
+198
+00:07:33,810 --> 00:07:36,090
+to color and we try to apply a colorize
+
+199
+00:07:36,090 --> 00:07:38,340
+to our audio I don't know what it'll do
+
+200
+00:07:38,340 --> 00:07:40,320
+but I want to try it right now but what
+
+201
+00:07:40,320 --> 00:07:41,850
+we want to do there's certain effects
+
+202
+00:07:41,850 --> 00:07:44,639
+that are for audio some of the effects I
+
+203
+00:07:44,639 --> 00:07:47,490
+will say like fade work on video and
+
+204
+00:07:47,490 --> 00:07:49,470
+audio if you want to fade in our video
+
+205
+00:07:49,470 --> 00:07:51,360
+we can left-click and go to the start of
+
+206
+00:07:51,360 --> 00:07:56,930
+this video and it will fade in now oh
+
+207
+00:07:56,930 --> 00:07:59,250
+that that's not the fading in it it did
+
+208
+00:07:59,250 --> 00:08:05,580
+let's see what did it do oh just kidding
+
+209
+00:08:05,580 --> 00:08:07,349
+maybe this fade in is only from audio oh
+
+210
+00:08:07,349 --> 00:08:08,580
+we have to go fade from black that's
+
+211
+00:08:08,580 --> 00:08:10,770
+what we do so fade from black then it'll
+
+212
+00:08:10,770 --> 00:08:12,599
+be this video clip will start a black
+
+213
+00:08:12,599 --> 00:08:13,889
+and it will fade in
+
+214
+00:08:13,889 --> 00:08:16,139
+but the fade in here is actually an
+
+215
+00:08:16,139 --> 00:08:19,139
+audio so it says fade in audio track and
+
+216
+00:08:19,139 --> 00:08:21,330
+if we hover over this it says fade video
+
+217
+00:08:21,330 --> 00:08:23,220
+so some of them even though this is
+
+218
+00:08:23,220 --> 00:08:25,470
+under fade I guess what I want to say is
+
+219
+00:08:25,470 --> 00:08:28,740
+there's audio and video effects within
+
+220
+00:08:28,740 --> 00:08:30,750
+the same thing so you want to always
+
+221
+00:08:30,750 --> 00:08:32,760
+hover over and see if what you're doing
+
+222
+00:08:32,760 --> 00:08:35,940
+is for video or audio and if you don't
+
+223
+00:08:35,940 --> 00:08:38,159
+know just try and see what happens but
+
+224
+00:08:38,159 --> 00:08:40,409
+we're going to fade in the audio right
+
+225
+00:08:40,409 --> 00:08:42,900
+here and then we're going to fade out
+
+226
+00:08:42,900 --> 00:08:46,050
+the audio right here and what that does
+
+227
+00:08:46,050 --> 00:08:47,730
+it gives us a nice so under under this
+
+228
+00:08:47,730 --> 00:08:49,380
+first one we have - we have a fade in
+
+229
+00:08:49,380 --> 00:08:51,329
+and fade out and we can change the
+
+230
+00:08:51,329 --> 00:08:52,290
+duration
+
+231
+00:08:52,290 --> 00:08:54,420
+let me delete the second one first so
+
+232
+00:08:54,420 --> 00:08:56,190
+under our fade in we see it starts with
+
+233
+00:08:56,190 --> 00:08:59,430
+this red and then it goes here so by the
+
+234
+00:08:59,430 --> 00:09:01,290
+end it's up to full volume and at the
+
+235
+00:09:01,290 --> 00:09:03,090
+start it's almost silent if we play
+
+236
+00:09:03,090 --> 00:09:04,740
+right now we'll see it's just gonna be
+
+237
+00:09:04,740 --> 00:09:08,010
+kind of like silent then it gets louder
+
+238
+00:09:08,010 --> 00:09:09,270
+and louder I guess it's not that
+
+239
+00:09:09,270 --> 00:09:11,460
+dramatic cuz it's a short clip but we
+
+240
+00:09:11,460 --> 00:09:13,260
+can change the duration by doing this
+
+241
+00:09:13,260 --> 00:09:14,610
+and it changes that triangle a little
+
+242
+00:09:14,610 --> 00:09:16,620
+bit so we can see you know how quickly
+
+243
+00:09:16,620 --> 00:09:18,810
+it fades in so maybe I'll do mine to
+
+244
+00:09:18,810 --> 00:09:21,500
+about there so within the first little
+
+245
+00:09:21,500 --> 00:09:23,910
+part of the video it's up to full volume
+
+246
+00:09:23,910 --> 00:09:27,150
+then on my fade out I'll drag it on and
+
+247
+00:09:27,150 --> 00:09:29,130
+the fade out will do the same thing
+
+248
+00:09:29,130 --> 00:09:31,530
+we'll lower it so our fade-out is
+
+249
+00:09:31,530 --> 00:09:33,450
+happening at the kind of quickly at the
+
+250
+00:09:33,450 --> 00:09:36,570
+last portion of the video look and sound
+
+251
+00:09:36,570 --> 00:09:44,280
+like this okay very very quick you know
+
+252
+00:09:44,280 --> 00:09:45,930
+little video let's render it out and see
+
+253
+00:09:45,930 --> 00:09:47,370
+what happens so if we go to render I'll
+
+254
+00:09:47,370 --> 00:09:50,670
+click mp4 I will save it to my desktop
+
+255
+00:09:50,670 --> 00:09:53,700
+like I always do we'll call this bike
+
+256
+00:09:53,700 --> 00:09:57,660
+and hit save then we can render to file
+
+257
+00:09:57,660 --> 00:10:00,150
+so so render out it's not taking too
+
+258
+00:10:00,150 --> 00:10:02,450
+long depending on what effects you use
+
+259
+00:10:02,450 --> 00:10:05,270
+the rendering time can be very very long
+
+260
+00:10:05,270 --> 00:10:07,770
+but now will minimize we'll watch this
+
+261
+00:10:07,770 --> 00:10:10,190
+and see the house
+
+262
+00:10:10,190 --> 00:10:13,599
+[Music]
+
+263
+00:10:13,670 --> 00:10:17,430
+okay so again super short super super
+
+264
+00:10:17,430 --> 00:10:18,930
+short but at least it rendered quick and
+
+265
+00:10:18,930 --> 00:10:20,370
+I think you're getting the idea of how
+
+266
+00:10:20,370 --> 00:10:21,809
+these effects work so we just drag and
+
+267
+00:10:21,809 --> 00:10:23,459
+drop them in and then once there's an
+
+268
+00:10:23,459 --> 00:10:26,370
+effect on sometimes it'll show like the
+
+269
+00:10:26,370 --> 00:10:28,199
+fades you can see with a little overlay
+
+270
+00:10:28,199 --> 00:10:30,029
+and if you click on it it'll show what
+
+271
+00:10:30,029 --> 00:10:32,040
+effect it has and just like we did with
+
+272
+00:10:32,040 --> 00:10:34,050
+the audio we have multiple effects you
+
+273
+00:10:34,050 --> 00:10:36,149
+can apply different effects so we can
+
+274
+00:10:36,149 --> 00:10:38,189
+have two different color Corrections on
+
+275
+00:10:38,189 --> 00:10:41,249
+top of the same one we have a blur and
+
+276
+00:10:41,249 --> 00:10:43,290
+the color rise and then if we want to
+
+277
+00:10:43,290 --> 00:10:44,579
+disable that effect you can actually
+
+278
+00:10:44,579 --> 00:10:46,740
+disable the blur so if you want to do a
+
+279
+00:10:46,740 --> 00:10:51,720
+colorize which ones I apply that to yeah
+
+280
+00:10:51,720 --> 00:10:55,139
+this one so if we wanted to apply this
+
+281
+00:10:55,139 --> 00:10:57,629
+blur this colorize we want to look at it
+
+282
+00:10:57,629 --> 00:10:59,670
+without the blur we can just click into
+
+283
+00:10:59,670 --> 00:11:01,319
+hurry and quickly disable that effect
+
+284
+00:11:01,319 --> 00:11:03,029
+while we're changing it and then we can
+
+285
+00:11:03,029 --> 00:11:06,629
+re-enable it so that's using effects in
+
+286
+00:11:06,629 --> 00:11:08,399
+kdenlive hope you've enjoyed this video
+
+287
+00:11:08,399 --> 00:11:10,050
+go ahead and like the subscribe comment
+
+288
+00:11:10,050 --> 00:11:11,610
+below and I'll catch you in the next
+
+289
+00:11:11,610 --> 00:11:13,939
+video
+

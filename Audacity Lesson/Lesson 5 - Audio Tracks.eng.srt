@@ -1,0 +1,392 @@
+1
+00:00:02,750 --> 00:00:04,920
+welcome back to another audacity
+
+2
+00:00:04,920 --> 00:00:06,810
+tutorial in this video I'll show you how
+
+3
+00:00:06,810 --> 00:00:09,209
+to work with multiple tracks and record
+
+4
+00:00:09,209 --> 00:00:11,730
+audio over top of existing audio and
+
+5
+00:00:11,730 --> 00:00:13,469
+play both at the same time maybe you
+
+6
+00:00:13,469 --> 00:00:15,719
+want to have a music playing at the
+
+7
+00:00:15,719 --> 00:00:17,580
+introduction of your podcast and then
+
+8
+00:00:17,580 --> 00:00:19,259
+you want to have your voice come in and
+
+9
+00:00:19,259 --> 00:00:21,750
+talk overtop of that music this is how
+
+10
+00:00:21,750 --> 00:00:23,640
+we can do that so let's say we want to
+
+11
+00:00:23,640 --> 00:00:25,230
+bring in music first we have this jazz
+
+12
+00:00:25,230 --> 00:00:27,599
+guitar music we looked at in the past we
+
+13
+00:00:27,599 --> 00:00:30,050
+can play it here what it sounds like but
+
+14
+00:00:30,050 --> 00:00:32,250
+if I want to record if I move my
+
+15
+00:00:32,250 --> 00:00:33,870
+playhead to a certain point and hit
+
+16
+00:00:33,870 --> 00:00:36,600
+record it starts recording my voice at
+
+17
+00:00:36,600 --> 00:00:39,210
+the end it like up ends my audio
+
+18
+00:00:39,210 --> 00:00:43,110
+recording to the end of this of this
+
+19
+00:00:43,110 --> 00:00:45,540
+track here so I'm gonna hit ctrl Z to
+
+20
+00:00:45,540 --> 00:00:47,580
+get rid of that and what we want to do
+
+21
+00:00:47,580 --> 00:00:49,320
+is actually add a second track if we hit
+
+22
+00:00:49,320 --> 00:00:51,210
+this little arrow here and minimize this
+
+23
+00:00:51,210 --> 00:00:52,230
+and we can see there's all kinds of
+
+24
+00:00:52,230 --> 00:00:54,990
+space here we could add more tracks so
+
+25
+00:00:54,990 --> 00:00:56,280
+to do that we kind of touched on it in
+
+26
+00:00:56,280 --> 00:00:57,540
+the last video a little bit at the end
+
+27
+00:00:57,540 --> 00:01:00,810
+we go to tracks add new and we'll go add
+
+28
+00:01:00,810 --> 00:01:03,090
+new stereo track so now we have another
+
+29
+00:01:03,090 --> 00:01:04,860
+track here we could minimize it as well
+
+30
+00:01:04,860 --> 00:01:07,380
+we can go track we can go add new stereo
+
+31
+00:01:07,380 --> 00:01:08,670
+track we can just get a bunch of
+
+32
+00:01:08,670 --> 00:01:10,950
+different tracks in here and then we can
+
+33
+00:01:10,950 --> 00:01:12,720
+expand whichever one we want to look at
+
+34
+00:01:12,720 --> 00:01:14,730
+these things have nothing in them and
+
+35
+00:01:14,730 --> 00:01:16,590
+then this is our music if you want to
+
+36
+00:01:16,590 --> 00:01:18,450
+get rid of a track we just select it and
+
+37
+00:01:18,450 --> 00:01:20,159
+while we have it selected we can go
+
+38
+00:01:20,159 --> 00:01:23,820
+tracks remove track if we want to remove
+
+39
+00:01:23,820 --> 00:01:25,470
+this audio track we can just hit here
+
+40
+00:01:25,470 --> 00:01:27,480
+close and will actually close and get
+
+41
+00:01:27,480 --> 00:01:29,550
+rid of remove that track as well and to
+
+42
+00:01:29,550 --> 00:01:31,920
+get it to come back we go edit undo
+
+43
+00:01:31,920 --> 00:01:35,310
+track remove and now it's back if I want
+
+44
+00:01:35,310 --> 00:01:36,570
+to record over top of this now I just
+
+45
+00:01:36,570 --> 00:01:38,340
+click down here in this track to where I
+
+46
+00:01:38,340 --> 00:01:40,370
+want to start recording and I hit record
+
+47
+00:01:40,370 --> 00:01:43,620
+it'll play the music and so I can hear
+
+48
+00:01:43,620 --> 00:01:45,180
+it and then I can talk and record in
+
+49
+00:01:45,180 --> 00:01:49,229
+this track hello welcome to the podcast
+
+50
+00:01:49,229 --> 00:01:51,840
+you can talk here overtop the music and
+
+51
+00:01:51,840 --> 00:01:53,030
+it's pretty cool
+
+52
+00:01:53,030 --> 00:01:55,200
+then hit stop and now we have two
+
+53
+00:01:55,200 --> 00:01:58,650
+separate different pieces of audio if we
+
+54
+00:01:58,650 --> 00:02:03,270
+want so if we play it play back now they
+
+55
+00:02:03,270 --> 00:02:05,040
+both play at the same time we can use
+
+56
+00:02:05,040 --> 00:02:07,170
+our time shift tool to move this forward
+
+57
+00:02:07,170 --> 00:02:11,099
+or back if we want it to come in at a
+
+58
+00:02:11,099 --> 00:02:13,270
+different point in the audio
+
+59
+00:02:13,270 --> 00:02:16,780
+hello welcome to the podcast we can
+
+60
+00:02:16,780 --> 00:02:20,560
+apply different effects to this and do
+
+61
+00:02:20,560 --> 00:02:21,670
+different things like that so yeah
+
+62
+00:02:21,670 --> 00:02:23,500
+that's basically it and then if we want
+
+63
+00:02:23,500 --> 00:02:24,970
+to adjust these tracks we can click this
+
+64
+00:02:24,970 --> 00:02:28,060
+here and we say move track up and now
+
+65
+00:02:28,060 --> 00:02:30,070
+that our audio track is our kind of top
+
+66
+00:02:30,070 --> 00:02:31,720
+track it doesn't really matter for as
+
+67
+00:02:31,720 --> 00:02:34,320
+far as how it's being played back if
+
+68
+00:02:34,320 --> 00:02:37,050
+this like this audio sounds like it's a
+
+69
+00:02:37,050 --> 00:02:39,910
+little bit loud for maybe me talking
+
+70
+00:02:39,910 --> 00:02:43,720
+here so we can lower the gain on it we
+
+71
+00:02:43,720 --> 00:02:50,200
+can do that while we're playing so it
+
+72
+00:02:50,200 --> 00:02:52,360
+doesn't change the actual wave form but
+
+73
+00:02:52,360 --> 00:02:55,780
+it does lower the volume in here also we
+
+74
+00:02:55,780 --> 00:02:57,700
+use like the envelope tool before which
+
+75
+00:02:57,700 --> 00:02:59,950
+is a good example for this we click the
+
+76
+00:02:59,950 --> 00:03:02,620
+envelope tool we can lower down so we
+
+77
+00:03:02,620 --> 00:03:04,900
+can have this audio be kind of loud here
+
+78
+00:03:04,900 --> 00:03:06,640
+then as soon as I get into the talking
+
+79
+00:03:06,640 --> 00:03:08,470
+point we can really make this audio get
+
+80
+00:03:08,470 --> 00:03:11,830
+really small and then as soon as I'm
+
+81
+00:03:11,830 --> 00:03:13,270
+done talking we can kind of bring it
+
+82
+00:03:13,270 --> 00:03:17,380
+back up loud again if we want to see
+
+83
+00:03:17,380 --> 00:03:23,020
+that so now if we play this that's one
+
+84
+00:03:23,020 --> 00:03:25,300
+way to do that in the next video we'll
+
+85
+00:03:25,300 --> 00:03:26,850
+talk about using the amplification
+
+86
+00:03:26,850 --> 00:03:28,900
+effect and using different effects
+
+87
+00:03:28,900 --> 00:03:30,250
+because we can actually use
+
+88
+00:03:30,250 --> 00:03:31,750
+amplification as well to change the
+
+89
+00:03:31,750 --> 00:03:34,240
+volume make it louder or softer but I
+
+90
+00:03:34,240 --> 00:03:35,020
+think I'm gonna end this video here
+
+91
+00:03:35,020 --> 00:03:36,430
+that's just using different tracks go
+
+92
+00:03:36,430 --> 00:03:38,080
+ahead and play with that get familiar
+
+93
+00:03:38,080 --> 00:03:40,540
+with adding in multiple tracks and try
+
+94
+00:03:40,540 --> 00:03:42,340
+and record some mute some audio overtop
+
+95
+00:03:42,340 --> 00:03:46,030
+of music yeah appreciate you watching
+
+96
+00:03:46,030 --> 00:03:47,350
+hopefully you found this informative go
+
+97
+00:03:47,350 --> 00:03:48,670
+ahead and like comment subscribe and
+
+98
+00:03:48,670 --> 00:03:51,900
+I'll catch you in the next video
+

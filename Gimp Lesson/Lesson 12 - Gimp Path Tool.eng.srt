@@ -1,0 +1,1300 @@
+1
+00:00:02,150 --> 00:00:04,710
+welcome to this tutorial series in
+
+2
+00:00:04,710 --> 00:00:06,450
+this series we'll be learning how to use
+
+3
+00:00:06,450 --> 00:00:08,339
+ from a very basic very beginner
+
+4
+00:00:08,339 --> 00:00:10,320
+level if you don't already have
+
+5
+00:00:10,320 --> 00:00:11,490
+installed you can get it for free on
+
+6
+00:00:11,490 --> 00:00:13,679
+windows linux and mac check out my other
+
+7
+00:00:13,679 --> 00:00:15,030
+video where I show how to download and
+
+8
+00:00:15,030 --> 00:00:16,769
+get it installed on your computer but
+
+9
+00:00:16,769 --> 00:00:18,119
+once it's installed and you open it up
+
+10
+00:00:18,119 --> 00:00:19,410
+for the first time it'll probably look
+
+11
+00:00:19,410 --> 00:00:22,289
+like this you've got separate windows so
+
+12
+00:00:22,289 --> 00:00:24,210
+it brings up three different windows
+
+13
+00:00:24,210 --> 00:00:25,949
+with tools in them we have a toolbox
+
+14
+00:00:25,949 --> 00:00:28,349
+over here with some different tool icons
+
+15
+00:00:28,349 --> 00:00:30,630
+we can click on as we click on those it
+
+16
+00:00:30,630 --> 00:00:32,400
+shows options for the tool at the bottom
+
+17
+00:00:32,400 --> 00:00:35,160
+of this dialog and then to the right
+
+18
+00:00:35,160 --> 00:00:36,510
+side there's some different tools too
+
+19
+00:00:36,510 --> 00:00:38,040
+that actually have different tabs we can
+
+20
+00:00:38,040 --> 00:00:40,320
+click on and it changes the different
+
+21
+00:00:40,320 --> 00:00:42,750
+tool we're on like channels and layer
+
+22
+00:00:42,750 --> 00:00:45,240
+and our undo history all of this stuff
+
+23
+00:00:45,240 --> 00:00:47,790
+can be customized how you like it so you
+
+24
+00:00:47,790 --> 00:00:49,020
+could move this to a different part of
+
+25
+00:00:49,020 --> 00:00:51,000
+your screen for example if you have
+
+26
+00:00:51,000 --> 00:00:52,620
+multiple monitors you could move it to a
+
+27
+00:00:52,620 --> 00:00:54,450
+different monitor but for the purposes
+
+28
+00:00:54,450 --> 00:00:55,740
+of this video I'm going to use a
+
+29
+00:00:55,740 --> 00:00:58,260
+different window mode and to do that
+
+30
+00:00:58,260 --> 00:01:00,120
+we're just gonna click on Windows and go
+
+31
+00:01:00,120 --> 00:01:02,460
+down to this single window mode and
+
+32
+00:01:02,460 --> 00:01:04,470
+check this box and what that will do is
+
+33
+00:01:04,470 --> 00:01:06,540
+throw all the tools into one window and
+
+34
+00:01:06,540 --> 00:01:10,350
+so if we resize this it's going to have
+
+35
+00:01:10,350 --> 00:01:12,150
+everything in one window we don't have
+
+36
+00:01:12,150 --> 00:01:13,920
+to worry about accidentally closing a
+
+37
+00:01:13,920 --> 00:01:15,450
+tool box or anything
+
+38
+00:01:15,450 --> 00:01:17,820
+everything's just in one big window so
+
+39
+00:01:17,820 --> 00:01:19,560
+again to do that it's under windows and
+
+40
+00:01:19,560 --> 00:01:21,630
+check this box called single window mode
+
+41
+00:01:21,630 --> 00:01:23,490
+I'm gonna be in single window mode this
+
+42
+00:01:23,490 --> 00:01:26,460
+entire tutorial series to get started
+
+43
+00:01:26,460 --> 00:01:28,020
+with a project we can come up here to
+
+44
+00:01:28,020 --> 00:01:30,090
+the top left hand corner and click on
+
+45
+00:01:30,090 --> 00:01:32,130
+file and there's a bunch of different
+
+46
+00:01:32,130 --> 00:01:33,390
+options we have we can create a new
+
+47
+00:01:33,390 --> 00:01:35,640
+project or we can open an existing image
+
+48
+00:01:35,640 --> 00:01:38,070
+on our computer and apply some changes
+
+49
+00:01:38,070 --> 00:01:40,260
+to it let's click on new and it brings
+
+50
+00:01:40,260 --> 00:01:42,659
+up this dialog here it lets us create a
+
+51
+00:01:42,659 --> 00:01:45,120
+new blank image that's gonna have a
+
+52
+00:01:45,120 --> 00:01:48,840
+width of 2000 and a height of 1984
+
+53
+00:01:48,840 --> 00:01:51,060
+that's in pixels which is a little dots
+
+54
+00:01:51,060 --> 00:01:53,460
+on your screen we can change this unit
+
+55
+00:01:53,460 --> 00:01:54,780
+if you're feeling more comfortable using
+
+56
+00:01:54,780 --> 00:01:57,060
+inches or maybe millimeters or
+
+57
+00:01:57,060 --> 00:01:59,100
+centimeters we can change to whatever
+
+58
+00:01:59,100 --> 00:02:00,869
+unit we want if we want to do inches
+
+59
+00:02:00,869 --> 00:02:03,720
+then that's about six and a half by six
+
+60
+00:02:03,720 --> 00:02:05,820
+and a half inches but we could do it we
+
+61
+00:02:05,820 --> 00:02:08,818
+can maybe change this and do an 8 by 10
+
+62
+00:02:08,818 --> 00:02:12,150
+so we have 8 inches wide by 10 inches
+
+63
+00:02:12,150 --> 00:02:13,360
+tall
+
+64
+00:02:13,360 --> 00:02:15,070
+now there's also Advanced Options here
+
+65
+00:02:15,070 --> 00:02:16,360
+but let's not worry about these right
+
+66
+00:02:16,360 --> 00:02:17,920
+now but if we click on Advanced Options
+
+67
+00:02:17,920 --> 00:02:19,900
+it brings in some more options for
+
+68
+00:02:19,900 --> 00:02:22,210
+creating our document for now let's just
+
+69
+00:02:22,210 --> 00:02:23,890
+click OK it really doesn't matter what
+
+70
+00:02:23,890 --> 00:02:26,170
+size you're working with and so we have
+
+71
+00:02:26,170 --> 00:02:27,670
+a nice eight we see there's a ruler
+
+72
+00:02:27,670 --> 00:02:29,950
+across the top here starting at 0 and
+
+73
+00:02:29,950 --> 00:02:32,830
+going over to 8 so this is 8 inches wide
+
+74
+00:02:32,830 --> 00:02:36,010
+and then the height is 10 inches we see
+
+75
+00:02:36,010 --> 00:02:37,870
+over here is a zero and if we scroll
+
+76
+00:02:37,870 --> 00:02:41,050
+down it's to about 10 inches so we have
+
+77
+00:02:41,050 --> 00:02:42,970
+a nice 8 by 10 almost like a page right
+
+78
+00:02:42,970 --> 00:02:44,950
+here and we can select some of these
+
+79
+00:02:44,950 --> 00:02:46,990
+tools maybe we come over here there's
+
+80
+00:02:46,990 --> 00:02:49,600
+this brush tool this paintbrush if we
+
+81
+00:02:49,600 --> 00:02:51,220
+left click on that we now have the
+
+82
+00:02:51,220 --> 00:02:53,110
+paintbrush tool selected we know that
+
+83
+00:02:53,110 --> 00:02:55,420
+because our mouse cursor changes to have
+
+84
+00:02:55,420 --> 00:02:57,700
+a little paintbrush on it now if we left
+
+85
+00:02:57,700 --> 00:02:59,860
+click and hold it kind of creates some
+
+86
+00:02:59,860 --> 00:03:01,870
+different shapes here or some different
+
+87
+00:03:01,870 --> 00:03:03,580
+that drawing whatever we want to draw
+
+88
+00:03:03,580 --> 00:03:06,520
+and so we can draw on here if we want to
+
+89
+00:03:06,520 --> 00:03:08,410
+undo you can hit control Z on your
+
+90
+00:03:08,410 --> 00:03:10,420
+keyboard and it'll undo the last stroke
+
+91
+00:03:10,420 --> 00:03:12,820
+you did ctrl Z on your keyboard does
+
+92
+00:03:12,820 --> 00:03:14,860
+that you can also go up here to the top
+
+93
+00:03:14,860 --> 00:03:17,680
+left under edit and click on edit and
+
+94
+00:03:17,680 --> 00:03:20,140
+just go to undo paintbrush and it'll
+
+95
+00:03:20,140 --> 00:03:22,560
+undo what we've done a stroke by stroke
+
+96
+00:03:22,560 --> 00:03:25,330
+so now we're back to blank and maybe we
+
+97
+00:03:25,330 --> 00:03:26,950
+want to click on this pencil instead if
+
+98
+00:03:26,950 --> 00:03:28,989
+we hover over this pencil tool it says
+
+99
+00:03:28,989 --> 00:03:31,769
+pencil hard edge painting using a brush
+
+100
+00:03:31,769 --> 00:03:34,720
+capital n that means if we click on it
+
+101
+00:03:34,720 --> 00:03:37,000
+we can use the paintbrush or if we're if
+
+102
+00:03:37,000 --> 00:03:38,620
+we're on a different tool we can always
+
+103
+00:03:38,620 --> 00:03:41,110
+hit the N key on our keyboard to quickly
+
+104
+00:03:41,110 --> 00:03:43,420
+get back to the paintbrush I mean I'm
+
+105
+00:03:43,420 --> 00:03:46,090
+sorry the pencil tool if we hover over a
+
+106
+00:03:46,090 --> 00:03:48,820
+paintbrush it also has a shortcut P so
+
+107
+00:03:48,820 --> 00:03:51,160
+press P on the keyboard we're now using
+
+108
+00:03:51,160 --> 00:03:53,830
+our paintbrush and on the keyboard we're
+
+109
+00:03:53,830 --> 00:03:56,380
+now using our pencil tool and those are
+
+110
+00:03:56,380 --> 00:03:57,790
+actually customizable if you don't like
+
+111
+00:03:57,790 --> 00:03:59,290
+those shortcuts you can change them you
+
+112
+00:03:59,290 --> 00:04:01,299
+don't have to use the shortcuts hover
+
+113
+00:04:01,299 --> 00:04:02,769
+over this tool right here is called the
+
+114
+00:04:02,769 --> 00:04:04,690
+eraser tool if we left click on eraser
+
+115
+00:04:04,690 --> 00:04:07,060
+we can now erase different things here
+
+116
+00:04:07,060 --> 00:04:09,100
+but we see we're erasing kind of small
+
+117
+00:04:09,100 --> 00:04:11,260
+if we want our eraser to be bigger we
+
+118
+00:04:11,260 --> 00:04:13,510
+can change the size all the different
+
+119
+00:04:13,510 --> 00:04:15,610
+settings for these tools are found right
+
+120
+00:04:15,610 --> 00:04:17,320
+below these tools in this little
+
+121
+00:04:17,320 --> 00:04:20,048
+dialogue here it's a little bit cramped
+
+122
+00:04:20,048 --> 00:04:20,829
+in here right now
+
+123
+00:04:20,829 --> 00:04:22,750
+if we want to see this differently we
+
+124
+00:04:22,750 --> 00:04:25,150
+can hover over in between right next to
+
+125
+00:04:25,150 --> 00:04:26,870
+the ruler and this toolbox
+
+126
+00:04:26,870 --> 00:04:29,630
+over here left click and hold and we can
+
+127
+00:04:29,630 --> 00:04:32,660
+drag this out so it's larger we get it
+
+128
+00:04:32,660 --> 00:04:35,389
+as large as we want and it's sort of
+
+129
+00:04:35,389 --> 00:04:39,169
+reset rearranges these columns and rows
+
+130
+00:04:39,169 --> 00:04:41,270
+for the different tools maybe that's a
+
+131
+00:04:41,270 --> 00:04:42,949
+good one there so that we can read more
+
+132
+00:04:42,949 --> 00:04:44,810
+what's happening with these so let's see
+
+133
+00:04:44,810 --> 00:04:46,040
+eraser tool if you want to change the
+
+134
+00:04:46,040 --> 00:04:49,580
+size we can click plus over here or - to
+
+135
+00:04:49,580 --> 00:04:52,340
+change the size we can also just double
+
+136
+00:04:52,340 --> 00:04:54,020
+click within the number and type in a
+
+137
+00:04:54,020 --> 00:04:58,669
+value so if we click in here and then we
+
+138
+00:04:58,669 --> 00:05:00,530
+can erase that and type in like 100 for
+
+139
+00:05:00,530 --> 00:05:02,570
+example now the size is going to be 100
+
+140
+00:05:02,570 --> 00:05:05,150
+I think that's in pixels anyway and so
+
+141
+00:05:05,150 --> 00:05:08,720
+we can now erase this we can also scroll
+
+142
+00:05:08,720 --> 00:05:10,940
+our mouse wheel in here I'm just using
+
+143
+00:05:10,940 --> 00:05:13,010
+the scroll wheel on my mouse to increase
+
+144
+00:05:13,010 --> 00:05:15,169
+the size so now it's even larger and we
+
+145
+00:05:15,169 --> 00:05:17,780
+can erase much larger and as another way
+
+146
+00:05:17,780 --> 00:05:19,610
+to change this we can just click in here
+
+147
+00:05:19,610 --> 00:05:21,440
+click and hold our left mouse button and
+
+148
+00:05:21,440 --> 00:05:23,479
+move our mouse from right to left and
+
+149
+00:05:23,479 --> 00:05:25,729
+that'll also change the size so now our
+
+150
+00:05:25,729 --> 00:05:28,039
+erase is very very large and we can come
+
+151
+00:05:28,039 --> 00:05:29,780
+in here and erase this if we
+
+152
+00:05:29,780 --> 00:05:31,250
+accidentally erase something we didn't
+
+153
+00:05:31,250 --> 00:05:33,289
+want to erase we can hit ctrl Z on the
+
+154
+00:05:33,289 --> 00:05:36,289
+keyboard to bring it back or if we
+
+155
+00:05:36,289 --> 00:05:38,060
+wanted to redo that erase we can go up
+
+156
+00:05:38,060 --> 00:05:42,050
+to edit and we can do redo erase or it's
+
+157
+00:05:42,050 --> 00:05:44,060
+control Y is the shortcut for that but
+
+158
+00:05:44,060 --> 00:05:48,680
+redo will rearrange the and control Y we
+
+159
+00:05:48,680 --> 00:05:51,020
+can toggle back and forth between undo
+
+160
+00:05:51,020 --> 00:05:53,960
+and redo our history keeps track of
+
+161
+00:05:53,960 --> 00:05:56,060
+our history and we can find it over here
+
+162
+00:05:56,060 --> 00:05:58,070
+we see our different history and we can
+
+163
+00:05:58,070 --> 00:06:00,080
+look through this history and see all
+
+164
+00:06:00,080 --> 00:06:02,150
+the different changes we've made and we
+
+165
+00:06:02,150 --> 00:06:03,830
+can jump to certain points in our
+
+166
+00:06:03,830 --> 00:06:06,080
+history but don't pay much attention to
+
+167
+00:06:06,080 --> 00:06:07,760
+that now other than knowing there's
+
+168
+00:06:07,760 --> 00:06:09,680
+layers and history and different things
+
+169
+00:06:09,680 --> 00:06:11,300
+we can toggle on these different
+
+170
+00:06:11,300 --> 00:06:12,919
+toolbars and that's just going to be
+
+171
+00:06:12,919 --> 00:06:15,560
+something very similar on every
+
+172
+00:06:15,560 --> 00:06:17,270
+different dialog there's these little
+
+173
+00:06:17,270 --> 00:06:19,580
+icons we can click to get to different
+
+174
+00:06:19,580 --> 00:06:21,979
+points of them so just be aware of that
+
+175
+00:06:21,979 --> 00:06:24,410
+these are all customizable we can move
+
+176
+00:06:24,410 --> 00:06:26,090
+them around and change them but for now
+
+177
+00:06:26,090 --> 00:06:27,650
+let's just ignore everything over here
+
+178
+00:06:27,650 --> 00:06:29,660
+to the right and let's only play with
+
+179
+00:06:29,660 --> 00:06:31,940
+clicking on different tools here and
+
+180
+00:06:31,940 --> 00:06:33,530
+then looking at the settings they have
+
+181
+00:06:33,530 --> 00:06:35,750
+below another good setting we can look
+
+182
+00:06:35,750 --> 00:06:37,159
+at or another good tool is this
+
+183
+00:06:37,159 --> 00:06:39,380
+magnification this is zoom this
+
+184
+00:06:39,380 --> 00:06:40,820
+magnifier glass
+
+185
+00:06:40,820 --> 00:06:43,340
+when this is selected we can click and
+
+186
+00:06:43,340 --> 00:06:46,160
+left-click and zoom either out or zoom
+
+187
+00:06:46,160 --> 00:06:48,890
+in so we can zoom in very far here and
+
+188
+00:06:48,890 --> 00:06:50,480
+I've zoomed in really far so I'm just
+
+189
+00:06:50,480 --> 00:06:52,610
+seeing white so if I want to zoom out I
+
+190
+00:06:52,610 --> 00:06:54,590
+can come over to the options for this
+
+191
+00:06:54,590 --> 00:06:56,480
+tool and click the zoom out with my left
+
+192
+00:06:56,480 --> 00:06:58,640
+mouse button and now I can left-click
+
+193
+00:06:58,640 --> 00:07:01,610
+and we'll slowly start to zoom out and
+
+194
+00:07:01,610 --> 00:07:04,160
+see get to a certain part if this is how
+
+195
+00:07:04,160 --> 00:07:06,230
+sumed and we want to be we can stay at
+
+196
+00:07:06,230 --> 00:07:08,690
+this point select maybe our pencil tool
+
+197
+00:07:08,690 --> 00:07:11,330
+and left-click and draw with it and we
+
+198
+00:07:11,330 --> 00:07:13,220
+see it's taking on the brush settings
+
+199
+00:07:13,220 --> 00:07:16,160
+that we apply it to the eraser so if we
+
+200
+00:07:16,160 --> 00:07:18,110
+want to make this smaller we can come
+
+201
+00:07:18,110 --> 00:07:19,700
+over to the size and left-click and
+
+202
+00:07:19,700 --> 00:07:21,890
+change it to small or we can reset it to
+
+203
+00:07:21,890 --> 00:07:23,450
+the default by clicking this little icon
+
+204
+00:07:23,450 --> 00:07:26,570
+here if we hover over it tells us what
+
+205
+00:07:26,570 --> 00:07:28,940
+this does reset the aspect ratio reset
+
+206
+00:07:28,940 --> 00:07:31,490
+the spacing so we can reset the size and
+
+207
+00:07:31,490 --> 00:07:34,310
+now it's small again if we want to get
+
+208
+00:07:34,310 --> 00:07:37,760
+to a different portion of our drawing we
+
+209
+00:07:37,760 --> 00:07:39,710
+can use these sliders over here we can
+
+210
+00:07:39,710 --> 00:07:42,980
+left-click and slide up and down to get
+
+211
+00:07:42,980 --> 00:07:44,810
+to a lower part then we can keep drawing
+
+212
+00:07:44,810 --> 00:07:47,660
+and then slide down and there's also a
+
+213
+00:07:47,660 --> 00:07:49,670
+slider across the bottom as well so we
+
+214
+00:07:49,670 --> 00:07:52,040
+didn't slide from left to right another
+
+215
+00:07:52,040 --> 00:07:54,350
+way to do that is just hold down the the
+
+216
+00:07:54,350 --> 00:07:56,660
+control wheel on your mouse and it
+
+217
+00:07:56,660 --> 00:07:58,640
+creates this sort of hand grab icon it's
+
+218
+00:07:58,640 --> 00:08:01,280
+like grabbing the entire canvas and just
+
+219
+00:08:01,280 --> 00:08:04,430
+moving to a certain point and there's
+
+220
+00:08:04,430 --> 00:08:05,750
+lots of different shortcuts we'll learn
+
+221
+00:08:05,750 --> 00:08:07,550
+but for now it's good to get familiar
+
+222
+00:08:07,550 --> 00:08:09,800
+with just using the different tools we
+
+223
+00:08:09,800 --> 00:08:11,630
+can zoom out here and left-click and
+
+224
+00:08:11,630 --> 00:08:15,530
+quickly zoom out we're going to talk
+
+225
+00:08:15,530 --> 00:08:17,090
+about changing the color in the next
+
+226
+00:08:17,090 --> 00:08:18,740
+video that's just right here we click
+
+227
+00:08:18,740 --> 00:08:20,690
+and we can change our color but we'll
+
+228
+00:08:20,690 --> 00:08:21,980
+learn more about this it gets a little
+
+229
+00:08:21,980 --> 00:08:23,840
+bit complex and will sort of take that
+
+230
+00:08:23,840 --> 00:08:26,060
+apart and learn it in the next video for
+
+231
+00:08:26,060 --> 00:08:27,380
+now I just want to show you if we get
+
+232
+00:08:27,380 --> 00:08:29,030
+something drawn like this and we want to
+
+233
+00:08:29,030 --> 00:08:31,820
+save our project we can go to the top
+
+234
+00:08:31,820 --> 00:08:33,710
+left hand corner again and go to file
+
+235
+00:08:33,710 --> 00:08:36,409
+and this time we can go to save or we
+
+236
+00:08:36,409 --> 00:08:38,030
+can go to export it depends on what we
+
+237
+00:08:38,030 --> 00:08:40,099
+want to do with this picture if we want
+
+238
+00:08:40,099 --> 00:08:42,500
+to save it and work on it later we click
+
+239
+00:08:42,500 --> 00:08:45,200
+save that brings up this dialog box that
+
+240
+00:08:45,200 --> 00:08:48,110
+lets us save the project on our computer
+
+241
+00:08:48,110 --> 00:08:50,540
+we see that last three letters is a dot
+
+242
+00:08:50,540 --> 00:08:54,450
+xcf file which is a project
+
+243
+00:08:54,450 --> 00:08:56,850
+file so we just changed the first part
+
+244
+00:08:56,850 --> 00:09:00,540
+of this to my project or whatever you
+
+245
+00:09:00,540 --> 00:09:02,580
+want to call it and then it will save it
+
+246
+00:09:02,580 --> 00:09:04,860
+in documents is where I'm saved that you
+
+247
+00:09:04,860 --> 00:09:07,200
+can change put it in pictures maybe or a
+
+248
+00:09:07,200 --> 00:09:09,150
+certain folder on your computer and I'll
+
+249
+00:09:09,150 --> 00:09:11,550
+click Save and then that will save it to
+
+250
+00:09:11,550 --> 00:09:14,010
+the documents in my computer but again
+
+251
+00:09:14,010 --> 00:09:16,560
+it's a project file so where's my
+
+252
+00:09:16,560 --> 00:09:19,890
+documents right here so here's this file
+
+253
+00:09:19,890 --> 00:09:22,380
+that we've created that Sadaat xcf it's
+
+254
+00:09:22,380 --> 00:09:24,240
+not going to be really compatible people
+
+255
+00:09:24,240 --> 00:09:26,040
+can't open this with just everyday
+
+256
+00:09:26,040 --> 00:09:29,700
+software they have to have a or a
+
+257
+00:09:29,700 --> 00:09:31,650
+program that can open this type of file
+
+258
+00:09:31,650 --> 00:09:33,630
+so we don't want to send this to someone
+
+259
+00:09:33,630 --> 00:09:35,670
+in an email or upload it to a blog or a
+
+260
+00:09:35,670 --> 00:09:38,610
+web page we can't really print this very
+
+261
+00:09:38,610 --> 00:09:41,790
+easily without using we want to
+
+262
+00:09:41,790 --> 00:09:43,410
+convert this if we want to share this
+
+263
+00:09:43,410 --> 00:09:45,840
+what we would do is export this image
+
+264
+00:09:45,840 --> 00:09:49,410
+instead so to do that we go file and we
+
+265
+00:09:49,410 --> 00:09:51,660
+go to export and that's sort of like
+
+266
+00:09:51,660 --> 00:09:54,150
+developing the picture as it's sort of
+
+267
+00:09:54,150 --> 00:09:55,680
+like when it's set in stone and we're
+
+268
+00:09:55,680 --> 00:09:58,320
+done making changes to it then we go to
+
+269
+00:09:58,320 --> 00:10:01,470
+export and you can export and save it's
+
+270
+00:10:01,470 --> 00:10:02,820
+a good idea to save your project and
+
+271
+00:10:02,820 --> 00:10:05,400
+then also export and so again now we see
+
+272
+00:10:05,400 --> 00:10:08,160
+under the export options it's a dot PNG
+
+273
+00:10:08,160 --> 00:10:10,410
+which is an image file we can change
+
+274
+00:10:10,410 --> 00:10:11,730
+that as well but we'll just leave it
+
+275
+00:10:11,730 --> 00:10:13,110
+call it whatever you want to make sure
+
+276
+00:10:13,110 --> 00:10:16,590
+it's a dot PNG file and hit export and
+
+277
+00:10:16,590 --> 00:10:18,930
+then it brings up this dialog with some
+
+278
+00:10:18,930 --> 00:10:21,060
+more advanced options just leave
+
+279
+00:10:21,060 --> 00:10:22,860
+everything how it is here and hit export
+
+280
+00:10:22,860 --> 00:10:26,430
+and then it exports this image don't get
+
+281
+00:10:26,430 --> 00:10:28,590
+overwhelmed in settings
+
+282
+00:10:28,590 --> 00:10:30,720
+ is very well organized from the
+
+283
+00:10:30,720 --> 00:10:32,250
+beginning to just leave everything at
+
+284
+00:10:32,250 --> 00:10:33,930
+default and then as you get more
+
+285
+00:10:33,930 --> 00:10:35,760
+comfortable and more advanced I'm using
+
+286
+00:10:35,760 --> 00:10:37,710
+it you can maybe play with and tweak
+
+287
+00:10:37,710 --> 00:10:39,990
+some of those advanced settings and so
+
+288
+00:10:39,990 --> 00:10:41,610
+now we can minimize this and go to the
+
+289
+00:10:41,610 --> 00:10:42,750
+location on our computer that we've
+
+290
+00:10:42,750 --> 00:10:45,120
+saved I saved it in My Documents and we
+
+291
+00:10:45,120 --> 00:10:48,390
+see we have to now a project file which
+
+292
+00:10:48,390 --> 00:10:50,760
+is dot xcf if we click on this it'll
+
+293
+00:10:50,760 --> 00:10:52,800
+open it up in and then we also have
+
+294
+00:10:52,800 --> 00:10:55,350
+an image file they look the same but the
+
+295
+00:10:55,350 --> 00:10:57,660
+image file is a more compatible format
+
+296
+00:10:57,660 --> 00:11:00,600
+we can send we can upload to our blog or
+
+297
+00:11:00,600 --> 00:11:02,760
+a website or we can print this take it
+
+298
+00:11:02,760 --> 00:11:04,440
+to like Walgreens or summer and have it
+
+299
+00:11:04,440 --> 00:11:05,600
+printed and
+
+300
+00:11:05,600 --> 00:11:08,329
+be like what but this is just like a PNG
+
+301
+00:11:08,329 --> 00:11:11,269
+image okay and it's just being displayed
+
+302
+00:11:11,269 --> 00:11:12,980
+we can't make changes to it right here
+
+303
+00:11:12,980 --> 00:11:16,220
+it's just an image file and you can
+
+304
+00:11:16,220 --> 00:11:17,329
+learn if you're not familiar with that
+
+305
+00:11:17,329 --> 00:11:19,069
+this may be outside the scope of this is
+
+306
+00:11:19,069 --> 00:11:20,540
+learning about different image formats
+
+307
+00:11:20,540 --> 00:11:22,370
+but just know there's two different ways
+
+308
+00:11:22,370 --> 00:11:25,009
+in we do file save to save our
+
+309
+00:11:25,009 --> 00:11:26,779
+project and work on it in the future and
+
+310
+00:11:26,779 --> 00:11:29,509
+then export exports a final finished
+
+311
+00:11:29,509 --> 00:11:31,399
+image and you can make changes and
+
+312
+00:11:31,399 --> 00:11:33,019
+export it as many times as you want we
+
+313
+00:11:33,019 --> 00:11:34,670
+could now export and call it something
+
+314
+00:11:34,670 --> 00:11:36,920
+different but we'll play with that more
+
+315
+00:11:36,920 --> 00:11:38,600
+in the future too so play with these
+
+316
+00:11:38,600 --> 00:11:41,240
+brushes play with the eraser tool learn
+
+317
+00:11:41,240 --> 00:11:43,190
+how to go ahead and play with some of
+
+318
+00:11:43,190 --> 00:11:44,480
+these different things like spacing and
+
+319
+00:11:44,480 --> 00:11:45,980
+hardness and see how it affects your
+
+320
+00:11:45,980 --> 00:11:48,380
+brush and in the next video we'll be
+
+321
+00:11:48,380 --> 00:11:50,389
+learning about color and some more of
+
+322
+00:11:50,389 --> 00:11:53,000
+different tools that we can use in
+
+323
+00:11:53,000 --> 00:11:54,649
+leave your questions or comments below
+
+324
+00:11:54,649 --> 00:11:56,209
+if you have any and I'll catch you in
+
+325
+00:11:56,209 --> 00:11:58,870
+the next video
+

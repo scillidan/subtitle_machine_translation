@@ -1,0 +1,796 @@
+1
+00:00:02,840 --> 00:00:05,070
+welcome back to another video editing
+
+2
+00:00:05,070 --> 00:00:07,259
+tutorial in the free software kdenlive
+
+3
+00:00:07,259 --> 00:00:09,389
+in this video we're going to be looking
+
+4
+00:00:09,389 --> 00:00:11,730
+at the crop and transform effects so
+
+5
+00:00:11,730 --> 00:00:13,999
+that we can change the look of our video
+
+6
+00:00:13,999 --> 00:00:16,710
+basically we can zoom in and just watch
+
+7
+00:00:16,710 --> 00:00:18,810
+one portion of our video like the top
+
+8
+00:00:18,810 --> 00:00:21,330
+right hand corner we can zoom out we can
+
+9
+00:00:21,330 --> 00:00:23,009
+drag and move the video around to a
+
+10
+00:00:23,009 --> 00:00:25,320
+different location to get started I'm
+
+11
+00:00:25,320 --> 00:00:26,789
+going to read in a video clip I'll just
+
+12
+00:00:26,789 --> 00:00:29,699
+click up here on my add clip and I can
+
+13
+00:00:29,699 --> 00:00:32,250
+find a nice clip here of this cyclist
+
+14
+00:00:32,250 --> 00:00:34,710
+that we've used in the past so if we
+
+15
+00:00:34,710 --> 00:00:36,360
+play this it just shows us here's the
+
+16
+00:00:36,360 --> 00:00:38,430
+cyclist grabbing his bike but maybe we
+
+17
+00:00:38,430 --> 00:00:40,050
+want to zoom in and only be we don't
+
+18
+00:00:40,050 --> 00:00:42,360
+want to see these bikes over here we
+
+19
+00:00:42,360 --> 00:00:44,310
+don't like the way that shot looks so we
+
+20
+00:00:44,310 --> 00:00:45,720
+can just zoom in and just see this
+
+21
+00:00:45,720 --> 00:00:47,460
+portion here there's a couple ways we
+
+22
+00:00:47,460 --> 00:00:49,830
+can do it but first let's left-click and
+
+23
+00:00:49,830 --> 00:00:52,920
+drag this down to our video track 1 so
+
+24
+00:00:52,920 --> 00:00:56,130
+we have our video here and I'm gonna go
+
+25
+00:00:56,130 --> 00:00:57,600
+to the bottom right and zoom in so we
+
+26
+00:00:57,600 --> 00:01:00,030
+can kind of see art a little bit larger
+
+27
+00:01:00,030 --> 00:01:03,030
+view of our timeline and now we can see
+
+28
+00:01:03,030 --> 00:01:04,170
+what this looks like I'm gonna left
+
+29
+00:01:04,170 --> 00:01:06,270
+click on the playhead and just hold and
+
+30
+00:01:06,270 --> 00:01:09,150
+drag until I get to the point so I can
+
+31
+00:01:09,150 --> 00:01:11,100
+kind of see so the camera does move a
+
+32
+00:01:11,100 --> 00:01:12,660
+little bit that doesn't really matter
+
+33
+00:01:12,660 --> 00:01:14,130
+let's just for all intents and purposes
+
+34
+00:01:14,130 --> 00:01:15,870
+let's just cut in maybe like where his
+
+35
+00:01:15,870 --> 00:01:18,180
+knees are and have the video be kind of
+
+36
+00:01:18,180 --> 00:01:20,520
+this portion here so we need to apply a
+
+37
+00:01:20,520 --> 00:01:23,670
+crop effect so we could just type in
+
+38
+00:01:23,670 --> 00:01:25,470
+crop up here actually it's not really
+
+39
+00:01:25,470 --> 00:01:28,440
+crop what we want to do even though the
+
+40
+00:01:28,440 --> 00:01:30,210
+effect is called crop it's under the
+
+41
+00:01:30,210 --> 00:01:32,640
+transform effect so we're gonna left
+
+42
+00:01:32,640 --> 00:01:35,180
+click on transform and drag it down into
+
+43
+00:01:35,180 --> 00:01:37,470
+here and then we see we have the options
+
+44
+00:01:37,470 --> 00:01:40,500
+appear under these properties and we can
+
+45
+00:01:40,500 --> 00:01:41,820
+have different in the last video we did
+
+46
+00:01:41,820 --> 00:01:44,400
+this speed under motion with speed and
+
+47
+00:01:44,400 --> 00:01:46,370
+we can actually apply multiple effects
+
+48
+00:01:46,370 --> 00:01:49,860
+to one single clip so right now we have
+
+49
+00:01:49,860 --> 00:01:52,409
+speed here and we have transform and
+
+50
+00:01:52,409 --> 00:01:54,390
+this little triangle which toggles which
+
+51
+00:01:54,390 --> 00:01:55,950
+one we're viewing we can be both at the
+
+52
+00:01:55,950 --> 00:01:58,200
+same time speed only has one setting to
+
+53
+00:01:58,200 --> 00:02:00,500
+change I'm going to delete it though and
+
+54
+00:02:00,500 --> 00:02:03,510
+but this transform effect has multiple
+
+55
+00:02:03,510 --> 00:02:06,270
+different settings so what for example
+
+56
+00:02:06,270 --> 00:02:08,699
+we can do the biggest thing by default
+
+57
+00:02:08,699 --> 00:02:10,709
+there's maybe size so we can come here
+
+58
+00:02:10,709 --> 00:02:12,420
+and change the size the size just like
+
+59
+00:02:12,420 --> 00:02:13,830
+we did with speed we
+
+60
+00:02:13,830 --> 00:02:15,840
+change the size at 200% and hit enter
+
+61
+00:02:15,840 --> 00:02:18,720
+and then it zooms in 200% based off of
+
+62
+00:02:18,720 --> 00:02:21,270
+the top left-hand corner we can then
+
+63
+00:02:21,270 --> 00:02:23,970
+change like this X&Y issues our scroll
+
+64
+00:02:23,970 --> 00:02:26,190
+wheel and change like slowly it's moving
+
+65
+00:02:26,190 --> 00:02:28,560
+over a pixel-by-pixel or we can type in
+
+66
+00:02:28,560 --> 00:02:31,470
+like negative 300 and it'll move over on
+
+67
+00:02:31,470 --> 00:02:34,260
+the x-axis that much but what we can
+
+68
+00:02:34,260 --> 00:02:36,750
+also do I'm gonna reset this back to how
+
+69
+00:02:36,750 --> 00:02:38,190
+it was I'll click these three lines here
+
+70
+00:02:38,190 --> 00:02:40,590
+and go to reset effect and that just
+
+71
+00:02:40,590 --> 00:02:41,970
+resets everything back to how it was
+
+72
+00:02:41,970 --> 00:02:45,330
+before we made any changes another way
+
+73
+00:02:45,330 --> 00:02:46,560
+we can move it around just by clicking
+
+74
+00:02:46,560 --> 00:02:48,270
+here there's a little dot in the center
+
+75
+00:02:48,270 --> 00:02:49,950
+we can left-click and then we can move
+
+76
+00:02:49,950 --> 00:02:53,640
+this video to any place we want if we
+
+77
+00:02:53,640 --> 00:02:55,770
+play the video it'll just play from
+
+78
+00:02:55,770 --> 00:02:57,360
+right there so it's actually playing
+
+79
+00:02:57,360 --> 00:03:00,990
+just has some black lines up here we can
+
+80
+00:03:00,990 --> 00:03:02,940
+resize so if we go to the edge we can
+
+81
+00:03:02,940 --> 00:03:06,240
+actually resize this and it's going to
+
+82
+00:03:06,240 --> 00:03:08,550
+resize it uniformly because we have this
+
+83
+00:03:08,550 --> 00:03:11,730
+little link checked here keep lock
+
+84
+00:03:11,730 --> 00:03:15,030
+aspect ratio so our width is now 602 and
+
+85
+00:03:15,030 --> 00:03:17,580
+our height is now 339 we see those
+
+86
+00:03:17,580 --> 00:03:20,820
+numbers change as we move this the size
+
+87
+00:03:20,820 --> 00:03:24,000
+changes so now it's 52% so that's
+
+88
+00:03:24,000 --> 00:03:25,260
+another way we can change it we can come
+
+89
+00:03:25,260 --> 00:03:26,519
+over here to the percentage and just
+
+90
+00:03:26,519 --> 00:03:28,350
+scroll wheel up and down and change it
+
+91
+00:03:28,350 --> 00:03:32,070
+we can do these different handles or
+
+92
+00:03:32,070 --> 00:03:33,840
+these different dots on the corner and
+
+93
+00:03:33,840 --> 00:03:35,250
+move it around that a change of size
+
+94
+00:03:35,250 --> 00:03:36,989
+that way and because I'm moving around
+
+95
+00:03:36,989 --> 00:03:39,209
+so those are the it's kind of cool the
+
+96
+00:03:39,209 --> 00:03:41,130
+different ways we have of changing this
+
+97
+00:03:41,130 --> 00:03:43,980
+video but yeah if we want to go in and
+
+98
+00:03:43,980 --> 00:03:45,239
+that's why it's kind of nice sometimes
+
+99
+00:03:45,239 --> 00:03:47,340
+use these numbers because if we actually
+
+100
+00:03:47,340 --> 00:03:50,910
+want to zoom in like greater than 100%
+
+101
+00:03:50,910 --> 00:03:53,340
+we start to lose that Center that Center
+
+102
+00:03:53,340 --> 00:03:55,650
+dot we don't know exactly where it is so
+
+103
+00:03:55,650 --> 00:03:57,180
+it's good it gets harder to move around
+
+104
+00:03:57,180 --> 00:04:00,989
+especially if we're in at like 300% then
+
+105
+00:04:00,989 --> 00:04:02,250
+it's hard to see so that's why it's nice
+
+106
+00:04:02,250 --> 00:04:04,950
+to use the X&Y in that case sometimes so
+
+107
+00:04:04,950 --> 00:04:08,130
+we might go negative 204 here or maybe
+
+108
+00:04:08,130 --> 00:04:12,840
+let's just go back to 0 and maybe that's
+
+109
+00:04:12,840 --> 00:04:15,450
+too much let's go to 200 on this ok so
+
+110
+00:04:15,450 --> 00:04:16,950
+now we can kind of see here but we can
+
+111
+00:04:16,950 --> 00:04:18,690
+barely see that little dot so we'll
+
+112
+00:04:18,690 --> 00:04:21,209
+bring it over to there so now let's play
+
+113
+00:04:21,209 --> 00:04:23,010
+this we can go back to the beginning or
+
+114
+00:04:23,010 --> 00:04:24,900
+roughly the beginning and we can play
+
+115
+00:04:24,900 --> 00:04:27,480
+and see he's grabbing the bike
+
+116
+00:04:27,480 --> 00:04:29,370
+going and if we want to see what this
+
+117
+00:04:29,370 --> 00:04:30,420
+looks like compared to the original
+
+118
+00:04:30,420 --> 00:04:32,580
+video we still have it over here in our
+
+119
+00:04:32,580 --> 00:04:35,130
+project bin we can click on clip monitor
+
+120
+00:04:35,130 --> 00:04:38,520
+and we can see what it looks like there
+
+121
+00:04:38,520 --> 00:04:40,530
+so here is this is what our project
+
+122
+00:04:40,530 --> 00:04:42,450
+looks like and in the clip monitor this
+
+123
+00:04:42,450 --> 00:04:43,890
+is what the original shot looked like so
+
+124
+00:04:43,890 --> 00:04:46,170
+we can see how far in we are how far
+
+125
+00:04:46,170 --> 00:04:50,000
+cropped in we are yeah
+
+126
+00:04:50,000 --> 00:04:51,900
+that's basically it there's also
+
+127
+00:04:51,900 --> 00:04:53,340
+rotation so if we go back to a project
+
+128
+00:04:53,340 --> 00:04:56,010
+monitor we can also rotate this shot so
+
+129
+00:04:56,010 --> 00:04:57,960
+we probably this is pretty level if I
+
+130
+00:04:57,960 --> 00:04:59,520
+wouldn't want to but we could rotate it
+
+131
+00:04:59,520 --> 00:05:01,920
+a tiny bit and we just click and now
+
+132
+00:05:01,920 --> 00:05:03,930
+it's rotated but we have until we see a
+
+133
+00:05:03,930 --> 00:05:06,360
+black line there so if we did rotation
+
+134
+00:05:06,360 --> 00:05:08,970
+we want to move this up to maybe like
+
+135
+00:05:08,970 --> 00:05:11,310
+you know a certain point because what's
+
+136
+00:05:11,310 --> 00:05:14,040
+happening is as we zoom out here it's
+
+137
+00:05:14,040 --> 00:05:15,570
+actually just rotating the whole thing
+
+138
+00:05:15,570 --> 00:05:19,860
+so we get some black appearing and so
+
+139
+00:05:19,860 --> 00:05:21,090
+depending on what you're doing rotation
+
+140
+00:05:21,090 --> 00:05:25,950
+is an option yeah that is the basically
+
+141
+00:05:25,950 --> 00:05:27,540
+that's the effect for transform there's
+
+142
+00:05:27,540 --> 00:05:28,800
+some different ones if we want to delete
+
+143
+00:05:28,800 --> 00:05:30,510
+this effect it goes back to normal
+
+144
+00:05:30,510 --> 00:05:32,490
+we've got letterbox we can just drag in
+
+145
+00:05:32,490 --> 00:05:34,230
+and that just has black bars on the top
+
+146
+00:05:34,230 --> 00:05:36,480
+and the bottom we can change the size of
+
+147
+00:05:36,480 --> 00:05:38,340
+it so if you want to create the kind
+
+148
+00:05:38,340 --> 00:05:40,020
+like a cinematic effect have an ultra
+
+149
+00:05:40,020 --> 00:05:43,010
+wide screen it'll still export the video
+
+150
+00:05:43,010 --> 00:05:45,630
+1920 by 1080 or whatever your settings
+
+151
+00:05:45,630 --> 00:05:48,060
+are but it'll export it with a black box
+
+152
+00:05:48,060 --> 00:05:50,670
+like this it's like a letter boxing and
+
+153
+00:05:50,670 --> 00:05:52,710
+it just kind of helps draw your eyes to
+
+154
+00:05:52,710 --> 00:05:56,670
+like a certain portion of the video so
+
+155
+00:05:56,670 --> 00:05:59,010
+it's letterboxing an edge crop kind of
+
+156
+00:05:59,010 --> 00:05:59,940
+does the same thing I'll just show you a
+
+157
+00:05:59,940 --> 00:06:01,530
+few of these with edge crop if we drag
+
+158
+00:06:01,530 --> 00:06:04,260
+it in we can crop just a certain edge so
+
+159
+00:06:04,260 --> 00:06:07,080
+from the right we can crop in a little
+
+160
+00:06:07,080 --> 00:06:10,080
+bit so it cuts out part of the right and
+
+161
+00:06:10,080 --> 00:06:12,150
+then it also is centering the it Reese
+
+162
+00:06:12,150 --> 00:06:14,970
+enters the video but it cut out part so
+
+163
+00:06:14,970 --> 00:06:15,930
+that's another way we could do it if we
+
+164
+00:06:15,930 --> 00:06:17,250
+want to cut out those bikes over there
+
+165
+00:06:17,250 --> 00:06:19,470
+we can just do this so that cuts out
+
+166
+00:06:19,470 --> 00:06:22,440
+those bikes and but then it still shows
+
+167
+00:06:22,440 --> 00:06:23,700
+this portion of the video so we can
+
+168
+00:06:23,700 --> 00:06:28,970
+watch and see yeah what that looks like
+
+169
+00:06:29,000 --> 00:06:31,020
+and then again just like in the other
+
+170
+00:06:31,020 --> 00:06:33,330
+tutorials we can render this out save it
+
+171
+00:06:33,330 --> 00:06:35,100
+to a certain place on the computer I'm
+
+172
+00:06:35,100 --> 00:06:37,140
+not going to do it here but you get the
+
+173
+00:06:37,140 --> 00:06:38,259
+idea
+
+174
+00:06:38,259 --> 00:06:39,879
+and there's some of these with things
+
+175
+00:06:39,879 --> 00:06:41,650
+have key or keyframe well we'll talk
+
+176
+00:06:41,650 --> 00:06:43,990
+about keyframes and future tutorials but
+
+177
+00:06:43,990 --> 00:06:45,430
+what that lets us do is actually apply
+
+178
+00:06:45,430 --> 00:06:49,240
+if we wanted to do a good example might
+
+179
+00:06:49,240 --> 00:06:51,279
+be this letterboxing if we want to
+
+180
+00:06:51,279 --> 00:06:53,050
+keyframe the letterboxing which I don't
+
+181
+00:06:53,050 --> 00:06:54,819
+know if it even lets us do but it would
+
+182
+00:06:54,819 --> 00:06:57,099
+be animated so it would like slowly we
+
+183
+00:06:57,099 --> 00:07:01,120
+would see this part moving as the video
+
+184
+00:07:01,120 --> 00:07:03,189
+is also moving whereas right now
+
+185
+00:07:03,189 --> 00:07:05,279
+whatever we set it to it stays that way
+
+186
+00:07:05,279 --> 00:07:08,770
+that's how we could like zoom in on the
+
+187
+00:07:08,770 --> 00:07:10,870
+shot while the shot is actually playing
+
+188
+00:07:10,870 --> 00:07:14,020
+is by using keyframes and again check
+
+189
+00:07:14,020 --> 00:07:15,610
+out future tutorials where we learn how
+
+190
+00:07:15,610 --> 00:07:17,529
+to do that appreciate you watching this
+
+191
+00:07:17,529 --> 00:07:18,789
+video go ahead and like comment
+
+192
+00:07:18,789 --> 00:07:20,529
+subscribe get involved in the
+
+193
+00:07:20,529 --> 00:07:22,629
+conversation leave comments below of
+
+194
+00:07:22,629 --> 00:07:24,339
+types of videos you'd like me to make or
+
+195
+00:07:24,339 --> 00:07:25,659
+if you want to learn a specific thing
+
+196
+00:07:25,659 --> 00:07:27,729
+that I'm not covering I'd love to hear
+
+197
+00:07:27,729 --> 00:07:29,050
+from you
+
+198
+00:07:29,050 --> 00:07:30,460
+but yeah appreciate your watching and
+
+199
+00:07:30,460 --> 00:07:33,749
+I'll catch you in the next video
+

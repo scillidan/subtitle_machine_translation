@@ -1,0 +1,932 @@
+1
+00:00:02,210 --> 00:00:04,830
+welcome to another tutorial in this
+
+2
+00:00:04,830 --> 00:00:06,720
+video we'll be learning about the rotate
+
+3
+00:00:06,720 --> 00:00:09,780
+tool and also the scale tool which will
+
+4
+00:00:09,780 --> 00:00:11,669
+let us scale and rotate our image or
+
+5
+00:00:11,669 --> 00:00:14,219
+just a certain selected part of our
+
+6
+00:00:14,219 --> 00:00:17,730
+image as well so to get started I'm
+
+7
+00:00:17,730 --> 00:00:19,259
+going to control Z will undo all these
+
+8
+00:00:19,259 --> 00:00:21,359
+changes go ahead and locate these tools
+
+9
+00:00:21,359 --> 00:00:23,070
+if you hover over it tells you about
+
+10
+00:00:23,070 --> 00:00:25,169
+them the rotate tool shift R is a
+
+11
+00:00:25,169 --> 00:00:27,509
+shortcut to access it and the scale tool
+
+12
+00:00:27,509 --> 00:00:29,609
+is right next to it it's shift s again
+
+13
+00:00:29,609 --> 00:00:30,839
+your icons may look a little bit
+
+14
+00:00:30,839 --> 00:00:31,800
+different than mine but don't worry
+
+15
+00:00:31,800 --> 00:00:33,930
+about that when we click on the tool we
+
+16
+00:00:33,930 --> 00:00:35,630
+get more options for it down below
+
+17
+00:00:35,630 --> 00:00:38,520
+sometimes for whatever reason you may be
+
+18
+00:00:38,520 --> 00:00:41,100
+on a different transform mode you might
+
+19
+00:00:41,100 --> 00:00:43,710
+be transforming your selection in this
+
+20
+00:00:43,710 --> 00:00:45,300
+case you might get an error message or
+
+21
+00:00:45,300 --> 00:00:47,940
+if you have something selected say we
+
+22
+00:00:47,940 --> 00:00:49,200
+were using the selection tool to select
+
+23
+00:00:49,200 --> 00:00:52,800
+a certain area we could rotate just the
+
+24
+00:00:52,800 --> 00:00:55,320
+selection but you probably don't want to
+
+25
+00:00:55,320 --> 00:00:57,000
+do that right off if we do this and hit
+
+26
+00:00:57,000 --> 00:00:58,590
+rotate it's just going to rotate our
+
+27
+00:00:58,590 --> 00:01:00,810
+selection and not our image so make sure
+
+28
+00:01:00,810 --> 00:01:03,540
+on the mode you're on the transform
+
+29
+00:01:03,540 --> 00:01:07,560
+layer not selection or path I'm going to
+
+30
+00:01:07,560 --> 00:01:09,390
+go to right click and just go to select
+
+31
+00:01:09,390 --> 00:01:11,460
+all so we're selecting our entire image
+
+32
+00:01:11,460 --> 00:01:13,950
+and then with the rotation tool selected
+
+33
+00:01:13,950 --> 00:01:16,350
+and in the transform mode under layer we
+
+34
+00:01:16,350 --> 00:01:18,990
+can just left click and hold and move
+
+35
+00:01:18,990 --> 00:01:21,510
+around like from right to left or up and
+
+36
+00:01:21,510 --> 00:01:24,840
+down to rotate this image when we think
+
+37
+00:01:24,840 --> 00:01:26,130
+we have it where we want we can click
+
+38
+00:01:26,130 --> 00:01:28,200
+rotate and it will rotate it to that
+
+39
+00:01:28,200 --> 00:01:30,870
+position notice we've kind of cut off we
+
+40
+00:01:30,870 --> 00:01:32,340
+haven't really cut off these areas
+
+41
+00:01:32,340 --> 00:01:34,620
+they're still there but they are outside
+
+42
+00:01:34,620 --> 00:01:37,710
+of our project or outside of the size of
+
+43
+00:01:37,710 --> 00:01:40,050
+our image so we would need to either
+
+44
+00:01:40,050 --> 00:01:42,750
+resize our image to get those or scale
+
+45
+00:01:42,750 --> 00:01:45,000
+down our selection so that brings us
+
+46
+00:01:45,000 --> 00:01:46,380
+into the next tool if we wanted to keep
+
+47
+00:01:46,380 --> 00:01:48,810
+these areas and maybe put a color in
+
+48
+00:01:48,810 --> 00:01:51,000
+over top of this transparency we can
+
+49
+00:01:51,000 --> 00:01:52,890
+left-click and select the scale tool and
+
+50
+00:01:52,890 --> 00:01:55,080
+it behaves very similarly we can just
+
+51
+00:01:55,080 --> 00:01:58,290
+left click and hold and scale down and
+
+52
+00:01:58,290 --> 00:02:00,930
+scale the size of our selected area
+
+53
+00:02:00,930 --> 00:02:03,760
+which in this case was the whole image
+
+54
+00:02:03,760 --> 00:02:06,470
+the scale tool also has this little box
+
+55
+00:02:06,470 --> 00:02:08,000
+in the center if we left click and hold
+
+56
+00:02:08,000 --> 00:02:10,220
+that it also has a move function so we
+
+57
+00:02:10,220 --> 00:02:12,800
+could move this and keep scaling it down
+
+58
+00:02:12,800 --> 00:02:13,940
+by just left clicking and holding
+
+59
+00:02:13,940 --> 00:02:16,400
+anywhere or we can also scale by
+
+60
+00:02:16,400 --> 00:02:18,350
+dragging these little boxes on the
+
+61
+00:02:18,350 --> 00:02:20,630
+corners we can even scale looks like
+
+62
+00:02:20,630 --> 00:02:22,880
+it's gonna scale uniformly but there's
+
+63
+00:02:22,880 --> 00:02:24,230
+some options we could change if we
+
+64
+00:02:24,230 --> 00:02:27,110
+wanted to squish this down we could come
+
+65
+00:02:27,110 --> 00:02:29,630
+over here under the options and check
+
+66
+00:02:29,630 --> 00:02:32,090
+this box here that says keep aspect
+
+67
+00:02:32,090 --> 00:02:34,790
+ratio or rather uncheck it and if we do
+
+68
+00:02:34,790 --> 00:02:37,370
+that then it'll allow us to squish this
+
+69
+00:02:37,370 --> 00:02:40,970
+down and kind of make it not not scale
+
+70
+00:02:40,970 --> 00:02:43,940
+it uniformly if that makes sense so pay
+
+71
+00:02:43,940 --> 00:02:45,320
+attention to the options we have over
+
+72
+00:02:45,320 --> 00:02:47,600
+here and that's gonna help you out a lot
+
+73
+00:02:47,600 --> 00:02:49,490
+with these tools let's jump over to a
+
+74
+00:02:49,490 --> 00:02:51,170
+different one I'm hit control Z and undo
+
+75
+00:02:51,170 --> 00:02:53,840
+everything we did to this let's go to an
+
+76
+00:02:53,840 --> 00:02:55,610
+image here actually let's do this one
+
+77
+00:02:55,610 --> 00:02:57,770
+real quick so in this image that has the
+
+78
+00:02:57,770 --> 00:03:00,200
+horizon is sort of off it's not the
+
+79
+00:03:00,200 --> 00:03:02,630
+level and if we wanted to level out that
+
+80
+00:03:02,630 --> 00:03:04,910
+horizon what we can do is just click on
+
+81
+00:03:04,910 --> 00:03:07,040
+the rotate tool and then the left-click
+
+82
+00:03:07,040 --> 00:03:09,230
+and a hold on this image and we could
+
+83
+00:03:09,230 --> 00:03:10,640
+try an eyeball it and get it to where we
+
+84
+00:03:10,640 --> 00:03:13,040
+want and then we can hit the rotate
+
+85
+00:03:13,040 --> 00:03:14,780
+button or hit the enter key on the
+
+86
+00:03:14,780 --> 00:03:16,670
+keyboard to actually rotate that and set
+
+87
+00:03:16,670 --> 00:03:19,519
+those changes but if I do control Z
+
+88
+00:03:19,519 --> 00:03:21,380
+there's another way we can do this which
+
+89
+00:03:21,380 --> 00:03:23,900
+is to create a guide we can hover over
+
+90
+00:03:23,900 --> 00:03:27,530
+it up here in this where it says how the
+
+91
+00:03:27,530 --> 00:03:29,870
+size of our image this kind of ruler
+
+92
+00:03:29,870 --> 00:03:32,150
+area we can left-click and hold down the
+
+93
+00:03:32,150 --> 00:03:34,730
+left mouse button and then just move to
+
+94
+00:03:34,730 --> 00:03:37,519
+the position we want and maybe we'll set
+
+95
+00:03:37,519 --> 00:03:39,350
+it right there and unclick now that
+
+96
+00:03:39,350 --> 00:03:41,989
+creates this blue dotted line that we
+
+97
+00:03:41,989 --> 00:03:44,780
+can use as a guide to rotate too we
+
+98
+00:03:44,780 --> 00:03:45,769
+could also do the same thing if we
+
+99
+00:03:45,769 --> 00:03:48,019
+wanted to from the left we can drag
+
+100
+00:03:48,019 --> 00:03:49,610
+another guide and we can drag as many as
+
+101
+00:03:49,610 --> 00:03:51,200
+we want we're gonna cover guides later
+
+102
+00:03:51,200 --> 00:03:53,000
+but to get rid of guides we click on the
+
+103
+00:03:53,000 --> 00:03:55,250
+move tool make sure we're we have
+
+104
+00:03:55,250 --> 00:03:57,590
+selected pick a layer or guide and you
+
+105
+00:03:57,590 --> 00:03:59,540
+can just drag it back off the screen and
+
+106
+00:03:59,540 --> 00:04:01,940
+it goes away so let's go back to the
+
+107
+00:04:01,940 --> 00:04:03,769
+rotate tool and now if we left click and
+
+108
+00:04:03,769 --> 00:04:06,230
+hold we can rotate this and try to match
+
+109
+00:04:06,230 --> 00:04:08,060
+it up with that line and that looks
+
+110
+00:04:08,060 --> 00:04:09,590
+pretty good there so we can hit the
+
+111
+00:04:09,590 --> 00:04:11,989
+enter key and now we've rotated this
+
+112
+00:04:11,989 --> 00:04:13,579
+image and it looks much better although
+
+113
+00:04:13,579 --> 00:04:17,488
+we do have sort of a black area here
+
+114
+00:04:17,488 --> 00:04:19,680
+this guide so see now we have some black
+
+115
+00:04:19,680 --> 00:04:22,770
+corners where we rotated so we could
+
+116
+00:04:22,770 --> 00:04:24,090
+crop in we've learn how to do that using
+
+117
+00:04:24,090 --> 00:04:26,430
+the crop tool we can left-click and kind
+
+118
+00:04:26,430 --> 00:04:29,039
+of create a crop area and sort of crop
+
+119
+00:04:29,039 --> 00:04:31,289
+this in nice how we want it to and then
+
+120
+00:04:31,289 --> 00:04:33,300
+hit enter now we've got a nice cropped
+
+121
+00:04:33,300 --> 00:04:36,300
+image with a level horizon so that's one
+
+122
+00:04:36,300 --> 00:04:37,710
+method to do that I'll show you another
+
+123
+00:04:37,710 --> 00:04:39,810
+method as well if you have an old image
+
+124
+00:04:39,810 --> 00:04:41,729
+like this this is an Old World War two
+
+125
+00:04:41,729 --> 00:04:44,370
+image from somewhere in Europe but if we
+
+126
+00:04:44,370 --> 00:04:46,349
+go to if we grab the selection tool
+
+127
+00:04:46,349 --> 00:04:47,669
+added let's grab the crop tool actually
+
+128
+00:04:47,669 --> 00:04:50,069
+if we go to we want to crop this out but
+
+129
+00:04:50,069 --> 00:04:51,900
+we don't want to lose any of the other
+
+130
+00:04:51,900 --> 00:04:54,990
+pixels in the image well we would have
+
+131
+00:04:54,990 --> 00:04:57,210
+sort of a line we have a white line at
+
+132
+00:04:57,210 --> 00:04:59,550
+the top a white line at the bottom so if
+
+133
+00:04:59,550 --> 00:05:02,069
+we wanted to rotate this before cropping
+
+134
+00:05:02,069 --> 00:05:04,409
+we could just do that with a guide we
+
+135
+00:05:04,409 --> 00:05:06,330
+could drag down a guide and then rotate
+
+136
+00:05:06,330 --> 00:05:08,520
+to it and maybe I'll keep that guide
+
+137
+00:05:08,520 --> 00:05:10,229
+there let me hit escape to get out of
+
+138
+00:05:10,229 --> 00:05:12,840
+the crop tool one other thing we can do
+
+139
+00:05:12,840 --> 00:05:14,370
+in the rotate though is we can
+
+140
+00:05:14,370 --> 00:05:18,479
+automatically crop as we rotate or as we
+
+141
+00:05:18,479 --> 00:05:20,759
+apply a rotate and to do that under the
+
+142
+00:05:20,759 --> 00:05:23,340
+tools there's this clipping and right
+
+143
+00:05:23,340 --> 00:05:25,080
+now it's set to adjust but if we click
+
+144
+00:05:25,080 --> 00:05:29,070
+on that we can go crop to result and so
+
+145
+00:05:29,070 --> 00:05:31,380
+if we set that to crop to result now
+
+146
+00:05:31,380 --> 00:05:34,169
+when we rotate this we can rotate it
+
+147
+00:05:34,169 --> 00:05:36,419
+around to get it sort of where we want
+
+148
+00:05:36,419 --> 00:05:39,300
+about level with that now we hit rotate
+
+149
+00:05:39,300 --> 00:05:41,520
+and it automatically crops the image and
+
+150
+00:05:41,520 --> 00:05:44,969
+in this case it's it cropped it out with
+
+151
+00:05:44,969 --> 00:05:46,770
+those white pixels around so I guess it
+
+152
+00:05:46,770 --> 00:05:48,150
+doesn't really help us much in this case
+
+153
+00:05:48,150 --> 00:05:50,250
+but we can come back over and then grab
+
+154
+00:05:50,250 --> 00:05:54,060
+the crop tool and get pretty close to in
+
+155
+00:05:54,060 --> 00:05:56,219
+there without losing a detail of the
+
+156
+00:05:56,219 --> 00:05:58,680
+image and hit our Enter key now we've
+
+157
+00:05:58,680 --> 00:06:01,289
+got a nice cropped image without losing
+
+158
+00:06:01,289 --> 00:06:03,300
+those some of that corner cutting out
+
+159
+00:06:03,300 --> 00:06:05,520
+some of this corner detail and let's
+
+160
+00:06:05,520 --> 00:06:06,900
+talk to on the resize tool a little bit
+
+161
+00:06:06,900 --> 00:06:09,180
+or on to this scale tool so scale will
+
+162
+00:06:09,180 --> 00:06:12,000
+let us scale whatever is selected we
+
+163
+00:06:12,000 --> 00:06:14,400
+turned off that uniform scale so that's
+
+164
+00:06:14,400 --> 00:06:16,889
+why it's allowing us to squish and sort
+
+165
+00:06:16,889 --> 00:06:18,990
+of change this around again that's a
+
+166
+00:06:18,990 --> 00:06:21,270
+keep aspect ratio as that box that'll
+
+167
+00:06:21,270 --> 00:06:23,789
+make it so we can scale uniformly also
+
+168
+00:06:23,789 --> 00:06:25,800
+the Shift key if we hold down the shift
+
+169
+00:06:25,800 --> 00:06:27,870
+key on the keyboard it allows us to get
+
+170
+00:06:27,870 --> 00:06:30,089
+into that sort of mode where it's not
+
+171
+00:06:30,089 --> 00:06:31,289
+keeping the aspect
+
+172
+00:06:31,289 --> 00:06:36,240
+show it also behaves the same where it
+
+173
+00:06:36,240 --> 00:06:38,009
+has a preview if we don't have the
+
+174
+00:06:38,009 --> 00:06:39,960
+preview selected it'll just show this
+
+175
+00:06:39,960 --> 00:06:42,749
+box and we can scale this box but we
+
+176
+00:06:42,749 --> 00:06:44,639
+don't actually resize the image until we
+
+177
+00:06:44,639 --> 00:06:47,129
+click scale and then it will just resize
+
+178
+00:06:47,129 --> 00:06:49,770
+and again notice what it's doing if i
+
+179
+00:06:49,770 --> 00:06:51,930
+zoom out here notice what it's really
+
+180
+00:06:51,930 --> 00:06:54,479
+doing is scaling the image down and then
+
+181
+00:06:54,479 --> 00:06:57,089
+keeping the size of our original image
+
+182
+00:06:57,089 --> 00:06:58,919
+there I'll get rid of this guide again
+
+183
+00:06:58,919 --> 00:07:02,399
+and so we need to crop into this another
+
+184
+00:07:02,399 --> 00:07:04,139
+way to do resize if you just want to
+
+185
+00:07:04,139 --> 00:07:06,779
+resize an image is that you can come up
+
+186
+00:07:06,779 --> 00:07:08,669
+here that's the one I use a lot I just
+
+187
+00:07:08,669 --> 00:07:12,029
+go to image and then go to scale image
+
+188
+00:07:12,029 --> 00:07:14,639
+and that gives us some more options for
+
+189
+00:07:14,639 --> 00:07:16,439
+scaling it if you know a certain size
+
+190
+00:07:16,439 --> 00:07:19,709
+you want it like 1920 wide listen would
+
+191
+00:07:19,709 --> 00:07:22,379
+be like 1375 if we keep the aspect ratio
+
+192
+00:07:22,379 --> 00:07:24,419
+and you can even adjust the resolution
+
+193
+00:07:24,419 --> 00:07:27,599
+to maybe something more like 96 dpi or
+
+194
+00:07:27,599 --> 00:07:29,699
+you can have it be if you wanted to
+
+195
+00:07:29,699 --> 00:07:33,059
+print it you can do 300 or 600 dpi we'll
+
+196
+00:07:33,059 --> 00:07:35,249
+touch more on dpi in the future so don't
+
+197
+00:07:35,249 --> 00:07:36,779
+worry that if that's throwing offer you
+
+198
+00:07:36,779 --> 00:07:38,819
+don't understand it but here I'm
+
+199
+00:07:38,819 --> 00:07:41,129
+basically upscaling this image I click
+
+200
+00:07:41,129 --> 00:07:43,620
+scale and it creates a larger image
+
+201
+00:07:43,620 --> 00:07:46,319
+without cutting off the sides I could
+
+202
+00:07:46,319 --> 00:07:49,620
+also go to image scale image and make it
+
+203
+00:07:49,620 --> 00:07:53,300
+incredibly tiny make it maybe 64 by 64
+
+204
+00:07:53,300 --> 00:07:55,620
+will distort it a little bit and hit
+
+205
+00:07:55,620 --> 00:07:57,779
+scale and then it shrinks it down but it
+
+206
+00:07:57,779 --> 00:07:59,909
+doesn't get that transparency around the
+
+207
+00:07:59,909 --> 00:08:04,110
+outside of our image well hopefully you
+
+208
+00:08:04,110 --> 00:08:05,399
+found that informative I want to show
+
+209
+00:08:05,399 --> 00:08:07,080
+you one more thing if we want to grab
+
+210
+00:08:07,080 --> 00:08:10,139
+this so we can go to select all I can do
+
+211
+00:08:10,139 --> 00:08:12,659
+control C on my keyboard to copy the
+
+212
+00:08:12,659 --> 00:08:15,330
+selected image and I could go paste this
+
+213
+00:08:15,330 --> 00:08:16,740
+and I wanted to put it like a watermark
+
+214
+00:08:16,740 --> 00:08:20,399
+on this image I can go ctrl V and it may
+
+215
+00:08:20,399 --> 00:08:22,379
+be larger than I want so what I can do
+
+216
+00:08:22,379 --> 00:08:26,580
+is scale this down and looks like since
+
+217
+00:08:26,580 --> 00:08:29,129
+this image is already grade scaled it's
+
+218
+00:08:29,129 --> 00:08:31,229
+going to put it's not going to show
+
+219
+00:08:31,229 --> 00:08:33,539
+color just the way that this image is so
+
+220
+00:08:33,539 --> 00:08:35,880
+let's put on this one instead ctrl V we
+
+221
+00:08:35,880 --> 00:08:37,828
+have this nice image here or this nice
+
+222
+00:08:37,828 --> 00:08:40,769
+set yeah image that we pasted it on here
+
+223
+00:08:40,769 --> 00:08:43,799
+and we can use the scale tool to change
+
+224
+00:08:43,799 --> 00:08:45,150
+the size of this
+
+225
+00:08:45,150 --> 00:08:47,250
+I didn't turn that back on we can change
+
+226
+00:08:47,250 --> 00:08:49,650
+the size of this here and we can also
+
+227
+00:08:49,650 --> 00:08:53,760
+rotate it around as a separate layer
+
+228
+00:08:53,760 --> 00:08:56,000
+like we've learned in the in past videos
+
+229
+00:08:56,000 --> 00:08:58,110
+hopefully that sheds some light on the
+
+230
+00:08:58,110 --> 00:09:00,450
+rotate and the scale tools go ahead and
+
+231
+00:09:00,450 --> 00:09:01,380
+leave your questions and comments below
+
+232
+00:09:01,380 --> 00:09:02,880
+if you have any and I look forward to
+
+233
+00:09:02,880 --> 00:09:06,140
+catching you in the next video
+

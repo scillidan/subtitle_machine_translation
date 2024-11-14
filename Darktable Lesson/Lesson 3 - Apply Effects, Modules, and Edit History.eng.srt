@@ -1,0 +1,968 @@
+1
+00:00:02,390 --> 00:00:04,350
+welcome back to another darktable
+
+2
+00:00:04,350 --> 00:00:06,240
+tutorial in this video we're going to be
+
+3
+00:00:06,240 --> 00:00:08,519
+bringing in some raw photos and editing
+
+4
+00:00:08,519 --> 00:00:10,190
+those raw photos and developing them
+
+5
+00:00:10,190 --> 00:00:12,869
+improving them so in the last tutorial
+
+6
+00:00:12,869 --> 00:00:14,459
+we kind of have these things brought in
+
+7
+00:00:14,459 --> 00:00:15,570
+and I just wanna show you how to kind of
+
+8
+00:00:15,570 --> 00:00:18,090
+clean this up a little bit we can go to
+
+9
+00:00:18,090 --> 00:00:21,630
+this select box over here and we can go
+
+10
+00:00:21,630 --> 00:00:23,640
+select all that I'll select everything
+
+11
+00:00:23,640 --> 00:00:26,939
+in here and then what we can do is under
+
+12
+00:00:26,939 --> 00:00:28,560
+this selected images we have all kinds
+
+13
+00:00:28,560 --> 00:00:30,300
+of options for things we can do to those
+
+14
+00:00:30,300 --> 00:00:33,870
+selected images we can like reset
+
+15
+00:00:33,870 --> 00:00:35,460
+rotation we can duplicate all of these
+
+16
+00:00:35,460 --> 00:00:37,380
+we can copy them if we do duplicate
+
+17
+00:00:37,380 --> 00:00:39,000
+they're all duplicated so we have a
+
+18
+00:00:39,000 --> 00:00:40,620
+duplicate copy of each one of these and
+
+19
+00:00:40,620 --> 00:00:43,170
+now only the only every other one is
+
+20
+00:00:43,170 --> 00:00:45,120
+selected and we can go to select all
+
+21
+00:00:45,120 --> 00:00:49,050
+again and we can just go to remove and
+
+22
+00:00:49,050 --> 00:00:52,140
+that will remove them from darktable I
+
+23
+00:00:52,140 --> 00:00:54,120
+believe trash will actually delete them
+
+24
+00:00:54,120 --> 00:00:56,090
+from the computer so don't do that one
+
+25
+00:00:56,090 --> 00:00:58,680
+but anyway so now we have we're back to
+
+26
+00:00:58,680 --> 00:01:00,360
+the start here and I want to bring in
+
+27
+00:01:00,360 --> 00:01:01,650
+some raw photos I want to show you I
+
+28
+00:01:01,650 --> 00:01:03,300
+have a couple different ones I have some
+
+29
+00:01:03,300 --> 00:01:04,440
+that I shot and I have some that I
+
+30
+00:01:04,440 --> 00:01:07,470
+downloaded where the end so here's just
+
+31
+00:01:07,470 --> 00:01:10,140
+some that I shot we can just click and I
+
+32
+00:01:10,140 --> 00:01:11,970
+think I have it set up right now so that
+
+33
+00:01:11,970 --> 00:01:14,280
+if I if I click on my raw photo it opens
+
+34
+00:01:14,280 --> 00:01:15,330
+it up in darktable
+
+35
+00:01:15,330 --> 00:01:17,640
+but you can also right-click and go open
+
+36
+00:01:17,640 --> 00:01:20,159
+with on my particular computer and I can
+
+37
+00:01:20,159 --> 00:01:22,020
+open it raaah photos with image viewer
+
+38
+00:01:22,020 --> 00:01:24,750
+so I can just look at this picture in my
+
+39
+00:01:24,750 --> 00:01:26,340
+image viewer your computer may be a
+
+40
+00:01:26,340 --> 00:01:28,200
+little bit different on this but these
+
+41
+00:01:28,200 --> 00:01:29,370
+are some pictures I took just the other
+
+42
+00:01:29,370 --> 00:01:31,229
+day and I made sure to shoot them with
+
+43
+00:01:31,229 --> 00:01:34,110
+my Canon camera in raw mode so they're
+
+44
+00:01:34,110 --> 00:01:37,530
+this dot cr2 which is a Canon RAW format
+
+45
+00:01:37,530 --> 00:01:39,600
+and when I opened this one up like we
+
+46
+00:01:39,600 --> 00:01:41,040
+learned in the last video it created
+
+47
+00:01:41,040 --> 00:01:44,790
+sort of a metadata or a dark table edit
+
+48
+00:01:44,790 --> 00:01:46,409
+file associated with it
+
+49
+00:01:46,409 --> 00:01:48,900
+so when we edit this picture now here in
+
+50
+00:01:48,900 --> 00:01:50,790
+dark table it's only going to apply
+
+51
+00:01:50,790 --> 00:01:55,290
+edits not to the picture directly and
+
+52
+00:01:55,290 --> 00:01:57,000
+it's non-destructive editing is what
+
+53
+00:01:57,000 --> 00:01:59,430
+that's called so we had this picture
+
+54
+00:01:59,430 --> 00:02:01,049
+here we see in the light table we have
+
+55
+00:02:01,049 --> 00:02:02,940
+just a single picture now and in the
+
+56
+00:02:02,940 --> 00:02:06,000
+darkroom it brings up brings up the last
+
+57
+00:02:06,000 --> 00:02:07,979
+tool we had in use which is this
+
+58
+00:02:07,979 --> 00:02:10,258
+vignette I think is that what's going on
+
+59
+00:02:10,258 --> 00:02:13,260
+here so yeah and that's under well what
+
+60
+00:02:13,260 --> 00:02:14,069
+we can do
+
+61
+00:02:14,069 --> 00:02:15,719
+before we get ahead of ourselves we can
+
+62
+00:02:15,719 --> 00:02:18,420
+come over here to see what effects are
+
+63
+00:02:18,420 --> 00:02:20,249
+being applied to the picture so let's
+
+64
+00:02:20,249 --> 00:02:21,749
+look at that real quick there's these
+
+65
+00:02:21,749 --> 00:02:23,340
+different icons we can left-click and
+
+66
+00:02:23,340 --> 00:02:26,189
+toggle between them this very first one
+
+67
+00:02:26,189 --> 00:02:30,060
+shows us like a power button icon and so
+
+68
+00:02:30,060 --> 00:02:32,010
+this shows us which ones are enabled
+
+69
+00:02:32,010 --> 00:02:33,180
+there's a tiny little thing right here
+
+70
+00:02:33,180 --> 00:02:35,099
+it's kind of hard to see but it shows us
+
+71
+00:02:35,099 --> 00:02:37,019
+this is this picture is automatically
+
+72
+00:02:37,019 --> 00:02:39,209
+being sharpened it's automatically
+
+73
+00:02:39,209 --> 00:02:41,040
+having a base curve applied the
+
+74
+00:02:41,040 --> 00:02:42,980
+orientation is automatically on
+
+75
+00:02:42,980 --> 00:02:45,269
+highlight reconstruction white balance
+
+76
+00:02:45,269 --> 00:02:47,189
+all of these are on and enabled by
+
+77
+00:02:47,189 --> 00:02:49,500
+default right now with this picture so
+
+78
+00:02:49,500 --> 00:02:51,329
+we can click on white balance we can
+
+79
+00:02:51,329 --> 00:02:53,430
+change the temperature of this which
+
+80
+00:02:53,430 --> 00:02:55,590
+will change so now we have a much
+
+81
+00:02:55,590 --> 00:02:58,079
+brighter more like a yellow warm sky and
+
+82
+00:02:58,079 --> 00:02:59,669
+then if we want to see what it looks
+
+83
+00:02:59,669 --> 00:03:01,680
+like with that not applied we can click
+
+84
+00:03:01,680 --> 00:03:04,109
+this button here and it will go back to
+
+85
+00:03:04,109 --> 00:03:05,639
+how it was before anything was applied
+
+86
+00:03:05,639 --> 00:03:07,980
+so it looks very green right now this is
+
+87
+00:03:07,980 --> 00:03:09,900
+kind of the more raw how it was taken
+
+88
+00:03:09,900 --> 00:03:13,319
+and then this is with it applied so you
+
+89
+00:03:13,319 --> 00:03:17,010
+can apply and D apply or enable and
+
+90
+00:03:17,010 --> 00:03:21,329
+disable any of the any of these effects
+
+91
+00:03:21,329 --> 00:03:23,189
+being applied just by clicking on this
+
+92
+00:03:23,189 --> 00:03:26,099
+button right here another way that we
+
+93
+00:03:26,099 --> 00:03:27,569
+can change and see what's happening is
+
+94
+00:03:27,569 --> 00:03:29,609
+by going over to the history and we can
+
+95
+00:03:29,609 --> 00:03:32,220
+look at the very original picture so
+
+96
+00:03:32,220 --> 00:03:33,389
+this is originally what it looked like
+
+97
+00:03:33,389 --> 00:03:36,599
+and then after applying sharpen it looks
+
+98
+00:03:36,599 --> 00:03:39,000
+like this after applying the orientation
+
+99
+00:03:39,000 --> 00:03:40,349
+it looks the same because it wasn't
+
+100
+00:03:40,349 --> 00:03:42,780
+rotated after applying the base curve it
+
+101
+00:03:42,780 --> 00:03:44,189
+looks a little bit different here so we
+
+102
+00:03:44,189 --> 00:03:46,590
+can see between this step here and this
+
+103
+00:03:46,590 --> 00:03:49,349
+step here it's quite a bit different and
+
+104
+00:03:49,349 --> 00:03:51,620
+then the white balance being applied is
+
+105
+00:03:51,620 --> 00:03:53,099
+different as well
+
+106
+00:03:53,099 --> 00:03:56,009
+highlight reconstruction not a lot of
+
+107
+00:03:56,009 --> 00:03:58,199
+change there and then this a white
+
+108
+00:03:58,199 --> 00:04:01,139
+balance again is being applied so this
+
+109
+00:04:01,139 --> 00:04:03,120
+shows us our history stack of all the
+
+110
+00:04:03,120 --> 00:04:05,040
+changes that have gone through here at
+
+111
+00:04:05,040 --> 00:04:07,530
+any point if we want to we can go just
+
+112
+00:04:07,530 --> 00:04:09,479
+to this base curve point and we can
+
+113
+00:04:09,479 --> 00:04:11,609
+export it right here if we go into the
+
+114
+00:04:11,609 --> 00:04:15,000
+light table now it appears the same way
+
+115
+00:04:15,000 --> 00:04:17,668
+that it does in darkroom I want to bring
+
+116
+00:04:17,668 --> 00:04:18,988
+in some more photos from this photo
+
+117
+00:04:18,988 --> 00:04:20,459
+shoot so I'll go over here to this
+
+118
+00:04:20,459 --> 00:04:23,010
+folder under import and I'll just import
+
+119
+00:04:23,010 --> 00:04:25,229
+the entire directory of all the pictures
+
+120
+00:04:25,229 --> 00:04:27,480
+shot in this photo shoot
+
+121
+00:04:27,480 --> 00:04:29,150
+and what that does is it lets us see
+
+122
+00:04:29,150 --> 00:04:31,860
+everything in here that was shot so I'll
+
+123
+00:04:31,860 --> 00:04:33,630
+grab like maybe this picture of these
+
+124
+00:04:33,630 --> 00:04:35,880
+rocks right here because I want to show
+
+125
+00:04:35,880 --> 00:04:38,760
+you what's applied by default by dark
+
+126
+00:04:38,760 --> 00:04:40,830
+table we can see that by looking over
+
+127
+00:04:40,830 --> 00:04:42,930
+here in the history again we can go back
+
+128
+00:04:42,930 --> 00:04:44,700
+to the original so this is a little bit
+
+129
+00:04:44,700 --> 00:04:46,500
+process that's still pretty close to raw
+
+130
+00:04:46,500 --> 00:04:48,930
+but it's still processed if we click on
+
+131
+00:04:48,930 --> 00:04:51,240
+original we see what the original image
+
+132
+00:04:51,240 --> 00:04:53,540
+look like that looks like this is the
+
+133
+00:04:53,540 --> 00:04:56,820
+raw image it's kind of dull it doesn't
+
+134
+00:04:56,820 --> 00:04:58,380
+have any sharpening applied doesn't have
+
+135
+00:04:58,380 --> 00:05:00,870
+the base curve applied and so we can see
+
+136
+00:05:00,870 --> 00:05:03,180
+what each step would look like and we
+
+137
+00:05:03,180 --> 00:05:05,910
+see it's enhanced just subtly by default
+
+138
+00:05:05,910 --> 00:05:07,590
+by dark tables so just be aware if you
+
+139
+00:05:07,590 --> 00:05:08,820
+want to work from the very very
+
+140
+00:05:08,820 --> 00:05:10,380
+beginning you'll want to click on this
+
+141
+00:05:10,380 --> 00:05:11,820
+original and start working from there
+
+142
+00:05:11,820 --> 00:05:14,250
+but it's a good idea this base curve is
+
+143
+00:05:14,250 --> 00:05:16,290
+really I don't understand it entirely
+
+144
+00:05:16,290 --> 00:05:18,030
+but over here we can find the base curve
+
+145
+00:05:18,030 --> 00:05:20,790
+if we click on the effects that are
+
+146
+00:05:20,790 --> 00:05:23,460
+enabled we see this base curve is a
+
+147
+00:05:23,460 --> 00:05:26,220
+cannon base curve and so we can see if
+
+148
+00:05:26,220 --> 00:05:28,140
+it was shot with an icon we'd be able to
+
+149
+00:05:28,140 --> 00:05:29,940
+do like this Nikon like and it looks a
+
+150
+00:05:29,940 --> 00:05:31,650
+little different or if it wasn't like
+
+151
+00:05:31,650 --> 00:05:33,300
+Panasonic or these different ones but
+
+152
+00:05:33,300 --> 00:05:35,790
+since my camera was a Canon camera that
+
+153
+00:05:35,790 --> 00:05:37,890
+actually shot this image and since that
+
+154
+00:05:37,890 --> 00:05:40,470
+was attached to the metadata of that raw
+
+155
+00:05:40,470 --> 00:05:42,780
+picture it just automatically applied
+
+156
+00:05:42,780 --> 00:05:45,180
+this and what it's doing is is giving us
+
+157
+00:05:45,180 --> 00:05:46,970
+an accurate representation of the
+
+158
+00:05:46,970 --> 00:05:50,090
+lighting and the colors because it knows
+
+159
+00:05:50,090 --> 00:05:53,550
+how Canon processes pictures or creates
+
+160
+00:05:53,550 --> 00:05:56,580
+RAW images how that sensor you know
+
+161
+00:05:56,580 --> 00:05:59,400
+records light anyway so we want to keep
+
+162
+00:05:59,400 --> 00:06:01,050
+this the same but if we wanted to change
+
+163
+00:06:01,050 --> 00:06:03,150
+it we can come over here and adjust it a
+
+164
+00:06:03,150 --> 00:06:05,250
+little bit and we can make changes and
+
+165
+00:06:05,250 --> 00:06:07,740
+that'll adjust this if whenever we
+
+166
+00:06:07,740 --> 00:06:09,420
+change it too much we can click this
+
+167
+00:06:09,420 --> 00:06:11,610
+little icon here and it sets everything
+
+168
+00:06:11,610 --> 00:06:14,130
+to default in this case it's the default
+
+169
+00:06:14,130 --> 00:06:16,380
+curve which is a straight line which
+
+170
+00:06:16,380 --> 00:06:18,480
+gives us kind of how it looked back in
+
+171
+00:06:18,480 --> 00:06:20,580
+the original but we can come over here
+
+172
+00:06:20,580 --> 00:06:24,390
+and again apply the Canon light curve
+
+173
+00:06:24,390 --> 00:06:26,550
+which gives us a kind of a different
+
+174
+00:06:26,550 --> 00:06:30,120
+look I want to show you on this too we
+
+175
+00:06:30,120 --> 00:06:33,300
+can do one thing like this white balance
+
+176
+00:06:33,300 --> 00:06:34,920
+we can you know change the temperature
+
+177
+00:06:34,920 --> 00:06:35,970
+like we did before make it a little
+
+178
+00:06:35,970 --> 00:06:39,060
+warmer make it a little cooler exposure
+
+179
+00:06:39,060 --> 00:06:40,560
+if you want to find a certain thing
+
+180
+00:06:40,560 --> 00:06:41,289
+before
+
+181
+00:06:41,289 --> 00:06:43,059
+mess too much with temperature we might
+
+182
+00:06:43,059 --> 00:06:45,009
+want to do exposure so we can find
+
+183
+00:06:45,009 --> 00:06:46,839
+exposure it's actually one of the ones I
+
+184
+00:06:46,839 --> 00:06:48,909
+think it's over here yeah so if we click
+
+185
+00:06:48,909 --> 00:06:51,219
+this circle here exposure is one of the
+
+186
+00:06:51,219 --> 00:06:53,469
+options we have but we can find it from
+
+187
+00:06:53,469 --> 00:06:55,749
+down below as well and then exposure we
+
+188
+00:06:55,749 --> 00:06:57,789
+can just adjust if maybe we feel like
+
+189
+00:06:57,789 --> 00:06:59,710
+parts of this or underexposed or
+
+190
+00:06:59,710 --> 00:07:02,529
+overexposed we can adjust it accordingly
+
+191
+00:07:02,529 --> 00:07:04,809
+and we can use this histogram up here as
+
+192
+00:07:04,809 --> 00:07:06,639
+a reference to see if we're kind of
+
+193
+00:07:06,639 --> 00:07:09,129
+clipping data so we're clipping a little
+
+194
+00:07:09,129 --> 00:07:10,899
+bit of data in there and so we can
+
+195
+00:07:10,899 --> 00:07:14,319
+adjust this to kind of make that fill
+
+196
+00:07:14,319 --> 00:07:17,229
+our whole area and then we kind of see
+
+197
+00:07:17,229 --> 00:07:19,119
+kind of that's more bright and so we
+
+198
+00:07:19,119 --> 00:07:21,490
+adjust that similar routes this is
+
+199
+00:07:21,490 --> 00:07:23,169
+probably a good time to point out that
+
+200
+00:07:23,169 --> 00:07:26,409
+I'm really not a photographer and I'm
+
+201
+00:07:26,409 --> 00:07:29,080
+not into I'm not really experienced in
+
+202
+00:07:29,080 --> 00:07:31,899
+color correcting and photo enhancing so
+
+203
+00:07:31,899 --> 00:07:33,729
+I'm just trying to demonstrate darktable
+
+204
+00:07:33,729 --> 00:07:36,759
+and show you how to use the effects but
+
+205
+00:07:36,759 --> 00:07:38,559
+unfortunately I'm gonna be limited in
+
+206
+00:07:38,559 --> 00:07:40,240
+what I'm actually able to show you from
+
+207
+00:07:40,240 --> 00:07:43,899
+an artistic or from a be what I'm saying
+
+208
+00:07:43,899 --> 00:07:46,479
+right from that standpoint anyway I feel
+
+209
+00:07:46,479 --> 00:07:48,099
+like this is a good point to end this
+
+210
+00:07:48,099 --> 00:07:50,439
+video on I just want to show you down
+
+211
+00:07:50,439 --> 00:07:51,610
+here at the bottom we touched a little
+
+212
+00:07:51,610 --> 00:07:53,680
+bit on it but any of these things we
+
+213
+00:07:53,680 --> 00:07:55,809
+want to add we can click over here and a
+
+214
+00:07:55,809 --> 00:07:57,669
+star will appear and it will be then
+
+215
+00:07:57,669 --> 00:07:59,919
+added to our favorites so we have a
+
+216
+00:07:59,919 --> 00:08:01,509
+couple different things added to our
+
+217
+00:08:01,509 --> 00:08:03,219
+favorites if there's one that you're
+
+218
+00:08:03,219 --> 00:08:05,709
+using all the time you might want to
+
+219
+00:08:05,709 --> 00:08:07,539
+just add it to your favorites and then
+
+220
+00:08:07,539 --> 00:08:08,709
+quickly you'll have a nice little
+
+221
+00:08:08,709 --> 00:08:10,330
+workflow it's a little bit daunting at
+
+222
+00:08:10,330 --> 00:08:12,669
+first but just know that this one shows
+
+223
+00:08:12,669 --> 00:08:15,159
+you which ones are enabled by default
+
+224
+00:08:15,159 --> 00:08:17,589
+you can disable them and enable them and
+
+225
+00:08:17,589 --> 00:08:19,779
+then these other ones just show you ones
+
+226
+00:08:19,779 --> 00:08:21,849
+that deal more with like color you can
+
+227
+00:08:21,849 --> 00:08:23,019
+hover over I'm going to tells you this
+
+228
+00:08:23,019 --> 00:08:25,300
+deals with more of tone this one is your
+
+229
+00:08:25,300 --> 00:08:26,860
+basic group which is kind of what you
+
+230
+00:08:26,860 --> 00:08:28,569
+it's a good idea to go through and
+
+231
+00:08:28,569 --> 00:08:30,879
+adjust these at first and so we're just
+
+232
+00:08:30,879 --> 00:08:32,409
+getting started I would say go through
+
+233
+00:08:32,409 --> 00:08:34,839
+and play with these and just see how it
+
+234
+00:08:34,839 --> 00:08:36,969
+just your picture and you're gonna find
+
+235
+00:08:36,969 --> 00:08:39,068
+some things that you like to use and
+
+236
+00:08:39,068 --> 00:08:41,589
+like to not use anyway I appreciate you
+
+237
+00:08:41,589 --> 00:08:43,328
+watching check out the next tutorial
+
+238
+00:08:43,328 --> 00:08:44,920
+we'll be learning about snapshots and
+
+239
+00:08:44,920 --> 00:08:46,829
+how to look at before and afters and
+
+240
+00:08:46,829 --> 00:08:49,060
+we'll play some more with some different
+
+241
+00:08:49,060 --> 00:08:51,279
+effects as well catch you in the next
+
+242
+00:08:51,279 --> 00:08:53,730
+video
+

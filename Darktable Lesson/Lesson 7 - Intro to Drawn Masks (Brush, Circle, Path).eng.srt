@@ -1,0 +1,1148 @@
+1
+00:00:02,300 --> 00:00:05,009
+welcome to another darktable tutorial in
+
+2
+00:00:05,009 --> 00:00:06,660
+this video we'll learn how to apply
+
+3
+00:00:06,660 --> 00:00:09,629
+masks to our images so it's just a basic
+
+4
+00:00:09,629 --> 00:00:12,240
+intro to using masks and what masks lets
+
+5
+00:00:12,240 --> 00:00:14,339
+us do is mask out a certain part of the
+
+6
+00:00:14,339 --> 00:00:16,410
+image and apply different modules or
+
+7
+00:00:16,410 --> 00:00:18,859
+effects to only that part of the image
+
+8
+00:00:18,859 --> 00:00:21,420
+masks can be very simple shapes or very
+
+9
+00:00:21,420 --> 00:00:22,859
+complex and we'll learn how to do those
+
+10
+00:00:22,859 --> 00:00:25,320
+in this video I have images here I've
+
+11
+00:00:25,320 --> 00:00:27,720
+downloaded from we saturate calm I'm
+
+12
+00:00:27,720 --> 00:00:29,400
+going to use this one for our example
+
+13
+00:00:29,400 --> 00:00:31,199
+you can download this and follow along
+
+14
+00:00:31,199 --> 00:00:32,820
+I'll include the link in the description
+
+15
+00:00:32,820 --> 00:00:34,260
+of this video if you want to follow
+
+16
+00:00:34,260 --> 00:00:36,450
+along in this tutorial with this exact
+
+17
+00:00:36,450 --> 00:00:38,940
+image so over here to the left we have
+
+18
+00:00:38,940 --> 00:00:40,680
+our history and I had a step that I
+
+19
+00:00:40,680 --> 00:00:41,910
+applied here that I'll be showing you
+
+20
+00:00:41,910 --> 00:00:44,640
+how to recreate basically the only thing
+
+21
+00:00:44,640 --> 00:00:46,470
+I've done here is applied the monochrome
+
+22
+00:00:46,470 --> 00:00:49,470
+module and then I've masked out just
+
+23
+00:00:49,470 --> 00:00:51,540
+this part a simple circle around the eye
+
+24
+00:00:51,540 --> 00:00:53,820
+we can see what that looks like this
+
+25
+00:00:53,820 --> 00:00:56,820
+mask and it's doing a drawn mask right
+
+26
+00:00:56,820 --> 00:00:59,760
+here and it's just a circle hope there's
+
+27
+00:00:59,760 --> 00:01:01,590
+a second one so we could apply this a
+
+28
+00:01:01,590 --> 00:01:03,450
+second time if there were two eyes we
+
+29
+00:01:03,450 --> 00:01:04,920
+could have the other eye over here but
+
+30
+00:01:04,920 --> 00:01:06,750
+we see everything within this circle is
+
+31
+00:01:06,750 --> 00:01:09,090
+not being affected and everything
+
+32
+00:01:09,090 --> 00:01:11,040
+outside of the circle is being affected
+
+33
+00:01:11,040 --> 00:01:13,020
+by this monochrome and that's because we
+
+34
+00:01:13,020 --> 00:01:14,550
+have it inverted down here at the bottom
+
+35
+00:01:14,550 --> 00:01:15,810
+but we're getting ahead of ourselves
+
+36
+00:01:15,810 --> 00:01:18,300
+let's just undo this whole thing so
+
+37
+00:01:18,300 --> 00:01:20,400
+we'll turn this off and actually we'll
+
+38
+00:01:20,400 --> 00:01:22,170
+just come over to this base we'll go
+
+39
+00:01:22,170 --> 00:01:23,760
+back one step in history and hit
+
+40
+00:01:23,760 --> 00:01:26,400
+compress history stack so it's as if
+
+41
+00:01:26,400 --> 00:01:28,380
+that never happened now and then also
+
+42
+00:01:28,380 --> 00:01:30,090
+under our mask manager I'm just gonna
+
+43
+00:01:30,090 --> 00:01:32,909
+right click and go clean up unused
+
+44
+00:01:32,909 --> 00:01:34,770
+shapes so this is how yours will look
+
+45
+00:01:34,770 --> 00:01:36,810
+under mask manager you'll have no shapes
+
+46
+00:01:36,810 --> 00:01:38,820
+and you'll just be left with this stock
+
+47
+00:01:38,820 --> 00:01:41,370
+image and monochrome is if we enable it
+
+48
+00:01:41,370 --> 00:01:43,440
+it just goes over the whole thing so I'm
+
+49
+00:01:43,440 --> 00:01:45,270
+gonna show you from the very start how I
+
+50
+00:01:45,270 --> 00:01:47,520
+created that look so what we need to do
+
+51
+00:01:47,520 --> 00:01:49,229
+first is draw a mask there's a few ways
+
+52
+00:01:49,229 --> 00:01:51,659
+to do it what we can do is come over
+
+53
+00:01:51,659 --> 00:01:53,880
+here to our mask manager this shows us
+
+54
+00:01:53,880 --> 00:01:55,740
+all the different masks that we create
+
+55
+00:01:55,740 --> 00:01:58,170
+and we can jump back to a mask if we
+
+56
+00:01:58,170 --> 00:02:01,260
+ever want to use it multiple times so
+
+57
+00:02:01,260 --> 00:02:02,700
+the different ways to draw we can hover
+
+58
+00:02:02,700 --> 00:02:04,409
+over and see what options we have here
+
+59
+00:02:04,409 --> 00:02:07,110
+we have add brush we can add a circle
+
+60
+00:02:07,110 --> 00:02:11,008
+and ellipse a path or a gradient and so
+
+61
+00:02:11,008 --> 00:02:13,049
+for this one I did a circle but what the
+
+62
+00:02:13,049 --> 00:02:13,530
+brushed
+
+63
+00:02:13,530 --> 00:02:15,240
+it lets us just draw so we can
+
+64
+00:02:15,240 --> 00:02:17,370
+left-click and everything in black is
+
+65
+00:02:17,370 --> 00:02:19,350
+what's going to be affected so we can
+
+66
+00:02:19,350 --> 00:02:21,480
+kind of draw in a brush but that's not
+
+67
+00:02:21,480 --> 00:02:22,980
+perfect for the eye it looks like a
+
+68
+00:02:22,980 --> 00:02:25,319
+bunch of lines but if we were to apply
+
+69
+00:02:25,319 --> 00:02:27,209
+this it would give kind of the same
+
+70
+00:02:27,209 --> 00:02:28,920
+effect it's just not as accurate as we
+
+71
+00:02:28,920 --> 00:02:32,670
+would want ctrl Z will undo that what I
+
+72
+00:02:32,670 --> 00:02:35,310
+used was the circle and so if we do the
+
+73
+00:02:35,310 --> 00:02:36,959
+circle and then we click it creates a
+
+74
+00:02:36,959 --> 00:02:39,630
+circle we can use our scroll wheel
+
+75
+00:02:39,630 --> 00:02:41,610
+inside of the circle to change the size
+
+76
+00:02:41,610 --> 00:02:44,430
+the scroll wheel on the mouse or we can
+
+77
+00:02:44,430 --> 00:02:48,330
+scroll well in here between to change
+
+78
+00:02:48,330 --> 00:02:50,640
+the size of the feather and if we just
+
+79
+00:02:50,640 --> 00:02:51,930
+left click and drag we can move it
+
+80
+00:02:51,930 --> 00:02:53,310
+around so we'll move this to the center
+
+81
+00:02:53,310 --> 00:02:54,750
+of the eye and then we'll make the
+
+82
+00:02:54,750 --> 00:02:56,790
+feather kind of go out to here
+
+83
+00:02:56,790 --> 00:02:58,410
+or maybe we'll click and make this size
+
+84
+00:02:58,410 --> 00:03:00,450
+go out to here and then the feather will
+
+85
+00:03:00,450 --> 00:03:04,530
+come in to about there that's probably
+
+86
+00:03:04,530 --> 00:03:06,780
+good and the feather is just going to be
+
+87
+00:03:06,780 --> 00:03:10,200
+fade a kind of a fade for the mask so
+
+88
+00:03:10,200 --> 00:03:12,900
+it's not just such a harsh hard cut over
+
+89
+00:03:12,900 --> 00:03:14,610
+from the effect it makes it look more
+
+90
+00:03:14,610 --> 00:03:17,910
+natural or less obvious that a module is
+
+91
+00:03:17,910 --> 00:03:20,310
+being applied okay now what we have in
+
+92
+00:03:20,310 --> 00:03:22,530
+our manager we have two brushes we have
+
+93
+00:03:22,530 --> 00:03:24,060
+this one that we created and then we
+
+94
+00:03:24,060 --> 00:03:25,920
+have this one that we created so we can
+
+95
+00:03:25,920 --> 00:03:28,350
+use either one that we want and we could
+
+96
+00:03:28,350 --> 00:03:30,239
+do a third if we want we can click on
+
+97
+00:03:30,239 --> 00:03:32,730
+this path and the what the path lets us
+
+98
+00:03:32,730 --> 00:03:35,010
+do is left-click and every time we click
+
+99
+00:03:35,010 --> 00:03:38,010
+it creates a node so we can do a much
+
+100
+00:03:38,010 --> 00:03:40,200
+more advanced shape so I'm just left
+
+101
+00:03:40,200 --> 00:03:42,150
+clicking around this entire eye right
+
+102
+00:03:42,150 --> 00:03:45,450
+now and when I'm done I can double click
+
+103
+00:03:45,450 --> 00:03:47,970
+I was out to do it no what do you do oh
+
+104
+00:03:47,970 --> 00:03:49,890
+you right click right click to get out
+
+105
+00:03:49,890 --> 00:03:51,390
+of it so I've kind of messed that up a
+
+106
+00:03:51,390 --> 00:03:52,769
+little bit we can come in now and and
+
+107
+00:03:52,769 --> 00:03:55,470
+just left-click these and adjust them
+
+108
+00:03:55,470 --> 00:03:59,100
+individually to get just the shape we
+
+109
+00:03:59,100 --> 00:04:00,510
+want and again it has a feather as well
+
+110
+00:04:00,510 --> 00:04:04,799
+we can hover over in between the the
+
+111
+00:04:04,799 --> 00:04:06,630
+actual shape and the dotted line to
+
+112
+00:04:06,630 --> 00:04:08,640
+adjust the feather or we can click on
+
+113
+00:04:08,640 --> 00:04:10,950
+the inside the actual shape and adjust
+
+114
+00:04:10,950 --> 00:04:12,540
+the size of the whole thing we've drawn
+
+115
+00:04:12,540 --> 00:04:15,090
+two by just rolling that scroll scroll
+
+116
+00:04:15,090 --> 00:04:16,798
+wheel in and out we can left-click and
+
+117
+00:04:16,798 --> 00:04:19,228
+move the whole shape around too and we
+
+118
+00:04:19,228 --> 00:04:21,418
+can adjust these individual nodes they
+
+119
+00:04:21,418 --> 00:04:22,800
+also have a handle on them who want to
+
+120
+00:04:22,800 --> 00:04:25,160
+adjust like the bow we can do a little
+
+121
+00:04:25,160 --> 00:04:27,140
+adjust the curve and the angle of the
+
+122
+00:04:27,140 --> 00:04:29,000
+node but that's maybe something we'll do
+
+123
+00:04:29,000 --> 00:04:31,820
+more in the next tutorials so all we've
+
+124
+00:04:31,820 --> 00:04:34,010
+really done is drawn masks we're not
+
+125
+00:04:34,010 --> 00:04:36,170
+working with any modules right now we
+
+126
+00:04:36,170 --> 00:04:37,970
+can apply these three masks that we've
+
+127
+00:04:37,970 --> 00:04:40,520
+drawn to any modules we want so let's
+
+128
+00:04:40,520 --> 00:04:42,200
+come over to that monochrome one and
+
+129
+00:04:42,200 --> 00:04:44,870
+let's apply monochrome now so we just
+
+130
+00:04:44,870 --> 00:04:46,850
+enable it by clicking here and it
+
+131
+00:04:46,850 --> 00:04:48,530
+applies this monochrome module to the
+
+132
+00:04:48,530 --> 00:04:52,370
+entire image we've done this sort of in
+
+133
+00:04:52,370 --> 00:04:54,050
+the past we can move this around and
+
+134
+00:04:54,050 --> 00:04:55,670
+sort of change the way that that it's
+
+135
+00:04:55,670 --> 00:04:58,160
+interpreting and and looking at those we
+
+136
+00:04:58,160 --> 00:04:59,870
+can adjust this on/off aggressing much
+
+137
+00:04:59,870 --> 00:05:02,690
+in this particular image but we can
+
+138
+00:05:02,690 --> 00:05:04,040
+still make all the different settings we
+
+139
+00:05:04,040 --> 00:05:06,200
+want to change the entire image but if
+
+140
+00:05:06,200 --> 00:05:08,450
+we only want this module and its
+
+141
+00:05:08,450 --> 00:05:10,910
+corresponding settings to apply to
+
+142
+00:05:10,910 --> 00:05:13,070
+what's inside of our mask we need to go
+
+143
+00:05:13,070 --> 00:05:15,320
+to this blend under here where it says
+
+144
+00:05:15,320 --> 00:05:18,410
+blend right now it says off so we drew a
+
+145
+00:05:18,410 --> 00:05:20,510
+drop down here and it says what do you
+
+146
+00:05:20,510 --> 00:05:22,550
+want to do uniformly which is what we're
+
+147
+00:05:22,550 --> 00:05:23,960
+actually doing now we can click on that
+
+148
+00:05:23,960 --> 00:05:25,910
+uniformly just means it applies it to
+
+149
+00:05:25,910 --> 00:05:29,120
+the entire image evenly or we can do a
+
+150
+00:05:29,120 --> 00:05:30,770
+drawn mask which is what we want to do
+
+151
+00:05:30,770 --> 00:05:32,780
+because we drew some masks here we'll
+
+152
+00:05:32,780 --> 00:05:34,370
+cover these other ones later we have
+
+153
+00:05:34,370 --> 00:05:36,230
+parametric masks and drawn and
+
+154
+00:05:36,230 --> 00:05:38,120
+parametric masks we'll do those ones
+
+155
+00:05:38,120 --> 00:05:39,830
+later but for now just do drawn masks
+
+156
+00:05:39,830 --> 00:05:42,320
+and then we can we have these same tools
+
+157
+00:05:42,320 --> 00:05:45,170
+down here that we can draw a mask we
+
+158
+00:05:45,170 --> 00:05:47,420
+could do a circle and ellipse a path use
+
+159
+00:05:47,420 --> 00:05:49,400
+the brush it's the same tools that we
+
+160
+00:05:49,400 --> 00:05:50,930
+have over here on our mask manager and
+
+161
+00:05:50,930 --> 00:05:53,750
+if we draw a mask over here if we do
+
+162
+00:05:53,750 --> 00:05:56,180
+like the ellipse and we draw any lips it
+
+163
+00:05:56,180 --> 00:05:59,300
+appears over here in our mask manager as
+
+164
+00:05:59,300 --> 00:06:01,400
+well so there's multiple tools we have
+
+165
+00:06:01,400 --> 00:06:02,810
+for drawing them I just want to show you
+
+166
+00:06:02,810 --> 00:06:05,120
+can draw from the mask manager and so
+
+167
+00:06:05,120 --> 00:06:06,320
+now we see what happened with that
+
+168
+00:06:06,320 --> 00:06:09,290
+ellipse it applied the monochrome just
+
+169
+00:06:09,290 --> 00:06:11,300
+where that ellipse was so we can change
+
+170
+00:06:11,300 --> 00:06:14,090
+the size of this and anywhere this shape
+
+171
+00:06:14,090 --> 00:06:17,840
+is at it will be where our effect is
+
+172
+00:06:17,840 --> 00:06:20,360
+being applied we kind of want that to
+
+173
+00:06:20,360 --> 00:06:21,530
+look a little bit different don't we
+
+174
+00:06:21,530 --> 00:06:23,330
+because we don't we I showed you earlier
+
+175
+00:06:23,330 --> 00:06:25,730
+it wasn't a black and white eye it was a
+
+176
+00:06:25,730 --> 00:06:27,140
+colored eye and everything else black
+
+177
+00:06:27,140 --> 00:06:29,750
+and white to invert the mask we just
+
+178
+00:06:29,750 --> 00:06:30,980
+click over here
+
+179
+00:06:30,980 --> 00:06:33,680
+we hover over this little line this
+
+180
+00:06:33,680 --> 00:06:35,030
+little icon with a circle with a line
+
+181
+00:06:35,030 --> 00:06:37,880
+through it is called toggle polarity of
+
+182
+00:06:37,880 --> 00:06:38,480
+the drama
+
+183
+00:06:38,480 --> 00:06:41,240
+if we click that then it toggles and so
+
+184
+00:06:41,240 --> 00:06:43,670
+now is the opposite so now we see the
+
+185
+00:06:43,670 --> 00:06:48,650
+color and everything else is a black and
+
+186
+00:06:48,650 --> 00:06:52,220
+white if we want to do we can now if we
+
+187
+00:06:52,220 --> 00:06:53,690
+click over here right now we're using
+
+188
+00:06:53,690 --> 00:06:57,350
+the shape called ellipse number four but
+
+189
+00:06:57,350 --> 00:06:58,600
+we can change to use something different
+
+190
+00:06:58,600 --> 00:07:01,310
+so we if we look over here under drawn
+
+191
+00:07:01,310 --> 00:07:03,320
+mask there's a drop down and we could
+
+192
+00:07:03,320 --> 00:07:05,900
+use this brush number one instead that
+
+193
+00:07:05,900 --> 00:07:08,120
+we drew earlier which is pretty much the
+
+194
+00:07:08,120 --> 00:07:10,100
+same effect we could use this circle
+
+195
+00:07:10,100 --> 00:07:11,240
+which is also going to be pretty much
+
+196
+00:07:11,240 --> 00:07:13,790
+the same effect or we could use our oh
+
+197
+00:07:13,790 --> 00:07:15,230
+we want it we don't want to use all
+
+198
+00:07:15,230 --> 00:07:17,680
+three we want to use one or the other
+
+199
+00:07:17,680 --> 00:07:20,150
+we could use our path number three which
+
+200
+00:07:20,150 --> 00:07:22,340
+is that line out here so we have a set
+
+201
+00:07:22,340 --> 00:07:24,350
+up to use all all of them right now if
+
+202
+00:07:24,350 --> 00:07:26,270
+we hover over this we say show and edit
+
+203
+00:07:26,270 --> 00:07:28,940
+mask elements so that just shows if
+
+204
+00:07:28,940 --> 00:07:30,710
+there on there being viewed sometimes
+
+205
+00:07:30,710 --> 00:07:32,510
+especially with this one it gets in the
+
+206
+00:07:32,510 --> 00:07:34,490
+way so we can toggle to have it be not
+
+207
+00:07:34,490 --> 00:07:38,810
+shown but it's still being affected I'm
+
+208
+00:07:38,810 --> 00:07:41,000
+not exactly sure how to remove we've got
+
+209
+00:07:41,000 --> 00:07:43,070
+a bunch of them on now I'm not sure how
+
+210
+00:07:43,070 --> 00:07:44,240
+to remove those so I'm gonna do is go to
+
+211
+00:07:44,240 --> 00:07:46,190
+reset on here and we'll do the same
+
+212
+00:07:46,190 --> 00:07:47,510
+thing with blend but this time we'll
+
+213
+00:07:47,510 --> 00:07:49,610
+only select one of them so we'll go back
+
+214
+00:07:49,610 --> 00:07:53,240
+to drawn mask and we will just use just
+
+215
+00:07:53,240 --> 00:07:55,910
+one of these masks so let's use just
+
+216
+00:07:55,910 --> 00:07:57,650
+this circle here and then we'll go to
+
+217
+00:07:57,650 --> 00:08:02,630
+invert so that's really it and then we
+
+218
+00:08:02,630 --> 00:08:04,280
+can we could do the same thing if we
+
+219
+00:08:04,280 --> 00:08:06,200
+didn't want to do monochrome or we could
+
+220
+00:08:06,200 --> 00:08:07,940
+leave the monochrome on and now we can
+
+221
+00:08:07,940 --> 00:08:11,780
+grab another one like maybe what should
+
+222
+00:08:11,780 --> 00:08:15,140
+we do this color contrast if we go to
+
+223
+00:08:15,140 --> 00:08:16,970
+color contrast now and enable color
+
+224
+00:08:16,970 --> 00:08:19,970
+contrast if we make changes it's going
+
+225
+00:08:19,970 --> 00:08:21,590
+well since everything is black and white
+
+226
+00:08:21,590 --> 00:08:23,390
+this kind of convenient for us but we
+
+227
+00:08:23,390 --> 00:08:25,520
+can go to our blend mode we can go to
+
+228
+00:08:25,520 --> 00:08:29,570
+drawn mask and just do again this circle
+
+229
+00:08:29,570 --> 00:08:32,690
+number two and now the changes that we
+
+230
+00:08:32,690 --> 00:08:34,280
+make well we can change sort of the
+
+231
+00:08:34,280 --> 00:08:36,530
+color of that eye we can make it look
+
+232
+00:08:36,530 --> 00:08:38,270
+like a different color or more extreme
+
+233
+00:08:38,270 --> 00:08:40,479
+if that circle is bothering us we can
+
+234
+00:08:40,479 --> 00:08:42,979
+turn off seeing it but still apply
+
+235
+00:08:42,979 --> 00:08:45,200
+changes to it and if we ever want to
+
+236
+00:08:45,200 --> 00:08:46,730
+make changes we can come over here to
+
+237
+00:08:46,730 --> 00:08:48,830
+our mask manager and click on that
+
+238
+00:08:48,830 --> 00:08:50,900
+circle number two and then we can make
+
+239
+00:08:50,900 --> 00:08:52,320
+changes to it we can move
+
+240
+00:08:52,320 --> 00:08:55,530
+around we might have to reapply it over
+
+241
+00:08:55,530 --> 00:08:57,570
+there if we do that though oh no it's
+
+242
+00:08:57,570 --> 00:08:58,980
+going you just took a second
+
+243
+00:08:58,980 --> 00:09:01,200
+so it'll then make those changes to
+
+244
+00:09:01,200 --> 00:09:05,130
+wherever we move it to on the image we
+
+245
+00:09:05,130 --> 00:09:07,500
+can even change the size of it we can do
+
+246
+00:09:07,500 --> 00:09:10,620
+all kinds of stuff so that's basic drawn
+
+247
+00:09:10,620 --> 00:09:13,260
+masks in the next video we're gonna
+
+248
+00:09:13,260 --> 00:09:15,000
+let's touch a little bit more on using
+
+249
+00:09:15,000 --> 00:09:18,330
+the paths tool to draw our mask and then
+
+250
+00:09:18,330 --> 00:09:20,910
+also we're going to be looking at
+
+251
+00:09:20,910 --> 00:09:23,340
+parametric masks as well so go ahead and
+
+252
+00:09:23,340 --> 00:09:24,390
+play with those if you want to get
+
+253
+00:09:24,390 --> 00:09:25,890
+something undone we right click we can
+
+254
+00:09:25,890 --> 00:09:29,580
+go ctrl Z to undo things in darktable
+
+255
+00:09:29,580 --> 00:09:31,230
+but I think I'm going to leave this
+
+256
+00:09:31,230 --> 00:09:33,240
+video here and then of course like we've
+
+257
+00:09:33,240 --> 00:09:34,260
+learned in the past if you want to
+
+258
+00:09:34,260 --> 00:09:35,640
+export this if we love the way this
+
+259
+00:09:35,640 --> 00:09:37,470
+looks we can just go to light table
+
+260
+00:09:37,470 --> 00:09:39,980
+click on the image and go down to our
+
+261
+00:09:39,980 --> 00:09:43,140
+export selected and click export and
+
+262
+00:09:43,140 --> 00:09:45,060
+that will export just the selected image
+
+263
+00:09:45,060 --> 00:09:48,120
+or any images selected and that goes to
+
+264
+00:09:48,120 --> 00:09:51,390
+our folder here in where was that image
+
+265
+00:09:51,390 --> 00:09:52,920
+since that since that was in dest
+
+266
+00:09:52,920 --> 00:09:55,500
+downloads it's going to be a new folder
+
+267
+00:09:55,500 --> 00:09:57,960
+called darktable exported and we have
+
+268
+00:09:57,960 --> 00:10:01,590
+just this exported image and again like
+
+269
+00:10:01,590 --> 00:10:03,420
+we've talked about before our original
+
+270
+00:10:03,420 --> 00:10:05,640
+image is still here unaffected one of
+
+271
+00:10:05,640 --> 00:10:08,310
+these ones so we don't have to worry
+
+272
+00:10:08,310 --> 00:10:10,620
+about overwriting our image if we ever
+
+273
+00:10:10,620 --> 00:10:12,540
+want to get back to the original we can
+
+274
+00:10:12,540 --> 00:10:15,450
+definitely just do that thanks for
+
+275
+00:10:15,450 --> 00:10:16,260
+watching hopefully found this
+
+276
+00:10:16,260 --> 00:10:17,520
+informative go ahead and leave your
+
+277
+00:10:17,520 --> 00:10:18,840
+question in the comments below play with
+
+278
+00:10:18,840 --> 00:10:22,140
+masking just know that all you'll look
+
+279
+00:10:22,140 --> 00:10:23,610
+at all these different modules they all
+
+280
+00:10:23,610 --> 00:10:26,520
+have this blend option so the sky is the
+
+281
+00:10:26,520 --> 00:10:28,860
+limit on what you can do you can even do
+
+282
+00:10:28,860 --> 00:10:30,870
+exposure to a specific part of the image
+
+283
+00:10:30,870 --> 00:10:33,210
+really really powerful stuff play with
+
+284
+00:10:33,210 --> 00:10:35,220
+drawn first and once you get comfortable
+
+285
+00:10:35,220 --> 00:10:36,630
+with that we'll move on to parametric
+
+286
+00:10:36,630 --> 00:10:38,340
+thanks for watching guys - catch you in
+
+287
+00:10:38,340 --> 00:10:40,730
+the next tutorial
+

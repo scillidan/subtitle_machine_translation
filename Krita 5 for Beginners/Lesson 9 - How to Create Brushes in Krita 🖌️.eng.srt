@@ -1,0 +1,1756 @@
+1
+00:00:00,240 --> 00:00:02,040
+in this lesson we're going to explore
+
+2
+00:00:02,040 --> 00:00:04,839
+brush customization in more detail when
+
+3
+00:00:04,839 --> 00:00:06,680
+creating brushes everything you will
+
+4
+00:00:06,680 --> 00:00:08,480
+need can be found in the brush editor
+
+5
+00:00:08,480 --> 00:00:11,000
+panel expand the brush editor panel to
+
+6
+00:00:11,000 --> 00:00:13,000
+show all of the properties available but
+
+7
+00:00:13,000 --> 00:00:15,719
+try to conserve any wasted space this
+
+8
+00:00:15,719 --> 00:00:17,640
+panel makes it easy to modify the brush
+
+9
+00:00:17,640 --> 00:00:19,279
+properties while previewing those
+
+10
+00:00:19,279 --> 00:00:21,160
+changes in real time with the stroke
+
+11
+00:00:21,160 --> 00:00:23,439
+preview you can also paint onto your
+
+12
+00:00:23,439 --> 00:00:26,119
+canvas to evaluate the brushes while
+
+13
+00:00:26,119 --> 00:00:27,640
+you'll be doing the bulk of your brush
+
+14
+00:00:27,640 --> 00:00:29,640
+modification through the brush editor
+
+15
+00:00:29,640 --> 00:00:31,080
+the brush engines Define the
+
+16
+00:00:31,080 --> 00:00:32,800
+capabilities of the brush so that's
+
+17
+00:00:32,800 --> 00:00:34,000
+where you want to start when you're
+
+18
+00:00:34,000 --> 00:00:36,440
+creating a brush from scratch it can be
+
+19
+00:00:36,440 --> 00:00:38,120
+helpful to imagine that the brush you're
+
+20
+00:00:38,120 --> 00:00:40,879
+creating is an animal the brush engines
+
+21
+00:00:40,879 --> 00:00:42,640
+are where I can change a bird to a
+
+22
+00:00:42,640 --> 00:00:45,440
+mammal or a mammal to a reptile these
+
+23
+00:00:45,440 --> 00:00:47,440
+would be big drastic changes to the
+
+24
+00:00:47,440 --> 00:00:49,559
+behavior and appearance of the animal or
+
+25
+00:00:49,559 --> 00:00:51,719
+brush the changes made in the brush
+
+26
+00:00:51,719 --> 00:00:54,199
+editor can be more subtle in comparison
+
+27
+00:00:54,199 --> 00:00:55,840
+for example changing a pigeon to a
+
+28
+00:00:55,840 --> 00:00:58,399
+parrot or a parrot to an ostrich in
+
+29
+00:00:58,399 --> 00:01:00,519
+Brush terms I could turn a pencil into
+
+30
+00:01:00,519 --> 00:01:02,519
+charcoal with the brush editor but I
+
+31
+00:01:02,519 --> 00:01:03,879
+wouldn't be able to change charcoal to a
+
+32
+00:01:03,879 --> 00:01:06,040
+deformation brush that smudges pixels
+
+33
+00:01:06,040 --> 00:01:07,600
+unless I start with a different brush
+
+34
+00:01:07,600 --> 00:01:10,119
+engine unfortunately it's not as simple
+
+35
+00:01:10,119 --> 00:01:11,640
+as it could be to change the brush
+
+36
+00:01:11,640 --> 00:01:14,280
+engine of a brush what you'll need to do
+
+37
+00:01:14,280 --> 00:01:16,159
+is first select a default brush that is
+
+38
+00:01:16,159 --> 00:01:18,080
+using that engine and build your new
+
+39
+00:01:18,080 --> 00:01:20,520
+brush from that you can use the panel on
+
+40
+00:01:20,520 --> 00:01:22,560
+the left to filter out brushes that use
+
+41
+00:01:22,560 --> 00:01:24,240
+specific brush
+
+42
+00:01:24,240 --> 00:01:26,640
+engines let's start by exploring the
+
+43
+00:01:26,640 --> 00:01:29,079
+contents of the brush editor as we
+
+44
+00:01:29,079 --> 00:01:31,400
+looked at in early lessons this panel is
+
+45
+00:01:31,400 --> 00:01:33,040
+going to show you all of the relevant
+
+46
+00:01:33,040 --> 00:01:34,759
+properties for the currently selected
+
+47
+00:01:34,759 --> 00:01:37,240
+brush the contents will change depending
+
+48
+00:01:37,240 --> 00:01:39,799
+on the brush engine you have selected
+
+49
+00:01:39,799 --> 00:01:41,600
+these properties are divided by sections
+
+50
+00:01:41,600 --> 00:01:44,479
+for General color texture and masked
+
+51
+00:01:44,479 --> 00:01:46,960
+brush within those categories are the
+
+52
+00:01:46,960 --> 00:01:49,439
+properties each with numerous options
+
+53
+00:01:49,439 --> 00:01:51,200
+sliders and buttons that control
+
+54
+00:01:51,200 --> 00:01:53,880
+specific aspects of the brush nearest
+
+55
+00:01:53,880 --> 00:01:56,159
+the top are the general properties brush
+
+56
+00:01:56,159 --> 00:01:59,360
+tip blending mode opacity and flow these
+
+57
+00:01:59,360 --> 00:02:01,079
+are un unversal properties that can be
+
+58
+00:02:01,079 --> 00:02:03,240
+applied to many types of brushes though
+
+59
+00:02:03,240 --> 00:02:04,840
+some of the specialty brush engines have
+
+60
+00:02:04,840 --> 00:02:07,200
+their own unique set of properties you
+
+61
+00:02:07,200 --> 00:02:08,560
+may notice that some of the properties
+
+62
+00:02:08,560 --> 00:02:10,639
+are grayed out this is because these
+
+63
+00:02:10,639 --> 00:02:12,200
+properties are not applicable to the
+
+64
+00:02:12,200 --> 00:02:14,760
+currently selected brush the indented
+
+65
+00:02:14,760 --> 00:02:16,879
+properties are more advanced you'll need
+
+66
+00:02:16,879 --> 00:02:19,080
+to enable these by clicking first to the
+
+67
+00:02:19,080 --> 00:02:21,840
+left of the name if you see a check the
+
+68
+00:02:21,840 --> 00:02:24,319
+property has been applied to your brush
+
+69
+00:02:24,319 --> 00:02:26,959
+I can change the size spacing rotation
+
+70
+00:02:26,959 --> 00:02:28,879
+scatter and other properties that affect
+
+71
+00:02:28,879 --> 00:02:31,400
+the dab shape there's also a category of
+
+72
+00:02:31,400 --> 00:02:33,200
+color properties which control the color
+
+73
+00:02:33,200 --> 00:02:35,280
+of your brush Media or what comes out of
+
+74
+00:02:35,280 --> 00:02:37,959
+your brush you can lighten darken or
+
+75
+00:02:37,959 --> 00:02:39,800
+vary the Hue of your color as well as
+
+76
+00:02:39,800 --> 00:02:42,480
+control the buildup and mixing of colors
+
+77
+00:02:42,480 --> 00:02:43,920
+the texture properties contain the
+
+78
+00:02:43,920 --> 00:02:45,519
+various textures that you can apply to
+
+79
+00:02:45,519 --> 00:02:47,959
+dabs this is a key feature for brush
+
+80
+00:02:47,959 --> 00:02:49,879
+creation because it can really add a lot
+
+81
+00:02:49,879 --> 00:02:52,280
+of character to your brushes and the
+
+82
+00:02:52,280 --> 00:02:54,040
+Mast brush properties which are only
+
+83
+00:02:54,040 --> 00:02:56,040
+applicable to the pixel brush engine
+
+84
+00:02:56,040 --> 00:02:57,879
+will allow you to Overlay a second dab
+
+85
+00:02:57,879 --> 00:02:59,360
+on top of your brush to create more
+
+86
+00:02:59,360 --> 00:03:00,599
+intricate get
+
+87
+00:03:00,599 --> 00:03:03,200
+strokes because C's brush settings are
+
+88
+00:03:03,200 --> 00:03:05,360
+so extensive I won't be able to cover
+
+89
+00:03:05,360 --> 00:03:06,959
+absolutely every combination of
+
+90
+00:03:06,959 --> 00:03:08,480
+properties that the brush editor is
+
+91
+00:03:08,480 --> 00:03:11,120
+capable of it's a lot but I am going to
+
+92
+00:03:11,120 --> 00:03:12,720
+teach you the fundamentals so that you
+
+93
+00:03:12,720 --> 00:03:14,720
+can experiment to discover the extent of
+
+94
+00:03:14,720 --> 00:03:17,159
+what it can do it would take a very long
+
+95
+00:03:17,159 --> 00:03:19,120
+time to try every possible combination
+
+96
+00:03:19,120 --> 00:03:21,280
+of brush properties in Crea by the time
+
+97
+00:03:21,280 --> 00:03:23,159
+you finally did Crea probably would have
+
+98
+00:03:23,159 --> 00:03:25,799
+changed and added new features that may
+
+99
+00:03:25,799 --> 00:03:27,640
+sound frustrating but that's actually a
+
+100
+00:03:27,640 --> 00:03:29,560
+good thing it means that there is a lot
+
+101
+00:03:29,560 --> 00:03:31,680
+of room to innovate and discover new
+
+102
+00:03:31,680 --> 00:03:34,040
+brushes I am able to create unique
+
+103
+00:03:34,040 --> 00:03:36,040
+brushes that no one has ever used and
+
+104
+00:03:36,040 --> 00:03:37,799
+that feels really
+
+105
+00:03:37,799 --> 00:03:40,720
+cool I'll select the basic five size
+
+106
+00:03:40,720 --> 00:03:43,319
+brush and if we look in general size we
+
+107
+00:03:43,319 --> 00:03:45,080
+can see that enable pen settings is
+
+108
+00:03:45,080 --> 00:03:47,400
+checked pressure is selected beneath
+
+109
+00:03:47,400 --> 00:03:48,879
+that which indicates that the pen
+
+110
+00:03:48,879 --> 00:03:50,480
+pressure I use when pressing on my
+
+111
+00:03:50,480 --> 00:03:52,480
+tablet will determine the size of the
+
+112
+00:03:52,480 --> 00:03:55,239
+brush you can use the graph to control
+
+113
+00:03:55,239 --> 00:03:57,200
+how much size variation you get when you
+
+114
+00:03:57,200 --> 00:03:59,799
+press down with your pen the horizontal
+
+115
+00:03:59,799 --> 00:04:01,680
+axis is how hard you are pressing from
+
+116
+00:04:01,680 --> 00:04:04,760
+low to high the vertical axis is size
+
+117
+00:04:04,760 --> 00:04:07,879
+variation from small to large pressure
+
+118
+00:04:07,879 --> 00:04:09,400
+is the most common way to control the
+
+119
+00:04:09,400 --> 00:04:11,519
+size property but just to explain how
+
+120
+00:04:11,519 --> 00:04:13,519
+these settings work let's choose tilt
+
+121
+00:04:13,519 --> 00:04:16,160
+Direction and disable pressure now when
+
+122
+00:04:16,160 --> 00:04:18,160
+I tilt my pen in each Direction I can
+
+123
+00:04:18,160 --> 00:04:20,918
+vary the brush size pressure doesn't do
+
+124
+00:04:20,918 --> 00:04:22,840
+anything you'll find these brush
+
+125
+00:04:22,840 --> 00:04:24,720
+expressions in many of the properties
+
+126
+00:04:24,720 --> 00:04:26,280
+and you can control them in the same
+
+127
+00:04:26,280 --> 00:04:29,600
+manner I'll set this back to pressure St
+
+128
+00:04:29,600 --> 00:04:32,280
+Str is set to 100% this controls how
+
+129
+00:04:32,280 --> 00:04:34,120
+much the size will vary when I use
+
+130
+00:04:34,120 --> 00:04:36,520
+pressure If I make a stroke from light
+
+131
+00:04:36,520 --> 00:04:39,479
+to heavy you can see a lot of variation
+
+132
+00:04:39,479 --> 00:04:41,320
+if I set the strength lower you can see
+
+133
+00:04:41,320 --> 00:04:43,560
+that range is reduced so strength will
+
+134
+00:04:43,560 --> 00:04:44,960
+work in the same way for the other
+
+135
+00:04:44,960 --> 00:04:48,199
+properties as well I'll disable size and
+
+136
+00:04:48,199 --> 00:04:50,759
+let's look under opacity next this
+
+137
+00:04:50,759 --> 00:04:53,240
+controls the opacity of The Strokes
+
+138
+00:04:53,240 --> 00:04:55,440
+currently my strokes and dabs are fully
+
+139
+00:04:55,440 --> 00:04:57,919
+opaque but if I reduce the strength then
+
+140
+00:04:57,919 --> 00:05:00,039
+I can make semi-transparent Strokes and
+
+141
+00:05:00,039 --> 00:05:03,560
+dabs I'll set it back to 100% if I
+
+142
+00:05:03,560 --> 00:05:05,120
+enable pin settings and set it to
+
+143
+00:05:05,120 --> 00:05:07,080
+pressure then I can press lightly to
+
+144
+00:05:07,080 --> 00:05:09,320
+make my Strokes more transparent heavy
+
+145
+00:05:09,320 --> 00:05:11,960
+pressure will make them more opaque I
+
+146
+00:05:11,960 --> 00:05:14,199
+can even combine size with opacity to
+
+147
+00:05:14,199 --> 00:05:16,520
+get both Expressions
+
+148
+00:05:16,520 --> 00:05:18,840
+simultaneously flow is similar to
+
+149
+00:05:18,840 --> 00:05:21,080
+opacity but it controls the opacity of
+
+150
+00:05:21,080 --> 00:05:22,960
+each dab on the stroke rather than the
+
+151
+00:05:22,960 --> 00:05:26,600
+stroke as a hole I'll disable opacity
+
+152
+00:05:26,600 --> 00:05:28,360
+for some brushes you may want to change
+
+153
+00:05:28,360 --> 00:05:30,199
+the flow to make the brush build up more
+
+154
+00:05:30,199 --> 00:05:32,440
+slowly but in this case it creates
+
+155
+00:05:32,440 --> 00:05:34,440
+unsightly artifacts where the dabs and
+
+156
+00:05:34,440 --> 00:05:35,639
+strokes
+
+157
+00:05:35,639 --> 00:05:38,840
+overlap I'll enable scatter next this
+
+158
+00:05:38,840 --> 00:05:40,560
+will offset the position of some of the
+
+159
+00:05:40,560 --> 00:05:43,120
+dabs to break up the stroke a little
+
+160
+00:05:43,120 --> 00:05:45,720
+scatter will give you a jagged line a
+
+161
+00:05:45,720 --> 00:05:47,800
+high scatter value will create a spray
+
+162
+00:05:47,800 --> 00:05:50,199
+or splatter effect and again I can
+
+163
+00:05:50,199 --> 00:05:51,720
+control the scattering distance with
+
+164
+00:05:51,720 --> 00:05:53,360
+expressions like
+
+165
+00:05:53,360 --> 00:05:55,880
+pressure if I set the flow strength back
+
+166
+00:05:55,880 --> 00:05:58,560
+to 100% softness can be useful to make
+
+167
+00:05:58,560 --> 00:06:01,120
+your brush dab and strokes softer along
+
+168
+00:06:01,120 --> 00:06:03,160
+the edges this can help give the
+
+169
+00:06:03,160 --> 00:06:05,720
+appearance of a wetter medium a low
+
+170
+00:06:05,720 --> 00:06:08,160
+value will give you the softest
+
+171
+00:06:08,160 --> 00:06:10,560
+edges spacing is another important
+
+172
+00:06:10,560 --> 00:06:12,639
+property this controls the distance
+
+173
+00:06:12,639 --> 00:06:15,199
+between each dab and a stroke a low
+
+174
+00:06:15,199 --> 00:06:17,240
+value works best to create a continuous
+
+175
+00:06:17,240 --> 00:06:19,599
+stroke a high value works best for
+
+176
+00:06:19,599 --> 00:06:22,800
+creating a dashed line or a spray brush
+
+177
+00:06:22,800 --> 00:06:24,160
+any brushes that have had their
+
+178
+00:06:24,160 --> 00:06:26,000
+properties edited will show a pencil
+
+179
+00:06:26,000 --> 00:06:28,319
+icon in the brush presets panel
+
+180
+00:06:28,319 --> 00:06:30,080
+resetting a brush to its default is
+
+181
+00:06:30,080 --> 00:06:32,080
+quite easy just click either on the
+
+182
+00:06:32,080 --> 00:06:34,080
+reset button in the brush editor or the
+
+183
+00:06:34,080 --> 00:06:35,039
+properties
+
+184
+00:06:35,039 --> 00:06:38,599
+bar let's move back up to brush tip this
+
+185
+00:06:38,599 --> 00:06:40,280
+gives you control over the dab of your
+
+186
+00:06:40,280 --> 00:06:43,039
+brush for Pixel engine brushes you can
+
+187
+00:06:43,039 --> 00:06:46,120
+choose from Auto predefined or text
+
+188
+00:06:46,120 --> 00:06:48,680
+we'll only use the first two options
+
+189
+00:06:48,680 --> 00:06:50,520
+Auto can automatically generate dab
+
+190
+00:06:50,520 --> 00:06:52,720
+shapes you can choose from circular or
+
+191
+00:06:52,720 --> 00:06:55,160
+Square dabs change the edge hardness dab
+
+192
+00:06:55,160 --> 00:06:57,240
+flatness and dab angle and create
+
+193
+00:06:57,240 --> 00:06:59,039
+Speckles within each dab to simulate
+
+194
+00:06:59,039 --> 00:07:00,319
+bristles
+
+195
+00:07:00,319 --> 00:07:02,840
+for a more intricate dab you can choose
+
+196
+00:07:02,840 --> 00:07:04,879
+predefined this will let you pick from a
+
+197
+00:07:04,879 --> 00:07:06,560
+number of dab shapes and you can even
+
+198
+00:07:06,560 --> 00:07:08,319
+import your own either by drawing them
+
+199
+00:07:08,319 --> 00:07:09,960
+on the canvas and making a selection
+
+200
+00:07:09,960 --> 00:07:13,199
+around them or by saving them as a file
+
+201
+00:07:13,199 --> 00:07:16,000
+there are spacing settings here too this
+
+202
+00:07:16,000 --> 00:07:18,039
+works independently of the other spacing
+
+203
+00:07:18,039 --> 00:07:20,319
+property which is sort of extra spacing
+
+204
+00:07:20,319 --> 00:07:21,479
+that can be controlled with an
+
+205
+00:07:21,479 --> 00:07:24,000
+expression like pressure don't set the
+
+206
+00:07:24,000 --> 00:07:26,080
+value of the main spacing too low or
+
+207
+00:07:26,080 --> 00:07:27,879
+you'll create excessive dabs that will
+
+208
+00:07:27,879 --> 00:07:30,360
+cause the brush to lag I'll reset the
+
+209
+00:07:30,360 --> 00:07:33,360
+brush again painting with flat brushes
+
+210
+00:07:33,360 --> 00:07:35,440
+can be very useful just think about how
+
+211
+00:07:35,440 --> 00:07:37,919
+many flat traditional brushes there are
+
+212
+00:07:37,919 --> 00:07:39,639
+to flatten a dab you can either make
+
+213
+00:07:39,639 --> 00:07:42,280
+your own predefined dab or use the auto
+
+214
+00:07:42,280 --> 00:07:45,400
+mode under Auto I'll use a circular dab
+
+215
+00:07:45,400 --> 00:07:48,319
+and reduce the ratio to flatten the dab
+
+216
+00:07:48,319 --> 00:07:50,240
+next I'll add a rotation property and
+
+217
+00:07:50,240 --> 00:07:52,960
+set it to tilt Direction now I can angle
+
+218
+00:07:52,960 --> 00:07:55,720
+my pen to change the angle of the dab as
+
+219
+00:07:55,720 --> 00:07:57,599
+you can see I can easily make thick and
+
+220
+00:07:57,599 --> 00:07:59,599
+thin Strokes should you you need to
+
+221
+00:07:59,599 --> 00:08:01,599
+change the starting angle of the dab you
+
+222
+00:08:01,599 --> 00:08:04,720
+can do that in the brush tip under
+
+223
+00:08:04,720 --> 00:08:06,960
+angle the blending mode properties
+
+224
+00:08:06,960 --> 00:08:08,960
+control how your brush medium blends
+
+225
+00:08:08,960 --> 00:08:11,280
+with underlying colors does it simply
+
+226
+00:08:11,280 --> 00:08:13,280
+cover them opaquely or does it tint
+
+227
+00:08:13,280 --> 00:08:15,879
+darker like ink or watercolor would if
+
+228
+00:08:15,879 --> 00:08:18,360
+it's the lad then multiply or burn works
+
+229
+00:08:18,360 --> 00:08:20,800
+well to give you this effect in a sense
+
+230
+00:08:20,800 --> 00:08:22,240
+this property is able to change the
+
+231
+00:08:22,240 --> 00:08:24,599
+medium that comes out of your brush
+
+232
+00:08:24,599 --> 00:08:26,440
+there are many more modes which give you
+
+233
+00:08:26,440 --> 00:08:28,759
+non-traditional effects as well for
+
+234
+00:08:28,759 --> 00:08:30,560
+example you can build up glowing lights
+
+235
+00:08:30,560 --> 00:08:33,479
+with screen or color Dodge with this
+
+236
+00:08:33,479 --> 00:08:35,120
+brush the blending mode affects the
+
+237
+00:08:35,120 --> 00:08:36,919
+blending of each stroke but there's
+
+238
+00:08:36,919 --> 00:08:38,399
+another way it can work which I will
+
+239
+00:08:38,399 --> 00:08:40,399
+come back to in a second I'll set the
+
+240
+00:08:40,399 --> 00:08:42,080
+blending mode back to normal which is
+
+241
+00:08:42,080 --> 00:08:45,000
+the default opaque paint next we'll move
+
+242
+00:08:45,000 --> 00:08:47,240
+on to the color properties here you'll
+
+243
+00:08:47,240 --> 00:08:49,160
+find more properties that can affect the
+
+244
+00:08:49,160 --> 00:08:51,640
+color of the brush medium painting mode
+
+245
+00:08:51,640 --> 00:08:53,440
+can also affect how the blending mode
+
+246
+00:08:53,440 --> 00:08:56,240
+works wash gives you a glazing effect
+
+247
+00:08:56,240 --> 00:08:58,079
+where your dabs do not build up upon
+
+248
+00:08:58,079 --> 00:09:00,240
+each other to to see what I mean I'll
+
+249
+00:09:00,240 --> 00:09:02,800
+use the multiply blending mode again
+
+250
+00:09:02,800 --> 00:09:04,839
+when I overlap Strokes with both modes
+
+251
+00:09:04,839 --> 00:09:06,399
+you can see how the effect builds up
+
+252
+00:09:06,399 --> 00:09:08,640
+more rapidly and yields more unsightly
+
+253
+00:09:08,640 --> 00:09:11,160
+artifacts when I use buildup for many
+
+254
+00:09:11,160 --> 00:09:13,320
+mediums like marker you may want it to
+
+255
+00:09:13,320 --> 00:09:15,399
+build up rapidly but for others where
+
+256
+00:09:15,399 --> 00:09:17,000
+you want to overlap a stroke with more
+
+257
+00:09:17,000 --> 00:09:19,200
+control over the opacity wash is the way
+
+258
+00:09:19,200 --> 00:09:20,200
+to
+
+259
+00:09:20,200 --> 00:09:22,959
+go the source property can drastically
+
+260
+00:09:22,959 --> 00:09:24,880
+change the medium that comes out of your
+
+261
+00:09:24,880 --> 00:09:27,360
+brush for example it's set to plain
+
+262
+00:09:27,360 --> 00:09:29,360
+color for now but I can also get a
+
+263
+00:09:29,360 --> 00:09:31,640
+variety of effects using gradients noise
+
+264
+00:09:31,640 --> 00:09:34,160
+and patterns now instead of painting my
+
+265
+00:09:34,160 --> 00:09:36,440
+Strokes I'm getting something more
+
+266
+00:09:36,440 --> 00:09:38,800
+exotic in the middle there are a bunch
+
+267
+00:09:38,800 --> 00:09:40,640
+of color modes that can be applied to
+
+268
+00:09:40,640 --> 00:09:44,000
+your brush I'll reset this brush these
+
+269
+00:09:44,000 --> 00:09:45,480
+color properties are similar to The
+
+270
+00:09:45,480 --> 00:09:47,399
+blending mode but rather than affecting
+
+271
+00:09:47,399 --> 00:09:49,399
+underlying colors on the canvas they
+
+272
+00:09:49,399 --> 00:09:52,240
+only affect the color of the dabs if I
+
+273
+00:09:52,240 --> 00:09:54,240
+enable any of these I can also enable
+
+274
+00:09:54,240 --> 00:09:56,240
+pin settings to control the effects with
+
+275
+00:09:56,240 --> 00:09:58,920
+pressure or other Expressions I won't go
+
+276
+00:09:58,920 --> 00:10:00,640
+over over all of these but let's try
+
+277
+00:10:00,640 --> 00:10:02,519
+darken so we can see how it is supposed
+
+278
+00:10:02,519 --> 00:10:05,680
+to work I'll reduce the strength a bit
+
+279
+00:10:05,680 --> 00:10:07,880
+with my expression set to pen pressure I
+
+280
+00:10:07,880 --> 00:10:09,760
+can make light strokes and they appear
+
+281
+00:10:09,760 --> 00:10:12,200
+as my selected color but once I begin to
+
+282
+00:10:12,200 --> 00:10:14,079
+increase pressure my paint will begin to
+
+283
+00:10:14,079 --> 00:10:16,519
+gradually darken these tend to give you
+
+284
+00:10:16,519 --> 00:10:18,519
+unnatural effects but there are some
+
+285
+00:10:18,519 --> 00:10:20,399
+traditional media effects you can get as
+
+286
+00:10:20,399 --> 00:10:23,160
+well if you experiment it is possible to
+
+287
+00:10:23,160 --> 00:10:25,200
+combine blending modes with these dab
+
+288
+00:10:25,200 --> 00:10:28,120
+color modes as well we'll skip past
+
+289
+00:10:28,120 --> 00:10:30,600
+airbrush and r and move on to the next
+
+290
+00:10:30,600 --> 00:10:32,880
+category the next set of properties can
+
+291
+00:10:32,880 --> 00:10:35,600
+add texture to your brushes I'll reset
+
+292
+00:10:35,600 --> 00:10:37,959
+this brush and under pattern I'll first
+
+293
+00:10:37,959 --> 00:10:39,800
+enable it then select one of these
+
+294
+00:10:39,800 --> 00:10:42,079
+dotted patterns when I paint on the
+
+295
+00:10:42,079 --> 00:10:43,800
+canvas you can see that pattern
+
+296
+00:10:43,800 --> 00:10:46,120
+subtracted from my paint this is meant
+
+297
+00:10:46,120 --> 00:10:47,800
+to simulate the effect you'd get while
+
+298
+00:10:47,800 --> 00:10:49,920
+working on a textured Canvas OR with a
+
+299
+00:10:49,920 --> 00:10:52,320
+textured medium like chalk charcoal or
+
+300
+00:10:52,320 --> 00:10:54,839
+pastel I will be covering texture in its
+
+301
+00:10:54,839 --> 00:10:56,959
+own section so for now I won't say
+
+302
+00:10:56,959 --> 00:10:59,480
+anything else about it m brush is
+
+303
+00:10:59,480 --> 00:11:00,839
+something we will come back to in that
+
+304
+00:11:00,839 --> 00:11:03,360
+lesson as well I know that was a lot to
+
+305
+00:11:03,360 --> 00:11:05,480
+take in but the good news is that unless
+
+306
+00:11:05,480 --> 00:11:07,600
+you were creating brushes you need not
+
+307
+00:11:07,600 --> 00:11:09,000
+touch many of the properties in the
+
+308
+00:11:09,000 --> 00:11:11,360
+brush editor it's okay to tweak these
+
+309
+00:11:11,360 --> 00:11:12,920
+properties here and there but if you
+
+310
+00:11:12,920 --> 00:11:15,160
+find you're changing properties often
+
+311
+00:11:15,160 --> 00:11:17,079
+consider making multiple brush variants
+
+312
+00:11:17,079 --> 00:11:19,160
+instead because it could be more
+
+313
+00:11:19,160 --> 00:11:21,440
+efficient when creating a brush from
+
+314
+00:11:21,440 --> 00:11:24,079
+scratch start with the brush engine then
+
+315
+00:11:24,079 --> 00:11:26,600
+refine the brush with the brush editor
+
+316
+00:11:26,600 --> 00:11:28,440
+you can choose any of the default cre
+
+317
+00:11:28,440 --> 00:11:30,200
+brushes and then use them as a starting
+
+318
+00:11:30,200 --> 00:11:32,720
+point let's create a bristly looking
+
+319
+00:11:32,720 --> 00:11:35,519
+brush with thick oily paint from scratch
+
+320
+00:11:35,519 --> 00:11:38,240
+so you can see the process I'll start
+
+321
+00:11:38,240 --> 00:11:41,600
+with basic five size and reset it I want
+
+322
+00:11:41,600 --> 00:11:43,839
+to customize the shape of the dab first
+
+323
+00:11:43,839 --> 00:11:46,160
+so let's choose brush chip predefined
+
+324
+00:11:46,160 --> 00:11:47,680
+bristle Circle
+
+325
+00:11:47,680 --> 00:11:50,800
+sparse now it has a different bristly
+
+326
+00:11:50,800 --> 00:11:53,480
+appearance the spacing is too high so I
+
+327
+00:11:53,480 --> 00:11:55,320
+will decrease it just enough to where I
+
+328
+00:11:55,320 --> 00:11:56,639
+get a continuous
+
+329
+00:11:56,639 --> 00:11:59,600
+line I'd like to utilize textur as well
+
+330
+00:11:59,600 --> 00:12:02,560
+so let's enable it and add wo texture
+
+331
+00:12:02,560 --> 00:12:04,800
+now I get a canvas effect to make the
+
+332
+00:12:04,800 --> 00:12:06,920
+bristles not so repetitive I'll also add
+
+333
+00:12:06,920 --> 00:12:09,040
+a rotation property and set it to tilt
+
+334
+00:12:09,040 --> 00:12:11,200
+Direction now when I tilt my pen the
+
+335
+00:12:11,200 --> 00:12:12,480
+bristle dab
+
+336
+00:12:12,480 --> 00:12:14,480
+rotates now that I have defined the
+
+337
+00:12:14,480 --> 00:12:16,639
+basic look and behavior of my brush I
+
+338
+00:12:16,639 --> 00:12:18,880
+can begin to fine-tune it I think I'm
+
+339
+00:12:18,880 --> 00:12:20,279
+happy with the shape of the brush so
+
+340
+00:12:20,279 --> 00:12:22,560
+I'll refine the brush media I want
+
+341
+00:12:22,560 --> 00:12:24,279
+pressure to control the opacity of the
+
+342
+00:12:24,279 --> 00:12:26,600
+paint so I'll add that now the paint
+
+343
+00:12:26,600 --> 00:12:29,120
+looks a little wetter while the brush in
+
+344
+00:12:29,120 --> 00:12:30,639
+you've chosen tends to have the most
+
+345
+00:12:30,639 --> 00:12:32,920
+dramatic impact on the look of a brush
+
+346
+00:12:32,920 --> 00:12:34,399
+with the right settings the properties
+
+347
+00:12:34,399 --> 00:12:35,839
+in the brush editor can make some
+
+348
+00:12:35,839 --> 00:12:38,399
+extreme changes as well for instance I
+
+349
+00:12:38,399 --> 00:12:40,279
+can add some scatter to change this from
+
+350
+00:12:40,279 --> 00:12:42,399
+a single bristly stroke to a brush that
+
+351
+00:12:42,399 --> 00:12:45,040
+makes fine splatters this barely
+
+352
+00:12:45,040 --> 00:12:46,800
+resembles the previous version of this
+
+353
+00:12:46,800 --> 00:12:49,600
+brush however the behavior of the media
+
+354
+00:12:49,600 --> 00:12:51,920
+Remains the Same it's still wet looking
+
+355
+00:12:51,920 --> 00:12:53,040
+opaque
+
+356
+00:12:53,040 --> 00:12:55,120
+paint that should give you a pretty good
+
+357
+00:12:55,120 --> 00:12:57,040
+overview of how the brush engines work
+
+358
+00:12:57,040 --> 00:12:59,959
+alongside the brush editor
+
+359
+00:12:59,959 --> 00:13:01,680
+in order to save this brush for later
+
+360
+00:13:01,680 --> 00:13:04,680
+use you can save a new brush preset give
+
+361
+00:13:04,680 --> 00:13:06,360
+the brush a unique name so you can
+
+362
+00:13:06,360 --> 00:13:08,800
+differentiate it from the default brush
+
+363
+00:13:08,800 --> 00:13:11,600
+you can add a custom thumbnail as well
+
+364
+00:13:11,600 --> 00:13:13,079
+either create the thumbnail first and
+
+365
+00:13:13,079 --> 00:13:14,959
+save it as an image file or paint
+
+366
+00:13:14,959 --> 00:13:16,720
+directly onto the thumbnail area with
+
+367
+00:13:16,720 --> 00:13:19,360
+your chosen color since the dab and
+
+368
+00:13:19,360 --> 00:13:21,560
+stroke previews are not always helpful
+
+369
+00:13:21,560 --> 00:13:23,360
+the name can also help to remind you of
+
+370
+00:13:23,360 --> 00:13:25,320
+the brush Behavior or your intention
+
+371
+00:13:25,320 --> 00:13:27,800
+when you created it after saving you may
+
+372
+00:13:27,800 --> 00:13:29,720
+want to tag the brush to add it to a
+
+373
+00:13:29,720 --> 00:13:31,880
+category I recommend resetting the
+
+374
+00:13:31,880 --> 00:13:33,639
+original brush you started with when you
+
+375
+00:13:33,639 --> 00:13:34,639
+are
+
+376
+00:13:34,639 --> 00:13:36,800
+finished you can always rename your
+
+377
+00:13:36,800 --> 00:13:39,079
+brushes at any time simply click on the
+
+378
+00:13:39,079 --> 00:13:40,880
+pencil icon in the brush Editor to
+
+379
+00:13:40,880 --> 00:13:42,120
+change
+
+380
+00:13:42,120 --> 00:13:44,639
+it the changes you make to brushes will
+
+381
+00:13:44,639 --> 00:13:47,160
+be reflected in the Creed resource files
+
+382
+00:13:47,160 --> 00:13:48,480
+so if you want to keep your brushes
+
+383
+00:13:48,480 --> 00:13:50,399
+backed up you'll need to copy them once
+
+384
+00:13:50,399 --> 00:13:52,320
+they have been completed if you don't
+
+385
+00:13:52,320 --> 00:13:53,800
+want to always have to remember to
+
+386
+00:13:53,800 --> 00:13:55,759
+manually back up your brushes you can
+
+387
+00:13:55,759 --> 00:13:57,680
+also do it automatically using something
+
+388
+00:13:57,680 --> 00:13:59,959
+like Dropbox or one drive to back up
+
+389
+00:13:59,959 --> 00:14:02,320
+your cre library on a regular
+
+390
+00:14:02,320 --> 00:14:05,240
+basis managing brushes and cre can be
+
+391
+00:14:05,240 --> 00:14:07,079
+difficult compared to other art
+
+392
+00:14:07,079 --> 00:14:09,320
+applications any brushes you create will
+
+393
+00:14:09,320 --> 00:14:11,360
+be based off of existing brushes and
+
+394
+00:14:11,360 --> 00:14:13,800
+will be saved into the library or bundle
+
+395
+00:14:13,800 --> 00:14:16,240
+that brush is located in in this case
+
+396
+00:14:16,240 --> 00:14:18,000
+the brush I created was in the local
+
+397
+00:14:18,000 --> 00:14:20,320
+resources so to view the file I can go
+
+398
+00:14:20,320 --> 00:14:22,759
+to settings manage resources and then
+
+399
+00:14:22,759 --> 00:14:25,720
+open resource folder look in paint op
+
+400
+00:14:25,720 --> 00:14:27,680
+presets and you'll see any new brushes
+
+401
+00:14:27,680 --> 00:14:29,800
+and tags you created there it's
+
+402
+00:14:29,800 --> 00:14:31,160
+important to note that if you created
+
+403
+00:14:31,160 --> 00:14:33,440
+any custom brush tips those need to go
+
+404
+00:14:33,440 --> 00:14:35,959
+along with the brush presets if you move
+
+405
+00:14:35,959 --> 00:14:38,399
+backup or share them these can be found
+
+406
+00:14:38,399 --> 00:14:41,440
+in the brushes folder deleting brushes
+
+407
+00:14:41,440 --> 00:14:43,639
+is not very straightforward either you
+
+408
+00:14:43,639 --> 00:14:45,600
+need to do it from the manage resources
+
+409
+00:14:45,600 --> 00:14:47,959
+dialogue I can remove anything here
+
+410
+00:14:47,959 --> 00:14:51,079
+including brush tips bundles are library
+
+411
+00:14:51,079 --> 00:14:53,120
+of resources that can package content
+
+412
+00:14:53,120 --> 00:14:55,320
+together it can be tedious to create a
+
+413
+00:14:55,320 --> 00:14:57,040
+bundle since you have to select all of
+
+414
+00:14:57,040 --> 00:14:59,639
+the content individually if you disable
+
+415
+00:14:59,639 --> 00:15:01,440
+some of the bundles you aren't copying
+
+416
+00:15:01,440 --> 00:15:03,240
+content from that makes it easier to
+
+417
+00:15:03,240 --> 00:15:05,800
+sort through as you can see I've created
+
+418
+00:15:05,800 --> 00:15:07,800
+my own bundle with my custom brushes in
+
+419
+00:15:07,800 --> 00:15:10,079
+it you can install this on your computer
+
+420
+00:15:10,079 --> 00:15:12,320
+if you like the file can be found in the
+
+421
+00:15:12,320 --> 00:15:14,320
+resource files if you purchase the paid
+
+422
+00:15:14,320 --> 00:15:16,720
+course moving brushes and content
+
+423
+00:15:16,720 --> 00:15:19,240
+between bundles is tricky as well
+
+424
+00:15:19,240 --> 00:15:20,920
+technically a bundle file can be
+
+425
+00:15:20,920 --> 00:15:23,360
+duplicated and renamed to a zip file and
+
+426
+00:15:23,360 --> 00:15:25,759
+you can access the content within this
+
+427
+00:15:25,759 --> 00:15:27,800
+can be helpful to extract brushes and
+
+428
+00:15:27,800 --> 00:15:29,600
+other types of files
+
+429
+00:15:29,600 --> 00:15:31,279
+if you collect everything in your local
+
+430
+00:15:31,279 --> 00:15:33,720
+resources folder by copying or importing
+
+431
+00:15:33,720 --> 00:15:36,079
+it you can easily save a new bundle with
+
+432
+00:15:36,079 --> 00:15:37,600
+that content in
+
+433
+00:15:37,600 --> 00:15:40,120
+it to delete bundles and remove them
+
+434
+00:15:40,120 --> 00:15:41,959
+from CRE instead of just making them
+
+435
+00:15:41,959 --> 00:15:44,120
+inactive you must delete the bundle file
+
+436
+00:15:44,120 --> 00:15:46,519
+in your resources folder just be sure
+
+437
+00:15:46,519 --> 00:15:48,000
+those files are backed up if you don't
+
+438
+00:15:48,000 --> 00:15:51,079
+want to permanently lose
+
+439
+00:15:54,440 --> 00:15:57,440
+them
+

@@ -1,0 +1,580 @@
+1
+00:00:02,210 --> 00:00:04,800
+welcome to another darktable tutorial in
+
+2
+00:00:04,800 --> 00:00:07,049
+this video we'll look at styles and
+
+3
+00:00:07,049 --> 00:00:09,059
+presets and learn how to use those to
+
+4
+00:00:09,059 --> 00:00:11,249
+speed up our workflow and make more
+
+5
+00:00:11,249 --> 00:00:13,559
+professional edits in darktable we've
+
+6
+00:00:13,559 --> 00:00:14,669
+learned in the past that we can just
+
+7
+00:00:14,669 --> 00:00:16,740
+copy the entire history stack from an
+
+8
+00:00:16,740 --> 00:00:18,869
+image and apply it to another one that's
+
+9
+00:00:18,869 --> 00:00:20,849
+similar to how Styles will work but
+
+10
+00:00:20,849 --> 00:00:22,349
+instead of having to hold all those
+
+11
+00:00:22,349 --> 00:00:24,390
+changes in our clipboard and only be
+
+12
+00:00:24,390 --> 00:00:27,990
+able to apply one specific history stack
+
+13
+00:00:27,990 --> 00:00:30,839
+at a time styles is right down here
+
+14
+00:00:30,839 --> 00:00:33,240
+right below the history stack and what
+
+15
+00:00:33,240 --> 00:00:35,970
+Styles lets us do is save a certain all
+
+16
+00:00:35,970 --> 00:00:38,430
+the changes all the modules and their
+
+17
+00:00:38,430 --> 00:00:41,100
+settings we can save that so we'll click
+
+18
+00:00:41,100 --> 00:00:42,840
+create and it brings up this box and we
+
+19
+00:00:42,840 --> 00:00:46,410
+can just call this cool black and white
+
+20
+00:00:46,410 --> 00:00:49,410
+and go to save and now we can apply that
+
+21
+00:00:49,410 --> 00:00:52,260
+to images when we're in the darkroom and
+
+22
+00:00:52,260 --> 00:00:54,180
+doing our edits so the other way to do
+
+23
+00:00:54,180 --> 00:00:55,440
+this is we can just come up here like
+
+24
+00:00:55,440 --> 00:00:57,270
+we've learned in the past and go copy we
+
+25
+00:00:57,270 --> 00:00:58,890
+copy all of them and then click on the
+
+26
+00:00:58,890 --> 00:01:00,210
+image we want to apply them to and go
+
+27
+00:01:00,210 --> 00:01:03,030
+paste so this is not styles this is just
+
+28
+00:01:03,030 --> 00:01:04,830
+copying the modules with their settings
+
+29
+00:01:04,830 --> 00:01:06,390
+and applying them to another image
+
+30
+00:01:06,390 --> 00:01:08,790
+whereas style is once we've done this
+
+31
+00:01:08,790 --> 00:01:10,470
+once we've created a style and we go
+
+32
+00:01:10,470 --> 00:01:12,600
+into the darkroom we can select any
+
+33
+00:01:12,600 --> 00:01:15,600
+image like this one here and then we can
+
+34
+00:01:15,600 --> 00:01:17,130
+just come down it's this teeny little
+
+35
+00:01:17,130 --> 00:01:20,159
+icon and we click on this and it brings
+
+36
+00:01:20,159 --> 00:01:22,230
+up a dialog and says what style are at
+
+37
+00:01:22,230 --> 00:01:23,850
+contact of the list and I only have one
+
+38
+00:01:23,850 --> 00:01:25,409
+right now this one that I just created
+
+39
+00:01:25,409 --> 00:01:27,409
+but if we click on it it applies
+
+40
+00:01:27,409 --> 00:01:29,610
+everything that was on that image which
+
+41
+00:01:29,610 --> 00:01:32,340
+is only it actually duplicated some of
+
+42
+00:01:32,340 --> 00:01:33,840
+that stuff over there but it basically
+
+43
+00:01:33,840 --> 00:01:36,150
+applied all that to the two here let's
+
+44
+00:01:36,150 --> 00:01:37,890
+go look at another one so I have one
+
+45
+00:01:37,890 --> 00:01:39,510
+that I made some changes to earlier and
+
+46
+00:01:39,510 --> 00:01:42,420
+this one does have a little bit so I did
+
+47
+00:01:42,420 --> 00:01:44,610
+some color correction we have some split
+
+48
+00:01:44,610 --> 00:01:46,049
+toning and me not covered correction I
+
+49
+00:01:46,049 --> 00:01:47,340
+did some monochrome I did some split
+
+50
+00:01:47,340 --> 00:01:51,420
+toning a little bit of I put a vignette
+
+51
+00:01:51,420 --> 00:01:53,310
+around it so let's just maybe if I want
+
+52
+00:01:53,310 --> 00:01:55,020
+to replicate this look or have this be
+
+53
+00:01:55,020 --> 00:01:57,030
+like a signature look for pictures that
+
+54
+00:01:57,030 --> 00:01:57,510
+I do
+
+55
+00:01:57,510 --> 00:01:59,760
+I could come into the light table and
+
+56
+00:01:59,760 --> 00:02:02,010
+then go to this drop-down here for
+
+57
+00:02:02,010 --> 00:02:05,520
+styles and I'll just go to create oh I
+
+58
+00:02:05,520 --> 00:02:06,869
+want one make sure I'm selected on that
+
+59
+00:02:06,869 --> 00:02:08,729
+image which I am and click on create and
+
+60
+00:02:08,729 --> 00:02:13,800
+now I'll call this one TJ cool filter
+
+61
+00:02:13,800 --> 00:02:18,460
+and now this click save and now this is
+
+62
+00:02:18,460 --> 00:02:19,630
+saved here so now I have two different
+
+63
+00:02:19,630 --> 00:02:22,150
+options so now when I'm in the darkroom
+
+64
+00:02:22,150 --> 00:02:24,010
+if ever I want to see just very quickly
+
+65
+00:02:24,010 --> 00:02:26,020
+I wonder what this image here would look
+
+66
+00:02:26,020 --> 00:02:28,690
+like with my cool filter settings I can
+
+67
+00:02:28,690 --> 00:02:31,420
+just click this here and go to TJ cool
+
+68
+00:02:31,420 --> 00:02:34,150
+filter and it adds all of those modules
+
+69
+00:02:34,150 --> 00:02:37,330
+with all of those settings to them so
+
+70
+00:02:37,330 --> 00:02:39,130
+that's Styles now that's different from
+
+71
+00:02:39,130 --> 00:02:42,400
+presets what the presets let us do is if
+
+72
+00:02:42,400 --> 00:02:44,140
+we apply something like a vignette for
+
+73
+00:02:44,140 --> 00:02:46,120
+example we want to apply that to here
+
+74
+00:02:46,120 --> 00:02:47,890
+there's these three little lines and
+
+75
+00:02:47,890 --> 00:02:49,480
+we've looked at this a little bit before
+
+76
+00:02:49,480 --> 00:02:51,310
+actually we click on these lines and we
+
+77
+00:02:51,310 --> 00:02:52,990
+have some different options so here's
+
+78
+00:02:52,990 --> 00:02:54,490
+the one that I created called dark VIN
+
+79
+00:02:54,490 --> 00:02:57,010
+it creates a very strong dark vignette
+
+80
+00:02:57,010 --> 00:02:59,500
+around the image and there's one that's
+
+81
+00:02:59,500 --> 00:03:01,570
+built in called Lomo and it just looks
+
+82
+00:03:01,570 --> 00:03:03,970
+like this not quite as strong but it
+
+83
+00:03:03,970 --> 00:03:05,650
+adjusts all these different changes but
+
+84
+00:03:05,650 --> 00:03:07,840
+it's only for this module so it's not
+
+85
+00:03:07,840 --> 00:03:09,970
+applying a bunch of different modules to
+
+86
+00:03:09,970 --> 00:03:11,260
+an image it's just changing the
+
+87
+00:03:11,260 --> 00:03:12,790
+different input values for this
+
+88
+00:03:12,790 --> 00:03:15,250
+particular module so if we notice we
+
+89
+00:03:15,250 --> 00:03:17,170
+come down here to soften there are no
+
+90
+00:03:17,170 --> 00:03:19,540
+presets and if we click on vignette it's
+
+91
+00:03:19,540 --> 00:03:21,610
+going to have presets specific to the
+
+92
+00:03:21,610 --> 00:03:26,380
+Finn yelling we can go to like our tone
+
+93
+00:03:26,380 --> 00:03:28,420
+curve has some different ones there like
+
+94
+00:03:28,420 --> 00:03:30,700
+a high contrast we can click on and see
+
+95
+00:03:30,700 --> 00:03:32,110
+what that looks like these are built in
+
+96
+00:03:32,110 --> 00:03:35,590
+there's a linear so we can see and then
+
+97
+00:03:35,590 --> 00:03:37,269
+we can see what they look like do we
+
+98
+00:03:37,269 --> 00:03:39,220
+have a medium contrast which the curve
+
+99
+00:03:39,220 --> 00:03:40,810
+looks like this and it makes these
+
+100
+00:03:40,810 --> 00:03:42,970
+changes and if we want to adjust this
+
+101
+00:03:42,970 --> 00:03:45,130
+and make our own custom one we can do
+
+102
+00:03:45,130 --> 00:03:47,410
+that as well we just get it to where we
+
+103
+00:03:47,410 --> 00:03:50,080
+the input to the way that we like it we
+
+104
+00:03:50,080 --> 00:03:51,400
+click on these three lines and go to
+
+105
+00:03:51,400 --> 00:03:53,860
+store new preset and it comes up with a
+
+106
+00:03:53,860 --> 00:03:57,070
+dialog so I can call this one extreme
+
+107
+00:03:57,070 --> 00:04:00,610
+and go okay and now we can apply that to
+
+108
+00:04:00,610 --> 00:04:02,590
+any image we want we open up a new image
+
+109
+00:04:02,590 --> 00:04:06,280
+and we go to extreme and we see how that
+
+110
+00:04:06,280 --> 00:04:08,350
+adjusts this image and how it makes it
+
+111
+00:04:08,350 --> 00:04:10,690
+look to delete a preset if we want to
+
+112
+00:04:10,690 --> 00:04:12,190
+get rid of that extreme we can click on
+
+113
+00:04:12,190 --> 00:04:16,089
+it and just go to apply it first and
+
+114
+00:04:16,089 --> 00:04:18,279
+then we just go to delete this preset it
+
+115
+00:04:18,279 --> 00:04:20,019
+comes up with a dialog we just say yes
+
+116
+00:04:20,019 --> 00:04:22,150
+and now that preset is no longer there
+
+117
+00:04:22,150 --> 00:04:24,190
+and that's the same with the Styles
+
+118
+00:04:24,190 --> 00:04:26,350
+we'll go back into light table we can
+
+119
+00:04:26,350 --> 00:04:28,330
+delete a style by just clicking on it
+
+120
+00:04:28,330 --> 00:04:30,970
+and going to delete and then that style
+
+121
+00:04:30,970 --> 00:04:33,610
+would no longer be available one preset
+
+122
+00:04:33,610 --> 00:04:35,350
+that we've used in the past that before
+
+123
+00:04:35,350 --> 00:04:37,270
+we kind of talked about presets are the
+
+124
+00:04:37,270 --> 00:04:39,100
+presets for the base curve based on
+
+125
+00:04:39,100 --> 00:04:42,160
+different cameras and so these are put
+
+126
+00:04:42,160 --> 00:04:44,770
+in by default and again we can make our
+
+127
+00:04:44,770 --> 00:04:47,560
+own and save our own custom preset if we
+
+128
+00:04:47,560 --> 00:04:49,900
+want to and so that's just a great
+
+129
+00:04:49,900 --> 00:04:51,940
+powerful feature using these presets and
+
+130
+00:04:51,940 --> 00:04:54,490
+using styles in the next tutorial we'll
+
+131
+00:04:54,490 --> 00:04:56,590
+learn how to create our own style based
+
+132
+00:04:56,590 --> 00:04:58,990
+off of an existing image so if we want
+
+133
+00:04:58,990 --> 00:05:01,060
+to have this sort of look and feel and
+
+134
+00:05:01,060 --> 00:05:03,760
+apply it to a picture of our own that's
+
+135
+00:05:03,760 --> 00:05:05,530
+just a picture I downloaded we'll learn
+
+136
+00:05:05,530 --> 00:05:08,110
+how to take the colors from that using
+
+137
+00:05:08,110 --> 00:05:10,840
+this color mapping module and so that
+
+138
+00:05:10,840 --> 00:05:12,340
+should be a lot of fun will take like a
+
+139
+00:05:12,340 --> 00:05:14,080
+sky picture like this and hopefully be
+
+140
+00:05:14,080 --> 00:05:16,780
+able to make it look apply that to a sky
+
+141
+00:05:16,780 --> 00:05:18,280
+picture that I've taken that's not
+
+142
+00:05:18,280 --> 00:05:20,470
+nearly as cool thanks for watching go
+
+143
+00:05:20,470 --> 00:05:21,310
+ahead and leave your questions and
+
+144
+00:05:21,310 --> 00:05:22,630
+comments below if you have any and we'll
+
+145
+00:05:22,630 --> 00:05:25,740
+catch you in the next video
+

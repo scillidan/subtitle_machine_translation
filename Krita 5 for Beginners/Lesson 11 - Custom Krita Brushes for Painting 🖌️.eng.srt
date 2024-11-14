@@ -1,0 +1,1132 @@
+1
+00:00:00,280 --> 00:00:01,760
+at this point we've looked at a lot of
+
+2
+00:00:01,760 --> 00:00:03,840
+brushes between all of the default
+
+3
+00:00:03,840 --> 00:00:05,920
+brushes in CR the brushes that I've
+
+4
+00:00:05,920 --> 00:00:07,759
+created the brushes other artists have
+
+5
+00:00:07,759 --> 00:00:09,400
+created and the brushes that you can
+
+6
+00:00:09,400 --> 00:00:11,480
+create there are more brushes available
+
+7
+00:00:11,480 --> 00:00:13,799
+than you could ever use in one lifetime
+
+8
+00:00:13,799 --> 00:00:16,000
+for a first-time user of Crea the sheer
+
+9
+00:00:16,000 --> 00:00:17,680
+number of brushes to choose from can
+
+10
+00:00:17,680 --> 00:00:19,480
+feel intimidating through
+
+11
+00:00:19,480 --> 00:00:21,240
+experimentation you will discover which
+
+12
+00:00:21,240 --> 00:00:23,279
+brushes are valuable to you but I will
+
+13
+00:00:23,279 --> 00:00:25,199
+also offer some suggestions for brushes
+
+14
+00:00:25,199 --> 00:00:27,480
+that I find useful I would consider
+
+15
+00:00:27,480 --> 00:00:30,320
+these to be my Essential brushes to make
+
+16
+00:00:30,320 --> 00:00:32,119
+them quicker to access all of these
+
+17
+00:00:32,119 --> 00:00:34,960
+brushes are located in a custom bundle
+
+18
+00:00:34,960 --> 00:00:37,000
+before we begin I'll remind you to reset
+
+19
+00:00:37,000 --> 00:00:38,920
+any modified brushes to their defaults
+
+20
+00:00:38,920 --> 00:00:40,520
+to ensure they match my
+
+21
+00:00:40,520 --> 00:00:42,399
+demonstrations I'll use the brush
+
+22
+00:00:42,399 --> 00:00:44,680
+testing template to demonstrate let's
+
+23
+00:00:44,680 --> 00:00:46,039
+start with some airbrushes in the
+
+24
+00:00:46,039 --> 00:00:49,039
+rendering AR category the first variant
+
+25
+00:00:49,039 --> 00:00:51,559
+is called airbrush soft airbrushes are
+
+26
+00:00:51,559 --> 00:00:53,600
+one of the oldest and most basic brushes
+
+27
+00:00:53,600 --> 00:00:55,600
+one can use to create digital art but
+
+28
+00:00:55,600 --> 00:00:57,879
+they are still incredibly useful The
+
+29
+00:00:57,879 --> 00:00:59,960
+Feathered edges and slowly building
+
+30
+00:00:59,960 --> 00:01:02,000
+opacity make your brushes perfect for
+
+31
+00:01:02,000 --> 00:01:04,199
+adding form to objects and creating hand
+
+32
+00:01:04,199 --> 00:01:06,439
+painted gradients I have a lot of
+
+33
+00:01:06,439 --> 00:01:08,360
+control over the brush opacity using pen
+
+34
+00:01:08,360 --> 00:01:10,479
+pressure you can also apply blending
+
+35
+00:01:10,479 --> 00:01:12,320
+modes to modify how the brush media
+
+36
+00:01:12,320 --> 00:01:14,400
+blends with underlying paint you can
+
+37
+00:01:14,400 --> 00:01:16,000
+quickly access these from the properties
+
+38
+00:01:16,000 --> 00:01:18,960
+bar let's set it to multiply if I
+
+39
+00:01:18,960 --> 00:01:20,920
+overlap Strokes I can build up my color
+
+40
+00:01:20,920 --> 00:01:22,640
+darker without having to change anything
+
+41
+00:01:22,640 --> 00:01:24,840
+in the color selector when working with
+
+42
+00:01:24,840 --> 00:01:26,640
+blending modes you may also want to
+
+43
+00:01:26,640 --> 00:01:28,520
+blend Strokes with underlying colors
+
+44
+00:01:28,520 --> 00:01:31,119
+using an appropriate layer blending mode
+
+45
+00:01:31,119 --> 00:01:33,600
+I'll revert the template the grainy
+
+46
+00:01:33,600 --> 00:01:35,200
+airbrush is similar to the previous
+
+47
+00:01:35,200 --> 00:01:37,159
+airbrush but with the ability to use
+
+48
+00:01:37,159 --> 00:01:39,640
+texture you can see that it has a soft
+
+49
+00:01:39,640 --> 00:01:41,399
+edge with some texture throughout the
+
+50
+00:01:41,399 --> 00:01:43,840
+stroke I can easily change this from the
+
+51
+00:01:43,840 --> 00:01:46,560
+properties bar glazing airbrush is also
+
+52
+00:01:46,560 --> 00:01:48,240
+similar to the soft air brush but it
+
+53
+00:01:48,240 --> 00:01:50,200
+uses wash instead of buildup for the
+
+54
+00:01:50,200 --> 00:01:52,360
+paint blending mode have a look at the
+
+55
+00:01:52,360 --> 00:01:53,640
+previous lesson to learn about the
+
+56
+00:01:53,640 --> 00:01:56,159
+differences between wash and buildup
+
+57
+00:01:56,159 --> 00:01:58,280
+this brush is useful for slowly building
+
+58
+00:01:58,280 --> 00:02:00,719
+up thin glazes of paint with opacity
+
+59
+00:02:00,719 --> 00:02:03,759
+that is more even and easy to control
+
+60
+00:02:03,759 --> 00:02:05,960
+next is the glow airbrush which also has
+
+61
+00:02:05,960 --> 00:02:08,598
+airbrush qualities this variant builds
+
+62
+00:02:08,598 --> 00:02:10,560
+up colors in a way that mimics natural
+
+63
+00:02:10,560 --> 00:02:13,239
+light the blending moon is set to screen
+
+64
+00:02:13,239 --> 00:02:14,840
+but you can also get some nice lighting
+
+65
+00:02:14,840 --> 00:02:17,640
+effects using the color Dodge Mode I use
+
+66
+00:02:17,640 --> 00:02:19,480
+this brush a lot for lighting objects
+
+67
+00:02:19,480 --> 00:02:20,519
+and
+
+68
+00:02:20,519 --> 00:02:23,400
+backgrounds next is the pepper air brush
+
+69
+00:02:23,400 --> 00:02:25,280
+this brush sprays out droplets of paint
+
+70
+00:02:25,280 --> 00:02:27,560
+that vary in size at only a few pixels
+
+71
+00:02:27,560 --> 00:02:30,080
+in diameter this brush works well for
+
+72
+00:02:30,080 --> 00:02:32,920
+creating Stars snow and sand you may
+
+73
+00:02:32,920 --> 00:02:34,560
+want to use the mouse to make single
+
+74
+00:02:34,560 --> 00:02:36,239
+dabs so you don't build up too many
+
+75
+00:02:36,239 --> 00:02:38,800
+features at once the size of the
+
+76
+00:02:38,800 --> 00:02:40,560
+features can be controlled in the brush
+
+77
+00:02:40,560 --> 00:02:43,159
+editor under spray shape you will need
+
+78
+00:02:43,159 --> 00:02:45,159
+to link the width and height to keep the
+
+79
+00:02:45,159 --> 00:02:47,840
+features round unlinking will allow you
+
+80
+00:02:47,840 --> 00:02:50,879
+to make ellipses and lines the pixel
+
+81
+00:02:50,879 --> 00:02:53,560
+airbrush is next this brush sprays out
+
+82
+00:02:53,560 --> 00:02:56,440
+even finer Speckles you can use this for
+
+83
+00:02:56,440 --> 00:02:58,760
+a more controlled spray that builds up
+
+84
+00:02:58,760 --> 00:03:01,319
+slowly moving on to some other brush
+
+85
+00:03:01,319 --> 00:03:03,760
+types we have the smooth pen this
+
+86
+00:03:03,760 --> 00:03:05,680
+creates an opaque stroke with a smooth
+
+87
+00:03:05,680 --> 00:03:07,959
+edge it works well for inking or
+
+88
+00:03:07,959 --> 00:03:10,159
+blocking in layers you could use this
+
+89
+00:03:10,159 --> 00:03:11,840
+brush to establish the silhouette of an
+
+90
+00:03:11,840 --> 00:03:13,319
+object and then use other types of
+
+91
+00:03:13,319 --> 00:03:16,040
+brushes to add form to it you can edit
+
+92
+00:03:16,040 --> 00:03:17,879
+the brush tip to tweak the edges of this
+
+93
+00:03:17,879 --> 00:03:19,440
+brush if you want the edges of your
+
+94
+00:03:19,440 --> 00:03:21,480
+silhouette to be sharper or
+
+95
+00:03:21,480 --> 00:03:23,840
+softer let's move on to the sketching
+
+96
+00:03:23,840 --> 00:03:26,239
+pencil this is a fantastic pencil
+
+97
+00:03:26,239 --> 00:03:27,760
+because you can tilt your pen to change
+
+98
+00:03:27,760 --> 00:03:29,799
+the shape and opacity of the dab
+
+99
+00:03:29,799 --> 00:03:31,439
+allowing you to emulate shading with the
+
+100
+00:03:31,439 --> 00:03:34,040
+side of it opacity and texture both
+
+101
+00:03:34,040 --> 00:03:36,480
+respond nicely to pen pressure as you
+
+102
+00:03:36,480 --> 00:03:38,560
+can see I can create a smooth gradient
+
+103
+00:03:38,560 --> 00:03:40,560
+from dark to light by modulating my
+
+104
+00:03:40,560 --> 00:03:43,040
+pressure this is my go-to brush for
+
+105
+00:03:43,040 --> 00:03:44,840
+sketching and pencil drawing because it
+
+106
+00:03:44,840 --> 00:03:48,159
+has a superb look and feel the cylinder
+
+107
+00:03:48,159 --> 00:03:51,120
+pen is an rgba type brush that uses a
+
+108
+00:03:51,120 --> 00:03:54,319
+lightness map to create a 2.5d stroke
+
+109
+00:03:54,319 --> 00:03:56,040
+I'll select a dark brown and you can see
+
+110
+00:03:56,040 --> 00:03:57,560
+that I'm able to use varied pressure to
+
+111
+00:03:57,560 --> 00:03:59,200
+paint tree branches that look almost
+
+112
+00:03:59,200 --> 00:04:01,239
+three dimension itional this may save
+
+113
+00:04:01,239 --> 00:04:02,640
+you from having to add shading later
+
+114
+00:04:02,640 --> 00:04:05,040
+with an airbrush you can even use it for
+
+115
+00:04:05,040 --> 00:04:07,640
+leaves if you make shorter strokes this
+
+116
+00:04:07,640 --> 00:04:09,319
+brush could even be useful for creating
+
+117
+00:04:09,319 --> 00:04:11,000
+textures as you can see if I place
+
+118
+00:04:11,000 --> 00:04:13,720
+Strokes right up against each other now
+
+119
+00:04:13,720 --> 00:04:15,439
+let's check out the chalk which I find
+
+120
+00:04:15,439 --> 00:04:18,120
+useful for adding texture to objects you
+
+121
+00:04:18,120 --> 00:04:19,680
+can get a lot of different looks from
+
+122
+00:04:19,680 --> 00:04:21,560
+many of my brushes by changing your
+
+123
+00:04:21,560 --> 00:04:24,120
+texture for a texture that is even more
+
+124
+00:04:24,120 --> 00:04:26,919
+random there is random chalk this brush
+
+125
+00:04:26,919 --> 00:04:28,800
+has a bit more randomization to make the
+
+126
+00:04:28,800 --> 00:04:30,880
+texture less repetive itive you can see
+
+127
+00:04:30,880 --> 00:04:33,360
+the difference if I compare two strokes
+
+128
+00:04:33,360 --> 00:04:34,919
+both of these brushes can benefit from
+
+129
+00:04:34,919 --> 00:04:37,199
+setting the paint blending to screen or
+
+130
+00:04:37,199 --> 00:04:39,440
+multiply as you can see I can use a
+
+131
+00:04:39,440 --> 00:04:41,360
+single color to create the base color of
+
+132
+00:04:41,360 --> 00:04:44,120
+foliage as well as the highlights and
+
+133
+00:04:44,120 --> 00:04:46,720
+shadows chalk is just a name for these
+
+134
+00:04:46,720 --> 00:04:49,039
+brushes I use them more for their shape
+
+135
+00:04:49,039 --> 00:04:49,960
+than their
+
+136
+00:04:49,960 --> 00:04:53,240
+medium next is sponge this brush has a
+
+137
+00:04:53,240 --> 00:04:56,160
+spongy dab with a lot of detail you can
+
+138
+00:04:56,160 --> 00:04:58,400
+dab with this brush or overlap Strokes
+
+139
+00:04:58,400 --> 00:04:59,560
+to create a more intricate texture
+
+140
+00:04:59,560 --> 00:05:02,039
+texture if we make our brush bigger the
+
+141
+00:05:02,039 --> 00:05:04,199
+texture gets larger if we make the brush
+
+142
+00:05:04,199 --> 00:05:06,639
+smaller the texture gets finer you can
+
+143
+00:05:06,639 --> 00:05:09,280
+also modify the texture pattern this
+
+144
+00:05:09,280 --> 00:05:11,120
+brush works well to add a quick texture
+
+145
+00:05:11,120 --> 00:05:13,160
+overlay on a separate
+
+146
+00:05:13,160 --> 00:05:16,039
+layer variable shape uses a mast brush
+
+147
+00:05:16,039 --> 00:05:17,840
+tip to blend between two different dab
+
+148
+00:05:17,840 --> 00:05:20,520
+shapes making the brush larger increases
+
+149
+00:05:20,520 --> 00:05:22,880
+the size of the shapes heavy pressure
+
+150
+00:05:22,880 --> 00:05:24,479
+makes distinct shapes that are more
+
+151
+00:05:24,479 --> 00:05:26,600
+opaque and light pressure makes soft
+
+152
+00:05:26,600 --> 00:05:29,039
+shapes that are more transparent I find
+
+153
+00:05:29,039 --> 00:05:30,840
+this brush to be incredibly useful for
+
+154
+00:05:30,840 --> 00:05:32,840
+painting foliage because it generates a
+
+155
+00:05:32,840 --> 00:05:35,440
+wide variety of leaf patterns and by
+
+156
+00:05:35,440 --> 00:05:37,319
+modifying the texture pattern I can
+
+157
+00:05:37,319 --> 00:05:40,080
+randomize the leaf shapes even
+
+158
+00:05:40,080 --> 00:05:42,240
+more next I'll load the blenders
+
+159
+00:05:42,240 --> 00:05:43,759
+template and let's take a look at some
+
+160
+00:05:43,759 --> 00:05:46,479
+of my Essential blenders as you can see
+
+161
+00:05:46,479 --> 00:05:47,960
+it's possible to get a lot of different
+
+162
+00:05:47,960 --> 00:05:50,080
+looks out of the blenders but I only use
+
+163
+00:05:50,080 --> 00:05:52,199
+a handful of these variants on a regular
+
+164
+00:05:52,199 --> 00:05:55,000
+basis one blender that is very useful is
+
+165
+00:05:55,000 --> 00:05:57,800
+the diffuse blender using very light
+
+166
+00:05:57,800 --> 00:05:59,759
+pressure allows you to slightly fuzz up
+
+167
+00:05:59,759 --> 00:06:01,919
+the pixels heavy pressure really
+
+168
+00:06:01,919 --> 00:06:04,240
+scatters them this brush works well for
+
+169
+00:06:04,240 --> 00:06:06,919
+blending colors together with a drier
+
+170
+00:06:06,919 --> 00:06:09,520
+appearance grainy blender has a similar
+
+171
+00:06:09,520 --> 00:06:11,360
+effect though the scattering is more
+
+172
+00:06:11,360 --> 00:06:14,280
+pronounced due to the texture being used
+
+173
+00:06:14,280 --> 00:06:15,759
+you can modify the pattern to get
+
+174
+00:06:15,759 --> 00:06:16,919
+different
+
+175
+00:06:16,919 --> 00:06:19,160
+textures let's try another brush called
+
+176
+00:06:19,160 --> 00:06:21,400
+water blender this blender emulates
+
+177
+00:06:21,400 --> 00:06:23,440
+blending transparent media with plain
+
+178
+00:06:23,440 --> 00:06:26,039
+water the edges of the brush are soft
+
+179
+00:06:26,039 --> 00:06:28,080
+which gives the blend a wet
+
+180
+00:06:28,080 --> 00:06:30,440
+appearance another useful blender is
+
+181
+00:06:30,440 --> 00:06:32,840
+blur I can use it to soften the edges of
+
+182
+00:06:32,840 --> 00:06:35,039
+objects to make them out of focus
+
+183
+00:06:35,039 --> 00:06:36,840
+lowering the opacity makes the blurring
+
+184
+00:06:36,840 --> 00:06:39,080
+more subtle this brush works well to add
+
+185
+00:06:39,080 --> 00:06:42,080
+depth and distance to your seene next is
+
+186
+00:06:42,080 --> 00:06:44,360
+oily blender this is an oily looking
+
+187
+00:06:44,360 --> 00:06:46,160
+blender that can also smudge around the
+
+188
+00:06:46,160 --> 00:06:48,759
+paint tilting your pen changes the angle
+
+189
+00:06:48,759 --> 00:06:51,000
+of the dab giving you more
+
+190
+00:06:51,000 --> 00:06:53,400
+randomization next up is coarse oily
+
+191
+00:06:53,400 --> 00:06:56,000
+blender this blender is similar to oily
+
+192
+00:06:56,000 --> 00:06:58,400
+blender but with a sharper more streaky
+
+193
+00:06:58,400 --> 00:07:01,319
+smudging also included with the blenders
+
+194
+00:07:01,319 --> 00:07:03,759
+are some Distortion brushes these are
+
+195
+00:07:03,759 --> 00:07:05,919
+not technically blenders but they can
+
+196
+00:07:05,919 --> 00:07:08,759
+mix up paint which borders on blending
+
+197
+00:07:08,759 --> 00:07:11,000
+for example I can use distort push to
+
+198
+00:07:11,000 --> 00:07:12,759
+mix the paint together which gives the
+
+199
+00:07:12,759 --> 00:07:15,400
+impression of blending if I mix for long
+
+200
+00:07:15,400 --> 00:07:17,080
+enough I will eventually create
+
+201
+00:07:17,080 --> 00:07:19,520
+intermediate colors we'll come back to
+
+202
+00:07:19,520 --> 00:07:21,599
+Distortion brushes in a later
+
+203
+00:07:21,599 --> 00:07:24,160
+lesson let's explore the variance in my
+
+204
+00:07:24,160 --> 00:07:26,560
+pallet knives category I'll return to
+
+205
+00:07:26,560 --> 00:07:29,120
+the brush testing template flat knife is
+
+206
+00:07:29,120 --> 00:07:31,160
+an excellent brush because it can add
+
+207
+00:07:31,160 --> 00:07:33,960
+paint and smudge at the same time if you
+
+208
+00:07:33,960 --> 00:07:36,360
+use heavy pressure you will apply paint
+
+209
+00:07:36,360 --> 00:07:37,840
+if you lighten your pressure the brush
+
+210
+00:07:37,840 --> 00:07:39,639
+runs out of paint and begins to smudge
+
+211
+00:07:39,639 --> 00:07:42,160
+the underlying colors returning to heavy
+
+212
+00:07:42,160 --> 00:07:44,800
+pressure adds paint again I love the way
+
+213
+00:07:44,800 --> 00:07:46,599
+I can lay down paint and then blend it
+
+214
+00:07:46,599 --> 00:07:49,960
+out it feels very natural as you can see
+
+215
+00:07:49,960 --> 00:07:51,960
+I can create water Ripples and easily
+
+216
+00:07:51,960 --> 00:07:54,240
+give them form many of these pallet
+
+217
+00:07:54,240 --> 00:07:56,240
+knives are flat so they can be rotated
+
+218
+00:07:56,240 --> 00:07:59,000
+using tilt being able to rotate a flat
+
+219
+00:07:59,000 --> 00:08:01,120
+dab allows you to intuitively change the
+
+220
+00:08:01,120 --> 00:08:03,159
+shape of your marks to get a wide range
+
+221
+00:08:03,159 --> 00:08:05,440
+of effects from tree trunks to
+
+222
+00:08:05,440 --> 00:08:07,759
+foliage let's try the Mountain Knife
+
+223
+00:08:07,759 --> 00:08:10,159
+next this is a great brush for painting
+
+224
+00:08:10,159 --> 00:08:12,240
+silhouettes of mountains that fade into
+
+225
+00:08:12,240 --> 00:08:14,599
+mist lighter pressure will toggle to
+
+226
+00:08:14,599 --> 00:08:17,199
+mixing so you can smudge the paint the
+
+227
+00:08:17,199 --> 00:08:19,440
+mix property is being used so when you
+
+228
+00:08:19,440 --> 00:08:21,240
+use light pressure you'll get more of
+
+229
+00:08:21,240 --> 00:08:24,280
+the secondary color for a misty effect
+
+230
+00:08:24,280 --> 00:08:27,440
+make this white or a lighter shade I'll
+
+231
+00:08:27,440 --> 00:08:30,120
+paint a simple Mountain shape
+
+232
+00:08:30,120 --> 00:08:32,120
+let's try there is a broken pallet knife
+
+233
+00:08:32,120 --> 00:08:34,000
+that gives a nice paint break effect
+
+234
+00:08:34,000 --> 00:08:35,640
+where the paint sticks to the canvas in
+
+235
+00:08:35,640 --> 00:08:38,559
+some places and not in others as with a
+
+236
+00:08:38,559 --> 00:08:40,679
+traditional knife you can get more paint
+
+237
+00:08:40,679 --> 00:08:43,159
+brake with a light touch a heavy touch
+
+238
+00:08:43,159 --> 00:08:44,720
+will cover the texture
+
+239
+00:08:44,720 --> 00:08:47,760
+more I'll enable preserve Alpha and use
+
+240
+00:08:47,760 --> 00:08:50,000
+varied pressure to add some snow to one
+
+241
+00:08:50,000 --> 00:08:51,959
+side of the mountain shape make
+
+242
+00:08:51,959 --> 00:08:54,360
+subsequent overlapping Strokes to easily
+
+243
+00:08:54,360 --> 00:08:56,440
+control the buildup of the paint this is
+
+244
+00:08:56,440 --> 00:09:00,560
+another rgba brush that simulates imposs
+
+245
+00:09:00,560 --> 00:09:02,399
+you can modify the texture options to
+
+246
+00:09:02,399 --> 00:09:04,440
+change the texture of this brush in
+
+247
+00:09:04,440 --> 00:09:06,519
+particular contrast controls the fractal
+
+248
+00:09:06,519 --> 00:09:08,720
+pattern you can play with this property
+
+249
+00:09:08,720 --> 00:09:10,560
+alongside choosing different textures to
+
+250
+00:09:10,560 --> 00:09:12,600
+get a range of
+
+251
+00:09:12,600 --> 00:09:14,839
+effects the last thing I want to discuss
+
+252
+00:09:14,839 --> 00:09:17,600
+is using the right brush for the job
+
+253
+00:09:17,600 --> 00:09:19,279
+there are so many brushes that can do
+
+254
+00:09:19,279 --> 00:09:21,519
+essentially the same thing there are
+
+255
+00:09:21,519 --> 00:09:23,160
+probably a hundred brushes you could use
+
+256
+00:09:23,160 --> 00:09:24,959
+to create trees but you have to think
+
+257
+00:09:24,959 --> 00:09:26,920
+about what type of trees you want or
+
+258
+00:09:26,920 --> 00:09:28,440
+what kind of style you want for your
+
+259
+00:09:28,440 --> 00:09:30,640
+painting the best way to find the right
+
+260
+00:09:30,640 --> 00:09:32,320
+brush is to just experiment with
+
+261
+00:09:32,320 --> 00:09:33,920
+different brushes and take a look at
+
+262
+00:09:33,920 --> 00:09:36,519
+what they can do make observations about
+
+263
+00:09:36,519 --> 00:09:39,040
+how the brush looks and feels for
+
+264
+00:09:39,040 --> 00:09:40,600
+instance if you find a brush that looks
+
+265
+00:09:40,600 --> 00:09:41,839
+like it would work well for painting
+
+266
+00:09:41,839 --> 00:09:44,680
+trees you can save it as a tree brush
+
+267
+00:09:44,680 --> 00:09:46,519
+then any time you want to paint trees
+
+268
+00:09:46,519 --> 00:09:49,240
+use one of your tree brushes it wouldn't
+
+269
+00:09:49,240 --> 00:09:50,959
+make sense to use the airbrush to try
+
+270
+00:09:50,959 --> 00:09:52,760
+and paint leaves when there are brushes
+
+271
+00:09:52,760 --> 00:09:54,240
+that can do it more quickly and
+
+272
+00:09:54,240 --> 00:09:56,240
+effectively try to get the effect you
+
+273
+00:09:56,240 --> 00:09:58,320
+want in just a few Strokes rather than
+
+274
+00:09:58,320 --> 00:10:00,279
+spending all day rendering objects with
+
+275
+00:10:00,279 --> 00:10:03,000
+a basic brush as you work with cre more
+
+276
+00:10:03,000 --> 00:10:04,399
+and more you're going to start to
+
+277
+00:10:04,399 --> 00:10:06,079
+discover which brushes are valuable for
+
+278
+00:10:06,079 --> 00:10:08,079
+your workflow and if you take time to
+
+279
+00:10:08,079 --> 00:10:09,959
+save and categorize them you'll always
+
+280
+00:10:09,959 --> 00:10:11,519
+have the right brush available when you
+
+281
+00:10:11,519 --> 00:10:13,720
+need it that covers the brushes that I
+
+282
+00:10:13,720 --> 00:10:17,160
+consider to be essential for my
+
+283
+00:10:20,600 --> 00:10:23,600
+workflow
+

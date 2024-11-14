@@ -1,0 +1,516 @@
+1
+00:00:02,270 --> 00:00:04,680
+welcome to another darktable tutorial
+
+2
+00:00:04,680 --> 00:00:06,060
+today we're going to learn how to use
+
+3
+00:00:06,060 --> 00:00:08,519
+the color mapping module which will let
+
+4
+00:00:08,519 --> 00:00:09,869
+us take an image this is just like a
+
+5
+00:00:09,869 --> 00:00:11,669
+JPEG image I just downloaded from
+
+6
+00:00:11,669 --> 00:00:14,519
+pixabay and as a certain look to it but
+
+7
+00:00:14,519 --> 00:00:16,800
+we can use the color mapping module to
+
+8
+00:00:16,800 --> 00:00:20,519
+kind of map similar colors in certain
+
+9
+00:00:20,519 --> 00:00:21,960
+images so these are all this original
+
+10
+00:00:21,960 --> 00:00:24,210
+images for the most part they haven't
+
+11
+00:00:24,210 --> 00:00:26,009
+been edited at least not in darktable
+
+12
+00:00:26,009 --> 00:00:27,839
+they probably have been edited to kind
+
+13
+00:00:27,839 --> 00:00:29,999
+of achieve this look but we don't have
+
+14
+00:00:29,999 --> 00:00:32,430
+the history stack so if we want to kind
+
+15
+00:00:32,430 --> 00:00:35,760
+of replicate a certain look we can do
+
+16
+00:00:35,760 --> 00:00:38,550
+that using the color mapping module so
+
+17
+00:00:38,550 --> 00:00:40,440
+under more modules we just go down it's
+
+18
+00:00:40,440 --> 00:00:42,360
+in alphabetical order so we find color
+
+19
+00:00:42,360 --> 00:00:44,340
+mapping which is this one right here and
+
+20
+00:00:44,340 --> 00:00:46,350
+we click it and it enables it up top
+
+21
+00:00:46,350 --> 00:00:48,270
+here and so now this is the color
+
+22
+00:00:48,270 --> 00:00:50,550
+mapping module and we see it's already
+
+23
+00:00:50,550 --> 00:00:52,200
+I'm not sure if it's grabbing this or if
+
+24
+00:00:52,200 --> 00:00:53,580
+this is from what I was using last time
+
+25
+00:00:53,580 --> 00:00:55,800
+but if we get something maybe like this
+
+26
+00:00:55,800 --> 00:00:57,450
+one we go back to the original of this
+
+27
+00:00:57,450 --> 00:00:58,350
+and see what it looked like
+
+28
+00:00:58,350 --> 00:01:01,950
+we can choose to acquire a source or
+
+29
+00:01:01,950 --> 00:01:04,140
+acquire a target and it's called acquire
+
+30
+00:01:04,140 --> 00:01:06,120
+but really it's putting the the colors
+
+31
+00:01:06,120 --> 00:01:08,400
+on to a target but when we do acquire
+
+32
+00:01:08,400 --> 00:01:10,050
+source it'll grab whatever we're looking
+
+33
+00:01:10,050 --> 00:01:12,950
+at at this current level of history and
+
+34
+00:01:12,950 --> 00:01:16,560
+it will just acquire if we have it set
+
+35
+00:01:16,560 --> 00:01:18,870
+up for three it'll grab three different
+
+36
+00:01:18,870 --> 00:01:21,480
+areas of colors and it hasn't like from
+
+37
+00:01:21,480 --> 00:01:23,850
+light to dark and so it grabbed the red
+
+38
+00:01:23,850 --> 00:01:26,130
+from this car and the rims over here it
+
+39
+00:01:26,130 --> 00:01:27,540
+grabbed some of the greens and yellows
+
+40
+00:01:27,540 --> 00:01:29,790
+from the plants and to grab some of
+
+41
+00:01:29,790 --> 00:01:31,409
+these blues and grays from work from
+
+42
+00:01:31,409 --> 00:01:33,420
+around to and so if we wanted to apply
+
+43
+00:01:33,420 --> 00:01:36,240
+this look to another image say maybe
+
+44
+00:01:36,240 --> 00:01:39,000
+this image here we would just have this
+
+45
+00:01:39,000 --> 00:01:40,710
+image loaded in and then we go to
+
+46
+00:01:40,710 --> 00:01:44,450
+acquire as target and what that'll do is
+
+47
+00:01:44,450 --> 00:01:47,760
+attempt to put these colors over top of
+
+48
+00:01:47,760 --> 00:01:50,610
+this image so it took just a second to
+
+49
+00:01:50,610 --> 00:01:52,590
+do that some processing but now we see
+
+50
+00:01:52,590 --> 00:01:55,440
+it's using these colors and it's finding
+
+51
+00:01:55,440 --> 00:01:58,619
+similar colors that kind of correspond
+
+52
+00:01:58,619 --> 00:01:59,790
+and it's applying them so we see it
+
+53
+00:01:59,790 --> 00:02:01,650
+didn't change the white at all but it
+
+54
+00:02:01,650 --> 00:02:03,600
+should change the look of this so if we
+
+55
+00:02:03,600 --> 00:02:04,770
+disable this we can see how it looks
+
+56
+00:02:04,770 --> 00:02:06,720
+like before and after oh I guess it did
+
+57
+00:02:06,720 --> 00:02:08,219
+change the white it darkened some of the
+
+58
+00:02:08,219 --> 00:02:09,719
+white some of the grays and the whites
+
+59
+00:02:09,719 --> 00:02:11,760
+were darkened let's look at another
+
+60
+00:02:11,760 --> 00:02:14,040
+example and this one I was doing early
+
+61
+00:02:14,040 --> 00:02:16,890
+I did five targets so let's change it up
+
+62
+00:02:16,890 --> 00:02:19,290
+again or five clusters so I set up to
+
+63
+00:02:19,290 --> 00:02:21,120
+five because I kind of want to get the
+
+64
+00:02:21,120 --> 00:02:23,760
+Blues the yellows and oranges and then
+
+65
+00:02:23,760 --> 00:02:26,489
+some of these dark dark grays and also
+
+66
+00:02:26,489 --> 00:02:28,950
+some of the light Gray's and so or the
+
+67
+00:02:28,950 --> 00:02:30,629
+the shades whatever they are blues
+
+68
+00:02:30,629 --> 00:02:31,530
+shades of blue
+
+69
+00:02:31,530 --> 00:02:33,810
+so I'll click acquire as source and
+
+70
+00:02:33,810 --> 00:02:37,019
+we'll see this source acquired here and
+
+71
+00:02:37,019 --> 00:02:38,760
+then I'll go to an image that I've done
+
+72
+00:02:38,760 --> 00:02:41,549
+of clouds this one here which is for the
+
+73
+00:02:41,549 --> 00:02:43,439
+most part unaffected let's put it back
+
+74
+00:02:43,439 --> 00:02:46,049
+down there and so this is just my kind
+
+75
+00:02:46,049 --> 00:02:48,810
+of more or less raw image and I'll just
+
+76
+00:02:48,810 --> 00:02:53,370
+go acquire as target and it'll probably
+
+77
+00:02:53,370 --> 00:02:55,079
+make it look pretty similar to that
+
+78
+00:02:55,079 --> 00:02:58,170
+other picture so there we go we've see a
+
+79
+00:02:58,170 --> 00:03:00,810
+lot more oranges in the skyline a lot
+
+80
+00:03:00,810 --> 00:03:03,450
+more purpley in the top we don't get as
+
+81
+00:03:03,450 --> 00:03:05,430
+many as much of that blue we get a lot
+
+82
+00:03:05,430 --> 00:03:07,319
+more purple just because of what it
+
+83
+00:03:07,319 --> 00:03:09,569
+interpreted this picture is having but
+
+84
+00:03:09,569 --> 00:03:11,280
+again we can kind of change that a
+
+85
+00:03:11,280 --> 00:03:15,000
+little bit kind of the shadows a little
+
+86
+00:03:15,000 --> 00:03:17,370
+bit on there I guess I would say and
+
+87
+00:03:17,370 --> 00:03:18,750
+then also this color dominance just
+
+88
+00:03:18,750 --> 00:03:21,060
+makes it kind of like saturation or how
+
+89
+00:03:21,060 --> 00:03:24,660
+strong the colors are and so we can
+
+90
+00:03:24,660 --> 00:03:25,739
+leave that up there so that's not too
+
+91
+00:03:25,739 --> 00:03:31,139
+bad not as good but then again it's a
+
+92
+00:03:31,139 --> 00:03:32,819
+good starting point for the colors at
+
+93
+00:03:32,819 --> 00:03:36,000
+least so it looks a lot more interesting
+
+94
+00:03:36,000 --> 00:03:37,410
+than it did before at least we have
+
+95
+00:03:37,410 --> 00:03:39,090
+those colors to work with and then we
+
+96
+00:03:39,090 --> 00:03:42,150
+can apply modules on top of this to get
+
+97
+00:03:42,150 --> 00:03:44,010
+the look we want so play around with
+
+98
+00:03:44,010 --> 00:03:45,690
+that color mapping module it's a good
+
+99
+00:03:45,690 --> 00:03:47,489
+tool to have and sometimes you'll just
+
+100
+00:03:47,489 --> 00:03:49,739
+want to it yeah without having to go
+
+101
+00:03:49,739 --> 00:03:51,959
+through and and grab a certain look of
+
+102
+00:03:51,959 --> 00:03:54,419
+an image you can just very quickly you
+
+103
+00:03:54,419 --> 00:03:56,849
+know copy it acquire it as target and if
+
+104
+00:03:56,849 --> 00:03:58,349
+nothing else you can kind of analyze and
+
+105
+00:03:58,349 --> 00:04:00,329
+see what those colors are out helps you
+
+106
+00:04:00,329 --> 00:04:01,829
+break out and be like oh yeah that is
+
+107
+00:04:01,829 --> 00:04:04,620
+more of a yellow than a green and it can
+
+108
+00:04:04,620 --> 00:04:06,120
+kind of help you interpret the colors of
+
+109
+00:04:06,120 --> 00:04:08,639
+an image so a great module and I think
+
+110
+00:04:08,639 --> 00:04:10,620
+I've gotten to the end of what I can
+
+111
+00:04:10,620 --> 00:04:12,690
+teach you in darktable you may have even
+
+112
+00:04:12,690 --> 00:04:14,879
+noticed that there's lots of resources
+
+113
+00:04:14,879 --> 00:04:17,339
+you may have encountered already here on
+
+114
+00:04:17,339 --> 00:04:18,560
+YouTube and all over the internet
+
+115
+00:04:18,560 --> 00:04:20,279
+teaching how to use some of these
+
+116
+00:04:20,279 --> 00:04:21,750
+different modules specifically and
+
+117
+00:04:21,750 --> 00:04:23,219
+diving deeper than we've gone in this
+
+118
+00:04:23,219 --> 00:04:25,139
+tutorial series but I think I'm going to
+
+119
+00:04:25,139 --> 00:04:27,210
+go ahead and end this series here if you
+
+120
+00:04:27,210 --> 00:04:28,289
+any questions or comments leave them
+
+121
+00:04:28,289 --> 00:04:31,800
+below as I come across new techniques or
+
+122
+00:04:31,800 --> 00:04:33,690
+interesting new features in darktable
+
+123
+00:04:33,690 --> 00:04:36,780
+I'll go ahead and add to this series but
+
+124
+00:04:36,780 --> 00:04:37,949
+for now I think I'm gonna move on to
+
+125
+00:04:37,949 --> 00:04:39,870
+another video series so thanks for
+
+126
+00:04:39,870 --> 00:04:41,370
+watching really appreciate you sticking
+
+127
+00:04:41,370 --> 00:04:42,810
+with this tutorial hopefully you've
+
+128
+00:04:42,810 --> 00:04:44,340
+learned something and look forward to
+
+129
+00:04:44,340 --> 00:04:47,599
+catching you in some future videos
+

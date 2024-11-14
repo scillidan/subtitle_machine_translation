@@ -1,0 +1,920 @@
+1
+00:00:02,870 --> 00:00:05,460
+welcome back to another audacity
+
+2
+00:00:05,460 --> 00:00:07,680
+tutorial in this video we're going to be
+
+3
+00:00:07,680 --> 00:00:09,360
+playing with some different effects the
+
+4
+00:00:09,360 --> 00:00:10,860
+ones we're gonna do are changing the
+
+5
+00:00:10,860 --> 00:00:13,110
+speed changing the tempo and changing
+
+6
+00:00:13,110 --> 00:00:16,320
+the pitch so to get started let's go
+
+7
+00:00:16,320 --> 00:00:19,650
+ahead and just let's record in some
+
+8
+00:00:19,650 --> 00:00:21,119
+voice so that we can get a good idea for
+
+9
+00:00:21,119 --> 00:00:23,640
+what's happening here this is test audio
+
+10
+00:00:23,640 --> 00:00:26,449
+testing one two three
+
+11
+00:00:26,449 --> 00:00:29,759
+okay so now we have our audio in here if
+
+12
+00:00:29,759 --> 00:00:31,109
+we play it back that sounds just like it
+
+13
+00:00:31,109 --> 00:00:36,750
+did when I said it so if we want to
+
+14
+00:00:36,750 --> 00:00:41,010
+change the speed of this change it so it
+
+15
+00:00:41,010 --> 00:00:42,930
+plays back faster that's kind of one of
+
+16
+00:00:42,930 --> 00:00:46,110
+the most common things first of all like
+
+17
+00:00:46,110 --> 00:00:47,430
+we learned in our last video we have to
+
+18
+00:00:47,430 --> 00:00:49,380
+make a selection so if we go to FX and
+
+19
+00:00:49,380 --> 00:00:51,660
+go down to change speed we're gonna get
+
+20
+00:00:51,660 --> 00:00:53,250
+this kind of an error message and just
+
+21
+00:00:53,250 --> 00:00:55,110
+saying or this dialog that says you need
+
+22
+00:00:55,110 --> 00:00:57,030
+to make a selection first we can press
+
+23
+00:00:57,030 --> 00:01:00,750
+ctrl a to select all so ctrl a we can
+
+24
+00:01:00,750 --> 00:01:03,420
+also just select all by ourselves like
+
+25
+00:01:03,420 --> 00:01:07,320
+doing this do or we can just select any
+
+26
+00:01:07,320 --> 00:01:08,820
+portion that we want to increase the
+
+27
+00:01:08,820 --> 00:01:10,080
+speed but I'm going to do select all
+
+28
+00:01:10,080 --> 00:01:11,760
+this another way to do is go to select
+
+29
+00:01:11,760 --> 00:01:14,820
+and then go to all and then we can go to
+
+30
+00:01:14,820 --> 00:01:18,990
+effects and speed change speed and then
+
+31
+00:01:18,990 --> 00:01:20,250
+this is sort of like we did with the
+
+32
+00:01:20,250 --> 00:01:22,050
+amplification we have a slider bar here
+
+33
+00:01:22,050 --> 00:01:25,140
+and we have some different numbers so if
+
+34
+00:01:25,140 --> 00:01:26,880
+we change the speed multiplier down to
+
+35
+00:01:26,880 --> 00:01:31,290
+zero again we're going to be Oh actually
+
+36
+00:01:31,290 --> 00:01:34,530
+the percent change is zero if we change
+
+37
+00:01:34,530 --> 00:01:37,080
+the percent this to zero and the speed
+
+38
+00:01:37,080 --> 00:01:39,659
+to one it's going to be same speed
+
+39
+00:01:39,659 --> 00:01:41,880
+nothing will change so we do okay so
+
+40
+00:01:41,880 --> 00:01:46,950
+that's kind of our baseline so knowing
+
+41
+00:01:46,950 --> 00:01:48,510
+that we can change the speed to either
+
+42
+00:01:48,510 --> 00:01:51,120
+faster or slower to be either less than
+
+43
+00:01:51,120 --> 00:01:54,030
+1 on the multiplier or more than 1 so if
+
+44
+00:01:54,030 --> 00:01:56,700
+we did 2 here it would be twice as fast
+
+45
+00:01:56,700 --> 00:02:00,210
+and it was so it would be 100% increased
+
+46
+00:02:00,210 --> 00:02:06,299
+by 100% if we did 0.5 it would be 50% of
+
+47
+00:02:06,299 --> 00:02:08,128
+normal speed so you can control either
+
+48
+00:02:08,128 --> 00:02:10,919
+one of these two boxes are linked so
+
+49
+00:02:10,919 --> 00:02:12,090
+let's just do this real quick let's do
+
+50
+00:02:12,090 --> 00:02:13,740
+the 50% let's do it
+
+51
+00:02:13,740 --> 00:02:15,750
+half as fast as this normally supposed
+
+52
+00:02:15,750 --> 00:02:18,720
+to be so we go okay and then we see what
+
+53
+00:02:18,720 --> 00:02:20,610
+first of all happened our first audio
+
+54
+00:02:20,610 --> 00:02:23,100
+recording was four seconds long or four
+
+55
+00:02:23,100 --> 00:02:24,570
+and a half I guess and now it's like
+
+56
+00:02:24,570 --> 00:02:28,170
+nine seconds long because it's half the
+
+57
+00:02:28,170 --> 00:02:30,180
+speed so it takes twice as long to play
+
+58
+00:02:30,180 --> 00:02:36,630
+that so let's play and see so it's just
+
+59
+00:02:36,630 --> 00:02:38,280
+slow-motion like you would imagine
+
+60
+00:02:38,280 --> 00:02:40,560
+let's go undo we click this back arrow
+
+61
+00:02:40,560 --> 00:02:42,270
+here or we can press ctrl Z on the
+
+62
+00:02:42,270 --> 00:02:44,520
+keyboard it's still selected so let's go
+
+63
+00:02:44,520 --> 00:02:48,750
+to FX change speed and now let's we can
+
+64
+00:02:48,750 --> 00:02:50,490
+type in if we want to do two but we can
+
+65
+00:02:50,490 --> 00:02:52,020
+also use the slider to get it kind of a
+
+66
+00:02:52,020 --> 00:02:55,020
+more granular so let's go to let's do it
+
+67
+00:02:55,020 --> 00:02:57,960
+about maybe one point seven six and then
+
+68
+00:02:57,960 --> 00:03:00,540
+we go okay so now you see it's almost
+
+69
+00:03:00,540 --> 00:03:02,640
+instead of being four and a half seconds
+
+70
+00:03:02,640 --> 00:03:04,770
+it's only two and a half seconds so it's
+
+71
+00:03:04,770 --> 00:03:06,150
+gonna be much quicker because it's
+
+72
+00:03:06,150 --> 00:03:10,260
+playing faster so we'll play this and
+
+73
+00:03:10,260 --> 00:03:11,910
+you notice the pitch of my voice changed
+
+74
+00:03:11,910 --> 00:03:14,130
+to when it was long it was very low
+
+75
+00:03:14,130 --> 00:03:16,260
+there's a lot lower because it's slowed
+
+76
+00:03:16,260 --> 00:03:18,780
+down I guess what I'm saying is not only
+
+77
+00:03:18,780 --> 00:03:23,610
+did it slow down the audio it also in
+
+78
+00:03:23,610 --> 00:03:26,220
+the process lowered and raised the pitch
+
+79
+00:03:26,220 --> 00:03:29,870
+of my voice so it's like high pitch now
+
+80
+00:03:30,050 --> 00:03:32,460
+and so the way we can change that if you
+
+81
+00:03:32,460 --> 00:03:35,100
+want to speed something up slightly but
+
+82
+00:03:35,100 --> 00:03:36,960
+you don't want to increase the the pitch
+
+83
+00:03:36,960 --> 00:03:38,580
+maybe it's music need to throw off the
+
+84
+00:03:38,580 --> 00:03:39,120
+key
+
+85
+00:03:39,120 --> 00:03:42,840
+let's go back the thing we can do is we
+
+86
+00:03:42,840 --> 00:03:45,000
+can actually go to effects change tempo
+
+87
+00:03:45,000 --> 00:03:47,010
+and what that's going to do is change
+
+88
+00:03:47,010 --> 00:03:50,220
+the speed it's gonna change how quickly
+
+89
+00:03:50,220 --> 00:03:52,980
+the file the wave is being played but
+
+90
+00:03:52,980 --> 00:03:56,280
+it's not going to adjust the pitch so we
+
+91
+00:03:56,280 --> 00:03:57,740
+can select all of this let's go to
+
+92
+00:03:57,740 --> 00:04:00,660
+control a to select all and let's go
+
+93
+00:04:00,660 --> 00:04:05,400
+affect change tempo so now we can change
+
+94
+00:04:05,400 --> 00:04:08,490
+the tempo and have it be played one and
+
+95
+00:04:08,490 --> 00:04:11,270
+a half times faster than it normally is
+
+96
+00:04:11,270 --> 00:04:14,780
+wait a percentage maybe this needs to be
+
+97
+00:04:14,780 --> 00:04:17,579
+so actually let's play it 150 percent
+
+98
+00:04:17,579 --> 00:04:19,680
+normal then it needs to be or than it
+
+99
+00:04:19,680 --> 00:04:22,500
+was regularly and we click OK so now
+
+100
+00:04:22,500 --> 00:04:24,210
+look it shrinks it down but now if we
+
+101
+00:04:24,210 --> 00:04:25,710
+play I don't think my voice will be
+
+102
+00:04:25,710 --> 00:04:27,520
+high-pitched
+
+103
+00:04:27,520 --> 00:04:30,440
+you see so it's my my voice is the same
+
+104
+00:04:30,440 --> 00:04:32,540
+pitch as it is now it's just playing
+
+105
+00:04:32,540 --> 00:04:38,180
+through much faster I'm gonna do control
+
+106
+00:04:38,180 --> 00:04:41,590
+Z I'm gonna do control C and control V
+
+107
+00:04:41,590 --> 00:04:44,270
+so we have this twice and we're going to
+
+108
+00:04:44,270 --> 00:04:45,890
+I'm gonna show them back-to-back so we
+
+109
+00:04:45,890 --> 00:04:47,210
+see what's happening here let's go to
+
+110
+00:04:47,210 --> 00:04:50,800
+effect change speed let's make this one
+
+111
+00:04:50,800 --> 00:04:53,240
+1.5 or actually so we're doing the same
+
+112
+00:04:53,240 --> 00:04:54,830
+thing we'll make it a hundred and fifty
+
+113
+00:04:54,830 --> 00:04:57,470
+percent and we or let's just make it a
+
+114
+00:04:57,470 --> 00:05:00,170
+hundred percent go okay and then let's
+
+115
+00:05:00,170 --> 00:05:02,000
+select this part I just double click on
+
+116
+00:05:02,000 --> 00:05:03,710
+it to select just that area cuz see
+
+117
+00:05:03,710 --> 00:05:05,780
+there's look separation between them and
+
+118
+00:05:05,780 --> 00:05:08,360
+we go effects change tempo and it
+
+119
+00:05:08,360 --> 00:05:10,570
+changed this to one hundred and go okay
+
+120
+00:05:10,570 --> 00:05:13,640
+so now we can play these two and one is
+
+121
+00:05:13,640 --> 00:05:16,040
+Jett they're both the same they both
+
+122
+00:05:16,040 --> 00:05:17,930
+take about two seconds long to play but
+
+123
+00:05:17,930 --> 00:05:24,740
+one is gonna be a higher pitch you see
+
+124
+00:05:24,740 --> 00:05:26,420
+what I'm saying so they these both have
+
+125
+00:05:26,420 --> 00:05:28,400
+the same tempo but they have a different
+
+126
+00:05:28,400 --> 00:05:30,290
+pitch I'm gonna come to the end here and
+
+127
+00:05:30,290 --> 00:05:32,630
+do control V and paste this file again
+
+128
+00:05:32,630 --> 00:05:37,610
+this is the original again so if I
+
+129
+00:05:37,610 --> 00:05:39,200
+double click this and select it all we
+
+130
+00:05:39,200 --> 00:05:41,060
+can go to effects and this third thing
+
+131
+00:05:41,060 --> 00:05:43,490
+we can change is the pitch so if we
+
+132
+00:05:43,490 --> 00:05:46,270
+change the pitch of this we can actually
+
+133
+00:05:46,270 --> 00:05:49,250
+change the pitch and make me talk in a
+
+134
+00:05:49,250 --> 00:05:50,840
+different key so it's saying right now I
+
+135
+00:05:50,840 --> 00:05:52,280
+don't know if this auto-detects I'm not
+
+136
+00:05:52,280 --> 00:05:54,560
+actually exactly sure but this is saying
+
+137
+00:05:54,560 --> 00:05:58,000
+change it from F so if any note if any
+
+138
+00:05:58,000 --> 00:06:00,770
+yeah basically if there's anything that
+
+139
+00:06:00,770 --> 00:06:06,380
+was an F will get changed to down to AG
+
+140
+00:06:06,380 --> 00:06:08,390
+sharp or a flat if you're if you
+
+141
+00:06:08,390 --> 00:06:10,070
+understand music and so what's going
+
+142
+00:06:10,070 --> 00:06:12,650
+down eight point eight four semitones
+
+143
+00:06:12,650 --> 00:06:15,710
+and so we can adjust this to or it's
+
+144
+00:06:15,710 --> 00:06:18,140
+also in so this is why do pitch this is
+
+145
+00:06:18,140 --> 00:06:20,030
+everyone do frequency so it's changing
+
+146
+00:06:20,030 --> 00:06:23,390
+from a frequency of 50 500 Hertz down to
+
+147
+00:06:23,390 --> 00:06:27,320
+a frequency of 3,300 Hertz and that
+
+148
+00:06:27,320 --> 00:06:29,810
+change represents roughly forty percent
+
+149
+00:06:29,810 --> 00:06:31,910
+so you could imagine if we double click
+
+150
+00:06:31,910 --> 00:06:34,070
+and change this to zero this is neutral
+
+151
+00:06:34,070 --> 00:06:36,200
+this is from the key of F to the key of
+
+152
+00:06:36,200 --> 00:06:39,110
+F this is from this Hertz to this source
+
+153
+00:06:39,110 --> 00:06:40,400
+which is the same so if
+
+154
+00:06:40,400 --> 00:06:41,960
+want to make it a higher pitch we had
+
+155
+00:06:41,960 --> 00:06:44,090
+above zero we that this percent change
+
+156
+00:06:44,090 --> 00:06:45,800
+be above zero if I want to make it a
+
+157
+00:06:45,800 --> 00:06:47,870
+lower pitch this is below in the
+
+158
+00:06:47,870 --> 00:06:51,080
+negative so let's let's make it let's
+
+159
+00:06:51,080 --> 00:06:52,610
+just make my voice a tiny bit lower
+
+160
+00:06:52,610 --> 00:06:56,330
+let's go down let's go down like just
+
+161
+00:06:56,330 --> 00:06:58,280
+20% lower maybe like this
+
+162
+00:06:58,280 --> 00:07:02,990
+21% lower and okay so the speed is the
+
+163
+00:07:02,990 --> 00:07:04,550
+same you see it didn't change the size
+
+164
+00:07:04,550 --> 00:07:06,979
+of this it's still lasting about four
+
+165
+00:07:06,979 --> 00:07:08,539
+and a half seconds but it's going to be
+
+166
+00:07:08,539 --> 00:07:09,979
+lower let's play and see if it sounds
+
+167
+00:07:09,979 --> 00:07:16,820
+different okay so I'm gonna undo that
+
+168
+00:07:16,820 --> 00:07:22,400
+let's now it's back to normal I can
+
+169
+00:07:22,400 --> 00:07:24,169
+double click and we can change the pitch
+
+170
+00:07:24,169 --> 00:07:25,639
+again and we could this time we can make
+
+171
+00:07:25,639 --> 00:07:28,220
+it high we can make it be above zero so
+
+172
+00:07:28,220 --> 00:07:29,690
+we come over here to above zero and
+
+173
+00:07:29,690 --> 00:07:32,389
+let's make it 20% faster than it
+
+174
+00:07:32,389 --> 00:07:37,210
+originally was recorded in so we go okay
+
+175
+00:07:39,880 --> 00:07:43,520
+all right so there we go we've got we've
+
+176
+00:07:43,520 --> 00:07:46,460
+changed we can change the speed if we go
+
+177
+00:07:46,460 --> 00:07:49,310
+to effects change speed that changes how
+
+178
+00:07:49,310 --> 00:07:51,800
+quickly it's played or slowly it's
+
+179
+00:07:51,800 --> 00:07:53,900
+played and it also changes the pitch so
+
+180
+00:07:53,900 --> 00:07:56,570
+speed that does both speed is basically
+
+181
+00:07:56,570 --> 00:07:58,330
+doing pitch and tempo at the same time
+
+182
+00:07:58,330 --> 00:08:01,070
+pitch obviously just does the pitch that
+
+183
+00:08:01,070 --> 00:08:03,590
+if it's high or low and tempo just does
+
+184
+00:08:03,590 --> 00:08:05,470
+the speed and keeps the pitch constant
+
+185
+00:08:05,470 --> 00:08:07,940
+so play with those three and then I want
+
+186
+00:08:07,940 --> 00:08:09,409
+to show you one more thing if we just go
+
+187
+00:08:09,409 --> 00:08:12,500
+file new and we bring in this audio file
+
+188
+00:08:12,500 --> 00:08:14,449
+I'll go open this jazz guitar
+
+189
+00:08:14,449 --> 00:08:16,639
+so suppose we know what key this is in
+
+190
+00:08:16,639 --> 00:08:20,830
+this this music
+
+191
+00:08:22,070 --> 00:08:26,640
+let's say it's in the key of G maybe so
+
+192
+00:08:26,640 --> 00:08:28,740
+if this is in the key of G and we want
+
+193
+00:08:28,740 --> 00:08:30,060
+to transfer we want to change this
+
+194
+00:08:30,060 --> 00:08:31,860
+someone sends us some music and they say
+
+195
+00:08:31,860 --> 00:08:34,020
+hey we're trying to sync this together
+
+196
+00:08:34,020 --> 00:08:35,940
+with like another piece of music or I or
+
+197
+00:08:35,940 --> 00:08:37,380
+they or they want to have someone
+
+198
+00:08:37,380 --> 00:08:39,330
+accompany and play along with it but
+
+199
+00:08:39,330 --> 00:08:41,130
+they need it to be in the key of F and
+
+200
+00:08:41,130 --> 00:08:43,740
+not the key of G we can go okay cool we
+
+201
+00:08:43,740 --> 00:08:46,800
+go to effects we go to change pitch and
+
+202
+00:08:46,800 --> 00:08:48,810
+then we can change it so we can say
+
+203
+00:08:48,810 --> 00:08:53,280
+change it from the key of G to the key
+
+204
+00:08:53,280 --> 00:08:58,440
+of F uh-huh and then we go okay and so I
+
+205
+00:08:58,440 --> 00:08:59,970
+just changed the key on there now if we
+
+206
+00:08:59,970 --> 00:09:03,510
+play it sounds kind of the same right
+
+207
+00:09:03,510 --> 00:09:05,640
+but it actually is different we'll play
+
+208
+00:09:05,640 --> 00:09:12,980
+this and I'll do undoing we'll see do
+
+209
+00:09:13,820 --> 00:09:16,110
+see so it's lower the music's down
+
+210
+00:09:16,110 --> 00:09:17,460
+sounds the same but you just changed the
+
+211
+00:09:17,460 --> 00:09:19,460
+key and so that's why it's kind of nice
+
+212
+00:09:19,460 --> 00:09:21,900
+with this that it lets you
+
+213
+00:09:21,900 --> 00:09:25,170
+oops effects change pitch it's nice if
+
+214
+00:09:25,170 --> 00:09:27,060
+it lets you do that if you do know the
+
+215
+00:09:27,060 --> 00:09:29,100
+key that it's in that's why this is
+
+216
+00:09:29,100 --> 00:09:31,140
+that's why this is pretty nice for
+
+217
+00:09:31,140 --> 00:09:34,200
+changing music and then as far as voice
+
+218
+00:09:34,200 --> 00:09:35,580
+goes you might just use the frequencies
+
+219
+00:09:35,580 --> 00:09:38,430
+or the slider well I hope that made
+
+220
+00:09:38,430 --> 00:09:39,870
+sense to you go ahead and play with
+
+221
+00:09:39,870 --> 00:09:42,570
+these different effects and you're
+
+222
+00:09:42,570 --> 00:09:43,470
+welcome to click on some of these other
+
+223
+00:09:43,470 --> 00:09:44,790
+ones too you'll notice they all work
+
+224
+00:09:44,790 --> 00:09:46,800
+kind of similarly sometimes it will
+
+225
+00:09:46,800 --> 00:09:48,540
+bring up a dialog box sometimes it won't
+
+226
+00:09:48,540 --> 00:09:50,160
+but we'll be looking to some more of
+
+227
+00:09:50,160 --> 00:09:52,020
+these in future tutorials appreciate you
+
+228
+00:09:52,020 --> 00:09:53,160
+watching go ahead and like comment
+
+229
+00:09:53,160 --> 00:09:55,200
+subscribe leave your questions below and
+
+230
+00:09:55,200 --> 00:09:58,310
+I hope to see you in the next video
+

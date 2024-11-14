@@ -1,0 +1,324 @@
+1
+00:00:00,480 --> 00:00:03,259
+foreign
+
+2
+00:00:03,259 --> 00:00:05,879
+we'll be using masking with Kaden live
+
+3
+00:00:05,879 --> 00:00:08,580
+to have some text revealed from behind
+
+4
+00:00:08,580 --> 00:00:11,460
+an object in our video
+
+5
+00:00:11,460 --> 00:00:12,900
+we can do this a couple different ways
+
+6
+00:00:12,900 --> 00:00:14,759
+so here's another example of a car
+
+7
+00:00:14,759 --> 00:00:16,859
+revealing the text but for this one
+
+8
+00:00:16,859 --> 00:00:18,240
+we're going to be doing this tree video
+
+9
+00:00:18,240 --> 00:00:21,000
+clip we'll drag it down to the timeline
+
+10
+00:00:21,000 --> 00:00:23,460
+and this is just a camera moving panning
+
+11
+00:00:23,460 --> 00:00:26,220
+past a tree and we want our text to be
+
+12
+00:00:26,220 --> 00:00:28,199
+behind the tree and then show up as we
+
+13
+00:00:28,199 --> 00:00:30,599
+kind of come around it so we'll go to to
+
+14
+00:00:30,599 --> 00:00:32,759
+create a title clip
+
+15
+00:00:32,759 --> 00:00:34,559
+and we could really reveal any object
+
+16
+00:00:34,559 --> 00:00:36,420
+but in this case it's text so we'll
+
+17
+00:00:36,420 --> 00:00:38,219
+create a title clip which type the word
+
+18
+00:00:38,219 --> 00:00:40,200
+forest and then we'll make sure that
+
+19
+00:00:40,200 --> 00:00:42,180
+this title clip is the same length as
+
+20
+00:00:42,180 --> 00:00:43,980
+our video clip or at least
+
+21
+00:00:43,980 --> 00:00:45,660
+the portion that we want to be revealed
+
+22
+00:00:45,660 --> 00:00:46,559
+at
+
+23
+00:00:46,559 --> 00:00:48,180
+and we can transform this text to make
+
+24
+00:00:48,180 --> 00:00:51,059
+it a little bit larger if we want to
+
+25
+00:00:51,059 --> 00:00:52,739
+and then go open the search bar here and
+
+26
+00:00:52,739 --> 00:00:54,899
+type in mask under effects and we'll
+
+27
+00:00:54,899 --> 00:00:57,180
+drag this rotoscoping mask over top of
+
+28
+00:00:57,180 --> 00:00:58,800
+the text clip
+
+29
+00:00:58,800 --> 00:01:00,899
+and so what this lets us do is draw a
+
+30
+00:01:00,899 --> 00:01:03,359
+mask on top of this text clip and it
+
+31
+00:01:03,359 --> 00:01:05,880
+also create a key frame so the first
+
+32
+00:01:05,880 --> 00:01:07,740
+point that we draw we'll get to the
+
+33
+00:01:07,740 --> 00:01:09,060
+point right where the text is about to
+
+34
+00:01:09,060 --> 00:01:10,799
+come out of the tree and we'll just draw
+
+35
+00:01:10,799 --> 00:01:14,340
+sort of a box around the text
+
+36
+00:01:14,340 --> 00:01:15,960
+and then we'll change the alpha
+
+37
+00:01:15,960 --> 00:01:18,479
+operation to subtract and then we can go
+
+38
+00:01:18,479 --> 00:01:19,920
+to the point where we think the text is
+
+39
+00:01:19,920 --> 00:01:21,840
+going to be completely revealed
+
+40
+00:01:21,840 --> 00:01:23,520
+and notice we don't see anything until
+
+41
+00:01:23,520 --> 00:01:26,220
+we adjust the mask and then by adjusting
+
+42
+00:01:26,220 --> 00:01:28,020
+this anything outside of it will be
+
+43
+00:01:28,020 --> 00:01:30,420
+visible since we did the subtract and
+
+44
+00:01:30,420 --> 00:01:32,220
+anything inside of it will be not
+
+45
+00:01:32,220 --> 00:01:33,780
+visible
+
+46
+00:01:33,780 --> 00:01:35,520
+and then we can just come over here on
+
+47
+00:01:35,520 --> 00:01:38,400
+the timeline and it created a keyframe
+
+48
+00:01:38,400 --> 00:01:39,720
+for us automatically but it wasn't
+
+49
+00:01:39,720 --> 00:01:42,119
+exactly perfect and so we can kind of go
+
+50
+00:01:42,119 --> 00:01:44,880
+along and adjust this mask through over
+
+51
+00:01:44,880 --> 00:01:46,380
+the timeline and every time I make an
+
+52
+00:01:46,380 --> 00:01:48,479
+adjustment it'll create a keyframe
+
+53
+00:01:48,479 --> 00:01:50,340
+between the last point that we made an
+
+54
+00:01:50,340 --> 00:01:51,720
+adjustment and the next point we're
+
+55
+00:01:51,720 --> 00:01:53,579
+making an adjustment and it'll sort of
+
+56
+00:01:53,579 --> 00:01:55,560
+estimate where it thinks that it's not
+
+57
+00:01:55,560 --> 00:01:57,299
+really looking at where the tree is it's
+
+58
+00:01:57,299 --> 00:01:58,680
+just looking at the difference between
+
+59
+00:01:58,680 --> 00:02:01,380
+where we moved it's just using keyframes
+
+60
+00:02:01,380 --> 00:02:03,899
+to adjust that mask in between those
+
+61
+00:02:03,899 --> 00:02:05,820
+points so notice down in the timeline
+
+62
+00:02:05,820 --> 00:02:07,740
+different keyframes are being created
+
+63
+00:02:07,740 --> 00:02:10,378
+these red ones are the active ones and
+
+64
+00:02:10,378 --> 00:02:12,780
+also on the effects panel you can see
+
+65
+00:02:12,780 --> 00:02:14,640
+the keyframes too
+
+66
+00:02:14,640 --> 00:02:16,379
+and with this clip it's fairly easy
+
+67
+00:02:16,379 --> 00:02:18,120
+because it's moving at a constant speed
+
+68
+00:02:18,120 --> 00:02:19,860
+so the masking isn't incredibly
+
+69
+00:02:19,860 --> 00:02:20,879
+difficult
+
+70
+00:02:20,879 --> 00:02:22,319
+if you want to follow along with this
+
+71
+00:02:22,319 --> 00:02:24,000
+exact video clip you can find a download
+
+72
+00:02:24,000 --> 00:02:26,879
+link for it in the video description
+
+73
+00:02:26,879 --> 00:02:28,560
+once you get to the point where you feel
+
+74
+00:02:28,560 --> 00:02:30,180
+like the masking is done pretty well you
+
+75
+00:02:30,180 --> 00:02:32,220
+can go ahead and play your video
+
+76
+00:02:32,220 --> 00:02:33,780
+I hope this video has made it a little
+
+77
+00:02:33,780 --> 00:02:36,180
+more clear about how to use the masking
+
+78
+00:02:36,180 --> 00:02:39,120
+to reveal objects in Caden live if you
+
+79
+00:02:39,120 --> 00:02:40,200
+have any questions or comments please
+
+80
+00:02:40,200 --> 00:02:41,640
+leave them below and look forward to
+
+81
+00:02:41,640 --> 00:02:44,840
+catching you in the next video
+

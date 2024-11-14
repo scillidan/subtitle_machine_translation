@@ -1,0 +1,908 @@
+1
+00:00:02,630 --> 00:00:05,130
+welcome back to another video editing
+
+2
+00:00:05,130 --> 00:00:06,570
+tutorial using the free software
+
+3
+00:00:06,570 --> 00:00:09,450
+kdenlive in this video we're going to be
+
+4
+00:00:09,450 --> 00:00:11,999
+working with multiple videos on multiple
+
+5
+00:00:11,999 --> 00:00:14,159
+video tracks and showing kind of the
+
+6
+00:00:14,159 --> 00:00:16,500
+priority and which video will get played
+
+7
+00:00:16,500 --> 00:00:18,960
+on top of another video so basically
+
+8
+00:00:18,960 --> 00:00:21,259
+we're gonna be playing multiple videos
+
+9
+00:00:21,259 --> 00:00:23,400
+yeah I'll show you how that's done so I
+
+10
+00:00:23,400 --> 00:00:24,839
+grabbed some video footage from
+
+11
+00:00:24,839 --> 00:00:28,830
+pixabay.com these are videos you can
+
+12
+00:00:28,830 --> 00:00:30,359
+hover over and kind of see it if we
+
+13
+00:00:30,359 --> 00:00:32,040
+click on them we can just go it download
+
+14
+00:00:32,040 --> 00:00:34,320
+so this is like I think it's one of the
+
+15
+00:00:34,320 --> 00:00:35,970
+clips I did this actually has some audio
+
+16
+00:00:35,970 --> 00:00:38,490
+with it and then I'm gonna drag these in
+
+17
+00:00:38,490 --> 00:00:40,230
+so I have three video clips there in my
+
+18
+00:00:40,230 --> 00:00:42,450
+downloads folder I'm just going to drag
+
+19
+00:00:42,450 --> 00:00:45,240
+them into my projects folder I'm left
+
+20
+00:00:45,240 --> 00:00:47,550
+clicking and dragging these in and then
+
+21
+00:00:47,550 --> 00:00:49,740
+we can watch them in our projects we can
+
+22
+00:00:49,740 --> 00:00:50,820
+just like to see what the video looks
+
+23
+00:00:50,820 --> 00:00:52,830
+like so this Mercedes ones actually
+
+24
+00:00:52,830 --> 00:00:54,270
+already been edited and cut together
+
+25
+00:00:54,270 --> 00:00:55,740
+it's a bunch of different Clips that's
+
+26
+00:00:55,740 --> 00:00:57,510
+been edited sometimes some of them are
+
+27
+00:00:57,510 --> 00:00:59,130
+even like slowed down they adjusted the
+
+28
+00:00:59,130 --> 00:01:00,930
+speed of it like I think right here it
+
+29
+00:01:00,930 --> 00:01:03,720
+drives through some water maybe like
+
+30
+00:01:03,720 --> 00:01:06,990
+slow motion and so but what I want to do
+
+31
+00:01:06,990 --> 00:01:08,400
+which one has the audio I think it's
+
+32
+00:01:08,400 --> 00:01:11,520
+this one Edison has audio so we can see
+
+33
+00:01:11,520 --> 00:01:13,530
+a little blue audio line right at the
+
+34
+00:01:13,530 --> 00:01:15,659
+bottom it shows two audio waves I'm
+
+35
+00:01:15,659 --> 00:01:17,430
+gonna left click and drag this down to
+
+36
+00:01:17,430 --> 00:01:19,350
+our video one because I want this to
+
+37
+00:01:19,350 --> 00:01:21,750
+kind of be the base the base of our
+
+38
+00:01:21,750 --> 00:01:25,470
+video like the constant so this video is
+
+39
+00:01:25,470 --> 00:01:27,360
+gonna play the whole time in the
+
+40
+00:01:27,360 --> 00:01:29,130
+background of our video and it's also
+
+41
+00:01:29,130 --> 00:01:32,790
+gonna be playing this audio of like cars
+
+42
+00:01:32,790 --> 00:01:34,680
+driving since the other two videos don't
+
+43
+00:01:34,680 --> 00:01:36,630
+have any audio with them so then I'm
+
+44
+00:01:36,630 --> 00:01:37,909
+just gonna drag and drop onto video
+
+45
+00:01:37,909 --> 00:01:40,979
+track to will drag this one here of the
+
+46
+00:01:40,979 --> 00:01:42,750
+freeway and onto track three that's one
+
+47
+00:01:42,750 --> 00:01:45,299
+of the Mercedes so if you see what
+
+48
+00:01:45,299 --> 00:01:47,970
+happens we were watching this video that
+
+49
+00:01:47,970 --> 00:01:49,680
+had the audio we're on our project
+
+50
+00:01:49,680 --> 00:01:52,380
+monitor right now oh now we're on a
+
+51
+00:01:52,380 --> 00:01:54,090
+project monitor so we were watching this
+
+52
+00:01:54,090 --> 00:01:56,130
+video below but now we're seeing the
+
+53
+00:01:56,130 --> 00:01:57,840
+Mercedes if I left click and drag the
+
+54
+00:01:57,840 --> 00:01:59,760
+Mercedes over here forward in time and
+
+55
+00:01:59,760 --> 00:02:02,130
+then unclick we see the video changes
+
+56
+00:02:02,130 --> 00:02:03,990
+because the playhead is looking at this
+
+57
+00:02:03,990 --> 00:02:06,990
+video now so between these two the
+
+58
+00:02:06,990 --> 00:02:09,628
+playhead it's choosing to view whatever
+
+59
+00:02:09,628 --> 00:02:13,109
+it is the topmost video so the higher
+
+60
+00:02:13,109 --> 00:02:13,960
+the number of the video
+
+61
+00:02:13,960 --> 00:02:16,630
+track the more the top the more priority
+
+62
+00:02:16,630 --> 00:02:17,890
+it has to get seen
+
+63
+00:02:17,890 --> 00:02:20,050
+but both videos are playing at the same
+
+64
+00:02:20,050 --> 00:02:21,640
+time so if we play this right now
+
+65
+00:02:21,640 --> 00:02:25,750
+we'll see or we'll hear the audio from
+
+66
+00:02:25,750 --> 00:02:28,510
+this lower video but we're seeing the
+
+67
+00:02:28,510 --> 00:02:30,700
+video from this top video that makes
+
+68
+00:02:30,700 --> 00:02:33,040
+sense so if we drag this out of the way
+
+69
+00:02:33,040 --> 00:02:35,230
+and now we're seeing just this one video
+
+70
+00:02:35,230 --> 00:02:39,100
+that has the audio with it so what we
+
+71
+00:02:39,100 --> 00:02:40,360
+can do this is something I do a lot
+
+72
+00:02:40,360 --> 00:02:42,460
+actually I'll have one video playing
+
+73
+00:02:42,460 --> 00:02:44,200
+constantly especially if you have
+
+74
+00:02:44,200 --> 00:02:46,300
+multiple camera angles of the same thing
+
+75
+00:02:46,300 --> 00:02:48,130
+happening like an interview you have a
+
+76
+00:02:48,130 --> 00:02:50,350
+camera pointing at someone's face or I
+
+77
+00:02:50,350 --> 00:02:51,700
+can't a camera pointing at the
+
+78
+00:02:51,700 --> 00:02:53,500
+interviewer and then a camera pointing
+
+79
+00:02:53,500 --> 00:02:57,430
+at the interviewee I'll have one of the
+
+80
+00:02:57,430 --> 00:02:58,930
+interviews playing that has the best
+
+81
+00:02:58,930 --> 00:03:01,090
+audio at the bottom and then I'll have
+
+82
+00:03:01,090 --> 00:03:03,670
+I'll bring in other clips just short
+
+83
+00:03:03,670 --> 00:03:06,100
+versions of it so we can grab this razor
+
+84
+00:03:06,100 --> 00:03:08,170
+tool and just cut out like a really
+
+85
+00:03:08,170 --> 00:03:10,870
+short clip here then go to my selector
+
+86
+00:03:10,870 --> 00:03:13,090
+tool and know this drag it in here and
+
+87
+00:03:13,090 --> 00:03:15,340
+maybe we can even drag in this little
+
+88
+00:03:15,340 --> 00:03:17,830
+piece that we had will have that be the
+
+89
+00:03:17,830 --> 00:03:19,630
+start and we'll go to there and then
+
+90
+00:03:19,630 --> 00:03:21,340
+it'll come in then maybe we'll have the
+
+91
+00:03:21,340 --> 00:03:24,070
+Mercedes one start so what this will do
+
+92
+00:03:24,070 --> 00:03:26,200
+is it's going to play I'll just click
+
+93
+00:03:26,200 --> 00:03:27,850
+and drag so it's going to play this
+
+94
+00:03:27,850 --> 00:03:29,230
+video and then when I gets to this point
+
+95
+00:03:29,230 --> 00:03:30,720
+it's going to play the video underneath
+
+96
+00:03:30,720 --> 00:03:32,710
+and then it's going to play this video
+
+97
+00:03:32,710 --> 00:03:35,830
+and it'll play the video underneath and
+
+98
+00:03:35,830 --> 00:03:38,170
+we'll play the Mercedes video while
+
+99
+00:03:38,170 --> 00:03:40,240
+still playing the audio so we'll just
+
+100
+00:03:40,240 --> 00:03:41,500
+click and actually just play it and
+
+101
+00:03:41,500 --> 00:03:43,650
+watch
+
+102
+00:03:45,880 --> 00:03:47,680
+we'll see where the playhead is going
+
+103
+00:03:47,680 --> 00:03:49,060
+now it's playing this freeway video
+
+104
+00:03:49,060 --> 00:03:50,980
+because it's on video too now it's gonna
+
+105
+00:03:50,980 --> 00:03:52,810
+drop down and play on video track 1
+
+106
+00:03:52,810 --> 00:03:54,160
+because there's nothing in video track 2
+
+107
+00:03:54,160 --> 00:03:56,800
+right now and it's gonna jump back up to
+
+108
+00:03:56,800 --> 00:03:58,360
+video track 2 and play whatever is in
+
+109
+00:03:58,360 --> 00:04:01,060
+there while still playing the audio in
+
+110
+00:04:01,060 --> 00:04:01,840
+the background
+
+111
+00:04:01,840 --> 00:04:03,310
+so really it's playing this background
+
+112
+00:04:03,310 --> 00:04:04,870
+video we just can't see it because it's
+
+113
+00:04:04,870 --> 00:04:08,980
+being covered up by video 2 and so in
+
+114
+00:04:08,980 --> 00:04:10,240
+the last video we learned about how to
+
+115
+00:04:10,240 --> 00:04:12,220
+transform just so we can kind of drive
+
+116
+00:04:12,220 --> 00:04:14,980
+this home no pun intended
+
+117
+00:04:14,980 --> 00:04:18,190
+let's go to crop and transform we'll
+
+118
+00:04:18,190 --> 00:04:20,589
+drag a transform into here and if we
+
+119
+00:04:20,589 --> 00:04:22,780
+change the size of this video then we
+
+120
+00:04:22,780 --> 00:04:24,700
+can actually see what's happening now we
+
+121
+00:04:24,700 --> 00:04:28,690
+see we've got this video playing down
+
+122
+00:04:28,690 --> 00:04:31,180
+below and also this video playing up
+
+123
+00:04:31,180 --> 00:04:32,770
+here and we can drag and have it be
+
+124
+00:04:32,770 --> 00:04:35,740
+playing down here if we want so that's
+
+125
+00:04:35,740 --> 00:04:37,630
+pretty cool huh and we can even do all
+
+126
+00:04:37,630 --> 00:04:39,580
+three of them if we want to we can drag
+
+127
+00:04:39,580 --> 00:04:41,740
+this one and I'm gonna resize this I
+
+128
+00:04:41,740 --> 00:04:42,580
+think I talked about this in another
+
+129
+00:04:42,580 --> 00:04:44,170
+tutorial but you might have forgot if
+
+130
+00:04:44,170 --> 00:04:45,370
+you go to the end of the video you can
+
+131
+00:04:45,370 --> 00:04:47,530
+actually just click and resize the video
+
+132
+00:04:47,530 --> 00:04:49,630
+as long as you're not trying to go past
+
+133
+00:04:49,630 --> 00:04:52,450
+the extent of the video or further
+
+134
+00:04:52,450 --> 00:04:54,520
+forward in the beginning of the video so
+
+135
+00:04:54,520 --> 00:04:56,020
+at these video clips that we cut over
+
+136
+00:04:56,020 --> 00:04:57,730
+here we can drag them and make them a
+
+137
+00:04:57,730 --> 00:05:01,090
+little bit longer as long as we don't go
+
+138
+00:05:01,090 --> 00:05:04,030
+past the extents of that so in fact I'll
+
+139
+00:05:04,030 --> 00:05:05,320
+put this back where it was though I'm
+
+140
+00:05:05,320 --> 00:05:06,970
+gonna move this up top here and we're
+
+141
+00:05:06,970 --> 00:05:09,070
+gonna keep it the same length as this
+
+142
+00:05:09,070 --> 00:05:11,110
+Mercedes video but we'll apply a
+
+143
+00:05:11,110 --> 00:05:13,990
+transform to it as well and we'll resize
+
+144
+00:05:13,990 --> 00:05:18,100
+it as well so now we've got all kinds of
+
+145
+00:05:18,100 --> 00:05:20,410
+different video happening here we've got
+
+146
+00:05:20,410 --> 00:05:23,290
+the Mercedes video I'll put it right
+
+147
+00:05:23,290 --> 00:05:26,800
+there so now when we play this might
+
+148
+00:05:26,800 --> 00:05:30,400
+take a little bit to play but now we see
+
+149
+00:05:30,400 --> 00:05:33,640
+the first-person view of driving this
+
+150
+00:05:33,640 --> 00:05:35,650
+car we see the Mercedes driving through
+
+151
+00:05:35,650 --> 00:05:37,150
+water and we see all these cars going
+
+152
+00:05:37,150 --> 00:05:39,250
+here so that's kind of how do video and
+
+153
+00:05:39,250 --> 00:05:41,920
+video or a picture-in-picture
+
+154
+00:05:41,920 --> 00:05:43,420
+I'm gonna do it I'll do another tutorial
+
+155
+00:05:43,420 --> 00:05:45,070
+on that later showing how to do like
+
+156
+00:05:45,070 --> 00:05:46,900
+desktop tutorials where it has your face
+
+157
+00:05:46,900 --> 00:05:49,360
+in the bottom right hand corner and then
+
+158
+00:05:49,360 --> 00:05:51,190
+it'll have like your desktop screen and
+
+159
+00:05:51,190 --> 00:05:53,710
+the for the rest of it but that's
+
+160
+00:05:53,710 --> 00:05:55,360
+basically how you accomplish it is it's
+
+161
+00:05:55,360 --> 00:05:57,490
+playing all three videos on all three
+
+162
+00:05:57,490 --> 00:05:59,680
+video tracks and I guess just to get
+
+163
+00:05:59,680 --> 00:06:02,259
+here let's just add in some audio too so
+
+164
+00:06:02,259 --> 00:06:06,100
+I'll drag in this audio file then we can
+
+165
+00:06:06,100 --> 00:06:07,960
+really open I mean just fit okay and
+
+166
+00:06:07,960 --> 00:06:10,360
+then it'll put it down here so then we
+
+167
+00:06:10,360 --> 00:06:12,789
+really have a lot going on
+
+168
+00:06:12,789 --> 00:06:14,830
+we're playing audio from here we're
+
+169
+00:06:14,830 --> 00:06:17,229
+playing three sources of video and two
+
+170
+00:06:17,229 --> 00:06:20,080
+of the video are resized to be on top of
+
+171
+00:06:20,080 --> 00:06:32,229
+each other our music it's a little bit
+
+172
+00:06:32,229 --> 00:06:34,210
+laggy because it's trying to do its rap
+
+173
+00:06:34,210 --> 00:06:38,139
+is trying to read 3 3 720p videos and
+
+174
+00:06:38,139 --> 00:06:40,449
+also play the audio and also apply the
+
+175
+00:06:40,449 --> 00:06:42,610
+transforms and all that so but when we
+
+176
+00:06:42,610 --> 00:06:44,259
+render it out it'll look just completely
+
+177
+00:06:44,259 --> 00:06:46,780
+normal and in fact I'll show you except
+
+178
+00:06:46,780 --> 00:06:49,090
+I do want to do this let's just take
+
+179
+00:06:49,090 --> 00:06:50,680
+this opportunity to learn how to use
+
+180
+00:06:50,680 --> 00:06:53,560
+this thing here whatever this blue area
+
+181
+00:06:53,560 --> 00:06:56,139
+is whatever selected in this blue area
+
+182
+00:06:56,139 --> 00:06:59,050
+is what will get played up here in the
+
+183
+00:06:59,050 --> 00:07:01,419
+player first of all and it's also what
+
+184
+00:07:01,419 --> 00:07:04,360
+we can we can render an export out so if
+
+185
+00:07:04,360 --> 00:07:05,860
+I just want to do it let's just do a
+
+186
+00:07:05,860 --> 00:07:07,300
+short portion here cuz I don't want to
+
+187
+00:07:07,300 --> 00:07:09,370
+take forever to render and then we click
+
+188
+00:07:09,370 --> 00:07:11,500
+up on render and then we just say
+
+189
+00:07:11,500 --> 00:07:13,690
+selective zone instead of full project
+
+190
+00:07:13,690 --> 00:07:16,599
+then it will only render that portion
+
+191
+00:07:16,599 --> 00:07:20,650
+that 10 seconds roughly is what it looks
+
+192
+00:07:20,650 --> 00:07:22,780
+like so and in fact I'm gonna make it
+
+193
+00:07:22,780 --> 00:07:24,550
+even shorter so that we don't wait let's
+
+194
+00:07:24,550 --> 00:07:26,650
+make it a teeny tiny and let's go to
+
+195
+00:07:26,650 --> 00:07:29,620
+render will render a selective zone and
+
+196
+00:07:29,620 --> 00:07:33,130
+we'll save it to the desktop and we'll
+
+197
+00:07:33,130 --> 00:07:34,360
+call it a whoops
+
+198
+00:07:34,360 --> 00:07:36,070
+we don't WebM though which we'll just
+
+199
+00:07:36,070 --> 00:07:38,110
+call it something and then we'll make
+
+200
+00:07:38,110 --> 00:07:39,940
+sure it's an mp4 so I like to you could
+
+201
+00:07:39,940 --> 00:07:43,300
+do WebM but mp4 is kind of this a good
+
+202
+00:07:43,300 --> 00:07:45,130
+standard for uploading to like Facebook
+
+203
+00:07:45,130 --> 00:07:49,509
+or YouTube and I'll just pause the video
+
+204
+00:07:49,509 --> 00:07:52,380
+while we render this out
+
+205
+00:07:56,050 --> 00:07:57,819
+okay so that took about 40 seconds to
+
+206
+00:07:57,819 --> 00:07:59,860
+render actually 48 seconds exactly to
+
+207
+00:07:59,860 --> 00:08:02,110
+render and will minimize and we'll just
+
+208
+00:08:02,110 --> 00:08:14,440
+watch this that's the video pretty cool
+
+209
+00:08:14,440 --> 00:08:16,840
+stuff so that's just a little hopefully
+
+210
+00:08:16,840 --> 00:08:18,669
+that kind of maybe cleared up some
+
+211
+00:08:18,669 --> 00:08:21,009
+things in your mind as far as how to use
+
+212
+00:08:21,009 --> 00:08:22,629
+these different tracks and then we can
+
+213
+00:08:22,629 --> 00:08:24,699
+add in you know multiple audio and if
+
+214
+00:08:24,699 --> 00:08:25,870
+you want to add in another track we can
+
+215
+00:08:25,870 --> 00:08:27,849
+just right click and we can go insert
+
+216
+00:08:27,849 --> 00:08:29,669
+track and we can add another audio track
+
+217
+00:08:29,669 --> 00:08:31,629
+Oh can't wait
+
+218
+00:08:31,629 --> 00:08:35,740
+audio - oh yeah we'll add an audio track
+
+219
+00:08:35,740 --> 00:08:40,019
+insert above audio - and we'll call it
+
+220
+00:08:40,019 --> 00:08:42,339
+wet it'll make it audio track and we'll
+
+221
+00:08:42,339 --> 00:08:46,870
+call it audio three and add so now we
+
+222
+00:08:46,870 --> 00:08:50,110
+have audio three we can rearrange it
+
+223
+00:08:50,110 --> 00:08:53,050
+somehow oh yeah I think we click this
+
+224
+00:08:53,050 --> 00:08:55,300
+button here anyway this is what you can
+
+225
+00:08:55,300 --> 00:08:58,029
+rearrange these as well so appreciate
+
+226
+00:08:58,029 --> 00:08:59,140
+you watching this video hopefully that
+
+227
+00:08:59,140 --> 00:09:03,930
+was informative catch on next one
+

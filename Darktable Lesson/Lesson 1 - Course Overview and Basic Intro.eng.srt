@@ -1,0 +1,496 @@
+1
+00:00:00,030 --> 00:00:01,890
+hello and welcome to the Start table
+
+2
+00:00:01,890 --> 00:00:04,110
+tutorial series I'm Brendan Rix with TJ
+
+3
+00:00:04,110 --> 00:00:06,000
+free and in this tutorial series we'll
+
+4
+00:00:06,000 --> 00:00:07,740
+learn how to manage and edit photos
+
+5
+00:00:07,740 --> 00:00:10,320
+using dark table dark table is a great
+
+6
+00:00:10,320 --> 00:00:12,450
+professional program for working with
+
+7
+00:00:12,450 --> 00:00:14,309
+photography photographs if you're a
+
+8
+00:00:14,309 --> 00:00:16,320
+photographer if you shoot with a DSLR
+
+9
+00:00:16,320 --> 00:00:18,390
+camera especially if you shoot in RAW or
+
+10
+00:00:18,390 --> 00:00:20,760
+even drone footage can be shot in RAW a
+
+11
+00:00:20,760 --> 00:00:22,500
+lot of smartphones can shoot in RAW
+
+12
+00:00:22,500 --> 00:00:24,330
+these days if you work with raw you're
+
+13
+00:00:24,330 --> 00:00:26,519
+really gonna want to use dark table and
+
+14
+00:00:26,519 --> 00:00:28,619
+it kind of does a lot of the same things
+
+15
+00:00:28,619 --> 00:00:30,510
+that people often go to Photoshop or
+
+16
+00:00:30,510 --> 00:00:32,790
+ before that does a much much better
+
+17
+00:00:32,790 --> 00:00:34,530
+job than those programs do it gives you
+
+18
+00:00:34,530 --> 00:00:36,300
+so much more control over your lighting
+
+19
+00:00:36,300 --> 00:00:38,670
+over the colors and over just really the
+
+20
+00:00:38,670 --> 00:00:41,129
+look and feel if your photographs also
+
+21
+00:00:41,129 --> 00:00:42,870
+it has much much better management tools
+
+22
+00:00:42,870 --> 00:00:44,489
+and if you're ever working with multiple
+
+23
+00:00:44,489 --> 00:00:46,289
+pictures at once like trying to apply a
+
+24
+00:00:46,289 --> 00:00:48,270
+watermark on hundreds or thousands of
+
+25
+00:00:48,270 --> 00:00:50,190
+pictures at once it's a great tool for
+
+26
+00:00:50,190 --> 00:00:52,350
+that if you're editing the metadata of
+
+27
+00:00:52,350 --> 00:00:54,449
+the picture if you want to apply the
+
+28
+00:00:54,449 --> 00:00:55,890
+same thing over and over again like
+
+29
+00:00:55,890 --> 00:00:58,859
+rotate and zoom in and adjust colors but
+
+30
+00:00:58,859 --> 00:01:00,719
+do it to like a dozen photos at once you
+
+31
+00:01:00,719 --> 00:01:01,590
+don't need to go through and do it
+
+32
+00:01:01,590 --> 00:01:02,940
+individual you can just use this
+
+33
+00:01:02,940 --> 00:01:05,369
+software to do all of that it's kind of
+
+34
+00:01:05,369 --> 00:01:07,020
+similar to Adobe Lightroom in fact it's
+
+35
+00:01:07,020 --> 00:01:09,150
+very similar to Adobe Lightroom and even
+
+36
+00:01:09,150 --> 00:01:10,740
+a lot of professionals choose I've kind
+
+37
+00:01:10,740 --> 00:01:12,900
+of went away from Lightroom and they're
+
+38
+00:01:12,900 --> 00:01:15,420
+using darktable as their main workhorse
+
+39
+00:01:15,420 --> 00:01:17,220
+because it's just so professional and
+
+40
+00:01:17,220 --> 00:01:19,470
+such an amazing piece of software so
+
+41
+00:01:19,470 --> 00:01:21,090
+it's not one of those free programs it's
+
+42
+00:01:21,090 --> 00:01:22,619
+just like a limited free and it's gonna
+
+43
+00:01:22,619 --> 00:01:24,479
+make you try to pay for more features in
+
+44
+00:01:24,479 --> 00:01:26,909
+the future this is the real deal fully
+
+45
+00:01:26,909 --> 00:01:28,950
+professional it just happens to be open
+
+46
+00:01:28,950 --> 00:01:31,170
+source and free so it's a project owned
+
+47
+00:01:31,170 --> 00:01:33,329
+by the community for the community this
+
+48
+00:01:33,329 --> 00:01:34,799
+is the software you need to be using if
+
+49
+00:01:34,799 --> 00:01:36,540
+you're a photographer of any kind or if
+
+50
+00:01:36,540 --> 00:01:38,759
+you work with photos a lot in this
+
+51
+00:01:38,759 --> 00:01:40,170
+tutorial series we're going to learn how
+
+52
+00:01:40,170 --> 00:01:41,970
+to use the interface we're gonna dive in
+
+53
+00:01:41,970 --> 00:01:42,899
+and learn how to use the different
+
+54
+00:01:42,899 --> 00:01:44,939
+modules different color correcting and
+
+55
+00:01:44,939 --> 00:01:46,560
+filters and all of the cool things we
+
+56
+00:01:46,560 --> 00:01:48,030
+can do we'll learn how to do the batch
+
+57
+00:01:48,030 --> 00:01:49,860
+editing how to import and export our
+
+58
+00:01:49,860 --> 00:01:51,240
+pictures and we'll just learn how
+
+59
+00:01:51,240 --> 00:01:53,700
+darktable functions what this is not
+
+60
+00:01:53,700 --> 00:01:57,930
+going to be is a deep way to learn how
+
+61
+00:01:57,930 --> 00:02:00,149
+to use the individual modules you could
+
+62
+00:02:00,149 --> 00:02:01,500
+spend years and you probably should
+
+63
+00:02:01,500 --> 00:02:03,240
+spend years getting experience doing
+
+64
+00:02:03,240 --> 00:02:04,439
+that that's something I haven't
+
+65
+00:02:04,439 --> 00:02:05,850
+personally done and I just won't be able
+
+66
+00:02:05,850 --> 00:02:07,619
+to offer that so once we cover the
+
+67
+00:02:07,619 --> 00:02:09,239
+basics in this series I hope you'll go
+
+68
+00:02:09,239 --> 00:02:11,860
+out and find a lot of tutorials that are
+
+69
+00:02:11,860 --> 00:02:13,420
+there on the web and including on
+
+70
+00:02:13,420 --> 00:02:15,360
+YouTube you can check out more
+
+71
+00:02:15,360 --> 00:02:17,590
+specialized features of how to do a
+
+72
+00:02:17,590 --> 00:02:20,500
+certain type of enhancement so that's
+
+73
+00:02:20,500 --> 00:02:21,910
+kind of outside the scope of the series
+
+74
+00:02:21,910 --> 00:02:23,350
+just know that we're going to learn the
+
+75
+00:02:23,350 --> 00:02:25,870
+basics and we'll probably stop there one
+
+76
+00:02:25,870 --> 00:02:27,250
+more thing before I close this video I
+
+77
+00:02:27,250 --> 00:02:29,260
+just want to talk about when to use
+
+78
+00:02:29,260 --> 00:02:31,870
+darktable as opposed to Photoshop or
+
+79
+00:02:31,870 --> 00:02:33,340
+ or credo or somebody's everyone's
+
+80
+00:02:33,340 --> 00:02:36,130
+so photoshop's gonna be I mean darktable
+
+81
+00:02:36,130 --> 00:02:37,630
+is going to be really good if you're
+
+82
+00:02:37,630 --> 00:02:39,760
+working with just photos so when people
+
+83
+00:02:39,760 --> 00:02:41,320
+do photo enhancements you're adjusting
+
+84
+00:02:41,320 --> 00:02:43,300
+lighting you're adjusting the size or
+
+85
+00:02:43,300 --> 00:02:44,590
+the crop or the frame of the image
+
+86
+00:02:44,590 --> 00:02:46,240
+anything like that it's going to be
+
+87
+00:02:46,240 --> 00:02:48,459
+great for improving skin tone or
+
+88
+00:02:48,459 --> 00:02:50,380
+bringing out certain colors or adjusting
+
+89
+00:02:50,380 --> 00:02:53,500
+parts you know bringing shadows into the
+
+90
+00:02:53,500 --> 00:02:55,510
+light or adjusting your lighting this is
+
+91
+00:02:55,510 --> 00:02:56,950
+what you want to do in darktable
+
+92
+00:02:56,950 --> 00:02:59,440
+if you want to do photoshop and maybe
+
+93
+00:02:59,440 --> 00:03:01,900
+like edit out blemishes on the skin you
+
+94
+00:03:01,900 --> 00:03:03,550
+can do some of that stuff in darktable
+
+95
+00:03:03,550 --> 00:03:06,270
+too but that's something more suited for
+
+96
+00:03:06,270 --> 00:03:09,400
+ and Photoshop or maybe compositing
+
+97
+00:03:09,400 --> 00:03:10,840
+multiple pictures on top of each other
+
+98
+00:03:10,840 --> 00:03:13,090
+working with text or creating any kind
+
+99
+00:03:13,090 --> 00:03:14,440
+of like brochures things like that
+
+100
+00:03:14,440 --> 00:03:16,269
+you're going to want to use Photoshop
+
+101
+00:03:16,269 --> 00:03:18,190
+and for that and if you're creating
+
+102
+00:03:18,190 --> 00:03:20,530
+art from scratch like you have a drawing
+
+103
+00:03:20,530 --> 00:03:24,880
+pad or maybe you want to yeah draw it
+
+104
+00:03:24,880 --> 00:03:26,320
+with the mouse and draw circles and
+
+105
+00:03:26,320 --> 00:03:27,940
+create objects then you're going to want
+
+106
+00:03:27,940 --> 00:03:29,290
+to look into something more like crea
+
+107
+00:03:29,290 --> 00:03:31,720
+even Inkscape and Photoshop and can
+
+108
+00:03:31,720 --> 00:03:33,760
+do some of that stuff too so let's just
+
+109
+00:03:33,760 --> 00:03:35,350
+sort of where this program Falls it's a
+
+110
+00:03:35,350 --> 00:03:36,910
+very good first step if you're working
+
+111
+00:03:36,910 --> 00:03:38,920
+with an actual real photo if you're
+
+112
+00:03:38,920 --> 00:03:40,720
+working with digital art look into more
+
+113
+00:03:40,720 --> 00:03:41,350
+like crea
+
+114
+00:03:41,350 --> 00:03:43,299
+ Photoshop for those kinds of things
+
+115
+00:03:43,299 --> 00:03:45,070
+well I'm glad you found this tutorial
+
+116
+00:03:45,070 --> 00:03:46,480
+series check out some way other videos
+
+117
+00:03:46,480 --> 00:03:48,160
+learning about open source software if
+
+118
+00:03:48,160 --> 00:03:49,870
+you're not that familiar with it but
+
+119
+00:03:49,870 --> 00:03:51,220
+dive right in we're gonna learn how to
+
+120
+00:03:51,220 --> 00:03:53,470
+install darktable on your computer it
+
+121
+00:03:53,470 --> 00:03:55,540
+runs on Windows Linux and Mac so we'll
+
+122
+00:03:55,540 --> 00:03:56,590
+get it installed and then we're gonna
+
+123
+00:03:56,590 --> 00:03:58,500
+dive right into learning how to use it
+
+124
+00:03:58,500 --> 00:04:01,920
+thanks for watching
+

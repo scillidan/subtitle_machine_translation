@@ -1,0 +1,1168 @@
+1
+00:00:02,780 --> 00:00:05,250
+welcome back to another video editing
+
+2
+00:00:05,250 --> 00:00:06,660
+tutorial using the free software
+
+3
+00:00:06,660 --> 00:00:09,509
+kdenlive in this video we're going to be
+
+4
+00:00:09,509 --> 00:00:11,879
+learning about the copy and paste
+
+5
+00:00:11,879 --> 00:00:14,129
+functions and we're going to be playing
+
+6
+00:00:14,129 --> 00:00:16,939
+with some basic video and audio effects
+
+7
+00:00:16,939 --> 00:00:19,109
+so to get started we're gonna grab a
+
+8
+00:00:19,109 --> 00:00:21,210
+video clip if you're following along you
+
+9
+00:00:21,210 --> 00:00:23,160
+may have downloaded some from like
+
+10
+00:00:23,160 --> 00:00:26,039
+pixabay or from free sound some audio
+
+11
+00:00:26,039 --> 00:00:27,810
+files so we already have a few
+
+12
+00:00:27,810 --> 00:00:29,490
+downloaded that we're gonna be using but
+
+13
+00:00:29,490 --> 00:00:30,749
+if you don't have some go ahead and grab
+
+14
+00:00:30,749 --> 00:00:32,759
+some from there some nice free video
+
+15
+00:00:32,759 --> 00:00:35,850
+clips you can use we're going to go to
+
+16
+00:00:35,850 --> 00:00:37,650
+my downloads folder I'm going to drag in
+
+17
+00:00:37,650 --> 00:00:40,050
+just a few we have this one I'll drag in
+
+18
+00:00:40,050 --> 00:00:42,660
+this video this is the video of a person
+
+19
+00:00:42,660 --> 00:00:45,480
+riding their bike so we'd click play
+
+20
+00:00:45,480 --> 00:00:48,060
+it's just bike riding back and forth and
+
+21
+00:00:48,060 --> 00:00:49,950
+back and forth and maybe we want to
+
+22
+00:00:49,950 --> 00:00:52,410
+create a cool kind of effect where this
+
+23
+00:00:52,410 --> 00:00:54,240
+person like maybe we'll create like this
+
+24
+00:00:54,240 --> 00:00:56,040
+kind of effect where they we want to
+
+25
+00:00:56,040 --> 00:00:58,860
+just keep writing like looping back so
+
+26
+00:00:58,860 --> 00:01:01,620
+we'll we'll drag this video in and we're
+
+27
+00:01:01,620 --> 00:01:04,890
+gonna cut it and just copy that portion
+
+28
+00:01:04,890 --> 00:01:06,240
+of the video and play it over and over
+
+29
+00:01:06,240 --> 00:01:08,340
+again maybe four or five times sometimes
+
+30
+00:01:08,340 --> 00:01:09,630
+just to get its effect in like a music
+
+31
+00:01:09,630 --> 00:01:11,580
+video or more or less we're just
+
+32
+00:01:11,580 --> 00:01:13,280
+learning how to use the copy and paste
+
+33
+00:01:13,280 --> 00:01:16,380
+tool and how to work around our timeline
+
+34
+00:01:16,380 --> 00:01:18,360
+so like we always do we first get in I
+
+35
+00:01:18,360 --> 00:01:19,710
+like to when I'm working with a short
+
+36
+00:01:19,710 --> 00:01:21,720
+clip like this I can zoom in a little
+
+37
+00:01:21,720 --> 00:01:23,970
+bit so I can see a little bit more of
+
+38
+00:01:23,970 --> 00:01:25,350
+that clip and what's going on with it
+
+39
+00:01:25,350 --> 00:01:30,870
+one more notch yeah that's good and so
+
+40
+00:01:30,870 --> 00:01:33,330
+there's no audio with this video clip at
+
+41
+00:01:33,330 --> 00:01:35,909
+all but we'll add an audio after so
+
+42
+00:01:35,909 --> 00:01:37,350
+let's just play this and see what it
+
+43
+00:01:37,350 --> 00:01:42,000
+looks like so I'm just going to I'm only
+
+44
+00:01:42,000 --> 00:01:43,890
+gonna use that first part of it if I
+
+45
+00:01:43,890 --> 00:01:45,450
+left click and drag while I'm on this
+
+46
+00:01:45,450 --> 00:01:47,670
+little white triangle like it's the
+
+47
+00:01:47,670 --> 00:01:51,030
+playhead I can move around and see frame
+
+48
+00:01:51,030 --> 00:01:53,040
+by frame exactly what we're I want to be
+
+49
+00:01:53,040 --> 00:01:57,240
+so maybe I want to end this video when
+
+50
+00:01:57,240 --> 00:01:59,880
+he goes out of there so right there I'm
+
+51
+00:01:59,880 --> 00:02:01,680
+going to click on my razor tool I'll
+
+52
+00:02:01,680 --> 00:02:03,330
+just click right here on the playhead
+
+53
+00:02:03,330 --> 00:02:06,210
+and then I'll click on my selection tool
+
+54
+00:02:06,210 --> 00:02:08,128
+and I'll left click select the rest of
+
+55
+00:02:08,128 --> 00:02:09,598
+the video and just hit the Delete key on
+
+56
+00:02:09,598 --> 00:02:12,659
+the keyboard now we can zoom in and see
+
+57
+00:02:12,659 --> 00:02:13,840
+just this
+
+58
+00:02:13,840 --> 00:02:16,150
+little short clip it's if we look at the
+
+59
+00:02:16,150 --> 00:02:18,220
+top we can see how long it is it looks
+
+60
+00:02:18,220 --> 00:02:20,530
+like it's a little over it's not just
+
+61
+00:02:20,530 --> 00:02:25,959
+one second long see yeah it's about a
+
+62
+00:02:25,959 --> 00:02:27,970
+one-second long clip if we want to watch
+
+63
+00:02:27,970 --> 00:02:29,440
+this in Reverse by the way on our
+
+64
+00:02:29,440 --> 00:02:30,790
+project monitor we can just hit the
+
+65
+00:02:30,790 --> 00:02:32,830
+reverse and we'll play the whole thing
+
+66
+00:02:32,830 --> 00:02:34,480
+in Reverse so we can play it and forward
+
+67
+00:02:34,480 --> 00:02:36,879
+and play it in Reverse that's sort of
+
+68
+00:02:36,879 --> 00:02:40,569
+how that works alright so what I want to
+
+69
+00:02:40,569 --> 00:02:42,099
+do I want to find a nice good clip so
+
+70
+00:02:42,099 --> 00:02:43,660
+I'll left-click and it's kind of scroll
+
+71
+00:02:43,660 --> 00:02:46,480
+maybe for this part here about when he's
+
+72
+00:02:46,480 --> 00:02:49,390
+at this like telephone pole maybe from
+
+73
+00:02:49,390 --> 00:02:52,569
+there so this is where I want to start
+
+74
+00:02:52,569 --> 00:02:54,459
+I'm gonna I want to cut the clip here
+
+75
+00:02:54,459 --> 00:02:56,319
+first of all so I get my razor tool
+
+76
+00:02:56,319 --> 00:02:58,720
+again and then I'll cut right there and
+
+77
+00:02:58,720 --> 00:03:01,810
+you see it kind of snaps it this razor
+
+78
+00:03:01,810 --> 00:03:04,150
+tool is kind of moving in like little
+
+79
+00:03:04,150 --> 00:03:07,120
+increments is not completely fluid and
+
+80
+00:03:07,120 --> 00:03:08,470
+that's because we have a not sure where
+
+81
+00:03:08,470 --> 00:03:11,290
+snapping is but we have snapping turned
+
+82
+00:03:11,290 --> 00:03:13,690
+on it's an option right here so we have
+
+83
+00:03:13,690 --> 00:03:16,329
+snap so if we unclick this then we can
+
+84
+00:03:16,329 --> 00:03:18,250
+kind of go like a lot more granular
+
+85
+00:03:18,250 --> 00:03:21,190
+granularly but with snapping on it makes
+
+86
+00:03:21,190 --> 00:03:22,750
+it so that we when we hover over our
+
+87
+00:03:22,750 --> 00:03:25,299
+playhead for example will cut exactly
+
+88
+00:03:25,299 --> 00:03:26,769
+right where I playhead is which is kind
+
+89
+00:03:26,769 --> 00:03:29,079
+of nice for us in this case now I want
+
+90
+00:03:29,079 --> 00:03:30,579
+to go back to my selection tool I'll
+
+91
+00:03:30,579 --> 00:03:34,540
+drag forward to a couple maybe till he
+
+92
+00:03:34,540 --> 00:03:36,519
+gets to this next to pull this next kind
+
+93
+00:03:36,519 --> 00:03:38,620
+of or sign whatever that is and I'm
+
+94
+00:03:38,620 --> 00:03:42,130
+going to cut again there so what I've
+
+95
+00:03:42,130 --> 00:03:43,780
+done I've actually cut so now I have
+
+96
+00:03:43,780 --> 00:03:46,180
+three I've turned this one clip into
+
+97
+00:03:46,180 --> 00:03:46,810
+three clips
+
+98
+00:03:46,810 --> 00:03:48,370
+well we already shortened it quite a bit
+
+99
+00:03:48,370 --> 00:03:53,919
+and now we have one two three and we can
+
+100
+00:03:53,919 --> 00:03:55,480
+use these different video tracks if we
+
+101
+00:03:55,480 --> 00:03:56,829
+want to just to kind of keep things
+
+102
+00:03:56,829 --> 00:03:59,380
+clean for us so I'll drag this part up
+
+103
+00:03:59,380 --> 00:04:01,030
+to here and maybe this part I'll drag up
+
+104
+00:04:01,030 --> 00:04:02,950
+to this third one I mean I guess I
+
+105
+00:04:02,950 --> 00:04:04,299
+shouldn't say it makes it clean because
+
+106
+00:04:04,299 --> 00:04:06,669
+it's kind of a matter of preference but
+
+107
+00:04:06,669 --> 00:04:08,919
+at least it helps us visually step right
+
+108
+00:04:08,919 --> 00:04:10,209
+out okay we have these three different
+
+109
+00:04:10,209 --> 00:04:12,459
+tracks and then if we play this if we
+
+110
+00:04:12,459 --> 00:04:15,720
+play it'll actually play just right
+
+111
+00:04:15,720 --> 00:04:18,190
+normally we won't see anything between
+
+112
+00:04:18,190 --> 00:04:20,260
+we won't see any difference between
+
+113
+00:04:20,260 --> 00:04:23,860
+those I think there's no there's no I
+
+114
+00:04:23,860 --> 00:04:26,020
+like blinking or anything when it goes
+
+115
+00:04:26,020 --> 00:04:27,370
+from one video clip to the next
+
+116
+00:04:27,370 --> 00:04:29,169
+just seamlessly goes which is pretty
+
+117
+00:04:29,169 --> 00:04:31,360
+cool all right we want to copy this one
+
+118
+00:04:31,360 --> 00:04:32,680
+so to do that we can do a couple
+
+119
+00:04:32,680 --> 00:04:34,660
+different things we can right-click on
+
+120
+00:04:34,660 --> 00:04:38,229
+it and go to copy for one and then we
+
+121
+00:04:38,229 --> 00:04:40,479
+can just right click and go to paste and
+
+122
+00:04:40,479 --> 00:04:41,919
+whatever track we right-click and paste
+
+123
+00:04:41,919 --> 00:04:44,710
+it in it'll go into that track I think
+
+124
+00:04:44,710 --> 00:04:46,000
+we can even put it in an audio track if
+
+125
+00:04:46,000 --> 00:04:46,449
+we want to
+
+126
+00:04:46,449 --> 00:04:48,639
+yeah it'll go in an audio track I don't
+
+127
+00:04:48,639 --> 00:04:49,840
+know if you're play in an audio track I
+
+128
+00:04:49,840 --> 00:04:51,790
+don't think it will but now I just
+
+129
+00:04:51,790 --> 00:04:54,100
+pasted a whole bunch of these you see so
+
+130
+00:04:54,100 --> 00:04:56,080
+I'm left clicking around and dragging
+
+131
+00:04:56,080 --> 00:04:58,210
+them all so this is the end part of the
+
+132
+00:04:58,210 --> 00:05:00,220
+video so we want it to be more over here
+
+133
+00:05:00,220 --> 00:05:02,650
+now and then you see it went black
+
+134
+00:05:02,650 --> 00:05:04,120
+because our playhead is sitting right
+
+135
+00:05:04,120 --> 00:05:06,520
+here so if we want to see something we
+
+136
+00:05:06,520 --> 00:05:07,930
+can just remove our playhead over to it
+
+137
+00:05:07,930 --> 00:05:11,380
+a certain piece of video and then we'll
+
+138
+00:05:11,380 --> 00:05:14,199
+drag all five it to five yeah we'll drag
+
+139
+00:05:14,199 --> 00:05:17,260
+all five of these end to end to end to
+
+140
+00:05:17,260 --> 00:05:19,360
+end and then what that's going to do and
+
+141
+00:05:19,360 --> 00:05:20,650
+then we'll put this into the end of that
+
+142
+00:05:20,650 --> 00:05:22,150
+one and see since we have snap on it
+
+143
+00:05:22,150 --> 00:05:24,789
+goes perfectly it kind of snaps right to
+
+144
+00:05:24,789 --> 00:05:27,130
+where it's supposed to be and now let's
+
+145
+00:05:27,130 --> 00:05:30,240
+see what this looks like if we hit play
+
+146
+00:05:30,810 --> 00:05:33,639
+so it almost looks like a glitch it's
+
+147
+00:05:33,639 --> 00:05:35,050
+just like going over and over and over
+
+148
+00:05:35,050 --> 00:05:38,020
+again all right
+
+149
+00:05:38,020 --> 00:05:40,539
+that's kind of cool so we did copy where
+
+150
+00:05:40,539 --> 00:05:41,740
+if we just want to cut though what if we
+
+151
+00:05:41,740 --> 00:05:44,349
+wanted to cut maybe we want to start the
+
+152
+00:05:44,349 --> 00:05:47,590
+video with that with that portion so one
+
+153
+00:05:47,590 --> 00:05:50,530
+thing that is kind of cool if I want to
+
+154
+00:05:50,530 --> 00:05:52,479
+move maybe we want to move we want to
+
+155
+00:05:52,479 --> 00:05:55,360
+start the this end part of the video we
+
+156
+00:05:55,360 --> 00:05:56,740
+want that to be at the beginning and
+
+157
+00:05:56,740 --> 00:05:59,050
+want the beginning to be at the end but
+
+158
+00:05:59,050 --> 00:06:00,520
+instead of dragging and moving them like
+
+159
+00:06:00,520 --> 00:06:02,470
+that we will let's use our cut function
+
+160
+00:06:02,470 --> 00:06:04,750
+so we'll select we'll right-click on the
+
+161
+00:06:04,750 --> 00:06:06,580
+the image we want to cut and we go down
+
+162
+00:06:06,580 --> 00:06:09,310
+to we cut the clip what that's gonna do
+
+163
+00:06:09,310 --> 00:06:11,590
+it stays right there for now but if we
+
+164
+00:06:11,590 --> 00:06:13,960
+want to paste it we right-click I think
+
+165
+00:06:13,960 --> 00:06:15,550
+it'll go the same let's paste it down
+
+166
+00:06:15,550 --> 00:06:17,680
+here right here where this at the
+
+167
+00:06:17,680 --> 00:06:20,410
+playhead I think it'll do that paste so
+
+168
+00:06:20,410 --> 00:06:24,280
+now it paste it and what did it paste
+
+169
+00:06:24,280 --> 00:06:27,220
+oh I thought we have so we want to
+
+170
+00:06:27,220 --> 00:06:31,599
+right-click you know what did I cut it
+
+171
+00:06:31,599 --> 00:06:34,660
+clipped Oh clip
+
+172
+00:06:34,660 --> 00:06:36,100
+project bin so we can send it up to our
+
+173
+00:06:36,100 --> 00:06:38,350
+project bin too if we want to but I
+
+174
+00:06:38,350 --> 00:06:39,640
+don't think it cut it the way I wanted
+
+175
+00:06:39,640 --> 00:06:41,560
+it to but that's good to know too so if
+
+176
+00:06:41,560 --> 00:06:43,180
+we wanted to send let's say we want to
+
+177
+00:06:43,180 --> 00:06:46,030
+send just this portion of the bike I'm
+
+178
+00:06:46,030 --> 00:06:48,370
+changing my mind now instead of copying
+
+179
+00:06:48,370 --> 00:06:50,170
+this we want to just send it up into our
+
+180
+00:06:50,170 --> 00:06:52,960
+project bin we can go clip in project
+
+181
+00:06:52,960 --> 00:06:57,610
+bin and then it clips it right here so
+
+182
+00:06:57,610 --> 00:06:59,860
+in our project monitor it moves this
+
+183
+00:06:59,860 --> 00:07:02,620
+little blue there's this little portion
+
+184
+00:07:02,620 --> 00:07:04,840
+that's blue now if we drag and drop this
+
+185
+00:07:04,840 --> 00:07:07,600
+actual video in it'll be just that
+
+186
+00:07:07,600 --> 00:07:10,750
+portion of the video and I didn't really
+
+187
+00:07:10,750 --> 00:07:12,490
+get into that and I'll do that but if we
+
+188
+00:07:12,490 --> 00:07:14,290
+want to move this now whatever portion
+
+189
+00:07:14,290 --> 00:07:17,110
+we drag it'll be that much longer so if
+
+190
+00:07:17,110 --> 00:07:18,220
+you don't want to just drag the whole
+
+191
+00:07:18,220 --> 00:07:20,830
+file in you can click and drag just the
+
+192
+00:07:20,830 --> 00:07:23,760
+portion that you've clipped in and out
+
+193
+00:07:23,760 --> 00:07:25,450
+we're getting a little bit into the
+
+194
+00:07:25,450 --> 00:07:27,100
+weeds here like and I'm not
+
+195
+00:07:27,100 --> 00:07:28,780
+accomplishing exactly what I'm wanting
+
+196
+00:07:28,780 --> 00:07:32,500
+to show in this video just yet but let's
+
+197
+00:07:32,500 --> 00:07:34,510
+go ahead and add hopefully I haven't
+
+198
+00:07:34,510 --> 00:07:35,950
+confused you let's go ahead and add an
+
+199
+00:07:35,950 --> 00:07:39,490
+audio track to this so I'll bring in an
+
+200
+00:07:39,490 --> 00:07:41,080
+audio file we don't have any yet this is
+
+201
+00:07:41,080 --> 00:07:43,860
+the music we used in our last tutorial
+
+202
+00:07:43,860 --> 00:07:46,420
+so we'll collect click and drag it down
+
+203
+00:07:46,420 --> 00:07:49,270
+and put it right here and then we'll go
+
+204
+00:07:49,270 --> 00:07:52,620
+to the beginning of this and let play
+
+205
+00:07:52,620 --> 00:07:55,809
+[Music]
+
+206
+00:07:56,640 --> 00:07:59,650
+she is going really fast because that's
+
+207
+00:07:59,650 --> 00:08:01,360
+where zoomed in so far so we can zoom
+
+208
+00:08:01,360 --> 00:08:03,010
+out a little bit and kind of see
+
+209
+00:08:03,010 --> 00:08:04,630
+differently now our video clips might be
+
+210
+00:08:04,630 --> 00:08:06,310
+harder to click on but at least we can
+
+211
+00:08:06,310 --> 00:08:08,850
+see the whole extent of the audio drag
+
+212
+00:08:08,850 --> 00:08:12,070
+let's come here to the last the end and
+
+213
+00:08:12,070 --> 00:08:13,780
+let's cut our audio so we go to our
+
+214
+00:08:13,780 --> 00:08:15,790
+razor tool just go down here and
+
+215
+00:08:15,790 --> 00:08:17,920
+left-click now we have two separate
+
+216
+00:08:17,920 --> 00:08:19,660
+audio we'll go back to our selection we
+
+217
+00:08:19,660 --> 00:08:21,820
+have an audio track here an audio track
+
+218
+00:08:21,820 --> 00:08:24,430
+here we could move this over here it's
+
+219
+00:08:24,430 --> 00:08:26,410
+gonna sound bad but it's going to be two
+
+220
+00:08:26,410 --> 00:08:27,940
+different parts of audio playing over
+
+221
+00:08:27,940 --> 00:08:30,480
+top of each other
+
+222
+00:08:31,930 --> 00:08:34,130
+okay let's just keep it it actually kind
+
+223
+00:08:34,130 --> 00:08:36,320
+of goes with our glitchyness so let's
+
+224
+00:08:36,320 --> 00:08:37,789
+come over here to the end of the video
+
+225
+00:08:37,789 --> 00:08:40,700
+again hit the x key on the keyboard or
+
+226
+00:08:40,700 --> 00:08:42,890
+click on the razor tool and then left
+
+227
+00:08:42,890 --> 00:08:45,560
+click to cut hit the S key on the
+
+228
+00:08:45,560 --> 00:08:47,270
+keyboard to go back to selection mode
+
+229
+00:08:47,270 --> 00:08:49,580
+and then just delete this last part of
+
+230
+00:08:49,580 --> 00:08:52,340
+the audio now I can zoom in here and
+
+231
+00:08:52,340 --> 00:08:57,500
+we'll see perfect so this is our video
+
+232
+00:08:57,500 --> 00:08:59,090
+clip we see we're using three different
+
+233
+00:08:59,090 --> 00:09:01,400
+video tracks we don't really need to we
+
+234
+00:09:01,400 --> 00:09:03,710
+have seven total different video clips
+
+235
+00:09:03,710 --> 00:09:05,900
+that we could actually move around and
+
+236
+00:09:05,900 --> 00:09:08,360
+change let's say maybe we want to have a
+
+237
+00:09:08,360 --> 00:09:10,100
+little bit of black space in between
+
+238
+00:09:10,100 --> 00:09:11,780
+each of these we can do that we need to
+
+239
+00:09:11,780 --> 00:09:14,120
+separate this out we can actually drag
+
+240
+00:09:14,120 --> 00:09:16,250
+and put in a little bit of black space
+
+241
+00:09:16,250 --> 00:09:19,250
+between each one of these what that's
+
+242
+00:09:19,250 --> 00:09:22,160
+going to do is create this effect of a
+
+243
+00:09:22,160 --> 00:09:25,990
+little bit of black in between each one
+
+244
+00:09:27,790 --> 00:09:30,620
+so not really in effect and then if we
+
+245
+00:09:30,620 --> 00:09:32,450
+want we can drag this audio out and this
+
+246
+00:09:32,450 --> 00:09:33,830
+is one thing I really wanted to show we
+
+247
+00:09:33,830 --> 00:09:35,300
+can do this with up with audio clips and
+
+248
+00:09:35,300 --> 00:09:38,360
+video once it's been cut if we scroll to
+
+249
+00:09:38,360 --> 00:09:40,850
+the end we can actually resize this
+
+250
+00:09:40,850 --> 00:09:42,740
+audio clip now to go to the end of our
+
+251
+00:09:42,740 --> 00:09:45,710
+video project and it'll just grab the
+
+252
+00:09:45,710 --> 00:09:47,270
+next part of the audio you see we have
+
+253
+00:09:47,270 --> 00:09:50,200
+this like dip here in audio at the end
+
+254
+00:09:50,200 --> 00:09:53,120
+that's what it sounds like this last one
+
+255
+00:09:53,120 --> 00:09:55,580
+we can left-click and we can drag and
+
+256
+00:09:55,580 --> 00:09:57,260
+you see it's not actually moving the
+
+257
+00:09:57,260 --> 00:10:00,080
+audio it's just getting us more audio so
+
+258
+00:10:00,080 --> 00:10:02,090
+it's kind of cutting it down to here and
+
+259
+00:10:02,090 --> 00:10:05,630
+we can also extend it further again that
+
+260
+00:10:05,630 --> 00:10:08,120
+only works to the extent of the audio
+
+261
+00:10:08,120 --> 00:10:10,250
+file so we can't go we can't we couldn't
+
+262
+00:10:10,250 --> 00:10:12,410
+go further past to the end of the audio
+
+263
+00:10:12,410 --> 00:10:14,720
+file and we couldn't pull it from the
+
+264
+00:10:14,720 --> 00:10:16,250
+beginning further than the beginning of
+
+265
+00:10:16,250 --> 00:10:18,530
+the audio file if that makes sense but
+
+266
+00:10:18,530 --> 00:10:20,000
+the same thing works with a video too so
+
+267
+00:10:20,000 --> 00:10:23,000
+this ends right here if we look at where
+
+268
+00:10:23,000 --> 00:10:25,790
+this ends it has him going out but we
+
+269
+00:10:25,790 --> 00:10:28,010
+since we cut this video clip we could
+
+270
+00:10:28,010 --> 00:10:30,800
+left-click and drag and see what's past
+
+271
+00:10:30,800 --> 00:10:33,140
+that part of the video and see what
+
+272
+00:10:33,140 --> 00:10:35,150
+happens so he starts writing in that way
+
+273
+00:10:35,150 --> 00:10:37,820
+but we cut that so we could do it the
+
+274
+00:10:37,820 --> 00:10:39,740
+way we did we can grab the razor tool
+
+275
+00:10:39,740 --> 00:10:42,170
+and cut it again and delete this part of
+
+276
+00:10:42,170 --> 00:10:43,880
+the video or if I hit control
+
+277
+00:10:43,880 --> 00:10:46,210
+easy to undo that we can actually just
+
+278
+00:10:46,210 --> 00:10:49,190
+hover to the move our mouse to the end
+
+279
+00:10:49,190 --> 00:10:51,860
+and left-click and shrink that down a
+
+280
+00:10:51,860 --> 00:10:53,780
+little bit and it accomplishes the same
+
+281
+00:10:53,780 --> 00:10:59,800
+thing so that's pretty cool then also I
+
+282
+00:10:59,800 --> 00:11:01,700
+think that's all we're going to do I
+
+283
+00:11:01,700 --> 00:11:03,560
+said we're gonna add in this video is
+
+284
+00:11:03,560 --> 00:11:05,630
+getting too long so in the next video is
+
+285
+00:11:05,630 --> 00:11:07,790
+when we're going to be doing adding in
+
+286
+00:11:07,790 --> 00:11:10,370
+video and audio effects and I'm going to
+
+287
+00:11:10,370 --> 00:11:12,110
+keep all this video up so just join the
+
+288
+00:11:12,110 --> 00:11:14,150
+next tutorial we want to reset up at
+
+289
+00:11:14,150 --> 00:11:15,680
+anything we'll leave it exactly how it
+
+290
+00:11:15,680 --> 00:11:17,480
+is now and we'll just add in some video
+
+291
+00:11:17,480 --> 00:11:19,970
+effects so thanks for watching catch you
+
+292
+00:11:19,970 --> 00:11:22,510
+in the next video
+

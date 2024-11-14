@@ -1,0 +1,704 @@
+1
+00:00:02,840 --> 00:00:04,950
+welcome to another video editing
+
+2
+00:00:04,950 --> 00:00:06,360
+tutorial using the free software
+
+3
+00:00:06,360 --> 00:00:09,360
+kdenlive in this video we're going to be
+
+4
+00:00:09,360 --> 00:00:12,599
+creating a picture slideshow so we don't
+
+5
+00:00:12,599 --> 00:00:13,980
+have to just use kdenlive for video
+
+6
+00:00:13,980 --> 00:00:15,509
+editing we can also bring in pictures
+
+7
+00:00:15,509 --> 00:00:17,730
+and we can apply the same effects that
+
+8
+00:00:17,730 --> 00:00:19,050
+we've been learning about then different
+
+9
+00:00:19,050 --> 00:00:21,390
+options to those pictures we can add
+
+10
+00:00:21,390 --> 00:00:23,939
+music to be playing while the pictures
+
+11
+00:00:23,939 --> 00:00:25,830
+are being displayed so I'm just going to
+
+12
+00:00:25,830 --> 00:00:28,169
+go to a few different places on my
+
+13
+00:00:28,169 --> 00:00:30,240
+computer where I have some pictures I'll
+
+14
+00:00:30,240 --> 00:00:31,710
+just left-click and drag those into my
+
+15
+00:00:31,710 --> 00:00:34,710
+project bin over here and then we see we
+
+16
+00:00:34,710 --> 00:00:35,940
+can look at these different pictures and
+
+17
+00:00:35,940 --> 00:00:37,440
+see which ones we want to add maybe I
+
+18
+00:00:37,440 --> 00:00:39,150
+want to add this picture first
+
+19
+00:00:39,150 --> 00:00:41,130
+so I'll left-click and drag it down to
+
+20
+00:00:41,130 --> 00:00:43,830
+this video one track and then for the
+
+21
+00:00:43,830 --> 00:00:45,570
+next picture I'll do this one of the guy
+
+22
+00:00:45,570 --> 00:00:48,510
+falling and for the last picture I'll do
+
+23
+00:00:48,510 --> 00:00:50,070
+the one with the little boy so we drag
+
+24
+00:00:50,070 --> 00:00:52,650
+and put them all in here and now we have
+
+25
+00:00:52,650 --> 00:00:54,360
+these different pictures we can see with
+
+26
+00:00:54,360 --> 00:00:56,850
+your play by default these are gonna be
+
+27
+00:00:56,850 --> 00:00:59,190
+five seconds long each I'll just resize
+
+28
+00:00:59,190 --> 00:01:02,520
+the timeline here yeah so by default
+
+29
+00:01:02,520 --> 00:01:04,349
+they're each five seconds long and that
+
+30
+00:01:04,349 --> 00:01:05,730
+might be a little bit long for me like
+
+31
+00:01:05,730 --> 00:01:08,220
+if we click play we can see it shows the
+
+32
+00:01:08,220 --> 00:01:10,800
+picture for quite a while then it
+
+33
+00:01:10,800 --> 00:01:14,370
+switches right to the next picture but
+
+34
+00:01:14,370 --> 00:01:16,110
+we can resize them we can go down we can
+
+35
+00:01:16,110 --> 00:01:17,550
+actually just double click on the clip
+
+36
+00:01:17,550 --> 00:01:20,400
+and it says duration five five seconds
+
+37
+00:01:20,400 --> 00:01:22,800
+so we can change this and type in 4 or
+
+38
+00:01:22,800 --> 00:01:26,340
+even 3 and hit OK and it'll look length
+
+39
+00:01:26,340 --> 00:01:29,070
+lower the length of that to 3 so we can
+
+40
+00:01:29,070 --> 00:01:30,390
+go to each of these clips and do that if
+
+41
+00:01:30,390 --> 00:01:34,620
+we want go 3 enter double click give it
+
+42
+00:01:34,620 --> 00:01:37,380
+a three and then it enter or hit the
+
+43
+00:01:37,380 --> 00:01:39,540
+okay button and now there are three
+
+44
+00:01:39,540 --> 00:01:41,760
+seconds long each we can drag them so
+
+45
+00:01:41,760 --> 00:01:43,080
+they're close together otherwise we get
+
+46
+00:01:43,080 --> 00:01:45,240
+this black if we didn't drag it close to
+
+47
+00:01:45,240 --> 00:01:47,549
+each other we'd get a black gap in
+
+48
+00:01:47,549 --> 00:01:50,340
+between the pictures so we drag them so
+
+49
+00:01:50,340 --> 00:01:51,630
+that they just goes from one picture to
+
+50
+00:01:51,630 --> 00:01:53,700
+the next and then when we play it just
+
+51
+00:01:53,700 --> 00:01:56,640
+goes and transitions just cuts over to
+
+52
+00:01:56,640 --> 00:01:58,619
+the next picture another way that you
+
+53
+00:01:58,619 --> 00:02:01,020
+can change the length of how long it's
+
+54
+00:02:01,020 --> 00:02:03,000
+being displayed for is by hovering to
+
+55
+00:02:03,000 --> 00:02:04,260
+the end of the video clip or the
+
+56
+00:02:04,260 --> 00:02:06,869
+beginning of the picture clip of
+
+57
+00:02:06,869 --> 00:02:08,669
+whatever it is and then you can drag it
+
+58
+00:02:08,669 --> 00:02:10,740
+out and make it longer or
+
+59
+00:02:10,740 --> 00:02:15,510
+shorter so whatever one's selected is
+
+60
+00:02:15,510 --> 00:02:17,700
+who the ones will do so we'll make that
+
+61
+00:02:17,700 --> 00:02:20,010
+always a little bit shorter and that
+
+62
+00:02:20,010 --> 00:02:20,820
+looks pretty good
+
+63
+00:02:20,820 --> 00:02:22,980
+so now our total video project is like
+
+64
+00:02:22,980 --> 00:02:25,890
+what seven or eight seconds long or not
+
+65
+00:02:25,890 --> 00:02:27,720
+even about five seconds long so now
+
+66
+00:02:27,720 --> 00:02:29,010
+we'll play all these clips within a
+
+67
+00:02:29,010 --> 00:02:31,760
+period of five seconds just very quickly
+
+68
+00:02:31,760 --> 00:02:33,420
+playing through a couple different
+
+69
+00:02:33,420 --> 00:02:37,410
+pictures yeah that's that's the basic
+
+70
+00:02:37,410 --> 00:02:39,540
+that's basically it we could edit this
+
+71
+00:02:39,540 --> 00:02:41,310
+picture we see it we have black bars on
+
+72
+00:02:41,310 --> 00:02:42,900
+the right and left side of this picture
+
+73
+00:02:42,900 --> 00:02:45,060
+so we could edit this picture in like
+
+74
+00:02:45,060 --> 00:02:47,280
+Photoshop or to make sure that it
+
+75
+00:02:47,280 --> 00:02:50,580
+fits a 1920 by 1080 make sure it fits
+
+76
+00:02:50,580 --> 00:02:52,650
+like a widescreen view same with these
+
+77
+00:02:52,650 --> 00:02:54,210
+ones these ones are actually even have a
+
+78
+00:02:54,210 --> 00:02:55,470
+little bit of bars on the side of them
+
+79
+00:02:55,470 --> 00:02:57,870
+because it's not exactly a full
+
+80
+00:02:57,870 --> 00:03:01,950
+widescreen picture but we can also edit
+
+81
+00:03:01,950 --> 00:03:04,620
+it here in kdenlive if we'd rather do
+
+82
+00:03:04,620 --> 00:03:06,330
+that so I'll show you like this one for
+
+83
+00:03:06,330 --> 00:03:09,750
+example we just go to crop and transform
+
+84
+00:03:09,750 --> 00:03:12,390
+and then we do this edge crop so I'll
+
+85
+00:03:12,390 --> 00:03:14,160
+left click and drag it over top of the
+
+86
+00:03:14,160 --> 00:03:16,380
+picture and if we get these options over
+
+87
+00:03:16,380 --> 00:03:18,630
+here in properties come up if these
+
+88
+00:03:18,630 --> 00:03:20,100
+don't come up for you sometimes they're
+
+89
+00:03:20,100 --> 00:03:22,080
+they're hiding within here it's a
+
+90
+00:03:22,080 --> 00:03:23,640
+separate tab so we've got effects
+
+91
+00:03:23,640 --> 00:03:26,670
+transitions and properties but I have
+
+92
+00:03:26,670 --> 00:03:28,380
+mine configured so that it's over here
+
+93
+00:03:28,380 --> 00:03:30,690
+and again if you couldn't find the
+
+94
+00:03:30,690 --> 00:03:32,220
+effects that's where they were to you
+
+95
+00:03:32,220 --> 00:03:33,480
+were about maybe looking at transitions
+
+96
+00:03:33,480 --> 00:03:35,400
+and not effects so I always look there's
+
+97
+00:03:35,400 --> 00:03:37,170
+tabs under all these different things
+
+98
+00:03:37,170 --> 00:03:39,510
+there's always tabs that can confuse you
+
+99
+00:03:39,510 --> 00:03:40,800
+if you know if you're not on the right
+
+100
+00:03:40,800 --> 00:03:43,110
+tab anyway so right now we have this
+
+101
+00:03:43,110 --> 00:03:45,180
+clip selected properties we can just
+
+102
+00:03:45,180 --> 00:03:47,160
+crop the sides so we want to crop the
+
+103
+00:03:47,160 --> 00:03:48,690
+the right-hand side and the left-hand
+
+104
+00:03:48,690 --> 00:03:51,240
+side so we should go over to right and
+
+105
+00:03:51,240 --> 00:03:54,270
+we crop in a little bit and what that's
+
+106
+00:03:54,270 --> 00:03:56,970
+doing is just kind of cutting in oh I'm
+
+107
+00:03:56,970 --> 00:03:59,160
+just I'm kidding actually we didn't want
+
+108
+00:03:59,160 --> 00:04:00,810
+to do that because to get rid of this
+
+109
+00:04:00,810 --> 00:04:02,370
+black box we actually need to crop the
+
+110
+00:04:02,370 --> 00:04:04,650
+bottom and top so and I mean I don't
+
+111
+00:04:04,650 --> 00:04:05,700
+want to crop the top any because I'll
+
+112
+00:04:05,700 --> 00:04:06,720
+cut it into the face
+
+113
+00:04:06,720 --> 00:04:09,090
+so I'm going to crop the bottom so by
+
+114
+00:04:09,090 --> 00:04:11,910
+cutting out the bottom of the picture it
+
+115
+00:04:11,910 --> 00:04:13,430
+actually gets rid of these black lines
+
+116
+00:04:13,430 --> 00:04:16,170
+because it's making our picture more of
+
+117
+00:04:16,170 --> 00:04:18,209
+the shape we want it to be does that
+
+118
+00:04:18,209 --> 00:04:20,579
+make sense so we cut out a bunch of the
+
+119
+00:04:20,579 --> 00:04:22,530
+bottom and then it just kind of made
+
+120
+00:04:22,530 --> 00:04:24,340
+this picture fill our full screen
+
+121
+00:04:24,340 --> 00:04:26,320
+a better example might be this one of
+
+122
+00:04:26,320 --> 00:04:27,970
+the little boy so let's come over here
+
+123
+00:04:27,970 --> 00:04:31,840
+and this one I'll do a edge crop we drag
+
+124
+00:04:31,840 --> 00:04:35,380
+this over and now this one we want we
+
+125
+00:04:35,380 --> 00:04:37,330
+this one we do want to crop to the left
+
+126
+00:04:37,330 --> 00:04:39,790
+and the right don't we know this is the
+
+127
+00:04:39,790 --> 00:04:41,169
+same thing we want to crop the top and
+
+128
+00:04:41,169 --> 00:04:42,639
+the bottom because we want to cut off
+
+129
+00:04:42,639 --> 00:04:45,040
+this much of the top and cut off of this
+
+130
+00:04:45,040 --> 00:04:46,870
+much of the bottom so that all we're
+
+131
+00:04:46,870 --> 00:04:49,600
+viewing is just in on the face so if we
+
+132
+00:04:49,600 --> 00:04:52,750
+start cutting it right here that's
+
+133
+00:04:52,750 --> 00:04:54,729
+pretty good that's about as far in and
+
+134
+00:04:54,729 --> 00:04:56,229
+we want to be about that far away from
+
+135
+00:04:56,229 --> 00:04:58,510
+the chin and then we go to the top and
+
+136
+00:04:58,510 --> 00:05:01,030
+drop in a little bit more to and then we
+
+137
+00:05:01,030 --> 00:05:03,550
+get a nice shot just like this that's
+
+138
+00:05:03,550 --> 00:05:05,680
+pretty cool huh this is easier to deal
+
+139
+00:05:05,680 --> 00:05:07,720
+again and like or Photoshop but you
+
+140
+00:05:07,720 --> 00:05:09,550
+can I just want to show that you can do
+
+141
+00:05:09,550 --> 00:05:13,330
+it using this yeah this edge crop so now
+
+142
+00:05:13,330 --> 00:05:15,760
+we see we have a nice picture we didn't
+
+143
+00:05:15,760 --> 00:05:17,020
+do the one of the following so we still
+
+144
+00:05:17,020 --> 00:05:18,280
+have the black bars on the side but
+
+145
+00:05:18,280 --> 00:05:20,740
+that's okay and then we have a nice this
+
+146
+00:05:20,740 --> 00:05:21,940
+one looks a lot better than it did
+
+147
+00:05:21,940 --> 00:05:23,470
+before see before if we turn off this
+
+148
+00:05:23,470 --> 00:05:25,510
+effect it was so far out and you
+
+149
+00:05:25,510 --> 00:05:27,100
+couldn't really see now we can see a lot
+
+150
+00:05:27,100 --> 00:05:29,110
+more detail and just fills the whole
+
+151
+00:05:29,110 --> 00:05:33,700
+screen which looks a lot better yeah
+
+152
+00:05:33,700 --> 00:05:35,110
+that's all I want to do in this video oh
+
+153
+00:05:35,110 --> 00:05:37,150
+let's add music real quick so just for
+
+154
+00:05:37,150 --> 00:05:39,880
+fun we can go to our downloads I should
+
+155
+00:05:39,880 --> 00:05:41,200
+get some more music I still have just
+
+156
+00:05:41,200 --> 00:05:43,510
+this one kind of video this clip so
+
+157
+00:05:43,510 --> 00:05:46,240
+we'll drag it down to our audio and then
+
+158
+00:05:46,240 --> 00:05:47,620
+we can do the same thing with the audio
+
+159
+00:05:47,620 --> 00:05:49,060
+to resize it hover to the end just
+
+160
+00:05:49,060 --> 00:05:51,940
+left-click and drag all the way now our
+
+161
+00:05:51,940 --> 00:05:54,160
+audio is just the same length as our
+
+162
+00:05:54,160 --> 00:05:56,590
+video project which is a picture
+
+163
+00:05:56,590 --> 00:05:58,900
+slideshow so we'll play this see it
+
+164
+00:05:58,900 --> 00:06:07,570
+looks like cool so that's it in the next
+
+165
+00:06:07,570 --> 00:06:09,099
+video I'm gonna keep this all up in the
+
+166
+00:06:09,099 --> 00:06:10,960
+next video we'll be looking at using
+
+167
+00:06:10,960 --> 00:06:13,599
+different transitions to create like a
+
+168
+00:06:13,599 --> 00:06:15,400
+transition effect between the pictures
+
+169
+00:06:15,400 --> 00:06:17,050
+and sit adjust I could cut over like
+
+170
+00:06:17,050 --> 00:06:20,200
+this will transition hopefully you found
+
+171
+00:06:20,200 --> 00:06:21,669
+this video informative go ahead and like
+
+172
+00:06:21,669 --> 00:06:24,430
+and subscribe if you had and yeah leave
+
+173
+00:06:24,430 --> 00:06:26,229
+comments below tell me what kind of
+
+174
+00:06:26,229 --> 00:06:27,400
+videos you'd like me to make in the
+
+175
+00:06:27,400 --> 00:06:30,190
+future super curious to know I'll catch
+
+176
+00:06:30,190 --> 00:06:32,760
+on the next video
+

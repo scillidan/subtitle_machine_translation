@@ -1,0 +1,632 @@
+1
+00:00:02,600 --> 00:00:04,860
+welcome back to another audacity
+
+2
+00:00:04,860 --> 00:00:06,779
+tutorial in this video I'm just going to
+
+3
+00:00:06,779 --> 00:00:08,579
+go to the file open
+
+4
+00:00:08,579 --> 00:00:10,650
+we're gonna bring in some audio I'll do
+
+5
+00:00:10,650 --> 00:00:12,659
+this more jazz guitar it's a wav file
+
+6
+00:00:12,659 --> 00:00:14,579
+and I'm going to show you how to use cut
+
+7
+00:00:14,579 --> 00:00:17,310
+copy and paste and move sections of your
+
+8
+00:00:17,310 --> 00:00:19,439
+audio around so let's just play this and
+
+9
+00:00:19,439 --> 00:00:24,480
+listen to see what we have here so just
+
+10
+00:00:24,480 --> 00:00:26,970
+an audio recording of some acoustic
+
+11
+00:00:26,970 --> 00:00:30,539
+guitar so let's say I really only want I
+
+12
+00:00:30,539 --> 00:00:32,280
+really like this part if I left click
+
+13
+00:00:32,280 --> 00:00:33,990
+here in stand play from here I really
+
+14
+00:00:33,990 --> 00:00:37,560
+like what it sounds like here but I
+
+15
+00:00:37,560 --> 00:00:41,580
+didn't I don't want this intro part so
+
+16
+00:00:41,580 --> 00:00:42,480
+we know we've learned in the past
+
+17
+00:00:42,480 --> 00:00:44,820
+tutorial we can left-click and keep our
+
+18
+00:00:44,820 --> 00:00:49,230
+left-click down and select by moving so
+
+19
+00:00:49,230 --> 00:00:50,550
+we can select this part and just hit the
+
+20
+00:00:50,550 --> 00:00:51,930
+Delete key if you want to get rid of it
+
+21
+00:00:51,930 --> 00:00:54,570
+but maybe we have some timing issues
+
+22
+00:00:54,570 --> 00:00:56,520
+it's like part of a video and we want to
+
+23
+00:00:56,520 --> 00:00:57,840
+keep the timing intact
+
+24
+00:00:57,840 --> 00:01:00,480
+I can go edit undo we can actually just
+
+25
+00:01:00,480 --> 00:01:02,460
+create silence for this part we can
+
+26
+00:01:02,460 --> 00:01:04,559
+select the whole thing and if we hover
+
+27
+00:01:04,559 --> 00:01:07,350
+over here this icon says silence audio
+
+28
+00:01:07,350 --> 00:01:09,840
+selection if we hit this it just creates
+
+29
+00:01:09,840 --> 00:01:11,100
+silence there but it doesn't actually
+
+30
+00:01:11,100 --> 00:01:13,890
+delete it so if we want to remove a
+
+31
+00:01:13,890 --> 00:01:15,540
+portion of the audio without actually
+
+32
+00:01:15,540 --> 00:01:18,120
+cutting out that section just use this
+
+33
+00:01:18,120 --> 00:01:20,490
+silence tool so we can silence any part
+
+34
+00:01:20,490 --> 00:01:21,870
+of this audio we want to and it creates
+
+35
+00:01:21,870 --> 00:01:23,850
+a silent lion and then when we play that
+
+36
+00:01:23,850 --> 00:01:28,170
+portion it'll just be silent until it
+
+37
+00:01:28,170 --> 00:01:31,229
+gets there so that's how you can keep
+
+38
+00:01:31,229 --> 00:01:33,360
+timing intact to get that to come back
+
+39
+00:01:33,360 --> 00:01:37,500
+we can go edit undo edit undo edit undo
+
+40
+00:01:37,500 --> 00:01:39,780
+you can also have the ctrl Z on the
+
+41
+00:01:39,780 --> 00:01:45,350
+keyboard to undo we could let's say we
+
+42
+00:01:45,350 --> 00:01:47,580
+like this portion we just don't want it
+
+43
+00:01:47,580 --> 00:01:49,409
+to be at the beginning we want to be at
+
+44
+00:01:49,409 --> 00:01:51,840
+the end we can select it like it was now
+
+45
+00:01:51,840 --> 00:01:54,180
+so select all this and then we can go to
+
+46
+00:01:54,180 --> 00:01:56,549
+kept here the cut icon is right up here
+
+47
+00:01:56,549 --> 00:01:58,440
+to a pair of scissors we can click cut
+
+48
+00:01:58,440 --> 00:02:00,750
+and now it goes away so it's kind of
+
+49
+00:02:00,750 --> 00:02:02,850
+like delete except that it saves that
+
+50
+00:02:02,850 --> 00:02:05,460
+section in our clipboard and we can then
+
+51
+00:02:05,460 --> 00:02:07,920
+paste it so if we want to paste it at
+
+52
+00:02:07,920 --> 00:02:09,449
+the wherever we want to paste it we can
+
+53
+00:02:09,449 --> 00:02:11,219
+just click it's a font to paste at the
+
+54
+00:02:11,219 --> 00:02:13,079
+end we left-click get our playhead there
+
+55
+00:02:13,079 --> 00:02:13,620
+or this
+
+56
+00:02:13,620 --> 00:02:16,560
+black wine and then we just go to paste
+
+57
+00:02:16,560 --> 00:02:18,780
+which is this icon of the clipboard so
+
+58
+00:02:18,780 --> 00:02:19,620
+click paste
+
+59
+00:02:19,620 --> 00:02:22,500
+now that section appears here so now if
+
+60
+00:02:22,500 --> 00:02:26,280
+we play at the beginning it just starts
+
+61
+00:02:26,280 --> 00:02:27,629
+like this and then it plays this end
+
+62
+00:02:27,629 --> 00:02:34,200
+part at the end we can also play it if
+
+63
+00:02:34,200 --> 00:02:35,430
+we wanted to play at the beginning and
+
+64
+00:02:35,430 --> 00:02:38,310
+at the end we can select it and we can
+
+65
+00:02:38,310 --> 00:02:40,680
+use the copy so this icon here like two
+
+66
+00:02:40,680 --> 00:02:42,690
+pages looks like kind of like we click
+
+67
+00:02:42,690 --> 00:02:44,760
+that and that copies and then we can go
+
+68
+00:02:44,760 --> 00:02:46,859
+back to the first and hit paste again
+
+69
+00:02:46,859 --> 00:02:48,959
+and what paste does you'll notice it
+
+70
+00:02:48,959 --> 00:02:50,849
+actually just sort of like makes a cut
+
+71
+00:02:50,849 --> 00:02:53,040
+and then inserts it in there
+
+72
+00:02:53,040 --> 00:02:55,200
+it's not going to paste overtop of any
+
+73
+00:02:55,200 --> 00:02:58,680
+of the audio ahead of it unless we
+
+74
+00:02:58,680 --> 00:03:00,569
+wanted it to if we want to replace let's
+
+75
+00:03:00,569 --> 00:03:02,159
+say we want to replace this section of
+
+76
+00:03:02,159 --> 00:03:06,810
+audio with this clip we just select that
+
+77
+00:03:06,810 --> 00:03:11,430
+portion that we want to replace and then
+
+78
+00:03:11,430 --> 00:03:15,329
+we well I do so I just want to show that
+
+79
+00:03:15,329 --> 00:03:16,349
+we still have this in our clipboard
+
+80
+00:03:16,349 --> 00:03:18,359
+because when we copy we can paste
+
+81
+00:03:18,359 --> 00:03:19,919
+multiple times let's copy it again and
+
+82
+00:03:19,919 --> 00:03:21,299
+let you so we know that we have it in
+
+83
+00:03:21,299 --> 00:03:22,680
+our clipboard and now we can select this
+
+84
+00:03:22,680 --> 00:03:25,290
+and go paste and it will replace this
+
+85
+00:03:25,290 --> 00:03:29,340
+portion oops I hit copy instead ctrl C
+
+86
+00:03:29,340 --> 00:03:31,139
+also does that and then we come over
+
+87
+00:03:31,139 --> 00:03:33,000
+here we can hit control V or just the
+
+88
+00:03:33,000 --> 00:03:36,090
+paste icon and that will change what was
+
+89
+00:03:36,090 --> 00:03:37,829
+there to this sound here and now it
+
+90
+00:03:37,829 --> 00:03:40,310
+sounds like this
+
+91
+00:03:41,769 --> 00:03:44,480
+if we want this to just repeat over and
+
+92
+00:03:44,480 --> 00:03:46,969
+over again we can select this we go to
+
+93
+00:03:46,969 --> 00:03:49,670
+copy or control C on the keyboard and
+
+94
+00:03:49,670 --> 00:03:53,030
+then we can just click right before it
+
+95
+00:03:53,030 --> 00:03:56,269
+can go ctrl V to paste click ctrl V
+
+96
+00:03:56,269 --> 00:03:58,670
+click ctrl V now we're going to play
+
+97
+00:03:58,670 --> 00:04:08,120
+this section four times in a row so go
+
+98
+00:04:08,120 --> 00:04:09,049
+ahead and play with some of those I
+
+99
+00:04:09,049 --> 00:04:10,159
+think you're kind of getting the idea I
+
+100
+00:04:10,159 --> 00:04:13,639
+hope so we can select and we can cut we
+
+101
+00:04:13,639 --> 00:04:15,880
+can select something and we can copy it
+
+102
+00:04:15,880 --> 00:04:18,470
+at any point if we just click we can
+
+103
+00:04:18,470 --> 00:04:23,389
+paste and if we select anything within
+
+104
+00:04:23,389 --> 00:04:25,160
+our selection when we go to paste
+
+105
+00:04:25,160 --> 00:04:29,000
+we'll get deleted basically and then the
+
+106
+00:04:29,000 --> 00:04:31,130
+part that we want to paste will paste
+
+107
+00:04:31,130 --> 00:04:33,710
+overtop of all this so now that's gone
+
+108
+00:04:33,710 --> 00:04:36,650
+and this is pasted here instead so play
+
+109
+00:04:36,650 --> 00:04:40,460
+with that one more thing I want to show
+
+110
+00:04:40,460 --> 00:04:41,930
+you if we just want to keep a certain
+
+111
+00:04:41,930 --> 00:04:43,669
+part of the song if we only wanted to
+
+112
+00:04:43,669 --> 00:04:45,380
+keep like this section right here this
+
+113
+00:04:45,380 --> 00:04:48,440
+short little piece we just want that
+
+114
+00:04:48,440 --> 00:04:50,720
+sound we want everything else to be gone
+
+115
+00:04:50,720 --> 00:04:52,550
+there's an icon right here we can click
+
+116
+00:04:52,550 --> 00:04:54,830
+on i'm just called trim audio outside of
+
+117
+00:04:54,830 --> 00:04:57,229
+selection if we click this everything
+
+118
+00:04:57,229 --> 00:04:58,789
+after it goes away everything before
+
+119
+00:04:58,789 --> 00:05:03,680
+goes away and we just have this the only
+
+120
+00:05:03,680 --> 00:05:06,610
+issue was doing this is it maintains the
+
+121
+00:05:06,610 --> 00:05:09,050
+that portion of the song that it's apps
+
+122
+00:05:09,050 --> 00:05:11,150
+or the timing so this is being played at
+
+123
+00:05:11,150 --> 00:05:13,490
+about eleven and a half seconds in so
+
+124
+00:05:13,490 --> 00:05:14,840
+it'll be a bunch of silence if we go
+
+125
+00:05:14,840 --> 00:05:16,280
+back to the beginning of the composition
+
+126
+00:05:16,280 --> 00:05:18,349
+hit play we should have all the silence
+
+127
+00:05:18,349 --> 00:05:22,400
+forever until it gets to over here so to
+
+128
+00:05:22,400 --> 00:05:24,260
+change that we could actually use our
+
+129
+00:05:24,260 --> 00:05:26,300
+time shift tools like we've learned and
+
+130
+00:05:26,300 --> 00:05:27,680
+we can come over here while time shift
+
+131
+00:05:27,680 --> 00:05:28,430
+is selected
+
+132
+00:05:28,430 --> 00:05:31,070
+left click on it and move it back to the
+
+133
+00:05:31,070 --> 00:05:33,169
+beginning where we want it to be and now
+
+134
+00:05:33,169 --> 00:05:34,340
+when we go to the beginning of the audio
+
+135
+00:05:34,340 --> 00:05:37,550
+and play go play properly otherwise if
+
+136
+00:05:37,550 --> 00:05:38,930
+it was over here it'd be fine
+
+137
+00:05:38,930 --> 00:05:41,240
+but when we go to file and export and
+
+138
+00:05:41,240 --> 00:05:44,090
+save it the the listener or wherever we
+
+139
+00:05:44,090 --> 00:05:45,500
+use this it'll have a bunch of empty
+
+140
+00:05:45,500 --> 00:05:47,210
+space at the beginning which is not
+
+141
+00:05:47,210 --> 00:05:51,020
+usually ideal for audio I think we're
+
+142
+00:05:51,020 --> 00:05:52,400
+gonna end this tutorial here go ahead
+
+143
+00:05:52,400 --> 00:05:54,590
+and play with cut copy and paste just
+
+144
+00:05:54,590 --> 00:05:55,520
+know that you can also do
+
+145
+00:05:55,520 --> 00:05:57,169
+under the Edit section you can always
+
+146
+00:05:57,169 --> 00:05:59,479
+cut there so if we select I'm sure your
+
+147
+00:05:59,479 --> 00:06:01,009
+selection tool is selected we can go
+
+148
+00:06:01,009 --> 00:06:05,240
+edit cut and then we can go edit paste
+
+149
+00:06:05,240 --> 00:06:07,039
+so there's three ways to do it really
+
+150
+00:06:07,039 --> 00:06:09,919
+the icons here using the edit menu then
+
+151
+00:06:09,919 --> 00:06:13,780
+also the shortcut keys control X control
+
+152
+00:06:13,780 --> 00:06:19,729
+V to paste and ctrl C to copy I'm just
+
+153
+00:06:19,729 --> 00:06:21,470
+hitting ctrl V over and over again to
+
+154
+00:06:21,470 --> 00:06:22,900
+paste all these different sections I
+
+155
+00:06:22,900 --> 00:06:24,590
+hope you found this video informative
+
+156
+00:06:24,590 --> 00:06:26,840
+please like comment subscribe if you
+
+157
+00:06:26,840 --> 00:06:28,699
+have and I hope to see you on the next
+
+158
+00:06:28,699 --> 00:06:30,970
+video
+

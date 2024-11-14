@@ -1,0 +1,1032 @@
+1
+00:00:00,280 --> 00:00:01,680
+next we'll take a look at some of the
+
+2
+00:00:01,680 --> 00:00:04,720
+basics of navigating the user interface
+
+3
+00:00:04,720 --> 00:00:06,359
+in order to ensure the canvas is
+
+4
+00:00:06,359 --> 00:00:08,480
+centered and visible on the screen click
+
+5
+00:00:08,480 --> 00:00:10,360
+on the percentage menu in the overview
+
+6
+00:00:10,360 --> 00:00:12,880
+panel and choose fit view should the
+
+7
+00:00:12,880 --> 00:00:15,000
+canvas become angled there's a button
+
+8
+00:00:15,000 --> 00:00:17,760
+here to reset the rotation as well right
+
+9
+00:00:17,760 --> 00:00:20,800
+click and choose reset using a pen or a
+
+10
+00:00:20,800 --> 00:00:22,720
+mouse you can hover over many of the
+
+11
+00:00:22,720 --> 00:00:24,920
+buttons in cre and see a tool tip that
+
+12
+00:00:24,920 --> 00:00:27,439
+indicates what each feature is you'll
+
+13
+00:00:27,439 --> 00:00:29,359
+notice that once I click on a button or
+
+14
+00:00:29,359 --> 00:00:32,238
+menu it is highlighted in blue this is
+
+15
+00:00:32,238 --> 00:00:34,600
+how you can tell if a tool brush feature
+
+16
+00:00:34,600 --> 00:00:37,520
+or setting is active or not now let's
+
+17
+00:00:37,520 --> 00:00:39,800
+try making some marks on the canvas with
+
+18
+00:00:39,800 --> 00:00:42,120
+brushes the tool box has all of the
+
+19
+00:00:42,120 --> 00:00:44,200
+tools that you'll be using here in Crea
+
+20
+00:00:44,200 --> 00:00:46,360
+and each tool can perform a variety of
+
+21
+00:00:46,360 --> 00:00:48,640
+functions for example we can select the
+
+22
+00:00:48,640 --> 00:00:50,760
+freehand brush tool which tells Crea
+
+23
+00:00:50,760 --> 00:00:53,039
+that we are ready to paint if the brush
+
+24
+00:00:53,039 --> 00:00:55,039
+tool is not selected we will not be able
+
+25
+00:00:55,039 --> 00:00:57,719
+to paint on our canvas next let's make
+
+26
+00:00:57,719 --> 00:00:59,600
+sure we have a visible color selected
+
+27
+00:00:59,600 --> 00:01:01,680
+for paint painting it's hard to see what
+
+28
+00:01:01,680 --> 00:01:03,480
+you're doing if you're using white paint
+
+29
+00:01:03,480 --> 00:01:05,760
+on a white canvas so let's choose dark
+
+30
+00:01:05,760 --> 00:01:08,280
+blue for now this way we can easily see
+
+31
+00:01:08,280 --> 00:01:10,640
+The Strokes we're making as we paint to
+
+32
+00:01:10,640 --> 00:01:13,040
+choose a color click inside a section of
+
+33
+00:01:13,040 --> 00:01:15,439
+the circular artistic color selector to
+
+34
+00:01:15,439 --> 00:01:16,960
+select a hue and
+
+35
+00:01:16,960 --> 00:01:19,240
+saturation next choose the brightness
+
+36
+00:01:19,240 --> 00:01:21,680
+you want from the strip on the left if
+
+37
+00:01:21,680 --> 00:01:23,159
+you prefer a more standard way of
+
+38
+00:01:23,159 --> 00:01:24,880
+choosing color you can toggle to the
+
+39
+00:01:24,880 --> 00:01:27,159
+wide gamut color selector or choose from
+
+40
+00:01:27,159 --> 00:01:29,520
+a palette of swatches we're going to go
+
+41
+00:01:29,520 --> 00:01:31,400
+more in depth into the color selection
+
+42
+00:01:31,400 --> 00:01:33,520
+options later you may have already
+
+43
+00:01:33,520 --> 00:01:35,600
+selected a brush so to make sure we're
+
+44
+00:01:35,600 --> 00:01:37,560
+all working with the same brush let's go
+
+45
+00:01:37,560 --> 00:01:39,360
+to the brush presets on the left and
+
+46
+00:01:39,360 --> 00:01:41,320
+choose the paint category to filter out
+
+47
+00:01:41,320 --> 00:01:44,240
+only those brushes I'll choose the basic
+
+48
+00:01:44,240 --> 00:01:47,479
+five size opacity brush and if I paint a
+
+49
+00:01:47,479 --> 00:01:49,920
+test stroke using firm pressure I get a
+
+50
+00:01:49,920 --> 00:01:52,240
+fairly simple stroke shape with paint
+
+51
+00:01:52,240 --> 00:01:54,640
+that is flat and opaque if you're using
+
+52
+00:01:54,640 --> 00:01:56,560
+a drawing tablet you can control the
+
+53
+00:01:56,560 --> 00:01:58,560
+thickness opacity and other properties
+
+54
+00:01:58,560 --> 00:02:00,320
+of your brushes by adjus adjusting the
+
+55
+00:02:00,320 --> 00:02:02,920
+amount of pressure you apply for example
+
+56
+00:02:02,920 --> 00:02:04,840
+light pressure will create thinner more
+
+57
+00:02:04,840 --> 00:02:07,119
+transparent lines while heavier pressure
+
+58
+00:02:07,119 --> 00:02:09,840
+will result in thicker more opaque lines
+
+59
+00:02:09,840 --> 00:02:11,680
+it's worth noting that a mouse doesn't
+
+60
+00:02:11,680 --> 00:02:13,840
+have this capability and can't replicate
+
+61
+00:02:13,840 --> 00:02:16,360
+this effect now that we've made a mess
+
+62
+00:02:16,360 --> 00:02:18,519
+on our canvas let's learn how to quickly
+
+63
+00:02:18,519 --> 00:02:21,040
+clear everything off of course you can
+
+64
+00:02:21,040 --> 00:02:23,120
+use your eraser but there's a faster way
+
+65
+00:02:23,120 --> 00:02:25,760
+to do it simply press delete to clear
+
+66
+00:02:25,760 --> 00:02:27,800
+the contents of the currently selected
+
+67
+00:02:27,800 --> 00:02:29,800
+layer now that we are able to paint
+
+68
+00:02:29,800 --> 00:02:31,920
+paint on our canvas let's go more in
+
+69
+00:02:31,920 --> 00:02:34,400
+depth into the navigation tools we'll
+
+70
+00:02:34,400 --> 00:02:36,440
+start with panting the canvas or moving
+
+71
+00:02:36,440 --> 00:02:38,760
+the canvas around your workspace you can
+
+72
+00:02:38,760 --> 00:02:41,200
+do that in a number of different ways
+
+73
+00:02:41,200 --> 00:02:43,480
+the first is to use the overview panel
+
+74
+00:02:43,480 --> 00:02:45,840
+you may need to expand it vertically
+
+75
+00:02:45,840 --> 00:02:47,440
+when you click and hold with your mouse
+
+76
+00:02:47,440 --> 00:02:49,480
+or tap and hold with your pen on the
+
+77
+00:02:49,480 --> 00:02:51,879
+thumbnail of your canvas you can drag to
+
+78
+00:02:51,879 --> 00:02:54,480
+reposition it another way to pan is to
+
+79
+00:02:54,480 --> 00:02:56,920
+hold down the space bar on a keyboard
+
+80
+00:02:56,920 --> 00:02:58,680
+that will toggle your cursor to the pan
+
+81
+00:02:58,680 --> 00:03:00,280
+mode allowing you to move moove the
+
+82
+00:03:00,280 --> 00:03:03,000
+canvas releasing space bar returns you
+
+83
+00:03:03,000 --> 00:03:05,640
+to whatever tool was previously selected
+
+84
+00:03:05,640 --> 00:03:07,560
+if you're using a touch capable device
+
+85
+00:03:07,560 --> 00:03:09,599
+you can also press down with two fingers
+
+86
+00:03:09,599 --> 00:03:12,200
+and drag your canvas to pan it around
+
+87
+00:03:12,200 --> 00:03:14,159
+try to avoid twisting or rotating your
+
+88
+00:03:14,159 --> 00:03:16,120
+fingers because it will rotate your
+
+89
+00:03:16,120 --> 00:03:18,680
+canvas if that happens and your canvas
+
+90
+00:03:18,680 --> 00:03:20,640
+is a skew you can right click in the
+
+91
+00:03:20,640 --> 00:03:22,599
+overview panel to return the canvas to
+
+92
+00:03:22,599 --> 00:03:24,879
+its upright position there are also
+
+93
+00:03:24,879 --> 00:03:27,159
+Options under settings configure Crea
+
+94
+00:03:27,159 --> 00:03:29,400
+canvas input settings to customize touch
+
+95
+00:03:29,400 --> 00:03:31,120
+Rec ignition if you don't want it to
+
+96
+00:03:31,120 --> 00:03:33,400
+affect the rotation of the canvas
+
+97
+00:03:33,400 --> 00:03:35,599
+multi-touch can be temporarily disabled
+
+98
+00:03:35,599 --> 00:03:37,599
+using a switch or a button on your
+
+99
+00:03:37,599 --> 00:03:39,720
+tablet so if it's not working be sure to
+
+100
+00:03:39,720 --> 00:03:41,920
+check that next let's take a look at
+
+101
+00:03:41,920 --> 00:03:44,200
+zooming in and out of the canvas we can
+
+102
+00:03:44,200 --> 00:03:46,640
+do that in a number of different ways
+
+103
+00:03:46,640 --> 00:03:48,319
+first I can do it with the menu and
+
+104
+00:03:48,319 --> 00:03:51,000
+slider in the overview panel another way
+
+105
+00:03:51,000 --> 00:03:53,040
+to do it is to hold Control Plus space
+
+106
+00:03:53,040 --> 00:03:54,959
+bar on your keyboard and click or tap
+
+107
+00:03:54,959 --> 00:03:57,200
+and drag left or right or up and down on
+
+108
+00:03:57,200 --> 00:03:59,799
+the canvas this will let you focus on on
+
+109
+00:03:59,799 --> 00:04:02,400
+a Target area this method utilizes
+
+110
+00:04:02,400 --> 00:04:04,480
+scrubby Zoom which lets you zoom in and
+
+111
+00:04:04,480 --> 00:04:07,159
+out very fluidly the other modes Zoom to
+
+112
+00:04:07,159 --> 00:04:09,599
+specific increments another way to zoom
+
+113
+00:04:09,599 --> 00:04:11,239
+in increments is to use the keyboard
+
+114
+00:04:11,239 --> 00:04:14,239
+shortcuts of plus and minus you're not
+
+115
+00:04:14,239 --> 00:04:16,279
+limited to navigating with your keyboard
+
+116
+00:04:16,279 --> 00:04:18,079
+you can also use the express keys on
+
+117
+00:04:18,079 --> 00:04:19,918
+your tablet to invoke these tools and
+
+118
+00:04:19,918 --> 00:04:22,440
+commands I'll explain how to use express
+
+119
+00:04:22,440 --> 00:04:24,840
+Keys later in this lesson we can also
+
+120
+00:04:24,840 --> 00:04:26,960
+zoom using touch gestures by spreading
+
+121
+00:04:26,960 --> 00:04:29,280
+two fingers apart to zoom in or bringing
+
+122
+00:04:29,280 --> 00:04:32,000
+two fingers closer together to zoom out
+
+123
+00:04:32,000 --> 00:04:33,639
+there are also options in the overview
+
+124
+00:04:33,639 --> 00:04:35,800
+panel to fit the image on the screen and
+
+125
+00:04:35,800 --> 00:04:39,240
+zoom the canvas to 100% 100% means the
+
+126
+00:04:39,240 --> 00:04:42,120
+canvas is not zoomed in or zoomed out
+
+127
+00:04:42,120 --> 00:04:44,080
+and after zooming in you can drag the
+
+128
+00:04:44,080 --> 00:04:46,000
+box over the thumbnail to focus on
+
+129
+00:04:46,000 --> 00:04:48,560
+specific areas of your painting to
+
+130
+00:04:48,560 --> 00:04:50,080
+rotate the canvas you can use the
+
+131
+00:04:50,080 --> 00:04:52,800
+overview panel or the shortcuts hold
+
+132
+00:04:52,800 --> 00:04:55,479
+shift plus space bar then drag to rotate
+
+133
+00:04:55,479 --> 00:04:58,199
+the canvas around a central axis
+
+134
+00:04:58,199 --> 00:05:00,600
+likewise you can also press four or six
+
+135
+00:05:00,600 --> 00:05:03,440
+to rotate in increments five will reset
+
+136
+00:05:03,440 --> 00:05:05,919
+the rotation you can also manually set
+
+137
+00:05:05,919 --> 00:05:07,600
+the rotation angle from the overview
+
+138
+00:05:07,600 --> 00:05:09,880
+panel for example you could rotate the
+
+139
+00:05:09,880 --> 00:05:11,160
+canvas
+
+140
+00:05:11,160 --> 00:05:13,960
+45° you can also use Touch to rotate the
+
+141
+00:05:13,960 --> 00:05:17,000
+canvas by twisting two fingers you may
+
+142
+00:05:17,000 --> 00:05:18,639
+accidentally paint while touching with
+
+143
+00:05:18,639 --> 00:05:20,759
+one finger so you may want to disable
+
+144
+00:05:20,759 --> 00:05:22,520
+that in the Creed preferences under
+
+145
+00:05:22,520 --> 00:05:23,520
+General
+
+146
+00:05:23,520 --> 00:05:25,639
+tools once you have mastered these
+
+147
+00:05:25,639 --> 00:05:27,800
+navigation tools it's quite easy to
+
+148
+00:05:27,800 --> 00:05:30,160
+manipulate your view of the canvas
+
+149
+00:05:30,160 --> 00:05:32,120
+if you have a drawing tablet it may come
+
+150
+00:05:32,120 --> 00:05:34,479
+with Express Keys these are buttons that
+
+151
+00:05:34,479 --> 00:05:36,319
+are built into the device and can be
+
+152
+00:05:36,319 --> 00:05:38,400
+customized to perform keyboard shortcuts
+
+153
+00:05:38,400 --> 00:05:41,080
+and execute commands with encr they can
+
+154
+00:05:41,080 --> 00:05:43,000
+be a useful tool for streamlining your
+
+155
+00:05:43,000 --> 00:05:45,840
+workflow and for saving time I'm using
+
+156
+00:05:45,840 --> 00:05:48,680
+the centiq 27 QHD touch which comes with
+
+157
+00:05:48,680 --> 00:05:51,440
+the walkom express key remote if I open
+
+158
+00:05:51,440 --> 00:05:53,319
+the walkom tablet properties I can click
+
+159
+00:05:53,319 --> 00:05:55,319
+on the express key remote or whichever
+
+160
+00:05:55,319 --> 00:05:57,560
+device that I want to configure it's
+
+161
+00:05:57,560 --> 00:05:59,080
+very important that you make a note of
+
+162
+00:05:59,080 --> 00:06:00,639
+which application that you're assigning
+
+163
+00:06:00,639 --> 00:06:03,560
+commands to by default all other is
+
+164
+00:06:03,560 --> 00:06:05,520
+selected which is a global setting for
+
+165
+00:06:05,520 --> 00:06:06,440
+all
+
+166
+00:06:06,440 --> 00:06:08,560
+applications that Global setting can be
+
+167
+00:06:08,560 --> 00:06:10,440
+overwritten by adding specific
+
+168
+00:06:10,440 --> 00:06:12,759
+applications once you choose a specific
+
+169
+00:06:12,759 --> 00:06:14,319
+application you can have different
+
+170
+00:06:14,319 --> 00:06:16,199
+shortcuts for each individual
+
+171
+00:06:16,199 --> 00:06:18,680
+application to add an application click
+
+172
+00:06:18,680 --> 00:06:21,319
+on the plus button I'll choose the cre
+
+173
+00:06:21,319 --> 00:06:22,960
+application so that the functions I
+
+174
+00:06:22,960 --> 00:06:25,400
+program will apply only to Crea then
+
+175
+00:06:25,400 --> 00:06:27,599
+I'll click on Crea to activate it I
+
+176
+00:06:27,599 --> 00:06:29,120
+won't go into detail about how to set
+
+177
+00:06:29,120 --> 00:06:31,000
+this up but you can experiment to
+
+178
+00:06:31,000 --> 00:06:32,800
+determine which tools and commands you
+
+179
+00:06:32,800 --> 00:06:34,560
+use frequently enough to justify
+
+180
+00:06:34,560 --> 00:06:36,880
+assigning them to an Express key your
+
+181
+00:06:36,880 --> 00:06:38,520
+pen may also have buttons that you can
+
+182
+00:06:38,520 --> 00:06:41,000
+assign shortcuts to these buttons are
+
+183
+00:06:41,000 --> 00:06:43,360
+usually located near the tip of the pen
+
+184
+00:06:43,360 --> 00:06:45,759
+typically Pens have one two or three
+
+185
+00:06:45,759 --> 00:06:48,039
+buttons to give you an example you could
+
+186
+00:06:48,039 --> 00:06:49,840
+program one of these pens to act as the
+
+187
+00:06:49,840 --> 00:06:52,199
+Eraser allowing you to erase by holding
+
+188
+00:06:52,199 --> 00:06:54,800
+down the pen button next I want to
+
+189
+00:06:54,800 --> 00:06:56,080
+discuss some of the panels that are
+
+190
+00:06:56,080 --> 00:06:58,680
+floating here in our interface we can
+
+191
+00:06:58,680 --> 00:07:00,560
+have individual panels floating on our
+
+192
+00:07:00,560 --> 00:07:02,680
+screen like this or we can have these
+
+193
+00:07:02,680 --> 00:07:04,479
+panels grouped together in different
+
+194
+00:07:04,479 --> 00:07:07,639
+ways panels or Dockers as they referred
+
+195
+00:07:07,639 --> 00:07:09,800
+to in cre can be collapsed so that they
+
+196
+00:07:09,800 --> 00:07:12,080
+take up less space on the screen or they
+
+197
+00:07:12,080 --> 00:07:13,759
+can be opened when it's time to access
+
+198
+00:07:13,759 --> 00:07:16,479
+the contents within you can drag panels
+
+199
+00:07:16,479 --> 00:07:18,680
+around and reposition them by dragging
+
+200
+00:07:18,680 --> 00:07:21,039
+from the top bar of the panel if the
+
+201
+00:07:21,039 --> 00:07:22,840
+panel has an X and you click on it
+
+202
+00:07:22,840 --> 00:07:25,240
+you'll close the panel you can restore
+
+203
+00:07:25,240 --> 00:07:27,680
+panels from settings Dockers I'll
+
+204
+00:07:27,680 --> 00:07:30,039
+restore the overview panel you can
+
+205
+00:07:30,039 --> 00:07:31,520
+navigate between the different panels
+
+206
+00:07:31,520 --> 00:07:33,039
+that are grouped together by clicking on
+
+207
+00:07:33,039 --> 00:07:35,800
+the tab many panels also have one or
+
+208
+00:07:35,800 --> 00:07:37,720
+more options buttons that can customize
+
+209
+00:07:37,720 --> 00:07:40,440
+the panel contents panels can be docked
+
+210
+00:07:40,440 --> 00:07:42,400
+together on the sides of the UI but not
+
+211
+00:07:42,400 --> 00:07:44,680
+when they are free floating you can even
+
+212
+00:07:44,680 --> 00:07:46,919
+dock panels on the top and bottom of the
+
+213
+00:07:46,919 --> 00:07:49,879
+UI to resize panels and reveal more or
+
+214
+00:07:49,879 --> 00:07:51,800
+less of their contents drag from the
+
+215
+00:07:51,800 --> 00:07:54,039
+sides or corners of the panel some
+
+216
+00:07:54,039 --> 00:07:55,960
+panels have content that will scale in
+
+217
+00:07:55,960 --> 00:07:58,400
+relation to the panel the color selector
+
+218
+00:07:58,400 --> 00:08:00,159
+is one such example
+
+219
+00:08:00,159 --> 00:08:02,000
+as I mentioned earlier panels can even
+
+220
+00:08:02,000 --> 00:08:03,720
+be locked if you're concerned about
+
+221
+00:08:03,720 --> 00:08:05,159
+accidentally moving the panels while
+
+222
+00:08:05,159 --> 00:08:07,720
+you're drawing you can unlock the panels
+
+223
+00:08:07,720 --> 00:08:10,159
+with the same button another way to
+
+224
+00:08:10,159 --> 00:08:12,639
+navigate is to use the pop-up panel you
+
+225
+00:08:12,639 --> 00:08:14,479
+can access this whenever the brush tool
+
+226
+00:08:14,479 --> 00:08:16,479
+is selected by right clicking on the
+
+227
+00:08:16,479 --> 00:08:19,080
+canvas on the outside are controls to
+
+228
+00:08:19,080 --> 00:08:21,759
+rotate the canvas and zoom there are
+
+229
+00:08:21,759 --> 00:08:23,879
+more controls here that we will explore
+
+230
+00:08:23,879 --> 00:08:27,080
+later I'm using a fairly large display
+
+231
+00:08:27,080 --> 00:08:28,759
+which allows me to keep a wide view of
+
+232
+00:08:28,759 --> 00:08:30,599
+my canvas this while still having room
+
+233
+00:08:30,599 --> 00:08:33,440
+for multiple panels your workflow may
+
+234
+00:08:33,440 --> 00:08:35,880
+require even more panels in which case
+
+235
+00:08:35,880 --> 00:08:37,640
+it can be helpful to hide the interface
+
+236
+00:08:37,640 --> 00:08:40,159
+so that you only see the canvas you can
+
+237
+00:08:40,159 --> 00:08:42,799
+do this by pressing tab on your keyboard
+
+238
+00:08:42,799 --> 00:08:44,720
+This removes a lot of the distractions
+
+239
+00:08:44,720 --> 00:08:47,080
+and allows you to focus on your painting
+
+240
+00:08:47,080 --> 00:08:48,839
+if you want the panels to return press
+
+241
+00:08:48,839 --> 00:08:51,440
+tab again it's easy enough to press tab
+
+242
+00:08:51,440 --> 00:08:53,480
+on your keyboard but you can also set an
+
+243
+00:08:53,480 --> 00:08:56,080
+Express key to show and hide the UI if
+
+244
+00:08:56,080 --> 00:08:57,959
+you want to squeeze a tiny bit more room
+
+245
+00:08:57,959 --> 00:09:00,399
+out of C's UI you can enter full screen
+
+246
+00:09:00,399 --> 00:09:02,440
+mode from The View menu and that will
+
+247
+00:09:02,440 --> 00:09:04,160
+hide the application bar near the top of
+
+248
+00:09:04,160 --> 00:09:06,480
+the screen this can be useful if you're
+
+249
+00:09:06,480 --> 00:09:08,160
+concerned about accidentally closing the
+
+250
+00:09:08,160 --> 00:09:10,760
+application or moving the window to exit
+
+251
+00:09:10,760 --> 00:09:12,440
+full screen mode you'll have to click on
+
+252
+00:09:12,440 --> 00:09:14,560
+it again in the view menu or you can use
+
+253
+00:09:14,560 --> 00:09:16,720
+the control shift F keyboard shortcut to
+
+254
+00:09:16,720 --> 00:09:19,399
+make it easier to invoke those were the
+
+255
+00:09:19,399 --> 00:09:22,120
+basics of navigating the UI andr in the
+
+256
+00:09:22,120 --> 00:09:23,760
+next lesson I'll give you an overview of
+
+257
+00:09:23,760 --> 00:09:26,320
+how to select
+
+258
+00:09:28,120 --> 00:09:31,120
+brushes
+

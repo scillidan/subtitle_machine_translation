@@ -1,0 +1,596 @@
+1
+00:00:02,780 --> 00:00:04,950
+welcome back to another audacity
+
+2
+00:00:04,950 --> 00:00:06,810
+tutorial in this video I want to talk
+
+3
+00:00:06,810 --> 00:00:09,389
+about monitoring your audio and what to
+
+4
+00:00:09,389 --> 00:00:11,160
+look for to know if your audio is too
+
+5
+00:00:11,160 --> 00:00:13,650
+low or too high or good quality or bad
+
+6
+00:00:13,650 --> 00:00:16,470
+quality so I want if you look up here
+
+7
+00:00:16,470 --> 00:00:18,300
+under R we have a microphone and a
+
+8
+00:00:18,300 --> 00:00:21,330
+speaker's kind of button it says click
+
+9
+00:00:21,330 --> 00:00:23,990
+to start monitoring if we click up here
+
+10
+00:00:23,990 --> 00:00:26,699
+we notice we start seeing some levels so
+
+11
+00:00:26,699 --> 00:00:28,349
+I'm talking right now and as I talk
+
+12
+00:00:28,349 --> 00:00:31,320
+these levels kind of go up and the
+
+13
+00:00:31,320 --> 00:00:33,480
+microphone I'm using to monitor here is
+
+14
+00:00:33,480 --> 00:00:34,980
+not the same microphone I'm talking into
+
+15
+00:00:34,980 --> 00:00:37,500
+for recording this audio the one
+
+16
+00:00:37,500 --> 00:00:39,030
+recording the audio on is this road mic
+
+17
+00:00:39,030 --> 00:00:40,770
+and the one that we're seeing right now
+
+18
+00:00:40,770 --> 00:00:45,240
+up here is our is my webcam microphone
+
+19
+00:00:45,240 --> 00:00:47,490
+and I can control the volume of this
+
+20
+00:00:47,490 --> 00:00:49,220
+over here by just clicking and dragging
+
+21
+00:00:49,220 --> 00:00:51,960
+this down so if I bring this down here
+
+22
+00:00:51,960 --> 00:00:53,580
+we see this doesn't go up quite as high
+
+23
+00:00:53,580 --> 00:00:55,170
+when I talk I bring it all the way down
+
+24
+00:00:55,170 --> 00:00:57,870
+it's pretty low now it's only kind about
+
+25
+00:00:57,870 --> 00:01:00,390
+halfway if I bring it all the way up we
+
+26
+00:01:00,390 --> 00:01:03,300
+see it goes this these bars go higher so
+
+27
+00:01:03,300 --> 00:01:05,430
+this is showing a representation of the
+
+28
+00:01:05,430 --> 00:01:09,510
+audio that we're recording also when I
+
+29
+00:01:09,510 --> 00:01:11,370
+when it's silent we see the noise floor
+
+30
+00:01:11,370 --> 00:01:13,260
+so we see how much ambient noise there
+
+31
+00:01:13,260 --> 00:01:17,340
+is happening you see that so it's just
+
+32
+00:01:17,340 --> 00:01:19,470
+some noise happening in the air in this
+
+33
+00:01:19,470 --> 00:01:21,240
+room that the buzzing of the computer or
+
+34
+00:01:21,240 --> 00:01:22,860
+buzzing of lights that's just the noise
+
+35
+00:01:22,860 --> 00:01:24,810
+that it's picking up there's a left and
+
+36
+00:01:24,810 --> 00:01:26,190
+a right channel that's why they're kind
+
+37
+00:01:26,190 --> 00:01:28,020
+of ones ahead of the other sometimes we
+
+38
+00:01:28,020 --> 00:01:32,010
+see left and right and this is too high
+
+39
+00:01:32,010 --> 00:01:33,840
+right now so I'm not recording but we
+
+40
+00:01:33,840 --> 00:01:35,340
+see this is pretty high too the fact
+
+41
+00:01:35,340 --> 00:01:36,720
+that that's going into orange and even
+
+42
+00:01:36,720 --> 00:01:38,900
+red if I were to clap my hands
+
+43
+00:01:38,900 --> 00:01:41,550
+it definitely Peaks out we can record
+
+44
+00:01:41,550 --> 00:01:44,010
+and see what that looks like so this is
+
+45
+00:01:44,010 --> 00:01:45,479
+recording I'm gonna come really close
+
+46
+00:01:45,479 --> 00:01:47,220
+and talk right into this microphone here
+
+47
+00:01:47,220 --> 00:01:49,170
+and we see it's like clipping
+
+48
+00:01:49,170 --> 00:01:51,540
+it's just too loud a good level for this
+
+49
+00:01:51,540 --> 00:01:54,060
+would be to come down here maybe set it
+
+50
+00:01:54,060 --> 00:01:55,500
+to right here so that it goes into the
+
+51
+00:01:55,500 --> 00:01:57,510
+yellow occasionally when things get
+
+52
+00:01:57,510 --> 00:02:00,360
+really loud it might barely start to
+
+53
+00:02:00,360 --> 00:02:01,650
+clip a little bit but we want to avoid
+
+54
+00:02:01,650 --> 00:02:03,900
+clipping I'm gonna hit stop here on this
+
+55
+00:02:03,900 --> 00:02:06,390
+recording so clipping is when if we come
+
+56
+00:02:06,390 --> 00:02:07,619
+over here to when I was really close
+
+57
+00:02:07,619 --> 00:02:10,669
+when the audio file goes up above this
+
+58
+00:02:10,669 --> 00:02:13,590
+1.0 point so it starts at 0
+
+59
+00:02:13,590 --> 00:02:16,290
+and then one is like 100% so if your
+
+60
+00:02:16,290 --> 00:02:18,660
+audio that you're recording is over 100%
+
+61
+00:02:18,660 --> 00:02:21,660
+level then you're going to experience
+
+62
+00:02:21,660 --> 00:02:24,030
+clipping which the top of this wave
+
+63
+00:02:24,030 --> 00:02:26,129
+clips a good healthy wave looks like
+
+64
+00:02:26,129 --> 00:02:28,230
+this you can see the very top of it and
+
+65
+00:02:28,230 --> 00:02:29,879
+you can see what the wave looks like if
+
+66
+00:02:29,879 --> 00:02:31,260
+we want to zoom in and look at like a
+
+67
+00:02:31,260 --> 00:02:33,030
+good healthy way we can highlight this
+
+68
+00:02:33,030 --> 00:02:36,480
+and then go to this click here it says
+
+69
+00:02:36,480 --> 00:02:38,849
+fit selection to width and we can just
+
+70
+00:02:38,849 --> 00:02:41,160
+see we can see the tops and we can see
+
+71
+00:02:41,160 --> 00:02:42,599
+the whole wave and there's space above
+
+72
+00:02:42,599 --> 00:02:44,700
+it if ever we come over and we see a
+
+73
+00:02:44,700 --> 00:02:46,380
+wave and there's not space above it like
+
+74
+00:02:46,380 --> 00:02:49,230
+this over here you see it's it's clipped
+
+75
+00:02:49,230 --> 00:02:52,920
+out part of the audio click here so we
+
+76
+00:02:52,920 --> 00:02:54,930
+can see that so these parts of the audio
+
+77
+00:02:54,930 --> 00:02:58,410
+are clipped and it sounds pretty bad too
+
+78
+00:02:58,410 --> 00:03:00,720
+when this happens so if we go back to
+
+79
+00:03:00,720 --> 00:03:07,379
+the beginning and play this see that
+
+80
+00:03:07,379 --> 00:03:11,370
+it's like all distorted and look at our
+
+81
+00:03:11,370 --> 00:03:12,599
+levels on our playback when we're
+
+82
+00:03:12,599 --> 00:03:14,879
+playing we can see basically our speaker
+
+83
+00:03:14,879 --> 00:03:16,019
+is showing the same thing that our
+
+84
+00:03:16,019 --> 00:03:17,519
+recording monitor was showing when we
+
+85
+00:03:17,519 --> 00:03:22,230
+recorded so we can we can go in and fix
+
+86
+00:03:22,230 --> 00:03:23,819
+this after the fact using different
+
+87
+00:03:23,819 --> 00:03:27,000
+effects but the best thing to do is just
+
+88
+00:03:27,000 --> 00:03:29,519
+record it right the first time and so
+
+89
+00:03:29,519 --> 00:03:31,290
+for example like if we want to just
+
+90
+00:03:31,290 --> 00:03:33,750
+lower the volume watch what'll happen we
+
+91
+00:03:33,750 --> 00:03:35,579
+can click here and we can turn down the
+
+92
+00:03:35,579 --> 00:03:37,410
+gain and that'll actually lower it
+
+93
+00:03:37,410 --> 00:03:39,150
+doesn't change the wave but it's gonna
+
+94
+00:03:39,150 --> 00:03:43,380
+make it much quieter when we playback so
+
+95
+00:03:43,380 --> 00:03:47,120
+it's like you can almost hardly hear it
+
+96
+00:03:47,630 --> 00:03:49,829
+but it's still distorted even though we
+
+97
+00:03:49,829 --> 00:03:51,840
+turned it down that the distortion still
+
+98
+00:03:51,840 --> 00:03:53,519
+there because we captured it with this
+
+99
+00:03:53,519 --> 00:03:57,359
+kind of crazy distortion this left and
+
+100
+00:03:57,359 --> 00:03:58,620
+right I want to show - on the audio
+
+101
+00:03:58,620 --> 00:04:00,720
+track just lets us control whether we're
+
+102
+00:04:00,720 --> 00:04:03,180
+using our left or right
+
+103
+00:04:03,180 --> 00:04:04,889
+whether that audio is coming out of the
+
+104
+00:04:04,889 --> 00:04:07,530
+left or the right ear just download it
+
+105
+00:04:07,530 --> 00:04:10,470
+so it's not so loud for you so this is
+
+106
+00:04:10,470 --> 00:04:16,260
+the left side this is the right side if
+
+107
+00:04:16,260 --> 00:04:18,839
+we hit record again oh wait let's go
+
+108
+00:04:18,839 --> 00:04:20,279
+back and hit record again a second time
+
+109
+00:04:20,279 --> 00:04:27,250
+Oh am i setting okay so nevermind
+
+110
+00:04:27,250 --> 00:04:29,600
+in the next video we'll look at adding
+
+111
+00:04:29,600 --> 00:04:30,800
+in a second track I think there's like a
+
+112
+00:04:30,800 --> 00:04:36,289
+setting up here we go to edit tracks we
+
+113
+00:04:36,289 --> 00:04:38,150
+go to add new stereo track and now we
+
+114
+00:04:38,150 --> 00:04:40,009
+have a new track down here so we can
+
+115
+00:04:40,009 --> 00:04:42,620
+have two tracks at once it used to be by
+
+116
+00:04:42,620 --> 00:04:43,880
+default that when you hit record it
+
+117
+00:04:43,880 --> 00:04:45,470
+would start on a second track and we can
+
+118
+00:04:45,470 --> 00:04:47,150
+change that setting but I'm not sure how
+
+119
+00:04:47,150 --> 00:04:49,490
+to do it exactly right now but so now we
+
+120
+00:04:49,490 --> 00:04:51,889
+can say we can record down in this track
+
+121
+00:04:51,889 --> 00:04:54,350
+so this is my second track so we can
+
+122
+00:04:54,350 --> 00:04:56,330
+have two audio playing overtop of audio
+
+123
+00:04:56,330 --> 00:05:00,080
+and then we can mute just this one or we
+
+124
+00:05:00,080 --> 00:05:01,759
+can solo and just play this one and mute
+
+125
+00:05:01,759 --> 00:05:03,650
+all the other tracks size of that mute
+
+126
+00:05:03,650 --> 00:05:07,009
+and solo is and then we can minimize the
+
+127
+00:05:07,009 --> 00:05:08,360
+track and kind of bring it down smaller
+
+128
+00:05:08,360 --> 00:05:09,590
+if we're working with lots of different
+
+129
+00:05:09,590 --> 00:05:11,930
+audio tracks you can change the size
+
+130
+00:05:11,930 --> 00:05:15,919
+that you're viewing it too well I hope I
+
+131
+00:05:15,919 --> 00:05:17,120
+didn't cover too much I hope I didn't
+
+132
+00:05:17,120 --> 00:05:18,650
+get down into crazy with this tutorial
+
+133
+00:05:18,650 --> 00:05:19,849
+but that's what I wanted to talk about
+
+134
+00:05:19,849 --> 00:05:22,750
+is just being aware of your levels and
+
+135
+00:05:22,750 --> 00:05:24,979
+recording good audio and just watching
+
+136
+00:05:24,979 --> 00:05:26,930
+that you're in that green watching that
+
+137
+00:05:26,930 --> 00:05:29,419
+you're recording a nice nice level right
+
+138
+00:05:29,419 --> 00:05:32,120
+here just in the green area not into the
+
+139
+00:05:32,120 --> 00:05:36,020
+yellow and also not too low here if it's
+
+140
+00:05:36,020 --> 00:05:38,419
+too low then your audio sounds you know
+
+141
+00:05:38,419 --> 00:05:40,729
+obviously too low but lower it's better
+
+142
+00:05:40,729 --> 00:05:42,440
+than higher too soft
+
+143
+00:05:42,440 --> 00:05:44,449
+we can always amplify and bring out some
+
+144
+00:05:44,449 --> 00:05:46,490
+of that audio too loud you're gonna get
+
+145
+00:05:46,490 --> 00:05:48,710
+distortion sounding and that's just no
+
+146
+00:05:48,710 --> 00:05:51,320
+good well I appreciate you watching this
+
+147
+00:05:51,320 --> 00:05:53,479
+video I hope that's been informative for
+
+148
+00:05:53,479 --> 00:05:54,979
+you go ahead and like subscribe comment
+
+149
+00:05:54,979 --> 00:05:58,419
+below and I'll catch you on the next one
+

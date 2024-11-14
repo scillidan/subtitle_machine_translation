@@ -1,0 +1,840 @@
+1
+00:00:02,660 --> 00:00:05,790
+hey guys welcome to this first video in
+
+2
+00:00:05,790 --> 00:00:08,370
+a series of tutorials teaching how to
+
+3
+00:00:08,370 --> 00:00:10,919
+use kdenlive so kdenlive has been my
+
+4
+00:00:10,919 --> 00:00:12,869
+go-to video editor for a long time now I
+
+5
+00:00:12,869 --> 00:00:15,209
+really love this software it's really
+
+6
+00:00:15,209 --> 00:00:17,340
+fairly simple to use and it's very
+
+7
+00:00:17,340 --> 00:00:20,070
+powerful professional software and I
+
+8
+00:00:20,070 --> 00:00:21,269
+would say it's pretty stable and
+
+9
+00:00:21,269 --> 00:00:23,460
+reliable I've used it under Linux for
+
+10
+00:00:23,460 --> 00:00:25,320
+the most part and I'm just now starting
+
+11
+00:00:25,320 --> 00:00:27,660
+to use it in Windows so I'm running
+
+12
+00:00:27,660 --> 00:00:30,210
+Windows 10 right now and I'm just want
+
+13
+00:00:30,210 --> 00:00:31,560
+to demonstrate this software so if you
+
+14
+00:00:31,560 --> 00:00:33,540
+haven't downloaded it yet go ahead and
+
+15
+00:00:33,540 --> 00:00:35,640
+you can check out my other video it's in
+
+16
+00:00:35,640 --> 00:00:37,770
+the description of this video it'll show
+
+17
+00:00:37,770 --> 00:00:39,330
+you how to download and get started on
+
+18
+00:00:39,330 --> 00:00:42,600
+Windows if you're using this on Linux
+
+19
+00:00:42,600 --> 00:00:45,570
+awesome good for you and yeah follow
+
+20
+00:00:45,570 --> 00:00:47,070
+along the interface is the same whether
+
+21
+00:00:47,070 --> 00:00:50,430
+you're on Linux Windows or Mac so yeah
+
+22
+00:00:50,430 --> 00:00:52,410
+let's dive into just getting familiar
+
+23
+00:00:52,410 --> 00:00:54,540
+with the interface first of all so at
+
+24
+00:00:54,540 --> 00:00:56,520
+the bottom here we have our timeline we
+
+25
+00:00:56,520 --> 00:00:58,770
+see we have video three two one audio
+
+26
+00:00:58,770 --> 00:01:00,480
+one and two these are our different
+
+27
+00:01:00,480 --> 00:01:03,210
+tracks to the right we have a black
+
+28
+00:01:03,210 --> 00:01:05,519
+screen this is our project monitor where
+
+29
+00:01:05,519 --> 00:01:07,290
+we can view
+
+30
+00:01:07,290 --> 00:01:09,060
+well actually it's we can do project
+
+31
+00:01:09,060 --> 00:01:11,310
+monitor or our clip monitor so we can
+
+32
+00:01:11,310 --> 00:01:12,990
+view clips that we want to add into our
+
+33
+00:01:12,990 --> 00:01:15,000
+project and then we can actually view
+
+34
+00:01:15,000 --> 00:01:18,720
+the audio and video of our project and
+
+35
+00:01:18,720 --> 00:01:20,820
+see what it look like with transitions
+
+36
+00:01:20,820 --> 00:01:23,690
+or effects applied and things like that
+
+37
+00:01:23,690 --> 00:01:26,159
+right here is the different options this
+
+38
+00:01:26,159 --> 00:01:27,870
+panel in the middle and all these panels
+
+39
+00:01:27,870 --> 00:01:30,180
+can be moved around by the way we can
+
+40
+00:01:30,180 --> 00:01:31,500
+move them and have them be up here
+
+41
+00:01:31,500 --> 00:01:34,409
+somewhere else so that they don't have
+
+42
+00:01:34,409 --> 00:01:35,850
+to stay right there we can drag and drop
+
+43
+00:01:35,850 --> 00:01:37,260
+and configure it to wherever we would
+
+44
+00:01:37,260 --> 00:01:39,500
+like but this is just the default layout
+
+45
+00:01:39,500 --> 00:01:43,020
+so this section is our options for doing
+
+46
+00:01:43,020 --> 00:01:45,270
+different kinds of effects we've got all
+
+47
+00:01:45,270 --> 00:01:46,950
+these different audio effects and video
+
+48
+00:01:46,950 --> 00:01:48,960
+effects and filters that we can apply
+
+49
+00:01:48,960 --> 00:01:51,510
+and we can just search for a certain one
+
+50
+00:01:51,510 --> 00:01:53,640
+if we want to do like a fade we can type
+
+51
+00:01:53,640 --> 00:01:54,930
+in fade and it'll show us all the
+
+52
+00:01:54,930 --> 00:01:58,290
+different fade options we have and then
+
+53
+00:01:58,290 --> 00:01:59,670
+over here on the left hand side is our
+
+54
+00:01:59,670 --> 00:02:01,290
+project bin so this is where we will put
+
+55
+00:02:01,290 --> 00:02:04,440
+all of our projects all of the data we
+
+56
+00:02:04,440 --> 00:02:06,000
+want to bring in so if we want to bring
+
+57
+00:02:06,000 --> 00:02:09,090
+in one for example right now we could
+
+58
+00:02:09,090 --> 00:02:12,510
+just go to project add clip and then we
+
+59
+00:02:12,510 --> 00:02:14,100
+find it will bring up a dial
+
+60
+00:02:14,100 --> 00:02:15,660
+and I just go to that place on my
+
+61
+00:02:15,660 --> 00:02:18,120
+computer where I want to add in so maybe
+
+62
+00:02:18,120 --> 00:02:18,780
+I'll do this
+
+63
+00:02:18,780 --> 00:02:21,630
+TJ intro and go open so this is the
+
+64
+00:02:21,630 --> 00:02:25,290
+intro screen for my video I'll hit play
+
+65
+00:02:25,290 --> 00:02:27,000
+and sometimes this is kind of a glitch
+
+66
+00:02:27,000 --> 00:02:28,380
+this is only happening to me in Windows
+
+67
+00:02:28,380 --> 00:02:29,910
+but I hit play and nothing happens I
+
+68
+00:02:29,910 --> 00:02:31,470
+have to give it a little jumpstart and
+
+69
+00:02:31,470 --> 00:02:33,210
+left click in the timeline and then
+
+70
+00:02:33,210 --> 00:02:35,250
+it'll go so that'll be fixed you know
+
+71
+00:02:35,250 --> 00:02:36,750
+probably by the time you're watching
+
+72
+00:02:36,750 --> 00:02:38,100
+this that glitch won't be here anymore
+
+73
+00:02:38,100 --> 00:02:40,020
+but at least it's happening to me on
+
+74
+00:02:40,020 --> 00:02:41,670
+Windows right now so if I could hit play
+
+75
+00:02:41,670 --> 00:02:43,680
+nothing happens I click the timeline and
+
+76
+00:02:43,680 --> 00:02:45,840
+it'll start playing so we can see this
+
+77
+00:02:45,840 --> 00:02:48,870
+video here it's in my project so it's
+
+78
+00:02:48,870 --> 00:02:51,210
+not yet in my timeline to get it down to
+
+79
+00:02:51,210 --> 00:02:52,410
+the timeline I have to left-click and
+
+80
+00:02:52,410 --> 00:02:54,780
+drag it down to either one of one of
+
+81
+00:02:54,780 --> 00:02:57,600
+these three tracks so the very lowermost
+
+82
+00:02:57,600 --> 00:02:59,880
+track is where I usually put it on video
+
+83
+00:02:59,880 --> 00:03:02,580
+1 and now we can come play it here on
+
+84
+00:03:02,580 --> 00:03:04,140
+our project and see what it looks like
+
+85
+00:03:04,140 --> 00:03:05,040
+awesome
+
+86
+00:03:05,040 --> 00:03:08,790
+that's pretty cool we can scroll here we
+
+87
+00:03:08,790 --> 00:03:10,950
+can scroll through we can use our scroll
+
+88
+00:03:10,950 --> 00:03:12,300
+wheel to kind of go to a different point
+
+89
+00:03:12,300 --> 00:03:14,820
+in the video this is on our project
+
+90
+00:03:14,820 --> 00:03:16,860
+monitor again and if we come down to the
+
+91
+00:03:16,860 --> 00:03:18,660
+timeline we can also click on the
+
+92
+00:03:18,660 --> 00:03:21,270
+timeline and see this is really small if
+
+93
+00:03:21,270 --> 00:03:23,550
+I want to make this appear larger I can
+
+94
+00:03:23,550 --> 00:03:25,590
+kind of zoom in so I can go down here to
+
+95
+00:03:25,590 --> 00:03:27,300
+the bottom right hand I can zoom and
+
+96
+00:03:27,300 --> 00:03:30,090
+make this kind of film or of this space
+
+97
+00:03:30,090 --> 00:03:33,150
+and at the top it shows the seconds so
+
+98
+00:03:33,150 --> 00:03:36,420
+this is point two seconds this is wait
+
+99
+00:03:36,420 --> 00:03:39,750
+what is that or 1 this is 1.2 seconds
+
+100
+00:03:39,750 --> 00:03:41,550
+right here this is 2 it's about a
+
+101
+00:03:41,550 --> 00:03:43,080
+two-second clip it says the seconds
+
+102
+00:03:43,080 --> 00:03:47,459
+across the top we can also get a video
+
+103
+00:03:47,459 --> 00:03:50,130
+and audio into our project by just
+
+104
+00:03:50,130 --> 00:03:51,930
+dragging and dropping so if you open up
+
+105
+00:03:51,930 --> 00:03:54,030
+a window I'll go to Maya downloads
+
+106
+00:03:54,030 --> 00:03:55,140
+folder actually I'll go to my music
+
+107
+00:03:55,140 --> 00:03:56,730
+first I have an audio file
+
+108
+00:03:56,730 --> 00:03:59,070
+I'll left-click and drag and drag it up
+
+109
+00:03:59,070 --> 00:04:00,750
+here you always have to put it into your
+
+110
+00:04:00,750 --> 00:04:04,020
+projects your project bin at first you
+
+111
+00:04:04,020 --> 00:04:05,940
+can't just drag it down into your
+
+112
+00:04:05,940 --> 00:04:08,100
+timeline it won't work you have to first
+
+113
+00:04:08,100 --> 00:04:11,910
+bring it in and Katyn life supports many
+
+114
+00:04:11,910 --> 00:04:15,510
+audio and video formats in fact I don't
+
+115
+00:04:15,510 --> 00:04:17,130
+think I've ever ran into trouble unless
+
+116
+00:04:17,130 --> 00:04:20,040
+you try and drag in something like well
+
+117
+00:04:20,040 --> 00:04:21,988
+you can even drag in a picture so that's
+
+118
+00:04:21,988 --> 00:04:23,850
+just a still shot a still image we can
+
+119
+00:04:23,850 --> 00:04:25,950
+drag that in but if we try to drag in
+
+120
+00:04:25,950 --> 00:04:27,050
+something that it doesn't
+
+121
+00:04:27,050 --> 00:04:28,129
+or what I'm trying to think real quick
+
+122
+00:04:28,129 --> 00:04:31,220
+like this Inkscape shortcut my goodness
+
+123
+00:04:31,220 --> 00:04:33,229
+it even lets us do that but some files
+
+124
+00:04:33,229 --> 00:04:35,389
+it doesn't let us do so just be aware of
+
+125
+00:04:35,389 --> 00:04:38,599
+that if it's like a non video a non
+
+126
+00:04:38,599 --> 00:04:41,930
+media format for example like this one
+
+127
+00:04:41,930 --> 00:04:44,180
+let's do that I want to try to get an
+
+128
+00:04:44,180 --> 00:04:46,099
+error message here it's just not letting
+
+129
+00:04:46,099 --> 00:04:50,180
+us do it let's go back here to downloads
+
+130
+00:04:50,180 --> 00:04:52,550
+and I can drag in I have this cyclist
+
+131
+00:04:52,550 --> 00:04:55,669
+video will drag in here and so oh it did
+
+132
+00:04:55,669 --> 00:04:57,650
+bring us an error message there we go it
+
+133
+00:04:57,650 --> 00:05:00,199
+says inks Oh perfect so yeah it wouldn't
+
+134
+00:05:00,199 --> 00:05:01,669
+let us if you try and drag something in
+
+135
+00:05:01,669 --> 00:05:03,680
+in that it doesn't support it'll just
+
+136
+00:05:03,680 --> 00:05:05,330
+come up with an error message and that's
+
+137
+00:05:05,330 --> 00:05:06,979
+what I was doing there it's saying we
+
+138
+00:05:06,979 --> 00:05:07,810
+can't do it
+
+139
+00:05:07,810 --> 00:05:10,130
+alright dragging the cyclists footage
+
+140
+00:05:10,130 --> 00:05:12,440
+and now I can I come toggle through and
+
+141
+00:05:12,440 --> 00:05:13,639
+look at all these I can look at this
+
+142
+00:05:13,639 --> 00:05:16,550
+picture look at this this is a vector
+
+143
+00:05:16,550 --> 00:05:18,650
+graphics image which is supported also
+
+144
+00:05:18,650 --> 00:05:20,719
+so if I want to have this picture I just
+
+145
+00:05:20,719 --> 00:05:22,370
+drag it down to the timeline I can put
+
+146
+00:05:22,370 --> 00:05:24,740
+it in here after a video one or I can
+
+147
+00:05:24,740 --> 00:05:26,780
+bring it up and have it be separate and
+
+148
+00:05:26,780 --> 00:05:29,060
+it's just gonna play this steel image
+
+149
+00:05:29,060 --> 00:05:30,979
+for a little while it's gonna keep
+
+150
+00:05:30,979 --> 00:05:33,380
+playing it we can go along this timeline
+
+151
+00:05:33,380 --> 00:05:35,360
+if I double click it'll tell me it's
+
+152
+00:05:35,360 --> 00:05:39,289
+playing for duration five seconds but I
+
+153
+00:05:39,289 --> 00:05:40,969
+can change this down to two seconds and
+
+154
+00:05:40,969 --> 00:05:43,069
+hit OK and now it's only gonna play for
+
+155
+00:05:43,069 --> 00:05:45,319
+two seconds so it'll play this little
+
+156
+00:05:45,319 --> 00:05:47,690
+video intro and then we'll also play
+
+157
+00:05:47,690 --> 00:05:49,759
+this video for two seconds this steel
+
+158
+00:05:49,759 --> 00:05:52,310
+shot here and if you want to add audio
+
+159
+00:05:52,310 --> 00:05:54,740
+to this we can just drag this audio file
+
+160
+00:05:54,740 --> 00:05:57,949
+that I brought in we'll put it down here
+
+161
+00:05:57,949 --> 00:06:01,090
+and see what this sounds like
+
+162
+00:06:01,090 --> 00:06:02,510
+[Music]
+
+163
+00:06:02,510 --> 00:06:04,640
+so then we have that audio file along
+
+164
+00:06:04,640 --> 00:06:07,430
+with this video footage so now we have
+
+165
+00:06:07,430 --> 00:06:09,170
+all three of these and if we overlap
+
+166
+00:06:09,170 --> 00:06:10,700
+this we can actually overlap and
+
+167
+00:06:10,700 --> 00:06:12,830
+whatever the higher number track is
+
+168
+00:06:12,830 --> 00:06:15,310
+that's what will be be displayed first
+
+169
+00:06:15,310 --> 00:06:17,600
+so as soon as it gets to this video
+
+170
+00:06:17,600 --> 00:06:20,030
+it'll start playing this next one after
+
+171
+00:06:20,030 --> 00:06:23,540
+that we're not gonna play any effects
+
+172
+00:06:23,540 --> 00:06:24,920
+right now because I'm actually going to
+
+173
+00:06:24,920 --> 00:06:26,330
+stop this video and we'll move on to the
+
+174
+00:06:26,330 --> 00:06:29,150
+next tutorial where we will get into
+
+175
+00:06:29,150 --> 00:06:30,830
+doing some of these effects but I just
+
+176
+00:06:30,830 --> 00:06:33,740
+wanted to show roughly I kind of wanted
+
+177
+00:06:33,740 --> 00:06:35,120
+to show the interface and what you can
+
+178
+00:06:35,120 --> 00:06:36,950
+do oh and one more thing will you'll
+
+179
+00:06:36,950 --> 00:06:38,540
+want to do is go into your project
+
+180
+00:06:38,540 --> 00:06:42,860
+settings so we go to project where's
+
+181
+00:06:42,860 --> 00:06:44,140
+that at
+
+182
+00:06:44,140 --> 00:06:47,030
+when you first open it you'll it should
+
+183
+00:06:47,030 --> 00:06:48,590
+bring up and say what kind of things do
+
+184
+00:06:48,590 --> 00:06:50,840
+you want to do well here this project
+
+185
+00:06:50,840 --> 00:06:52,670
+settings under project so the project
+
+186
+00:06:52,670 --> 00:06:54,320
+settings is where you'll decide if
+
+187
+00:06:54,320 --> 00:06:56,390
+you're doing 1080p video and what
+
+188
+00:06:56,390 --> 00:06:59,150
+framerate you're doing it at 29.97 so
+
+189
+00:06:59,150 --> 00:07:01,340
+what I have mine set at you can do for
+
+190
+00:07:01,340 --> 00:07:03,560
+you can add a 4k video we can have our
+
+191
+00:07:03,560 --> 00:07:06,650
+project be set up for just like 720 so
+
+192
+00:07:06,650 --> 00:07:08,660
+if you're not familiar with these you'll
+
+193
+00:07:08,660 --> 00:07:10,790
+want to learn and make sure that you're
+
+194
+00:07:10,790 --> 00:07:13,280
+editing in the right kind of thing I
+
+195
+00:07:13,280 --> 00:07:16,700
+usually do 1080p 30fps roughly for my
+
+196
+00:07:16,700 --> 00:07:18,710
+YouTube videos and this is the software
+
+197
+00:07:18,710 --> 00:07:20,150
+that I'll use to edit all my YouTube
+
+198
+00:07:20,150 --> 00:07:23,960
+videos and upload them and then you have
+
+199
+00:07:23,960 --> 00:07:25,400
+some different options up here too or we
+
+200
+00:07:25,400 --> 00:07:27,470
+can create a new project we can save our
+
+201
+00:07:27,470 --> 00:07:30,140
+project undo and redo and then we can
+
+202
+00:07:30,140 --> 00:07:32,270
+actually render out when we're ready and
+
+203
+00:07:32,270 --> 00:07:35,480
+we can save our video that's all I want
+
+204
+00:07:35,480 --> 00:07:36,590
+to show for this I don't want to get too
+
+205
+00:07:36,590 --> 00:07:38,960
+deep too quickly hopefully you've
+
+206
+00:07:38,960 --> 00:07:40,730
+enjoyed this video and I'll catch on the
+
+207
+00:07:40,730 --> 00:07:41,990
+next one where we'll dive deeper into
+
+208
+00:07:41,990 --> 00:07:44,870
+using the timeline and cutting video
+
+209
+00:07:44,870 --> 00:07:47,410
+splitting and merging video together
+
+210
+00:07:47,410 --> 00:07:51,130
+catch you on the next video
+

@@ -1,0 +1,560 @@
+1
+00:00:02,690 --> 00:00:04,890
+welcome back to another audacity
+
+2
+00:00:04,890 --> 00:00:06,960
+tutorial in this video I'm gonna show
+
+3
+00:00:06,960 --> 00:00:09,780
+you how you can grab the audio portion
+
+4
+00:00:09,780 --> 00:00:14,190
+of a movie or video file using audacity
+
+5
+00:00:14,190 --> 00:00:19,130
+so I have this video here
+
+6
+00:00:20,990 --> 00:00:23,220
+it's just when we grabbed off at pixabay
+
+7
+00:00:23,220 --> 00:00:25,410
+it has some rain falling on a window and
+
+8
+00:00:25,410 --> 00:00:28,650
+it just sounds like this so let's say I
+
+9
+00:00:28,650 --> 00:00:31,169
+want to just make an edit to the audio
+
+10
+00:00:31,169 --> 00:00:33,720
+portion of this video so we can actually
+
+11
+00:00:33,720 --> 00:00:36,300
+just take it left click and drag this
+
+12
+00:00:36,300 --> 00:00:39,540
+video on to audacity and it will bring
+
+13
+00:00:39,540 --> 00:00:42,810
+in just the audio this is really cool
+
+14
+00:00:42,810 --> 00:00:45,810
+so a couple about a month ago actually I
+
+15
+00:00:45,810 --> 00:00:48,630
+had a client to send me a video that he
+
+16
+00:00:48,630 --> 00:00:50,880
+was having trouble syncing so he had
+
+17
+00:00:50,880 --> 00:00:53,430
+recorded it on his iPhone and by the it
+
+18
+00:00:53,430 --> 00:00:55,590
+was like an hour long or a 30 minute
+
+19
+00:00:55,590 --> 00:00:57,750
+long presentation and by the end of it
+
+20
+00:00:57,750 --> 00:01:00,420
+his audio was off by like 2 or 3 seconds
+
+21
+00:01:00,420 --> 00:01:02,460
+and so I was able to fix it using
+
+22
+00:01:02,460 --> 00:01:06,210
+audacity I just did brought the video in
+
+23
+00:01:06,210 --> 00:01:08,100
+just like this and got the audio portion
+
+24
+00:01:08,100 --> 00:01:10,140
+of it and then I adjusted it in audacity
+
+25
+00:01:10,140 --> 00:01:13,650
+by 2 seconds I just lengthened it out
+
+26
+00:01:13,650 --> 00:01:14,730
+and then made sure the pitch and
+
+27
+00:01:14,730 --> 00:01:16,980
+everything was the same and then I used
+
+28
+00:01:16,980 --> 00:01:18,540
+kdenlive to put the video back together
+
+29
+00:01:18,540 --> 00:01:21,900
+and so that's a kind of a practical use
+
+30
+00:01:21,900 --> 00:01:24,240
+of this but anyway maybe we want to get
+
+31
+00:01:24,240 --> 00:01:28,260
+just this rain sound so we could now
+
+32
+00:01:28,260 --> 00:01:31,710
+just go file export as mp3 or WAV and
+
+33
+00:01:31,710 --> 00:01:33,870
+then we have the audio of this maybe
+
+34
+00:01:33,870 --> 00:01:35,430
+it's a music video but we just want to
+
+35
+00:01:35,430 --> 00:01:37,260
+listen to the music on our mp3 player so
+
+36
+00:01:37,260 --> 00:01:39,600
+we could just do it as simple as that or
+
+37
+00:01:39,600 --> 00:01:41,610
+we can take and we only want to use like
+
+38
+00:01:41,610 --> 00:01:43,380
+a portion of the audio so we can select
+
+39
+00:01:43,380 --> 00:01:45,590
+a certain portion clip everything else
+
+40
+00:01:45,590 --> 00:01:48,450
+outside of that make sure we set it to
+
+41
+00:01:48,450 --> 00:01:51,060
+the our beginning here and then we have
+
+42
+00:01:51,060 --> 00:01:53,770
+just a small little sample of rain
+
+43
+00:01:53,770 --> 00:01:57,579
+this rain and thunder sound so that's
+
+44
+00:01:57,579 --> 00:01:58,539
+really it
+
+45
+00:01:58,539 --> 00:02:00,070
+I guess since this video is super short
+
+46
+00:02:00,070 --> 00:02:01,810
+I'll talk a little about exporting since
+
+47
+00:02:01,810 --> 00:02:05,350
+I kind of you know gone through that
+
+48
+00:02:05,350 --> 00:02:07,990
+quickly in past videos so one thing
+
+49
+00:02:07,990 --> 00:02:10,810
+about audacity is if we go to save if we
+
+50
+00:02:10,810 --> 00:02:12,730
+just save project it's gonna bring up
+
+51
+00:02:12,730 --> 00:02:15,549
+this warning dialog box and say hey just
+
+52
+00:02:15,549 --> 00:02:17,470
+so you know if you save it's not going
+
+53
+00:02:17,470 --> 00:02:19,599
+to save on sound file it's gonna save an
+
+54
+00:02:19,599 --> 00:02:22,239
+audacity project file so we came back
+
+55
+00:02:22,239 --> 00:02:24,040
+okay that's fine so if we save this on
+
+56
+00:02:24,040 --> 00:02:26,860
+our desktop and hit save this file looks
+
+57
+00:02:26,860 --> 00:02:30,190
+like this it's a folder with just like
+
+58
+00:02:30,190 --> 00:02:32,829
+some weird folders and weird things in
+
+59
+00:02:32,829 --> 00:02:35,410
+it so this is not dasa T file and then
+
+60
+00:02:35,410 --> 00:02:36,640
+when we go to if we close out of
+
+61
+00:02:36,640 --> 00:02:38,079
+audacity and then we get back into
+
+62
+00:02:38,079 --> 00:02:41,260
+audacity well actually this is that this
+
+63
+00:02:41,260 --> 00:02:42,970
+is a file but this is associated with it
+
+64
+00:02:42,970 --> 00:02:44,739
+but so if we go to open it up we go to
+
+65
+00:02:44,739 --> 00:02:47,680
+open and we go desktop then we can
+
+66
+00:02:47,680 --> 00:02:50,260
+actually open this project right here
+
+67
+00:02:50,260 --> 00:02:53,170
+called run off so we can open this and
+
+68
+00:02:53,170 --> 00:02:55,090
+see it but if we want to save just the
+
+69
+00:02:55,090 --> 00:02:57,129
+audio portion like export the audio to
+
+70
+00:02:57,129 --> 00:03:00,160
+use in a video project or to have an mp3
+
+71
+00:03:00,160 --> 00:03:03,730
+to listen to we can go export export as
+
+72
+00:03:03,730 --> 00:03:06,069
+WAV and then we can export to the
+
+73
+00:03:06,069 --> 00:03:08,709
+desktop so save and now it's an actual
+
+74
+00:03:08,709 --> 00:03:12,250
+WAV file as well so I'm gonna delete
+
+75
+00:03:12,250 --> 00:03:15,220
+this bit of clothes out of it first I'm
+
+76
+00:03:15,220 --> 00:03:16,900
+gonna delete this and now we have just a
+
+77
+00:03:16,900 --> 00:03:20,650
+WAV file we can listen to of just that
+
+78
+00:03:20,650 --> 00:03:22,660
+portion that we edited one thing I
+
+79
+00:03:22,660 --> 00:03:24,700
+forgot to say you have to have ffmpeg
+
+80
+00:03:24,700 --> 00:03:26,470
+installed ffmpeg is like a free
+
+81
+00:03:26,470 --> 00:03:28,510
+open-source software for video and audio
+
+82
+00:03:28,510 --> 00:03:30,730
+processing and I don't think it comes by
+
+83
+00:03:30,730 --> 00:03:32,709
+default with audacity I'm pretty sure
+
+84
+00:03:32,709 --> 00:03:34,030
+the first time I did it when I tried to
+
+85
+00:03:34,030 --> 00:03:36,579
+drag and drop a video in it said you
+
+86
+00:03:36,579 --> 00:03:37,959
+don't have ffmpeg do you want to
+
+87
+00:03:37,959 --> 00:03:39,639
+automatically download it I just clicked
+
+88
+00:03:39,639 --> 00:03:42,370
+yes and it did that so if that dialog
+
+89
+00:03:42,370 --> 00:03:43,780
+box comes up for you when you're trying
+
+90
+00:03:43,780 --> 00:03:45,790
+to do this on Windows you can go ahead
+
+91
+00:03:45,790 --> 00:03:47,919
+and do that you can also download ffmpeg
+
+92
+00:03:47,919 --> 00:03:49,810
+just do a Google search or maybe I'll
+
+93
+00:03:49,810 --> 00:03:53,010
+make a video of it but search audacity
+
+94
+00:03:53,010 --> 00:03:55,780
+install SSM peg if you do a google
+
+95
+00:03:55,780 --> 00:03:56,950
+search for that you'll find a tutorial
+
+96
+00:03:56,950 --> 00:03:59,230
+showing you how to do that but you do
+
+97
+00:03:59,230 --> 00:04:01,359
+have to have ffmpeg and I'm trying to
+
+98
+00:04:01,359 --> 00:04:02,859
+think here I don't know if I if I can
+
+99
+00:04:02,859 --> 00:04:05,109
+actually testing I don't know if I can
+
+100
+00:04:05,109 --> 00:04:07,810
+export mp3s
+
+101
+00:04:07,810 --> 00:04:12,460
+maybe I can no see ya so I also don't
+
+102
+00:04:12,460 --> 00:04:14,620
+have a lame properly installed so let me
+
+103
+00:04:14,620 --> 00:04:16,060
+make a video on that showing how to get
+
+104
+00:04:16,060 --> 00:04:18,310
+lanes configured and ffmpeg configured
+
+105
+00:04:18,310 --> 00:04:21,279
+for you because you can't export oh here
+
+106
+00:04:21,279 --> 00:04:22,300
+we go right here just click download
+
+107
+00:04:22,300 --> 00:04:24,130
+maybe it'll just do it or maybe it'll
+
+108
+00:04:24,130 --> 00:04:26,350
+take us to the page anyway you can go
+
+109
+00:04:26,350 --> 00:04:27,550
+you can just walk through these steps
+
+110
+00:04:27,550 --> 00:04:29,920
+here and it tells you how to do it but
+
+111
+00:04:29,920 --> 00:04:30,940
+I'll make a video kind of walking
+
+112
+00:04:30,940 --> 00:04:32,980
+through it as well because you have to
+
+113
+00:04:32,980 --> 00:04:37,390
+have in order to export your mp3s you'll
+
+114
+00:04:37,390 --> 00:04:40,870
+have to have that what else when we
+
+115
+00:04:40,870 --> 00:04:43,480
+export OGG is that can open source audio
+
+116
+00:04:43,480 --> 00:04:44,770
+format so that's a cool one you can
+
+117
+00:04:44,770 --> 00:04:48,040
+export in you can export as MIDI but
+
+118
+00:04:48,040 --> 00:04:49,570
+that's only gonna be if you actually
+
+119
+00:04:49,570 --> 00:04:53,710
+have a MIDI sequence export audio lets
+
+120
+00:04:53,710 --> 00:04:55,600
+us just choose oh cool so if you want to
+
+121
+00:04:55,600 --> 00:04:57,850
+export in a different version you can
+
+122
+00:04:57,850 --> 00:05:00,190
+just go export audio then you can choose
+
+123
+00:05:00,190 --> 00:05:02,590
+from this drop-down so if you want to do
+
+124
+00:05:02,590 --> 00:05:06,520
+like this FLAC is like a lossless really
+
+125
+00:05:06,520 --> 00:05:09,280
+good like audio format there's always
+
+126
+00:05:09,280 --> 00:05:12,370
+there's like different file different
+
+127
+00:05:12,370 --> 00:05:14,380
+formats as well but and if it says
+
+128
+00:05:14,380 --> 00:05:16,270
+ffmpeg after it then you have to have
+
+129
+00:05:16,270 --> 00:05:18,460
+ffmpeg installed in order to do these
+
+130
+00:05:18,460 --> 00:05:20,320
+like these are more like video like
+
+131
+00:05:20,320 --> 00:05:22,720
+formats that like this AAC is an audio
+
+132
+00:05:22,720 --> 00:05:25,020
+type that gets used in video quite often
+
+133
+00:05:25,020 --> 00:05:28,330
+so but that's how you would save
+
+134
+00:05:28,330 --> 00:05:31,120
+something other than these ones that it
+
+135
+00:05:31,120 --> 00:05:34,630
+just gives you by default these three so
+
+136
+00:05:34,630 --> 00:05:35,830
+that turned into a kind of more of a
+
+137
+00:05:35,830 --> 00:05:38,140
+video than just importing audio tracks
+
+138
+00:05:38,140 --> 00:05:39,850
+from a video but hopefully you found
+
+139
+00:05:39,850 --> 00:05:42,520
+that informative and I'll catch you on
+
+140
+00:05:42,520 --> 00:05:44,940
+the next video
+

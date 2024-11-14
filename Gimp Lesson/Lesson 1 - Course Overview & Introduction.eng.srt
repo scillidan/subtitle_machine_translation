@@ -1,0 +1,260 @@
+1
+00:00:00,030 --> 00:00:02,190
+I'm Rendon Rick's with TJ free in this
+
+2
+00:00:02,190 --> 00:00:03,750
+tutorial series we'll learn how to use
+
+3
+00:00:03,750 --> 00:00:06,810
+the free program to create 2d art
+
+4
+00:00:06,810 --> 00:00:09,780
+and photo edit our images if you're not
+
+5
+00:00:09,780 --> 00:00:11,340
+familiar with it's a free program
+
+6
+00:00:11,340 --> 00:00:13,349
+available for Windows Linux and Mac and
+
+7
+00:00:13,349 --> 00:00:15,420
+it's very similar to Adobe Photoshop
+
+8
+00:00:15,420 --> 00:00:17,550
+this is a free open-source program
+
+9
+00:00:17,550 --> 00:00:18,779
+that's free forever and very
+
+10
+00:00:18,779 --> 00:00:20,939
+full-featured and professional in this
+
+11
+00:00:20,939 --> 00:00:22,439
+tutorial series we'll learn how to use
+
+12
+00:00:22,439 --> 00:00:24,630
+ from a very basic level I'll teach
+
+13
+00:00:24,630 --> 00:00:26,340
+you how to install it and then we'll
+
+14
+00:00:26,340 --> 00:00:28,140
+learn the basic tools how to create a
+
+15
+00:00:28,140 --> 00:00:30,599
+new project how to manage that project
+
+16
+00:00:30,599 --> 00:00:32,279
+and export our images in different file
+
+17
+00:00:32,279 --> 00:00:35,040
+formats I use just about every day
+
+18
+00:00:35,040 --> 00:00:37,469
+to resize images and to do quick little
+
+19
+00:00:37,469 --> 00:00:39,809
+edits but I do want to say that there
+
+20
+00:00:39,809 --> 00:00:40,890
+are some different alternatives
+
+21
+00:00:40,890 --> 00:00:42,300
+depending on what you want to do if
+
+22
+00:00:42,300 --> 00:00:43,800
+you're interested in digital art you
+
+23
+00:00:43,800 --> 00:00:45,360
+should really look into credo
+
+24
+00:00:45,360 --> 00:00:47,640
+it's also an open source project that is
+
+25
+00:00:47,640 --> 00:00:49,860
+much more geared towards working with
+
+26
+00:00:49,860 --> 00:00:52,350
+brushes and kind of recreating the the
+
+27
+00:00:52,350 --> 00:00:54,510
+aesthetics of fine art and creating art
+
+28
+00:00:54,510 --> 00:00:56,850
+on a computer I would steer away from
+
+29
+00:00:56,850 --> 00:00:58,680
+using for that purpose even though
+
+30
+00:00:58,680 --> 00:01:00,359
+you can use for creating digital
+
+31
+00:01:00,359 --> 00:01:02,670
+art also if you're working with raw
+
+32
+00:01:02,670 --> 00:01:03,870
+photos or you're working with just
+
+33
+00:01:03,870 --> 00:01:05,970
+photography where you're just trying to
+
+34
+00:01:05,970 --> 00:01:07,650
+adjust the colors there's a really good
+
+35
+00:01:07,650 --> 00:01:10,049
+free program called darktable for that
+
+36
+00:01:10,049 --> 00:01:12,479
+it's similar to Adobe Lightroom and it's
+
+37
+00:01:12,479 --> 00:01:14,610
+going to be a very much more powerful
+
+38
+00:01:14,610 --> 00:01:16,740
+tool than for working with actual
+
+39
+00:01:16,740 --> 00:01:19,710
+photos including raw photos but if all
+
+40
+00:01:19,710 --> 00:01:21,659
+you want to do is some basic edits you
+
+41
+00:01:21,659 --> 00:01:23,250
+want to maybe touch-up photos
+
+42
+00:01:23,250 --> 00:01:25,080
+ is a great tool for that I've used
+
+43
+00:01:25,080 --> 00:01:27,030
+it in the past for repairing tears on
+
+44
+00:01:27,030 --> 00:01:29,610
+photographs and and maybe taking out
+
+45
+00:01:29,610 --> 00:01:31,530
+parts of photos where you race a part of
+
+46
+00:01:31,530 --> 00:01:33,060
+it or you take two different pictures
+
+47
+00:01:33,060 --> 00:01:34,979
+and composite them on top of each other
+
+48
+00:01:34,979 --> 00:01:37,110
+so a lot of great powerful things if you
+
+49
+00:01:37,110 --> 00:01:39,210
+work a lot in web or you want to like
+
+50
+00:01:39,210 --> 00:01:41,040
+quickly design like an ad bar or
+
+51
+00:01:41,040 --> 00:01:42,960
+something imp is a great tool for that
+
+52
+00:01:42,960 --> 00:01:45,509
+just an all-around good tool to have so
+
+53
+00:01:45,509 --> 00:01:46,860
+I'm glad you found this tutorial series
+
+54
+00:01:46,860 --> 00:01:48,689
+go ahead and check out the other videos
+
+55
+00:01:48,689 --> 00:01:49,950
+I'll include them in the link in the
+
+56
+00:01:49,950 --> 00:01:51,630
+links for them in the description of
+
+57
+00:01:51,630 --> 00:01:53,280
+this video and if you're interested in
+
+58
+00:01:53,280 --> 00:01:55,020
+open source software in general check
+
+59
+00:01:55,020 --> 00:01:56,759
+out my channel I have playlists on all
+
+60
+00:01:56,759 --> 00:01:58,590
+kinds of open-source software for video
+
+61
+00:01:58,590 --> 00:02:01,409
+and creative and music and all kinds of
+
+62
+00:02:01,409 --> 00:02:03,600
+things so check those out and go ahead
+
+63
+00:02:03,600 --> 00:02:04,799
+and don't forget to Like comment
+
+64
+00:02:04,799 --> 00:02:06,270
+subscribe and I look forward to catching
+
+65
+00:02:06,270 --> 00:02:09,649
+you in the next video
+

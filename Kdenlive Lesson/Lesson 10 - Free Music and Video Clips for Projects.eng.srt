@@ -1,0 +1,756 @@
+1
+00:00:02,870 --> 00:00:05,160
+welcome back to another video editing
+
+2
+00:00:05,160 --> 00:00:07,080
+tutorial with the free software kdenlive
+
+3
+00:00:07,080 --> 00:00:09,690
+in this video I just want to show you a
+
+4
+00:00:09,690 --> 00:00:12,809
+couple cool resources that you might
+
+5
+00:00:12,809 --> 00:00:14,909
+have been aware of in kdenlive
+
+6
+00:00:14,909 --> 00:00:18,269
+the first thing is let's say we have a
+
+7
+00:00:18,269 --> 00:00:20,789
+video clip let's grab in I'll just go
+
+8
+00:00:20,789 --> 00:00:23,009
+add clip and let's bring in one of these
+
+9
+00:00:23,009 --> 00:00:24,630
+ones we've used before like this cyclist
+
+10
+00:00:24,630 --> 00:00:30,240
+video and so we'll just click here to
+
+11
+00:00:30,240 --> 00:00:32,610
+zoom in so this video doesn't have any
+
+12
+00:00:32,610 --> 00:00:34,650
+audio so let's say we wanted to put in
+
+13
+00:00:34,650 --> 00:00:36,330
+like a sound effect at a certain point
+
+14
+00:00:36,330 --> 00:00:38,310
+in this video like when he's like
+
+15
+00:00:38,310 --> 00:00:39,870
+grabbing the bike or right when he's
+
+16
+00:00:39,870 --> 00:00:42,150
+about to write off so if we wanted like
+
+17
+00:00:42,150 --> 00:00:44,850
+a I don't know what the sound would be
+
+18
+00:00:44,850 --> 00:00:47,280
+but instead of going we can go to like
+
+19
+00:00:47,280 --> 00:00:49,530
+freesound.org or we can go record our
+
+20
+00:00:49,530 --> 00:00:51,390
+own sound but we can find some online
+
+21
+00:00:51,390 --> 00:00:54,000
+but also kdenlive has built-in options
+
+22
+00:00:54,000 --> 00:00:58,400
+if we go to project we can go to online
+
+23
+00:00:58,400 --> 00:01:01,590
+resources right here so under project
+
+24
+00:01:01,590 --> 00:01:03,600
+online resources it brings up this
+
+25
+00:01:03,600 --> 00:01:05,700
+dialog box I think we can also do it by
+
+26
+00:01:05,700 --> 00:01:07,650
+clicking this triangle here yeah and
+
+27
+00:01:07,650 --> 00:01:10,380
+then we go to online resources and so
+
+28
+00:01:10,380 --> 00:01:12,270
+there's a couple different as of the
+
+29
+00:01:12,270 --> 00:01:14,160
+recording of this video there's three
+
+30
+00:01:14,160 --> 00:01:15,810
+different options we can search for
+
+31
+00:01:15,810 --> 00:01:17,580
+clipart which is going to be like vector
+
+32
+00:01:17,580 --> 00:01:20,880
+graphics and like just steal pictures of
+
+33
+00:01:20,880 --> 00:01:22,860
+usually like cartoony looking pictures
+
+34
+00:01:22,860 --> 00:01:27,060
+we can do archive.org video library and
+
+35
+00:01:27,060 --> 00:01:28,920
+any of these places we can just go to
+
+36
+00:01:28,920 --> 00:01:31,020
+directly as well
+
+37
+00:01:31,020 --> 00:01:33,000
+well this clip arts a collection of
+
+38
+00:01:33,000 --> 00:01:34,950
+places I think and there's free sound
+
+39
+00:01:34,950 --> 00:01:39,210
+audio library and so so if we if we want
+
+40
+00:01:39,210 --> 00:01:41,340
+to find a sound effect for this we can
+
+41
+00:01:41,340 --> 00:01:43,049
+even type we can even find music we just
+
+42
+00:01:43,049 --> 00:01:45,930
+type in music or maybe we type in jazz
+
+43
+00:01:45,930 --> 00:01:49,110
+if you want a certain type of music it
+
+44
+00:01:49,110 --> 00:01:50,430
+brings up all these different options
+
+45
+00:01:50,430 --> 00:01:53,430
+for files and it says here so this is
+
+46
+00:01:53,430 --> 00:01:56,119
+the duration of this is 15 seconds long
+
+47
+00:01:56,119 --> 00:01:57,960
+there's a couple different ones here
+
+48
+00:01:57,960 --> 00:02:00,920
+this one's three and a half seconds long
+
+49
+00:02:00,920 --> 00:02:03,690
+this is more jazz so let's do this 15
+
+50
+00:02:03,690 --> 00:02:05,100
+second one so we can actually click
+
+51
+00:02:05,100 --> 00:02:06,690
+preview to listen to it and see what it
+
+52
+00:02:06,690 --> 00:02:09,020
+sounds like
+
+53
+00:02:09,899 --> 00:02:12,489
+cool so if we like that we can actually
+
+54
+00:02:12,489 --> 00:02:14,500
+just click import and it says where do
+
+55
+00:02:14,500 --> 00:02:15,310
+you want to save it on your computer
+
+56
+00:02:15,310 --> 00:02:17,439
+will say save it under music we'll call
+
+57
+00:02:17,439 --> 00:02:19,569
+it yeah more jazz guitar dot mp3 click
+
+58
+00:02:19,569 --> 00:02:22,540
+Save and then it just is right there on
+
+59
+00:02:22,540 --> 00:02:23,230
+our computer
+
+60
+00:02:23,230 --> 00:02:25,450
+it actually downloads it and saves it
+
+61
+00:02:25,450 --> 00:02:28,540
+and brings it in to our as a resource we
+
+62
+00:02:28,540 --> 00:02:30,670
+can use in our project bin that's pretty
+
+63
+00:02:30,670 --> 00:02:32,319
+cool huh and then we can just drag it
+
+64
+00:02:32,319 --> 00:02:34,900
+down and now we have this music we can
+
+65
+00:02:34,900 --> 00:02:45,400
+play in our project pretty cool huh
+
+66
+00:02:45,400 --> 00:02:46,930
+and then if we wanted something to we
+
+67
+00:02:46,930 --> 00:02:48,639
+can grab if we want to play with green
+
+68
+00:02:48,639 --> 00:02:50,709
+screen or for example we can go to back
+
+69
+00:02:50,709 --> 00:02:52,689
+to the online resources we can go down
+
+70
+00:02:52,689 --> 00:02:56,139
+to well we can go to the video yeah
+
+71
+00:02:56,139 --> 00:02:57,519
+video library when you just type in
+
+72
+00:02:57,519 --> 00:03:00,549
+green screen maybe we want a video that
+
+73
+00:03:00,549 --> 00:03:02,889
+has green screen we click search and it
+
+74
+00:03:02,889 --> 00:03:04,419
+has all these different options now
+
+75
+00:03:04,419 --> 00:03:06,519
+these we can't preview at least not
+
+76
+00:03:06,519 --> 00:03:08,889
+within here to look at it like this
+
+77
+00:03:08,889 --> 00:03:12,540
+North I'm not sure which was we got here
+
+78
+00:03:12,540 --> 00:03:14,739
+we'll find one that we think might be
+
+79
+00:03:14,739 --> 00:03:16,840
+like pixie green screen it tells a
+
+80
+00:03:16,840 --> 00:03:18,819
+little bit about it and if we have all
+
+81
+00:03:18,819 --> 00:03:19,930
+the different options for how we can
+
+82
+00:03:19,930 --> 00:03:24,459
+import it they can be flash MPEG oh gee
+
+83
+00:03:24,459 --> 00:03:25,989
+geez we got these different options and
+
+84
+00:03:25,989 --> 00:03:27,609
+also has the license down here so this
+
+85
+00:03:27,609 --> 00:03:30,250
+ins we have to provide attribution to
+
+86
+00:03:30,250 --> 00:03:32,470
+the person that created it which it'll
+
+87
+00:03:32,470 --> 00:03:35,530
+say not sure where it says it we can go
+
+88
+00:03:35,530 --> 00:03:37,599
+to the website to find out and we can
+
+89
+00:03:37,599 --> 00:03:39,099
+not use it for commercial purposes and
+
+90
+00:03:39,099 --> 00:03:40,870
+it's under a share alike license but
+
+91
+00:03:40,870 --> 00:03:43,060
+they have different licenses so they'll
+
+92
+00:03:43,060 --> 00:03:44,889
+tell you and in fact that we should
+
+93
+00:03:44,889 --> 00:03:46,449
+looked at that one that we used that J
+
+94
+00:03:46,449 --> 00:03:50,519
+Deb jazz here oops
+
+95
+00:03:50,519 --> 00:03:52,599
+search we go back to find the one that
+
+96
+00:03:52,599 --> 00:03:54,729
+we used so that one was under Creative
+
+97
+00:03:54,729 --> 00:03:58,930
+Commons 0 so it's just very very open we
+
+98
+00:03:58,930 --> 00:04:01,090
+can use it for commercial purposes a
+
+99
+00:04:01,090 --> 00:04:03,189
+null attribute required but a different
+
+100
+00:04:03,189 --> 00:04:04,090
+ones have different so this is
+
+101
+00:04:04,090 --> 00:04:06,069
+attribution non-commercial if you're not
+
+102
+00:04:06,069 --> 00:04:07,030
+familiar with the Creative Commons
+
+103
+00:04:07,030 --> 00:04:09,370
+licenses I have I made a video about
+
+104
+00:04:09,370 --> 00:04:10,720
+that so you can check that out and learn
+
+105
+00:04:10,720 --> 00:04:12,159
+about with the difference license types
+
+106
+00:04:12,159 --> 00:04:14,079
+but just make sure you always understand
+
+107
+00:04:14,079 --> 00:04:15,909
+just because you can download something
+
+108
+00:04:15,909 --> 00:04:17,048
+off the internet doesn't mean it's
+
+109
+00:04:17,048 --> 00:04:19,750
+completely free to use for any purpose
+
+110
+00:04:19,750 --> 00:04:22,010
+you always have to check with what the
+
+111
+00:04:22,010 --> 00:04:24,980
+the author or the creator that has
+
+112
+00:04:24,980 --> 00:04:27,350
+allowed for those purposes to be used
+
+113
+00:04:27,350 --> 00:04:31,070
+for let's see what else okay so we've
+
+114
+00:04:31,070 --> 00:04:32,990
+got a clipart let's let's look at
+
+115
+00:04:32,990 --> 00:04:34,760
+clipart and we don't wanna search jazz
+
+116
+00:04:34,760 --> 00:04:36,800
+on clipart we want to search whatever we
+
+117
+00:04:36,800 --> 00:04:40,490
+want to do me we want to do oh so it did
+
+118
+00:04:40,490 --> 00:04:42,860
+jazz actually I don't know we can do
+
+119
+00:04:42,860 --> 00:04:48,920
+like a head and so it searches finds all
+
+120
+00:04:48,920 --> 00:04:50,480
+these different things for hat and then
+
+121
+00:04:50,480 --> 00:04:51,770
+we can go through and look and we can
+
+122
+00:04:51,770 --> 00:04:53,210
+look at though this is a public domain
+
+123
+00:04:53,210 --> 00:04:56,510
+police stop so we can be okay and if we
+
+124
+00:04:56,510 --> 00:04:57,860
+click the link we follow the link it'll
+
+125
+00:04:57,860 --> 00:04:59,090
+actually bring it up in the web browser
+
+126
+00:04:59,090 --> 00:05:01,310
+and we can look and see this is what it
+
+127
+00:05:01,310 --> 00:05:03,080
+looks like and then we can just download
+
+128
+00:05:03,080 --> 00:05:03,830
+it from here
+
+129
+00:05:03,830 --> 00:05:06,320
+or we could download it we can just
+
+130
+00:05:06,320 --> 00:05:08,150
+click down the import here and I'll say
+
+131
+00:05:08,150 --> 00:05:09,740
+where do you want to save it maybe we'll
+
+132
+00:05:09,740 --> 00:05:12,800
+put it under our pictures folder call it
+
+133
+00:05:12,800 --> 00:05:15,410
+police stop and this is an SVG image so
+
+134
+00:05:15,410 --> 00:05:17,540
+now it's there it's brought in now we
+
+135
+00:05:17,540 --> 00:05:19,070
+can bring it in and we could either have
+
+136
+00:05:19,070 --> 00:05:21,440
+it be as part of our video we can just
+
+137
+00:05:21,440 --> 00:05:23,690
+play it and we can't see it because it's
+
+138
+00:05:23,690 --> 00:05:26,300
+a black background or we can overlay it
+
+139
+00:05:26,300 --> 00:05:29,510
+over top here to the so now we've got
+
+140
+00:05:29,510 --> 00:05:37,700
+like this overlay yeah anyway that's
+
+141
+00:05:37,700 --> 00:05:38,960
+what I want to show you is these free
+
+142
+00:05:38,960 --> 00:05:41,450
+resources then also and this isn't
+
+143
+00:05:41,450 --> 00:05:42,650
+working for me I think it's because I'm
+
+144
+00:05:42,650 --> 00:05:44,270
+using a portable version on Windows but
+
+145
+00:05:44,270 --> 00:05:46,310
+this should work for you on Linux if you
+
+146
+00:05:46,310 --> 00:05:49,280
+over the settings here where was it at
+
+147
+00:05:49,280 --> 00:05:50,630
+you can go to download so we can
+
+148
+00:05:50,630 --> 00:05:53,000
+download new wipes so we can get all
+
+149
+00:05:53,000 --> 00:05:56,720
+kinds of different effects for wipes we
+
+150
+00:05:56,720 --> 00:05:57,740
+have all these different ones we can
+
+151
+00:05:57,740 --> 00:05:59,950
+just look at look at it see what it does
+
+152
+00:05:59,950 --> 00:06:02,750
+so like for like transitions wipes we
+
+153
+00:06:02,750 --> 00:06:05,660
+can also do we can download new title
+
+154
+00:06:05,660 --> 00:06:06,920
+templates and there's only a few of
+
+155
+00:06:06,920 --> 00:06:08,720
+these right now as of the recording of
+
+156
+00:06:08,720 --> 00:06:10,520
+this video but this could expand in the
+
+157
+00:06:10,520 --> 00:06:12,200
+future and if you're interested in
+
+158
+00:06:12,200 --> 00:06:14,150
+contributing you might be able to even
+
+159
+00:06:14,150 --> 00:06:16,340
+create some and then submit them as a
+
+160
+00:06:16,340 --> 00:06:18,380
+change since kdenlive is an open-source
+
+161
+00:06:18,380 --> 00:06:21,830
+project you can potentially could
+
+162
+00:06:21,830 --> 00:06:24,560
+contribute to this software and create
+
+163
+00:06:24,560 --> 00:06:27,440
+your own add-on templates to be added
+
+164
+00:06:27,440 --> 00:06:29,390
+into the software but anyway these are
+
+165
+00:06:29,390 --> 00:06:30,560
+some different ones that we can you can
+
+166
+00:06:30,560 --> 00:06:31,439
+download
+
+167
+00:06:31,439 --> 00:06:35,249
+and just shows you kind of what they are
+
+168
+00:06:35,249 --> 00:06:36,869
+and you can go to the website and
+
+169
+00:06:36,869 --> 00:06:38,159
+download and install them that way or
+
+170
+00:06:38,159 --> 00:06:39,809
+you can just do it from within the
+
+171
+00:06:39,809 --> 00:06:42,300
+software just click install and
+
+172
+00:06:42,300 --> 00:06:47,009
+uninstall all right well that is I think
+
+173
+00:06:47,009 --> 00:06:49,679
+what I wanted to show you also if you
+
+174
+00:06:49,679 --> 00:06:51,119
+need help there's like this we've got
+
+175
+00:06:51,119 --> 00:06:53,519
+the kdenlive handbook under help it just
+
+176
+00:06:53,519 --> 00:06:54,929
+goes and there's all kinds of different
+
+177
+00:06:54,929 --> 00:06:56,989
+if you're wondering about rendering
+
+178
+00:06:56,989 --> 00:07:00,449
+there's some difference you know some
+
+179
+00:07:00,449 --> 00:07:02,159
+information here and again you could
+
+180
+00:07:02,159 --> 00:07:04,919
+contribute to this and actually help
+
+181
+00:07:04,919 --> 00:07:07,979
+improve this resource as well but just a
+
+182
+00:07:07,979 --> 00:07:09,149
+couple things I found when I was you
+
+183
+00:07:09,149 --> 00:07:10,259
+know kind of looking through some of the
+
+184
+00:07:10,259 --> 00:07:11,729
+different options here that I've failed
+
+185
+00:07:11,729 --> 00:07:14,479
+to mention in some of the earlier videos
+
+186
+00:07:14,479 --> 00:07:16,019
+hopefully you found this video
+
+187
+00:07:16,019 --> 00:07:17,459
+informative go ahead and like the
+
+188
+00:07:17,459 --> 00:07:18,989
+subscribe comment below and I'll catch
+
+189
+00:07:18,989 --> 00:07:22,009
+you in the next video
+

@@ -1,0 +1,788 @@
+1
+00:00:02,210 --> 00:00:04,830
+welcome to another tutorial in this
+
+2
+00:00:04,830 --> 00:00:06,330
+video we'll learn about the basics of
+
+3
+00:00:06,330 --> 00:00:08,910
+layers within there's a couple
+
+4
+00:00:08,910 --> 00:00:09,990
+different things to know about layers
+
+5
+00:00:09,990 --> 00:00:13,289
+one is we can use layers across the top
+
+6
+00:00:13,289 --> 00:00:14,909
+menu bar here we can create a new layer
+
+7
+00:00:14,909 --> 00:00:16,560
+and there's some different options for
+
+8
+00:00:16,560 --> 00:00:18,150
+layers we can delete or duplicate a
+
+9
+00:00:18,150 --> 00:00:20,099
+layer and then the way that we interact
+
+10
+00:00:20,099 --> 00:00:21,929
+with these layers is over here towards
+
+11
+00:00:21,929 --> 00:00:24,480
+the right-hand side and right now we see
+
+12
+00:00:24,480 --> 00:00:26,609
+we have one layer called background now
+
+13
+00:00:26,609 --> 00:00:28,019
+if you're not seeing this or if it's not
+
+14
+00:00:28,019 --> 00:00:30,029
+called background for example if this is
+
+15
+00:00:30,029 --> 00:00:31,589
+close if we don't have a document our
+
+16
+00:00:31,589 --> 00:00:33,870
+layers appears empty because we have no
+
+17
+00:00:33,870 --> 00:00:36,300
+layer because we have no project but if
+
+18
+00:00:36,300 --> 00:00:37,980
+we open up an image maybe I'll just open
+
+19
+00:00:37,980 --> 00:00:39,960
+an image for a good example we'll choose
+
+20
+00:00:39,960 --> 00:00:42,000
+an image and we'll open it up just a
+
+21
+00:00:42,000 --> 00:00:45,060
+regular JPEG image and now we see the
+
+22
+00:00:45,060 --> 00:00:47,520
+name of the image and it is also our
+
+23
+00:00:47,520 --> 00:00:50,190
+layer we can change the name by just
+
+24
+00:00:50,190 --> 00:00:51,600
+double-clicking in here and we can call
+
+25
+00:00:51,600 --> 00:00:54,960
+this guy and so this is like the the guy
+
+26
+00:00:54,960 --> 00:00:57,540
+layer but the reason layers are nice is
+
+27
+00:00:57,540 --> 00:01:01,200
+because let's say we wanted to draw we
+
+28
+00:01:01,200 --> 00:01:05,250
+want that like circle this guy well if
+
+29
+00:01:05,250 --> 00:01:06,900
+we want if we draw the circle and then
+
+30
+00:01:06,900 --> 00:01:08,550
+later on we get doing something else we
+
+31
+00:01:08,550 --> 00:01:10,320
+adjust the colors and we want to move
+
+32
+00:01:10,320 --> 00:01:12,960
+change this circle a little bit we've
+
+33
+00:01:12,960 --> 00:01:14,370
+learned in the past we could kind of
+
+34
+00:01:14,370 --> 00:01:17,280
+select there's different options but
+
+35
+00:01:17,280 --> 00:01:19,170
+really since it's all on the same layer
+
+36
+00:01:19,170 --> 00:01:21,390
+what we've done is we've drawn we've
+
+37
+00:01:21,390 --> 00:01:24,659
+changed the pixels underneath this to
+
+38
+00:01:24,659 --> 00:01:27,060
+black they're all just black now so if
+
+39
+00:01:27,060 --> 00:01:28,470
+we want to move it we can grab the move
+
+40
+00:01:28,470 --> 00:01:30,120
+tool but what we're going to end up
+
+41
+00:01:30,120 --> 00:01:33,090
+doing is moving the circle and the image
+
+42
+00:01:33,090 --> 00:01:35,880
+together and if that's not what we want
+
+43
+00:01:35,880 --> 00:01:38,400
+to do what we could do is I'll do ctrl Z
+
+44
+00:01:38,400 --> 00:01:39,120
+a bunch of times
+
+45
+00:01:39,120 --> 00:01:41,670
+we can come over here and go layer new
+
+46
+00:01:41,670 --> 00:01:44,070
+layer or I can right click in this area
+
+47
+00:01:44,070 --> 00:01:46,680
+and just go to new layer and it brings
+
+48
+00:01:46,680 --> 00:01:49,440
+up this dialog to create a new layer so
+
+49
+00:01:49,440 --> 00:01:51,060
+I'll call this layer circle I was doing
+
+50
+00:01:51,060 --> 00:01:52,650
+this earlier which is why that populated
+
+51
+00:01:52,650 --> 00:01:54,240
+with that I'll leave everything else the
+
+52
+00:01:54,240 --> 00:01:55,650
+same and hit OK
+
+53
+00:01:55,650 --> 00:01:58,680
+so now I have this circle layer and it
+
+54
+00:01:58,680 --> 00:02:00,570
+has a little white highlight around it
+
+55
+00:02:00,570 --> 00:02:02,159
+that's telling me that that is the layer
+
+56
+00:02:02,159 --> 00:02:05,670
+I'm on not the guy layer last time when
+
+57
+00:02:05,670 --> 00:02:07,320
+I drew the circle I was on the guy layer
+
+58
+00:02:07,320 --> 00:02:08,818
+so I'm going to click on this circle
+
+59
+00:02:08,818 --> 00:02:11,008
+layer and now I'm going to go into dry
+
+60
+00:02:11,008 --> 00:02:12,209
+circle
+
+61
+00:02:12,209 --> 00:02:15,840
+just like last time and now if I want to
+
+62
+00:02:15,840 --> 00:02:18,930
+move it'll just move the circle what
+
+63
+00:02:18,930 --> 00:02:21,060
+it's really doing is moving everything
+
+64
+00:02:21,060 --> 00:02:24,239
+on this layer and we could do we can
+
+65
+00:02:24,239 --> 00:02:26,129
+grab like the resize at the scale tool
+
+66
+00:02:26,129 --> 00:02:28,319
+and we can scale and change the size of
+
+67
+00:02:28,319 --> 00:02:30,090
+this circle but again what we're really
+
+68
+00:02:30,090 --> 00:02:32,310
+doing is changing the scale of
+
+69
+00:02:32,310 --> 00:02:34,590
+everything on this layer and by that I
+
+70
+00:02:34,590 --> 00:02:36,810
+mean if I if I had something else drawn
+
+71
+00:02:36,810 --> 00:02:40,980
+over here and I wanted to do let me
+
+72
+00:02:40,980 --> 00:02:42,959
+point like an arrow or something well if
+
+73
+00:02:42,959 --> 00:02:45,569
+we go to move now it's going to move the
+
+74
+00:02:45,569 --> 00:02:47,909
+circle but we can't select just the
+
+75
+00:02:47,909 --> 00:02:49,560
+circle and move it separately without
+
+76
+00:02:49,560 --> 00:02:52,560
+moving this arrow and also this I can
+
+77
+00:02:52,560 --> 00:02:54,659
+also come over here to just the layer of
+
+78
+00:02:54,659 --> 00:02:56,760
+the guy or just the layer of the entire
+
+79
+00:02:56,760 --> 00:02:59,340
+image and I can move the entire image
+
+80
+00:02:59,340 --> 00:03:02,489
+around now keeping these everything else
+
+81
+00:03:02,489 --> 00:03:05,819
+is drawn on the other layer intact now
+
+82
+00:03:05,819 --> 00:03:07,169
+if I'm going to drag it right here we
+
+83
+00:03:07,169 --> 00:03:09,180
+see these dots these a sort of squares
+
+84
+00:03:09,180 --> 00:03:10,769
+here we've looked at a little bit in the
+
+85
+00:03:10,769 --> 00:03:11,909
+past this just shows that this is
+
+86
+00:03:11,909 --> 00:03:13,980
+transparency so when this image is
+
+87
+00:03:13,980 --> 00:03:15,780
+actually rendered out and let's just do
+
+88
+00:03:15,780 --> 00:03:16,680
+it right now and see what it would look
+
+89
+00:03:16,680 --> 00:03:20,190
+like if we go to export as and I'll call
+
+90
+00:03:20,190 --> 00:03:23,639
+it test and put it on the desktop we can
+
+91
+00:03:23,639 --> 00:03:25,169
+see what this image will look like I'll
+
+92
+00:03:25,169 --> 00:03:29,129
+just export it so this image looks like
+
+93
+00:03:29,129 --> 00:03:32,430
+this now it has white up here because it
+
+94
+00:03:32,430 --> 00:03:34,260
+was transparent and it just defaulted to
+
+95
+00:03:34,260 --> 00:03:36,239
+white and it cut off the bottom of that
+
+96
+00:03:36,239 --> 00:03:38,549
+but it still has both these layers but
+
+97
+00:03:38,549 --> 00:03:40,949
+now everything is all just together it's
+
+98
+00:03:40,949 --> 00:03:42,959
+just a collection of pixels I can't edit
+
+99
+00:03:42,959 --> 00:03:44,819
+these layers I can't move this arrow or
+
+100
+00:03:44,819 --> 00:03:46,620
+the circle independently it's all just
+
+101
+00:03:46,620 --> 00:03:48,509
+one flattened image that's called like
+
+102
+00:03:48,509 --> 00:03:51,030
+flattened when you do that but in here I
+
+103
+00:03:51,030 --> 00:03:52,949
+still can do that but I want to show you
+
+104
+00:03:52,949 --> 00:03:55,199
+what that transparency looks like also
+
+105
+00:03:55,199 --> 00:03:56,939
+over here we have these little eyes so
+
+106
+00:03:56,939 --> 00:03:59,609
+we can turn off just this layer and keep
+
+107
+00:03:59,609 --> 00:04:01,079
+looking at this layer maybe it's
+
+108
+00:04:01,079 --> 00:04:02,970
+distracting us we want to just draw and
+
+109
+00:04:02,970 --> 00:04:05,790
+then turn this on it's still there it's
+
+110
+00:04:05,790 --> 00:04:07,079
+not deleted or anything it's just
+
+111
+00:04:07,079 --> 00:04:08,879
+toggling whether it's viewable or not
+
+112
+00:04:08,879 --> 00:04:11,489
+the eye when the eyes closed or off it's
+
+113
+00:04:11,489 --> 00:04:13,349
+not viewable and when it's open it is
+
+114
+00:04:13,349 --> 00:04:15,629
+viewable we can turn off the drawing
+
+115
+00:04:15,629 --> 00:04:17,940
+part too and we could bring in another
+
+116
+00:04:17,940 --> 00:04:19,259
+layer if we wanted we can right-click
+
+117
+00:04:19,259 --> 00:04:22,048
+and go new layer we can just call this
+
+118
+00:04:22,048 --> 00:04:24,639
+one whatever we want to
+
+119
+00:04:24,639 --> 00:04:26,409
+and now we have this different type of
+
+120
+00:04:26,409 --> 00:04:28,810
+this different layer here and maybe I'll
+
+121
+00:04:28,810 --> 00:04:31,389
+do something well watch this if we grab
+
+122
+00:04:31,389 --> 00:04:34,300
+the smudge tool and I try to apply
+
+123
+00:04:34,300 --> 00:04:36,610
+smudge here or we try to do the clone
+
+124
+00:04:36,610 --> 00:04:38,620
+tool and we try to clone different parts
+
+125
+00:04:38,620 --> 00:04:42,189
+nothing's happening that's because we're
+
+126
+00:04:42,189 --> 00:04:44,889
+referencing nothing the the layer were
+
+127
+00:04:44,889 --> 00:04:47,949
+on is this so if I turn off these this
+
+128
+00:04:47,949 --> 00:04:50,020
+is what we're really seeing so we're
+
+129
+00:04:50,020 --> 00:04:51,969
+cloning but we're cloning transparency
+
+130
+00:04:51,969 --> 00:04:54,189
+into transparency and when we grab the
+
+131
+00:04:54,189 --> 00:04:56,469
+smudge tool we're smudging transparency
+
+132
+00:04:56,469 --> 00:04:58,479
+and when we grab the move tool we're
+
+133
+00:04:58,479 --> 00:05:01,719
+moving transparency so and that really
+
+134
+00:05:01,719 --> 00:05:03,129
+is actually looks like it is moving the
+
+135
+00:05:03,129 --> 00:05:05,409
+the layer you can layer because the
+
+136
+00:05:05,409 --> 00:05:07,750
+layer is the same size it has attributes
+
+137
+00:05:07,750 --> 00:05:11,289
+too but what I want to show with that is
+
+138
+00:05:11,289 --> 00:05:13,419
+if we have everything turned on and
+
+139
+00:05:13,419 --> 00:05:15,340
+let's take this one and let's just fill
+
+140
+00:05:15,340 --> 00:05:17,740
+it with a color so that the transparency
+
+141
+00:05:17,740 --> 00:05:19,750
+is not throwing us off let's fill it
+
+142
+00:05:19,750 --> 00:05:23,680
+with red and now it fills everything but
+
+143
+00:05:23,680 --> 00:05:25,479
+the black still there but the picture is
+
+144
+00:05:25,479 --> 00:05:27,939
+gone right now this guy image is at the
+
+145
+00:05:27,939 --> 00:05:29,740
+very bottom which is why we can't see it
+
+146
+00:05:29,740 --> 00:05:31,509
+if we left click and drag it to the
+
+147
+00:05:31,509 --> 00:05:35,229
+middle it's kind of above the red but
+
+148
+00:05:35,229 --> 00:05:38,440
+it's behind the this circle that's why
+
+149
+00:05:38,440 --> 00:05:40,599
+the circles on top but the red is behind
+
+150
+00:05:40,599 --> 00:05:42,940
+the image and if we drag this on top
+
+151
+00:05:42,940 --> 00:05:45,969
+then we just see the image well it's
+
+152
+00:05:45,969 --> 00:05:47,469
+dragged down so we see a little bit
+
+153
+00:05:47,469 --> 00:05:48,759
+differently but we can't see those black
+
+154
+00:05:48,759 --> 00:05:51,520
+arrows on top let's say we grab this red
+
+155
+00:05:51,520 --> 00:05:53,740
+layer it's just solid red and drag it on
+
+156
+00:05:53,740 --> 00:05:56,379
+top well now we only see red so whatever
+
+157
+00:05:56,379 --> 00:05:59,710
+is on top is what you see first and then
+
+158
+00:05:59,710 --> 00:06:01,960
+if there's any gaps or transparency like
+
+159
+00:06:01,960 --> 00:06:05,979
+those squares you'll see it behind that
+
+160
+00:06:05,979 --> 00:06:07,870
+make sense so if we were to turn this
+
+161
+00:06:07,870 --> 00:06:09,580
+off this red we see the transparency
+
+162
+00:06:09,580 --> 00:06:11,620
+what's really there which is nothing
+
+163
+00:06:11,620 --> 00:06:13,689
+transparent unless something's in its
+
+164
+00:06:13,689 --> 00:06:16,360
+way and then it appears there this is a
+
+165
+00:06:16,360 --> 00:06:18,089
+basic introduction there's a lot more
+
+166
+00:06:18,089 --> 00:06:20,259
+that we're gonna get into with layers
+
+167
+00:06:20,259 --> 00:06:22,180
+but go ahead and play with these for now
+
+168
+00:06:22,180 --> 00:06:24,339
+toggling viewing it and then toggling
+
+169
+00:06:24,339 --> 00:06:25,900
+when you're selected on the layer and
+
+170
+00:06:25,900 --> 00:06:27,939
+just know when you have a certain tool
+
+171
+00:06:27,939 --> 00:06:30,279
+selected like move make sure that you're
+
+172
+00:06:30,279 --> 00:06:32,379
+moving the layer you can hover over and
+
+173
+00:06:32,379 --> 00:06:34,839
+move the layer and not the selection
+
+174
+00:06:34,839 --> 00:06:36,339
+because you can also move the selection
+
+175
+00:06:36,339 --> 00:06:38,540
+like we learned about previously
+
+176
+00:06:38,540 --> 00:06:40,910
+and that just moves what is selected it
+
+177
+00:06:40,910 --> 00:06:43,460
+doesn't really move the lair this one
+
+178
+00:06:43,460 --> 00:06:46,310
+you can either pick a lair to move so
+
+179
+00:06:46,310 --> 00:06:49,220
+whatever lair you click on will move or
+
+180
+00:06:49,220 --> 00:06:52,580
+if you say move active layer it'll move
+
+181
+00:06:52,580 --> 00:06:55,190
+whatever layer is selected but always
+
+182
+00:06:55,190 --> 00:06:56,510
+whenever you're using like a drawing
+
+183
+00:06:56,510 --> 00:06:58,100
+tool or most of the tools over here
+
+184
+00:06:58,100 --> 00:07:00,440
+it'll usually only apply to whatever
+
+185
+00:07:00,440 --> 00:07:03,050
+layer has this little white highlight
+
+186
+00:07:03,050 --> 00:07:04,850
+around it whichever one you're selected
+
+187
+00:07:04,850 --> 00:07:07,460
+on well that's the basic layers
+
+188
+00:07:07,460 --> 00:07:09,200
+hopefully I haven't confused you any
+
+189
+00:07:09,200 --> 00:07:10,760
+more with that one go ahead and leave
+
+190
+00:07:10,760 --> 00:07:12,110
+your questions and comments below if you
+
+191
+00:07:12,110 --> 00:07:13,850
+have any and take a little time to play
+
+192
+00:07:13,850 --> 00:07:15,230
+with layers because it's a very
+
+193
+00:07:15,230 --> 00:07:16,790
+fundamental part of and
+
+194
+00:07:16,790 --> 00:07:18,260
+understanding layers is going to help
+
+195
+00:07:18,260 --> 00:07:20,990
+you be able to go a lot farther in
+
+196
+00:07:20,990 --> 00:07:22,790
+thanks for watching catch you in the
+
+197
+00:07:22,790 --> 00:07:25,300
+next video
+

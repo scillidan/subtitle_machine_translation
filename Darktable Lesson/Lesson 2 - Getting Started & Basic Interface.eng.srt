@@ -1,0 +1,1008 @@
+1
+00:00:02,150 --> 00:00:04,500
+welcome to this darktable tutorial
+
+2
+00:00:04,500 --> 00:00:06,390
+series darktable is a great program for
+
+3
+00:00:06,390 --> 00:00:07,920
+managing and editing your photos
+
+4
+00:00:07,920 --> 00:00:10,289
+including your raw photos if you're a
+
+5
+00:00:10,289 --> 00:00:12,209
+photographer this is a must-have program
+
+6
+00:00:12,209 --> 00:00:14,309
+darktable is very similar to Adobe
+
+7
+00:00:14,309 --> 00:00:16,710
+Lightroom just as professional just as
+
+8
+00:00:16,710 --> 00:00:18,869
+powerful only not just as expensive
+
+9
+00:00:18,869 --> 00:00:21,480
+because darktable is 100% free and open
+
+10
+00:00:21,480 --> 00:00:23,009
+source if you don't already have
+
+11
+00:00:23,009 --> 00:00:24,900
+darktable you can download it for free
+
+12
+00:00:24,900 --> 00:00:26,759
+for windows linux and mac check out my
+
+13
+00:00:26,759 --> 00:00:28,080
+other videos where i show how to do that
+
+14
+00:00:28,080 --> 00:00:29,849
+but in this video we're going to be
+
+15
+00:00:29,849 --> 00:00:31,829
+exploring the interface of darktable
+
+16
+00:00:31,829 --> 00:00:33,360
+and we're going to be bringing in some
+
+17
+00:00:33,360 --> 00:00:34,980
+pictures and showing you just what it
+
+18
+00:00:34,980 --> 00:00:37,380
+can do and how to get started with the
+
+19
+00:00:37,380 --> 00:00:40,380
+very basics so to bring in a picture the
+
+20
+00:00:40,380 --> 00:00:41,970
+easiest way is to find it on your
+
+21
+00:00:41,970 --> 00:00:44,310
+computer so we can go to like pictures
+
+22
+00:00:44,310 --> 00:00:46,290
+here we can find a picture and we can
+
+23
+00:00:46,290 --> 00:00:48,570
+just drag and drop that picture in and
+
+24
+00:00:48,570 --> 00:00:51,300
+then we see it appears here we're in the
+
+25
+00:00:51,300 --> 00:00:54,240
+luck the light table right now we can
+
+26
+00:00:54,240 --> 00:00:55,740
+drag in a few different pictures just
+
+27
+00:00:55,740 --> 00:00:57,930
+like this and every time we drag it in
+
+28
+00:00:57,930 --> 00:01:00,060
+you notice a file is being created for
+
+29
+00:01:00,060 --> 00:01:02,370
+that picture so as we drag it in we'll
+
+30
+00:01:02,370 --> 00:01:04,290
+drag in this one here and then a file
+
+31
+00:01:04,290 --> 00:01:05,850
+gets create to the side of it this is an
+
+32
+00:01:05,850 --> 00:01:10,290
+XMP file created by darktable this has
+
+33
+00:01:10,290 --> 00:01:12,090
+all the information about the picture
+
+34
+00:01:12,090 --> 00:01:13,440
+all the changes that we've made
+
+35
+00:01:13,440 --> 00:01:16,050
+which means our picture never gets
+
+36
+00:01:16,050 --> 00:01:18,210
+changed this picture that we that we
+
+37
+00:01:18,210 --> 00:01:20,010
+bring in will never be edited or
+
+38
+00:01:20,010 --> 00:01:22,430
+modified or changed at all directly
+
+39
+00:01:22,430 --> 00:01:25,440
+instead all the changes are kept in a
+
+40
+00:01:25,440 --> 00:01:27,810
+record next to that picture and then
+
+41
+00:01:27,810 --> 00:01:30,000
+when we go to export the picture it
+
+42
+00:01:30,000 --> 00:01:32,370
+applies those changes so this is sort of
+
+43
+00:01:32,370 --> 00:01:34,380
+similar you can think of the the light
+
+44
+00:01:34,380 --> 00:01:36,780
+table as like a traditional light table
+
+45
+00:01:36,780 --> 00:01:38,250
+for a photographer that's working with
+
+46
+00:01:38,250 --> 00:01:40,440
+film you bring in the different pictures
+
+47
+00:01:40,440 --> 00:01:42,510
+that you want to work with you look at
+
+48
+00:01:42,510 --> 00:01:44,729
+them on the light table then you take
+
+49
+00:01:44,729 --> 00:01:47,490
+them into the darkroom to edit them and
+
+50
+00:01:47,490 --> 00:01:50,280
+apply some changes but when you develop
+
+51
+00:01:50,280 --> 00:01:52,650
+your final picture you still always keep
+
+52
+00:01:52,650 --> 00:01:55,620
+your original negative intact unchanged
+
+53
+00:01:55,620 --> 00:01:58,409
+and the changes are only applied to the
+
+54
+00:01:58,409 --> 00:02:00,900
+new picture you've created this will
+
+55
+00:02:00,900 --> 00:02:03,180
+make more sense as we dive in and do
+
+56
+00:02:03,180 --> 00:02:05,159
+more of this in the future I just wanna
+
+57
+00:02:05,159 --> 00:02:06,990
+show you another quick way we can bring
+
+58
+00:02:06,990 --> 00:02:09,209
+in pictures is in the import tab we can
+
+59
+00:02:09,209 --> 00:02:11,340
+just click image and import a single
+
+60
+00:02:11,340 --> 00:02:13,440
+image by itself and go to open
+
+61
+00:02:13,440 --> 00:02:16,080
+and just bring in a single image and
+
+62
+00:02:16,080 --> 00:02:17,460
+then we go to the light table and we
+
+63
+00:02:17,460 --> 00:02:19,440
+still see them there we can also bring
+
+64
+00:02:19,440 --> 00:02:21,090
+in the entire folder which is more
+
+65
+00:02:21,090 --> 00:02:22,890
+practical for most of the time just
+
+66
+00:02:22,890 --> 00:02:24,930
+click on under import click on folder
+
+67
+00:02:24,930 --> 00:02:27,030
+and then go to the folder that you want
+
+68
+00:02:27,030 --> 00:02:30,480
+to bring in and click open and then it
+
+69
+00:02:30,480 --> 00:02:33,270
+brings in every picture in that folder
+
+70
+00:02:33,270 --> 00:02:36,000
+and it also creates on our computer
+
+71
+00:02:36,000 --> 00:02:39,450
+it'll create that XMP file next to each
+
+72
+00:02:39,450 --> 00:02:41,700
+one of those pictures for us it's just
+
+73
+00:02:41,700 --> 00:02:43,050
+important that you don't delete this
+
+74
+00:02:43,050 --> 00:02:44,520
+it's sometimes when you're first using
+
+75
+00:02:44,520 --> 00:02:45,840
+darktable you see this and you think
+
+76
+00:02:45,840 --> 00:02:48,270
+that's weird why do I have that so if
+
+77
+00:02:48,270 --> 00:02:50,310
+you just send if you make an edit to a
+
+78
+00:02:50,310 --> 00:02:51,990
+picture and then just send someone the
+
+79
+00:02:51,990 --> 00:02:53,940
+original picture it won't have any of
+
+80
+00:02:53,940 --> 00:02:56,070
+your edits or changes to it just be
+
+81
+00:02:56,070 --> 00:02:58,980
+aware of that okay in the light table
+
+82
+00:02:58,980 --> 00:03:01,740
+area we can make changes to the to the
+
+83
+00:03:01,740 --> 00:03:03,930
+metadata of the pictures if we hover
+
+84
+00:03:03,930 --> 00:03:06,870
+over a picture we see these these stars
+
+85
+00:03:06,870 --> 00:03:09,630
+appear by default everything has one
+
+86
+00:03:09,630 --> 00:03:12,900
+star a one star rating and when I was
+
+87
+00:03:12,900 --> 00:03:14,100
+first using this I thought well what's
+
+88
+00:03:14,100 --> 00:03:15,780
+the point why would you give him stars
+
+89
+00:03:15,780 --> 00:03:18,209
+like who no one's ever gonna look at the
+
+90
+00:03:18,209 --> 00:03:20,459
+star rating of the picture but what is
+
+91
+00:03:20,459 --> 00:03:22,500
+used for is to help you organize your
+
+92
+00:03:22,500 --> 00:03:24,420
+pictures if you go out and do a photo
+
+93
+00:03:24,420 --> 00:03:25,950
+shoot you're gonna have some pictures
+
+94
+00:03:25,950 --> 00:03:27,180
+that aren't that great and you're gonna
+
+95
+00:03:27,180 --> 00:03:28,470
+have some that you just really really
+
+96
+00:03:28,470 --> 00:03:30,870
+like so you give them a star rating and
+
+97
+00:03:30,870 --> 00:03:32,790
+then you can come over here at the top
+
+98
+00:03:32,790 --> 00:03:35,010
+and there's this sort to buy you can
+
+99
+00:03:35,010 --> 00:03:37,080
+drop a select this drop-down you can say
+
+100
+00:03:37,080 --> 00:03:39,690
+sort by rating then all of your
+
+101
+00:03:39,690 --> 00:03:41,400
+five-star pictures will appear appear
+
+102
+00:03:41,400 --> 00:03:43,709
+first followed by four stars and three
+
+103
+00:03:43,709 --> 00:03:45,450
+stars all the way down to your one star
+
+104
+00:03:45,450 --> 00:03:47,940
+pictures again one star is sort of the
+
+105
+00:03:47,940 --> 00:03:49,950
+default you can also give the pictures
+
+106
+00:03:49,950 --> 00:03:52,620
+color tags down here at the bottom if
+
+107
+00:03:52,620 --> 00:03:53,820
+you just click on one of these colors
+
+108
+00:03:53,820 --> 00:03:55,739
+now this has a little red dot on it and
+
+109
+00:03:55,739 --> 00:03:57,810
+so these colors and you can give them
+
+110
+00:03:57,810 --> 00:03:59,459
+multiple you can give it a red a blue a
+
+111
+00:03:59,459 --> 00:04:01,769
+purple maybe you find a picture and you
+
+112
+00:04:01,769 --> 00:04:03,840
+say oh the every picture that has this
+
+113
+00:04:03,840 --> 00:04:05,610
+person in it I'm going to give it a
+
+114
+00:04:05,610 --> 00:04:08,070
+green tag so you find all the pictures
+
+115
+00:04:08,070 --> 00:04:09,690
+that have that person give them a green
+
+116
+00:04:09,690 --> 00:04:12,150
+tag and you can also select multiple at
+
+117
+00:04:12,150 --> 00:04:14,430
+once in this area so you can click and
+
+118
+00:04:14,430 --> 00:04:16,560
+hold down the ctrl key and click
+
+119
+00:04:16,560 --> 00:04:18,870
+multiple pictures and then you can tag
+
+120
+00:04:18,870 --> 00:04:21,289
+all three of them with that green dot
+
+121
+00:04:21,289 --> 00:04:24,240
+then when we go to sort by instead of
+
+122
+00:04:24,240 --> 00:04:26,820
+rating we can sort by color label and it
+
+123
+00:04:26,820 --> 00:04:28,890
+shows all of our green colors first and
+
+124
+00:04:28,890 --> 00:04:30,900
+then followed by other colors as well
+
+125
+00:04:30,900 --> 00:04:33,660
+and then the non color labeled ones so
+
+126
+00:04:33,660 --> 00:04:35,790
+this is just a way to really manage your
+
+127
+00:04:35,790 --> 00:04:37,560
+pictures and figure out what's going on
+
+128
+00:04:37,560 --> 00:04:40,260
+before you bring them into the darkroom
+
+129
+00:04:40,260 --> 00:04:41,880
+again if you're just working with one
+
+130
+00:04:41,880 --> 00:04:43,290
+picture you're not going to want to
+
+131
+00:04:43,290 --> 00:04:44,790
+spend much time in the light table but
+
+132
+00:04:44,790 --> 00:04:46,850
+if you're working with multiple pictures
+
+133
+00:04:46,850 --> 00:04:49,620
+particularly like a photo shoot this can
+
+134
+00:04:49,620 --> 00:04:52,590
+be to a big advantage for you also the
+
+135
+00:04:52,590 --> 00:04:54,780
+light table area is where we'll export
+
+136
+00:04:54,780 --> 00:04:56,670
+our picture when we're done editing so
+
+137
+00:04:56,670 --> 00:04:57,810
+we'll have to come back here to do our
+
+138
+00:04:57,810 --> 00:05:00,270
+exports let's hop over to the darkroom
+
+139
+00:05:00,270 --> 00:05:01,740
+now and take a look at the options there
+
+140
+00:05:01,740 --> 00:05:03,630
+when we click on darkroom in the top
+
+141
+00:05:03,630 --> 00:05:05,970
+right first of all you can't select
+
+142
+00:05:05,970 --> 00:05:07,590
+darkroom unless you have a picture
+
+143
+00:05:07,590 --> 00:05:09,240
+selected so if no pictures are brought
+
+144
+00:05:09,240 --> 00:05:11,070
+in you can't even get into the darkroom
+
+145
+00:05:11,070 --> 00:05:13,770
+but if you select a picture and it
+
+146
+00:05:13,770 --> 00:05:15,540
+becomes like a little bit lighter gray
+
+147
+00:05:15,540 --> 00:05:18,090
+then you can click on darkroom and it
+
+148
+00:05:18,090 --> 00:05:19,920
+will take you into darkroom with that
+
+149
+00:05:19,920 --> 00:05:23,070
+picture this particular one is a not
+
+150
+00:05:23,070 --> 00:05:25,920
+color which a lot of the feet the tools
+
+151
+00:05:25,920 --> 00:05:28,260
+in darktable are going to be color based
+
+152
+00:05:28,260 --> 00:05:29,940
+so we can't do much with this one but we
+
+153
+00:05:29,940 --> 00:05:32,910
+can do for example this exposure we can
+
+154
+00:05:32,910 --> 00:05:34,830
+still adjust the exposure so we'll
+
+155
+00:05:34,830 --> 00:05:37,500
+enable this one and then we can adjust
+
+156
+00:05:37,500 --> 00:05:40,020
+the exposure of this image and we can
+
+157
+00:05:40,020 --> 00:05:42,390
+see we can make it very very exposed or
+
+158
+00:05:42,390 --> 00:05:45,180
+we can make it very underexposed maybe
+
+159
+00:05:45,180 --> 00:05:46,710
+we'll just make this one really under
+
+160
+00:05:46,710 --> 00:05:49,680
+exposed and then we'll go to our crop
+
+161
+00:05:49,680 --> 00:05:52,050
+and rotate and we can apply a crop so
+
+162
+00:05:52,050 --> 00:05:54,270
+right now it's doing I have it set to an
+
+163
+00:05:54,270 --> 00:05:56,520
+eight by ten we can do freehand and just
+
+164
+00:05:56,520 --> 00:05:58,490
+select an area that we want to crop out
+
+165
+00:05:58,490 --> 00:06:01,230
+so we can just zoom in really close to
+
+166
+00:06:01,230 --> 00:06:03,900
+like one person and really kind of crop
+
+167
+00:06:03,900 --> 00:06:07,230
+in just how we want or we can come over
+
+168
+00:06:07,230 --> 00:06:09,090
+and instead of freehand we can select
+
+169
+00:06:09,090 --> 00:06:11,310
+like this 8 by 10 and we can say we want
+
+170
+00:06:11,310 --> 00:06:13,440
+to 8 by 10 picture and then it will say
+
+171
+00:06:13,440 --> 00:06:15,660
+all right no problem however you scale
+
+172
+00:06:15,660 --> 00:06:18,840
+this box it'll always be formatted in an
+
+173
+00:06:18,840 --> 00:06:21,600
+8 by 10 aspect ratio so we can do it
+
+174
+00:06:21,600 --> 00:06:23,670
+like this and the sides will be cut off
+
+175
+00:06:23,670 --> 00:06:25,890
+here but we just double click and now
+
+176
+00:06:25,890 --> 00:06:27,990
+we've kind of cropped this picture we
+
+177
+00:06:27,990 --> 00:06:29,880
+adjusted the exposure a little bit and
+
+178
+00:06:29,880 --> 00:06:32,610
+so let's go back to that exposure and
+
+179
+00:06:32,610 --> 00:06:34,110
+let's make it very extremely so I want
+
+180
+00:06:34,110 --> 00:06:35,550
+to show you if we make it really really
+
+181
+00:06:35,550 --> 00:06:38,730
+overexposed now when we go back into our
+
+182
+00:06:38,730 --> 00:06:40,180
+light table
+
+183
+00:06:40,180 --> 00:06:41,740
+that picture looks different than the
+
+184
+00:06:41,740 --> 00:06:44,410
+rest of them if we want to export it
+
+185
+00:06:44,410 --> 00:06:47,020
+with this super overexposed we just go
+
+186
+00:06:47,020 --> 00:06:50,710
+to the export so we select it we go to
+
+187
+00:06:50,710 --> 00:06:54,820
+selected images or no - well it's
+
+188
+00:06:54,820 --> 00:06:57,190
+selected we go to export selected and we
+
+189
+00:06:57,190 --> 00:06:59,919
+just click the export button and that
+
+190
+00:06:59,919 --> 00:07:02,229
+exports that picture as a jpg which is
+
+191
+00:07:02,229 --> 00:07:04,240
+what we told it to do quality
+
+192
+00:07:04,240 --> 00:07:05,949
+ninety-five percent we didn't make any
+
+193
+00:07:05,949 --> 00:07:08,050
+changes to this but now when we go to
+
+194
+00:07:08,050 --> 00:07:10,270
+our computer and we go to that location
+
+195
+00:07:10,270 --> 00:07:12,400
+where those pictures are we're going to
+
+196
+00:07:12,400 --> 00:07:15,430
+see all those pictures with their
+
+197
+00:07:15,430 --> 00:07:20,050
+associated XMP files and a new folder
+
+198
+00:07:20,050 --> 00:07:20,919
+called darktable
+
+199
+00:07:20,919 --> 00:07:23,440
+exported and this is the picture that we
+
+200
+00:07:23,440 --> 00:07:26,289
+have just modified and processed and
+
+201
+00:07:26,289 --> 00:07:30,520
+exported as a jpg image so that's just a
+
+202
+00:07:30,520 --> 00:07:31,780
+quick run-through let's do one with
+
+203
+00:07:31,780 --> 00:07:34,120
+color just for fun we bring in this one
+
+204
+00:07:34,120 --> 00:07:35,979
+with color here and then we can see we
+
+205
+00:07:35,979 --> 00:07:37,120
+have a lot more we have this brightness
+
+206
+00:07:37,120 --> 00:07:38,710
+and contrast we can adjust these colors
+
+207
+00:07:38,710 --> 00:07:41,410
+and adjust the saturation we can make
+
+208
+00:07:41,410 --> 00:07:43,810
+this a black and white photo we can come
+
+209
+00:07:43,810 --> 00:07:45,900
+over here there's all kinds of different
+
+210
+00:07:45,900 --> 00:07:47,620
+options that we're going to look at in
+
+211
+00:07:47,620 --> 00:07:49,840
+the next video but this toggles whether
+
+212
+00:07:49,840 --> 00:07:52,389
+it's enabled or our favorites is going
+
+213
+00:07:52,389 --> 00:07:53,830
+to be empty by default right now we
+
+214
+00:07:53,830 --> 00:07:55,810
+click on this color one and these are
+
+215
+00:07:55,810 --> 00:07:57,159
+kind of some default ones that have a
+
+216
+00:07:57,159 --> 00:07:58,960
+lot to do with color for example color
+
+217
+00:07:58,960 --> 00:08:02,289
+correction so we can apply some some
+
+218
+00:08:02,289 --> 00:08:04,360
+different color to this and give it sort
+
+219
+00:08:04,360 --> 00:08:07,449
+of some different you know bring out
+
+220
+00:08:07,449 --> 00:08:09,070
+sort of the different pixel colors in
+
+221
+00:08:09,070 --> 00:08:13,020
+here we can also what do we have here
+
+222
+00:08:13,020 --> 00:08:14,949
+and there's a lot of different ones if
+
+223
+00:08:14,949 --> 00:08:18,370
+we go to this down here under more
+
+224
+00:08:18,370 --> 00:08:20,470
+modules there's all kinds of different
+
+225
+00:08:20,470 --> 00:08:22,330
+ones that we can add in anything we want
+
+226
+00:08:22,330 --> 00:08:24,070
+so we can do color zones cover
+
+227
+00:08:24,070 --> 00:08:26,409
+reconstruction color mapping there's all
+
+228
+00:08:26,409 --> 00:08:29,259
+kinds of different things and we can
+
+229
+00:08:29,259 --> 00:08:32,260
+apply like yet we want to to this so we
+
+230
+00:08:32,260 --> 00:08:34,299
+enable this one and now we have this
+
+231
+00:08:34,299 --> 00:08:35,770
+nice sort of vignette that we can adjust
+
+232
+00:08:35,770 --> 00:08:38,440
+the size of it and sort of make this
+
+233
+00:08:38,440 --> 00:08:40,479
+picture a little bit different and again
+
+234
+00:08:40,479 --> 00:08:42,399
+we go back into light table and we see
+
+235
+00:08:42,399 --> 00:08:44,860
+that that is changed so I know I'm
+
+236
+00:08:44,860 --> 00:08:46,270
+rushing through a lot of this I'm doing
+
+237
+00:08:46,270 --> 00:08:49,329
+a kind of a bigger overview but I think
+
+238
+00:08:49,329 --> 00:08:50,800
+I'm going to stop this tutorial here
+
+239
+00:08:50,800 --> 00:08:52,180
+because in the next video we're gonna
+
+240
+00:08:52,180 --> 00:08:53,620
+spend a lot more time
+
+241
+00:08:53,620 --> 00:08:55,810
+in the darkroom going over some of this
+
+242
+00:08:55,810 --> 00:08:57,790
+I just wanted to show you mostly the
+
+243
+00:08:57,790 --> 00:08:59,710
+light table in this video and how to
+
+244
+00:08:59,710 --> 00:09:02,260
+organize and arrange and bring pictures
+
+245
+00:09:02,260 --> 00:09:05,350
+in to dark table so thanks for watching
+
+246
+00:09:05,350 --> 00:09:06,370
+I'm sure you have questions at this
+
+247
+00:09:06,370 --> 00:09:08,080
+point but maybe leave your questions or
+
+248
+00:09:08,080 --> 00:09:09,640
+comments below and then in the next
+
+249
+00:09:09,640 --> 00:09:11,470
+video we're going to start solidifying
+
+250
+00:09:11,470 --> 00:09:12,550
+some of this information that we've
+
+251
+00:09:12,550 --> 00:09:14,440
+covered thanks for watching catch you in
+
+252
+00:09:14,440 --> 00:09:16,950
+the next video
+

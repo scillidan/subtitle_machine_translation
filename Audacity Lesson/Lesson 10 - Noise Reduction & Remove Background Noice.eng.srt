@@ -1,0 +1,432 @@
+1
+00:00:02,810 --> 00:00:04,980
+welcome back to another audacity
+
+2
+00:00:04,980 --> 00:00:06,930
+tutorial in this video I'll show you how
+
+3
+00:00:06,930 --> 00:00:09,360
+to remove background noise from your
+
+4
+00:00:09,360 --> 00:00:12,419
+audio recording or from a music file and
+
+5
+00:00:12,419 --> 00:00:14,459
+so I'm just going to play this I've
+
+6
+00:00:14,459 --> 00:00:16,679
+created a sample file for you to listen
+
+7
+00:00:16,679 --> 00:00:18,689
+to that we can work off of so I'm going
+
+8
+00:00:18,689 --> 00:00:28,470
+to play it and you'll see what I mean so
+
+9
+00:00:28,470 --> 00:00:30,089
+you see we get all this noise if I left
+
+10
+00:00:30,089 --> 00:00:31,589
+click and select this we can play just
+
+11
+00:00:31,589 --> 00:00:33,330
+some here kind of this background noise
+
+12
+00:00:33,330 --> 00:00:38,910
+that's just kind of constant so this is
+
+13
+00:00:38,910 --> 00:00:42,090
+what we want to get rid of so luckily
+
+14
+00:00:42,090 --> 00:00:44,790
+there's an effect in audacity to do this
+
+15
+00:00:44,790 --> 00:00:47,100
+so we go to effects and it's called
+
+16
+00:00:47,100 --> 00:00:51,180
+noise reduction so if we go to noise
+
+17
+00:00:51,180 --> 00:00:52,830
+reduction without having anything
+
+18
+00:00:52,830 --> 00:00:54,510
+selected we go to effect and we go to
+
+19
+00:00:54,510 --> 00:00:56,670
+noise reduction we see it says you need
+
+20
+00:00:56,670 --> 00:00:58,380
+to select some audio so you might think
+
+21
+00:00:58,380 --> 00:00:59,760
+at first well let's just select
+
+22
+00:00:59,760 --> 00:01:03,030
+everything ctrl a this is not the way to
+
+23
+00:01:03,030 --> 00:01:04,319
+do it by the way I'm just showing you
+
+24
+00:01:04,319 --> 00:01:05,970
+what you might intuitively try and do
+
+25
+00:01:05,970 --> 00:01:08,160
+you go to noise reduction and we see
+
+26
+00:01:08,160 --> 00:01:09,690
+there's actually different steps we have
+
+27
+00:01:09,690 --> 00:01:13,080
+step 1 and step 2 so step one says
+
+28
+00:01:13,080 --> 00:01:16,500
+select a few seconds of just noise so
+
+29
+00:01:16,500 --> 00:01:18,480
+I'd acid he knows what to filter out and
+
+30
+00:01:18,480 --> 00:01:21,720
+then click get profile noise so we don't
+
+31
+00:01:21,720 --> 00:01:23,070
+want to click this right now because
+
+32
+00:01:23,070 --> 00:01:25,650
+otherwise it'll select the entire audio
+
+33
+00:01:25,650 --> 00:01:29,370
+as it'll think that's the noise so
+
+34
+00:01:29,370 --> 00:01:30,900
+instead what we want to do is just
+
+35
+00:01:30,900 --> 00:01:33,120
+select a part that we know is noise so
+
+36
+00:01:33,120 --> 00:01:34,979
+we'll and the longer the better on this
+
+37
+00:01:34,979 --> 00:01:39,090
+so we'll just click play so that's some
+
+38
+00:01:39,090 --> 00:01:40,440
+good noise there wasn't click in there I
+
+39
+00:01:40,440 --> 00:01:41,580
+don't know if that will affect us or not
+
+40
+00:01:41,580 --> 00:01:43,049
+or we could try this one at the end
+
+41
+00:01:43,049 --> 00:01:46,979
+maybe it's better good that's just
+
+42
+00:01:46,979 --> 00:01:49,770
+constant good noise so then we go back
+
+43
+00:01:49,770 --> 00:01:52,350
+to effects and we go to noise reduction
+
+44
+00:01:52,350 --> 00:01:56,340
+and now since only noise is selected we
+
+45
+00:01:56,340 --> 00:01:59,760
+can say get nose noise profile so when
+
+46
+00:01:59,760 --> 00:02:02,130
+we click this it'll get a profile adjust
+
+47
+00:02:02,130 --> 00:02:03,990
+this part to selective so we just we get
+
+48
+00:02:03,990 --> 00:02:05,880
+it and it just goes away and doesn't say
+
+49
+00:02:05,880 --> 00:02:07,890
+anything but it's got it and it's
+
+50
+00:02:07,890 --> 00:02:11,159
+remembered and recorded that now we can
+
+51
+00:02:11,159 --> 00:02:12,810
+select everything so we can double click
+
+52
+00:02:12,810 --> 00:02:13,650
+or we can go
+
+53
+00:02:13,650 --> 00:02:16,980
+control a to select everything and we
+
+54
+00:02:16,980 --> 00:02:19,319
+can go to effects and we can go to noise
+
+55
+00:02:19,319 --> 00:02:21,599
+reduction again now we can work off of
+
+56
+00:02:21,599 --> 00:02:23,849
+step two because it already has saved in
+
+57
+00:02:23,849 --> 00:02:27,180
+its memory a nose profile of that noise
+
+58
+00:02:27,180 --> 00:02:29,459
+and so now we can come in here and make
+
+59
+00:02:29,459 --> 00:02:31,079
+some different adjustments so I've
+
+60
+00:02:31,079 --> 00:02:32,609
+already changed I think by default this
+
+61
+00:02:32,609 --> 00:02:36,120
+was down at 12 for me so this might be
+
+62
+00:02:36,120 --> 00:02:37,829
+your default so go to preview and I'll
+
+63
+00:02:37,829 --> 00:02:39,090
+just play back and you'll hear what it
+
+64
+00:02:39,090 --> 00:02:43,140
+sounds like so that's better than it was
+
+65
+00:02:43,140 --> 00:02:49,019
+I think this is kind of how it was zero
+
+66
+00:02:49,019 --> 00:02:51,150
+is kind of like your baseline but if we
+
+67
+00:02:51,150 --> 00:02:53,700
+if we bring this up to maybe 16 and do
+
+68
+00:02:53,700 --> 00:02:56,970
+preview that sounds a lot better so we
+
+69
+00:02:56,970 --> 00:03:00,389
+can keep bringing this up and that noise
+
+70
+00:03:00,389 --> 00:03:02,849
+gets softer and softer one risk we have
+
+71
+00:03:02,849 --> 00:03:05,639
+is we want to kind of make sure that
+
+72
+00:03:05,639 --> 00:03:08,280
+it's not affecting the way our my voice
+
+73
+00:03:08,280 --> 00:03:11,870
+sounds let's hit preview here and listen
+
+74
+00:03:13,310 --> 00:03:16,950
+that's actually pretty good so I'm just
+
+75
+00:03:16,950 --> 00:03:19,230
+gonna hit OK now and look it gets rid of
+
+76
+00:03:19,230 --> 00:03:21,090
+that noise so now if we go back to the
+
+77
+00:03:21,090 --> 00:03:30,989
+beginning and play that's pretty good
+
+78
+00:03:30,989 --> 00:03:32,819
+it's a lot better than was before so
+
+79
+00:03:32,819 --> 00:03:35,040
+listen to this this is where our noise
+
+80
+00:03:35,040 --> 00:03:38,220
+was if we hit play now it's very quiet
+
+81
+00:03:38,220 --> 00:03:40,949
+if I do control Z and play that we'll
+
+82
+00:03:40,949 --> 00:03:44,400
+see it's loud again so that is
+
+83
+00:03:44,400 --> 00:03:47,010
+effectively using noise reduction you
+
+84
+00:03:47,010 --> 00:03:49,709
+just have to get a noise profile first
+
+85
+00:03:49,709 --> 00:03:52,500
+we go to noise reduction and then while
+
+86
+00:03:52,500 --> 00:03:56,310
+that selected get profile and then we go
+
+87
+00:03:56,310 --> 00:03:59,099
+to select everything effects and apply
+
+88
+00:03:59,099 --> 00:04:00,989
+it so kind of two steps there kind of
+
+89
+00:04:00,989 --> 00:04:02,940
+play with it and you know if you if you
+
+90
+00:04:02,940 --> 00:04:05,310
+accidentally keep this part selected and
+
+91
+00:04:05,310 --> 00:04:08,430
+you go to effects and we go to noise
+
+92
+00:04:08,430 --> 00:04:11,010
+reduction it will only do a noise
+
+93
+00:04:11,010 --> 00:04:14,190
+reduction on that part of the selection
+
+94
+00:04:14,190 --> 00:04:16,108
+and everything else will still we see
+
+95
+00:04:16,108 --> 00:04:17,488
+this is still noise over here there's
+
+96
+00:04:17,488 --> 00:04:19,620
+still noise where I'm talking but this
+
+97
+00:04:19,620 --> 00:04:22,320
+is like quiet because our selection
+
+98
+00:04:22,320 --> 00:04:23,520
+wasn't made properly so just make sure
+
+99
+00:04:23,520 --> 00:04:24,930
+when you apply it you have everything
+
+100
+00:04:24,930 --> 00:04:26,849
+selected and when you get the profile
+
+101
+00:04:26,849 --> 00:04:27,570
+you only
+
+102
+00:04:27,570 --> 00:04:31,110
+the noise selected well that's what I
+
+103
+00:04:31,110 --> 00:04:32,130
+want to share with you just a quick
+
+104
+00:04:32,130 --> 00:04:35,430
+quick introduction to the noise
+
+105
+00:04:35,430 --> 00:04:37,950
+reduction tool hopefully you found this
+
+106
+00:04:37,950 --> 00:04:39,090
+informative go ahead and like comment
+
+107
+00:04:39,090 --> 00:04:40,470
+subscribe and I'll catch you in the next
+
+108
+00:04:40,470 --> 00:04:42,680
+video
+

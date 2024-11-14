@@ -1,0 +1,2244 @@
+1
+00:00:02,180 --> 00:00:04,140
+welcome back to another darktable
+
+2
+00:00:04,140 --> 00:00:06,210
+tutorial in this video we're going to be
+
+3
+00:00:06,210 --> 00:00:07,950
+learning about how to use some of the
+
+4
+00:00:07,950 --> 00:00:10,320
+more common modules in darktable for
+
+5
+00:00:10,320 --> 00:00:13,049
+applying effects and edits to raw images
+
+6
+00:00:13,049 --> 00:00:14,909
+this will also work for images that are
+
+7
+00:00:14,909 --> 00:00:17,550
+not raw images if you don't have some so
+
+8
+00:00:17,550 --> 00:00:19,380
+I've downloaded a couple different ones
+
+9
+00:00:19,380 --> 00:00:21,679
+here and I got them from we saturate
+
+10
+00:00:21,679 --> 00:00:23,490
+dot-com I'll include the link in the
+
+11
+00:00:23,490 --> 00:00:25,289
+description this video it's just a free
+
+12
+00:00:25,289 --> 00:00:26,999
+website you have to sign up but it's
+
+13
+00:00:26,999 --> 00:00:29,189
+free and it's not the it's just public
+
+14
+00:00:29,189 --> 00:00:32,009
+domain artists photographers sharing
+
+15
+00:00:32,009 --> 00:00:34,080
+their images with other people and so
+
+16
+00:00:34,080 --> 00:00:35,940
+you click on an image and then you can
+
+17
+00:00:35,940 --> 00:00:38,280
+download the raw version in some cases
+
+18
+00:00:38,280 --> 00:00:40,680
+not all of them but you can download the
+
+19
+00:00:40,680 --> 00:00:42,450
+jpg or the raw version and then you can
+
+20
+00:00:42,450 --> 00:00:44,640
+edit that image and so not all of them
+
+21
+00:00:44,640 --> 00:00:46,710
+have an option for raw but a lot of them
+
+22
+00:00:46,710 --> 00:00:48,360
+do and there's just some pretty cool
+
+23
+00:00:48,360 --> 00:00:50,190
+images so here's one that doesn't let
+
+24
+00:00:50,190 --> 00:00:52,230
+you download the raw so just make sure
+
+25
+00:00:52,230 --> 00:00:54,000
+if you want to get a raw image you can
+
+26
+00:00:54,000 --> 00:00:55,050
+do some searches through here and
+
+27
+00:00:55,050 --> 00:00:55,980
+there's some really good high-quality
+
+28
+00:00:55,980 --> 00:00:58,430
+there are pretty large image sizes too
+
+29
+00:00:58,430 --> 00:01:01,890
+but anyway that's we saturate com
+
+30
+00:01:01,890 --> 00:01:03,060
+and that's where I got these from
+
+31
+00:01:03,060 --> 00:01:05,940
+include the links for these also but you
+
+32
+00:01:05,940 --> 00:01:07,650
+can see they're different file
+
+33
+00:01:07,650 --> 00:01:12,620
+extensions too for raw so any fdn GCR to
+
+34
+00:01:12,620 --> 00:01:15,360
+ARW so depending on what camera you're
+
+35
+00:01:15,360 --> 00:01:17,220
+shooting with it has a different format
+
+36
+00:01:17,220 --> 00:01:20,010
+for raw but since darktable is amazing
+
+37
+00:01:20,010 --> 00:01:21,750
+it can interpret all of those and it
+
+38
+00:01:21,750 --> 00:01:23,100
+knows how to read all types of RAW files
+
+39
+00:01:23,100 --> 00:01:25,290
+so what we can do is we can either drag
+
+40
+00:01:25,290 --> 00:01:27,780
+and drop these in we can select them all
+
+41
+00:01:27,780 --> 00:01:30,000
+and drag all of them in or we can just
+
+42
+00:01:30,000 --> 00:01:32,790
+go over here under import and go to
+
+43
+00:01:32,790 --> 00:01:35,760
+folder and just import the entire folder
+
+44
+00:01:35,760 --> 00:01:38,729
+so I'll just go select that folder and
+
+45
+00:01:38,729 --> 00:01:42,000
+go to open and now they're all imported
+
+46
+00:01:42,000 --> 00:01:43,830
+in here into darktable
+
+47
+00:01:43,830 --> 00:01:45,840
+let's apply some modules and do some
+
+48
+00:01:45,840 --> 00:01:47,490
+edits to this picture here I'm going to
+
+49
+00:01:47,490 --> 00:01:49,470
+double click on it to bring it into the
+
+50
+00:01:49,470 --> 00:01:51,510
+darkroom and we can quickly jump between
+
+51
+00:01:51,510 --> 00:01:53,250
+any of those ones if we look here across
+
+52
+00:01:53,250 --> 00:01:54,780
+the bottom we can double click and
+
+53
+00:01:54,780 --> 00:01:56,909
+quickly jump into any of the ones that
+
+54
+00:01:56,909 --> 00:01:58,860
+are in our light table without actually
+
+55
+00:01:58,860 --> 00:02:01,200
+having to go into light table to grab
+
+56
+00:02:01,200 --> 00:02:03,869
+them and so when we're in darkroom we
+
+57
+00:02:03,869 --> 00:02:05,640
+can do that we can just double click but
+
+58
+00:02:05,640 --> 00:02:07,409
+let's do this one here just because the
+
+59
+00:02:07,409 --> 00:02:09,359
+rest of these are already so perfect and
+
+60
+00:02:09,359 --> 00:02:11,269
+they look so great already that I'll
+
+61
+00:02:11,269 --> 00:02:13,950
+probably do is end up
+
+62
+00:02:13,950 --> 00:02:17,319
+making them look worse so this one we
+
+63
+00:02:17,319 --> 00:02:18,580
+can that we can do some improvements on
+
+64
+00:02:18,580 --> 00:02:21,190
+so we see that it's sort of dark this
+
+65
+00:02:21,190 --> 00:02:22,510
+looks like one maybe you just like take
+
+66
+00:02:22,510 --> 00:02:24,040
+on your phone we can see what this was
+
+67
+00:02:24,040 --> 00:02:25,420
+taken on by clicking the image
+
+68
+00:02:25,420 --> 00:02:27,700
+information so this was taken with a
+
+69
+00:02:27,700 --> 00:02:31,569
+Sony camera but a lot of times pictures
+
+70
+00:02:31,569 --> 00:02:32,860
+you'll just take quickly you're gonna
+
+71
+00:02:32,860 --> 00:02:35,019
+look like this it's not exposed very
+
+72
+00:02:35,019 --> 00:02:36,879
+well the sky is really bright and so
+
+73
+00:02:36,879 --> 00:02:38,680
+everything else is really dark we want
+
+74
+00:02:38,680 --> 00:02:40,120
+to try and bring out some of the detail
+
+75
+00:02:40,120 --> 00:02:42,730
+again I'm not really experienced in
+
+76
+00:02:42,730 --> 00:02:44,620
+doing this type of color correction but
+
+77
+00:02:44,620 --> 00:02:45,819
+I just want to get to show you some of
+
+78
+00:02:45,819 --> 00:02:48,040
+the modules that I think are good to
+
+79
+00:02:48,040 --> 00:02:49,959
+start with there's a lot of different
+
+80
+00:02:49,959 --> 00:02:52,090
+directions we could take this but we see
+
+81
+00:02:52,090 --> 00:02:53,650
+what's happened already we have the
+
+82
+00:02:53,650 --> 00:02:55,269
+original we have some sharpening that's
+
+83
+00:02:55,269 --> 00:02:57,129
+happened and then this base curve has
+
+84
+00:02:57,129 --> 00:02:59,319
+been applied and so the base curve we
+
+85
+00:02:59,319 --> 00:03:01,480
+could get in and adjust but I wouldn't
+
+86
+00:03:01,480 --> 00:03:03,790
+recommend it unless it looks really bad
+
+87
+00:03:03,790 --> 00:03:07,569
+so bad would be like let's just reset
+
+88
+00:03:07,569 --> 00:03:10,000
+this to default so if it hasn't the
+
+89
+00:03:10,000 --> 00:03:11,349
+default base curve it might look really
+
+90
+00:03:11,349 --> 00:03:13,480
+dark like this we could click and make
+
+91
+00:03:13,480 --> 00:03:15,099
+our own base curve and see if we can
+
+92
+00:03:15,099 --> 00:03:17,049
+make this look a little bit better which
+
+93
+00:03:17,049 --> 00:03:18,609
+maybe we can look at that just by doing
+
+94
+00:03:18,609 --> 00:03:22,359
+this we can make it look caning that
+
+95
+00:03:22,359 --> 00:03:23,500
+looks not too bad
+
+96
+00:03:23,500 --> 00:03:26,230
+you know if we want to see what it would
+
+97
+00:03:26,230 --> 00:03:28,750
+look like well what should we do maybe
+
+98
+00:03:28,750 --> 00:03:29,829
+we'll just leave this well let's leave
+
+99
+00:03:29,829 --> 00:03:32,260
+this base curve right here okay so we've
+
+100
+00:03:32,260 --> 00:03:34,150
+got our base curve adjusted or we could
+
+101
+00:03:34,150 --> 00:03:35,650
+use the one that it had which was this
+
+102
+00:03:35,650 --> 00:03:38,290
+sony alpha like but it looks like this
+
+103
+00:03:38,290 --> 00:03:39,940
+particular image it's sometimes it's
+
+104
+00:03:39,940 --> 00:03:42,819
+better to to adjust the curve a little
+
+105
+00:03:42,819 --> 00:03:47,560
+differently than it had so let's go back
+
+106
+00:03:47,560 --> 00:03:49,690
+to that base curve we had because we
+
+107
+00:03:49,690 --> 00:03:51,340
+were rocking it so this is our own
+
+108
+00:03:51,340 --> 00:03:54,870
+little base curve that we created and
+
+109
+00:03:54,870 --> 00:03:59,470
+now let's go to sometimes I like to do
+
+110
+00:03:59,470 --> 00:04:01,750
+you've probably seen I do exposure a lot
+
+111
+00:04:01,750 --> 00:04:04,480
+so let's go to the exposure and it's
+
+112
+00:04:04,480 --> 00:04:05,919
+good just to look at this histogram up
+
+113
+00:04:05,919 --> 00:04:07,900
+here this is just telling us to the far
+
+114
+00:04:07,900 --> 00:04:11,049
+left is black pixels to the far right is
+
+115
+00:04:11,049 --> 00:04:14,290
+white pixels so and this this is all of
+
+116
+00:04:14,290 --> 00:04:16,358
+our data this is kind of a chart of all
+
+117
+00:04:16,358 --> 00:04:19,930
+of the pixels in our in our image from
+
+118
+00:04:19,930 --> 00:04:22,510
+left to right we see a dip in the middle
+
+119
+00:04:22,510 --> 00:04:25,390
+here and that's because like this dark
+
+120
+00:04:25,390 --> 00:04:27,550
+area is everything here that was
+
+121
+00:04:27,550 --> 00:04:30,220
+really kind of darker and this light
+
+122
+00:04:30,220 --> 00:04:32,409
+area is all the sky and this middle is
+
+123
+00:04:32,409 --> 00:04:33,789
+going to be stuff that's sort of it by
+
+124
+00:04:33,789 --> 00:04:35,979
+gray is kind of in the middle so it's
+
+125
+00:04:35,979 --> 00:04:37,240
+not really having to do much with color
+
+126
+00:04:37,240 --> 00:04:39,370
+although the color is overlaid behind
+
+127
+00:04:39,370 --> 00:04:41,530
+you can see but really this is going to
+
+128
+00:04:41,530 --> 00:04:44,440
+be a chart of our light and dark pixels
+
+129
+00:04:44,440 --> 00:04:46,990
+in the in the image we don't want the
+
+130
+00:04:46,990 --> 00:04:49,150
+this data to ever go off to the left or
+
+131
+00:04:49,150 --> 00:04:50,800
+to the right and that's what exposure
+
+132
+00:04:50,800 --> 00:04:52,690
+adjusts is the left and right of this
+
+133
+00:04:52,690 --> 00:04:55,240
+histogram so we can see if we if dragged
+
+134
+00:04:55,240 --> 00:04:57,699
+this we can squeeze it all up tight and
+
+135
+00:04:57,699 --> 00:05:01,150
+so everything is gonna be starting at
+
+136
+00:05:01,150 --> 00:05:04,000
+medium gray and going towards bright
+
+137
+00:05:04,000 --> 00:05:05,110
+that's why everything looks kind of
+
+138
+00:05:05,110 --> 00:05:07,659
+weird and if we drag this back or the
+
+139
+00:05:07,659 --> 00:05:09,840
+other direction we're stretching it off
+
+140
+00:05:09,840 --> 00:05:13,120
+so half our chart is now over here and
+
+141
+00:05:13,120 --> 00:05:15,009
+we can't even see it so everything that
+
+142
+00:05:15,009 --> 00:05:17,259
+was there all that detail is now just
+
+143
+00:05:17,259 --> 00:05:20,889
+black we don't want that either but it's
+
+144
+00:05:20,889 --> 00:05:22,840
+a good idea let's go back to this button
+
+145
+00:05:22,840 --> 00:05:24,460
+here will let us reset it to how it was
+
+146
+00:05:24,460 --> 00:05:26,469
+so there's a little bit you can see in
+
+147
+00:05:26,469 --> 00:05:28,900
+here if i zoom in way close there's a
+
+148
+00:05:28,900 --> 00:05:30,940
+little bit of space in there where
+
+149
+00:05:30,940 --> 00:05:33,029
+there's this white area and then there's
+
+150
+00:05:33,029 --> 00:05:37,360
+off-the-chart so the chart has some
+
+151
+00:05:37,360 --> 00:05:39,190
+space that could go we're gonna drag
+
+152
+00:05:39,190 --> 00:05:41,289
+this and you can even use the mouse the
+
+153
+00:05:41,289 --> 00:05:43,449
+scroll wheel to get a really fine and
+
+154
+00:05:43,449 --> 00:05:45,969
+tune that so we're gonna drag this right
+
+155
+00:05:45,969 --> 00:05:48,610
+here so that it's about just starting
+
+156
+00:05:48,610 --> 00:05:50,800
+off of there then the other side we're
+
+157
+00:05:50,800 --> 00:05:52,180
+gonna do the same thing we're gonna drag
+
+158
+00:05:52,180 --> 00:05:55,169
+this just so that the the detail is
+
+159
+00:05:55,169 --> 00:05:58,000
+right to the bottom there that's what I
+
+160
+00:05:58,000 --> 00:05:59,680
+like to do with exposure is fill this
+
+161
+00:05:59,680 --> 00:06:01,990
+all in without clipping any of it the
+
+162
+00:06:01,990 --> 00:06:04,750
+detail we can check this little button
+
+163
+00:06:04,750 --> 00:06:07,440
+down here if we click this this is our
+
+164
+00:06:07,440 --> 00:06:10,599
+under an overexposed indicator so we
+
+165
+00:06:10,599 --> 00:06:12,699
+just see parts of the sky is overexposed
+
+166
+00:06:12,699 --> 00:06:15,009
+and anything that would be in blue would
+
+167
+00:06:15,009 --> 00:06:18,729
+be really underexposed areas and
+
+168
+00:06:18,729 --> 00:06:20,560
+anything that is in red would be
+
+169
+00:06:20,560 --> 00:06:23,979
+overexposed areas so that's okay right
+
+170
+00:06:23,979 --> 00:06:26,440
+there right I mean we could if we want
+
+171
+00:06:26,440 --> 00:06:28,120
+to really keep that detail we kind of
+
+172
+00:06:28,120 --> 00:06:30,250
+have no blue and no red showing but I
+
+173
+00:06:30,250 --> 00:06:31,719
+think I'll leave that right there we'll
+
+174
+00:06:31,719 --> 00:06:33,150
+toggle this off
+
+175
+00:06:33,150 --> 00:06:35,589
+so that's exposure a little bit playing
+
+176
+00:06:35,589 --> 00:06:37,210
+with that is a good first thing to do
+
+177
+00:06:37,210 --> 00:06:39,250
+with your image then also levels is
+
+178
+00:06:39,250 --> 00:06:40,630
+going to be a good thing too and levels
+
+179
+00:06:40,630 --> 00:06:40,990
+is over
+
+180
+00:06:40,990 --> 00:06:43,060
+here in the tone group so we click on
+
+181
+00:06:43,060 --> 00:06:44,860
+this and again if we hover over it tells
+
+182
+00:06:44,860 --> 00:06:46,930
+us what these groups are so we were in
+
+183
+00:06:46,930 --> 00:06:49,090
+the basic group now let's go to we did
+
+184
+00:06:49,090 --> 00:06:51,010
+exposure now let's go to tone group and
+
+185
+00:06:51,010 --> 00:06:53,910
+let's change the levels a little bit
+
+186
+00:06:53,910 --> 00:06:56,500
+since we played with exposure we don't
+
+187
+00:06:56,500 --> 00:06:58,540
+want to start adjust this endpoint at
+
+188
+00:06:58,540 --> 00:07:00,580
+out point this is kind of the same thing
+
+189
+00:07:00,580 --> 00:07:04,510
+black over here white over here and then
+
+190
+00:07:04,510 --> 00:07:06,940
+the middle adjusts how the Grays are not
+
+191
+00:07:06,940 --> 00:07:07,660
+necessarily the greys
+
+192
+00:07:07,660 --> 00:07:10,270
+but the mids mids are displayed because
+
+193
+00:07:10,270 --> 00:07:13,060
+it's it's kind of weird with color and I
+
+194
+00:07:13,060 --> 00:07:14,590
+don't even understand it exactly but
+
+195
+00:07:14,590 --> 00:07:16,810
+this is adjusting all the kind of the
+
+196
+00:07:16,810 --> 00:07:19,450
+mid-tones so we can drag this and sort
+
+197
+00:07:19,450 --> 00:07:21,130
+of bring out some more color here and
+
+198
+00:07:21,130 --> 00:07:23,020
+it's sort of shifting the way this chart
+
+199
+00:07:23,020 --> 00:07:25,330
+looks but then we can come in and adjust
+
+200
+00:07:25,330 --> 00:07:28,720
+that a little bit now we've kind of lost
+
+201
+00:07:28,720 --> 00:07:30,070
+some detail in the sky it looks like
+
+202
+00:07:30,070 --> 00:07:33,400
+though but that's okay because really we
+
+203
+00:07:33,400 --> 00:07:35,020
+can adjust that in a little bit here so
+
+204
+00:07:35,020 --> 00:07:37,270
+I want to see the detail here which
+
+205
+00:07:37,270 --> 00:07:38,590
+we've actually made a big difference
+
+206
+00:07:38,590 --> 00:07:40,960
+already to how it was before this that
+
+207
+00:07:40,960 --> 00:07:44,890
+was before this is how it looks now and
+
+208
+00:07:44,890 --> 00:07:46,150
+again we've talked in the last video
+
+209
+00:07:46,150 --> 00:07:47,380
+real quick but let's just do this for
+
+210
+00:07:47,380 --> 00:07:49,690
+fun we can create a snapshot so if we go
+
+211
+00:07:49,690 --> 00:07:52,060
+to our original and we expand this
+
+212
+00:07:52,060 --> 00:07:54,850
+snapshot over here this is one that I
+
+213
+00:07:54,850 --> 00:07:57,040
+took earlier we can we don't want that
+
+214
+00:07:57,040 --> 00:07:58,360
+to be there we'll just click this to get
+
+215
+00:07:58,360 --> 00:08:00,850
+rid of it click take snapshot will
+
+216
+00:08:00,850 --> 00:08:03,310
+always take a snapshot of whatever your
+
+217
+00:08:03,310 --> 00:08:05,650
+image looks like currently in the dark
+
+218
+00:08:05,650 --> 00:08:08,680
+room and then now we have the snapshot
+
+219
+00:08:08,680 --> 00:08:10,570
+let's go back and start editing and we
+
+220
+00:08:10,570 --> 00:08:12,430
+can enable this by clicking on it let's
+
+221
+00:08:12,430 --> 00:08:16,000
+click on it and now we can see here we
+
+222
+00:08:16,000 --> 00:08:17,770
+can see what our changes look like so
+
+223
+00:08:17,770 --> 00:08:21,130
+this is before and this is after so
+
+224
+00:08:21,130 --> 00:08:22,510
+really cool that's looking good we'll
+
+225
+00:08:22,510 --> 00:08:23,740
+just keep it off to the left hand side
+
+226
+00:08:23,740 --> 00:08:25,270
+right now while we're making changes and
+
+227
+00:08:25,270 --> 00:08:27,040
+whenever we want we can just drag and
+
+228
+00:08:27,040 --> 00:08:28,560
+kind of overlay and see how it's looking
+
+229
+00:08:28,560 --> 00:08:31,750
+ok and we can do it from before too we
+
+230
+00:08:31,750 --> 00:08:33,250
+could take a snapshot at the exposure
+
+231
+00:08:33,250 --> 00:08:35,590
+level take snapshot and then we can go
+
+232
+00:08:35,590 --> 00:08:38,049
+to that one and then we conceded the
+
+233
+00:08:38,049 --> 00:08:40,900
+difference how it looked just at that
+
+234
+00:08:40,900 --> 00:08:43,780
+exposure level that make sense so this
+
+235
+00:08:43,780 --> 00:08:46,540
+is the difference between 5 & 6 between
+
+236
+00:08:46,540 --> 00:08:48,790
+these two different edits between
+
+237
+00:08:48,790 --> 00:08:50,890
+exposure and the levels changes we made
+
+238
+00:08:50,890 --> 00:08:53,080
+so then we can see just what exactly did
+
+239
+00:08:53,080 --> 00:08:54,580
+the levels do did it improve
+
+240
+00:08:54,580 --> 00:08:56,230
+or did it hurt the quality of our image
+
+241
+00:08:56,230 --> 00:08:58,420
+and we see it's a little bit lighter up
+
+242
+00:08:58,420 --> 00:09:00,790
+there like on the roof and stuff anyway
+
+243
+00:09:00,790 --> 00:09:01,960
+let's put this over here let's turn that
+
+244
+00:09:01,960 --> 00:09:05,470
+off for now and let's try to let's look
+
+245
+00:09:05,470 --> 00:09:08,800
+at one more thing that's good to do just
+
+246
+00:09:08,800 --> 00:09:12,520
+for like photos in general so white
+
+247
+00:09:12,520 --> 00:09:13,930
+balance is something good we can adjust
+
+248
+00:09:13,930 --> 00:09:16,570
+the temperature temperatures usually in
+
+249
+00:09:16,570 --> 00:09:18,460
+these like thousands of K if you ever
+
+250
+00:09:18,460 --> 00:09:20,830
+look on like an LED light bulb or like
+
+251
+00:09:20,830 --> 00:09:22,510
+just different things like the Sun has a
+
+252
+00:09:22,510 --> 00:09:25,150
+certain light temperature and like the
+
+253
+00:09:25,150 --> 00:09:26,710
+moon has a certain light temperature so
+
+254
+00:09:26,710 --> 00:09:28,180
+suppose this was taken in the moonlight
+
+255
+00:09:28,180 --> 00:09:30,520
+it might look more like this with a
+
+256
+00:09:30,520 --> 00:09:32,770
+lower temperature it looked more like
+
+257
+00:09:32,770 --> 00:09:35,710
+you have a lot more blue and the colors
+
+258
+00:09:35,710 --> 00:09:37,090
+would look differently because the light
+
+259
+00:09:37,090 --> 00:09:39,010
+source is different so this temperature
+
+260
+00:09:39,010 --> 00:09:40,720
+kind of adjusts the with the light
+
+261
+00:09:40,720 --> 00:09:43,900
+source so we want to we'll probably want
+
+262
+00:09:43,900 --> 00:09:45,490
+to match a certain way but if we have it
+
+263
+00:09:45,490 --> 00:09:48,720
+go up higher see it it was at around
+
+264
+00:09:48,720 --> 00:09:52,150
+5,000 was it oh no one do that let's
+
+265
+00:09:52,150 --> 00:09:53,890
+leave this on I think we can reset to
+
+266
+00:09:53,890 --> 00:09:55,960
+default how it was so it was down here
+
+267
+00:09:55,960 --> 00:09:58,060
+at 5,000 so maybe let's turn it up to
+
+268
+00:09:58,060 --> 00:10:00,150
+about 6,000 that was kind of cool and
+
+269
+00:10:00,150 --> 00:10:02,890
+have it more of a yellow look so all the
+
+270
+00:10:02,890 --> 00:10:05,020
+Reds and the blues everything kinda has
+
+271
+00:10:05,020 --> 00:10:08,350
+is as if it has a more like a evening
+
+272
+00:10:08,350 --> 00:10:11,200
+sunset on it so we'll leave that and we
+
+273
+00:10:11,200 --> 00:10:13,030
+could adjust colors individually if our
+
+274
+00:10:13,030 --> 00:10:15,100
+white balance was off the way to check
+
+275
+00:10:15,100 --> 00:10:16,690
+that if you hit click your middle
+
+276
+00:10:16,690 --> 00:10:19,090
+control wheel you can zoom in and see
+
+277
+00:10:19,090 --> 00:10:19,510
+this
+
+278
+00:10:19,510 --> 00:10:21,040
+so our whites are looking like they're
+
+279
+00:10:21,040 --> 00:10:23,200
+being displayed pretty accurate I think
+
+280
+00:10:23,200 --> 00:10:28,930
+I know it's hard to tell but it's easy
+
+281
+00:10:28,930 --> 00:10:30,130
+to tell if you haven't really off
+
+282
+00:10:30,130 --> 00:10:31,800
+sometimes you'll have like a lot of
+
+283
+00:10:31,800 --> 00:10:33,760
+they'll look like this or something
+
+284
+00:10:33,760 --> 00:10:35,410
+you'll have too much of a certain cover
+
+285
+00:10:35,410 --> 00:10:37,120
+too much red or too much green in your
+
+286
+00:10:37,120 --> 00:10:39,760
+whites so you would adjust that by just
+
+287
+00:10:39,760 --> 00:10:42,940
+coming down and adjusting the this green
+
+288
+00:10:42,940 --> 00:10:45,430
+slider here let's reset that to how it
+
+289
+00:10:45,430 --> 00:10:49,150
+was is put the temperature back to 7006
+
+290
+00:10:49,150 --> 00:10:51,810
+thousand all right
+
+291
+00:10:51,810 --> 00:10:53,980
+there we go and now since we made a
+
+292
+00:10:53,980 --> 00:10:55,750
+bunch of changes over here we see if
+
+293
+00:10:55,750 --> 00:10:57,280
+ever we have to like we have a base
+
+294
+00:10:57,280 --> 00:10:59,950
+curve happening twice we can get rid of
+
+295
+00:10:59,950 --> 00:11:02,770
+that and kind of undo but we can
+
+296
+00:11:02,770 --> 00:11:04,870
+compress those into the same thing by
+
+297
+00:11:04,870 --> 00:11:07,150
+clicking this compress history stack and
+
+298
+00:11:07,150 --> 00:11:08,499
+now those
+
+299
+00:11:08,499 --> 00:11:10,029
+changes in the bass curve a bit and then
+
+300
+00:11:10,029 --> 00:11:12,609
+combined so look we're losing some
+
+301
+00:11:12,609 --> 00:11:14,169
+detail in our sky but what I think I
+
+302
+00:11:14,169 --> 00:11:16,689
+want to do with this we're gonna imply a
+
+303
+00:11:16,689 --> 00:11:19,209
+vignette anyway and I'm going to change
+
+304
+00:11:19,209 --> 00:11:21,189
+the sky before I do that let's see if we
+
+305
+00:11:21,189 --> 00:11:24,069
+can change the color of the sky so to do
+
+306
+00:11:24,069 --> 00:11:25,779
+that there's a couple different things
+
+307
+00:11:25,779 --> 00:11:27,699
+we could do we've done we've looked a
+
+308
+00:11:27,699 --> 00:11:29,259
+little bit at this in this color
+
+309
+00:11:29,259 --> 00:11:32,789
+so this is our color group we can do a
+
+310
+00:11:32,789 --> 00:11:35,619
+color correction where we just change
+
+311
+00:11:35,619 --> 00:11:37,749
+the color of everything in the picture
+
+312
+00:11:37,749 --> 00:11:40,509
+in general this sort of has a little bit
+
+313
+00:11:40,509 --> 00:11:42,009
+of the same effect we were seeing with
+
+314
+00:11:42,009 --> 00:11:43,599
+the cover temperature that we just did
+
+315
+00:11:43,599 --> 00:11:46,059
+but here we're gonna adjust the color of
+
+316
+00:11:46,059 --> 00:11:48,579
+the sky but at the expense of also
+
+317
+00:11:48,579 --> 00:11:50,589
+adjusting the color of all the pixels
+
+318
+00:11:50,589 --> 00:11:52,539
+like look at the colors of the ground is
+
+319
+00:11:52,539 --> 00:11:55,089
+changing too so if we want to adjust the
+
+320
+00:11:55,089 --> 00:11:57,339
+sky without affecting this down here we
+
+321
+00:11:57,339 --> 00:11:59,409
+don't want to use the color corrector so
+
+322
+00:11:59,409 --> 00:12:01,359
+I'm gonna reset that to default what we
+
+323
+00:12:01,359 --> 00:12:04,119
+want to use is this color lookup table
+
+324
+00:12:04,119 --> 00:12:08,049
+it's down here under more modules so
+
+325
+00:12:08,049 --> 00:12:10,629
+this is a good one to do where's that
+
+326
+00:12:10,629 --> 00:12:11,949
+adds I don't know if you do this on
+
+327
+00:12:11,949 --> 00:12:13,869
+every photo I passed it cover lookup
+
+328
+00:12:13,869 --> 00:12:16,149
+table a color lookup table is going to
+
+329
+00:12:16,149 --> 00:12:19,359
+let us choose a certain color you can
+
+330
+00:12:19,359 --> 00:12:20,979
+also do this by brightness which might
+
+331
+00:12:20,979 --> 00:12:22,899
+make more sense in this case but let's
+
+332
+00:12:22,899 --> 00:12:24,099
+choose a certain color like what's
+
+333
+00:12:24,099 --> 00:12:25,809
+happening in the sky there so it's
+
+334
+00:12:25,809 --> 00:12:29,259
+probably like these this gray will play
+
+335
+00:12:29,259 --> 00:12:30,669
+more with this in the in other videos
+
+336
+00:12:30,669 --> 00:12:34,089
+but for the time being we select a color
+
+337
+00:12:34,089 --> 00:12:36,669
+like the all of the this these this
+
+338
+00:12:36,669 --> 00:12:38,739
+color right now and then we can adjust
+
+339
+00:12:38,739 --> 00:12:40,749
+just that color without affecting
+
+340
+00:12:40,749 --> 00:12:42,249
+everything else but I want to make sure
+
+341
+00:12:42,249 --> 00:12:43,899
+this has some more Browns in it so I
+
+342
+00:12:43,899 --> 00:12:45,220
+don't think it'll affect the ground too
+
+343
+00:12:45,220 --> 00:12:48,099
+much so look we can change this we can
+
+344
+00:12:48,099 --> 00:12:51,069
+add some more make it look more like
+
+345
+00:12:51,069 --> 00:12:53,409
+blue and purple in the sky without
+
+346
+00:12:53,409 --> 00:12:56,889
+affecting everything else here so that's
+
+347
+00:12:56,889 --> 00:12:58,119
+kind of cool and then we can see the
+
+348
+00:12:58,119 --> 00:13:00,129
+clouds a little bit more in there we can
+
+349
+00:13:00,129 --> 00:13:02,319
+adjust the lightness or darkness of it
+
+350
+00:13:02,319 --> 00:13:04,209
+so we can really make that sky look
+
+351
+00:13:04,209 --> 00:13:07,239
+really cool without changing everything
+
+352
+00:13:07,239 --> 00:13:09,069
+else we're not we're not applying a
+
+353
+00:13:09,069 --> 00:13:11,499
+color layer over top of everything we're
+
+354
+00:13:11,499 --> 00:13:14,049
+just adjusting colors within this sort
+
+355
+00:13:14,049 --> 00:13:17,109
+of white gray range this will make more
+
+356
+00:13:17,109 --> 00:13:18,249
+sense as we play with it more in the
+
+357
+00:13:18,249 --> 00:13:20,349
+future but that looks pretty cool right
+
+358
+00:13:20,349 --> 00:13:22,329
+so if we turn this off we
+
+359
+00:13:22,329 --> 00:13:25,029
+before really kind of flat and the sky
+
+360
+00:13:25,029 --> 00:13:27,279
+just makes everything look I know that
+
+361
+00:13:27,279 --> 00:13:29,170
+blue sky that's actually too much now
+
+362
+00:13:29,170 --> 00:13:31,809
+that I now that I really look at it
+
+363
+00:13:31,809 --> 00:13:34,029
+so we maybe adjust the we can adjust the
+
+364
+00:13:34,029 --> 00:13:36,549
+saturation here so it's not quite so
+
+365
+00:13:36,549 --> 00:13:38,920
+intense but we can still give it that
+
+366
+00:13:38,920 --> 00:13:40,660
+sort of a different look than the
+
+367
+00:13:40,660 --> 00:13:45,429
+original photo had and maybe we'll just
+
+368
+00:13:45,429 --> 00:13:47,319
+let's apply our vignette and just stop
+
+369
+00:13:47,319 --> 00:13:49,480
+right there we could bring out some more
+
+370
+00:13:49,480 --> 00:13:52,959
+detail well let's do one more just so we
+
+371
+00:13:52,959 --> 00:13:54,489
+can get a little bit experience with it
+
+372
+00:13:54,489 --> 00:13:57,519
+we can adjust the under here under the
+
+373
+00:13:57,519 --> 00:14:00,279
+basic under the base or these basic
+
+374
+00:14:00,279 --> 00:14:03,670
+group we can go to shadows and
+
+375
+00:14:03,670 --> 00:14:06,069
+highlights so these are always good to
+
+376
+00:14:06,069 --> 00:14:08,980
+adjust to or a lot of times it can be to
+
+377
+00:14:08,980 --> 00:14:10,839
+our advantage if ever there's some dark
+
+378
+00:14:10,839 --> 00:14:12,489
+parts like here that we want to bring
+
+379
+00:14:12,489 --> 00:14:14,679
+out or some of these shadows we can
+
+380
+00:14:14,679 --> 00:14:16,749
+adjust just the shadows here and just
+
+381
+00:14:16,749 --> 00:14:18,069
+for fun let's suggest and see how that
+
+382
+00:14:18,069 --> 00:14:20,529
+changes the look and feel of this image
+
+383
+00:14:20,529 --> 00:14:23,410
+so we can sort of bring brighten up sort
+
+384
+00:14:23,410 --> 00:14:24,519
+of what's happening down here we don't
+
+385
+00:14:24,519 --> 00:14:26,439
+want to do too much so it wasn't so bad
+
+386
+00:14:26,439 --> 00:14:28,689
+and the highlights is gonna adjust some
+
+387
+00:14:28,689 --> 00:14:31,569
+of these highlight pixels too so we can
+
+388
+00:14:31,569 --> 00:14:34,209
+kind of give more detail into the sky
+
+389
+00:14:34,209 --> 00:14:37,529
+there and really see those clouds a lot
+
+390
+00:14:37,529 --> 00:14:39,549
+but I don't know and then if we don't
+
+391
+00:14:39,549 --> 00:14:41,019
+want if we do it the other direction it
+
+392
+00:14:41,019 --> 00:14:45,639
+kind of makes it like a glow maybe we
+
+393
+00:14:45,639 --> 00:14:47,350
+will adjust that and keep those in there
+
+394
+00:14:47,350 --> 00:14:49,059
+a little bit that kind of looked cool
+
+395
+00:14:49,059 --> 00:14:54,399
+with that detail so that's one two
+
+396
+00:14:54,399 --> 00:14:55,749
+that's that can be a lot of fun to play
+
+397
+00:14:55,749 --> 00:14:57,879
+with the shadow and highlights and a lot
+
+398
+00:14:57,879 --> 00:14:59,679
+of pictures can benefit from this module
+
+399
+00:14:59,679 --> 00:15:02,259
+as what as well let's apply one more
+
+400
+00:15:02,259 --> 00:15:03,610
+module because this video is starting to
+
+401
+00:15:03,610 --> 00:15:05,169
+get kind of long I'm gonna do the
+
+402
+00:15:05,169 --> 00:15:06,819
+vignette which is going to be this very
+
+403
+00:15:06,819 --> 00:15:09,669
+last one we have option for this
+
+404
+00:15:09,669 --> 00:15:10,689
+vignette
+
+405
+00:15:10,689 --> 00:15:13,119
+so the vignette what it lets us do it
+
+406
+00:15:13,119 --> 00:15:15,249
+just puts draws a circle here there's
+
+407
+00:15:15,249 --> 00:15:17,619
+actually a outside circle as well we can
+
+408
+00:15:17,619 --> 00:15:19,449
+click on this little circle and move it
+
+409
+00:15:19,449 --> 00:15:22,179
+around and change the shape of it and if
+
+410
+00:15:22,179 --> 00:15:23,919
+you hold your control wheel and scroll
+
+411
+00:15:23,919 --> 00:15:26,079
+well out you can zoom out so you can see
+
+412
+00:15:26,079 --> 00:15:28,509
+what's happening here what we want to do
+
+413
+00:15:28,509 --> 00:15:33,179
+is wrap is put this around our
+
+414
+00:15:35,100 --> 00:15:37,020
+our subject or our focal point of the
+
+415
+00:15:37,020 --> 00:15:39,240
+image so we're gonna put this right here
+
+416
+00:15:39,240 --> 00:15:41,700
+we can move it by left-clicking and move
+
+417
+00:15:41,700 --> 00:15:44,790
+where it's at and we see this outer
+
+418
+00:15:44,790 --> 00:15:47,730
+circle is feathering a dark sort of a
+
+419
+00:15:47,730 --> 00:15:49,980
+dark area see the corners now are sort
+
+420
+00:15:49,980 --> 00:15:52,140
+of shadowy and dark whereas the center
+
+421
+00:15:52,140 --> 00:15:54,180
+is bright so it's just applying sort of
+
+422
+00:15:54,180 --> 00:15:56,790
+a mask overlay to make everything look a
+
+423
+00:15:56,790 --> 00:15:59,850
+little bit more kind of draw your
+
+424
+00:15:59,850 --> 00:16:03,510
+attention to the center of this and so
+
+425
+00:16:03,510 --> 00:16:07,550
+let's do that maybe right like that and
+
+426
+00:16:07,550 --> 00:16:09,810
+it depends on how extreme we want it
+
+427
+00:16:09,810 --> 00:16:11,250
+that's a little too extreme I think and
+
+428
+00:16:11,250 --> 00:16:14,340
+let's make this more oval like my
+
+429
+00:16:14,340 --> 00:16:15,630
+computer's going kind of slow for some
+
+430
+00:16:15,630 --> 00:16:16,860
+reason right now I'm not sure what's
+
+431
+00:16:16,860 --> 00:16:23,370
+happening that's maybe that's okay yeah
+
+432
+00:16:23,370 --> 00:16:26,040
+so that's that's great there so now we
+
+433
+00:16:26,040 --> 00:16:29,340
+can um let's come over here and hit and
+
+434
+00:16:29,340 --> 00:16:32,160
+click on our compress history stack get
+
+435
+00:16:32,160 --> 00:16:33,690
+all that history there and let's just do
+
+436
+00:16:33,690 --> 00:16:35,190
+a quick walk through and see what what
+
+437
+00:16:35,190 --> 00:16:38,160
+all we've done I'm just a click on this
+
+438
+00:16:38,160 --> 00:16:40,110
+what happened did it did I get rid of
+
+439
+00:16:40,110 --> 00:16:42,240
+that oh I click on original okay so
+
+440
+00:16:42,240 --> 00:16:43,380
+we're gonna see what we've done here I'm
+
+441
+00:16:43,380 --> 00:16:45,120
+gonna hold down the control wheel zoom
+
+442
+00:16:45,120 --> 00:16:47,250
+this in so this is our original raw
+
+443
+00:16:47,250 --> 00:16:50,640
+picture that we downloaded we did a
+
+444
+00:16:50,640 --> 00:16:51,840
+little bit of sharpening we didn't do
+
+445
+00:16:51,840 --> 00:16:53,790
+this this automatically happened the
+
+446
+00:16:53,790 --> 00:16:56,850
+orientation was unaffected and the base
+
+447
+00:16:56,850 --> 00:16:58,440
+curve we did play with us a little bit
+
+448
+00:16:58,440 --> 00:16:59,730
+remember so we made it look like this
+
+449
+00:16:59,730 --> 00:17:01,740
+with our base curve then we use the
+
+450
+00:17:01,740 --> 00:17:04,170
+exposure a module and we adjusted the
+
+451
+00:17:04,170 --> 00:17:06,359
+exposure a little bit then we adjusted
+
+452
+00:17:06,359 --> 00:17:08,400
+the levels which is kind of a gonna gave
+
+453
+00:17:08,400 --> 00:17:10,439
+it some more contrast between the light
+
+454
+00:17:10,439 --> 00:17:12,930
+pixels and the dark pixels then we
+
+455
+00:17:12,930 --> 00:17:14,520
+applied a white balance and in white
+
+456
+00:17:14,520 --> 00:17:16,109
+balance what we did was the temperature
+
+457
+00:17:16,109 --> 00:17:18,329
+so we adjusted the temperature to make
+
+458
+00:17:18,329 --> 00:17:20,099
+it look a little bit more warm that's
+
+459
+00:17:20,099 --> 00:17:22,470
+the only thing we adjusted there then we
+
+460
+00:17:22,470 --> 00:17:24,750
+did I don't think we we clicked on color
+
+461
+00:17:24,750 --> 00:17:25,980
+correction but we didn't really do
+
+462
+00:17:25,980 --> 00:17:28,530
+anything so it's we didn't really use
+
+463
+00:17:28,530 --> 00:17:29,820
+that one but it's still in our history
+
+464
+00:17:29,820 --> 00:17:31,380
+stack because we made changes and then
+
+465
+00:17:31,380 --> 00:17:34,590
+set it back to no changes we did this
+
+466
+00:17:34,590 --> 00:17:36,930
+color lookup table which is how we added
+
+467
+00:17:36,930 --> 00:17:38,880
+some more blue color to the sky that
+
+468
+00:17:38,880 --> 00:17:41,130
+really wasn't there originally but we
+
+469
+00:17:41,130 --> 00:17:45,000
+added in just for some effect and then
+
+470
+00:17:45,000 --> 00:17:46,410
+we adjusted shadows and highlights which
+
+471
+00:17:46,410 --> 00:17:48,420
+we probably could have done earlier on
+
+472
+00:17:48,420 --> 00:17:48,960
+in our
+
+473
+00:17:48,960 --> 00:17:50,429
+stack but we adjusted the shadows and
+
+474
+00:17:50,429 --> 00:17:52,320
+highlights to kind of gotta bring more
+
+475
+00:17:52,320 --> 00:17:54,330
+attention to some of the detail in here
+
+476
+00:17:54,330 --> 00:17:56,370
+I guess and then we applied a vignette
+
+477
+00:17:56,370 --> 00:17:58,860
+to make us focus make the viewer focus
+
+478
+00:17:58,860 --> 00:18:00,570
+more on what's happening here
+
+479
+00:18:00,570 --> 00:18:04,169
+and so let's grab a snapshot of this
+
+480
+00:18:04,169 --> 00:18:06,899
+final one and then look back here enable
+
+481
+00:18:06,899 --> 00:18:08,789
+the final one and we can see our before
+
+482
+00:18:08,789 --> 00:18:10,919
+and after this time before is on this
+
+483
+00:18:10,919 --> 00:18:15,120
+side and after is here so that's pretty
+
+484
+00:18:15,120 --> 00:18:18,690
+cool right pretty cool stuff
+
+485
+00:18:18,690 --> 00:18:20,370
+as a final thing so what you're gonna
+
+486
+00:18:20,370 --> 00:18:22,970
+want to do is export this so what let's
+
+487
+00:18:22,970 --> 00:18:26,039
+because I did it reverse way we're
+
+488
+00:18:26,039 --> 00:18:29,010
+clicking on our original now so if we go
+
+489
+00:18:29,010 --> 00:18:30,809
+back into light table it's going to look
+
+490
+00:18:30,809 --> 00:18:33,539
+like there's no changes made to it so we
+
+491
+00:18:33,539 --> 00:18:35,460
+need to go into darkroom and click on
+
+492
+00:18:35,460 --> 00:18:37,230
+the highest level of our history stacked
+
+493
+00:18:37,230 --> 00:18:39,960
+if we want to export it like this and
+
+494
+00:18:39,960 --> 00:18:41,940
+then go to a back to our light table now
+
+495
+00:18:41,940 --> 00:18:43,950
+we're seeing it with the changes so this
+
+496
+00:18:43,950 --> 00:18:45,179
+looks like the way we want it to look
+
+497
+00:18:45,179 --> 00:18:48,000
+and so to export this because it's not
+
+498
+00:18:48,000 --> 00:18:49,380
+going to look like that on our computer
+
+499
+00:18:49,380 --> 00:18:51,539
+if we go back and find the raw file it's
+
+500
+00:18:51,539 --> 00:18:55,799
+gonna be unchanged and just how it was
+
+501
+00:18:55,799 --> 00:18:58,830
+before anyway we have to export this so
+
+502
+00:18:58,830 --> 00:19:00,840
+we can't just go to save there's no file
+
+503
+00:19:00,840 --> 00:19:03,179
+save on the menu bar or anything what we
+
+504
+00:19:03,179 --> 00:19:06,260
+have to do is go to export selected and
+
+505
+00:19:06,260 --> 00:19:08,610
+then since this is a selected image
+
+506
+00:19:08,610 --> 00:19:11,460
+there's only one we just click on export
+
+507
+00:19:11,460 --> 00:19:13,289
+don't worry about changing anything in
+
+508
+00:19:13,289 --> 00:19:15,450
+here for now and it's going to export it
+
+509
+00:19:15,450 --> 00:19:17,549
+to a folder called darktable
+
+510
+00:19:17,549 --> 00:19:20,399
+exported in the same directory as our
+
+511
+00:19:20,399 --> 00:19:23,340
+source image and our source image again
+
+512
+00:19:23,340 --> 00:19:25,950
+is unaffected we didn't change our
+
+513
+00:19:25,950 --> 00:19:27,899
+source image at all instead we just
+
+514
+00:19:27,899 --> 00:19:30,840
+exported it to this folder which is
+
+515
+00:19:30,840 --> 00:19:33,600
+right here it created a new folder
+
+516
+00:19:33,600 --> 00:19:35,520
+called darktable exporter that wasn't
+
+517
+00:19:35,520 --> 00:19:39,029
+there before with our final image right
+
+518
+00:19:39,029 --> 00:19:42,539
+here so that's kind of a workflow I kind
+
+519
+00:19:42,539 --> 00:19:43,649
+of wanted to demonstrate some of those
+
+520
+00:19:43,649 --> 00:19:45,659
+modules that you'll probably use when
+
+521
+00:19:45,659 --> 00:19:47,159
+working with a lot of things except
+
+522
+00:19:47,159 --> 00:19:49,200
+maybe not so much the color lookup but a
+
+523
+00:19:49,200 --> 00:19:50,610
+lot of the rest of those are ones that
+
+524
+00:19:50,610 --> 00:19:55,559
+you'll use all the time in in darktable
+
+525
+00:19:55,559 --> 00:19:57,570
+so hopefully that kind of gave you a
+
+526
+00:19:57,570 --> 00:19:59,070
+little bit more confidence using some of
+
+527
+00:19:59,070 --> 00:20:01,110
+those there is no right and wrong way
+
+528
+00:20:01,110 --> 00:20:02,340
+just get in here and play
+
+529
+00:20:02,340 --> 00:20:03,540
+well there's probably some wrong ways
+
+530
+00:20:03,540 --> 00:20:05,970
+but there's no right ways so just go
+
+531
+00:20:05,970 --> 00:20:07,950
+ahead and just get in and play and see
+
+532
+00:20:07,950 --> 00:20:10,200
+what different things do what are we and
+
+533
+00:20:10,200 --> 00:20:11,520
+this is the vignette we could have
+
+534
+00:20:11,520 --> 00:20:13,080
+adjusted some different things on the
+
+535
+00:20:13,080 --> 00:20:15,720
+vignette and change that a little bit we
+
+536
+00:20:15,720 --> 00:20:17,160
+could have added a crop and you know
+
+537
+00:20:17,160 --> 00:20:19,380
+cropped in here so there's all kinds of
+
+538
+00:20:19,380 --> 00:20:20,730
+different things look here's a bloom
+
+539
+00:20:20,730 --> 00:20:22,740
+what does bloom do what does sharpen do
+
+540
+00:20:22,740 --> 00:20:24,630
+just get in and play and figure it out
+
+541
+00:20:24,630 --> 00:20:26,280
+and you're gonna find some that you
+
+542
+00:20:26,280 --> 00:20:28,710
+really like to use a lot so and when you
+
+543
+00:20:28,710 --> 00:20:30,570
+do add them to your favorites so you
+
+544
+00:20:30,570 --> 00:20:32,430
+click here and just go ahead and click
+
+545
+00:20:32,430 --> 00:20:34,260
+the star to the side and then you'll
+
+546
+00:20:34,260 --> 00:20:36,000
+have a nice workflow of favorites that
+
+547
+00:20:36,000 --> 00:20:37,890
+you do and the more you do it the more
+
+548
+00:20:37,890 --> 00:20:39,240
+you're gonna get comfortable with using
+
+549
+00:20:39,240 --> 00:20:39,990
+darktable
+
+550
+00:20:39,990 --> 00:20:42,720
+and in the next tutorial or pretty soon
+
+551
+00:20:42,720 --> 00:20:44,430
+here we're gonna learn how to save some
+
+552
+00:20:44,430 --> 00:20:46,710
+of these presets so you can kind of save
+
+553
+00:20:46,710 --> 00:20:49,230
+and make your process much much quicker
+
+554
+00:20:49,230 --> 00:20:50,760
+when you're first starting out it's
+
+555
+00:20:50,760 --> 00:20:52,710
+going to be very time consuming and you
+
+556
+00:20:52,710 --> 00:20:54,810
+can spend a lot of time you know hours
+
+557
+00:20:54,810 --> 00:20:56,790
+on a single photo just tweaking and
+
+558
+00:20:56,790 --> 00:21:00,600
+trying to get it right but yeah thanks
+
+559
+00:21:00,600 --> 00:21:01,710
+for watching guys leave your questions
+
+560
+00:21:01,710 --> 00:21:03,840
+or comments below and I'll catch you in
+
+561
+00:21:03,840 --> 00:21:06,500
+the next video
+

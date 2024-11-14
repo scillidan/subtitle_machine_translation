@@ -1,0 +1,900 @@
+1
+00:00:02,180 --> 00:00:04,740
+welcome to another tutorial in this
+
+2
+00:00:04,740 --> 00:00:06,060
+video we're going to be looking at the
+
+3
+00:00:06,060 --> 00:00:08,969
+clone and the healing tools these are
+
+4
+00:00:08,969 --> 00:00:10,709
+really powerful tools in and
+
+5
+00:00:10,709 --> 00:00:12,209
+they're not incredibly difficult to use
+
+6
+00:00:12,209 --> 00:00:14,009
+I'm gonna bring in some images to
+
+7
+00:00:14,009 --> 00:00:16,320
+illustrate how these work we can either
+
+8
+00:00:16,320 --> 00:00:18,779
+go to file open and I can find them on
+
+9
+00:00:18,779 --> 00:00:20,310
+my computer but I'm going to bring in
+
+10
+00:00:20,310 --> 00:00:22,080
+three at once I'm going to just navigate
+
+11
+00:00:22,080 --> 00:00:23,640
+to the location which is on my desktop
+
+12
+00:00:23,640 --> 00:00:25,830
+I'm gonna left click and hold and select
+
+13
+00:00:25,830 --> 00:00:28,710
+all three then left click and drag all
+
+14
+00:00:28,710 --> 00:00:30,449
+three of them just into this project
+
+15
+00:00:30,449 --> 00:00:32,610
+area what that's gonna do is import all
+
+16
+00:00:32,610 --> 00:00:34,260
+three of these images and I can toggle
+
+17
+00:00:34,260 --> 00:00:36,240
+between which one I'm working on just
+
+18
+00:00:36,240 --> 00:00:38,790
+across this top selection bar up here
+
+19
+00:00:38,790 --> 00:00:41,640
+and so the first one I want to show is
+
+20
+00:00:41,640 --> 00:00:45,930
+the clone tool so this is a picture just
+
+21
+00:00:45,930 --> 00:00:47,940
+me standing in the snow and if I wanted
+
+22
+00:00:47,940 --> 00:00:49,350
+to use the clone tool I can actually
+
+23
+00:00:49,350 --> 00:00:52,200
+clone multiple copies of myself is
+
+24
+00:00:52,200 --> 00:00:54,090
+standing here so the clone tool if we
+
+25
+00:00:54,090 --> 00:00:56,370
+hover over as the see is the shortcut
+
+26
+00:00:56,370 --> 00:00:57,810
+key to select it we found so just
+
+27
+00:00:57,810 --> 00:00:59,820
+left-click on it and it has a lot of the
+
+28
+00:00:59,820 --> 00:01:01,380
+same options that we'd be familiar with
+
+29
+00:01:01,380 --> 00:01:03,870
+other tools we can change the size of
+
+30
+00:01:03,870 --> 00:01:06,510
+the brush the aspect ratio all these
+
+31
+00:01:06,510 --> 00:01:09,120
+different things but what we really want
+
+32
+00:01:09,120 --> 00:01:10,950
+to do I'm gonna size it to be about the
+
+33
+00:01:10,950 --> 00:01:13,080
+size of my leg maybe that's about good
+
+34
+00:01:13,080 --> 00:01:15,210
+enough right there and then to use this
+
+35
+00:01:15,210 --> 00:01:17,940
+tool now does it tell us here what we do
+
+36
+00:01:17,940 --> 00:01:20,520
+is we hold down the ctrl key and then
+
+37
+00:01:20,520 --> 00:01:22,170
+left-click one so I'm gonna hold down
+
+38
+00:01:22,170 --> 00:01:24,120
+the ctrl key and left-click at my foot
+
+39
+00:01:24,120 --> 00:01:26,340
+down here and that creates a dotted
+
+40
+00:01:26,340 --> 00:01:29,610
+circle around my foot and now I can
+
+41
+00:01:29,610 --> 00:01:32,070
+click anywhere else in the image and my
+
+42
+00:01:32,070 --> 00:01:34,260
+foot will start to be drawn right there
+
+43
+00:01:34,260 --> 00:01:35,909
+I'm just left clicking and holding and
+
+44
+00:01:35,909 --> 00:01:38,250
+it's just redrawing myself here I'll do
+
+45
+00:01:38,250 --> 00:01:40,440
+ctrl Z because to make this more
+
+46
+00:01:40,440 --> 00:01:42,240
+realistic I'll keep that selection there
+
+47
+00:01:42,240 --> 00:01:43,680
+and again to make that selection you
+
+48
+00:01:43,680 --> 00:01:46,500
+have to hold the ctrl key and then
+
+49
+00:01:46,500 --> 00:01:48,930
+left-click to choose this you're
+
+50
+00:01:48,930 --> 00:01:50,760
+starting selection and then if I left
+
+51
+00:01:50,760 --> 00:01:52,560
+click and hold right here for example I
+
+52
+00:01:52,560 --> 00:01:55,610
+can sort of put my foot right here and
+
+53
+00:01:55,610 --> 00:01:58,680
+just draw this very quickly a clone of
+
+54
+00:01:58,680 --> 00:02:01,080
+myself standing in the snow over here
+
+55
+00:02:01,080 --> 00:02:03,750
+and the more time I take I can get it
+
+56
+00:02:03,750 --> 00:02:06,180
+pretty looking pretty good and with
+
+57
+00:02:06,180 --> 00:02:07,979
+notice over on the left hand side it's
+
+58
+00:02:07,979 --> 00:02:10,829
+showing me where I'm at on the source I
+
+59
+00:02:10,829 --> 00:02:12,990
+guess the source part of the image and
+
+60
+00:02:12,990 --> 00:02:15,210
+then over here I'm just drying so I can
+
+61
+00:02:15,210 --> 00:02:17,820
+sort of try to make sure I feel like a
+
+62
+00:02:17,820 --> 00:02:19,890
+feather on this tool right now which
+
+63
+00:02:19,890 --> 00:02:22,260
+means that the edges are sort of a faded
+
+64
+00:02:22,260 --> 00:02:24,240
+kind of fade out it's not like a hard
+
+65
+00:02:24,240 --> 00:02:28,350
+drawn line anyway there we go that's not
+
+66
+00:02:28,350 --> 00:02:29,640
+too bad so I've got a clone of myself
+
+67
+00:02:29,640 --> 00:02:32,070
+and as long as I keep holding down the
+
+68
+00:02:32,070 --> 00:02:34,200
+mouse the left mouse button I can come
+
+69
+00:02:34,200 --> 00:02:36,000
+over and retouch up any of these areas
+
+70
+00:02:36,000 --> 00:02:39,450
+if I unclick the mouse button and then I
+
+71
+00:02:39,450 --> 00:02:41,970
+try to click again it's going to start
+
+72
+00:02:41,970 --> 00:02:45,060
+my source at that same point that I was
+
+73
+00:02:45,060 --> 00:02:48,240
+at so I'll do ctrl Z to undo that that's
+
+74
+00:02:48,240 --> 00:02:50,010
+a very quick look at this and you notice
+
+75
+00:02:50,010 --> 00:02:51,810
+if we zoom in here a little bit we can
+
+76
+00:02:51,810 --> 00:02:54,330
+see it doesn't look exactly right the
+
+77
+00:02:54,330 --> 00:02:56,130
+colors are off a little bit on this side
+
+78
+00:02:56,130 --> 00:02:58,440
+and that sort of fades into there's some
+
+79
+00:02:58,440 --> 00:03:01,230
+missing data there kind of but not too
+
+80
+00:03:01,230 --> 00:03:02,940
+bad for just illustrating how that clone
+
+81
+00:03:02,940 --> 00:03:04,860
+tool works a lot of times people will
+
+82
+00:03:04,860 --> 00:03:07,440
+use this to do face swaps they'll select
+
+83
+00:03:07,440 --> 00:03:09,540
+one person's face and then go over to
+
+84
+00:03:09,540 --> 00:03:11,820
+the next area and an add in you know
+
+85
+00:03:11,820 --> 00:03:15,570
+replace just the face of a person I want
+
+86
+00:03:15,570 --> 00:03:18,060
+to show you another tool we can do so we
+
+87
+00:03:18,060 --> 00:03:19,350
+could do the clone tool you could
+
+88
+00:03:19,350 --> 00:03:22,320
+imagine erasing a part of an image we
+
+89
+00:03:22,320 --> 00:03:24,270
+could clone these rocks by holding down
+
+90
+00:03:24,270 --> 00:03:26,880
+the ctrl key while we're still on the
+
+91
+00:03:26,880 --> 00:03:29,190
+clone tool and then we could clone
+
+92
+00:03:29,190 --> 00:03:31,860
+myself out and put some rocks here but
+
+93
+00:03:31,860 --> 00:03:33,090
+the problem is you get some
+
+94
+00:03:33,090 --> 00:03:34,980
+strange-looking things so if i zoom in
+
+95
+00:03:34,980 --> 00:03:37,440
+now it's kind of hard to see here but
+
+96
+00:03:37,440 --> 00:03:39,090
+we're really getting you can't really
+
+97
+00:03:39,090 --> 00:03:40,910
+see all the detail in the rock and
+
+98
+00:03:40,910 --> 00:03:42,810
+especially with the trees it might look
+
+99
+00:03:42,810 --> 00:03:44,610
+kind of strange the point that the trees
+
+100
+00:03:44,610 --> 00:03:46,620
+overlap with each other it just doesn't
+
+101
+00:03:46,620 --> 00:03:49,290
+look actually it looks pretty good but a
+
+102
+00:03:49,290 --> 00:03:51,240
+better tool to use in this case is the
+
+103
+00:03:51,240 --> 00:03:53,700
+healing tool so I'll do ctrl Z the
+
+104
+00:03:53,700 --> 00:03:55,170
+healing tool is right next to the clone
+
+105
+00:03:55,170 --> 00:03:57,630
+tool has this band-aid icon on it all I
+
+106
+00:03:57,630 --> 00:03:59,580
+want to mention your icons may look
+
+107
+00:03:59,580 --> 00:04:01,980
+different I can mention if the start of
+
+108
+00:04:01,980 --> 00:04:03,240
+this I'm using a different version of
+
+109
+00:04:03,240 --> 00:04:05,340
+ so if your icons look different it
+
+110
+00:04:05,340 --> 00:04:06,540
+doesn't really matter different
+
+111
+00:04:06,540 --> 00:04:08,010
+operating systems and different versions
+
+112
+00:04:08,010 --> 00:04:09,920
+display the icons differently
+
+113
+00:04:09,920 --> 00:04:12,420
+anyway I'll select this healing tool and
+
+114
+00:04:12,420 --> 00:04:15,060
+the healing tool works very similarly we
+
+115
+00:04:15,060 --> 00:04:17,339
+hold down the ctrl key to select an area
+
+116
+00:04:17,339 --> 00:04:19,320
+I'm gonna select this area right here
+
+117
+00:04:19,320 --> 00:04:22,800
+ctrl and then left click and that
+
+118
+00:04:22,800 --> 00:04:25,440
+selects a pattern so this area is the
+
+119
+00:04:25,440 --> 00:04:26,070
+pattern on
+
+120
+00:04:26,070 --> 00:04:28,020
+to use and now it behaves the same way
+
+121
+00:04:28,020 --> 00:04:30,000
+as the clone tool where I can left-click
+
+122
+00:04:30,000 --> 00:04:32,550
+and then I can come and just sort of
+
+123
+00:04:32,550 --> 00:04:34,740
+paint this out one thing I want to be
+
+124
+00:04:34,740 --> 00:04:36,120
+careful of I should show this with a
+
+125
+00:04:36,120 --> 00:04:37,560
+clone tool if I go to the clone tool
+
+126
+00:04:37,560 --> 00:04:39,840
+it's a lot more pronounced with the
+
+127
+00:04:39,840 --> 00:04:42,270
+clone tool if ever I go too far so if I
+
+128
+00:04:42,270 --> 00:04:45,030
+start erasing this but I go too far it's
+
+129
+00:04:45,030 --> 00:04:47,880
+going to start cloning over my mouth
+
+130
+00:04:47,880 --> 00:04:49,620
+again even though it's not really there
+
+131
+00:04:49,620 --> 00:04:51,930
+it still remembers that old part of the
+
+132
+00:04:51,930 --> 00:04:53,910
+image so you have to be careful of where
+
+133
+00:04:53,910 --> 00:04:56,340
+you set your reference point because if
+
+134
+00:04:56,340 --> 00:04:58,230
+you're not careful like the sky here if
+
+135
+00:04:58,230 --> 00:05:00,570
+I start cloning down here and then move
+
+136
+00:05:00,570 --> 00:05:02,310
+up I'm gonna get the sky at a point I
+
+137
+00:05:02,310 --> 00:05:04,260
+don't really want it so it always just
+
+138
+00:05:04,260 --> 00:05:07,290
+stays relative to where you're at I
+
+139
+00:05:07,290 --> 00:05:08,460
+don't I don't have a touch on the
+
+140
+00:05:08,460 --> 00:05:10,410
+healing very much but the healing what
+
+141
+00:05:10,410 --> 00:05:12,120
+it really does is take a pattern and
+
+142
+00:05:12,120 --> 00:05:14,640
+then it uses a lot more processing power
+
+143
+00:05:14,640 --> 00:05:16,890
+so it's a lot slower but it sort of
+
+144
+00:05:16,890 --> 00:05:19,430
+heals and it sort of it sort of
+
+145
+00:05:19,430 --> 00:05:21,840
+eliminates that overlap so you don't get
+
+146
+00:05:21,840 --> 00:05:24,270
+that look of like part parts of the
+
+147
+00:05:24,270 --> 00:05:25,800
+images are overlapped if there's a
+
+148
+00:05:25,800 --> 00:05:28,620
+pattern background or like grids or
+
+149
+00:05:28,620 --> 00:05:30,180
+something more complex and it's a solid
+
+150
+00:05:30,180 --> 00:05:32,550
+color that's a good application to do
+
+151
+00:05:32,550 --> 00:05:34,290
+the healing but play with healing and
+
+152
+00:05:34,290 --> 00:05:35,460
+clone and you'll notice a difference
+
+153
+00:05:35,460 --> 00:05:37,260
+another good example of something we
+
+154
+00:05:37,260 --> 00:05:40,320
+could do is these clouds if we made ours
+
+155
+00:05:40,320 --> 00:05:42,180
+the size go down it's really easy to
+
+156
+00:05:42,180 --> 00:05:44,790
+just get rid of a cloud make this bigger
+
+157
+00:05:44,790 --> 00:05:47,460
+so if we wanted to we choose this as our
+
+158
+00:05:47,460 --> 00:05:48,870
+reference point we maybe just go to
+
+159
+00:05:48,870 --> 00:05:51,180
+clone again for this one and then we can
+
+160
+00:05:51,180 --> 00:05:54,240
+just kind of erase that cloud but we're
+
+161
+00:05:54,240 --> 00:05:56,610
+using this background but again if ever
+
+162
+00:05:56,610 --> 00:05:58,680
+we get into our point if I start erasing
+
+163
+00:05:58,680 --> 00:06:00,930
+this cloud but I go down it's going to
+
+164
+00:06:00,930 --> 00:06:04,950
+redraw the cloud lower so just be aware
+
+165
+00:06:04,950 --> 00:06:07,350
+of how that works if your point is too
+
+166
+00:06:07,350 --> 00:06:09,420
+close to what you're working with you
+
+167
+00:06:09,420 --> 00:06:10,830
+may have to select the point and then
+
+168
+00:06:10,830 --> 00:06:12,780
+you know make sure there's nothing in
+
+169
+00:06:12,780 --> 00:06:14,970
+the way like this mountain here or we
+
+170
+00:06:14,970 --> 00:06:17,220
+accidentally dry it up as you play with
+
+171
+00:06:17,220 --> 00:06:19,080
+that more you'll get more familiar one
+
+172
+00:06:19,080 --> 00:06:20,700
+more example I want to show you is this
+
+173
+00:06:20,700 --> 00:06:22,440
+picture here and this is one where the
+
+174
+00:06:22,440 --> 00:06:24,240
+healing tool makes a lot of sense this
+
+175
+00:06:24,240 --> 00:06:26,790
+is just an old image that has some lines
+
+176
+00:06:26,790 --> 00:06:28,890
+if I hold down the shift and plus key on
+
+177
+00:06:28,890 --> 00:06:31,410
+my keyboard I can zoom in here and we
+
+178
+00:06:31,410 --> 00:06:33,960
+can see these lines where it's like a
+
+179
+00:06:33,960 --> 00:06:36,150
+fold and like some tears in the image
+
+180
+00:06:36,150 --> 00:06:39,030
+well we can we could clone directly but
+
+181
+00:06:39,030 --> 00:06:39,510
+let me come
+
+182
+00:06:39,510 --> 00:06:42,660
+over here and take the size down a
+
+183
+00:06:42,660 --> 00:06:45,510
+little bit and then we can grab our
+
+184
+00:06:45,510 --> 00:06:48,570
+healing tool and we'll select this area
+
+185
+00:06:48,570 --> 00:06:51,630
+right here hold down ctrl and left click
+
+186
+00:06:51,630 --> 00:06:54,150
+so this is our target area our source
+
+187
+00:06:54,150 --> 00:06:56,460
+target and then as I left click here I
+
+188
+00:06:56,460 --> 00:07:00,030
+can heal oh I forgot this one has an
+
+189
+00:07:00,030 --> 00:07:02,130
+interesting issue with it this
+
+190
+00:07:02,130 --> 00:07:03,600
+particular image down here at the bottom
+
+191
+00:07:03,600 --> 00:07:05,070
+it says healing does not operate on
+
+192
+00:07:05,070 --> 00:07:07,290
+indexed layers that's because I'm using
+
+193
+00:07:07,290 --> 00:07:08,730
+a black and white image it doesn't have
+
+194
+00:07:08,730 --> 00:07:11,430
+a color doesn't have color channels so
+
+195
+00:07:11,430 --> 00:07:13,170
+if you run into this problem what you
+
+196
+00:07:13,170 --> 00:07:17,940
+need to do is go to image mode and go to
+
+197
+00:07:17,940 --> 00:07:20,640
+RGB it's on indexed right now that
+
+198
+00:07:20,640 --> 00:07:22,200
+doesn't happen often this happened to be
+
+199
+00:07:22,200 --> 00:07:24,510
+a scanned image and it's black and white
+
+200
+00:07:24,510 --> 00:07:25,980
+and so for that reason that it's an
+
+201
+00:07:25,980 --> 00:07:30,420
+indexed mode anyway now I can change
+
+202
+00:07:30,420 --> 00:07:32,520
+this so I can click here and I can
+
+203
+00:07:32,520 --> 00:07:35,460
+left-click and erase this tear line I
+
+204
+00:07:35,460 --> 00:07:38,790
+have an example of this several years
+
+205
+00:07:38,790 --> 00:07:40,920
+ago in an older version of I'll
+
+206
+00:07:40,920 --> 00:07:43,470
+show you that now this is repairing an
+
+207
+00:07:43,470 --> 00:07:46,200
+old image and kind of applying a little
+
+208
+00:07:46,200 --> 00:07:47,520
+bit of color adjustment but for the most
+
+209
+00:07:47,520 --> 00:07:50,220
+part using the healing tool to get rid
+
+210
+00:07:50,220 --> 00:07:52,680
+of some of the tears and blemishes in
+
+211
+00:07:52,680 --> 00:07:56,490
+this old kind of battered image well
+
+212
+00:07:56,490 --> 00:07:57,330
+hopefully you found that informative
+
+213
+00:07:57,330 --> 00:07:59,190
+guys go ahead and play with the clone
+
+214
+00:07:59,190 --> 00:08:01,140
+and healing tool there's a lot that you
+
+215
+00:08:01,140 --> 00:08:04,590
+can do between between getting rid of
+
+216
+00:08:04,590 --> 00:08:07,680
+things on an image and repairing parts
+
+217
+00:08:07,680 --> 00:08:09,900
+of images and even just cloning over
+
+218
+00:08:09,900 --> 00:08:11,820
+there's quite a bit you can do with just
+
+219
+00:08:11,820 --> 00:08:14,510
+these without ever having to dive into
+
+220
+00:08:14,510 --> 00:08:16,350
+selection which we're going to cover in
+
+221
+00:08:16,350 --> 00:08:18,390
+future videos and some of these more
+
+222
+00:08:18,390 --> 00:08:20,370
+advanced techniques go ahead and leave
+
+223
+00:08:20,370 --> 00:08:21,420
+your question in the comments below if
+
+224
+00:08:21,420 --> 00:08:22,950
+you have any and I look forward to
+
+225
+00:08:22,950 --> 00:08:26,210
+catching you in the next video
+

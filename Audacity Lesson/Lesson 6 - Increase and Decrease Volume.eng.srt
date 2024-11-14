@@ -1,0 +1,624 @@
+1
+00:00:02,660 --> 00:00:04,860
+welcome back to another audacity
+
+2
+00:00:04,860 --> 00:00:06,720
+tutorial in this video I'll show you how
+
+3
+00:00:06,720 --> 00:00:09,929
+to increase or decrease the volume of a
+
+4
+00:00:09,929 --> 00:00:13,079
+imported music file or sound file or of
+
+5
+00:00:13,079 --> 00:00:14,909
+a file that you've recorded as an audio
+
+6
+00:00:14,909 --> 00:00:16,110
+that you've captured or recorded
+
+7
+00:00:16,110 --> 00:00:18,029
+yourself so to get started I'm just
+
+8
+00:00:18,029 --> 00:00:20,009
+going to drag and drop in an actual
+
+9
+00:00:20,009 --> 00:00:21,779
+audio file we'll do this one of this
+
+10
+00:00:21,779 --> 00:00:23,880
+jazz guitar just left-click and drag it
+
+11
+00:00:23,880 --> 00:00:26,699
+in and then we see the audio file here
+
+12
+00:00:26,699 --> 00:00:28,019
+if we click we can play and listen to
+
+13
+00:00:28,019 --> 00:00:33,660
+what it sounds like and audio add so if
+
+14
+00:00:33,660 --> 00:00:35,280
+we want to increase the the volume of
+
+15
+00:00:35,280 --> 00:00:36,960
+this we've learned in the past we can
+
+16
+00:00:36,960 --> 00:00:38,690
+just increase the gain over here and
+
+17
+00:00:38,690 --> 00:00:41,070
+this will actually affect the final
+
+18
+00:00:41,070 --> 00:00:43,440
+output we can also just turn like the
+
+19
+00:00:43,440 --> 00:00:45,450
+volume up on our computer which is what
+
+20
+00:00:45,450 --> 00:00:47,610
+this knob up here is doing if we change
+
+21
+00:00:47,610 --> 00:00:49,920
+it up here it changes just the output
+
+22
+00:00:49,920 --> 00:00:51,810
+volume of our computer so that's
+
+23
+00:00:51,810 --> 00:00:53,310
+actually not that's gonna help us hear
+
+24
+00:00:53,310 --> 00:00:55,500
+it better but just know that's not going
+
+25
+00:00:55,500 --> 00:00:58,830
+to change the final output of this file
+
+26
+00:00:58,830 --> 00:01:01,350
+and also when we change over here we see
+
+27
+00:01:01,350 --> 00:01:02,730
+the wave doesn't change at all
+
+28
+00:01:02,730 --> 00:01:04,620
+so if we want to change the way the wave
+
+29
+00:01:04,620 --> 00:01:07,970
+looks like actually amplify the the wave
+
+30
+00:01:07,970 --> 00:01:10,530
+what we need to do is go up to effects
+
+31
+00:01:10,530 --> 00:01:14,370
+and go to amplify and when we just do it
+
+32
+00:01:14,370 --> 00:01:15,659
+just like this it's not gonna let us do
+
+33
+00:01:15,659 --> 00:01:16,800
+anything because it says you have no
+
+34
+00:01:16,800 --> 00:01:20,250
+selection so by default audacity doesn't
+
+35
+00:01:20,250 --> 00:01:22,470
+assume that we want to just amplify the
+
+36
+00:01:22,470 --> 00:01:25,320
+entire audio file it wants us to choose
+
+37
+00:01:25,320 --> 00:01:27,150
+so we could say just amplify this
+
+38
+00:01:27,150 --> 00:01:29,700
+portion if we left click and drag and
+
+39
+00:01:29,700 --> 00:01:31,110
+highlight we can highlight a certain
+
+40
+00:01:31,110 --> 00:01:34,170
+part of it or we can press ctrl-a to
+
+41
+00:01:34,170 --> 00:01:37,800
+select all another way to select all is
+
+42
+00:01:37,800 --> 00:01:40,470
+to go up to select and click all so
+
+43
+00:01:40,470 --> 00:01:42,710
+let's select all we can go select none
+
+44
+00:01:42,710 --> 00:01:45,900
+we can select by track we only have one
+
+45
+00:01:45,900 --> 00:01:48,690
+track right now but let's go select all
+
+46
+00:01:48,690 --> 00:01:51,270
+and now that everything selected we can
+
+47
+00:01:51,270 --> 00:01:53,280
+go back to effects and go to amplify and
+
+48
+00:01:53,280 --> 00:01:56,960
+now it brings up this window here so
+
+49
+00:01:56,960 --> 00:01:59,280
+audio levels are measured in decibels
+
+50
+00:01:59,280 --> 00:02:02,180
+this DB and so this is this is gonna
+
+51
+00:02:02,180 --> 00:02:04,799
+amplify it by seven decibels right now
+
+52
+00:02:04,799 --> 00:02:07,380
+if we had this set to zero there'd be no
+
+53
+00:02:07,380 --> 00:02:11,420
+amplification so the zero is kind of the
+
+54
+00:02:11,420 --> 00:02:13,950
+neutral point right now if I say okay
+
+55
+00:02:13,950 --> 00:02:15,239
+nothing happens everything looks the
+
+56
+00:02:15,239 --> 00:02:19,430
+same it's not any louder or any softer
+
+57
+00:02:19,430 --> 00:02:22,620
+but control a to select everything again
+
+58
+00:02:22,620 --> 00:02:25,470
+if we go to effects amplify and if we
+
+59
+00:02:25,470 --> 00:02:27,420
+have it above zero it's going to amplify
+
+60
+00:02:27,420 --> 00:02:29,700
+it make it louder if we have it below
+
+61
+00:02:29,700 --> 00:02:32,550
+zero in the negative it's going to make
+
+62
+00:02:32,550 --> 00:02:35,010
+it softer quieter
+
+63
+00:02:35,010 --> 00:02:39,180
+so let's come up to list it was here by
+
+64
+00:02:39,180 --> 00:02:41,190
+default like I've said a seven basically
+
+65
+00:02:41,190 --> 00:02:42,959
+it was I think to almost its height like
+
+66
+00:02:42,959 --> 00:02:45,750
+the highest it could possibly amplify it
+
+67
+00:02:45,750 --> 00:02:48,030
+until it starts clipping the audio
+
+68
+00:02:48,030 --> 00:02:50,160
+remember clipping is when the wave goes
+
+69
+00:02:50,160 --> 00:02:53,610
+above the very top above this 100% so if
+
+70
+00:02:53,610 --> 00:02:55,230
+we go any high we can click OK now but
+
+71
+00:02:55,230 --> 00:02:56,970
+if we go any higher than this it's gonna
+
+72
+00:02:56,970 --> 00:02:59,459
+get grayed out and we can't click OK
+
+73
+00:02:59,459 --> 00:03:01,260
+unless we check this box here it says
+
+74
+00:03:01,260 --> 00:03:03,660
+allow clipping but so let's just come
+
+75
+00:03:03,660 --> 00:03:04,829
+down we'll come down to about maybe
+
+76
+00:03:04,829 --> 00:03:07,560
+right here and we'll click OK and then
+
+77
+00:03:07,560 --> 00:03:10,620
+we see our wave it gets larger and we
+
+78
+00:03:10,620 --> 00:03:14,190
+can actually play and it's a louder
+
+79
+00:03:14,190 --> 00:03:15,840
+volume now we can see up in our activity
+
+80
+00:03:15,840 --> 00:03:19,290
+up here that it's louder if we wanted to
+
+81
+00:03:19,290 --> 00:03:21,090
+undo that and maybe we want to change it
+
+82
+00:03:21,090 --> 00:03:24,209
+we used to control Z to undo or we can
+
+83
+00:03:24,209 --> 00:03:27,049
+use these undo and redo buttons up here
+
+84
+00:03:27,049 --> 00:03:29,430
+let's select everything again and this
+
+85
+00:03:29,430 --> 00:03:31,019
+time let's try to make it softer so we
+
+86
+00:03:31,019 --> 00:03:34,019
+go to effects amplify and then we'll
+
+87
+00:03:34,019 --> 00:03:37,109
+change it let's go down to maybe that
+
+88
+00:03:37,109 --> 00:03:39,810
+same extreme maybe I can negative 5 or 6
+
+89
+00:03:39,810 --> 00:03:42,660
+and we'll go okay so now it's kind of
+
+90
+00:03:42,660 --> 00:03:48,030
+much much more quiet and soft so this is
+
+91
+00:03:48,030 --> 00:03:50,040
+actually adjusting the way that's
+
+92
+00:03:50,040 --> 00:03:52,319
+actually modifying the actual sound the
+
+93
+00:03:52,319 --> 00:03:54,840
+wave that makes up the sound and either
+
+94
+00:03:54,840 --> 00:03:58,950
+making it louder or softer so that's a
+
+95
+00:03:58,950 --> 00:04:00,510
+quick introduction and this is actually
+
+96
+00:04:00,510 --> 00:04:02,310
+the direction to using effects in
+
+97
+00:04:02,310 --> 00:04:04,470
+general so we'll do this the same way if
+
+98
+00:04:04,470 --> 00:04:05,700
+we want to apply you can read through
+
+99
+00:04:05,700 --> 00:04:07,019
+some of the some of these other effects
+
+100
+00:04:07,019 --> 00:04:08,130
+and we'll be jumping through a lot of
+
+101
+00:04:08,130 --> 00:04:10,889
+them in the next tutorials but just
+
+102
+00:04:10,889 --> 00:04:11,819
+remember you have to have everything
+
+103
+00:04:11,819 --> 00:04:13,500
+selected and I guess let's just try that
+
+104
+00:04:13,500 --> 00:04:16,320
+for now if we want to have just this one
+
+105
+00:04:16,320 --> 00:04:18,970
+portion of the song
+
+106
+00:04:18,970 --> 00:04:21,100
+this part right here if we want to make
+
+107
+00:04:21,100 --> 00:04:23,080
+just this loud we can just have this
+
+108
+00:04:23,080 --> 00:04:24,880
+selected like we do and then go to
+
+109
+00:04:24,880 --> 00:04:27,700
+effects amplify and then we can make it
+
+110
+00:04:27,700 --> 00:04:29,290
+loud and that's actually let's bring it
+
+111
+00:04:29,290 --> 00:04:31,480
+clear up here and let's go allow
+
+112
+00:04:31,480 --> 00:04:34,140
+clipping so this is going to Phi this
+
+113
+00:04:34,140 --> 00:04:36,820
+incredibly loud so loud that it actually
+
+114
+00:04:36,820 --> 00:04:40,170
+comes above the total at the top of this
+
+115
+00:04:40,170 --> 00:04:44,020
+like the of the part that we can see so
+
+116
+00:04:44,020 --> 00:04:46,690
+we go okay and now look how that's just
+
+117
+00:04:46,690 --> 00:04:48,910
+crazy that's gonna be loud and ugly I'll
+
+118
+00:04:48,910 --> 00:04:52,650
+do the anti so it's not too out for us
+
+119
+00:04:52,650 --> 00:04:55,870
+so you can see it's distorted it's
+
+120
+00:04:55,870 --> 00:04:57,940
+clipped that's louder than we would want
+
+121
+00:04:57,940 --> 00:05:00,190
+and something I want to show if we were
+
+122
+00:05:00,190 --> 00:05:02,350
+to highlight this now and we're like oh
+
+123
+00:05:02,350 --> 00:05:04,600
+it's the if we want to undo that change
+
+124
+00:05:04,600 --> 00:05:07,750
+we should click undo but if we want to
+
+125
+00:05:07,750 --> 00:05:09,100
+do it the wrong way we go back to
+
+126
+00:05:09,100 --> 00:05:10,690
+amplify and be like let's take it back
+
+127
+00:05:10,690 --> 00:05:13,300
+down to try and correct it but now look
+
+128
+00:05:13,300 --> 00:05:15,730
+what happens if we do that and then
+
+129
+00:05:15,730 --> 00:05:17,080
+we're like oh that's too small and then
+
+130
+00:05:17,080 --> 00:05:18,790
+we go to effect amplify again to try and
+
+131
+00:05:18,790 --> 00:05:21,070
+change it what we're gonna see is if we
+
+132
+00:05:21,070 --> 00:05:23,560
+look at this wave now look how look at
+
+133
+00:05:23,560 --> 00:05:26,890
+it it's like all just flat and ugly so
+
+134
+00:05:26,890 --> 00:05:29,590
+if we zoom in here here we can just
+
+135
+00:05:29,590 --> 00:05:31,120
+select it and I click this button here
+
+136
+00:05:31,120 --> 00:05:33,790
+so it seems into the total selection so
+
+137
+00:05:33,790 --> 00:05:35,320
+it's just look it's completely square
+
+138
+00:05:35,320 --> 00:05:37,360
+now it's a lot different than it was
+
+139
+00:05:37,360 --> 00:05:39,669
+before because we've messed around with
+
+140
+00:05:39,669 --> 00:05:41,560
+it and we amplified it and then put it
+
+141
+00:05:41,560 --> 00:05:43,600
+down so if ever you wanted to make
+
+142
+00:05:43,600 --> 00:05:46,780
+changes the way to to reverse an
+
+143
+00:05:46,780 --> 00:05:49,300
+amplification is just to do the undo not
+
+144
+00:05:49,300 --> 00:05:51,490
+to come back in here and lower the level
+
+145
+00:05:51,490 --> 00:05:53,440
+or raise the level after the fact does
+
+146
+00:05:53,440 --> 00:05:55,030
+that make sense so if I want to get this
+
+147
+00:05:55,030 --> 00:05:56,770
+back to how it was originally I just
+
+148
+00:05:56,770 --> 00:06:00,340
+push back and back and back until we get
+
+149
+00:06:00,340 --> 00:06:03,010
+back to the original hopefully found
+
+150
+00:06:03,010 --> 00:06:04,330
+this video informative that's using
+
+151
+00:06:04,330 --> 00:06:05,530
+amplification go ahead and play with
+
+152
+00:06:05,530 --> 00:06:07,000
+that we can also use it on our own
+
+153
+00:06:07,000 --> 00:06:11,050
+recorded audio and yeah that's basically
+
+154
+00:06:11,050 --> 00:06:13,270
+using the amplification effect go ahead
+
+155
+00:06:13,270 --> 00:06:14,740
+and LIKE comment subscribe and I'll see
+
+156
+00:06:14,740 --> 00:06:17,340
+you in the next video
+

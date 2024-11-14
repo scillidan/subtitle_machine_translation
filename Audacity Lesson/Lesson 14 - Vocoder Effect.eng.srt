@@ -1,0 +1,728 @@
+1
+00:00:02,810 --> 00:00:05,009
+welcome back to another audacity
+
+2
+00:00:05,009 --> 00:00:07,020
+tutorial in this video we're going to be
+
+3
+00:00:07,020 --> 00:00:09,389
+looking at the vocoder effect within
+
+4
+00:00:09,389 --> 00:00:11,129
+audacity to create sort of like a
+
+5
+00:00:11,129 --> 00:00:13,709
+robotic voice and more or less I just
+
+6
+00:00:13,709 --> 00:00:16,049
+want to do this tutorial to show you
+
+7
+00:00:16,049 --> 00:00:17,820
+some things that we haven't yet covered
+
+8
+00:00:17,820 --> 00:00:20,849
+in audacity we working with tracks and
+
+9
+00:00:20,849 --> 00:00:24,419
+mono tracks but if you just want to
+
+10
+00:00:24,419 --> 00:00:25,980
+create the robotic voice audacity
+
+11
+00:00:25,980 --> 00:00:27,929
+actually isn't the best tool for that at
+
+12
+00:00:27,929 --> 00:00:30,990
+least not this vocoder plug-in or effect
+
+13
+00:00:30,990 --> 00:00:32,880
+but what you can do I'll include this
+
+14
+00:00:32,880 --> 00:00:34,380
+link here to this get covered right
+
+15
+00:00:34,380 --> 00:00:38,580
+github address for this vocoder sort of
+
+16
+00:00:38,580 --> 00:00:41,670
+tool that this guy wrote up Chris Wilson
+
+17
+00:00:41,670 --> 00:00:44,670
+it's really really awesome and so here's
+
+18
+00:00:44,670 --> 00:00:46,380
+the license for word it's actually it's
+
+19
+00:00:46,380 --> 00:00:48,930
+a some sort of open source I was reading
+
+20
+00:00:48,930 --> 00:00:49,920
+through you can read through the license
+
+21
+00:00:49,920 --> 00:00:54,020
+and see the uses for it but basically
+
+22
+00:00:54,020 --> 00:00:56,160
+it's really cool and we can check it out
+
+23
+00:00:56,160 --> 00:01:05,610
+here it's like what it sounds like so
+
+24
+00:01:05,610 --> 00:01:08,030
+you can you can actually upload your own
+
+25
+00:01:08,030 --> 00:01:10,460
+input file or we can talk into it live
+
+26
+00:01:10,460 --> 00:01:14,220
+like we can do this hello testing this
+
+27
+00:01:14,220 --> 00:01:18,659
+is TJ free so that's cool oops how do we
+
+28
+00:01:18,659 --> 00:01:22,680
+stop this goes out of that anyway so
+
+29
+00:01:22,680 --> 00:01:24,510
+include the link to that if you're
+
+30
+00:01:24,510 --> 00:01:26,040
+trying to if you're just wanting to do
+
+31
+00:01:26,040 --> 00:01:27,420
+that then cool you don't need to keep
+
+32
+00:01:27,420 --> 00:01:29,070
+watching this video but if you keep
+
+33
+00:01:29,070 --> 00:01:30,090
+watching this you're gonna learn some
+
+34
+00:01:30,090 --> 00:01:31,350
+things about audacity you might not have
+
+35
+00:01:31,350 --> 00:01:32,850
+known before so we're gonna try to use
+
+36
+00:01:32,850 --> 00:01:35,820
+audacity to create that same effect so
+
+37
+00:01:35,820 --> 00:01:37,170
+first of all we need to read in some
+
+38
+00:01:37,170 --> 00:01:39,690
+audio so to do that I was record this is
+
+39
+00:01:39,690 --> 00:01:42,000
+some audio that will make sound like I
+
+40
+00:01:42,000 --> 00:01:47,340
+say a robotic voice alright oh and I
+
+41
+00:01:47,340 --> 00:01:50,060
+lied first of all let's actually go to
+
+42
+00:01:50,060 --> 00:01:52,620
+tracks and we'll go add new because we
+
+43
+00:01:52,620 --> 00:01:54,150
+want this to be a mono track which means
+
+44
+00:01:54,150 --> 00:01:55,740
+there's not a left and a right channel
+
+45
+00:01:55,740 --> 00:01:58,290
+it's just a single channel this audio
+
+46
+00:01:58,290 --> 00:02:01,530
+will be in a robotic voice okay so we
+
+47
+00:02:01,530 --> 00:02:02,790
+just have a single channel now if yours
+
+48
+00:02:02,790 --> 00:02:04,920
+is to do what I did and hit the X there
+
+49
+00:02:04,920 --> 00:02:07,590
+to delete that that track and then go to
+
+50
+00:02:07,590 --> 00:02:11,129
+tracks add new mono track okay then in
+
+51
+00:02:11,129 --> 00:02:13,230
+addition to this we need to have what's
+
+52
+00:02:13,230 --> 00:02:14,280
+called a carrier
+
+53
+00:02:14,280 --> 00:02:16,950
+so this is like a carrier audio or
+
+54
+00:02:16,950 --> 00:02:18,810
+carrier wave that we're gonna kind of
+
+55
+00:02:18,810 --> 00:02:22,040
+mix together with this audio recording
+
+56
+00:02:22,040 --> 00:02:25,470
+to create the vocoder effect the robot
+
+57
+00:02:25,470 --> 00:02:28,620
+robotic voice effect so we're going to
+
+58
+00:02:28,620 --> 00:02:29,730
+generate like we've done in the past
+
+59
+00:02:29,730 --> 00:02:31,200
+tutorials we're just gonna generate a
+
+60
+00:02:31,200 --> 00:02:34,140
+tone and we can try some different ones
+
+61
+00:02:34,140 --> 00:02:37,470
+so the Sawtooths pretty good I'm going
+
+62
+00:02:37,470 --> 00:02:39,959
+to take this frequency down to maybe 240
+
+63
+00:02:39,959 --> 00:02:42,720
+and we'll take the amplitude amplitudes
+
+64
+00:02:42,720 --> 00:02:44,250
+fine let's try this
+
+65
+00:02:44,250 --> 00:02:47,370
+oh whoops control Z we need it to be on
+
+66
+00:02:47,370 --> 00:02:49,620
+its own track so let's add another track
+
+67
+00:02:49,620 --> 00:02:51,239
+in here for another mono track and then
+
+68
+00:02:51,239 --> 00:02:53,610
+we'll do that so we go generate and then
+
+69
+00:02:53,610 --> 00:02:56,970
+we go tone 240 that should be good and
+
+70
+00:02:56,970 --> 00:02:59,970
+we'll see how this sounds whoa oh my
+
+71
+00:02:59,970 --> 00:03:02,489
+goodness that's terrible right so that's
+
+72
+00:03:02,489 --> 00:03:04,800
+super high-pitched apologize about that
+
+73
+00:03:04,800 --> 00:03:09,930
+let's let's take this but we could we
+
+74
+00:03:09,930 --> 00:03:11,070
+could generate it differently but let's
+
+75
+00:03:11,070 --> 00:03:14,010
+just come here and we'll just slow this
+
+76
+00:03:14,010 --> 00:03:17,850
+speed like super super down okay so that
+
+77
+00:03:17,850 --> 00:03:19,260
+speeds and slowed down now and now if we
+
+78
+00:03:19,260 --> 00:03:21,209
+play it it might not be quite as quite
+
+79
+00:03:21,209 --> 00:03:26,360
+high-pitched okay perfect this is like
+
+80
+00:03:26,360 --> 00:03:29,070
+it's actually very low I'm gonna click
+
+81
+00:03:29,070 --> 00:03:31,739
+over here if we do control I it'll cut
+
+82
+00:03:31,739 --> 00:03:34,620
+this portion we can just delete that and
+
+83
+00:03:34,620 --> 00:03:36,959
+then this can click up here and control
+
+84
+00:03:36,959 --> 00:03:38,850
+I kind of just cuts the clip wherever
+
+85
+00:03:38,850 --> 00:03:41,160
+we're at I'll double click and delete so
+
+86
+00:03:41,160 --> 00:03:42,360
+now we have two clips that are about the
+
+87
+00:03:42,360 --> 00:03:45,660
+same length we want to make one the left
+
+88
+00:03:45,660 --> 00:03:47,250
+channel so I'm gonna make our voice out
+
+89
+00:03:47,250 --> 00:03:48,329
+of the left
+
+90
+00:03:48,329 --> 00:03:50,489
+we'll make it be the left channel and
+
+91
+00:03:50,489 --> 00:03:51,900
+make this carrier way be out of the
+
+92
+00:03:51,900 --> 00:03:54,120
+right channel and then when we play each
+
+93
+00:03:54,120 --> 00:03:57,540
+one so well this should be playing out
+
+94
+00:03:57,540 --> 00:03:59,700
+of the left ear left speaker or left ear
+
+95
+00:03:59,700 --> 00:04:02,519
+of your headphones and this should be
+
+96
+00:04:02,519 --> 00:04:03,720
+playing out of the right ear of your
+
+97
+00:04:03,720 --> 00:04:10,290
+headphones down here if we go so perfect
+
+98
+00:04:10,290 --> 00:04:11,970
+and I'm not sure how so good to route
+
+99
+00:04:11,970 --> 00:04:13,320
+this carrier wave is actually a lot
+
+100
+00:04:13,320 --> 00:04:15,239
+slower than I had intended for it to be
+
+101
+00:04:15,239 --> 00:04:18,930
+but we'll see how this sounds all right
+
+102
+00:04:18,930 --> 00:04:20,370
+so we take it off mute now and then we
+
+103
+00:04:20,370 --> 00:04:22,140
+need to actually combine these together
+
+104
+00:04:22,140 --> 00:04:24,599
+so that it's one audio instead of two
+
+105
+00:04:24,599 --> 00:04:27,240
+separate tracks we want to be one stereo
+
+106
+00:04:27,240 --> 00:04:28,050
+track
+
+107
+00:04:28,050 --> 00:04:29,879
+to do that we go up to well first of all
+
+108
+00:04:29,879 --> 00:04:31,800
+we have to let them both so we go to
+
+109
+00:04:31,800 --> 00:04:35,039
+select and then we go to tracks and we
+
+110
+00:04:35,039 --> 00:04:37,770
+go in all tracks that selects both of
+
+111
+00:04:37,770 --> 00:04:42,539
+these and then we go to tracks resample
+
+112
+00:04:42,539 --> 00:04:44,520
+oh I'm sorry okay no we don't if we go
+
+113
+00:04:44,520 --> 00:04:47,909
+to tracks mix and then we go to a mix
+
+114
+00:04:47,909 --> 00:04:50,819
+and render and now look it just changes
+
+115
+00:04:50,819 --> 00:04:52,560
+this so now they are just all they're
+
+116
+00:04:52,560 --> 00:04:54,479
+just one track a left channel and the
+
+117
+00:04:54,479 --> 00:05:01,349
+right channel and then if we play it we
+
+118
+00:05:01,349 --> 00:05:03,960
+still have the what do we do listen the
+
+119
+00:05:03,960 --> 00:05:05,520
+left and this and the right but it's
+
+120
+00:05:05,520 --> 00:05:07,379
+just all together now and now what we do
+
+121
+00:05:07,379 --> 00:05:08,310
+we select the whole thing by
+
+122
+00:05:08,310 --> 00:05:09,780
+double-clicking it'll select both
+
+123
+00:05:09,780 --> 00:05:11,340
+channels since they're all in one track
+
+124
+00:05:11,340 --> 00:05:13,650
+and then we just go to effects and
+
+125
+00:05:13,650 --> 00:05:16,169
+vocoders all the way down here's click
+
+126
+00:05:16,169 --> 00:05:18,449
+if you're unless maybe you can see it if
+
+127
+00:05:18,449 --> 00:05:19,770
+you have higher resolution than I do in
+
+128
+00:05:19,770 --> 00:05:22,169
+this video and then click on vocoder and
+
+129
+00:05:22,169 --> 00:05:24,030
+then here's where we can change the
+
+130
+00:05:24,030 --> 00:05:26,250
+settings for this so right now I'll just
+
+131
+00:05:26,250 --> 00:05:32,159
+hit preview and see how it sounds so
+
+132
+00:05:32,159 --> 00:05:34,289
+that's not too bad by default I had
+
+133
+00:05:34,289 --> 00:05:35,430
+already played with a little bit if you
+
+134
+00:05:35,430 --> 00:05:36,960
+go back to defaults this is what it
+
+135
+00:05:36,960 --> 00:05:42,060
+might sound like for you see so that's
+
+136
+00:05:42,060 --> 00:05:45,810
+like really you can hardly hear what's
+
+137
+00:05:45,810 --> 00:05:47,639
+going on there maybe we'll turn we'll
+
+138
+00:05:47,639 --> 00:05:49,500
+keep this up so we just want to play
+
+139
+00:05:49,500 --> 00:05:50,699
+around and see if we can get something
+
+140
+00:05:50,699 --> 00:05:56,580
+to change here a little bit that carrier
+
+141
+00:05:56,580 --> 00:06:01,889
+waves really throwing us off so it
+
+142
+00:06:01,889 --> 00:06:04,110
+sounds like we're super way down in like
+
+143
+00:06:04,110 --> 00:06:06,270
+a tunnel I think we want to do something
+
+144
+00:06:06,270 --> 00:06:16,830
+like this more try this so what this is
+
+145
+00:06:16,830 --> 00:06:18,330
+actually really doing just so you know
+
+146
+00:06:18,330 --> 00:06:21,360
+so it's taking this wave and it's
+
+147
+00:06:21,360 --> 00:06:23,460
+applying it oh it did that I wouldn't
+
+148
+00:06:23,460 --> 00:06:25,770
+apply the effect but we were we were we
+
+149
+00:06:25,770 --> 00:06:27,930
+were doing it so let's go back to
+
+150
+00:06:27,930 --> 00:06:28,919
+vocoder
+
+151
+00:06:28,919 --> 00:06:31,680
+let's select everything go to vocoder so
+
+152
+00:06:31,680 --> 00:06:33,210
+I was just preview I didn't I didn't
+
+153
+00:06:33,210 --> 00:06:34,979
+apply but if we hit OK it'll actually
+
+154
+00:06:34,979 --> 00:06:37,050
+what it does it'll actually merge those
+
+155
+00:06:37,050 --> 00:06:38,580
+together so we start seeing patterns
+
+156
+00:06:38,580 --> 00:06:41,700
+here see these patterns of these spikes
+
+157
+00:06:41,700 --> 00:06:43,170
+we're seeing these patterns happen
+
+158
+00:06:43,170 --> 00:06:45,360
+everywhere work every time our carrier
+
+159
+00:06:45,360 --> 00:06:50,400
+wave had a spike and so it's actually
+
+160
+00:06:50,400 --> 00:06:52,470
+creating kind of this effect anyway
+
+161
+00:06:52,470 --> 00:06:54,030
+that's the way the vocoder works and so
+
+162
+00:06:54,030 --> 00:06:55,650
+you can play around with it but your
+
+163
+00:06:55,650 --> 00:06:58,080
+carrier wave adjusting that is gonna
+
+164
+00:06:58,080 --> 00:07:00,270
+change a lot how it sounds and that's
+
+165
+00:07:00,270 --> 00:07:01,620
+what that website and that web tools
+
+166
+00:07:01,620 --> 00:07:03,930
+does a much better than audacity it just
+
+167
+00:07:03,930 --> 00:07:06,420
+has much more dynamic input so you can
+
+168
+00:07:06,420 --> 00:07:08,400
+create the same sound in audacity it
+
+169
+00:07:08,400 --> 00:07:10,680
+just won't be nearly as quickly because
+
+170
+00:07:10,680 --> 00:07:12,990
+you can't use those sliders and drag and
+
+171
+00:07:12,990 --> 00:07:15,030
+drop and do it instantly with live audio
+
+172
+00:07:15,030 --> 00:07:17,280
+so that other none other tool is a much
+
+173
+00:07:17,280 --> 00:07:19,620
+much better resource but I just want to
+
+174
+00:07:19,620 --> 00:07:20,490
+teach you how to do it in audacity
+
+175
+00:07:20,490 --> 00:07:22,110
+anyway so that you can learn how to do
+
+176
+00:07:22,110 --> 00:07:26,100
+that appreciate you watching and go
+
+177
+00:07:26,100 --> 00:07:27,840
+ahead and like links share some if you
+
+178
+00:07:27,840 --> 00:07:30,120
+create something using that vocoder tool
+
+179
+00:07:30,120 --> 00:07:31,440
+I'd love to see like what you share with
+
+180
+00:07:31,440 --> 00:07:32,760
+what or what you create so go ahead and
+
+181
+00:07:32,760 --> 00:07:35,060
+share that in the comments below and
+
+182
+00:07:35,060 --> 00:07:39,230
+hope to see you in a video soon
+

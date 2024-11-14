@@ -1,0 +1,99 @@
+1
+00:00:00,342 --> 00:00:01,050
+你好 
+COLTON OGDEN: Hi.
+
+2
+00:00:01,050 --> 00:00:03,420
+我叫科尔顿·奥格登 我是这门课的讲师
+My name is Colton Ogden, and I am the course instructor
+
+3
+00:00:03,420 --> 00:00:07,030
+GD50是CS50的游戏开发入门 
+for GD50, which is CS50's Introduction to Game Development.
+
+4
+00:00:07,030 --> 00:00:11,700
+CS50之于游戏编程 就像CS50之于通用编程一样
+CS50 is to game programming what CS50 is to general-purpose programming
+
+5
+00:00:11,700 --> 00:00:14,430
+和解决问题的能力 最终成为学生
+and problem solving, ultimately a jumping-off point for students
+
+6
+00:00:14,430 --> 00:00:16,890
+有一点编程经验的人
+that might have a little bit of programming experience,
+
+7
+00:00:16,890 --> 00:00:20,220
+但他们还没有接触过游戏编程 
+but who haven't necessarily gotten their hands dirty with game programming yet.
+
+8
+00:00:20,220 --> 00:00:23,650
+GD50采用案例研究方式 每周 
+GD50 adopts a case study style approach whereby week by week,
+
+9
+00:00:23,650 --> 00:00:26,010
+我们会看一个特定的博弈 然后分析它 
+we'll look at a specific game, and we'll analyze it,
+
+10
+00:00:26,010 --> 00:00:28,890
+弄清楚这些部分是做什么的以及它们是如何形成一个可玩的整体的 
+figuring out what the parts do and how they form a playable whole.
+
+11
+00:00:28,890 --> 00:00:32,790
+我们会看看像乒乓球 突破 超级马里奥兄弟 传奇
+We'll look at games like Pong, Breakout, Super Mario Bros., Legend
+
+12
+00:00:32,790 --> 00:00:35,239
+《塞尔达传说》《传送门》等等
+of Zelda, Portal, and many more.
+
+13
+00:00:35,239 --> 00:00:37,030
+在课程的前三个季度 
+For the first three quarters of the course,
+
+14
+00:00:37,030 --> 00:00:40,650
+学生将使用Lua和LOVE 2D 一个2D游戏开发框架 
+students will use Lua and LOVE 2D, a 2D game development framework,
+
+15
+00:00:40,650 --> 00:00:43,530
+然后在后四分之一过渡到Unity中的C# 
+and then transition in the latter quarter to C# in Unity,
+
+16
+00:00:43,530 --> 00:00:45,600
+一个非常流行的现代游戏引擎 
+a very popular modern game engine.
+
+17
+00:00:45,600 --> 00:00:48,570
+最终 大量的编程 大量的想法 以及大量的乐趣
+Ultimately, lots of programming, lots of ideas, and lots of fun
+
+18
+00:00:48,570 --> 00:00:51,010
+等待对课程感兴趣的学生 
+await students interested in the course.
+
+19
+00:00:51,010 --> 00:00:53,490
+我叫科尔顿·奥格登这是GD50
+My name is Colton Ogden, and this is GD50.
+
+20
+00:00:53,490 --> 00:00:55,877
+[音乐播放]
+[MUSIC PLAYING]

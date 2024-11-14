@@ -1,0 +1,712 @@
+1
+00:00:02,780 --> 00:00:04,950
+welcome back to another audacity
+
+2
+00:00:04,950 --> 00:00:06,960
+tutorial in this video we're going to be
+
+3
+00:00:06,960 --> 00:00:08,669
+playing with some more effects and kind
+
+4
+00:00:08,669 --> 00:00:10,559
+of just doing some fun effects in this
+
+5
+00:00:10,559 --> 00:00:12,509
+one we have some music down here that I
+
+6
+00:00:12,509 --> 00:00:15,690
+recorded in from the classic NES video
+
+7
+00:00:15,690 --> 00:00:17,730
+game contra let's play that a little bit
+
+8
+00:00:17,730 --> 00:00:20,420
+and see what it sounds like
+
+9
+00:00:22,140 --> 00:00:24,510
+and this is actually a kind of a looping
+
+10
+00:00:24,510 --> 00:00:26,280
+so if we go if we click up here this
+
+11
+00:00:26,280 --> 00:00:28,290
+will show us just kind of the extents
+
+12
+00:00:28,290 --> 00:00:31,260
+from the start to the finish so it's 25
+
+13
+00:00:31,260 --> 00:00:33,930
+seconds long it's meant to be a looping
+
+14
+00:00:33,930 --> 00:00:36,000
+piece so right here at changes it has
+
+15
+00:00:36,000 --> 00:00:39,930
+like two different kind of phrases it
+
+16
+00:00:39,930 --> 00:00:41,610
+goes into this phrase and then at the
+
+17
+00:00:41,610 --> 00:00:43,170
+end is supposed to loop back to the
+
+18
+00:00:43,170 --> 00:00:48,480
+start here so this is we're supposed to
+
+19
+00:00:48,480 --> 00:00:49,710
+loop back so if we select the whole
+
+20
+00:00:49,710 --> 00:00:53,370
+thing we can actually go to effect and
+
+21
+00:00:53,370 --> 00:00:56,460
+we can go to repeat and then it says how
+
+22
+00:00:56,460 --> 00:00:57,660
+many times do you want to repeat we'll
+
+23
+00:00:57,660 --> 00:01:00,720
+just say 1 and we go ok and what that
+
+24
+00:01:00,720 --> 00:01:02,570
+does is it actually attached it
+
+25
+00:01:02,570 --> 00:01:05,190
+basically did a copy and paste it copied
+
+26
+00:01:05,190 --> 00:01:07,259
+this whole selection then it pasted it
+
+27
+00:01:07,259 --> 00:01:09,360
+again at the end here so we can now our
+
+28
+00:01:09,360 --> 00:01:11,759
+cut our whole song is 50 seconds long
+
+29
+00:01:11,759 --> 00:01:13,800
+and we can play and see what the the
+
+30
+00:01:13,800 --> 00:01:15,780
+overlap part sounds like or where it
+
+31
+00:01:15,780 --> 00:01:19,800
+repeats so I'm gonna zoom in there
+
+32
+00:01:19,800 --> 00:01:23,040
+because it's just a little bit we have a
+
+33
+00:01:23,040 --> 00:01:24,240
+little bit of silence there where it's a
+
+34
+00:01:24,240 --> 00:01:28,560
+little hiccup where it's repeating so
+
+35
+00:01:28,560 --> 00:01:32,190
+let's go back where was it at right here
+
+36
+00:01:32,190 --> 00:01:34,409
+I mean I select that a little bit and
+
+37
+00:01:34,409 --> 00:01:36,870
+hit delete so we don't have much of a
+
+38
+00:01:36,870 --> 00:01:41,010
+drop you know even I'm just to get rid
+
+39
+00:01:41,010 --> 00:01:42,810
+of all that little line there and I
+
+40
+00:01:42,810 --> 00:01:46,400
+think now I should just go right into it
+
+41
+00:01:46,790 --> 00:01:50,270
+maybe it's a little bit too much there
+
+42
+00:01:50,270 --> 00:01:53,450
+about this
+
+43
+00:01:55,060 --> 00:01:57,110
+yeah a little bit of a hiccup but it's
+
+44
+00:01:57,110 --> 00:01:58,880
+okay so we go let's now if we go to the
+
+45
+00:01:58,880 --> 00:02:01,270
+full extent we see this we kind of
+
+46
+00:02:01,270 --> 00:02:03,939
+recognized as it's happening twice
+
+47
+00:02:03,939 --> 00:02:07,219
+actually born me and ooh I'm gonna go
+
+48
+00:02:07,219 --> 00:02:09,739
+ctrl Z ctrl Z and I'm gonna undo that
+
+49
+00:02:09,739 --> 00:02:11,870
+part because we're gonna be applying
+
+50
+00:02:11,870 --> 00:02:13,160
+some filters to this or some different
+
+51
+00:02:13,160 --> 00:02:15,019
+effects to it that's gonna take a little
+
+52
+00:02:15,019 --> 00:02:16,580
+bit of time to process so the shorter it
+
+53
+00:02:16,580 --> 00:02:18,709
+is the better okay is we could have
+
+54
+00:02:18,709 --> 00:02:21,290
+effects let's do so we have just like
+
+55
+00:02:21,290 --> 00:02:24,110
+Reverse if we reverse it
+
+56
+00:02:24,110 --> 00:02:25,700
+[Music]
+
+57
+00:02:25,700 --> 00:02:29,510
+it sounds okay right
+
+58
+00:02:29,510 --> 00:02:31,189
+doesn't sound that much different
+
+59
+00:02:31,189 --> 00:02:32,510
+because this is just like electronic
+
+60
+00:02:32,510 --> 00:02:34,010
+instruments creating this so I'll do
+
+61
+00:02:34,010 --> 00:02:36,799
+ctrl Z we can go to effects so we can do
+
+62
+00:02:36,799 --> 00:02:38,360
+a fade in and fade out the way that
+
+63
+00:02:38,360 --> 00:02:40,519
+works if we select whatever part we have
+
+64
+00:02:40,519 --> 00:02:42,439
+selected will be the fade so if I want
+
+65
+00:02:42,439 --> 00:02:44,689
+to fade in over the first two seconds I
+
+66
+00:02:44,689 --> 00:02:47,150
+just select from zero to two seconds I
+
+67
+00:02:47,150 --> 00:02:50,989
+go to effects fade in and if I want to
+
+68
+00:02:50,989 --> 00:02:53,739
+fade out I just select the last maybe
+
+69
+00:02:53,739 --> 00:02:56,810
+let's do the last three seconds and then
+
+70
+00:02:56,810 --> 00:03:01,849
+go effects fade out source net and now
+
+71
+00:03:01,849 --> 00:03:03,470
+this will fade in and out so we go to
+
+72
+00:03:03,470 --> 00:03:05,160
+the beginning
+
+73
+00:03:05,160 --> 00:03:07,150
+[Music]
+
+74
+00:03:07,150 --> 00:03:09,010
+and then when we get to the end it'll
+
+75
+00:03:09,010 --> 00:03:15,099
+fade out very nice did I ever show you
+
+76
+00:03:15,099 --> 00:03:16,599
+like with it how the scrubbing works if
+
+77
+00:03:16,599 --> 00:03:18,760
+we click up here when we have a screen
+
+78
+00:03:18,760 --> 00:03:22,890
+triangle just click it starts playing
+
+79
+00:03:23,370 --> 00:03:28,150
+and it will actually go wherever we
+
+80
+00:03:28,150 --> 00:03:29,650
+supply so we can click and drag a part
+
+81
+00:03:29,650 --> 00:03:32,680
+up here with some arrows and it'll just
+
+82
+00:03:32,680 --> 00:03:34,060
+play that selection rather than actually
+
+83
+00:03:34,060 --> 00:03:35,379
+having to select it like this we can
+
+84
+00:03:35,379 --> 00:03:37,690
+actually left click up here and draw and
+
+85
+00:03:37,690 --> 00:03:39,910
+it'll play wherever we can it whatever
+
+86
+00:03:39,910 --> 00:03:43,900
+wherever we tell it to and if we click
+
+87
+00:03:43,900 --> 00:03:45,760
+up in between here so there's a triangle
+
+88
+00:03:45,760 --> 00:03:47,049
+if we click up here to get these two
+
+89
+00:03:47,049 --> 00:03:49,060
+triangles it'll actually follow our
+
+90
+00:03:49,060 --> 00:03:50,799
+mouse cursor and play kind of like
+
+91
+00:03:50,799 --> 00:03:53,709
+scrubbing it'll scrub in the direction
+
+92
+00:03:53,709 --> 00:03:55,569
+of our mouse cursor at the normal
+
+93
+00:03:55,569 --> 00:03:58,239
+playback speed so if we click here now
+
+94
+00:03:58,239 --> 00:04:01,090
+it's playing if I go back if I hover
+
+95
+00:04:01,090 --> 00:04:04,690
+back the playhead follows in Reverse so
+
+96
+00:04:04,690 --> 00:04:06,580
+it just goes wherever my mouse goes
+
+97
+00:04:06,580 --> 00:04:07,990
+[Music]
+
+98
+00:04:07,990 --> 00:04:10,600
+and if I click and hold with my I'm
+
+99
+00:04:10,600 --> 00:04:11,800
+holding that with my left mouse button
+
+100
+00:04:11,800 --> 00:04:16,290
+then I can actually scrub fast or slow
+
+101
+00:04:18,450 --> 00:04:22,150
+and listen to whatever is happening in
+
+102
+00:04:22,150 --> 00:04:24,310
+that part of the song so anyway I said
+
+103
+00:04:24,310 --> 00:04:25,450
+what about playback I don't know if I
+
+104
+00:04:25,450 --> 00:04:26,770
+mentioned that in an earlier video or
+
+105
+00:04:26,770 --> 00:04:29,770
+not I'm going to select everything by
+
+106
+00:04:29,770 --> 00:04:31,360
+double clicking let's go to effects
+
+107
+00:04:31,360 --> 00:04:34,480
+there's this phaser effect that gives it
+
+108
+00:04:34,480 --> 00:04:37,480
+sort of this weird sound if we can bring
+
+109
+00:04:37,480 --> 00:04:38,830
+up the options for oh so we can adjust
+
+110
+00:04:38,830 --> 00:04:41,650
+it and apply it or we can just say start
+
+111
+00:04:41,650 --> 00:04:44,830
+playback it'll play the music so we can
+
+112
+00:04:44,830 --> 00:04:46,990
+listen to it and apply these settings as
+
+113
+00:04:46,990 --> 00:04:50,980
+it's playing so I'm gonna do that so
+
+114
+00:04:50,980 --> 00:04:52,690
+this is like a phaser effect if I go to
+
+115
+00:04:52,690 --> 00:04:54,340
+feedback and make it all the way full
+
+116
+00:04:54,340 --> 00:04:59,560
+you'll see what it's doing see that and
+
+117
+00:04:59,560 --> 00:05:05,920
+then we can change the effects here so
+
+118
+00:05:05,920 --> 00:05:14,260
+we can change how severe that is anyway
+
+119
+00:05:14,260 --> 00:05:15,640
+that's just sort of that phaser effect I
+
+120
+00:05:15,640 --> 00:05:16,810
+didn't apply it but that's the phaser
+
+121
+00:05:16,810 --> 00:05:18,910
+effect there's this effect called Paul
+
+122
+00:05:18,910 --> 00:05:21,430
+stretch if we do it we'll just leave
+
+123
+00:05:21,430 --> 00:05:22,990
+everything how it is there it kind of
+
+124
+00:05:22,990 --> 00:05:25,060
+just stretches out and makes your audio
+
+125
+00:05:25,060 --> 00:05:27,880
+really slow it'll it'll make it on much
+
+126
+00:05:27,880 --> 00:05:29,880
+much longer but it also has this
+
+127
+00:05:29,880 --> 00:05:32,670
+interesting effect to it
+
+128
+00:05:32,670 --> 00:05:36,129
+[Music]
+
+129
+00:05:38,509 --> 00:05:40,860
+so kind of interesting there's probably
+
+130
+00:05:40,860 --> 00:05:44,129
+some interesting things you can do with
+
+131
+00:05:44,129 --> 00:05:46,289
+that but these are just kind of fun like
+
+132
+00:05:46,289 --> 00:05:47,729
+effects you can apply an echo we'll do
+
+133
+00:05:47,729 --> 00:05:49,259
+that in the next video we'll do it some
+
+134
+00:05:49,259 --> 00:05:52,439
+echo works better with voice and we'll
+
+135
+00:05:52,439 --> 00:05:55,169
+do Equalization the next video - reverb
+
+136
+00:05:55,169 --> 00:05:57,900
+kind of gives it a little bit of a echo
+
+137
+00:05:57,900 --> 00:05:59,420
+too
+
+138
+00:05:59,420 --> 00:06:01,190
+[Music]
+
+139
+00:06:01,190 --> 00:06:03,560
+so it's almost like applying an echo and
+
+140
+00:06:03,560 --> 00:06:05,690
+but we can change you know how it sounds
+
+141
+00:06:05,690 --> 00:06:08,300
+it almost it's almost like applying an
+
+142
+00:06:08,300 --> 00:06:10,070
+echo just keeping that reverb bounce
+
+143
+00:06:10,070 --> 00:06:13,270
+back sound to our audio
+
+144
+00:06:16,310 --> 00:06:20,419
+another thing similar to that is our I
+
+145
+00:06:20,419 --> 00:06:23,039
+just thought a bit distortion so we can
+
+146
+00:06:23,039 --> 00:06:25,349
+apply distortion to this so we can
+
+147
+00:06:25,349 --> 00:06:26,610
+actually play back this while we're
+
+148
+00:06:26,610 --> 00:06:29,210
+changing it to
+
+149
+00:06:37,340 --> 00:06:40,700
+[Music]
+
+150
+00:06:40,700 --> 00:06:43,660
+oh there it is
+
+151
+00:06:44,180 --> 00:06:47,400
+so this is actually pretty much a lot
+
+152
+00:06:47,400 --> 00:06:49,229
+has a lot of distortion anyway just the
+
+153
+00:06:49,229 --> 00:06:51,419
+nature of the instruments being used in
+
+154
+00:06:51,419 --> 00:06:56,879
+it but what else effects yeah that's all
+
+155
+00:06:56,879 --> 00:06:57,930
+oh look at this wah
+
+156
+00:06:57,930 --> 00:07:00,830
+which is kind of cool too
+
+157
+00:07:05,380 --> 00:07:08,470
+[Music]
+
+158
+00:07:10,159 --> 00:07:12,590
+just creates kind of like a wah effect
+
+159
+00:07:12,590 --> 00:07:14,550
+so there's some different kinds of fun
+
+160
+00:07:14,550 --> 00:07:16,199
+effects that we can play with in there I
+
+161
+00:07:16,199 --> 00:07:18,930
+think you get the idea so oh and if we
+
+162
+00:07:18,930 --> 00:07:21,270
+we've got some more down here too by the
+
+163
+00:07:21,270 --> 00:07:22,430
+way
+
+164
+00:07:22,430 --> 00:07:25,020
+so we'll play some of these later too
+
+165
+00:07:25,020 --> 00:07:27,930
+but just know that you can click on
+
+166
+00:07:27,930 --> 00:07:29,370
+these arrows and you can scroll down and
+
+167
+00:07:29,370 --> 00:07:33,120
+see other options too that are not
+
+168
+00:07:33,120 --> 00:07:36,120
+necessarily visible depending on your
+
+169
+00:07:36,120 --> 00:07:38,219
+screen resolution so I appreciate you
+
+170
+00:07:38,219 --> 00:07:39,210
+watching this video hopefully found
+
+171
+00:07:39,210 --> 00:07:40,889
+informative just kind of a fun one just
+
+172
+00:07:40,889 --> 00:07:42,180
+playing with the effects and getting
+
+173
+00:07:42,180 --> 00:07:44,129
+maybe more familiar with them just so
+
+174
+00:07:44,129 --> 00:07:45,719
+you know what tools are available in
+
+175
+00:07:45,719 --> 00:07:46,830
+case you want to apply them in the
+
+176
+00:07:46,830 --> 00:07:48,569
+future go ahead and like comment
+
+177
+00:07:48,569 --> 00:07:51,060
+subscribe leave your questions below
+
+178
+00:07:51,060 --> 00:07:55,340
+and I hope to see you in the next video
+

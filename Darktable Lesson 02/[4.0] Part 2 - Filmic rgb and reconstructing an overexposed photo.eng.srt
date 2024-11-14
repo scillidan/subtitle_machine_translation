@@ -1,0 +1,1072 @@
+1
+00:00:02,320 --> 00:00:03,360
+hey
+
+2
+00:00:03,360 --> 00:00:05,120
+welcome to part two of getting to know
+
+3
+00:00:05,120 --> 00:00:06,560
+filmic
+
+4
+00:00:06,560 --> 00:00:08,320
+i hope you've watched the part 1 of this
+
+5
+00:00:08,320 --> 00:00:09,840
+series where we pondered about
+
+6
+00:00:09,840 --> 00:00:12,160
+photography and the whole concept of
+
+7
+00:00:12,160 --> 00:00:15,120
+filmic what it's for and what it does
+
+8
+00:00:15,120 --> 00:00:17,680
+otherwise this might feel like a baptism
+
+9
+00:00:17,680 --> 00:00:19,279
+by fire
+
+10
+00:00:19,279 --> 00:00:21,359
+let's not waste any time and let's jump
+
+11
+00:00:21,359 --> 00:00:23,680
+right in so today i'm going to be mainly
+
+12
+00:00:23,680 --> 00:00:26,400
+working on this inside and outside
+
+13
+00:00:26,400 --> 00:00:27,599
+capture
+
+14
+00:00:27,599 --> 00:00:28,880
+next time
+
+15
+00:00:28,880 --> 00:00:31,439
+this ultimate test of my abilities in
+
+16
+00:00:31,439 --> 00:00:33,920
+using filmic rgb module
+
+17
+00:00:33,920 --> 00:00:35,680
+two photos that would normally be
+
+18
+00:00:35,680 --> 00:00:38,239
+discarded if it wasn't for awesome tools
+
+19
+00:00:38,239 --> 00:00:39,600
+we have today
+
+20
+00:00:39,600 --> 00:00:41,680
+we've dealt with a blown out sky in
+
+21
+00:00:41,680 --> 00:00:44,000
+another video you can find it in the
+
+22
+00:00:44,000 --> 00:00:46,879
+cards at the top right corner or in the
+
+23
+00:00:46,879 --> 00:00:48,480
+video description
+
+24
+00:00:48,480 --> 00:00:50,719
+hence today we'll be looking at a few
+
+25
+00:00:50,719 --> 00:00:52,640
+different examples
+
+26
+00:00:52,640 --> 00:00:54,719
+we'll start with the easier one
+
+27
+00:00:54,719 --> 00:00:57,280
+first let's move to darkroom and let's
+
+28
+00:00:57,280 --> 00:01:00,640
+evaluate the level of brokenness
+
+29
+00:01:00,640 --> 00:01:02,559
+let's check what's clipped at the sensor
+
+30
+00:01:02,559 --> 00:01:04,720
+and how much painting we'll have to do
+
+31
+00:01:04,720 --> 00:01:09,320
+and how much salvaging we should attempt
+
+32
+00:01:12,080 --> 00:01:13,439
+looks pretty bad
+
+33
+00:01:13,439 --> 00:01:15,840
+but nothing we can't fake fix
+
+34
+00:01:15,840 --> 00:01:17,200
+okay let's start with a quick
+
+35
+00:01:17,200 --> 00:01:19,920
+perspective adjustment
+
+36
+00:01:19,920 --> 00:01:24,000
+type in perspective turn that on
+
+37
+00:01:24,000 --> 00:01:27,680
+and click on all the automatic buttons
+
+38
+00:01:27,680 --> 00:01:30,159
+this one scans the image for straight
+
+39
+00:01:30,159 --> 00:01:31,360
+lines
+
+40
+00:01:31,360 --> 00:01:34,560
+and that one corrects it vertically
+
+41
+00:01:34,560 --> 00:01:36,640
+i'll close that and that looks much
+
+42
+00:01:36,640 --> 00:01:40,640
+nicer we're no longer feeling like ants
+
+43
+00:01:40,640 --> 00:01:42,640
+next up i'll adjust the temperature a
+
+44
+00:01:42,640 --> 00:01:44,320
+little bit
+
+45
+00:01:44,320 --> 00:01:47,520
+as i can feel the photo is slightly
+
+46
+00:01:47,520 --> 00:01:48,720
+bluish
+
+47
+00:01:48,720 --> 00:01:50,799
+especially at the bottom here
+
+48
+00:01:50,799 --> 00:01:54,399
+i'll just increase this
+
+49
+00:01:54,399 --> 00:01:57,680
+until we're happy
+
+50
+00:01:59,680 --> 00:02:02,560
+okay that looks about right
+
+51
+00:02:02,560 --> 00:02:06,240
+let's use the color assessment mode
+
+52
+00:02:06,640 --> 00:02:08,878
+okay i'm pretty happy with that it's a
+
+53
+00:02:08,878 --> 00:02:10,959
+bit on the warmer side but it was a
+
+54
+00:02:10,959 --> 00:02:12,400
+really warm day
+
+55
+00:02:12,400 --> 00:02:14,720
+so i might want to convey that with my
+
+56
+00:02:14,720 --> 00:02:16,160
+image
+
+57
+00:02:16,160 --> 00:02:18,879
+next up i'll adjust the exposure
+
+58
+00:02:18,879 --> 00:02:21,120
+just a tiny bit
+
+59
+00:02:21,120 --> 00:02:23,360
+i feel like the image is a bit too
+
+60
+00:02:23,360 --> 00:02:24,319
+bright
+
+61
+00:02:24,319 --> 00:02:27,280
+knowing that this is a shadow area
+
+62
+00:02:27,280 --> 00:02:28,959
+away from the sun
+
+63
+00:02:28,959 --> 00:02:30,879
+i might want to make it
+
+64
+00:02:30,879 --> 00:02:34,440
+a little bit darker
+
+65
+00:02:37,680 --> 00:02:40,640
+remember that by setting the exposure
+
+66
+00:02:40,640 --> 00:02:42,879
+we're also picking where our neutral
+
+67
+00:02:42,879 --> 00:02:45,519
+gray is going to be
+
+68
+00:02:45,519 --> 00:02:48,720
+now we can open filmic
+
+69
+00:02:48,720 --> 00:02:50,640
+something that will actually fix some of
+
+70
+00:02:50,640 --> 00:02:53,280
+the issues with the photo
+
+71
+00:02:53,280 --> 00:02:56,000
+i'm going to be using filmic v6 which is
+
+72
+00:02:56,000 --> 00:02:57,920
+going to reach the mainstream dark table
+
+73
+00:02:57,920 --> 00:02:59,440
+pretty soon
+
+74
+00:02:59,440 --> 00:03:00,879
+just so the video doesn't become
+
+75
+00:03:00,879 --> 00:03:03,200
+obsolete a weekend
+
+76
+00:03:03,200 --> 00:03:05,120
+i will set the preserved chrominance to
+
+77
+00:03:05,120 --> 00:03:08,080
+know for this video this might ruin our
+
+78
+00:03:08,080 --> 00:03:10,000
+rgb ratios
+
+79
+00:03:10,000 --> 00:03:12,080
+but it's usually less noticeable than
+
+80
+00:03:12,080 --> 00:03:13,440
+the artifacts that the other
+
+81
+00:03:13,440 --> 00:03:15,920
+preservation methods create that's my
+
+82
+00:03:15,920 --> 00:03:20,080
+experience at least right onto filmic
+
+83
+00:03:20,080 --> 00:03:24,080
+i'm going to use that auto-tune levels
+
+84
+00:03:24,080 --> 00:03:26,239
+which did a pretty good job
+
+85
+00:03:26,239 --> 00:03:28,480
+i would like to adjust the contrast just
+
+86
+00:03:28,480 --> 00:03:30,480
+a little bit
+
+87
+00:03:30,480 --> 00:03:32,640
+notice how this straight line rotates
+
+88
+00:03:32,640 --> 00:03:35,200
+around this orange dot which is our
+
+89
+00:03:35,200 --> 00:03:36,879
+neutral gray point
+
+90
+00:03:36,879 --> 00:03:39,280
+that we sort of set in the exposure
+
+91
+00:03:39,280 --> 00:03:42,799
+module i'll move the slider to the right
+
+92
+00:03:42,799 --> 00:03:46,319
+and watch the straight line rotate
+
+93
+00:03:46,319 --> 00:03:48,640
+okay that's a bit too much i'll dial it
+
+94
+00:03:48,640 --> 00:03:51,120
+back a bit
+
+95
+00:03:53,840 --> 00:03:55,680
+that looks about right
+
+96
+00:03:55,680 --> 00:03:58,080
+reduce the latitude a bit
+
+97
+00:03:58,080 --> 00:04:01,519
+so we get some nicer transitions
+
+98
+00:04:01,519 --> 00:04:04,000
+okay i'm pretty happy with that
+
+99
+00:04:04,000 --> 00:04:06,799
+now we can switch to reconstruct tab
+
+100
+00:04:06,799 --> 00:04:09,599
+first we need to select the areas
+
+101
+00:04:09,599 --> 00:04:12,159
+that we want to reconstruct we can do
+
+102
+00:04:12,159 --> 00:04:15,599
+that by enabling the mask preview
+
+103
+00:04:15,599 --> 00:04:18,000
+right now nothing is selected so the
+
+104
+00:04:18,000 --> 00:04:21,839
+reconstruct tab is basically disabled
+
+105
+00:04:21,839 --> 00:04:23,759
+i will start walking back the threshold
+
+106
+00:04:23,759 --> 00:04:25,199
+slider
+
+107
+00:04:25,199 --> 00:04:27,199
+until we get white where there was
+
+108
+00:04:27,199 --> 00:04:30,960
+significant overexposure
+
+109
+00:04:39,120 --> 00:04:41,280
+okay
+
+110
+00:04:41,280 --> 00:04:42,400
+i think it's
+
+111
+00:04:42,400 --> 00:04:44,960
+right about here then using the
+
+112
+00:04:44,960 --> 00:04:47,520
+transition slider i can sort of feather
+
+113
+00:04:47,520 --> 00:04:49,919
+my selection usually adjusting the
+
+114
+00:04:49,919 --> 00:04:52,240
+transition until i can vaguely see the
+
+115
+00:04:52,240 --> 00:04:54,240
+rest of the image works best from my
+
+116
+00:04:54,240 --> 00:04:57,240
+experience
+
+117
+00:04:57,759 --> 00:05:00,240
+like that
+
+118
+00:05:02,320 --> 00:05:05,759
+okay we can disable the mask
+
+119
+00:05:06,479 --> 00:05:08,000
+that got rid of
+
+120
+00:05:08,000 --> 00:05:10,560
+a little bit of pink we had before which
+
+121
+00:05:10,560 --> 00:05:12,880
+means we're doing something right
+
+122
+00:05:12,880 --> 00:05:14,720
+now we have these three sliders that
+
+123
+00:05:14,720 --> 00:05:16,880
+will help me hide my mistake of
+
+124
+00:05:16,880 --> 00:05:18,960
+overexposure
+
+125
+00:05:18,960 --> 00:05:21,759
+i'll zoom in just a little bit so we can
+
+126
+00:05:21,759 --> 00:05:24,720
+see better
+
+127
+00:05:24,720 --> 00:05:27,199
+the first slider is structure versus
+
+128
+00:05:27,199 --> 00:05:29,280
+texture
+
+129
+00:05:29,280 --> 00:05:31,840
+structure and texture are reconstruction
+
+130
+00:05:31,840 --> 00:05:34,880
+strategies if we move this slider over
+
+131
+00:05:34,880 --> 00:05:36,720
+to the structure side
+
+132
+00:05:36,720 --> 00:05:38,720
+we're basically saying we don't care
+
+133
+00:05:38,720 --> 00:05:40,720
+what's in the middle of the patch we are
+
+134
+00:05:40,720 --> 00:05:42,160
+reconstructing
+
+135
+00:05:42,160 --> 00:05:44,240
+we just want a smooth in painting a
+
+136
+00:05:44,240 --> 00:05:46,080
+smooth gradient
+
+137
+00:05:46,080 --> 00:05:47,919
+that works great with things like
+
+138
+00:05:47,919 --> 00:05:50,240
+overblown skies
+
+139
+00:05:50,240 --> 00:05:52,320
+whereas the texture strategy attempts to
+
+140
+00:05:52,320 --> 00:05:54,960
+recover and creates detail
+
+141
+00:05:54,960 --> 00:05:56,720
+this might be useful for things like
+
+142
+00:05:56,720 --> 00:05:59,759
+skin or textured surfaces
+
+143
+00:05:59,759 --> 00:06:01,680
+i'll be honest i've never had a case
+
+144
+00:06:01,680 --> 00:06:03,680
+where going full texture was better than
+
+145
+00:06:03,680 --> 00:06:05,039
+structure
+
+146
+00:06:05,039 --> 00:06:07,440
+understand the texture mode attempts to
+
+147
+00:06:07,440 --> 00:06:10,639
+recover detail from unclipped channels
+
+148
+00:06:10,639 --> 00:06:12,479
+but that has never yielded me any
+
+149
+00:06:12,479 --> 00:06:14,800
+results that i was satisfied with
+
+150
+00:06:14,800 --> 00:06:18,160
+therefore i either keep this at 0
+
+151
+00:06:18,160 --> 00:06:20,560
+or lean a little bit to the left
+
+152
+00:06:20,560 --> 00:06:23,600
+i think zero is fine in this case
+
+153
+00:06:23,600 --> 00:06:26,240
+now for bloom versus reconstruct
+
+154
+00:06:26,240 --> 00:06:28,160
+i've noticed that blooming works very
+
+155
+00:06:28,160 --> 00:06:30,639
+well when it comes to skies and the sun
+
+156
+00:06:30,639 --> 00:06:32,240
+for example
+
+157
+00:06:32,240 --> 00:06:34,000
+however with objects that are
+
+158
+00:06:34,000 --> 00:06:36,240
+illuminated by a bright light
+
+159
+00:06:36,240 --> 00:06:38,400
+i find that keeping to the right yells
+
+160
+00:06:38,400 --> 00:06:40,240
+better results
+
+161
+00:06:40,240 --> 00:06:43,120
+i'm going to keep that at 100
+
+162
+00:06:43,120 --> 00:06:45,199
+reconstruct
+
+163
+00:06:45,199 --> 00:06:46,800
+lastly
+
+164
+00:06:46,800 --> 00:06:49,520
+gray or colorful details this one is
+
+165
+00:06:49,520 --> 00:06:50,560
+easy
+
+166
+00:06:50,560 --> 00:06:52,960
+i almost always keep the left of the
+
+167
+00:06:52,960 --> 00:06:54,400
+slider
+
+168
+00:06:54,400 --> 00:06:56,160
+a portion of the capture we are trying
+
+169
+00:06:56,160 --> 00:06:59,120
+to reconstruct almost never holds any
+
+170
+00:06:59,120 --> 00:07:00,960
+meaningful color
+
+171
+00:07:00,960 --> 00:07:03,520
+as at least one channel was clipped at
+
+172
+00:07:03,520 --> 00:07:06,720
+the sensor at the time of the capture
+
+173
+00:07:06,720 --> 00:07:08,479
+that means that the color information is
+
+174
+00:07:08,479 --> 00:07:10,560
+gone and there is no point in trying to
+
+175
+00:07:10,560 --> 00:07:13,759
+recover it i'll go 100 gray this time as
+
+176
+00:07:13,759 --> 00:07:15,840
+well
+
+177
+00:07:15,840 --> 00:07:18,080
+done the pink is gone
+
+178
+00:07:18,080 --> 00:07:20,160
+we have this
+
+179
+00:07:20,160 --> 00:07:22,479
+flatish white area
+
+180
+00:07:22,479 --> 00:07:24,319
+but i think we can fix that
+
+181
+00:07:24,319 --> 00:07:28,080
+first i'll enable the color balance rgb
+
+182
+00:07:28,080 --> 00:07:29,840
+i'll do the quickdom thing again and
+
+183
+00:07:29,840 --> 00:07:32,479
+just boost the global vibrance
+
+184
+00:07:32,479 --> 00:07:34,639
+let's not get into the depths of color
+
+185
+00:07:34,639 --> 00:07:38,720
+balance rgb module just yet
+
+186
+00:07:39,039 --> 00:07:42,319
+okay looks much more vibrant
+
+187
+00:07:42,319 --> 00:07:44,720
+right now we have this lovely warm sunny
+
+188
+00:07:44,720 --> 00:07:45,680
+view
+
+189
+00:07:45,680 --> 00:07:48,800
+but the incoming light is very white it
+
+190
+00:07:48,800 --> 00:07:51,039
+is slightly uncanny and ruins the
+
+191
+00:07:51,039 --> 00:07:52,639
+imagine
+
+192
+00:07:52,639 --> 00:07:55,360
+what we can do as artists
+
+193
+00:07:55,360 --> 00:07:56,960
+we can do some close domain
+
+194
+00:07:56,960 --> 00:07:58,479
+modifications
+
+195
+00:07:58,479 --> 00:08:00,960
+in short i'm taking out the brush the
+
+196
+00:08:00,960 --> 00:08:03,360
+scarf and the beret and i'm going to
+
+197
+00:08:03,360 --> 00:08:05,919
+paint something on my photo
+
+198
+00:08:05,919 --> 00:08:07,919
+i'm going to duplicate the color balance
+
+199
+00:08:07,919 --> 00:08:09,360
+rgb module
+
+200
+00:08:09,360 --> 00:08:12,879
+and i'm going to create a new instance
+
+201
+00:08:12,879 --> 00:08:15,520
+i'll reset it just in case
+
+202
+00:08:15,520 --> 00:08:18,080
+and i'm going to ctrl and shift and
+
+203
+00:08:18,080 --> 00:08:21,599
+click it and drag it above filmic rgb
+
+204
+00:08:21,599 --> 00:08:23,520
+this means that we're not influencing
+
+205
+00:08:23,520 --> 00:08:26,160
+filmic rgb module with this artistic
+
+206
+00:08:26,160 --> 00:08:28,400
+adjustment and we're working with closed
+
+207
+00:08:28,400 --> 00:08:30,720
+domain data also known as display
+
+208
+00:08:30,720 --> 00:08:33,279
+repaired
+
+209
+00:08:33,279 --> 00:08:35,360
+first of all let's do a quick parametric
+
+210
+00:08:35,360 --> 00:08:36,799
+mask
+
+211
+00:08:36,799 --> 00:08:39,519
+i'll enable the mask preview and i will
+
+212
+00:08:39,519 --> 00:08:40,958
+invert the mask
+
+213
+00:08:40,958 --> 00:08:44,000
+grab the slider and walk it back
+
+214
+00:08:44,000 --> 00:08:46,480
+until we've selected the over exposed
+
+215
+00:08:46,480 --> 00:08:48,880
+areas
+
+216
+00:08:49,120 --> 00:08:51,760
+i'll do a bit of feathering
+
+217
+00:08:51,760 --> 00:08:55,160
+a bit of blurring
+
+218
+00:08:55,920 --> 00:08:59,519
+maybe a tiny bit more
+
+219
+00:08:59,680 --> 00:09:02,720
+this back a little bit
+
+220
+00:09:07,120 --> 00:09:09,680
+yeah i think that is okay
+
+221
+00:09:09,680 --> 00:09:12,399
+that will do the job
+
+222
+00:09:12,399 --> 00:09:15,120
+i can disable the mask preview
+
+223
+00:09:15,120 --> 00:09:17,120
+and i'm going to go straight to the four
+
+224
+00:09:17,120 --> 00:09:19,440
+ways and
+
+225
+00:09:19,440 --> 00:09:21,360
+i'm going to change the hue
+
+226
+00:09:21,360 --> 00:09:24,320
+of the highlights gain
+
+227
+00:09:24,320 --> 00:09:26,720
+i'm going to change it to something
+
+228
+00:09:26,720 --> 00:09:28,080
+warm
+
+229
+00:09:28,080 --> 00:09:30,320
+ish
+
+230
+00:09:31,279 --> 00:09:33,600
+now what i need to do is increase the
+
+231
+00:09:33,600 --> 00:09:34,800
+chroma
+
+232
+00:09:34,800 --> 00:09:38,720
+just a tiny tiny little bit
+
+233
+00:09:38,720 --> 00:09:40,640
+let's not overdo it and turn it into
+
+234
+00:09:40,640 --> 00:09:43,120
+sepia
+
+235
+00:09:43,120 --> 00:09:47,440
+just a little bit so it feels
+
+236
+00:09:47,440 --> 00:09:50,440
+warmer
+
+237
+00:09:51,680 --> 00:09:52,640
+okay
+
+238
+00:09:52,640 --> 00:09:54,880
+again enable color assessment mode to
+
+239
+00:09:54,880 --> 00:09:57,839
+help us judge
+
+240
+00:09:59,200 --> 00:10:03,800
+okay that's a bit too orangey
+
+241
+00:10:14,560 --> 00:10:16,800
+okay i'm pretty happy with that i think
+
+242
+00:10:16,800 --> 00:10:18,399
+that did it
+
+243
+00:10:18,399 --> 00:10:21,279
+i think we managed to salvage it
+
+244
+00:10:21,279 --> 00:10:22,720
+from an image that was about to be
+
+245
+00:10:22,720 --> 00:10:24,880
+discarded to something that we can
+
+246
+00:10:24,880 --> 00:10:26,160
+actually use
+
+247
+00:10:26,160 --> 00:10:27,760
+i'm happy with the result
+
+248
+00:10:27,760 --> 00:10:29,760
+even though we only mainly touched a few
+
+249
+00:10:29,760 --> 00:10:31,120
+modules
+
+250
+00:10:31,120 --> 00:10:34,320
+so color balance rgb filmic rgb
+
+251
+00:10:34,320 --> 00:10:36,000
+exposure
+
+252
+00:10:36,000 --> 00:10:37,839
+color calibration
+
+253
+00:10:37,839 --> 00:10:39,920
+oh and perspective
+
+254
+00:10:39,920 --> 00:10:41,279
+and that's about it
+
+255
+00:10:41,279 --> 00:10:43,279
+in reality i would keep working on this
+
+256
+00:10:43,279 --> 00:10:46,480
+image until i'm fully happy but for the
+
+257
+00:10:46,480 --> 00:10:48,560
+purposes of this video i think it's more
+
+258
+00:10:48,560 --> 00:10:51,120
+than acceptable
+
+259
+00:10:51,120 --> 00:10:52,560
+next time
+
+260
+00:10:52,560 --> 00:10:54,880
+we'll be looking at an even more complex
+
+261
+00:10:54,880 --> 00:10:56,000
+problem
+
+262
+00:10:56,000 --> 00:10:58,800
+saturated colors in broken highlights
+
+263
+00:10:58,800 --> 00:11:01,120
+but that's going to be it for the part 2
+
+264
+00:11:01,120 --> 00:11:04,160
+of the deep dive into filmic rgb
+
+265
+00:11:04,160 --> 00:11:06,160
+hope you learned something new today
+
+266
+00:11:06,160 --> 00:11:07,519
+i'll see you soon
+
+267
+00:11:07,519 --> 00:11:10,519
+bye
+
+268
+00:11:18,079 --> 00:11:20,160
+you
+

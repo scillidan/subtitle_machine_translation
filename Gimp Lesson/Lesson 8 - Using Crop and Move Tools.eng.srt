@@ -1,0 +1,676 @@
+1
+00:00:02,240 --> 00:00:04,800
+welcome to another tutorial in this
+
+2
+00:00:04,800 --> 00:00:06,570
+video we'll be learning about the move
+
+3
+00:00:06,570 --> 00:00:09,480
+and also the crop tool so crop is a
+
+4
+00:00:09,480 --> 00:00:11,459
+fancy word for cut it's the way that we
+
+5
+00:00:11,459 --> 00:00:13,469
+would cut out a certain area like this
+
+6
+00:00:13,469 --> 00:00:15,780
+and then it selects that we hit enter
+
+7
+00:00:15,780 --> 00:00:17,820
+and now we've cut kind of the outside of
+
+8
+00:00:17,820 --> 00:00:20,099
+our image away and then move as you know
+
+9
+00:00:20,099 --> 00:00:23,279
+is just going to move our image or we
+
+10
+00:00:23,279 --> 00:00:24,990
+can move parts of the image as well so
+
+11
+00:00:24,990 --> 00:00:27,509
+we learn how to do that I do in control
+
+12
+00:00:27,509 --> 00:00:28,679
+Z to get this back to where it was
+
+13
+00:00:28,679 --> 00:00:29,369
+originally
+
+14
+00:00:29,369 --> 00:00:31,019
+so let's slow down and go over these one
+
+15
+00:00:31,019 --> 00:00:32,820
+at a time let's do the crop first
+
+16
+00:00:32,820 --> 00:00:35,130
+there's a couple ways to do crop when we
+
+17
+00:00:35,130 --> 00:00:37,050
+select the crop tool it's shift to see
+
+18
+00:00:37,050 --> 00:00:38,700
+is the shortcut and the icon looks like
+
+19
+00:00:38,700 --> 00:00:40,710
+this and again these icons may be in a
+
+20
+00:00:40,710 --> 00:00:42,600
+different location for you if you're
+
+21
+00:00:42,600 --> 00:00:44,310
+depending on how your dialog is sized
+
+22
+00:00:44,310 --> 00:00:46,350
+and also what version of you're
+
+23
+00:00:46,350 --> 00:00:47,820
+using the icons may even look different
+
+24
+00:00:47,820 --> 00:00:51,690
+but find your crop tool and then to use
+
+25
+00:00:51,690 --> 00:00:53,550
+it we just left-click and hold the mouse
+
+26
+00:00:53,550 --> 00:00:55,980
+down the left mouse button and when we
+
+27
+00:00:55,980 --> 00:00:58,740
+unclick it shades out the area that will
+
+28
+00:00:58,740 --> 00:01:01,200
+be cut out and it keeps highlighted the
+
+29
+00:01:01,200 --> 00:01:04,170
+area that is going to be remaining and
+
+30
+00:01:04,170 --> 00:01:06,030
+then we hit the enter key on our
+
+31
+00:01:06,030 --> 00:01:08,370
+keyboard and it performs that cut if we
+
+32
+00:01:08,370 --> 00:01:10,170
+don't like it we can go control Z and
+
+33
+00:01:10,170 --> 00:01:13,020
+just go back and we can redraw or a
+
+34
+00:01:13,020 --> 00:01:15,600
+better way is to just use these handles
+
+35
+00:01:15,600 --> 00:01:17,850
+here before we hit Enter we can use
+
+36
+00:01:17,850 --> 00:01:20,010
+these handles to sort of fine-tune and
+
+37
+00:01:20,010 --> 00:01:22,620
+really crop into the area that we want
+
+38
+00:01:22,620 --> 00:01:25,110
+we can also click on the corners and
+
+39
+00:01:25,110 --> 00:01:27,420
+resize this is sort of similar to the
+
+40
+00:01:27,420 --> 00:01:29,760
+way we drew selections where when we
+
+41
+00:01:29,760 --> 00:01:32,430
+resize one corner is fixed and a
+
+42
+00:01:32,430 --> 00:01:34,080
+shortcut we didn't really go over is if
+
+43
+00:01:34,080 --> 00:01:36,990
+we hold down the ctrl key while we're in
+
+44
+00:01:36,990 --> 00:01:40,350
+the selection resize mode we can resize
+
+45
+00:01:40,350 --> 00:01:42,630
+from based off of the center so I'm
+
+46
+00:01:42,630 --> 00:01:44,100
+holding down the ctrl key right now
+
+47
+00:01:44,100 --> 00:01:47,010
+rather than having a fixed point also
+
+48
+00:01:47,010 --> 00:01:48,870
+what you might try is holding down the
+
+49
+00:01:48,870 --> 00:01:50,909
+shift key and that'll let us scale
+
+50
+00:01:50,909 --> 00:01:53,850
+uniformly so even if I come down here
+
+51
+00:01:53,850 --> 00:01:55,820
+and try and go just over to the right
+
+52
+00:01:55,820 --> 00:01:58,530
+any distance I go horizontally will also
+
+53
+00:01:58,530 --> 00:02:01,140
+go vertically when the shift key is held
+
+54
+00:02:01,140 --> 00:02:03,630
+while in this resize mode that make
+
+55
+00:02:03,630 --> 00:02:05,970
+sense I'm gonna hit enter to confirm
+
+56
+00:02:05,970 --> 00:02:09,508
+this crop the move tool we've used in
+
+57
+00:02:09,508 --> 00:02:10,729
+the past when the move tool selected
+
+58
+00:02:10,729 --> 00:02:13,860
+it'll move either the layer we
+
+59
+00:02:13,860 --> 00:02:15,450
+can also tell it to move the selection
+
+60
+00:02:15,450 --> 00:02:17,580
+or the path based on these different
+
+61
+00:02:17,580 --> 00:02:19,590
+modes over here but make sure you're on
+
+62
+00:02:19,590 --> 00:02:22,110
+this move by layer and then right now
+
+63
+00:02:22,110 --> 00:02:23,580
+it's just picking the active layer so
+
+64
+00:02:23,580 --> 00:02:25,320
+whatever layer I click on will move I
+
+65
+00:02:25,320 --> 00:02:28,440
+only have one layer right now but to
+
+66
+00:02:28,440 --> 00:02:29,940
+illustrate is a little bit better let's
+
+67
+00:02:29,940 --> 00:02:32,310
+bring in a new image and keep this one
+
+68
+00:02:32,310 --> 00:02:34,740
+here so I'll go file open and I'll
+
+69
+00:02:34,740 --> 00:02:37,140
+select this image right here so now I
+
+70
+00:02:37,140 --> 00:02:38,760
+have two different projects I can see up
+
+71
+00:02:38,760 --> 00:02:41,190
+top here there's this one of me standing
+
+72
+00:02:41,190 --> 00:02:43,320
+in the snow this is actually my brother
+
+73
+00:02:43,320 --> 00:02:46,410
+here and so I can copy this image of my
+
+74
+00:02:46,410 --> 00:02:49,500
+brother by going to right click and edit
+
+75
+00:02:49,500 --> 00:02:54,090
+and go to copy or I can press ctrl C on
+
+76
+00:02:54,090 --> 00:02:56,160
+the keyboard and that's now copied to
+
+77
+00:02:56,160 --> 00:02:58,320
+the clipboard this image then I can go
+
+78
+00:02:58,320 --> 00:03:00,360
+over to the other image and go control V
+
+79
+00:03:00,360 --> 00:03:02,880
+on my keyboard to paste it or I can
+
+80
+00:03:02,880 --> 00:03:04,920
+right click and go to edit and go to
+
+81
+00:03:04,920 --> 00:03:07,320
+paste and that will paste this image
+
+82
+00:03:07,320 --> 00:03:09,390
+well now I can click on the move tool
+
+83
+00:03:09,390 --> 00:03:13,080
+and I can move this image around it's
+
+84
+00:03:13,080 --> 00:03:15,300
+actually a layer if you notice over here
+
+85
+00:03:15,300 --> 00:03:17,580
+it's a floating selection it's a
+
+86
+00:03:17,580 --> 00:03:20,100
+separate layer from this image so it's
+
+87
+00:03:20,100 --> 00:03:21,269
+kind of like there's two layers right
+
+88
+00:03:21,269 --> 00:03:23,880
+now we can do two things we can choose
+
+89
+00:03:23,880 --> 00:03:26,940
+to merge this as part of this image and
+
+90
+00:03:26,940 --> 00:03:29,790
+combine them into one layer to do that
+
+91
+00:03:29,790 --> 00:03:32,280
+we just right click over here and go to
+
+92
+00:03:32,280 --> 00:03:36,299
+anchor layer now it's anchored in there
+
+93
+00:03:36,299 --> 00:03:37,440
+and if we try to move it
+
+94
+00:03:37,440 --> 00:03:39,530
+it'll everything will move together any
+
+95
+00:03:39,530 --> 00:03:41,880
+scaling or anything we apply is going to
+
+96
+00:03:41,880 --> 00:03:44,940
+move all these together I can go ctrl Z
+
+97
+00:03:44,940 --> 00:03:47,100
+and get back to that point before I did
+
+98
+00:03:47,100 --> 00:03:49,200
+the merge because we can also right
+
+99
+00:03:49,200 --> 00:03:52,950
+click and go to new layer and what that
+
+100
+00:03:52,950 --> 00:03:55,110
+does it puts this floating selection on
+
+101
+00:03:55,110 --> 00:03:58,320
+its own new layer now we have two layers
+
+102
+00:03:58,320 --> 00:04:01,290
+we can click and see each one
+
+103
+00:04:01,290 --> 00:04:03,480
+individually and this lets us be able to
+
+104
+00:04:03,480 --> 00:04:07,290
+still move this around we can crop just
+
+105
+00:04:07,290 --> 00:04:09,269
+this image or just do either one of
+
+106
+00:04:09,269 --> 00:04:10,739
+these images independently from the
+
+107
+00:04:10,739 --> 00:04:12,780
+other if we do the crop tool right now
+
+108
+00:04:12,780 --> 00:04:14,970
+and we want to crop in just a part of
+
+109
+00:04:14,970 --> 00:04:16,649
+this image but keep everything out here
+
+110
+00:04:16,649 --> 00:04:18,750
+unaffected we don't do it this way if we
+
+111
+00:04:18,750 --> 00:04:20,608
+do it'll just crop in like this
+
+112
+00:04:20,608 --> 00:04:23,550
+but I can go ctrl Z and before I select
+
+113
+00:04:23,550 --> 00:04:25,229
+the crop notice there's some options
+
+114
+00:04:25,229 --> 00:04:27,060
+under crop as well there's one called
+
+115
+00:04:27,060 --> 00:04:27,720
+current
+
+116
+00:04:27,720 --> 00:04:31,050
+lair only if I check that and then draw
+
+117
+00:04:31,050 --> 00:04:34,590
+my crop selection and then hit enter it
+
+118
+00:04:34,590 --> 00:04:36,750
+will only crop just the layer that I'm
+
+119
+00:04:36,750 --> 00:04:40,500
+working on does that make sense and so
+
+120
+00:04:40,500 --> 00:04:42,720
+if we didn't have that selected then it
+
+121
+00:04:42,720 --> 00:04:44,130
+would treat everything as one and crop
+
+122
+00:04:44,130 --> 00:04:47,280
+all layers together there's also some
+
+123
+00:04:47,280 --> 00:04:49,080
+other options here and we'll play with
+
+124
+00:04:49,080 --> 00:04:50,610
+more of these in the future we can silk
+
+125
+00:04:50,610 --> 00:04:52,890
+we can instead of drawing this we could
+
+126
+00:04:52,890 --> 00:04:54,690
+draw and then we could fine tune it over
+
+127
+00:04:54,690 --> 00:04:56,970
+here and change the size notice as I
+
+128
+00:04:56,970 --> 00:05:00,060
+click these it's moving subtly the size
+
+129
+00:05:00,060 --> 00:05:02,280
+of it and we can also use our scroll
+
+130
+00:05:02,280 --> 00:05:04,470
+wheel to change that as well there is
+
+131
+00:05:04,470 --> 00:05:05,970
+one more way to crop I want to show you
+
+132
+00:05:05,970 --> 00:05:08,040
+and that is just by using the selection
+
+133
+00:05:08,040 --> 00:05:11,040
+tool so we can select an area and it
+
+134
+00:05:11,040 --> 00:05:13,110
+looks similar to crop only notice when
+
+135
+00:05:13,110 --> 00:05:15,240
+the selection tool is used it doesn't
+
+136
+00:05:15,240 --> 00:05:16,290
+everything else doesn't get grayed out
+
+137
+00:05:16,290 --> 00:05:17,640
+and if we hit enter
+
+138
+00:05:17,640 --> 00:05:19,710
+it doesn't crop or do anything so the
+
+139
+00:05:19,710 --> 00:05:21,090
+selection tool even though the interface
+
+140
+00:05:21,090 --> 00:05:23,400
+sort of looks the same and we can resize
+
+141
+00:05:23,400 --> 00:05:26,880
+it it's not the crop tool so pay
+
+142
+00:05:26,880 --> 00:05:29,280
+attention to that but what this will let
+
+143
+00:05:29,280 --> 00:05:32,940
+us do is when we have a selection we can
+
+144
+00:05:32,940 --> 00:05:35,370
+crop to that selection all we have to do
+
+145
+00:05:35,370 --> 00:05:39,480
+is click on image and go to crop to
+
+146
+00:05:39,480 --> 00:05:41,820
+selection and that will crop to whatever
+
+147
+00:05:41,820 --> 00:05:43,860
+we have selected we talked about that a
+
+148
+00:05:43,860 --> 00:05:45,300
+little bit in the past like if we were
+
+149
+00:05:45,300 --> 00:05:47,580
+to do a circle selection and we want to
+
+150
+00:05:47,580 --> 00:05:50,040
+crop to a circle it'll still do it as a
+
+151
+00:05:50,040 --> 00:05:53,550
+square we can go image crop to selection
+
+152
+00:05:53,550 --> 00:05:56,040
+and that'll kind of crop that out so
+
+153
+00:05:56,040 --> 00:05:57,810
+some ways we'll learn how we could cut
+
+154
+00:05:57,810 --> 00:05:59,640
+out if we wanted to have transparency in
+
+155
+00:05:59,640 --> 00:06:01,919
+the corners there but just know you can
+
+156
+00:06:01,919 --> 00:06:04,770
+crop that way as well by cropping to
+
+157
+00:06:04,770 --> 00:06:06,210
+whatever you have selected but it'll
+
+158
+00:06:06,210 --> 00:06:08,460
+still always crop in a square or
+
+159
+00:06:08,460 --> 00:06:10,350
+rectangle well hopefully you found this
+
+160
+00:06:10,350 --> 00:06:12,600
+informative go ahead and play with crop
+
+161
+00:06:12,600 --> 00:06:14,820
+and play with move and the next videos
+
+162
+00:06:14,820 --> 00:06:16,020
+we're going to be doing some more of
+
+163
+00:06:16,020 --> 00:06:18,810
+this where we copy certain images and
+
+164
+00:06:18,810 --> 00:06:20,700
+paste them we'll be playing with rotate
+
+165
+00:06:20,700 --> 00:06:22,620
+and shear and learning how to composite
+
+166
+00:06:22,620 --> 00:06:24,900
+multiple images together appreciate you
+
+167
+00:06:24,900 --> 00:06:26,190
+watching leave your questions comments
+
+168
+00:06:26,190 --> 00:06:27,540
+below and I'll catch you in the next
+
+169
+00:06:27,540 --> 00:06:29,750
+video
+

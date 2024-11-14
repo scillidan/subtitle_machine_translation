@@ -1,0 +1,920 @@
+1
+00:00:02,270 --> 00:00:04,920
+welcome to another tutorial in this
+
+2
+00:00:04,920 --> 00:00:06,240
+video we're going to be talking about
+
+3
+00:00:06,240 --> 00:00:08,429
+transparency and the Alpha Channel in
+
+4
+00:00:08,429 --> 00:00:11,820
+ so transparency lets us erase and
+
+5
+00:00:11,820 --> 00:00:14,369
+not see any pixels not white not black
+
+6
+00:00:14,369 --> 00:00:18,060
+just a clear transparent pixel so if we
+
+7
+00:00:18,060 --> 00:00:19,230
+want to do that now we've learned in the
+
+8
+00:00:19,230 --> 00:00:21,179
+past if we clicked on the erase tool and
+
+9
+00:00:21,179 --> 00:00:23,099
+we left click and hold it will erase
+
+10
+00:00:23,099 --> 00:00:25,439
+parts of our image well right now this
+
+11
+00:00:25,439 --> 00:00:27,689
+image does not have an alpha Channel
+
+12
+00:00:27,689 --> 00:00:30,509
+which means it's only going to do solid
+
+13
+00:00:30,509 --> 00:00:32,250
+pixels or solid
+
+14
+00:00:32,250 --> 00:00:34,770
+yeah.well solid pixels even white is a
+
+15
+00:00:34,770 --> 00:00:37,020
+solid pixel what I mean by that is if
+
+16
+00:00:37,020 --> 00:00:38,910
+we're if we were to erase this corner
+
+17
+00:00:38,910 --> 00:00:42,030
+right here and then export this image we
+
+18
+00:00:42,030 --> 00:00:44,910
+would see it just like we do now so this
+
+19
+00:00:44,910 --> 00:00:47,130
+part that we erased wouldn't be clear it
+
+20
+00:00:47,130 --> 00:00:48,660
+wouldn't be like glass like showing
+
+21
+00:00:48,660 --> 00:00:51,030
+through to what's behind it like it
+
+22
+00:00:51,030 --> 00:00:53,280
+would be I downloaded the icon
+
+23
+00:00:53,280 --> 00:00:55,170
+right here so the icon has
+
+24
+00:00:55,170 --> 00:00:57,060
+transparency we can tell that because it
+
+25
+00:00:57,060 --> 00:00:59,250
+has this checker pattern this is sort of
+
+26
+00:00:59,250 --> 00:01:01,290
+the the way that you can see if
+
+27
+00:01:01,290 --> 00:01:03,420
+something is transparent or not so this
+
+28
+00:01:03,420 --> 00:01:05,040
+is telling us everywhere where we can
+
+29
+00:01:05,040 --> 00:01:09,180
+see a pixel where we can see a color or
+
+30
+00:01:09,180 --> 00:01:11,070
+we can see the outline of this we know
+
+31
+00:01:11,070 --> 00:01:13,560
+that the actual image is there but
+
+32
+00:01:13,560 --> 00:01:15,390
+everywhere where it shows these squares
+
+33
+00:01:15,390 --> 00:01:17,940
+this checker pattern that's basically
+
+34
+00:01:17,940 --> 00:01:21,360
+clear or glass or transparency and
+
+35
+00:01:21,360 --> 00:01:22,890
+that's why when we zoom in here to this
+
+36
+00:01:22,890 --> 00:01:25,500
+actual icon we are we look at it on the
+
+37
+00:01:25,500 --> 00:01:27,240
+desktop and we see as we move it around
+
+38
+00:01:27,240 --> 00:01:30,000
+see it we can see it it's green
+
+39
+00:01:30,000 --> 00:01:32,520
+background over here now and over here
+
+40
+00:01:32,520 --> 00:01:34,350
+we can if we drag it over top of another
+
+41
+00:01:34,350 --> 00:01:37,470
+icon it's transparent so this real image
+
+42
+00:01:37,470 --> 00:01:40,470
+is actually a complete square image like
+
+43
+00:01:40,470 --> 00:01:43,799
+this but we're only seeing this shape
+
+44
+00:01:43,799 --> 00:01:45,270
+and a lot of times people get confused
+
+45
+00:01:45,270 --> 00:01:46,560
+when they're first starting out with
+
+46
+00:01:46,560 --> 00:01:48,210
+ because they want to create a
+
+47
+00:01:48,210 --> 00:01:50,280
+circle or something well that's how you
+
+48
+00:01:50,280 --> 00:01:51,979
+do it is you have to have transparency
+
+49
+00:01:51,979 --> 00:01:54,780
+so to get transparency right now we're
+
+50
+00:01:54,780 --> 00:01:57,000
+erasing but we're getting white we might
+
+51
+00:01:57,000 --> 00:01:59,159
+as well be just draw like painting white
+
+52
+00:01:59,159 --> 00:02:01,650
+on top of this it's kind of the same as
+
+53
+00:02:01,650 --> 00:02:04,049
+erasing through to white it's kind of
+
+54
+00:02:04,049 --> 00:02:06,360
+hard to tell a difference so I'm gonna
+
+55
+00:02:06,360 --> 00:02:08,549
+hit control Z a couple of times to add
+
+56
+00:02:08,549 --> 00:02:10,318
+an alpha channel we can look over here
+
+57
+00:02:10,318 --> 00:02:12,689
+sometimes you can have a separate
+
+58
+00:02:12,689 --> 00:02:14,459
+background
+
+59
+00:02:14,459 --> 00:02:16,170
+but the easiest way to do this is to
+
+60
+00:02:16,170 --> 00:02:17,489
+just come over here in this area and
+
+61
+00:02:17,489 --> 00:02:19,829
+right-click and then go down to add
+
+62
+00:02:19,829 --> 00:02:22,739
+alpha channel and what that's going to
+
+63
+00:02:22,739 --> 00:02:24,569
+do we don't notice any changes right
+
+64
+00:02:24,569 --> 00:02:27,689
+away but when we try to erase now we see
+
+65
+00:02:27,689 --> 00:02:31,140
+it's not white we see we're erasing true
+
+66
+00:02:31,140 --> 00:02:33,780
+into that true transparency I can erase
+
+67
+00:02:33,780 --> 00:02:35,459
+parts of my face I can erase whatever I
+
+68
+00:02:35,459 --> 00:02:38,340
+want so let's try and do some erasing
+
+69
+00:02:38,340 --> 00:02:40,470
+here real quick let me make my brush a
+
+70
+00:02:40,470 --> 00:02:42,299
+little bit larger and I'm just going to
+
+71
+00:02:42,299 --> 00:02:45,359
+erase kind of quickly some of the
+
+72
+00:02:45,359 --> 00:02:46,980
+background here looks like I got part of
+
+73
+00:02:46,980 --> 00:02:48,000
+myself that's okay
+
+74
+00:02:48,000 --> 00:02:50,970
+and I'll go file export because I want
+
+75
+00:02:50,970 --> 00:02:52,290
+to show you when you're exporting with
+
+76
+00:02:52,290 --> 00:02:54,060
+transparency it's also important that
+
+77
+00:02:54,060 --> 00:02:58,099
+you save the file as a PNG and not a
+
+78
+00:02:58,099 --> 00:03:02,790
+JPEG a jpg file if we did a jpg I'll
+
+79
+00:03:02,790 --> 00:03:04,379
+just show you what'll happen so we have
+
+80
+00:03:04,379 --> 00:03:06,299
+test jpg we'll export that to the
+
+81
+00:03:06,299 --> 00:03:08,340
+desktop and we'll go and take a look at
+
+82
+00:03:08,340 --> 00:03:11,040
+it and see what this looks like so it
+
+83
+00:03:11,040 --> 00:03:14,329
+did not do it still showed it as white
+
+84
+00:03:14,329 --> 00:03:16,889
+so this looks different than what we had
+
+85
+00:03:16,889 --> 00:03:17,700
+we thought we were going to have
+
+86
+00:03:17,700 --> 00:03:20,220
+transparency there but really it showed
+
+87
+00:03:20,220 --> 00:03:24,479
+up as white in our photo viewer and more
+
+88
+00:03:24,479 --> 00:03:26,159
+importantly on the desktop when we try
+
+89
+00:03:26,159 --> 00:03:28,169
+to zoom in and do what we did with the
+
+90
+00:03:28,169 --> 00:03:30,479
+ icon we can't do it with this one
+
+91
+00:03:30,479 --> 00:03:34,319
+we just see these white corners so let's
+
+92
+00:03:34,319 --> 00:03:35,609
+go back and let's do it the right way
+
+93
+00:03:35,609 --> 00:03:38,069
+which is to go to file and we go to
+
+94
+00:03:38,069 --> 00:03:40,620
+export as and then we change these last
+
+95
+00:03:40,620 --> 00:03:45,030
+three letters to P n G it's just a
+
+96
+00:03:45,030 --> 00:03:46,769
+different file format it processes the
+
+97
+00:03:46,769 --> 00:03:48,870
+image different and PNG supports
+
+98
+00:03:48,870 --> 00:03:51,000
+transparent background there are
+
+99
+00:03:51,000 --> 00:03:52,889
+versions of there's ways you can have a
+
+100
+00:03:52,889 --> 00:03:55,049
+transparent background with a JPEG but
+
+101
+00:03:55,049 --> 00:03:56,879
+the best thing to do is just always get
+
+102
+00:03:56,879 --> 00:03:58,979
+in the habit of exporting in a PNG file
+
+103
+00:03:58,979 --> 00:04:00,930
+notice it's taking a little bit longer
+
+104
+00:04:00,930 --> 00:04:02,849
+to export let's take a look here and see
+
+105
+00:04:02,849 --> 00:04:04,169
+some of the differences between these
+
+106
+00:04:04,169 --> 00:04:06,810
+two so now we see this one is looking
+
+107
+00:04:06,810 --> 00:04:08,639
+kind of weird I can zoom in a little bit
+
+108
+00:04:08,639 --> 00:04:11,250
+it's gonna be a little bit grainy but we
+
+109
+00:04:11,250 --> 00:04:13,349
+see this image doesn't have that white
+
+110
+00:04:13,349 --> 00:04:15,629
+it's sort of strange sort of a strange
+
+111
+00:04:15,629 --> 00:04:18,389
+image to make but that's the difference
+
+112
+00:04:18,389 --> 00:04:20,759
+between the two we have a jpg and a PNG
+
+113
+00:04:20,759 --> 00:04:23,880
+and let's right-click and go to I'll go
+
+114
+00:04:23,880 --> 00:04:26,120
+to properties on this one this one is
+
+115
+00:04:26,120 --> 00:04:27,930
+348
+
+116
+00:04:27,930 --> 00:04:30,300
+kilobytes this one if we go to
+
+117
+00:04:30,300 --> 00:04:32,820
+properties this one is 2 megabytes so
+
+118
+00:04:32,820 --> 00:04:34,590
+the JPEG is gonna be is going to be
+
+119
+00:04:34,590 --> 00:04:36,570
+smaller because it doesn't have as much
+
+120
+00:04:36,570 --> 00:04:38,700
+detail it's just white and then this one
+
+121
+00:04:38,700 --> 00:04:40,080
+has the transparency but it also
+
+122
+00:04:40,080 --> 00:04:41,850
+processes it processes the pixels a
+
+123
+00:04:41,850 --> 00:04:43,740
+little bit differently so this is about
+
+124
+00:04:43,740 --> 00:04:46,980
+five times larger than this then the
+
+125
+00:04:46,980 --> 00:04:48,780
+same image and there's ways we can
+
+126
+00:04:48,780 --> 00:04:50,850
+optimize that as well but just be aware
+
+127
+00:04:50,850 --> 00:04:52,950
+when you're working in transparency when
+
+128
+00:04:52,950 --> 00:04:54,660
+you add an alpha channel to an image it
+
+129
+00:04:54,660 --> 00:04:58,139
+is going to increase the size ok let's
+
+130
+00:04:58,139 --> 00:05:00,270
+go to let's look at another way that we
+
+131
+00:05:00,270 --> 00:05:02,100
+could get an image if we erase we've
+
+132
+00:05:02,100 --> 00:05:04,229
+closed out of this if we want to start
+
+133
+00:05:04,229 --> 00:05:06,660
+we go to file new we want to create a
+
+134
+00:05:06,660 --> 00:05:09,840
+document with a transparent background
+
+135
+00:05:09,840 --> 00:05:13,260
+to start with well if we go 1920 by 1080
+
+136
+00:05:13,260 --> 00:05:15,990
+and we go ok it creates oh this one did
+
+137
+00:05:15,990 --> 00:05:17,130
+it for us but that's because I was
+
+138
+00:05:17,130 --> 00:05:19,530
+playing with it earlier for you go to
+
+139
+00:05:19,530 --> 00:05:22,110
+Advanced Options this option here is
+
+140
+00:05:22,110 --> 00:05:25,200
+usually set to fill with background
+
+141
+00:05:25,200 --> 00:05:27,600
+color and when you do that it whatever
+
+142
+00:05:27,600 --> 00:05:29,430
+your background color is in this case
+
+143
+00:05:29,430 --> 00:05:31,950
+it's white for us it's this color right
+
+144
+00:05:31,950 --> 00:05:34,740
+over here whatever is selected there
+
+145
+00:05:34,740 --> 00:05:36,930
+when you create the new document it's
+
+146
+00:05:36,930 --> 00:05:40,020
+going to create that as your background
+
+147
+00:05:40,020 --> 00:05:42,090
+color it assumes you're working with a
+
+148
+00:05:42,090 --> 00:05:43,830
+blank white canvas and you want to
+
+149
+00:05:43,830 --> 00:05:45,630
+create art on top of that white canvas
+
+150
+00:05:45,630 --> 00:05:48,180
+or blue or red or whatever color you
+
+151
+00:05:48,180 --> 00:05:50,340
+have selected there but if you want to
+
+152
+00:05:50,340 --> 00:05:52,260
+create something like a logo like the
+
+153
+00:05:52,260 --> 00:05:54,060
+ icon or you want to create
+
+154
+00:05:54,060 --> 00:05:55,740
+something for our website it's a very
+
+155
+00:05:55,740 --> 00:05:57,060
+good idea to have transparency
+
+156
+00:05:57,060 --> 00:05:58,889
+especially you want to create some
+
+157
+00:05:58,889 --> 00:06:00,479
+contour and some shape besides a
+
+158
+00:06:00,479 --> 00:06:04,110
+rectangle or square so to do that we go
+
+159
+00:06:04,110 --> 00:06:06,479
+file new and then we click here under
+
+160
+00:06:06,479 --> 00:06:09,840
+Advanced Options and then under the fill
+
+161
+00:06:09,840 --> 00:06:11,700
+width we just say fill with the
+
+162
+00:06:11,700 --> 00:06:13,860
+transparency and that'll automatically
+
+163
+00:06:13,860 --> 00:06:17,070
+give us a transparent background and
+
+164
+00:06:17,070 --> 00:06:19,139
+automatically add an alpha channel in
+
+165
+00:06:19,139 --> 00:06:21,360
+there and so now we have a background
+
+166
+00:06:21,360 --> 00:06:23,669
+here something people will do is they'll
+
+167
+00:06:23,669 --> 00:06:25,950
+have a canvas like this they'll set up a
+
+168
+00:06:25,950 --> 00:06:28,500
+blank background and then they'll
+
+169
+00:06:28,500 --> 00:06:30,539
+right-click over here and go new layer
+
+170
+00:06:30,539 --> 00:06:32,610
+and they'll have their second layer and
+
+171
+00:06:32,610 --> 00:06:34,770
+they'll call this I don't know whatever
+
+172
+00:06:34,770 --> 00:06:36,750
+whatever they're drawing they'll call it
+
+173
+00:06:36,750 --> 00:06:38,700
+something over here and then they'll go
+
+174
+00:06:38,700 --> 00:06:40,409
+and then you can also choose when you're
+
+175
+00:06:40,409 --> 00:06:41,670
+creating a layer to fill it
+
+176
+00:06:41,670 --> 00:06:44,370
+with transparency or with white or with
+
+177
+00:06:44,370 --> 00:06:46,290
+a specific pattern or with the
+
+178
+00:06:46,290 --> 00:06:47,910
+background color foreground color but
+
+179
+00:06:47,910 --> 00:06:49,710
+maybe you'll say fill it with white and
+
+180
+00:06:49,710 --> 00:06:52,200
+then what you have is you still have a
+
+181
+00:06:52,200 --> 00:06:54,660
+white canvas you can still draw on here
+
+182
+00:06:54,660 --> 00:06:56,880
+what's big you can still draw and do
+
+183
+00:06:56,880 --> 00:06:59,670
+whatever you wanted to but then when you
+
+184
+00:06:59,670 --> 00:07:01,740
+want to erase you'll still be able to
+
+185
+00:07:01,740 --> 00:07:04,140
+erase if you wanted to you could erase
+
+186
+00:07:04,140 --> 00:07:06,690
+some of that white canvas to reveal the
+
+187
+00:07:06,690 --> 00:07:10,230
+true transparency behind it so again
+
+188
+00:07:10,230 --> 00:07:12,090
+real quick recap if we were to open up a
+
+189
+00:07:12,090 --> 00:07:14,490
+just an image from the desktop we
+
+190
+00:07:14,490 --> 00:07:16,350
+grabbed an image here we want to work
+
+191
+00:07:16,350 --> 00:07:16,860
+with it
+
+192
+00:07:16,860 --> 00:07:20,190
+we don't have transparency by default so
+
+193
+00:07:20,190 --> 00:07:22,110
+when we try to erase you races into
+
+194
+00:07:22,110 --> 00:07:24,270
+white if we want to have transparency
+
+195
+00:07:24,270 --> 00:07:27,060
+there you can also convert to if if you
+
+196
+00:07:27,060 --> 00:07:30,360
+accidentally you started erasing and you
+
+197
+00:07:30,360 --> 00:07:32,700
+you forgot and realized oh I wanted all
+
+198
+00:07:32,700 --> 00:07:34,680
+this stuff to be transparent and you
+
+199
+00:07:34,680 --> 00:07:36,750
+don't want to have to undo an add an add
+
+200
+00:07:36,750 --> 00:07:38,250
+transparency because if we add
+
+201
+00:07:38,250 --> 00:07:40,880
+transparency now it's going to just be
+
+202
+00:07:40,880 --> 00:07:43,200
+which now when we click it's going to be
+
+203
+00:07:43,200 --> 00:07:44,340
+it but the stuff we already did isn't
+
+204
+00:07:44,340 --> 00:07:46,770
+happening or isn't transparent so one
+
+205
+00:07:46,770 --> 00:07:48,180
+thing you can do is you can go up to
+
+206
+00:07:48,180 --> 00:07:50,580
+colors and then you go down to color to
+
+207
+00:07:50,580 --> 00:07:51,870
+alpha we wanted we don't want to adjust
+
+208
+00:07:51,870 --> 00:07:53,760
+yet because we need to select just a
+
+209
+00:07:53,760 --> 00:07:55,620
+certain color so we could use like the
+
+210
+00:07:55,620 --> 00:07:57,420
+magic wand selection we could select
+
+211
+00:07:57,420 --> 00:07:59,100
+this hold down shift it's like both of
+
+212
+00:07:59,100 --> 00:08:01,680
+these and then we can go to colors and
+
+213
+00:08:01,680 --> 00:08:04,560
+go to color to alpha and what that will
+
+214
+00:08:04,560 --> 00:08:06,570
+do is turn everything within that
+
+215
+00:08:06,570 --> 00:08:09,270
+selected area and that is this specific
+
+216
+00:08:09,270 --> 00:08:12,750
+color it turns it to alpha so that adds
+
+217
+00:08:12,750 --> 00:08:14,220
+it in there that's kind of a way to do
+
+218
+00:08:14,220 --> 00:08:16,260
+it we could shrink and grow that maybe
+
+219
+00:08:16,260 --> 00:08:18,090
+that a little bit differently so that's
+
+220
+00:08:18,090 --> 00:08:19,920
+just a quick look at transparency and
+
+221
+00:08:19,920 --> 00:08:21,480
+alpha we're going to be using it more in
+
+222
+00:08:21,480 --> 00:08:23,460
+future tutorials so I wanted to give a
+
+223
+00:08:23,460 --> 00:08:24,960
+quick introduction let you play with it
+
+224
+00:08:24,960 --> 00:08:27,270
+a little bit and mostly learn how you
+
+225
+00:08:27,270 --> 00:08:29,970
+can get an alpha channel or how you can
+
+226
+00:08:29,970 --> 00:08:33,240
+start working with transparency in
+
+227
+00:08:33,240 --> 00:08:35,130
+so hopefully found that informative
+
+228
+00:08:35,130 --> 00:08:36,299
+leave your questions or comments below
+
+229
+00:08:36,299 --> 00:08:38,130
+if you have any and I'll catch you in
+
+230
+00:08:38,130 --> 00:08:40,790
+the next video
+

@@ -1,0 +1,592 @@
+1
+00:00:01,760 --> 00:00:04,200
+when I bought my first digital camera
+
+2
+00:00:04,200 --> 00:00:06,359
+the first thing I did was Google the
+
+3
+00:00:06,359 --> 00:00:08,820
+most optimal settings for it many of the
+
+4
+00:00:08,820 --> 00:00:10,099
+good looking people on YouTube
+
+5
+00:00:10,099 --> 00:00:12,840
+recommended very specific settings such
+
+6
+00:00:12,840 --> 00:00:15,120
+as changing the color space or reducing
+
+7
+00:00:15,120 --> 00:00:17,580
+contrast and sharpness but no
+
+8
+00:00:17,580 --> 00:00:19,260
+explanations to why those settings
+
+9
+00:00:19,260 --> 00:00:21,240
+needed to be said
+
+10
+00:00:21,240 --> 00:00:23,400
+I think understanding the why will clear
+
+11
+00:00:23,400 --> 00:00:25,260
+up some of the misconceptions about
+
+12
+00:00:25,260 --> 00:00:28,080
+camera native files also known as raw
+
+13
+00:00:28,080 --> 00:00:31,500
+files just a side note I'll have to keep
+
+14
+00:00:31,500 --> 00:00:33,660
+saying raw but remember that I mean
+
+15
+00:00:33,660 --> 00:00:36,840
+camera native files after all each
+
+16
+00:00:36,840 --> 00:00:39,059
+camera model produces a different file
+
+17
+00:00:39,059 --> 00:00:41,420
+and it's not some Global open
+
+18
+00:00:41,420 --> 00:00:44,520
+interchangeable format I think raw is
+
+19
+00:00:44,520 --> 00:00:46,739
+misleading and confusing
+
+20
+00:00:46,739 --> 00:00:48,780
+but hey if that helps to get the point
+
+21
+00:00:48,780 --> 00:00:52,579
+across I'll continue saying roll
+
+22
+00:00:53,640 --> 00:00:56,219
+button tree aside I can pretty much sum
+
+23
+00:00:56,219 --> 00:00:58,379
+up the entirety of this video in one
+
+24
+00:00:58,379 --> 00:01:01,320
+sentence color space setting sharpness
+
+25
+00:01:01,320 --> 00:01:04,500
+contrast saturation settings and the
+
+26
+00:01:04,500 --> 00:01:06,659
+white balance setting has no effect on
+
+27
+00:01:06,659 --> 00:01:09,000
+the data that is captured by the sensor
+
+28
+00:01:09,000 --> 00:01:11,400
+while capturing raw files
+
+29
+00:01:11,400 --> 00:01:14,100
+now if you don't believe me and I hope
+
+30
+00:01:14,100 --> 00:01:16,200
+you don't stick around for a few minutes
+
+31
+00:01:16,200 --> 00:01:18,479
+while I climb down the ladder of image
+
+32
+00:01:18,479 --> 00:01:20,759
+making I have already dissected the
+
+33
+00:01:20,759 --> 00:01:23,220
+camera native raw file in another video
+
+34
+00:01:23,220 --> 00:01:25,320
+where I talked about the cause of ping
+
+35
+00:01:25,320 --> 00:01:27,600
+highlights the first part might be
+
+36
+00:01:27,600 --> 00:01:30,060
+beneficial to watch as well but a lot of
+
+37
+00:01:30,060 --> 00:01:31,640
+it will be repeated here and there
+
+38
+00:01:31,640 --> 00:01:34,320
+repetition is the illusion of knowledge
+
+39
+00:01:34,320 --> 00:01:37,140
+after all let's start from the beginning
+
+40
+00:01:37,140 --> 00:01:39,000
+the camera
+
+41
+00:01:39,000 --> 00:01:41,100
+when you turn on the raw mode in your
+
+42
+00:01:41,100 --> 00:01:43,860
+camera you usually have a choice raw
+
+43
+00:01:43,860 --> 00:01:48,360
+only raw plus jpeg or jpeg only this is
+
+44
+00:01:48,360 --> 00:01:50,220
+the important bit
+
+45
+00:01:50,220 --> 00:01:52,920
+even though we select raw only the
+
+46
+00:01:52,920 --> 00:01:55,079
+camera will embed a JPEG preview image
+
+47
+00:01:55,079 --> 00:01:58,579
+into the file so you can well preview it
+
+48
+00:01:58,579 --> 00:02:02,880
+otherwise as raw data file is data you
+
+49
+00:02:02,880 --> 00:02:05,460
+could not preview it in good phase so
+
+50
+00:02:05,460 --> 00:02:07,200
+the camera takes the settings that it
+
+51
+00:02:07,200 --> 00:02:09,598
+would apply to a JPEG and applies those
+
+52
+00:02:09,598 --> 00:02:12,180
+settings to the raw preview image that
+
+53
+00:02:12,180 --> 00:02:15,120
+preview is a formed image but a raw data
+
+54
+00:02:15,120 --> 00:02:17,640
+file is just captured data it is very
+
+55
+00:02:17,640 --> 00:02:19,379
+important to disconnect these two things
+
+56
+00:02:19,379 --> 00:02:21,599
+as it is where most of the confusion
+
+57
+00:02:21,599 --> 00:02:23,220
+stems from
+
+58
+00:02:23,220 --> 00:02:26,099
+so the settings namely white balance
+
+59
+00:02:26,099 --> 00:02:29,280
+color profile picture settings will be
+
+60
+00:02:29,280 --> 00:02:31,260
+applied to the preview of the raw file
+
+61
+00:02:31,260 --> 00:02:33,720
+but not its data some of the settings
+
+62
+00:02:33,720 --> 00:02:36,060
+you set in camera will be written as a
+
+63
+00:02:36,060 --> 00:02:38,220
+note for the photo editing software but
+
+64
+00:02:38,220 --> 00:02:40,260
+in no way will it affect the actual
+
+65
+00:02:40,260 --> 00:02:42,000
+captured data
+
+66
+00:02:42,000 --> 00:02:44,760
+okay let's put that to the test
+
+67
+00:02:44,760 --> 00:02:47,040
+first let's take a baseline shot of this
+
+68
+00:02:47,040 --> 00:02:51,360
+Polaroid I have set the iso to 6500k
+
+69
+00:02:51,360 --> 00:02:54,060
+color space to srgb
+
+70
+00:02:54,060 --> 00:02:56,940
+and creative style to standard with the
+
+71
+00:02:56,940 --> 00:02:59,480
+default settings
+
+72
+00:03:01,620 --> 00:03:04,379
+now let's randomize these settings
+
+73
+00:03:04,379 --> 00:03:06,540
+I'll completely break the white balance
+
+74
+00:03:06,540 --> 00:03:08,819
+setting by going it's custom and doing
+
+75
+00:03:08,819 --> 00:03:10,440
+whatever it takes to make it look as
+
+76
+00:03:10,440 --> 00:03:13,340
+weird as possible
+
+77
+00:03:19,440 --> 00:03:21,540
+same with the creative style let's
+
+78
+00:03:21,540 --> 00:03:23,580
+increase the contrast increase the
+
+79
+00:03:23,580 --> 00:03:27,360
+saturation and increase the sharpness
+
+80
+00:03:27,360 --> 00:03:32,239
+lastly let's swap to Adobe RGB
+
+81
+00:03:38,280 --> 00:03:40,920
+now you can see that these two files are
+
+82
+00:03:40,920 --> 00:03:43,260
+both raw and they differ incredibly
+
+83
+00:03:43,260 --> 00:03:45,599
+let's take these files into dark table
+
+84
+00:03:45,599 --> 00:03:48,120
+and let's start digging first thing
+
+85
+00:03:48,120 --> 00:03:50,220
+you'll notice that these two files still
+
+86
+00:03:50,220 --> 00:03:52,739
+look incredibly different everywhere in
+
+87
+00:03:52,739 --> 00:03:55,140
+dark table and that is because dark
+
+88
+00:03:55,140 --> 00:03:57,780
+table uses the embedded previews that
+
+89
+00:03:57,780 --> 00:03:59,819
+are embedded in the camera native raw
+
+90
+00:03:59,819 --> 00:04:01,200
+file
+
+91
+00:04:01,200 --> 00:04:03,900
+why because it's faster
+
+92
+00:04:03,900 --> 00:04:07,080
+let's keep it that way okay let's load
+
+93
+00:04:07,080 --> 00:04:10,140
+up the two photos into darkroom
+
+94
+00:04:10,140 --> 00:04:12,599
+what I will do first is I will get rid
+
+95
+00:04:12,599 --> 00:04:15,120
+of as many modules as possible these
+
+96
+00:04:15,120 --> 00:04:17,880
+modules help us get from data to an
+
+97
+00:04:17,880 --> 00:04:20,579
+image but we want to be as close to the
+
+98
+00:04:20,579 --> 00:04:23,280
+data part as possible some modules are
+
+99
+00:04:23,280 --> 00:04:25,320
+mandatory so we won't be able to disable
+
+100
+00:04:25,320 --> 00:04:28,020
+them we will be looking at nonsense for
+
+101
+00:04:28,020 --> 00:04:31,320
+a bit but bear with me let's take a
+
+102
+00:04:31,320 --> 00:04:32,400
+snapshot
+
+103
+00:04:32,400 --> 00:04:36,080
+and let's move to the other photo
+
+104
+00:04:38,520 --> 00:04:42,320
+disable all the modules once
+
+105
+00:04:44,820 --> 00:04:47,580
+you can see where this is going
+
+106
+00:04:47,580 --> 00:04:50,520
+I can enable the snapshot and we can do
+
+107
+00:04:50,520 --> 00:04:53,780
+a one-to-one comparison
+
+108
+00:04:54,240 --> 00:04:56,460
+besides the moving curtain
+
+109
+00:04:56,460 --> 00:05:00,860
+these two photos are identical
+
+110
+00:05:01,740 --> 00:05:04,759
+even zoom in
+
+111
+00:05:06,419 --> 00:05:09,800
+on the colorful part
+
+112
+00:05:11,520 --> 00:05:14,220
+take another snapshot and compare it to
+
+113
+00:05:14,220 --> 00:05:17,120
+the other one
+
+114
+00:05:17,419 --> 00:05:21,259
+see no difference
+
+115
+00:05:22,800 --> 00:05:26,900
+even enable the white balance modules
+
+116
+00:05:27,600 --> 00:05:31,820
+and make sure they are set to d65
+
+117
+00:05:33,900 --> 00:05:36,620
+still the same
+
+118
+00:05:37,620 --> 00:05:40,259
+we can also enable the color calibration
+
+119
+00:05:40,259 --> 00:05:41,400
+module
+
+120
+00:05:41,400 --> 00:05:44,759
+just make sure the values are identical
+
+121
+00:05:44,759 --> 00:05:48,300
+four six three seven
+
+122
+00:05:48,300 --> 00:05:51,900
+that's daylight
+
+123
+00:05:52,620 --> 00:05:55,320
+four six three seven
+
+124
+00:05:55,320 --> 00:05:57,600
+and that's how you arrive at an
+
+125
+00:05:57,600 --> 00:05:59,220
+identical result
+
+126
+00:05:59,220 --> 00:06:01,020
+and there it is
+
+127
+00:06:01,020 --> 00:06:03,960
+we have two identical photos that were
+
+128
+00:06:03,960 --> 00:06:05,160
+captured with completely different
+
+129
+00:06:05,160 --> 00:06:07,440
+settings
+
+130
+00:06:07,440 --> 00:06:11,340
+and they're both look exactly the same
+
+131
+00:06:11,340 --> 00:06:13,620
+just a reminder all these settings will
+
+132
+00:06:13,620 --> 00:06:16,860
+affect your videos and JPEG files and
+
+133
+00:06:16,860 --> 00:06:18,900
+you have to absolutely nail them in
+
+134
+00:06:18,900 --> 00:06:20,880
+order to preserve as much information as
+
+135
+00:06:20,880 --> 00:06:21,900
+possible
+
+136
+00:06:21,900 --> 00:06:24,240
+for raw capturing instead of a
+
+137
+00:06:24,240 --> 00:06:25,500
+conclusion I'll give you a
+
+138
+00:06:25,500 --> 00:06:26,880
+recommendation
+
+139
+00:06:26,880 --> 00:06:29,280
+adjust these settings to your own taste
+
+140
+00:06:29,280 --> 00:06:31,560
+to get previews that closely match your
+
+141
+00:06:31,560 --> 00:06:33,419
+raw developing Style
+
+142
+00:06:33,419 --> 00:06:36,300
+if you like contrast give it a boost if
+
+143
+00:06:36,300 --> 00:06:38,280
+you like the saturated colors increase
+
+144
+00:06:38,280 --> 00:06:41,100
+the saturation most importantly feel
+
+145
+00:06:41,100 --> 00:06:42,780
+free to keep the white balance on your
+
+146
+00:06:42,780 --> 00:06:45,300
+camera to Auto unless you're one of
+
+147
+00:06:45,300 --> 00:06:47,220
+those people who carry a gray card in
+
+148
+00:06:47,220 --> 00:06:49,759
+their wallets
+

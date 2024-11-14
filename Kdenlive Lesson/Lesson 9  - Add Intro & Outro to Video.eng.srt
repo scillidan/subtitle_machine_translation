@@ -1,0 +1,912 @@
+1
+00:00:02,690 --> 00:00:05,070
+welcome back to another video editing
+
+2
+00:00:05,070 --> 00:00:06,420
+tutorial using the free software
+
+3
+00:00:06,420 --> 00:00:09,509
+kdenlive in this video i'm going to be
+
+4
+00:00:09,509 --> 00:00:11,849
+showing you my workflow for using
+
+5
+00:00:11,849 --> 00:00:14,759
+kdenlive when i edit my youtube videos
+
+6
+00:00:14,759 --> 00:00:17,670
+to upload them to youtube so what I have
+
+7
+00:00:17,670 --> 00:00:19,500
+is actually a couple different videos I
+
+8
+00:00:19,500 --> 00:00:23,689
+have my intro screen looks like this
+
+9
+00:00:24,710 --> 00:00:28,740
+it's just one mp4 video and I also have
+
+10
+00:00:28,740 --> 00:00:31,009
+my outro screen it looks like this and
+
+11
+00:00:31,009 --> 00:00:33,900
+it's just out row that plays for I
+
+12
+00:00:33,900 --> 00:00:36,090
+believe 6 seconds and this is where my
+
+13
+00:00:36,090 --> 00:00:38,820
+videos go this is a nothing's happening
+
+14
+00:00:38,820 --> 00:00:42,330
+here but I still made a video just
+
+15
+00:00:42,330 --> 00:00:44,820
+because so I'm going to drag both of
+
+16
+00:00:44,820 --> 00:00:48,000
+these in to my project bin and then most
+
+17
+00:00:48,000 --> 00:00:50,220
+of the time I actually don't have to so
+
+18
+00:00:50,220 --> 00:00:51,870
+I'm recording with OBS I'm recording
+
+19
+00:00:51,870 --> 00:00:53,910
+right now this is my screen recording
+
+20
+00:00:53,910 --> 00:00:56,940
+that I'm doing to do this video but also
+
+21
+00:00:56,940 --> 00:01:00,930
+I mean when those are done I everything
+
+22
+00:01:00,930 --> 00:01:03,410
+go it gets saved to this OBS video
+
+23
+00:01:03,410 --> 00:01:06,900
+folder on a separate 500 gigabyte hard
+
+24
+00:01:06,900 --> 00:01:09,240
+drive on my computer so this is the
+
+25
+00:01:09,240 --> 00:01:11,640
+video I'm recording right now but if I
+
+26
+00:01:11,640 --> 00:01:13,830
+these are all the like the kdenlive
+
+27
+00:01:13,830 --> 00:01:15,930
+tutorials I've been making and a couple
+
+28
+00:01:15,930 --> 00:01:17,880
+of them needs some edits so this lesson
+
+29
+00:01:17,880 --> 00:01:20,850
+8 one needs an edit all the rest of my
+
+30
+00:01:20,850 --> 00:01:22,110
+backs are pretty good to go but so I'm
+
+31
+00:01:22,110 --> 00:01:25,560
+going to do the lesson 8 1 so will bring
+
+32
+00:01:25,560 --> 00:01:26,909
+less than 8 in and the reason it needs
+
+33
+00:01:26,909 --> 00:01:29,070
+an edit is the only part I want to edit
+
+34
+00:01:29,070 --> 00:01:31,920
+from this one was speaking up the
+
+35
+00:01:31,920 --> 00:01:33,450
+rendering time I think I rendered out a
+
+36
+00:01:33,450 --> 00:01:35,610
+video and it took about a minute and a
+
+37
+00:01:35,610 --> 00:01:37,350
+half I just didn't want to have you the
+
+38
+00:01:37,350 --> 00:01:39,420
+viewer be waiting a minute and a half so
+
+39
+00:01:39,420 --> 00:01:40,860
+I'm just gonna speed that portion of the
+
+40
+00:01:40,860 --> 00:01:43,140
+video up so I'll show you how to do that
+
+41
+00:01:43,140 --> 00:01:45,750
+so first of all I want to drag in oh and
+
+42
+00:01:45,750 --> 00:01:48,060
+also so all these video clips if you
+
+43
+00:01:48,060 --> 00:01:50,820
+have VLC installed you can check but I
+
+44
+00:01:50,820 --> 00:01:52,560
+go to play the video back to another
+
+45
+00:01:52,560 --> 00:01:58,740
+video and we can go to or dad tools and
+
+46
+00:01:58,740 --> 00:02:01,530
+then codec information under VLC if you
+
+47
+00:02:01,530 --> 00:02:03,630
+have VLC installed and it will tell you
+
+48
+00:02:03,630 --> 00:02:06,299
+so this is 1920 by 1080 awesome the
+
+49
+00:02:06,299 --> 00:02:08,219
+frame rate is 60 frames per second
+
+50
+00:02:08,219 --> 00:02:11,609
+awesome and this is like just some more
+
+51
+00:02:11,609 --> 00:02:13,170
+information about it and so actually all
+
+52
+00:02:13,170 --> 00:02:14,010
+of my video
+
+53
+00:02:14,010 --> 00:02:16,319
+our that so if I go to my other ones
+
+54
+00:02:16,319 --> 00:02:17,370
+like this
+
+55
+00:02:17,370 --> 00:02:20,360
+outro even though it's just a still
+
+56
+00:02:20,360 --> 00:02:23,220
+nothing's happening we can just we can
+
+57
+00:02:23,220 --> 00:02:24,959
+still go to codec information and look
+
+58
+00:02:24,959 --> 00:02:28,829
+alright 60fps 1920 by 1080 so I made
+
+59
+00:02:28,829 --> 00:02:31,319
+sure that all of my video clips are 60
+
+60
+00:02:31,319 --> 00:02:34,500
+frames per second 1920 by 1080 and for a
+
+61
+00:02:34,500 --> 00:02:36,450
+screenshot 60fps is really kind of
+
+62
+00:02:36,450 --> 00:02:38,010
+overkill I'm still deciding I'll
+
+63
+00:02:38,010 --> 00:02:39,269
+probably go back down to 30
+
+64
+00:02:39,269 --> 00:02:42,540
+but for now I'm doing 60fps so what I
+
+65
+00:02:42,540 --> 00:02:44,489
+need to do is go to my project project
+
+66
+00:02:44,489 --> 00:02:47,190
+settings and change my project to a
+
+67
+00:02:47,190 --> 00:02:53,129
+60fps 1080p project changing the profile
+
+68
+00:02:53,129 --> 00:02:55,590
+on your project cannot be undone okay
+
+69
+00:02:55,590 --> 00:02:58,590
+continue so perfect there we go if I
+
+70
+00:02:58,590 --> 00:03:00,030
+wouldn't have done that I would have had
+
+71
+00:03:00,030 --> 00:03:01,859
+issues I would have been creating a
+
+72
+00:03:01,859 --> 00:03:03,569
+video that was 30 frames per second
+
+73
+00:03:03,569 --> 00:03:05,609
+using footage that was 60 frames per
+
+74
+00:03:05,609 --> 00:03:07,409
+second so I would have had some sync
+
+75
+00:03:07,409 --> 00:03:09,389
+issues with my audio and it would have
+
+76
+00:03:09,389 --> 00:03:13,109
+not been pretty alright so first of all
+
+77
+00:03:13,109 --> 00:03:14,879
+I'm going to drag in my intro and put it
+
+78
+00:03:14,879 --> 00:03:16,019
+on video track 1
+
+79
+00:03:16,019 --> 00:03:18,449
+I started at 0 seconds there then I'm
+
+80
+00:03:18,449 --> 00:03:21,329
+gonna grab in my main part of the video
+
+81
+00:03:21,329 --> 00:03:24,269
+and just put it right here and I'll
+
+82
+00:03:24,269 --> 00:03:27,359
+scroll to the end of this video it's
+
+83
+00:03:27,359 --> 00:03:29,970
+quite long and I'll put my outro right
+
+84
+00:03:29,970 --> 00:03:33,299
+at the end and actually outro I usually
+
+85
+00:03:33,299 --> 00:03:35,099
+like to put up on track 2 and overlap it
+
+86
+00:03:35,099 --> 00:03:36,780
+a little bit so this is ooh man let's do
+
+87
+00:03:36,780 --> 00:03:40,459
+what we'll do the intro first actually
+
+88
+00:03:41,510 --> 00:03:47,389
+so let me come here whoa where's it at
+
+89
+00:03:48,949 --> 00:03:51,090
+alright so I'm just going to watch and
+
+90
+00:03:51,090 --> 00:03:52,680
+see how it looks with my intro and
+
+91
+00:03:52,680 --> 00:03:57,930
+transitioning into the video welcome
+
+92
+00:03:57,930 --> 00:04:01,769
+back some green flashes but that I think
+
+93
+00:04:01,769 --> 00:04:03,030
+it's just gonna happen in my play black
+
+94
+00:04:03,030 --> 00:04:07,019
+play back welcome back I don't think
+
+95
+00:04:07,019 --> 00:04:08,159
+those green flashes will be there but
+
+96
+00:04:08,159 --> 00:04:09,030
+we'll see for sure
+
+97
+00:04:09,030 --> 00:04:12,989
+ok so I had a little bit of a little bit
+
+98
+00:04:12,989 --> 00:04:14,299
+of time here so I'm gonna actually
+
+99
+00:04:14,299 --> 00:04:17,310
+shorten this just a teeny tiny bit to
+
+100
+00:04:17,310 --> 00:04:20,209
+get rid of that little click
+
+101
+00:04:23,050 --> 00:04:25,360
+welcome back to another video editing
+
+102
+00:04:25,360 --> 00:04:27,129
+perfect so this is how this will start
+
+103
+00:04:27,129 --> 00:04:29,530
+and then at some point in this video I
+
+104
+00:04:29,530 --> 00:04:31,960
+need to actually edit I gotta find this
+
+105
+00:04:31,960 --> 00:04:36,909
+the part that I'm exporting out and I'm
+
+106
+00:04:36,909 --> 00:04:38,169
+just gonna speed up the video during
+
+107
+00:04:38,169 --> 00:04:39,639
+that portion so let me find that real
+
+108
+00:04:39,639 --> 00:04:44,139
+quick oh this is it right here perfect
+
+109
+00:04:44,139 --> 00:04:45,789
+so I can see on the screen that it's
+
+110
+00:04:45,789 --> 00:04:47,229
+doing it okay so let's go back a little
+
+111
+00:04:47,229 --> 00:04:49,000
+bit before see what's happening at this
+
+112
+00:04:49,000 --> 00:04:52,060
+portion let's go to render will render
+
+113
+00:04:52,060 --> 00:04:53,949
+it select the zone and we'll save it to
+
+114
+00:04:53,949 --> 00:04:58,440
+the desktop and we'll call it a whoops
+
+115
+00:04:58,440 --> 00:05:01,240
+we'll just call it something and then
+
+116
+00:05:01,240 --> 00:05:03,069
+we'll make sure it's an mp4 I like to
+
+117
+00:05:03,069 --> 00:05:04,330
+you could do WebM but
+
+118
+00:05:04,330 --> 00:05:07,479
+mp4 is kind of this a good standard for
+
+119
+00:05:07,479 --> 00:05:11,069
+uploading to like Facebook or YouTube
+
+120
+00:05:12,060 --> 00:05:16,659
+video we render this out okay so right
+
+121
+00:05:16,659 --> 00:05:18,280
+here after I said I want to pause the
+
+122
+00:05:18,280 --> 00:05:20,409
+video while we render it out I'm going
+
+123
+00:05:20,409 --> 00:05:22,840
+to grab my razor tool I'm going to cut
+
+124
+00:05:22,840 --> 00:05:26,159
+the video clip right here I'm gonna play
+
+125
+00:05:26,159 --> 00:05:28,300
+well not really play actually I guess I
+
+126
+00:05:28,300 --> 00:05:29,979
+can just skip forward and look I can
+
+127
+00:05:29,979 --> 00:05:32,199
+kind of see that progress bar so I want
+
+128
+00:05:32,199 --> 00:05:33,280
+to go tell the progress bar is
+
+129
+00:05:33,280 --> 00:05:40,509
+completely done or almost done even grab
+
+130
+00:05:40,509 --> 00:05:42,759
+it right there and then I will grab my
+
+131
+00:05:42,759 --> 00:05:45,490
+razor tool and cut the video again then
+
+132
+00:05:45,490 --> 00:05:47,919
+go to my selection tool select this
+
+133
+00:05:47,919 --> 00:05:50,529
+video and I could just I could just
+
+134
+00:05:50,529 --> 00:05:52,690
+delete this all the way out but maybe
+
+135
+00:05:52,690 --> 00:05:54,340
+just kind of be fun let's just apply a
+
+136
+00:05:54,340 --> 00:05:57,630
+speed effect and let's actually have it
+
+137
+00:05:57,630 --> 00:06:01,900
+oops I've done effect speed and we'll
+
+138
+00:06:01,900 --> 00:06:04,240
+drag speed down onto this and we'll just
+
+139
+00:06:04,240 --> 00:06:07,389
+make it be a thousand percent instead of
+
+140
+00:06:07,389 --> 00:06:10,810
+a hundred percent perfect now it's nice
+
+141
+00:06:10,810 --> 00:06:16,029
+and short and now I think we can play
+
+142
+00:06:16,029 --> 00:06:17,199
+and see but it might be a little bit
+
+143
+00:06:17,199 --> 00:06:23,909
+laggy the video
+
+144
+00:06:28,280 --> 00:06:30,629
+and it'll actually play a lot faster
+
+145
+00:06:30,629 --> 00:06:34,009
+than that okay so that took about the 47
+
+146
+00:06:34,009 --> 00:06:37,919
+let me see how fast this is yeah in fact
+
+147
+00:06:37,919 --> 00:06:40,139
+I'm gonna do two thousand percent you
+
+148
+00:06:40,139 --> 00:06:41,249
+guys as time is valuable
+
+149
+00:06:41,249 --> 00:06:44,370
+let's make this super short okay there
+
+150
+00:06:44,370 --> 00:06:46,259
+we go alright and then I have to go back
+
+151
+00:06:46,259 --> 00:06:47,550
+and because I just kind of shortened
+
+152
+00:06:47,550 --> 00:06:48,779
+this video a little bit I'm going to
+
+153
+00:06:48,779 --> 00:06:51,870
+bring my outro and put it right here and
+
+154
+00:06:51,870 --> 00:06:53,699
+the reason I overlap it a little bit is
+
+155
+00:06:53,699 --> 00:06:55,050
+just because it's usually a little bit
+
+156
+00:06:55,050 --> 00:06:57,090
+of empty space or silent space at the
+
+157
+00:06:57,090 --> 00:07:02,610
+end of my videos next one okay so
+
+158
+00:07:02,610 --> 00:07:04,620
+actually about right I guess this didn't
+
+159
+00:07:04,620 --> 00:07:09,210
+have a whole lot maybe that's good but I
+
+160
+00:07:09,210 --> 00:07:16,710
+bet I catch on next one cool all right
+
+161
+00:07:16,710 --> 00:07:19,680
+I'm gonna render this out and I guess
+
+162
+00:07:19,680 --> 00:07:20,789
+this is gonna be a similar situation
+
+163
+00:07:20,789 --> 00:07:22,349
+because this is gonna take a while to
+
+164
+00:07:22,349 --> 00:07:24,389
+render I don't click render and we're
+
+165
+00:07:24,389 --> 00:07:28,469
+gonna go to mp4 we're gonna choose the
+
+166
+00:07:28,469 --> 00:07:33,539
+file name so I will render it - I'm
+
+167
+00:07:33,539 --> 00:07:34,919
+gonna put it here I'll put it in this
+
+168
+00:07:34,919 --> 00:07:37,860
+folder right here I'll just call it Kade
+
+169
+00:07:37,860 --> 00:07:43,139
+and live lesson 8 fixed and I'll hit
+
+170
+00:07:43,139 --> 00:07:46,589
+save alright so mp4 it's gonna render
+
+171
+00:07:46,589 --> 00:07:48,089
+according to our project settings with
+
+172
+00:07:48,089 --> 00:07:50,250
+this which is 60 frames per second 1920
+
+173
+00:07:50,250 --> 00:07:54,479
+by 1080 and I'll hit render to file and
+
+174
+00:07:54,479 --> 00:07:55,919
+then I'm gonna have to also pause this
+
+175
+00:07:55,919 --> 00:07:58,800
+video and speed it up so it's just like
+
+176
+00:07:58,800 --> 00:08:02,370
+a never-ending video editing project but
+
+177
+00:08:02,370 --> 00:08:04,199
+I'm curious here so it says waiting it's
+
+178
+00:08:04,199 --> 00:08:05,789
+actually taking a little bit of a second
+
+179
+00:08:05,789 --> 00:08:07,979
+to get this going I wonder why okay
+
+180
+00:08:07,979 --> 00:08:09,899
+there it goes so it's gonna be 23
+
+181
+00:08:09,899 --> 00:08:12,509
+minutes to render out this nine minute
+
+182
+00:08:12,509 --> 00:08:16,889
+video that's interesting okay so that's
+
+183
+00:08:16,889 --> 00:08:19,259
+done encoding now and we can close this
+
+184
+00:08:19,259 --> 00:08:21,419
+we can go and take a look and see where
+
+185
+00:08:21,419 --> 00:08:22,860
+our finished product looks like make
+
+186
+00:08:22,860 --> 00:08:25,729
+sure doesn't have those green flashing
+
+187
+00:08:25,729 --> 00:08:29,870
+things so this is the file
+
+188
+00:08:30,260 --> 00:08:32,760
+welcome back to another video editing
+
+189
+00:08:32,760 --> 00:08:34,200
+tutorial using the free software
+
+190
+00:08:34,200 --> 00:08:37,110
+kdenlive in this video we're going to be
+
+191
+00:08:37,110 --> 00:08:41,760
+and I like to actually skip forward a
+
+192
+00:08:41,760 --> 00:08:43,080
+little bit I have to watch certain parts
+
+193
+00:08:43,080 --> 00:08:46,230
+of it sometimes certain objects like
+
+194
+00:08:46,230 --> 00:08:48,390
+transparent layers not in kdenlive just
+
+195
+00:08:48,390 --> 00:08:51,210
+in video in general sometimes certain
+
+196
+00:08:51,210 --> 00:08:52,950
+portions of video don't display the way
+
+197
+00:08:52,950 --> 00:08:54,630
+you think they're going to so I just
+
+198
+00:08:54,630 --> 00:08:55,980
+like to go through and watch and listen
+
+199
+00:08:55,980 --> 00:09:01,650
+make sure the audio is on track with
+
+200
+00:09:01,650 --> 00:09:04,230
+everything and then that way I know it's
+
+201
+00:09:04,230 --> 00:09:05,400
+a good video and this looks like it's
+
+202
+00:09:05,400 --> 00:09:16,680
+good cool
+
+203
+00:09:16,680 --> 00:09:19,020
+very good so that's my workflow using
+
+204
+00:09:19,020 --> 00:09:21,270
+kdenlive and actually I'll release
+
+205
+00:09:21,270 --> 00:09:22,800
+another video but just recently I
+
+206
+00:09:22,800 --> 00:09:26,010
+started using a batch script or like a
+
+207
+00:09:26,010 --> 00:09:28,440
+shell script to do batching batch
+
+208
+00:09:28,440 --> 00:09:30,870
+editing on these videos so now what I do
+
+209
+00:09:30,870 --> 00:09:33,959
+I just take the entire folder and I just
+
+210
+00:09:33,959 --> 00:09:35,820
+have a little script that uses ffmpeg
+
+211
+00:09:35,820 --> 00:09:37,529
+and it goes through and actually just
+
+212
+00:09:37,529 --> 00:09:39,810
+adds the intro and the outro to every
+
+213
+00:09:39,810 --> 00:09:41,130
+one of them I'm still kind of
+
+214
+00:09:41,130 --> 00:09:42,950
+fine-tuning it but when I get that
+
+215
+00:09:42,950 --> 00:09:45,600
+working really well I'll release a video
+
+216
+00:09:45,600 --> 00:09:47,220
+and show you that workflow saves a ton
+
+217
+00:09:47,220 --> 00:09:50,610
+of time not having to edit all of them
+
+218
+00:09:50,610 --> 00:09:52,709
+and actually I'm trying to get it so I
+
+219
+00:09:52,709 --> 00:09:54,270
+don't have to actually re-encode so
+
+220
+00:09:54,270 --> 00:09:55,860
+instead of waiting like 20 minutes to
+
+221
+00:09:55,860 --> 00:09:58,700
+encode on the processor I can just
+
+222
+00:09:58,700 --> 00:10:01,500
+actually add in since they're all mp4s I
+
+223
+00:10:01,500 --> 00:10:03,390
+can actually just add them all together
+
+224
+00:10:03,390 --> 00:10:07,020
+and it's a very quick process anyway
+
+225
+00:10:07,020 --> 00:10:08,550
+that's my workflow for kdenlive
+
+226
+00:10:08,550 --> 00:10:10,200
+appreciate you watching like and
+
+227
+00:10:10,200 --> 00:10:11,370
+subscribe if you found this informative
+
+228
+00:10:11,370 --> 00:10:14,930
+and I'll catch you on the next video
+

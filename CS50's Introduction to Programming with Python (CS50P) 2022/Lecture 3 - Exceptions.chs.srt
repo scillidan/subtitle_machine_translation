@@ -1,0 +1,4961 @@
+
+1
+00:00:00,984 --> 00:00:03,936
+[音乐播放]
+[MUSIC PLAYING]
+
+2
+00:00:24,120 --> 00:00:27,330
+大卫·马兰：好了 这是CS50的S介绍
+DAVID MALAN: All right, this is CS50's introduction
+
+3
+00:00:27,330 --> 00:00:28,770
+到使用Python语言编程 
+to programming with Python.
+
+4
+00:00:28,770 --> 00:00:29,820
+我叫大卫·马兰 
+My name is David Malan.
+
+5
+00:00:29,820 --> 00:00:31,950
+本周是我们的例外周 
+And this is our week on exceptions.
+
+6
+00:00:31,950 --> 00:00:35,010
+Python和其他编程语言中的异常
+Exceptions in Python as well as in other programming languages
+
+7
+00:00:35,010 --> 00:00:37,290
+请参阅代码中的问题 
+refer to problems in your code.
+
+8
+00:00:37,290 --> 00:00:40,090
+事实上 当你的程序中有一些特殊的东西时 
+Indeed, when something is exceptional in your program,
+
+9
+00:00:40,090 --> 00:00:41,950
+这实际上并不意味着这是一件好事 
+it actually doesn't mean it's a good thing.
+
+10
+00:00:41,950 --> 00:00:45,518
+这意味着有些事情出了问题 理想情况下 你会设法解决的 
+It means something has gone wrong that, ideally, you will somehow solve.
+
+11
+00:00:45,518 --> 00:00:47,560
+那么 有哪些事情可能会出错呢？
+So what are some of the things that can go wrong?
+
+12
+00:00:47,560 --> 00:00:50,520
+因此 我将继续在我的计算机上打开VS Code 
+So I'm going to go ahead and open up VS Code on my computer here.
+
+13
+00:00:50,520 --> 00:00:54,638
+在终端窗口中 我将继续运行hello.py的代码 
+And in the terminal window, I'm going to go ahead and run code of hello.py.
+
+14
+00:00:54,638 --> 00:00:56,430
+当然 这将开启一个品牌
+That's going to, of course, open up a brand
+
+15
+00:00:56,430 --> 00:00:59,287
+我的新选项卡hello.py 我可以在其中编写代码 
+new tab for me, hello.py, in which I can write my code.
+
+16
+00:00:59,287 --> 00:01:01,620
+让我继续编写一些非常简单的代码
+And let me go ahead and write some very simple code just
+
+17
+00:01:01,620 --> 00:01:03,190
+向世界问好 
+to say hello to the world.
+
+18
+00:01:03,190 --> 00:01:05,430
+让我们来打个招呼：“你好 世界 
+Let's go ahead and say print "hello, world.
+
+19
+00:01:08,130 --> 00:01:10,470
+然后让我继续 然后--
+And then let me go ahead and--
+
+20
+00:01:10,470 --> 00:01:12,420
+我忘了结束那句引语了 
+I'm forgetting to close that quote.
+
+21
+00:01:12,420 --> 00:01:14,670
+所以你自己可能已经犯了一个错误
+So a mistake that you yourself might have already made
+
+22
+00:01:14,670 --> 00:01:17,370
+或者肯定会在未来制造--这有点微妙
+or might surely in the future make-- and it's a little subtle
+
+23
+00:01:17,370 --> 00:01:19,320
+因为你可能不一定会注意到你刚刚
+because you might not necessarily notice that you've just
+
+24
+00:01:19,320 --> 00:01:20,580
+错过了这一个角色 
+missed that one character.
+
+25
+00:01:20,580 --> 00:01:23,400
+好吧 让我乐观地说下去
+Well, let me go ahead and somewhat optimistically
+
+26
+00:01:23,400 --> 00:01:28,200
+现在转到我的终端窗口 运行hello.py的Python并按Enter键 
+go down to my terminal window now and run Python of hello.py and hit Enter.
+
+27
+00:01:28,200 --> 00:01:29,970
+这是我犯的第一个错误 
+And that's the first of my errors.
+
+28
+00:01:29,970 --> 00:01:31,830
+天哪 我只写了一行代码 
+My gosh, I've only written one line of code.
+
+29
+00:01:31,830 --> 00:01:34,350
+而且我的屏幕上似乎有更多的错误行 
+And I seem to have more lines of errors on the screen.
+
+30
+00:01:34,350 --> 00:01:37,090
+但突出的一点是这里最底层的东西 
+But the salient point is this bottom-most thing here.
+
+31
+00:01:37,090 --> 00:01:39,030
+请注意它显示语法错误的位置 
+Notice where it says syntax error.
+
+32
+00:01:39,030 --> 00:01:43,140
+语法错误是您键入的代码、您的语法有问题 
+A syntax error is a problem with the code that you have typed, your syntax.
+
+33
+00:01:43,140 --> 00:01:45,000
+就像英语和其他人类语言一样
+Just like English and other human languages
+
+34
+00:01:45,000 --> 00:01:47,670
+有与之相关的语法 我的代码也是如此 
+have syntax associated with them, so does my code.
+
+35
+00:01:47,670 --> 00:01:49,170
+而且这并不完全正确 
+And it's not quite correct.
+
+36
+00:01:49,170 --> 00:01:50,370
+有些事不对劲 
+Something is awry.
+
+37
+00:01:50,370 --> 00:01:52,380
+我没有完全按照指示去做 
+I didn't follow the instructions properly.
+
+38
+00:01:52,380 --> 00:01:56,130
+而且它确实为我详细说明了 未终止的字符串文字 
+And it does elaborate for me, unterminated string literal.
+
+39
+00:01:56,130 --> 00:01:57,360
+现在 这有点神秘 
+Now, that's a bit arcane.
+
+40
+00:01:57,360 --> 00:01:59,370
+这是一个有点令人困惑的错误消息 
+That is a bit of a confusing error message.
+
+41
+00:01:59,370 --> 00:02:01,800
+但未终止通常意味着我
+But unterminated would generally mean that I
+
+42
+00:02:01,800 --> 00:02:03,960
+引发了一些事情 但并没有阻止它 
+started something but didn't stop it.
+
+43
+00:02:03,960 --> 00:02:05,070
+我没有终止它 
+I didn't terminate it.
+
+44
+00:02:05,070 --> 00:02:08,310
+当然 字符串是一个文本序列 就像我们之前讨论过的那样--
+String, of course, is a sequence of text, like we've discussed before--
+
+45
+00:02:08,310 --> 00:02:09,750
+或者在Python中搅拌 
+or stir in Python.
+
+46
+00:02:09,750 --> 00:02:13,020
+而字面意思通常是指你按字面意思打字的东西 
+And literal generally refers to something that you literally typed.
+
+47
+00:02:13,020 --> 00:02:14,100
+它不是一个变量 
+It's not a variable.
+
+48
+00:02:14,100 --> 00:02:15,990
+这就像是引号--
+It's something like quote unquote--
+
+49
+00:02:15,990 --> 00:02:18,120
+或者只说“你好 世界 
+or just "hello world.
+
+50
+00:02:18,120 --> 00:02:20,790
+所以 这里的解决办法当然是
+So the fix here, of course, is going to be
+
+51
+00:02:20,790 --> 00:02:24,660
+继续并终止该字符串 并实际结束引号 
+to go ahead and terminate that string and actually close the quote.
+
+52
+00:02:24,660 --> 00:02:27,150
+如果我现在回到我的终端窗口
+And if I now go back down into my terminal window
+
+53
+00:02:27,150 --> 00:02:31,870
+重新运行hello.py的Python 现在我要向世界问好了 
+and rerun Python of hello.py, now I'm saying hello to the world.
+
+54
+00:02:31,870 --> 00:02:36,510
+因此 这里语法错误的问题是 语法错误完全是
+So the catch with syntax errors here is that syntax errors are entirely
+
+55
+00:02:36,510 --> 00:02:37,560
+由你来解决 
+on you to solve.
+
+56
+00:02:37,560 --> 00:02:40,560
+语法错误是一个问题 您必须返回到代码中
+A syntax error is a problem that you've got to go back into your code
+
+57
+00:02:40,560 --> 00:02:41,760
+从一开始就解决问题 
+and fix from the get-go.
+
+58
+00:02:41,760 --> 00:02:43,890
+你不能只希望它会
+You can't just kind of hope that it's going
+
+59
+00:02:43,890 --> 00:02:47,280
+来自行解决 或者期望代码的其他部分
+to resolve itself or expect that other parts of your code
+
+60
+00:02:47,280 --> 00:02:48,300
+会帮你抓到的 
+will catch it for you.
+
+61
+00:02:48,300 --> 00:02:50,610
+语法错误只是必须被修复 
+Syntax errors just must be fixed.
+
+62
+00:02:50,610 --> 00:02:53,340
+但是在Python中还有很多其他类型的错误
+But there's a lot of other types of errors in Python
+
+63
+00:02:53,340 --> 00:02:55,920
+这可能被描述为运行时错误 
+that might be described as runtime errors, that
+
+64
+00:02:55,920 --> 00:02:57,940
+在代码运行时发生 
+happen while your code is running.
+
+65
+00:02:57,940 --> 00:03:01,680
+这真的是由您来编写一些额外的防御性代码
+And it's really up to you to write some additional code defensively
+
+66
+00:03:01,680 --> 00:03:05,320
+来检测这些错误何时发生 因为你不一定知道 
+to detect when those errors happen because you don't necessarily know,
+
+67
+00:03:05,320 --> 00:03:08,590
+例如 人类将在您的程序中输入什么输入 
+for instance, what input humans are going to type into your program.
+
+68
+00:03:08,590 --> 00:03:11,760
+所以你最好做好准备 防御性的 去适应
+And so you better be ready, defensively, to accommodate things
+
+69
+00:03:11,760 --> 00:03:13,830
+他们打字 甚至打错字 
+that they type or even misstype.
+
+70
+00:03:13,830 --> 00:03:17,100
+所以 举个例子 让我们回到VS代码 
+So, for instance, let's go back over here to VS Code.
+
+71
+00:03:17,100 --> 00:03:20,730
+让我提议我们一起来看一份新文件 
+And let me propose that we take a look at a new file all together.
+
+72
+00:03:20,730 --> 00:03:22,290
+我将关闭hello.py 
+I'm going to close hello.py.
+
+73
+00:03:22,290 --> 00:03:26,160
+我要写一段代码 比如number.py 
+And I'm going to write code of say number.py.
+
+74
+00:03:26,160 --> 00:03:28,710
+因此 让我们在Python语言中使用一些数字 
+So let's play around with some numbers in Python.
+
+75
+00:03:28,710 --> 00:03:32,670
+我要在这里做的第一件事是使用number.py 
+And the first thing I'm going to go ahead here and do with number.py,
+
+76
+00:03:32,670 --> 00:03:35,970
+在打开这个新标签后 我想我要继续打印--
+after opening this new tab, is I think I'm going to go ahead and print--
+
+77
+00:03:35,970 --> 00:03:40,350
+输入一个相对简单的程序 该程序可能会提示用户输入一个整数 
+type up a relatively simple program that maybe prompts the user for an integer,
+
+78
+00:03:40,350 --> 00:03:43,000
+比如x 然后打印出x是什么 
+like x, and then just prints out what x is.
+
+79
+00:03:43,000 --> 00:03:45,930
+所以我们将从简单开始 但是 再次 从简单开始 
+So we're going to start simple, but, again, in starting simple,
+
+80
+00:03:45,930 --> 00:03:48,870
+我们将能够真正看到我做错了什么 
+we'll be able to really see where I've done something wrong.
+
+81
+00:03:48,870 --> 00:03:49,600
+好了 我们开始吧 
+Well, here we go.
+
+82
+00:03:49,600 --> 00:03:51,780
+我接下来要说的是一个名为
+I'm going to go ahead and say a variable called
+
+83
+00:03:51,780 --> 00:03:57,330
+X将被赋值为输入的返回值 
+x is going to get assigned the value of the return value of input,
+
+84
+00:03:57,330 --> 00:03:59,603
+引述：“什么是x？”
+quote unquote, "what's x?"
+
+85
+00:03:59,603 --> 00:04:02,520
+我将包括一个空间 用于将光标移动到上方一点 
+And I'm going to include a space to move the cursor over a little bit.
+
+86
+00:04:02,520 --> 00:04:05,550
+然后 最终 我要继续--哦 等一下 
+And then, ultimately, I'm going to go ahead and-- oh, wait a minute.
+
+87
+00:04:05,550 --> 00:04:08,070
+如果我想从用户那里获得一个int 
+If I'm wanting to get an int from the user,
+
+88
+00:04:08,070 --> 00:04:10,530
+回想一下 我需要主动做一些事情 
+recall that I need to do something proactively.
+
+89
+00:04:10,530 --> 00:04:14,760
+我需要使用以下命令将该输入实际转换为整数
+I need to actually convert that input to an integer using
+
+90
+00:04:14,760 --> 00:04:16,050
+Python中的int函数 
+the int function in Python.
+
+91
+00:04:16,050 --> 00:04:20,519
+所以现在我将输入的返回值作为参数传递给int 
+So now I'm passing the return value of input as the argument to int.
+
+92
+00:04:20,519 --> 00:04:22,980
+最终 它将在x中存储一个整数 而不是
+And that will store in x, ultimately, an integer, not
+
+93
+00:04:22,980 --> 00:04:24,893
+看起来像整数的字符串 
+a string that looks like an integer.
+
+94
+00:04:24,893 --> 00:04:28,060
+好了 现在让我继续 只是简单地打印出这是什么 
+All right, let me go ahead now and just quite simply print out what this is.
+
+95
+00:04:28,060 --> 00:04:32,610
+我将继续打印出来 引用引号 “x就是x ”
+I'm going to go ahead and print out, quote unquote, "x is x."
+
+96
+00:04:32,610 --> 00:04:34,920
+但我不想从字面上说x就是x 
+But I don't want to literally say x is x.
+
+97
+00:04:34,920 --> 00:04:36,390
+我想插入x的值 
+I want to plug in the value of x.
+
+98
+00:04:36,390 --> 00:04:40,020
+因此 也许最简单的方法是用花括号将其括起来 
+So maybe the easiest way to do that is to surround it with curly braces.
+
+99
+00:04:40,020 --> 00:04:42,360
+然后如果我用这些花括号 我
+And then if I'm using these curly braces and I
+
+100
+00:04:42,360 --> 00:04:45,630
+我想让Python对该变量的值进行内插 
+want Python to interpolate the value of that variable,
+
+101
+00:04:45,630 --> 00:04:49,440
+这就是用x在这些花括号之间的实际位置替换 
+that is substitute what x actually is in between those curly braces,
+
+102
+00:04:49,440 --> 00:04:52,170
+回想一下 我需要使用格式字符串或F字符串
+recall that I need to use a format string or an F-string
+
+103
+00:04:52,170 --> 00:04:56,520
+通过用F来解决这整件事 现在我已经做到了 让我们继续
+by fixing this whole thing with an F. Now that I've done that, let's go ahead
+
+104
+00:04:56,520 --> 00:04:57,640
+看看会发生什么 
+and see what happens.
+
+105
+00:04:57,640 --> 00:05:02,010
+我将在我的终端窗口中继续运行Numer.py的Python 
+I'm going to go ahead in my terminal window and run Python of number.py.
+
+106
+00:05:02,010 --> 00:05:02,760
+我按了Enter键 
+I hit Enter.
+
+107
+00:05:02,760 --> 00:05:03,750
+到目前为止 一切都很好 
+And so far, so good.
+
+108
+00:05:03,750 --> 00:05:05,580
+一切都很好 并被提示输入x 
+All is well and being prompted for x.
+
+109
+00:05:05,580 --> 00:05:08,330
+让我继续输入一个数字 比如50 
+Let me go ahead and type in a number like 50.
+
+110
+00:05:08,330 --> 00:05:09,840
+好的 这似乎起作用了 
+All right, that seems to work.
+
+111
+00:05:09,840 --> 00:05:12,610
+程序似乎是正确的 
+Program seems to be correct.
+
+112
+00:05:12,610 --> 00:05:14,620
+还是真的是这样？
+Or is it?
+
+113
+00:05:14,620 --> 00:05:19,610
+这个程序可能会出什么问题 即使没有出现任何错误？
+What could go wrong in this program, even though nothing did just go wrong?
+
+114
+00:05:19,610 --> 00:05:22,630
+但如果我运行它 运行它 再运行它 
+But if I run it and run it and run it again,
+
+115
+00:05:22,630 --> 00:05:26,090
+在我的程序运行过程中 还可能出现什么问题 
+during the running of my program, what could still go wrong,
+
+116
+00:05:26,090 --> 00:05:28,660
+尤其是如果我不是和它互动的人
+especially if I'm not the human interacting with it
+
+117
+00:05:28,660 --> 00:05:30,910
+而是另一个人类呢？
+but some other human instead?
+
+118
+00:05:30,910 --> 00:05:33,910
+这里有志愿者参加这个活动吗？
+Any volunteers here for this one?
+
+119
+00:05:33,910 --> 00:05:35,780
+会出什么问题呢？
+What could go wrong?
+
+120
+00:05:35,780 --> 00:05:40,300
+这个程序在什么方面不是真正正确的 甚至
+And in what way is this program not really correct, even
+
+121
+00:05:40,300 --> 00:05:42,530
+尽管乍一看似乎是这样 
+though at first glance it seems so.
+
+122
+00:05:42,530 --> 00:05:44,170
+观众：[听不见]
+AUDIENCE: [INAUDIBLE]
+
+123
+00:05:52,890 --> 00:05:54,990
+大卫·马兰：所以我不会叫一个整数 
+DAVID MALAN: So I'm not calling an integer.
+
+124
+00:05:54,990 --> 00:05:56,532
+我还是听不清你的话 
+I'm still having trouble hearing you.
+
+125
+00:05:56,532 --> 00:05:59,560
+但我想我听到的是 如果用户输入的内容不是 
+But what I think I heard is that if what the user types in is not,
+
+126
+00:05:59,560 --> 00:06:03,797
+事实上 一个整数 我不能盲目地把它转换成一个整型 
+in fact, an integer, I can't just blindly convert it to an int.
+
+127
+00:06:03,797 --> 00:06:05,880
+如果我没把太多话塞进你嘴里 
+If I'm not putting too many words into your mouth,
+
+128
+00:06:05,880 --> 00:06:10,740
+我想我在这里可能应该做的是有点防御性 
+I think what I should perhaps do here is be a little defensive.
+
+129
+00:06:10,740 --> 00:06:14,040
+让我看看我是否不能准确地模拟这个问题
+And let me see if I can't simulate exactly the problem that
+
+130
+00:06:14,040 --> 00:06:14,920
+可能会出问题 
+could go wrong here.
+
+131
+00:06:14,920 --> 00:06:18,000
+让我继续运行 再一次 数字.py的Python 
+Let me go ahead and run, again, Python of number.py.
+
+132
+00:06:18,000 --> 00:06:19,290
+让我试试另一个号码 
+Let me try another number.
+
+133
+00:06:19,290 --> 00:06:21,480
+事实上 在测试代码时 通常
+In fact, when testing your code, generally it's
+
+134
+00:06:21,480 --> 00:06:25,920
+测试角点情况是个好主意 也许数字不是那么简单
+a good idea to test corner cases, maybe numbers that aren't quite as plain as
+
+135
+00:06:25,920 --> 00:06:27,907
+或者49或51岁 
+or 49 or 51.
+
+136
+00:06:27,907 --> 00:06:30,990
+让我们选择一些可能更有趣的数字 如果
+Let's choose some numbers that might be a little more interesting, if only
+
+137
+00:06:30,990 --> 00:06:32,610
+从数学上讲 就像是零 
+mathematically, like zero.
+
+138
+00:06:32,610 --> 00:06:34,050
+好的 零利率似乎起作用了 
+All right, zero seems to work.
+
+139
+00:06:34,050 --> 00:06:35,880
+我的代码仍然打印出x为零 
+My code still prints out that x is zero.
+
+140
+00:06:35,880 --> 00:06:37,890
+另一个需要考虑的角落案例可能是什么？
+What might be another corner case to consider?
+
+141
+00:06:37,890 --> 00:06:39,890
+好吧 让我继续尝试一个负数 
+Well, let me go ahead and try a negative number.
+
+142
+00:06:39,890 --> 00:06:42,770
+这在精神上也与消极的截然不同 
+That, too, is pretty different in spirit from negative.
+
+143
+00:06:42,770 --> 00:06:43,680
+负1？
+Negative 1?
+
+144
+00:06:43,680 --> 00:06:44,880
+好的 这也行 
+OK, that works too.
+
+145
+00:06:44,880 --> 00:06:46,410
+好吧 让我再试一次 
+Well, let me try it one more time.
+
+146
+00:06:46,410 --> 00:06:48,990
+我试过正数 负数 0 
+I've tried positive numbers, negative numbers, 0.
+
+147
+00:06:48,990 --> 00:06:50,950
+让我试试像猫一样的东西 
+Let me try something like a cat.
+
+148
+00:06:50,950 --> 00:06:56,010
+所以从字面上讲 C-A-T--输入一个看起来甚至不像数字的字符串 
+So literally, C-A-T-- typing in a string that doesn't even look like a number.
+
+149
+00:06:56,010 --> 00:06:58,950
+不过 现在让我们看看当我按Enter键时会发生什么 
+And yet, let's see now what happens when I hit Enter.
+
+150
+00:06:58,950 --> 00:07:01,560
+好的 现在我们来看看我们有另一种错误 
+All right, we'll see now we've got another kind of error.
+
+151
+00:07:01,560 --> 00:07:05,310
+这不是语法错误 因为我没有犯打字错误 
+It's not a syntax error, because I didn't make a typographical mistake.
+
+152
+00:07:05,310 --> 00:07:07,620
+我没有忘记一些语法 
+I didn't forget some piece of syntax.
+
+153
+00:07:07,620 --> 00:07:10,905
+实际上 现在我的一个值出现了错误 
+I actually now have an error with one of my values.
+
+154
+00:07:10,905 --> 00:07:12,780
+这是一个我甚至都没有预料到的价值 
+And it's an a value I didn't even anticipate.
+
+155
+00:07:12,780 --> 00:07:17,200
+在这种情况下 这个人 也就是我 在我写代码很久之后才输入了它 
+The human, me, in this case typed it in long after I wrote the code.
+
+156
+00:07:17,200 --> 00:07:18,540
+那么这指的是什么呢？
+So what does this refer to?
+
+157
+00:07:18,540 --> 00:07:19,590
+值错误 
+A value error.
+
+158
+00:07:19,590 --> 00:07:21,270
+好吧 让我们看看是什么解释 
+Well, let's see what the explanation is.
+
+159
+00:07:21,270 --> 00:07:25,375
+基数为10的int的文本无效 请不要用引号引“cat” 
+Invalid literal for int with base 10, quote unquote, "cat."
+
+160
+00:07:25,375 --> 00:07:27,000
+现在 这也是一个有点冗长的问题 
+Now, this, too, is a bit of a mouthful.
+
+161
+00:07:27,000 --> 00:07:29,910
+不幸的是 在Python语言和许多编程语言中 
+And, unfortunately, in Python and a lot of programming languages,
+
+162
+00:07:29,910 --> 00:07:32,817
+这些错误消息是为非常舒适的程序员编写的 
+the error messages are written for pretty comfortable programmers.
+
+163
+00:07:32,817 --> 00:07:35,650
+当然 当你第一次学习编程时 
+And, of course, when you're learning programming for the first time,
+
+164
+00:07:35,650 --> 00:07:38,192
+您可能对编程语言不是很熟悉
+you might not be so comfortable with the programming language
+
+165
+00:07:38,192 --> 00:07:40,000
+更不用说错误消息了 
+let alone the error messages.
+
+166
+00:07:40,000 --> 00:07:42,370
+但让我们看看我们是否能收集到一些洞察力 
+But let's see if we can't glean some insight.
+
+167
+00:07:42,370 --> 00:07:43,830
+所以是无效的文字 
+So invalid literal.
+
+168
+00:07:43,830 --> 00:07:47,410
+好吧 再说一次 文字只是输入的东西 看起来 
+Well, again, a literal is just something that's been typed in, it would seem,
+
+169
+00:07:47,410 --> 00:07:48,360
+用于INT 
+for int.
+
+170
+00:07:48,360 --> 00:07:50,220
+Int到底是什么？
+What is int exactly?
+
+171
+00:07:50,220 --> 00:07:52,680
+好的 int是我用来转换用户的
+Well, int is the function I'm using to convert the user's
+
+172
+00:07:52,680 --> 00:07:55,200
+输入到相应的整数 
+input to a corresponding integer.
+
+173
+00:07:55,200 --> 00:07:58,260
+以10为基数 指的是十进制 即
+Base 10, that refers to the decimal system, which is this
+
+174
+00:07:58,260 --> 00:07:59,970
+这是Python使用的默认设置 
+the default that Python is using.
+
+175
+00:07:59,970 --> 00:08:02,460
+归根结底 它看起来就像是 Python真正
+And it looks like at the end of the day, what Python really
+
+176
+00:08:02,460 --> 00:08:07,570
+我不喜欢的是 我把cat传递给了int函数 
+doesn't like is that I passed cat, quote unquote, "to the int function."
+
+177
+00:08:07,570 --> 00:08:10,890
+那么 我该如何着手实际解决这个问题呢？
+So how do I go about actually fixing this problem?
+
+178
+00:08:10,890 --> 00:08:13,862
+嗯 我可以在我的程序中添加指令 
+Well, I could just add instructions in my program.
+
+179
+00:08:13,862 --> 00:08:15,570
+或许我可以加一行文字告诉你
+Maybe I could add a line of print telling
+
+180
+00:08:15,570 --> 00:08:18,720
+用户更明确地说 一定要键入一个整数 
+the user more explicitly, be sure to type an integer,
+
+181
+00:08:18,720 --> 00:08:20,220
+或者 请不要输入cat 
+or, please don't type cat.
+
+182
+00:08:20,220 --> 00:08:21,750
+请不要键入字符串 
+Please don't type strings.
+
+183
+00:08:21,750 --> 00:08:23,670
+当然 用户可能仍然不会满足要求 
+Of course, the user might still not oblige.
+
+184
+00:08:23,670 --> 00:08:25,420
+他们可能没有读到说明书 
+They might not be reading the instruction.
+
+185
+00:08:25,420 --> 00:08:27,600
+因此 这也可能不是一个有效的策略 
+So that too is probably not an effective strategy.
+
+186
+00:08:27,600 --> 00:08:31,278
+我们真正想要做的是在编写代码时考虑到错误处理 
+What we really want to do is write our code with error handling in mind.
+
+187
+00:08:31,278 --> 00:08:33,570
+我们想要编写的代码行不仅能实现
+We want to write lines of code that not only accomplish
+
+188
+00:08:33,570 --> 00:08:36,539
+我们关心的问题 但这也解决了
+the problems we care about but that also handle
+
+189
+00:08:36,539 --> 00:08:39,299
+可能意外发生的错误 
+errors that might unexpectedly happen.
+
+190
+00:08:39,299 --> 00:08:41,970
+而且 一般来说 当编程时 编程是防御性的 
+And, in general, when programming, programming defensively.
+
+191
+00:08:41,970 --> 00:08:44,910
+假设用户不会注意 或者 更糟糕的是 
+Assume that the users aren't going to be paying attention or, worse,
+
+192
+00:08:44,910 --> 00:08:45,850
+他们很恶毒 
+they're malicious.
+
+193
+00:08:45,850 --> 00:08:47,920
+他们想让你的程序崩溃 
+They're trying to crash your program.
+
+194
+00:08:47,920 --> 00:08:50,280
+因此 我们希望尽可能多地处理错误 
+So we want to handle as many errors as we can.
+
+195
+00:08:50,280 --> 00:08:52,470
+现在 我们如何在Python中做到这一点呢？
+Now, how do we go about doing that in Python?
+
+196
+00:08:52,470 --> 00:08:56,850
+好的 结果是您想要捕获值错误还是其他类型
+Well, it turns out whether you want to catch a value error or other types
+
+197
+00:08:56,850 --> 00:08:59,250
+也有错误--尽管不是语法错误--
+of errors as well-- though not syntax error--
+
+198
+00:08:59,250 --> 00:09:01,620
+Python实际上有一个名为try的关键字 
+Python actually has this keyword called try.
+
+199
+00:09:01,620 --> 00:09:02,910
+它的名字有点贴切 
+And it's sort of aptly named.
+
+200
+00:09:02,910 --> 00:09:05,700
+如果您想尝试用Python语言做一些事情 
+If you want to try to do something in Python,
+
+201
+00:09:05,700 --> 00:09:07,680
+你可以从字面上使用这个关键字 
+you can literally use this keyword.
+
+202
+00:09:07,680 --> 00:09:11,430
+你可以检查是否有一些特殊的东西 一些
+And you can check whether or not something exceptional, something
+
+203
+00:09:11,430 --> 00:09:12,840
+错误 已经发生了 
+erroneous, has happened.
+
+204
+00:09:12,840 --> 00:09:16,140
+所以同时使用try和这个关键字 除了 
+So using both try and this other keyword, except,
+
+205
+00:09:16,140 --> 00:09:20,400
+除非出了什么差错 否则我能去试着做点什么吗？
+can I go and try to do something except if something goes wrong?
+
+206
+00:09:20,400 --> 00:09:22,510
+我可以做些别的事来代替 
+I can do something else instead.
+
+207
+00:09:22,510 --> 00:09:25,020
+所以让我们想想 我怎么才能开始尝试
+So let's consider, how can I go about trying
+
+208
+00:09:25,020 --> 00:09:29,010
+除非出现错误 否则是否将用户的输入转换为int？
+to convert the user's input to an int except if something goes wrong?
+
+209
+00:09:29,010 --> 00:09:31,200
+好吧 让我回到我的代码这里 
+Well, let me go back to my code here.
+
+210
+00:09:31,200 --> 00:09:34,750
+让我提议我现在修改这个例子如下 
+And let me propose that I now modify this example as follows.
+
+211
+00:09:34,750 --> 00:09:37,320
+让我继续 在我的第一行代码之上 
+Let me go ahead and, above my first line of code,
+
+212
+00:09:37,320 --> 00:09:40,500
+我真的写了 试着加了一个冒号 告诉Python 
+I literally write, try and a colon, telling Python,
+
+213
+00:09:40,500 --> 00:09:42,160
+尝试执行以下操作 
+try to do the following.
+
+214
+00:09:42,160 --> 00:09:44,700
+我将继续并缩进我现有的代码行
+I'm going to go ahead and indent my existing lines of codes
+
+215
+00:09:44,700 --> 00:09:47,770
+这里有相同数量的空格 在这种情况下是四个 
+here by the same number of spaces, four in this case.
+
+216
+00:09:47,770 --> 00:09:51,060
+然后我要在这里再加一行 字面意思是 
+And then I'm going to add one more new line down here that literally says,
+
+217
+00:09:51,060 --> 00:09:53,352
+值错误除外 
+except Value Error.
+
+218
+00:09:53,352 --> 00:09:55,560
+请注意 重要的是我将V大写
+And notice it's important that I've capitalized the V
+
+219
+00:09:55,560 --> 00:09:59,460
+我把E大写了 这些符号区分大小写 
+and I've capitalized the E. These symbols are case sensitive.
+
+220
+00:09:59,460 --> 00:10:02,730
+现在这是一个机会 在这个冒号之后 
+And this is now an opportunity, after this colon,
+
+221
+00:10:02,730 --> 00:10:07,230
+告诉Python我想在异常情况下做什么 当
+to tell Python what I want to do in exceptional cases, when
+
+222
+00:10:07,230 --> 00:10:10,920
+事实上 数字或来自用户的输入不是数字 
+the number or the input from the user is not, in fact, a number.
+
+223
+00:10:10,920 --> 00:10:13,860
+我会说一些简单的东西 比如印刷品 引用引号 
+And I'm going to say something plain like print, quote unquote,
+
+224
+00:10:13,860 --> 00:10:15,750
+“x不是整数 ”
+"x is not an integer."
+
+225
+00:10:15,750 --> 00:10:19,750
+我至少会粗略地告诉用户问题到底是什么 
+I'm at least going to tell the user roughly what the problem actually is.
+
+226
+00:10:19,750 --> 00:10:21,030
+所以请注意另一个细节 
+So notice another detail.
+
+227
+00:10:21,030 --> 00:10:22,620
+压痕很重要 
+The indentation is important.
+
+228
+00:10:22,620 --> 00:10:26,970
+因为我试了一下第一行 我缩进了第二行和第三行 那些
+Because I have try on line one and I've indented lines two and three, those
+
+229
+00:10:26,970 --> 00:10:30,990
+是我正在尝试的两行代码 除非我看到值错误 
+are the two lines of code that I'm trying, except if I see a value error,
+
+230
+00:10:30,990 --> 00:10:33,630
+第五行 因为它是缩进的
+line five, because it's indented is what is
+
+231
+00:10:33,630 --> 00:10:36,790
+在这些错误的情况下会被处决 
+going to get executed in cases of those errors.
+
+232
+00:10:36,790 --> 00:10:43,920
+现在让我继续返回到我的终端窗口 并运行number.py的Python 
+Let me go ahead now back to my terminal window and run Python of number.py,
+
+233
+00:10:43,920 --> 00:10:44,490
+进来吧 
+Enter.
+
+234
+00:10:44,490 --> 00:10:47,130
+让我们继续 再输入一次 
+And let's go ahead and type in again.
+
+235
+00:10:47,130 --> 00:10:48,270
+看起来还是有效的 
+Still seems to work.
+
+236
+00:10:48,270 --> 00:10:50,302
+当然 我正在努力 并取得了成功 
+And, of course, I'm trying and succeeding.
+
+237
+00:10:50,302 --> 00:10:53,260
+不过 让我再试一次 这次用猫这个词
+Let me go ahead and try once more, this time, though, with the word cat
+
+238
+00:10:53,260 --> 00:10:55,450
+或者 真的 任何不是十进制数的东西 
+or, really, anything that's not a decimal number.
+
+239
+00:10:55,450 --> 00:10:59,680
+现在你们会更清楚地看到 x不是整数 
+And now you'll see much more cleanly x is not an integer.
+
+240
+00:10:59,680 --> 00:11:02,350
+我没有看到一些可怕的错误消息 
+I'm not seeing some scary error message that I, the user,
+
+241
+00:11:02,350 --> 00:11:04,330
+我不知道该怎么处理 
+am going to have no idea how to handle.
+
+242
+00:11:04,330 --> 00:11:06,640
+现在你 程序员 已经预料到
+Now you, the programmer, have anticipated
+
+243
+00:11:06,640 --> 00:11:08,290
+一些特殊的事情可能会发生 
+that something exceptional can happen.
+
+244
+00:11:08,290 --> 00:11:12,850
+您已经开始为用户实际处理错误 
+And you've gone about actually handling the error for the user,
+
+245
+00:11:12,850 --> 00:11:15,490
+而是向他们提供适当的错误消息 
+giving them an appropriate error message instead.
+
+246
+00:11:15,490 --> 00:11:18,340
+让我在这里停一停 看看 现在还有什么问题吗
+Let me pause here and see, are there any questions now
+
+247
+00:11:18,340 --> 00:11:21,190
+关于我们刚刚通过引入Try所做的事情
+on what we've just done by introducing try
+
+248
+00:11:21,190 --> 00:11:25,370
+并接受处理此值错误吗？
+and accept to handle this value error?
+
+249
+00:11:25,370 --> 00:11:28,380
+观众：价值是你唯一能得到的错误类型吗？
+AUDIENCE: Is value ever the only type of error you can get?
+
+250
+00:11:28,380 --> 00:11:29,610
+或者还有其他类型的吗？
+Or are there other types?
+
+251
+00:11:29,610 --> 00:11:31,380
+大卫·马兰：值错误是你唯一能抓到的东西吗？
+DAVID MALAN: Is value error the only thing you can catch?
+
+252
+00:11:31,380 --> 00:11:32,590
+还有其他错误 
+There are other errors as well.
+
+253
+00:11:32,590 --> 00:11:33,930
+今天我们将看到其中的几个 
+And we'll see a few of them today.
+
+254
+00:11:33,930 --> 00:11:36,270
+老实说 如果你继续这样做 还有很多很多
+And there's many, many more, honestly, that if you continue
+
+255
+00:11:36,270 --> 00:11:38,145
+使用Python进行编程和编程 您将
+programming and programming in Python, you're
+
+256
+00:11:38,145 --> 00:11:41,710
+在接下来的几周、几个月、几年里 我们会看到很多这样的动物 
+going to see a lot of them over the weeks the months the years to come.
+
+257
+00:11:41,710 --> 00:11:43,830
+但处理它们的技术正在走向
+But the technique for handling them is going
+
+258
+00:11:43,830 --> 00:11:47,490
+在尝试、接受、
+to be largely the same other questions on try, accept,
+
+259
+00:11:47,490 --> 00:11:49,260
+或者更笼统地说 这些例外？
+or these exceptions more generally?
+
+260
+00:11:49,260 --> 00:11:51,210
+观众：是的 先生 
+AUDIENCE: Yes, sir.
+
+261
+00:11:51,210 --> 00:11:55,980
+实际上 要使用Except块 您需要知道错误的类型 对吗？
+Actually, to use the except block, you need to know the type of error, right?
+
+262
+00:11:55,980 --> 00:12:01,150
+[听不见]如果你无法预料到这种特殊类型的错误 该怎么办？
+[INAUDIBLE] what if you can't anticipate this particular type of error?
+
+263
+00:12:01,150 --> 00:12:02,650
+大卫·马兰：这是一个非常好的问题 
+DAVID MALAN: A really good question.
+
+264
+00:12:02,650 --> 00:12:06,330
+所以我非常擅长捕捉 可以这么说 
+So I'm being very good about catching, so to speak,
+
+265
+00:12:06,330 --> 00:12:08,793
+我可能会犯的错误 
+the very error that I might happen.
+
+266
+00:12:08,793 --> 00:12:10,710
+我不知道什么时候会发生 因为它是
+I don't know when it might happen because it's
+
+267
+00:12:10,710 --> 00:12:11,877
+这将取决于用户 
+going to depend on the user.
+
+268
+00:12:11,877 --> 00:12:15,180
+但我知道int函数会出现什么样的错误 
+But I know what kind of error will happen from the int function.
+
+269
+00:12:15,180 --> 00:12:19,590
+在Python中有一种方法可以说 除非出现任何错误 
+There is a way in Python where you can say, except if anything goes wrong.
+
+270
+00:12:19,590 --> 00:12:23,440
+您完全可以省略值错误 只需捕获所有内容 
+And you can literally omit value error and just catch everything.
+
+271
+00:12:23,440 --> 00:12:27,660
+这样做的问题是 它有时会在代码中隐藏其他错误
+The problem with that is that it sometimes hides other bugs in your code
+
+272
+00:12:27,660 --> 00:12:29,952
+因为你不一定知道哪里出了问题 
+because you don't necessarily know what's going wrong.
+
+273
+00:12:29,952 --> 00:12:32,160
+如果你不一定知道哪里出了问题 
+And if you don't necessarily know what's going wrong,
+
+274
+00:12:32,160 --> 00:12:34,300
+你怎么可能正确地处理它呢？
+how can you possibly handle it correctly?
+
+275
+00:12:34,300 --> 00:12:35,490
+太糟糕的练习了 
+So bad practice.
+
+276
+00:12:35,490 --> 00:12:38,940
+换句话说 这样做是懒惰的 只是说 捕捉一切
+And it put another way, it's lazy to do that, to just say, catch everything
+
+277
+00:12:38,940 --> 00:12:40,140
+我会在这里处理的 
+and I'll deal with it here.
+
+278
+00:12:40,140 --> 00:12:43,740
+因此 更好的做法是找出哪种错误
+So a much better practice would be to figure out what kind of errors
+
+279
+00:12:43,740 --> 00:12:48,210
+可能会发生 并包括明确提到它们 就像我所做的那样 
+could happen and include mention of them explicitly, as I have done.
+
+280
+00:12:48,210 --> 00:12:51,390
+话虽如此 如果您阅读了Python的官方文档 
+Now, with that said, if you read Python's official documentation,
+
+281
+00:12:51,390 --> 00:12:54,120
+就像你最终都会做的那样 它不是
+as you'll eventually invariably do, it is not
+
+282
+00:12:54,120 --> 00:12:58,080
+非常乐意主动告诉您哪些类型的错误
+great about telling you proactively what kinds of errors
+
+283
+00:12:58,080 --> 00:13:00,390
+都可以这样养大 
+can be raised in this way.
+
+284
+00:13:00,390 --> 00:13:03,270
+因此 这是一个自相矛盾的建议 
+So it's a bit of contradictory advice.
+
+285
+00:13:03,270 --> 00:13:04,620
+你该这么做 
+You should do it this way.
+
+286
+00:13:04,620 --> 00:13:07,470
+但是 你应该检查什么并不总是显而易见的 
+But it's not always obvious what you should be checking for.
+
+287
+00:13:07,470 --> 00:13:09,420
+但通过练习 你会做得更好 
+But you get better at it with practice.
+
+288
+00:13:09,420 --> 00:13:12,760
+在某些情况下 文档确实会详细说明可能出现的问题 
+And some of the times, the documentation does spell out what could go wrong.
+
+289
+00:13:12,760 --> 00:13:14,610
+现在让我把注意力转回到这个问题上
+Let me turn our attention now back to this
+
+290
+00:13:14,610 --> 00:13:17,790
+并指出 即使这是更好的代码 
+and point out that even though this is better code,
+
+291
+00:13:17,790 --> 00:13:21,450
+它更正确的意义在于 我不只是把它留给用户
+it is more correct in the sense that I'm not just leaving it to the user
+
+292
+00:13:21,450 --> 00:13:25,410
+要查看大多数人都会看到的非常难看的默认Python错误消息
+to see some really ugly default Python error message that most people are
+
+293
+00:13:25,410 --> 00:13:27,600
+我不知道该怎么做 我
+going to have no idea what to do with, I'm
+
+294
+00:13:27,600 --> 00:13:29,100
+至少要更优雅地处理它 
+at least handling it more elegantly.
+
+295
+00:13:29,100 --> 00:13:31,570
+我打印出来的x不是整数 
+And I'm printing out x is not an integer.
+
+296
+00:13:31,570 --> 00:13:33,000
+因此 它至少更有教育意义 
+So it's at least more instructive.
+
+297
+00:13:33,000 --> 00:13:36,150
+但这不一定是实现此代码的最佳方式 
+But this isn't necessarily the best way to implement this code.
+
+298
+00:13:36,150 --> 00:13:36,720
+为什么？
+Why?
+
+299
+00:13:36,720 --> 00:13:39,780
+好吧 在这里 我实际上还是有点懒 
+Well, here, too, I'm actually still being a little lazy.
+
+300
+00:13:39,780 --> 00:13:44,190
+请注意 我正在尝试编写的不是一行代码 而是两行代码 
+So notice that I'm trying to do not one line of code but two lines of code.
+
+301
+00:13:44,190 --> 00:13:47,820
+这不是什么大事 因为我们只讨论了两行代码 
+And this isn't a huge deal because we're only talking about two lines of code.
+
+302
+00:13:47,820 --> 00:13:51,000
+但为了宣扬最佳实践 
+But in the interest of preaching best practices,
+
+303
+00:13:51,000 --> 00:13:56,940
+您真的应该只尝试执行一行或很少的代码
+you should really only be trying to do the one or very few lines of code that
+
+304
+00:13:56,940 --> 00:14:01,740
+实际上可能会引发异常 但实际上可能会以某种方式失败 
+can actually raise an exception that can actually fail in some way.
+
+305
+00:14:01,740 --> 00:14:06,900
+我非常确定在这里调用print不会引发值错误 
+I am pretty sure that calling print here is not going to raise a value error.
+
+306
+00:14:06,900 --> 00:14:10,740
+无论x是整型、字符串、浮点型还是其他任何类型 
+Whether x is an int or a string or a float or anything else,
+
+307
+00:14:10,740 --> 00:14:15,010
+Python的格式字符串功能将很好地处理打印 
+the format string feature of Python is going to handle printing it just fine.
+
+308
+00:14:15,010 --> 00:14:17,290
+所以 真的 我要做的是这样的 
+So, really, what I'm going to do is this.
+
+309
+00:14:17,290 --> 00:14:21,420
+我将把这第三行移到代码的底部 
+I'm going to move this line three down to the bottom of my code.
+
+310
+00:14:21,420 --> 00:14:22,830
+我不再需要缩进它 
+I no longer need to indent it.
+
+311
+00:14:22,830 --> 00:14:26,460
+我将在我的文件的底部执行它 
+I'm just going to execute it at the bottom of my file here.
+
+312
+00:14:26,460 --> 00:14:28,710
+不幸的是 通过这样做--
+Unfortunately, by doing this--
+
+313
+00:14:28,710 --> 00:14:32,610
+到目前为止 我已经做了一件好事 只是试着做最少的工作
+I've done a good thing by now only trying to do the minimal amount of work
+
+314
+00:14:32,610 --> 00:14:36,450
+这可能会引发值错误的异常 
+necessary that might raise the exception of value error.
+
+315
+00:14:36,450 --> 00:14:38,873
+但我恐怕我引入了一个新的错误 
+But I fear I've introduced a new mistake.
+
+316
+00:14:38,873 --> 00:14:39,540
+好吧 让我想想 
+Well, let's see.
+
+317
+00:14:39,540 --> 00:14:40,950
+现在什么是不正确的？
+What is now incorrect?
+
+318
+00:14:40,950 --> 00:14:44,490
+让我继续并再次运行number.py的Python 回车 
+Let me go ahead and again run Python of number.py, Enter.
+
+319
+00:14:44,490 --> 00:14:46,755
+让我继续下去 正确地做50 
+Let me go ahead and do it correctly with 50.
+
+320
+00:14:46,755 --> 00:14:48,340
+一切似乎都很顺利 
+And all seems to be well.
+
+321
+00:14:48,340 --> 00:14:50,190
+但是 再一次 让我们来看看那些角落里的案例--
+But, again, let's try those corner cases--
+
+322
+00:14:50,190 --> 00:14:52,920
+零 负数 或者 在这种情况下 是猫 
+the zeros, the negative numbers, or, in this case, the cat.
+
+323
+00:14:52,920 --> 00:14:55,230
+让我继续输入C-A-T 
+Let me go ahead and type in C-A-T again.
+
+324
+00:14:55,230 --> 00:14:55,950
+进来吧 
+Enter.
+
+325
+00:14:55,950 --> 00:14:57,610
+现在我有一个名字错误 
+Now I have a name error.
+
+326
+00:14:57,610 --> 00:15:01,350
+所以现在我在这里介绍的代码中还有另一种类型的错误 
+So now it's yet another type of error in my code that I've introduced here.
+
+327
+00:15:01,350 --> 00:15:03,180
+这个名字错误是什么意思？
+And what does this name error mean?
+
+328
+00:15:03,180 --> 00:15:07,140
+正如值误差所指的那样--某个变量的值 
+Well, just as a value error refers to that-- the value of some variable,
+
+329
+00:15:07,140 --> 00:15:09,240
+有人输入的值不正确--
+the value that someone has typed in is incorrect--
+
+330
+00:15:09,240 --> 00:15:13,500
+名称错误倾向于引用您的代码 就像您正在使用
+name error tends to refer to your code, like you're doing something with
+
+331
+00:15:13,500 --> 00:15:16,350
+不应该使用的变量的名称 
+the name of a variable that you shouldn't.
+
+332
+00:15:16,350 --> 00:15:17,350
+为什么会这样呢？
+And why might that be?
+
+333
+00:15:17,350 --> 00:15:19,350
+好了 让我们把注意力转回到代码上
+Well, let me turn our attention back to the code
+
+334
+00:15:19,350 --> 00:15:22,500
+这里想一想 它在抱怨什么？
+here and consider, what is it complaining about?
+
+335
+00:15:22,500 --> 00:15:24,630
+好吧 这个名字和我在这里看到的是不一样的 
+Well, the name errors what I see down here.
+
+336
+00:15:24,630 --> 00:15:28,710
+它告诉我 名字 引号 “x是没有定义的 “
+And it's telling me, name, quote unquote, "x is not defined."
+
+337
+00:15:28,710 --> 00:15:31,950
+注意 如果我看得更远 它提到了第六行 
+And notice if I look further here, it is mentioning line six.
+
+338
+00:15:31,950 --> 00:15:35,610
+所以我知道问题出在第六行的代码上 
+So I know the problem is with my code on line six.
+
+339
+00:15:35,610 --> 00:15:38,460
+刚才还奏效了 
+And that worked a moment ago.
+
+340
+00:15:38,460 --> 00:15:42,210
+我在第二行定义x 
+And I'm defining x on line two.
+
+341
+00:15:42,210 --> 00:15:48,750
+但让我问一下这里的小组 为什么x 实际上 存在于在线6？
+But let me ask the group here, why does x, in fact, exist online six?
+
+342
+00:15:48,750 --> 00:15:52,200
+为什么它没有定义 即使我很确定我
+Why is it not defined, even though I'm pretty sure I
+
+343
+00:15:52,200 --> 00:15:54,920
+打算在第二行定义它吗
+was intending to define it on line two?
+
+344
+00:15:54,920 --> 00:16:00,330
+或许 这是一种“不为人知”的行为 
+AUDIENCE: Maybe the scope of the variable is between the [INAUDIBLE]..
+
+345
+00:16:00,330 --> 00:16:02,130
+大卫·马兰：好的术语 
+DAVID MALAN: So, good terminology.
+
+346
+00:16:02,130 --> 00:16:06,270
+作用域是指变量所在的代码部分 
+Scope refers to the portion of code in which a variable exists.
+
+347
+00:16:06,270 --> 00:16:08,340
+这在Python中也不太正确 
+That, too, though isn't quite right in Python.
+
+348
+00:16:08,340 --> 00:16:12,990
+这在C、C++和Java中是正确的 缩进或花括号往往
+That would be true in C, C++, and Java, where indentation or curly braces tend
+
+349
+00:16:12,990 --> 00:16:15,120
+定义变量的作用域 
+to define the scope of a variable.
+
+350
+00:16:15,120 --> 00:16:16,770
+但是 一般来说 
+But, again, here in general--
+
+351
+00:16:16,770 --> 00:16:18,420
+刚才还管用
+and this worked a moment ago.
+
+352
+00:16:18,420 --> 00:16:22,110
+X在第二行定义后就存在了 因为 记住 
+X exists once it's defined on line two because, remember,
+
+353
+00:16:22,110 --> 00:16:24,630
+我之前打印了x是50 
+I printed out x is 50 a little bit ago.
+
+354
+00:16:24,630 --> 00:16:27,990
+让我们再做一个假设 
+Let's try one more hypothesis here.
+
+355
+00:16:27,990 --> 00:16:29,760
+再来一把？
+One more hand?
+
+356
+00:16:29,760 --> 00:16:32,970
+为什么x还没有被定义？
+Why is x somehow still not defined?
+
+357
+00:16:32,970 --> 00:16:36,400
+观众：是的 因为它是局部变量 
+AUDIENCE: Yeah, so is it because it's local variable,
+
+358
+00:16:36,400 --> 00:16:39,320
+这意味着它不会定义范围之外的
+meaning that it doesn't define outside of the scope
+
+359
+00:16:39,320 --> 00:16:42,570
+因为人们提到的 
+because what people have mentioned.
+
+360
+00:16:42,570 --> 00:16:45,150
+它提示try中的输入 对吗？
+It prompts the input in try, right?
+
+361
+00:16:45,150 --> 00:16:46,818
+它的外部是不确定的 
+The outside of it is undefined.
+
+362
+00:16:46,818 --> 00:16:48,360
+DAVID MALAN：所以还是很好的直觉 
+DAVID MALAN: So still good instincts.
+
+363
+00:16:48,360 --> 00:16:49,710
+好的术语 也是 
+And good terminology, too.
+
+364
+00:16:49,710 --> 00:16:52,800
+有一个局部变量的概念 它往往存在于
+There's this notion of local variables, which tend to exist inside
+
+365
+00:16:52,800 --> 00:16:55,080
+函数 例如 全局变量 
+of functions, for instance, global variables,
+
+366
+00:16:55,080 --> 00:16:57,150
+它们往往存在于整个文件中 
+which tend to exist in entire files.
+
+367
+00:16:57,150 --> 00:16:59,860
+不过 在这个例子中 情况也并非如此 
+In this case, too, though, that's not quite the case.
+
+368
+00:16:59,860 --> 00:17:03,060
+这里发生的事情归结为操作顺序 
+What's happening here boils down to order of operations.
+
+369
+00:17:03,060 --> 00:17:06,060
+让我回到代码中 回想一下 
+Let me come back to the code here and recall that any time we've
+
+370
+00:17:06,060 --> 00:17:09,510
+讨论了赋值运算符 即单个等号 
+discussed the assignment operator, the single equal sign, that copies
+
+371
+00:17:09,510 --> 00:17:11,280
+从右到左的值 
+a value from the right to the left.
+
+372
+00:17:11,280 --> 00:17:14,670
+但是 请考虑一下 在什么情况下会出现问题 
+But consider for a moment at what point something is going wrong.
+
+373
+00:17:14,670 --> 00:17:17,819
+输入功能可能工作正常
+Well, the input function is probably working just fine
+
+374
+00:17:17,819 --> 00:17:20,310
+因为我们现在已经经常使用它来获取用户的输入 
+because we've used that a lot now to get users' input.
+
+375
+00:17:20,310 --> 00:17:24,150
+它总是在Python中返回一个字符串或搅拌器 
+It always returns a string or a stir in Python.
+
+376
+00:17:24,150 --> 00:17:25,650
+但会出什么问题呢？
+But what could be going wrong?
+
+377
+00:17:25,650 --> 00:17:32,310
+如果我将该字符串作为参数传递给int函数 
+Well, if I'm passing that string to the int function as its argument,
+
+378
+00:17:32,310 --> 00:17:34,920
+可能是int的函数出错了 
+it's probably the int's function that's erroring.
+
+379
+00:17:34,920 --> 00:17:37,830
+事实上 如果你回想一下之前当我们有值错误的时候 
+And, indeed, if you think back earlier when we had the value error,
+
+380
+00:17:37,830 --> 00:17:39,930
+事实上 它是int函数 它没有
+it was, in fact, the int function that did not
+
+381
+00:17:39,930 --> 00:17:42,520
+比如 不加引号的“猫”作为输入 
+like, quote unquote, "cat" as input.
+
+382
+00:17:42,520 --> 00:17:45,420
+所以这就是说 我的这部分代码
+So this is all to say that this portion of my code
+
+383
+00:17:45,420 --> 00:17:48,870
+现在突出显示在等号右侧 即
+highlighted now to the right of the equal sign, that's
+
+384
+00:17:48,870 --> 00:17:50,700
+造成问题的代码 
+the code that's creating a problem.
+
+385
+00:17:50,700 --> 00:17:53,410
+这就是产生值错误的代码 
+That's the code that was creating a value error.
+
+386
+00:17:53,410 --> 00:17:57,000
+在这种情况下 我们捕捉到了值错误 
+And in this case, we're catching the value error.
+
+387
+00:17:57,000 --> 00:18:01,170
+但是因为值错误发生在等号的右侧 
+But because the value error is happening on the right of the equal sign,
+
+388
+00:18:01,170 --> 00:18:03,780
+向左复制没有任何价值 
+there's no value being copied to the left.
+
+389
+00:18:03,780 --> 00:18:06,370
+这个错误正在中断整个过程 
+The error is interrupting that whole process.
+
+390
+00:18:06,370 --> 00:18:10,530
+所以即使我们在第二行看到x等于点 
+So even though we see x equals dot dot dot on line two,
+
+391
+00:18:10,530 --> 00:18:13,200
+等号左边那行的那部分
+the portion of that line to the left of the equal sign
+
+392
+00:18:13,200 --> 00:18:16,140
+最终不会被评估 因为价值
+isn't getting evaluated, ultimately, because the value
+
+393
+00:18:16,140 --> 00:18:18,300
+错误发生得太快了 
+error is happening too soon.
+
+394
+00:18:18,300 --> 00:18:20,988
+因此 当我们最终到达第六行时 
+And so when we finally get down to line six,
+
+395
+00:18:20,988 --> 00:18:23,280
+尽管这看起来像是我在第二条线上定义--
+even though it looked like I was defining on line two--
+
+396
+00:18:23,280 --> 00:18:26,160
+如果一切顺利 我会在第二行定义x--
+and I would have defined x on line two if all had gone well--
+
+397
+00:18:26,160 --> 00:18:29,470
+我们没有到达从右到左复制值的部分
+we didn't get to the part where the value is copied from right to left
+
+398
+00:18:29,470 --> 00:18:31,570
+因为值错误最先发生 
+because the value error happened first.
+
+399
+00:18:31,570 --> 00:18:34,350
+所以这个代码现在是不正确的 
+So this code is just incorrect now.
+
+400
+00:18:34,350 --> 00:18:37,090
+那么 我该如何着手解决这样的问题呢？
+So how do I go about solving something like this?
+
+401
+00:18:37,090 --> 00:18:41,190
+嗯 事实证明 这一尝试还有另一个特点
+Well, it turns out that there's another feature of the try
+
+402
+00:18:41,190 --> 00:18:43,650
+并接受Python支持的语法 即
+and accept syntax that Python supports, which is
+
+403
+00:18:43,650 --> 00:18:46,260
+它还支持关键字Else 
+that it also supports the keyword else.
+
+404
+00:18:46,260 --> 00:18:47,970
+现在 我们以前见过其他的情况 
+Now, we've seen else before.
+
+405
+00:18:47,970 --> 00:18:51,000
+如果你回想一下我们对条件句的讨论 我们看到了if 
+If you think back to our discussion of conditionals, we saw if.
+
+406
+00:18:51,000 --> 00:18:52,290
+我们看到了埃利夫 
+We saw elif.
+
+407
+00:18:52,290 --> 00:18:55,260
+我们看到了其他的 这是一种笼统的 什么
+We saw else, which was kind of this catchall, what
+
+408
+00:18:55,260 --> 00:18:58,200
+你应该在其他事情都不相关的情况下这样做 
+you should do in the event that nothing else is relevant.
+
+409
+00:18:58,200 --> 00:19:02,760
+在这里 除了Python的Try-Expect特性之外 这是一种相同的直觉 
+That's kind of the same intuition here for the try-except feature of Python.
+
+410
+00:19:02,760 --> 00:19:04,560
+你能做的就是这样 
+What you can do is this.
+
+411
+00:19:04,560 --> 00:19:09,450
+您可以尝试执行以下操作 就像我所做的那样 除非出现错误 
+You can try to do the following, as I've done, except if this goes wrong.
+
+412
+00:19:09,450 --> 00:19:13,420
+但如果没出什么差错 那就这么做吧 
+But if nothing goes wrong, else go ahead and do this.
+
+413
+00:19:13,420 --> 00:19:16,620
+所以这是我现在可以解决同样问题的一种方法 
+So this is one way I can solve this same problem now.
+
+414
+00:19:16,620 --> 00:19:21,030
+无论现在是什么情况 Python都会尝试执行第二行 
+No matter what now, Python is going to try to execute line two.
+
+415
+00:19:21,030 --> 00:19:24,030
+如果出现错误 它将执行第三行
+If something goes wrong, it's going to execute lines three
+
+416
+00:19:24,030 --> 00:19:26,500
+四个用于处理该值错误 
+and four to handle that value error.
+
+417
+00:19:26,500 --> 00:19:30,340
+但是 如果您尝试了 并且此代码成功了 
+However, if you try and this code succeeds,
+
+418
+00:19:30,340 --> 00:19:32,880
+那么就不会有例外需要处理 
+then there is no exception to handle.
+
+419
+00:19:32,880 --> 00:19:35,697
+所以你要在这里执行这一行 
+So you're then going to execute this line here.
+
+420
+00:19:35,697 --> 00:19:37,530
+所以 这可能有点令人困惑
+So it's a little confusing, perhaps, in that
+
+421
+00:19:37,530 --> 00:19:41,430
+我们现在把两者都用在条件句中--if Elif Elif Elif 
+we're now using else both for conditionals-- if, elif, elif, elif,
+
+422
+00:19:41,430 --> 00:19:42,060
+不然的话 
+else.
+
+423
+00:19:42,060 --> 00:19:45,840
+我们还对这些try-Expect块使用了Else 
+And we're also using else with these try-except blocks.
+
+424
+00:19:45,840 --> 00:19:46,690
+但那也没关系 
+But that's OK.
+
+425
+00:19:46,690 --> 00:19:47,580
+这是语言的一部分 
+That's part of the language.
+
+426
+00:19:47,580 --> 00:19:48,705
+这是其中一个特点 
+That's one of the features.
+
+427
+00:19:48,705 --> 00:19:54,330
+现在 如果我在我的终端窗口中重新运行这段代码 即number.py的Python--
+So now if I rerun this code in my terminal window, Python of number.py--
+
+428
+00:19:54,330 --> 00:19:56,010
+让我们做一些正确的事情 比如50--
+let's do something correct, like 50--
+
+429
+00:19:56,010 --> 00:19:58,530
+我知道x是50 
+I see that x is 50.
+
+430
+00:19:58,530 --> 00:20:00,420
+所以第一行被执行了 
+So line one is executed.
+
+431
+00:20:00,420 --> 00:20:01,890
+我们正在努力做到以下几点 
+We're trying to do the following.
+
+432
+00:20:01,890 --> 00:20:05,340
+执行第二行是因为转换成功
+Line two is executed because the conversion happened successfully
+
+433
+00:20:05,340 --> 00:20:07,950
+数字50从右到左复制 
+and the number 50 gets copied from right to left.
+
+434
+00:20:07,950 --> 00:20:10,030
+这种例外情况不会发生 
+The exception does not happen.
+
+435
+00:20:10,030 --> 00:20:11,670
+所以我们忽略了第三行和第四行 
+So we ignore lines three and four.
+
+436
+00:20:11,670 --> 00:20:16,110
+我们立即跳到第五行和第六行 打印出结果 
+We jump immediately to line five and six, which prints out the result.
+
+437
+00:20:16,110 --> 00:20:18,810
+相比之下 让我们最后一次来做这件事 
+By contrast, though-- let's do this one last time.
+
+438
+00:20:18,810 --> 00:20:23,160
+PY.--让我们输入cat或任何其他单词 然后按Enter键
+Python of number.py-- let's type in cat or, again, any other word and hit Enter
+
+439
+00:20:23,160 --> 00:20:23,700
+现在 
+now.
+
+440
+00:20:23,700 --> 00:20:25,380
+我们看不到x是什么 
+We don't see what x is.
+
+441
+00:20:25,380 --> 00:20:29,380
+相反 我们看到 不加引号 “x不是一个整数 ”
+Rather, we see, quote unquote, "x is not an integer,"
+
+442
+00:20:29,380 --> 00:20:33,030
+这就是我的例外条款所处理的问题 
+which is what's being handled in my except clause.
+
+443
+00:20:33,030 --> 00:20:35,880
+好了 让我暂停一下 因为这有很多新的语法 
+All right, let me pause here because that's a lot of new syntax,
+
+444
+00:20:35,880 --> 00:20:39,510
+看看这里是否有任何关于尝试的问题 除了 
+and see here if there's any questions on try, on except,
+
+445
+00:20:39,510 --> 00:20:42,870
+On Else、名称错误或值错误 
+on else, name error, or value error.
+
+446
+00:20:42,870 --> 00:20:45,792
+观众：请重复一下Try功能好吗？
+AUDIENCE: Can you please repeat the try function?
+
+447
+00:20:45,792 --> 00:20:47,250
+大卫·马兰：重复这个名字错误？
+DAVID MALAN: Repeat the name error?
+
+448
+00:20:47,250 --> 00:20:48,870
+名字错误有什么问题？
+What's the problem with the name error?
+
+449
+00:20:48,870 --> 00:20:49,200
+观众：是的 
+AUDIENCE: Yes.
+
+450
+00:20:49,200 --> 00:20:49,500
+是 
+Yes.
+
+451
+00:20:49,500 --> 00:20:50,208
+大卫·马兰：是的 
+DAVID MALAN: Yes.
+
+452
+00:20:50,208 --> 00:20:52,710
+所以让我们倒回几句台词
+So let's just rewind a couple of lines here
+
+453
+00:20:52,710 --> 00:20:55,890
+在我解决这个问题之前 现在把其他的都处理掉 
+before I fix this problem by now getting rid of the else.
+
+454
+00:20:55,890 --> 00:21:00,360
+刚才 我们有这样的代码 其中
+A moment ago, we had code that looked like this, whereby
+
+455
+00:21:00,360 --> 00:21:03,780
+我收到了一个名称错误 PYTHON of Numer.py Enter 
+I was getting a name error, Python of number.py, Enter,
+
+456
+00:21:03,780 --> 00:21:07,710
+输入cat 结果如下所示 其中没有定义名称x 
+typing in cat, that looked like this, where name x is not defined.
+
+457
+00:21:07,710 --> 00:21:11,700
+根据这段用Python语言编写的输出 问题出现在第六行 
+And the problem was on line six, according to this output in Python.
+
+458
+00:21:11,700 --> 00:21:13,798
+好 现在让我们演绎地考虑一下 
+Well, let's think about this now deductively.
+
+459
+00:21:13,798 --> 00:21:15,090
+让我们尝试一种不同的方法 
+Let's try a different approach.
+
+460
+00:21:15,090 --> 00:21:18,660
+在第六行 我看到一个错误 没有定义名称x 
+On line six, I'm seeing an error that name x is not defined.
+
+461
+00:21:18,660 --> 00:21:22,150
+好吧 在这一点上 Python已经告诉我x并不存在 
+OK, Python's already telling me x does not exist at that point.
+
+462
+00:21:22,150 --> 00:21:23,820
+那么这怎么可能呢？
+So how could that possibly be?
+
+463
+00:21:23,820 --> 00:21:26,340
+那么 x应该在哪里定义呢？
+Well, where should x be defined?
+
+464
+00:21:26,340 --> 00:21:29,940
+很可能 x的定义在第二行 在这里 
+Well, presumably, x is defined on line two, up here.
+
+465
+00:21:29,940 --> 00:21:31,440
+那么 可能会出什么问题呢？
+So what could go wrong?
+
+466
+00:21:31,440 --> 00:21:35,210
+嗯 如果用户输入了看起来不像数字的东西 
+Well, if the user has inputted something that doesn't look like a number,
+
+467
+00:21:35,210 --> 00:21:40,220
+就像单词猫 传递猫 输入的返回值 
+like the word cat, passing cat, the return value of input,
+
+468
+00:21:40,220 --> 00:21:45,810
+因为将单词转换为int的int参数没有任何意义 
+as the argument to int to convert the word to an int makes no sense.
+
+469
+00:21:45,810 --> 00:21:49,550
+您根本不能将CAT C-A-T转换为整数 
+You can't convert a cat, C-A-T, to an integer at all.
+
+470
+00:21:49,550 --> 00:21:55,370
+因此 int函数在该点引发了一个值错误 
+So the int function is raising a value error at that point.
+
+471
+00:21:55,370 --> 00:21:58,770
+这个错误是用这个代码来处理的 
+And the error is being handled with this code here.
+
+472
+00:21:58,770 --> 00:22:02,150
+但请注意 这第六行没有缩进 
+But notice this line six is not indented.
+
+473
+00:22:02,150 --> 00:22:06,500
+它与我的其余代码左对齐 这意味着无论发生什么 
+It's left aligned with the rest of my code, which means no matter what,
+
+474
+00:22:06,500 --> 00:22:08,240
+第六行将执行 
+line six is going to execute.
+
+475
+00:22:08,240 --> 00:22:12,020
+无论我输入的是50还是CAT 它都会执行 
+It's going to execute whether I typed in 50 or I typed in cat.
+
+476
+00:22:12,020 --> 00:22:15,540
+但如果我再一次输入cat x永远不会得到值 
+But if I typed in cat, again, x never gets a value.
+
+477
+00:22:15,540 --> 00:22:17,990
+所以它没有在这里的第六行定义 
+So it's not defined here on line six.
+
+478
+00:22:17,990 --> 00:22:21,080
+所以 当我最后介绍Else语句时 
+So when I introduced, finally, the else statement, that
+
+479
+00:22:21,080 --> 00:22:23,700
+确保这些东西是相互排斥的 
+makes sure that these things are mutually exclusive.
+
+480
+00:22:23,700 --> 00:22:29,990
+只有当我在上面尝试并成功时 我才会执行Else 
+I only execute the else if I tried and succeeded up above.
+
+481
+00:22:29,990 --> 00:22:35,390
+好吧 让我建议我们再进一步改进一下
+Well, let me propose that we refine this just a little bit further as well
+
+482
+00:22:35,390 --> 00:22:39,380
+并考虑如何进一步改进此示例 
+and consider how we might improve this example a little bit more.
+
+483
+00:22:39,380 --> 00:22:45,950
+我拒绝用户的输入是有点不友好 因为他们
+It's a little unfriendly of me to be rejecting the user's input after they
+
+484
+00:22:45,950 --> 00:22:49,220
+没有提供一个整数 就直接退出程序 真的吗？
+fail to provide an integer and just quitting the program, really, right?
+
+485
+00:22:49,220 --> 00:22:51,950
+如果我只提示用户 它会更友好
+It'd be more user friendly if I just prompt
+
+486
+00:22:51,950 --> 00:22:54,350
+或一次又一次地重新提示用户 
+or reprompt the user again and again.
+
+487
+00:22:54,350 --> 00:22:58,310
+在聊天中 如果可以的话 Python的功能是什么
+And in the chat, if you could, what's the feature of Python
+
+488
+00:22:58,310 --> 00:23:01,340
+如果你想一次又一次地做某事 你可以使用它
+that you can use if you want to do something again and again
+
+489
+00:23:01,340 --> 00:23:04,970
+直到用户与您合作并为您提供
+and again until such time as the user cooperates and gives you
+
+490
+00:23:04,970 --> 00:23:07,370
+你在找什么 比如一个数字？
+what you're looking for, like a number?
+
+491
+00:23:07,370 --> 00:23:09,120
+所以 是的 循环 
+So yeah, loop, loop, loop.
+
+492
+00:23:09,120 --> 00:23:12,360
+所以循环就是一次又一次发生的事情 
+So a loop is something that happens again and again and again.
+
+493
+00:23:12,360 --> 00:23:15,920
+也许我们可以使用同样的机制 循环 按顺序
+And maybe we can use that same mechanism, a loop, in order
+
+494
+00:23:15,920 --> 00:23:17,300
+以提示用户输入x 
+to prompt the user for x.
+
+495
+00:23:17,300 --> 00:23:19,635
+如果他们不给我们一个数字 再次提示他们 
+And if they don't give us a number, prompt them again.
+
+496
+00:23:19,635 --> 00:23:22,010
+如果他们没有 就一次又一次地提示他们 
+And if they don't, prompt them again and again and again.
+
+497
+00:23:22,010 --> 00:23:24,060
+我们不需要就这么退出这个项目 
+We don't need to just quit out of the program.
+
+498
+00:23:24,060 --> 00:23:26,120
+所以 快点--所以让我提出这个建议 
+So, quickly-- so let me propose this.
+
+499
+00:23:26,120 --> 00:23:30,590
+让我在这里建议我通过故意这样做来改进这段代码 
+Let me propose here that I improve this code by deliberately doing this.
+
+500
+00:23:30,590 --> 00:23:36,380
+让我用While True在代码的最顶端引入一个无限循环 
+Let me induce a infinite loop at the very top of my code with while true.
+
+501
+00:23:36,380 --> 00:23:40,400
+回想一下 Wild关键字引发了一个循环 循环的行为如下所示 
+Recall that the wild keyword induces a loop, a cycle that behaves like this.
+
+502
+00:23:40,400 --> 00:23:42,920
+它会问一个问题 一个布尔表达式
+And it asks a question, a Boolean expression
+
+503
+00:23:42,920 --> 00:23:45,420
+这需要计算为真或假 
+that needs to evaluate either to true or false.
+
+504
+00:23:45,420 --> 00:23:47,300
+好吧 如果我想让这个东西永远循环 
+Well, if I want this thing to loop forever,
+
+505
+00:23:47,300 --> 00:23:51,502
+至少在一开始 我们只会说虽然为真 因为真就是真 
+at least initially, we'll just say while true because true is true.
+
+506
+00:23:51,502 --> 00:23:53,210
+所以这有做一些事情的效果
+So this has the effect of doing something
+
+507
+00:23:53,210 --> 00:23:56,600
+不管发生什么 除非我们早点挣脱 
+no matter what forever unless we break out of it early.
+
+508
+00:23:56,600 --> 00:23:58,980
+现在我要继续做这件事 
+Now I'm going to go ahead and do this.
+
+509
+00:23:58,980 --> 00:24:02,420
+我将继续移动我的Try 除了代码
+I'm going to go ahead and move my try except code
+
+510
+00:24:02,420 --> 00:24:06,740
+在这个循环下面缩进 所以我试着得到一个x 
+indented underneath this loop so that I'm trying to get an x.
+
+511
+00:24:06,740 --> 00:24:11,120
+如果我有一个值错误 我会打印出x不是一个整数 
+If I have a value error instead, I print out x is not an integer.
+
+512
+00:24:11,120 --> 00:24:15,230
+但这一次 如果用户这样做了 我想做什么呢
+But this time, what do I want to do if the user does
+
+513
+00:24:15,230 --> 00:24:18,680
+试着成功地给我一个号码？
+try and succeed in giving me a number?
+
+514
+00:24:18,680 --> 00:24:20,100
+好吧 我能做到的 
+Well, I can do this.
+
+515
+00:24:20,100 --> 00:24:22,400
+我可以在这里突破我的密码 
+I can just break out of my code here.
+
+516
+00:24:22,400 --> 00:24:25,160
+现在在这里 我可以使用相同的代码行
+And down here now, I can use that same line of code
+
+517
+00:24:25,160 --> 00:24:31,130
+从前面开始 一个F字符串表示x是 然后在花括号中 又是x 
+from before, an F-string that says x is, and then in curly braces, x again.
+
+518
+00:24:31,130 --> 00:24:32,910
+这是怎么回事？
+So what's going on here?
+
+519
+00:24:32,910 --> 00:24:35,270
+我现在认为这个代码 因为我已经添加了
+I think this code now, because I've added
+
+520
+00:24:35,270 --> 00:24:39,350
+循环 将产生至少尝试一次的效果 也许
+the loop, is going to have the effect of trying at least once, maybe
+
+521
+00:24:39,350 --> 00:24:44,360
+第二次 也许第三次 可能是500次 直到用户最终给出
+a second time, maybe a third time maybe 500 times until the user finally gives
+
+522
+00:24:44,360 --> 00:24:46,610
+告诉我我想要什么 这是一个整数 
+me what I want, which is an integer.
+
+523
+00:24:46,610 --> 00:24:50,000
+一旦他们这样做了 一旦没有值错误发生 
+And once they do, once there's no value error happening,
+
+524
+00:24:50,000 --> 00:24:51,860
+然后我就跳出了圈子 
+then I break out of the loop.
+
+525
+00:24:51,860 --> 00:24:54,350
+正如我所希望的那样 执行第九行 
+And line nine executes as I would hope.
+
+526
+00:24:54,350 --> 00:24:56,540
+所以让我继续试着执行这个版本--
+So let me go ahead and try executing this version--
+
+527
+00:24:56,540 --> 00:24:58,970
+Paython.py 回车 
+Python of number.py, Enter.
+
+528
+00:24:58,970 --> 00:24:59,990
+X是什么？
+What's x?
+
+529
+00:24:59,990 --> 00:25:02,090
+让我先把最简单的东西打进去--
+Let me go ahead and type in the easy thing first--
+
+530
+00:25:02,090 --> 00:25:03,210
+50美元 
+50.
+
+531
+00:25:03,210 --> 00:25:03,710
+X等于50 
+X is 50.
+
+532
+00:25:03,710 --> 00:25:06,680
+就控制流而言 刚刚发生了什么
+What just happened in terms of the control flow
+
+533
+00:25:06,680 --> 00:25:08,780
+这个节目 我的逻辑是什么？
+of this program, the flow of my logic?
+
+534
+00:25:08,780 --> 00:25:11,750
+嗯 我首先发现自己在一个环路内的一号线上 
+Well, I first found myself on line one inside of a loop.
+
+535
+00:25:11,750 --> 00:25:13,370
+希望我能走出这个循环 
+Hopefully, I'll get out of this loop.
+
+536
+00:25:13,370 --> 00:25:14,390
+然后我做了什么？
+What did I then do?
+
+537
+00:25:14,390 --> 00:25:18,080
+在第二行和第三行 我尝试从用户那里获得输入
+On lines two and three, I tried to get input from the user
+
+538
+00:25:18,080 --> 00:25:19,160
+并将其转换为整型 
+and convert it to an int.
+
+539
+00:25:19,160 --> 00:25:20,900
+好吧 这次我是个好人 
+Well, I was a nice guy this time.
+
+540
+00:25:20,900 --> 00:25:23,390
+然后我输入了50 它看起来像是一个数字 
+And I typed in 50, which looks like and is a number.
+
+541
+00:25:23,390 --> 00:25:25,250
+因此 int函数将其转换得很好
+So the int function converted it just fine
+
+542
+00:25:25,250 --> 00:25:28,280
+并将其从右到左存储在x中 
+and stored it from right to left in x.
+
+543
+00:25:28,280 --> 00:25:29,390
+除数值错误外？
+Except value error?
+
+544
+00:25:29,390 --> 00:25:31,760
+没有值错误 因为如果我输入一个数字 
+There is no value error because if I typed in a number,
+
+545
+00:25:31,760 --> 00:25:33,410
+没有什么特别的事情发生 
+there's nothing exceptional happening.
+
+546
+00:25:33,410 --> 00:25:36,930
+这是一个无聊的 很好的执行我的程序 
+This is a boring, good execution of my program.
+
+547
+00:25:36,930 --> 00:25:38,120
+那么会发生什么呢？
+So what happens?
+
+548
+00:25:38,120 --> 00:25:39,810
+我跳出了圈子 
+I break out of the loop.
+
+549
+00:25:39,810 --> 00:25:44,780
+因此 Else子句再一次与try NOT和EXCEPT关联 
+So, again, the else clause is associated with the try not with the except.
+
+550
+00:25:44,780 --> 00:25:47,990
+一旦我退出循环 当然 我只是打印出x是什么 
+And once I'm out of the loop, of course, I'm just printing out what x is.
+
+551
+00:25:47,990 --> 00:25:50,480
+好吧 让我们来看看另一种可能发生的情况 
+Well, let's try the other scenario that might happen.
+
+552
+00:25:50,480 --> 00:25:52,730
+Paython.py 回车 
+Python of number.py, Enter.
+
+553
+00:25:52,730 --> 00:25:53,390
+X是什么？
+What's x?
+
+554
+00:25:53,390 --> 00:25:55,400
+让我们试试猫或其他任何词 
+Let's try cat or any other word.
+
+555
+00:25:55,400 --> 00:25:56,810
+进来吧 
+Enter.
+
+556
+00:25:56,810 --> 00:25:59,510
+啊 这是现在的一个新功能 
+Ah, this is now a new feature.
+
+557
+00:25:59,510 --> 00:26:01,610
+我被告知我做错了什么 
+I'm being informed what I did wrong.
+
+558
+00:26:01,610 --> 00:26:02,790
+X不是整数 
+X is not an integer.
+
+559
+00:26:02,790 --> 00:26:05,120
+所以我得到了一些有用的用户反馈 
+So I'm getting some useful user feedback.
+
+560
+00:26:05,120 --> 00:26:07,520
+但请注意 再次提示我 x是什么？
+But notice, again, I'm prompted, what's x?
+
+561
+00:26:07,520 --> 00:26:09,860
+好的 让我试着输入“狗” 
+Well, let me try typing in dog.
+
+562
+00:26:09,860 --> 00:26:11,040
+X不是整数 
+X is not an integer.
+
+563
+00:26:11,040 --> 00:26:11,750
+X是什么？
+What's x?
+
+564
+00:26:11,750 --> 00:26:13,100
+让我试试伯德 
+Let me try bird.
+
+565
+00:26:13,100 --> 00:26:14,210
+进来吧 
+Enter.
+
+566
+00:26:14,210 --> 00:26:15,330
+X不是整数 
+X is not an integer.
+
+567
+00:26:15,330 --> 00:26:15,830
+X是什么？
+What's x?
+
+568
+00:26:15,830 --> 00:26:19,850
+我要说的是 如果我在无限循环中 这将永远发生
+And suffice it to say, this will happen now forever if I'm in an infinite loop
+
+569
+00:26:19,850 --> 00:26:23,768
+直到我尝试并成功 在这一点上我爆发了 
+until I try and succeed, at which point I break out.
+
+570
+00:26:23,768 --> 00:26:24,560
+所以让我们再试一次 
+So let's try again.
+
+571
+00:26:24,560 --> 00:26:25,480
+50 回车 
+50, Enter.
+
+572
+00:26:25,480 --> 00:26:26,980
+现在我不在圈子里了 
+Now I'm out of the loop.
+
+573
+00:26:26,980 --> 00:26:30,530
+我打印出x的实际值 
+And I'm printing out what x actually is.
+
+574
+00:26:30,530 --> 00:26:33,970
+好吧 让我暂停一下看看有没有问题 
+All right, let me pause here and see if there are any questions.
+
+575
+00:26:33,970 --> 00:26:35,560
+逻辑几乎是一样的 
+The logic is almost the same.
+
+576
+00:26:35,560 --> 00:26:38,080
+但现在不同的是我在一个循环中 
+But what is different now is I'm in a loop.
+
+577
+00:26:38,080 --> 00:26:40,870
+我在Python中使用了关键字break
+And I'm using the keyword break in Python
+
+578
+00:26:40,870 --> 00:26:43,510
+故意跳出循环 当我
+to deliberately break out of the loop when I'm
+
+579
+00:26:43,510 --> 00:26:46,540
+一旦用户合作 就准备好了 
+ready to, once the user has cooperated.
+
+580
+00:26:46,540 --> 00:26:48,910
+记者：我们真的需要分手吗？
+AUDIENCE: Do we really need to break?
+
+581
+00:26:48,910 --> 00:26:51,130
+我们不能直接印出来吗
+Can't we just print?
+
+582
+00:26:51,130 --> 00:26:54,235
+是什么让我们不只是打印？
+Or what keeps us from just printing?
+
+583
+00:26:54,235 --> 00:26:55,360
+大卫·马兰：问得好 
+DAVID MALAN: Good question.
+
+584
+00:26:55,360 --> 00:26:56,290
+我来试试 
+So let me try that.
+
+585
+00:26:56,290 --> 00:26:57,490
+我就不能打印吗？
+Couldn't I just print?
+
+586
+00:26:57,490 --> 00:26:59,240
+好吧 让我们看看如果我这么做会发生什么 
+Well, let's see what happens if I do that.
+
+587
+00:26:59,240 --> 00:27:02,710
+让我把最后的这行打印移动到循环中
+Let me move this print line at the end into my loop
+
+588
+00:27:02,710 --> 00:27:04,380
+因此 缩短了程序 
+here, thereby shortening the program.
+
+589
+00:27:04,380 --> 00:27:06,130
+总的来说 这是一件好事 
+And, in general, that's been a good thing.
+
+590
+00:27:06,130 --> 00:27:08,410
+number.py的Python 输入 
+Python of number.py, Enter.
+
+591
+00:27:08,410 --> 00:27:10,530
+让我继续输入50 
+Let me go ahead and type in 50.
+
+592
+00:27:10,530 --> 00:27:11,410
+x是50 
+OK, x is 50.
+
+593
+00:27:11,410 --> 00:27:13,105
+什么是X？
+What's x?
+
+594
+00:27:13,105 --> 00:27:14,395
+好吧 也许是49 
+OK, maybe it's 49.
+
+595
+00:27:14,395 --> 00:27:15,700
+X是49 
+X is 49.
+
+596
+00:27:15,700 --> 00:27:17,320
+好吧 也许48 
+OK, maybe 48.
+
+597
+00:27:17,320 --> 00:27:19,030
+不幸的是 我觉得 你在笑
+Unfortunately, I think-- you're laughing.
+
+598
+00:27:19,030 --> 00:27:19,530
+你看到了 
+You see it.
+
+599
+00:27:19,530 --> 00:27:22,115
+我从来没有打破循环 这可能是一个特点 
+I never break out of the loop, which maybe that's a feature.
+
+600
+00:27:22,115 --> 00:27:23,740
+也许你想让这成为你的计划 
+Maybe you want this to be your program.
+
+601
+00:27:23,740 --> 00:27:24,282
+但我没有我
+But I didn't.
+
+602
+00:27:24,282 --> 00:27:25,870
+我希望这场游戏最终能结束
+I'd eventually like this game to stop.
+
+603
+00:27:25,870 --> 00:27:28,150
+所以我需要以这种方式突破 
+So I need to break out in that way.
+
+604
+00:27:28,150 --> 00:27:29,890
+但我可以做得不一样 
+But I can do it a little differently.
+
+605
+00:27:29,890 --> 00:27:33,200
+我建议我们稍微修改一下 
+And let me propose that we modify this a little bit.
+
+606
+00:27:33,200 --> 00:27:36,130
+但是 首先 关于这个语法还有其他问题吗？
+But, first, any other questions on this syntax here?
+
+607
+00:27:36,130 --> 00:27:41,302
+让我们回到之前的版本 
+Let me rewind to the prior version.
+
+608
+00:27:41,302 --> 00:27:46,870
+“哈哈 那我就只能用一个人 一个人 一个人 
+AUDIENCE: Hi, can I use a break [INAUDIBLE] except and else?
+
+609
+00:27:46,870 --> 00:27:51,700
+例如 在另一个打印中 您可以使用打印else 
+For example, in another print, may you use printing the else,
+
+610
+00:27:51,700 --> 00:27:55,760
+你可以把指纹和break或类似的东西一起使用吗？
+you can use prints together with break or something like this?
+
+611
+00:27:55,760 --> 00:27:59,110
+DAVID MALAN：所以你可以用break inside of loops来打破循环 
+DAVID MALAN: So you can use break inside of loops to break out of loops.
+
+612
+00:27:59,110 --> 00:28:01,450
+你可以在条件句中使用它 
+And you can use it inside of a conditional,
+
+613
+00:28:01,450 --> 00:28:03,610
+比如如果精灵或者别的
+like an if, an elif, or an else.
+
+614
+00:28:03,610 --> 00:28:06,940
+你可以在一个try except else语句中完成 
+You can do it inside of a try, except, else statement to.
+
+615
+00:28:06,940 --> 00:28:09,190
+任何时候你陷入一个循环 
+Any time you're in a loop that you want to break out
+
+616
+00:28:09,190 --> 00:28:11,110
+你可以使用这个关键字break 
+of, you can use this keyword, break.
+
+617
+00:28:11,110 --> 00:28:13,120
+我在异常的上下文中使用它 
+I'm using it in the context of exceptions.
+
+618
+00:28:13,120 --> 00:28:14,538
+但并不局限于此 
+But it's not restricted to that.
+
+619
+00:28:14,538 --> 00:28:15,580
+我也给你看看 
+And let me show you, too.
+
+620
+00:28:15,580 --> 00:28:17,205
+它甚至不需要在其他地方 
+It doesn't even have to be in the else.
+
+621
+00:28:17,205 --> 00:28:20,140
+如果我想的话 我真的可以这么做 
+If I wanted to, I could actually do this.
+
+622
+00:28:20,140 --> 00:28:21,940
+我可以摆脱我的其他人 
+I could get rid of my else.
+
+623
+00:28:21,940 --> 00:28:26,170
+我可以回到第三行 添加另一行缩进 
+And I could go back to line three, add another line that's indented,
+
+624
+00:28:26,170 --> 00:28:28,910
+4号线 然后在这里下车 
+line four, and break out here.
+
+625
+00:28:28,910 --> 00:28:31,450
+现在 为什么这在逻辑上是可以的？
+Now, why is this logically OK?
+
+626
+00:28:31,450 --> 00:28:34,610
+好吧 想想我现在想要做的事 
+Well, consider what I'm now trying to do.
+
+627
+00:28:34,610 --> 00:28:38,890
+我正在尝试执行第三行 并将用户的输入转换为int 
+I'm trying to execute line three and converting the user's input to an int.
+
+628
+00:28:38,890 --> 00:28:42,910
+我试着把结果从右到左存储在x中 
+And I'm trying to store the result from right to left in x.
+
+629
+00:28:42,910 --> 00:28:45,700
+如果出现问题 我们已经看到的代码
+If something goes wrong, the code we've already seen
+
+630
+00:28:45,700 --> 00:28:48,670
+马上就要跳到第五线了
+is immediately going to jump to line five
+
+631
+00:28:48,670 --> 00:28:51,740
+然后是六个来处理异常 
+and then six to handle the exception.
+
+632
+00:28:51,740 --> 00:28:54,430
+但如果没有出错 我的代码大概
+But if nothing goes wrong, my code presumably
+
+633
+00:28:54,430 --> 00:28:57,410
+应该继续逐行执行 
+should just keep on executing line by line.
+
+634
+00:28:57,410 --> 00:29:00,170
+因此 从技术上讲 我可以从逻辑上断定这一点 
+So I could technically logically put the break here.
+
+635
+00:29:00,170 --> 00:29:02,290
+看看当我运行这个版本时会发生什么 
+And watch what happens when I run this version.
+
+636
+00:29:02,290 --> 00:29:06,520
+ 50 回车 它成功了 
+Python of number.py, 50, Enter, it worked.
+
+637
+00:29:06,520 --> 00:29:08,050
+我跳出了圈子 
+I broke out of the loop.
+
+638
+00:29:08,050 --> 00:29:09,760
+现在 哪种方式更好呢？
+Now, which way is better?
+
+639
+00:29:09,760 --> 00:29:12,460
+老实说 在这一点上 我认为这两种情况都可能发生 
+Honestly, I think it could go either way at this point.
+
+640
+00:29:12,460 --> 00:29:15,100
+这个节目太短了 甚至连
+This program is so relatively short that even
+
+641
+00:29:15,100 --> 00:29:18,760
+虽然我现在正试着做两件事 其中之一 休息 
+though I'm trying to do two things now, one of which, the break,
+
+642
+00:29:18,760 --> 00:29:19,870
+不会失败的 
+is not going to fail.
+
+643
+00:29:19,870 --> 00:29:21,273
+你要么破产 要么不破产 
+You either break or you don't.
+
+644
+00:29:21,273 --> 00:29:24,190
+没有来自用户的数据会影响这一点 
+There's no piece of data from the user that's going to influence that.
+
+645
+00:29:24,190 --> 00:29:27,310
+严格来说 我们不需要在那里有这两行代码 
+We don't strictly need to have those two lines of code there.
+
+646
+00:29:27,310 --> 00:29:28,378
+但只有两行字 
+But it's only two lines.
+
+647
+00:29:28,378 --> 00:29:29,170
+所以我觉得没问题 
+So I think it's OK.
+
+648
+00:29:29,170 --> 00:29:32,128
+如果你回忆起我们过去的讨论 不仅仅是关于正确性的讨论--
+And if you recall our discussion in the past, not just of correctness--
+
+649
+00:29:32,128 --> 00:29:34,720
+代码能正常工作吗？--但是设计 
+does the code work as it should?-- but design,
+
+650
+00:29:34,720 --> 00:29:36,400
+我认为 无论哪种方式 你都可以争辩 
+I think you could argue it either way.
+
+651
+00:29:36,400 --> 00:29:38,860
+如果你更喜欢这篇文章的可读性和事实
+If you prefer the readability of this and the fact
+
+652
+00:29:38,860 --> 00:29:41,050
+你没有其他的了 那很好 
+that you don't have an else, that's fine.
+
+653
+00:29:41,050 --> 00:29:43,420
+但是 如果您更愿意最小化如何
+If, though, you prefer to minimize just how
+
+654
+00:29:43,420 --> 00:29:47,230
+您试图执行的许多代码行 以防出现错误 
+many lines of code you're trying to execute in case something goes wrong,
+
+655
+00:29:47,230 --> 00:29:50,050
+否则 也是一种合理的方法 
+the else is a reasonable approach too.
+
+656
+00:29:50,050 --> 00:29:53,050
+好吧 请允许我也提出建议 因为我们进一步完善了这一点 
+Well, allow me to propose, too, now that we refine this further.
+
+657
+00:29:53,050 --> 00:29:56,290
+我认为我们已经到了非常正确的地步 
+I think we're at the point where it's pretty darn correct.
+
+658
+00:29:56,290 --> 00:30:00,250
+但假设现在我发现自己的今天和明天
+But suppose now that I find myself today and tomorrow
+
+659
+00:30:00,250 --> 00:30:02,890
+试图从用户那里获得相当多的数字 
+trying to get numbers from the user quite a bit.
+
+660
+00:30:02,890 --> 00:30:06,100
+正如我们已经看到的 如果能发明我自己的功能 那就太好了 
+It would be nice, as we've seen, to maybe just invent my own function,
+
+661
+00:30:06,100 --> 00:30:10,160
+获取int以从用户获取今天和明天以及以后的整数 
+get int to get an integer from the user both today and tomorrow and beyond.
+
+662
+00:30:10,160 --> 00:30:12,910
+而且 见鬼 也许我甚至可以和其他人分享这项功能 
+And, heck, maybe I can even share that function with other people.
+
+663
+00:30:12,910 --> 00:30:15,950
+如果他们想要编写程序 他们会从用户那里获得整数 
+If they want to write programs, they get integers from users.
+
+664
+00:30:15,950 --> 00:30:17,767
+那么我该如何着手做这件事呢？
+So how might I go about doing this?
+
+665
+00:30:17,767 --> 00:30:19,850
+好吧 让我继续提议我们这样做 
+Well, let me go ahead and propose that we do this.
+
+666
+00:30:19,850 --> 00:30:22,720
+让我去掉打印线 但把我的大部分循环留在这里 
+Let me get rid of the print line but keep most of my loop here.
+
+667
+00:30:22,720 --> 00:30:27,427
+让我定义一个名为get int的函数 该函数目前不接受任何参数 
+Let me define a function called get int that takes no arguments for now.
+
+668
+00:30:27,427 --> 00:30:30,010
+我将继续缩进我已经编写的所有代码
+And I'm going to go ahead and indent all of the code I already
+
+669
+00:30:30,010 --> 00:30:31,780
+在get int下面写下 
+wrote underneath get int.
+
+670
+00:30:31,780 --> 00:30:37,390
+所以现在我有一个名为get int的函数 它尝试执行以下操作 
+So now I have a function called get int that tries to do the following.
+
+671
+00:30:37,390 --> 00:30:39,177
+试着从用户那里获得它 
+Try to get in it from the user.
+
+672
+00:30:39,177 --> 00:30:41,260
+如果出现错误 并且存在值错误 
+If something goes wrong and there's a value error,
+
+673
+00:30:41,260 --> 00:30:43,360
+用x对他们大喊大叫不是整数 
+yell at them with x is not an integer.
+
+674
+00:30:43,360 --> 00:30:45,130
+否则 休息吧 
+Else, break.
+
+675
+00:30:45,130 --> 00:30:47,890
+但我想在这里做的不仅仅是打破 
+But it's not just breaking that I want to do here.
+
+676
+00:30:47,890 --> 00:30:51,850
+现在我在一个函数中 回想一下我们对返回值的讨论 
+Now that I'm in a function, recall our discussion of return values.
+
+677
+00:30:51,850 --> 00:30:54,858
+如果你正在发明你自己的功能 它在生活中的目的
+If you're inventing your own function whose purpose in life
+
+678
+00:30:54,858 --> 00:30:57,400
+屏幕上的指纹不就像是副作用吗？
+isn't just a print something on the screen like a side effect
+
+679
+00:30:57,400 --> 00:31:01,930
+而是还给你一个价值 还给你一个价值 
+but is to hand back a value, to hand you back a value,
+
+680
+00:31:01,930 --> 00:31:05,180
+就像我们在讨论函数时用的便利贴一样 
+like on that same post-it note from our discussion of functions,
+
+681
+00:31:05,180 --> 00:31:07,570
+那么 你需要显式地返回x 
+well, you need to return x explicitly.
+
+682
+00:31:07,570 --> 00:31:09,225
+我现在如何使用这个功能？
+How do I now use this function?
+
+683
+00:31:09,225 --> 00:31:11,350
+好吧 一旦我们开始制作我们自己的功能 
+Well, as soon as we start making our own functions,
+
+684
+00:31:11,350 --> 00:31:14,590
+也可以方便地定义我们自己的主要功能 
+it tends to be convenient to define our own main function as well.
+
+685
+00:31:14,590 --> 00:31:16,280
+这是我们节目的主要部分 
+That's the main part of our program.
+
+686
+00:31:16,280 --> 00:31:17,697
+我会让这件事变得简单 
+And I'm going to keep this simple.
+
+687
+00:31:17,697 --> 00:31:20,380
+我现在要说 x等于得到int 
+I'm now going to say, x equals get int.
+
+688
+00:31:20,380 --> 00:31:23,500
+然后在下一行 我将从前面开始打印 引用
+And then on the next line, I'm going to do that print from before, quote
+
+689
+00:31:23,500 --> 00:31:25,870
+不引用一句话 “x是”--在花括号里--
+unquote, "x is"-- in curly braces--
+
+690
+00:31:25,870 --> 00:31:26,500
+“x.”
+"x."
+
+691
+00:31:26,500 --> 00:31:28,960
+在我的程序回忆的最底层 
+And at the very bottom of my program recall,
+
+692
+00:31:28,960 --> 00:31:31,240
+我要给Main打电话 所以无论如何 
+I'm going to call main, so that no matter what,
+
+693
+00:31:31,240 --> 00:31:34,480
+在一切都定义好之后 我将调用我的Main函数 
+I'm invoking my main function after everything's been defined.
+
+694
+00:31:34,480 --> 00:31:35,840
+好吧 让我们看看这是怎么回事 
+Well, let's see how this works.
+
+695
+00:31:35,840 --> 00:31:39,710
+让我继续运行Numer.py的Python 
+Let me go ahead and run Python of number.py.
+
+696
+00:31:39,710 --> 00:31:40,310
+进来吧 
+Enter.
+
+697
+00:31:40,310 --> 00:31:41,380
+让我们输入50 
+Let's type in 50.
+
+698
+00:31:41,380 --> 00:31:43,520
+而且它似乎和以前一样奏效 
+And it seems to work as before.
+
+699
+00:31:43,520 --> 00:31:47,330
+让我们继续运行一次 这次输入cat C-A-T 
+Let's go ahead and run it again, typing in cat, C-A-T, this time.
+
+700
+00:31:47,330 --> 00:31:48,380
+X不是整数 
+X is not an integer.
+
+701
+00:31:48,380 --> 00:31:49,520
+我被提示了 
+And I'm being prompted.
+
+702
+00:31:49,520 --> 00:31:51,320
+狗 我被提示了 
+Dog, and I'm being prompted.
+
+703
+00:31:51,320 --> 00:31:52,850
+小鸟 我被提示了 
+Bird, and I'm being prompted.
+
+704
+00:31:52,850 --> 00:31:53,770
+好的 好的 好的 
+Fine, fine, fine.
+
+705
+00:31:53,770 --> 00:31:54,270
+50美元 
+50.
+
+706
+00:31:54,270 --> 00:31:55,640
+这是一个整型 
+That's an int.
+
+707
+00:31:55,640 --> 00:31:57,200
+所以它被印刷出来了 
+And so it is printed.
+
+708
+00:31:57,200 --> 00:32:00,690
+所以这里值得注意的是--我展示了几个很好的特性
+So what's worth noting here-- well, I'm manifesting a couple of good properties
+
+709
+00:32:00,690 --> 00:32:01,190
+这里 
+here.
+
+710
+00:32:01,190 --> 00:32:05,510
+首先 我有点抽象出了获取整数的概念 
+One, I've kind of abstracted away this notion of getting an integer.
+
+711
+00:32:05,510 --> 00:32:07,732
+即使我刚刚人为地按了回车键
+And even though I just artificially hit Enter
+
+712
+00:32:07,732 --> 00:32:10,190
+就是为了暂时隐藏这个功能--
+a whole bunch of times just to hide that function for now--
+
+713
+00:32:10,190 --> 00:32:13,190
+它需要在那里 但我们现在不需要看到它--请注意
+it needs to be there, but we don't need to see it at this point-- notice
+
+714
+00:32:13,190 --> 00:32:15,350
+现在 整个计划真正归结为
+that now this entire program really boils down
+
+715
+00:32:15,350 --> 00:32:17,480
+现在只需这三行代码 
+to just these three lines of code now.
+
+716
+00:32:17,480 --> 00:32:18,110
+为什么？
+Why?
+
+717
+00:32:18,110 --> 00:32:22,040
+因为我已经抽象了从用户那里获取int的整个过程
+Because I've abstracted away that whole process of getting an int from the user
+
+718
+00:32:22,040 --> 00:32:25,250
+我自己的这个名为get int的新函数 
+into this new function of my own called get int.
+
+719
+00:32:25,250 --> 00:32:26,850
+但我能改进这一点吗？
+But can I improve upon this?
+
+720
+00:32:26,850 --> 00:32:29,660
+好了 让我来撤销所有这些空行
+Well, let me go and undo all of those blank lines
+
+721
+00:32:29,660 --> 00:32:32,330
+把这个拉起来 这样我们就可以立刻在屏幕上看到更多 
+and pull this up just so we can see more on the screen at once.
+
+722
+00:32:32,330 --> 00:32:34,910
+我可以加强GET INT的实现吗？
+Can I tighten up my implementation of get int?
+
+723
+00:32:34,910 --> 00:32:35,840
+这是正确的 
+It is correct.
+
+724
+00:32:35,840 --> 00:32:37,220
+我声称这是正确的 
+I claim this is correct.
+
+725
+00:32:37,220 --> 00:32:38,330
+它正在处理错误 
+It's handling errors.
+
+726
+00:32:38,330 --> 00:32:39,440
+它返回x 
+And it's returning x.
+
+727
+00:32:39,440 --> 00:32:43,170
+但严格地说 我不需要写那么长的代码 
+But I don't, strictly speaking, need to write the code as long.
+
+728
+00:32:43,170 --> 00:32:44,790
+我还能做什么？
+What else could I do?
+
+729
+00:32:44,790 --> 00:32:48,710
+好吧 让我提议 如果你在第13行所做的一切都是在破坏
+Well, let me propose that if all you're doing on this line 13 is breaking
+
+730
+00:32:48,710 --> 00:32:51,530
+然后紧接着 根据凹痕 
+and then immediately after that, per the indentation,
+
+731
+00:32:51,530 --> 00:32:56,450
+您在第14行执行了返回x 为什么要浪费大家的时间呢？
+you're executing return x on line 14, why are you wasting everyone's time?
+
+732
+00:32:56,450 --> 00:33:00,440
+一旦您知道准备返回值 就可以返回x 
+Once you know you're ready to return the value, you could just return x.
+
+733
+00:33:00,440 --> 00:33:03,900
+因此 在其他情况下 我可以中断并返回一个值 
+And so in my else, I could break out and return a value.
+
+734
+00:33:03,900 --> 00:33:08,780
+因此 这里也使用Return来从函数返回值 
+So here, too, return is used to return values from functions.
+
+735
+00:33:08,780 --> 00:33:11,780
+Break用于中断循环 
+Break is used to break out of loops.
+
+736
+00:33:11,780 --> 00:33:15,710
+但事实证明 回报比突破更强劲 
+But it turns out that return is sort of stronger than break.
+
+737
+00:33:15,710 --> 00:33:17,960
+它不仅会让你跳出一个循环 
+It will not only break you out of a loop.
+
+738
+00:33:17,960 --> 00:33:20,510
+它还将为您返回值 
+It will also return a value for you.
+
+739
+00:33:20,510 --> 00:33:23,870
+因此 如果你愿意的话 它只做了一次两件事 
+So it's doing two things for once, if you will.
+
+740
+00:33:23,870 --> 00:33:28,100
+但我能把它做得更紧凑吗？
+But can I make this even more compact?
+
+741
+00:33:28,100 --> 00:33:32,690
+如果我的目标只是收紧代码 尽管它已经是正确的 
+If my goal is to just tighten the code up, even though it's already correct,
+
+742
+00:33:32,690 --> 00:33:34,910
+有没有人能想到更进一步的改进 
+can anyone think of a further refinement,
+
+743
+00:33:34,910 --> 00:33:37,730
+您以前是否用过Python语言编程？
+whether you've programmed in Python before or not?
+
+744
+00:33:37,730 --> 00:33:41,330
+我可以将这个实现进一步缩短一点吗 
+Can I shorten this implementation further just a little bit,
+
+745
+00:33:41,330 --> 00:33:43,610
+如果只是为了减少我
+if only to decrease the probability that I've
+
+746
+00:33:43,610 --> 00:33:45,980
+犯了一个错误 少了几行 只是
+made a mistake by having fewer lines and just
+
+747
+00:33:45,980 --> 00:33:49,100
+让它更容易阅读 因为它更短？
+make it a little easier to read because it's shorter?
+
+748
+00:33:49,100 --> 00:33:53,077
+有什么建议可以加强我的GET INT实现吗？
+Any suggestions for tightening up my implementation of get int?
+
+749
+00:33:53,077 --> 00:33:55,160
+观众：您只需在尝试时返回值
+AUDIENCE: You can just return the value on the try
+
+750
+00:33:55,160 --> 00:33:59,720
+功能 当你尝试的时候 
+function, when you're trying.
+
+751
+00:33:59,720 --> 00:34:02,180
+接受输入x 然后返回x 
+You take the input x and then return x.
+
+752
+00:34:02,180 --> 00:34:02,930
+大卫·马兰：很好 
+DAVID MALAN: Good.
+
+753
+00:34:02,930 --> 00:34:05,480
+我们可以把x调高一点 
+We can just return x a little higher up.
+
+754
+00:34:05,480 --> 00:34:07,030
+让我边走边纠正大家 
+And let me correct folks as we go.
+
+755
+00:34:07,030 --> 00:34:08,030
+这不是一个Try函数 
+It's not a try function.
+
+756
+00:34:08,030 --> 00:34:09,739
+从技术上讲 这将是一个尝试的声明 
+It would be a try statement, technically.
+
+757
+00:34:09,739 --> 00:34:12,350
+一个函数通常有一个圆括号和另一个圆括号 
+A function typically has a parentheses and another one.
+
+758
+00:34:12,350 --> 00:34:14,030
+在这种情况下 这只是一个声明 
+In this case, it's just a statement.
+
+759
+00:34:14,030 --> 00:34:15,690
+但我们可以做到这一点 
+But we can do exactly that.
+
+760
+00:34:15,690 --> 00:34:17,300
+严格来说 我不需要其他的 
+I don't technically need the else.
+
+761
+00:34:17,300 --> 00:34:19,340
+如果我真的想 我可以这么做 
+If I really want, I could do this.
+
+762
+00:34:19,340 --> 00:34:22,520
+在第9行之后 我可以在这里返回x 
+Right after line nine, I could return x here.
+
+763
+00:34:22,520 --> 00:34:27,530
+或者回想一下我们有时不必要地定义变量的讨论 
+Or recall our discussion of defining variables unnecessarily sometimes.
+
+764
+00:34:27,530 --> 00:34:29,780
+如果您立即要在此定义变量 为什么要在此定义变量
+Why define a variable here if you're immediately going
+
+765
+00:34:29,780 --> 00:34:31,520
+在这里使用 然后再也不用了？
+to use it here and then never again?
+
+766
+00:34:31,520 --> 00:34:33,860
+这样我们就可以避免在这里排新队了 
+So we could avoid a new line here.
+
+767
+00:34:33,860 --> 00:34:37,340
+我甚至可以避免明确定义x 
+And I could avoid even defining x explicitly.
+
+768
+00:34:37,340 --> 00:34:39,080
+我可以这么说 
+I could just say something like this.
+
+769
+00:34:39,080 --> 00:34:42,889
+我可以返回int 输入 不加引号 “什么是x？”
+I could return int, input, quote unquote, "what's x?"
+
+770
+00:34:42,889 --> 00:34:44,270
+我可以一下子把这一切都做完 
+I can do it all at once.
+
+771
+00:34:44,270 --> 00:34:46,620
+现在 哪个更好？
+Now, which is better?
+
+772
+00:34:46,620 --> 00:34:47,580
+我不知道 
+I don't know.
+
+773
+00:34:47,580 --> 00:34:50,239
+我的意思是 再说一次 这是理性的人可能会有分歧的地方 
+I mean, again, this is where reasonable people might disagree.
+
+774
+00:34:50,239 --> 00:34:53,210
+我认为 一方面 我们正在收紧代码 
+I'd argue that, on the one hand, we're tightening up the code.
+
+775
+00:34:53,210 --> 00:34:54,650
+我们使用的线路更少了 
+We're using fewer lines.
+
+776
+00:34:54,650 --> 00:34:57,890
+它更容易阅读 我犯错误的可能性更低 
+It's easier to read, lower probability that I've made a mistake.
+
+777
+00:34:57,890 --> 00:35:01,640
+从另一方面来说 可能理解起来有点复杂 
+On the other hand, it's a little more complicated to understand, perhaps.
+
+778
+00:35:01,640 --> 00:35:04,070
+我从哪里回来就不那么明显了 
+It's a little less obvious where I'm returning from.
+
+779
+00:35:04,070 --> 00:35:06,050
+因此 我认为无论哪种方式 都可以提出论点 
+So I think arguments can be made either way.
+
+780
+00:35:06,050 --> 00:35:09,530
+归根结底 重要的是你已经有意识地这样做了 
+At the end of the day, what's important is that you've done this consciously.
+
+781
+00:35:09,530 --> 00:35:12,180
+你已经做出了这样或那样做的决定 
+You've made a decision to do it this way or this way.
+
+782
+00:35:12,180 --> 00:35:16,130
+你可以在你的脑海中为它辩护--并不是你的答案是 呃 它奏效了 
+And you can justify it in your mind-- not that your answer is, eh, it worked,
+
+783
+00:35:16,130 --> 00:35:17,210
+所以我就不管它了 
+so I left it alone.
+
+784
+00:35:17,210 --> 00:35:18,080
+有一个很好的理由 
+Have a good reason.
+
+785
+00:35:18,080 --> 00:35:19,205
+想出一个好的理由 
+Come up with a good reason.
+
+786
+00:35:19,205 --> 00:35:22,010
+这将通过经验和实践来实现 
+And that will come with experience and practice.
+
+787
+00:35:22,010 --> 00:35:25,670
+好吧 让我向你提议 我们在这里再做一次改进 
+Well, let me propose to you that we make one other refinement here.
+
+788
+00:35:25,670 --> 00:35:28,910
+假设您发现您的程序有点嘈杂 
+Suppose that you're finding your programs to be a little noisy.
+
+789
+00:35:28,910 --> 00:35:31,370
+你不停地告诉用户 这有点令人讨厌 
+And it's a little obnoxious that you keep telling the user,
+
+790
+00:35:31,370 --> 00:35:32,390
+X不是整数 
+x is not an integer.
+
+791
+00:35:32,390 --> 00:35:33,410
+X不是整数 
+X is not an integer.
+
+792
+00:35:33,410 --> 00:35:34,460
+X不是整数 
+X is not an integer.
+
+793
+00:35:34,460 --> 00:35:38,780
+如果你想让事情变得更温和一点 只是提示一下 那该怎么办
+What if you want to make things a little gentler and just prompt
+
+794
+00:35:38,780 --> 00:35:41,810
+用户再次使用相同的单词 x是什么？
+the user again with the same words, what's x?
+
+795
+00:35:41,810 --> 00:35:42,500
+X是什么？
+What is x?
+
+796
+00:35:42,500 --> 00:35:43,280
+X是什么？
+What's x?
+
+797
+00:35:43,280 --> 00:35:44,330
+再三 
+Again and again.
+
+798
+00:35:44,330 --> 00:35:45,930
+嗯 你也可以这么做 
+Well, you can do that as well.
+
+799
+00:35:45,930 --> 00:35:49,970
+事实证明 如果您想要处理Python中的异常
+And it turns out that if you want to handle an exception in Python
+
+800
+00:35:49,970 --> 00:35:54,590
+但你想用它做任何事情--所以你想抓住它 
+but you want to pass on doing anything with it-- so you want to catch it,
+
+801
+00:35:54,590 --> 00:35:56,510
+但你实际上想要忽略它 
+but you essentially want to ignore it.
+
+802
+00:35:56,510 --> 00:35:57,920
+你不会想打印任何东西的 
+You don't want to print anything.
+
+803
+00:35:57,920 --> 00:35:59,720
+你不会想退出这个项目的 
+You don't want to quit the program.
+
+804
+00:35:59,720 --> 00:36:02,330
+你只想默默地忽略它 就像
+You just want to silently ignore it, like
+
+805
+00:36:02,330 --> 00:36:05,460
+如果你在一间满是人的房间里讲话 而现在轮到你说话
+if you're talking in a room full of people and it's your turn to talk
+
+806
+00:36:05,460 --> 00:36:07,070
+你就像是 算了吧 
+and you're just like, pass.
+
+807
+00:36:07,070 --> 00:36:08,390
+他们还在呼唤你 
+They're still calling on you.
+
+808
+00:36:08,390 --> 00:36:10,610
+但你不会再做什么也不会再说什么 
+But you're not doing or saying anything more.
+
+809
+00:36:10,610 --> 00:36:13,250
+我们可以在这里将这个关键字添加到我们的代码中 
+Well, we can add this keyword to our code here.
+
+810
+00:36:13,250 --> 00:36:15,230
+让我回到我的计划上来 
+Let me go back to my program here.
+
+811
+00:36:15,230 --> 00:36:19,070
+X不是一个整数 而不是一次又一次地打印出来 
+And instead of printing out again and again, x is not an integer,
+
+812
+00:36:19,070 --> 00:36:20,330
+我可以这么做 
+I could just do this.
+
+813
+00:36:20,330 --> 00:36:23,300
+我可以继续处理这个错误 
+I could pass on handling the error further.
+
+814
+00:36:23,300 --> 00:36:24,500
+我还在追赶它 
+I'm still catching it.
+
+815
+00:36:24,500 --> 00:36:28,040
+因此 即使提到值错误 用户也不会看到可怕的消息 
+So the user is not going to see a scary message even mentioning value error.
+
+816
+00:36:28,040 --> 00:36:29,390
+我的代码正在捕捉它 
+My code is catching it.
+
+817
+00:36:29,390 --> 00:36:32,220
+但我不想说任何关于它的事 
+But I'm passing on saying anything about it.
+
+818
+00:36:32,220 --> 00:36:33,470
+我会一直跟你说的 
+I'm going to stay in the loop.
+
+819
+00:36:33,470 --> 00:36:36,512
+我将保持在循环中 并不断提示用户
+I'm going to stay in the loop and keep prompting and reprompting the user
+
+820
+00:36:36,512 --> 00:36:38,790
+所以现在的效果看起来有点像这样 
+so now the effect looks a little something like this.
+
+821
+00:36:38,790 --> 00:36:40,470
+Numer.py的巨蟒 
+Python of number.py.
+
+822
+00:36:40,470 --> 00:36:42,180
+让我们输入cat 
+Let's type in cat.
+
+823
+00:36:42,180 --> 00:36:43,140
+再说一遍x是什么？
+What's x again?
+
+824
+00:36:43,140 --> 00:36:44,310
+让我们输入“狗” 
+Let's type in dog.
+
+825
+00:36:44,310 --> 00:36:45,430
+再说一遍x是什么？
+What's x again?
+
+826
+00:36:45,430 --> 00:36:46,230
+输入鸟 
+Type in bird.
+
+827
+00:36:46,230 --> 00:36:49,290
+所以它只是稍微 也许 更用户友好 你只是
+So it's just a little, maybe, more user friendly and that you're just
+
+828
+00:36:49,290 --> 00:36:50,820
+提醒用户您想要什么 
+reminding the user what you want.
+
+829
+00:36:50,820 --> 00:36:51,810
+也许情况更糟 
+Maybe it's worse.
+
+830
+00:36:51,810 --> 00:36:54,630
+也许告诉用户原因会很有帮助
+Maybe it would be helpful to tell the user why
+
+831
+00:36:54,630 --> 00:36:56,500
+你在一次又一次地提示他们 
+you're prompting them again and again.
+
+832
+00:36:56,500 --> 00:36:57,250
+这并不明显 
+It's not obvious.
+
+833
+00:36:57,250 --> 00:36:58,540
+因此 它可能是双向的 
+So it could go both ways.
+
+834
+00:36:58,540 --> 00:37:02,400
+但是 再说一次 这只是另一种处理这些错误的机制 
+But, again, it's just another mechanism, now, for handling these errors.
+
+835
+00:37:02,400 --> 00:37:05,340
+我们使用EXCEPT关键字来捕获特定的错误 
+We use the except keyword to catch a specific error.
+
+836
+00:37:05,340 --> 00:37:07,620
+但我们不需要处理更多的事情 
+But we don't have to handle it more than that.
+
+837
+00:37:07,620 --> 00:37:10,440
+我们可以继续做一些进一步的事情 
+We can just pass on doing something further.
+
+838
+00:37:10,440 --> 00:37:15,480
+让我在这里暂停一下 看看现在是否有任何问题需要尝试 接受 否则 
+Let me pause here and see if there's any questions now on try, accept, else,
+
+839
+00:37:15,480 --> 00:37:17,522
+还是通过？
+or pass?
+
+840
+00:37:17,522 --> 00:37:18,380
+观众：好的 是的 
+AUDIENCE: OK, yeah.
+
+841
+00:37:18,380 --> 00:37:18,880
+不是的 
+No.
+
+842
+00:37:18,880 --> 00:37:22,220
+我想 我只是对这个想法有点好奇
+I was just kind of curious, I guess, about the idea
+
+843
+00:37:22,220 --> 00:37:27,470
+例如 当您使用GET INT函数进行发明时 
+of when you were inventing with the get int function, for example.
+
+844
+00:37:27,470 --> 00:37:29,660
+因为我注意到 很明显 经历了这一切
+Because I'm noticing, obviously, going through it
+
+845
+00:37:29,660 --> 00:37:33,990
+整个功能的整个逻辑和分解 虽然是真的 
+with the whole logic and breakdown of the entire function, while true,
+
+846
+00:37:33,990 --> 00:37:34,490
+做这件事 
+do this.
+
+847
+00:37:34,490 --> 00:37:37,198
+但我只是有点好奇 想详细解释一下这些凹痕
+But I'm just kind of curious in elaborating with the indentations
+
+848
+00:37:37,198 --> 00:37:38,660
+获取更多代码 
+for the code more.
+
+849
+00:37:38,660 --> 00:37:39,410
+大卫·马兰：是的 
+DAVID MALAN: Yeah.
+
+850
+00:37:39,410 --> 00:37:41,960
+因此 邀请是经过深思熟虑的 
+So the invitation is deliberate logically.
+
+851
+00:37:41,960 --> 00:37:45,500
+有些语言不需要严格的缩进 
+Some languages don't require as rigorous indentation.
+
+852
+00:37:45,500 --> 00:37:47,780
+您可以使用大括号或其他符号
+You can use curly braces or other symbology
+
+853
+00:37:47,780 --> 00:37:49,940
+弄清楚什么与什么有关 
+to make clear what is associated with what.
+
+854
+00:37:49,940 --> 00:37:54,860
+一般来说 任何时候你在这一行上缩进一些东西--
+In general, any time you indent something in Python on this line--
+
+855
+00:37:54,860 --> 00:37:58,250
+相反 任何时候您编写一段代码时 使用的是下面的一行代码
+rather, anytime you write a code a line of code in Python that's here
+
+856
+00:37:58,250 --> 00:38:00,950
+它下面的线条不知何故缩进了 
+and the lines below it are somehow indented,
+
+857
+00:38:00,950 --> 00:38:04,700
+这意味着这些行以某种方式与第一行相关联 
+that means that those lines are somehow associated with that first line.
+
+858
+00:38:04,700 --> 00:38:07,370
+而且 想必这些缩进的行应该只
+And, presumably, those indented lines should only
+
+859
+00:38:07,370 --> 00:38:13,040
+如果第一行告诉计算机这样做 则执行 
+be executed if the first line told the computer to do so.
+
+860
+00:38:13,040 --> 00:38:14,900
+那么 具体地说 这意味着什么？
+So, concretely, what does this mean?
+
+861
+00:38:14,900 --> 00:38:17,660
+在这里的第六行 我们定义了一个名为
+On line six here, we're defining a function called
+
+862
+00:38:17,660 --> 00:38:20,660
+不带参数的GET 冒号 
+get in that takes no arguments, colon.
+
+863
+00:38:20,660 --> 00:38:24,080
+缩进至少有四个空格的所有内容
+Everything that's indented by at least four spaces
+
+864
+00:38:24,080 --> 00:38:26,160
+此后是该功能的一部分 
+hereafter is part of that function.
+
+865
+00:38:26,160 --> 00:38:26,660
+为什么？
+Why?
+
+866
+00:38:26,660 --> 00:38:29,450
+这只是Python语言的设计 
+That's just the design of the Python language.
+
+867
+00:38:29,450 --> 00:38:33,230
+坦率地说 我认为设计者已经厌倦了在语言中看到非常难看的代码
+Frankly, I think the designers got tired of seeing really ugly code in languages
+
+868
+00:38:33,230 --> 00:38:40,310
+如C、C++和Java 它们不一定对此强制缩进
+like C and C++ and Java that don't necessarily enforce indentation to this
+
+869
+00:38:40,310 --> 00:38:40,980
+范围 
+extent.
+
+870
+00:38:40,980 --> 00:38:42,770
+所以现在它已经融入到了语言中 
+So now it's baked into the language.
+
+871
+00:38:42,770 --> 00:38:44,390
+我的年表可能有点错了 
+And my chronology might be a little off there.
+
+872
+00:38:44,390 --> 00:38:47,057
+但在以下情况下 有许多语言比Python更松散
+But there's been many languages that are looser than Python when
+
+873
+00:38:47,057 --> 00:38:48,980
+这涉及到缩进 
+it comes to indentation.
+
+874
+00:38:48,980 --> 00:38:51,770
+第七行的缩进也很有意义 
+The indentation is meaningful on line seven too.
+
+875
+00:38:51,770 --> 00:38:55,100
+请注意 因为WHILE TRUE由四个空格缩进 
+Notice that because the while true is indented by four spaces.
+
+876
+00:38:55,100 --> 00:38:57,270
+这只是意味着它是GET INT函数的一部分 
+That just means it's part of the get int function.
+
+877
+00:38:57,270 --> 00:39:01,400
+但请注意下面的While True语句 有8个 有12个 
+But notice below the while true statement, there is eight, there's 12,
+
+878
+00:39:01,400 --> 00:39:03,435
+这里有8个空位 有12个空位 
+there's eight, there's 12 spaces here.
+
+879
+00:39:03,435 --> 00:39:05,060
+我只是在快速地数点数字 
+And I'm just quickly counting the dots.
+
+880
+00:39:05,060 --> 00:39:07,550
+这意味着我刚才突出显示的所有行
+That means that all of the lines I've just highlighted
+
+881
+00:39:07,550 --> 00:39:09,590
+都在While循环中 
+are inside of that while loop.
+
+882
+00:39:09,590 --> 00:39:13,430
+虽然True意味着执行第8行到第11行 但潜在地 
+While true means to execute lines eight through 11, potentially,
+
+883
+00:39:13,430 --> 00:39:14,630
+一遍又一遍又一遍 
+again and again and again.
+
+884
+00:39:14,630 --> 00:39:20,330
+最后 在第八行 因为我们已经尝试并缩进了下面
+And now, lastly, on line eight, because we have try and indented below
+
+885
+00:39:20,330 --> 00:39:23,630
+这是第九行 这只是意味着你应该尝试
+it is line nine, that just means that what you should try
+
+886
+00:39:23,630 --> 00:39:24,950
+就是九号线上的内容 
+is what's on line nine.
+
+887
+00:39:24,950 --> 00:39:29,030
+同样 在第10行 在它下面 我们缩进了第11行 
+And similarly, on line 10, below it, we have indented line 11.
+
+888
+00:39:29,030 --> 00:39:33,840
+仅当存在值错误的异常时才应传递 
+You should only pass when there is an exception of a value error.
+
+889
+00:39:33,840 --> 00:39:37,043
+所以缩进只是表示什么与什么相关联 
+So the indentation just means what is associated with what.
+
+890
+00:39:37,043 --> 00:39:38,960
+一旦你对此感到满意 你就会
+And once you get comfortable with that, you'll
+
+891
+00:39:38,960 --> 00:39:43,670
+请注意 缩进本身就有助于解释程序的逻辑 
+see that the indentation alone helps explain the logic of your program.
+
+892
+00:39:43,670 --> 00:39:47,630
+它有一个很棒的副作用 第二天早上对你来说 
+And it has a wonderful side effect that for yourself the next morning,
+
+893
+00:39:47,630 --> 00:39:51,080
+给你的同事、家人、朋友、老师、代码
+for your colleagues, your family, your friends, your teachers, your code
+
+894
+00:39:51,080 --> 00:39:55,640
+其结果是可读性更强 这不是一大堆乱七八糟的文本 
+is much more readable as a result. It's not one big mess of a blob of text.
+
+895
+00:39:55,640 --> 00:39:59,780
+现在正在尝试的其他问题 除了 其他 还是通过？
+Other questions now on try, except, else, or pass?
+
+896
+00:39:59,780 --> 00:40:01,460
+观众：是的 谢谢 
+AUDIENCE: Yeah, thanks.
+
+897
+00:40:01,460 --> 00:40:02,870
+两个问题 
+Two question.
+
+898
+00:40:02,870 --> 00:40:08,060
+问题一--一旦你说通过 呼叫者能否
+Question one-- once you say pass, can the caller
+
+899
+00:40:08,060 --> 00:40:14,420
+还能通过系统变量或其他什么方式了解这个时代吗？
+still learn anything about this era through a system variable or whatever?
+
+900
+00:40:14,420 --> 00:40:19,410
+问题二--习题集零引用了一些字符串方法 
+And question two-- problem set zero referenced some string methods,
+
+901
+00:40:19,410 --> 00:40:21,680
+包括数字--
+including is numeric--
+
+902
+00:40:21,680 --> 00:40:27,165
+这与[INAUDIBLE]有什么不同吗？
+is it any different to [INAUDIBLE]?
+
+903
+00:40:27,165 --> 00:40:28,290
+大卫·马兰：问得好 
+DAVID MALAN: Good question.
+
+904
+00:40:28,290 --> 00:40:30,860
+所以在第一个问题上 如果我以这种方式处理错误 
+So on the first question, if I'm handling the error in this way,
+
+905
+00:40:30,860 --> 00:40:32,943
+打电话的人不会知道这件事的 
+the caller is not going to know anything about it.
+
+906
+00:40:32,943 --> 00:40:37,250
+这就是我处理它的意义所在 这样主调用方或其他调用方不会知道
+That's the point of my handling it, so that main or other callers don't know
+
+907
+00:40:37,250 --> 00:40:38,960
+从技术上讲出了什么问题 
+that anything technically went wrong.
+
+908
+00:40:38,960 --> 00:40:41,960
+关于第二个问题 数字是另一个函数
+On the second question, is numeric is another function
+
+909
+00:40:41,960 --> 00:40:44,600
+您可以调用它 它可以查看字符串并确定
+that you can call that can look at a string and determine
+
+910
+00:40:44,600 --> 00:40:46,340
+事实上 这是一个数字吗 
+is this, in fact, a number.
+
+911
+00:40:46,340 --> 00:40:48,650
+我可以使用这样的机械装置 
+I could use a mechanism like that.
+
+912
+00:40:48,650 --> 00:40:50,180
+我可以用一个有条件的 
+I could use a conditional.
+
+913
+00:40:50,180 --> 00:40:54,020
+如果这看起来像一个数字 则将其传递给int函数 
+If this looks like a number, then pass it to the int function.
+
+914
+00:40:54,020 --> 00:40:56,030
+然后继续并将其转换为整数 
+And go ahead and convert it to an integer.
+
+915
+00:40:56,030 --> 00:40:57,410
+这完全没问题 
+That's totally fine.
+
+916
+00:40:57,410 --> 00:41:02,150
+我通常会说 毕德式的做事方式通常是 
+I would generally say that the Pythonic way of doing things is often,
+
+917
+00:41:02,150 --> 00:41:05,630
+不管是好是坏 尝试一些事情 希望它们能奏效 
+for better or for worse, to try things, hope they work.
+
+918
+00:41:05,630 --> 00:41:08,160
+但如果它们不这样做 则处理异常 
+But if they don't, handle the exception.
+
+919
+00:41:08,160 --> 00:41:13,700
+所以其他语言更倾向于检查if、Elif、Else
+So other languages are more in favor of checking if, if, if, if, elif, else,
+
+920
+00:41:13,700 --> 00:41:15,080
+以及所有这些条件句 
+and all of these conditionals.
+
+921
+00:41:15,080 --> 00:41:19,460
+Python倾向于更多一点的思维定势 嗯 试试吧 
+Python tends to be a little more of the mindset, eh, try it.
+
+922
+00:41:19,460 --> 00:41:21,510
+但只要确保您正在处理错误即可 
+But just make sure you're handling the error.
+
+923
+00:41:21,510 --> 00:41:23,438
+所以这将是一种毕德式的方式 
+So this would be the Pythonic way of doing it.
+
+924
+00:41:23,438 --> 00:41:26,480
+不过 你的方式--检查条件句 它是不是先是一个数字？
+Your way, though-- checking with the conditional, is it a number first?--
+
+925
+00:41:26,480 --> 00:41:29,940
+也完全合理 如果你想走那条路的话 
+is totally reasonable too, if you want to go that way.
+
+926
+00:41:29,940 --> 00:41:32,000
+好吧 让我提出一些最后的改进意见
+Well, let me propose some final refinements
+
+927
+00:41:32,000 --> 00:41:34,970
+对这个项目来说 这真的让事情变得更加紧张 
+to this program that really just kind of tighten things up,
+
+928
+00:41:34,970 --> 00:41:39,170
+另一个步骤 以改善这一点的实施
+one additional step to improve the implementation of this
+
+929
+00:41:39,170 --> 00:41:40,220
+获取int函数 
+get int function.
+
+930
+00:41:40,220 --> 00:41:44,870
+让我建议我们不进行硬编码 也就是手动输入x
+Let me propose that we not hard code, so to speak-- that is type manually x
+
+931
+00:41:44,870 --> 00:41:45,900
+到处都是 
+all over the place.
+
+932
+00:41:45,900 --> 00:41:49,130
+让我们使这个函数get int更具可重用性 
+Let's make this function, get int, a little more reusable.
+
+933
+00:41:49,130 --> 00:41:53,870
+现在 请注意 我只是在使用荣誉系统 嗯 Main
+Right now, notice that I'm just kind of using the honor system that, well, main
+
+934
+00:41:53,870 --> 00:41:55,940
+定义了一个名为x的变量 
+is defining a variable called x.
+
+935
+00:41:55,940 --> 00:41:59,960
+Get int请求一个名为x的变量 
+And get int is asking for a variable called x.
+
+936
+00:41:59,960 --> 00:42:02,720
+但如果呼叫者Main 
+But it would be nice if the caller, main,
+
+937
+00:42:02,720 --> 00:42:07,140
+不需要知道Call-ee正在给它的变量命名什么 反之亦然 
+doesn't have to know what the call-ee is naming its variables and vise versa.
+
+938
+00:42:07,140 --> 00:42:09,620
+所以Caller--调用一个函数就是使用它 
+So caller-- to call a function means to use it.
+
+939
+00:42:09,620 --> 00:42:11,750
+调用方是使用它的函数 
+The caller is the function that's using it.
+
+940
+00:42:11,750 --> 00:42:14,420
+Call-ee就是被调用的函数 
+The call-ee is just the function being called.
+
+941
+00:42:14,420 --> 00:42:18,920
+如果我不只是希望x在两个地方是相同的 那就太好了 
+It would be nice if I'm not just hoping that x is the same in both places.
+
+942
+00:42:18,920 --> 00:42:20,530
+因此 让我提出这一点 
+So let me propose this.
+
+943
+00:42:20,530 --> 00:42:27,070
+让我建议我们实际上添加一个参数来获取int 如下所示 
+Let me propose that we actually add a parameter to get int, like this.
+
+944
+00:42:27,070 --> 00:42:28,330
+X是什么？
+What's x?
+
+945
+00:42:28,330 --> 00:42:31,540
+也就是说 如果main想要使用get int函数 
+That is to say, if main wants to use the get int function,
+
+946
+00:42:31,540 --> 00:42:35,110
+那么main应该告诉get int函数什么
+well, then main should probably tell the get int function what
+
+947
+00:42:35,110 --> 00:42:36,310
+提示向用户显示 
+prompt to show the user.
+
+948
+00:42:36,310 --> 00:42:40,090
+就像Python附带的输入函数一样 这取决于您
+Just like the input function, recall, that comes with Python, it's up to you
+
+949
+00:42:40,090 --> 00:42:45,320
+传递一个提示 当用户被要求输入时 用户将看到该提示 
+to pass in a prompt that the user then sees when the human is asked for input.
+
+950
+00:42:45,320 --> 00:42:47,230
+那么 我怎么才能让这一切在这里发挥作用呢？
+So how do I make this work here?
+
+951
+00:42:47,230 --> 00:42:49,390
+我可以深入了解我对get int的定义 
+I can go down to my definition of get int.
+
+952
+00:42:49,390 --> 00:42:53,080
+我可以说 好的 get int现在要接受一个参数 
+And I can say, all right, get int is going to take a parameter now,
+
+953
+00:42:53,080 --> 00:42:53,770
+已调用提示 
+called prompt.
+
+954
+00:42:53,770 --> 00:42:55,103
+我可以随心所欲地叫它 
+I could call it anything I want.
+
+955
+00:42:55,103 --> 00:42:57,550
+但英语中的Prompt非常不言自明 
+But prompt in English is pretty self-explanatory.
+
+956
+00:42:57,550 --> 00:42:59,950
+这意味着用户将看到的消息 
+It means the message the user will see.
+
+957
+00:42:59,950 --> 00:43:02,800
+现在 在这里 当我实际使用输入时 
+And now, down here, when I actually use input,
+
+958
+00:43:02,800 --> 00:43:05,380
+我不需要冒昧地说 x是什么？
+I don't have to presumptuously say, what's x?
+
+959
+00:43:05,380 --> 00:43:08,110
+因为如果程序 调用者想要
+Because what if the program, the caller, wants
+
+960
+00:43:08,110 --> 00:43:10,900
+问y或z或其他一些变量？
+to ask for y or z or some other variable?
+
+961
+00:43:10,900 --> 00:43:15,800
+我只需传递以输入调用者提供的任何提示即可 
+I can just pass to input whatever prompt the caller has provided.
+
+962
+00:43:15,800 --> 00:43:18,280
+因此 现在我正在编写更多可重复使用的代码 
+So now I'm making more reusable code.
+
+963
+00:43:18,280 --> 00:43:20,030
+它仍然可以照旧工作 
+It still works just the same.
+
+964
+00:43:20,030 --> 00:43:22,120
+就其本身而言 我并没有改变功能 
+I haven't changed the functionality, per se.
+
+965
+00:43:22,120 --> 00:43:24,490
+但现在它更有活力了 因为现在
+But now it's a little more dynamic because now
+
+966
+00:43:24,490 --> 00:43:28,690
+GET INT不必知道或关心所请求的变量 
+get int doesn't have to know or care what variable's being asked for,
+
+967
+00:43:28,690 --> 00:43:29,890
+他们要的是什么 
+what's being asked for.
+
+968
+00:43:29,890 --> 00:43:33,410
+它只需要知道应该向用户显示什么提示即可 
+It just needs to know what prompt it should show to the user.
+
+969
+00:43:33,410 --> 00:43:37,900
+因此 如果我现在在这里运行这个程序 再次提示number.py 输入 
+So if I now run this program down here, again, prompt number.py, Enter,
+
+970
+00:43:37,900 --> 00:43:38,620
+X是什么？
+what's x?
+
+971
+00:43:38,620 --> 00:43:40,480
+50美元似乎仍然有效 
+50 still seems to work.
+
+972
+00:43:40,480 --> 00:43:41,300
+让我们再运行一次 
+Let's run it again.
+
+973
+00:43:41,300 --> 00:43:42,220
+让我们输入cat 
+Let's type in cat.
+
+974
+00:43:42,220 --> 00:43:43,670
+它似乎仍在发挥作用 
+It still seems to work.
+
+975
+00:43:43,670 --> 00:43:46,210
+如果我输入猫、狗、鸟或其他任何东西 
+And if I type in cat, dog, bird, or anything else,
+
+976
+00:43:46,210 --> 00:43:49,390
+它将继续用相同的提示提示我 生成这个代码 
+it will keep prompting me with that same prompt, making this code,
+
+977
+00:43:49,390 --> 00:43:51,730
+因此 这一切都更加有用 
+therefore, all the more usable.
+
+978
+00:43:51,730 --> 00:43:55,150
+现在也证明了 您甚至可以自己引发异常
+Now it turns out, too, you can even raise exceptions yourself
+
+979
+00:43:55,150 --> 00:43:57,160
+使用了Python的RAISE关键字 
+using Python's raise keyword.
+
+980
+00:43:57,160 --> 00:43:59,330
+但下次会有更多这方面的内容 
+But more on that another time.
+
+981
+00:43:59,330 --> 00:44:01,960
+所以在接下来的几天 接下来的几周 接下来的几个月 
+So in the coming days, the coming weeks, the coming months,
+
+982
+00:44:01,960 --> 00:44:05,560
+随着您用Python编写更多的代码 您会发现错误是不可避免的 
+as you write more code in Python, you'll see that errors are inevitable.
+
+983
+00:44:05,560 --> 00:44:07,510
+有时它们是语法错误 您已经
+Sometimes they're syntax errors, which you've
+
+984
+00:44:07,510 --> 00:44:10,460
+如果你真的想运行你的程序 那你就得修好它 
+got to just fix if you even want to run your program at all.
+
+985
+00:44:10,460 --> 00:44:12,490
+但它们可能是名称错误--例如 
+But they could be name errors-- for instance,
+
+986
+00:44:12,490 --> 00:44:15,880
+你想定义但不知何故没有定义的变量--值错误 
+variables that you meant to define but somehow didn't-- value errors,
+
+987
+00:44:15,880 --> 00:44:19,090
+可能用户不合作 为您提供了一些
+where maybe the user didn't cooperate and provided you with something that
+
+988
+00:44:19,090 --> 00:44:23,980
+您没有预料到 或者其他可能的错误或异常的完整列表 
+you weren't expecting, or a whole list of other possible errors or exceptions.
+
+989
+00:44:23,980 --> 00:44:26,800
+但现在 希望您知道如何处理这些错误
+But now, hopefully, you know how you can handle these errors
+
+990
+00:44:26,800 --> 00:44:29,080
+并以任何你喜欢的方式回应他们 
+and respond to them in any way you like.
+
+991
+00:44:29,080 --> 00:44:31,000
+因此 这就是我们对例外情况的看法 
+This, then, was our look at exceptions.
+
+992
+00:44:31,000 --> 00:44:33,720
+我们下次再见 
+And we'll see you next time.
+

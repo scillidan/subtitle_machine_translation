@@ -1,0 +1,284 @@
+﻿1
+00:00:00,000 --> 00:00:08,000
+Welcome back to another video editing tutorial using the free software Kdenlive.
+
+2
+00:00:08,000 --> 00:00:13,000
+In this video, we're going to be adding audio to our video clip and then controlling the volume of that audio.
+
+3
+00:00:13,000 --> 00:00:21,000
+We'll do fade in, fade out, and I'll show you how to raise and lower the volume of the video at different points in the video.
+
+4
+00:00:21,000 --> 00:00:23,000
+So to get started, let's pull in.
+
+5
+00:00:23,000 --> 00:00:29,000
+In fact, I'm going to pull in a video that already has some audio.
+
+6
+00:00:29,424 --> 00:00:35,424
+Am I? No, I don't know if I do. Okay, yeah, I will. So I have this rain runoff, and I also have this audio file.
+
+7
+00:00:35,424 --> 00:00:44,424
+So this rain is just rain hitting against the window. It's actually the only video clip I have that has some audio with it.
+
+8
+00:00:44,424 --> 00:00:48,424
+We can play and listen to what this sounds like.
+
+9
+00:00:48,424 --> 00:00:55,424
+So if I want to separate out this audio, I can right click and go to split audio. I think we've done this in the past.
+
+10
+00:00:55,424 --> 00:00:58,736
+These are still tied together. If I want them to be untied, I can right click.
+
+11
+00:00:58,736 --> 00:01:04,736
+And go to Ungroup Clips. And now I can move them around independent of each other.
+
+12
+00:01:04,736 --> 00:01:09,736
+So maybe there's like a loud portion of this thunder. I'm not sure what this is. Let's listen to this.
+
+13
+00:01:12,736 --> 00:01:16,736
+So yeah, I can just see, you can see the waveform down there. It gets a little bit louder, a little bit bigger.
+
+14
+00:01:16,736 --> 00:01:23,736
+Let's scroll down and look at that. And so let's apply an audio effect to this.
+
+15
+00:01:23,736 --> 00:01:27,736
+So we go up here to our effects. And we have different audio things we can apply.
+
+16
+00:01:28,512 --> 00:01:34,512
+So we can like change the bass, we can do like equalization, add echo, all kinds of different things.
+
+17
+00:01:34,512 --> 00:01:38,512
+If you're wanting to change audio though, I would recommend not doing so much of this.
+
+18
+00:01:38,512 --> 00:01:43,512
+And I would recommend using Audacity. Check out some video tutorials on using Audacity.
+
+19
+00:01:43,512 --> 00:01:48,512
+So you can actually export this. In fact, if you drag and drop a video file into Audacity,
+
+20
+00:01:48,512 --> 00:01:52,512
+you can import just the audio portion of it, which is pretty cool.
+
+21
+00:01:52,512 --> 00:01:56,512
+And then you can bring that audio in separately. So I wouldn't worry about most of these.
+
+22
+00:01:56,512 --> 00:01:58,448
+Most of what you're going to want to do...
+
+23
+00:01:58,448 --> 00:02:02,948
+for audio in KdenLive, is just do these audio corrections.
+
+24
+00:02:02,948 --> 00:02:05,448
+So you can mute. You can do...
+
+25
+00:02:05,448 --> 00:02:09,448
+What I want to show you in this one is doing volume keyframable.
+
+26
+00:02:09,448 --> 00:02:13,448
+So we're going to add this volume over. And what it lets us do
+
+27
+00:02:13,448 --> 00:02:16,448
+is change the volume based on a certain point.
+
+28
+00:02:16,448 --> 00:02:18,448
+So we hit this...
+
+29
+00:02:18,448 --> 00:02:21,448
+If we go to this first frame, in the last video we kind of learned
+
+30
+00:02:21,448 --> 00:02:25,448
+a little bit about animation and keyframes in KdenLive.
+
+31
+00:02:25,448 --> 00:02:28,032
+So if you missed that one, this might be a little bit...
+
+32
+00:02:28,032 --> 00:02:31,432
+Hard to wrap your head around, but we have these different keyframes.
+
+33
+00:02:31,432 --> 00:02:36,032
+So at a certain point, maybe like this far into the video, at this point,
+
+34
+00:02:36,032 --> 00:02:39,232
+we want to click this plus sign and add a keyframe here.
+
+35
+00:02:39,232 --> 00:02:44,432
+And then we can change the volume between from this point to this point.
+
+36
+00:02:44,432 --> 00:02:47,432
+We can have the volume fade up, for example.
+
+37
+00:02:47,432 --> 00:02:51,232
+So we can have it be very soft.
+
+38
+00:02:51,232 --> 00:02:54,832
+Where's that?
+
+39
+00:02:54,832 --> 00:02:57,832
+So we have it start like basically none.
+
+40
+00:02:57,936 --> 00:03:01,396
+And then we can have it go louder by the time it gets to this point.
+
+41
+00:03:01,396 --> 00:03:05,936
+And the cool thing I like about this is we don't have to just control the volume here even though we can.
+
+42
+00:03:05,936 --> 00:03:09,936
+But look what's happening down here. We can see these different points.
+
+43
+00:03:09,936 --> 00:03:16,936
+And so we can actually change the volume and we can move that key frame around just by changing it on here.
+
+44
+00:03:16,936 --> 00:03:21,936
+So we can say get loud here and if we double click on there we can add another key frame in.
+
+45
+00:03:21,936 --> 00:03:24,936
+And we can say then get soft here for a little bit.
+
+46
+00:03:25,168 --> 00:03:28,928
+And then we can double click and say get really loud right here.
+
+47
+00:03:28,928 --> 00:03:32,768
+And we can just kind of change the volume of this and then we can be like and by the very
+
+48
+00:03:32,768 --> 00:03:35,648
+end drop off and be quiet again.
+
+49
+00:03:35,648 --> 00:03:40,888
+So what we've done we've set different volumes for different points of this video.
+
+50
+00:03:40,888 --> 00:03:43,128
+So now we'll play it and see.
+
+51
+00:03:43,128 --> 00:03:48,048
+So it starts out kind of soft.
+
+52
+00:03:48,048 --> 00:03:49,048
+Really loud.
+
+53
+00:03:49,048 --> 00:03:51,928
+And then it gets softer again.
+
+54
+00:03:52,976 --> 00:03:57,976
+So that's one way that we can do the volume. There's also some simple things like fade.
+
+55
+00:03:57,976 --> 00:04:02,976
+If we just apply a fade in, it'll just do like a fade in on the audio.
+
+56
+00:04:02,976 --> 00:04:05,976
+We can do a fade out on the audio.
+
+57
+00:04:05,976 --> 00:04:12,976
+But really, the really powerful one is this volume key frameable, which lets you change the volume.
+
+58
+00:04:12,976 --> 00:04:17,976
+If you have a podcast, for example, you might have some introduction music on your podcast.
+
+59
+00:04:17,976 --> 00:04:21,976
+And then you want to lower the volume down while you're talking.
+
+60
+00:04:22,384 --> 00:04:25,984
+Like this. And then towards the end, you raise up the volume again.
+
+61
+00:04:27,104 --> 00:04:32,984
+You know, so it might look something like this if you're doing a podcast loud and then soft during the talking and then loud again at the end.
+
+62
+00:04:33,904 --> 00:04:38,704
+Anyway, that's just kind of what I wanted to show you as far as how to change volume and
+
+63
+00:04:39,344 --> 00:04:43,864
+yeah, adjust sound and music within CadenLive. Go ahead and play with a lot of these though.
+
+64
+00:04:43,864 --> 00:04:50,984
+You've got gain. If we delete this, right, we can apply gain and just change the volume like for the whole thing.
+
+65
+00:04:51,312 --> 00:04:53,912
+From start to finish, it doesn't like fade at all.
+
+66
+00:04:53,912 --> 00:04:58,312
+We can do like, I don't know, normalize audio channels,
+
+67
+00:04:58,312 --> 00:05:02,312
+like pan between left and right and different things.
+
+68
+00:05:02,312 --> 00:05:04,312
+So yeah, play with some of those different audio,
+
+69
+00:05:04,312 --> 00:05:06,312
+these audio effects and get familiar with them
+
+70
+00:05:06,312 --> 00:05:09,312
+and it's going to help you create better video projects in the future.
+
+71
+00:05:09,312 --> 00:05:12,312
+Thanks for watching. Catch you in the next video.
+

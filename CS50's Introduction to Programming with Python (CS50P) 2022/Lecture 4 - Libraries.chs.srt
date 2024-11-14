@@ -1,0 +1,7846 @@
+
+1
+00:00:00,000 --> 00:00:03,472
+[音乐播放]
+[MUSIC PLAYING]
+
+2
+00:00:23,808 --> 00:00:27,290
+大卫·马兰：好的 这是CS50 介绍
+DAVID MALAN: All right, this is CS50, Introduction
+
+3
+00:00:27,290 --> 00:00:28,610
+用Python编程
+to Programming with Python.
+
+4
+00:00:28,610 --> 00:00:31,640
+我叫大卫·马兰 这是我们的图书馆周 
+My name is David Malan, and this is our week on library.
+
+5
+00:00:31,640 --> 00:00:35,540
+所以库通常是其他人
+So libraries are generally files of code that other people
+
+6
+00:00:35,540 --> 00:00:39,315
+你可以在你自己的程序或库的代码中使用
+have written that you can use in your own programs or a library's code
+
+7
+00:00:39,315 --> 00:00:41,690
+你可以在你自己的程序中使用
+that you've written that you can use in your own program,
+
+8
+00:00:41,690 --> 00:00:45,120
+但也许不仅仅是这个项目 还有其他的项目 
+but maybe not just this program, but another and another as well.
+
+9
+00:00:45,120 --> 00:00:47,630
+Python支持这个想法 
+So Python supports exactly this idea.
+
+10
+00:00:47,630 --> 00:00:51,860
+这种与他人共享代码的能力 在您自己的项目中共享代码 
+This ability to share code with others, share code across your own projects.
+
+11
+00:00:51,860 --> 00:00:54,320
+它是通过所谓的模块来实现的 
+And it does so by way of what it calls module.
+
+12
+00:00:54,320 --> 00:00:57,080
+Python中的模块只是一个库 
+A module in Python is just a library that
+
+13
+00:00:57,080 --> 00:01:01,400
+通常具有内置于其中的一个或多个功能或其它特征 
+typically has one or more functions or other features built into it.
+
+14
+00:01:01,400 --> 00:01:03,860
+通常 库或模块的用途
+Generally, the purpose of a library or a module
+
+15
+00:01:03,860 --> 00:01:06,860
+特别是鼓励代码的可重用性
+specifically is to encourage reusability of code
+
+16
+00:01:06,860 --> 00:01:10,730
+如果你发现自己一次又一次地使用相同类型的函数 
+if you find yourself using the same types of functions again and again,
+
+17
+00:01:10,730 --> 00:01:11,900
+相同的功能 
+the same functionality.
+
+18
+00:01:11,900 --> 00:01:15,800
+如果您发现自己从旧项目复制和粘贴
+If you find yourself copying and pasting from an old project
+
+19
+00:01:15,800 --> 00:01:20,090
+在你的新项目中 很有可能有机会
+into your new project, odds are there's an opportunity there to factor out
+
+20
+00:01:20,090 --> 00:01:24,080
+你不断复制和粘贴的代码 你不断重复使用 
+that code that you keep copying and pasting that you keep reusing and put
+
+21
+00:01:24,080 --> 00:01:28,530
+你可以将它加载到你的程序中
+it into a library that you can then load into your programs moving forward
+
+22
+00:01:28,530 --> 00:01:30,440
+这样我们就不需要复制粘贴
+so as to not just copy and paste it and have
+
+23
+00:01:30,440 --> 00:01:32,430
+到处都是不同的副本
+all these different copies all over.
+
+24
+00:01:32,430 --> 00:01:36,140
+那么Python自带的模块或库有哪些呢？
+So what are some of the modules or libraries that Python comes with?
+
+25
+00:01:36,140 --> 00:01:39,200
+Python自带一个随机库 
+Well, Python comes with a random library literally,
+
+26
+00:01:39,200 --> 00:01:41,600
+也就是说 当你安装Python
+which is to say that when you install the Python
+
+27
+00:01:41,600 --> 00:01:44,030
+您的Mac或PC或其他地方的翻译器
+interpreter on your Mac or PC or somewhere
+
+28
+00:01:44,030 --> 00:01:46,070
+在云中 你不仅可以得到Python 
+in the cloud, not only do you get Python,
+
+29
+00:01:46,070 --> 00:01:48,390
+你也会得到一大堆模块 
+you get a whole bunch of modules as well.
+
+30
+00:01:48,390 --> 00:01:50,570
+这些模块为您提供了
+Now, these modules provide you with functions
+
+31
+00:01:50,570 --> 00:01:54,770
+你不能像打印和输入一样默认访问它们 
+that you don't have access to just by default like you do print and input.
+
+32
+00:01:54,770 --> 00:01:58,370
+打印和输入以及其他类似的功能在Python中都可以工作 
+Print and input and other such functions just work in Python.
+
+33
+00:01:58,370 --> 00:02:02,250
+但有时功能隐藏在这些模块中 
+But sometimes functions are tucked away in these modules,
+
+34
+00:02:02,250 --> 00:02:04,490
+所以你必须更仔细地装载它们
+so you have to be more deliberate about loading them
+
+35
+00:02:04,490 --> 00:02:06,000
+存入计算机的内存 
+into the computer's memory.
+
+36
+00:02:06,000 --> 00:02:09,289
+所以 在电脑硬盘上的某个地方 一旦你安装了Python 
+So somewhere on the computer's hard drive, once you've installed Python,
+
+37
+00:02:09,289 --> 00:02:13,820
+还有一个文件 很可能是随机文件.py
+there is also, it turns out a file, probably called random.py
+
+38
+00:02:13,820 --> 00:02:17,700
+可能是别人很久以前写的 但你有权访问 
+that someone else wrote probably long ago but that you have access to.
+
+39
+00:02:17,700 --> 00:02:20,930
+在随机的.py文件中 可能有一个或多个函数
+And in that random.py file, there's probably one or more functions
+
+40
+00:02:20,930 --> 00:02:25,190
+你自己可以用来做随机的事情 
+that you yourself can use in order to do things randomly.
+
+41
+00:02:25,190 --> 00:02:29,120
+这就是说 你怎么能在一个用Python编写的程序中抛硬币呢？
+That is to say how could you flip a coin in a program in Python?
+
+42
+00:02:29,120 --> 00:02:33,062
+在Python语言中 如何选择1到10之间的随机数？
+How could you pick a random number between 1 and 10 in Python?
+
+43
+00:02:33,062 --> 00:02:34,520
+嗯 你需要一点随机性 
+Well, you need a bit of randomness.
+
+44
+00:02:34,520 --> 00:02:37,130
+虽然你可以从数学上算出
+And while you could figure out mathematically
+
+45
+00:02:37,130 --> 00:02:39,440
+如何自己编写这样的函数 
+how to write functions like that yourself,
+
+46
+00:02:39,440 --> 00:02:42,590
+站在别人的肩膀上要容易得多
+it's a lot easier to stand on the shoulders of others who've already
+
+47
+00:02:42,590 --> 00:02:45,620
+为你解决了那个问题 这样你就可以专注于这个问题了
+solved that problem for you so you can focus on the problem
+
+48
+00:02:45,620 --> 00:02:48,030
+你自己想要解决的问题 
+that you yourself want to solve.
+
+49
+00:02:48,030 --> 00:02:51,260
+因此 有关几乎所有Python模块的文档 
+So for documentation on most any Python module,
+
+50
+00:02:51,260 --> 00:02:52,970
+你可以去看官方的Python文档 
+you go to the official Python docs.
+
+51
+00:02:52,970 --> 00:02:57,080
+您可以转到这样的URL 其中包含该特定模块的文档
+And you go to a URL like this where the documentation for that specific module
+
+52
+00:02:57,080 --> 00:02:57,650
+活着 
+lives.
+
+53
+00:02:57,650 --> 00:02:59,810
+在文档中 您将看到一个列表
+And within the documentation, you'll see a list
+
+54
+00:02:59,810 --> 00:03:03,260
+某些模块提供的功能或其他功能 
+of the functions or other functionality that some module provide.
+
+55
+00:03:03,260 --> 00:03:08,060
+但是 如何将模块加载到您自己的程序中呢
+But how do you go about loading a module into your own program
+
+56
+00:03:08,060 --> 00:03:10,580
+以便您可以使用该模块中的函数？
+so that you can use the functions in that module?
+
+57
+00:03:10,580 --> 00:03:14,450
+那么 我们需要在Python中使用一个新的关键字 即它的导入 
+Well, we need a new keyword in Python and namely it's import.
+
+58
+00:03:14,450 --> 00:03:20,690
+使用Python中的IMPORT关键字可以导入函数的内容
+The import keyword in Python allows you to import the contents of the functions
+
+59
+00:03:20,690 --> 00:03:23,660
+来自Python语言中的某个模块 
+from some module in Python.
+
+60
+00:03:23,660 --> 00:03:26,190
+那么 我该如何在实践中使用它呢？
+Well, how might I go about using this in practice?
+
+61
+00:03:26,190 --> 00:03:29,750
+好吧 让我假设在随机模块中存在
+Well, let me propose that there exists in that random module
+
+62
+00:03:29,750 --> 00:03:31,440
+在其他功能中 这一功能 
+this function among others.
+
+63
+00:03:31,440 --> 00:03:34,430
+所以我从文档中复制并粘贴了
+So I have copied and pasted from the documentation
+
+64
+00:03:34,430 --> 00:03:38,120
+这是一个名为Choice的函数的摘要 
+this summary of a function called Choice.
+
+65
+00:03:38,120 --> 00:03:42,620
+现在 这个函数存在于随机模块中 可以这么说 
+Now, the function exists in the random module, so to speak,
+
+66
+00:03:42,620 --> 00:03:45,780
+不是随机模块 是随机模块 
+not a random module, the random module.
+
+67
+00:03:45,780 --> 00:03:48,800
+因此 一般来说 文档完全是这样描述的 
+And so generally the documentation describes it fully like this.
+
+68
+00:03:48,800 --> 00:03:52,485
+随机选择是您从技术上调用此函数的方式 
+random.choice is how you would technically call this function,
+
+69
+00:03:52,485 --> 00:03:54,110
+我们会看到其他的替代方案
+though, we'll see alternatives to that.
+
+70
+00:03:54,110 --> 00:03:58,310
+在括号中 有一个名为S-E-Q的参数表示序列 
+In parentheses, there is a parameter called S-E-Q for sequence.
+
+71
+00:03:58,310 --> 00:04:01,250
+序列一般是指一个列表之类的东西
+And sequence generally means a list or something
+
+72
+00:04:01,250 --> 00:04:05,370
+如果你有一个数字或字符串或其他任何东西的列表 它就像列表一样 
+that is list-like if you have a list of numbers or strings or anything else.
+
+73
+00:04:05,370 --> 00:04:06,920
+以及详细的文件 
+And the documentation elaborate.
+
+74
+00:04:06,920 --> 00:04:09,980
+那么 我该如何使用这个函数来解决 也许 
+Well, how can I go about using this function to solve, perhaps,
+
+75
+00:04:09,980 --> 00:04:11,150
+一个熟悉的问题？
+a familiar problem?
+
+76
+00:04:11,150 --> 00:04:13,340
+好吧 让我在这里打开VS Code 
+Well, let me go ahead and open up VS Code here.
+
+77
+00:04:13,340 --> 00:04:17,779
+让我建议我们实现一个程序来模拟抛硬币 
+And let me propose that we implement a program that simulates flipping a coin.
+
+78
+00:04:17,779 --> 00:04:21,890
+在美国 硬币有正面或反面 
+A coin that in the US has heads or tails, the idea of which
+
+79
+00:04:21,890 --> 00:04:25,520
+是选择一个概率为50/50的决策 
+is to pick a decision with 50/50 probability.
+
+80
+00:04:25,520 --> 00:04:29,420
+正面和反面各占一半
+50% probability of heads, 50% probability of tails.
+
+81
+00:04:29,420 --> 00:04:31,460
+或者你可以使用其他类似的机制 
+Or you can use some other mechanism like that.
+
+82
+00:04:31,460 --> 00:04:35,930
+好的 让我打开一个代码为generate.py的程序
+Well, let me go ahead and open a program with code called generate.py
+
+83
+00:04:35,930 --> 00:04:39,115
+因为我想开始生成一大堆随机信息 
+because I want to start generating a whole bunch of random information.
+
+84
+00:04:39,115 --> 00:04:41,240
+第一个就是抛硬币
+The first of which is just going to be a coin toss.
+
+85
+00:04:41,240 --> 00:04:43,700
+那么 如何使用该功能呢？
+Now, how do I go about using that function?
+
+86
+00:04:43,700 --> 00:04:46,880
+首先 我必须导入随机库 
+Well, I first have to import the random library.
+
+87
+00:04:46,880 --> 00:04:49,520
+所以我的文件的第一行
+So literally the first or among the first lines of my file
+
+88
+00:04:49,520 --> 00:04:51,500
+应该是随机导入 
+should be import random.
+
+89
+00:04:51,500 --> 00:04:56,160
+这样我就可以访问这个特定模块中的所有功能 
+And that just gives me access to all of the functions in that specific module.
+
+90
+00:04:56,160 --> 00:04:58,950
+现在 假设我想抛硬币 
+Now, suppose I want to flip a coin.
+
+91
+00:04:58,950 --> 00:05:03,380
+嗯 我可以根据刚才的文档做随机选择 
+Well, I can do random.choice per the documentation a moment ago.
+
+92
+00:05:03,380 --> 00:05:05,090
+这也需要一个序列 
+And that again takes a sequence.
+
+93
+00:05:05,090 --> 00:05:05,840
+什么是序列？
+What's a sequence?
+
+94
+00:05:05,840 --> 00:05:07,700
+这是一个列表或类似列表的东西 
+It's a list or something that's list-like.
+
+95
+00:05:07,700 --> 00:05:08,930
+我们知道名单 
+And we know about lists.
+
+96
+00:05:08,930 --> 00:05:11,090
+我们用列表来排列数字 
+We've used lists to iterate over numbers.
+
+97
+00:05:11,090 --> 00:05:13,460
+我们用名单来筛选霍格沃茨的学生 
+We've used lists to iterate over students at Hogwarts.
+
+98
+00:05:13,460 --> 00:05:18,200
+让我们继续讨论一个硬币的两面 
+Let's go ahead now and iterate over just a list of two sides of a coin,
+
+99
+00:05:18,200 --> 00:05:20,690
+“正面” 引号 引号 或反面 
+"heads," quote, unquote, or tails.
+
+100
+00:05:20,690 --> 00:05:22,400
+现在 我可以把这些东西叫做任何我想要的东西 
+Now, I could call these anything I want.
+
+101
+00:05:22,400 --> 00:05:23,690
+这是我的绳子 
+These are my string.
+
+102
+00:05:23,690 --> 00:05:25,860
+我只想模拟抛硬币 
+I just want to simulate a tossing a coin.
+
+103
+00:05:25,860 --> 00:05:28,670
+所以我只想说正面和反面 
+So I'm just going to say in all lowercase, heads and tail.
+
+104
+00:05:28,670 --> 00:05:30,080
+但请注意语法 
+But notice the syntax.
+
+105
+00:05:30,080 --> 00:05:32,058
+我把“正面”和“反面”用双引号引起来了 
+I have "heads" and "tails" in double quotes.
+
+106
+00:05:32,058 --> 00:05:33,350
+那是因为它们是弦
+That's because they're strings.
+
+107
+00:05:33,350 --> 00:05:36,000
+我也可以使用单引号 只要我始终如一 
+I could also use single quotes so long as I'm consistent.
+
+108
+00:05:36,000 --> 00:05:38,900
+它们之间有一个逗号 这意味着列表有两个元素 
+There's a comma between them, which means the list has two elements.
+
+109
+00:05:38,900 --> 00:05:42,410
+它们是左边和右边的方括号 
+They're square brackets to the right and the left, which
+
+110
+00:05:42,410 --> 00:05:44,450
+表示这确实是一个列表 
+indicates that this is indeed a list.
+
+111
+00:05:44,450 --> 00:05:47,508
+这是在Python中定义列表的语法回想 
+That's the syntax recall for defining a list in Python.
+
+112
+00:05:47,508 --> 00:05:49,550
+最后 还有一些更熟悉的东西 
+And then lastly, there's something more familiar.
+
+113
+00:05:49,550 --> 00:05:52,280
+这些方括号外面有圆括号 
+There's the parentheses outside of those square brackets.
+
+114
+00:05:52,280 --> 00:05:55,550
+但这些只是属于Choice函数的括号
+But those are just the parentheses that belong to the Choice function
+
+115
+00:05:55,550 --> 00:05:58,980
+并指定其参数传入的位置 
+and specify where its parameter gets passed in.
+
+116
+00:05:58,980 --> 00:06:03,740
+但同样 与过去的函数不同 我必须指定哪个模块
+But again, unlike past function, I have to specify what module
+
+117
+00:06:03,740 --> 00:06:05,610
+这一功能至少目前是可行的 
+this function is in at least for now.
+
+118
+00:06:05,610 --> 00:06:09,440
+所以我随机选择来调用特定的函数 
+And so I do random.choice to call the specific function.
+
+119
+00:06:09,440 --> 00:06:12,620
+好吧 好吧 在这两者之间抛硬币是一回事
+All right, well, it's one thing to flip a coin picking between those
+
+120
+00:06:12,620 --> 00:06:14,310
+概率为50% 
+with 50% probability.
+
+121
+00:06:14,310 --> 00:06:15,980
+这就是随机选择的作用 
+And that's what random.choice does.
+
+122
+00:06:15,980 --> 00:06:19,910
+它接受一个列表 并随机返回到其中一个值
+It takes in a list, and it returns to one of those values randomly
+
+123
+00:06:19,910 --> 00:06:21,290
+概率相等 
+with equal probability.
+
+124
+00:06:21,290 --> 00:06:24,080
+因为我通过了两个项目 所以我有50%的机会 
+Because I've passed in two items, I've got a 50/50 chance.
+
+125
+00:06:24,080 --> 00:06:28,500
+如果我通过了三个项目 那么每一个项目都有33%的可能性
+If I passed in three items, it'd be a 33% chance for each of those items
+
+126
+00:06:28,500 --> 00:06:29,090
+以此类推 
+and so forth.
+
+127
+00:06:29,090 --> 00:06:30,740
+Python为您做了计算 
+Python does the math for you.
+
+128
+00:06:30,740 --> 00:06:33,270
+但是我想把它的值存储在一个变量中 
+But I want to store the value of this in a variable.
+
+129
+00:06:33,270 --> 00:06:37,310
+所以让我们定义一个变量 称为Coin Equals 不管返回值是什么 
+So let's define a variable called coin equals whatever the return value is.
+
+130
+00:06:37,310 --> 00:06:39,380
+因此 这确实就像抛硬币一样 
+So this is indeed like flipping a coin.
+
+131
+00:06:39,380 --> 00:06:42,320
+我将存储在一个名为Coin的变量中 不管是什么
+I'm going to store in a variable called coin, whatever
+
+132
+00:06:42,320 --> 00:06:43,700
+这个值是 正面或反面 
+that value is, heads or tails.
+
+133
+00:06:43,700 --> 00:06:46,280
+现在 为了让我知道发生了什么 让我们继续
+And now, just so I can see what's going on, let's go ahead
+
+134
+00:06:46,280 --> 00:06:49,430
+并打印出那枚字符串硬币的价值
+and print out the value of that string coin
+
+135
+00:06:49,430 --> 00:06:52,520
+好了 现在让我继续在我的终端窗口中运行这个程序 
+All right, let me go ahead now and run this program in my terminal window.
+
+136
+00:06:52,520 --> 00:06:55,700
+PythonofGenerate.py 回车 
+Python of generate.py, Enter.
+
+137
+00:06:55,700 --> 00:06:58,340
+而且看起来第一个掷硬币的是人头 
+And it looks like the first coin toss was the heads.
+
+138
+00:06:58,340 --> 00:07:00,500
+让我们继续 再运行一次 
+Let's go ahead and run it again.
+
+139
+00:07:00,500 --> 00:07:02,128
+而且看起来又是正面的 
+And it looks like it was heads again.
+
+140
+00:07:02,128 --> 00:07:03,920
+也许你想在这里加入我们的聊天 
+Maybe you want to chime into the chat here.
+
+141
+00:07:03,920 --> 00:07:06,560
+如果我第三次运行它 这一次会是什么？
+If I run it a third time, what's it going to be this time?
+
+142
+00:07:06,560 --> 00:07:10,020
+如果你想在聊天中输入你的想法 
+If you want to type your thoughts in the chat,
+
+143
+00:07:10,020 --> 00:07:11,670
+您可能会认为这里面有漏洞 
+you might think there's a bug here.
+
+144
+00:07:11,670 --> 00:07:14,220
+但这是行动中的可能性 
+But this is probability in action.
+
+145
+00:07:14,220 --> 00:07:16,830
+如果我继续第三次按回车键 
+If I go ahead and hit Enter a third time there,
+
+146
+00:07:16,830 --> 00:07:21,120
+实际上现在是反面 反面
+it's actually now tails And again, tails and again tails and again tails
+
+147
+00:07:21,120 --> 00:07:23,460
+一次又一次反面 又一次正面 
+and again tails and again heads.
+
+148
+00:07:23,460 --> 00:07:25,740
+现在 如果我们这样做无数次 
+Now, if we did this an infinite number of times,
+
+149
+00:07:25,740 --> 00:07:27,750
+这确实会是50/50的结果 
+it would indeed work out to be 50/50.
+
+150
+00:07:27,750 --> 00:07:31,110
+如果我们只做几次 结果可能不会那么干净利落 
+If we only do it a few times, it might not work out as cleanly.
+
+151
+00:07:31,110 --> 00:07:33,360
+但这就是概率的工作原理 
+But that's how probabilities indeed work.
+
+152
+00:07:33,360 --> 00:07:35,760
+好了 我现在把它弄好了 
+All right, so I've got that now working.
+
+153
+00:07:35,760 --> 00:07:37,810
+我可以用一种不同的方式来实现这一点吗？
+Could I have implemented this in a different way?
+
+154
+00:07:37,810 --> 00:07:42,600
+那么 让我向您展示一种单独使用IMPORT关键字的替代方法
+Well, let me show you an alternative to actually using the import keyword alone
+
+155
+00:07:42,600 --> 00:07:45,480
+让我来介绍一下在Python中的关键字from 
+and let me introduce the keyword from in Python.
+
+156
+00:07:45,480 --> 00:07:50,490
+因此 From是可在导入函数时使用的Python中的关键字
+So from is a keyword in Python that you can use when importing functions
+
+157
+00:07:50,490 --> 00:07:55,180
+来自一个模块 但它允许您比单独导入更具体一些 
+from a module, but it allows you to be a little more specific than import alone.
+
+158
+00:07:55,180 --> 00:07:57,240
+因此 如果我回到我的代码 它是值得的
+So if I go back to my code here, it's worth
+
+159
+00:07:57,240 --> 00:08:01,260
+注意到从技术上讲 我在这里通过导入随机
+noting that what technically I'm doing here by importing random
+
+160
+00:08:01,260 --> 00:08:04,920
+从技术上讲 我是在导入那个模块中的所有东西 
+is I'm technically importing everything that's in that module.
+
+161
+00:08:04,920 --> 00:08:09,570
+因此 不只是这个名为随机选择的函数 还有其他几个函数
+So not just the function called random.choice but a few other functions
+
+162
+00:08:09,570 --> 00:08:10,240
+也是 
+as well.
+
+163
+00:08:10,240 --> 00:08:12,870
+因此 与其在我的文件顶部使用这行代码 
+So instead of using this line of code at the top of my file,
+
+164
+00:08:12,870 --> 00:08:15,240
+导入随机 从技术上讲 这将允许我访问
+import random, which will technically give me access
+
+165
+00:08:15,240 --> 00:08:18,510
+对于他们所在的所有内容 一个不利的方面是
+to all of the contents they're in, a downside of that
+
+166
+00:08:18,510 --> 00:08:22,050
+我必须输入随机的 选择 随机的 这个 
+is that I have to type in random.choice, random.this,
+
+167
+00:08:22,050 --> 00:08:24,960
+随机性 因为我调用的所有函数
+random.that because all of the functions I'm calling
+
+168
+00:08:24,960 --> 00:08:28,030
+必须与该模块的范围相关联 
+have to be associated with the scope of that module.
+
+169
+00:08:28,030 --> 00:08:31,530
+好的 假设我只想调用函数作为它的名称 CHOICE 
+Well, suppose that I just want to call the function as its name, choice.
+
+170
+00:08:31,530 --> 00:08:32,730
+我也可以这么做 
+I can do that as well.
+
+171
+00:08:32,730 --> 00:08:37,799
+让我将这里的第一行替换为来自随机导入选择 
+Let me replace this first line here with from random import choice.
+
+172
+00:08:37,799 --> 00:08:42,179
+这样做的有效作用是加载函数的名称选择
+And what this does effectively is it loads the function's name choice
+
+173
+00:08:42,179 --> 00:08:47,050
+放到我当前命名空间中 放到我正在处理的文件的作用域中 
+into my current namespace into the scope of the file I'm working in.
+
+174
+00:08:47,050 --> 00:08:50,670
+这意味着我现在不再需要具体说明
+What that means is that I now no longer have to specify
+
+175
+00:08:50,670 --> 00:08:52,420
+我指的是哪种选择功能 
+which choice function I mean.
+
+176
+00:08:52,420 --> 00:08:53,770
+我只能说选择 
+I can just say choice.
+
+177
+00:08:53,770 --> 00:08:56,220
+因此 它将其加载到本地命名空间中
+And so it loads it into the local namespace
+
+178
+00:08:56,220 --> 00:09:00,510
+这是我的本地词汇 如果你愿意的话 所以我现在可以说选择 
+that is into my local vocabulary, if you will, so I can just now say choice.
+
+179
+00:09:00,510 --> 00:09:05,070
+你认为这在什么情况下可能是有利的？
+This might be advantageous in what cases, do you think?
+
+180
+00:09:05,070 --> 00:09:10,170
+您可能希望在什么时候像这样显式导入函数的名称
+When might you want to import the name of the function explicitly like this
+
+181
+00:09:10,170 --> 00:09:12,660
+而不是说是随机的 选择--
+as opposed to just saying random.choice--
+
+182
+00:09:12,660 --> 00:09:16,470
+在调用函数时在代码中进行随机选择吗？
+random.choice throughout your code when calling a function?
+
+183
+00:09:16,470 --> 00:09:21,675
+对于使用from的替代导入 这里有什么直觉吗？
+Any instincts here for this alternative import using from?
+
+184
+00:09:21,675 --> 00:09:23,940
+观众：大家好 我是来自埃及的穆罕默德·奥马尔 
+AUDIENCE: Hello, I'm Mohammed Omar from Egypt.
+
+185
+00:09:23,940 --> 00:09:29,340
+也许如果我们有一个变量 它的名字基本上就像Choose
+And maybe if we have a variable that its name is basically like choice
+
+186
+00:09:29,340 --> 00:09:30,990
+如果我有一个叫做选择的变量 
+if I have a variable called the choice.
+
+187
+00:09:30,990 --> 00:09:33,760
+因此 我需要区分我选择的托盘 
+So I need to differentiate which trays I choose.
+
+188
+00:09:33,760 --> 00:09:36,302
+所以我会选择随机数据选择 
+So I'm going to choose random data choice.
+
+189
+00:09:36,302 --> 00:09:38,010
+大卫·马兰：是的 非常好的直觉 
+DAVID MALAN: Yeah, really good instincts.
+
+190
+00:09:38,010 --> 00:09:40,710
+通过使用仅导入随机的第一种方法 
+By using the first approach by just importing random,
+
+191
+00:09:40,710 --> 00:09:42,900
+你要确保它的所有内容
+you're making sure that all of its contents
+
+192
+00:09:42,900 --> 00:09:46,680
+与随机模块相关联或被限定为随机模块的范围
+are associated with or scoped to the random module
+
+193
+00:09:46,680 --> 00:09:49,320
+这样你就可以有自己的选择功能了 
+so that you can have your own choice function.
+
+194
+00:09:49,320 --> 00:09:51,150
+您可以有自己的选择变量 
+You can have your own choice variable.
+
+195
+00:09:51,150 --> 00:09:54,870
+您可以使用与所有函数或变量相同的名称
+You can use the same names as all of the functions or variables that
+
+196
+00:09:54,870 --> 00:09:58,328
+都存储在该文件中 而不会发生冲突 
+are stored inside of that file without them colliding, so to speak.
+
+197
+00:09:58,328 --> 00:09:59,370
+这是一件好事 
+And this is a good thing.
+
+198
+00:09:59,370 --> 00:10:03,150
+在更老的语言中 情况是这样的 如果你导入某人的库 
+In older languages, it was the case that if you imported someone's library,
+
+199
+00:10:03,150 --> 00:10:05,790
+您最好希望您使用的不是相同的函数
+you better hope that you're not using the same functions
+
+200
+00:10:05,790 --> 00:10:08,070
+或变量本身 因为您可能
+or variables as they are because you might
+
+201
+00:10:08,070 --> 00:10:09,750
+实际上存在着某种冲突 
+in fact have some kind of conflict.
+
+202
+00:10:09,750 --> 00:10:11,940
+Python和某些其他语言允许您
+Python and certain other languages allow you
+
+203
+00:10:11,940 --> 00:10:16,007
+将这些函数和变量的名称限定为文件或模块
+to scope the names of those functions and variables to the file or the module
+
+204
+00:10:16,007 --> 00:10:16,840
+他们来自哪里 
+that they come from.
+
+205
+00:10:16,840 --> 00:10:17,850
+所以这是一件好事 
+So that's a good thing.
+
+206
+00:10:17,850 --> 00:10:20,640
+但老实说 这是一个如此短的程序 
+But honestly, this is such a short program.
+
+207
+00:10:20,640 --> 00:10:23,850
+或者等同地 也许我使用的是选择函数
+Or equivalently, maybe I'm using the choice function
+
+208
+00:10:23,850 --> 00:10:28,530
+在如此多的地方 人们都叫随机 选择 随机 选择 
+in so many places calling random.choice, random.choice, random.choice.
+
+209
+00:10:28,530 --> 00:10:31,230
+这只会让我的代码越来越长 
+It's just making my code longer and longer and longer.
+
+210
+00:10:31,230 --> 00:10:34,260
+有点像 但嘿 只是变得又丑又烦 
+Marginally so, but hey, just getting ugly and annoying,
+
+211
+00:10:34,260 --> 00:10:38,380
+我可以简单地导入选项 现在稍微收紧我的代码 
+I can simply import choice and now tighten up my code a little bit.
+
+212
+00:10:38,380 --> 00:10:40,440
+因此 就像过去的许多决定一样 
+So as with so many decisions in the past,
+
+213
+00:10:40,440 --> 00:10:43,260
+不一定只有一种正确的方法 
+there's not necessarily one right approach or another.
+
+214
+00:10:43,260 --> 00:10:43,860
+看情况
+It depends.
+
+215
+00:10:43,860 --> 00:10:45,780
+但我认为正是因为这些原因有时候
+But I think for those very reasons, sometimes
+
+216
+00:10:45,780 --> 00:10:48,090
+最好还是像我们第一次那样
+it's better to do what we did the first time, which
+
+217
+00:10:48,090 --> 00:10:52,980
+只是导入模块以保留其中的作用域 
+is only import the module so as to retain the scope therein.
+
+218
+00:10:52,980 --> 00:10:55,740
+好吧 让我建议我们过渡到另一个功能 
+Well, let me propose that we transition to another function that
+
+219
+00:10:55,740 --> 00:10:57,910
+Python的random模块
+comes with Python's random module.
+
+220
+00:10:57,910 --> 00:11:01,200
+这是从档案里找到的 
+And that's this here from the documentation randint.
+
+221
+00:11:01,200 --> 00:11:04,410
+这有点难说 但它意味着返回一个随机整数 
+It's a bit hard to say, but it implies get back a random int.
+
+222
+00:11:04,410 --> 00:11:08,640
+如果你读了文档 它是一个介于A和B之间的随机整数
+And if you read the documentation, it's a random int that's between A and B
+
+223
+00:11:08,640 --> 00:11:09,760
+内d
+inclusive.
+
+224
+00:11:09,760 --> 00:11:12,990
+所以如果你把A的1分和B的10分都算进去 
+So if you were to pass in 1 for A and 10 for B,
+
+225
+00:11:12,990 --> 00:11:17,160
+你会得到一个介于1和10之间的数字 包括1
+you would get back a number between 1 and 10 inclusive, including the 1
+
+226
+00:11:17,160 --> 00:11:18,780
+并包括潜在的10个 
+and including the 10 potentially.
+
+227
+00:11:18,780 --> 00:11:21,040
+每一个都有10%的可能性 
+Each with a 10% probability.
+
+228
+00:11:21,040 --> 00:11:23,520
+那么我该如何使用这样的程序呢？
+So how might I go about using a program like this?
+
+229
+00:11:23,520 --> 00:11:26,160
+好 让我回到生成py文件的过程 
+Well, let me come back to my generate the py file.
+
+230
+00:11:26,160 --> 00:11:28,200
+为什么我们不继续尝试
+And why don't we go ahead and try generating
+
+231
+00:11:28,200 --> 00:11:29,760
+1到10之间的随机数
+a random number between 1 and 10?
+
+232
+00:11:29,760 --> 00:11:31,350
+在现实世界中 你可能经常这样做 
+You might do this frequently in the real world.
+
+233
+00:11:31,350 --> 00:11:32,910
+当你只是想让某人随便选一个数字 
+When you just want someone to pick a random number,
+
+234
+00:11:32,910 --> 00:11:34,770
+你在人类的反应中也会告诉他们同样的信息 
+you tell them as much in the human response.
+
+235
+00:11:34,770 --> 00:11:37,020
+让我们让电脑在这里做同样的事情 
+Let's get the computer to do the same here.
+
+236
+00:11:37,020 --> 00:11:39,900
+让我继续删除我在底部的两行代码
+Let me go ahead and delete my two lines of code at the bottom
+
+237
+00:11:39,900 --> 00:11:41,430
+但我的导入要随机
+but keep my import random.
+
+238
+00:11:41,430 --> 00:11:44,250
+接下来我们定义一个变量 叫做number 
+And let's go ahead and define a variable this time called number,
+
+239
+00:11:44,250 --> 00:11:47,910
+将其设置为random.randint的返回值
+set it equal to the return value of random.randint
+
+240
+00:11:47,910 --> 00:11:52,990
+现在传递A 值为1 B 值为10 
+and now passing A, a value of 1 and B, a value of 10.
+
+241
+00:11:52,990 --> 00:11:55,598
+现在 让我们继续打印号码 
+And now, let's go ahead and print the number.
+
+242
+00:11:55,598 --> 00:11:57,390
+我会在终端窗口
+I'm going to go ahead in my terminal window
+
+243
+00:11:57,390 --> 00:12:00,360
+运行generate.py的Python并按Enter键 
+and run Python of generate.py and hit Enter.
+
+244
+00:12:00,360 --> 00:12:01,920
+4.
+4.
+
+245
+00:12:01,920 --> 00:12:04,650
+一个generate.py的Python 然后按Enter 
+A Python of generate.py and hit Enter.
+
+246
+00:12:04,650 --> 00:12:11,700
+8 再来 9 再来 7 再来 10 再来 2 再来 
+8, again, 9, again, 7, again, 10, again, 2, again.
+
+247
+00:12:11,700 --> 00:12:13,078
+我们可以一整天都这样 
+And we can do this all day long.
+
+248
+00:12:13,078 --> 00:12:15,120
+如果我们把所有这些加起来 
+And if we add all of those up, they should end up
+
+249
+00:12:15,120 --> 00:12:17,640
+都有10%的概率
+being with 10% probability each.
+
+250
+00:12:17,640 --> 00:12:19,610
+那么 你会如何使用这些信息呢？
+Now, how might you use this information?
+
+251
+00:12:19,610 --> 00:12:21,360
+好吧 也许我们在玩猜谜游戏 
+Well, maybe we're playing a guessing game.
+
+252
+00:12:21,360 --> 00:12:25,710
+或者 也许我们正试图将游戏中某个角色的行为随机化 
+Or maybe we're trying to randomize the behavior of some character in the game.
+
+253
+00:12:25,710 --> 00:12:29,640
+您可以想象使用像这样非常简单的构建块
+You can imagine using very simple building blocks like this just
+
+254
+00:12:29,640 --> 00:12:32,070
+通过让程序做一些事情来增加程序的趣味性
+spicing up your program by getting it to do things
+
+255
+00:12:32,070 --> 00:12:36,270
+更难预测 因为您似乎选择了这些值
+a little less predictably because you're choosing these values seemingly
+
+256
+00:12:36,270 --> 00:12:36,780
+随机的 
+randomly.
+
+257
+00:12:36,780 --> 00:12:38,730
+而你要推迟到Python来做实际的事情
+And you're deferring to Python to actually do
+
+258
+00:12:38,730 --> 00:12:43,380
+这些数字的产生使用它自己的算法和它自己的数学 
+the generation of these numbers using its own algorithms and its own math.
+
+259
+00:12:43,380 --> 00:12:44,820
+那么 我们在这里还能做些什么？
+Well, what more could we do here?
+
+260
+00:12:44,820 --> 00:12:46,860
+让我建议我们引入另一个函数
+Let me propose that we introduce another function that
+
+261
+00:12:46,860 --> 00:12:48,270
+来自这个随机图书馆 
+comes from this random library.
+
+262
+00:12:48,270 --> 00:12:52,110
+然而 另一个你自己不需要实现的东西 就是洗牌 
+Yet, another that you yourself don't have to implement, shuffle.
+
+263
+00:12:52,110 --> 00:12:55,690
+如果您阅读了同一随机模块中的Shuffle文档 
+If you read the documentation for shuffle in the same random module,
+
+264
+00:12:55,690 --> 00:12:58,590
+例如 您将看到它包含一个值列表
+you'll see that it takes in a list, for instance, of values
+
+265
+00:12:58,590 --> 00:13:00,030
+然后就把它们洗掉 
+and just shuffles them up.
+
+266
+00:13:00,030 --> 00:13:02,730
+它就像一副扑克牌一样让他们随机化 
+It randomize them like a deck of cards.
+
+267
+00:13:02,730 --> 00:13:06,120
+在这里 你可能会把它们打乱 让它们看起来像是随机排列的顺序 
+Here, you might shuffle them so as to put them into seemingly random order.
+
+268
+00:13:06,120 --> 00:13:09,240
+那么 根据这个函数的名称 我如何使用它呢？
+Well, how do I use this based on this function's name?
+
+269
+00:13:09,240 --> 00:13:11,850
+好吧 让我建议我们回到这里的VS代码 
+Well, let me propose that we go back to VS Code here.
+
+270
+00:13:11,850 --> 00:13:14,700
+让我继续下去 这一次做以下事情 
+And let me go ahead and this time do the following.
+
+271
+00:13:14,700 --> 00:13:17,730
+因为我需要洗牌之类的东西 
+Because I need to shuffle something like a deck of cards,
+
+272
+00:13:17,730 --> 00:13:19,620
+让我继续下去 而不仅仅是随机导入 
+let me go ahead and not just import random.
+
+273
+00:13:19,620 --> 00:13:23,640
+但让我给自己一个名为Cards的变量 它的类型是List 
+But let me give myself a variable called cards that's going to be of type list.
+
+274
+00:13:23,640 --> 00:13:25,740
+为了让我有东西要洗牌 我
+And just so I have something to shuffle, I
+
+275
+00:13:25,740 --> 00:13:28,200
+不需要在典型的一副牌中包含所有52张牌 
+don't need all 52 cards in a typical deck.
+
+276
+00:13:28,200 --> 00:13:29,850
+我要洗三张牌 
+I'm just going to shuffle three cards.
+
+277
+00:13:29,850 --> 00:13:32,250
+一个杰克 一个王后和一个国王 
+A Jack, a Queen, and a King.
+
+278
+00:13:32,250 --> 00:13:34,050
+我可以随心所欲地叫这些琴弦 
+I could call those strings anything I want,
+
+279
+00:13:34,050 --> 00:13:37,260
+但我只是想要一些值的列表 以便将它们打乱 
+but I just wanted a list of some values so as to shuffle them up.
+
+280
+00:13:37,260 --> 00:13:39,480
+这就是将其中的顺序随机化 
+That is randomize the order therein.
+
+281
+00:13:39,480 --> 00:13:40,860
+那么 现在这是怎么运作的呢？
+Well, how does this now work?
+
+282
+00:13:40,860 --> 00:13:43,080
+如果您阅读随机洗牌的文档 
+If you read the documentation for random.shuffle,
+
+283
+00:13:43,080 --> 00:13:47,430
+你会看到它把论据打乱了 
+you'll see that it shuffles the argument in place.
+
+284
+00:13:47,430 --> 00:13:49,620
+这与我们看到的许多功能不同 
+That is unlike many of the functions we have seen.
+
+285
+00:13:49,620 --> 00:13:52,590
+它不会返回包含以下内容的值
+It doesn't return to you a value that contains
+
+286
+00:13:52,590 --> 00:13:54,370
+在这种情况下洗过的牌 
+the shuffled cards in this case.
+
+287
+00:13:54,370 --> 00:13:57,730
+实际上 它会对自己给出的清单进行洗牌 
+It actually shuffles the list it's given itself.
+
+288
+00:13:57,730 --> 00:13:59,700
+所以这对我的代码意味着我需要
+So what this means for my code is that I need
+
+289
+00:13:59,700 --> 00:14:02,490
+做这样的事情--随机的.洗牌
+to do something like this-- random.shuffle
+
+290
+00:14:02,490 --> 00:14:06,510
+并传入包含这些卡片的变量 
+and pass in the variable containing those cards.
+
+291
+00:14:06,510 --> 00:14:11,160
+然后在这里的最后一行 我应该如何开始打印卡片？
+And then on a final line here, how might I go about printing the cards?
+
+292
+00:14:11,160 --> 00:14:14,130
+嗯 我可以这么做 我可以说打印卡片 
+Well, I could do this, and I could say print card.
+
+293
+00:14:14,130 --> 00:14:17,640
+但如果我这样做了 我实际上会看到列表的Python语法 
+But if I do that, I'm actually going to see Python syntax for lists.
+
+294
+00:14:17,640 --> 00:14:21,150
+它只是以自己的方式 使用逗号和类似的东西来格式化 
+And it's just going to format in its own way using commas and the like.
+
+295
+00:14:21,150 --> 00:14:23,130
+我想把这些卡片一次打印出来一张
+I want to print these cards out one at a time
+
+296
+00:14:23,130 --> 00:14:26,580
+只是因为我认为它看起来会更好一点 这样我们就可以使用我们的一些语法
+just because I think it'll look a little better so we can use some of our syntax
+
+297
+00:14:26,580 --> 00:14:28,710
+从循环中说出这样的话--
+from loops and say something like this--
+
+298
+00:14:28,710 --> 00:14:33,660
+对于卡片中的卡片 请继续打印当前卡片 
+for card in cards, go ahead and print out the current card.
+
+299
+00:14:33,660 --> 00:14:35,460
+那么 这里现在发生了什么？
+So what's now happening here?
+
+300
+00:14:35,460 --> 00:14:39,060
+第三行 我按照这个顺序定义了三张牌的列表--
+Line three, I'm defining a list of three cards in this order--
+
+301
+00:14:39,060 --> 00:14:41,340
+杰克 王后 国王 
+Jack, Queen, King.
+
+302
+00:14:41,340 --> 00:14:44,010
+然后我在4号线上洗同样的牌 
+I'm then shuffling those same cards on line four.
+
+303
+00:14:44,010 --> 00:14:46,170
+然后在第五行 我使用了一个for循环
+And then on line five, I'm using a for loop
+
+304
+00:14:46,170 --> 00:14:50,970
+对于该列表中的每张卡片 一次打印出一张
+for each of the cards in that list printed out one at a time
+
+305
+00:14:50,970 --> 00:14:53,880
+而且因为我一次打印一行 
+and because I'm using print one line at a time.
+
+306
+00:14:53,880 --> 00:14:55,080
+好了 让我们来看看结果 
+Well, let's see the results.
+
+307
+00:14:55,080 --> 00:14:56,830
+在我的终端窗口里 我要去
+Down here in my terminal window, I'm going
+
+308
+00:14:56,830 --> 00:14:58,800
+运行genate.py的Python并按Enter键 
+to run Python of generate.py and hit Enter.
+
+309
+00:14:58,800 --> 00:15:02,610
+王后 国王 杰克似乎拖着脚步 因为那不是
+Queen, King, Jack seemingly shuffled because that's not
+
+310
+00:15:02,610 --> 00:15:04,050
+我之前定义的顺序 
+the order I defined earlier.
+
+311
+00:15:04,050 --> 00:15:05,580
+我们再来一次吧 
+Let's do it again.
+
+312
+00:15:05,580 --> 00:15:07,185
+皇后 金 杰克 
+Queen, King, Jack.
+
+313
+00:15:07,185 --> 00:15:09,300
+嗯 好吧 那正好是一样的 
+Hmm, OK, that happens to be the same.
+
+314
+00:15:09,300 --> 00:15:10,080
+但让我们来看看 
+But let's see.
+
+315
+00:15:10,080 --> 00:15:11,850
+这可能只是个坏机会 
+This could just be bad chance.
+
+316
+00:15:11,850 --> 00:15:12,600
+我们走吧 
+There we go.
+
+317
+00:15:12,600 --> 00:15:14,310
+杰克 王后 国王 
+Jack, Queen, King.
+
+318
+00:15:14,310 --> 00:15:16,230
+看起来不像是洗牌的 但至少
+Doesn't look like it's shuffled, but at least
+
+319
+00:15:16,230 --> 00:15:18,060
+我们现在得到了不同的订单 
+we're getting back different orderings now.
+
+320
+00:15:18,060 --> 00:15:20,325
+再说一次 杰克 王后 国王 
+Again, Jack, Queen, King.
+
+321
+00:15:20,325 --> 00:15:21,810
+嗯 不太好 
+Hmm, not so good.
+
+322
+00:15:21,810 --> 00:15:23,250
+杰克 王后 国王 
+Jack, Queen, King.
+
+323
+00:15:23,250 --> 00:15:23,760
+不怎么好 
+Not so good.
+
+324
+00:15:23,760 --> 00:15:26,302
+这是一个你可能想和他打牌的人 
+This is someone you probably want to play against with cards.
+
+325
+00:15:26,302 --> 00:15:27,990
+皇后 杰克 金 我们走吧 
+Queen, Jack, King, there we go.
+
+326
+00:15:27,990 --> 00:15:30,130
+当然 我们这里只有三张卡 
+But of course, we only have three cards here.
+
+327
+00:15:30,130 --> 00:15:32,700
+所以我们可能不会看到那么多的排列 
+So there's not that many permutations we might see.
+
+328
+00:15:32,700 --> 00:15:35,140
+如果我们随着时间的推移这样做 我们会看到他们所有的人 
+And if we do this over time, we will see all of them.
+
+329
+00:15:35,140 --> 00:15:37,620
+当然 如果我们有13或52张卡片 
+But if we had, of course, 13 or 52 cards,
+
+330
+00:15:37,620 --> 00:15:40,210
+相反 我们会看到更多的排列 
+we'd see a lot more permutations instead.
+
+331
+00:15:40,210 --> 00:15:43,590
+所以我们现在有三种方法来产生随机信息 
+So we have now these three ways to generate random information.
+
+332
+00:15:43,590 --> 00:15:47,220
+第一 如果你想开始某种运动项目 就简单地掷硬币 
+One, a simple coin toss if you want to start some kind of athletic event.
+
+333
+00:15:47,220 --> 00:15:49,165
+第一 在1到10之间选一个数字 
+One, pick a number between 1 and 10 if you
+
+334
+00:15:49,165 --> 00:15:50,790
+想以此为基础做决定
+want to decide something based on that.
+
+335
+00:15:50,790 --> 00:15:54,090
+现在 使用shuffle 我们甚至可以接收一个列表 
+And now, using shuffle, we can even take in a list of things
+
+336
+00:15:54,090 --> 00:15:58,120
+然后把它们打乱 这样我们就得到了某种随机的行为 
+and shuffle them about so that we get some kind of random behavior.
+
+337
+00:15:58,120 --> 00:16:00,120
+好吧 让我在这里暂停一下 看看是否有
+Well, let me pause here and see if where there's
+
+338
+00:16:00,120 --> 00:16:06,480
+关于随机数、模块或这三个函数中的任何一个的任何问题 
+any questions yet on random, on modules, or any of these three functions.
+
+339
+00:16:06,480 --> 00:16:09,210
+观众：是的 我们可以增加或减少
+AUDIENCE: Yeah, can we increase or decrease
+
+340
+00:16:09,210 --> 00:16:14,760
+如果我们想的话 我们可以计算出卡片的概率
+the probability of cards if we want to?
+
+341
+00:16:14,760 --> 00:16:16,260
+例如 有三个 
+For example, there are three.
+
+342
+00:16:16,260 --> 00:16:19,980
+有33%的可能性是B 那么有没有
+There is a 33% chance of probable B. So is there
+
+343
+00:16:19,980 --> 00:16:22,230
+有没有可能增加或减少概率
+any chance to increase or decrease the probability?
+
+344
+00:16:22,230 --> 00:16:24,360
+大卫·马兰：你能把这些概率
+DAVID MALAN: Can you set these probabilities
+
+345
+00:16:24,360 --> 00:16:26,790
+不使用相同的功能？
+not using these same functions?
+
+346
+00:16:26,790 --> 00:16:28,110
+你能设定概率吗？
+Can you set the probabilities?
+
+347
+00:16:28,110 --> 00:16:31,110
+但是你完全可以实现一些你自己的功能
+But you can absolutely implement some of your own functions
+
+348
+00:16:31,110 --> 00:16:34,710
+或者使用这个库和其他库中存在的更复杂的函数
+or use more sophisticated functions that do exist in this library and others
+
+349
+00:16:34,710 --> 00:16:36,300
+来行使更多的控制权
+to exercise more control.
+
+350
+00:16:36,300 --> 00:16:39,300
+这些都是非常用户友好和简单的功能 当然 
+These are meant to be very user-friendly and simple functions, certainly
+
+351
+00:16:39,300 --> 00:16:42,490
+我们所看到的 所有这些的概率都是相等的 
+the ones we looked at, that give you equal probability for all of those.
+
+352
+00:16:42,490 --> 00:16:44,975
+但你绝对可以歪曲事实 尽管如此 希望 
+But absolutely you could skew things, though, hopefully,
+
+353
+00:16:44,975 --> 00:16:47,100
+如果你正在实现一个赌博游戏或类似的游戏 
+if you're implementing a gambling game or the like,
+
+354
+00:16:47,100 --> 00:16:50,910
+你并不是真的让某些牌比其他牌更有可能 
+you're not actually making some cards more probable than others.
+
+355
+00:16:50,910 --> 00:16:55,110
+现在让我回到我们在这里实现的随机性
+Allow me to turn back now to our implementation here of this randomness
+
+356
+00:16:55,110 --> 00:16:58,440
+并考虑如何利用其他类型的功能 
+and consider how we might leverage other types of functionality that
+
+357
+00:16:58,440 --> 00:17:01,390
+并不一定在这个图书馆里
+aren't necessarily in this specific library here.
+
+358
+00:17:01,390 --> 00:17:04,800
+好吧 事实证明 Python还附带了一个统计库 
+Well, it turns out that Python also comes with a statistics library.
+
+359
+00:17:04,800 --> 00:17:06,930
+它包含了各种各样的功能
+And this contains all sorts of functions for doing
+
+360
+00:17:06,930 --> 00:17:10,050
+更具有统计性质的东西 即计算
+things more statistical in nature, namely calculating
+
+361
+00:17:10,050 --> 00:17:14,640
+数据集的均值、中位数、众数或其他方面
+means or medians or modes or other aspects of a data set
+
+362
+00:17:14,640 --> 00:17:16,530
+你可能想分析一下 
+that you might want to analyze.
+
+363
+00:17:16,530 --> 00:17:19,022
+那么我们如何使用Python中的统计模块呢？
+So how might we use the statistics module in Python?
+
+364
+00:17:19,022 --> 00:17:21,480
+好吧 我们可以先看看它的文档
+Well, we might first just take a look at it's documentation
+
+365
+00:17:21,480 --> 00:17:23,238
+就像Python中的其他模块一样 
+like any other module in Python.
+
+366
+00:17:23,238 --> 00:17:26,280
+我们会看到在这个库中有一大堆函数 
+And we'll see within that library that there's a whole bunch of function.
+
+367
+00:17:26,280 --> 00:17:28,840
+其中一个功能非常简单 
+And one of those functions is one that's quite simple.
+
+368
+00:17:28,840 --> 00:17:29,730
+很一般 
+It's average.
+
+369
+00:17:29,730 --> 00:17:33,120
+一个函数 允许您计算一些数字的平均值
+A function that allows you to calculate the average of some numbers
+
+370
+00:17:33,120 --> 00:17:34,230
+你已经通过了 
+that you've passed in.
+
+371
+00:17:34,230 --> 00:17:38,130
+让我在终端窗口的VS Code中打开一个新文件
+Let me go ahead and in VS Code in my terminal window, open up a new file
+
+372
+00:17:38,130 --> 00:17:39,510
+名为average.py 
+called average.py.
+
+373
+00:17:39,510 --> 00:17:41,790
+在这个文件的顶部 我将导入
+And at the top of this file, I'm going to import
+
+374
+00:17:41,790 --> 00:17:46,140
+这一次是一个不同的库 即Python中的统计模块 
+a different library this time, namely the statistics module in Python.
+
+375
+00:17:46,140 --> 00:17:49,440
+现在 我将继续调用一个函数 
+And now, I'm going to go ahead and call a function that I know comes
+
+376
+00:17:49,440 --> 00:17:53,250
+在该模块中 即用于某些值平均值 
+in that module, namely mean for the average of some values.
+
+377
+00:17:53,250 --> 00:17:55,710
+我要打电话给南极洲 
+And I'm going to call statistics.mean.
+
+378
+00:17:55,710 --> 00:18:00,122
+我将传入这个函数mean 一个值的列表 
+And I'm going to pass into this function mean, a list of some values.
+
+379
+00:18:00,122 --> 00:18:01,830
+假设我很快地
+And let's suppose that I'm quickly trying
+
+380
+00:18:01,830 --> 00:18:04,860
+来计算我目前在学校的平均成绩
+to calculate what my current grade average is in school.
+
+381
+00:18:04,860 --> 00:18:06,690
+我第一次考试考得很好 
+And I did really well on my first test.
+
+382
+00:18:06,690 --> 00:18:07,920
+我得到了100% 
+And I got 100%.
+
+383
+00:18:07,920 --> 00:18:10,060
+在我的第二次 我做得很好 但不是那么好 
+And on my second, I did well but not as well.
+
+384
+00:18:10,060 --> 00:18:10,890
+我得了90分 
+And I got a 90.
+
+385
+00:18:10,890 --> 00:18:13,140
+讽刺的是我数学不好
+And ironically, I'm not very good with math.
+
+386
+00:18:13,140 --> 00:18:16,630
+所以我想知道这两次测试的平均值是多少 
+So I'd like to figure out what my average now is between those two tests.
+
+387
+00:18:16,630 --> 00:18:19,260
+现在让我在这个列表中输入
+So let me go ahead now and in this list, type in the number
+
+388
+00:18:19,260 --> 00:18:25,110
+100 逗号 90 从而传入两个值的列表 两个INT 190 
+100, comma, 90, thereby passing in a list of two values, two INTs, 190.
+
+389
+00:18:25,110 --> 00:18:28,140
+在这些之外的是圆括号 因为 当然 
+And outside of those are the parentheses because, of course,
+
+390
+00:18:28,140 --> 00:18:31,290
+这就是我传递给mean函数的参数 
+this is now the argument I'm passing to the function called mean.
+
+391
+00:18:31,290 --> 00:18:35,550
+这个函数mean在statistics模块中 
+And this function mean is in the module called statistics.
+
+392
+00:18:35,550 --> 00:18:38,820
+如果我不计算平均值 
+Well, it's not that interesting to just calculate the mean if I don't actually
+
+393
+00:18:38,820 --> 00:18:39,700
+看看是什么
+see what it is.
+
+394
+00:18:39,700 --> 00:18:43,290
+让我另外传递均值函数的返回值
+So let me additionally pass the return value of that mean function
+
+395
+00:18:43,290 --> 00:18:45,300
+打印功能像往常一样 
+to the print function as usual.
+
+396
+00:18:45,300 --> 00:18:47,910
+现在让我在VS Code的终端窗口中输入
+Let me now in my terminal window in VS Code, type
+
+397
+00:18:47,910 --> 00:18:50,340
+在average.py的Python中 然后按Enter键 
+in Python of average.py and hit Enter.
+
+398
+00:18:50,340 --> 00:18:54,125
+瞧 正如你所料 我的平均分是95% 
+And voila, as you might expect, my average is 95%.
+
+399
+00:18:54,125 --> 00:18:57,000
+所以这里的不同之处在于我只是使用了一个不同的模块 
+So the difference here is that I'm just using a different module that
+
+400
+00:18:57,000 --> 00:18:58,000
+仍然与Python一起提供 
+still comes with Python.
+
+401
+00:18:58,000 --> 00:19:02,370
+但我需要导入它 而不是导入随机模块 
+But I need to import it instead of, for instance, the random module instead.
+
+402
+00:19:02,370 --> 00:19:04,260
+这一次 我从文件中得知
+And this time, I know from the documentation
+
+403
+00:19:04,260 --> 00:19:06,850
+存在一个叫做Mean的函数 
+that there exists a function called mean.
+
+404
+00:19:06,850 --> 00:19:10,590
+事实证明 在Python中还附带了更多的功能
+Well, it turns out there's even more functionality that comes with Python
+
+405
+00:19:10,590 --> 00:19:13,650
+这是随其他Python模块一起提供的 
+and that comes with other modules in Python.
+
+406
+00:19:13,650 --> 00:19:16,630
+这个特性通常被称为命令行参数 
+And there's this feature generally known as command line arguments.
+
+407
+00:19:16,630 --> 00:19:19,170
+这不仅是Python的一个特性 也是语言的一个特性
+This is a feature, not just of Python, but of languages
+
+408
+00:19:19,170 --> 00:19:22,590
+更广泛地说 这允许您提供输入 而不是何时
+more generally that allow you to provide input not when
+
+409
+00:19:22,590 --> 00:19:27,780
+在程序内部提示 就像我们每次调用Python函数时发生的那样
+prompted inside of a program as happens whenever we call the Python function
+
+410
+00:19:27,780 --> 00:19:28,560
+输入 
+input.
+
+411
+00:19:28,560 --> 00:19:32,100
+相反 有这样一个功能 程序的命令行参数
+But rather, there's this feature, command line arguments of programs,
+
+412
+00:19:32,100 --> 00:19:34,260
+这允许您提供以下参数
+that allows you to provide arguments that
+
+413
+00:19:34,260 --> 00:19:38,473
+是程序的输入 当你在命令行执行的时候 
+is input to the program of just when you're executing at the command line.
+
+414
+00:19:38,473 --> 00:19:40,890
+所以到目前为止 例如 回想一下 我们通常
+So up until now, for instance, recall that we've generally
+
+415
+00:19:40,890 --> 00:19:42,990
+运行Something.py的Python 
+run Python of something.py.
+
+416
+00:19:42,990 --> 00:19:45,360
+例如 hello.py的Python 
+For instance, Python of hello.py.
+
+417
+00:19:45,360 --> 00:19:49,230
+我从来没有真正执行过任何单词或短语
+And I've never once really executed any words or phrases
+
+418
+00:19:49,230 --> 00:19:52,380
+以文件的名字命名 但我可以 
+after the name of the file, but I could.
+
+419
+00:19:52,380 --> 00:19:57,270
+事实上 当你像我们一样在类似命令的环境中运行程序时 
+In fact, when you're running programs in a command-like environment like we are,
+
+420
+00:19:57,270 --> 00:20:02,418
+您可以在命令后提供任意数量的单词、数字或短语
+you can provide any number of words or numbers or phrases after the command
+
+421
+00:20:02,418 --> 00:20:03,210
+你在打字 
+that you're typing.
+
+422
+00:20:03,210 --> 00:20:08,020
+所有这些都会以某种方式作为输入传递到程序本身 
+And all of those will somehow be passed in as inputs to the program itself.
+
+423
+00:20:08,020 --> 00:20:11,790
+您不必一次提示用户做一件事
+You don't have to prompt the user for one thing at a time
+
+424
+00:20:11,790 --> 00:20:14,230
+通过手动调用该输入函数 
+by manually calling that input function.
+
+425
+00:20:14,230 --> 00:20:15,810
+那么 这实际上意味着什么呢？
+So what does this mean in real terms?
+
+426
+00:20:15,810 --> 00:20:18,270
+好了 让我们回到VS代码这里 
+Well, let me go ahead back into VS Code here.
+
+427
+00:20:18,270 --> 00:20:23,940
+让我建议我们考虑如何利用某个模块 
+And let me propose that we consider how we might leverage a certain module.
+
+428
+00:20:23,940 --> 00:20:27,930
+我将继续创建一个名为name.py的文件 
+I'm going to go ahead and create a file called name.py.
+
+429
+00:20:27,930 --> 00:20:30,420
+这次我想用一个新模块 那就是
+And I'd like to use a new module this time that's
+
+430
+00:20:30,420 --> 00:20:35,610
+这将使我能够访问在命令行中键入的值 
+going to give me access to values that have been typed at the command line.
+
+431
+00:20:35,610 --> 00:20:37,170
+但是这个模块会是什么呢？
+But what's this module going to be?
+
+432
+00:20:37,170 --> 00:20:39,060
+好的 这个将被命名为sys 
+Well, this one's going to be called sys.
+
+433
+00:20:39,060 --> 00:20:42,480
+sys是system的缩写 它包含了很多功能
+And sys, short for system, contains a whole lot of functionality
+
+434
+00:20:42,480 --> 00:20:46,770
+这是特定于系统本身和你我正在输入的命令 
+that's specific to the system itself and the commands that you and I are typing.
+
+435
+00:20:46,770 --> 00:20:49,800
+此模块的文档位于此URL 
+The documentation for this module is at this URL here.
+
+436
+00:20:49,800 --> 00:20:53,100
+它列出了所有的函数和变量
+And it lists all of the various functions and variables and the like
+
+437
+00:20:53,100 --> 00:20:54,758
+模块附带的功能 
+that come with that module.
+
+438
+00:20:54,758 --> 00:20:57,300
+但我们要关注一些更具体的东西 
+But we're going to focus on something a little more specific,
+
+439
+00:20:57,300 --> 00:20:58,980
+也就是这个东西
+namely this thing here.
+
+440
+00:20:58,980 --> 00:21:01,950
+在Python的sys模块中 
+It turns out in the sys module in Python,
+
+441
+00:21:01,950 --> 00:21:06,900
+有一个变量 就像魔法一样存在 叫做argv 
+there is a variable that just magically exists for you called argv.
+
+442
+00:21:06,900 --> 00:21:10,650
+它代表论点向量 这是一种描述
+It stands for argument vector which is a fancy way of describing
+
+443
+00:21:10,650 --> 00:21:15,090
+人类在提示符下输入的所有单词的列表
+the list of all of the words that the human typed in at their prompt
+
+444
+00:21:15,090 --> 00:21:16,650
+在他们按回车键之前
+before they hit Enter.
+
+445
+00:21:16,650 --> 00:21:21,360
+所有这些似乎都是通过Python神奇地提供给您的
+All of those are seemingly magically provided to you via Python
+
+446
+00:21:21,360 --> 00:21:24,270
+一个名为sys.argv的变量 
+in a variable called sys.argv.
+
+447
+00:21:24,270 --> 00:21:27,882
+这个变量是一个列表 这意味着第一个元素将
+This variable is a list, which means that the first element is going
+
+448
+00:21:27,882 --> 00:21:29,340
+你输入的第一个词
+to be the first word that you type.
+
+449
+00:21:29,340 --> 00:21:30,870
+第二个元素是第二个单词
+The second element is going to be the second word
+
+450
+00:21:30,870 --> 00:21:32,200
+你输入的信息等等
+that you typed in, so forth.
+
+451
+00:21:32,200 --> 00:21:34,800
+通过这个列表 你能找出
+And by way of this list, then, can you figure out
+
+452
+00:21:34,800 --> 00:21:38,280
+人类在提示符下实际输入了哪些单词 
+what words did the human actually type at the prompt and maybe use that
+
+453
+00:21:38,280 --> 00:21:41,340
+来影响你自己程序的行为
+to influence the behavior of your own program?
+
+454
+00:21:41,340 --> 00:21:43,110
+那么 这意味着什么呢？
+So what does this mean now in real terms?
+
+455
+00:21:43,110 --> 00:21:47,760
+在这个名为name.py的新选项卡中 让我继续导入sys 
+Well, in this new tab called name.py, let me go ahead and import sys.
+
+456
+00:21:47,760 --> 00:21:52,650
+在sys模块中 将允许我访问sys.argv 但是如何才能
+Within that sys module is going to give me access to sys.argv, but how might
+
+457
+00:21:52,650 --> 00:21:53,550
+我想用它？
+I want to use it?
+
+458
+00:21:53,550 --> 00:21:54,570
+好吧 我们开始吧 
+Well, let's do this.
+
+459
+00:21:54,570 --> 00:21:58,500
+而不是写一个Hello World程序 
+Instead of writing a Hello World program that all of these times
+
+460
+00:21:58,500 --> 00:22:02,040
+刚刚查找了输入的返回值
+has just looked for the return value of input
+
+461
+00:22:02,040 --> 00:22:04,530
+来弄清楚用户想让我打印什么 
+to figure out what the user wants me to print,
+
+462
+00:22:04,530 --> 00:22:06,900
+让我们继续 只是期待用户告诉我们 
+let's go ahead and just expect the user to tell us
+
+463
+00:22:06,900 --> 00:22:10,140
+当他们运行Python程序本身时 他们的名字是什么 
+when they run the Python program itself, what their name is.
+
+464
+00:22:10,140 --> 00:22:13,350
+假设这一次 我想生成一大堆名字标签 
+And suppose this time, I'd like to generate a whole bunch of name tags,
+
+465
+00:22:13,350 --> 00:22:14,490
+最初只有一个 
+initially just one.
+
+466
+00:22:14,490 --> 00:22:17,730
+在美国这里 在翻领上贴一张贴纸是很常见的 
+And in the US here, it's very common to wear a sticker on your lapel that
+
+467
+00:22:17,730 --> 00:22:19,350
+你好 我叫大卫 
+says Hello, my name is David.
+
+468
+00:22:19,350 --> 00:22:21,750
+所以我想打印出一些类似的文本 
+So I want to print out some text that resembles that.
+
+469
+00:22:21,750 --> 00:22:24,483
+我的想法是也许有一天我可以增强这个程序
+The idea being maybe I could enhance this program someday
+
+470
+00:22:24,483 --> 00:22:26,400
+直接把文本发送到打印机
+to even send that text straight to the printer
+
+471
+00:22:26,400 --> 00:22:28,950
+并动态生成这些名称标签 
+and dynamically generate those name tags.
+
+472
+00:22:28,950 --> 00:22:30,610
+好吧 让我继续做这个 
+Well, let me go ahead now and do this.
+
+473
+00:22:30,610 --> 00:22:32,853
+让我像往常一样打印出来 你好 
+Let me go ahead and print out as always, Hello.
+
+474
+00:22:32,853 --> 00:22:34,770
+但这次我要多说点
+But I'll say a little something more this time
+
+475
+00:22:34,770 --> 00:22:36,103
+让事情变得更有趣
+to make things more interesting.
+
+476
+00:22:36,103 --> 00:22:38,580
+你好 我叫“是” 引用 不引用 
+Hello, my name "is," quote, unquote.
+
+477
+00:22:38,580 --> 00:22:41,610
+在那之后 我通常
+And then after that, I normally have been
+
+478
+00:22:41,610 --> 00:22:45,900
+在调用input的习惯中 将返回值存储在变量中 
+in the habit of calling input, storing the return value in a variable,
+
+479
+00:22:45,900 --> 00:22:48,570
+并在这里传入该变量的名称 
+and passing in the name of that variable here.
+
+480
+00:22:48,570 --> 00:22:50,790
+但我还是要直接跳到这个
+But I'm going to instead jump right to this--
+
+481
+00:22:50,790 --> 00:22:53,880
+sys.argvbracket1.
+sys.argvbracket1.
+
+482
+00:22:53,880 --> 00:22:55,260
+就这样
+And that's it.
+
+483
+00:22:55,260 --> 00:22:59,010
+我会有一个程序说你好 我的名字被跟踪了
+I'm going to have a program here that says Hello, my name is followed
+
+484
+00:22:59,010 --> 00:23:02,640
+sys.argvbracket1中的任何内容 
+by whatever is in sys.argvbracket1.
+
+485
+00:23:02,640 --> 00:23:04,860
+注意 这个.argv也是一个列表 
+And notice, this .argv again is a list.
+
+486
+00:23:04,860 --> 00:23:07,830
+回顾我们对循环和循环列表的讨论 
+And recall from our discussion of loops and in turn list,
+
+487
+00:23:07,830 --> 00:23:11,790
+我们用这个方括号来表示不同的元素
+we use this square bracket notation to get at the various elements
+
+488
+00:23:11,790 --> 00:23:12,900
+在一个列表中 
+inside of a list.
+
+489
+00:23:12,900 --> 00:23:15,120
+好吧 让我现在下去到终端窗口
+All right, let me go down now into my terminal window
+
+490
+00:23:15,120 --> 00:23:17,100
+然后运行name.py的Python 
+and run Python of name.py.
+
+491
+00:23:17,100 --> 00:23:19,440
+但这一次 
+But this time, rather than just hit Enter
+
+492
+00:23:19,440 --> 00:23:21,690
+等待程序提示输入我的名字
+and wait for the program to prompt me for my name,
+
+493
+00:23:21,690 --> 00:23:24,990
+让我主动告诉这个程序我的名字
+let me proactively just tell this program what my name is
+
+494
+00:23:24,990 --> 00:23:26,550
+所谓的命令行 
+at the so-called command line.
+
+495
+00:23:26,550 --> 00:23:27,210
+开始吧
+Here we go.
+
+496
+00:23:27,210 --> 00:23:31,980
+D-A-V-I-D与文件名之间用空格分隔 因此 
+D-A-V-I-D separated with a space from the name of the file so that now when I
+
+497
+00:23:31,980 --> 00:23:37,410
+执行Python name.py大卫 我在屏幕上看到 瞧 你好 
+execute Python, name.py David, I see on the screen, voila, Hello,
+
+498
+00:23:37,410 --> 00:23:38,460
+我叫大卫 
+my name is David.
+
+499
+00:23:38,460 --> 00:23:41,400
+所以仅基于这个演示 我认为
+So based on this demonstration alone, I think
+
+500
+00:23:41,400 --> 00:23:44,280
+我们可以准确地推断出sys.argv中发生了什么
+we can infer exactly what's going on in sys.argv
+
+501
+00:23:44,280 --> 00:23:48,450
+尽管乍看起来很复杂 
+even though it sounds certainly at first glance, rather complicated here.
+
+502
+00:23:48,450 --> 00:23:49,170
+我们往上看 
+Let's look up.
+
+503
+00:23:49,170 --> 00:23:53,160
+在sys.argv中 我在这里将括号1括起来 
+At sys.argv, I'm going to bracket1 here.
+
+504
+00:23:53,160 --> 00:24:01,320
+所以很明显 sys.argvbracket1存储的是D-A-V-I-D 但它是一个 
+So clearly, sys.argvbracket1 is storing D-A-V-I-D. But it's one.
+
+505
+00:24:01,320 --> 00:24:03,750
+回想一下 在过去我们研究循环时 
+In the past when we looked at loops, recall
+
+506
+00:24:03,750 --> 00:24:06,030
+我们说它们是零指数 
+that we said that they were zero index.
+
+507
+00:24:06,030 --> 00:24:07,890
+第一个元素是零 
+That is the first element is zero.
+
+508
+00:24:07,890 --> 00:24:09,450
+下一个元素是1 
+The next element is one.
+
+509
+00:24:09,450 --> 00:24:12,040
+下一个元素是2 依此类推 
+This next element is two and so forth.
+
+510
+00:24:12,040 --> 00:24:14,520
+然而 在这里 我把它当作我的名字
+And yet, here I am treating it as though my name
+
+511
+00:24:14,520 --> 00:24:16,320
+位于列表一的开头 
+is at the start of the list one.
+
+512
+00:24:16,320 --> 00:24:23,180
+那么 让我问这个问题 在sys.argv的0中可能是什么？
+Well, let me ask this question, what is probably in sys.argv of 0?
+
+513
+00:24:23,180 --> 00:24:27,710
+0的sys.argv中可能有什么--
+What is probably in sys.argv of 0--
+
+514
+00:24:27,710 --> 00:24:30,680
+列表中的第一个元素是什么？
+the very first element actually in that list?
+
+515
+00:24:30,680 --> 00:24:32,360
+观众：哦 是的 
+AUDIENCE: Oh, yeah.
+
+516
+00:24:32,360 --> 00:24:37,625
+我想它就像C中的程序名 
+I think it's like in C, the name of program.
+
+517
+00:24:37,625 --> 00:24:40,280
+大卫·马兰：的确 这和C语言很像 
+DAVID MALAN: Indeed, it's indeed like in C. Another language
+
+518
+00:24:40,280 --> 00:24:41,750
+是程序的名称 
+is the name of the program.
+
+519
+00:24:41,750 --> 00:24:44,090
+如果我们考虑一下我打的是什么 
+Well, if we consider what it was I typed,
+
+520
+00:24:44,090 --> 00:24:47,330
+我当然输入了Python 因为这是我的解释器的名字 
+I certainly typed Python because that's the name of my interpreter.
+
+521
+00:24:47,330 --> 00:24:50,480
+我们真的不需要知道这一点 因为我们使用的是Python本身 
+And we don't really need to know that because we're using Python itself.
+
+522
+00:24:50,480 --> 00:24:52,460
+但在那之后 我打了两个字 
+But after that, I did type two things.
+
+523
+00:24:52,460 --> 00:24:55,670
+我输入了name.py 就像我在任何时候做过很多次一样
+I typed name.py as I've done so many times any time
+
+524
+00:24:55,670 --> 00:24:58,130
+我想要在我编写的解释器程序中使用Python 
+I want Python to the interpreter program I've written.
+
+525
+00:24:58,130 --> 00:25:00,170
+事实证明 按照惯例 
+And it turns out by convention, what Python
+
+526
+00:25:00,170 --> 00:25:05,750
+它是否将正在执行的文件的名称存储在sys.argv中
+does is it stores in sys.argv the name of the file that you're executing
+
+527
+00:25:05,750 --> 00:25:10,170
+或口译 后跟您键入的任意数量的其他单词 
+or interpreting followed by any number of other words that you type.
+
+528
+00:25:10,170 --> 00:25:12,618
+所以这段时间 我们可能一直在访问
+So all this time, we could have been accessing
+
+529
+00:25:12,618 --> 00:25:15,410
+这个节目的名字 坦率地说 并不是那么有趣 
+the name of the program, which frankly, isn't all that interesting.
+
+530
+00:25:15,410 --> 00:25:20,450
+但我们现在也可以访问在提示符后输入的单词 
+But we can also now access words that are typed after that prompt as well.
+
+531
+00:25:20,450 --> 00:25:25,628
+当然 如果我不输入任何内容 这里可能会发生什么？
+But of course, if I don't type anything in, what might happen here?
+
+532
+00:25:25,628 --> 00:25:27,920
+我可能太天真了 以为总会有
+This might be naive of me to assume that there's always
+
+533
+00:25:27,920 --> 00:25:30,920
+将会出现在sys.argv中的位置1处 
+going to be something at location1 in sys.argv.
+
+534
+00:25:30,920 --> 00:25:32,330
+让我来试试这个 
+Let me go ahead and try this.
+
+535
+00:25:32,330 --> 00:25:33,950
+Python.name.py 
+Python, name.py.
+
+536
+00:25:33,950 --> 00:25:36,500
+我不会给你我的名字 因为在这一点上 
+And I'm not giving you my name because at this point,
+
+537
+00:25:36,500 --> 00:25:39,350
+我甚至可能不知道你想把我的名字打出来 
+I might not even know that you want my name to be typed.
+
+538
+00:25:39,350 --> 00:25:40,790
+现在让我按Enter键 
+So let me hit Enter now.
+
+539
+00:25:40,790 --> 00:25:43,160
+呃 哦 我们现在看到一个错误 
+And uh, oh, we see now an error.
+
+540
+00:25:43,160 --> 00:25:46,160
+这是一个新的异常 这是在Python中的一个所谓的例外 
+A so-called exception in Python, this one's a new one.
+
+541
+00:25:46,160 --> 00:25:51,110
+这是一个索引错误 它详细说明了列表索引超出范围 
+This one's an index error that elaborates list index out of range.
+
+542
+00:25:51,110 --> 00:25:53,870
+事实证明 这实际上是最常见的错误之一
+And turns out this is actually one of the most common mistakes
+
+543
+00:25:53,870 --> 00:25:56,690
+在编程中 无论您使用的是Python中的列表
+in programming, whether you're using a list in Python
+
+544
+00:25:56,690 --> 00:25:59,300
+或其他语言中的数组或向量 是
+or arrays or vectors in other languages, is
+
+545
+00:25:59,300 --> 00:26:02,240
+尝试访问某些不存在的元素 
+to try to access some element that does not exist.
+
+546
+00:26:02,240 --> 00:26:03,920
+你试着向左走得太远 
+You try to go too far to the left.
+
+547
+00:26:03,920 --> 00:26:08,150
+或者您尝试在此对象中向右走得太远
+Or you try to go too far to the right in this object that
+
+548
+00:26:08,150 --> 00:26:10,500
+只是一些值的列表 
+is just a list of some values.
+
+549
+00:26:10,500 --> 00:26:13,070
+所以当然 这里的错误是我是
+So of course, the mistake here is that I'm
+
+550
+00:26:13,070 --> 00:26:15,500
+假设地点1会有什么东西
+assuming there's going to be something at location1
+
+551
+00:26:15,500 --> 00:26:17,930
+实际上 它是位置0 
+when really, it's location0.
+
+552
+00:26:17,930 --> 00:26:19,580
+这是唯一有价值的东西 
+That's the only one that has a value.
+
+553
+00:26:19,580 --> 00:26:23,300
+但解决这个问题并不等同于做bracket0
+But fixing this is not going to amount to doing bracket0
+
+554
+00:26:23,300 --> 00:26:27,330
+因为现在如果我继续运行这个程序 没有其他词
+because now if I go ahead and rerun this program with no other words
+
+555
+00:26:27,330 --> 00:26:31,492
+在name.py之后 它会说你好 我的名字是name.py 这很好
+after name.py, it says Hello, my name is name.py, which is fine
+
+556
+00:26:31,492 --> 00:26:33,950
+如果我们要为这个项目做一个名牌 但那不是 
+if we're making a name tag for the program, but that's not,
+
+557
+00:26:33,950 --> 00:26:36,390
+当然 我在这里的目标是 
+of course, what my goal here is instead.
+
+558
+00:26:36,390 --> 00:26:40,260
+因此 如果解决办法不仅仅是将1改为0 
+So if the fix is not just to change the one to a zero,
+
+559
+00:26:40,260 --> 00:26:43,730
+我还能怎么处理这个错误呢？
+how else might I handle this error?
+
+560
+00:26:43,730 --> 00:26:46,190
+我还能怎么处理这个错误呢？
+How else might I handle this error?
+
+561
+00:26:46,190 --> 00:26:49,910
+如果用户不记得 就会出现这种索引错误
+This index error that happens if the user just doesn't remember to
+
+562
+00:26:49,910 --> 00:26:53,510
+或者不知道在提示符下输入他们的真实姓名 
+or doesn't know to type their actual name at the prompt.
+
+563
+00:26:53,510 --> 00:26:56,630
+观众：我们总是可以在节目中加入一个例外 
+AUDIENCE: We could always put an exception into the program,
+
+564
+00:26:56,630 --> 00:27:03,510
+比方说 如果地点1什么都没有 我们就出来
+say, if there's nothing at location1, we just come out
+
+565
+00:27:03,510 --> 00:27:06,290
+然后说 好的 我们没有参数什么的 
+and say, OK, we haven't got parameter or something.
+
+566
+00:27:06,290 --> 00:27:09,615
+但如果有的话 我们会继续这个项目 
+But if there is, we continue along with the program.
+
+567
+00:27:09,615 --> 00:27:10,490
+大卫·马兰：太好了 
+DAVID MALAN: Perfect.
+
+568
+00:27:10,490 --> 00:27:13,902
+因此 如果我可以简化一下 我们可以尝试执行这行代码 
+So if I might simplify, we can try to execute this line of code,
+
+569
+00:27:13,902 --> 00:27:16,610
+除非出现错误 我们会以其他方式处理 
+except if there's an error, we'll deal with it in some other way.
+
+570
+00:27:16,610 --> 00:27:19,670
+现在 理想的情况是 一旦我成为一个足够强大的程序员 
+Now, ideally-- and once I'm a strong enough programmer,
+
+571
+00:27:19,670 --> 00:27:22,730
+我已经预料到了这一点 并编写了以下代码
+I would have anticipated this and written the following code
+
+572
+00:27:22,730 --> 00:27:23,630
+从一开始 
+from the get go.
+
+573
+00:27:23,630 --> 00:27:25,970
+但当你在学习的时候 看到一个错误当然是合理的 
+But when you're learning, it's certainly reasonable to see an error.
+
+574
+00:27:25,970 --> 00:27:28,160
+哦 我没有意识到我应该发现这一点 然后
+Oh, I didn't realize I should detect that and then
+
+575
+00:27:28,160 --> 00:27:29,540
+返回并改进您的代码 
+go back and improve your code.
+
+576
+00:27:29,540 --> 00:27:31,680
+但当然 如果你阅读了文档 
+But of course, if you read the documentation,
+
+577
+00:27:31,680 --> 00:27:33,930
+你牢牢记住了从过去学到的一些教训 
+you ingrain some of the lessons learned from the past.
+
+578
+00:27:33,930 --> 00:27:37,610
+您将养成尝试并检查其中一些异常的习惯
+You'll get into the habit of trying and checking for some of these exceptions
+
+579
+00:27:37,610 --> 00:27:38,250
+你自己 
+yourself.
+
+580
+00:27:38,250 --> 00:27:41,450
+所以让我像你在这里提议的那样 用一种可能的方式来解决这个问题 
+So let me solve this in one possible way as you've proposed here.
+
+581
+00:27:41,450 --> 00:27:43,950
+让我们尝试按如下方式处理此异常 
+Let's try to handle this exception as follows.
+
+582
+00:27:43,950 --> 00:27:44,870
+现在让我继续说下去 
+Let me go ahead now.
+
+583
+00:27:44,870 --> 00:27:47,420
+而不是盲目地给这条打印线打电话 
+And instead of just blindly calling this print line,
+
+584
+00:27:47,420 --> 00:27:51,770
+让我试着打印出来你好 我的名字是某某 
+let me try to print out Hello, my name is such and such,
+
+585
+00:27:51,770 --> 00:27:56,630
+除非出现问题 特别是索引错误 否则
+except if there is an issue, specifically an index error, then
+
+586
+00:27:56,630 --> 00:27:58,250
+我想要做什么呢？
+what do I want to go ahead and do?
+
+587
+00:27:58,250 --> 00:28:01,250
+我要说的是 论点太少了 
+I'm going to say something like too few arguments.
+
+588
+00:28:01,250 --> 00:28:03,270
+我可以解释得更清楚 
+I could be more explanatory than that.
+
+589
+00:28:03,270 --> 00:28:05,480
+但现在 我只想向用户解释
+But for now, I'm just going to explain to the user
+
+590
+00:28:05,480 --> 00:28:08,760
+他们给我的论据太少 提示时的话太少 
+that they gave me too few arguments, too few words at the prompt.
+
+591
+00:28:08,760 --> 00:28:12,243
+所以现在 它仍然不会以我想要的方式工作 
+So now, it's still not going to work in quite the way I want.
+
+592
+00:28:12,243 --> 00:28:14,660
+我还是不能生成他们的名牌 
+I'm still not going to be able to generate their name tag.
+
+593
+00:28:14,660 --> 00:28:17,368
+但至少 他们不会看到一些隐晦的错误消息
+But at least, they're not going to see some cryptic error message
+
+594
+00:28:17,368 --> 00:28:20,070
+并认为是他们自己破坏了程序 
+and think that they themselves broke the program.
+
+595
+00:28:20,070 --> 00:28:23,740
+现在让我继续运行名为e.py、Enter和参数太少的Python 
+Let me go ahead now and run Python of name.py Enter and too few arguments.
+
+596
+00:28:23,740 --> 00:28:28,970
+好的 现在让我继续执行名为.py的Python 然后输入我的名字David 
+OK, let me go ahead now and do Python of name.py and type in my name, David.
+
+597
+00:28:28,970 --> 00:28:30,350
+现在我们又重回正轨了 
+And now we're back in business.
+
+598
+00:28:30,350 --> 00:28:33,680
+我看到我的名字也在屏幕上 
+And I see that my name is on the screen too.
+
+599
+00:28:33,680 --> 00:28:37,460
+但严格地说 我不需要尝试这样做 
+But strictly speaking, I don't have to try to do this.
+
+600
+00:28:37,460 --> 00:28:41,090
+在编写这段代码时 我实际上可以更具防御性 
+I could actually be a little more defensive in writing this code.
+
+601
+00:28:41,090 --> 00:28:44,540
+也许我可以检查用户是否真的
+And maybe I could check whether or not the user has indeed
+
+602
+00:28:44,540 --> 00:28:48,740
+在提示符下提供一个或多个名称 以便提供这些名称
+provided a name or multiple names at the prompt so as to give them
+
+603
+00:28:48,740 --> 00:28:51,300
+更精炼的错误消息也是如此 
+more refined error messages as well.
+
+604
+00:28:51,300 --> 00:28:52,620
+那么我该怎么做呢？
+So how might I do this?
+
+605
+00:28:52,620 --> 00:28:56,150
+好了 我去撤销我添加的异常处理 
+Well, me go and undo the exception handling I've added.
+
+606
+00:28:56,150 --> 00:28:59,220
+为什么我不更谦虚地尝试这样做呢？
+And why don't I instead more modestly try to do this?
+
+607
+00:28:59,220 --> 00:29:01,700
+让我继续在这里介绍一个有条件的 
+Let me go ahead and introduce a conditional here.
+
+608
+00:29:01,700 --> 00:29:09,740
+如果sys.argv的长度小于2或等价于仅等于1
+If the length of sys.argv is less than 2 or equivalently equal to just one
+
+609
+00:29:09,740 --> 00:29:10,440
+价值--
+value--
+
+610
+00:29:10,440 --> 00:29:12,860
+但我现在只会坚持少于2个 
+but I'll just stick with less than 2 for now,
+
+611
+00:29:12,860 --> 00:29:17,030
+然后继续打印出两个论点 
+then go ahead and print out two few arguments.
+
+612
+00:29:17,030 --> 00:29:19,070
+所以我最终想要两个论点 
+So I want ultimately two arguments.
+
+613
+00:29:19,070 --> 00:29:21,890
+我想知道0号位置的程序名称 
+I want the name of the program at location0.
+
+614
+00:29:21,890 --> 00:29:24,380
+我要知道地点1的那个人的名字 
+And I want the name of the human at location1.
+
+615
+00:29:24,380 --> 00:29:26,010
+这总共有两个论点 
+So that's a total of two arguments.
+
+616
+00:29:26,010 --> 00:29:28,070
+所以如果我的论点少于两个 让我们
+So if I have fewer than two arguments, let's
+
+617
+00:29:28,070 --> 00:29:32,780
+用这行打印行告诉用户 L如果sys.argv的长度
+tell the user with this print line, L if the length of sys.argv
+
+618
+00:29:32,780 --> 00:29:36,710
+就是说大于2 就像他们在提示符下输入了太多的单词 
+is say greater than 2, like they typed in too many words at the prompt, well,
+
+619
+00:29:36,710 --> 00:29:40,610
+让我们告诉他们 打印 引用 取消引用 太多的论点 
+let's tell them, print, quote, unquote, "too" many arguments.
+
+620
+00:29:40,610 --> 00:29:44,900
+如果他们真的做对了 他们给了我两个论点 
+Else if they did get it right, and they gave me exactly two arguments.
+
+621
+00:29:44,900 --> 00:29:48,072
+否则 让我们继续打印我真正关心的内容 
+Else, let's go ahead and print what I actually care about.
+
+622
+00:29:48,072 --> 00:29:50,030
+好的 让我去我的终端窗口
+All right, let me go down to my terminal window
+
+623
+00:29:50,030 --> 00:29:52,760
+在这里 运行名为e.py的Python 看吧 
+here and run Python of name.py and voila.
+
+624
+00:29:52,760 --> 00:29:55,520
+啊 哦 一种完全不同类型的错误 
+Uh, oh, a completely different type of error.
+
+625
+00:29:55,520 --> 00:29:58,260
+这是一个语法错误 我们在过去已经看到过 
+This one a syntax error, which we've seen in the past.
+
+626
+00:29:58,260 --> 00:30:01,970
+现在 语法错误召回是我的错 就像 我把这里搞砸了 
+Now, a syntax error recall is mea culpa, like, I messed up here.
+
+627
+00:30:01,970 --> 00:30:03,740
+我写了无效的语法 
+And I wrote invalid syntax.
+
+628
+00:30:03,740 --> 00:30:07,038
+所以没有太多的条件或异常处理
+And so no amount of conditionals or exception handling's
+
+629
+00:30:07,038 --> 00:30:08,330
+真的要赶上这一次了 
+really going to catch this one.
+
+630
+00:30:08,330 --> 00:30:09,890
+我需要回去拿回我的程序
+I need to go back and just get my program
+
+631
+00:30:09,890 --> 00:30:11,557
+工作 因为它根本没有运行 
+to work because it's not running at all.
+
+632
+00:30:11,557 --> 00:30:14,000
+好的 让我上去看看 
+Well, let me go up here and see.
+
+633
+00:30:14,000 --> 00:30:16,100
+第四行是问题所在 
+Line four is the issue.
+
+634
+00:30:16,100 --> 00:30:19,880
+事实上 看起来我这里有一根未结束的字符串 
+And indeed, it looks like I have an unterminated string here.
+
+635
+00:30:19,880 --> 00:30:22,490
+我需要继续下去 现在添加这个双引号 
+I need to go ahead and now add this double quote.
+
+636
+00:30:22,490 --> 00:30:23,910
+所以现在让我继续下去 
+So let me go ahead now.
+
+637
+00:30:23,910 --> 00:30:27,800
+转移注意力后 让我重新运行名为e.py的Python 然后按Enter键 
+And with that red herring gone, let me rerun Python of name.py and hit Enter.
+
+638
+00:30:27,800 --> 00:30:29,630
+现在 我们看到的论据太少了 
+And now, we see too few arguments.
+
+639
+00:30:29,630 --> 00:30:31,610
+好吧 也许它想要我的全名 
+OK, maybe it wants my full name.
+
+640
+00:30:31,610 --> 00:30:35,210
+现在让我继续运行名为.py的巨蟒 David Malan 
+Let me go ahead now and run Python of name.py, David Malan,
+
+641
+00:30:35,210 --> 00:30:39,200
+在文件名后面输入两个单词 然后按Enter键 
+typing in both words after the name of the file and hit Enter.
+
+642
+00:30:39,200 --> 00:30:41,220
+现在 当然 争论太多了 
+And now, of course, it's too many arguments.
+
+643
+00:30:41,220 --> 00:30:41,720
+很好 
+Fine.
+
+644
+00:30:41,720 --> 00:30:44,930
+现在 我将执行名为e.py且仅名为David的Python 
+Now, I'll oblige and do Python of name.py and just David.
+
+645
+00:30:44,930 --> 00:30:46,020
+现在我们就知道了 
+And there we have it.
+
+646
+00:30:46,020 --> 00:30:48,230
+屏幕上印着我的名牌 
+My name tag printed on the screen.
+
+647
+00:30:48,230 --> 00:30:51,200
+所以严格地说 我们不需要处理异常
+So strictly speaking, we don't have to handle exceptions
+
+648
+00:30:51,200 --> 00:30:54,080
+如果我们能更聪明一点 检查一下
+if we can be a little smarter about it and just check for the things
+
+649
+00:30:54,080 --> 00:30:56,210
+我们所担心的 特别是如果我们想
+that we're worried about, especially if we want
+
+650
+00:30:56,210 --> 00:30:58,437
+为用户提供更精致的建议 
+to give the user more refined advice.
+
+651
+00:30:58,437 --> 00:31:00,770
+我们不想就这样告诉他们不 出了点问题
+We don't want to just tell them no, something went wrong
+
+652
+00:31:00,770 --> 00:31:01,910
+否则我们就不想通过 
+or we don't want to pass.
+
+653
+00:31:01,910 --> 00:31:05,790
+我们想告诉他们不 要么太少 要么不 太多了 
+We want to tell them no, that's too few or no, that's too many.
+
+654
+00:31:05,790 --> 00:31:08,360
+我们的词汇中已经有条件句了
+We have conditionals in our vocabulary already
+
+655
+00:31:08,360 --> 00:31:11,030
+我们现在可以通过它来表达这一点 
+via which we can now express that.
+
+656
+00:31:11,030 --> 00:31:13,640
+好吧 让我在这里停一下 看看现在有没有什么问题
+Well, let me pause here and see if there's any questions now
+
+657
+00:31:13,640 --> 00:31:16,970
+关于我们之前如何处理索引错误的错误
+on how we handled the error before with the index error
+
+658
+00:31:16,970 --> 00:31:21,980
+或者现在我们只是主动地完全避免了所有索引错误
+or how now we're just proactively avoiding all index errors altogether
+
+659
+00:31:21,980 --> 00:31:24,560
+先查一下 是不是太少了？
+by just checking first, is it too few?
+
+660
+00:31:24,560 --> 00:31:25,310
+是不是太多了？
+Is it too many?
+
+661
+00:31:25,310 --> 00:31:27,290
+或者这就是我们想要的？
+Or is it exactly what we want?
+
+662
+00:31:27,290 --> 00:31:28,970
+观众：嗨 是的 谢谢 
+AUDIENCE: Hi, yeah, thank you.
+
+663
+00:31:28,970 --> 00:31:32,525
+所以我在想 你提到了你的全名 
+So I was wondering, you touched upon using your full name.
+
+664
+00:31:36,470 --> 00:31:40,640
+有没有什么办法可以让我们
+Is there a way going forwards that perhaps we
+
+665
+00:31:40,640 --> 00:31:44,390
+有想要他们的全名而只想要他们的名字的人
+have people that want their full names and want just their first name
+
+666
+00:31:44,390 --> 00:31:47,840
+我们把它分成 哦 这个人有全名 
+that we separate that into, oh, this person has full name.
+
+667
+00:31:47,840 --> 00:31:50,785
+这个人只有一个名字？
+This person has just the one name?
+
+668
+00:31:50,785 --> 00:31:55,470
+大卫·马兰：当然 请允许我提议我们回来
+DAVID MALAN: Absolutely, and allow me to propose we come back
+
+669
+00:31:55,470 --> 00:31:57,660
+对多个名称的支持 
+to that support for multiple names.
+
+670
+00:31:57,660 --> 00:31:59,070
+但事实上 我们可以做到这一点 
+But indeed, we could do that.
+
+671
+00:31:59,070 --> 00:32:02,010
+不过 我也应该指出 我们可以支持
+And I should note too, though, we can support
+
+672
+00:32:02,010 --> 00:32:04,140
+如果我这么做的话现在就叫全名 
+full names right now if I do this.
+
+673
+00:32:04,140 --> 00:32:08,490
+而不是输入David space Malan 这是有问题的 因为再次 
+Instead of typing in David space Malan, which is problematic because again,
+
+674
+00:32:08,490 --> 00:32:11,730
+根据argv是如何工作的定义 每个单词
+by definition of how are argv works, each word
+
+675
+00:32:11,730 --> 00:32:14,220
+最终出现在列表中的特定位置 
+ends up in a specific location in the list.
+
+676
+00:32:14,220 --> 00:32:18,610
+但如果我在命令行添加引号、单引号或双引号 
+But if I add quotes, single quotes or double quotes at the command line,
+
+677
+00:32:18,610 --> 00:32:21,270
+现在 Python将把这看作是两件事 
+now, Python will view this as two total things.
+
+678
+00:32:21,270 --> 00:32:23,370
+文件的名称和此全名 
+The name of the file and this full name.
+
+679
+00:32:23,370 --> 00:32:25,590
+现在 当我按Enter键时 我看不到引号 
+And now, when I hit Enter, I don't see the quotes.
+
+680
+00:32:25,590 --> 00:32:28,020
+整件事都是作为我的全名传进来的 
+The whole thing is passed in as my full name.
+
+681
+00:32:28,020 --> 00:32:30,750
+如果我想让它进一步适应多个人 
+And if I want to adapt this further for multiple people,
+
+682
+00:32:30,750 --> 00:32:32,530
+我们也能做到这一点 
+we'll be able to do that as well.
+
+683
+00:32:32,530 --> 00:32:37,350
+这个版本上的其他问题现在与If、Elif、Else或On有关 但之前没有 
+Other questions now on this version with if, elif, else, or on except before.
+
+684
+00:32:37,350 --> 00:32:39,850
+观众：巨蟒 
+AUDIENCE: Python.
+
+685
+00:32:39,850 --> 00:32:43,673
+我想问你 我们可以使用多个其他人的陈述吗？
+I want to ask you, can we use multiple else's statement?
+
+686
+00:32:43,673 --> 00:32:45,840
+大卫·马兰：你能用多个其他人的陈述吗？
+DAVID MALAN: Can you use multiple else's statements?
+
+687
+00:32:45,840 --> 00:32:48,930
+不 Else是你可以拥有的最后一条笼统的声明 
+No, else is the last catchall statement that you can have.
+
+688
+00:32:48,930 --> 00:32:55,310
+中间可以有多个elif语句 但不能有多个else 
+You can have multiple elif statements in the middle but not multiple elses.
+
+689
+00:32:55,310 --> 00:32:56,715
+观众：[听不见]
+AUDIENCE: [INAUDIBLE]
+
+690
+00:32:56,715 --> 00:32:57,735
+大卫·马兰：好的 
+DAVID MALAN: All right.
+
+691
+00:32:57,735 --> 00:33:00,360
+好了 现在让我们把注意力转回到这个代码上
+All right, well, let's turn our attention back now to this code
+
+692
+00:33:00,360 --> 00:33:02,820
+看看我们能不能通过添加
+and see if we can't refine it a bit more by adding
+
+693
+00:33:02,820 --> 00:33:06,870
+在一些额外的功能中 我们可以使用像sys模块这样的模块 
+in some additional functionality that we get with modules like the sys module.
+
+694
+00:33:06,870 --> 00:33:09,540
+我不喜欢这个版本的代码的原因之一是
+One of the things I don't love about this version of the code
+
+695
+00:33:09,540 --> 00:33:14,920
+尽管现在可以说它是正确的 但我的程序的本质 
+even though arguably it is now correct is that the essence of my program,
+
+696
+00:33:14,920 --> 00:33:19,530
+它只是打印出姓名标签 被归类到这个Else子句 
+which is just to print out the name tag, is relegated to this else clause.
+
+697
+00:33:19,530 --> 00:33:20,670
+这很好 
+And that's fine.
+
+698
+00:33:20,670 --> 00:33:24,010
+从逻辑上讲 这是正确的 但总的来说 
+Logically, it's correct, but generally speaking,
+
+699
+00:33:24,010 --> 00:33:26,700
+保留你所有的错误是有好处的
+there is something nice about keeping all of your error
+
+700
+00:33:26,700 --> 00:33:30,330
+与您真正需要的代码分开处理
+handling separate from the code that you really
+
+701
+00:33:30,330 --> 00:33:34,320
+关心所有这些if、elif 可能位于代码的顶部
+care about having all of these ifs, elifs, perhaps at the top of your code
+
+702
+00:33:34,320 --> 00:33:37,950
+他们正在检查以确保所有数据都是预期的 
+that are checking to make sure that all of the data's as expected.
+
+703
+00:33:37,950 --> 00:33:41,160
+但如果只是为了设计的缘故 那就太好了
+But then it would be nice if only for design sake
+
+704
+00:33:41,160 --> 00:33:45,630
+不要在这个Else语句中隐藏您关心的实际代码 
+not to hide in this else statement the actual code that you care about.
+
+705
+00:33:45,630 --> 00:33:49,050
+例如 我更愿意做一些符合逻辑的事情 
+I would prefer, for instance, to do something logically like this.
+
+706
+00:33:49,050 --> 00:33:51,930
+我可以在上面检查错误 
+I could check for errors up top.
+
+707
+00:33:51,930 --> 00:33:54,810
+然后在这里 打印名牌 
+And then down here, print the name tag.
+
+708
+00:33:54,810 --> 00:33:58,440
+如果这些代码是截然不同的代码块 那就太好了
+It would be nice if those are distinct blocks of code all of which
+
+709
+00:33:58,440 --> 00:33:59,760
+在这里左对齐 
+are here left aligned.
+
+710
+00:33:59,760 --> 00:34:02,490
+但我刚才所做的事情有个问题 
+But there's a problem with what I've just done here.
+
+711
+00:34:02,490 --> 00:34:08,130
+从逻辑上讲 我刚刚通过去掉其他
+Logically, what bug did I just introduce by getting rid of the else
+
+712
+00:34:08,130 --> 00:34:12,480
+并单独引入第10行 没有缩进 
+and introducing line 10 on its own with no indentation
+
+713
+00:34:12,480 --> 00:34:14,639
+除了有条件的？
+outside of the conditional?
+
+714
+00:34:14,639 --> 00:34:16,530
+我刚刚引入了什么错误？
+What bug have I just introduced?
+
+715
+00:34:16,530 --> 00:34:19,851
+需要澄清的错误是什么？
+What mistake to be clear?
+
+716
+00:34:19,851 --> 00:34:20,964
+观众：名字有误 
+AUDIENCE: Name error.
+
+717
+00:34:20,964 --> 00:34:25,270
+David Malan：具有讽刺意味的是 这是一个名称错误 但不是一个名称错误例外 
+DAVID MALAN: Ironically, it's a name error but not a name error exception.
+
+718
+00:34:25,270 --> 00:34:30,100
+我的名字有误 但我想你为我定下了心 
+It's an error with my name, but I think you're frozen for me.
+
+719
+00:34:30,100 --> 00:34:32,889
+它将引发一个异常 因为即使
+It's going to raise an exception because even
+
+720
+00:34:32,889 --> 00:34:36,370
+虽然我在上面检查sys.argv的长度
+though I'm checking the length of sys.argv up top
+
+721
+00:34:36,370 --> 00:34:39,880
+即使我再次检查它是否大于2 而不是小于2
+and even though I'm checking it again for being greater than 2, not just less
+
+722
+00:34:39,880 --> 00:34:44,020
+比2 但更大 我仍然盲目和错误地假设
+than 2, but greater, I'm still then blindly and incorrectly assuming
+
+723
+00:34:44,020 --> 00:34:45,230
+它现在将会存在 
+it's now going to exist.
+
+724
+00:34:45,230 --> 00:34:50,199
+所以 为了清楚起见 如果我运行名为name.py的Python 并且我没有输入任何参数--
+So just to be clear, if I run Python of name.py and I don't type any argument--
+
+725
+00:34:50,199 --> 00:34:51,580
+我的钱太少了--
+I've got too few--
+
+726
+00:34:51,580 --> 00:34:53,710
+我想我会发现我的钱太少了 
+I think I'm going to see that I have too few,
+
+727
+00:34:53,710 --> 00:34:56,972
+但我也会看到同样的例外 
+but I'm also going to see that same exception.
+
+728
+00:34:56,972 --> 00:34:58,930
+在我的终端窗口输出的最顶端 
+At the very top of my terminal window's output,
+
+729
+00:34:58,930 --> 00:35:01,000
+这是我的错误消息 参数太少了 
+there's my error message, too few arguments.
+
+730
+00:35:01,000 --> 00:35:05,800
+但是 在第10行 我盲目地继续索引到我的列表
+But again, on line 10, I blindly proceed to still index into my list
+
+731
+00:35:05,800 --> 00:35:08,480
+在不存在的位置1 
+at location1 which does not exist.
+
+732
+00:35:08,480 --> 00:35:11,890
+所以事实证明 有一种更好的方法来处理这样的错误 特别是
+So it turns out there's a better way to handle errors like this, especially
+
+733
+00:35:11,890 --> 00:35:14,680
+如果你用Python写程序 
+if you're writing a program in Python that's just meant
+
+734
+00:35:14,680 --> 00:35:17,380
+短暂运行然后退出 
+to run briefly and then exit anyway.
+
+735
+00:35:17,380 --> 00:35:22,330
+但如果程序本身
+But maybe we could start to exit prematurely if the program itself just
+
+736
+00:35:22,330 --> 00:35:23,110
+无法继续 
+can't proceed.
+
+737
+00:35:23,110 --> 00:35:25,330
+如果用户没有提供我们想要的数据 
+If the user has not given us the data we want,
+
+738
+00:35:25,330 --> 00:35:30,070
+也许我们应该提前退出程序 
+perhaps, we should just exit the program earlier than we might otherwise.
+
+739
+00:35:30,070 --> 00:35:31,940
+所以让我继续这样做 
+So let me go ahead and do this.
+
+740
+00:35:31,940 --> 00:35:35,380
+让我继续下去 删除我的注释 以便只关注这里的代码 
+Let me go ahead and remove my comments so as to focus only on the code here.
+
+741
+00:35:35,380 --> 00:35:39,550
+让我提议 除了印刷 
+And let me propose that instead of just printing,
+
+742
+00:35:39,550 --> 00:35:43,300
+引用 取消引用 “太”少的参数 我将使用另一个函数 
+quote, unquote, "too" few arguments, I'm going to use one other function that
+
+743
+00:35:43,300 --> 00:35:44,890
+带有sys模块 
+comes with the sys module.
+
+744
+00:35:44,890 --> 00:35:48,040
+我将继续并调用sys.exit 
+I'm going to go ahead and call sys.exit.
+
+745
+00:35:48,040 --> 00:35:50,920
+正如它的名字所暗示的那样 它会做到这一点 
+And as the name suggests, it's going to do exactly that.
+
+746
+00:35:50,920 --> 00:35:55,030
+在系统的帮助下 它会在那里退出我的程序
+With the system's help, it's going to exit my program then and there
+
+747
+00:35:55,030 --> 00:35:56,260
+四号线 
+on line four.
+
+748
+00:35:56,260 --> 00:35:57,522
+为什么可以？
+Why is that OK?
+
+749
+00:35:57,522 --> 00:35:59,230
+如果你给我的论据太少 
+Well, if you gave me too few arguments, I
+
+750
+00:35:59,230 --> 00:36:01,120
+我对用户没什么好说的了 
+have nothing more to say to you, the user.
+
+751
+00:36:01,120 --> 00:36:03,460
+我可能会提前退出 
+I might as well exit a bit prematurely.
+
+752
+00:36:03,460 --> 00:36:05,410
+我也可以在6号线上这样做 
+And I can do this as well on line six.
+
+753
+00:36:05,410 --> 00:36:08,990
+让我们继续 不只是打印出来 而是系统退出 引用 不引用 
+Let's go ahead and not just print that, but sys.exit, quote, unquote,
+
+754
+00:36:08,990 --> 00:36:10,060
+“太多”的争论 
+"too" many arguments.
+
+755
+00:36:10,060 --> 00:36:12,790
+打印出这条信息 然后就在那里退出 
+Print out that message and just exit right there.
+
+756
+00:36:12,790 --> 00:36:16,480
+我可以相信当我到第八行的时候 
+Now, I can trust that by the time I get to line eight,
+
+757
+00:36:16,480 --> 00:36:19,390
+每一个错误条件都已经检查过了 
+every error condition has been checked for.
+
+758
+00:36:19,390 --> 00:36:25,150
+所以我可以假设在位置1确实有一个物品
+And so it's safe for me to assume that there is in fact an item at location1
+
+759
+00:36:25,150 --> 00:36:26,740
+在sys.argv中 
+in sys.argv.
+
+760
+00:36:26,740 --> 00:36:29,860
+让我继续运行这个 Python
+So let me go ahead now and run this, Python
+
+761
+00:36:29,860 --> 00:36:32,800
+的name.py 输入 参数太少 
+of name.py, Enter, too few arguments.
+
+762
+00:36:32,800 --> 00:36:34,540
+但我又回到了我的提示 
+But I'm back at my prompt.
+
+763
+00:36:34,540 --> 00:36:36,220
+什么都没发生 
+Nothing more has happened.
+
+764
+00:36:36,220 --> 00:36:37,120
+我再检查一遍 
+Let me run it again.
+
+765
+00:36:37,120 --> 00:36:41,020
+Python的name.py大卫马兰没有报价 输入 
+Python of name.py David Malan with no quotes, Enter.
+
+766
+00:36:41,020 --> 00:36:42,970
+现在这里打印了太多的参数 
+Too many arguments is now printed here.
+
+767
+00:36:42,970 --> 00:36:46,900
+最后 名为e.py的Python只需David 回车 
+Finally, Python of name.py just David, Enter.
+
+768
+00:36:46,900 --> 00:36:48,940
+你好 我叫大卫 
+Hello, my name is David.
+
+769
+00:36:48,940 --> 00:36:52,040
+因此 我们在sys中有两种形式的功能 
+So we have then in sys two forms of functionality.
+
+770
+00:36:52,040 --> 00:36:55,630
+现在 我们可以访问这个变量sys.argv 这个自变量向量 
+Now, we have access to this variable, sys.argv, this argument vector,
+
+771
+00:36:55,630 --> 00:36:58,330
+这给了我在提示符下输入的所有单词 
+that gives me all of the words that were typed at the prompt,
+
+772
+00:36:58,330 --> 00:37:00,370
+包括程序自己的文件名 
+including the program's own file name.
+
+773
+00:37:00,370 --> 00:37:03,040
+事实证明 如果我们进一步阅读文档 
+And it turns out if we read further in the documentation,
+
+774
+00:37:03,040 --> 00:37:06,280
+有一个出口函数 可以接受不同类型的输入 
+there's an exit function that can take different types of input.
+
+775
+00:37:06,280 --> 00:37:10,450
+但如果我传递一个这样的字符串 它确实会为我打印该字符串
+But if I pass out a string like this, it will indeed print that string for me
+
+776
+00:37:10,450 --> 00:37:13,780
+然后当场退出我的程序 
+and then exit from my program then and there.
+
+777
+00:37:13,780 --> 00:37:17,980
+现在关于退出这样的节目的问题 
+Questions now on exiting from programs like this.
+
+778
+00:37:17,980 --> 00:37:22,360
+需要明确的是 在这段时间里 一旦Python到达文件的底部 
+To be clear, all of this time once Python gets to the bottom of your file,
+
+779
+00:37:22,360 --> 00:37:23,800
+它无论如何都会退出的 
+it's going to exit anyway.
+
+780
+00:37:23,800 --> 00:37:28,000
+所以我现在使用sys.exit 只是为了确保我早于
+So I'm using sys.exit now just to make sure that I exit earlier than
+
+781
+00:37:28,000 --> 00:37:28,900
+否则的话 
+otherwise.
+
+782
+00:37:28,900 --> 00:37:32,410
+观众：我的问题是关于那个系统--
+AUDIENCE: My question is about the sys that arg--
+
+783
+00:37:32,410 --> 00:37:33,730
+阿格夫 
+argv.
+
+784
+00:37:33,730 --> 00:37:40,130
+那么 它有能力同时接受或接受多种元素吗？
+So is that capable of accepting or taking multiple elements at once?
+
+785
+00:37:40,130 --> 00:37:45,280
+例如 让我们假设 Pythonname.py David Malan 
+Let's say, for example, Python name.py, David Malan.
+
+786
+00:37:45,280 --> 00:37:48,610
+我是一名男性 20岁 
+I'm a male, 20 years old.
+
+787
+00:37:48,610 --> 00:37:53,990
+假设我只想访问你的名字 这是第一个索引 
+And if let's say I only want to access your name, which is at the first index.
+
+788
+00:37:53,990 --> 00:37:59,200
+然后你的年龄 比方说 在第六位 
+And then your age is, say, at the sixth index.
+
+789
+00:37:59,200 --> 00:38:07,380
+我可以输入sys.argv1 然后再输入一个for Six来访问我想要的内容吗？
+Can I say sys.argv1 and another one for six to access what I just want?
+
+790
+00:38:07,380 --> 00:38:10,335
+这都是给sys.argv的吗？
+Is that both for sys.argv?
+
+791
+00:38:10,335 --> 00:38:13,950
+David Malan：简短的回答--是的 我想如果我理解你的问题
+DAVID MALAN: Short answer-- yes, I think if I understand your question
+
+792
+00:38:13,950 --> 00:38:15,870
+正确地说 你是在提议
+correctly, whereby, you're proposing to have
+
+793
+00:38:15,870 --> 00:38:17,790
+在命令的末尾有许多单词 
+many words at the end of the command.
+
+794
+00:38:17,790 --> 00:38:19,710
+你想要访问这些单独的单词 
+And you want to access those individual words.
+
+795
+00:38:19,710 --> 00:38:20,850
+绝对一点儿没错 
+Absolutely.
+
+796
+00:38:20,850 --> 00:38:24,180
+在某种程度上 它会变得有点脆弱 我会说 
+At some point, it gets a little fragile, I would say,
+
+797
+00:38:24,180 --> 00:38:28,900
+如果您在提示符下输入的单词太多 那么顺序真的很重要 
+if you're typing so many words at the prompt that the order really matters.
+
+798
+00:38:28,900 --> 00:38:30,900
+所以事实证明 有很多项目 
+And so it turns out there's a lot of programs.
+
+799
+00:38:30,900 --> 00:38:32,733
+而且 在Python中有一些功能可以
+And there's functionality in Python that can
+
+800
+00:38:32,733 --> 00:38:36,540
+允许您提供这些值 如姓名或年龄
+allow you to provide those values, like name or age
+
+801
+00:38:36,540 --> 00:38:39,120
+或以任意顺序排列的任意数量的其他字段
+or any number of other fields in any order
+
+802
+00:38:39,120 --> 00:38:43,200
+您想要的 但需要以文本形式传入更多信息
+you want, but a pass in a bit more information textually
+
+803
+00:38:43,200 --> 00:38:45,160
+这会告诉程序您想要如何使用它 
+that tells the program how you want to use it.
+
+804
+00:38:45,160 --> 00:38:47,800
+所以简而言之 你所描述的一切都是可能的 
+So in short, what you're describing is possible.
+
+805
+00:38:47,800 --> 00:38:51,820
+让我做一个小化身 如下所示 
+And let me do a small incarnation of it as follows.
+
+806
+00:38:51,820 --> 00:38:54,420
+让我建议我们在这里回到我的代码 
+Let me propose that we go back to my code here.
+
+807
+00:38:54,420 --> 00:38:56,520
+让我们假设我们现在实际上想要
+And let's propose that we actually now want
+
+808
+00:38:56,520 --> 00:38:58,840
+在提示符下支持多个值 
+to support multiple values at the prompt.
+
+809
+00:38:58,840 --> 00:39:01,680
+所以不会有太多的争论 
+So there's going to be no such thing as too many arguments.
+
+810
+00:39:01,680 --> 00:39:05,610
+假设我不仅要为David生成姓名标签 而且还要为David生成姓名标签 
+Suppose that I want to generate name tags not just for David, but for David,
+
+811
+00:39:05,610 --> 00:39:08,610
+为了卡特 为了荣申 为了集团中的其他人
+for Carter, for Rongshin, for others in the group who
+
+812
+00:39:08,610 --> 00:39:10,048
+所有人都想要自己的名牌 
+all want their name tags as well.
+
+813
+00:39:10,048 --> 00:39:11,590
+所以我要继续做这件事 
+So I'm going to go ahead and do this.
+
+814
+00:39:11,590 --> 00:39:13,470
+我要摆脱我的埃利夫病症
+I'm going to get rid of my elif condition
+
+815
+00:39:13,470 --> 00:39:16,200
+因为我不想限制最大字数
+because I don't want to limit the maximum number of words
+
+816
+00:39:16,200 --> 00:39:17,850
+它们不再是在提示符下键入的 
+that are typed at the prompt anymore.
+
+817
+00:39:17,850 --> 00:39:23,538
+相反 我想在提示符下遍历每个名字 
+I instead want to iterate over every name at the prompt.
+
+818
+00:39:23,538 --> 00:39:24,580
+所以我要说的是 
+So I'm going to say this.
+
+819
+00:39:24,580 --> 00:39:32,080
+对于arginsys.argv 继续并打印出来 arg 
+For arginsys.argv, go ahead and print out this time, arg.
+
+820
+00:39:32,080 --> 00:39:33,770
+那我在这里做什么？
+So what am I doing here?
+
+821
+00:39:33,770 --> 00:39:36,050
+嗯 尽管语法有一点不同 
+Well, even though the syntax is a little different,
+
+822
+00:39:36,050 --> 00:39:38,800
+这个想法和以前我们有循环的时候是一样的 
+the idea's the same as before when we've had loop.
+
+823
+00:39:38,800 --> 00:39:42,070
+我正在使用for循环来迭代列表 
+I'm using a for loop to iterate over a list.
+
+824
+00:39:42,070 --> 00:39:45,040
+这里有问题的列表是sys.argv 
+The list in question here is sys.argv.
+
+825
+00:39:45,040 --> 00:39:48,055
+Arg是我动态创建的变量 
+Arg is a variable that I'm creating on the fly.
+
+826
+00:39:48,055 --> 00:39:51,670
+For循环将确保第一次通过此循环时 arg
+The for loop is going to make sure that the first time through this loop, arg
+
+827
+00:39:51,670 --> 00:39:53,820
+设置为命令行上的第一个单词 
+is set to the first word on the command line.
+
+828
+00:39:53,820 --> 00:39:55,570
+在第二次循环中 Python的
+The second time through the loop, Python's
+
+829
+00:39:55,570 --> 00:39:58,370
+确保Arg现在设置为命令行上的第二项内容
+going to make sure that arg is now set to the second thing on the command line
+
+830
+00:39:58,370 --> 00:39:58,840
+以此类推 
+and so forth.
+
+831
+00:39:58,840 --> 00:40:00,220
+这就是for循环的工作方式 
+That's just how a for loop works.
+
+832
+00:40:00,220 --> 00:40:02,050
+它会为我们更新变量 
+It updates the variable for us.
+
+833
+00:40:02,050 --> 00:40:03,280
+我不一定要叫它Arg 
+I don't have to call it arg.
+
+834
+00:40:03,280 --> 00:40:07,070
+我可以叫它的名字 只要我在两个地方都把它改成名字 
+I could call it name so long as I change it to name in both places.
+
+835
+00:40:07,070 --> 00:40:10,900
+但是 如果我迭代更一般的参数 Arg是合理的 
+But arg is reasonable if I'm iterating over arguments more generally.
+
+836
+00:40:10,900 --> 00:40:14,410
+不幸的是 如果我现在运行这个程序 
+If I now run this program, though, unfortunately, there's
+
+837
+00:40:14,410 --> 00:40:16,480
+有一点小毛病 
+a little bit of a bug.
+
+838
+00:40:16,480 --> 00:40:20,950
+即使我输入大卫、卡特和荣申 
+Even if I type in David and Carter and Rongshin,
+
+839
+00:40:20,950 --> 00:40:25,420
+我不会只拿到三个名牌的 
+I'm not going to get just three name tags.
+
+840
+00:40:25,420 --> 00:40:29,680
+在你的脑海里 有没有人看到我即将被绊倒的虫子？
+In your mind, does anyone see the bug I'm about to trip over?
+
+841
+00:40:29,680 --> 00:40:34,360
+如果我有足够的名牌 这不是一个巨大的交易 
+It's not a huge deal if I've got enough name tags to go around.
+
+842
+00:40:34,360 --> 00:40:36,220
+但我会浪费一个因为
+But I'm going to be wasting one because this
+
+843
+00:40:36,220 --> 00:40:40,660
+将打印不是三个 而是四个姓名标签 其中 第一个包含
+is going to print not three, but four name tags, whereby, the first contains
+
+844
+00:40:40,660 --> 00:40:42,160
+程序本身的名称 
+the name of the program itself.
+
+845
+00:40:42,160 --> 00:40:43,210
+也许没什么大不了的
+Maybe not a big deal.
+
+846
+00:40:43,210 --> 00:40:46,210
+也许这是我们懒得分发的贴纸 但这是浪费 
+Maybe that's the sticker we don't bother handing out, but it's wasteful.
+
+847
+00:40:46,210 --> 00:40:47,630
+看上去确实不对 
+And it does look wrong.
+
+848
+00:40:47,630 --> 00:40:52,270
+那么我们怎样才能访问argv的四个元素呢
+So how could we get access to not all four elements of argv
+
+849
+00:40:52,270 --> 00:40:54,580
+但只是一片argv吗
+but just a slice of argv?
+
+850
+00:40:54,580 --> 00:40:58,210
+这实际上是Python和其他一些语言中的一个技术术语 
+And this is actually a technical term in Python and some other languages.
+
+851
+00:40:58,210 --> 00:41:01,960
+取列表的一部分意味着取列表的子集
+To take a slice of a list means to take a subset of it
+
+852
+00:41:01,960 --> 00:41:04,690
+也许是从头开始 也许是中间 也许是结尾
+maybe from the beginning, maybe the middle, maybe the end.
+
+853
+00:41:04,690 --> 00:41:08,710
+但切片是数据结构（如列表）的子集 
+But a slice is a subset of a data structure like a list.
+
+854
+00:41:08,710 --> 00:41:10,870
+那么 我实际上是如何用代码来实现的呢？
+Well, how do I actually do this in code?
+
+855
+00:41:10,870 --> 00:41:14,020
+在Python中 
+Well, in Python, it's actually very easy to take a slice
+
+856
+00:41:14,020 --> 00:41:16,000
+一个列表是它的子集 
+of a list that is a subset thereof.
+
+857
+00:41:16,000 --> 00:41:17,500
+你可以简单地这样做 
+You can simply do this.
+
+858
+00:41:17,500 --> 00:41:22,480
+在列表名称（本例中为sys.argv）的末尾 可以使用方括号 
+At the end of the list name, sys.argv in this case, you can use square brackets.
+
+859
+00:41:22,480 --> 00:41:24,250
+然后在那些方括号里 你可以
+And then in those square brackets, you can
+
+860
+00:41:24,250 --> 00:41:29,320
+指定要保留的列表的开始和结束 
+specify the start and the end of the list that you want to retain.
+
+861
+00:41:29,320 --> 00:41:32,800
+我想从元素1开始 而不是零 
+I want to start at element1, not zero.
+
+862
+00:41:32,800 --> 00:41:36,155
+我想从element1开始 然后一直到最后 
+I want to start at element1, and I want to just go to the end.
+
+863
+00:41:36,155 --> 00:41:38,530
+所以我打算省略掉第二个数字 
+So I'm actually going to omit a second number altogether.
+
+864
+00:41:38,530 --> 00:41:40,690
+没有必要有第二个数字 
+It's not necessary to have a second number.
+
+865
+00:41:40,690 --> 00:41:44,593
+但我需要那个冒号因为它会给我列表的一部分 
+But I do need that colon because this is going to give me a slice of the list.
+
+866
+00:41:44,593 --> 00:41:46,510
+它会给我列表中的一部分
+It's going to give me a slice of the list that
+
+867
+00:41:46,510 --> 00:41:48,970
+从位置1开始 而不是零 
+starts at location1, not zero.
+
+868
+00:41:48,970 --> 00:41:51,280
+冒号和空格的意思是
+And the colon and then a blank just means
+
+869
+00:41:51,280 --> 00:41:52,910
+它会给我其他的一切
+it's going to give me everything else.
+
+870
+00:41:52,910 --> 00:41:56,620
+所以这是等价的 切掉列表的第一个元素
+So this is in equivalently going to slice off the first element of the list
+
+871
+00:41:56,620 --> 00:42:00,700
+给我一个新的名单 只包含这三个人的名字 而不是
+and give me a new list that contains just those three human names, not
+
+872
+00:42:00,700 --> 00:42:02,140
+文件本身的名称 
+the name of the file itself.
+
+873
+00:42:02,140 --> 00:42:03,730
+让我再试一次
+Let me try running this again.
+
+874
+00:42:03,730 --> 00:42:07,840
+我要运行name.py的Python David Carter Rongshin 
+I'm going to run Python of name.py, David Carter Rongshin.
+
+875
+00:42:07,840 --> 00:42:11,620
+希望这次 我能拿到三个而且只有三个名牌 
+This time hopefully, I'm going to get three and only three name tags,
+
+876
+00:42:11,620 --> 00:42:12,490
+按回车键
+hitting Enter.
+
+877
+00:42:12,490 --> 00:42:15,100
+事实上 我现在已经做到了这一点 
+And indeed, I've done now just this.
+
+878
+00:42:15,100 --> 00:42:18,460
+因此 同样 使用一些相对简单的Python语法 
+So again, using some relatively simple syntax in Python,
+
+879
+00:42:18,460 --> 00:42:22,420
+我们可以使用方括号 而不仅仅是转到特定的元素 如bracket0
+we can use square brackets not just to go to specific elements like bracket0
+
+880
+00:42:22,420 --> 00:42:23,380
+或括号1 
+or bracket1.
+
+881
+00:42:23,380 --> 00:42:26,710
+我们还可以获得列表的子集、列表的片段
+We can also get subsets of the list, slices of the list
+
+882
+00:42:26,710 --> 00:42:30,490
+通过使用方括号来冒号某物 其中每一个
+by doing bracket something colon something where each of those
+
+883
+00:42:30,490 --> 00:42:32,695
+有些东西是一个数字 无论是开始还是结束 
+some things is a number, the beginning or the end,
+
+884
+00:42:32,695 --> 00:42:34,570
+它们是可选的 取决于您是否
+and they're optional depending on whether you
+
+885
+00:42:34,570 --> 00:42:37,480
+全部都要 或者只想要一些 
+want all of them or just some.
+
+886
+00:42:37,480 --> 00:42:42,850
+现在有任何关于这个版本的问题吗 它添加了循环和这些切片
+Any questions now on this version, which adds the loop and these slices
+
+887
+00:42:42,850 --> 00:42:45,172
+使用这种新的语法？
+with that new syntax?
+
+888
+00:42:45,172 --> 00:42:50,145
+听众：我们能从论点的结尾--论点向量开始切分吗？
+AUDIENCE: Can we slice starting from the end of the argument-- argument vector?
+
+889
+00:42:50,145 --> 00:42:51,360
+大卫·马兰：你可以的 
+DAVID MALAN: You can.
+
+890
+00:42:51,360 --> 00:42:54,030
+你可以从自变量向量的末尾切分一些东西 
+You can slice something from the end of the argument vector.
+
+891
+00:42:54,030 --> 00:42:57,340
+这可能会让人有点震惊 
+And this might blow one's mind a little bit.
+
+892
+00:42:57,340 --> 00:43:00,370
+让我继续做这件事 
+Let me go ahead and do this.
+
+893
+00:43:00,370 --> 00:43:00,990
+让我们看看 
+Let's see.
+
+894
+00:43:00,990 --> 00:43:03,210
+让我继续 在最后做一个负的 
+Let me go ahead and do negative one at the end.
+
+895
+00:43:03,210 --> 00:43:06,000
+在这里使用负数并运行相同的命令 
+Using a negative number here and running the same command,
+
+896
+00:43:06,000 --> 00:43:10,150
+我们刚刚取消了荣申在这里收到的名牌 
+we've just uninvited Rongshin from receiving a name tag here.
+
+897
+00:43:10,150 --> 00:43:12,780
+所以如果你使用负数 它会产生这样的效果
+So if you use a negative number, it has the effect
+
+898
+00:43:12,780 --> 00:43:17,203
+从列表的末尾开始向另一个方向计数 
+of counting in the other direction from the end of the list.
+
+899
+00:43:17,203 --> 00:43:18,120
+这是个好问题 
+A good question there.
+
+900
+00:43:18,120 --> 00:43:23,737
+其他问题现在在切片上 关于在sys.argv上循环？
+Other questions now on slices, on looping over sys.argv?
+
+901
+00:43:23,737 --> 00:43:26,760
+观众：嗨 我记得很早的时候
+AUDIENCE: Hi, so I remember very early on when
+
+902
+00:43:26,760 --> 00:43:31,695
+我们讨论的浮点值只有两位小数 
+we were talking about only having two decimal places in float value.
+
+903
+00:43:34,590 --> 00:43:39,390
+这是不是也是一样的 因为我们在0.2F上使用代码？
+Is that in the same vein, like, because we use the code on 0.2F?
+
+904
+00:43:42,060 --> 00:43:44,010
+那是一回事吗？
+Is that the same thing then?
+
+905
+00:43:44,010 --> 00:43:50,220
+为什么F会包括在0.2F中 而不是这里 当你只是
+Why would the F be included then in the 0.2F as opposed to here when you just
+
+906
+00:43:50,220 --> 00:43:51,905
+有数字吗？
+have the numbers?
+
+907
+00:43:51,905 --> 00:43:53,500
+大卫·马兰：这是一个非常好的问题 
+DAVID MALAN: A really good question.
+
+908
+00:43:53,500 --> 00:43:56,180
+简而言之 背景很重要 
+And it's just the short answer's that context matters.
+
+909
+00:43:56,180 --> 00:43:59,630
+所以我们的键盘上只有这么多键 
+So there's only so many keys on our keyboard.
+
+910
+00:43:59,630 --> 00:44:02,630
+所以我们有时会用相同的符号来表示不同的东西 
+And so we sometimes use the same symbols for different things.
+
+911
+00:44:02,630 --> 00:44:05,710
+所以你所指的是格式码
+So what you're alluding to is the format code
+
+912
+00:44:05,710 --> 00:44:10,570
+在用于实际使用冒号、使用句点来格式化数字的F字符串中 
+in an F string for actually formatting a number using a colon, using a period,
+
+913
+00:44:10,570 --> 00:44:13,130
+使用数字、使用字母F等等 
+using a number, using the letter F and so forth.
+
+914
+00:44:13,130 --> 00:44:16,990
+这是Python的F字符串特性所特有的 
+And that is very specific to the F string feature of Python.
+
+915
+00:44:16,990 --> 00:44:20,500
+这种情况与语法本身无关 
+This case has nothing to do with any of that syntax per se.
+
+916
+00:44:20,500 --> 00:44:22,990
+这只是在不同的上下文中使用冒号
+This is just using a colon in a different context
+
+917
+00:44:22,990 --> 00:44:25,300
+来解决这个问题 实现一个切片 
+to solve this problem to implement a slice.
+
+918
+00:44:25,300 --> 00:44:28,060
+Python的作者可以选择另一个符号 
+The authors of Python could have chosen another symbol.
+
+919
+00:44:28,060 --> 00:44:29,980
+但老实说 看着我的键盘 
+But honestly looking down at my keyboard here,
+
+920
+00:44:29,980 --> 00:44:32,560
+我们没有那么多容易打字的选择 
+we don't have that many to choose from that are easy to type.
+
+921
+00:44:32,560 --> 00:44:34,480
+有时候它们有不同的含义 
+So sometimes they have different meanings.
+
+922
+00:44:34,480 --> 00:44:36,400
+也是个好问题 
+A good question as well.
+
+923
+00:44:36,400 --> 00:44:39,490
+现在请允许我提议 我们进一步
+Allow me to propose now, that we take things further
+
+924
+00:44:39,490 --> 00:44:43,990
+不再只使用那些模块 那些Python
+and move away from using only those modules, those libraries that Python
+
+925
+00:44:43,990 --> 00:44:47,740
+来谈论更普遍的软件包 
+comes with to talk about more generally packages that exist.
+
+926
+00:44:47,740 --> 00:44:51,460
+Python如今如此流行和强大的原因之一是
+One of the reasons that Python is so popular and powerful these days
+
+927
+00:44:51,460 --> 00:44:54,070
+有很多第三方库
+is that there's a lot of third-party libraries
+
+928
+00:44:54,070 --> 00:44:56,830
+也就是所谓的包裹
+out there as well, otherwise known as packages.
+
+929
+00:44:56,830 --> 00:45:01,120
+严格地说 Python本身有一个艺术术语 
+Strictly speaking, Python itself has a term of art
+
+930
+00:45:01,120 --> 00:45:04,690
+称为包 它本质上是一个模块
+called a package, which is a module essentially
+
+931
+00:45:04,690 --> 00:45:08,170
+在一个文件夹中实现 不仅仅是一个文件 而是一个文件夹 
+that's implemented in a folder, not just a file but a folder.
+
+932
+00:45:08,170 --> 00:45:12,685
+但更一般地说 包是一个第三方库 
+But more generally, a package is a third-party library that you,
+
+933
+00:45:12,685 --> 00:45:16,780
+我可以安装在我们自己的Mac或PC或云服务器上
+that I can install on our own Mac or PC or our cloud server
+
+934
+00:45:16,780 --> 00:45:19,240
+并获得更多功能
+and gain access to even more functionality
+
+935
+00:45:19,240 --> 00:45:21,760
+其他人为我们实现的 
+that other people have implemented for us.
+
+936
+00:45:21,760 --> 00:45:24,790
+现在 你可以得到所有这些包裹的地点之一
+Now, one of the locations you can get all of these packages
+
+937
+00:45:24,790 --> 00:45:30,940
+称为PYTI网站 Python包索引位于此URL
+is called the PYTI website, the Python Package Index which lives at this URL
+
+938
+00:45:30,940 --> 00:45:31,450
+这里.
+here.
+
+939
+00:45:31,450 --> 00:45:34,450
+这是一个可以通过命令行搜索的网站 
+And this is a website that is searchable via the command line,
+
+940
+00:45:34,450 --> 00:45:37,900
+也可以通过网络下载和安装
+as well as via the web, that allows you to download and install
+
+941
+00:45:37,900 --> 00:45:39,340
+各种各样的包裹 
+all sorts of packages.
+
+942
+00:45:39,340 --> 00:45:43,522
+即使是CS50也有一些自己的服务包 
+Even CS50 has some of its own packages in services like these.
+
+943
+00:45:43,522 --> 00:45:46,480
+现在 有一个有趣的 这是一个倒退到一个命令 
+Now, there's a fun one out there that's a throwback to a command that's
+
+944
+00:45:46,480 --> 00:45:49,930
+在命令行环境中已经存在了很多年 叫做cowsay 
+been around for years in command line environments called cowsay.
+
+945
+00:45:49,930 --> 00:45:55,030
+Cowsay是Python中的一个包 它允许你让一头牛说些什么
+Cowsay is a package in Python that allows you to have a cow say something
+
+946
+00:45:55,030 --> 00:45:56,240
+在你的屏幕上
+on your screen.
+
+947
+00:45:56,240 --> 00:45:58,870
+如果你有兴趣阅读它 它自己的文档
+If curious to read up on it, its own documentation
+
+948
+00:45:58,870 --> 00:46:02,560
+在pi.py.org上 特别是这里的这个URL 
+is on pi.py.org specifically at this URL here.
+
+949
+00:46:02,560 --> 00:46:06,100
+但是 您实际上是如何将该包输入您的系统的呢？
+But how do you actually get the package into your system?
+
+950
+00:46:06,100 --> 00:46:09,400
+从技术上讲 你可以想办法下载这个文件
+Well, technically, you could figure out how to download the file
+
+951
+00:46:09,400 --> 00:46:13,300
+或许还可以将其解压 放到Mac或PC上的正确位置 
+and maybe unzip it and put it into the right location on your Mac or PC.
+
+952
+00:46:13,300 --> 00:46:15,880
+但如今 许多语言 其中包括Python 
+But nowadays, a lot of languages, Python among them,
+
+953
+00:46:15,880 --> 00:46:18,220
+有所谓的自己的包管理器 
+has what's called its own package manager.
+
+954
+00:46:18,220 --> 00:46:20,530
+这里的这个叫pip 它只是一个 
+This one here called pip which is just one.
+
+955
+00:46:20,530 --> 00:46:25,930
+所以PIP是一个程序 通常是随Python本身一起提供的 
+So pip is a program that generally comes with Python itself, nowadays,
+
+956
+00:46:25,930 --> 00:46:29,710
+允许您在自己的Mac或PC上安装程序包
+that allows you to install packages onto your own Macs or PCs
+
+957
+00:46:29,710 --> 00:46:32,380
+或云环境 只需运行一条命令 
+or cloud environment by just running a command.
+
+958
+00:46:32,380 --> 00:46:36,700
+然后 瞧 您可以访问一个全新的Python库
+And then voila, you have access to a whole new library in Python
+
+959
+00:46:36,700 --> 00:46:38,480
+这并不是随Python本身一起提供的 
+that didn't come with Python itself.
+
+960
+00:46:38,480 --> 00:46:41,990
+但现在它可以在您的系统上为您提供 
+But now it's available on your system for you.
+
+961
+00:46:41,990 --> 00:46:43,360
+让我们回到这里的VS代码 
+Let's go back to VS Code here.
+
+962
+00:46:43,360 --> 00:46:48,010
+在我的终端窗口中 我将继续输入pip installcosay 
+And in my terminal window, I'm going to go ahead and type pip install cowsay.
+
+963
+00:46:48,010 --> 00:46:49,330
+现在 这是怎么回事？
+Now, what's going on here?
+
+964
+00:46:49,330 --> 00:46:51,370
+Pip是命令 是包管理器 
+Pip is the command, the package manager.
+
+965
+00:46:51,370 --> 00:46:53,650
+我想安装什么程序包？
+And I want to install what package?
+
+966
+00:46:53,650 --> 00:46:55,090
+这个套餐叫做牛仔套餐 
+The package called cowsay.
+
+967
+00:46:55,090 --> 00:46:56,830
+我将继续并在这里按Enter键 
+I'm going to go ahead and hit Enter here.
+
+968
+00:46:56,830 --> 00:47:00,910
+经过一点点的产出 它已经成功地安装了COROWAY 
+And after a little bit of output, it has successfully installed cowsay.
+
+969
+00:47:00,910 --> 00:47:01,970
+那么 这意味着什么呢？
+Now, what does that mean?
+
+970
+00:47:01,970 --> 00:47:05,710
+这意味着我现在可以着手将其导入到我自己的代码中 
+That means I can now go about importing this into my own code.
+
+971
+00:47:05,710 --> 00:47:07,720
+好吧 让我们继续下去 看看这意味着什么 
+Well, let's go ahead and see what this means.
+
+972
+00:47:07,720 --> 00:47:11,200
+因此 让我们继续创建一个名为say.py的新文件
+So let me go ahead and create a new file with code called say.py
+
+973
+00:47:11,200 --> 00:47:13,420
+因为我想在屏幕上说点什么 
+because I want something to be said on the screen.
+
+974
+00:47:13,420 --> 00:47:17,290
+在我的新选项卡中 我将继续导入牛肝菌 
+And in my new tab here, I'm going to go ahead and import cowsay,
+
+975
+00:47:17,290 --> 00:47:19,630
+现在大概已经安装好了 
+which presumably is now installed.
+
+976
+00:47:19,630 --> 00:47:22,360
+我现在也要导入系统 因为我
+I'm now going to import sys as well because I'd
+
+977
+00:47:22,360 --> 00:47:25,060
+我想在此程序中使用一些命令行参数
+like to use some command line arguments in this program
+
+978
+00:47:25,060 --> 00:47:26,560
+这样我就能快点跑了 
+just so that I can run it quickly.
+
+979
+00:47:26,560 --> 00:47:30,220
+而且不使用输入函数 我就可以获得用户名
+And without using the input function, I can get the user's name
+
+980
+00:47:30,220 --> 00:47:31,720
+立即从提示符开始 
+immediately from the prompt.
+
+981
+00:47:31,720 --> 00:47:33,170
+让我继续做这件事 
+And let me go ahead and do this.
+
+982
+00:47:33,170 --> 00:47:35,800
+这一次 我将主动执行一些错误检查 
+I'm going to do a bit of error checking proactively this time.
+
+983
+00:47:35,800 --> 00:47:37,930
+而不是使用小于或大于 我是
+And rather than use less than or greater than, I'm
+
+984
+00:47:37,930 --> 00:47:43,600
+这一次将说明sys.argv的长度是否等于2 
+this time going to say if the length of sys.argv does equal 2.
+
+985
+00:47:43,600 --> 00:47:45,730
+所以如果这个人只是被提供了名字
+So if the human is provided just the name
+
+986
+00:47:45,730 --> 00:47:49,460
+以及他们自己的名字 我们就可以开始了 
+of the program and their own first name, we're good to go.
+
+987
+00:47:49,460 --> 00:47:51,170
+我将执行以下操作 
+I'm going to do the following.
+
+988
+00:47:51,170 --> 00:47:56,980
+我将在包中调用一个名为cow的函数 该函数名为cowsay 
+I'm going to call a function called COW in the package called cowsay.
+
+989
+00:47:56,980 --> 00:48:00,700
+我将传入一个字符串 你好 逗号 
+And I'm going to pass in a string, hello, comma.
+
+990
+00:48:00,700 --> 00:48:03,750
+然后像过去一样 我将只传递一个字符串
+And then as in the past, I'm going to pass in just one string
+
+991
+00:48:03,750 --> 00:48:06,250
+因为根据它的文件 它不像印刷品 
+because according to its documentation, it's not like print.
+
+992
+00:48:06,250 --> 00:48:08,170
+我不能用逗号这个 逗号那个 
+I can't pass in comma this, comma that.
+
+993
+00:48:08,170 --> 00:48:09,740
+我只能传入一个字符串 
+I can only pass in one string.
+
+994
+00:48:09,740 --> 00:48:14,320
+所以我将把它与sys.argv bracket1的内容连接起来 
+So I'm going to concatenate it the contents of sys.argv, bracket1.
+
+995
+00:48:14,320 --> 00:48:20,360
+只要我在这个程序的名字后面输入我的名字David 
+So long as then I type in my name David after the name of this program,
+
+996
+00:48:20,360 --> 00:48:24,670
+它应该以sys.argv1结束 在这种情况下 代码的第5行
+it should end up in sys.argv1 in which case, this line five of code
+
+997
+00:48:24,670 --> 00:48:28,090
+应该把Hello和我的名字连接起来 中间加一个空格 
+should concatenate hello with my name with a space in between.
+
+998
+00:48:28,090 --> 00:48:30,500
+很明显 一头牛会这么说 
+And apparently, a cow is going to say it.
+
+999
+00:48:30,500 --> 00:48:32,470
+所以让我们看看这里会发生什么 
+So let's see what happens here.
+
+1000
+00:48:32,470 --> 00:48:35,110
+让我继续清除我的屏幕并增加
+Let me go ahead and clear my screen and increase
+
+1001
+00:48:35,110 --> 00:48:36,830
+我的终端窗口的大小 
+the size of my terminal window.
+
+1002
+00:48:36,830 --> 00:48:42,760
+让我继续运行say.py的Python 然后输入我的名字David并回车 
+Let me go ahead and run Python of say.py and type my name David and Enter.
+
+1003
+00:48:42,760 --> 00:48:44,800
+有一个节目叫“牛仔” 
+There is the program called cowsay.
+
+1004
+00:48:44,800 --> 00:48:47,590
+它确实让一头牛在屏幕上说了些什么 
+It literally has a cow say something on the screen.
+
+1005
+00:48:47,590 --> 00:48:50,080
+这是对过去一个节目的倒退
+And this is a throwback to a program from yesteryear
+
+1006
+00:48:50,080 --> 00:48:53,020
+这往往伴随着许多系统 
+that tended to come with a lot of systems.
+
+1007
+00:48:53,020 --> 00:48:55,180
+这也被称为ASCII ART 
+This is otherwise known as ASCII art.
+
+1008
+00:48:55,180 --> 00:48:57,760
+这是一种只使用键盘上的按键的文本方式
+It's a textual way using just keys on your keyboard
+
+1009
+00:48:57,760 --> 00:49:00,610
+在屏幕上打印各种图片 
+to print pictures of sorts on the screen.
+
+1010
+00:49:00,610 --> 00:49:02,980
+现在 我们真的可以走进兔子洞了 
+Now, we can really go down the rabbit hole here.
+
+1011
+00:49:02,980 --> 00:49:05,260
+这样做的学术价值值得怀疑 
+And there's questionable academic value of doing so.
+
+1012
+00:49:05,260 --> 00:49:06,490
+所以我只会这么做一次 
+So I'll do so just once.
+
+1013
+00:49:06,490 --> 00:49:10,520
+原来 COWSAY套餐还附带了其他功能 
+Turns out the cowsay package comes with other functions as well.
+
+1014
+00:49:10,520 --> 00:49:13,360
+例如 霸王龙就是其中的一个功能 
+One of those functions, for instance, is T-Rex.
+
+1015
+00:49:13,360 --> 00:49:16,073
+如果我现在增加终端窗口的大小 
+And if I now increase the size of my terminal window,
+
+1016
+00:49:16,073 --> 00:49:17,990
+我们可能会看到我们将如何处理这件事 
+we'll perhaps see where we're going with this.
+
+1017
+00:49:17,990 --> 00:49:20,230
+现在让我再运行一次 Say.py的Python 
+Let me now run again, Python of say.py.
+
+1018
+00:49:20,230 --> 00:49:23,380
+这一次 让我不提供我的名字只是为了看看它是不是坏了 
+This time, let me not provide my name just to see if it's broken.
+
+1019
+00:49:23,380 --> 00:49:26,410
+还是可以的 因为我们有如果的条件
+It's still OK because we have that if condition
+
+1020
+00:49:26,410 --> 00:49:31,870
+如果sys.argv的长度等于等于2并且仅当它等于等于2时 
+if the length of sys.argv equals equals 2 and only if it equals equals 2,
+
+1021
+00:49:31,870 --> 00:49:32,960
+我们做任何事情 
+do we do anything.
+
+1022
+00:49:32,960 --> 00:49:34,780
+所以我们什么都没看到 
+That's why we're not seeing anything here.
+
+1023
+00:49:34,780 --> 00:49:38,620
+让我继续合作吧 大卫 say.py
+Let me go ahead and cooperate now, say.py space David.
+
+1024
+00:49:38,620 --> 00:49:40,360
+它不再是一头牛了 
+And it's no longer a cow.
+
+1025
+00:49:40,360 --> 00:49:44,260
+但如果我把屏幕拉远一只霸王龙
+But if I zoom out on my screen, a T-Rex.
+
+1026
+00:49:44,260 --> 00:49:45,190
+为什么要这样？
+Why?
+
+1027
+00:49:45,190 --> 00:49:48,430
+只是因为这些是你一旦知道如何编程就可以做的事情 
+Just because these are the things you can do once you know how to program.
+
+1028
+00:49:48,430 --> 00:49:51,305
+你甚至可以把它们打包起来 让其他人免费使用
+You can even package them up and make them freely available to others
+
+1029
+00:49:51,305 --> 00:49:52,600
+开源软件 
+as open source software.
+
+1030
+00:49:52,600 --> 00:49:56,590
+对我们来说 这是一个更普遍的特征的展示
+For us, it's demonstrative of a feature more generally here
+
+1031
+00:49:56,590 --> 00:49:59,710
+即能够安装这些第三方软件包 
+namely being able to install these third-party packages and how
+
+1032
+00:49:59,710 --> 00:50:01,437
+你可以在Python中这样做 
+you might do so in Python.
+
+1033
+00:50:01,437 --> 00:50:03,520
+现在 我把这个留在屏幕上一会儿
+Now, I'll leave this up on the screen for a moment
+
+1034
+00:50:03,520 --> 00:50:06,070
+看看有没有关于奶牛的问题
+and see if there's any questions about cows
+
+1035
+00:50:06,070 --> 00:50:11,090
+或者霸王龙的或者更普遍的包裹 
+or Tyrannosaurus rex's or packages more generally.
+
+1036
+00:50:11,090 --> 00:50:14,570
+我真的有资格和他们中的一个说话 
+I'm really qualified to speak to just one of those.
+
+1037
+00:50:14,570 --> 00:50:19,130
+观众：嗨 我有两个问题 
+AUDIENCE: Hi, I've got two questions it's a bit earlier than what's
+
+1038
+00:50:19,130 --> 00:50:20,940
+应该是的
+supposed to be.
+
+1039
+00:50:20,940 --> 00:50:25,430
+所以第一个问题是 
+So the first question is the packages that you're
+
+1040
+00:50:25,430 --> 00:50:32,990
+在程序中调用 它们是否相同
+calling to use in the program, are they the same
+
+1041
+00:50:32,990 --> 00:50:42,680
+比如说 Java的东西 就像调用类 Java文件一样
+as, let's say, something Java the same as calling a class, a Java file
+
+1042
+00:50:42,680 --> 00:50:45,950
+为了使用它的功能？
+in order to use its functions?
+
+1043
+00:50:45,950 --> 00:50:52,250
+我的第二个问题是 使用命令行的实际目的是什么
+And my second question is, what's the actual purpose of using command line
+
+1044
+00:50:52,250 --> 00:51:00,350
+因为这不是最好的方法 就像你说的 
+arguments as you used because is not really the best way to, as you say,
+
+1045
+00:51:00,350 --> 00:51:06,470
+对用户友好 比如说 
+be user friendly where as in let's say the person who's
+
+1046
+00:51:06,470 --> 00:51:10,340
+使用这个程序的人不知道他们想要什么--
+using the program doesn't know what they want--
+
+1047
+00:51:10,340 --> 00:51:12,140
+程序在问他们什么
+what the program's asking them?
+
+1048
+00:51:12,140 --> 00:51:13,710
+大卫·马兰：问得好 
+DAVID MALAN: Really good question.
+
+1049
+00:51:13,710 --> 00:51:17,060
+第一个关于与Java、Python包比较的问题
+The first question about the comparison with Java, Python packages
+
+1050
+00:51:17,060 --> 00:51:20,932
+类似于Java包 你有一些东西 
+are similar to Java packages where you have something.something.something
+
+1051
+00:51:20,932 --> 00:51:22,640
+在你的程序的顶部 
+at the top of your program that gives you
+
+1052
+00:51:22,640 --> 00:51:24,650
+访问类或其他东西 
+access to a class or something else.
+
+1053
+00:51:24,650 --> 00:51:26,600
+Python本身支持类 
+Python itself supports classes.
+
+1054
+00:51:26,600 --> 00:51:27,890
+更多关于那些在路上 
+More on those down the road.
+
+1055
+00:51:27,890 --> 00:51:32,120
+你可以在Python中做与Java非常相似的事情 
+And you can do very similar things in Python as you can do with Java.
+
+1056
+00:51:32,120 --> 00:51:36,350
+但这里的类比实际上是Python包到Java包 
+But the analog really is Python packages to Java packages here.
+
+1057
+00:51:36,350 --> 00:51:39,380
+至于命令行参数 您提出了一个很好的问题 
+As for command line arguments, you ask a good question.
+
+1058
+00:51:39,380 --> 00:51:42,830
+我们为什么要使用它们 特别是如果它们确实是用户友好的呢？
+Why do we use them, especially if they are literally user friendly?
+
+1059
+00:51:42,830 --> 00:51:45,440
+他们对人们的使用不太友好
+They're a little less user friendly to people
+
+1060
+00:51:45,440 --> 00:51:47,540
+老实说 他们不在这个变速箱里 
+who aren't in this Zoom to be honest.
+
+1061
+00:51:47,540 --> 00:51:50,270
+你和我随着我们对编程的了解越来越多
+You and I as we learn more and more about programming
+
+1062
+00:51:50,270 --> 00:51:52,430
+以及更多关于命令行参数的信息 我敢说
+and more about command line arguments, I daresay
+
+1063
+00:51:52,430 --> 00:51:54,800
+我们会变得更适应和照顾
+we'll become more comfortable with and tend
+
+1064
+00:51:54,800 --> 00:51:58,560
+更喜欢使用这些命令行自定义命令的功能
+to prefer the ability to customize commands using these command line
+
+1065
+00:51:58,560 --> 00:51:59,060
+争论 
+arguments.
+
+1066
+00:51:59,060 --> 00:51:59,560
+为什么？
+Why?
+
+1067
+00:51:59,560 --> 00:52:00,388
+生产力 
+Productivity.
+
+1068
+00:52:00,388 --> 00:52:02,180
+它往往会让你更快 因为你得到了
+It tends to make you faster because you get
+
+1069
+00:52:02,180 --> 00:52:03,980
+养成了一种习惯 即确切地知道你是如何
+into the habit of knowing exactly how you
+
+1070
+00:52:03,980 --> 00:52:07,640
+无需手动回答问题即可配置您的软件 
+can configure your software without having to manually answer questions.
+
+1071
+00:52:07,640 --> 00:52:08,690
+这就是一个很好的例子 
+And case in point.
+
+1072
+00:52:08,690 --> 00:52:13,760
+在这段时间里 我们一直在运行某个.py版本的Python 
+All of this time have we been running Python of something.py.
+
+1073
+00:52:13,760 --> 00:52:15,560
+你可以想象不会这样做 
+You could imagine not doing that.
+
+1074
+00:52:15,560 --> 00:52:18,060
+您可以想象只输入Python 然后按Enter键 
+You can imagine typing only Python, hitting Enter.
+
+1075
+00:52:18,060 --> 00:52:20,810
+然后系统会提示您输入要运行的文件的名称 
+And then you're prompted for the name of the file you want to run.
+
+1076
+00:52:20,810 --> 00:52:23,210
+所以你输入一些东西.py 然后它就会运行 
+So you type in something.py, and then it runs.
+
+1077
+00:52:23,210 --> 00:52:26,240
+没什么大不了的 但我认为随着时间的推移 你是
+Not a big deal, but I would argue that over time, you're
+
+1078
+00:52:26,240 --> 00:52:28,100
+我会对TDM感到有点厌倦的 
+going to get a little tired of that TDM.
+
+1079
+00:52:28,100 --> 00:52:29,870
+你会更喜欢自动操作
+And you would much prefer to just automate
+
+1080
+00:52:29,870 --> 00:52:33,260
+一次又一次的命令 尤其是一些小的方便
+the command again and again and again, especially with little conveniences
+
+1081
+00:52:33,260 --> 00:52:36,470
+比如能够在你的键盘历史记录中上下敲击
+like being able to hit up and down in your keyboard history
+
+1082
+00:52:36,470 --> 00:52:38,300
+以便重新运行相同命令 
+so as to rerun those same command.
+
+1083
+00:52:38,300 --> 00:52:41,600
+如果你从这样的课堂上走出来 自动化也很重要
+Automation is big too if you emerge from a class like this
+
+1084
+00:52:41,600 --> 00:52:44,720
+并开始使用Python自动化流程
+and start using Python to automate processes
+
+1085
+00:52:44,720 --> 00:52:46,670
+在工作或个人项目等方面 
+at work or for personal projects or the like,
+
+1086
+00:52:46,670 --> 00:52:49,370
+能够在一行中指定所有输入
+the ability to specify all of your inputs on the one line
+
+1087
+00:52:49,370 --> 00:52:51,750
+只是意味着你可以更快地完成工作 
+just means you can get work done more quickly.
+
+1088
+00:52:51,750 --> 00:52:53,810
+所以毫不费力 绝对是 
+So hands down, absolutely.
+
+1089
+00:52:53,810 --> 00:52:58,400
+使用命令行参数是系统的一项更神秘的功能
+Using command line arguments is a more arcane feature of systems
+
+1090
+00:52:58,400 --> 00:53:01,130
+我们中的大多数人不再那么熟悉 因为
+that most of us are no longer as familiar with because
+
+1091
+00:53:01,130 --> 00:53:03,740
+Windows和Mac OS以及其他操作系统的
+of Windows and Mac OS and other operating systems that
+
+1092
+00:53:03,740 --> 00:53:05,360
+有按钮、图形用户界面和菜单 
+have buttons and GUIs and menus.
+
+1093
+00:53:05,360 --> 00:53:08,280
+但你对编程的适应程度越高 
+But the more comfortable you get with programming,
+
+1094
+00:53:08,280 --> 00:53:12,170
+我敢说 您越倾向于使用这些功能 因为它们
+I daresay the more you will tend to prefer these capabilities because they
+
+1095
+00:53:12,170 --> 00:53:15,010
+让你做事更快 
+allow you to do things more quickly.
+
+1096
+00:53:15,010 --> 00:53:19,510
+话虽如此 请允许我提议我们转向 然而 
+With that said, allow me to propose that we take a turn toward, yet,
+
+1097
+00:53:19,510 --> 00:53:23,890
+另一个特别受欢迎的软件包 
+another package that's particularly popular and just as easy
+
+1098
+00:53:23,890 --> 00:53:27,100
+来安装所有的API 
+to install all toward an end of using APIs.
+
+1099
+00:53:27,100 --> 00:53:29,980
+API并不是Python特有的 
+Now, APIs are not something that's Python-specific.
+
+1100
+00:53:29,980 --> 00:53:33,790
+更一般地 API是应用程序编程接口 
+More generally, an API is an application programming interface.
+
+1101
+00:53:33,790 --> 00:53:37,330
+它可以引用Python文件和函数 
+And it can refer to Python files and functions.
+
+1102
+00:53:37,330 --> 00:53:41,020
+但通常 API实际上指的是第三方服务
+But often, APIs really refer to third-party services
+
+1103
+00:53:41,020 --> 00:53:44,050
+你和我可以写代码和它对话
+that you and I can write code that talk to.
+
+1104
+00:53:44,050 --> 00:53:47,680
+许多API 但不是全部 这些天生活在互联网上
+Many APIs, but not all, live on the internet these days
+
+1105
+00:53:47,680 --> 00:53:50,080
+所以只要你有一个浏览器 
+so that so long as you have a browser or so long
+
+1106
+00:53:50,080 --> 00:53:53,290
+如果你有一些Python编程或编程的经验 
+as you have some experience with Python programming or programming
+
+1107
+00:53:53,290 --> 00:53:58,240
+在任何语言中 您都可以编写实际上假装是浏览器的代码 
+in any language, you can write code that in effect pretends to be a browser,
+
+1108
+00:53:58,240 --> 00:54:01,750
+连接到服务器上的第三方API 
+connects to that third-party API on a server,
+
+1109
+00:54:01,750 --> 00:54:05,740
+然后下载一些数据 你可以把它们合并到你自己的程序中 
+and download some data that you can then incorporate into your own program.
+
+1110
+00:54:05,740 --> 00:54:07,130
+现在 你是怎么做到的？
+Now, how do you do this?
+
+1111
+00:54:07,130 --> 00:54:10,000
+Python有一个非常流行的包 
+Well, Python has a very popular package that you
+
+1112
+00:54:10,000 --> 00:54:12,730
+可以通过pip安装所谓的请求 
+can install via pip called requests.
+
+1113
+00:54:12,730 --> 00:54:16,360
+requests库允许您发出web请求 
+The requests library allows you to make web request,
+
+1114
+00:54:16,360 --> 00:54:20,110
+Internet请求基本上使用Python代码
+internet request using Python code essentially
+
+1115
+00:54:20,110 --> 00:54:22,690
+就像你自己是一个浏览器 
+as though you were a browser yourself.
+
+1116
+00:54:22,690 --> 00:54:25,510
+因此 您可以自动检索URL
+You can automate, therefore, the retrieval of URLs
+
+1117
+00:54:25,510 --> 00:54:28,510
+以HTTP或HTTPS开头 
+that start with HTTP or HTTPS.
+
+1118
+00:54:28,510 --> 00:54:31,240
+这个库的文档是这样的URL 
+The documentation for this library is that a URL like this,
+
+1119
+00:54:31,240 --> 00:54:33,320
+但它也可以在命令行中安装 
+but it too can be installed at the command line.
+
+1120
+00:54:33,320 --> 00:54:35,070
+即使是第三方 
+And even though it's third party, it's one
+
+1121
+00:54:35,070 --> 00:54:38,380
+Python中最流行和最常用的包 
+of the most popular and commonly used packages out there in Python.
+
+1122
+00:54:38,380 --> 00:54:42,790
+这也是Python如此受欢迎的原因之一 
+And this too is one of the reasons again that Python is so popular.
+
+1123
+00:54:42,790 --> 00:54:44,890
+解决问题的方法太多了
+There's just so many solutions to problems
+
+1124
+00:54:44,890 --> 00:54:47,710
+你和我已经或将要
+that you and I have or are invariably going to have
+
+1125
+00:54:47,710 --> 00:54:49,570
+when we write写projects项目of our own拥有.
+when we write projects of our own.
+
+1126
+00:54:49,570 --> 00:54:53,440
+这是一个充满活力的生态系统 一个充满活力的社区
+There's just a really vibrant ecosystem, a really vibrant community
+
+1127
+00:54:53,440 --> 00:54:57,160
+开源软件 对我们来说很容易安装 
+of open source software that's that easy for us to install.
+
+1128
+00:54:57,160 --> 00:54:59,170
+让我回到我的终端窗口现在运行
+Let me go back to my terminal window now and run
+
+1129
+00:54:59,170 --> 00:55:03,310
+PIP安装请求 以便在我自己的系统上安装此程序包 
+pip install requests in order to install this package on my own system.
+
+1130
+00:55:03,310 --> 00:55:06,890
+在几行输出之后 我将看到它已成功安装 
+And after some lines of output, I'll see that it's successfully installed.
+
+1131
+00:55:06,890 --> 00:55:09,130
+现在 让我们继续在这里创建一个新文件 
+Now, let's go ahead and create a new file here.
+
+1132
+00:55:09,130 --> 00:55:11,710
+例如 itunes.py 
+For instance, itunes.py.
+
+1133
+00:55:11,710 --> 00:55:15,152
+事实证明 苹果有自己的iTunes服务API 
+It turns out that Apple has its own API for their iTunes service.
+
+1134
+00:55:15,152 --> 00:55:17,110
+为您提供功能的软件
+The software that provides you with the ability
+
+1135
+00:55:17,110 --> 00:55:20,510
+下载和搜索音乐和歌曲以及其他信息 
+to download and search for music and songs and other information as well.
+
+1136
+00:55:20,510 --> 00:55:23,290
+事实证明--让我回到我的电脑上
+And it turns out that-- let me go back over to my computer
+
+1137
+00:55:23,290 --> 00:55:25,480
+在这里打开一个类似Chrome的浏览器 
+here and open up a browser like Chrome.
+
+1138
+00:55:25,480 --> 00:55:27,940
+让我继续访问这个URL 
+And let me go ahead and visit this URL here,
+
+1139
+00:55:27,940 --> 00:55:32,240
+Https://itunes.apple.com/search?entity=song&amp；limit=1&amp；term=weezer.
+https://itunes.apple.com/ search?entity=song&amp;limit=1&amp;term=weezer.
+
+1140
+00:55:32,240 --> 00:55:39,790
+搜索？Entity=Song&amp；Limit=1&amp；Term=Weezer 
+Search?entity=song&amp; limit=1&amp;term=weezer.
+
+1141
+00:55:39,790 --> 00:55:42,610
+现在 我通过阅读以下内容手动构建了这个URL
+Now, I constructed this URL manually by reading
+
+1142
+00:55:42,610 --> 00:55:44,950
+苹果API的文档--
+the documentation for Apple's API--
+
+1143
+00:55:44,950 --> 00:55:47,320
+ITune的应用程序编程接口 
+application programming interface for iTune.
+
+1144
+00:55:47,320 --> 00:55:51,550
+他们告诉我 如果我想搜索关于歌曲的信息
+And what they told me is that if I want to search for information about songs
+
+1145
+00:55:51,550 --> 00:55:54,160
+在他们数据库中 我应该指定实体
+in their database, I should specify entity
+
+1146
+00:55:54,160 --> 00:55:58,000
+等于歌曲 所以歌曲而不是专辑或艺术家或类似的东西 
+equals song so that songs and not albums or artists or something like that.
+
+1147
+00:55:58,000 --> 00:56:00,430
+如果我只想拿回一首歌的信息 
+If I just want to get back information on one song,
+
+1148
+00:56:00,430 --> 00:56:02,350
+我将提供等于1的限制 
+I'm going to provide limit equals 1.
+
+1149
+00:56:02,350 --> 00:56:05,410
+如果我要找的乐队 艺术家是Weezer 
+And if the band I want to search for, the artist is Weezer,
+
+1150
+00:56:05,410 --> 00:56:07,870
+我应该指定术语等于Weezer 
+I should specify term equals Weezer.
+
+1151
+00:56:07,870 --> 00:56:11,830
+因此 如果我继续按Enter键并访问此URL 
+So with this, if I go ahead and hit Enter and visit this URL,
+
+1152
+00:56:11,830 --> 00:56:15,370
+实际上 我在Mac上的下载文件夹中看到了一个文本文件 
+I actually end up with a text file in my Downloads folder on my Mac.
+
+1153
+00:56:15,370 --> 00:56:18,310
+如果我继续打开浏览器刚刚下载文本文件 
+If I go ahead and open that text file that my browser just downloaded,
+
+1154
+00:56:18,310 --> 00:56:20,620
+我们将在这里看到所有这些文本 乍一看
+we'll see all of this text here, which at first glance
+
+1155
+00:56:20,620 --> 00:56:23,840
+可能看起来有点神秘 但它实际上遵循了一个模式 
+might look a bit cryptic, but it actually follows a pattern.
+
+1156
+00:56:23,840 --> 00:56:26,590
+请注意开头的花括号 并注意以下内容
+Notice this curly brace at the start and notice this
+
+1157
+00:56:26,590 --> 00:56:28,400
+末尾有一个闭合的花括号 
+closed curly brace at the end.
+
+1158
+00:56:28,400 --> 00:56:32,800
+注意这里的左方括号和这里的闭方括号 
+Notice this open square bracket here and notice this closed square bracket here.
+
+1159
+00:56:32,800 --> 00:56:35,800
+在这些语法之间有
+And in between those pieces of syntax are
+
+1160
+00:56:35,800 --> 00:56:37,850
+一大堆字符串和值 
+a whole bunch of strings and values.
+
+1161
+00:56:37,850 --> 00:56:40,120
+事实上 这是一大堆键值对 
+In fact, a whole bunch of key value pairs.
+
+1162
+00:56:40,120 --> 00:56:43,630
+我们现在看到的是一种标准的文本格式 叫做JSON 
+What we're looking at here is a standard text format known as JSON--
+
+1163
+00:56:43,630 --> 00:56:47,530
+JavaScript对象表示法 是的 在技术上是相关的 
+JavaScript Object Notation, which yes, is technically related to yet,
+
+1164
+00:56:47,530 --> 00:56:49,660
+另一种编程语言叫做JavaScript 
+another programming language called JavaScript.
+
+1165
+00:56:49,660 --> 00:56:52,690
+但JSON本身现在通常被用于
+But JSON itself is typically used nowadays
+
+1166
+00:56:52,690 --> 00:56:57,970
+作为在计算机之间交换数据的语言无关格式 
+as a language agnostic format for exchanging data between computers.
+
+1167
+00:56:57,970 --> 00:57:00,940
+所谓语言无关 我的意思是你不必使用JavaScript 
+By language agnostic, I mean you don't have to use JavaScript.
+
+1168
+00:57:00,940 --> 00:57:05,140
+您可以使用Python或任何其他语言来读取或编写JSON 
+You can use Python or any other language to read JSON or write it as well.
+
+1169
+00:57:05,140 --> 00:57:07,510
+它是一种完全基于文本的格式 
+And it's a completely text-based format, which
+
+1170
+00:57:07,510 --> 00:57:11,380
+意味着如果我用浏览器访问该URL 
+means that if I visit that URL with my browser, what gets downloaded
+
+1171
+00:57:11,380 --> 00:57:12,640
+只是一堆文字
+is just a bunch of text.
+
+1172
+00:57:12,640 --> 00:57:16,900
+但该文本是用花括号以标准方式格式化的
+But that text is formatted in a standard way using curly braces
+
+1173
+00:57:16,900 --> 00:57:21,670
+并使用引号和一些冒号进行方括号 最终包含
+and square bracket using quotes and some colons that ultimately contains
+
+1174
+00:57:21,670 --> 00:57:25,960
+至少苹果数据库中关于Weezer歌曲的所有信息 
+all of the information in Apple's database on Weezer's song, at least,
+
+1175
+00:57:25,960 --> 00:57:29,230
+第一个是因为我把它限制在他们数据库里的一个 
+the first one because I limited it to one in their database.
+
+1176
+00:57:29,230 --> 00:57:32,020
+这是一个API 一个应用程序编程接口 
+And that's an API, an application programming interface.
+
+1177
+00:57:32,020 --> 00:57:35,920
+一种机制 使我可以访问其他人的服务器上的数据
+A mechanism whereby I can access data on someone else's server
+
+1178
+00:57:35,920 --> 00:57:39,370
+并以某种方式将其整合到我自己的程序中 
+and somehow integrate it into my own program.
+
+1179
+00:57:39,370 --> 00:57:42,410
+当然 我的浏览器Chrome不是我写的 
+Now, of course, my browser, Chrome, is not something I wrote.
+
+1180
+00:57:42,410 --> 00:57:45,340
+我应该写一些Python代码
+I should actually write some Python code that perhaps pretends
+
+1181
+00:57:45,340 --> 00:57:47,870
+成为一个浏览器来获取同样的数据 
+to be a browser to grab this same data.
+
+1182
+00:57:47,870 --> 00:57:48,920
+我们就这么做吧 
+So let's do that.
+
+1183
+00:57:48,920 --> 00:57:50,230
+让我们回到VS Code 
+Let me go back to VS Code here.
+
+1184
+00:57:50,230 --> 00:57:53,680
+让我用代码写一个程序 itunes.py 
+And let me write a program with code, itunes.py.
+
+1185
+00:57:53,680 --> 00:57:59,050
+我们将编写一些代码 通过这些代码 我可以使用iTunes API
+And we're going to write some code via which I can then use the iTunes API
+
+1186
+00:57:59,050 --> 00:58:03,700
+反过来 Python可以获取我想要的任何乐队的信息 
+and in turn, Python to get information about any band that I might want.
+
+1187
+00:58:03,700 --> 00:58:06,760
+我将在这里首先导入请求
+I'm going to go here and import first the requests
+
+1188
+00:58:06,760 --> 00:58:11,410
+库 我之前安装它是为了发出那些HTTP请求 
+library, which I installed earlier in order to make those HTTP requests.
+
+1189
+00:58:11,410 --> 00:58:15,420
+我将继续导入sys库 通过它 
+I'm going to go ahead and import the sys library via which I'll have the ability
+
+1190
+00:58:15,420 --> 00:58:18,750
+使用命令行参数 如波段的规格
+to use command line arguments like specification of the band
+
+1191
+00:58:18,750 --> 00:58:20,730
+如果不是威瑟的话我也要找
+that I want to search for if not Weezer.
+
+1192
+00:58:20,730 --> 00:58:24,960
+然后在这里 我将继续插入一些错误检查 
+And then down here, I'm going to go ahead and insert some error checking
+
+1193
+00:58:24,960 --> 00:58:30,330
+如果sys.argv的长度不等于--
+to say if the length of sys.argv does not equal to--
+
+1194
+00:58:30,330 --> 00:58:33,060
+因此 如果用户不向我提供文件名
+so if the user does not provide me with the name of the file
+
+1195
+00:58:33,060 --> 00:58:36,990
+他们想要竞选和一个乐队的名字 就这样 你知道吗 
+they want to run and the name of a band, and that's it, you know what.
+
+1196
+00:58:36,990 --> 00:58:39,510
+让我们先走一步 然后暂时离开 
+Let's just go ahead and exit for now.
+
+1197
+00:58:39,510 --> 00:58:41,470
+我可以提供一个更具解释性的信息 
+I could provide a more explanatory message.
+
+1198
+00:58:41,470 --> 00:58:43,303
+但现在 我会让事情变得简单
+But for now, I'm going to keep things simple
+
+1199
+00:58:43,303 --> 00:58:46,890
+提前退出程序 这样我以后就可以信任了
+and just exit the program prematurely so that I can trust hereafter
+
+1200
+00:58:46,890 --> 00:58:49,500
+那个sys.argv有我想要的东西 
+that sys.argv has what I want.
+
+1201
+00:58:49,500 --> 00:58:54,000
+现在 我有机会使用请求库编写
+And now, I have the opportunity to use the requests library to write
+
+1202
+00:58:54,000 --> 00:58:56,640
+一些有效地伪装的Python代码
+some Python code that effectively is pretending
+
+1203
+00:58:56,640 --> 00:59:00,840
+成为Web浏览器 以便连接到相同的HTTPS
+to be a web browser so as to connect to that same HTTPS
+
+1204
+00:59:00,840 --> 00:59:03,400
+苹果自己的服务器上的URL 
+URL on Apple's own server.
+
+1205
+00:59:03,400 --> 00:59:06,090
+现在我已经保证用户已经输入了
+So now that I've guaranteed that the user has typed in
+
+1206
+00:59:06,090 --> 00:59:10,170
+提示时 不仅要输入文件名 还要输入波段名称
+not just the name of the file, but also the name of a band at the prompt
+
+1207
+00:59:10,170 --> 00:59:13,530
+给我一个sys.argv的长度为2 让我们继续
+giving me a length of two for sys.argv, let's go ahead
+
+1208
+00:59:13,530 --> 00:59:18,300
+并执行请求股票 这是请求包中的一个函数
+and execute request stockget, which is a function inside of the request package
+
+1209
+00:59:18,300 --> 00:59:21,030
+从字面上讲 这将从服务器获得一些响应 
+that will literally get some response from a server.
+
+1210
+00:59:21,030 --> 00:59:24,210
+而我想要获取的URL与之前完全相同 
+And the URL that I want to get is the exactly the same as before.
+
+1211
+00:59:24,210 --> 00:59:33,885
+Https://itunes.apple.com/搜索？实体=歌曲；限制=1(&A；
+https://itunes.apple.com/ search?entity=song&amp; limit=1&amp;
+
+1212
+00:59:33,885 --> 00:59:36,750
+术语=以前的除草机 
+term=previouslyweezer.
+
+1213
+00:59:36,750 --> 00:59:39,090
+但让我们让这个节目更具互动性
+But let's make this program a little interactive
+
+1214
+00:59:39,090 --> 00:59:42,930
+并且实际上允许用户在命令行中指定
+and actually allow the human to specify at the command line what
+
+1215
+00:59:42,930 --> 00:59:44,770
+他们想要寻找的艺术家 
+artists they'd like to search for.
+
+1216
+00:59:44,770 --> 00:59:47,940
+所以我要提前结束我的报价
+So I'm going to go ahead and close my quote early and just
+
+1217
+00:59:47,940 --> 00:59:54,480
+像过去一样使用串联运算符sys.argv bracket1进行追加 
+append using the concatenation operator as in the past, sys.argv bracket1.
+
+1218
+00:59:54,480 --> 00:59:57,360
+现在 它实际上很好地存储了响应
+And now, it actually be nice to store the response
+
+1219
+00:59:57,360 --> 00:59:59,020
+从服务器的变量中 
+from the server in a variable.
+
+1220
+00:59:59,020 --> 01:00:01,830
+所以我要继续说 回答等于
+So I'm going to go ahead and say response equals
+
+1221
+01:00:01,830 --> 01:00:04,020
+并存储所有返回的响应
+and to store all of the response that comes back
+
+1222
+01:00:04,020 --> 01:00:06,120
+来自服务器的名为Response的变量中 
+from the server in a variable called response.
+
+1223
+01:00:06,120 --> 01:00:08,670
+现在 我想要了解的是
+Down here now, I'd like to just understand
+
+1224
+01:00:08,670 --> 01:00:12,420
+服务器返回给我的是什么 以确保我知道下一步如何继续 
+what the server's returning to me to make sure I know how next to proceed.
+
+1225
+01:00:12,420 --> 01:00:14,170
+所以这还不会很美好 
+So this isn't going to be very pretty yet.
+
+1226
+01:00:14,170 --> 01:00:17,220
+但我要把答案打印出来 json 
+But I'm going to go and print out response.json,
+
+1227
+01:00:17,220 --> 01:00:21,270
+它可以确保我得到的数据在屏幕上被格式化
+which ensures that the data I'm getting back is formatted on my screen
+
+1228
+01:00:21,270 --> 01:00:25,980
+就是JSON 和我们在屏幕上看到的一样的文本格式 
+as exactly that, JSON, the same text format as we saw on my screen.
+
+1229
+01:00:25,980 --> 01:00:27,510
+它还不是一个有用的程序 
+It's not a useful program yet.
+
+1230
+01:00:27,510 --> 01:00:29,640
+我真的只是一路上学习 
+I'm really just learning along the way.
+
+1231
+01:00:29,640 --> 01:00:32,790
+但是现在让我继续增加终端窗口的大小
+But let me go ahead now and increase the size of my terminal window
+
+1232
+01:00:32,790 --> 01:00:37,590
+运行itunes.py的Python 输入一个乐队的名字 比如Weezer
+and run Python of itunes.py and type in the name of a band like Weezer
+
+1233
+01:00:37,590 --> 01:00:39,030
+然后按回车键
+and hit Enter.
+
+1234
+01:00:39,030 --> 01:00:42,030
+我们在屏幕上看到的格式几乎相同
+And what we see on the screen formatted almost the same
+
+1235
+01:00:42,030 --> 01:00:44,730
+与之前的文本完全相同 
+as before is exactly that same text.
+
+1236
+01:00:44,730 --> 01:00:48,240
+但你会看到这已经标准化了
+But what you'll see here is that this has been standardized now
+
+1237
+01:00:48,240 --> 01:00:50,310
+Python字典
+as a Python dictionary.
+
+1238
+01:00:50,310 --> 01:00:54,360
+实际上 苹果返回的是一个JSON响应 
+What indeed Apple's returning is technically a JSON response,
+
+1239
+01:00:54,360 --> 01:00:55,980
+JavaScript对象表示法 
+JavaScript Object Notation.
+
+1240
+01:00:55,980 --> 01:00:59,190
+但是Python 请求库正在转换它 
+But Python, the request library is converting it
+
+1241
+01:00:59,190 --> 01:01:04,020
+到Python字典 它碰巧使用了非常巧合的 几乎
+to a Python dictionary which happens to use wonderfully coincidentally, almost
+
+1242
+01:01:04,020 --> 01:01:05,130
+相同的语法 
+the same syntax.
+
+1243
+01:01:05,130 --> 01:01:08,130
+它在这里用花括号表示字典
+It uses curly braces to represent the dictionary here
+
+1244
+01:01:08,130 --> 01:01:10,920
+和一个右花括号来表示它的结尾 
+and a close curly brace to represent the end of it here.
+
+1245
+01:01:10,920 --> 01:01:14,280
+对于其中的任何列表 它在此处使用方括号
+For any lists therein, it uses a square bracket here
+
+1246
+01:01:14,280 --> 01:01:16,560
+和一个封闭的方括号
+and a closed square bracket down here.
+
+1247
+01:01:16,560 --> 01:01:20,640
+它使用了引号--这里是单引号 或者等效的双引号
+It uses quotes-- single quotes in this case or equivalently double quotes
+
+1248
+01:01:20,640 --> 01:01:23,250
+来表示字典中的键 
+to represent the keys in that dictionary.
+
+1249
+01:01:23,250 --> 01:01:27,180
+在冒号之后 它存储该键的值 
+And after a colon, it stores the value of that key.
+
+1250
+01:01:27,180 --> 01:01:31,860
+所以你会看到我们确实有一个结果计数键 它的值是1 
+And so you'll see that indeed we have a result count key whose value is 1,
+
+1251
+01:01:31,860 --> 01:01:35,940
+但是还有一个更有趣的Result键 叫做results 
+but then a more interesting Result key called results whose
+
+1252
+01:01:35,940 --> 01:01:38,940
+值是整个数据列表 
+value is this entire list of data.
+
+1253
+01:01:38,940 --> 01:01:41,377
+老实说 这是一个很大的文本块
+Now, honestly, this is such a big blob of text
+
+1254
+01:01:41,377 --> 01:01:44,460
+我得花很长时间才能理解我所看到的
+that it's going to take me forever to wrap my mind around what I'm seeing.
+
+1255
+01:01:44,460 --> 01:01:48,840
+所以让我暂时建议我们使用Python中的另一个库 
+So let me propose temporarily we use another library in Python that
+
+1256
+01:01:48,840 --> 01:01:52,200
+可以让我更清晰地格式化数据 
+will allow me to format my data a little more cleanly.
+
+1257
+01:01:52,200 --> 01:01:56,460
+原来Python还附带了一个特殊的库 
+It turns out that Python also comes with a special library called
+
+1258
+01:01:56,460 --> 01:01:59,400
+JSON允许您操作JSON数据
+JSON that allows you to manipulate JSON data
+
+1259
+01:01:59,400 --> 01:02:02,820
+甚至只是打印出来 
+and even just printy print it that is formatted in a way that's going to be
+
+1260
+01:02:02,820 --> 01:02:04,900
+更容易让你我理解
+way easier for you and I to understand.
+
+1261
+01:02:04,900 --> 01:02:07,260
+让我回到我的代码 
+So let me go back to my code here.
+
+1262
+01:02:07,260 --> 01:02:09,600
+让我缩小我的终端窗口 
+Let me shrink my terminal window.
+
+1263
+01:02:09,600 --> 01:02:13,210
+让我再一次暂时地建议我们这样做 
+And let me propose that just temporarily again we do this.
+
+1264
+01:02:13,210 --> 01:02:16,830
+让我导入这个额外的库JSON 它是随Python一起提供的 
+Let me import this additional library, JSON, which comes with Python.
+
+1265
+01:02:16,830 --> 01:02:19,140
+所以我不需要使用pip手动安装它 
+So I don't need to install it manually with pip.
+
+1266
+01:02:19,140 --> 01:02:21,990
+现在让我继续 而不仅仅是打印出来
+And let me go ahead now and not just print out
+
+1267
+01:02:21,990 --> 01:02:26,070
+响应.json 这是一大团难以理解的文本 
+response.json which was that big blob of hard-to-understand text.
+
+1268
+01:02:26,070 --> 01:02:31,290
+让我们继续使用另一个函数 这里称为json.dups
+Let me go ahead and use one other function here called json.dumps
+
+1269
+01:02:31,290 --> 01:02:36,930
+用于转储字符串 并传递给响应.json返回的函数
+for dump string and pass to that function that response.json return
+
+1270
+01:02:36,930 --> 01:02:37,570
+价值 
+value.
+
+1271
+01:02:37,570 --> 01:02:39,780
+所以 我再一次介绍另一个函数
+So again, I'm just introducing another function
+
+1272
+01:02:39,780 --> 01:02:43,500
+我认为他一生的目标都是漂亮的印刷品 
+who I claim has a purpose in life of pretty printing,
+
+1273
+01:02:43,500 --> 01:02:46,560
+在屏幕上巧妙地格式化完全相同的信息 
+nicely formatting on the screen the exact same information.
+
+1274
+01:02:46,560 --> 01:02:49,380
+我从以前做过这件事的文件中知道了这一点 
+And I know this from the documentation having done this before.
+
+1275
+01:02:49,380 --> 01:02:51,540
+但我想让东西缩进得很好 
+But I'd like things to be nicely indented.
+
+1276
+01:02:51,540 --> 01:02:56,160
+根据文档 如果我传入一个命名参数缩进
+And according to the documentation, if I pass in a named parameter of indent
+
+1277
+01:02:56,160 --> 01:02:59,700
+等于2 这将使所有内容缩进至少两个空格 
+equals 2, that's going to indent everything at least two spaces.
+
+1278
+01:02:59,700 --> 01:03:01,170
+我可以做四个或其他的事情 
+I could do four or something else.
+
+1279
+01:03:01,170 --> 01:03:04,290
+但这将足以帮助我思考什么
+But it's going to be enough to help me wrap my mind around what
+
+1280
+01:03:04,290 --> 01:03:05,760
+数据是我要回来了 
+the data is I'm getting back.
+
+1281
+01:03:05,760 --> 01:03:08,250
+因为再说一次 我只是和你一起学习 
+Because again, I'm just learning along with you.
+
+1282
+01:03:08,250 --> 01:03:10,870
+因此 让我再次增加终端窗口的大小 
+So let me increase the size of my terminal window again.
+
+1283
+01:03:10,870 --> 01:03:12,720
+让我运行itunes.py的Python 
+Let me run Python of itunes.py.
+
+1284
+01:03:12,720 --> 01:03:15,110
+再一次 让我们搜索Weezer并按Enter键 
+And again, let's search for Weezer and hit Enter.
+
+1285
+01:03:15,110 --> 01:03:18,440
+现在 注意到它仍然有一点神秘
+And now, notice it's still a little bit cryptic
+
+1286
+01:03:18,440 --> 01:03:20,030
+因为这里发生了很多事情 
+because there's a lot going on here.
+
+1287
+01:03:20,030 --> 01:03:24,110
+但我的天啊 我现在完全可以更容易地阅读这个了 
+But my gosh, I can totally read this more easily now.
+
+1288
+01:03:24,110 --> 01:03:27,860
+请注意 现在我仍然看到第一个大括号 这意味着嘿 
+Notice now that I still see the first curly brace, which means hey,
+
+1289
+01:03:27,860 --> 01:03:29,630
+这是一本用Python语言编写的词典 
+this is a dictionary in Python.
+
+1290
+01:03:29,630 --> 01:03:31,740
+键和值的集合 
+A collection of keys and values.
+
+1291
+01:03:31,740 --> 01:03:33,890
+第一个键称为结果计数 
+The first key is called result count.
+
+1292
+01:03:33,890 --> 01:03:35,895
+现在恰好用双引号显示 
+It happens to be displayed in double quotes now.
+
+1293
+01:03:35,895 --> 01:03:37,520
+但这只是一个格式问题 
+But that's just an issue of formatting.
+
+1294
+01:03:37,520 --> 01:03:39,980
+只要我们是一致的 就可以是双人或单人 
+It could be double or single so long as we're consistent.
+
+1295
+01:03:39,980 --> 01:03:42,050
+该密钥的值为1 
+The value of that key is one.
+
+1296
+01:03:42,050 --> 01:03:42,560
+为什么？
+Why?
+
+1297
+01:03:42,560 --> 01:03:46,670
+嗯 我告诉URL将回复限制在一首Weezer歌曲上
+Well, I told the URL to only limit the responses to one Weezer song
+
+1298
+01:03:46,670 --> 01:03:48,470
+所以我得到了一个1的结果集 
+so I've gotten a result set of one.
+
+1299
+01:03:48,470 --> 01:03:51,260
+如果我增加这个限制 我可能会得到更多 
+If I increase that limit, I could probably get more.
+
+1300
+01:03:51,260 --> 01:03:55,010
+那么 这个响应中有趣的部分实际上就是数据本身 
+Then the interesting part of this response is really the data itself.
+
+1301
+01:03:55,010 --> 01:03:59,690
+请注意 在这里的结果键中 有一个非常大的值 
+Notice in the results key here, there's a really big value.
+
+1302
+01:03:59,690 --> 01:04:05,810
+如方括号所示 该值是一个Python列表 
+The value is a Python list as implied by this square bracket.
+
+1303
+01:04:05,810 --> 01:04:07,490
+这张单子里有什么？
+What does this list contain?
+
+1304
+01:04:07,490 --> 01:04:11,690
+嗯 我从之前的浏览中知道 这里面有一本词典 
+Well, I know from skimming it earlier that this contains one dictionary.
+
+1305
+01:04:11,690 --> 01:04:15,570
+这就是为什么我们在这里看到另一个花括号 
+And that's why we see another curly brace here.
+
+1306
+01:04:15,570 --> 01:04:18,290
+所以 再说一次 如果事情变得更复杂 
+So again, if this gets a little more complicated,
+
+1307
+01:04:18,290 --> 01:04:22,770
+请记住 字典只是键值对的集合 
+keep in mind that a dictionary is just a collection of key value pairs.
+
+1308
+01:04:22,770 --> 01:04:25,730
+而Python使用大括号来表示这一点 
+And Python uses curly braces to indicate as much.
+
+1309
+01:04:25,730 --> 01:04:28,940
+买一本词典是完全合理的
+It is perfectly reasonable for a dictionary
+
+1310
+01:04:28,940 --> 01:04:33,680
+如果某个键本身的值在另一个词典中
+to be inside of another dictionary if the value of some key itself
+
+1311
+01:04:33,680 --> 01:04:35,142
+是另一本词典 
+is another dictionary.
+
+1312
+01:04:35,142 --> 01:04:36,350
+所以这是一个常见的范例 
+So this is a common paradigm.
+
+1313
+01:04:36,350 --> 01:04:38,183
+尽管这可能看起来有点神秘 
+And even though it might seem a bit cryptic,
+
+1314
+01:04:38,183 --> 01:04:42,590
+它只是允许我们将更多的键与更多的值相关联 
+it's just something that allows us to associate more keys with more value.
+
+1315
+01:04:42,590 --> 01:04:45,230
+现在 这些信息中的大部分 我可能并不关心 
+Now, most of this information, I probably don't care about.
+
+1316
+01:04:45,230 --> 01:04:48,920
+例如 根据苹果公司的说法 Weezer的唯一标识符
+For instance, according to Apple, the unique identifier for Weezer
+
+1317
+01:04:48,920 --> 01:04:52,310
+显然是115,234 
+is apparently 115,234.
+
+1318
+01:04:52,310 --> 01:04:54,655
+如果我要创建自己的数据库 这可能会很有用
+That might be useful if I'm making my own database
+
+1319
+01:04:54,655 --> 01:04:56,030
+我希望这是可搜索的 
+and I want this to be searchable.
+
+1320
+01:04:56,030 --> 01:05:00,090
+但为了今天的目的 我只关心赛道的名字 
+But for today's purposes, all I care about is the name of the track,
+
+1321
+01:05:00,090 --> 01:05:02,660
+也称为轨道名称作为关键点 
+otherwise called track name as key.
+
+1322
+01:05:02,660 --> 01:05:05,810
+第一首歌 也是唯一一首歌 因为我们把它限制在一首
+And the first song and only song because we limited it to one
+
+1323
+01:05:05,810 --> 01:05:08,990
+我们从iTunes回来的是这首歌
+that we got back from iTunes here is the song
+
+1324
+01:05:08,990 --> 01:05:12,050
+你可能知道威泽叫“不是这样说” 
+that you might know by Weezer called Say It Ain't So.
+
+1325
+01:05:12,050 --> 01:05:17,480
+现在 我有了一点线索 如果我的目标是实现一个计划
+So now, I have a bit of a clue if my goal here is to implement a program
+
+1326
+01:05:17,480 --> 01:05:21,200
+名为itunes.py 它不仅转储来自服务器的响应 
+called itunes.py that doesn't just dump the response from the server,
+
+1327
+01:05:21,200 --> 01:05:22,730
+诚然 这是非常神秘的--
+which is admittedly very cryptic--
+
+1328
+01:05:22,730 --> 01:05:28,040
+但要打印出iTunes为Weezer乐队准备的所有歌曲 
+but to print out all of the songs that iTunes has for the band called Weezer,
+
+1329
+01:05:28,040 --> 01:05:30,710
+也许我可以以某种方式重复一下 
+maybe I can iterate over this somehow.
+
+1330
+01:05:30,710 --> 01:05:31,940
+所以 让我回顾一下 
+So let me backtrack.
+
+1331
+01:05:31,940 --> 01:05:34,100
+这是关键呼叫跟踪名称 
+Here's the key call track name.
+
+1332
+01:05:34,100 --> 01:05:39,990
+在词典中 它就是这里结果的价值 
+It is inside of a dictionary that is the value of results here.
+
+1333
+01:05:39,990 --> 01:05:42,270
+那么 我该如何着手拿到这个呢？
+So how can I go about getting this?
+
+1334
+01:05:42,270 --> 01:05:44,010
+好吧 让我来试试这个 
+Well, let me go ahead and try this.
+
+1335
+01:05:44,010 --> 01:05:47,330
+让我继续缩小我的终端窗口
+Let me go ahead and shrink my terminal window back down
+
+1336
+01:05:47,330 --> 01:05:49,760
+现在让我为最后一次盛大的表演做最后的提议 
+and let me propose now for one final flourish.
+
+1337
+01:05:49,760 --> 01:05:52,040
+我们不会只是懒洋洋地把内容打印出来
+We don't just lazily print out the contents
+
+1338
+01:05:52,040 --> 01:05:55,100
+因为这对任何人来说都不有趣或不美观 
+of that response because that's not interesting or pretty for anyone.
+
+1339
+01:05:55,100 --> 01:05:56,400
+我们开始吧 
+Let's do this.
+
+1340
+01:05:56,400 --> 01:05:58,580
+让我们继续创建一个新变量
+Let me go ahead and create a new variable
+
+1341
+01:05:58,580 --> 01:06:01,310
+仅为讨论起见 将对象称为O 
+just for the sake of discussion called O for object.
+
+1342
+01:06:01,310 --> 01:06:06,620
+我将继续调用o等于Response.json
+And I'm going to go ahead and call o equals response.json just
+
+1343
+01:06:06,620 --> 01:06:11,450
+要专门将该JSON响应存储在名为o的变量中 
+to store that JSON response specifically in a variable called o,
+
+1344
+01:06:11,450 --> 01:06:13,010
+但我可以给它起任何我想要的名字 
+but I could name it anything I want.
+
+1345
+01:06:13,010 --> 01:06:14,600
+现在 我要做这件事 
+And now, I'm going to do this.
+
+1346
+01:06:14,600 --> 01:06:21,440
+对于该对象的键中的每个名为Results的结果 
+For each result in that object's key called results,
+
+1347
+01:06:21,440 --> 01:06:26,180
+继续打印结果的曲目名称 
+go ahead and print out that result's track name.
+
+1348
+01:06:26,180 --> 01:06:29,450
+请注意 我使用的是完全相同的大写 
+And notice I have used exactly the same capitalization.
+
+1349
+01:06:29,450 --> 01:06:32,840
+曲目名称为大写N 结果全部为小写 
+Track name has a capital N. Result is all lowercase.
+
+1350
+01:06:32,840 --> 01:06:35,300
+在我们运行实际的程序之前 让我回顾一下 
+And let me rewind before we run the actual program.
+
+1351
+01:06:35,300 --> 01:06:38,420
+在第八行中 我们发出了一个HTTP请求
+In line eight, we are making an HTTP request
+
+1352
+01:06:38,420 --> 01:06:41,780
+像你我一样在服务器上使用Python作为人类输入的URL
+using Python to the server just like you and I as humans type URLs
+
+1353
+01:06:41,780 --> 01:06:43,370
+进入浏览器 然后按Enter键 
+into a browser and hit Enter.
+
+1354
+01:06:43,370 --> 01:06:45,560
+这是等效于Python的代码 
+This is the Python equivalent thereof.
+
+1355
+01:06:45,560 --> 01:06:49,610
+然后我在第10行 从那个变量中获取
+I am then on line 10 just grabbing from that variable that
+
+1356
+01:06:49,610 --> 01:06:53,900
+包含服务器的响应 即我关心的JSON对象 
+contains the server's response, the JSON object that I care about.
+
+1357
+01:06:53,900 --> 01:06:57,960
+在最上面和最下面的花括号之间的东西 
+The thing between those curly braces at the very top and the bottom.
+
+1358
+01:06:57,960 --> 01:07:00,320
+而是因为我们四处打听 因为我
+But because we've poked around and because I
+
+1359
+01:07:00,320 --> 01:07:03,980
+读了前面的文档 我知道该对象
+read the documentation earlier, I know that that object
+
+1360
+01:07:03,980 --> 01:07:06,150
+有一个名为Results的键 
+has a key called results.
+
+1361
+01:07:06,150 --> 01:07:08,120
+而结果关键又是一个列表 
+And that results key again is a list.
+
+1362
+01:07:08,120 --> 01:07:11,240
+现在 这份名单上只有一首歌 
+Now, at the moment, that list contains only one song,
+
+1363
+01:07:11,240 --> 01:07:14,360
+我不是这么说的 因为我的回答只有一个 
+Say It Ain't So, because I limited my response to one.
+
+1364
+01:07:14,360 --> 01:07:16,027
+但即便如此 我的循环还是会起作用的 
+But even so, my loop will work.
+
+1365
+01:07:16,027 --> 01:07:17,360
+它只会迭代一次 
+It's just going to iterate once.
+
+1366
+01:07:17,360 --> 01:07:19,152
+每次通过这个循环 它都会
+And each time through that loop, it's going
+
+1367
+01:07:19,152 --> 01:07:22,310
+若要打印当前结果的曲目名称 请执行以下操作 
+to print the current result's track name.
+
+1368
+01:07:22,310 --> 01:07:24,270
+如果我想让这件事更有趣 
+If I want to make this even more interesting,
+
+1369
+01:07:24,270 --> 01:07:26,180
+现在让我将这个限制从1更改为50
+let me change this limit now from 1 to 50
+
+1370
+01:07:26,180 --> 01:07:29,660
+所以我至少可以取回50个曲目名称 
+so I'll at least get back 50 track names instead.
+
+1371
+01:07:29,660 --> 01:07:33,080
+现在让我继续并再次增加我的终端的大小
+Let me go ahead now and increase the size of my terminal once more
+
+1372
+01:07:33,080 --> 01:07:36,980
+现在继续并再次运行itunes.py的Python搜索
+and go ahead now and run Python of itunes.py searching again
+
+1373
+01:07:36,980 --> 01:07:38,450
+对于像威兹这样的乐队来说 
+for a band like Weezer.
+
+1374
+01:07:38,450 --> 01:07:40,130
+现在我们开始吧 
+And here we go.
+
+1375
+01:07:40,130 --> 01:07:44,720
+瞧 iTunes为Weezer准备了50首歌 
+And voila, there are 50 songs that iTunes has for Weezer.
+
+1376
+01:07:44,720 --> 01:07:47,000
+如果我们向上滚动到顶部 
+And if we scroll back up to the top here,
+
+1377
+01:07:47,000 --> 01:07:51,080
+我们会看到 第一个人 确实 也不是这样说的 
+we'll see that the very first one there is, indeed, Say It Ain't So.
+
+1378
+01:07:51,080 --> 01:07:52,430
+但现在 我们被解开了--
+But now, we got Undone--
+
+1379
+01:07:52,430 --> 01:07:54,110
+毛衣之歌 巴迪·霍莉 
+The Sweater Song, Buddy Holly.
+
+1380
+01:07:54,110 --> 01:07:56,780
+显然 另一首《Say It Ain Not》可能也是如此
+Apparently another rendition of Say It Ain't So perhaps
+
+1381
+01:07:56,780 --> 01:08:01,880
+从另一张专辑 另一张巴迪·霍利未完成 我的名字是乔纳斯 等等 
+from another album, another Buddy Holly undone, my name is Jonas, and so forth.
+
+1382
+01:08:01,880 --> 01:08:06,920
+现在关于这个将Python与现实世界相结合的程序的问题
+Questions now on this program which integrates Python with a real world
+
+1383
+01:08:06,920 --> 01:08:10,301
+第三方API？
+third party API?
+
+1384
+01:08:10,301 --> 01:08:11,770
+观众：是的 嗨 
+AUDIENCE: Yeah, hi.
+
+1385
+01:08:11,770 --> 01:08:15,040
+我们可以使用Break而不是Syst.Exit吗？
+Can we use break instead of system.exit?
+
+1386
+01:08:15,040 --> 01:08:16,870
+大卫·马兰：问得好 但不是 
+DAVID MALAN: Good question, but no.
+
+1387
+01:08:16,870 --> 01:08:21,160
+Break Again用来打破我们之前看到的循环 
+Break again is used to break out of things like loops like we saw earlier.
+
+1388
+01:08:21,160 --> 01:08:25,390
+使用Sys.Exit来突破整个程序本身 
+Sys.exit is used to break out of the whole program itself.
+
+1389
+01:08:25,390 --> 01:08:28,420
+暂时使用BREAK FOR循环 并使用sys.exit终止
+Use break for loops for now and use sys.exit to terminate
+
+1390
+01:08:28,420 --> 01:08:29,319
+整个节目 
+the whole program.
+
+1391
+01:08:29,319 --> 01:08:30,892
+问得好 
+Good question.
+
+1392
+01:08:30,892 --> 01:08:32,850
+现在节目中的其他问题还有其他问题吗？
+Other questions now on this program are others?
+
+1393
+01:08:32,850 --> 01:08:36,600
+观众：我们从哪里带来了关键成果的名字？
+AUDIENCE: From where we bring the name of the key results?
+
+1394
+01:08:36,600 --> 01:08:38,850
+大卫·马兰：我们从哪里得到钥匙的名字？
+DAVID MALAN: From where do we get the name of the key?
+
+1395
+01:08:38,850 --> 01:08:40,350
+观众：结果本身 
+AUDIENCE: Results itself.
+
+1396
+01:08:40,350 --> 01:08:42,670
+是啊 我们能不能更改结果 改名字？
+Yeah, and can we change the results, the name?
+
+1397
+01:08:42,670 --> 01:08:43,890
+大卫·马兰：你不能 
+DAVID MALAN: You cannot.
+
+1398
+01:08:43,890 --> 01:08:45,460
+所以我们可以在我们的项目中 
+So we could in our program.
+
+1399
+01:08:45,460 --> 01:08:48,479
+因此 明确地说 在JSON响应中返回的键 
+So the keys that come back in that JSON response, to be clear,
+
+1400
+01:08:48,479 --> 01:08:51,569
+来自itunes.apple.com 
+come from iTunes.Apple.com.
+
+1401
+01:08:51,569 --> 01:08:55,979
+一些工程师团队为我们决定了所有这些钥匙的名称 
+Some team of engineers decided for us what all of those keys would be called,
+
+1402
+01:08:55,979 --> 01:08:59,550
+包括曲目名称、结果、结果计数以及其他所有内容 
+including track name, results, result count, and everything else.
+
+1403
+01:08:59,550 --> 01:09:03,359
+你和我完全可以将这些相同的值存储在变量中
+You and I can absolutely store those same values in variables
+
+1404
+01:09:03,359 --> 01:09:06,600
+就像我在这里对O所做的 就像我在这里对Result所做的那样 
+just like I'm doing here with O, just like I'm doing here with result.
+
+1405
+01:09:06,600 --> 01:09:10,020
+可以使用Python变量随心所欲地重命名这些关键点 
+You can rename those keys anything you want using Python variables.
+
+1406
+01:09:10,020 --> 01:09:14,938
+但JSON响应来自该第三方服务器 
+But the JSON response is coming from that third party server.
+
+1407
+01:09:14,938 --> 01:09:15,605
+其他问题 
+Other questions.
+
+1408
+01:09:15,605 --> 01:09:16,560
+观众：是的 先生 
+AUDIENCE: Yes, sir.
+
+1409
+01:09:16,560 --> 01:09:21,210
+因此 我有一个问题与牛仔套餐有关 
+So I have a question related to cowsay package.
+
+1410
+01:09:21,210 --> 01:09:23,319
+就像是 是的 
+So like, yes.
+
+1411
+01:09:23,319 --> 01:09:29,100
+那么 先生 它能提供什么样的ASCII图形呢？
+So sir, what sort of ASCII graphics is it capable of putting?
+
+1412
+01:09:29,100 --> 01:09:31,140
+DAVID MALAN：牛仔套餐 
+DAVID MALAN: The cowsay package.
+
+1413
+01:09:31,140 --> 01:09:33,240
+我建议您参考幻灯片中的URL
+I would refer you to the URL in the slides
+
+1414
+01:09:33,240 --> 01:09:36,090
+因为这样更彻底
+earlier if only because it's more thorough.
+
+1415
+01:09:36,090 --> 01:09:38,670
+他们不仅有牛 还有霸王龙
+They have not just cows, but Tyrannosaurus rex's
+
+1416
+01:09:38,670 --> 01:09:40,218
+还有其他几种动物
+and several other animals as well.
+
+1417
+01:09:40,218 --> 01:09:42,510
+我要强调的是 这不是一个包 我怀疑
+I should emphasize that this is not a package I suspect
+
+1418
+01:09:42,510 --> 01:09:44,160
+你在现实世界中会用到很多东西 
+you will use much in the real world.
+
+1419
+01:09:44,160 --> 01:09:47,220
+它实际上只是代表了
+It's really just meant to be representative of the types of packages
+
+1420
+01:09:47,220 --> 01:09:48,000
+你可以安装 
+you can install.
+
+1421
+01:09:48,000 --> 01:09:51,090
+但是 请允许我参考文件 了解更多的情况 
+But allow me to refer to the documentation for what more is there.
+
+1422
+01:09:51,090 --> 01:09:57,000
+但在表情符号出现之前 我们只有ASCII艺术 更不用说GIF和JPEG了
+But ASCII art is all we had before there were emojis, let alone GIFs and JPEGs
+
+1423
+01:09:57,000 --> 01:09:57,630
+和ping 
+and pings.
+
+1424
+01:09:57,630 --> 01:10:00,790
+但这是考赛镇的不朽之作 
+But it's what's is immortalized in cowsay.
+
+1425
+01:10:00,790 --> 01:10:06,390
+好 现在让我们回到Python的最后一个功能 
+Well, allow me to transition us back now to one final capability of Python which
+
+1426
+01:10:06,390 --> 01:10:10,710
+就是你们自己有能力建立自己的图书馆 
+is that you yourselves have the ability to make your own libraries.
+
+1427
+01:10:10,710 --> 01:10:14,700
+到目前为止 我们一直在编写一个
+Up until now, we've been writing all of our functions in our one
+
+1428
+01:10:14,700 --> 01:10:17,280
+文件 你好py和一切 因为.
+file, Hello py and everything since.
+
+1429
+01:10:17,280 --> 01:10:22,740
+现在我们已经介绍了Python中的模块 随机和统计 
+And now that we've introduced modules in Python, random and statistics,
+
+1430
+01:10:22,740 --> 01:10:25,050
+我们可以导入Python自带的 
+we can import those that come with Python.
+
+1431
+01:10:25,050 --> 01:10:26,760
+但这也是别人的代码 
+But that's other people's code as well.
+
+1432
+01:10:26,760 --> 01:10:29,490
+我们现在已经使用pip 这个包管理器来安装
+And we've now used pip, this package manager to install
+
+1433
+01:10:29,490 --> 01:10:31,740
+系统中的第三方软件包
+third-party packages as well in the system
+
+1434
+01:10:31,740 --> 01:10:33,780
+使用别人的代码
+and using other people's code still.
+
+1435
+01:10:33,780 --> 01:10:36,450
+但是回到原点 如果你自己
+But to come full circle, what if you yourself
+
+1436
+01:10:36,450 --> 01:10:40,440
+发现自己一次又一次地实现相同的功能 
+find yourself implementing the same kinds of functions again and again,
+
+1437
+01:10:40,440 --> 01:10:42,960
+或者你发现自己打开了旧的程序 
+or you find yourself opening up old programs,
+
+1438
+01:10:42,960 --> 01:10:45,870
+复制并粘贴你写的代码到新程序中
+copying and pasting code you wrote into new programs
+
+1439
+01:10:45,870 --> 01:10:47,940
+因为你又遇到了同样的问题
+because you have the same problem yet again?
+
+1440
+01:10:47,940 --> 01:10:53,010
+一个好的做法是以某种方式将您不断重用的代码捆绑起来
+A good practice would be to somehow bundle up that code you keep reusing
+
+1441
+01:10:53,010 --> 01:10:56,160
+创建你自己的Python模块或包 
+and make your own Python module or package.
+
+1442
+01:10:56,160 --> 01:10:59,130
+您可以将其保存在您自己的Mac或PC或云服务器上 
+You can keep it local on your own Mac or PC or cloud server.
+
+1443
+01:10:59,130 --> 01:11:02,700
+或者你可以把它捆起来 
+Or you can go through the steps of actually bundling it up, making
+
+1444
+01:11:02,700 --> 01:11:06,540
+它是免费的 开源的 把它放在像py pi这样的东西上 
+it free and open source, and putting it on something like py, pi for others
+
+1445
+01:11:06,540 --> 01:11:07,830
+也可以使用？
+to use as well?
+
+1446
+01:11:07,830 --> 01:11:10,710
+好的 我继续运行sayings.py的代码
+OK, I'm going to go ahead and run code of sayings.py
+
+1447
+01:11:10,710 --> 01:11:13,140
+创建一个名为sayings.py的全新文件 
+to create a brand new file called sayings.py which
+
+1448
+01:11:13,140 --> 01:11:15,580
+将会是我自己的语录模块 
+is going to be my own sayings module.
+
+1449
+01:11:15,580 --> 01:11:18,090
+我将在其中定义几个简单的函数 
+I'm going to define a couple of simple functions in there.
+
+1450
+01:11:18,090 --> 01:11:20,160
+我将定义一个Hello函数 该函数
+I'm going to define a Hello function that's going
+
+1451
+01:11:20,160 --> 01:11:22,230
+要接受名称参数作为输入 请执行以下操作 
+to take a name parameter as input.
+
+1452
+01:11:22,230 --> 01:11:25,110
+该函数将简单地打印出来
+And that function is simply going to print out
+
+1453
+01:11:25,110 --> 01:11:28,830
+一个F字符串 它包含Hello、逗号 然后用大括号括起来 
+an F string that contains hello, comma, and then in curly braces,
+
+1454
+01:11:28,830 --> 01:11:31,405
+不管那个人到底叫什么名字 
+whatever that person's name actually is.
+
+1455
+01:11:31,405 --> 01:11:33,780
+然后我将继续定义另一个函数 
+Then I'm going to go ahead and define one other function,
+
+1456
+01:11:33,780 --> 01:11:37,470
+一个告别功能 有def 再见 也
+a goodbye function, that has def, goodbye, also
+
+1457
+01:11:37,470 --> 01:11:39,120
+接受名称作为其输入 
+takes a name as its input.
+
+1458
+01:11:39,120 --> 01:11:41,340
+然后通过对比打印出来 然后F
+And then that prints out by contrast and F
+
+1459
+01:11:41,340 --> 01:11:45,720
+表示再见的字符串 逗号 然后用大括号表示姓名 
+string that says goodbye, comma, and then in curly braces, name.
+
+1460
+01:11:45,720 --> 01:11:48,780
+现在 只是为了好让我能确定
+And now, just for good measure just so I can be sure
+
+1461
+01:11:48,780 --> 01:11:50,677
+这些功能正在按预期运行 
+that these functions are working as expected,
+
+1462
+01:11:50,677 --> 01:11:53,010
+接下来 我将在这里定义一个主要函数
+I'm going to go ahead and define a main function in here
+
+1463
+01:11:53,010 --> 01:11:55,080
+也只是为了测试的目的 
+too just for the purposes of testing.
+
+1464
+01:11:55,080 --> 01:11:57,780
+接下来 我将定义一个主要函数
+And I'm going to go ahead and define a main function that
+
+1465
+01:11:57,780 --> 01:11:59,760
+只是做了几个测试 
+simply does a couple of tests.
+
+1466
+01:11:59,760 --> 01:12:05,370
+例如 它叫Hello of 引用 引用 不引用 “world” 我们应该说吗？
+For instance, it calls Hello of, quote, unquote, "world" shall we say?
+
+1467
+01:12:05,370 --> 01:12:09,153
+然后它也会叫再见 引用 不引用 “世界” 
+And then it's going to call good bye of, quote, unquote, "world" as well.
+
+1468
+01:12:09,153 --> 01:12:11,070
+希望我在屏幕上看到的是
+And hopefully what I'll see on the screen then
+
+1469
+01:12:11,070 --> 01:12:13,960
+当我运行这个程序时 是Hello World和Goodbai World 
+is Hello world and Goodbye world when I run this program.
+
+1470
+01:12:13,960 --> 01:12:16,140
+当然 像往常一样 我需要明确地告诉
+Of course, as always, I need to explicitly tell
+
+1471
+01:12:16,140 --> 01:12:17,620
+来调用该函数 
+Python to call that function.
+
+1472
+01:12:17,620 --> 01:12:20,280
+所以我将在这个文件的最底部调用Main 
+So I'm going to call main at the very bottom of this file.
+
+1473
+01:12:20,280 --> 01:12:21,510
+好了 让我们试试看 
+All right, let's try it out.
+
+1474
+01:12:21,510 --> 01:12:24,420
+Sayings.py的Python 回车 
+Python of sayings.py, Enter.
+
+1475
+01:12:24,420 --> 01:12:26,872
+事实上 我看到了你好世界和再见世界 
+And indeed, I see Hello world and Goodbye world.
+
+1476
+01:12:26,872 --> 01:12:28,830
+所以我认为我有理由认为
+And so I think it's reasonable for me to assume
+
+1477
+01:12:28,830 --> 01:12:32,860
+这些函数虽然简单 但在这一点上是相当正确的 
+that these functions, albeit simple, are pretty correct at this point.
+
+1478
+01:12:32,860 --> 01:12:36,180
+但是现在 假设我想要使用这些函数 就好像我确实
+But now, suppose that I want to use these functions as though I've indeed
+
+1479
+01:12:36,180 --> 01:12:40,500
+创建了我自己的库 我自己的Python模块 这使得
+created my own library, my own Python module and that makes available
+
+1480
+01:12:40,500 --> 01:12:42,900
+Hello函数适用于我或任何其他想要使用
+a Hello function for me or anyone else who wants to use
+
+1481
+01:12:42,900 --> 01:12:44,940
+它或再见功能也是如此 
+it or a Goodbye function as well.
+
+1482
+01:12:44,940 --> 01:12:49,140
+好吧 让我继续 再次敞开心扉 比方说.py 但从头开始 
+Well, let me go ahead and open up again say.py but start fresh.
+
+1483
+01:12:49,140 --> 01:12:52,470
+与其让牛说什么 不如让我继续说
+And rather than have the cow say anything, let me go ahead
+
+1484
+01:12:52,470 --> 01:12:55,530
+让我自己的图书馆来说话 
+and have my own library do the talking.
+
+1485
+01:12:55,530 --> 01:12:58,830
+所以我要继续 像前面一样 导入sys以便我
+So I'm going to go ahead and as before, import sys so that I
+
+1486
+01:12:58,830 --> 01:13:00,720
+可以访问命令行参数 
+have access to command line arguments.
+
+1487
+01:13:00,720 --> 01:13:05,100
+从我自己的名为Sayings的模块中 我将导入Hello 
+And from my own module called sayings, I'm going to import Hello.
+
+1488
+01:13:05,100 --> 01:13:10,590
+因此 因为我创建了一个名为sayings.py的文件 所以我可以从Sayings中得出结论 
+So because I created a file called sayings.py, I can say from sayings.
+
+1489
+01:13:10,590 --> 01:13:13,212
+根据Python的推断 我的意思是Sayings.py 
+And it's inferred by Python that I mean sayings.py,
+
+1490
+01:13:13,212 --> 01:13:14,670
+至少在这个当前目录中 
+at least in this current directory.
+
+1491
+01:13:14,670 --> 01:13:17,420
+但我并不打算只导入其中一个函数
+But I specifically ain't going to import just one of the functions
+
+1492
+01:13:17,420 --> 01:13:19,050
+就目前而言 就是你好 
+for now, namely Hello.
+
+1493
+01:13:19,050 --> 01:13:20,760
+现在 我可以做这样的事情了 
+And now, I can do something like this.
+
+1494
+01:13:20,760 --> 01:13:24,540
+如果用户愿意为我提供两个命令行参数 
+If the user obliges by giving me two command line arguments, which
+
+1495
+01:13:24,540 --> 01:13:27,840
+我可以通过检查sys.argv的长度进行检查 
+I can check by just checking the length of sys.argv,
+
+1496
+01:13:27,840 --> 01:13:32,020
+然后 我将继续调用这个新的Hello函数传递
+I'm going to then go ahead and call this new Hello function passing
+
+1497
+01:13:32,020 --> 01:13:36,670
+作为它的输入 sys.argvbracket1 它应该是这个人的名字
+as its input, sys.argvbracket1, which should hopefully be the person's name
+
+1498
+01:13:36,670 --> 01:13:38,960
+我希望他们能在提示符下输入 
+which I'm going to expect them to type at the prompt.
+
+1499
+01:13:38,960 --> 01:13:39,778
+所以我们开始吧 
+So here we go.
+
+1500
+01:13:39,778 --> 01:13:41,570
+我要去我的终端窗口 
+I'm going to go down to my terminal window,
+
+1501
+01:13:41,570 --> 01:13:46,390
+运行Say.py和我自己的名字的Python 因为我希望我自己的名字以
+run Python of say.py and my own name because I want my own name to end up
+
+1502
+01:13:46,390 --> 01:13:49,270
+在命令行参数中 因此成为Hello的一部分
+in the command line arguments and therefore, be part of the Hello
+
+1503
+01:13:49,270 --> 01:13:52,630
+因此 当我稍后按回车键时 我应该会看到Hello 
+so when I hit Enter in just a moment, I should hopefully see Hello,
+
+1504
+01:13:52,630 --> 01:13:53,560
+逗号 大卫 
+comma, David.
+
+1505
+01:13:53,560 --> 01:13:55,780
+所以我们开始吧 进入 
+So here we go, Enter.
+
+1506
+01:13:55,780 --> 01:13:59,110
+呵呵 我看到了你好世界 再见世界 
+And huh, I see Hello world, Goodbye world.
+
+1507
+01:13:59,110 --> 01:14:01,510
+然后我看到了你好 大卫 
+And then I see Hello, David.
+
+1508
+01:14:01,510 --> 01:14:04,400
+那么 为什么会发生这种情况呢？
+So why is this happening?
+
+1509
+01:14:04,400 --> 01:14:06,580
+好吧 事实证明即使我已经做了所有的事情
+Well, it turns out even though I've done everything
+
+1510
+01:14:06,580 --> 01:14:10,750
+根据我们自己过去的实践 它并不是真正的
+according to our own past practice, it's not really
+
+1511
+01:14:10,750 --> 01:14:13,870
+毕竟 调用Main的方法是正确的 
+the right way to go about calling main after all.
+
+1512
+01:14:13,870 --> 01:14:17,050
+如果我盲目地调用文件底部的Main 
+If I'm blindly calling main here at the bottom of my file, that
+
+1513
+01:14:17,050 --> 01:14:20,620
+意味着每当该文件被Python加载时 main都将被调用 
+means whenever this file is loaded by Python, main is going to get called.
+
+1514
+01:14:20,620 --> 01:14:25,150
+不幸的是 这是真的 即使我正在导入这个文件或者只是
+And unfortunately, that's true even if I'm importing this file or just
+
+1515
+01:14:25,150 --> 01:14:29,050
+这个文件中的一个函数 因为我现在在我的say.py程序中 
+a function from this file as I am here in my say.py program.
+
+1516
+01:14:29,050 --> 01:14:32,440
+这是在这里的第三行 当我从谚语中说 
+This is to say on line three here, when I say from sayings,
+
+1517
+01:14:32,440 --> 01:14:34,990
+IMPORT Hello 这实际上是在告诉Python
+import Hello, this effectively tells Python
+
+1518
+01:14:34,990 --> 01:14:39,370
+要找到那个模块sayings.py 请从上到下、从左到右阅读它 
+to go find that module, sayings.py, read it from top to bottom, left to right,
+
+1519
+01:14:39,370 --> 01:14:41,990
+然后专门导入Hello函数 
+and then import specifically the Hello function.
+
+1520
+01:14:41,990 --> 01:14:44,800
+不幸的是 在Python从顶部读取文件时
+Unfortunately by the time Python has read the file from top
+
+1521
+01:14:44,800 --> 01:14:49,350
+在底部 从左到右 最后一行代码调用是调用Main 
+to bottom, left to right, that last line of code recall is to call main.
+
+1522
+01:14:49,350 --> 01:14:51,380
+无论如何 Main都会被调用 
+Main gets called no matter what.
+
+1523
+01:14:51,380 --> 01:14:55,690
+所以真的 使用main函数的正确方法是
+So really, the right way to go about using a main function, which
+
+1524
+01:14:55,690 --> 01:14:58,760
+确实解决了确保我们可以对我们的函数进行排序的问题
+does solve that problem of ensuring that we can order our functions
+
+1525
+01:14:58,760 --> 01:15:00,580
+任何我们想要的 所有的功能都将
+however we want, and all the functions will
+
+1526
+01:15:00,580 --> 01:15:03,040
+是在调用它们时定义的 即
+be defined at the time they're invoked, I
+
+1527
+01:15:03,040 --> 01:15:06,340
+不应该无条件地在这个事件的底部调用Main
+shouldn't be unconditionally calling main at the bottom of this
+
+1528
+01:15:06,340 --> 01:15:08,080
+或者实际上是我的任何程序 
+or really any of my programs.
+
+1529
+01:15:08,080 --> 01:15:09,970
+相反 我应该使用这种技术 
+I should instead use this technique.
+
+1530
+01:15:09,970 --> 01:15:22,660
+我应该说如果__NAME__==“__Main__” 那么也只有到那时 你才应该真正
+I should say if__name__=="__main__", then and only then should you actually
+
+1531
+01:15:22,660 --> 01:15:23,980
+呼叫Main 
+call main.
+
+1532
+01:15:23,980 --> 01:15:30,250
+好的 原来这个变量是Python中的一个特殊符号__NAME__ 
+Well, it turns out that this variable is a special symbol in Python, __name__.
+
+1533
+01:15:30,250 --> 01:15:32,290
+请注意 由于其字体 VS代码
+And notice that VS Code because of its font
+
+1534
+01:15:32,290 --> 01:15:34,210
+并没有显示出这两个下划线 
+isn't quite showing those two underscores.
+
+1535
+01:15:34,210 --> 01:15:36,335
+但他们确实在那里 在左边和右边 
+But they're indeed there to the left and the right.
+
+1536
+01:15:36,335 --> 01:15:40,330
+这是一个特殊变量 其值由Python自动设置为 
+This is a special variable whose value is automatically set by Python to be,
+
+1537
+01:15:40,330 --> 01:15:45,130
+当您从命令行运行文件时 引号 不引号 “main”
+quote, unquote, "main" when you run a file from the command line
+
+1538
+01:15:45,130 --> 01:15:48,130
+就像通过运行Sayings.py的Python一样 
+as by running Python of sayings.py.
+
+1539
+01:15:48,130 --> 01:15:52,780
+所以 现在看看sayings.py中的这个附加条件会发生什么 
+So watch what happens now with this additional conditional in sayings.py.
+
+1540
+01:15:52,780 --> 01:15:59,530
+如果我运行sayings.py的Python 它仍然像以前一样工作 因为名称将是
+If I run Python of sayings.py, it still works as before because name will be
+
+1541
+01:15:59,530 --> 01:16:07,900
+当我使用Sayings.py的Python运行此文件时 自动设置为__Main__ 
+automatically set to __main__ when I run this file using Python of sayings.py.
+
+1542
+01:16:07,900 --> 01:16:09,190
+但请注意这一点 
+But notice this.
+
+1543
+01:16:09,190 --> 01:16:12,197
+名称不会设置为 引用 不引用 “Main” 
+Name is not going to be set to, quote, unquote, "main."
+
+1544
+01:16:12,197 --> 01:16:15,280
+它将被设置为其他名称 从技术上讲是模块的名称
+It's going to be set to something else, technically the name of the module
+
+1545
+01:16:15,280 --> 01:16:19,250
+当我像这里一样导入文件时 
+when I instead import the file like I do here.
+
+1546
+01:16:19,250 --> 01:16:21,250
+所以这段突出显示的代码行即使它
+So this highlighted line of code even though it
+
+1547
+01:16:21,250 --> 01:16:25,010
+将导致Python查找sayings.py 从上到下阅读它 
+will cause Python to go find sayings.py, read it from top to bottom,
+
+1548
+01:16:25,010 --> 01:16:27,972
+从左到右 它这次将忽略对Main的调用
+left to right, it's going to ignore the call to main this time
+
+1549
+01:16:27,972 --> 01:16:29,680
+因为它包含在条件句中 
+because it's wrapped in that conditional.
+
+1550
+01:16:29,680 --> 01:16:33,940
+在这种情况下 当我导入文件而不是直接运行它时
+In this case, when I'm importing a file and not running it directly
+
+1551
+01:16:33,940 --> 01:16:36,520
+在命令行中 不会调用main
+at the command line, main will not get called
+
+1552
+01:16:36,520 --> 01:16:38,900
+根据该Names值的定义 
+by definition of that names value.
+
+1553
+01:16:38,900 --> 01:16:40,360
+所以 让我继续试一试 
+So let me go ahead and try this.
+
+1554
+01:16:40,360 --> 01:16:42,880
+而不是运行sayings.py的Python 它
+Instead of running Python of sayings.py, which
+
+1555
+01:16:42,880 --> 01:16:45,610
+是包含该条件Main的模块 
+is the module, which contains that conditional main,
+
+1556
+01:16:45,610 --> 01:16:49,000
+让我在这里继续 运行Say.py的Python 
+let me go ahead here, run Python of say.py,
+
+1557
+01:16:49,000 --> 01:16:54,312
+这就是我面前的程序 它从Sayings中导入Hello 
+which is the program here before me that imports Hello from sayings.
+
+1558
+01:16:54,312 --> 01:16:56,020
+但由于这一条件 它不是
+But because of that conditional, it's not
+
+1559
+01:16:56,020 --> 01:17:00,940
+在这种情况下 我要向除我以外的任何人打招呼 
+going to say Hello to anyone else except me in this case.
+
+1560
+01:17:00,940 --> 01:17:02,980
+好了 我们这周末就到了 
+All right, we're here at the end of our week.
+
+1561
+01:17:02,980 --> 01:17:06,040
+我认为 导入除Hello之外的其他内容才是合适的 
+It's only appropriate, I think, to import something other than Hello.
+
+1562
+01:17:06,040 --> 01:17:09,490
+为什么我不继续 输入的不是Hello 而是从这里开始的再见 
+Why don't I go ahead and import not Hello, but Goodbye from here.
+
+1563
+01:17:09,490 --> 01:17:12,700
+让我继续说再见 而不是哈罗 
+Let me go ahead and call Goodbye instead of Hello.
+
+1564
+01:17:12,700 --> 01:17:15,010
+这一次 当我运行Say.py的Python时 
+And this time when I run Python of say.py,
+
+1565
+01:17:15,010 --> 01:17:16,450
+我不会打出我自己的名字 
+I'm not going to type my own name.
+
+1566
+01:17:16,450 --> 01:17:18,830
+请允许我在全世界范围内打字
+Allow me if I may to type in the whole world
+
+1567
+01:17:18,830 --> 01:17:22,480
+所以我们今天的最后一句话是再见世界 
+so that our final sentiment today is Goodbye world.
+
+1568
+01:17:22,480 --> 01:17:23,930
+事实上 本周的情况就是这样 
+Indeed, that's it for this week.
+
+1569
+01:17:23,930 --> 01:17:26,580
+我们下次再见 
+We will see you next time.
+

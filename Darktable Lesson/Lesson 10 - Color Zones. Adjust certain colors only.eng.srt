@@ -1,0 +1,780 @@
+1
+00:00:02,300 --> 00:00:04,950
+welcome to another darktable tutorial in
+
+2
+00:00:04,950 --> 00:00:06,509
+this video we'll be doing the color
+
+3
+00:00:06,509 --> 00:00:08,669
+zones module and learning how to use it
+
+4
+00:00:08,669 --> 00:00:10,740
+color zones you can find it down here
+
+5
+00:00:10,740 --> 00:00:12,389
+under more modules this is an
+
+6
+00:00:12,389 --> 00:00:14,579
+alphabetical order just go down to color
+
+7
+00:00:14,579 --> 00:00:16,529
+zones and then we'll just click it and
+
+8
+00:00:16,529 --> 00:00:18,449
+make sure that appears and that's how we
+
+9
+00:00:18,449 --> 00:00:21,089
+got this effect here so what we did we
+
+10
+00:00:21,089 --> 00:00:24,119
+took our original image or our base
+
+11
+00:00:24,119 --> 00:00:26,009
+image and then we just adjusted the
+
+12
+00:00:26,009 --> 00:00:27,390
+color so we've got some more pink and
+
+13
+00:00:27,390 --> 00:00:29,369
+purple instead of what the original was
+
+14
+00:00:29,369 --> 00:00:30,960
+with like this red paint you can
+
+15
+00:00:30,960 --> 00:00:33,720
+download this image from we saturate on
+
+16
+00:00:33,720 --> 00:00:34,770
+through the link in the description this
+
+17
+00:00:34,770 --> 00:00:35,690
+video if you want to follow along
+
+18
+00:00:35,690 --> 00:00:38,070
+there's a really good image for using
+
+19
+00:00:38,070 --> 00:00:40,440
+this tool so the color zones when we
+
+20
+00:00:40,440 --> 00:00:42,060
+select it we have some different options
+
+21
+00:00:42,060 --> 00:00:44,190
+we have it shows us a bunch of little
+
+22
+00:00:44,190 --> 00:00:46,440
+colored boxes and when we hover our
+
+23
+00:00:46,440 --> 00:00:48,720
+mouse over it does this sort of weird
+
+24
+00:00:48,720 --> 00:00:52,200
+squiggly type thing we can adjust the
+
+25
+00:00:52,200 --> 00:00:54,000
+size and the influence of it with our
+
+26
+00:00:54,000 --> 00:00:57,650
+scroll wheel and then we have lightness
+
+27
+00:00:57,650 --> 00:00:59,880
+saturation and the chart kind of changes
+
+28
+00:00:59,880 --> 00:01:02,430
+for saturation and we have hue and the
+
+29
+00:01:02,430 --> 00:01:04,140
+chart will change for that as well well
+
+30
+00:01:04,140 --> 00:01:05,910
+the what I did for to create that look
+
+31
+00:01:05,910 --> 00:01:08,610
+let's just go back and go to compress
+
+32
+00:01:08,610 --> 00:01:10,560
+history stack so this is kind of back to
+
+33
+00:01:10,560 --> 00:01:13,650
+the base now what I first did I went to
+
+34
+00:01:13,650 --> 00:01:17,370
+hue and we selected by hue well actually
+
+35
+00:01:17,370 --> 00:01:18,360
+let's start with the beginning
+
+36
+00:01:18,360 --> 00:01:20,760
+lightness so we can select certain
+
+37
+00:01:20,760 --> 00:01:23,940
+colors certain pixel color groups within
+
+38
+00:01:23,940 --> 00:01:26,520
+this image and adjust the lightness of
+
+39
+00:01:26,520 --> 00:01:29,040
+just those colors so to do this we can
+
+40
+00:01:29,040 --> 00:01:30,360
+need to look on the chart and
+
+41
+00:01:30,360 --> 00:01:32,550
+approximate with our eye or we can click
+
+42
+00:01:32,550 --> 00:01:34,620
+and get the color picker here and we can
+
+43
+00:01:34,620 --> 00:01:36,720
+drag this around to a certain point so
+
+44
+00:01:36,720 --> 00:01:39,330
+if we drag it to these yellows it draws
+
+45
+00:01:39,330 --> 00:01:42,060
+a an indicator to see that there's like
+
+46
+00:01:42,060 --> 00:01:44,190
+a black line now that wasn't there
+
+47
+00:01:44,190 --> 00:01:44,610
+before
+
+48
+00:01:44,610 --> 00:01:46,350
+in right in the middle of these yellows
+
+49
+00:01:46,350 --> 00:01:49,890
+and so that shows us where that kind of
+
+50
+00:01:49,890 --> 00:01:53,100
+falls the zone that these colors are in
+
+51
+00:01:53,100 --> 00:01:55,500
+and then we can just left click on these
+
+52
+00:01:55,500 --> 00:01:58,590
+and we can increase the lightness or the
+
+53
+00:01:58,590 --> 00:02:03,869
+darkness of just those colors let's zoom
+
+54
+00:02:03,869 --> 00:02:05,580
+out I'm hitting the control wheel on my
+
+55
+00:02:05,580 --> 00:02:08,758
+mouse the scroll wheel so if we adjust
+
+56
+00:02:08,758 --> 00:02:10,919
+that we see where it's changing just the
+
+57
+00:02:10,919 --> 00:02:12,810
+darkness of that yellow but it's keeping
+
+58
+00:02:12,810 --> 00:02:13,840
+it the same
+
+59
+00:02:13,840 --> 00:02:16,420
+Hieu if we double-click it'll reset to
+
+60
+00:02:16,420 --> 00:02:18,459
+zero we can also adjust the saturation
+
+61
+00:02:18,459 --> 00:02:20,769
+so our mark is still there that black
+
+62
+00:02:20,769 --> 00:02:23,050
+line is still there we can give it less
+
+63
+00:02:23,050 --> 00:02:25,150
+if we go down it's less saturation all
+
+64
+00:02:25,150 --> 00:02:27,519
+the way to pretty close we can go to
+
+65
+00:02:27,519 --> 00:02:29,379
+black and white I think or we can give
+
+66
+00:02:29,379 --> 00:02:31,510
+it more saturation all the way up to
+
+67
+00:02:31,510 --> 00:02:34,510
+really kind of unrealistic looking
+
+68
+00:02:34,510 --> 00:02:37,090
+unnatural looking double-click brings
+
+69
+00:02:37,090 --> 00:02:39,370
+that back into normal and the hue is
+
+70
+00:02:39,370 --> 00:02:41,440
+kind of the fun one so the hue is what
+
+71
+00:02:41,440 --> 00:02:43,450
+lets us take it where it's at right now
+
+72
+00:02:43,450 --> 00:02:45,610
+is sort of this yellowish greenish color
+
+73
+00:02:45,610 --> 00:02:47,920
+and if we move it up we can move it into
+
+74
+00:02:47,920 --> 00:02:51,579
+a more green or more blue I'm getting my
+
+75
+00:02:51,579 --> 00:02:52,660
+mouse out of the way because it has this
+
+76
+00:02:52,660 --> 00:02:54,640
+yellow thing around it so you can't see
+
+77
+00:02:54,640 --> 00:02:57,040
+very well with it but if we drag it down
+
+78
+00:02:57,040 --> 00:03:00,160
+it'll go into the blues or purpley we
+
+79
+00:03:00,160 --> 00:03:03,129
+get really down into those blues and if
+
+80
+00:03:03,129 --> 00:03:05,079
+we bring it up we can get it into also
+
+81
+00:03:05,079 --> 00:03:07,629
+well blues it's sort of it sort of loops
+
+82
+00:03:07,629 --> 00:03:09,010
+over again so once you get to the very
+
+83
+00:03:09,010 --> 00:03:11,319
+top it loops over back to the bottom but
+
+84
+00:03:11,319 --> 00:03:13,269
+we can get some greens in there so we
+
+85
+00:03:13,269 --> 00:03:14,799
+can keep those greens you see it looks a
+
+86
+00:03:14,799 --> 00:03:17,709
+little bit maybe not so realistic so we
+
+87
+00:03:17,709 --> 00:03:20,920
+can take down the saturation now so we
+
+88
+00:03:20,920 --> 00:03:22,150
+can bring down the saturation a little
+
+89
+00:03:22,150 --> 00:03:24,430
+bit or bring down the lightness a little
+
+90
+00:03:24,430 --> 00:03:27,280
+bit of those so that looks more like
+
+91
+00:03:27,280 --> 00:03:29,349
+kind of more like paint and then we can
+
+92
+00:03:29,349 --> 00:03:30,700
+do the same thing we can create another
+
+93
+00:03:30,700 --> 00:03:32,200
+instance of this this is something we
+
+94
+00:03:32,200 --> 00:03:33,280
+haven't really learned yet I don't think
+
+95
+00:03:33,280 --> 00:03:35,590
+if we click this icon here and go to new
+
+96
+00:03:35,590 --> 00:03:38,470
+instance now we have a color zones one
+
+97
+00:03:38,470 --> 00:03:40,420
+so we have color zones
+
+98
+00:03:40,420 --> 00:03:43,630
+where to go we have covers owns that we
+
+99
+00:03:43,630 --> 00:03:46,030
+just did then we have color zones one so
+
+100
+00:03:46,030 --> 00:03:47,590
+under cover zones one we can do the same
+
+101
+00:03:47,590 --> 00:03:50,590
+thing to this other side we select sort
+
+102
+00:03:50,590 --> 00:03:53,109
+of the colors that those are at and then
+
+103
+00:03:53,109 --> 00:03:54,760
+we can do the same thing change the hue
+
+104
+00:03:54,760 --> 00:03:57,489
+of just those colors and so we can make
+
+105
+00:03:57,489 --> 00:03:59,319
+those from sort of more purple like and
+
+106
+00:03:59,319 --> 00:04:02,709
+change the saturation of those and the
+
+107
+00:04:02,709 --> 00:04:04,329
+lightness of those as well if we want to
+
+108
+00:04:04,329 --> 00:04:07,060
+darker or lighter you will go darker on
+
+109
+00:04:07,060 --> 00:04:09,849
+that so we've really kind of made we've
+
+110
+00:04:09,849 --> 00:04:10,900
+changed the way this looks without
+
+111
+00:04:10,900 --> 00:04:12,819
+affecting the whites that's kind of the
+
+112
+00:04:12,819 --> 00:04:13,930
+problem a lot of times when you're
+
+113
+00:04:13,930 --> 00:04:15,489
+trying to change the color of something
+
+114
+00:04:15,489 --> 00:04:19,630
+you might go to grab this even my color
+
+115
+00:04:19,630 --> 00:04:21,579
+balance is gonna adjust the colors of
+
+116
+00:04:21,579 --> 00:04:23,590
+the back of everything so the whites
+
+117
+00:04:23,590 --> 00:04:25,460
+gets kind of thrown off a little bit
+
+118
+00:04:25,460 --> 00:04:28,310
+color correction here is one that's a
+
+119
+00:04:28,310 --> 00:04:30,560
+really good thing but it it's good when
+
+120
+00:04:30,560 --> 00:04:32,030
+you don't have a lot of whites for when
+
+121
+00:04:32,030 --> 00:04:34,430
+you're okay adjusting your white balance
+
+122
+00:04:34,430 --> 00:04:36,650
+because it changes the way your whites
+
+123
+00:04:36,650 --> 00:04:39,410
+look well the way we've done it we were
+
+124
+00:04:39,410 --> 00:04:41,210
+able to adjust these colors using the
+
+125
+00:04:41,210 --> 00:04:43,850
+color zones without affecting any other
+
+126
+00:04:43,850 --> 00:04:45,770
+colors let's look at one more example
+
+127
+00:04:45,770 --> 00:04:47,600
+since this is a super fun and super
+
+128
+00:04:47,600 --> 00:04:49,669
+powerful tool here's a car that looks
+
+129
+00:04:49,669 --> 00:04:51,620
+pretty cool but we see I've adjusted a
+
+130
+00:04:51,620 --> 00:04:53,300
+little bit in the background there this
+
+131
+00:04:53,300 --> 00:04:54,830
+is what the original looked like so it
+
+132
+00:04:54,830 --> 00:04:57,979
+was a blue car and then after the using
+
+133
+00:04:57,979 --> 00:05:00,530
+well I use color zones and zones on it
+
+134
+00:05:00,530 --> 00:05:03,910
+to give us some more kind of contrast
+
+135
+00:05:03,910 --> 00:05:06,110
+but so we can just go down to just that
+
+136
+00:05:06,110 --> 00:05:08,180
+base curve again compress history stack
+
+137
+00:05:08,180 --> 00:05:10,639
+and we'll grab not color correction
+
+138
+00:05:10,639 --> 00:05:12,080
+because color correction we know what
+
+139
+00:05:12,080 --> 00:05:14,419
+that does is make it look it adjusts
+
+140
+00:05:14,419 --> 00:05:16,280
+everything so we don't do color
+
+141
+00:05:16,280 --> 00:05:19,850
+correction we do color zones and the
+
+142
+00:05:19,850 --> 00:05:21,530
+color is own we just find those blues we
+
+143
+00:05:21,530 --> 00:05:23,030
+can even just click in here and just
+
+144
+00:05:23,030 --> 00:05:24,620
+eyeball it without having to get the
+
+145
+00:05:24,620 --> 00:05:26,600
+color picker and we can make them make
+
+146
+00:05:26,600 --> 00:05:28,910
+it a lighter blue color we can go to the
+
+147
+00:05:28,910 --> 00:05:31,160
+hue and make it a different color
+
+148
+00:05:31,160 --> 00:05:33,860
+altogether we can make it more green we
+
+149
+00:05:33,860 --> 00:05:35,389
+can kind of bring that over and make it
+
+150
+00:05:35,389 --> 00:05:38,270
+more of a purple and without affecting
+
+151
+00:05:38,270 --> 00:05:39,919
+the brick and the rest of the building
+
+152
+00:05:39,919 --> 00:05:42,650
+so really really cool stuff that we can
+
+153
+00:05:42,650 --> 00:05:44,150
+do here and we didn't have to do any
+
+154
+00:05:44,150 --> 00:05:48,260
+masking at all to achieve this look so
+
+155
+00:05:48,260 --> 00:05:49,310
+it's really cool and we could do the
+
+156
+00:05:49,310 --> 00:05:50,720
+same thing with the bricks if we want to
+
+157
+00:05:50,720 --> 00:05:52,789
+do we could grab the color picker select
+
+158
+00:05:52,789 --> 00:05:55,460
+the bricks the bricks are over here so
+
+159
+00:05:55,460 --> 00:05:56,570
+we could change the color of the
+
+160
+00:05:56,570 --> 00:05:57,080
+building
+
+161
+00:05:57,080 --> 00:06:00,020
+give it more you know have it look a
+
+162
+00:06:00,020 --> 00:06:02,240
+little different color as well or we
+
+163
+00:06:02,240 --> 00:06:03,800
+could leave it the same color and change
+
+164
+00:06:03,800 --> 00:06:05,870
+the the darkness of it make it really a
+
+165
+00:06:05,870 --> 00:06:08,260
+darker building or make it look lighter
+
+166
+00:06:08,260 --> 00:06:10,130
+but one more thing I wanted to mention
+
+167
+00:06:10,130 --> 00:06:12,229
+about this these zones do have these
+
+168
+00:06:12,229 --> 00:06:14,210
+little triangles here at the bottom so
+
+169
+00:06:14,210 --> 00:06:15,919
+if we want to let's bring that back kind
+
+170
+00:06:15,919 --> 00:06:17,840
+of how it was this one with the car if
+
+171
+00:06:17,840 --> 00:06:20,720
+we find that zone that that's in we can
+
+172
+00:06:20,720 --> 00:06:23,389
+adjust these triangles and get a little
+
+173
+00:06:23,389 --> 00:06:24,979
+bit more accurate kind of makes this
+
+174
+00:06:24,979 --> 00:06:27,919
+more sharp and more pronounced so see
+
+175
+00:06:27,919 --> 00:06:29,510
+what that's doing as we click these
+
+176
+00:06:29,510 --> 00:06:31,960
+triangles it sort of makes that
+
+177
+00:06:31,960 --> 00:06:34,340
+selection area a little bit different
+
+178
+00:06:34,340 --> 00:06:36,710
+but these triangles correspond with node
+
+179
+00:06:36,710 --> 00:06:38,870
+with these circles the triangles
+
+180
+00:06:38,870 --> 00:06:41,090
+one with these circle nodes so if ever
+
+181
+00:06:41,090 --> 00:06:42,650
+there's a like if we want to select in
+
+182
+00:06:42,650 --> 00:06:44,630
+between these two there's a circle here
+
+183
+00:06:44,630 --> 00:06:46,190
+and a circle here if you want to select
+
+184
+00:06:46,190 --> 00:06:48,260
+in between the two bring one of these
+
+185
+00:06:48,260 --> 00:06:52,250
+over to that point and that's that
+
+186
+00:06:52,250 --> 00:06:54,320
+I think this world will do it now in the
+
+187
+00:06:54,320 --> 00:06:55,820
+there's another module called just
+
+188
+00:06:55,820 --> 00:06:59,060
+what's it called zones any but let's
+
+189
+00:06:59,060 --> 00:07:01,580
+find that zone system so the zone system
+
+190
+00:07:01,580 --> 00:07:04,220
+you can have some control over this too
+
+191
+00:07:04,220 --> 00:07:06,080
+but just without colors anyway I just
+
+192
+00:07:06,080 --> 00:07:07,370
+want to throw it out there appreciate
+
+193
+00:07:07,370 --> 00:07:08,870
+you guys watching leave your questions
+
+194
+00:07:08,870 --> 00:07:10,190
+and comments below if you have any and
+
+195
+00:07:10,190 --> 00:07:13,420
+I'll catch you in the next video
+

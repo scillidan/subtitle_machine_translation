@@ -1,0 +1,592 @@
+1
+00:00:02,930 --> 00:00:05,130
+welcome back to another video editing
+
+2
+00:00:05,130 --> 00:00:06,450
+tutorial using the free software
+
+3
+00:00:06,450 --> 00:00:09,179
+kdenlive in this video we're going to be
+
+4
+00:00:09,179 --> 00:00:12,419
+blurring out or obscuring a certain part
+
+5
+00:00:12,419 --> 00:00:14,129
+of a video if we're worried about
+
+6
+00:00:14,129 --> 00:00:16,139
+privacy you're protecting someone's
+
+7
+00:00:16,139 --> 00:00:19,410
+identity or some things identity so to
+
+8
+00:00:19,410 --> 00:00:20,759
+get started I'm gonna drag in a video
+
+9
+00:00:20,759 --> 00:00:24,150
+actually let's download okay I'm going
+
+10
+00:00:24,150 --> 00:00:25,980
+to my downloads folder and I'm gonna
+
+11
+00:00:25,980 --> 00:00:29,429
+bring in this video of a Mercedes
+
+12
+00:00:29,429 --> 00:00:31,949
+driving so this is a good example
+
+13
+00:00:31,949 --> 00:00:35,040
+because I'm gonna left click and drag it
+
+14
+00:00:35,040 --> 00:00:37,230
+down into my video project actually no I
+
+15
+00:00:37,230 --> 00:00:39,270
+could do that but look if I do this we
+
+16
+00:00:39,270 --> 00:00:42,180
+see this Clips about 30 seconds long so
+
+17
+00:00:42,180 --> 00:00:44,010
+I could shrink it down a couple ways I
+
+18
+00:00:44,010 --> 00:00:45,510
+can left-click here and just shrink it
+
+19
+00:00:45,510 --> 00:00:47,310
+down to the time I want so it's really
+
+20
+00:00:47,310 --> 00:00:50,400
+short or I can hit ctrl Z we learned we
+
+21
+00:00:50,400 --> 00:00:52,050
+can grab the razor tool and we can cut
+
+22
+00:00:52,050 --> 00:00:53,970
+this video to the length we want and
+
+23
+00:00:53,970 --> 00:00:56,520
+then just delete the other portion by
+
+24
+00:00:56,520 --> 00:00:57,570
+hitting the Delete key while it's
+
+25
+00:00:57,570 --> 00:01:01,110
+selected or I can control Z ctrl Z and
+
+26
+00:01:01,110 --> 00:01:02,610
+just delete this whole thing another way
+
+27
+00:01:02,610 --> 00:01:03,750
+I want to show you that you can bring
+
+28
+00:01:03,750 --> 00:01:05,220
+Clips in is by going to your clip
+
+29
+00:01:05,220 --> 00:01:07,680
+monitor and hitting play and then we can
+
+30
+00:01:07,680 --> 00:01:09,150
+use these things if you hover over it
+
+31
+00:01:09,150 --> 00:01:13,440
+says set zone in and set zone out so
+
+32
+00:01:13,440 --> 00:01:15,420
+what we can do where this playhead is if
+
+33
+00:01:15,420 --> 00:01:18,240
+I hit set zone in it creates a blue line
+
+34
+00:01:18,240 --> 00:01:22,530
+if I do zone out it creates a blue line
+
+35
+00:01:22,530 --> 00:01:25,350
+there and now we have we've selected a
+
+36
+00:01:25,350 --> 00:01:27,210
+zone here and if I left click and drag
+
+37
+00:01:27,210 --> 00:01:29,790
+this part of the clip it'll bring in
+
+38
+00:01:29,790 --> 00:01:32,370
+just that portion whereas if I grab this
+
+39
+00:01:32,370 --> 00:01:33,750
+whole thing up here it brings in this
+
+40
+00:01:33,750 --> 00:01:36,870
+whole long video so just this portion
+
+41
+00:01:36,870 --> 00:01:40,080
+now is just the portion that we did so
+
+42
+00:01:40,080 --> 00:01:42,180
+it's just a certain portion it's
+
+43
+00:01:42,180 --> 00:01:44,909
+wherever we press the the it is in and
+
+44
+00:01:44,909 --> 00:01:48,180
+out of when we were watching the clip so
+
+45
+00:01:48,180 --> 00:01:49,560
+what I'm gonna do I'm gonna go back here
+
+46
+00:01:49,560 --> 00:01:51,180
+to the clip monitor we're gonna go back
+
+47
+00:01:51,180 --> 00:01:53,610
+to the very beginning I'm gonna play and
+
+48
+00:01:53,610 --> 00:01:55,620
+this time I want in fact what I want to
+
+49
+00:01:55,620 --> 00:01:57,270
+do I want to go to the very beginning
+
+50
+00:01:57,270 --> 00:01:58,920
+and set the end point at the very
+
+51
+00:01:58,920 --> 00:02:01,080
+beginning and I want to click forward
+
+52
+00:02:01,080 --> 00:02:02,909
+here a little bit till this until it
+
+53
+00:02:02,909 --> 00:02:05,010
+changes to the next scene and I want to
+
+54
+00:02:05,010 --> 00:02:06,600
+have that be the out point so right here
+
+55
+00:02:06,600 --> 00:02:08,519
+this would be the out point then I'll
+
+56
+00:02:08,519 --> 00:02:12,090
+drag the video in on my video track 1
+
+57
+00:02:12,090 --> 00:02:14,069
+and I'll just zoom in
+
+58
+00:02:14,069 --> 00:02:15,510
+on the timeline so we can see it better
+
+59
+00:02:15,510 --> 00:02:17,640
+so it's just going to be a very quick
+
+60
+00:02:17,640 --> 00:02:20,790
+little video clip of a car driving
+
+61
+00:02:20,790 --> 00:02:24,420
+forward what I want to do let's obscure
+
+62
+00:02:24,420 --> 00:02:26,939
+this license plate maybe so it says C
+
+63
+00:02:26,939 --> 00:02:28,739
+Class right now but maybe it actually
+
+64
+00:02:28,739 --> 00:02:30,750
+really says the license plate number and
+
+65
+00:02:30,750 --> 00:02:32,670
+we want to show this video but we don't
+
+66
+00:02:32,670 --> 00:02:34,260
+want to so I want to give away the
+
+67
+00:02:34,260 --> 00:02:35,939
+privacy of like whoo you know I'm gonna
+
+68
+00:02:35,939 --> 00:02:37,680
+keep keep private who owns this vehicle
+
+69
+00:02:37,680 --> 00:02:38,959
+and what their license plate number is
+
+70
+00:02:38,959 --> 00:02:42,840
+so to do that we need to apply mmm
+
+71
+00:02:42,840 --> 00:02:44,250
+where's this thing even at it's under
+
+72
+00:02:44,250 --> 00:02:49,829
+distort no we want to do a what's it
+
+73
+00:02:49,829 --> 00:02:56,459
+called I kind of think of this guys I
+
+74
+00:02:56,459 --> 00:02:58,560
+said it in the introduction I said what
+
+75
+00:02:58,560 --> 00:03:01,109
+it was obscure yeah so we want to go
+
+76
+00:03:01,109 --> 00:03:02,970
+obscure oh it's under blurring hide okay
+
+77
+00:03:02,970 --> 00:03:05,579
+so under blurring hide we bring that
+
+78
+00:03:05,579 --> 00:03:06,989
+drop down and we have a couple different
+
+79
+00:03:06,989 --> 00:03:09,510
+things we can do we can apply blur if we
+
+80
+00:03:09,510 --> 00:03:12,209
+do blur just blurs the whole thing so we
+
+81
+00:03:12,209 --> 00:03:14,970
+can just blur like the whole video yeah
+
+82
+00:03:14,970 --> 00:03:16,680
+that would work they wouldn't be able to
+
+83
+00:03:16,680 --> 00:03:19,440
+read the license plate but then now so
+
+84
+00:03:19,440 --> 00:03:22,109
+we wanted we could do box blur I think
+
+85
+00:03:22,109 --> 00:03:24,150
+box blur gives us a box
+
+86
+00:03:24,150 --> 00:03:26,010
+oh no box blur is just a different type
+
+87
+00:03:26,010 --> 00:03:28,470
+of blur nevermind what we want to
+
+88
+00:03:28,470 --> 00:03:31,079
+actually do is go down to obscure and
+
+89
+00:03:31,079 --> 00:03:33,930
+left-click and drag that in so that
+
+90
+00:03:33,930 --> 00:03:35,970
+creates a box that it obscures just the
+
+91
+00:03:35,970 --> 00:03:38,669
+area where that is apt so we can move it
+
+92
+00:03:38,669 --> 00:03:41,790
+around to just that license plate and we
+
+93
+00:03:41,790 --> 00:03:43,799
+can actually resize it although this is
+
+94
+00:03:43,799 --> 00:03:46,229
+a video so it's moving and just because
+
+95
+00:03:46,229 --> 00:03:47,849
+we're setting it over the license plate
+
+96
+00:03:47,849 --> 00:03:51,479
+it's not gonna be tracked to it so what
+
+97
+00:03:51,479 --> 00:03:53,609
+I mean is if the video if later on the
+
+98
+00:03:53,609 --> 00:03:55,440
+car moves its location like it's doing
+
+99
+00:03:55,440 --> 00:03:56,939
+so you know we can see the size of the
+
+100
+00:03:56,939 --> 00:03:58,889
+license plate but we can't really read
+
+101
+00:03:58,889 --> 00:04:00,419
+it so we could just go to that we can go
+
+102
+00:04:00,419 --> 00:04:02,819
+forward and see what that looks like so
+
+103
+00:04:02,819 --> 00:04:04,079
+it looks pretty good there but by the
+
+104
+00:04:04,079 --> 00:04:05,250
+time it gets here it looks like it's
+
+105
+00:04:05,250 --> 00:04:07,530
+covering up the emblem a little bit so
+
+106
+00:04:07,530 --> 00:04:08,909
+we can just go back here and we can move
+
+107
+00:04:08,909 --> 00:04:12,479
+it down a little bit like this maybe and
+
+108
+00:04:12,479 --> 00:04:14,790
+maybe make it bigger just we'll put it
+
+109
+00:04:14,790 --> 00:04:17,070
+into a place where it's not looking to
+
+110
+00:04:17,070 --> 00:04:19,320
+where it's kind of a happy medium where
+
+111
+00:04:19,320 --> 00:04:20,608
+it's still gonna blur out the license
+
+112
+00:04:20,608 --> 00:04:22,260
+plate but not going to cut into that
+
+113
+00:04:22,260 --> 00:04:25,800
+emblem too much yeah that's probably
+
+114
+00:04:25,800 --> 00:04:27,659
+good so let's watch and see what this
+
+115
+00:04:27,659 --> 00:04:28,169
+looks like
+
+116
+00:04:28,169 --> 00:04:32,039
+play awesome so it's driving and that's
+
+117
+00:04:32,039 --> 00:04:34,499
+that box is just there it'd be cooler if
+
+118
+00:04:34,499 --> 00:04:36,120
+it was tracking to it maybe I'll make a
+
+119
+00:04:36,120 --> 00:04:37,919
+tell you the truth I haven't learned how
+
+120
+00:04:37,919 --> 00:04:40,949
+to do that in kdenlive yet so I'm
+
+121
+00:04:40,949 --> 00:04:42,300
+actually I think I did it several years
+
+122
+00:04:42,300 --> 00:04:44,279
+ago but I'll try and make a video
+
+123
+00:04:44,279 --> 00:04:46,020
+showing how to because we can track this
+
+124
+00:04:46,020 --> 00:04:48,300
+so that it moves along with a certain
+
+125
+00:04:48,300 --> 00:04:50,279
+portion of the video but yeah that's
+
+126
+00:04:50,279 --> 00:04:51,840
+basically it how to obscure if we want
+
+127
+00:04:51,840 --> 00:04:53,460
+to obscure out something else like this
+
+128
+00:04:53,460 --> 00:04:55,889
+like there's a person standing over here
+
+129
+00:04:55,889 --> 00:04:58,169
+we can resize this we can change right
+
+130
+00:04:58,169 --> 00:04:59,219
+now the width and the height they're
+
+131
+00:04:59,219 --> 00:05:01,650
+locked if we click here we can unlock
+
+132
+00:05:01,650 --> 00:05:04,199
+and have just the width be so we can
+
+133
+00:05:04,199 --> 00:05:05,819
+create this so this box is more like a
+
+134
+00:05:05,819 --> 00:05:08,460
+person shape and then we can change the
+
+135
+00:05:08,460 --> 00:05:09,840
+location of it to by just coming to the
+
+136
+00:05:09,840 --> 00:05:12,120
+scroll wheel and scrolling over if we
+
+137
+00:05:12,120 --> 00:05:13,650
+didn't want to move it around that way
+
+138
+00:05:13,650 --> 00:05:18,569
+and then yeah and then size 2 we can
+
+139
+00:05:18,569 --> 00:05:22,650
+change the size that way as well yeah
+
+140
+00:05:22,650 --> 00:05:23,909
+thanks for watching this video it's just
+
+141
+00:05:23,909 --> 00:05:25,289
+a quick one that's how you obscure
+
+142
+00:05:25,289 --> 00:05:29,249
+pretty simple in kdenlive and go ahead
+
+143
+00:05:29,249 --> 00:05:31,740
+and like comment subscribe ask me ask
+
+144
+00:05:31,740 --> 00:05:33,870
+some about some videos below if there's
+
+145
+00:05:33,870 --> 00:05:35,430
+a certain type of video you want me to
+
+146
+00:05:35,430 --> 00:05:37,589
+make go ahead and suggest that below and
+
+147
+00:05:37,589 --> 00:05:39,270
+I can see if I can make something like
+
+148
+00:05:39,270 --> 00:05:43,580
+that thanks for watching
+

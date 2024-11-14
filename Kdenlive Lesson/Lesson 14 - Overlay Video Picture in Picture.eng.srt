@@ -1,0 +1,620 @@
+1
+00:00:03,200 --> 00:00:05,460
+welcome back to another video editing
+
+2
+00:00:05,460 --> 00:00:06,930
+tutorial using the free software
+
+3
+00:00:06,930 --> 00:00:09,929
+kdenlive in this video we're going to be
+
+4
+00:00:09,929 --> 00:00:11,849
+creating a picture-in-picture effect
+
+5
+00:00:11,849 --> 00:00:14,369
+where we'll have a main video playing
+
+6
+00:00:14,369 --> 00:00:16,529
+and then we'll overlay another smaller
+
+7
+00:00:16,529 --> 00:00:19,619
+video overtop of that so you can follow
+
+8
+00:00:19,619 --> 00:00:21,179
+along I'm just going to download from
+
+9
+00:00:21,179 --> 00:00:24,240
+pixabay.com I'm gonna change my search
+
+10
+00:00:24,240 --> 00:00:28,589
+to video and I'll just search jungle and
+
+11
+00:00:28,589 --> 00:00:29,699
+there's a few videos I'm just going to
+
+12
+00:00:29,699 --> 00:00:32,189
+download to use this first ones a video
+
+13
+00:00:32,189 --> 00:00:35,220
+of a parent and so I'll just click free
+
+14
+00:00:35,220 --> 00:00:37,650
+download and we'll download up to the
+
+15
+00:00:37,650 --> 00:00:39,780
+720 so it downloads faster and renders
+
+16
+00:00:39,780 --> 00:00:43,550
+faster so I'm down only this 1280 by 720
+
+17
+00:00:43,550 --> 00:00:47,550
+it is Creative Commons 0 it's by SEF
+
+18
+00:00:47,550 --> 00:00:51,450
+alone are so appreciate this oh it has
+
+19
+00:00:51,450 --> 00:00:55,050
+audio too cool and I'm gonna go back so
+
+20
+00:00:55,050 --> 00:00:56,580
+we appreciate Cephalonia for uploading
+
+21
+00:00:56,580 --> 00:00:58,050
+this and then I'm gonna download this
+
+22
+00:00:58,050 --> 00:01:01,290
+one here that's a like a beach seascape
+
+23
+00:01:01,290 --> 00:01:04,379
+buy cover free footage and it's also
+
+24
+00:01:04,379 --> 00:01:06,510
+Creative Commons 0 so we'll go ahead and
+
+25
+00:01:06,510 --> 00:01:08,520
+click free download down over the 720
+
+26
+00:01:08,520 --> 00:01:12,270
+version and and we have these two video
+
+27
+00:01:12,270 --> 00:01:14,520
+files so I'm gonna pause this will
+
+28
+00:01:14,520 --> 00:01:16,680
+minimize and I'm bring this in the
+
+29
+00:01:16,680 --> 00:01:18,510
+kdenlive I'm gonna do it this time by
+
+30
+00:01:18,510 --> 00:01:20,900
+just going to my downloads folder
+
+31
+00:01:20,900 --> 00:01:22,860
+finding those files that were downloaded
+
+32
+00:01:22,860 --> 00:01:24,630
+like the parrot I'll left click and drag
+
+33
+00:01:24,630 --> 00:01:26,880
+it into the project bin and then I'll
+
+34
+00:01:26,880 --> 00:01:28,260
+grab the other one which is this
+
+35
+00:01:28,260 --> 00:01:31,500
+seascape perfect
+
+36
+00:01:31,500 --> 00:01:33,750
+now what I want to do I'll just I want
+
+37
+00:01:33,750 --> 00:01:36,330
+the seascape to be my that whichever you
+
+38
+00:01:36,330 --> 00:01:38,700
+want to have your main large footage you
+
+39
+00:01:38,700 --> 00:01:40,830
+want to put that on video track 1 so I'm
+
+40
+00:01:40,830 --> 00:01:42,420
+gonna left click this seascape and bring
+
+41
+00:01:42,420 --> 00:01:44,100
+it down to video track 1 start it all
+
+42
+00:01:44,100 --> 00:01:47,190
+the way at 0 and I'm gonna come down
+
+43
+00:01:47,190 --> 00:01:48,479
+here and resize a little bit so I can
+
+44
+00:01:48,479 --> 00:01:51,270
+see my timeline better and then I'm
+
+45
+00:01:51,270 --> 00:01:52,860
+gonna grab this video of the parrot and
+
+46
+00:01:52,860 --> 00:01:57,630
+put it on a video track 2 then we can
+
+47
+00:01:57,630 --> 00:01:58,979
+see this video if the parrot is quite a
+
+48
+00:01:58,979 --> 00:02:01,409
+bit longer it's if we look up at the top
+
+49
+00:02:01,409 --> 00:02:03,500
+there it's about almost 45 seconds
+
+50
+00:02:03,500 --> 00:02:07,020
+whereas this seascape is only about 14
+
+51
+00:02:07,020 --> 00:02:10,829
+seconds so I want to just resize this in
+
+52
+00:02:10,829 --> 00:02:12,779
+the past we've done the razor tool we
+
+53
+00:02:12,779 --> 00:02:14,160
+can click the razor and just go
+
+54
+00:02:14,160 --> 00:02:17,070
+the very end then left click and cut and
+
+55
+00:02:17,070 --> 00:02:19,320
+go to select tool click and delete
+
+56
+00:02:19,320 --> 00:02:21,270
+another way we can do that if I hit
+
+57
+00:02:21,270 --> 00:02:23,670
+control Z and undo that cut we can just
+
+58
+00:02:23,670 --> 00:02:26,340
+go to the end of this video and we can
+
+59
+00:02:26,340 --> 00:02:28,320
+just hover until we get to this little
+
+60
+00:02:28,320 --> 00:02:30,390
+arrow resize and I can resize this
+
+61
+00:02:30,390 --> 00:02:32,640
+parrot clip all the way down and that's
+
+62
+00:02:32,640 --> 00:02:34,740
+just gonna clip it from the end it's
+
+63
+00:02:34,740 --> 00:02:37,470
+gonna clip wherever wherever this ends
+
+64
+00:02:37,470 --> 00:02:40,020
+at so come right down to there and then
+
+65
+00:02:40,020 --> 00:02:43,020
+it'll snap to end right at about 14 just
+
+66
+00:02:43,020 --> 00:02:45,330
+a little over 14 seconds so my whole
+
+67
+00:02:45,330 --> 00:02:47,850
+project is the same length so now if I
+
+68
+00:02:47,850 --> 00:02:51,060
+play it's going to play just the parent
+
+69
+00:02:51,060 --> 00:02:54,480
+and we'll probably hear the audio oh the
+
+70
+00:02:54,480 --> 00:02:57,480
+audio is on the parrot clip maybe
+
+71
+00:02:57,480 --> 00:02:58,620
+there's no audio I thought for sure I
+
+72
+00:02:58,620 --> 00:03:00,300
+heard some audio somewhere else I don't
+
+73
+00:03:00,300 --> 00:03:02,310
+see any audio on this so neither clip
+
+74
+00:03:02,310 --> 00:03:06,600
+has audio which is fine but we see we're
+
+75
+00:03:06,600 --> 00:03:08,460
+not seeing this if we were to switch if
+
+76
+00:03:08,460 --> 00:03:09,990
+these were to switch places and we put
+
+77
+00:03:09,990 --> 00:03:12,210
+the parrot down here and then this
+
+78
+00:03:12,210 --> 00:03:15,360
+whatever video is on the higher video
+
+79
+00:03:15,360 --> 00:03:17,580
+track the higher number video track gets
+
+80
+00:03:17,580 --> 00:03:19,770
+displayed first so now if we play and we
+
+81
+00:03:19,770 --> 00:03:23,760
+see the beach seascape video but since
+
+82
+00:03:23,760 --> 00:03:25,410
+we want the parrot to be on top we do
+
+83
+00:03:25,410 --> 00:03:27,330
+this and then we just want to apply a
+
+84
+00:03:27,330 --> 00:03:29,310
+transform like we've done in the past
+
+85
+00:03:29,310 --> 00:03:32,430
+tutorials so we come over here to crop
+
+86
+00:03:32,430 --> 00:03:35,040
+and transform we drag transform we put
+
+87
+00:03:35,040 --> 00:03:37,470
+it on top of the parrot clip and it
+
+88
+00:03:37,470 --> 00:03:39,150
+brings up these options we can then
+
+89
+00:03:39,150 --> 00:03:41,250
+transform and change this and it puts
+
+90
+00:03:41,250 --> 00:03:43,680
+this box around at this red box so we
+
+91
+00:03:43,680 --> 00:03:45,000
+can actually just click these corners
+
+92
+00:03:45,000 --> 00:03:47,760
+and drag it down and now we've got this
+
+93
+00:03:47,760 --> 00:03:49,709
+little parrot down in the bottom right
+
+94
+00:03:49,709 --> 00:03:54,120
+hand corner so now if we play it'll play
+
+95
+00:03:54,120 --> 00:03:55,530
+both of them at once so play the parrot
+
+96
+00:03:55,530 --> 00:03:57,450
+clip and it'll show kind of the beach
+
+97
+00:03:57,450 --> 00:04:00,030
+and we can actually move this too maybe
+
+98
+00:04:00,030 --> 00:04:01,470
+it'd be better to have in the top right
+
+99
+00:04:01,470 --> 00:04:05,160
+corner so we can see what's going on so
+
+100
+00:04:05,160 --> 00:04:06,630
+that's how you do video in video and
+
+101
+00:04:06,630 --> 00:04:08,160
+then we can also add in if we wanted to
+
+102
+00:04:08,160 --> 00:04:10,910
+we can add in just a picture if I go
+
+103
+00:04:10,910 --> 00:04:14,550
+what's a good picture I have I have a
+
+104
+00:04:14,550 --> 00:04:16,890
+picture here of a guy falling this is
+
+105
+00:04:16,890 --> 00:04:18,510
+just a what's open it up here so I can
+
+106
+00:04:18,510 --> 00:04:22,200
+show you it's just a picture like a JPEG
+
+107
+00:04:22,200 --> 00:04:23,910
+is just a JPEG image of like a person
+
+108
+00:04:23,910 --> 00:04:26,669
+kind of falling and so it's not a video
+
+109
+00:04:26,669 --> 00:04:28,050
+of clip at all
+
+110
+00:04:28,050 --> 00:04:29,669
+but we can also just drag in this video
+
+111
+00:04:29,669 --> 00:04:31,620
+clip so we can put it on video 3 I'm
+
+112
+00:04:31,620 --> 00:04:33,479
+sorry not video clip this picture and
+
+113
+00:04:33,479 --> 00:04:35,759
+now it'll just play this picture for
+
+114
+00:04:35,759 --> 00:04:37,830
+like 5 seconds if we double click we can
+
+115
+00:04:37,830 --> 00:04:41,159
+change the duration or we can go to the
+
+116
+00:04:41,159 --> 00:04:42,780
+end like we did with the video and just
+
+117
+00:04:42,780 --> 00:04:45,810
+scroll or drag and keep it so now this
+
+118
+00:04:45,810 --> 00:04:47,970
+is the same length and now we see it's
+
+119
+00:04:47,970 --> 00:04:49,800
+kind of overlaid on top too we can see
+
+120
+00:04:49,800 --> 00:04:52,349
+the video on the side we can drag and
+
+121
+00:04:52,349 --> 00:04:54,120
+drop a transform on top of this as well
+
+122
+00:04:54,120 --> 00:04:59,669
+and then we can transform it oops why is
+
+123
+00:04:59,669 --> 00:05:02,729
+it going over there oh ok so it's
+
+124
+00:05:02,729 --> 00:05:05,069
+drawing it a box around the whole thing
+
+125
+00:05:05,069 --> 00:05:07,169
+is as a transparent transparent on both
+
+126
+00:05:07,169 --> 00:05:09,960
+sides but we can still just resize this
+
+127
+00:05:09,960 --> 00:05:12,810
+and confuse me for a second there so if
+
+128
+00:05:12,810 --> 00:05:15,120
+we want this and if we wanted it to in
+
+129
+00:05:15,120 --> 00:05:17,039
+fact what we could do is only have its
+
+130
+00:05:17,039 --> 00:05:21,300
+display for it for a moment so by that I
+
+131
+00:05:21,300 --> 00:05:23,550
+what I mean is let's say we're playing
+
+132
+00:05:23,550 --> 00:05:25,830
+we have our video clip of our parrot
+
+133
+00:05:25,830 --> 00:05:27,780
+going here and then when it gets to that
+
+134
+00:05:27,780 --> 00:05:29,370
+point of the video it displays this
+
+135
+00:05:29,370 --> 00:05:32,340
+picture and then it goes away so and
+
+136
+00:05:32,340 --> 00:05:33,870
+then we can move that to any point in
+
+137
+00:05:33,870 --> 00:05:36,659
+the in the video clip and we could also
+
+138
+00:05:36,659 --> 00:05:38,039
+do that same thing with the with a
+
+139
+00:05:38,039 --> 00:05:40,860
+parrot if we scale this down a little
+
+140
+00:05:40,860 --> 00:05:44,099
+bit more or not if we shorten it then
+
+141
+00:05:44,099 --> 00:05:48,599
+we'll see it'll play we'll have the
+
+142
+00:05:48,599 --> 00:05:51,509
+picture come on for a short while then
+
+143
+00:05:51,509 --> 00:05:54,060
+as soon as the picture goes off we can
+
+144
+00:05:54,060 --> 00:05:59,370
+have the parrot go away as well and yeah
+
+145
+00:05:59,370 --> 00:06:02,430
+it creates that that's a new video in
+
+146
+00:06:02,430 --> 00:06:04,409
+video or picture in picture effect we
+
+147
+00:06:04,409 --> 00:06:05,610
+could also have the picture be the
+
+148
+00:06:05,610 --> 00:06:07,349
+static background if we wanted to and
+
+149
+00:06:07,349 --> 00:06:09,449
+then resize the beach footage to make it
+
+150
+00:06:09,449 --> 00:06:11,190
+smaller so I think you're getting the
+
+151
+00:06:11,190 --> 00:06:14,099
+idea of how that works if you have any
+
+152
+00:06:14,099 --> 00:06:15,870
+questions comments please leave them
+
+153
+00:06:15,870 --> 00:06:18,240
+below go ahead and like and subscribe if
+
+154
+00:06:18,240 --> 00:06:19,680
+you found this video informative and
+
+155
+00:06:19,680 --> 00:06:22,940
+I'll catch you on the next video
+

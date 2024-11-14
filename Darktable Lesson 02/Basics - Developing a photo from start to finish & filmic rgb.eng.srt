@@ -1,0 +1,1480 @@
+1
+00:00:04,080 --> 00:00:05,920
+hello welcome welcome
+
+2
+00:00:05,920 --> 00:00:08,160
+this is going to be my first video on
+
+3
+00:00:08,160 --> 00:00:09,760
+dark table
+
+4
+00:00:09,760 --> 00:00:12,000
+i wanted to make a shortish introduction
+
+5
+00:00:12,000 --> 00:00:13,599
+video that i could reference in the
+
+6
+00:00:13,599 --> 00:00:14,639
+future
+
+7
+00:00:14,639 --> 00:00:16,720
+so what we are going to do today is
+
+8
+00:00:16,720 --> 00:00:19,439
+touch on the very important core basics
+
+9
+00:00:19,439 --> 00:00:21,680
+of dark table and we are going to
+
+10
+00:00:21,680 --> 00:00:24,400
+process a photo from start to finish
+
+11
+00:00:24,400 --> 00:00:28,680
+using scene repaired workflow
+
+12
+00:00:30,160 --> 00:00:32,079
+so you've installed dark table and
+
+13
+00:00:32,079 --> 00:00:34,320
+launched it for the first time
+
+14
+00:00:34,320 --> 00:00:35,920
+of course the first thing we are going
+
+15
+00:00:35,920 --> 00:00:36,800
+to do
+
+16
+00:00:36,800 --> 00:00:38,640
+is change some settings
+
+17
+00:00:38,640 --> 00:00:40,879
+let's go to preferences
+
+18
+00:00:40,879 --> 00:00:42,079
+processing
+
+19
+00:00:42,079 --> 00:00:44,399
+and make sure auto apply pixel workflow
+
+20
+00:00:44,399 --> 00:00:46,960
+defaults are set to scene referred and
+
+21
+00:00:46,960 --> 00:00:49,280
+auto apply chromatic adaptation defaults
+
+22
+00:00:49,280 --> 00:00:52,000
+are set to modern
+
+23
+00:00:52,000 --> 00:00:54,480
+that's that we can close this window
+
+24
+00:00:54,480 --> 00:00:56,800
+now this interface might be familiar to
+
+25
+00:00:56,800 --> 00:00:59,680
+some of you especially to people coming
+
+26
+00:00:59,680 --> 00:01:02,000
+from adobe lightroom
+
+27
+00:01:02,000 --> 00:01:04,080
+i will try my best to avoid the direct
+
+28
+00:01:04,080 --> 00:01:06,159
+comparison in this video
+
+29
+00:01:06,159 --> 00:01:08,799
+but as a former lightroom user myself i
+
+30
+00:01:08,799 --> 00:01:10,720
+might mislabel a thing or two here and
+
+31
+00:01:10,720 --> 00:01:14,080
+there doc table consists of a couple of
+
+32
+00:01:14,080 --> 00:01:17,759
+main sections light table and dark room
+
+33
+00:01:17,759 --> 00:01:19,439
+there are others but they're not going
+
+34
+00:01:19,439 --> 00:01:21,280
+to touch these today
+
+35
+00:01:21,280 --> 00:01:22,960
+currently we're in the light table
+
+36
+00:01:22,960 --> 00:01:25,200
+section where we can manage our photos
+
+37
+00:01:25,200 --> 00:01:27,759
+and collections the darkroom section is
+
+38
+00:01:27,759 --> 00:01:31,520
+purely for developing photos
+
+39
+00:01:32,400 --> 00:01:34,400
+let's start at the beginning
+
+40
+00:01:34,400 --> 00:01:36,240
+let's say i've already copied a couple
+
+41
+00:01:36,240 --> 00:01:39,280
+of photos from my sd card in a dedicated
+
+42
+00:01:39,280 --> 00:01:41,439
+folder somewhere on my computer what i
+
+43
+00:01:41,439 --> 00:01:44,240
+need to do is import them into dark
+
+44
+00:01:44,240 --> 00:01:47,200
+table expand the import section and
+
+45
+00:01:47,200 --> 00:01:49,360
+click add to library
+
+46
+00:01:49,360 --> 00:01:51,280
+simply navigate to the folder where you
+
+47
+00:01:51,280 --> 00:01:53,920
+copied your photos or click the plus
+
+48
+00:01:53,920 --> 00:01:56,320
+sign if it's not in the list of places
+
+49
+00:01:56,320 --> 00:01:58,719
+already
+
+50
+00:01:58,719 --> 00:02:01,200
+awesome these are my photos i will tick
+
+51
+00:02:01,200 --> 00:02:04,079
+the ignore jpeg images box as i have no
+
+52
+00:02:04,079 --> 00:02:05,439
+use for them
+
+53
+00:02:05,439 --> 00:02:07,439
+i will click the select new button which
+
+54
+00:02:07,439 --> 00:02:09,440
+will only add photos that are not
+
+55
+00:02:09,440 --> 00:02:11,680
+currently in the album
+
+56
+00:02:11,680 --> 00:02:13,680
+this way we can quickly and easily top
+
+57
+00:02:13,680 --> 00:02:16,080
+up any existing album also known as
+
+58
+00:02:16,080 --> 00:02:18,400
+collection with new photos
+
+59
+00:02:18,400 --> 00:02:20,959
+you can also preview the photos by
+
+60
+00:02:20,959 --> 00:02:24,319
+clicking on the eye icon
+
+61
+00:02:24,319 --> 00:02:28,959
+finally let's hit the add library button
+
+62
+00:02:30,400 --> 00:02:32,959
+let's select an image we want to work on
+
+63
+00:02:32,959 --> 00:02:34,879
+and let's go to the dark room
+
+64
+00:02:34,879 --> 00:02:36,879
+we'll quickly gloss over the workflow of
+
+65
+00:02:36,879 --> 00:02:39,360
+developing a photo as it's slightly
+
+66
+00:02:39,360 --> 00:02:40,879
+different than in other photography
+
+67
+00:02:40,879 --> 00:02:43,200
+software packages just because in dark
+
+68
+00:02:43,200 --> 00:02:45,599
+table you have the complete control of
+
+69
+00:02:45,599 --> 00:02:48,560
+developing process and image pipeline
+
+70
+00:02:48,560 --> 00:02:50,720
+on the right you will notice a list of
+
+71
+00:02:50,720 --> 00:02:52,319
+familiar terms
+
+72
+00:02:52,319 --> 00:02:54,879
+these are called modules there are a few
+
+73
+00:02:54,879 --> 00:02:57,519
+mandatory modules most of them you can
+
+74
+00:02:57,519 --> 00:02:59,840
+enable and disable
+
+75
+00:02:59,840 --> 00:03:01,040
+duplicate
+
+76
+00:03:01,040 --> 00:03:02,080
+reset
+
+77
+00:03:02,080 --> 00:03:04,480
+or store a preset off and most
+
+78
+00:03:04,480 --> 00:03:07,200
+importantly move but let's not make a
+
+79
+00:03:07,200 --> 00:03:08,959
+mess just yet and leave it in the
+
+80
+00:03:08,959 --> 00:03:10,480
+default order
+
+81
+00:03:10,480 --> 00:03:12,959
+the order is important as the modules
+
+82
+00:03:12,959 --> 00:03:15,200
+are processed from the bottom up it
+
+83
+00:03:15,200 --> 00:03:17,200
+means that it will adjust the raw black
+
+84
+00:03:17,200 --> 00:03:19,200
+white point first then move to white
+
+85
+00:03:19,200 --> 00:03:21,760
+balance then highlight reconstruction so
+
+86
+00:03:21,760 --> 00:03:24,000
+on and so forth since we're using
+
+87
+00:03:24,000 --> 00:03:26,000
+scenery fed workflow let's switch to a
+
+88
+00:03:26,000 --> 00:03:28,239
+predefined scene referred modules and
+
+89
+00:03:28,239 --> 00:03:30,720
+module ordering
+
+90
+00:03:30,720 --> 00:03:32,879
+this will get rid of all the deprecated
+
+91
+00:03:32,879 --> 00:03:34,879
+and display referred modules that we
+
+92
+00:03:34,879 --> 00:03:38,000
+can't really use in our pipeline
+
+93
+00:03:38,000 --> 00:03:40,319
+at the top here you can currently see
+
+94
+00:03:40,319 --> 00:03:41,840
+six tabs
+
+95
+00:03:41,840 --> 00:03:44,400
+we can modify these in preferences but
+
+96
+00:03:44,400 --> 00:03:47,599
+let's work with what we have for now
+
+97
+00:03:47,599 --> 00:03:49,920
+the first one is quick settings which
+
+98
+00:03:49,920 --> 00:03:51,680
+i'm not a big fan of so let's go
+
+99
+00:03:51,680 --> 00:03:53,439
+straight to tab 2
+
+100
+00:03:53,439 --> 00:03:56,799
+which contains either active modules or
+
+101
+00:03:56,799 --> 00:03:59,040
+all available modules
+
+102
+00:03:59,040 --> 00:04:01,120
+we can switch between these two modes by
+
+103
+00:04:01,120 --> 00:04:03,439
+using the tab button like a toggle
+
+104
+00:04:03,439 --> 00:04:05,439
+active all
+
+105
+00:04:05,439 --> 00:04:06,480
+active
+
+106
+00:04:06,480 --> 00:04:07,280
+all
+
+107
+00:04:07,280 --> 00:04:09,280
+the third tab is responsible for the
+
+108
+00:04:09,280 --> 00:04:12,879
+core of the image and it's called base
+
+109
+00:04:12,879 --> 00:04:15,280
+we can tweak the rotation adjust the
+
+110
+00:04:15,280 --> 00:04:16,560
+exposure
+
+111
+00:04:16,560 --> 00:04:19,519
+and most importantly use the filmic rgb
+
+112
+00:04:19,519 --> 00:04:22,079
+to transform our scene into something
+
+113
+00:04:22,079 --> 00:04:24,639
+that can be viewed on a screen
+
+114
+00:04:24,639 --> 00:04:25,919
+next up is color which is
+
+115
+00:04:25,919 --> 00:04:27,680
+self-explanatory
+
+116
+00:04:27,680 --> 00:04:30,240
+then image corrections and lastly
+
+117
+00:04:30,240 --> 00:04:31,360
+effects
+
+118
+00:04:31,360 --> 00:04:33,199
+i always find myself using the active
+
+119
+00:04:33,199 --> 00:04:35,600
+modules tab the most in tandem with the
+
+120
+00:04:35,600 --> 00:04:38,160
+search bar i think it's easier quicker
+
+121
+00:04:38,160 --> 00:04:39,919
+and more intuitive
+
+122
+00:04:39,919 --> 00:04:41,600
+but it takes a bit of time to remember
+
+123
+00:04:41,600 --> 00:04:43,360
+all the module names
+
+124
+00:04:43,360 --> 00:04:47,720
+luckily they're pretty self-explanatory
+
+125
+00:04:48,880 --> 00:04:50,639
+right let's get to it
+
+126
+00:04:50,639 --> 00:04:52,880
+first things first let's fix the glaring
+
+127
+00:04:52,880 --> 00:04:54,160
+problems
+
+128
+00:04:54,160 --> 00:04:56,720
+see this flat pancake of the sun with a
+
+129
+00:04:56,720 --> 00:04:58,800
+bit of red this yellow drizzled around
+
+130
+00:04:58,800 --> 00:05:00,960
+it now i made this shot the way i made
+
+131
+00:05:00,960 --> 00:05:02,720
+it on purpose
+
+132
+00:05:02,720 --> 00:05:05,440
+it was really hot really sunny spring
+
+133
+00:05:05,440 --> 00:05:08,000
+day and i really wanted to portray that
+
+134
+00:05:08,000 --> 00:05:10,479
+in the photo so including the entire
+
+135
+00:05:10,479 --> 00:05:12,960
+sign in the picture and overexposing was
+
+136
+00:05:12,960 --> 00:05:14,800
+an excellent decision
+
+137
+00:05:14,800 --> 00:05:17,120
+let's see if we can fix it we'll start
+
+138
+00:05:17,120 --> 00:05:18,400
+by disabling the highlight
+
+139
+00:05:18,400 --> 00:05:20,400
+reconstruction module as we will take
+
+140
+00:05:20,400 --> 00:05:23,199
+care of the highlights later on
+
+141
+00:05:23,199 --> 00:05:25,039
+firstly i will adjust the exposure
+
+142
+00:05:25,039 --> 00:05:26,320
+slightly
+
+143
+00:05:26,320 --> 00:05:28,320
+some parts of the image are still a bit
+
+144
+00:05:28,320 --> 00:05:30,000
+dark
+
+145
+00:05:30,000 --> 00:05:31,680
+let's open the module
+
+146
+00:05:31,680 --> 00:05:33,840
+and we can make the adjustments simply
+
+147
+00:05:33,840 --> 00:05:36,639
+by clicking and dragging on the slider
+
+148
+00:05:36,639 --> 00:05:40,639
+hovering over and using a mouse wheel
+
+149
+00:05:41,440 --> 00:05:43,280
+right clicking and making fine
+
+150
+00:05:43,280 --> 00:05:44,880
+adjustments
+
+151
+00:05:44,880 --> 00:05:49,039
+or simply typing a number
+
+152
+00:05:49,039 --> 00:05:50,880
+that looks about right we can now close
+
+153
+00:05:50,880 --> 00:05:54,479
+the module next up color calibration
+
+154
+00:05:54,479 --> 00:05:56,240
+color calibration deals with the core
+
+155
+00:05:56,240 --> 00:05:58,400
+colors of the image mainly we will use
+
+156
+00:05:58,400 --> 00:06:00,319
+the color calibration to correctly set
+
+157
+00:06:00,319 --> 00:06:02,319
+the scene illuminant and adjust the
+
+158
+00:06:02,319 --> 00:06:03,680
+temperature
+
+159
+00:06:03,680 --> 00:06:05,280
+you might notice that there is another
+
+160
+00:06:05,280 --> 00:06:07,440
+module called white balance
+
+161
+00:06:07,440 --> 00:06:09,520
+don't touch that it's currently required
+
+162
+00:06:09,520 --> 00:06:11,440
+for the color calibration module to work
+
+163
+00:06:11,440 --> 00:06:12,800
+correctly
+
+164
+00:06:12,800 --> 00:06:14,960
+right so my eyes say that the image was
+
+165
+00:06:14,960 --> 00:06:17,759
+shot outside in a nice and sunny day we
+
+166
+00:06:17,759 --> 00:06:20,720
+can set the illuminant to d daylight
+
+167
+00:06:20,720 --> 00:06:23,759
+and adjust the temperature to our taste
+
+168
+00:06:23,759 --> 00:06:24,880
+that's that
+
+169
+00:06:24,880 --> 00:06:27,680
+let's move to my favorite module
+
+170
+00:06:27,680 --> 00:06:31,039
+filmic rgb filmic rgb will help us take
+
+171
+00:06:31,039 --> 00:06:32,720
+all the scene information we captured
+
+172
+00:06:32,720 --> 00:06:35,120
+with our camera and compress it into
+
+173
+00:06:35,120 --> 00:06:37,600
+something that our displays can
+
+174
+00:06:37,600 --> 00:06:39,360
+display
+
+175
+00:06:39,360 --> 00:06:40,960
+otherwise everything outside the
+
+176
+00:06:40,960 --> 00:06:43,520
+display's range which is typically zero
+
+177
+00:06:43,520 --> 00:06:44,560
+to one
+
+178
+00:06:44,560 --> 00:06:46,720
+would get clipped out and every flat
+
+179
+00:06:46,720 --> 00:06:49,520
+pancake sun would stay a flat pancake
+
+180
+00:06:49,520 --> 00:06:50,960
+sun
+
+181
+00:06:50,960 --> 00:06:53,759
+now this might look scary but i promise
+
+182
+00:06:53,759 --> 00:06:56,560
+it's only somewhat scary in short this
+
+183
+00:06:56,560 --> 00:06:58,479
+is showing how our scene will be mapped
+
+184
+00:06:58,479 --> 00:06:59,919
+to our display
+
+185
+00:06:59,919 --> 00:07:02,400
+if we turn the axis labels on it will be
+
+186
+00:07:02,400 --> 00:07:04,479
+a bit easier to understand
+
+187
+00:07:04,479 --> 00:07:06,160
+so the darkest part of the scene we
+
+188
+00:07:06,160 --> 00:07:08,560
+captured will be mapped to zero on our
+
+189
+00:07:08,560 --> 00:07:09,680
+displays
+
+190
+00:07:09,680 --> 00:07:11,840
+and the brightest part to the maximum
+
+191
+00:07:11,840 --> 00:07:14,479
+luminance of our displays
+
+192
+00:07:14,479 --> 00:07:17,919
+the ev0 the middle gray of the scene
+
+193
+00:07:17,919 --> 00:07:19,919
+will be mapped to 18
+
+194
+00:07:19,919 --> 00:07:21,919
+of our display's output
+
+195
+00:07:21,919 --> 00:07:23,599
+this is because our perception of
+
+196
+00:07:23,599 --> 00:07:25,919
+lightness is not linear i wouldn't like
+
+197
+00:07:25,919 --> 00:07:28,479
+to get any deeper into this topic in
+
+198
+00:07:28,479 --> 00:07:30,880
+this specific video but there are really
+
+199
+00:07:30,880 --> 00:07:34,160
+good in-depth videos by aurelion pierre
+
+200
+00:07:34,160 --> 00:07:36,479
+the maker of filmic rgb module where he
+
+201
+00:07:36,479 --> 00:07:39,039
+goes in depth about how our vision and
+
+202
+00:07:39,039 --> 00:07:40,960
+the module itself works
+
+203
+00:07:40,960 --> 00:07:42,160
+i will link his channel in the
+
+204
+00:07:42,160 --> 00:07:44,240
+description and you might find one or
+
+205
+00:07:44,240 --> 00:07:46,720
+two video cards appearing in my videos
+
+206
+00:07:46,720 --> 00:07:49,120
+in the top right corner so the quickest
+
+207
+00:07:49,120 --> 00:07:50,960
+way of getting these settings dialed in
+
+208
+00:07:50,960 --> 00:07:53,520
+right is by entering the values of your
+
+209
+00:07:53,520 --> 00:07:55,440
+light meter that you surely had at the
+
+210
+00:07:55,440 --> 00:07:58,639
+time the photo was taken right all right
+
+211
+00:07:58,639 --> 00:08:00,639
+the second quickest and good enough
+
+212
+00:08:00,639 --> 00:08:01,680
+method
+
+213
+00:08:01,680 --> 00:08:04,080
+is to use the autotune helpers so i'll
+
+214
+00:08:04,080 --> 00:08:06,879
+start with a white relative exposure
+
+215
+00:08:06,879 --> 00:08:09,360
+okay that looks good to me
+
+216
+00:08:09,360 --> 00:08:12,560
+and then black relative exposure which
+
+217
+00:08:12,560 --> 00:08:14,879
+is slightly off for my taste so i will
+
+218
+00:08:14,879 --> 00:08:16,800
+just increase the dynamic range by
+
+219
+00:08:16,800 --> 00:08:19,440
+adjusting the black relative exposure
+
+220
+00:08:19,440 --> 00:08:20,800
+a few stops
+
+221
+00:08:20,800 --> 00:08:22,240
+like so
+
+222
+00:08:22,240 --> 00:08:24,639
+next we need to get rid of the awful
+
+223
+00:08:24,639 --> 00:08:27,199
+mess that is the sun and a bit of
+
+224
+00:08:27,199 --> 00:08:30,240
+overexposed c here in the corner
+
+225
+00:08:30,240 --> 00:08:33,039
+for that let's move to reconstruct tab
+
+226
+00:08:33,039 --> 00:08:36,159
+of filmic the reconstruct tab is aptly
+
+227
+00:08:36,159 --> 00:08:38,719
+cold as we have no data what's in the
+
+228
+00:08:38,719 --> 00:08:41,440
+flat pancake as the clipping happened at
+
+229
+00:08:41,440 --> 00:08:44,320
+the sensor so we will try to do our best
+
+230
+00:08:44,320 --> 00:08:46,160
+to artistically get out of this sticky
+
+231
+00:08:46,160 --> 00:08:47,519
+situation
+
+232
+00:08:47,519 --> 00:08:49,680
+let's enable the threshold mask by
+
+233
+00:08:49,680 --> 00:08:52,080
+clicking on the mask button let's walk
+
+234
+00:08:52,080 --> 00:08:54,160
+back the threshold until we see the
+
+235
+00:08:54,160 --> 00:08:57,600
+clipped parts of the image
+
+236
+00:09:03,440 --> 00:09:05,680
+okay that looks about right
+
+237
+00:09:05,680 --> 00:09:08,320
+next up transition
+
+238
+00:09:08,320 --> 00:09:10,880
+i prefer to adjust this slider until i
+
+239
+00:09:10,880 --> 00:09:13,360
+faintly begin to see objects that are
+
+240
+00:09:13,360 --> 00:09:16,240
+not overexposed i find that gives me an
+
+241
+00:09:16,240 --> 00:09:18,240
+overall smoother image
+
+242
+00:09:18,240 --> 00:09:21,760
+with only a slight impact on realism
+
+243
+00:09:21,760 --> 00:09:24,080
+we can now disable the mask
+
+244
+00:09:24,080 --> 00:09:27,360
+now for the reconstruction itself
+
+245
+00:09:27,360 --> 00:09:29,519
+we can choose how much texture we want
+
+246
+00:09:29,519 --> 00:09:31,680
+to attempt to recover
+
+247
+00:09:31,680 --> 00:09:32,720
+i want
+
+248
+00:09:32,720 --> 00:09:35,279
+none in this photo i don't care about
+
+249
+00:09:35,279 --> 00:09:36,399
+texture here
+
+250
+00:09:36,399 --> 00:09:38,800
+bloom or reconstruct
+
+251
+00:09:38,800 --> 00:09:42,160
+i like to keep that at zero for a mix of
+
+252
+00:09:42,160 --> 00:09:43,040
+both
+
+253
+00:09:43,040 --> 00:09:45,760
+and lastly whether to fill the clipped
+
+254
+00:09:45,760 --> 00:09:49,120
+areas with color or to desaturate them
+
+255
+00:09:49,120 --> 00:09:50,880
+i usually go for almost full
+
+256
+00:09:50,880 --> 00:09:53,920
+desaturation and as that is the behavior
+
+257
+00:09:53,920 --> 00:09:56,560
+of film and in my opinion that is the
+
+258
+00:09:56,560 --> 00:10:00,240
+best way to convey brightness
+
+259
+00:10:01,600 --> 00:10:02,880
+like so
+
+260
+00:10:02,880 --> 00:10:05,360
+i think that looks much much better and
+
+261
+00:10:05,360 --> 00:10:07,279
+much more natural
+
+262
+00:10:07,279 --> 00:10:09,920
+no more hard edge around the sun no more
+
+263
+00:10:09,920 --> 00:10:13,279
+ugly cyan and no more rat piss yellow
+
+264
+00:10:13,279 --> 00:10:16,320
+time coined by troy sobotka and frankly
+
+265
+00:10:16,320 --> 00:10:18,720
+i can't stop using it
+
+266
+00:10:18,720 --> 00:10:20,560
+right all we have to do now is
+
+267
+00:10:20,560 --> 00:10:22,720
+straighten the horizon and bring back
+
+268
+00:10:22,720 --> 00:10:24,959
+some of the color into the image we can
+
+269
+00:10:24,959 --> 00:10:27,600
+do that very quickly just type in
+
+270
+00:10:27,600 --> 00:10:30,480
+rotation in the search bar expand the
+
+271
+00:10:30,480 --> 00:10:33,360
+rotate and perspective module and simply
+
+272
+00:10:33,360 --> 00:10:35,920
+right click and drag on something that
+
+273
+00:10:35,920 --> 00:10:38,160
+should be perfectly straight
+
+274
+00:10:38,160 --> 00:10:40,320
+click the horizon
+
+275
+00:10:40,320 --> 00:10:42,160
+done and done
+
+276
+00:10:42,160 --> 00:10:44,480
+next up color
+
+277
+00:10:44,480 --> 00:10:47,120
+for color always use color
+
+278
+00:10:47,120 --> 00:10:48,320
+balance
+
+279
+00:10:48,320 --> 00:10:50,880
+rgb
+
+280
+00:10:50,880 --> 00:10:53,760
+it's also made by aurelie and pierre so
+
+281
+00:10:53,760 --> 00:10:55,760
+we are absolutely sure it plays nice
+
+282
+00:10:55,760 --> 00:10:57,519
+with filmic rgb
+
+283
+00:10:57,519 --> 00:10:59,920
+again i will not get into detail in this
+
+284
+00:10:59,920 --> 00:11:01,519
+video i'm just going to increase the
+
+285
+00:11:01,519 --> 00:11:03,839
+global vibrance which will increase the
+
+286
+00:11:03,839 --> 00:11:08,160
+colorfulness of the subdued colors
+
+287
+00:11:10,880 --> 00:11:14,399
+okay i'm pretty happy with 43
+
+288
+00:11:14,399 --> 00:11:16,079
+oh and a pro tip
+
+289
+00:11:16,079 --> 00:11:17,680
+always check your photo against the
+
+290
+00:11:17,680 --> 00:11:20,000
+white background from time to time you
+
+291
+00:11:20,000 --> 00:11:22,160
+can always do that by clicking on the
+
+292
+00:11:22,160 --> 00:11:24,959
+little light bulb icon at the bottom
+
+293
+00:11:24,959 --> 00:11:26,800
+it looks like the photo is a bit too
+
+294
+00:11:26,800 --> 00:11:28,480
+warm for my taste
+
+295
+00:11:28,480 --> 00:11:30,720
+so i can always go back to color
+
+296
+00:11:30,720 --> 00:11:32,240
+calibration
+
+297
+00:11:32,240 --> 00:11:36,640
+and reduce the temperature a tiny bit
+
+298
+00:11:36,959 --> 00:11:38,640
+like so
+
+299
+00:11:38,640 --> 00:11:42,000
+yeah i'm pretty happy with the results i
+
+300
+00:11:42,000 --> 00:11:43,680
+think we managed to salvage the clipped
+
+301
+00:11:43,680 --> 00:11:46,560
+areas and portray the brightness and the
+
+302
+00:11:46,560 --> 00:11:48,959
+overall niceness of the weather of that
+
+303
+00:11:48,959 --> 00:11:49,760
+day
+
+304
+00:11:49,760 --> 00:11:51,839
+awesome let's check that the output
+
+305
+00:11:51,839 --> 00:11:54,800
+color profile is set to srgb and let's
+
+306
+00:11:54,800 --> 00:11:58,240
+move back to light table
+
+307
+00:11:59,200 --> 00:12:01,600
+in here i would like to introduce you to
+
+308
+00:12:01,600 --> 00:12:03,440
+another feature
+
+309
+00:12:03,440 --> 00:12:06,480
+styles also known as presets
+
+310
+00:12:06,480 --> 00:12:08,639
+select an image you've already developed
+
+311
+00:12:08,639 --> 00:12:11,680
+and click create name your style
+
+312
+00:12:11,680 --> 00:12:14,000
+i'll call it trip 1
+
+313
+00:12:14,000 --> 00:12:15,920
+sunny
+
+314
+00:12:15,920 --> 00:12:18,079
+and enable all the modules and their
+
+315
+00:12:18,079 --> 00:12:20,079
+settings you want transfer to other
+
+316
+00:12:20,079 --> 00:12:21,279
+photos
+
+317
+00:12:21,279 --> 00:12:23,600
+modules like highlight reconstruction
+
+318
+00:12:23,600 --> 00:12:25,839
+which i have disabled
+
+319
+00:12:25,839 --> 00:12:29,040
+exposure filmic rgb and color balance
+
+320
+00:12:29,040 --> 00:12:32,399
+rgb and hit save now let's develop
+
+321
+00:12:32,399 --> 00:12:34,399
+another photo that i took on the same
+
+322
+00:12:34,399 --> 00:12:36,560
+day pretty much at the same spot but
+
+323
+00:12:36,560 --> 00:12:38,560
+this time let's use the style that i've
+
+324
+00:12:38,560 --> 00:12:41,200
+just created to give us a nice baseline
+
+325
+00:12:41,200 --> 00:12:43,040
+i'll move back to darkroom
+
+326
+00:12:43,040 --> 00:12:45,839
+i'll click on the styles icon and choose
+
+327
+00:12:45,839 --> 00:12:48,160
+the style i've just created
+
+328
+00:12:48,160 --> 00:12:50,560
+that looks great already i would just
+
+329
+00:12:50,560 --> 00:12:55,279
+adjust the exposure a tiny bit
+
+330
+00:12:56,399 --> 00:12:58,800
+and disable the reconstruction that
+
+331
+00:12:58,800 --> 00:13:01,760
+we've done to the other photo
+
+332
+00:13:01,760 --> 00:13:05,200
+simply by increasing the threshold
+
+333
+00:13:05,200 --> 00:13:06,720
+up to about four
+
+334
+00:13:06,720 --> 00:13:08,079
+you can always double click on the
+
+335
+00:13:08,079 --> 00:13:11,120
+slider to reset it to the default value
+
+336
+00:13:11,120 --> 00:13:12,320
+like so
+
+337
+00:13:12,320 --> 00:13:13,440
+perfect
+
+338
+00:13:13,440 --> 00:13:16,800
+back to light table we go
+
+339
+00:13:17,760 --> 00:13:20,079
+grab the two images we've just developed
+
+340
+00:13:20,079 --> 00:13:23,680
+and let's expand export section
+
+341
+00:13:23,680 --> 00:13:26,160
+select the output folder
+
+342
+00:13:26,160 --> 00:13:29,440
+select the format
+
+343
+00:13:29,600 --> 00:13:32,720
+and resize if necessary i want the image
+
+344
+00:13:32,720 --> 00:13:37,040
+to fit into 3000 by 3000 pixels
+
+345
+00:13:37,040 --> 00:13:38,800
+and hit export
+
+346
+00:13:38,800 --> 00:13:40,720
+it will take a second or two
+
+347
+00:13:40,720 --> 00:13:43,360
+and your images are going to be ready if
+
+348
+00:13:43,360 --> 00:13:44,959
+you're running windows 11 you can
+
+349
+00:13:44,959 --> 00:13:47,199
+preview the files for the latest photos
+
+350
+00:13:47,199 --> 00:13:50,720
+app it works well and it's color managed
+
+351
+00:13:50,720 --> 00:13:52,079
+finally
+
+352
+00:13:52,079 --> 00:13:54,079
+keep in mind that dark table will create
+
+353
+00:13:54,079 --> 00:13:57,040
+these sidecar xmp files
+
+354
+00:13:57,040 --> 00:13:58,800
+i recommend keeping them together with
+
+355
+00:13:58,800 --> 00:14:01,040
+your camera native raw files
+
+356
+00:14:01,040 --> 00:14:02,800
+as they store all the settings and
+
+357
+00:14:02,800 --> 00:14:04,720
+tweaks we've done to the photo when we
+
+358
+00:14:04,720 --> 00:14:05,920
+developed it
+
+359
+00:14:05,920 --> 00:14:08,240
+that's that we developed a few photos
+
+360
+00:14:08,240 --> 00:14:09,760
+using dark table
+
+361
+00:14:09,760 --> 00:14:12,720
+in this touristy tour bus manner
+
+362
+00:14:12,720 --> 00:14:14,639
+i'd like to say a personal thank you to
+
+363
+00:14:14,639 --> 00:14:16,959
+aurelien pierre and his work on both
+
+364
+00:14:16,959 --> 00:14:20,000
+dark table and youtube tutorials big
+
+365
+00:14:20,000 --> 00:14:22,000
+thank you to troy sobotka as well and
+
+366
+00:14:22,000 --> 00:14:25,199
+his work educating their color curies i
+
+367
+00:14:25,199 --> 00:14:26,480
+will link his scriptures in the
+
+368
+00:14:26,480 --> 00:14:28,720
+description as well i hope i wasn't too
+
+369
+00:14:28,720 --> 00:14:30,240
+boring and hope you learned something
+
+370
+00:14:30,240 --> 00:14:34,920
+new today see you soon bye
+

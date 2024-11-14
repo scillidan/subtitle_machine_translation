@@ -1,0 +1,640 @@
+1
+00:00:02,090 --> 00:00:04,620
+welcome to another darktable tutorial in
+
+2
+00:00:04,620 --> 00:00:06,330
+this video we'll be doing drawn and
+
+3
+00:00:06,330 --> 00:00:08,610
+parametric masks together so in past
+
+4
+00:00:08,610 --> 00:00:10,679
+tutorials we've learned how to draw just
+
+5
+00:00:10,679 --> 00:00:12,780
+a certain shape or a path over an image
+
+6
+00:00:12,780 --> 00:00:15,239
+and then apply that module just to that
+
+7
+00:00:15,239 --> 00:00:17,009
+portion we've also learned how to do
+
+8
+00:00:17,009 --> 00:00:19,859
+parametric masks where we come over here
+
+9
+00:00:19,859 --> 00:00:21,960
+and we under the blend mode we go to
+
+10
+00:00:21,960 --> 00:00:24,210
+just parametric masks and then we can
+
+11
+00:00:24,210 --> 00:00:27,119
+select based on either a certain hue if
+
+12
+00:00:27,119 --> 00:00:29,369
+we do hue we can constrict to just the
+
+13
+00:00:29,369 --> 00:00:32,009
+blues in this image we drag this over
+
+14
+00:00:32,009 --> 00:00:34,830
+and we just get the blues in this image
+
+15
+00:00:34,830 --> 00:00:37,620
+and this happens to be what we're doing
+
+16
+00:00:37,620 --> 00:00:38,490
+Oh cover correct
+
+17
+00:00:38,490 --> 00:00:41,820
+so our mask would look like this in this
+
+18
+00:00:41,820 --> 00:00:44,220
+case and as we fine-tune and adjust this
+
+19
+00:00:44,220 --> 00:00:46,170
+we can get it more narrow and just
+
+20
+00:00:46,170 --> 00:00:48,750
+select some certain blues but the
+
+21
+00:00:48,750 --> 00:00:50,580
+problem with this is we're selecting the
+
+22
+00:00:50,580 --> 00:00:52,770
+blues in the car and the Blues on the
+
+23
+00:00:52,770 --> 00:00:54,960
+ground but also the Blues in the sky so
+
+24
+00:00:54,960 --> 00:00:56,970
+when we apply our adjustment it might
+
+25
+00:00:56,970 --> 00:00:59,310
+make our whole image it kind of throws
+
+26
+00:00:59,310 --> 00:01:01,830
+off what we're trying to do maybe
+
+27
+00:01:01,830 --> 00:01:04,019
+because whatever this car does also the
+
+28
+00:01:04,019 --> 00:01:06,570
+sky would do so in this video we're
+
+29
+00:01:06,570 --> 00:01:08,790
+going to do a drawn and parametric mask
+
+30
+00:01:08,790 --> 00:01:11,190
+and we're not going to do the color
+
+31
+00:01:11,190 --> 00:01:13,770
+corrector maybe we'll do color contrast
+
+32
+00:01:13,770 --> 00:01:16,020
+so let me turn off that color corrector
+
+33
+00:01:16,020 --> 00:01:19,170
+and under color contrast here I'm going
+
+34
+00:01:19,170 --> 00:01:21,570
+to go to the blend mode and we'll do
+
+35
+00:01:21,570 --> 00:01:24,570
+drawn and parametric masks what this is
+
+36
+00:01:24,570 --> 00:01:26,430
+going to let us do is mask off a certain
+
+37
+00:01:26,430 --> 00:01:28,380
+area and I'll just choose the vehicle
+
+38
+00:01:28,380 --> 00:01:30,479
+and I'll do a path this time so we'll
+
+39
+00:01:30,479 --> 00:01:33,060
+select this right here and we'll just
+
+40
+00:01:33,060 --> 00:01:35,040
+come over and start clicking so I'll
+
+41
+00:01:35,040 --> 00:01:38,490
+click a couple times right in here and I
+
+42
+00:01:38,490 --> 00:01:39,900
+should probably get a little bit more
+
+43
+00:01:39,900 --> 00:01:42,120
+exact than this but I can always fine
+
+44
+00:01:42,120 --> 00:01:46,110
+tune this later as well and then when
+
+45
+00:01:46,110 --> 00:01:48,000
+I'm done I'll right click and then the
+
+46
+00:01:48,000 --> 00:01:49,560
+feather I can come and just feather that
+
+47
+00:01:49,560 --> 00:01:51,720
+in really really really tight and even
+
+48
+00:01:51,720 --> 00:01:53,700
+the whole shape I can kind of bring in
+
+49
+00:01:53,700 --> 00:01:55,860
+and I can drag and move it around by
+
+50
+00:01:55,860 --> 00:01:58,500
+left click and hold so that's not too
+
+51
+00:01:58,500 --> 00:02:03,030
+bad and now whatever we do so if we do
+
+52
+00:02:03,030 --> 00:02:04,560
+this adjustment now it'll make
+
+53
+00:02:04,560 --> 00:02:06,180
+adjustments to only the car and
+
+54
+00:02:06,180 --> 00:02:08,369
+everything else is unaffected well this
+
+55
+00:02:08,369 --> 00:02:09,959
+is the same thing that we've really done
+
+56
+00:02:09,959 --> 00:02:12,540
+with our with just a drawn this is
+
+57
+00:02:12,540 --> 00:02:14,180
+essentially only a
+
+58
+00:02:14,180 --> 00:02:16,730
+drawn masks but the nice part is now we
+
+59
+00:02:16,730 --> 00:02:18,980
+can also select certain elements within
+
+60
+00:02:18,980 --> 00:02:20,900
+here so as you see when we make an
+
+61
+00:02:20,900 --> 00:02:22,969
+adjustment here it's also making an
+
+62
+00:02:22,969 --> 00:02:25,569
+adjustment within the headlight whoa
+
+63
+00:02:25,569 --> 00:02:29,390
+here and so we're kind of adjusting
+
+64
+00:02:29,390 --> 00:02:30,560
+colors in there well what if we just
+
+65
+00:02:30,560 --> 00:02:33,500
+want to select the blue I'm sorry we
+
+66
+00:02:33,500 --> 00:02:37,269
+just want to select the blue in here
+
+67
+00:02:38,590 --> 00:02:41,150
+we'll use our parametric selection in
+
+68
+00:02:41,150 --> 00:02:44,480
+addition to our drawn selection so to do
+
+69
+00:02:44,480 --> 00:02:46,549
+that we come over here and we see we
+
+70
+00:02:46,549 --> 00:02:48,260
+have options for a drawn mask but we
+
+71
+00:02:48,260 --> 00:02:49,970
+also have right below that the options
+
+72
+00:02:49,970 --> 00:02:52,489
+for parametric masks so we can select
+
+73
+00:02:52,489 --> 00:02:55,519
+hue now and we want we can grab our
+
+74
+00:02:55,519 --> 00:02:57,169
+color picker tool and kind of drag that
+
+75
+00:02:57,169 --> 00:02:58,519
+in there just to get an indicator of
+
+76
+00:02:58,519 --> 00:03:01,579
+where that falls on our input notice is
+
+77
+00:03:01,579 --> 00:03:04,159
+different on input and output because
+
+78
+00:03:04,159 --> 00:03:06,709
+we've made an adjustment there so
+
+79
+00:03:06,709 --> 00:03:08,780
+because we've made an adjustment already
+
+80
+00:03:08,780 --> 00:03:11,659
+in here that's affecting where this line
+
+81
+00:03:11,659 --> 00:03:13,760
+falls that's kind of the difference so a
+
+82
+00:03:13,760 --> 00:03:15,049
+lot of times when if you play with this
+
+83
+00:03:15,049 --> 00:03:18,379
+very first you're gonna not the changes
+
+84
+00:03:18,379 --> 00:03:19,970
+you make on output an input or gonna be
+
+85
+00:03:19,970 --> 00:03:21,709
+the same but once you've already made
+
+86
+00:03:21,709 --> 00:03:23,659
+some changes then your input and output
+
+87
+00:03:23,659 --> 00:03:25,400
+are going to be different anyway I'll be
+
+88
+00:03:25,400 --> 00:03:26,989
+working off at the input we'll just drag
+
+89
+00:03:26,989 --> 00:03:29,780
+this right here and we'll select and
+
+90
+00:03:29,780 --> 00:03:31,939
+we'll toggle this view so we can see
+
+91
+00:03:31,939 --> 00:03:34,400
+what our mask is looking like and so now
+
+92
+00:03:34,400 --> 00:03:35,629
+this is what our mash was looking like
+
+93
+00:03:35,629 --> 00:03:37,040
+before it already looked pretty good
+
+94
+00:03:37,040 --> 00:03:39,409
+because it was just everything within
+
+95
+00:03:39,409 --> 00:03:41,720
+completely yellow within that drawn
+
+96
+00:03:41,720 --> 00:03:44,599
+shape that we made but now if we adjust
+
+97
+00:03:44,599 --> 00:03:46,699
+this a little bit we can sort of get
+
+98
+00:03:46,699 --> 00:03:48,829
+some definition in there and maybe break
+
+99
+00:03:48,829 --> 00:03:50,840
+out like the wheels and the windows and
+
+100
+00:03:50,840 --> 00:03:52,310
+see some of that stuff a little bit
+
+101
+00:03:52,310 --> 00:03:54,470
+separately so that's what I'll do is
+
+102
+00:03:54,470 --> 00:03:56,689
+drag this in and try to get this in
+
+103
+00:03:56,689 --> 00:03:59,150
+again we're on hue so we're we're kind
+
+104
+00:03:59,150 --> 00:04:01,579
+of trying to narrow in on the hue of
+
+105
+00:04:01,579 --> 00:04:03,470
+this vehicle and that might be pretty
+
+106
+00:04:03,470 --> 00:04:05,750
+good there we do get some of that but
+
+107
+00:04:05,750 --> 00:04:07,069
+some of that's gonna be reflections in
+
+108
+00:04:07,069 --> 00:04:08,780
+the glass anyway so we want to change
+
+109
+00:04:08,780 --> 00:04:11,000
+make an adjustment to that and then I
+
+110
+00:04:11,000 --> 00:04:12,709
+can actually click on my mask let's go
+
+111
+00:04:12,709 --> 00:04:15,379
+back to my drawn mask so I'll go to it
+
+112
+00:04:15,379 --> 00:04:17,209
+in my mask manager and I'll just adjust
+
+113
+00:04:17,209 --> 00:04:18,560
+this a little bit now that we're looking
+
+114
+00:04:18,560 --> 00:04:20,180
+at it we're seeing sort of the ground
+
+115
+00:04:20,180 --> 00:04:22,310
+there is being affected so we can
+
+116
+00:04:22,310 --> 00:04:24,860
+fine-tune this a little bit better so
+
+117
+00:04:24,860 --> 00:04:27,020
+that we're not so that we're getting
+
+118
+00:04:27,020 --> 00:04:27,950
+more it looks
+
+119
+00:04:27,950 --> 00:04:29,990
+little bit more realistic maybe more
+
+120
+00:04:29,990 --> 00:04:32,300
+accurate to what we're trying to do okay
+
+121
+00:04:32,300 --> 00:04:34,250
+let's leave it just like that and now
+
+122
+00:04:34,250 --> 00:04:36,230
+the changes that we make all we've done
+
+123
+00:04:36,230 --> 00:04:39,290
+really has just affected our masks we've
+
+124
+00:04:39,290 --> 00:04:40,880
+created a more accurate mask by
+
+125
+00:04:40,880 --> 00:04:42,860
+selecting the object and then using the
+
+126
+00:04:42,860 --> 00:04:45,410
+parametric to select pixels within that
+
+127
+00:04:45,410 --> 00:04:48,920
+object common pixels and now we can use
+
+128
+00:04:48,920 --> 00:04:50,930
+the color correct to make adjustment and
+
+129
+00:04:50,930 --> 00:04:52,480
+it's only going to make adjustments to
+
+130
+00:04:52,480 --> 00:04:56,930
+the pixels within that selected area so
+
+131
+00:04:56,930 --> 00:04:58,490
+this particular one's not giving us too
+
+132
+00:04:58,490 --> 00:05:01,940
+much of an effect the the color contrast
+
+133
+00:05:01,940 --> 00:05:03,890
+I should have picked a better one to do
+
+134
+00:05:03,890 --> 00:05:06,680
+an example but really a lot of times
+
+135
+00:05:06,680 --> 00:05:07,850
+when if you're trying to change the
+
+136
+00:05:07,850 --> 00:05:10,400
+color there's a better way to do this so
+
+137
+00:05:10,400 --> 00:05:12,320
+this would just be making a subtle
+
+138
+00:05:12,320 --> 00:05:15,260
+adjustment here anyway and so we can see
+
+139
+00:05:15,260 --> 00:05:16,850
+what it would look like before and after
+
+140
+00:05:16,850 --> 00:05:18,500
+sort of the changes that we've made but
+
+141
+00:05:18,500 --> 00:05:20,510
+if we're trying to do color adjust to
+
+142
+00:05:20,510 --> 00:05:21,950
+check out the next tutorial we're learn
+
+143
+00:05:21,950 --> 00:05:24,200
+how to do our color zones and that's how
+
+144
+00:05:24,200 --> 00:05:25,670
+we can create a look sort of like this
+
+145
+00:05:25,670 --> 00:05:28,070
+where we can take something that was one
+
+146
+00:05:28,070 --> 00:05:30,380
+color and change it to another color by
+
+147
+00:05:30,380 --> 00:05:33,770
+just adjusting colors within the color
+
+148
+00:05:33,770 --> 00:05:36,680
+zone module anyway hopefully that didn't
+
+149
+00:05:36,680 --> 00:05:38,630
+make things too much more confusing for
+
+150
+00:05:38,630 --> 00:05:40,760
+you using drawn and parametric it really
+
+151
+00:05:40,760 --> 00:05:43,750
+is fairly simple where you just draw a
+
+152
+00:05:43,750 --> 00:05:46,460
+shape and then apply parametric's width
+
+153
+00:05:46,460 --> 00:05:49,220
+to anything within that shape or that
+
+154
+00:05:49,220 --> 00:05:53,000
+mask but knowing when and how to use
+
+155
+00:05:53,000 --> 00:05:54,710
+this is kind of the harder part of
+
+156
+00:05:54,710 --> 00:05:56,210
+making that right judgement call of
+
+157
+00:05:56,210 --> 00:05:58,730
+using the right tool for the job anyway
+
+158
+00:05:58,730 --> 00:06:00,020
+leave your questions comments below if
+
+159
+00:06:00,020 --> 00:06:01,100
+you have any and look forward to
+
+160
+00:06:01,100 --> 00:06:04,390
+catching you in the next video
+

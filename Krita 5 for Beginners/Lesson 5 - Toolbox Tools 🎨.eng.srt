@@ -1,0 +1,1448 @@
+1
+00:00:00,240 --> 00:00:02,080
+in this lesson we will explore some of
+
+2
+00:00:02,080 --> 00:00:04,319
+the tools in the toolbox I'll
+
+3
+00:00:04,319 --> 00:00:07,399
+demonstrate on a blank 8x10 canvas we
+
+4
+00:00:07,399 --> 00:00:09,200
+already know what the brush tool can do
+
+5
+00:00:09,200 --> 00:00:11,880
+so we'll skip that one beside the brush
+
+6
+00:00:11,880 --> 00:00:14,280
+tool are the shape tools these have a
+
+7
+00:00:14,280 --> 00:00:17,000
+dual purpose first they can be used to
+
+8
+00:00:17,000 --> 00:00:19,439
+draw straight lines curves and geometric
+
+9
+00:00:19,439 --> 00:00:21,920
+shapes with the brush tool and second
+
+10
+00:00:21,920 --> 00:00:24,480
+they can be used to draw Vector shapes
+
+11
+00:00:24,480 --> 00:00:26,960
+Vector art is its own in-depth subject
+
+12
+00:00:26,960 --> 00:00:28,640
+and we'll be focusing more on creating
+
+13
+00:00:28,640 --> 00:00:30,960
+roster art in this course so I will only
+
+14
+00:00:30,960 --> 00:00:32,520
+give an overview of what you can do with
+
+15
+00:00:32,520 --> 00:00:34,719
+the vector tools and Creed it I have a
+
+16
+00:00:34,719 --> 00:00:36,200
+reference video you can watch if you
+
+17
+00:00:36,200 --> 00:00:38,160
+want to learn more about creating Vector
+
+18
+00:00:38,160 --> 00:00:40,520
+art the line tool will enable you to
+
+19
+00:00:40,520 --> 00:00:42,360
+draw straight lines with whatever brush
+
+20
+00:00:42,360 --> 00:00:45,160
+is currently selected tap and drag to
+
+21
+00:00:45,160 --> 00:00:47,760
+create the start and end points hold
+
+22
+00:00:47,760 --> 00:00:49,480
+still and you'll see a preview of the
+
+23
+00:00:49,480 --> 00:00:52,680
+line release to draw the line holding
+
+24
+00:00:52,680 --> 00:00:55,280
+shift will constrain the lines to 15°
+
+25
+00:00:55,280 --> 00:00:58,039
+angles you can also draw a line but
+
+26
+00:00:58,039 --> 00:01:00,680
+before releasing hold all to drag the
+
+27
+00:01:00,680 --> 00:01:02,120
+line to a new
+
+28
+00:01:02,120 --> 00:01:04,159
+location another way to access the
+
+29
+00:01:04,159 --> 00:01:05,920
+straight line mode is to select the
+
+30
+00:01:05,920 --> 00:01:09,320
+brush tool then hold V here's a pro tip
+
+31
+00:01:09,320 --> 00:01:11,880
+if you're using Windows 10 or 11 you can
+
+32
+00:01:11,880 --> 00:01:14,040
+download and install Microsoft power
+
+33
+00:01:14,040 --> 00:01:16,159
+toys which is a free application that
+
+34
+00:01:16,159 --> 00:01:18,000
+can add some Art and Design related
+
+35
+00:01:18,000 --> 00:01:20,320
+functions to your computer the feature I
+
+36
+00:01:20,320 --> 00:01:22,360
+want to focus on is the crosshairs under
+
+37
+00:01:22,360 --> 00:01:24,920
+Mouse utilities these are independent of
+
+38
+00:01:24,920 --> 00:01:27,400
+the crosshairs you get inside Creed
+
+39
+00:01:27,400 --> 00:01:29,880
+these work in any application and can be
+
+40
+00:01:29,880 --> 00:01:31,720
+enabled and disabled with a keyboard
+
+41
+00:01:31,720 --> 00:01:35,040
+shortcut mine is set to contrl alt shift
+
+42
+00:01:35,040 --> 00:01:37,479
+X I have a reference video you can watch
+
+43
+00:01:37,479 --> 00:01:40,040
+if you want to learn more as you can see
+
+44
+00:01:40,040 --> 00:01:41,840
+by enabling these I can use the
+
+45
+00:01:41,840 --> 00:01:43,759
+crosshairs to align the points of my
+
+46
+00:01:43,759 --> 00:01:46,439
+lines more easily now I can avoid
+
+47
+00:01:46,439 --> 00:01:48,960
+overdrawing the line when I am done with
+
+48
+00:01:48,960 --> 00:01:50,759
+them I can hide the windows crosshairs
+
+49
+00:01:50,759 --> 00:01:52,799
+with the same shortcut I have this
+
+50
+00:01:52,799 --> 00:01:54,520
+shortcut programm to a button on my
+
+51
+00:01:54,520 --> 00:01:56,560
+stream deck but you can also set it to
+
+52
+00:01:56,560 --> 00:01:59,039
+an Express key the straight line mode
+
+53
+00:01:59,039 --> 00:02:00,960
+also works with other brush tools
+
+54
+00:02:00,960 --> 00:02:03,920
+including the erasers and blenders I'll
+
+55
+00:02:03,920 --> 00:02:06,240
+explain how it works with Vector layers
+
+56
+00:02:06,240 --> 00:02:09,038
+later each tool has a set of properties
+
+57
+00:02:09,038 --> 00:02:10,878
+you can access from the tool options
+
+58
+00:02:10,878 --> 00:02:14,040
+panel I have mine docked on the left for
+
+59
+00:02:14,040 --> 00:02:16,000
+the straight line brush I can choose to
+
+60
+00:02:16,000 --> 00:02:18,120
+show or hide the line preview among
+
+61
+00:02:18,120 --> 00:02:20,560
+other settings most of the time if
+
+62
+00:02:20,560 --> 00:02:22,400
+you're using a tool you'll want to have
+
+63
+00:02:22,400 --> 00:02:24,879
+this panel open as well in addition to
+
+64
+00:02:24,879 --> 00:02:27,000
+drawing straight lines you can also draw
+
+65
+00:02:27,000 --> 00:02:29,400
+rectangles and ellipses you can even
+
+66
+00:02:29,400 --> 00:02:32,040
+choose to fill these shapes with a color
+
+67
+00:02:32,040 --> 00:02:34,120
+by choosing foreground color the fill
+
+68
+00:02:34,120 --> 00:02:36,480
+and stroke will be the same color
+
+69
+00:02:36,480 --> 00:02:38,440
+background color is the Swatch here in
+
+70
+00:02:38,440 --> 00:02:40,560
+the color selector you can use this to
+
+71
+00:02:40,560 --> 00:02:42,760
+choose a different color from the stroke
+
+72
+00:02:42,760 --> 00:02:45,920
+you can juxtapose these colors as well
+
+73
+00:02:45,920 --> 00:02:47,800
+you can also draw free form polygonal
+
+74
+00:02:47,800 --> 00:02:50,080
+shapes using the polygon and polyline
+
+75
+00:02:50,080 --> 00:02:52,800
+tools the polygon tool creates closed
+
+76
+00:02:52,800 --> 00:02:55,040
+shapes while the poly line tool creates
+
+77
+00:02:55,040 --> 00:02:57,640
+open shapes holding shift and clicking
+
+78
+00:02:57,640 --> 00:03:01,200
+will close the shape or end the line
+
+79
+00:03:01,200 --> 00:03:02,920
+the beer curve tool works well for
+
+80
+00:03:02,920 --> 00:03:05,080
+drawing curved lines but you'd be better
+
+81
+00:03:05,080 --> 00:03:06,920
+off using a vector layer for this since
+
+82
+00:03:06,920 --> 00:03:08,640
+you'd be able to edit the curves after
+
+83
+00:03:08,640 --> 00:03:11,280
+drawing them if you try this tool you'll
+
+84
+00:03:11,280 --> 00:03:12,920
+see that it can be cumbersome to work
+
+85
+00:03:12,920 --> 00:03:15,400
+with you have to drag out the curves at
+
+86
+00:03:15,400 --> 00:03:17,920
+each point if you'd like to draw these
+
+87
+00:03:17,920 --> 00:03:20,120
+shapes freehand with a bit of assistance
+
+88
+00:03:20,120 --> 00:03:21,920
+to make the line smoother straight you
+
+89
+00:03:21,920 --> 00:03:24,680
+can use the freehand path tool right now
+
+90
+00:03:24,680 --> 00:03:26,920
+it's set to curve so I can draw curved
+
+91
+00:03:26,920 --> 00:03:29,760
+lines that get smoothed out if I set it
+
+92
+00:03:29,760 --> 00:03:31,519
+is straight then I get lines that are
+
+93
+00:03:31,519 --> 00:03:33,640
+automatically straightened you can set
+
+94
+00:03:33,640 --> 00:03:35,560
+the tolerance of this smoothing as well
+
+95
+00:03:35,560 --> 00:03:38,640
+using the optimize value for a bit more
+
+96
+00:03:38,640 --> 00:03:40,799
+control over line smoothing you can use
+
+97
+00:03:40,799 --> 00:03:43,799
+the dynamic brush tool this has mass and
+
+98
+00:03:43,799 --> 00:03:45,840
+drag properties that concretely slow
+
+99
+00:03:45,840 --> 00:03:50,000
+down your brush making it easier to draw
+
+100
+00:03:51,159 --> 00:03:53,319
+accurately smoothing or brush
+
+101
+00:03:53,319 --> 00:03:55,159
+stabilization can be applied to the
+
+102
+00:03:55,159 --> 00:03:57,959
+regular freehand brush tools as well
+
+103
+00:03:57,959 --> 00:04:00,079
+basic smoothing adds a small amount of
+
+104
+00:04:00,079 --> 00:04:02,519
+smoothing to reduce wobble in your lines
+
+105
+00:04:02,519 --> 00:04:04,840
+without slowing them down too much this
+
+106
+00:04:04,840 --> 00:04:06,640
+is necessary if you're using an older
+
+107
+00:04:06,640 --> 00:04:08,640
+drawing tablet or a cheap brand that
+
+108
+00:04:08,640 --> 00:04:11,120
+doesn't have very good pen technology if
+
+109
+00:04:11,120 --> 00:04:13,040
+you're not having any stability issues
+
+110
+00:04:13,040 --> 00:04:15,400
+then you can leave smoothing disabled if
+
+111
+00:04:15,400 --> 00:04:17,320
+you want a higher amount of smoothing
+
+112
+00:04:17,320 --> 00:04:20,079
+then choose a weighted or stabilizer
+
+113
+00:04:20,079 --> 00:04:22,040
+higher values will stabilize your stroke
+
+114
+00:04:22,040 --> 00:04:24,800
+more in particular the stabilizer mode
+
+115
+00:04:24,800 --> 00:04:26,720
+really keeps your line from wobbling
+
+116
+00:04:26,720 --> 00:04:28,680
+even if you have a very shaky hand or
+
+117
+00:04:28,680 --> 00:04:30,840
+you're using a mouse to draw you can
+
+118
+00:04:30,840 --> 00:04:32,520
+fine-tune these settings to get the
+
+119
+00:04:32,520 --> 00:04:35,080
+exact degree of stabilization you need
+
+120
+00:04:35,080 --> 00:04:37,000
+the downside to all this Precision is
+
+121
+00:04:37,000 --> 00:04:39,160
+that a stable brush makes it very
+
+122
+00:04:39,160 --> 00:04:41,560
+difficult to draw fast and Loosely so
+
+123
+00:04:41,560 --> 00:04:43,479
+unless you need a very stable line for
+
+124
+00:04:43,479 --> 00:04:45,800
+inking or something of that nature leave
+
+125
+00:04:45,800 --> 00:04:48,919
+this setting very low or even disabled
+
+126
+00:04:48,919 --> 00:04:50,960
+since you cannot save smoothing settings
+
+127
+00:04:50,960 --> 00:04:53,280
+per brush it can be inconvenient to have
+
+128
+00:04:53,280 --> 00:04:55,759
+to keep turning it on and off what might
+
+129
+00:04:55,759 --> 00:04:57,720
+be easier is to make a custom keyboard
+
+130
+00:04:57,720 --> 00:04:59,919
+shortcut to enable and disable it and
+
+131
+00:04:59,919 --> 00:05:01,960
+maybe even program that to an Express
+
+132
+00:05:01,960 --> 00:05:04,479
+key the final tool in this row is the
+
+133
+00:05:04,479 --> 00:05:07,039
+multibrush tool this allows you to paint
+
+134
+00:05:07,039 --> 00:05:09,880
+with symmetry as you can see my line is
+
+135
+00:05:09,880 --> 00:05:12,360
+mirrored and I can create a nice mandala
+
+136
+00:05:12,360 --> 00:05:14,840
+effect I can edit the number of symmetry
+
+137
+00:05:14,840 --> 00:05:17,680
+planes known as brushes and even use
+
+138
+00:05:17,680 --> 00:05:20,479
+different modes to get various
+
+139
+00:05:20,479 --> 00:05:22,960
+effects the next row down contains the
+
+140
+00:05:22,960 --> 00:05:25,759
+move and transformation tools to really
+
+141
+00:05:25,759 --> 00:05:27,440
+explore what these can do we need to
+
+142
+00:05:27,440 --> 00:05:28,919
+have something on a couple of different
+
+143
+00:05:28,919 --> 00:05:30,160
+layers
+
+144
+00:05:30,160 --> 00:05:31,800
+you can click on the plus button in the
+
+145
+00:05:31,800 --> 00:05:33,880
+layers panel to create a new default
+
+146
+00:05:33,880 --> 00:05:36,400
+layer and draw something on both layers
+
+147
+00:05:36,400 --> 00:05:38,240
+or you can use my transform tool
+
+148
+00:05:38,240 --> 00:05:40,560
+template to follow along with me let's
+
+149
+00:05:40,560 --> 00:05:42,759
+start with the move tool you might get
+
+150
+00:05:42,759 --> 00:05:44,680
+this confused with the arrow shaped tool
+
+151
+00:05:44,680 --> 00:05:46,639
+near the top called the select shapes
+
+152
+00:05:46,639 --> 00:05:49,400
+tool but if you try to use that CR will
+
+153
+00:05:49,400 --> 00:05:50,960
+let you know it's intended for Vector
+
+154
+00:05:50,960 --> 00:05:53,080
+shapes whichever layer is currently
+
+155
+00:05:53,080 --> 00:05:55,600
+selected will be moved by the move tool
+
+156
+00:05:55,600 --> 00:05:57,759
+I'll select the red ball layer and I can
+
+157
+00:05:57,759 --> 00:06:00,160
+drag that layer around the canvas
+
+158
+00:06:00,160 --> 00:06:01,960
+I can even select multiple layers by
+
+159
+00:06:01,960 --> 00:06:04,319
+holding shift or control and move them
+
+160
+00:06:04,319 --> 00:06:06,280
+together I can also constrain the
+
+161
+00:06:06,280 --> 00:06:08,080
+movement of a layer to a horizontal or
+
+162
+00:06:08,080 --> 00:06:10,800
+vertical axis by holding shift a quick
+
+163
+00:06:10,800 --> 00:06:13,960
+way to select this tool is to press t to
+
+164
+00:06:13,960 --> 00:06:16,000
+the left in the toolbx is the transform
+
+165
+00:06:16,000 --> 00:06:18,120
+tool this tool allows you to move
+
+166
+00:06:18,120 --> 00:06:20,080
+objects around the canvas as well but it
+
+167
+00:06:20,080 --> 00:06:22,560
+can also enlarge reduce rotate and
+
+168
+00:06:22,560 --> 00:06:24,479
+distort layers but we'll come back to
+
+169
+00:06:24,479 --> 00:06:26,880
+that in a later lesson I'll select the
+
+170
+00:06:26,880 --> 00:06:29,560
+black ball layer and move then enlarge
+
+171
+00:06:29,560 --> 00:06:31,240
+it by dragging the outer edges of the
+
+172
+00:06:31,240 --> 00:06:33,800
+box or the corners when I am finished I
+
+173
+00:06:33,800 --> 00:06:35,440
+can end the transformation in a couple
+
+174
+00:06:35,440 --> 00:06:38,080
+of ways first I can select a different
+
+175
+00:06:38,080 --> 00:06:41,000
+tool like one of the brushes and second
+
+176
+00:06:41,000 --> 00:06:43,319
+I can press enter on my keyboard
+
+177
+00:06:43,319 --> 00:06:44,800
+pressing escape will reset the
+
+178
+00:06:44,800 --> 00:06:46,759
+transformation while keeping it active
+
+179
+00:06:46,759 --> 00:06:49,280
+sort of like an undo you can also press
+
+180
+00:06:49,280 --> 00:06:51,800
+contrl T to activate the transform
+
+181
+00:06:51,800 --> 00:06:54,560
+tool multiple layers can be transformed
+
+182
+00:06:54,560 --> 00:06:55,400
+as
+
+183
+00:06:55,400 --> 00:06:57,960
+well now that we know how to move layers
+
+184
+00:06:57,960 --> 00:07:00,160
+around and transform them we can go back
+
+185
+00:07:00,160 --> 00:07:02,280
+to the shape tools and briefly examine
+
+186
+00:07:02,280 --> 00:07:04,520
+how they can be used to draw in Vector
+
+187
+00:07:04,520 --> 00:07:07,440
+I'll return to the blank 8x10 canvas
+
+188
+00:07:07,440 --> 00:07:08,840
+you'll need to click the arrow next to
+
+189
+00:07:08,840 --> 00:07:10,680
+the plus button in the layers panel to
+
+190
+00:07:10,680 --> 00:07:12,800
+create a new vector layer to let cre
+
+191
+00:07:12,800 --> 00:07:14,280
+know that you want to use these tools
+
+192
+00:07:14,280 --> 00:07:15,400
+for Vector
+
+193
+00:07:15,400 --> 00:07:17,440
+illustration now if I use any of the
+
+194
+00:07:17,440 --> 00:07:19,440
+shape tools I will get a vector line
+
+195
+00:07:19,440 --> 00:07:21,840
+instead of a brush stroke I can use the
+
+196
+00:07:21,840 --> 00:07:23,759
+select shapes tool to move the shapes
+
+197
+00:07:23,759 --> 00:07:25,360
+and transform them like I can with a
+
+198
+00:07:25,360 --> 00:07:27,840
+default layer the advantage is that I
+
+199
+00:07:27,840 --> 00:07:30,000
+can also use the edit shape tool to
+
+200
+00:07:30,000 --> 00:07:32,680
+freely edit the shape of these lines for
+
+201
+00:07:32,680 --> 00:07:34,479
+example I can round the edges of this
+
+202
+00:07:34,479 --> 00:07:37,039
+Square by dragging the corner and in the
+
+203
+00:07:37,039 --> 00:07:39,599
+tool options if I choose convert to path
+
+204
+00:07:39,599 --> 00:07:41,680
+I'll get nodes that I can use to reshape
+
+205
+00:07:41,680 --> 00:07:44,280
+this more precisely you can also easily
+
+206
+00:07:44,280 --> 00:07:46,199
+edit the stroke and fill colors of
+
+207
+00:07:46,199 --> 00:07:48,759
+vector shapes in the tool options panel
+
+208
+00:07:48,759 --> 00:07:51,360
+you can even fill shapes with gradients
+
+209
+00:07:51,360 --> 00:07:53,479
+if I reshape the vector layer The Fill
+
+210
+00:07:53,479 --> 00:07:56,159
+adjusts automatically but perhaps the
+
+211
+00:07:56,159 --> 00:07:58,440
+greatest Advantage is that Vector art is
+
+212
+00:07:58,440 --> 00:08:00,440
+resolution indep dependent so it can be
+
+213
+00:08:00,440 --> 00:08:03,599
+enlarged without losing visual quality
+
+214
+00:08:03,599 --> 00:08:05,680
+to remove Vector shapes select them with
+
+215
+00:08:05,680 --> 00:08:07,520
+the select shapes tool and then press
+
+216
+00:08:07,520 --> 00:08:10,360
+delete or delete the entire layer again
+
+217
+00:08:10,360 --> 00:08:12,280
+to keep this course concise I won't say
+
+218
+00:08:12,280 --> 00:08:14,800
+much more about Vector art let's explore
+
+219
+00:08:14,800 --> 00:08:17,560
+the text tool next text is another type
+
+220
+00:08:17,560 --> 00:08:20,280
+of vector shape you can create in Crea
+
+221
+00:08:20,280 --> 00:08:22,440
+though you can add it to default layers
+
+222
+00:08:22,440 --> 00:08:24,240
+it's better to do it in Vector so you
+
+223
+00:08:24,240 --> 00:08:26,240
+don't lose visual quality when scaling
+
+224
+00:08:26,240 --> 00:08:28,879
+the font up and down drag a box where
+
+225
+00:08:28,879 --> 00:08:31,240
+you'd like to place the text the edit
+
+226
+00:08:31,240 --> 00:08:33,399
+text panel appears and you can use it to
+
+227
+00:08:33,399 --> 00:08:35,559
+enter your desired text and choose its
+
+228
+00:08:35,559 --> 00:08:38,240
+properties like font size and color you
+
+229
+00:08:38,240 --> 00:08:40,599
+can resize this panel to make it smaller
+
+230
+00:08:40,599 --> 00:08:42,599
+but unfortunately you have to close it
+
+231
+00:08:42,599 --> 00:08:45,240
+to do anything with a text layer this is
+
+232
+00:08:45,240 --> 00:08:47,120
+very inconvenient so I would recommend
+
+233
+00:08:47,120 --> 00:08:48,760
+using a different application for your
+
+234
+00:08:48,760 --> 00:08:51,160
+text if you use it a lot you can always
+
+235
+00:08:51,160 --> 00:08:52,959
+make the artwork in cre and then the
+
+236
+00:08:52,959 --> 00:08:54,920
+text and something else using a cross-
+
+237
+00:08:54,920 --> 00:08:56,880
+compatible file format like
+
+238
+00:08:56,880 --> 00:08:59,320
+PSD next we will go back down to the the
+
+239
+00:08:59,320 --> 00:09:01,720
+crop tool which can crop or enlarge the
+
+240
+00:09:01,720 --> 00:09:04,079
+canvas I'll load the canvas size
+
+241
+00:09:04,079 --> 00:09:06,560
+template to work with the crop tool is
+
+242
+00:09:06,560 --> 00:09:08,279
+most commonly used to make the canvas
+
+243
+00:09:08,279 --> 00:09:10,920
+smaller by trimming off excess space so
+
+244
+00:09:10,920 --> 00:09:12,760
+if I want to trim this canvas down I'll
+
+245
+00:09:12,760 --> 00:09:14,760
+drag a box where I want to remove the
+
+246
+00:09:14,760 --> 00:09:17,160
+canvas when you're cropping by eye
+
+247
+00:09:17,160 --> 00:09:19,360
+you're creating an arbitrary crop if
+
+248
+00:09:19,360 --> 00:09:20,800
+you're just posting your artwork to the
+
+249
+00:09:20,800 --> 00:09:22,760
+web the crop dimensions are not so
+
+250
+00:09:22,760 --> 00:09:24,640
+important but if you'll be printing your
+
+251
+00:09:24,640 --> 00:09:26,560
+work I'd recommend cropping to a
+
+252
+00:09:26,560 --> 00:09:29,200
+specific print size you can set a
+
+253
+00:09:29,200 --> 00:09:32,079
+specific crop size in the tool options
+
+254
+00:09:32,079 --> 00:09:34,160
+you can also lock and edit the aspect
+
+255
+00:09:34,160 --> 00:09:36,880
+ratio for example a setting of one will
+
+256
+00:09:36,880 --> 00:09:39,720
+make the crop perfectly Square I'm going
+
+257
+00:09:39,720 --> 00:09:41,959
+to press enter to commit that crop and
+
+258
+00:09:41,959 --> 00:09:43,800
+now that outside area has been trimmed
+
+259
+00:09:43,800 --> 00:09:45,880
+away this part of the painting will be
+
+260
+00:09:45,880 --> 00:09:49,000
+permanently removed if I save my artwork
+
+261
+00:09:49,000 --> 00:09:51,160
+if I want the cropped area to return I
+
+262
+00:09:51,160 --> 00:09:52,760
+can undo to the point before I had
+
+263
+00:09:52,760 --> 00:09:53,839
+applied the
+
+264
+00:09:53,839 --> 00:09:57,440
+crop I'll switch to a blank 8x10 canvas
+
+265
+00:09:57,440 --> 00:09:59,399
+and next is the gradient tool which
+
+266
+00:09:59,399 --> 00:10:01,000
+allows you to create a gradient by
+
+267
+00:10:01,000 --> 00:10:03,000
+dragging it across the canvas the
+
+268
+00:10:03,000 --> 00:10:04,839
+gradient will flow between the start and
+
+269
+00:10:04,839 --> 00:10:07,160
+end points you can also choose gradient
+
+270
+00:10:07,160 --> 00:10:09,320
+presets from the properties bar there is
+
+271
+00:10:09,320 --> 00:10:11,240
+a foreground color to transparent
+
+272
+00:10:11,240 --> 00:10:13,519
+gradient as well as many other color
+
+273
+00:10:13,519 --> 00:10:15,480
+combinations you can even change the
+
+274
+00:10:15,480 --> 00:10:18,120
+gradient shape from linear to radial and
+
+275
+00:10:18,120 --> 00:10:19,800
+many other
+
+276
+00:10:19,800 --> 00:10:22,160
+modes the sample tool we already
+
+277
+00:10:22,160 --> 00:10:24,399
+explored in an earlier lesson we can use
+
+278
+00:10:24,399 --> 00:10:27,000
+this to sample colors from the canvas
+
+279
+00:10:27,000 --> 00:10:28,640
+there's more that this tool can do but
+
+280
+00:10:28,640 --> 00:10:30,200
+we'll get into into that in a dedicated
+
+281
+00:10:30,200 --> 00:10:33,240
+lesson next is the paint bucket tool the
+
+282
+00:10:33,240 --> 00:10:35,279
+paint bucket tool can flood fill areas
+
+283
+00:10:35,279 --> 00:10:37,920
+of your canvas let's open the paint
+
+284
+00:10:37,920 --> 00:10:39,920
+bucket tool template for this the crop
+
+285
+00:10:39,920 --> 00:10:41,639
+tool is most commonly used to make the
+
+286
+00:10:41,639 --> 00:10:43,639
+canvas smaller by trimming off excess
+
+287
+00:10:43,639 --> 00:10:46,639
+space hard Edge brush this tool has a
+
+288
+00:10:46,639 --> 00:10:48,600
+lot of properties so let's expand the
+
+289
+00:10:48,600 --> 00:10:51,160
+panel to show them all I'll also reset
+
+290
+00:10:51,160 --> 00:10:53,200
+the settings so they are all at their
+
+291
+00:10:53,200 --> 00:10:55,519
+defaults basically the Paint Bucket
+
+292
+00:10:55,519 --> 00:10:57,639
+detects differences in color and uses
+
+293
+00:10:57,639 --> 00:10:59,279
+those differences to limit the color
+
+294
+00:10:59,279 --> 00:11:01,920
+fill to a specific boundary with these
+
+295
+00:11:01,920 --> 00:11:03,800
+settings here I can select the circle
+
+296
+00:11:03,800 --> 00:11:06,480
+lines layer and fill those shapes you
+
+297
+00:11:06,480 --> 00:11:08,240
+may notice that when you try to fill the
+
+298
+00:11:08,240 --> 00:11:10,279
+top right Circle the paint floods
+
+299
+00:11:10,279 --> 00:11:12,560
+outside of the shape that's because that
+
+300
+00:11:12,560 --> 00:11:14,399
+circle is not closed like the other
+
+301
+00:11:14,399 --> 00:11:16,279
+shapes so the paint has a way to escape
+
+302
+00:11:16,279 --> 00:11:18,800
+its boundary I'll undo those fills by
+
+303
+00:11:18,800 --> 00:11:21,399
+reverting my template you can do this by
+
+304
+00:11:21,399 --> 00:11:24,000
+simply reopening the file one key
+
+305
+00:11:24,000 --> 00:11:26,079
+feature to be aware of is the reference
+
+306
+00:11:26,079 --> 00:11:28,560
+setting the second option will allow the
+
+307
+00:11:28,560 --> 00:11:30,360
+paint Buton to detect differences in
+
+308
+00:11:30,360 --> 00:11:33,240
+color on all layers so if I select the
+
+309
+00:11:33,240 --> 00:11:35,800
+color fill layer and fill there The Fill
+
+310
+00:11:35,800 --> 00:11:38,040
+is separate from the line work by
+
+311
+00:11:38,040 --> 00:11:39,760
+growing the edge of the fill by two
+
+312
+00:11:39,760 --> 00:11:42,079
+pixels I can even get it to fill Beyond
+
+313
+00:11:42,079 --> 00:11:44,440
+the Edge of the line art this makes for
+
+314
+00:11:44,440 --> 00:11:47,800
+a clean more professional coloring job
+
+315
+00:11:47,800 --> 00:11:49,839
+the drag fill mode will even allow you
+
+316
+00:11:49,839 --> 00:11:52,440
+to drag across cells to fill them in
+
+317
+00:11:52,440 --> 00:11:55,560
+this can greatly speed up your coloring
+
+318
+00:11:55,560 --> 00:11:58,120
+workflow the enclos and fill tool is
+
+319
+00:11:58,120 --> 00:11:59,600
+another more advanced aned way to fill
+
+320
+00:11:59,600 --> 00:12:02,000
+line art I'll reset the settings and
+
+321
+00:12:02,000 --> 00:12:04,560
+revert the template you can choose from
+
+322
+00:12:04,560 --> 00:12:06,639
+a variety of ways to make a selection
+
+323
+00:12:06,639 --> 00:12:10,000
+including shapes a lasso or a brush I'll
+
+324
+00:12:10,000 --> 00:12:12,920
+choose the lasso next you can Define
+
+325
+00:12:12,920 --> 00:12:15,399
+exactly what should be filled in in this
+
+326
+00:12:15,399 --> 00:12:17,800
+case I'll set the target regions to any
+
+327
+00:12:17,800 --> 00:12:19,760
+surrounded by a specific color and
+
+328
+00:12:19,760 --> 00:12:21,519
+choose black since that's what we want
+
+329
+00:12:21,519 --> 00:12:24,240
+to use as the fill boundary I'll also
+
+330
+00:12:24,240 --> 00:12:26,480
+grow The Fill by two pixels set the
+
+331
+00:12:26,480 --> 00:12:28,560
+reference to all layers and fill onto
+
+332
+00:12:28,560 --> 00:12:31,320
+the fill layer now if I draw a selection
+
+333
+00:12:31,320 --> 00:12:33,160
+around the star shape you can see it's
+
+334
+00:12:33,160 --> 00:12:35,440
+filled in perfectly but the real
+
+335
+00:12:35,440 --> 00:12:37,079
+advantage of this tool is that I can
+
+336
+00:12:37,079 --> 00:12:39,040
+undo and then draw a selection around
+
+337
+00:12:39,040 --> 00:12:41,120
+the star and the circle to fill
+
+338
+00:12:41,120 --> 00:12:43,440
+everything at once this is very
+
+339
+00:12:43,440 --> 00:12:45,279
+time-saving if you have a lot of small
+
+340
+00:12:45,279 --> 00:12:48,160
+cells to fill in if you prefer you can
+
+341
+00:12:48,160 --> 00:12:49,920
+also use the brush mode to paint over
+
+342
+00:12:49,920 --> 00:12:52,079
+what you want to fill there is a lot
+
+343
+00:12:52,079 --> 00:12:54,199
+more you can do to fine-tune this tool
+
+344
+00:12:54,199 --> 00:12:55,639
+but it's too much to cover in this
+
+345
+00:12:55,639 --> 00:12:58,079
+course the techniques for coloring line
+
+346
+00:12:58,079 --> 00:12:59,600
+artart are something I cover in a
+
+347
+00:12:59,600 --> 00:13:01,639
+reference video so I will refer you to
+
+348
+00:13:01,639 --> 00:13:03,680
+that if you would like to learn more I
+
+349
+00:13:03,680 --> 00:13:05,399
+also have a reference video that covers
+
+350
+00:13:05,399 --> 00:13:07,519
+coloring specifically with the colorized
+
+351
+00:13:07,519 --> 00:13:09,920
+mask tool in cre so I won't repeat that
+
+352
+00:13:09,920 --> 00:13:12,639
+information here that concludes our
+
+353
+00:13:12,639 --> 00:13:14,920
+exploration of the toolbox there are a
+
+354
+00:13:14,920 --> 00:13:16,720
+few other tools we skipped over like the
+
+355
+00:13:16,720 --> 00:13:18,959
+selection Tools assistant and reference
+
+356
+00:13:18,959 --> 00:13:20,880
+image tools we will come back to these
+
+357
+00:13:20,880 --> 00:13:23,399
+in a later lesson tools such as the
+
+358
+00:13:23,399 --> 00:13:25,399
+measure smart patch and calligraphy I
+
+359
+00:13:25,399 --> 00:13:27,959
+don't find to be essential coming up
+
+360
+00:13:27,959 --> 00:13:29,680
+next we will be exploring the menu bar
+
+361
+00:13:29,680 --> 00:13:33,440
+commands like file edit
+
+362
+00:13:52,320 --> 00:13:55,320
+Etc
+

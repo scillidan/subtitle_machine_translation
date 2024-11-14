@@ -1,0 +1,544 @@
+1
+00:00:02,840 --> 00:00:05,100
+welcome back to another video editing
+
+2
+00:00:05,100 --> 00:00:06,420
+tutorial using the free software
+
+3
+00:00:06,420 --> 00:00:07,440
+kdenlive
+
+4
+00:00:07,440 --> 00:00:09,329
+in this video I'm just going to go
+
+5
+00:00:09,329 --> 00:00:11,009
+through and demonstrate some of the
+
+6
+00:00:11,009 --> 00:00:12,900
+artistic video effects that you can
+
+7
+00:00:12,900 --> 00:00:15,809
+apply to video footage or to images so
+
+8
+00:00:15,809 --> 00:00:18,240
+to get started I'm just going to open a
+
+9
+00:00:18,240 --> 00:00:20,820
+couple clips we're going to do this one
+
+10
+00:00:20,820 --> 00:00:23,279
+of the cyclists here and we're also
+
+11
+00:00:23,279 --> 00:00:26,550
+going to just do a regular image so
+
+12
+00:00:26,550 --> 00:00:28,019
+we'll do and I'll just drag and drop
+
+13
+00:00:28,019 --> 00:00:29,820
+that one and I think it's under my
+
+14
+00:00:29,820 --> 00:00:32,820
+pictures yes we'll do this image here
+
+15
+00:00:32,820 --> 00:00:34,830
+with the fish okay great so I'm just
+
+16
+00:00:34,830 --> 00:00:37,350
+gonna drag in first of all my video
+
+17
+00:00:37,350 --> 00:00:39,450
+footage here and then drag in this image
+
+18
+00:00:39,450 --> 00:00:40,890
+which will just come in by default
+
+19
+00:00:40,890 --> 00:00:43,260
+before it'll play for 5 seconds this
+
+20
+00:00:43,260 --> 00:00:45,780
+video will and then it'll just go be the
+
+21
+00:00:45,780 --> 00:00:47,760
+end of the video so I can zoom in on my
+
+22
+00:00:47,760 --> 00:00:49,500
+timeline to have a better view here or I
+
+23
+00:00:49,500 --> 00:00:51,060
+can just click this button here if we
+
+24
+00:00:51,060 --> 00:00:53,400
+hover over hover over it it says fit to
+
+25
+00:00:53,400 --> 00:00:55,680
+zoom to project now just kind of zoom it
+
+26
+00:00:55,680 --> 00:00:57,060
+so we can kind of see our project nice
+
+27
+00:00:57,060 --> 00:01:00,030
+like that and then what I want to do is
+
+28
+00:01:00,030 --> 00:01:01,950
+get to the effects so we've got
+
+29
+00:01:01,950 --> 00:01:03,450
+transitions tab down here we have
+
+30
+00:01:03,450 --> 00:01:05,400
+effects you might need to click here
+
+31
+00:01:05,400 --> 00:01:06,540
+yours might be over in a different
+
+32
+00:01:06,540 --> 00:01:08,820
+location but regardless which want to go
+
+33
+00:01:08,820 --> 00:01:10,590
+into effects and then bring down this
+
+34
+00:01:10,590 --> 00:01:13,260
+tab for artistic click that little
+
+35
+00:01:13,260 --> 00:01:14,730
+triangle to the side of artistic and it
+
+36
+00:01:14,730 --> 00:01:16,890
+brings down all these different options
+
+37
+00:01:16,890 --> 00:01:19,350
+we can also just type in and search like
+
+38
+00:01:19,350 --> 00:01:21,120
+this dust if we want to find dust we
+
+39
+00:01:21,120 --> 00:01:23,310
+just type in dust and it'll bring up
+
+40
+00:01:23,310 --> 00:01:26,010
+just that one so we can search through
+
+41
+00:01:26,010 --> 00:01:29,100
+for any effect by just using the search
+
+42
+00:01:29,100 --> 00:01:33,300
+bar so let's just let's just start we
+
+43
+00:01:33,300 --> 00:01:35,130
+have this three level threshold the best
+
+44
+00:01:35,130 --> 00:01:36,750
+thing you can do is just just test all
+
+45
+00:01:36,750 --> 00:01:38,400
+these so we can left click and drag and
+
+46
+00:01:38,400 --> 00:01:39,659
+drop it over top of the video footage
+
+47
+00:01:39,659 --> 00:01:41,820
+and we see what it does and then we have
+
+48
+00:01:41,820 --> 00:01:43,380
+options for it over here with this one
+
+49
+00:01:43,380 --> 00:01:45,180
+there's not a whole lot of options we
+
+50
+00:01:45,180 --> 00:01:47,640
+can disable it basically or enable it
+
+51
+00:01:47,640 --> 00:01:49,580
+but that's about it
+
+52
+00:01:49,580 --> 00:01:54,180
+we have this one here binarize so this
+
+53
+00:01:54,180 --> 00:01:56,280
+turns everything binary based on the
+
+54
+00:01:56,280 --> 00:01:57,659
+cover of the pixel so we can have to
+
+55
+00:01:57,659 --> 00:02:00,360
+turn it basically black and white based
+
+56
+00:02:00,360 --> 00:02:02,940
+off of the lightness of the pixel so
+
+57
+00:02:02,940 --> 00:02:04,490
+it's kind of cool I'm going to delete it
+
+58
+00:02:04,490 --> 00:02:07,049
+another way we can add the effects to is
+
+59
+00:02:07,049 --> 00:02:08,758
+just going down to the video clip in the
+
+60
+00:02:08,758 --> 00:02:11,159
+timeline and right click and go to add
+
+61
+00:02:11,159 --> 00:02:13,800
+effect and then we can just go
+
+62
+00:02:13,800 --> 00:02:15,930
+which everyone we want and right now
+
+63
+00:02:15,930 --> 00:02:17,220
+we're doing artistic so we can go to
+
+64
+00:02:17,220 --> 00:02:19,650
+artistic and do this next one let's just
+
+65
+00:02:19,650 --> 00:02:21,780
+try cartoon and it creates kind of a
+
+66
+00:02:21,780 --> 00:02:24,210
+cartoony look and again we have options
+
+67
+00:02:24,210 --> 00:02:27,060
+for how we want to adjust this here so
+
+68
+00:02:27,060 --> 00:02:28,380
+we can kind of adjust it and make it
+
+69
+00:02:28,380 --> 00:02:29,820
+look a little bit different depending on
+
+70
+00:02:29,820 --> 00:02:34,560
+how we adjust up here I'll do this
+
+71
+00:02:34,560 --> 00:02:37,230
+charcoal will drag and drop into here
+
+72
+00:02:37,230 --> 00:02:39,120
+that's what charcoal looks like now I'm
+
+73
+00:02:39,120 --> 00:02:40,320
+going to move forward on my playhead to
+
+74
+00:02:40,320 --> 00:02:42,120
+this picture so we can apply this next
+
+75
+00:02:42,120 --> 00:02:42,510
+one
+
+76
+00:02:42,510 --> 00:02:45,600
+dither we'll apply it to this picture
+
+77
+00:02:45,600 --> 00:02:47,870
+here and again we have different levels
+
+78
+00:02:47,870 --> 00:02:50,760
+or different adjustments we can make to
+
+79
+00:02:50,760 --> 00:02:52,650
+change the way the effect looks on this
+
+80
+00:02:52,650 --> 00:02:56,280
+picture we can apply multiple to if you
+
+81
+00:02:56,280 --> 00:02:58,230
+want to do this dither and the dust at
+
+82
+00:02:58,230 --> 00:02:59,880
+the same time we just apply it over top
+
+83
+00:02:59,880 --> 00:03:01,770
+and then it changes that one we couldn't
+
+84
+00:03:01,770 --> 00:03:03,120
+really tell but if we did like this
+
+85
+00:03:03,120 --> 00:03:05,580
+binary that we did earlier it'll make it
+
+86
+00:03:05,580 --> 00:03:10,080
+look really extreme different I'm gonna
+
+87
+00:03:10,080 --> 00:03:11,820
+delete both these so to delete the
+
+88
+00:03:11,820 --> 00:03:13,110
+effect I'm just going up and clicking on
+
+89
+00:03:13,110 --> 00:03:15,840
+this red garbage can and the top right
+
+90
+00:03:15,840 --> 00:03:18,510
+of the kind of the project window or the
+
+91
+00:03:18,510 --> 00:03:21,930
+settings window for the properties what
+
+92
+00:03:21,930 --> 00:03:24,300
+else we got emboss but the cool thing is
+
+93
+00:03:24,300 --> 00:03:25,980
+though I should show you two so it's
+
+94
+00:03:25,980 --> 00:03:27,510
+applying it to the video it might take a
+
+95
+00:03:27,510 --> 00:03:29,670
+little bit of time to process but
+
+96
+00:03:29,670 --> 00:03:32,400
+actually we can play the video that's
+
+97
+00:03:32,400 --> 00:03:33,360
+kind of the cool thing about these
+
+98
+00:03:33,360 --> 00:03:35,340
+effects is that it applies it to the
+
+99
+00:03:35,340 --> 00:03:38,040
+whole video which is pretty cool like
+
+100
+00:03:38,040 --> 00:03:40,170
+this one we have old film so it's gonna
+
+101
+00:03:40,170 --> 00:03:42,720
+make it look like an old film and I
+
+102
+00:03:42,720 --> 00:03:44,459
+think that shakes a little bit and
+
+103
+00:03:44,459 --> 00:03:48,570
+flashes maybe yeah so that's how it does
+
+104
+00:03:48,570 --> 00:03:50,880
+that and we can combine old film with
+
+105
+00:03:50,880 --> 00:03:54,300
+grain I think and also with there's this
+
+106
+00:03:54,300 --> 00:03:58,500
+one vignette vignette vignette dad you
+
+107
+00:03:58,500 --> 00:04:00,720
+say this word and then we can also do
+
+108
+00:04:00,720 --> 00:04:03,989
+there's an alliance of-- somewhere I was
+
+109
+00:04:03,989 --> 00:04:06,300
+doing I have scratch lines so with all
+
+110
+00:04:06,300 --> 00:04:08,330
+these together it'll create a really
+
+111
+00:04:08,330 --> 00:04:11,640
+interesting look for like old film so we
+
+112
+00:04:11,640 --> 00:04:13,290
+have two lines these vertical lines
+
+113
+00:04:13,290 --> 00:04:16,829
+appearing we have like a yeah
+
+114
+00:04:16,829 --> 00:04:19,589
+anyway I I just want to show that you
+
+115
+00:04:19,589 --> 00:04:21,810
+can apply multiple effects over top of
+
+116
+00:04:21,810 --> 00:04:24,000
+each other to create kind of a cool
+
+117
+00:04:24,000 --> 00:04:26,070
+looking thing and you notice it's kind
+
+118
+00:04:26,070 --> 00:04:27,669
+of going slow it's a little bit
+
+119
+00:04:27,669 --> 00:04:29,349
+not up to full speed that's cuz its
+
+120
+00:04:29,349 --> 00:04:31,810
+processing all of these effects when we
+
+121
+00:04:31,810 --> 00:04:33,310
+actually render it out I'm gonna click
+
+122
+00:04:33,310 --> 00:04:35,650
+render and choose a place to save on our
+
+123
+00:04:35,650 --> 00:04:38,050
+computer it won't be like that it'll be
+
+124
+00:04:38,050 --> 00:04:42,849
+just a normal nice smooth video so yeah
+
+125
+00:04:42,849 --> 00:04:44,379
+I'm not gonna show any more of those but
+
+126
+00:04:44,379 --> 00:04:46,360
+that's basically it go through and play
+
+127
+00:04:46,360 --> 00:04:48,550
+with all these and get familiar with how
+
+128
+00:04:48,550 --> 00:04:51,249
+they work because yeah they provide some
+
+129
+00:04:51,249 --> 00:04:53,439
+pretty cool they can provide some pretty
+
+130
+00:04:53,439 --> 00:04:57,849
+cool effects on your video and pictures
+
+131
+00:04:57,849 --> 00:04:59,139
+that you're using in Caden life
+
+132
+00:04:59,139 --> 00:05:00,430
+hopefully you found this video
+
+133
+00:05:00,430 --> 00:05:02,199
+informative go ahead and like and
+
+134
+00:05:02,199 --> 00:05:03,849
+subscribe comment below I'd love to hear
+
+135
+00:05:03,849 --> 00:05:06,460
+your feedback and I'll catch you on the
+
+136
+00:05:06,460 --> 00:05:08,969
+next video
+

@@ -1,0 +1,1152 @@
+1
+00:00:02,240 --> 00:00:04,980
+welcome to another tutorial in this
+
+2
+00:00:04,980 --> 00:00:06,240
+video we're going to be looking at the
+
+3
+00:00:06,240 --> 00:00:08,009
+text tool in and learn how to
+
+4
+00:00:08,009 --> 00:00:11,099
+create and modify text within go
+
+5
+00:00:11,099 --> 00:00:12,509
+ahead and locate your text tool it's
+
+6
+00:00:12,509 --> 00:00:14,999
+going to be maybe the letter A icon and
+
+7
+00:00:14,999 --> 00:00:17,310
+with this icon set if we hover over we
+
+8
+00:00:17,310 --> 00:00:19,349
+can see the shortcut key to get into
+
+9
+00:00:19,349 --> 00:00:21,839
+this is T T for text so if we're in the
+
+10
+00:00:21,839 --> 00:00:23,699
+move tool for example we can hit the T
+
+11
+00:00:23,699 --> 00:00:25,679
+key on our keyboard to quickly get into
+
+12
+00:00:25,679 --> 00:00:27,900
+this tool and also once we're in the
+
+13
+00:00:27,900 --> 00:00:29,400
+tool we see some different options for
+
+14
+00:00:29,400 --> 00:00:31,589
+it right down here we see what type of
+
+15
+00:00:31,589 --> 00:00:34,260
+font it is this is a serif font the size
+
+16
+00:00:34,260 --> 00:00:36,870
+currently is 60 and the color is black
+
+17
+00:00:36,870 --> 00:00:38,310
+and there's some different options here
+
+18
+00:00:38,310 --> 00:00:38,850
+as well
+
+19
+00:00:38,850 --> 00:00:41,010
+so that means when we go to create this
+
+20
+00:00:41,010 --> 00:00:43,320
+if we just left-click in here it creates
+
+21
+00:00:43,320 --> 00:00:45,180
+these four boxes this is our sort of our
+
+22
+00:00:45,180 --> 00:00:47,580
+dynamic text box and we can just start
+
+23
+00:00:47,580 --> 00:00:51,390
+typing in right now we type our text and
+
+24
+00:00:51,390 --> 00:00:53,160
+sure enough it's the color it's black
+
+25
+00:00:53,160 --> 00:00:55,320
+it's using this serif font and the size
+
+26
+00:00:55,320 --> 00:00:58,620
+is 60 now if we want to change it or
+
+27
+00:00:58,620 --> 00:01:00,240
+change any part of it we can select
+
+28
+00:01:00,240 --> 00:01:02,700
+maybe if we want this is to be larger we
+
+29
+00:01:02,700 --> 00:01:04,949
+just left click and hold to select those
+
+30
+00:01:04,949 --> 00:01:07,440
+two letters and then we can change the
+
+31
+00:01:07,440 --> 00:01:10,260
+size up here by going plus and minus and
+
+32
+00:01:10,260 --> 00:01:12,780
+so we can make just those larger if we
+
+33
+00:01:12,780 --> 00:01:15,030
+want just a certain letter to be much
+
+34
+00:01:15,030 --> 00:01:16,560
+larger we select that letter by
+
+35
+00:01:16,560 --> 00:01:18,900
+left-clicking and dragging till it has a
+
+36
+00:01:18,900 --> 00:01:20,970
+box around it and then we can use plus
+
+37
+00:01:20,970 --> 00:01:23,490
+and minus up here to change we don't use
+
+38
+00:01:23,490 --> 00:01:25,500
+the plus and minus over here because
+
+39
+00:01:25,500 --> 00:01:27,330
+that's going to change the entire
+
+40
+00:01:27,330 --> 00:01:29,490
+selection or it's going to change the
+
+41
+00:01:29,490 --> 00:01:31,740
+attributes for the next text box that we
+
+42
+00:01:31,740 --> 00:01:35,310
+create so whatever is selected is going
+
+43
+00:01:35,310 --> 00:01:37,950
+to be what's changed up here we can also
+
+44
+00:01:37,950 --> 00:01:39,750
+double click and just type in a value so
+
+45
+00:01:39,750 --> 00:01:44,640
+150 we can make a giant s there notice
+
+46
+00:01:44,640 --> 00:01:46,470
+something you want to pay attention to
+
+47
+00:01:46,470 --> 00:01:48,330
+is if you bring in an image and I have
+
+48
+00:01:48,330 --> 00:01:50,520
+one loaded in here actually before we do
+
+49
+00:01:50,520 --> 00:01:52,049
+this I want to call your attention to
+
+50
+00:01:52,049 --> 00:01:54,659
+the layers when we created this we've
+
+51
+00:01:54,659 --> 00:01:56,970
+created a text layer on top of our white
+
+52
+00:01:56,970 --> 00:01:59,520
+background which means if we ever want
+
+53
+00:01:59,520 --> 00:02:01,049
+to we can get back in here and edit it
+
+54
+00:02:01,049 --> 00:02:03,900
+say we're using the move tool or maybe
+
+55
+00:02:03,900 --> 00:02:06,510
+we select something we want to get back
+
+56
+00:02:06,510 --> 00:02:08,399
+in and edit this text all we have to do
+
+57
+00:02:08,399 --> 00:02:10,979
+is click on the text tool and then click
+
+58
+00:02:10,979 --> 00:02:13,680
+in here and we can erase
+
+59
+00:02:13,680 --> 00:02:15,359
+and start typing in something else if we
+
+60
+00:02:15,359 --> 00:02:18,180
+want to do we can also resize the text
+
+61
+00:02:18,180 --> 00:02:20,219
+box by dragging these handles over here
+
+62
+00:02:20,219 --> 00:02:23,219
+and if we want to move it around we
+
+63
+00:02:23,219 --> 00:02:25,019
+could use the move tool but you can also
+
+64
+00:02:25,019 --> 00:02:27,030
+hold down the Alt key on your keyboard
+
+65
+00:02:27,030 --> 00:02:29,549
+and just click somewhere within the text
+
+66
+00:02:29,549 --> 00:02:32,579
+box and drag this moves the entire text
+
+67
+00:02:32,579 --> 00:02:35,579
+box and again to resize the text box you
+
+68
+00:02:35,579 --> 00:02:38,150
+can hover to the top or the sides and
+
+69
+00:02:38,150 --> 00:02:41,430
+notice if you do resize it since this is
+
+70
+00:02:41,430 --> 00:02:45,299
+a dynamic text box it will kind of push
+
+71
+00:02:45,299 --> 00:02:48,750
+the the text to the next portion of the
+
+72
+00:02:48,750 --> 00:02:50,760
+box that makes sense it won't run off
+
+73
+00:02:50,760 --> 00:02:52,709
+the side but it will run off the tops
+
+74
+00:02:52,709 --> 00:02:55,829
+and the bottoms okay I'm going to go to
+
+75
+00:02:55,829 --> 00:02:57,599
+this image here because this is a quite
+
+76
+00:02:57,599 --> 00:02:59,909
+a large image we can see it's like five
+
+77
+00:02:59,909 --> 00:03:01,829
+thousand pixels by thirty five hundred
+
+78
+00:03:01,829 --> 00:03:04,980
+pixels and it's 300 dpi so if we grab
+
+79
+00:03:04,980 --> 00:03:07,409
+the same text tool with the same
+
+80
+00:03:07,409 --> 00:03:11,219
+settings the 60 size and we click and we
+
+81
+00:03:11,219 --> 00:03:14,340
+start typing in that same thing notice
+
+82
+00:03:14,340 --> 00:03:16,379
+it's much much smaller it appears to be
+
+83
+00:03:16,379 --> 00:03:19,440
+smaller and that's because the image is
+
+84
+00:03:19,440 --> 00:03:22,349
+so much larger so relative to this image
+
+85
+00:03:22,349 --> 00:03:24,629
+size the text appears to be small but it
+
+86
+00:03:24,629 --> 00:03:26,519
+is still the same size as it was over
+
+87
+00:03:26,519 --> 00:03:28,409
+here at least before we started messing
+
+88
+00:03:28,409 --> 00:03:30,510
+with it so to change the size again we
+
+89
+00:03:30,510 --> 00:03:32,459
+can come over here and just change the
+
+90
+00:03:32,459 --> 00:03:34,379
+size of the text we can click in here
+
+91
+00:03:34,379 --> 00:03:37,379
+and type in 150 and get some larger text
+
+92
+00:03:37,379 --> 00:03:39,269
+we might also want to change the color
+
+93
+00:03:39,269 --> 00:03:41,430
+if I move this over top of the green
+
+94
+00:03:41,430 --> 00:03:43,229
+leaf by holding down the Alt key and I
+
+95
+00:03:43,229 --> 00:03:45,930
+drag it on top of the leaf now it's hard
+
+96
+00:03:45,930 --> 00:03:47,669
+to see that so we might want a lighter
+
+97
+00:03:47,669 --> 00:03:49,919
+color text we can click over here and
+
+98
+00:03:49,919 --> 00:03:52,259
+change the color we can change it to
+
+99
+00:03:52,259 --> 00:03:54,629
+something maybe like a light blue and
+
+100
+00:03:54,629 --> 00:03:57,239
+then we go okay now that stands out a
+
+101
+00:03:57,239 --> 00:04:00,329
+little bit better again the color change
+
+102
+00:04:00,329 --> 00:04:03,419
+is happening here in the text options
+
+103
+00:04:03,419 --> 00:04:06,359
+and not the color selector here where we
+
+104
+00:04:06,359 --> 00:04:09,359
+would change it for our brush so make
+
+105
+00:04:09,359 --> 00:04:12,870
+sure you pay attention to that but we
+
+106
+00:04:12,870 --> 00:04:14,549
+can bring in some text so maybe I'll
+
+107
+00:04:14,549 --> 00:04:16,620
+come back here well I can do it right
+
+108
+00:04:16,620 --> 00:04:18,358
+here if we want to draw a text box
+
+109
+00:04:18,358 --> 00:04:20,279
+another thing we can do is create a new
+
+110
+00:04:20,279 --> 00:04:23,279
+text box by left clicking and holding
+
+111
+00:04:23,279 --> 00:04:26,099
+and dragging that down then we can
+
+112
+00:04:26,099 --> 00:04:27,520
+create a specific area
+
+113
+00:04:27,520 --> 00:04:31,180
+to keep our text within and I have a on
+
+114
+00:04:31,180 --> 00:04:33,970
+my desktop a file just a text file of
+
+115
+00:04:33,970 --> 00:04:36,849
+some sample text it looks like this just
+
+116
+00:04:36,849 --> 00:04:39,819
+sample just Latin I believe satin satin
+
+117
+00:04:39,819 --> 00:04:43,240
+sample Latin text and I could copy it I
+
+118
+00:04:43,240 --> 00:04:44,819
+could just highlight it all and
+
+119
+00:04:44,819 --> 00:04:47,710
+right-click and go copy and then bring
+
+120
+00:04:47,710 --> 00:04:49,990
+it in here right-click and go paste to
+
+121
+00:04:49,990 --> 00:04:51,759
+get that text in here but I'm gonna go
+
+122
+00:04:51,759 --> 00:04:55,990
+ctrl Z oh it's not let us ctrl Z because
+
+123
+00:04:55,990 --> 00:04:58,629
+something we could also do is when we
+
+124
+00:04:58,629 --> 00:05:00,280
+have our text box created I can right
+
+125
+00:05:00,280 --> 00:05:03,460
+click and I can go open text file and
+
+126
+00:05:03,460 --> 00:05:06,039
+that lets me choose a text file on my
+
+127
+00:05:06,039 --> 00:05:07,990
+computer that already has text in it and
+
+128
+00:05:07,990 --> 00:05:10,419
+it will bring it in text cannot be
+
+129
+00:05:10,419 --> 00:05:12,039
+rendered it is likely too big please
+
+130
+00:05:12,039 --> 00:05:14,500
+make sure please make it shorter or use
+
+131
+00:05:14,500 --> 00:05:16,060
+a smaller font so this is just a notice
+
+132
+00:05:16,060 --> 00:05:18,610
+saying it's running off the edge but
+
+133
+00:05:18,610 --> 00:05:20,500
+what I could do I wonder if it brought
+
+134
+00:05:20,500 --> 00:05:23,110
+it all in if I resize this so there's
+
+135
+00:05:23,110 --> 00:05:25,599
+more text under here that I can access
+
+136
+00:05:25,599 --> 00:05:28,659
+by just resizing this box to display all
+
+137
+00:05:28,659 --> 00:05:30,669
+of the text so that's a nice warning
+
+138
+00:05:30,669 --> 00:05:32,020
+that it gave me that I was cutting off
+
+139
+00:05:32,020 --> 00:05:35,530
+some of the text I'm moving this by
+
+140
+00:05:35,530 --> 00:05:36,909
+holding down the Alt key I've mentioned
+
+141
+00:05:36,909 --> 00:05:38,830
+that a few times but we could also grab
+
+142
+00:05:38,830 --> 00:05:41,319
+the move tool and it moves just like we
+
+143
+00:05:41,319 --> 00:05:42,969
+would expect any other layer so here we
+
+144
+00:05:42,969 --> 00:05:44,680
+have three layers we have this blue text
+
+145
+00:05:44,680 --> 00:05:47,710
+this blacks black text and then also the
+
+146
+00:05:47,710 --> 00:05:50,289
+actual image so I can set this to move
+
+147
+00:05:50,289 --> 00:05:52,750
+active layer and make sure I'm selected
+
+148
+00:05:52,750 --> 00:05:54,580
+on the layer I want to move and I can
+
+149
+00:05:54,580 --> 00:05:55,900
+just left click and move this without
+
+150
+00:05:55,900 --> 00:05:59,650
+having to press the Alt key I want to
+
+151
+00:05:59,650 --> 00:06:02,650
+show something here we can this turn off
+
+152
+00:06:02,650 --> 00:06:04,150
+just like we would any layer we can turn
+
+153
+00:06:04,150 --> 00:06:06,880
+off and view this without one of the
+
+154
+00:06:06,880 --> 00:06:10,330
+layers so we could also I'll move this
+
+155
+00:06:10,330 --> 00:06:11,469
+out of the way because I want to show
+
+156
+00:06:11,469 --> 00:06:13,900
+something we can do if we want to edit
+
+157
+00:06:13,900 --> 00:06:15,669
+something in here we get back into the
+
+158
+00:06:15,669 --> 00:06:17,680
+text tool to do an edit it's not the
+
+159
+00:06:17,680 --> 00:06:19,810
+selection tool if we try to select the
+
+160
+00:06:19,810 --> 00:06:21,909
+text it's going to select the pixels of
+
+161
+00:06:21,909 --> 00:06:25,389
+that text on that text layer but if we
+
+162
+00:06:25,389 --> 00:06:27,219
+want to get in and edit this we can
+
+163
+00:06:27,219 --> 00:06:30,699
+select it we could go to select all we
+
+164
+00:06:30,699 --> 00:06:33,520
+can select it with or click inside of it
+
+165
+00:06:33,520 --> 00:06:34,900
+it what I mean to say with the text tool
+
+166
+00:06:34,900 --> 00:06:37,930
+were active and then we can make changes
+
+167
+00:06:37,930 --> 00:06:39,849
+so under here there's this justification
+
+168
+00:06:39,849 --> 00:06:40,840
+so
+
+169
+00:06:40,840 --> 00:06:42,850
+we want all this text to be centered we
+
+170
+00:06:42,850 --> 00:06:45,580
+can click here to Center all the text we
+
+171
+00:06:45,580 --> 00:06:47,949
+can put it in sort of a paragraph format
+
+172
+00:06:47,949 --> 00:06:51,220
+with the edges aligned so the edges all
+
+173
+00:06:51,220 --> 00:06:52,720
+the text runs to the edges and it
+
+174
+00:06:52,720 --> 00:06:54,820
+creates some spacing to create sort of a
+
+175
+00:06:54,820 --> 00:06:57,790
+more of a block of text we can do right
+
+176
+00:06:57,790 --> 00:07:00,040
+justified or left justified we could
+
+177
+00:07:00,040 --> 00:07:02,530
+indent this first word by we can hover
+
+178
+00:07:02,530 --> 00:07:04,930
+over and read what these are but this
+
+179
+00:07:04,930 --> 00:07:07,449
+top one is the indent and we can indent
+
+180
+00:07:07,449 --> 00:07:09,310
+that first word by making this a little
+
+181
+00:07:09,310 --> 00:07:11,919
+bit larger or we can type in a quite a
+
+182
+00:07:11,919 --> 00:07:14,470
+large value and see how that indents it
+
+183
+00:07:14,470 --> 00:07:15,910
+again it's going to be different
+
+184
+00:07:15,910 --> 00:07:18,550
+depending on what size image you're
+
+185
+00:07:18,550 --> 00:07:21,160
+using so a 800 pixels is usually quite a
+
+186
+00:07:21,160 --> 00:07:23,380
+large indentation but since this is a
+
+187
+00:07:23,380 --> 00:07:26,260
+large image it doesn't really add this a
+
+188
+00:07:26,260 --> 00:07:28,630
+little bit dramatic anyway the next one
+
+189
+00:07:28,630 --> 00:07:31,180
+here this is the line spacing and the
+
+190
+00:07:31,180 --> 00:07:33,340
+font spacing or the letter spacing so
+
+191
+00:07:33,340 --> 00:07:34,780
+this is what you do like remember when
+
+192
+00:07:34,780 --> 00:07:36,100
+you're in school and you had to write an
+
+193
+00:07:36,100 --> 00:07:38,620
+essay and you had to have like five
+
+194
+00:07:38,620 --> 00:07:41,080
+pages you'd like stretch the the spacing
+
+195
+00:07:41,080 --> 00:07:42,910
+between the lines that's exactly what
+
+196
+00:07:42,910 --> 00:07:44,889
+this tool here does and if you really
+
+197
+00:07:44,889 --> 00:07:47,050
+want to get creative you could adjust
+
+198
+00:07:47,050 --> 00:07:49,810
+the spacing between letters anyway
+
+199
+00:07:49,810 --> 00:07:51,130
+that's what it's lets you do very very
+
+200
+00:07:51,130 --> 00:07:53,020
+useful if you're working with text and
+
+201
+00:07:53,020 --> 00:07:54,160
+you want to kind of give it that added
+
+202
+00:07:54,160 --> 00:07:59,979
+dimension and fill in certain areas yeah
+
+203
+00:07:59,979 --> 00:08:00,639
+that's but all we're going to use
+
+204
+00:08:00,639 --> 00:08:02,889
+there's this there's this editor here
+
+205
+00:08:02,889 --> 00:08:05,169
+you can go use editor you can adjust the
+
+206
+00:08:05,169 --> 00:08:07,300
+text in here as well and edit it and it
+
+207
+00:08:07,300 --> 00:08:09,280
+will edit it on here and you can do some
+
+208
+00:08:09,280 --> 00:08:11,320
+of these same tools but it's sort of
+
+209
+00:08:11,320 --> 00:08:13,030
+redundant because you can change it you
+
+210
+00:08:13,030 --> 00:08:15,070
+can just come in and change it in real
+
+211
+00:08:15,070 --> 00:08:16,990
+time on here but just know there is an
+
+212
+00:08:16,990 --> 00:08:20,289
+editor if you prefer to work that way to
+
+213
+00:08:20,289 --> 00:08:22,330
+change the font well we can select or we
+
+214
+00:08:22,330 --> 00:08:24,190
+can change the font over here this will
+
+215
+00:08:24,190 --> 00:08:26,470
+just change all of our font so we click
+
+216
+00:08:26,470 --> 00:08:29,050
+and there's ways you can choose the way
+
+217
+00:08:29,050 --> 00:08:30,610
+that this font the way the fonts are
+
+218
+00:08:30,610 --> 00:08:33,250
+being displayed so you can come over
+
+219
+00:08:33,250 --> 00:08:35,950
+here and look at it in a grid instead we
+
+220
+00:08:35,950 --> 00:08:37,659
+can create it larger so we can get a
+
+221
+00:08:37,659 --> 00:08:40,089
+better view of what these fonts look
+
+222
+00:08:40,089 --> 00:08:41,979
+like and there's even a breakout if you
+
+223
+00:08:41,979 --> 00:08:43,299
+do this last one it's kind of nice if
+
+224
+00:08:43,299 --> 00:08:45,100
+you're working with fonts a lot you can
+
+225
+00:08:45,100 --> 00:08:48,130
+add over here so that the font selection
+
+226
+00:08:48,130 --> 00:08:51,579
+comes over here on this side instead so
+
+227
+00:08:51,579 --> 00:08:53,910
+just like we had our layers was the
+
+228
+00:08:53,910 --> 00:08:55,590
+we were looking at before now we have a
+
+229
+00:08:55,590 --> 00:08:59,100
+new window a new font dialog or tool box
+
+230
+00:08:59,100 --> 00:09:02,040
+just for selecting fonts and browsing
+
+231
+00:09:02,040 --> 00:09:03,510
+through fonts that are installed on our
+
+232
+00:09:03,510 --> 00:09:05,430
+system and that's exactly what these are
+
+233
+00:09:05,430 --> 00:09:07,530
+just fonts installed on the system not
+
+234
+00:09:07,530 --> 00:09:09,180
+special fonts that come with
+
+235
+00:09:09,180 --> 00:09:11,190
+necessarily so if a fonts installed in
+
+236
+00:09:11,190 --> 00:09:12,660
+your system it should be able to get
+
+237
+00:09:12,660 --> 00:09:16,200
+pulled in and appear in this list okay
+
+238
+00:09:16,200 --> 00:09:17,070
+this is the last thing I was going to
+
+239
+00:09:17,070 --> 00:09:19,080
+show you if we grab the brush tool let's
+
+240
+00:09:19,080 --> 00:09:20,580
+go back to our layers over here and
+
+241
+00:09:20,580 --> 00:09:24,390
+let's draw if we grab the let's grab a
+
+242
+00:09:24,390 --> 00:09:26,850
+brush and it's just black right now we
+
+243
+00:09:26,850 --> 00:09:28,830
+want to draw well first of all we can't
+
+244
+00:09:28,830 --> 00:09:30,780
+draw over here nothing is happening
+
+245
+00:09:30,780 --> 00:09:33,360
+because we're on this text layer and
+
+246
+00:09:33,360 --> 00:09:35,550
+notice this layer has a little a on it
+
+247
+00:09:35,550 --> 00:09:37,370
+showing us that this is a text layer
+
+248
+00:09:37,370 --> 00:09:39,810
+which is what lets us be able to get in
+
+249
+00:09:39,810 --> 00:09:41,430
+here and make changes to it after the
+
+250
+00:09:41,430 --> 00:09:44,310
+fact we can draw on this so if I wanted
+
+251
+00:09:44,310 --> 00:09:47,040
+to do some drawing on top of these
+
+252
+00:09:47,040 --> 00:09:50,340
+letters I can do that but that changed
+
+253
+00:09:50,340 --> 00:09:52,440
+this now to I'm not sure what it's
+
+254
+00:09:52,440 --> 00:09:54,630
+called but it's a different layer it's
+
+255
+00:09:54,630 --> 00:09:56,610
+not a text layer anymore which means if
+
+256
+00:09:56,610 --> 00:09:58,140
+I want to come back to the text tool to
+
+257
+00:09:58,140 --> 00:10:00,390
+make an edit and click in here it's
+
+258
+00:10:00,390 --> 00:10:01,590
+going to bring up this dialog that says
+
+259
+00:10:01,590 --> 00:10:03,990
+the layer selected is a text layer but
+
+260
+00:10:03,990 --> 00:10:06,330
+has not been modified using or has been
+
+261
+00:10:06,330 --> 00:10:08,010
+modified using other tools so we can
+
+262
+00:10:08,010 --> 00:10:10,080
+either create a new layer to edit on top
+
+263
+00:10:10,080 --> 00:10:12,240
+of this or we can edit it but if we do
+
+264
+00:10:12,240 --> 00:10:15,410
+we're going to lose or does it say it
+
+265
+00:10:15,410 --> 00:10:17,610
+basically it'll discard yeah discard all
+
+266
+00:10:17,610 --> 00:10:19,440
+the modifications we've made so if I go
+
+267
+00:10:19,440 --> 00:10:21,900
+to edit that's gone now I can edit the
+
+268
+00:10:21,900 --> 00:10:24,870
+text but all the drawing I did on top of
+
+269
+00:10:24,870 --> 00:10:27,540
+there is gone so it's a good idea it's a
+
+270
+00:10:27,540 --> 00:10:30,810
+I recommend just keeping your text
+
+271
+00:10:30,810 --> 00:10:32,790
+layers as text and then if you want to
+
+272
+00:10:32,790 --> 00:10:34,830
+draw something go ahead and add in a new
+
+273
+00:10:34,830 --> 00:10:38,030
+layer and draw on top of that new layer
+
+274
+00:10:38,030 --> 00:10:40,560
+you can make it a transparent layer oops
+
+275
+00:10:40,560 --> 00:10:43,680
+but that's what I would recommend doing
+
+276
+00:10:43,680 --> 00:10:46,590
+instead of trying to draw within your
+
+277
+00:10:46,590 --> 00:10:49,320
+text layers hopefully I found this video
+
+278
+00:10:49,320 --> 00:10:50,700
+informative I kind of rented that
+
+279
+00:10:50,700 --> 00:10:52,830
+quickly but we are gonna touch on more
+
+280
+00:10:52,830 --> 00:10:54,720
+advanced options for making text look
+
+281
+00:10:54,720 --> 00:10:57,540
+pretty you can do text a path and you
+
+282
+00:10:57,540 --> 00:10:58,890
+can do some pretty cool things adding
+
+283
+00:10:58,890 --> 00:11:01,320
+texture and dimension and 3d text and
+
+284
+00:11:01,320 --> 00:11:03,090
+all kinds of stuff like that but I'm
+
+285
+00:11:03,090 --> 00:11:04,890
+going to end this video here go and
+
+286
+00:11:04,890 --> 00:11:06,090
+leave your questions and comments below
+
+287
+00:11:06,090 --> 00:11:06,750
+if you have an
+
+288
+00:11:06,750 --> 00:11:10,339
+and we'll catch you in the next video
+

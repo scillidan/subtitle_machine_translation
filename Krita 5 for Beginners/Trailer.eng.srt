@@ -1,0 +1,172 @@
+1
+00:00:00,199 --> 00:00:02,720
+Crea is a powerful and free digital art
+
+2
+00:00:02,720 --> 00:00:04,600
+application that can be used to create
+
+3
+00:00:04,600 --> 00:00:06,839
+stunning paintings drawings and even
+
+4
+00:00:06,839 --> 00:00:09,040
+animations but learning Crea can be
+
+5
+00:00:09,040 --> 00:00:11,080
+challenging especially if you're new to
+
+6
+00:00:11,080 --> 00:00:12,599
+digital art or you don't have a lot of
+
+7
+00:00:12,599 --> 00:00:15,000
+time to practice that's why I created
+
+8
+00:00:15,000 --> 00:00:17,080
+this course to teach you the essentials
+
+9
+00:00:17,080 --> 00:00:19,400
+of working with cre in a fun and easy
+
+10
+00:00:19,400 --> 00:00:21,760
+way in this course you'll learn how to
+
+11
+00:00:21,760 --> 00:00:24,880
+use C from scratch including the basics
+
+12
+00:00:24,880 --> 00:00:27,640
+of crea's user interface how to create
+
+13
+00:00:27,640 --> 00:00:30,279
+and use brushes how to select and mix
+
+14
+00:00:30,279 --> 00:00:33,440
+colors how to work with layers and masks
+
+15
+00:00:33,440 --> 00:00:36,160
+how to add effects and textures how to
+
+16
+00:00:36,160 --> 00:00:39,000
+export your work to a variety of formats
+
+17
+00:00:39,000 --> 00:00:40,760
+how to record time lapses of your
+
+18
+00:00:40,760 --> 00:00:43,399
+process and much more see the course
+
+19
+00:00:43,399 --> 00:00:45,160
+syllabus for everything I
+
+20
+00:00:45,160 --> 00:00:47,440
+cover by the end of this course you'll
+
+21
+00:00:47,440 --> 00:00:49,520
+have an excellent foundation in cre that
+
+22
+00:00:49,520 --> 00:00:51,559
+you can use to bring your imagination to
+
+23
+00:00:51,559 --> 00:00:54,280
+life this course is suitable for artists
+
+24
+00:00:54,280 --> 00:00:56,440
+of all skill levels and it's designed to
+
+25
+00:00:56,440 --> 00:00:59,079
+be interactive and engaging you'll get
+
+26
+00:00:59,079 --> 00:01:01,519
+access to three hours of video lessons
+
+27
+00:01:01,519 --> 00:01:03,879
+custom brushes and content for cre and
+
+28
+00:01:03,879 --> 00:01:05,479
+template files you can use to follow
+
+29
+00:01:05,479 --> 00:01:07,720
+along with me though it was a lot of
+
+30
+00:01:07,720 --> 00:01:09,720
+work I've chosen to make this course
+
+31
+00:01:09,720 --> 00:01:11,680
+very affordable to give artists who are
+
+32
+00:01:11,680 --> 00:01:13,439
+on a budget an opportunity to learn
+
+33
+00:01:13,439 --> 00:01:16,240
+digital art there is a minimum price but
+
+34
+00:01:16,240 --> 00:01:18,159
+you can choose to pay what you want I
+
+35
+00:01:18,159 --> 00:01:19,799
+encourage you to support the content I
+
+36
+00:01:19,799 --> 00:01:22,040
+create if you're able to if you want to
+
+37
+00:01:22,040 --> 00:01:24,400
+learn CA this is one of the best places
+
+38
+00:01:24,400 --> 00:01:26,200
+to start check out the link in the
+
+39
+00:01:26,200 --> 00:01:28,159
+description of this video or go to Aaron
+
+40
+00:01:28,159 --> 00:01:29,960
+ron.com and start learning creative
+
+41
+00:01:29,960 --> 00:01:32,079
+today thanks for watching and I look
+
+42
+00:01:32,079 --> 00:01:35,360
+forward to what you'll create with
+
+43
+00:01:43,520 --> 00:01:46,520
+c
+

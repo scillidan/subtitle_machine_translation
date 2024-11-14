@@ -1,0 +1,1120 @@
+1
+00:00:00,240 --> 00:00:02,360
+next we'll examine the brush categories
+
+2
+00:00:02,360 --> 00:00:04,960
+in more detail located on the left is
+
+3
+00:00:04,960 --> 00:00:07,399
+the brush presets panel as we learned in
+
+4
+00:00:07,399 --> 00:00:09,480
+the previous lesson these tools allow us
+
+5
+00:00:09,480 --> 00:00:12,320
+to paint on the canvas the brush presets
+
+6
+00:00:12,320 --> 00:00:14,440
+contain all the different types of media
+
+7
+00:00:14,440 --> 00:00:16,840
+such as markers oils and acrylics
+
+8
+00:00:16,840 --> 00:00:20,039
+pencils and pastels by default there is
+
+9
+00:00:20,039 --> 00:00:22,039
+one huge list of brushes but you can
+
+10
+00:00:22,039 --> 00:00:23,840
+filter the results to show specific
+
+11
+00:00:23,840 --> 00:00:26,279
+categories like paint or ink you can
+
+12
+00:00:26,279 --> 00:00:28,279
+adjust the icon size if you want to fit
+
+13
+00:00:28,279 --> 00:00:30,480
+more or less brushes on the screen
+
+14
+00:00:30,480 --> 00:00:32,000
+there are also brush bundles that you
+
+15
+00:00:32,000 --> 00:00:33,760
+can enable and disable to show more or
+
+16
+00:00:33,760 --> 00:00:34,680
+less
+
+17
+00:00:34,680 --> 00:00:37,040
+brushes let's try painting with a brush
+
+18
+00:00:37,040 --> 00:00:38,920
+in the paint grouping called wet
+
+19
+00:00:38,920 --> 00:00:41,280
+bristles let's pick a pink color and
+
+20
+00:00:41,280 --> 00:00:43,160
+then make a heavy to light stroke with
+
+21
+00:00:43,160 --> 00:00:45,719
+this brush if we compare that to another
+
+22
+00:00:45,719 --> 00:00:47,440
+variant of the paint brush that's in the
+
+23
+00:00:47,440 --> 00:00:49,960
+same category like bristles 3 large
+
+24
+00:00:49,960 --> 00:00:52,199
+smooth then you can see the stroke looks
+
+25
+00:00:52,199 --> 00:00:54,719
+a lot different the first variant has a
+
+26
+00:00:54,719 --> 00:00:56,879
+rounder dab with more oiliness and
+
+27
+00:00:56,879 --> 00:00:59,079
+bristle definition whereas the other
+
+28
+00:00:59,079 --> 00:01:00,480
+brush is much
+
+29
+00:01:00,480 --> 00:01:02,719
+flatter within this grouping of paint
+
+30
+00:01:02,719 --> 00:01:04,760
+brushes there are also a variety of
+
+31
+00:01:04,760 --> 00:01:05,720
+brush
+
+32
+00:01:05,720 --> 00:01:08,240
+Technologies for example I have basic
+
+33
+00:01:08,240 --> 00:01:10,799
+brushes wet brushes and even some
+
+34
+00:01:10,799 --> 00:01:13,479
+texture brushes depending on how you use
+
+35
+00:01:13,479 --> 00:01:15,439
+them the brushes in this category can be
+
+36
+00:01:15,439 --> 00:01:17,840
+used to create an oil acrylic or
+
+37
+00:01:17,840 --> 00:01:20,000
+watercolor look there are even some
+
+38
+00:01:20,000 --> 00:01:22,600
+brushes that are strictly blenders
+
+39
+00:01:22,600 --> 00:01:24,560
+because how you might use each brush is
+
+40
+00:01:24,560 --> 00:01:26,880
+fairly subjective the looks you can get
+
+41
+00:01:26,880 --> 00:01:28,560
+from a brush might be a lot different
+
+42
+00:01:28,560 --> 00:01:30,880
+than what's shown in the brush ey on I
+
+43
+00:01:30,880 --> 00:01:32,280
+encourage you to select some of these
+
+44
+00:01:32,280 --> 00:01:34,079
+brushes and try them out on the canvas
+
+45
+00:01:34,079 --> 00:01:36,640
+to see what they can do keep in mind
+
+46
+00:01:36,640 --> 00:01:38,360
+that when working digitally the brush
+
+47
+00:01:38,360 --> 00:01:40,000
+you select is not a literal
+
+48
+00:01:40,000 --> 00:01:42,439
+representation of the medium it emulates
+
+49
+00:01:42,439 --> 00:01:44,320
+but rather a tool that gives the effect
+
+50
+00:01:44,320 --> 00:01:47,200
+of that Medium if I select the sketch
+
+51
+00:01:47,200 --> 00:01:49,960
+chalk soft variant this is not an actual
+
+52
+00:01:49,960 --> 00:01:51,920
+stick of chalk that adds a powdery
+
+53
+00:01:51,920 --> 00:01:54,240
+substance to the canvas it's just a
+
+54
+00:01:54,240 --> 00:01:56,039
+brush that resembles the look and feel
+
+55
+00:01:56,039 --> 00:01:59,079
+of chalk calling this chalk is just a
+
+56
+00:01:59,079 --> 00:02:00,719
+way to describe the properties of the
+
+57
+00:02:00,719 --> 00:02:03,000
+brush think of the brush names and
+
+58
+00:02:03,000 --> 00:02:05,280
+categories as a suggestion not a
+
+59
+00:02:05,280 --> 00:02:07,479
+limitation on what you can create
+
+60
+00:02:07,479 --> 00:02:09,560
+traditional rules don't apply in this
+
+61
+00:02:09,560 --> 00:02:12,160
+space so feel free to draw with paint on
+
+62
+00:02:12,160 --> 00:02:15,160
+top of chalk or use watercolor over that
+
+63
+00:02:15,160 --> 00:02:16,720
+because you're a painting digitally you
+
+64
+00:02:16,720 --> 00:02:18,519
+can mix media together as much as you
+
+65
+00:02:18,519 --> 00:02:20,800
+like you can also change the look of the
+
+66
+00:02:20,800 --> 00:02:22,840
+paint on your canvas simply by blending
+
+67
+00:02:22,840 --> 00:02:25,640
+it for instance you can use an oily or
+
+68
+00:02:25,640 --> 00:02:27,959
+wet blender on a dry medium to make it
+
+69
+00:02:27,959 --> 00:02:30,840
+look wet nothing is in stone and there
+
+70
+00:02:30,840 --> 00:02:33,000
+are very few limitations on how you can
+
+71
+00:02:33,000 --> 00:02:34,920
+combine media from different categories
+
+72
+00:02:34,920 --> 00:02:37,319
+together therefore I encourage you to
+
+73
+00:02:37,319 --> 00:02:39,239
+use brushes from multiple categories in
+
+74
+00:02:39,239 --> 00:02:41,760
+your paintings just as well don't feel
+
+75
+00:02:41,760 --> 00:02:43,640
+restricted by the traditional mediums
+
+76
+00:02:43,640 --> 00:02:46,720
+like watercolor oil or acrylic instead
+
+77
+00:02:46,720 --> 00:02:48,519
+just explore the brushes that interest
+
+78
+00:02:48,519 --> 00:02:50,280
+you and use them to create your own
+
+79
+00:02:50,280 --> 00:02:52,800
+unique painting while it's okay to aim
+
+80
+00:02:52,800 --> 00:02:55,120
+for a specific mediums aesthetic it's
+
+81
+00:02:55,120 --> 00:02:56,640
+more important to choose the right tool
+
+82
+00:02:56,640 --> 00:02:59,000
+for the job whether it's a brush for
+
+83
+00:02:59,000 --> 00:03:01,280
+creating leaves on trees or a pallet
+
+84
+00:03:01,280 --> 00:03:03,799
+knife for distant water experiment with
+
+85
+00:03:03,799 --> 00:03:05,400
+different brushes to find what works
+
+86
+00:03:05,400 --> 00:03:07,720
+best for your needs you can even
+
+87
+00:03:07,720 --> 00:03:09,959
+customize and save your own brushes and
+
+88
+00:03:09,959 --> 00:03:11,360
+categorize them in a way that makes
+
+89
+00:03:11,360 --> 00:03:14,519
+sense to you before you go any further I
+
+90
+00:03:14,519 --> 00:03:16,200
+suggest dedicating some time to
+
+91
+00:03:16,200 --> 00:03:17,879
+exploring and experimenting with the
+
+92
+00:03:17,879 --> 00:03:19,840
+brushes and Crea to get a sense of the
+
+93
+00:03:19,840 --> 00:03:22,159
+different effects you can achieve don't
+
+94
+00:03:22,159 --> 00:03:23,720
+put pressure on yourself to create
+
+95
+00:03:23,720 --> 00:03:26,120
+finished artwork just have fun and play
+
+96
+00:03:26,120 --> 00:03:28,400
+around with the brushes you may want to
+
+97
+00:03:28,400 --> 00:03:30,200
+move the tool options out of the way so
+
+98
+00:03:30,200 --> 00:03:32,080
+you can expand the brush presets to see
+
+99
+00:03:32,080 --> 00:03:34,480
+more of the brushes at once you can also
+
+100
+00:03:34,480 --> 00:03:36,640
+keep track of your last used brushes in
+
+101
+00:03:36,640 --> 00:03:39,840
+the brush preset history panel to better
+
+102
+00:03:39,840 --> 00:03:41,120
+understand how to work with brushes and
+
+103
+00:03:41,120 --> 00:03:44,519
+CR let's explore the anatomy of a brush
+
+104
+00:03:44,519 --> 00:03:46,920
+each brush icon shows a preview of the
+
+105
+00:03:46,920 --> 00:03:48,799
+shape of the brush and some of its
+
+106
+00:03:48,799 --> 00:03:50,720
+properties let's get a better view of
+
+107
+00:03:50,720 --> 00:03:52,840
+how this soft chalk brush was made by
+
+108
+00:03:52,840 --> 00:03:54,280
+opening the brush editor from the
+
+109
+00:03:54,280 --> 00:03:56,400
+properties bar and looking under General
+
+110
+00:03:56,400 --> 00:03:59,239
+brush tip here we can see the dab or the
+
+111
+00:03:59,239 --> 00:04:01,360
+tip of the the brush as well as a sample
+
+112
+00:04:01,360 --> 00:04:03,760
+stroke when adjusting the properties you
+
+113
+00:04:03,760 --> 00:04:05,760
+can watch the stroke preview to see how
+
+114
+00:04:05,760 --> 00:04:08,079
+each property affects a stroke this
+
+115
+00:04:08,079 --> 00:04:09,760
+preview doesn't show everything a brush
+
+116
+00:04:09,760 --> 00:04:11,760
+can do so it can also be helpful to make
+
+117
+00:04:11,760 --> 00:04:13,799
+Strokes on the canvas to get a feel for
+
+118
+00:04:13,799 --> 00:04:16,040
+all of the properties of a brush the
+
+119
+00:04:16,040 --> 00:04:17,959
+brushes and Crea and most art
+
+120
+00:04:17,959 --> 00:04:20,358
+applications work by repeating a dab
+
+121
+00:04:20,358 --> 00:04:22,800
+along a stroke path a dab is a
+
+122
+00:04:22,800 --> 00:04:24,840
+pixel-based stamp that represents the
+
+123
+00:04:24,840 --> 00:04:27,400
+shape of the tip of your brush or tool
+
+124
+00:04:27,400 --> 00:04:29,639
+in traditional art terms the tips of a
+
+125
+00:04:29,639 --> 00:04:32,320
+bristle brush would be a dab if I change
+
+126
+00:04:32,320 --> 00:04:33,960
+to a different dab you can see the
+
+127
+00:04:33,960 --> 00:04:36,360
+stroke preview update but you cannot
+
+128
+00:04:36,360 --> 00:04:38,400
+paint with a dab alone that would be
+
+129
+00:04:38,400 --> 00:04:41,400
+like painting with a clean dry brush you
+
+130
+00:04:41,400 --> 00:04:43,600
+also need media applied to the dab so
+
+131
+00:04:43,600 --> 00:04:45,360
+that you can create a stroke on the
+
+132
+00:04:45,360 --> 00:04:47,680
+canvas the types of media you can
+
+133
+00:04:47,680 --> 00:04:50,520
+emulate can vary from oil paint to chalk
+
+134
+00:04:50,520 --> 00:04:52,880
+to watercolor and just like with a
+
+135
+00:04:52,880 --> 00:04:55,120
+traditional brush you can load oils or
+
+136
+00:04:55,120 --> 00:04:57,840
+watercolor on the same bristle brush
+
+137
+00:04:57,840 --> 00:04:59,560
+when you paint with this brush dab the
+
+138
+00:04:59,560 --> 00:05:01,240
+the shape of the bristles Remains the
+
+139
+00:05:01,240 --> 00:05:04,280
+Same but the media used can vary in the
+
+140
+00:05:04,280 --> 00:05:06,160
+paint category I'll choose the brush
+
+141
+00:05:06,160 --> 00:05:08,919
+called watercolor texture then I'll use
+
+142
+00:05:08,919 --> 00:05:10,560
+the brush tip section of the brush
+
+143
+00:05:10,560 --> 00:05:12,600
+Editor to adjust the spacing of this
+
+144
+00:05:12,600 --> 00:05:14,960
+brush you can see the stroke preview
+
+145
+00:05:14,960 --> 00:05:16,680
+updates and real time as I move the
+
+146
+00:05:16,680 --> 00:05:19,160
+slider if I reduce the spacing all the
+
+147
+00:05:19,160 --> 00:05:21,479
+way down the dabs merge to become a
+
+148
+00:05:21,479 --> 00:05:23,919
+continuous Line This is How many of the
+
+149
+00:05:23,919 --> 00:05:26,520
+brushes were in cret I'll draw on the
+
+150
+00:05:26,520 --> 00:05:28,360
+canvas and you can see that it no longer
+
+151
+00:05:28,360 --> 00:05:31,280
+resembles individual splatters but if I
+
+152
+00:05:31,280 --> 00:05:33,400
+make dabs or click with my mouse they
+
+153
+00:05:33,400 --> 00:05:35,800
+look like splatters again if I increase
+
+154
+00:05:35,800 --> 00:05:37,280
+the spacing then you can see that there
+
+155
+00:05:37,280 --> 00:05:39,160
+are more gaps between the dabs and you
+
+156
+00:05:39,160 --> 00:05:41,639
+get more of a dotted line I can also
+
+157
+00:05:41,639 --> 00:05:43,240
+change the media that comes out of the
+
+158
+00:05:43,240 --> 00:05:45,160
+brush while keeping the brush shape
+
+159
+00:05:45,160 --> 00:05:47,280
+intact but that requires me to make a
+
+160
+00:05:47,280 --> 00:05:48,919
+custom brush which we will explore how
+
+161
+00:05:48,919 --> 00:05:51,680
+to do later it's as simple as that when
+
+162
+00:05:51,680 --> 00:05:53,560
+you were painting all you were doing is
+
+163
+00:05:53,560 --> 00:05:55,960
+repeating a dab loaded with media along
+
+164
+00:05:55,960 --> 00:05:56,759
+a
+
+165
+00:05:56,759 --> 00:05:58,960
+stroke now that you know how a brush
+
+166
+00:05:58,960 --> 00:06:00,720
+works let's learn some of the ways you
+
+167
+00:06:00,720 --> 00:06:03,160
+can customize your stroke properties
+
+168
+00:06:03,160 --> 00:06:05,440
+I'll temporarily use a black background
+
+169
+00:06:05,440 --> 00:06:07,240
+so you can see the cursor more easily as
+
+170
+00:06:07,240 --> 00:06:10,240
+I demonstrate I have the basic five size
+
+171
+00:06:10,240 --> 00:06:12,479
+opacity paintbrush selected and if I
+
+172
+00:06:12,479 --> 00:06:14,560
+want to make the stroke wider or thinner
+
+173
+00:06:14,560 --> 00:06:16,120
+I can go to the properties and I could
+
+174
+00:06:16,120 --> 00:06:18,639
+choose a brush size there I can enter a
+
+175
+00:06:18,639 --> 00:06:20,919
+numeric value or there's a slider that I
+
+176
+00:06:20,919 --> 00:06:22,720
+can drag to increase or decrease the
+
+177
+00:06:22,720 --> 00:06:25,039
+brush size if you keep an eye on the
+
+178
+00:06:25,039 --> 00:06:27,039
+brush tiip preview you can see that it
+
+179
+00:06:27,039 --> 00:06:30,360
+resizes relative to the value you chose
+
+180
+00:06:30,360 --> 00:06:32,560
+the popup panel also offers a slider to
+
+181
+00:06:32,560 --> 00:06:34,080
+change the brush
+
+182
+00:06:34,080 --> 00:06:36,520
+size the second method for selecting a
+
+183
+00:06:36,520 --> 00:06:38,720
+brush size is to choose a diameter that
+
+184
+00:06:38,720 --> 00:06:41,680
+is relative to your canvas size in this
+
+185
+00:06:41,680 --> 00:06:43,479
+case you're not really concerned about a
+
+186
+00:06:43,479 --> 00:06:45,639
+specific brush size you just know that
+
+187
+00:06:45,639 --> 00:06:48,800
+you want a big medium or small brush you
+
+188
+00:06:48,800 --> 00:06:50,800
+could use the sliders in the properties
+
+189
+00:06:50,800 --> 00:06:52,520
+but a faster way to do it is to use a
+
+190
+00:06:52,520 --> 00:06:55,360
+keyboard shortcut hold down shift and
+
+191
+00:06:55,360 --> 00:06:57,400
+tap and drag your pen left or right on
+
+192
+00:06:57,400 --> 00:06:59,879
+the canvas that will create a a circle
+
+193
+00:06:59,879 --> 00:07:02,319
+that defines the diameter of your brush
+
+194
+00:07:02,319 --> 00:07:04,840
+in most cases the visual CU is fairly
+
+195
+00:07:04,840 --> 00:07:06,520
+accurate but some properties like
+
+196
+00:07:06,520 --> 00:07:08,440
+scatter or tilt may cause the brush
+
+197
+00:07:08,440 --> 00:07:10,759
+stroke to exceed the radius you defined
+
+198
+00:07:10,759 --> 00:07:13,160
+for example the texture spray brush far
+
+199
+00:07:13,160 --> 00:07:15,919
+exceeds its cursor I'll return to the
+
+200
+00:07:15,919 --> 00:07:18,840
+basic five size opacity brush most of
+
+201
+00:07:18,840 --> 00:07:20,759
+the time the brush diameter I choose
+
+202
+00:07:20,759 --> 00:07:23,000
+will be the maximum size of my brush if
+
+203
+00:07:23,000 --> 00:07:24,919
+I use maximum pen
+
+204
+00:07:24,919 --> 00:07:27,199
+pressure now let's say you have a brush
+
+205
+00:07:27,199 --> 00:07:29,479
+you want to be just a little bit larger
+
+206
+00:07:29,479 --> 00:07:31,919
+smaller you can press the left or right
+
+207
+00:07:31,919 --> 00:07:33,720
+bracket keys on your keyboard to change
+
+208
+00:07:33,720 --> 00:07:36,280
+the brush size and increments you may be
+
+209
+00:07:36,280 --> 00:07:38,000
+able to see that the cursor is growing
+
+210
+00:07:38,000 --> 00:07:40,199
+along with the slider movement I can
+
+211
+00:07:40,199 --> 00:07:42,639
+even hold the key down this lets me
+
+212
+00:07:42,639 --> 00:07:45,039
+easily fine-tune my brush if you're
+
+213
+00:07:45,039 --> 00:07:47,080
+drawing tablet has a touch ring you can
+
+214
+00:07:47,080 --> 00:07:48,919
+program it to use the bracket keys to
+
+215
+00:07:48,919 --> 00:07:51,400
+resize your brush that way as well there
+
+216
+00:07:51,400 --> 00:07:53,159
+are also Arrow buttons in the properties
+
+217
+00:07:53,159 --> 00:07:55,879
+bar you can use to resize the brush
+
+218
+00:07:55,879 --> 00:07:57,599
+here's my preferred method for resizing
+
+219
+00:07:57,599 --> 00:07:59,800
+the brush rather than using the shift
+
+220
+00:07:59,800 --> 00:08:01,759
+shortcut on your keyboard you can
+
+221
+00:08:01,759 --> 00:08:03,400
+program one of the buttons on your pen
+
+222
+00:08:03,400 --> 00:08:06,000
+to activate shift for example I have the
+
+223
+00:08:06,000 --> 00:08:07,840
+pro pen selected in the walkom tablet
+
+224
+00:08:07,840 --> 00:08:10,199
+properties and in the pen tab I have the
+
+225
+00:08:10,199 --> 00:08:11,919
+button that's nearest the tip of the pen
+
+226
+00:08:11,919 --> 00:08:14,759
+set to a modifier which is set to shift
+
+227
+00:08:14,759 --> 00:08:16,080
+the other pen button is set to
+
+228
+00:08:16,080 --> 00:08:18,159
+rightclick so if I want to resize my
+
+229
+00:08:18,159 --> 00:08:20,080
+brush now all I have to do is hold this
+
+230
+00:08:20,080 --> 00:08:22,759
+button down and drag my pen I can make a
+
+231
+00:08:22,759 --> 00:08:25,199
+large brush a small brush and everything
+
+232
+00:08:25,199 --> 00:08:25,960
+in
+
+233
+00:08:25,960 --> 00:08:28,440
+between another way to resize your brush
+
+234
+00:08:28,440 --> 00:08:30,400
+is by using pen pressure which we looked
+
+235
+00:08:30,400 --> 00:08:32,599
+at earlier if you're having trouble
+
+236
+00:08:32,599 --> 00:08:34,679
+controlling size with pressure you may
+
+237
+00:08:34,679 --> 00:08:36,320
+need to calibrate your pen pressure in
+
+238
+00:08:36,320 --> 00:08:38,799
+your tablet properties I tend to press
+
+239
+00:08:38,799 --> 00:08:41,240
+firmly when I draw so I set it one notch
+
+240
+00:08:41,240 --> 00:08:43,719
+toward firm do the opposite if you have
+
+241
+00:08:43,719 --> 00:08:44,920
+a light
+
+242
+00:08:44,920 --> 00:08:47,360
+touch now let's look at how to vary the
+
+243
+00:08:47,360 --> 00:08:49,880
+opacity of the brushes I'll demonstrate
+
+244
+00:08:49,880 --> 00:08:52,200
+on a medium gray canvas so you can see
+
+245
+00:08:52,200 --> 00:08:54,480
+this more easily I will select the
+
+246
+00:08:54,480 --> 00:08:56,279
+digital category and I will choose
+
+247
+00:08:56,279 --> 00:08:59,200
+airbrush soft if I paint with this brush
+
+248
+00:08:59,200 --> 00:09:01,440
+it gradually builds up the opacity based
+
+249
+00:09:01,440 --> 00:09:04,040
+on how hard you press if you press
+
+250
+00:09:04,040 --> 00:09:05,800
+lightly the paint will be thinner and
+
+251
+00:09:05,800 --> 00:09:08,320
+more transparent if you press harder the
+
+252
+00:09:08,320 --> 00:09:10,760
+paint will be thicker and more opaque we
+
+253
+00:09:10,760 --> 00:09:12,600
+can control the opacity of a brush from
+
+254
+00:09:12,600 --> 00:09:14,880
+the properties bar just like with the
+
+255
+00:09:14,880 --> 00:09:17,160
+brush size we can numerically enter an
+
+256
+00:09:17,160 --> 00:09:20,240
+opacity level let's say 50% and now the
+
+257
+00:09:20,240 --> 00:09:22,760
+brush will paint at 50% opacity using
+
+258
+00:09:22,760 --> 00:09:25,480
+maximum pressure if we set the opacity
+
+259
+00:09:25,480 --> 00:09:27,760
+to 2% then the paint is not going to be
+
+260
+00:09:27,760 --> 00:09:29,640
+as opaque when we make Strokes and it
+
+261
+00:09:29,640 --> 00:09:31,160
+will take more effort to build them up
+
+262
+00:09:31,160 --> 00:09:34,040
+to full opacity there's also an opacity
+
+263
+00:09:34,040 --> 00:09:36,760
+slider that we can drag or click on
+
+264
+00:09:36,760 --> 00:09:38,560
+another way to change the opacity is to
+
+265
+00:09:38,560 --> 00:09:42,000
+use the keyboard shortcuts of I and O
+
+266
+00:09:42,000 --> 00:09:44,680
+this will modify the opacity in 10%
+
+267
+00:09:44,680 --> 00:09:46,640
+increments you can even change the
+
+268
+00:09:46,640 --> 00:09:48,640
+opacity with a slider in the pop-up
+
+269
+00:09:48,640 --> 00:09:51,440
+panel typically I build up opacity
+
+270
+00:09:51,440 --> 00:09:54,279
+gradually using overlapping Strokes so I
+
+271
+00:09:54,279 --> 00:09:56,440
+don't usually change the opacity setting
+
+272
+00:09:56,440 --> 00:09:58,440
+unless I find that a brush is a bit too
+
+273
+00:09:58,440 --> 00:10:00,000
+strong or a bit too to
+
+274
+00:10:00,000 --> 00:10:02,279
+week those were some of the basics of
+
+275
+00:10:02,279 --> 00:10:04,600
+working with brushes in the next lesson
+
+276
+00:10:04,600 --> 00:10:06,000
+we will be exploring some of the
+
+277
+00:10:06,000 --> 00:10:08,079
+essential functions and cre such as
+
+278
+00:10:08,079 --> 00:10:10,920
+choosing color erasing sampling color
+
+279
+00:10:10,920 --> 00:10:13,440
+and saving
+
+280
+00:10:28,040 --> 00:10:31,040
+artwork
+

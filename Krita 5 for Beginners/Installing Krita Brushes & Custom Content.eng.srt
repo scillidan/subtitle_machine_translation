@@ -1,0 +1,492 @@
+1
+00:00:00,240 --> 00:00:02,000
+in this lesson I'll walk you through
+
+2
+00:00:02,000 --> 00:00:04,040
+installing the custom brushes and other
+
+3
+00:00:04,040 --> 00:00:06,480
+content for my cre a training course
+
+4
+00:00:06,480 --> 00:00:08,000
+you'll need to download the resource
+
+5
+00:00:08,000 --> 00:00:10,599
+files from the course page before moving
+
+6
+00:00:10,599 --> 00:00:13,160
+forward this is a compressed folder that
+
+7
+00:00:13,160 --> 00:00:15,000
+you'll need to extract using a free
+
+8
+00:00:15,000 --> 00:00:17,640
+application called szip or by using the
+
+9
+00:00:17,640 --> 00:00:19,480
+extractor built into your operating
+
+10
+00:00:19,480 --> 00:00:21,880
+system you can do this by right clicking
+
+11
+00:00:21,880 --> 00:00:24,400
+on the file once extracted you'll be
+
+12
+00:00:24,400 --> 00:00:26,679
+able to install the contents you'll be
+
+13
+00:00:26,679 --> 00:00:28,640
+installing these files into cre using
+
+14
+00:00:28,640 --> 00:00:31,160
+various methods I will explain what all
+
+15
+00:00:31,160 --> 00:00:33,079
+of this custom content can do throughout
+
+16
+00:00:33,079 --> 00:00:36,079
+the course let's start with the brushes
+
+17
+00:00:36,079 --> 00:00:39,600
+and workspace I'll run cre then open
+
+18
+00:00:39,600 --> 00:00:42,200
+settings manage resources and click on
+
+19
+00:00:42,200 --> 00:00:43,160
+import
+
+20
+00:00:43,160 --> 00:00:45,640
+resources select the three bundles for
+
+21
+00:00:45,640 --> 00:00:48,840
+brushes brush tips and workspace these
+
+22
+00:00:48,840 --> 00:00:50,879
+will install my custom brushes and a
+
+23
+00:00:50,879 --> 00:00:53,280
+custom layout you'll see the brushes
+
+24
+00:00:53,280 --> 00:00:55,840
+appear in the brush presets panel there
+
+25
+00:00:55,840 --> 00:00:57,960
+are also categories or tags you can use
+
+26
+00:00:57,960 --> 00:01:00,600
+to filter out only my brushes
+
+27
+00:01:00,600 --> 00:01:02,600
+in the top right menu you can choose to
+
+28
+00:01:02,600 --> 00:01:04,438
+enable and disable any of the brush
+
+29
+00:01:04,438 --> 00:01:06,920
+bundles you have installed into cre you
+
+30
+00:01:06,920 --> 00:01:08,960
+can also go to settings manage resource
+
+31
+00:01:08,960 --> 00:01:11,720
+library to activate or deactivate
+
+32
+00:01:11,720 --> 00:01:14,240
+these next we'll activate the custom
+
+33
+00:01:14,240 --> 00:01:17,040
+workspace from the window menu this will
+
+34
+00:01:17,040 --> 00:01:19,960
+arrange the cre UI to match my
+
+35
+00:01:19,960 --> 00:01:21,960
+demonstrations the remaining content
+
+36
+00:01:21,960 --> 00:01:23,560
+needs to be placed inside of one of
+
+37
+00:01:23,560 --> 00:01:26,600
+crea's application folders in the manage
+
+38
+00:01:26,600 --> 00:01:29,079
+resources menu click on open resource
+
+39
+00:01:29,079 --> 00:01:31,720
+folder adding content to this folder is
+
+40
+00:01:31,720 --> 00:01:34,360
+how you get it to show up in CR we'll be
+
+41
+00:01:34,360 --> 00:01:37,000
+copying my custom content here but any
+
+42
+00:01:37,000 --> 00:01:39,200
+content you have created such as brushes
+
+43
+00:01:39,200 --> 00:01:41,200
+keyboard shortcuts or preset canvas
+
+44
+00:01:41,200 --> 00:01:44,240
+sizes can be found here as well copy the
+
+45
+00:01:44,240 --> 00:01:47,439
+custom AR profile to the input folder
+
+46
+00:01:47,439 --> 00:01:49,799
+this will install a custom AR canvas
+
+47
+00:01:49,799 --> 00:01:52,119
+input settings profile which has some
+
+48
+00:01:52,119 --> 00:01:53,360
+custom keyboard
+
+49
+00:01:53,360 --> 00:01:55,759
+shortcuts next copy the entire
+
+50
+00:01:55,759 --> 00:01:57,840
+predefined image sizes folder to the
+
+51
+00:01:57,840 --> 00:02:00,079
+creat a resource folder this this will
+
+52
+00:02:00,079 --> 00:02:01,960
+load some predefined canvas sizes you
+
+53
+00:02:01,960 --> 00:02:03,960
+can choose from in the new document
+
+54
+00:02:03,960 --> 00:02:06,680
+menu after that you'll need to close and
+
+55
+00:02:06,680 --> 00:02:08,800
+reopen CR to get it to recognize the
+
+56
+00:02:08,800 --> 00:02:12,160
+files you added next in window configure
+
+57
+00:02:12,160 --> 00:02:15,120
+Crea choose the custom AR canvas input
+
+58
+00:02:15,120 --> 00:02:17,760
+settings profile then in keyboard
+
+59
+00:02:17,760 --> 00:02:20,440
+shortcuts choose the custom AR profile
+
+60
+00:02:20,440 --> 00:02:23,280
+this is a set of more keyboard shortcuts
+
+61
+00:02:23,280 --> 00:02:24,879
+once you are finished you should now
+
+62
+00:02:24,879 --> 00:02:26,680
+have a workspace that very closely
+
+63
+00:02:26,680 --> 00:02:30,120
+matches the one I am using in my course
+
+64
+00:02:30,120 --> 00:02:31,800
+rather than install everything from my
+
+65
+00:02:31,800 --> 00:02:33,959
+workspace if you'd like to extract any
+
+66
+00:02:33,959 --> 00:02:35,879
+of the individual brushes or files from
+
+67
+00:02:35,879 --> 00:02:38,160
+my bundles simply duplicate the bundle
+
+68
+00:02:38,160 --> 00:02:41,480
+file and rename it to a zip file this
+
+69
+00:02:41,480 --> 00:02:43,360
+will allow you to see the custom content
+
+70
+00:02:43,360 --> 00:02:46,280
+within a bundle the paint op presets
+
+71
+00:02:46,280 --> 00:02:48,879
+folder is where you'll find the brushes
+
+72
+00:02:48,879 --> 00:02:50,560
+copy these to the same folder in the
+
+73
+00:02:50,560 --> 00:02:52,080
+creat a resource
+
+74
+00:02:52,080 --> 00:02:54,280
+Library it's important to note that you
+
+75
+00:02:54,280 --> 00:02:56,239
+need to use underscores rather than
+
+76
+00:02:56,239 --> 00:02:58,680
+spaces in the file names of your brushes
+
+77
+00:02:58,680 --> 00:03:00,319
+otherwise they may not be detected by
+
+78
+00:03:00,319 --> 00:03:03,000
+crto when you import them simply rename
+
+79
+00:03:03,000 --> 00:03:04,799
+the files in the file explorer if you
+
+80
+00:03:04,799 --> 00:03:07,840
+need to there may also be brush tips you
+
+81
+00:03:07,840 --> 00:03:09,760
+need to copy over to the corresponding
+
+82
+00:03:09,760 --> 00:03:11,560
+brushes
+
+83
+00:03:11,560 --> 00:03:14,560
+folder close and reopen cre to apply
+
+84
+00:03:14,560 --> 00:03:16,760
+those changes the new brushes will
+
+85
+00:03:16,760 --> 00:03:18,920
+appear in your local Resources directory
+
+86
+00:03:18,920 --> 00:03:21,159
+in the manage resources menu
+
+87
+00:03:21,159 --> 00:03:23,159
+alternatively you can copy the brushes
+
+88
+00:03:23,159 --> 00:03:25,159
+you want to a folder and then choose
+
+89
+00:03:25,159 --> 00:03:26,879
+import resources from the manage
+
+90
+00:03:26,879 --> 00:03:28,080
+resources
+
+91
+00:03:28,080 --> 00:03:30,480
+menu if you want to make a custom bundle
+
+92
+00:03:30,480 --> 00:03:32,360
+of my brushes grouped together with your
+
+93
+00:03:32,360 --> 00:03:34,239
+own custom brushes then you'll need to
+
+94
+00:03:34,239 --> 00:03:35,640
+copy all of the brushes you want to
+
+95
+00:03:35,640 --> 00:03:38,200
+bundle to the local Resources
+
+96
+00:03:38,200 --> 00:03:40,480
+directory you may need to add tags to
+
+97
+00:03:40,480 --> 00:03:41,959
+the brushes if you want to sort them
+
+98
+00:03:41,959 --> 00:03:42,959
+into
+
+99
+00:03:42,959 --> 00:03:45,280
+groups it will be easier to make the
+
+100
+00:03:45,280 --> 00:03:47,000
+bundle if you deactivate some of the
+
+101
+00:03:47,000 --> 00:03:49,040
+other unwanted brush bundles
+
+102
+00:03:49,040 --> 00:03:52,079
+first choose create a bundle and select
+
+103
+00:03:52,079 --> 00:03:53,920
+all of the brushes you want to package
+
+104
+00:03:53,920 --> 00:03:56,319
+together click on the arrows to move the
+
+105
+00:03:56,319 --> 00:03:58,120
+brushes from the Creed application on
+
+106
+00:03:58,120 --> 00:03:59,920
+the left to the new bundle on on the
+
+107
+00:03:59,920 --> 00:04:02,799
+right be sure to enable embed tags to
+
+108
+00:04:02,799 --> 00:04:05,599
+save those with the bundle as
+
+109
+00:04:05,599 --> 00:04:08,680
+well after that close C and delete the
+
+110
+00:04:08,680 --> 00:04:10,760
+brushes from the local resources library
+
+111
+00:04:10,760 --> 00:04:11,760
+to prevent
+
+112
+00:04:11,760 --> 00:04:14,680
+duplicates next reopen cre and import
+
+113
+00:04:14,680 --> 00:04:16,279
+your newly created bundle from the
+
+114
+00:04:16,279 --> 00:04:18,639
+manage resources
+
+115
+00:04:18,639 --> 00:04:21,399
+menu you may need to deactivate then
+
+116
+00:04:21,399 --> 00:04:23,120
+reactivate the new bundle to get the
+
+117
+00:04:23,120 --> 00:04:25,759
+tags to work properly now you have
+
+118
+00:04:25,759 --> 00:04:29,000
+merged my custom brushes with your own I
+
+119
+00:04:29,000 --> 00:04:30,440
+recommend going going into the cre a
+
+120
+00:04:30,440 --> 00:04:32,320
+resource library and backing up your
+
+121
+00:04:32,320 --> 00:04:33,720
+bundle in case you ever need to
+
+122
+00:04:33,720 --> 00:04:36,240
+reinstall
+
+123
+00:04:55,039 --> 00:04:58,039
+it
+

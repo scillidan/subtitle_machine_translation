@@ -1,0 +1,840 @@
+1
+00:00:02,090 --> 00:00:04,049
+welcome back to another darktable
+
+2
+00:00:04,049 --> 00:00:06,150
+tutorial in our last tutorial we learned
+
+3
+00:00:06,150 --> 00:00:08,700
+about masking using drawn masks so we
+
+4
+00:00:08,700 --> 00:00:11,190
+drew a mask and we change the size of it
+
+5
+00:00:11,190 --> 00:00:12,990
+and the feather and we had applied
+
+6
+00:00:12,990 --> 00:00:15,419
+changes our module would only happen
+
+7
+00:00:15,419 --> 00:00:17,279
+within that mask well in this video
+
+8
+00:00:17,279 --> 00:00:18,810
+we're going to be looking at parametric
+
+9
+00:00:18,810 --> 00:00:20,460
+masks which let us do something a little
+
+10
+00:00:20,460 --> 00:00:21,150
+bit different
+
+11
+00:00:21,150 --> 00:00:24,539
+it lets us choose based on the pixels we
+
+12
+00:00:24,539 --> 00:00:26,730
+can choose based on color based on the
+
+13
+00:00:26,730 --> 00:00:28,830
+brightness of the pixel or based on some
+
+14
+00:00:28,830 --> 00:00:31,289
+other attributes of pixels as well so
+
+15
+00:00:31,289 --> 00:00:32,729
+it's really nice in this case we
+
+16
+00:00:32,729 --> 00:00:34,260
+wouldn't have to if we didn't have
+
+17
+00:00:34,260 --> 00:00:35,940
+parametric masking we'd have to grab our
+
+18
+00:00:35,940 --> 00:00:38,520
+paths tool and we'd have to mask off
+
+19
+00:00:38,520 --> 00:00:40,410
+every individual thing if we wanted to
+
+20
+00:00:40,410 --> 00:00:42,840
+change the sky color for example we have
+
+21
+00:00:42,840 --> 00:00:44,400
+two masks here we have two masks here
+
+22
+00:00:44,400 --> 00:00:47,580
+here this little part up here so it's
+
+23
+00:00:47,580 --> 00:00:49,440
+nice if we can just select all the sky
+
+24
+00:00:49,440 --> 00:00:51,750
+based on a common attribute that it has
+
+25
+00:00:51,750 --> 00:00:54,330
+like its color or its brightness and
+
+26
+00:00:54,330 --> 00:00:55,410
+that's exactly what we can do with
+
+27
+00:00:55,410 --> 00:00:58,200
+parametric masking so oh I want to show
+
+28
+00:00:58,200 --> 00:00:59,910
+you one thing though I didn't talk about
+
+29
+00:00:59,910 --> 00:01:01,560
+last time I don't think if we draw a
+
+30
+00:01:01,560 --> 00:01:04,230
+mask and then we come over here and we
+
+31
+00:01:04,230 --> 00:01:05,850
+try to apply that mask with on this
+
+32
+00:01:05,850 --> 00:01:08,070
+color corrector for example we go to
+
+33
+00:01:08,070 --> 00:01:11,150
+drawn mask and we say use the circle one
+
+34
+00:01:11,150 --> 00:01:14,430
+we can see what this mask is doing by
+
+35
+00:01:14,430 --> 00:01:16,800
+just making it we can make a change on
+
+36
+00:01:16,800 --> 00:01:19,640
+the image and we can see how that change
+
+37
+00:01:19,640 --> 00:01:23,159
+changes the way our image looks or we
+
+38
+00:01:23,159 --> 00:01:24,720
+could also if we don't if our change is
+
+39
+00:01:24,720 --> 00:01:27,360
+very very subtle maybe let's say we're
+
+40
+00:01:27,360 --> 00:01:29,490
+only altering the color a teeny tiny bit
+
+41
+00:01:29,490 --> 00:01:31,979
+and it's hard to tell what's exactly
+
+42
+00:01:31,979 --> 00:01:34,170
+happening in there we can look at our
+
+43
+00:01:34,170 --> 00:01:35,790
+masks in more detail by clicking this
+
+44
+00:01:35,790 --> 00:01:38,340
+little white icon this little white
+
+45
+00:01:38,340 --> 00:01:40,530
+square with a circle in it if we click
+
+46
+00:01:40,530 --> 00:01:43,530
+that it turns our whole image not
+
+47
+00:01:43,530 --> 00:01:45,900
+permanently it just for the help of met
+
+48
+00:01:45,900 --> 00:01:48,840
+of us masking it turns our image black
+
+49
+00:01:48,840 --> 00:01:50,790
+and white and it shows us our mask in
+
+50
+00:01:50,790 --> 00:01:53,700
+yellow so then we can see if we hover
+
+51
+00:01:53,700 --> 00:01:55,530
+over the feather and change the feather
+
+52
+00:01:55,530 --> 00:01:57,000
+we can kind of see more what that's
+
+53
+00:01:57,000 --> 00:02:00,030
+doing how that's fading out our mask and
+
+54
+00:02:00,030 --> 00:02:01,890
+so we can kind of see more how our mask
+
+55
+00:02:01,890 --> 00:02:04,080
+is behaving relative to the image behind
+
+56
+00:02:04,080 --> 00:02:06,869
+it this is gonna be a really important
+
+57
+00:02:06,869 --> 00:02:08,369
+thing and really good to use in our
+
+58
+00:02:08,369 --> 00:02:10,169
+parametric masking that's why I bring
+
+59
+00:02:10,169 --> 00:02:13,019
+that up I don't know if I talked about
+
+60
+00:02:13,019 --> 00:02:14,010
+last time either
+
+61
+00:02:14,010 --> 00:02:16,470
+masks will just click on it and then we
+
+62
+00:02:16,470 --> 00:02:17,909
+can right-click on it and it'll go away
+
+63
+00:02:17,909 --> 00:02:21,269
+so now we see our whole image is being
+
+64
+00:02:21,269 --> 00:02:22,890
+masked because we don't have anything
+
+65
+00:02:22,890 --> 00:02:24,959
+drawn and then when we draw something it
+
+66
+00:02:24,959 --> 00:02:27,000
+comes back in there anyway
+
+67
+00:02:27,000 --> 00:02:29,069
+let's click this little icon right here
+
+68
+00:02:29,069 --> 00:02:32,129
+to reset all everything in here our
+
+69
+00:02:32,129 --> 00:02:34,620
+blend is back to off and now we're going
+
+70
+00:02:34,620 --> 00:02:36,930
+to click the drop down left click and go
+
+71
+00:02:36,930 --> 00:02:40,200
+down to parametric mask that gives us
+
+72
+00:02:40,200 --> 00:02:41,129
+some more options
+
+73
+00:02:41,129 --> 00:02:43,730
+oops I made a change just reset that
+
+74
+00:02:43,730 --> 00:02:46,109
+capacity so we still have this little
+
+75
+00:02:46,109 --> 00:02:47,640
+button here and I'm gonna click it this
+
+76
+00:02:47,640 --> 00:02:49,680
+time so we click this and that's going
+
+77
+00:02:49,680 --> 00:02:51,420
+to make it so our whole image is masked
+
+78
+00:02:51,420 --> 00:02:54,180
+out right now and so now we can adjust
+
+79
+00:02:54,180 --> 00:02:55,319
+these channels I'm just gonna show you
+
+80
+00:02:55,319 --> 00:02:57,180
+what it does if we keep it on this L
+
+81
+00:02:57,180 --> 00:02:59,730
+it's the brightness Channel and as we
+
+82
+00:02:59,730 --> 00:03:02,849
+drag this around its we can see certain
+
+83
+00:03:02,849 --> 00:03:04,349
+parts of our image shine through and
+
+84
+00:03:04,349 --> 00:03:07,200
+certain parts remain masked so in this
+
+85
+00:03:07,200 --> 00:03:09,090
+case it's the darker pixels that are
+
+86
+00:03:09,090 --> 00:03:10,769
+shining through or coming through and
+
+87
+00:03:10,769 --> 00:03:12,420
+it's the lighter pixels that are being
+
+88
+00:03:12,420 --> 00:03:14,909
+masked so that's because we're on this L
+
+89
+00:03:14,909 --> 00:03:16,980
+there's different channels we can do it
+
+90
+00:03:16,980 --> 00:03:19,319
+based off of hue so based off of a color
+
+91
+00:03:19,319 --> 00:03:21,209
+of the pixel L is based off of the
+
+92
+00:03:21,209 --> 00:03:22,440
+brightness of the pixel there's some
+
+93
+00:03:22,440 --> 00:03:23,819
+other channels here we'll be looking at
+
+94
+00:03:23,819 --> 00:03:26,310
+later but let's just adjust these
+
+95
+00:03:26,310 --> 00:03:28,410
+triangles here this is sort of
+
+96
+00:03:28,410 --> 00:03:30,480
+brightness see we have dark pixels here
+
+97
+00:03:30,480 --> 00:03:32,849
+light pixels here and everything in
+
+98
+00:03:32,849 --> 00:03:35,220
+between and so we can come in here and
+
+99
+00:03:35,220 --> 00:03:37,620
+adjust to select just a certain part and
+
+100
+00:03:37,620 --> 00:03:40,410
+if we're curious if we want to find we
+
+101
+00:03:40,410 --> 00:03:43,079
+can use this little dropper here this
+
+102
+00:03:43,079 --> 00:03:44,639
+little color picker or this picker tool
+
+103
+00:03:44,639 --> 00:03:47,609
+and we can click and select an area and
+
+104
+00:03:47,609 --> 00:03:50,519
+that will draw a line so that's area I
+
+105
+00:03:50,519 --> 00:03:52,799
+selected right here let's do this one is
+
+106
+00:03:52,799 --> 00:03:55,049
+showing right here as a white vertical
+
+107
+00:03:55,049 --> 00:03:57,720
+line on this bar
+
+108
+00:03:57,720 --> 00:03:59,340
+there's input and output so we're
+
+109
+00:03:59,340 --> 00:04:02,040
+selecting based on the input right now
+
+110
+00:04:02,040 --> 00:04:04,859
+so we're going to want to be on this
+
+111
+00:04:04,859 --> 00:04:06,180
+one's gonna want to be on the right side
+
+112
+00:04:06,180 --> 00:04:08,040
+of this little white vertical line and
+
+113
+00:04:08,040 --> 00:04:09,840
+this one's gonna be on the left side of
+
+114
+00:04:09,840 --> 00:04:11,819
+that white vertical line and then we can
+
+115
+00:04:11,819 --> 00:04:14,849
+sort of fine-tune this to capture all
+
+116
+00:04:14,849 --> 00:04:17,459
+the light the spectrum of light pixels
+
+117
+00:04:17,459 --> 00:04:20,639
+that are within the sky so I'm doing
+
+118
+00:04:20,639 --> 00:04:22,650
+this top triangle now the top triangle
+
+119
+00:04:22,650 --> 00:04:25,260
+is sort of like our hard edge out of our
+
+120
+00:04:25,260 --> 00:04:26,669
+shape that we were doing earlier and
+
+121
+00:04:26,669 --> 00:04:27,970
+this bottom trying
+
+122
+00:04:27,970 --> 00:04:29,920
+sort of like the soft feathered edge if
+
+123
+00:04:29,920 --> 00:04:31,720
+you can think of it that way is sort of
+
+124
+00:04:31,720 --> 00:04:34,300
+the fade around the pixels so we see
+
+125
+00:04:34,300 --> 00:04:37,050
+this looks very hard and sharp right now
+
+126
+00:04:37,050 --> 00:04:40,480
+but as we adjust this bottom triangle it
+
+127
+00:04:40,480 --> 00:04:43,570
+becomes softer and more of like faded
+
+128
+00:04:43,570 --> 00:04:45,820
+into the other pixels around it does
+
+129
+00:04:45,820 --> 00:04:47,260
+that make sense it's kinda hard to see
+
+130
+00:04:47,260 --> 00:04:49,870
+there anyway so the top white triangle
+
+131
+00:04:49,870 --> 00:04:53,080
+is hard the bottom one is soft so we'll
+
+132
+00:04:53,080 --> 00:04:53,950
+put that right there
+
+133
+00:04:53,950 --> 00:04:57,250
+and that looks pretty good so now we're
+
+134
+00:04:57,250 --> 00:04:59,350
+still in our what's this thing called if
+
+135
+00:04:59,350 --> 00:05:01,540
+we hover over it tells us display mask
+
+136
+00:05:01,540 --> 00:05:04,210
+over color channel mode anyway we're
+
+137
+00:05:04,210 --> 00:05:06,070
+still on this mode let's click this to
+
+138
+00:05:06,070 --> 00:05:08,830
+take that off and now any changes we
+
+139
+00:05:08,830 --> 00:05:11,080
+apply this the one that we use this in
+
+140
+00:05:11,080 --> 00:05:13,060
+is this color corrector so now the
+
+141
+00:05:13,060 --> 00:05:15,370
+changes that we apply are going to
+
+142
+00:05:15,370 --> 00:05:19,540
+happen to our masked area and not to the
+
+143
+00:05:19,540 --> 00:05:21,430
+leaves not to everything else that's not
+
+144
+00:05:21,430 --> 00:05:23,470
+masked so we can change the color of the
+
+145
+00:05:23,470 --> 00:05:26,740
+sky in this case without affecting the
+
+146
+00:05:26,740 --> 00:05:30,610
+leaves directly or vice versa maybe we
+
+147
+00:05:30,610 --> 00:05:32,470
+maybe the sky was fine if you want to
+
+148
+00:05:32,470 --> 00:05:33,880
+invert that we can do it just like we
+
+149
+00:05:33,880 --> 00:05:36,280
+did before this icons right here this
+
+150
+00:05:36,280 --> 00:05:37,750
+little circle with the white and black
+
+151
+00:05:37,750 --> 00:05:40,390
+on it we click that and now our
+
+152
+00:05:40,390 --> 00:05:42,610
+selection is inverted we can see what
+
+153
+00:05:42,610 --> 00:05:45,030
+that looks like by clicking on here and
+
+154
+00:05:45,030 --> 00:05:47,530
+we see this is what's selected and our
+
+155
+00:05:47,530 --> 00:05:51,640
+sky is now not being selected and so if
+
+156
+00:05:51,640 --> 00:05:53,229
+we make changes here it's going to
+
+157
+00:05:53,229 --> 00:05:54,520
+change the way that everything looks
+
+158
+00:05:54,520 --> 00:05:56,380
+except for the sky kind of remains white
+
+159
+00:05:56,380 --> 00:05:59,530
+and the same whereas if we weren't doing
+
+160
+00:05:59,530 --> 00:06:01,300
+parametric masking the white the sky
+
+161
+00:06:01,300 --> 00:06:04,600
+would have like a pink hue to it this
+
+162
+00:06:04,600 --> 00:06:06,340
+probably isn't the best the most
+
+163
+00:06:06,340 --> 00:06:10,660
+dramatic one to module two see the
+
+164
+00:06:10,660 --> 00:06:11,830
+differences here but we can make subtle
+
+165
+00:06:11,830 --> 00:06:14,350
+differences and again every module has
+
+166
+00:06:14,350 --> 00:06:16,720
+just about every module we can do our
+
+167
+00:06:16,720 --> 00:06:19,270
+contrast we could mask out we could use
+
+168
+00:06:19,270 --> 00:06:22,090
+parametric masking on our tone curve we
+
+169
+00:06:22,090 --> 00:06:24,430
+could do parametric masking on so all
+
+170
+00:06:24,430 --> 00:06:28,180
+kinds of use cases for this and in the
+
+171
+00:06:28,180 --> 00:06:29,500
+next video we're gonna kind of solidify
+
+172
+00:06:29,500 --> 00:06:32,979
+this more by doing drawn and parametric
+
+173
+00:06:32,979 --> 00:06:35,229
+masking so there's a way we can
+
+174
+00:06:35,229 --> 00:06:37,750
+sometimes you will have a you'll want to
+
+175
+00:06:37,750 --> 00:06:39,910
+maybe just like this leaf here will want
+
+176
+00:06:39,910 --> 00:06:42,249
+to select the the area of this
+
+177
+00:06:42,249 --> 00:06:44,169
+and then also do parametric masking
+
+178
+00:06:44,169 --> 00:06:46,779
+either within it or outside of it and so
+
+179
+00:06:46,779 --> 00:06:48,489
+we can do drawn and parametric masking
+
+180
+00:06:48,489 --> 00:06:51,569
+together using its own mode for that
+
+181
+00:06:51,569 --> 00:06:53,319
+well I think I'm gonna leave this video
+
+182
+00:06:53,319 --> 00:06:55,539
+here go ahead and play with that I know
+
+183
+00:06:55,539 --> 00:06:57,129
+we didn't cover everything in parametric
+
+184
+00:06:57,129 --> 00:06:59,589
+masking next time we'll do maybe we'll
+
+185
+00:06:59,589 --> 00:07:02,349
+work with hue which gives us we can
+
+186
+00:07:02,349 --> 00:07:04,869
+select by a certain hue and we can do
+
+187
+00:07:04,869 --> 00:07:05,649
+both at once
+
+188
+00:07:05,649 --> 00:07:07,509
+absolute if we double click it resets it
+
+189
+00:07:07,509 --> 00:07:10,779
+we can do both of these at once so we
+
+190
+00:07:10,779 --> 00:07:12,969
+can select based on the luma channel and
+
+191
+00:07:12,969 --> 00:07:15,399
+the hue at once and that kind of gives
+
+192
+00:07:15,399 --> 00:07:18,249
+us more control over our mask but it
+
+193
+00:07:18,249 --> 00:07:20,559
+gets a little bit more tricky and it's
+
+194
+00:07:20,559 --> 00:07:22,089
+kind of harder just let pixels that way
+
+195
+00:07:22,089 --> 00:07:24,339
+as well play with parametric masking
+
+196
+00:07:24,339 --> 00:07:25,989
+it's gonna be a little bit confusing at
+
+197
+00:07:25,989 --> 00:07:28,899
+first but at the more you play with it
+
+198
+00:07:28,899 --> 00:07:31,629
+the more you'll realize situations when
+
+199
+00:07:31,629 --> 00:07:33,879
+it's good to use the parametric masks in
+
+200
+00:07:33,879 --> 00:07:35,169
+other situations where it's just going
+
+201
+00:07:35,169 --> 00:07:36,639
+to be better off using the drawn mask
+
+202
+00:07:36,639 --> 00:07:38,979
+and sometimes altogether you don't need
+
+203
+00:07:38,979 --> 00:07:40,659
+to use masking you can use certain nodes
+
+204
+00:07:40,659 --> 00:07:44,249
+like in this case we could have used the
+
+205
+00:07:44,249 --> 00:07:46,419
+color lookup table would have been a
+
+206
+00:07:46,419 --> 00:07:48,489
+good one for adjusting certain covers of
+
+207
+00:07:48,489 --> 00:07:50,860
+this without doing masking at all anyway
+
+208
+00:07:50,860 --> 00:07:52,059
+thanks for watching leave your questions
+
+209
+00:07:52,059 --> 00:07:53,589
+or comments below if you have any and
+
+210
+00:07:53,589 --> 00:07:57,389
+we'll catch you in the next video
+

@@ -1,0 +1,156 @@
+1
+00:00:02,720 --> 00:00:04,960
+in this video we'll be using caden live
+
+2
+00:00:04,960 --> 00:00:06,960
+and the mask effect to create this
+
+3
+00:00:06,960 --> 00:00:08,960
+surreal image of an ocean inside of a
+
+4
+00:00:08,960 --> 00:00:09,760
+mug
+
+5
+00:00:09,760 --> 00:00:12,160
+so we'll drag to our video track one
+
+6
+00:00:12,160 --> 00:00:15,200
+this image of a coffee mug and then also
+
+7
+00:00:15,200 --> 00:00:17,440
+this video of the ocean on the on the
+
+8
+00:00:17,440 --> 00:00:20,000
+upper track we'll adjust the coffee mug
+
+9
+00:00:20,000 --> 00:00:22,400
+to be the same length as our video
+
+10
+00:00:22,400 --> 00:00:24,320
+and then go to effects and search for
+
+11
+00:00:24,320 --> 00:00:27,279
+mask we want this alpha shapes mask
+
+12
+00:00:27,279 --> 00:00:30,480
+and we'll change the shape to ellipse
+
+13
+00:00:30,480 --> 00:00:32,159
+and then we can move this around and
+
+14
+00:00:32,159 --> 00:00:34,399
+it'll just show only that part of the
+
+15
+00:00:34,399 --> 00:00:35,760
+video
+
+16
+00:00:35,760 --> 00:00:37,840
+within this ellipse we'll change this
+
+17
+00:00:37,840 --> 00:00:39,120
+transition width which is really
+
+18
+00:00:39,120 --> 00:00:40,239
+feathering
+
+19
+00:00:40,239 --> 00:00:42,079
+it can also be called
+
+20
+00:00:42,079 --> 00:00:43,760
+just for those edges and then we'll make
+
+21
+00:00:43,760 --> 00:00:45,680
+it the size of this and this this one
+
+22
+00:00:45,680 --> 00:00:47,680
+works pretty easy because it's just a
+
+23
+00:00:47,680 --> 00:00:49,520
+nice simple shape there's more advanced
+
+24
+00:00:49,520 --> 00:00:51,760
+masking we can do
+
+25
+00:00:51,760 --> 00:00:53,440
+and then we play the video it will just
+
+26
+00:00:53,440 --> 00:00:56,719
+show this video of the ocean only over
+
+27
+00:00:56,719 --> 00:00:58,160
+this part of the image it's actually
+
+28
+00:00:58,160 --> 00:00:59,280
+really cool
+
+29
+00:00:59,280 --> 00:01:00,879
+if you want to follow along you can find
+
+30
+00:01:00,879 --> 00:01:03,280
+these images and video in the
+
+31
+00:01:03,280 --> 00:01:04,479
+description of this video you can
+
+32
+00:01:04,479 --> 00:01:05,760
+download and kind of do these same
+
+33
+00:01:05,760 --> 00:01:07,040
+things
+
+34
+00:01:07,040 --> 00:01:09,280
+but that's it caden live is free in open
+
+35
+00:01:09,280 --> 00:01:10,799
+source software and i have tutorials
+
+36
+00:01:10,799 --> 00:01:12,400
+teaching how to use it from a very basic
+
+37
+00:01:12,400 --> 00:01:13,360
+level
+
+38
+00:01:13,360 --> 00:01:14,560
+thanks for watching look forward to
+
+39
+00:01:14,560 --> 00:01:18,439
+catching you in the next video
+

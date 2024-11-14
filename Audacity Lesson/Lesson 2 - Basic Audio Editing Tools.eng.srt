@@ -1,0 +1,836 @@
+1
+00:00:02,600 --> 00:00:05,130
+welcome back to another audio editing
+
+2
+00:00:05,130 --> 00:00:07,290
+tutorial using audacity in this video
+
+3
+00:00:07,290 --> 00:00:08,820
+we're going to learn how to record in
+
+4
+00:00:08,820 --> 00:00:10,619
+some audio and we'll be looking at these
+
+5
+00:00:10,619 --> 00:00:12,539
+different tools here up in the toolbar
+
+6
+00:00:12,539 --> 00:00:15,239
+to make changes to that audio so to
+
+7
+00:00:15,239 --> 00:00:16,439
+start I'm just going to record in a
+
+8
+00:00:16,439 --> 00:00:18,980
+simple audio file that we can edit
+
+9
+00:00:18,980 --> 00:00:24,689
+testing testing 1 2 3 so again to do
+
+10
+00:00:24,689 --> 00:00:25,830
+that recording I just hit the record
+
+11
+00:00:25,830 --> 00:00:27,539
+button with my left mouse button and
+
+12
+00:00:27,539 --> 00:00:29,039
+then when I'm done recording I
+
+13
+00:00:29,039 --> 00:00:31,019
+left-click on this square this stop
+
+14
+00:00:31,019 --> 00:00:33,150
+button if I want to play it back I can
+
+15
+00:00:33,150 --> 00:00:34,740
+just hit this green play button and
+
+16
+00:00:34,740 --> 00:00:36,540
+we'll play from the beginning if I want
+
+17
+00:00:36,540 --> 00:00:37,980
+to pause at any point I can hit the
+
+18
+00:00:37,980 --> 00:00:40,800
+pause button to pause testing so I've
+
+19
+00:00:40,800 --> 00:00:42,570
+paused now and now we see there's this
+
+20
+00:00:42,570 --> 00:00:44,070
+black line right where I've paused
+
+21
+00:00:44,070 --> 00:00:45,870
+that's how I know where I'm at in the
+
+22
+00:00:45,870 --> 00:00:48,360
+recording you'll notice there's like a
+
+23
+00:00:48,360 --> 00:00:50,460
+this selection tool is currently
+
+24
+00:00:50,460 --> 00:00:52,890
+selected or pressed in we can change the
+
+25
+00:00:52,890 --> 00:00:55,200
+tool by left clicking what tool we want
+
+26
+00:00:55,200 --> 00:00:56,970
+to be on but right now we're on the
+
+27
+00:00:56,970 --> 00:00:58,890
+selection tool and that means it lets us
+
+28
+00:00:58,890 --> 00:01:00,720
+select or different portions of the
+
+29
+00:01:00,720 --> 00:01:03,210
+audio so if I left click it'll move that
+
+30
+00:01:03,210 --> 00:01:04,349
+black line I'll stay there kind of where
+
+31
+00:01:04,349 --> 00:01:06,420
+the playhead is but the black line where
+
+32
+00:01:06,420 --> 00:01:08,310
+I have my selection made is where it'll
+
+33
+00:01:08,310 --> 00:01:10,080
+start playing from if I hit play again
+
+34
+00:01:10,080 --> 00:01:12,150
+so now if I hit playing it'll just play
+
+35
+00:01:12,150 --> 00:01:13,380
+this the last thing I said which I
+
+36
+00:01:13,380 --> 00:01:17,640
+believe was the number 3 3 and it'll
+
+37
+00:01:17,640 --> 00:01:20,159
+play and then get to the end and stop if
+
+38
+00:01:20,159 --> 00:01:22,110
+I want to play just a certain portion if
+
+39
+00:01:22,110 --> 00:01:24,210
+I want to start by saying 1 2 3 I can
+
+40
+00:01:24,210 --> 00:01:26,250
+click over here left click I get that
+
+41
+00:01:26,250 --> 00:01:27,810
+black line to appear then I can click
+
+42
+00:01:27,810 --> 00:01:31,140
+play 1 2 3 it'll play just that portion
+
+43
+00:01:31,140 --> 00:01:34,409
+of the audio if I want to play back from
+
+44
+00:01:34,409 --> 00:01:37,020
+the beginning these toggle moving to the
+
+45
+00:01:37,020 --> 00:01:39,840
+beginning and end of the audio file so
+
+46
+00:01:39,840 --> 00:01:41,820
+if I hit this button the playhead goes
+
+47
+00:01:41,820 --> 00:01:43,290
+back to the beginning if I hit this
+
+48
+00:01:43,290 --> 00:01:45,450
+button it goes to the end that's kind of
+
+49
+00:01:45,450 --> 00:01:46,890
+nice if you're working with a long video
+
+50
+00:01:46,890 --> 00:01:49,229
+file or if we're zoomed in very closely
+
+51
+00:01:49,229 --> 00:01:50,549
+and we want to get to the end or the
+
+52
+00:01:50,549 --> 00:01:52,620
+beginning a lot of times I'll just click
+
+53
+00:01:52,620 --> 00:01:54,390
+the beginning and then play to make sure
+
+54
+00:01:54,390 --> 00:01:55,950
+I play from the beginning because if
+
+55
+00:01:55,950 --> 00:01:57,299
+I've been editing somewhere and I hit
+
+56
+00:01:57,299 --> 00:01:59,490
+play I forget oh I don't want to be
+
+57
+00:01:59,490 --> 00:02:00,810
+playing from that portion I want to play
+
+58
+00:02:00,810 --> 00:02:02,659
+from the beginning so that helps a lot
+
+59
+00:02:02,659 --> 00:02:04,409
+if we want to get rid of a certain
+
+60
+00:02:04,409 --> 00:02:07,020
+portion let's say I only want to say
+
+61
+00:02:07,020 --> 00:02:08,939
+this isn't audio what did I say at the
+
+62
+00:02:08,939 --> 00:02:12,029
+first testing testing let's say I want
+
+63
+00:02:12,029 --> 00:02:13,439
+to get rid of my the first time I say
+
+64
+00:02:13,439 --> 00:02:14,099
+testing
+
+65
+00:02:14,099 --> 00:02:17,640
+which is sort of this area here and to
+
+66
+00:02:17,640 --> 00:02:19,109
+verify that I can left-click and hold
+
+67
+00:02:19,109 --> 00:02:23,219
+and select just those portions and now
+
+68
+00:02:23,219 --> 00:02:24,959
+when I hit play it will only play what's
+
+69
+00:02:24,959 --> 00:02:27,359
+in this highlighted area testing and
+
+70
+00:02:27,359 --> 00:02:30,719
+then it just stops testing while that's
+
+71
+00:02:30,719 --> 00:02:32,489
+highlighted I can come up here to edit
+
+72
+00:02:32,489 --> 00:02:33,870
+and I can do some different things to it
+
+73
+00:02:33,870 --> 00:02:38,760
+I can cut I can copy I can delete if I
+
+74
+00:02:38,760 --> 00:02:40,530
+wanted I can duplicate which is like
+
+75
+00:02:40,530 --> 00:02:42,689
+copy too but so if I just wanna delete
+
+76
+00:02:42,689 --> 00:02:44,579
+it I just hit the hit delete right there
+
+77
+00:02:44,579 --> 00:02:46,769
+and now that's gone now I'm not saying
+
+78
+00:02:46,769 --> 00:02:48,389
+testing there I'm saying only testing
+
+79
+00:02:48,389 --> 00:02:50,099
+once instead of twice so I can go back
+
+80
+00:02:50,099 --> 00:02:52,590
+to the beginning and play testing one
+
+81
+00:02:52,590 --> 00:02:56,370
+two three if I wanted to come back I can
+
+82
+00:02:56,370 --> 00:02:58,739
+go to edit and go undo delete and now
+
+83
+00:02:58,739 --> 00:03:01,680
+that's done that's a undone I mean it's
+
+84
+00:03:01,680 --> 00:03:03,269
+back now it's saying testing testing one
+
+85
+00:03:03,269 --> 00:03:07,290
+two three if I want to and a quicker way
+
+86
+00:03:07,290 --> 00:03:08,549
+to delete if I want to delete just this
+
+87
+00:03:08,549 --> 00:03:10,139
+portion I can just highlight it and hit
+
+88
+00:03:10,139 --> 00:03:12,000
+the Delete key on my keyboard and it
+
+89
+00:03:12,000 --> 00:03:14,189
+goes away I can highlight everything and
+
+90
+00:03:14,189 --> 00:03:17,849
+just hit delete and it all goes away if
+
+91
+00:03:17,849 --> 00:03:19,859
+I had control Z it'll bring those back
+
+92
+00:03:19,859 --> 00:03:22,379
+control Z's just like basically going at
+
+93
+00:03:22,379 --> 00:03:22,530
+it
+
+94
+00:03:22,530 --> 00:03:24,930
+undo it's just a shortcut key if I want
+
+95
+00:03:24,930 --> 00:03:26,189
+to select everything at once I can
+
+96
+00:03:26,189 --> 00:03:28,189
+double click and it selects everything
+
+97
+00:03:28,189 --> 00:03:30,449
+so let's say I had a really long
+
+98
+00:03:30,449 --> 00:03:31,799
+recording I wanted the whole thing to be
+
+99
+00:03:31,799 --> 00:03:33,449
+selected just double click it selects it
+
+100
+00:03:33,449 --> 00:03:35,099
+all and I can hit delete and now it's
+
+101
+00:03:35,099 --> 00:03:37,409
+gone I have nothing to get it back
+
+102
+00:03:37,409 --> 00:03:43,349
+edit undo and it comes back when things
+
+103
+00:03:43,349 --> 00:03:44,579
+are selected that's when you can apply
+
+104
+00:03:44,579 --> 00:03:45,930
+effects to them also there's all these
+
+105
+00:03:45,930 --> 00:03:47,220
+different effects we can do we can
+
+106
+00:03:47,220 --> 00:03:49,739
+amplify to increase the volume we can
+
+107
+00:03:49,739 --> 00:03:51,810
+add echo we can add some kind of fun
+
+108
+00:03:51,810 --> 00:03:53,250
+effects or we can just apply some
+
+109
+00:03:53,250 --> 00:03:55,859
+effects to make it more sound better and
+
+110
+00:03:55,859 --> 00:03:57,389
+make us you know reduce some of the
+
+111
+00:03:57,389 --> 00:03:58,979
+noise and things like that we'll be
+
+112
+00:03:58,979 --> 00:04:01,439
+doing that in future videos I want to
+
+113
+00:04:01,439 --> 00:04:02,459
+talk about some of these different tools
+
+114
+00:04:02,459 --> 00:04:04,650
+here so if I want to zoom in on where I
+
+115
+00:04:04,650 --> 00:04:07,109
+say 1 2 3 I want to zoom in closer on
+
+116
+00:04:07,109 --> 00:04:09,599
+one of those sound waves I can actually
+
+117
+00:04:09,599 --> 00:04:13,109
+click this zoom tool here so I left
+
+118
+00:04:13,109 --> 00:04:14,419
+click on it and then if I left click
+
+119
+00:04:14,419 --> 00:04:17,608
+anywhere that I left click on my WAV
+
+120
+00:04:17,608 --> 00:04:20,608
+file or my wave view down here it'll
+
+121
+00:04:20,608 --> 00:04:22,919
+zoom in and I can see what these are
+
+122
+00:04:22,919 --> 00:04:25,529
+looking like if I right click it'll zoom
+
+123
+00:04:25,529 --> 00:04:27,990
+out and left click will zoom in
+
+124
+00:04:27,990 --> 00:04:30,300
+so I can zoom way out so it's just
+
+125
+00:04:30,300 --> 00:04:32,400
+looking like that I can zoom way in and
+
+126
+00:04:32,400 --> 00:04:36,060
+now I'm into like incredibly incredibly
+
+127
+00:04:36,060 --> 00:04:40,620
+granular so I'll come out here and zoom
+
+128
+00:04:40,620 --> 00:04:42,449
+out and we can see we can see exactly
+
+129
+00:04:42,449 --> 00:04:45,449
+what this part of the audio is so to
+
+130
+00:04:45,449 --> 00:04:47,009
+play from a certain point I have to go
+
+131
+00:04:47,009 --> 00:04:49,199
+back to my selection tool and then click
+
+132
+00:04:49,199 --> 00:04:52,050
+in here and click play one so that's me
+
+133
+00:04:52,050 --> 00:04:56,970
+saying 1 1 2 3 if I want to let's say I
+
+134
+00:04:56,970 --> 00:04:59,759
+want to move over and see what's
+
+135
+00:04:59,759 --> 00:05:01,979
+happening earlier in the audio I can
+
+136
+00:05:01,979 --> 00:05:03,270
+come down to the bottom and use this
+
+137
+00:05:03,270 --> 00:05:06,090
+slider to view to move around and see
+
+138
+00:05:06,090 --> 00:05:10,080
+different points of the audio I can also
+
+139
+00:05:10,080 --> 00:05:12,150
+hold down that can I do that now maybe
+
+140
+00:05:12,150 --> 00:05:13,259
+not I thought I could hold down the
+
+141
+00:05:13,259 --> 00:05:14,580
+mouse middle mouse button but I guess
+
+142
+00:05:14,580 --> 00:05:23,720
+not and I can I can use this slider and
+
+143
+00:05:23,720 --> 00:05:26,520
+I can also if I want to move so this
+
+144
+00:05:26,520 --> 00:05:28,229
+just changes the way that I'm looking at
+
+145
+00:05:28,229 --> 00:05:30,539
+the audio if I actually want to move it
+
+146
+00:05:30,539 --> 00:05:32,550
+to a different point I can come and zoom
+
+147
+00:05:32,550 --> 00:05:34,979
+out here let's say I want to move this
+
+148
+00:05:34,979 --> 00:05:38,759
+whole portion forward I can click this
+
+149
+00:05:38,759 --> 00:05:41,250
+tool at a time shift tool and that lets
+
+150
+00:05:41,250 --> 00:05:44,430
+me actually move the audio so right now
+
+151
+00:05:44,430 --> 00:05:47,520
+it was starting at 0 seconds and it was
+
+152
+00:05:47,520 --> 00:05:49,320
+playing until about 4 seconds I can tell
+
+153
+00:05:49,320 --> 00:05:50,520
+by looking at the top of the timeline
+
+154
+00:05:50,520 --> 00:05:52,680
+here but if I want to move it and have
+
+155
+00:05:52,680 --> 00:05:54,840
+empty space for the first second of
+
+156
+00:05:54,840 --> 00:05:56,909
+audio I can do that by just left
+
+157
+00:05:56,909 --> 00:05:59,039
+clicking and dragging the audio and now
+
+158
+00:05:59,039 --> 00:06:00,270
+if I go back to the beginning and hit
+
+159
+00:06:00,270 --> 00:06:02,370
+play it'll be silent for a second and
+
+160
+00:06:02,370 --> 00:06:06,030
+then my audio will start testing testing
+
+161
+00:06:06,030 --> 00:06:09,090
+and so it's actually it really is
+
+162
+00:06:09,090 --> 00:06:10,409
+actually complete silence and then you
+
+163
+00:06:10,409 --> 00:06:11,699
+kind of hear this little tiny bit of
+
+164
+00:06:11,699 --> 00:06:14,400
+noise as it comes in possibly so this is
+
+165
+00:06:14,400 --> 00:06:15,870
+the time shift to when it's how to move
+
+166
+00:06:15,870 --> 00:06:18,210
+around I wanted to show you one more
+
+167
+00:06:18,210 --> 00:06:19,740
+thing I actually cleared out that audio
+
+168
+00:06:19,740 --> 00:06:21,780
+but one more tool I wanted to show you
+
+169
+00:06:21,780 --> 00:06:24,719
+is that we can bring in some audio so if
+
+170
+00:06:24,719 --> 00:06:27,090
+we just go we can actually drag and drop
+
+171
+00:06:27,090 --> 00:06:30,539
+so if we bring in some music like I have
+
+172
+00:06:30,539 --> 00:06:34,560
+this this is like a WAV file as jazz
+
+173
+00:06:34,560 --> 00:06:36,270
+guitar we go properties it's a dot wave
+
+174
+00:06:36,270 --> 00:06:38,310
+I can just left click and drag and drop
+
+175
+00:06:38,310 --> 00:06:40,320
+this in here and it imports the audio
+
+176
+00:06:40,320 --> 00:06:41,470
+just like that
+
+177
+00:06:41,470 --> 00:06:43,360
+we can also go file and then we go to
+
+178
+00:06:43,360 --> 00:06:45,400
+import and we can import an audio and
+
+179
+00:06:45,400 --> 00:06:46,870
+actually import it in MIDI files as well
+
+180
+00:06:46,870 --> 00:06:49,720
+and we'll show them in denotation then
+
+181
+00:06:49,720 --> 00:06:51,430
+something I want to show with this this
+
+182
+00:06:51,430 --> 00:06:53,800
+last tool is if we hover over and look
+
+183
+00:06:53,800 --> 00:06:55,900
+this is the envelope tool and we can
+
+184
+00:06:55,900 --> 00:06:57,460
+left-click on it and it creates sort of
+
+185
+00:06:57,460 --> 00:06:59,920
+some gray lines across the top or like a
+
+186
+00:06:59,920 --> 00:07:02,080
+lighter gray in the middle what it lets
+
+187
+00:07:02,080 --> 00:07:04,540
+us do is if we just click one point if
+
+188
+00:07:04,540 --> 00:07:06,910
+we left click and hold we can move up
+
+189
+00:07:06,910 --> 00:07:08,950
+and down and control the volume and make
+
+190
+00:07:08,950 --> 00:07:12,040
+this very soft or much louder so now if
+
+191
+00:07:12,040 --> 00:07:17,050
+we play this it's what it sounds like we
+
+192
+00:07:17,050 --> 00:07:18,730
+can actually have it fade in by clicking
+
+193
+00:07:18,730 --> 00:07:20,350
+over here and choosing a second point so
+
+194
+00:07:20,350 --> 00:07:22,450
+now if we left click here we can
+
+195
+00:07:22,450 --> 00:07:24,940
+actually make this much softer and we
+
+196
+00:07:24,940 --> 00:07:26,440
+can move this and have it kind of fade
+
+197
+00:07:26,440 --> 00:07:28,930
+in loud we can click another point here
+
+198
+00:07:28,930 --> 00:07:31,630
+and make it kind of soft so we can have
+
+199
+00:07:31,630 --> 00:07:33,190
+that be loud and then just drop down to
+
+200
+00:07:33,190 --> 00:07:39,880
+soft automatically and so that's the
+
+201
+00:07:39,880 --> 00:07:42,250
+envelope tool to just adjusting volume
+
+202
+00:07:42,250 --> 00:07:44,080
+it kind of creates this envelope around
+
+203
+00:07:44,080 --> 00:07:46,240
+all the audio and you can adjust very
+
+204
+00:07:46,240 --> 00:07:49,450
+quickly the audio levels at certain
+
+205
+00:07:49,450 --> 00:07:52,840
+points in the wave so that's basically
+
+206
+00:07:52,840 --> 00:07:54,100
+it for the the tools up here that I
+
+207
+00:07:54,100 --> 00:07:56,530
+wanted to cover for today appreciate you
+
+208
+00:07:56,530 --> 00:07:57,880
+watching and I'll catch you in the next
+
+209
+00:07:57,880 --> 00:08:00,060
+video
+

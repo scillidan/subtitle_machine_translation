@@ -1,0 +1,976 @@
+1
+00:00:02,720 --> 00:00:05,430
+welcome back to another kdenlive video
+
+2
+00:00:05,430 --> 00:00:07,890
+tutorial the free video editing software
+
+3
+00:00:07,890 --> 00:00:08,669
+kdenlive
+
+4
+00:00:08,669 --> 00:00:10,349
+in this video we're going to be learning
+
+5
+00:00:10,349 --> 00:00:13,199
+how to shorten a video clip so maybe he
+
+6
+00:00:13,199 --> 00:00:14,549
+recorded something on your phone and
+
+7
+00:00:14,549 --> 00:00:16,349
+it's like five minutes long and you only
+
+8
+00:00:16,349 --> 00:00:18,269
+want to share a 30-second portion of it
+
+9
+00:00:18,269 --> 00:00:19,920
+this will be a great way to learn how to
+
+10
+00:00:19,920 --> 00:00:21,539
+do that and also it's going to teach us
+
+11
+00:00:21,539 --> 00:00:23,640
+and get us familiar with using this
+
+12
+00:00:23,640 --> 00:00:24,900
+interface and using some of the
+
+13
+00:00:24,900 --> 00:00:26,849
+different tools that kdenlive has to
+
+14
+00:00:26,849 --> 00:00:29,249
+offer so first we're gonna drag in a
+
+15
+00:00:29,249 --> 00:00:31,499
+video clip I'll go to my downloads I
+
+16
+00:00:31,499 --> 00:00:33,510
+have this video clip here this cyclists
+
+17
+00:00:33,510 --> 00:00:35,820
+getting on a bicycle so I just
+
+18
+00:00:35,820 --> 00:00:37,620
+left-click and drag it into my projects
+
+19
+00:00:37,620 --> 00:00:39,780
+bin and from there then I can drag it
+
+20
+00:00:39,780 --> 00:00:41,760
+down to my timeline we can only work
+
+21
+00:00:41,760 --> 00:00:43,230
+with things in our timeline that are
+
+22
+00:00:43,230 --> 00:00:46,200
+already in our project bin so here we
+
+23
+00:00:46,200 --> 00:00:47,550
+can watch the video right now if I click
+
+24
+00:00:47,550 --> 00:00:49,140
+play we can see what the video looks
+
+25
+00:00:49,140 --> 00:00:51,060
+like we're just kind of monitoring this
+
+26
+00:00:51,060 --> 00:00:54,570
+clip but we're not really looking at our
+
+27
+00:00:54,570 --> 00:00:56,490
+project so if we were to render out or
+
+28
+00:00:56,490 --> 00:00:58,290
+try and save this video it would just
+
+29
+00:00:58,290 --> 00:01:00,240
+come out black because if we click here
+
+30
+00:01:00,240 --> 00:01:02,640
+on our project monitor down here we have
+
+31
+00:01:02,640 --> 00:01:05,010
+no video no audio nothing happening in
+
+32
+00:01:05,010 --> 00:01:07,710
+our project we just have something we
+
+33
+00:01:07,710 --> 00:01:09,540
+just have a clip potentially we can work
+
+34
+00:01:09,540 --> 00:01:11,850
+with so since we do want to work with
+
+35
+00:01:11,850 --> 00:01:13,200
+this clip let's drag it into our
+
+36
+00:01:13,200 --> 00:01:15,420
+timeline so we'll left-click drag it
+
+37
+00:01:15,420 --> 00:01:17,720
+down and just throw it in the timeline
+
+38
+00:01:17,720 --> 00:01:20,220
+the timeline starts at 0 if you look
+
+39
+00:01:20,220 --> 00:01:21,900
+there's this white playhead here we can
+
+40
+00:01:21,900 --> 00:01:24,030
+actually click if we click up here in
+
+41
+00:01:24,030 --> 00:01:27,140
+this gray area we can click and see
+
+42
+00:01:27,140 --> 00:01:30,030
+different parts of this video so right
+
+43
+00:01:30,030 --> 00:01:31,950
+here we're looking at the video if we go
+
+44
+00:01:31,950 --> 00:01:33,840
+back here we're just seeing black so we
+
+45
+00:01:33,840 --> 00:01:35,010
+want to make sure our video is at the
+
+46
+00:01:35,010 --> 00:01:37,710
+very beginning of our project so do that
+
+47
+00:01:37,710 --> 00:01:39,630
+we'll left-click and drag all the way to
+
+48
+00:01:39,630 --> 00:01:42,900
+the start so now when we go back to 0 0
+
+49
+00:01:42,900 --> 00:01:45,690
+we see the very first frame of our video
+
+50
+00:01:45,690 --> 00:01:49,560
+is it's not black anymore like it was
+
+51
+00:01:49,560 --> 00:01:51,690
+it's actually showing our video which is
+
+52
+00:01:51,690 --> 00:01:53,820
+good and if we hit play we can play
+
+53
+00:01:53,820 --> 00:01:54,900
+through and watch and see what this
+
+54
+00:01:54,900 --> 00:01:58,320
+looks like so maybe this video is way
+
+55
+00:01:58,320 --> 00:01:59,940
+too long for us which really it isn't
+
+56
+00:01:59,940 --> 00:02:02,490
+it's only about less than 10 seconds
+
+57
+00:02:02,490 --> 00:02:05,400
+long but if we if we think it's too long
+
+58
+00:02:05,400 --> 00:02:07,409
+we want to make it shorter we can cut
+
+59
+00:02:07,409 --> 00:02:09,538
+and make it shorter to do that we'll hit
+
+60
+00:02:09,538 --> 00:02:12,329
+the X key so we hit the X key on our
+
+61
+00:02:12,329 --> 00:02:13,860
+keyboard and we get this nice
+
+62
+00:02:13,860 --> 00:02:19,740
+cutting scissor cursor option another
+
+63
+00:02:19,740 --> 00:02:21,690
+way we can do it I'm gonna hit s to go
+
+64
+00:02:21,690 --> 00:02:23,130
+back to what we're before so we can move
+
+65
+00:02:23,130 --> 00:02:25,140
+us around we can hit the scissor tool
+
+66
+00:02:25,140 --> 00:02:26,910
+here we just click on it and we get this
+
+67
+00:02:26,910 --> 00:02:28,380
+scissor tool to cut so I'm gonna hit
+
+68
+00:02:28,380 --> 00:02:31,050
+left-click on my clip and I'll cut and
+
+69
+00:02:31,050 --> 00:02:32,790
+I'll go back to my selection tool and we
+
+70
+00:02:32,790 --> 00:02:35,460
+can see we have two video clips now we
+
+71
+00:02:35,460 --> 00:02:37,170
+have one that's our first one we have
+
+72
+00:02:37,170 --> 00:02:40,020
+our second one so that's a way we can we
+
+73
+00:02:40,020 --> 00:02:41,459
+maybe we want to use this one somewhere
+
+74
+00:02:41,459 --> 00:02:42,690
+else or if we don't we can just hit the
+
+75
+00:02:42,690 --> 00:02:45,030
+Delete key while it's selected and it'll
+
+76
+00:02:45,030 --> 00:02:47,160
+be gone so now our video is only half as
+
+77
+00:02:47,160 --> 00:02:51,360
+long and yeah so we've just shortened
+
+78
+00:02:51,360 --> 00:02:53,700
+this video basically by half it's still
+
+79
+00:02:53,700 --> 00:02:55,680
+playing at the same speed so we go to
+
+80
+00:02:55,680 --> 00:02:57,989
+play we can see it's still playing at
+
+81
+00:02:57,989 --> 00:03:01,080
+the same speed that it was this little
+
+82
+00:03:01,080 --> 00:03:02,459
+blue thing that I just moved by the way
+
+83
+00:03:02,459 --> 00:03:05,130
+we see right here this is the extent of
+
+84
+00:03:05,130 --> 00:03:07,980
+our video so this blue line shows us how
+
+85
+00:03:07,980 --> 00:03:10,200
+long our video project will be when we
+
+86
+00:03:10,200 --> 00:03:12,840
+go to render we have an option we can
+
+87
+00:03:12,840 --> 00:03:14,610
+just render our whole every video clip
+
+88
+00:03:14,610 --> 00:03:17,640
+that's in our timeline as one option we
+
+89
+00:03:17,640 --> 00:03:20,640
+can also say only render to the extents
+
+90
+00:03:20,640 --> 00:03:22,980
+of this of this blue bar so if we want
+
+91
+00:03:22,980 --> 00:03:25,530
+our video to only be 20 seconds long we
+
+92
+00:03:25,530 --> 00:03:26,970
+would just set it right here at 20
+
+93
+00:03:26,970 --> 00:03:29,040
+seconds then our video would stop when
+
+94
+00:03:29,040 --> 00:03:32,430
+it got to 20 seconds but we'll use that
+
+95
+00:03:32,430 --> 00:03:34,590
+later it won't really apply to us in
+
+96
+00:03:34,590 --> 00:03:36,030
+this case that's one thought you know
+
+97
+00:03:36,030 --> 00:03:38,160
+because when you first start that's it
+
+98
+00:03:38,160 --> 00:03:39,330
+gets in the way sometimes when you're
+
+99
+00:03:39,330 --> 00:03:40,860
+trying to move the playhead you
+
+100
+00:03:40,860 --> 00:03:42,390
+accidentally move this blue thing
+
+101
+00:03:42,390 --> 00:03:45,260
+instead so that's why I bring that up
+
+102
+00:03:45,260 --> 00:03:47,670
+also with this video so we're on video
+
+103
+00:03:47,670 --> 00:03:49,769
+track 1 if we want to zoom in and kind
+
+104
+00:03:49,769 --> 00:03:52,260
+of see and make a more detailed cut we
+
+105
+00:03:52,260 --> 00:03:53,459
+can actually come down here to the
+
+106
+00:03:53,459 --> 00:03:55,739
+bottom right and we'll click and drag
+
+107
+00:03:55,739 --> 00:03:57,630
+this little square and we can it'll
+
+108
+00:03:57,630 --> 00:04:00,600
+resize the way we're looking at this
+
+109
+00:04:00,600 --> 00:04:02,760
+timeline so it'll kind of zoom in on
+
+110
+00:04:02,760 --> 00:04:04,980
+time it doesn't change the size of the
+
+111
+00:04:04,980 --> 00:04:07,049
+video actually in our project it doesn't
+
+112
+00:04:07,049 --> 00:04:09,600
+change how fast it plays or how long the
+
+113
+00:04:09,600 --> 00:04:12,180
+duration of it but it helps us get a
+
+114
+00:04:12,180 --> 00:04:14,400
+much more granular look now we can drag
+
+115
+00:04:14,400 --> 00:04:17,488
+and pan through and kind of see frame by
+
+116
+00:04:17,488 --> 00:04:19,140
+frame what's happening in this video
+
+117
+00:04:19,140 --> 00:04:22,200
+clip whereas before it was so small it
+
+118
+00:04:22,200 --> 00:04:24,630
+would have been hard to cut very
+
+119
+00:04:24,630 --> 00:04:26,010
+precisely
+
+120
+00:04:26,010 --> 00:04:29,190
+so that's how that works so we'll zoom
+
+121
+00:04:29,190 --> 00:04:32,100
+in here and sometimes if you have like a
+
+122
+00:04:32,100 --> 00:04:34,290
+two hour video project you know you
+
+123
+00:04:34,290 --> 00:04:37,950
+don't want to you know if one pixel a
+
+124
+00:04:37,950 --> 00:04:40,260
+fraction of an inch on your screen will
+
+125
+00:04:40,260 --> 00:04:41,430
+mean the difference between you know
+
+126
+00:04:41,430 --> 00:04:43,380
+five minutes of cutting video footage of
+
+127
+00:04:43,380 --> 00:04:45,540
+it so you need to zoom in to get a very
+
+128
+00:04:45,540 --> 00:04:48,750
+accurate look so yeah so we've cut this
+
+129
+00:04:48,750 --> 00:04:50,700
+we've cut this video let's let's go
+
+130
+00:04:50,700 --> 00:04:51,810
+through that one more time how to do
+
+131
+00:04:51,810 --> 00:04:53,370
+that I'll show you a third way if we go
+
+132
+00:04:53,370 --> 00:04:56,300
+up to tool and select this razor tool
+
+133
+00:04:56,300 --> 00:04:58,950
+that's how we get this it's this turns
+
+134
+00:04:58,950 --> 00:05:00,420
+to the scissor icon and then we can then
+
+135
+00:05:00,420 --> 00:05:02,850
+cut cut cut as many times as we've left
+
+136
+00:05:02,850 --> 00:05:04,890
+click it'll cut you can then create a
+
+137
+00:05:04,890 --> 00:05:06,960
+separate clip and then we go back to
+
+138
+00:05:06,960 --> 00:05:08,880
+this tool and go to our selection tool
+
+139
+00:05:08,880 --> 00:05:10,740
+and then we can actually select these
+
+140
+00:05:10,740 --> 00:05:13,050
+videos and move them around we can
+
+141
+00:05:13,050 --> 00:05:14,850
+select one and delete it if we want just
+
+142
+00:05:14,850 --> 00:05:15,960
+the Delete key
+
+143
+00:05:15,960 --> 00:05:17,730
+so what everyone has a red box around it
+
+144
+00:05:17,730 --> 00:05:19,650
+that's what's selected so now we've
+
+145
+00:05:19,650 --> 00:05:21,510
+really shortened this video a lot and
+
+146
+00:05:21,510 --> 00:05:22,890
+you see this is up here on video track
+
+147
+00:05:22,890 --> 00:05:24,960
+two which doesn't matter it'll still
+
+148
+00:05:24,960 --> 00:05:27,830
+play correctly when we play through but
+
+149
+00:05:27,830 --> 00:05:31,020
+for for all intents and purposes I was
+
+150
+00:05:31,020 --> 00:05:33,300
+our down play we should just keep
+
+151
+00:05:33,300 --> 00:05:35,310
+everything in the same track at least
+
+152
+00:05:35,310 --> 00:05:37,950
+for this video to avoid confusion so
+
+153
+00:05:37,950 --> 00:05:39,360
+everything's on video track one and
+
+154
+00:05:39,360 --> 00:05:41,310
+there's no audio with this video it's
+
+155
+00:05:41,310 --> 00:05:43,530
+completely silent if it had audio it
+
+156
+00:05:43,530 --> 00:05:44,910
+would be playing along with the video
+
+157
+00:05:44,910 --> 00:05:46,710
+and we're walk out we'll do it we'll
+
+158
+00:05:46,710 --> 00:05:48,060
+play out the audio in the next video as
+
+159
+00:05:48,060 --> 00:05:50,700
+well we can add music if we just bring
+
+160
+00:05:50,700 --> 00:05:52,320
+music in like if I want to bring an
+
+161
+00:05:52,320 --> 00:05:55,110
+audio file into here I can go find some
+
+162
+00:05:55,110 --> 00:05:56,760
+audio on my computer left click and drag
+
+163
+00:05:56,760 --> 00:05:59,610
+it in and we'll drag it down to the
+
+164
+00:05:59,610 --> 00:06:01,980
+timeline and then it will play audio
+
+165
+00:06:01,980 --> 00:06:04,530
+along with our video footage it'll
+
+166
+00:06:04,530 --> 00:06:08,550
+actually play there that sound is the
+
+167
+00:06:08,550 --> 00:06:11,430
+audio file playing so I'm going to
+
+168
+00:06:11,430 --> 00:06:13,230
+render this out very quickly in fact I'm
+
+169
+00:06:13,230 --> 00:06:15,120
+just going to drag this audio to here
+
+170
+00:06:15,120 --> 00:06:16,920
+will delete this last clip make a nice
+
+171
+00:06:16,920 --> 00:06:19,200
+short one I'll shrink the audio down to
+
+172
+00:06:19,200 --> 00:06:21,570
+about there and let's render this out so
+
+173
+00:06:21,570 --> 00:06:24,030
+to render to save our video if this is
+
+174
+00:06:24,030 --> 00:06:25,710
+all we want to do is cut our video and
+
+175
+00:06:25,710 --> 00:06:27,360
+then upload it to Facebook or YouTube or
+
+176
+00:06:27,360 --> 00:06:29,240
+somewhere we'll just click on render
+
+177
+00:06:29,240 --> 00:06:31,890
+well first of all I'll show you kind of
+
+178
+00:06:31,890 --> 00:06:33,870
+the wrong way to do it I guess if you go
+
+179
+00:06:33,870 --> 00:06:36,860
+to file save that's just gonna save a
+
+180
+00:06:36,860 --> 00:06:38,960
+kdenlive project
+
+181
+00:06:38,960 --> 00:06:40,820
+so we can we can do this we can save
+
+182
+00:06:40,820 --> 00:06:43,460
+under documents we can call it my video
+
+183
+00:06:43,460 --> 00:06:46,160
+and hit save and that will just save it
+
+184
+00:06:46,160 --> 00:06:48,830
+under it'll be a dot kdenlive file which
+
+185
+00:06:48,830 --> 00:06:51,199
+is good if we ever want to come back in
+
+186
+00:06:51,199 --> 00:06:53,479
+and define tweak and replace the audio
+
+187
+00:06:53,479 --> 00:06:56,389
+or make changes to this video project we
+
+188
+00:06:56,389 --> 00:06:59,169
+can do that but that video will not be
+
+189
+00:06:59,169 --> 00:07:03,669
+that that's just going to be a video
+
+190
+00:07:03,669 --> 00:07:05,870
+video project file
+
+191
+00:07:05,870 --> 00:07:08,240
+we can't upload the that this to YouTube
+
+192
+00:07:08,240 --> 00:07:10,759
+or or send it email it to a friend or
+
+193
+00:07:10,759 --> 00:07:13,039
+something so to actually render out a
+
+194
+00:07:13,039 --> 00:07:17,330
+video we click on render not save by
+
+195
+00:07:17,330 --> 00:07:17,810
+default
+
+196
+00:07:17,810 --> 00:07:19,729
+well first we want to do is choose out
+
+197
+00:07:19,729 --> 00:07:21,410
+choose our output file so where do we
+
+198
+00:07:21,410 --> 00:07:23,000
+want to render it to click these dots
+
+199
+00:07:23,000 --> 00:07:24,560
+here I'm gonna do mine to the desktop
+
+200
+00:07:24,560 --> 00:07:27,110
+and we'll just call it test we'll hit
+
+201
+00:07:27,110 --> 00:07:30,259
+save so the very first thing it has an
+
+202
+00:07:30,259 --> 00:07:33,169
+automatic default as this web M which
+
+203
+00:07:33,169 --> 00:07:34,669
+will be which would work it's a video
+
+204
+00:07:34,669 --> 00:07:36,949
+format not everyone not all players can
+
+205
+00:07:36,949 --> 00:07:39,770
+play that mp4 is a pretty widely known
+
+206
+00:07:39,770 --> 00:07:41,900
+pretty common one it's a good one to use
+
+207
+00:07:41,900 --> 00:07:43,310
+if you're uploading to YouTube or
+
+208
+00:07:43,310 --> 00:07:47,210
+Facebook if it's a final video so I'm
+
+209
+00:07:47,210 --> 00:07:49,580
+also at mp4 there's all these different
+
+210
+00:07:49,580 --> 00:07:51,740
+options for if we want to export the
+
+211
+00:07:51,740 --> 00:07:53,599
+audio only we can export different
+
+212
+00:07:53,599 --> 00:07:55,880
+lossless formats we can just export an
+
+213
+00:07:55,880 --> 00:07:58,310
+image sequence but for this we'll just
+
+214
+00:07:58,310 --> 00:08:01,340
+click mp4 choose your output location
+
+215
+00:08:01,340 --> 00:08:04,159
+like we did and then go ahead and save
+
+216
+00:08:04,159 --> 00:08:05,930
+and then we'll hit render Oh before that
+
+217
+00:08:05,930 --> 00:08:07,610
+I just want to show you right now it's
+
+218
+00:08:07,610 --> 00:08:09,349
+rendering the full project which means
+
+219
+00:08:09,349 --> 00:08:11,330
+it's gonna render the extent of all
+
+220
+00:08:11,330 --> 00:08:13,699
+video clips that we've added but that
+
+221
+00:08:13,699 --> 00:08:14,990
+blue thing I was talking about there's
+
+222
+00:08:14,990 --> 00:08:17,810
+this selected zone if we if we do
+
+223
+00:08:17,810 --> 00:08:20,360
+selected zone it'll only render the part
+
+224
+00:08:20,360 --> 00:08:22,789
+that we have selected in our selected
+
+225
+00:08:22,789 --> 00:08:24,500
+zone that'll make sense more on the
+
+226
+00:08:24,500 --> 00:08:25,639
+teacher we'll play with that a little
+
+227
+00:08:25,639 --> 00:08:27,500
+bit so make sure this says full project
+
+228
+00:08:27,500 --> 00:08:30,169
+and click render to file and this is
+
+229
+00:08:30,169 --> 00:08:31,639
+rendering out very quickly because it's
+
+230
+00:08:31,639 --> 00:08:34,130
+only what a two second three second long
+
+231
+00:08:34,130 --> 00:08:37,399
+video and now it's done rendering so we
+
+232
+00:08:37,399 --> 00:08:39,919
+can hit close here we can minimize and
+
+233
+00:08:39,919 --> 00:08:42,229
+go to the desktop and we can see this
+
+234
+00:08:42,229 --> 00:08:44,750
+video that we've created
+
+235
+00:08:44,750 --> 00:08:48,649
+that's it just keep looping over and
+
+236
+00:08:48,649 --> 00:08:50,689
+over again just a short little clip this
+
+237
+00:08:50,689 --> 00:08:51,740
+guy getting on his bike
+
+238
+00:08:51,740 --> 00:08:53,389
+and it's a little sound playing in the
+
+239
+00:08:53,389 --> 00:08:55,430
+background so I hope you've enjoyed this
+
+240
+00:08:55,430 --> 00:08:57,980
+video I hope you found it informative go
+
+241
+00:08:57,980 --> 00:08:59,209
+ahead and like and subscribe check out
+
+242
+00:08:59,209 --> 00:09:02,029
+my other tutorials on kdenlive and other
+
+243
+00:09:02,029 --> 00:09:04,339
+software and I'll catch you in the next
+
+244
+00:09:04,339 --> 00:09:06,550
+video
+

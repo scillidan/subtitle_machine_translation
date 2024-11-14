@@ -1,0 +1,1224 @@
+1
+00:00:02,270 --> 00:00:04,920
+welcome to another tutorial in this
+
+2
+00:00:04,920 --> 00:00:06,029
+video we'll be learning about the
+
+3
+00:00:06,029 --> 00:00:07,650
+different selection tools we have
+
+4
+00:00:07,650 --> 00:00:10,349
+available in for selecting certain
+
+5
+00:00:10,349 --> 00:00:12,809
+areas of our image and creating a custom
+
+6
+00:00:12,809 --> 00:00:14,969
+selection that we can then apply changes
+
+7
+00:00:14,969 --> 00:00:17,490
+to so this is common if we want to only
+
+8
+00:00:17,490 --> 00:00:19,230
+apply changes in here like you race for
+
+9
+00:00:19,230 --> 00:00:21,960
+example it'll only erase to wherever we
+
+10
+00:00:21,960 --> 00:00:24,179
+have selected any of our brushes will
+
+11
+00:00:24,179 --> 00:00:26,849
+only be drawn in this selection this is
+
+12
+00:00:26,849 --> 00:00:28,259
+also pretty common for doing something
+
+13
+00:00:28,259 --> 00:00:29,880
+like a color effect where you'll select
+
+14
+00:00:29,880 --> 00:00:32,009
+just a certain area and we can go to
+
+15
+00:00:32,009 --> 00:00:34,200
+like hue and saturation and change the
+
+16
+00:00:34,200 --> 00:00:38,210
+hue of whatever selected in that area
+
+17
+00:00:38,210 --> 00:00:40,620
+also what you'll do a lot is you'll do a
+
+18
+00:00:40,620 --> 00:00:43,050
+rectangular selection like this and then
+
+19
+00:00:43,050 --> 00:00:45,090
+you can go to image crop to selection
+
+20
+00:00:45,090 --> 00:00:47,370
+and sort of cut out or you could get a
+
+21
+00:00:47,370 --> 00:00:49,320
+really tight shot in here of just these
+
+22
+00:00:49,320 --> 00:00:51,180
+strawberries and we can go to crop a
+
+23
+00:00:51,180 --> 00:00:53,070
+selection and then you'll just have this
+
+24
+00:00:53,070 --> 00:00:54,840
+image we could then export or do
+
+25
+00:00:54,840 --> 00:00:57,720
+something to so let me do ctrl Z and
+
+26
+00:00:57,720 --> 00:00:59,670
+undo all of this and let's start from
+
+27
+00:00:59,670 --> 00:01:01,290
+the very beginning learning how to use
+
+28
+00:01:01,290 --> 00:01:03,630
+these selection tools the first tool
+
+29
+00:01:03,630 --> 00:01:04,440
+we're going to look at is the
+
+30
+00:01:04,440 --> 00:01:06,720
+rectangular Select tool R is the
+
+31
+00:01:06,720 --> 00:01:08,910
+shortcut key to get into that tool and
+
+32
+00:01:08,910 --> 00:01:11,010
+that just lets us draw a rectangle or a
+
+33
+00:01:11,010 --> 00:01:13,740
+square to draw it we just left we hold
+
+34
+00:01:13,740 --> 00:01:15,840
+down the left mouse button and then
+
+35
+00:01:15,840 --> 00:01:19,020
+unhold it to create the selection once
+
+36
+00:01:19,020 --> 00:01:20,460
+it's created we can change it by
+
+37
+00:01:20,460 --> 00:01:22,440
+hovering to the top and changing how
+
+38
+00:01:22,440 --> 00:01:24,420
+tall it is either at the top or the
+
+39
+00:01:24,420 --> 00:01:26,370
+bottom and I'm just left clicking and
+
+40
+00:01:26,370 --> 00:01:28,710
+holding to change that again that only
+
+41
+00:01:28,710 --> 00:01:30,630
+appears when you get close towards the
+
+42
+00:01:30,630 --> 00:01:33,180
+edge sort of those handles will appear
+
+43
+00:01:33,180 --> 00:01:35,190
+for doing that you can go to the corner
+
+44
+00:01:35,190 --> 00:01:37,830
+and change the corners as well and so
+
+45
+00:01:37,830 --> 00:01:39,960
+the bottom left-hand corner is now fixed
+
+46
+00:01:39,960 --> 00:01:42,540
+and the other two are changed here if I
+
+47
+00:01:42,540 --> 00:01:43,710
+click on the left one the bottom
+
+48
+00:01:43,710 --> 00:01:45,270
+right-hand corner is fixed and
+
+49
+00:01:45,270 --> 00:01:47,130
+everything else has changed so you can
+
+50
+00:01:47,130 --> 00:01:49,350
+use these methods to sort of select the
+
+51
+00:01:49,350 --> 00:01:51,180
+part of the image you want with a
+
+52
+00:01:51,180 --> 00:01:54,390
+rectangular selection if we want to move
+
+53
+00:01:54,390 --> 00:01:56,100
+the entire selection around we can use
+
+54
+00:01:56,100 --> 00:01:58,590
+the Move tool so we click on the move
+
+55
+00:01:58,590 --> 00:02:00,500
+tool by default I believe it's set to
+
+56
+00:02:00,500 --> 00:02:02,790
+moving the layer you have the entire
+
+57
+00:02:02,790 --> 00:02:04,560
+layer so it's going to kind of move our
+
+58
+00:02:04,560 --> 00:02:06,180
+image and we see this transparency in
+
+59
+00:02:06,180 --> 00:02:08,098
+the background I'm gonna hit control Z
+
+60
+00:02:08,098 --> 00:02:10,139
+to get it back because what I want to do
+
+61
+00:02:10,139 --> 00:02:12,450
+to move the selection we see under the
+
+62
+00:02:12,450 --> 00:02:13,819
+settings for move it have
+
+63
+00:02:13,819 --> 00:02:15,739
+it has an option for moving just the
+
+64
+00:02:15,739 --> 00:02:18,140
+selection so I'll left click on that and
+
+65
+00:02:18,140 --> 00:02:20,629
+now when I move this around it'll move
+
+66
+00:02:20,629 --> 00:02:23,750
+my selection and not my image so I can
+
+67
+00:02:23,750 --> 00:02:25,459
+move this down to the part of the image
+
+68
+00:02:25,459 --> 00:02:28,810
+I want and maybe I'll just go to image
+
+69
+00:02:28,810 --> 00:02:31,340
+crop to selection to get that nice
+
+70
+00:02:31,340 --> 00:02:33,560
+selected area so now we can either work
+
+71
+00:02:33,560 --> 00:02:35,360
+on our image just having the whole thing
+
+72
+00:02:35,360 --> 00:02:37,310
+selected if you notice the whole part is
+
+73
+00:02:37,310 --> 00:02:39,319
+still selected right now we can see
+
+74
+00:02:39,319 --> 00:02:40,609
+these little black and white lines
+
+75
+00:02:40,609 --> 00:02:43,640
+moving around the outside and that shows
+
+76
+00:02:43,640 --> 00:02:45,260
+us everything is selected which means
+
+77
+00:02:45,260 --> 00:02:47,510
+any tools that we use right now we're
+
+78
+00:02:47,510 --> 00:02:50,180
+going to apply to the entire image but
+
+79
+00:02:50,180 --> 00:02:51,590
+if we only wanted to select a certain
+
+80
+00:02:51,590 --> 00:02:53,900
+area like the strawberry we might use
+
+81
+00:02:53,900 --> 00:02:55,639
+this next tool which is the ellipse
+
+82
+00:02:55,639 --> 00:02:57,799
+select tool it's going to let us draw an
+
+83
+00:02:57,799 --> 00:03:00,560
+ellipse or a circle similar to the
+
+84
+00:03:00,560 --> 00:03:02,480
+rectangular tool we just left click and
+
+85
+00:03:02,480 --> 00:03:05,269
+hold and whatever selection we draw it
+
+86
+00:03:05,269 --> 00:03:07,819
+draws a new selection every time so if
+
+87
+00:03:07,819 --> 00:03:09,650
+we want to apply some smudges to just
+
+88
+00:03:09,650 --> 00:03:11,780
+this part of the strawberry we select
+
+89
+00:03:11,780 --> 00:03:14,000
+this we can come over and resize the
+
+90
+00:03:14,000 --> 00:03:15,950
+circle similar to we did like how we did
+
+91
+00:03:15,950 --> 00:03:17,900
+with the rectangle and then we can come
+
+92
+00:03:17,900 --> 00:03:20,060
+and grab the smudge tool and now only
+
+93
+00:03:20,060 --> 00:03:21,980
+smudging is going to happen within our
+
+94
+00:03:21,980 --> 00:03:24,379
+selected area and nothing outside will
+
+95
+00:03:24,379 --> 00:03:27,109
+be affected I mean it ctrl Z to undo
+
+96
+00:03:27,109 --> 00:03:29,870
+those changes if we want to select
+
+97
+00:03:29,870 --> 00:03:32,030
+multiple strawberries or multiple parts
+
+98
+00:03:32,030 --> 00:03:34,730
+of our image we can grab this tool any
+
+99
+00:03:34,730 --> 00:03:36,290
+of these tools have these options and
+
+100
+00:03:36,290 --> 00:03:38,959
+under mode just like we changed with the
+
+101
+00:03:38,959 --> 00:03:41,299
+Move mode there's also this ellipse
+
+102
+00:03:41,299 --> 00:03:43,160
+select mode right now it says replace
+
+103
+00:03:43,160 --> 00:03:45,199
+the current selection but we could also
+
+104
+00:03:45,199 --> 00:03:47,299
+go add to current selection when we're
+
+105
+00:03:47,299 --> 00:03:50,510
+in this mode anything we draw will get
+
+106
+00:03:50,510 --> 00:03:52,340
+added to it and create sort of this
+
+107
+00:03:52,340 --> 00:03:55,280
+different shape I can create like a
+
+108
+00:03:55,280 --> 00:03:57,049
+snowman shape here but then we have this
+
+109
+00:03:57,049 --> 00:03:58,879
+part selected over here as well so I
+
+110
+00:03:58,879 --> 00:04:00,500
+could select every strawberry
+
+111
+00:04:00,500 --> 00:04:03,709
+individually like this and then we have
+
+112
+00:04:03,709 --> 00:04:05,900
+a nice sort of selection of just our
+
+113
+00:04:05,900 --> 00:04:08,180
+strawberries there's also part of the
+
+114
+00:04:08,180 --> 00:04:10,849
+mode that lets us subtract from the
+
+115
+00:04:10,849 --> 00:04:12,440
+current selection so if I didn't want if
+
+116
+00:04:12,440 --> 00:04:14,030
+I wanted to change this I just kind of
+
+117
+00:04:14,030 --> 00:04:17,209
+draw and subtract this out this isn't
+
+118
+00:04:17,209 --> 00:04:19,070
+necessarily the best way to do this but
+
+119
+00:04:19,070 --> 00:04:20,930
+it is a method of doing it and if you're
+
+120
+00:04:20,930 --> 00:04:23,360
+selecting a kind of a circular object it
+
+121
+00:04:23,360 --> 00:04:25,159
+can be kind of nice like this bucket
+
+122
+00:04:25,159 --> 00:04:27,680
+here we can select this and sort of
+
+123
+00:04:27,680 --> 00:04:30,080
+cut out part everything that's not
+
+124
+00:04:30,080 --> 00:04:33,139
+within this selection so that's just a
+
+125
+00:04:33,139 --> 00:04:34,610
+method for doing this election we hit
+
+126
+00:04:34,610 --> 00:04:36,440
+enter and we can have that be our total
+
+127
+00:04:36,440 --> 00:04:38,419
+selection and then anything that we
+
+128
+00:04:38,419 --> 00:04:41,060
+apply within here is going to be only
+
+129
+00:04:41,060 --> 00:04:44,600
+applied to that selected area the next
+
+130
+00:04:44,600 --> 00:04:46,009
+tool we'll look at is the freehand
+
+131
+00:04:46,009 --> 00:04:48,440
+selection tool this lets us let click
+
+132
+00:04:48,440 --> 00:04:50,210
+with our mouse to create these points
+
+133
+00:04:50,210 --> 00:04:52,280
+and we can create any type of custom
+
+134
+00:04:52,280 --> 00:04:54,470
+shape we want when we get to the end
+
+135
+00:04:54,470 --> 00:04:56,180
+we'll just click on the very last point
+
+136
+00:04:56,180 --> 00:04:57,770
+and then we can come in here and adjust
+
+137
+00:04:57,770 --> 00:05:00,259
+by left clicking and holding and adjust
+
+138
+00:05:00,259 --> 00:05:01,820
+these to get just the shape that we want
+
+139
+00:05:01,820 --> 00:05:03,949
+when we think we have it right we'll hit
+
+140
+00:05:03,949 --> 00:05:06,380
+enter and that becomes our selected area
+
+141
+00:05:06,380 --> 00:05:08,780
+we can then use any tool that we want to
+
+142
+00:05:08,780 --> 00:05:10,699
+to apply changes only within the
+
+143
+00:05:10,699 --> 00:05:12,710
+selected area and nothing outside will
+
+144
+00:05:12,710 --> 00:05:15,169
+be affected I want to also bring your
+
+145
+00:05:15,169 --> 00:05:17,389
+attention to the different options on
+
+146
+00:05:17,389 --> 00:05:19,009
+these tools we have this feathered edge
+
+147
+00:05:19,009 --> 00:05:21,080
+and what the feathering helps you do is
+
+148
+00:05:21,080 --> 00:05:23,449
+if you're ever doing something maybe we
+
+149
+00:05:23,449 --> 00:05:25,430
+draw a circle here just to show this if
+
+150
+00:05:25,430 --> 00:05:27,349
+we grab a brush and right now we just
+
+151
+00:05:27,349 --> 00:05:29,330
+fill the whole thing in with black we
+
+152
+00:05:29,330 --> 00:05:33,349
+see it has a very hard edge but if we
+
+153
+00:05:33,349 --> 00:05:35,659
+turn on feathering so I'll grab the
+
+154
+00:05:35,659 --> 00:05:37,370
+ellipse tool again and we'll check this
+
+155
+00:05:37,370 --> 00:05:38,570
+feather edges
+
+156
+00:05:38,570 --> 00:05:41,120
+what feather edges does is create a
+
+157
+00:05:41,120 --> 00:05:44,360
+softer edge around the selected area so
+
+158
+00:05:44,360 --> 00:05:45,949
+now if we grab the brush tool and fill
+
+159
+00:05:45,949 --> 00:05:48,530
+this in we see the edges are much softer
+
+160
+00:05:48,530 --> 00:05:50,659
+we don't have a hard edge like we did on
+
+161
+00:05:50,659 --> 00:05:53,240
+this one so if I go to select I can
+
+162
+00:05:53,240 --> 00:05:55,760
+right click and go to select all so now
+
+163
+00:05:55,760 --> 00:05:57,889
+we see without the selection on these we
+
+164
+00:05:57,889 --> 00:05:59,780
+have a soft edge here a feathered edge
+
+165
+00:05:59,780 --> 00:06:02,389
+on this selection and no feather on this
+
+166
+00:06:02,389 --> 00:06:04,030
+one so the feather can kind of help you
+
+167
+00:06:04,030 --> 00:06:06,139
+merge in and make it look more natural
+
+168
+00:06:06,139 --> 00:06:09,380
+without a hard edge on it and again
+
+169
+00:06:09,380 --> 00:06:11,419
+that's feathering and it's a good idea
+
+170
+00:06:11,419 --> 00:06:12,620
+to go through and play with the
+
+171
+00:06:12,620 --> 00:06:14,570
+different options anti-aliasing also
+
+172
+00:06:14,570 --> 00:06:16,639
+helps smooth the edges out around your
+
+173
+00:06:16,639 --> 00:06:19,220
+selected area when you have something
+
+174
+00:06:19,220 --> 00:06:21,259
+selected as well we can change the
+
+175
+00:06:21,259 --> 00:06:23,570
+position of a selection here by just
+
+176
+00:06:23,570 --> 00:06:26,210
+manually if we know where we want it to
+
+177
+00:06:26,210 --> 00:06:28,340
+be on the pixels we can change the size
+
+178
+00:06:28,340 --> 00:06:31,610
+of it this way as well and so there's
+
+179
+00:06:31,610 --> 00:06:32,870
+some really good options we can play
+
+180
+00:06:32,870 --> 00:06:34,759
+with under the properties of each
+
+181
+00:06:34,759 --> 00:06:37,610
+different selection method we control Z
+
+182
+00:06:37,610 --> 00:06:39,830
+and get back another selection method I
+
+183
+00:06:39,830 --> 00:06:41,030
+want to show is
+
+184
+00:06:41,030 --> 00:06:43,040
+this similar to the freehand selection
+
+185
+00:06:43,040 --> 00:06:45,410
+we're gonna skip a few this is the
+
+186
+00:06:45,410 --> 00:06:47,810
+scissor selection and it does similar to
+
+187
+00:06:47,810 --> 00:06:49,790
+freehand only it's more intelligent so
+
+188
+00:06:49,790 --> 00:06:51,860
+we just left-click and we can come over
+
+189
+00:06:51,860 --> 00:06:54,200
+here and left-click again and it's gonna
+
+190
+00:06:54,200 --> 00:06:58,250
+try and estimate where we want what part
+
+191
+00:06:58,250 --> 00:06:59,960
+of the object we want to follow it
+
+192
+00:06:59,960 --> 00:07:02,990
+didn't do a great job in this case but
+
+193
+00:07:02,990 --> 00:07:04,850
+it'll kind of try to follow some of the
+
+194
+00:07:04,850 --> 00:07:06,980
+lines around and then we can always come
+
+195
+00:07:06,980 --> 00:07:08,780
+in here and re-click an add one in to
+
+196
+00:07:08,780 --> 00:07:10,610
+get it exactly where we want and again
+
+197
+00:07:10,610 --> 00:07:12,650
+we hit the enter key and now we have
+
+198
+00:07:12,650 --> 00:07:15,140
+this part of the image selected we could
+
+199
+00:07:15,140 --> 00:07:17,090
+do something like ctrl C on the keyboard
+
+200
+00:07:17,090 --> 00:07:19,700
+to copy this and then we can get if we
+
+201
+00:07:19,700 --> 00:07:22,010
+were in a new document we can go control
+
+202
+00:07:22,010 --> 00:07:24,350
+V and paste just that part of the image
+
+203
+00:07:24,350 --> 00:07:26,720
+but we see it is kind of jagged because
+
+204
+00:07:26,720 --> 00:07:28,940
+we didn't have a feather applied so we
+
+205
+00:07:28,940 --> 00:07:30,260
+might want to apply a feather to that
+
+206
+00:07:30,260 --> 00:07:33,080
+instead I'm gonna close out of this or
+
+207
+00:07:33,080 --> 00:07:34,850
+we could make a change to it we can just
+
+208
+00:07:34,850 --> 00:07:37,640
+do some adjusting in here if we did try
+
+209
+00:07:37,640 --> 00:07:40,100
+to crop if we went to image crop to
+
+210
+00:07:40,100 --> 00:07:42,050
+selection just be aware it's gonna
+
+211
+00:07:42,050 --> 00:07:44,330
+always crop a square it's not going to
+
+212
+00:07:44,330 --> 00:07:46,700
+cut it out to cut it out we'd want you
+
+213
+00:07:46,700 --> 00:07:49,010
+to use something under edit so we can
+
+214
+00:07:49,010 --> 00:07:51,140
+right click and go to edit and we can do
+
+215
+00:07:51,140 --> 00:07:53,690
+cut we can actually cut this and remove
+
+216
+00:07:53,690 --> 00:07:56,300
+it and have a blank space in there we
+
+217
+00:07:56,300 --> 00:07:58,040
+can right click and go to edit we can go
+
+218
+00:07:58,040 --> 00:08:00,170
+fill with so we can fill with the
+
+219
+00:08:00,170 --> 00:08:02,720
+foreground color similar to using the
+
+220
+00:08:02,720 --> 00:08:04,610
+bucket tool there's lots of different
+
+221
+00:08:04,610 --> 00:08:06,350
+options and we'll play with more of that
+
+222
+00:08:06,350 --> 00:08:09,890
+in the future these other ones if I'm
+
+223
+00:08:09,890 --> 00:08:11,780
+going to go to select and go to all
+
+224
+00:08:11,780 --> 00:08:14,510
+these other ones here we have and your
+
+225
+00:08:14,510 --> 00:08:15,980
+icons may look different we have the
+
+226
+00:08:15,980 --> 00:08:18,400
+fuzzy select and the select by color
+
+227
+00:08:18,400 --> 00:08:20,780
+they're gonna kind of behave similar in
+
+228
+00:08:20,780 --> 00:08:22,280
+this one select by color does what you
+
+229
+00:08:22,280 --> 00:08:23,630
+might expect where if you select a
+
+230
+00:08:23,630 --> 00:08:25,880
+certain color it selects everything
+
+231
+00:08:25,880 --> 00:08:28,070
+within that color and so we can turn
+
+232
+00:08:28,070 --> 00:08:29,990
+this threshold down over here to the
+
+233
+00:08:29,990 --> 00:08:32,480
+left and then it will select much finer
+
+234
+00:08:32,480 --> 00:08:34,760
+it really helps you have if you have a
+
+235
+00:08:34,760 --> 00:08:36,980
+good solid color you're trying to select
+
+236
+00:08:36,980 --> 00:08:39,470
+otherwise it's gonna try to grab more
+
+237
+00:08:39,470 --> 00:08:41,630
+like it's getting this sort of greens
+
+238
+00:08:41,630 --> 00:08:44,710
+and tans in the bucket and in the leaves
+
+239
+00:08:44,710 --> 00:08:47,390
+the fuzzy select is going to help us get
+
+240
+00:08:47,390 --> 00:08:49,790
+away from that problem turn down the
+
+241
+00:08:49,790 --> 00:08:52,790
+threshold a little bit it's hard to tell
+
+242
+00:08:52,790 --> 00:08:54,350
+with this example but it really is only
+
+243
+00:08:54,350 --> 00:08:54,860
+if we
+
+244
+00:08:54,860 --> 00:08:56,779
+our threshold right we can then select
+
+245
+00:08:56,779 --> 00:08:59,480
+just a certain area and just make
+
+246
+00:08:59,480 --> 00:09:01,339
+changes to just those leaves or just
+
+247
+00:09:01,339 --> 00:09:03,350
+these parts of the strawberries but
+
+248
+00:09:03,350 --> 00:09:05,300
+again it's not perfect like we had there
+
+249
+00:09:05,300 --> 00:09:07,820
+certain pixels are going to select
+
+250
+00:09:07,820 --> 00:09:09,740
+different shaded areas especially
+
+251
+00:09:09,740 --> 00:09:12,860
+gradients and shading so it may or may
+
+252
+00:09:12,860 --> 00:09:14,899
+not work depending on the image you're
+
+253
+00:09:14,899 --> 00:09:17,180
+using anyway that's some of the
+
+254
+00:09:17,180 --> 00:09:18,649
+different selection methods you can play
+
+255
+00:09:18,649 --> 00:09:20,000
+with we'll touch more on these ones
+
+256
+00:09:20,000 --> 00:09:21,170
+they're a little bit more advanced so
+
+257
+00:09:21,170 --> 00:09:22,940
+we'll touch more on using the threshold
+
+258
+00:09:22,940 --> 00:09:24,079
+and playing with some of these in the
+
+259
+00:09:24,079 --> 00:09:26,209
+future there's also ways we can combine
+
+260
+00:09:26,209 --> 00:09:27,680
+different ones but just be aware of the
+
+261
+00:09:27,680 --> 00:09:30,230
+selection mode is really important and
+
+262
+00:09:30,230 --> 00:09:32,540
+if you do get on the mode one common
+
+263
+00:09:32,540 --> 00:09:34,579
+mistake is that if you go to cut
+
+264
+00:09:34,579 --> 00:09:35,990
+something out and you cut the whole
+
+265
+00:09:35,990 --> 00:09:37,880
+thing out and then you forget you were
+
+266
+00:09:37,880 --> 00:09:39,680
+in that mode and you go to draw a
+
+267
+00:09:39,680 --> 00:09:41,630
+selection it won't let you it just gives
+
+268
+00:09:41,630 --> 00:09:44,660
+you this symbol you can always look for
+
+269
+00:09:44,660 --> 00:09:46,130
+cues down at the bottom if something's
+
+270
+00:09:46,130 --> 00:09:49,190
+not working it tells us cannot subtract
+
+271
+00:09:49,190 --> 00:09:51,769
+from an empty selection it's because
+
+272
+00:09:51,769 --> 00:09:53,300
+we're on the subtraction mode right now
+
+273
+00:09:53,300 --> 00:09:55,730
+one thing I like to do is just stay in
+
+274
+00:09:55,730 --> 00:09:58,550
+this mode here the replaced current
+
+275
+00:09:58,550 --> 00:10:00,589
+selection mode and then use the shortcut
+
+276
+00:10:00,589 --> 00:10:02,240
+keys we can hover over and learn those
+
+277
+00:10:02,240 --> 00:10:07,310
+shift and control so if in this mode we
+
+278
+00:10:07,310 --> 00:10:08,899
+draw and we draw again
+
+279
+00:10:08,899 --> 00:10:11,600
+it replaces our selection holding shift
+
+280
+00:10:11,600 --> 00:10:13,790
+we can add to that without having to go
+
+281
+00:10:13,790 --> 00:10:16,010
+and change the mode so we can add to our
+
+282
+00:10:16,010 --> 00:10:18,320
+selection and holding ctrl we can
+
+283
+00:10:18,320 --> 00:10:20,660
+subtract to that and that works with all
+
+284
+00:10:20,660 --> 00:10:22,550
+these different ones we can do freehand
+
+285
+00:10:22,550 --> 00:10:26,089
+hold shift and add in a new part and hit
+
+286
+00:10:26,089 --> 00:10:29,000
+enter so we can add in different parts
+
+287
+00:10:29,000 --> 00:10:31,339
+if we want to if we can freehand draw in
+
+288
+00:10:31,339 --> 00:10:33,649
+these and then we could freehand draw
+
+289
+00:10:33,649 --> 00:10:37,190
+out some of the selection as well so it
+
+290
+00:10:37,190 --> 00:10:39,050
+can be really handy so learn those
+
+291
+00:10:39,050 --> 00:10:41,839
+shortcut keys shift and control is going
+
+292
+00:10:41,839 --> 00:10:43,899
+to avoid some confusion in this mode
+
+293
+00:10:43,899 --> 00:10:46,070
+we'll go ahead and play with some of
+
+294
+00:10:46,070 --> 00:10:48,140
+these different selection methods it may
+
+295
+00:10:48,140 --> 00:10:50,060
+not be clear right now how powerful this
+
+296
+00:10:50,060 --> 00:10:51,589
+is but as we start using more of the
+
+297
+00:10:51,589 --> 00:10:53,060
+color tools and some of the different
+
+298
+00:10:53,060 --> 00:10:55,490
+filters it's going to be really powerful
+
+299
+00:10:55,490 --> 00:10:57,250
+and understanding a good foundation
+
+300
+00:10:57,250 --> 00:10:59,570
+understanding how selection works is
+
+301
+00:10:59,570 --> 00:11:01,040
+going to help you avoid a lot of
+
+302
+00:11:01,040 --> 00:11:03,620
+confusion and frustration in the future
+
+303
+00:11:03,620 --> 00:11:05,000
+so go ahead and leave your question in
+
+304
+00:11:05,000 --> 00:11:06,740
+the comments below if you have any and I
+
+305
+00:11:06,740 --> 00:11:08,339
+look forward to catching you in the next
+
+306
+00:11:08,339 --> 00:11:10,490
+you
+

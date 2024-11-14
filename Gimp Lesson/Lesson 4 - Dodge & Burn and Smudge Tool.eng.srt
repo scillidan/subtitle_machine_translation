@@ -1,0 +1,664 @@
+1
+00:00:02,150 --> 00:00:04,830
+welcome to another tutorial in this
+
+2
+00:00:04,830 --> 00:00:06,120
+video we're going to be playing with the
+
+3
+00:00:06,120 --> 00:00:08,189
+Dodge and burn and these smudge tools
+
+4
+00:00:08,189 --> 00:00:09,929
+and learning about some of the different
+
+5
+00:00:09,929 --> 00:00:11,249
+options getting a little bit more
+
+6
+00:00:11,249 --> 00:00:13,079
+familiar with using these tools and
+
+7
+00:00:13,079 --> 00:00:14,909
+we're going to be working with an actual
+
+8
+00:00:14,909 --> 00:00:16,500
+photograph this time so I'm gonna go to
+
+9
+00:00:16,500 --> 00:00:18,990
+file and go to open you can choose any
+
+10
+00:00:18,990 --> 00:00:21,269
+photograph I'm just navigated to some
+
+11
+00:00:21,269 --> 00:00:23,339
+pictures that I have here on my computer
+
+12
+00:00:23,339 --> 00:00:26,339
+and so yours will be different but I'm
+
+13
+00:00:26,339 --> 00:00:28,589
+going to select this image here and one
+
+14
+00:00:28,589 --> 00:00:29,939
+common thing that's going to happen when
+
+15
+00:00:29,939 --> 00:00:31,679
+you go to open an image is sometimes
+
+16
+00:00:31,679 --> 00:00:34,650
+it'll be a different color profile this
+
+17
+00:00:34,650 --> 00:00:36,030
+really doesn't matter at this point in
+
+18
+00:00:36,030 --> 00:00:37,770
+time you can either say keep or convert
+
+19
+00:00:37,770 --> 00:00:39,930
+this is just saying this has an sRGB
+
+20
+00:00:39,930 --> 00:00:43,080
+color profile and it's wondering if I'd
+
+21
+00:00:43,080 --> 00:00:45,810
+like to use the built-in srgb and
+
+22
+00:00:45,810 --> 00:00:48,590
+so I'm just gonna say keep in this case
+
+23
+00:00:48,590 --> 00:00:50,910
+sometimes you may want to convert but
+
+24
+00:00:50,910 --> 00:00:52,770
+don't worry about that for now it's just
+
+25
+00:00:52,770 --> 00:00:55,590
+how interprets the colors in the
+
+26
+00:00:55,590 --> 00:00:56,180
+image
+
+27
+00:00:56,180 --> 00:01:00,540
+so this is I think in darktable earlier
+
+28
+00:01:00,540 --> 00:01:02,730
+this is a kind of an edited photo but
+
+29
+00:01:02,730 --> 00:01:04,199
+we'll play with a smudge tool if we left
+
+30
+00:01:04,199 --> 00:01:06,570
+click on smudge like the shortcut is s
+
+31
+00:01:06,570 --> 00:01:09,480
+to access this tool and it's very very
+
+32
+00:01:09,480 --> 00:01:11,130
+small right now so I may bring up the
+
+33
+00:01:11,130 --> 00:01:13,260
+size by just using my scroll wheel or
+
+34
+00:01:13,260 --> 00:01:15,420
+left clicking and dragging up this size
+
+35
+00:01:15,420 --> 00:01:17,490
+to get to something larger and we can
+
+36
+00:01:17,490 --> 00:01:19,230
+see what the smudge will let us do if i
+
+37
+00:01:19,230 --> 00:01:21,720
+zoom in here it'll just sort of smudge
+
+38
+00:01:21,720 --> 00:01:24,720
+and soften up these clouds quite a bit
+
+39
+00:01:24,720 --> 00:01:27,150
+actually I can kind of mix its you can
+
+40
+00:01:27,150 --> 00:01:29,250
+almost imagine the ink of this picture
+
+41
+00:01:29,250 --> 00:01:32,310
+is still wet and so I'm just smudging it
+
+42
+00:01:32,310 --> 00:01:35,070
+I'm smudging these clouds I'm just left
+
+43
+00:01:35,070 --> 00:01:37,409
+clicking and holding to create sort of
+
+44
+00:01:37,409 --> 00:01:40,650
+this smudge so you can by hand sort of
+
+45
+00:01:40,650 --> 00:01:43,380
+come in here and create a different kind
+
+46
+00:01:43,380 --> 00:01:46,350
+of effect I suppose you could smudge out
+
+47
+00:01:46,350 --> 00:01:49,290
+all the edges to create sort of a little
+
+48
+00:01:49,290 --> 00:01:51,930
+vignette a little smudge vignette in or
+
+49
+00:01:51,930 --> 00:01:54,510
+something around the image if ever we
+
+50
+00:01:54,510 --> 00:01:55,860
+get to a point again that we don't
+
+51
+00:01:55,860 --> 00:01:57,180
+really like what we've done we can hit
+
+52
+00:01:57,180 --> 00:02:00,270
+ctrl Z on the keyboard to undo some of
+
+53
+00:02:00,270 --> 00:02:03,450
+that there's also some other options we
+
+54
+00:02:03,450 --> 00:02:05,940
+can play with besides just size and we
+
+55
+00:02:05,940 --> 00:02:07,380
+haven't really done much of these but we
+
+56
+00:02:07,380 --> 00:02:09,810
+have aspect ratio which is going to be
+
+57
+00:02:09,810 --> 00:02:11,430
+more of like we can make our brush size
+
+58
+00:02:11,430 --> 00:02:13,950
+a more oval like
+
+59
+00:02:13,950 --> 00:02:15,330
+if we're trying to fit it in a certain
+
+60
+00:02:15,330 --> 00:02:17,790
+area we can adjust the angle so now we
+
+61
+00:02:17,790 --> 00:02:19,680
+have this an oval here that's sort of at
+
+62
+00:02:19,680 --> 00:02:23,580
+an angle so we can play with those and
+
+63
+00:02:23,580 --> 00:02:24,660
+we've learned in the past we can just
+
+64
+00:02:24,660 --> 00:02:26,459
+click this button here to reset these
+
+65
+00:02:26,459 --> 00:02:28,260
+back to default if we don't like what
+
+66
+00:02:28,260 --> 00:02:30,060
+we've done we don't like the changes
+
+67
+00:02:30,060 --> 00:02:32,070
+that we've made to the brush itself and
+
+68
+00:02:32,070 --> 00:02:34,709
+then but these are all similar if you
+
+69
+00:02:34,709 --> 00:02:36,570
+notice if we went to the pencil tool or
+
+70
+00:02:36,570 --> 00:02:38,459
+the brush tool these all have the same
+
+71
+00:02:38,459 --> 00:02:42,660
+option size angle aspect ratio so smudge
+
+72
+00:02:42,660 --> 00:02:44,340
+is going to have those same options but
+
+73
+00:02:44,340 --> 00:02:46,410
+it also has some different options down
+
+74
+00:02:46,410 --> 00:02:49,650
+below we have this apply jitter which
+
+75
+00:02:49,650 --> 00:02:51,690
+will kind of randomly it doesn't make a
+
+76
+00:02:51,690 --> 00:02:54,540
+big difference in this case but you we
+
+77
+00:02:54,540 --> 00:02:56,100
+can we can turn this up any time you're
+
+78
+00:02:56,100 --> 00:02:57,900
+not sure what something does I'll turn
+
+79
+00:02:57,900 --> 00:02:59,910
+the amount way up and see if I notice a
+
+80
+00:02:59,910 --> 00:03:02,100
+difference so in this case can you see
+
+81
+00:03:02,100 --> 00:03:03,420
+what's happening as I do this it's
+
+82
+00:03:03,420 --> 00:03:06,060
+creating these dots all over it's kind
+
+83
+00:03:06,060 --> 00:03:09,630
+of a jitter outside of even my brush and
+
+84
+00:03:09,630 --> 00:03:11,190
+so you turn that down
+
+85
+00:03:11,190 --> 00:03:12,840
+but the jitter just sort of applies it
+
+86
+00:03:12,840 --> 00:03:15,660
+instead of doing it at one location it
+
+87
+00:03:15,660 --> 00:03:18,239
+sort of randomly applies it around and
+
+88
+00:03:18,239 --> 00:03:19,980
+again this is the smudge tool but
+
+89
+00:03:19,980 --> 00:03:22,049
+different tools have a jitter as well we
+
+90
+00:03:22,049 --> 00:03:26,130
+can apply it to different things let's
+
+91
+00:03:26,130 --> 00:03:27,630
+look at the dodging burn so if we go I
+
+92
+00:03:27,630 --> 00:03:29,790
+mean ctrl Z and undo some of that that I
+
+93
+00:03:29,790 --> 00:03:31,980
+did there and oh I want to show you one
+
+94
+00:03:31,980 --> 00:03:34,230
+other way to to bring an image in maybe
+
+95
+00:03:34,230 --> 00:03:35,549
+we want to close this we can click this
+
+96
+00:03:35,549 --> 00:03:38,100
+X up here and just say discard changes
+
+97
+00:03:38,100 --> 00:03:40,530
+so we won't save any of that we can also
+
+98
+00:03:40,530 --> 00:03:42,780
+navigate to a location on our computer
+
+99
+00:03:42,780 --> 00:03:45,390
+I'll go to these same images and I'll
+
+100
+00:03:45,390 --> 00:03:48,450
+just drag in this image here we'll
+
+101
+00:03:48,450 --> 00:03:50,519
+left-click and drag it into and
+
+102
+00:03:50,519 --> 00:03:52,890
+again we can either keep or convert this
+
+103
+00:03:52,890 --> 00:03:55,260
+time I guess I'll say convert and so we
+
+104
+00:03:55,260 --> 00:03:57,390
+have this image and we can do this Dodge
+
+105
+00:03:57,390 --> 00:03:59,519
+and burn if we select the Dodge and burn
+
+106
+00:03:59,519 --> 00:04:01,950
+tool it's shift D is the shortcut to
+
+107
+00:04:01,950 --> 00:04:04,230
+access the Dodge and burn tool and what
+
+108
+00:04:04,230 --> 00:04:06,630
+this does burn kind of it effects the
+
+109
+00:04:06,630 --> 00:04:09,030
+colors of the image so right now we have
+
+110
+00:04:09,030 --> 00:04:10,829
+it set to if we scroll down we have it
+
+111
+00:04:10,829 --> 00:04:14,280
+set to Dodge and and so Dodge is going
+
+112
+00:04:14,280 --> 00:04:16,260
+to kind of lighten lighten up the colors
+
+113
+00:04:16,260 --> 00:04:17,940
+in a certain area so maybe I could
+
+114
+00:04:17,940 --> 00:04:20,310
+whiten my teeth with this in a way but
+
+115
+00:04:20,310 --> 00:04:21,750
+it's also getting my lips a little bit
+
+116
+00:04:21,750 --> 00:04:24,060
+and the more you click it the more it
+
+117
+00:04:24,060 --> 00:04:26,430
+kind of applies it on top of the
+
+118
+00:04:26,430 --> 00:04:28,260
+existing changes
+
+119
+00:04:28,260 --> 00:04:30,550
+Bern is gonna be the opposite so if we
+
+120
+00:04:30,550 --> 00:04:33,010
+select burn down here Bern kind of makes
+
+121
+00:04:33,010 --> 00:04:35,139
+the colors more dark whatever's in that
+
+122
+00:04:35,139 --> 00:04:37,479
+area it makes it darker and more
+
+123
+00:04:37,479 --> 00:04:39,669
+pronounced I can make my ear darker make
+
+124
+00:04:39,669 --> 00:04:42,699
+my teeth darker so I kind of just bring
+
+125
+00:04:42,699 --> 00:04:44,949
+it kind of lightens up or darkens up the
+
+126
+00:04:44,949 --> 00:04:46,720
+area look at that you can like make look
+
+127
+00:04:46,720 --> 00:04:47,919
+like I haven't wearing makeup or
+
+128
+00:04:47,919 --> 00:04:50,050
+something yeah
+
+129
+00:04:50,050 --> 00:04:52,030
+so that's Dodge and burn and there's
+
+130
+00:04:52,030 --> 00:04:53,380
+different options right now we did we
+
+131
+00:04:53,380 --> 00:04:55,540
+did it adjusting the mid-tones we could
+
+132
+00:04:55,540 --> 00:04:57,370
+do the highlights which is gonna kind of
+
+133
+00:04:57,370 --> 00:04:59,410
+darken anything part that has highlights
+
+134
+00:04:59,410 --> 00:05:01,270
+I probably showed it on the teeth and we
+
+135
+00:05:01,270 --> 00:05:03,880
+control Z I could probably do teeth a
+
+136
+00:05:03,880 --> 00:05:05,530
+little bit more realistically with doing
+
+137
+00:05:05,530 --> 00:05:07,630
+the highlights and if I adjust the size
+
+138
+00:05:07,630 --> 00:05:10,720
+of my brush I could probably achieve
+
+139
+00:05:10,720 --> 00:05:12,729
+some sort of a oh and then I need to
+
+140
+00:05:12,729 --> 00:05:16,690
+change it to Dodge instead of burn so
+
+141
+00:05:16,690 --> 00:05:18,280
+we'll do Dodge here so it's gonna
+
+142
+00:05:18,280 --> 00:05:20,020
+lighten my teeth a little bit but it
+
+143
+00:05:20,020 --> 00:05:22,720
+keeps the colors so I kind of keeps some
+
+144
+00:05:22,720 --> 00:05:24,430
+of the natural looking colors of my
+
+145
+00:05:24,430 --> 00:05:26,560
+teeth but it kind of whitens it a little
+
+146
+00:05:26,560 --> 00:05:29,830
+bit in there too so I don't know that's
+
+147
+00:05:29,830 --> 00:05:32,050
+super not realistic looking but this is
+
+148
+00:05:32,050 --> 00:05:33,190
+probably not the tool you would use for
+
+149
+00:05:33,190 --> 00:05:35,470
+a teeth enhancement anyway or eyes I can
+
+150
+00:05:35,470 --> 00:05:37,479
+lighten up the way my eyes are appearing
+
+151
+00:05:37,479 --> 00:05:39,820
+in here if I want to so anyway that's
+
+152
+00:05:39,820 --> 00:05:44,680
+Dodge and burn and yeah that's really
+
+153
+00:05:44,680 --> 00:05:46,270
+what we're gonna cover today so play
+
+154
+00:05:46,270 --> 00:05:48,039
+with smudge play with Dodge and burn but
+
+155
+00:05:48,039 --> 00:05:50,860
+just kind of realize everything we've
+
+156
+00:05:50,860 --> 00:05:52,570
+looked at so far the eraser that brush
+
+157
+00:05:52,570 --> 00:05:54,880
+the pencil dodge burn the settings are
+
+158
+00:05:54,880 --> 00:05:57,490
+all very similar that they have it's all
+
+159
+00:05:57,490 --> 00:06:00,340
+these brush settings and then down below
+
+160
+00:06:00,340 --> 00:06:02,169
+it kind of has some specific settings
+
+161
+00:06:02,169 --> 00:06:05,680
+more specific to that tool that we're
+
+162
+00:06:05,680 --> 00:06:07,449
+using hopefully you found this video
+
+163
+00:06:07,449 --> 00:06:08,800
+informative go ahead and play with those
+
+164
+00:06:08,800 --> 00:06:10,900
+and the next video will look at some
+
+165
+00:06:10,900 --> 00:06:12,580
+more tools and continue learning about
+
+166
+00:06:12,580 --> 00:06:15,030
+
+

@@ -1,0 +1,776 @@
+1
+00:00:02,900 --> 00:00:05,190
+welcome back to another video editing
+
+2
+00:00:05,190 --> 00:00:06,690
+tutorial using the free software
+
+3
+00:00:06,690 --> 00:00:07,650
+kdenlive
+
+4
+00:00:07,650 --> 00:00:10,019
+in our last video we use this butterfly
+
+5
+00:00:10,019 --> 00:00:13,589
+and this image of this coastline to
+
+6
+00:00:13,589 --> 00:00:16,139
+create to demonstrate the chroma key
+
+7
+00:00:16,139 --> 00:00:18,810
+green screen effect we're gonna repeat
+
+8
+00:00:18,810 --> 00:00:20,130
+that in this one because we're gonna be
+
+9
+00:00:20,130 --> 00:00:21,960
+going over animation and showing how to
+
+10
+00:00:21,960 --> 00:00:24,660
+actually move this butterfly across the
+
+11
+00:00:24,660 --> 00:00:28,439
+screen and animate in kdenlive so first
+
+12
+00:00:28,439 --> 00:00:30,089
+of all we're going to reapply the chroma
+
+13
+00:00:30,089 --> 00:00:32,790
+key we find the chroma key under alpha
+
+14
+00:00:32,790 --> 00:00:34,710
+manipulation we'll just drag it on top
+
+15
+00:00:34,710 --> 00:00:36,780
+of the butterfly and then we click here
+
+16
+00:00:36,780 --> 00:00:39,660
+on this little drop and select our color
+
+17
+00:00:39,660 --> 00:00:43,170
+and that will should change everything
+
+18
+00:00:43,170 --> 00:00:44,820
+that's when we go in here yeah so that
+
+19
+00:00:44,820 --> 00:00:45,870
+changes everything so that we can
+
+20
+00:00:45,870 --> 00:00:49,890
+actually see now the background so now
+
+21
+00:00:49,890 --> 00:00:51,480
+we can see our background the butterfly
+
+22
+00:00:51,480 --> 00:00:53,760
+is kind of flying here we can kind of
+
+23
+00:00:53,760 --> 00:00:55,080
+scroll through and see what this looks
+
+24
+00:00:55,080 --> 00:00:58,230
+like but the butterfly is staying there
+
+25
+00:00:58,230 --> 00:01:01,620
+and it's not moving and so we might want
+
+26
+00:01:01,620 --> 00:01:03,180
+to adjust the size of it too or change
+
+27
+00:01:03,180 --> 00:01:04,349
+some different things so what we can do
+
+28
+00:01:04,349 --> 00:01:07,050
+let's erase all this go back to our
+
+29
+00:01:07,050 --> 00:01:08,550
+effects and we'll go to crop and
+
+30
+00:01:08,550 --> 00:01:10,350
+transform and then we'll get a transform
+
+31
+00:01:10,350 --> 00:01:14,370
+so not all effects allow for animation
+
+32
+00:01:14,370 --> 00:01:16,920
+but transform is one that does and if
+
+33
+00:01:16,920 --> 00:01:18,570
+ever you have you pull in an effect and
+
+34
+00:01:18,570 --> 00:01:20,970
+it has this little bar the top with with
+
+35
+00:01:20,970 --> 00:01:22,890
+a couple triangles you know that you can
+
+36
+00:01:22,890 --> 00:01:24,720
+perform you can do animation or you can
+
+37
+00:01:24,720 --> 00:01:28,320
+set keyframes and have that effect
+
+38
+00:01:28,320 --> 00:01:30,600
+applied differently at different points
+
+39
+00:01:30,600 --> 00:01:33,990
+of the clip so what we're gonna do we
+
+40
+00:01:33,990 --> 00:01:35,130
+have these different buttons here right
+
+41
+00:01:35,130 --> 00:01:37,940
+now this triangle if we notice moves
+
+42
+00:01:37,940 --> 00:01:39,810
+according to where we're at on our
+
+43
+00:01:39,810 --> 00:01:41,820
+timeline so if we move our timeline
+
+44
+00:01:41,820 --> 00:01:43,260
+towards the end of the video this
+
+45
+00:01:43,260 --> 00:01:45,750
+triangle is towards the end and we can
+
+46
+00:01:45,750 --> 00:01:47,729
+also move the triangle here on the
+
+47
+00:01:47,729 --> 00:01:50,580
+timeline I mean up here and it'll move
+
+48
+00:01:50,580 --> 00:01:53,159
+the playhead on our timeline so these
+
+49
+00:01:53,159 --> 00:01:54,990
+are tied together if we hit this
+
+50
+00:01:54,990 --> 00:01:57,510
+triangle with the line at the start of
+
+51
+00:01:57,510 --> 00:02:00,299
+it it goes to the first frame of our
+
+52
+00:02:00,299 --> 00:02:02,850
+video clip and if we go to the click
+
+53
+00:02:02,850 --> 00:02:04,590
+this it goes to the last frame of our
+
+54
+00:02:04,590 --> 00:02:08,038
+video clip and so we notice at the first
+
+55
+00:02:08,038 --> 00:02:09,749
+frame there is if we come here to the
+
+56
+00:02:09,749 --> 00:02:11,310
+middle and look there's a red triangle
+
+57
+00:02:11,310 --> 00:02:13,740
+at the start that's our key
+
+58
+00:02:13,740 --> 00:02:16,470
+rame so we have a keyframe starting at
+
+59
+00:02:16,470 --> 00:02:19,860
+the beginning to make this butterfly
+
+60
+00:02:19,860 --> 00:02:22,590
+animate or move we need to set at least
+
+61
+00:02:22,590 --> 00:02:24,570
+one more keyframe and a good place to do
+
+62
+00:02:24,570 --> 00:02:26,520
+it just for starting is to set it at the
+
+63
+00:02:26,520 --> 00:02:28,620
+end of the video clip so let's hit this
+
+64
+00:02:28,620 --> 00:02:30,450
+arrow to go to the end of the video clip
+
+65
+00:02:30,450 --> 00:02:31,800
+make sure the playhead is at the end of
+
+66
+00:02:31,800 --> 00:02:33,690
+our video and then we'll hit the plus
+
+67
+00:02:33,690 --> 00:02:37,020
+sign and that adds a keyframe so now I
+
+68
+00:02:37,020 --> 00:02:38,490
+have a red triangle at the end it's kind
+
+69
+00:02:38,490 --> 00:02:40,500
+of hard to see and I have a triangle at
+
+70
+00:02:40,500 --> 00:02:42,600
+the beginning so that's how we know we
+
+71
+00:02:42,600 --> 00:02:45,600
+have two keyframes then anything that
+
+72
+00:02:45,600 --> 00:02:49,500
+any way that we change this butterfly
+
+73
+00:02:49,500 --> 00:02:52,110
+the size of it or the location of it any
+
+74
+00:02:52,110 --> 00:02:54,000
+of these settings that we change below
+
+75
+00:02:54,000 --> 00:02:57,630
+here it will it will transition I guess
+
+76
+00:02:57,630 --> 00:03:00,270
+you can say between what was happening
+
+77
+00:03:00,270 --> 00:03:01,740
+at the first keyframe and what's
+
+78
+00:03:01,740 --> 00:03:04,320
+happening at the last keyframe so let's
+
+79
+00:03:04,320 --> 00:03:05,760
+go back to our first keyframe we'll see
+
+80
+00:03:05,760 --> 00:03:07,650
+it looks like this okay so it's this
+
+81
+00:03:07,650 --> 00:03:09,780
+size maybe we want at our first keyframe
+
+82
+00:03:09,780 --> 00:03:13,410
+let's resize it down and let's have the
+
+83
+00:03:13,410 --> 00:03:15,480
+butterfly be over here towards the left
+
+84
+00:03:15,480 --> 00:03:18,090
+a little bit lower about that size and
+
+85
+00:03:18,090 --> 00:03:20,250
+then we see there's a line here so it's
+
+86
+00:03:20,250 --> 00:03:23,550
+showing us where it's going by the last
+
+87
+00:03:23,550 --> 00:03:25,590
+keyframe so let's go to the last
+
+88
+00:03:25,590 --> 00:03:28,170
+keyframe and see okay so it's going to
+
+89
+00:03:28,170 --> 00:03:31,470
+be this size and it's going to be at
+
+90
+00:03:31,470 --> 00:03:34,800
+this position so we can resize that too
+
+91
+00:03:34,800 --> 00:03:38,280
+and move it and maybe we want it even
+
+92
+00:03:38,280 --> 00:03:41,640
+smaller like forward so now it's going
+
+93
+00:03:41,640 --> 00:03:44,250
+to be it's going to go from this first
+
+94
+00:03:44,250 --> 00:03:48,090
+keyframe to this last keyframe over the
+
+95
+00:03:48,090 --> 00:03:51,240
+duration of it's about only one second
+
+96
+00:03:51,240 --> 00:03:53,420
+is all of our all that our video clip is
+
+97
+00:03:53,420 --> 00:03:55,740
+so now we can just come and play that
+
+98
+00:03:55,740 --> 00:03:57,210
+and see what that will look like so we
+
+99
+00:03:57,210 --> 00:03:59,970
+go back to the beginning hit play and we
+
+100
+00:03:59,970 --> 00:04:01,590
+see our butterfly is kind of flying
+
+101
+00:04:01,590 --> 00:04:03,810
+along that path it happened really short
+
+102
+00:04:03,810 --> 00:04:06,390
+but I can go drag along and show you so
+
+103
+00:04:06,390 --> 00:04:07,920
+it's this is just what's happening the
+
+104
+00:04:07,920 --> 00:04:09,990
+butterfly is flying the backgrounds
+
+105
+00:04:09,990 --> 00:04:12,390
+moving we've created an animated little
+
+106
+00:04:12,390 --> 00:04:15,840
+butterfly here and we don't have to just
+
+107
+00:04:15,840 --> 00:04:17,820
+do if we go back in click on this track
+
+108
+00:04:17,820 --> 00:04:20,370
+and go to the effects for the transform
+
+109
+00:04:20,370 --> 00:04:22,260
+as long as we're on our keyframe if
+
+110
+00:04:22,260 --> 00:04:24,150
+we're in the middle look we have we
+
+111
+00:04:24,150 --> 00:04:25,590
+can't control any of these we can't
+
+112
+00:04:25,590 --> 00:04:27,330
+change the size or anything
+
+113
+00:04:27,330 --> 00:04:29,250
+because we're not on a keyframe so you
+
+114
+00:04:29,250 --> 00:04:30,659
+have to always be on a keyframe so you
+
+115
+00:04:30,659 --> 00:04:32,250
+can click on this frame or you can use
+
+116
+00:04:32,250 --> 00:04:35,370
+these start and end and if we wanted it
+
+117
+00:04:35,370 --> 00:04:36,599
+to do something different we can go to
+
+118
+00:04:36,599 --> 00:04:38,819
+the middle and we can add a keyframe in
+
+119
+00:04:38,819 --> 00:04:40,650
+the middle and we can have it do
+
+120
+00:04:40,650 --> 00:04:42,780
+something like this like fly it up and
+
+121
+00:04:42,780 --> 00:04:46,650
+then over and so now if we do that look
+
+122
+00:04:46,650 --> 00:04:50,129
+what will happen it'll fly it'll go up
+
+123
+00:04:50,129 --> 00:04:51,900
+and follow this sort of path we've set
+
+124
+00:04:51,900 --> 00:04:55,740
+for it and then it'll go over so we've
+
+125
+00:04:55,740 --> 00:04:57,479
+created yeah an animation they were
+
+126
+00:04:57,479 --> 00:04:59,310
+doing that let's go back to the very
+
+127
+00:04:59,310 --> 00:05:01,560
+first keyframe and we can also change
+
+128
+00:05:01,560 --> 00:05:04,050
+some different things what do we do we
+
+129
+00:05:04,050 --> 00:05:06,389
+did scale so one other thing we can
+
+130
+00:05:06,389 --> 00:05:08,819
+change is rotation so we can rotate this
+
+131
+00:05:08,819 --> 00:05:11,460
+butterfly a little bit as it's flying we
+
+132
+00:05:11,460 --> 00:05:13,469
+can have it rotate so it starts like
+
+133
+00:05:13,469 --> 00:05:15,750
+this maybe it's gonna fly it with want
+
+134
+00:05:15,750 --> 00:05:18,659
+to fly it up we can have it I don't want
+
+135
+00:05:18,659 --> 00:05:20,580
+to be too extreme but then that'll
+
+136
+00:05:20,580 --> 00:05:22,139
+change the rotation and as it's going
+
+137
+00:05:22,139 --> 00:05:25,169
+it's gonna rotate around so we can
+
+138
+00:05:25,169 --> 00:05:28,169
+change rotation and scale and different
+
+139
+00:05:28,169 --> 00:05:31,440
+different properties that way so I would
+
+140
+00:05:31,440 --> 00:05:32,490
+recommend you play with this if you
+
+141
+00:05:32,490 --> 00:05:33,900
+didn't watch the last video go ahead and
+
+142
+00:05:33,900 --> 00:05:35,069
+watch it because I show where to
+
+143
+00:05:35,069 --> 00:05:37,110
+download this green screen butterfly
+
+144
+00:05:37,110 --> 00:05:39,060
+it's actually a pretty good object for
+
+145
+00:05:39,060 --> 00:05:41,370
+learning how to get started in animating
+
+146
+00:05:41,370 --> 00:05:46,259
+in kdenlive what else and then maybe
+
+147
+00:05:46,259 --> 00:05:48,120
+watch some other videos on actually how
+
+148
+00:05:48,120 --> 00:05:50,069
+keyframing and how video works if you're
+
+149
+00:05:50,069 --> 00:05:52,199
+kind of getting confused and it's not
+
+150
+00:05:52,199 --> 00:05:53,460
+working well just make sure you always
+
+151
+00:05:53,460 --> 00:05:56,039
+have to add in this keyframe and you
+
+152
+00:05:56,039 --> 00:05:58,409
+can't add it where an existing keyframe
+
+153
+00:05:58,409 --> 00:06:02,009
+is or you won't have any movement what
+
+154
+00:06:02,009 --> 00:06:03,449
+else okay so you can also change the
+
+155
+00:06:03,449 --> 00:06:06,330
+opacity which doesn't really help us in
+
+156
+00:06:06,330 --> 00:06:08,969
+this case but if by this keyframe if you
+
+157
+00:06:08,969 --> 00:06:12,060
+want the opacity to be down like at 32%
+
+158
+00:06:12,060 --> 00:06:14,550
+it changes so that this is kind of like
+
+159
+00:06:14,550 --> 00:06:17,699
+not very bright not very bright it's not
+
+160
+00:06:17,699 --> 00:06:19,889
+it's transparent and so now if we do
+
+161
+00:06:19,889 --> 00:06:22,770
+that it starts out with full all the
+
+162
+00:06:22,770 --> 00:06:24,810
+full colors and then by the time it gets
+
+163
+00:06:24,810 --> 00:06:28,169
+to that keyframe it's changed to not to
+
+164
+00:06:28,169 --> 00:06:30,120
+like almost see-through and then it
+
+165
+00:06:30,120 --> 00:06:33,060
+becomes light again so we wouldn't want
+
+166
+00:06:33,060 --> 00:06:34,560
+to do that in this case but sometimes
+
+167
+00:06:34,560 --> 00:06:36,060
+you want I just want to show you that
+
+168
+00:06:36,060 --> 00:06:38,639
+opacity is also keyframe Abul so you can
+
+169
+00:06:38,639 --> 00:06:40,060
+have an object fade
+
+170
+00:06:40,060 --> 00:06:45,610
+in as part of the animation yeah so
+
+171
+00:06:45,610 --> 00:06:46,870
+that's it so watch for some of these
+
+172
+00:06:46,870 --> 00:06:48,700
+other ones have you can keyframe the
+
+173
+00:06:48,700 --> 00:06:50,350
+audio some of these audio things on
+
+174
+00:06:50,350 --> 00:06:53,380
+under audio Corrections there's this
+
+175
+00:06:53,380 --> 00:06:55,840
+volume that's keyframe Abul so you can
+
+176
+00:06:55,840 --> 00:06:57,880
+set a keyframe with your audio too
+
+177
+00:06:57,880 --> 00:07:00,160
+sometimes so maybe you want to have it
+
+178
+00:07:00,160 --> 00:07:02,530
+start out kind of soft and then at a
+
+179
+00:07:02,530 --> 00:07:04,300
+certain portion of the video you want to
+
+180
+00:07:04,300 --> 00:07:06,280
+have it be loud again you can use the
+
+181
+00:07:06,280 --> 00:07:09,220
+keyframe on audio to do that too so go
+
+182
+00:07:09,220 --> 00:07:10,450
+ahead and just play with this watch this
+
+183
+00:07:10,450 --> 00:07:12,070
+tutorial over again if you need to and
+
+184
+00:07:12,070 --> 00:07:14,139
+follow the steps that I did and just get
+
+185
+00:07:14,139 --> 00:07:16,270
+familiar doing that because you can undo
+
+186
+00:07:16,270 --> 00:07:18,370
+a lot of cool stuff with animation video
+
+187
+00:07:18,370 --> 00:07:20,500
+overtop of video we could add in a third
+
+188
+00:07:20,500 --> 00:07:23,229
+object and animate it in you can rotate
+
+189
+00:07:23,229 --> 00:07:24,610
+and have you can create your own
+
+190
+00:07:24,610 --> 00:07:27,610
+transitions basically using animation
+
+191
+00:07:27,610 --> 00:07:31,000
+and transparent layers so hopefully you
+
+192
+00:07:31,000 --> 00:07:32,320
+found this informative go ahead and like
+
+193
+00:07:32,320 --> 00:07:34,690
+and subscribe comment below and I'll
+
+194
+00:07:34,690 --> 00:07:37,500
+catch you in the next video
+

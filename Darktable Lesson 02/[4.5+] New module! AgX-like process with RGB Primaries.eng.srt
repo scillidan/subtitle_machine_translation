@@ -1,0 +1,480 @@
+1
+00:00:02,679 --> 00:00:05,440
+good news doct table has introduced a
+
+2
+00:00:05,440 --> 00:00:09,160
+module called RGB primaries now this is
+
+3
+00:00:09,160 --> 00:00:12,080
+a big deal to nerds like myself who have
+
+4
+00:00:12,080 --> 00:00:15,559
+been waiting for agx like developing in
+
+5
+00:00:15,559 --> 00:00:18,880
+dark table for quite a long time so RGB
+
+6
+00:00:18,880 --> 00:00:21,160
+primaries is a very useful tool that
+
+7
+00:00:21,160 --> 00:00:23,359
+allows you to control the individual
+
+8
+00:00:23,359 --> 00:00:26,039
+primaries without breaking the overall
+
+9
+00:00:26,039 --> 00:00:28,960
+balance of the image it's sort of
+
+10
+00:00:28,960 --> 00:00:31,679
+self-explanatory the Hue sliders Slide
+
+11
+00:00:31,679 --> 00:00:35,640
+the primary towards the adjacent
+
+12
+00:00:36,200 --> 00:00:39,079
+primaries the Purity sliders allow you
+
+13
+00:00:39,079 --> 00:00:42,520
+to inser or move the primary towards the
+
+14
+00:00:42,520 --> 00:00:45,719
+acromatic point here's an example we
+
+15
+00:00:45,719 --> 00:00:48,879
+have a cie chromaticity plot of some
+
+16
+00:00:48,879 --> 00:00:52,120
+image and if we reduce the purity of the
+
+17
+00:00:52,120 --> 00:00:54,680
+red primary the primary will move
+
+18
+00:00:54,680 --> 00:00:57,760
+towards the acromatic point just don't
+
+19
+00:00:57,760 --> 00:01:00,719
+forget that this plot is a 2d slice of a
+
+20
+00:01:00,719 --> 00:01:03,559
+3D shape and does not paint the whole
+
+21
+00:01:03,559 --> 00:01:06,159
+picture of what insetting or reducing
+
+22
+00:01:06,159 --> 00:01:10,080
+the Purity actually does to the whole
+
+23
+00:01:10,080 --> 00:01:12,600
+range when paired with something like
+
+24
+00:01:12,600 --> 00:01:16,600
+filmic RGB or sigmoid RGB primaries is a
+
+25
+00:01:16,600 --> 00:01:19,200
+very powerful tool that will greatly
+
+26
+00:01:19,200 --> 00:01:22,200
+change how I develop my images in dark
+
+27
+00:01:22,200 --> 00:01:24,680
+table however this is a tool that can
+
+28
+00:01:24,680 --> 00:01:27,439
+very easily break your images so it has
+
+29
+00:01:27,439 --> 00:01:30,960
+to be used with care in my opinion RGB
+
+30
+00:01:30,960 --> 00:01:34,119
+primaries should only be used to inser
+
+31
+00:01:34,119 --> 00:01:37,399
+or reduce the purity of the primary if
+
+32
+00:01:37,399 --> 00:01:41,000
+it's used before sigmoid or filmic RGB
+
+33
+00:01:41,000 --> 00:01:43,880
+so before the image is formed now if you
+
+34
+00:01:43,880 --> 00:01:46,560
+increase the purity of the primaries
+
+35
+00:01:46,560 --> 00:01:49,719
+before the image is formed certain areas
+
+36
+00:01:49,719 --> 00:01:51,880
+of the image will fail to attenuate
+
+37
+00:01:51,880 --> 00:01:54,640
+correctly which will lead to a sort of
+
+38
+00:01:54,640 --> 00:01:58,320
+mangled image let's take this beautiful
+
+39
+00:01:58,320 --> 00:02:01,320
+amazing photo of a wall that is
+
+40
+00:02:01,320 --> 00:02:04,399
+illuminated by this strong light as you
+
+41
+00:02:04,399 --> 00:02:07,079
+can see there's a bit of a yellow Hue
+
+42
+00:02:07,079 --> 00:02:11,080
+shift in that bright area we can fix
+
+43
+00:02:11,080 --> 00:02:14,560
+that by reducing the
+
+44
+00:02:15,319 --> 00:02:19,519
+Purity however if we increase the Purity
+
+45
+00:02:19,519 --> 00:02:23,760
+you'll see that this area will begin to
+
+46
+00:02:24,599 --> 00:02:28,319
+break this does not increase the overall
+
+47
+00:02:28,319 --> 00:02:31,879
+oress of this color it only breaks this
+
+48
+00:02:31,879 --> 00:02:34,720
+area which is illuminated by light so if
+
+49
+00:02:34,720 --> 00:02:37,599
+we push it further this area will fail
+
+50
+00:02:37,599 --> 00:02:40,920
+to attenuate and simply break and this
+
+51
+00:02:40,920 --> 00:02:43,760
+looks absolutely awful and this may very
+
+52
+00:02:43,760 --> 00:02:45,760
+well happen to your Sunset photos for
+
+53
+00:02:45,760 --> 00:02:49,599
+example or uh skin in harsh
+
+54
+00:02:49,599 --> 00:02:53,800
+light so after we inser that orange what
+
+55
+00:02:53,800 --> 00:02:56,560
+can we do to get some of that orange
+
+56
+00:02:56,560 --> 00:02:59,800
+back that we've just lost simple
+
+57
+00:02:59,800 --> 00:03:03,080
+duplicate the RGB primaries module and
+
+58
+00:03:03,080 --> 00:03:06,200
+drag and drop it above our point of
+
+59
+00:03:06,200 --> 00:03:09,480
+image formation in this case it's
+
+60
+00:03:09,480 --> 00:03:12,280
+sigmoid so now if we expand the rgp
+
+61
+00:03:12,280 --> 00:03:15,519
+primaries that's above our formation
+
+62
+00:03:15,519 --> 00:03:19,720
+point we can increase the purity of that
+
+63
+00:03:19,720 --> 00:03:24,319
+orange without breaking this area this
+
+64
+00:03:24,319 --> 00:03:26,319
+whole process can be demonstrated by
+
+65
+00:03:26,319 --> 00:03:29,239
+using my favorite color chart we expand
+
+66
+00:03:29,239 --> 00:03:31,840
+the RG primaries and start pushing the
+
+67
+00:03:31,840 --> 00:03:34,200
+sliders towards the right you'll see
+
+68
+00:03:34,200 --> 00:03:36,879
+that colors break rather
+
+69
+00:03:36,879 --> 00:03:39,400
+quickly I don't even have to push it
+
+70
+00:03:39,400 --> 00:03:43,040
+that far to completely mangle that blue
+
+71
+00:03:43,040 --> 00:03:47,360
+so if I go and tweak these uh
+
+72
+00:03:47,599 --> 00:03:51,280
+values the way I like it and then
+
+73
+00:03:51,280 --> 00:03:54,000
+duplicate that
+
+74
+00:03:54,040 --> 00:03:57,400
+module and push it above our point of
+
+75
+00:03:57,400 --> 00:03:58,319
+image
+
+76
+00:03:58,319 --> 00:04:00,519
+formation you'll see see that I can
+
+77
+00:04:00,519 --> 00:04:03,799
+increase the Purity without introducing
+
+78
+00:04:03,799 --> 00:04:05,360
+too many
+
+79
+00:04:05,360 --> 00:04:08,000
+issues and lastly let's use a more
+
+80
+00:04:08,000 --> 00:04:10,799
+practical example the blue
+
+81
+00:04:10,799 --> 00:04:14,879
+bar that everyone is so familiar with if
+
+82
+00:04:14,879 --> 00:04:17,680
+we just enable a couple of modules
+
+83
+00:04:17,680 --> 00:04:20,079
+you'll see that there's a bunch of
+
+84
+00:04:20,079 --> 00:04:22,840
+issues in the top right corner it's got
+
+85
+00:04:22,840 --> 00:04:26,199
+that uh sort of spilled paint effect
+
+86
+00:04:26,199 --> 00:04:28,919
+which I strongly dislike let's quickly
+
+87
+00:04:28,919 --> 00:04:32,240
+jump to RGB primaries module and let's
+
+88
+00:04:32,240 --> 00:04:37,800
+insert that blue until we are
+
+89
+00:04:38,520 --> 00:04:42,520
+happy um about there and if you think
+
+90
+00:04:42,520 --> 00:04:45,720
+this looks a bit purplish you can always
+
+91
+00:04:45,720 --> 00:04:48,199
+tweak the
+
+92
+00:04:49,840 --> 00:04:53,320
+Hue like that maybe I'll push that back
+
+93
+00:04:53,320 --> 00:04:55,440
+a
+
+94
+00:04:55,600 --> 00:04:59,280
+bit like so now this looks much better
+
+95
+00:04:59,280 --> 00:05:01,639
+already already but as you can see we've
+
+96
+00:05:01,639 --> 00:05:04,240
+lost a bit of that blue feeling that we
+
+97
+00:05:04,240 --> 00:05:08,520
+had before again let's duplicate this
+
+98
+00:05:08,520 --> 00:05:12,199
+module push it above filmic RGB by
+
+99
+00:05:12,199 --> 00:05:15,520
+holding control shift and just drag and
+
+100
+00:05:15,520 --> 00:05:18,160
+dropping now we can increase the purity
+
+101
+00:05:18,160 --> 00:05:23,600
+of the blue primary until we are
+
+102
+00:05:24,280 --> 00:05:27,440
+happy like so of course you can tweak
+
+103
+00:05:27,440 --> 00:05:30,479
+this further but as a quick
+
+104
+00:05:30,479 --> 00:05:33,440
+demonstration I think this is pretty
+
+105
+00:05:33,440 --> 00:05:36,520
+good let's take a quick snapshot of our
+
+106
+00:05:36,520 --> 00:05:40,960
+results and let's compare that to the
+
+107
+00:05:44,680 --> 00:05:47,919
+original and if you've reached the uh
+
+108
+00:05:47,919 --> 00:05:50,039
+the limit of the slider you can always
+
+109
+00:05:50,039 --> 00:05:53,080
+right click and just enter custom value
+
+110
+00:05:53,080 --> 00:05:56,919
+like that that's it a short video but I
+
+111
+00:05:56,919 --> 00:05:59,240
+think we've touched a couple of very
+
+112
+00:05:59,240 --> 00:06:02,199
+very important concepts of developing a
+
+113
+00:06:02,199 --> 00:06:05,800
+photo with RGB primaries a big thanks to
+
+114
+00:06:05,800 --> 00:06:08,759
+flannel head for making this module um
+
+115
+00:06:08,759 --> 00:06:11,080
+this is going to be one of the main
+
+116
+00:06:11,080 --> 00:06:14,880
+Tools in my dark tables toolbox for sure
+
+117
+00:06:14,880 --> 00:06:17,599
+that's it for today but I'll see you
+
+118
+00:06:17,599 --> 00:06:20,039
+very very soon with some hopefully
+
+119
+00:06:20,039 --> 00:06:25,039
+exciting news I'll see you then
+
+120
+00:06:27,360 --> 00:06:30,360
+bye
+

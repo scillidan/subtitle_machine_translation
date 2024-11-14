@@ -1,0 +1,94 @@
+1
+00:00:00,342 --> 00:00:01,050
+COLTON OGDEN: Hi.
+
+2
+00:00:01,050 --> 00:00:03,420
+My name is Colton Ogden, and
+I am the course instructor
+
+3
+00:00:03,420 --> 00:00:07,030
+for GD50, which is CS50's
+Introduction to Game Development.
+
+4
+00:00:07,030 --> 00:00:11,700
+CS50 is to game programming what CS50
+is to general-purpose programming
+
+5
+00:00:11,700 --> 00:00:14,430
+and problem solving, ultimately
+a jumping-off point for students
+
+6
+00:00:14,430 --> 00:00:16,890
+that might have a little bit
+of programming experience,
+
+7
+00:00:16,890 --> 00:00:20,220
+but who haven't necessarily gotten their
+hands dirty with game programming yet.
+
+8
+00:00:20,220 --> 00:00:23,650
+GD50 adopts a case study style
+approach whereby week by week,
+
+9
+00:00:23,650 --> 00:00:26,010
+we'll look at a specific
+game, and we'll analyze it,
+
+10
+00:00:26,010 --> 00:00:28,890
+figuring out what the parts do and
+how they form a playable whole.
+
+11
+00:00:28,890 --> 00:00:32,790
+We'll look at games like Pong,
+Breakout, Super Mario Bros., Legend
+
+12
+00:00:32,790 --> 00:00:35,239
+of Zelda, Portal, and many more.
+
+13
+00:00:35,239 --> 00:00:37,030
+For the first three
+quarters of the course,
+
+14
+00:00:37,030 --> 00:00:40,650
+students will use Lua and LOVE 2D,
+a 2D game development framework,
+
+15
+00:00:40,650 --> 00:00:43,530
+and then transition in the
+latter quarter to C# in Unity,
+
+16
+00:00:43,530 --> 00:00:45,600
+a very popular modern game engine.
+
+17
+00:00:45,600 --> 00:00:48,570
+Ultimately, lots of programming,
+lots of ideas, and lots of fun
+
+18
+00:00:48,570 --> 00:00:51,010
+await students interested in the course.
+
+19
+00:00:51,010 --> 00:00:53,490
+My name is Colton
+Ogden, and this is GD50.
+
+20
+00:00:53,490 --> 00:00:55,877
+[MUSIC PLAYING]

@@ -1,0 +1,396 @@
+1
+00:00:00,399 --> 00:00:02,280
+the final feature we will look at is the
+
+2
+00:00:02,280 --> 00:00:04,279
+recorder which allows you to record a
+
+3
+00:00:04,279 --> 00:00:07,680
+time lapse I'll use an 8x10 in canvas
+
+4
+00:00:07,680 --> 00:00:09,320
+you may need to extend this panel
+
+5
+00:00:09,320 --> 00:00:11,960
+vertically to see all the options in
+
+6
+00:00:11,960 --> 00:00:13,679
+this panel there are two buttons near
+
+7
+00:00:13,679 --> 00:00:16,320
+the bottom the first will start and stop
+
+8
+00:00:16,320 --> 00:00:18,680
+the recording before you record be sure
+
+9
+00:00:18,680 --> 00:00:20,960
+to set up your record settings Above
+
+10
+00:00:20,960 --> 00:00:22,880
+This Will control the speed size and
+
+11
+00:00:22,880 --> 00:00:25,480
+quality of your video first choose the
+
+12
+00:00:25,480 --> 00:00:27,080
+directory where you want the captured
+
+13
+00:00:27,080 --> 00:00:29,400
+image frames to go there is a shortcut
+
+14
+00:00:29,400 --> 00:00:31,960
+to open this folder the capture interval
+
+15
+00:00:31,960 --> 00:00:34,480
+will control the speed a smaller value
+
+16
+00:00:34,480 --> 00:00:36,600
+will record more frames or more brush
+
+17
+00:00:36,600 --> 00:00:38,719
+Strokes making the video longer and more
+
+18
+00:00:38,719 --> 00:00:41,440
+detailed a larger value will record
+
+19
+00:00:41,440 --> 00:00:43,600
+fewer frames making the video shorter
+
+20
+00:00:43,600 --> 00:00:46,480
+and may miss some steps when choosing a
+
+21
+00:00:46,480 --> 00:00:48,559
+value keep in mind that when you export
+
+22
+00:00:48,559 --> 00:00:50,360
+your video you'll need to select the
+
+23
+00:00:50,360 --> 00:00:52,920
+frame rate which is set to 30 by default
+
+24
+00:00:52,920 --> 00:00:55,559
+but can be higher 60 frames per second
+
+25
+00:00:55,559 --> 00:00:57,520
+will give you smoother movement but will
+
+26
+00:00:57,520 --> 00:00:59,440
+also make the video duration shorter and
+
+27
+00:00:59,440 --> 00:01:02,399
+the file size larger divide the capture
+
+28
+00:01:02,399 --> 00:01:04,159
+interval by the number of frames per
+
+29
+00:01:04,159 --> 00:01:05,438
+second and that will give you the
+
+30
+00:01:05,438 --> 00:01:08,360
+duration of your video so for example if
+
+31
+00:01:08,360 --> 00:01:10,880
+I paint for 90 seconds at 1 frame per
+
+32
+00:01:10,880 --> 00:01:13,640
+second I will have generated 90 frames
+
+33
+00:01:13,640 --> 00:01:15,640
+at a frame rate of 30 frames per second
+
+34
+00:01:15,640 --> 00:01:18,000
+that would only be 3 seconds of
+
+35
+00:01:18,000 --> 00:01:20,680
+video The Format controls the quality
+
+36
+00:01:20,680 --> 00:01:24,159
+and file size of the recorded images PNG
+
+37
+00:01:24,159 --> 00:01:25,920
+will give you better quality but will
+
+38
+00:01:25,920 --> 00:01:27,720
+require more storage space on your
+
+39
+00:01:27,720 --> 00:01:30,119
+computer jpeg can be used fully of
+
+40
+00:01:30,119 --> 00:01:31,880
+quality is not a concern and smaller
+
+41
+00:01:31,880 --> 00:01:34,399
+file size is preferred in either case
+
+42
+00:01:34,399 --> 00:01:35,840
+you can choose the quality and
+
+43
+00:01:35,840 --> 00:01:37,000
+compression
+
+44
+00:01:37,000 --> 00:01:39,880
+values and finally resolution controls
+
+45
+00:01:39,880 --> 00:01:42,360
+the video Dimensions this is linked to
+
+46
+00:01:42,360 --> 00:01:44,240
+the size of your document so if you want
+
+47
+00:01:44,240 --> 00:01:46,640
+to capture maximum quality choose
+
+48
+00:01:46,640 --> 00:01:49,040
+original you can also choose a smaller
+
+49
+00:01:49,040 --> 00:01:51,439
+size if you want a smaller video for
+
+50
+00:01:51,439 --> 00:01:54,240
+example if I only require a 1080p video
+
+51
+00:01:54,240 --> 00:01:56,240
+I might be able to have the resolution
+
+52
+00:01:56,240 --> 00:01:58,920
+to save storage space I'll click the
+
+53
+00:01:58,920 --> 00:02:01,880
+record button to initiate the recording
+
+54
+00:02:01,880 --> 00:02:03,360
+it's important to note that only the
+
+55
+00:02:03,360 --> 00:02:05,880
+canvas will be captured not the UI or
+
+56
+00:02:05,880 --> 00:02:08,199
+cursor if you want to capture that stuff
+
+57
+00:02:08,199 --> 00:02:10,199
+you'll need something like OBS Studio
+
+58
+00:02:10,199 --> 00:02:11,120
+which is
+
+59
+00:02:11,120 --> 00:02:14,120
+free next I'll stop the recording then
+
+60
+00:02:14,120 --> 00:02:17,319
+click on export first things first if
+
+61
+00:02:17,319 --> 00:02:19,640
+ffmpeg is missing you aren't going to
+
+62
+00:02:19,640 --> 00:02:22,040
+get very far you'll need to install that
+
+63
+00:02:22,040 --> 00:02:25,280
+and link to the ffmpeg exe file this is
+
+64
+00:02:25,280 --> 00:02:27,160
+what turns your captured frames into a
+
+65
+00:02:27,160 --> 00:02:31,280
+watchable video FPS can be 30 or 60 if
+
+66
+00:02:31,280 --> 00:02:32,920
+you want to speed up or slow down the
+
+67
+00:02:32,920 --> 00:02:34,599
+rate of your video you can make these
+
+68
+00:02:34,599 --> 00:02:38,080
+values different for example 6030 will
+
+69
+00:02:38,080 --> 00:02:39,920
+make the video twice as
+
+70
+00:02:39,920 --> 00:02:42,720
+fast you can also show a still preview
+
+71
+00:02:42,720 --> 00:02:45,400
+at the beginning or end of the video the
+
+72
+00:02:45,400 --> 00:02:48,120
+video Dimensions can be resized you can
+
+73
+00:02:48,120 --> 00:02:49,920
+stretch the video but that will add
+
+74
+00:02:49,920 --> 00:02:52,840
+block space around your canvas in this
+
+75
+00:02:52,840 --> 00:02:55,239
+case if I want to make a 1080p video
+
+76
+00:02:55,239 --> 00:02:57,640
+then I can make the width 1920 and the
+
+77
+00:02:57,640 --> 00:03:00,000
+height 1080 pixels if you will be
+
+78
+00:03:00,000 --> 00:03:01,640
+primarily recording your screen for
+
+79
+00:03:01,640 --> 00:03:03,680
+posting it to YouTube you may want to
+
+80
+00:03:03,680 --> 00:03:05,519
+start with a canvas size that matches
+
+81
+00:03:05,519 --> 00:03:07,560
+the video Dimensions so there isn't any
+
+82
+00:03:07,560 --> 00:03:09,519
+black space added to the edges when you
+
+83
+00:03:09,519 --> 00:03:13,280
+export the video under render as choose
+
+84
+00:03:13,280 --> 00:03:15,360
+h264 since it will be the most
+
+85
+00:03:15,360 --> 00:03:17,920
+compatible with other applications the
+
+86
+00:03:17,920 --> 00:03:19,760
+video location setting controls where
+
+87
+00:03:19,760 --> 00:03:22,120
+the exported video will go you can see
+
+88
+00:03:22,120 --> 00:03:23,480
+at the bottom of this panel with the
+
+89
+00:03:23,480 --> 00:03:26,200
+output video duration will be again you
+
+90
+00:03:26,200 --> 00:03:28,519
+can adjust the input fps to change the
+
+91
+00:03:28,519 --> 00:03:32,159
+video length click export and after the
+
+92
+00:03:32,159 --> 00:03:35,680
+video has been rendered you can watch
+
+93
+00:03:36,879 --> 00:03:39,120
+it whatever you capture in your
+
+94
+00:03:39,120 --> 00:03:41,799
+recordings is stored as snapshots so
+
+95
+00:03:41,799 --> 00:03:43,360
+you'll want to clear those out after
+
+96
+00:03:43,360 --> 00:03:45,120
+rendering the video If you no longer
+
+97
+00:03:45,120 --> 00:03:47,680
+need them otherwise they eat up space on
+
+98
+00:03:47,680 --> 00:03:49,879
+your
+
+99
+00:03:58,720 --> 00:04:02,760
+computer e
+

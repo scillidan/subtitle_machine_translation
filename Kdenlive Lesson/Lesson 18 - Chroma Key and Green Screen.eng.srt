@@ -1,0 +1,492 @@
+1
+00:00:02,780 --> 00:00:05,070
+welcome back to another video editing
+
+2
+00:00:05,070 --> 00:00:06,509
+tutorial using the free software
+
+3
+00:00:06,509 --> 00:00:09,329
+kdenlive in this video we're going to be
+
+4
+00:00:09,329 --> 00:00:12,209
+using kitten live to do the green-screen
+
+5
+00:00:12,209 --> 00:00:14,699
+chroma key effect so we'll take a blue
+
+6
+00:00:14,699 --> 00:00:16,830
+background or a green background screen
+
+7
+00:00:16,830 --> 00:00:19,800
+and make it transparent and overlay it
+
+8
+00:00:19,800 --> 00:00:22,919
+over top of another video so first of
+
+9
+00:00:22,919 --> 00:00:24,119
+all we need to get some green screen
+
+10
+00:00:24,119 --> 00:00:25,710
+footage so if you want to follow along
+
+11
+00:00:25,710 --> 00:00:27,449
+or maybe you already have your own but
+
+12
+00:00:27,449 --> 00:00:28,769
+if you don't you can go to pixabay.com
+
+13
+00:00:28,769 --> 00:00:30,810
+we can get some free green screen
+
+14
+00:00:30,810 --> 00:00:33,210
+footage just search under videos and
+
+15
+00:00:33,210 --> 00:00:37,110
+search a green screen and then we'll
+
+16
+00:00:37,110 --> 00:00:38,760
+find the nice thing so we'll get this
+
+17
+00:00:38,760 --> 00:00:41,970
+like that this butterfly how about yeah
+
+18
+00:00:41,970 --> 00:00:44,280
+this is to butterfly so so nice short
+
+19
+00:00:44,280 --> 00:00:48,360
+video perfect for us this is by Z vector
+
+20
+00:00:48,360 --> 00:00:51,210
+so appreciate that user sharing this
+
+21
+00:00:51,210 --> 00:00:52,650
+with us creative commons 0 free for
+
+22
+00:00:52,650 --> 00:00:54,840
+personal and commercial use so we'll
+
+23
+00:00:54,840 --> 00:00:59,700
+download this 1920 by 1080 and yeah well
+
+24
+00:00:59,700 --> 00:01:01,830
+you said is our file so first of all and
+
+25
+00:01:01,830 --> 00:01:03,240
+I have another file that we've used in
+
+26
+00:01:03,240 --> 00:01:05,069
+the past so I'm gonna go to my downloads
+
+27
+00:01:05,069 --> 00:01:07,560
+folder actually let's just do well do is
+
+28
+00:01:07,560 --> 00:01:08,610
+this beach one that we've been using
+
+29
+00:01:08,610 --> 00:01:10,800
+it's kind of fun you know drag in this
+
+30
+00:01:10,800 --> 00:01:14,040
+green screen of the butterfly so we take
+
+31
+00:01:14,040 --> 00:01:16,200
+our beach scene first whatever we want
+
+32
+00:01:16,200 --> 00:01:20,430
+to have be our our background video or
+
+33
+00:01:20,430 --> 00:01:22,380
+image and then our green screen we want
+
+34
+00:01:22,380 --> 00:01:24,600
+to do on top of it and so I'm going to
+
+35
+00:01:24,600 --> 00:01:25,920
+zoom in here on the timeline so I can
+
+36
+00:01:25,920 --> 00:01:27,270
+see look the better what's going on I'm
+
+37
+00:01:27,270 --> 00:01:28,500
+going to come to the end of this beach
+
+38
+00:01:28,500 --> 00:01:31,470
+scene and resize it down to the length
+
+39
+00:01:31,470 --> 00:01:33,290
+of this video clip of the butterfly
+
+40
+00:01:33,290 --> 00:01:36,060
+perfect so now and then I'll zoom in
+
+41
+00:01:36,060 --> 00:01:37,380
+even more on the timeline so we can
+
+42
+00:01:37,380 --> 00:01:38,790
+really get a good idea for what's
+
+43
+00:01:38,790 --> 00:01:42,900
+happening here perfect so now if we play
+
+44
+00:01:42,900 --> 00:01:45,299
+this it just shows the butterfly against
+
+45
+00:01:45,299 --> 00:01:47,940
+a green screen but underneath it's
+
+46
+00:01:47,940 --> 00:01:50,310
+playing the video of the beach of the
+
+47
+00:01:50,310 --> 00:01:51,990
+coastline we just can't see it because
+
+48
+00:01:51,990 --> 00:01:55,350
+the green screen is you know filling up
+
+49
+00:01:55,350 --> 00:01:57,119
+the whole screen so we need to make that
+
+50
+00:01:57,119 --> 00:02:00,780
+green go away to do that we use the
+
+51
+00:02:00,780 --> 00:02:03,090
+chroma key so we can just start typing
+
+52
+00:02:03,090 --> 00:02:05,760
+in might even be under color huh yeah
+
+53
+00:02:05,760 --> 00:02:09,449
+chroma hold but come up here just type
+
+54
+00:02:09,449 --> 00:02:10,840
+in
+
+55
+00:02:10,840 --> 00:02:12,640
+chromakey it's always under alpha
+
+56
+00:02:12,640 --> 00:02:14,170
+manipulation so we want to find
+
+57
+00:02:14,170 --> 00:02:16,840
+chromakey and we'll just drag chromakey
+
+58
+00:02:16,840 --> 00:02:19,660
+over top of the video that has the green
+
+59
+00:02:19,660 --> 00:02:22,239
+screen in it and it comes up with some
+
+60
+00:02:22,239 --> 00:02:24,220
+options over here under properties so
+
+61
+00:02:24,220 --> 00:02:25,480
+right now it's saying what is the color
+
+62
+00:02:25,480 --> 00:02:28,360
+key it's saying it's blue right now we
+
+63
+00:02:28,360 --> 00:02:30,700
+can try and like set it to green but
+
+64
+00:02:30,700 --> 00:02:31,870
+it's not really gonna work we need to
+
+65
+00:02:31,870 --> 00:02:34,300
+choose the exact color so to do that we
+
+66
+00:02:34,300 --> 00:02:36,340
+use this color picker and we click pick
+
+67
+00:02:36,340 --> 00:02:38,260
+a color and then click on the color we
+
+68
+00:02:38,260 --> 00:02:42,510
+want and instantly it goes to full green
+
+69
+00:02:42,510 --> 00:02:46,989
+now this screen was if we turn this off
+
+70
+00:02:46,989 --> 00:02:48,760
+look at this it's not really a screen
+
+71
+00:02:48,760 --> 00:02:51,220
+this is a 3d rendered so it's already a
+
+72
+00:02:51,220 --> 00:02:53,709
+perfect green color if you have a real
+
+73
+00:02:53,709 --> 00:02:55,150
+green screen you're gonna have some
+
+74
+00:02:55,150 --> 00:02:57,160
+you're gonna have trouble keying it
+
+75
+00:02:57,160 --> 00:03:00,010
+correctly possibly and so you can change
+
+76
+00:03:00,010 --> 00:03:01,840
+this variance I'll turn this back on you
+
+77
+00:03:01,840 --> 00:03:03,730
+get this variance here the in change and
+
+78
+00:03:03,730 --> 00:03:05,799
+see so now parts of the butterfly or
+
+79
+00:03:05,799 --> 00:03:08,110
+evinced going transparent so you can
+
+80
+00:03:08,110 --> 00:03:10,390
+change this variance here to see you
+
+81
+00:03:10,390 --> 00:03:13,450
+know to get yours to work properly but
+
+82
+00:03:13,450 --> 00:03:14,859
+ours worked really good because it's a
+
+83
+00:03:14,859 --> 00:03:17,739
+3d rendered green screen all right now
+
+84
+00:03:17,739 --> 00:03:19,450
+so if we play this we'll see it'll play
+
+85
+00:03:19,450 --> 00:03:21,430
+the video of the background and it's
+
+86
+00:03:21,430 --> 00:03:24,459
+butterflies like we flying around but
+
+87
+00:03:24,459 --> 00:03:26,380
+it's huge maybe we want to change it so
+
+88
+00:03:26,380 --> 00:03:29,440
+just remember we can change if we go to
+
+89
+00:03:29,440 --> 00:03:31,840
+our effects and then we get rid of this
+
+90
+00:03:31,840 --> 00:03:35,140
+under crop and transform we can just
+
+91
+00:03:35,140 --> 00:03:37,540
+apply a transform to this in addition to
+
+92
+00:03:37,540 --> 00:03:38,709
+the green screen we can apply a
+
+93
+00:03:38,709 --> 00:03:41,620
+transform and we can just transform it
+
+94
+00:03:41,620 --> 00:03:43,840
+go to the middle so we can kind of see
+
+95
+00:03:43,840 --> 00:03:46,980
+and then we can just transform it down -
+
+96
+00:03:46,980 --> 00:03:49,000
+yeah about here so we can have this
+
+97
+00:03:49,000 --> 00:03:52,180
+butterfly just flying along maybe we'll
+
+98
+00:03:52,180 --> 00:03:54,340
+put it over here if we click play it'll
+
+99
+00:03:54,340 --> 00:03:56,290
+just stay that size the whole time and
+
+100
+00:03:56,290 --> 00:04:01,319
+kind of fly ahead doing its thing
+
+101
+00:04:01,950 --> 00:04:04,329
+yeah that's how I want to do look we can
+
+102
+00:04:04,329 --> 00:04:07,359
+change the rotation of it to go back to
+
+103
+00:04:07,359 --> 00:04:08,859
+the middle so we can actually change the
+
+104
+00:04:08,859 --> 00:04:10,750
+rotation of the butterfly too so that it
+
+105
+00:04:10,750 --> 00:04:14,590
+looks like it's flying more with the
+
+106
+00:04:14,590 --> 00:04:17,789
+angle of the camera a little bit maybe
+
+107
+00:04:17,789 --> 00:04:21,459
+anyway so that is it that is as simple
+
+108
+00:04:21,459 --> 00:04:24,070
+as it is using green screen
+
+109
+00:04:24,070 --> 00:04:25,690
+and again you'll learn you know if
+
+110
+00:04:25,690 --> 00:04:26,830
+you're just getting into green screen
+
+111
+00:04:26,830 --> 00:04:29,050
+the setup of your green screen if you're
+
+112
+00:04:29,050 --> 00:04:31,090
+filming your own getting your lighting
+
+113
+00:04:31,090 --> 00:04:32,560
+perfect is going to make your life a lot
+
+114
+00:04:32,560 --> 00:04:35,230
+easier than trying to key it and change
+
+115
+00:04:35,230 --> 00:04:39,010
+it around in the software yeah hope you
+
+116
+00:04:39,010 --> 00:04:40,210
+found this video informative that's how
+
+117
+00:04:40,210 --> 00:04:41,830
+you'd green screen if you had a blue
+
+118
+00:04:41,830 --> 00:04:43,840
+screen you could change you want to
+
+119
+00:04:43,840 --> 00:04:45,310
+change it manually the color like this
+
+120
+00:04:45,310 --> 00:04:47,110
+you always want to click on this dot and
+
+121
+00:04:47,110 --> 00:04:50,940
+then left click and select your screen
+
+122
+00:04:50,940 --> 00:04:53,320
+yeah thanks for watching join me in the
+
+123
+00:04:53,320 --> 00:04:56,370
+next video we'll see you then
+

@@ -1,0 +1,720 @@
+1
+00:00:02,399 --> 00:00:03,280
+hi
+
+2
+00:00:03,280 --> 00:00:04,880
+this is going to be a quick video that
+
+3
+00:00:04,880 --> 00:00:07,440
+will eventually drag on for 15 minutes
+
+4
+00:00:07,440 --> 00:00:10,400
+on how to batch convert files using dark
+
+5
+00:00:10,400 --> 00:00:11,679
+table
+
+6
+00:00:11,679 --> 00:00:13,440
+i've been experimenting with developing
+
+7
+00:00:13,440 --> 00:00:15,679
+photos in blender and quite a few people
+
+8
+00:00:15,679 --> 00:00:18,240
+asked how i get my camera files into
+
+9
+00:00:18,240 --> 00:00:19,439
+blender
+
+10
+00:00:19,439 --> 00:00:22,320
+simple i open dark table select the file
+
+11
+00:00:22,320 --> 00:00:23,920
+and click export
+
+12
+00:00:23,920 --> 00:00:26,320
+job's done now i have a folder full of
+
+13
+00:00:26,320 --> 00:00:29,519
+exrs that's all there is to it if you
+
+14
+00:00:29,519 --> 00:00:31,439
+spend the time setting all the presets
+
+15
+00:00:31,439 --> 00:00:32,238
+up
+
+16
+00:00:32,238 --> 00:00:34,160
+two to be precise
+
+17
+00:00:34,160 --> 00:00:36,559
+one for the style the other one for the
+
+18
+00:00:36,559 --> 00:00:38,000
+export options
+
+19
+00:00:38,000 --> 00:00:39,520
+let's have a look at how to batch
+
+20
+00:00:39,520 --> 00:00:42,320
+process or batch convert camera native
+
+21
+00:00:42,320 --> 00:00:46,879
+data files also known as raw files
+
+22
+00:00:47,520 --> 00:00:49,520
+to get the most of our captures i'm
+
+23
+00:00:49,520 --> 00:00:51,680
+going to try and lose as little data as
+
+24
+00:00:51,680 --> 00:00:53,440
+possible while still maintaining a
+
+25
+00:00:53,440 --> 00:00:55,600
+sensible file size
+
+26
+00:00:55,600 --> 00:00:58,640
+open extra as the name suggests is an
+
+27
+00:00:58,640 --> 00:01:00,879
+open source file format developed by
+
+28
+00:01:00,879 --> 00:01:03,920
+industrial light and magic yes the same
+
+29
+00:01:03,920 --> 00:01:06,880
+people who took part in all these films
+
+30
+00:01:06,880 --> 00:01:08,880
+we all like
+
+31
+00:01:08,880 --> 00:01:11,680
+all of them let's not get too hung up on
+
+32
+00:01:11,680 --> 00:01:14,240
+the file format for now let me just show
+
+33
+00:01:14,240 --> 00:01:16,479
+you how to create presets for batch jobs
+
+34
+00:01:16,479 --> 00:01:18,640
+in dark table and by the way if you
+
+35
+00:01:18,640 --> 00:01:20,960
+don't care about making your own presets
+
+36
+00:01:20,960 --> 00:01:22,640
+i will include mine in the video
+
+37
+00:01:22,640 --> 00:01:24,240
+description
+
+38
+00:01:24,240 --> 00:01:27,040
+to import a style simply expand apply
+
+39
+00:01:27,040 --> 00:01:30,479
+styles and hit import
+
+40
+00:01:31,040 --> 00:01:34,079
+to import a preset go to settings
+
+41
+00:01:34,079 --> 00:01:38,520
+presets and click import
+
+42
+00:01:40,320 --> 00:01:42,320
+before we do anything if this is the
+
+43
+00:01:42,320 --> 00:01:44,159
+first time you're running dive table
+
+44
+00:01:44,159 --> 00:01:47,119
+make sure you go to settings
+
+45
+00:01:47,119 --> 00:01:48,399
+processing
+
+46
+00:01:48,399 --> 00:01:50,159
+and set the auto apply chromatic
+
+47
+00:01:50,159 --> 00:01:53,040
+adaptation defaults to modern
+
+48
+00:01:53,040 --> 00:01:55,200
+then simply close the window
+
+49
+00:01:55,200 --> 00:01:58,320
+okay let's import some captures
+
+50
+00:01:58,320 --> 00:02:00,960
+simply select your camera files and drag
+
+51
+00:02:00,960 --> 00:02:03,119
+and drop them into the light table
+
+52
+00:02:03,119 --> 00:02:04,479
+section
+
+53
+00:02:04,479 --> 00:02:06,840
+now select any of them and move to
+
+54
+00:02:06,840 --> 00:02:10,160
+darkroom we will create a style that we
+
+55
+00:02:10,160 --> 00:02:12,720
+will be able to reuse later
+
+56
+00:02:12,720 --> 00:02:14,480
+we have some of the modules active
+
+57
+00:02:14,480 --> 00:02:16,879
+already but we don't need all of them
+
+58
+00:02:16,879 --> 00:02:18,080
+right now
+
+59
+00:02:18,080 --> 00:02:21,200
+in my case for exporting linear rec709
+
+60
+00:02:21,200 --> 00:02:23,920
+exrs i want only the basics with a
+
+61
+00:02:23,920 --> 00:02:25,599
+couple of extras
+
+62
+00:02:25,599 --> 00:02:27,920
+the basics include the white balance
+
+63
+00:02:27,920 --> 00:02:30,640
+module which is required for the mosaic
+
+64
+00:02:30,640 --> 00:02:32,720
+module
+
+65
+00:02:32,720 --> 00:02:35,200
+we'll keep orientation
+
+66
+00:02:35,200 --> 00:02:37,200
+i don't really care about exposure at
+
+67
+00:02:37,200 --> 00:02:39,200
+this point
+
+68
+00:02:39,200 --> 00:02:42,319
+for color calibration module i want to
+
+69
+00:02:42,319 --> 00:02:43,920
+bypass it
+
+70
+00:02:43,920 --> 00:02:46,239
+but keep the clip negative rgb from
+
+71
+00:02:46,239 --> 00:02:48,879
+gamut box date
+
+72
+00:02:48,879 --> 00:02:50,400
+i don't want to sharpen
+
+73
+00:02:50,400 --> 00:02:52,800
+i don't want filmic rgb
+
+74
+00:02:52,800 --> 00:02:54,640
+and i want to set the output color
+
+75
+00:02:54,640 --> 00:02:58,640
+profile to linear rec 709
+
+76
+00:02:58,640 --> 00:03:01,040
+that's it let's jump back to light table
+
+77
+00:03:01,040 --> 00:03:03,840
+time to save and bake those modules and
+
+78
+00:03:03,840 --> 00:03:06,560
+their settings into a style
+
+79
+00:03:06,560 --> 00:03:09,599
+expand the apply styles module and
+
+80
+00:03:09,599 --> 00:03:10,800
+click create
+
+81
+00:03:10,800 --> 00:03:12,319
+now we need to pay attention here a
+
+82
+00:03:12,319 --> 00:03:14,560
+little bit notice how not all of the
+
+83
+00:03:14,560 --> 00:03:17,440
+modules are enabled for example we
+
+84
+00:03:17,440 --> 00:03:20,720
+turned off the exposure module and we
+
+85
+00:03:20,720 --> 00:03:23,840
+want to include that in our style so we
+
+86
+00:03:23,840 --> 00:03:27,040
+need to include the module that is off
+
+87
+00:03:27,040 --> 00:03:30,239
+similarly we disabled filmic rgb that is
+
+88
+00:03:30,239 --> 00:03:32,440
+disabled the rest is pretty
+
+89
+00:03:32,440 --> 00:03:34,879
+self-explanatory include all the modules
+
+90
+00:03:34,879 --> 00:03:37,920
+we want to apply to our imported files
+
+91
+00:03:37,920 --> 00:03:39,360
+give it the name
+
+92
+00:03:39,360 --> 00:03:42,159
+i'll call it exr out
+
+93
+00:03:42,159 --> 00:03:44,480
+and click save
+
+94
+00:03:44,480 --> 00:03:46,720
+okay we've got our style done which
+
+95
+00:03:46,720 --> 00:03:49,120
+means that we can apply it to newly
+
+96
+00:03:49,120 --> 00:03:51,120
+imported images
+
+97
+00:03:51,120 --> 00:03:52,560
+like that
+
+98
+00:03:52,560 --> 00:03:54,879
+but we don't want to do this manually
+
+99
+00:03:54,879 --> 00:03:56,959
+that's what we have dark table for let's
+
+100
+00:03:56,959 --> 00:03:58,720
+jump to export settings
+
+101
+00:03:58,720 --> 00:04:00,640
+yours might be on the right side
+
+102
+00:04:00,640 --> 00:04:04,640
+depending on whose dark table you're on
+
+103
+00:04:04,640 --> 00:04:06,560
+in the export settings we have a line
+
+104
+00:04:06,560 --> 00:04:09,040
+called style
+
+105
+00:04:09,040 --> 00:04:10,959
+and in the drop down we can select our
+
+106
+00:04:10,959 --> 00:04:13,599
+style that we just created
+
+107
+00:04:13,599 --> 00:04:15,680
+this means that dark table will export a
+
+108
+00:04:15,680 --> 00:04:18,160
+selected image and apply a chosen style
+
+109
+00:04:18,160 --> 00:04:20,238
+automatically
+
+110
+00:04:20,238 --> 00:04:21,839
+other settings that we might need to
+
+111
+00:04:21,839 --> 00:04:24,080
+change for exr
+
+112
+00:04:24,080 --> 00:04:26,080
+e x r
+
+113
+00:04:26,080 --> 00:04:27,520
+is bit depth
+
+114
+00:04:27,520 --> 00:04:29,440
+and compression
+
+115
+00:04:29,440 --> 00:04:31,040
+let's keep it on
+
+116
+00:04:31,040 --> 00:04:32,720
+biz
+
+117
+00:04:32,720 --> 00:04:34,560
+the target storage has a couple of neat
+
+118
+00:04:34,560 --> 00:04:36,880
+tricks up its sleeve you can sort of
+
+119
+00:04:36,880 --> 00:04:39,199
+program it to do interesting things
+
+120
+00:04:39,199 --> 00:04:41,600
+type in the dollar sign and an open
+
+121
+00:04:41,600 --> 00:04:43,199
+bracket
+
+122
+00:04:43,199 --> 00:04:45,759
+to see all the possible operands
+
+123
+00:04:45,759 --> 00:04:48,960
+the default one is file folder
+
+124
+00:04:48,960 --> 00:04:53,040
+then your export folder i'll call it my
+
+125
+00:04:53,040 --> 00:04:54,080
+export
+
+126
+00:04:54,080 --> 00:04:56,000
+exr
+
+127
+00:04:56,000 --> 00:04:57,680
+and
+
+128
+00:04:57,680 --> 00:05:02,080
+dollar sign open bracket file name
+
+129
+00:05:02,240 --> 00:05:05,520
+this will create an export exr folder in
+
+130
+00:05:05,520 --> 00:05:07,919
+the original folder where these files
+
+131
+00:05:07,919 --> 00:05:09,199
+are located
+
+132
+00:05:09,199 --> 00:05:11,199
+and then create an exr
+
+133
+00:05:11,199 --> 00:05:13,280
+based on its file name
+
+134
+00:05:13,280 --> 00:05:15,759
+and lastly for profile
+
+135
+00:05:15,759 --> 00:05:18,639
+select linear rec709
+
+136
+00:05:18,639 --> 00:05:20,639
+i know we set this in the color profile
+
+137
+00:05:20,639 --> 00:05:22,240
+in the style
+
+138
+00:05:22,240 --> 00:05:24,080
+but i just want to be sure that we are
+
+139
+00:05:24,080 --> 00:05:28,000
+definitely exporting linear rec709 exrs
+
+140
+00:05:28,000 --> 00:05:30,160
+after all these settings are set i'm
+
+141
+00:05:30,160 --> 00:05:33,759
+going to save another preset
+
+142
+00:05:34,320 --> 00:05:36,400
+but this time is going to affect the
+
+143
+00:05:36,400 --> 00:05:38,880
+export module i'm going to call it
+
+144
+00:05:38,880 --> 00:05:41,440
+export
+
+145
+00:05:41,840 --> 00:05:44,880
+underscore exr
+
+146
+00:05:44,880 --> 00:05:47,120
+okay
+
+147
+00:05:47,360 --> 00:05:49,759
+now just because we can i'm going to
+
+148
+00:05:49,759 --> 00:05:52,400
+reset the module
+
+149
+00:05:52,400 --> 00:05:54,320
+and i'm going to make a preset for a
+
+150
+00:05:54,320 --> 00:05:56,639
+simple jpeg export so i can switch
+
+151
+00:05:56,639 --> 00:05:58,800
+between the two at will for the target
+
+152
+00:05:58,800 --> 00:06:02,160
+storage i'm going to call it simply
+
+153
+00:06:02,160 --> 00:06:04,639
+jpeg
+
+154
+00:06:04,880 --> 00:06:07,280
+i'm going to change the file format to
+
+155
+00:06:07,280 --> 00:06:09,120
+jpeg
+
+156
+00:06:09,120 --> 00:06:10,080
+90
+
+157
+00:06:10,080 --> 00:06:13,759
+and i want the images to fit into 3000
+
+158
+00:06:13,759 --> 00:06:17,280
+by 3000 size
+
+159
+00:06:17,360 --> 00:06:22,160
+set profile to srgb web save
+
+160
+00:06:22,160 --> 00:06:25,360
+and let's keep the style at none
+
+161
+00:06:25,360 --> 00:06:28,720
+i'm going to save this preset as well
+
+162
+00:06:28,720 --> 00:06:32,960
+call it export jpeg
+
+163
+00:06:33,680 --> 00:06:36,160
+now we can switch between these two at
+
+164
+00:06:36,160 --> 00:06:37,039
+will
+
+165
+00:06:37,039 --> 00:06:39,919
+and we can export either exrs
+
+166
+00:06:39,919 --> 00:06:43,280
+or jpegs with a squeeze of a mouse
+
+167
+00:06:43,280 --> 00:06:45,520
+let's give it a go
+
+168
+00:06:45,520 --> 00:06:48,520
+export
+
+169
+00:06:48,560 --> 00:06:50,880
+and if we go back to the original folder
+
+170
+00:06:50,880 --> 00:06:52,880
+you will notice that there's a new jpeg
+
+171
+00:06:52,880 --> 00:06:54,160
+folder
+
+172
+00:06:54,160 --> 00:06:59,280
+with our crappy undeveloped jpegs
+
+173
+00:07:00,000 --> 00:07:01,280
+okay
+
+174
+00:07:01,280 --> 00:07:04,000
+that goes straight to the bin
+
+175
+00:07:04,000 --> 00:07:06,000
+that's pretty much for this video
+
+176
+00:07:06,000 --> 00:07:07,599
+let me know if you're interested in my
+
+177
+00:07:07,599 --> 00:07:10,000
+experiments with photos in blender don't
+
+178
+00:07:10,000 --> 00:07:12,479
+hesitate to drop a comment
+
+179
+00:07:12,479 --> 00:07:14,240
+i hope you learned something new today
+
+180
+00:07:14,240 --> 00:07:18,919
+and i'll see you soon bye
+

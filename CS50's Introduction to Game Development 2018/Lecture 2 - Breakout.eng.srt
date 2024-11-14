@@ -1,0 +1,10302 @@
+1
+00:00:00,000 --> 00:00:03,479
+[MUSIC PLAYING]
+
+2
+00:00:16,999 --> 00:00:18,290
+COLTON OGDEN: Hello, everybody.
+
+3
+00:00:18,290 --> 00:00:20,530
+Welcome to GD50 Lecture 2.
+
+4
+00:00:20,530 --> 00:00:22,300
+This is Breakout.
+
+5
+00:00:22,300 --> 00:00:25,225
+And interestingly, CS50 has
+a history with Breakout,
+
+6
+00:00:25,225 --> 00:00:26,680
+so I pulled this up today.
+
+7
+00:00:26,680 --> 00:00:30,700
+This is Pset3 in 2015, 2014.
+
+8
+00:00:30,700 --> 00:00:34,960
+It was an implementation of
+Breakout using the Stanford Portable
+
+9
+00:00:34,960 --> 00:00:37,150
+Library, which was a
+sort of Java library
+
+10
+00:00:37,150 --> 00:00:40,450
+that we were able to get C bindings for.
+
+11
+00:00:40,450 --> 00:00:42,430
+And so students were able
+to actually implement
+
+12
+00:00:42,430 --> 00:00:48,040
+a game what was at the time the CS50
+appliance, which is a Linux distro.
+
+13
+00:00:48,040 --> 00:00:49,870
+But suffice to say that was--
+
+14
+00:00:49,870 --> 00:00:51,280
+oh, a funny story also.
+
+15
+00:00:51,280 --> 00:00:56,570
+I happened to also write the lasers for
+this implementation back in the day.
+
+16
+00:00:56,570 --> 00:00:59,260
+And I think that was one
+of the first bits of code
+
+17
+00:00:59,260 --> 00:01:02,380
+I got my hands dirty with
+when working with CS50.
+
+18
+00:01:02,380 --> 00:01:04,919
+So today in the context
+of Breakout, we'll
+
+19
+00:01:04,919 --> 00:01:07,960
+be talking about a few different things
+that we haven't talked about yet.
+
+20
+00:01:07,960 --> 00:01:10,600
+Sprite sheets being chief
+among them most likely.
+
+21
+00:01:10,600 --> 00:01:12,130
+At least the most visibly so.
+
+22
+00:01:12,130 --> 00:01:15,370
+So sprite sheets are simply a way
+of taking an image, a large image,
+
+23
+00:01:15,370 --> 00:01:19,210
+and rather than splitting it, rather
+than loading individual images
+
+24
+00:01:19,210 --> 00:01:21,260
+for all of your different
+things in the game,
+
+25
+00:01:21,260 --> 00:01:25,990
+whether it's your aliens or your paddles
+or whatnot, you can put everything
+
+26
+00:01:25,990 --> 00:01:30,080
+into one sheet and then just sort of
+index into that sheet using rectangles,
+
+27
+00:01:30,080 --> 00:01:30,580
+quads.
+
+28
+00:01:30,580 --> 00:01:31,535
+We'll talk about soon.
+
+29
+00:01:31,535 --> 00:01:33,910
+Which will allow you to just
+draw a subset of that image,
+
+30
+00:01:33,910 --> 00:01:37,930
+and therefore condense all of your
+artwork just into one piece, one file.
+
+31
+00:01:37,930 --> 00:01:41,020
+We'll be talking a little bit
+more about procedural generation
+
+32
+00:01:41,020 --> 00:01:42,580
+in the context of Breakout.
+
+33
+00:01:42,580 --> 00:01:45,680
+And in this case, we'll be laying
+out all the bricks in the game world
+
+34
+00:01:45,680 --> 00:01:46,240
+procedurally.
+
+35
+00:01:46,240 --> 00:01:50,480
+So having instead of the same
+set of colors, in this case,
+
+36
+00:01:50,480 --> 00:01:55,510
+the standard layout is to have a bunch
+of the same colored bricks row by row.
+
+37
+00:01:55,510 --> 00:01:58,702
+We'll actually implement a
+dynamic generation approach
+
+38
+00:01:58,702 --> 00:02:00,910
+and have a bunch of different
+cool layouts we'll see.
+
+39
+00:02:00,910 --> 00:02:04,810
+And it's actually quite simple to
+achieve pretty believable results.
+
+40
+00:02:04,810 --> 00:02:07,100
+We'll manage state a little
+bit better in this game.
+
+41
+00:02:07,100 --> 00:02:10,479
+So before we sort of had a
+couple of global variables
+
+42
+00:02:10,479 --> 00:02:14,320
+and we didn't really have the concept
+of a per state or a global state
+
+43
+00:02:14,320 --> 00:02:18,310
+that we were cleanly sort of
+sharing between all of our states
+
+44
+00:02:18,310 --> 00:02:19,510
+for our state machine.
+
+45
+00:02:19,510 --> 00:02:22,552
+But to avoid having sort of like
+a polluted global name space
+
+46
+00:02:22,552 --> 00:02:24,760
+and to just sort of keep
+things a little bit cleaner,
+
+47
+00:02:24,760 --> 00:02:28,051
+we'll end up taking all of the important
+variables for our code like, you know,
+
+48
+00:02:28,051 --> 00:02:29,770
+the player and any other entities.
+
+49
+00:02:29,770 --> 00:02:30,940
+The bricks, the ball.
+
+50
+00:02:30,940 --> 00:02:33,064
+And rather than keep them
+in our main [INAUDIBLE],,
+
+51
+00:02:33,064 --> 00:02:34,410
+we'll end up shifting them.
+
+52
+00:02:34,410 --> 00:02:37,990
+We'll sort of transfer them to
+and from the different states
+
+53
+00:02:37,990 --> 00:02:41,366
+via the state machine's enter method.
+
+54
+00:02:41,366 --> 00:02:42,490
+We'll actually have levels.
+
+55
+00:02:42,490 --> 00:02:43,780
+So a progression system.
+
+56
+00:02:43,780 --> 00:02:45,650
+So start at level one, go up.
+
+57
+00:02:45,650 --> 00:02:48,730
+And then with each level,
+we'll implement a scale
+
+58
+00:02:48,730 --> 00:02:51,730
+in terms of the
+generation of the bricks.
+
+59
+00:02:51,730 --> 00:02:54,545
+So we'll get higher tiered bricks
+and more points as a result.
+
+60
+00:02:54,545 --> 00:02:55,670
+We'll have a health system.
+
+61
+00:02:55,670 --> 00:02:58,780
+So hearts, in a similar
+fashion to Legend of Zelda.
+
+62
+00:02:58,780 --> 00:03:02,380
+Particle systems, which are a
+very important aesthetic component
+
+63
+00:03:02,380 --> 00:03:04,720
+to 2D games and 3D games.
+
+64
+00:03:04,720 --> 00:03:07,720
+Particle systems basically
+being a bunch of spawned images
+
+65
+00:03:07,720 --> 00:03:10,720
+that you sort of cluster, you
+put into a little spawner,
+
+66
+00:03:10,720 --> 00:03:15,190
+emit them in a certain way, and
+color them, perform math on them,
+
+67
+00:03:15,190 --> 00:03:17,462
+and get sort of believable
+effects like fire and smoke
+
+68
+00:03:17,462 --> 00:03:19,420
+and all these other things
+that would otherwise
+
+69
+00:03:19,420 --> 00:03:24,040
+be not easy to do
+using simple animation,
+
+70
+00:03:24,040 --> 00:03:26,980
+but trivial with a particle system.
+
+71
+00:03:26,980 --> 00:03:31,060
+We'll do a little bit more complicated
+collision detection with our paddle
+
+72
+00:03:31,060 --> 00:03:33,132
+and with our bricks
+than we did with Pong.
+
+73
+00:03:33,132 --> 00:03:34,840
+And then we'll also
+talk lastly about how
+
+74
+00:03:34,840 --> 00:03:38,950
+we can save data locally to our computer
+so that when we close the application
+
+75
+00:03:38,950 --> 00:03:42,460
+and run it again, we end up having
+a persistent high score rather
+
+76
+00:03:42,460 --> 00:03:44,980
+than just something that's volatile.
+
+77
+00:03:44,980 --> 00:03:49,300
+So first though, I would like
+to demo today's finished game.
+
+78
+00:03:49,300 --> 00:03:55,260
+So if anybody would like to demo from
+the audience, that would be nice.
+
+79
+00:03:55,260 --> 00:03:57,311
+Go ahead and come up.
+
+80
+00:03:57,311 --> 00:03:58,810
+I'll go ahead and cue it up for you.
+
+81
+00:04:02,652 --> 00:04:03,360
+What's your name?
+
+82
+00:04:03,360 --> 00:04:03,980
+JEREMY: Jeremy.
+
+83
+00:04:03,980 --> 00:04:04,330
+COLTON OGDEN: Jeremy.
+
+84
+00:04:04,330 --> 00:04:04,660
+Colton.
+
+85
+00:04:04,660 --> 00:04:05,290
+JEREMY: Nice to meet you, Colton.
+
+86
+00:04:05,290 --> 00:04:06,280
+COLTON OGDEN: Nice to meet you.
+
+87
+00:04:06,280 --> 00:04:08,410
+So we're going to go ahead
+and run Breakout here.
+
+88
+00:04:13,220 --> 00:04:15,462
+And so it uses the arrow keys.
+
+89
+00:04:15,462 --> 00:04:17,170
+So if you go ahead
+and press up and down,
+
+90
+00:04:17,170 --> 00:04:19,430
+you'll see you can move between the
+start and the high score screen.
+
+91
+00:04:19,430 --> 00:04:21,040
+So they're two separate screens.
+
+92
+00:04:21,040 --> 00:04:22,392
+So go ahead and--
+
+93
+00:04:22,392 --> 00:04:24,600
+here we have when you start,
+you can choose a paddle.
+
+94
+00:04:24,600 --> 00:04:27,740
+So rather than just the same old
+paddle every time, you get to select.
+
+95
+00:04:27,740 --> 00:04:29,650
+And as you can see here, he chose green.
+
+96
+00:04:29,650 --> 00:04:31,000
+So he gets the green paddle.
+
+97
+00:04:31,000 --> 00:04:32,650
+These bricks all procedure generated.
+
+98
+00:04:32,650 --> 00:04:36,520
+So if he runs the application,
+they'll be completely different.
+
+99
+00:04:36,520 --> 00:04:39,610
+And as is the classic
+formula, the ball moves
+
+100
+00:04:39,610 --> 00:04:41,230
+between the bricks and the paddle.
+
+101
+00:04:41,230 --> 00:04:44,060
+When it hits a brick, if
+it's of a certain color,
+
+102
+00:04:44,060 --> 00:04:46,840
+it'll either get destroyed--
+in this case, if it's blue,
+
+103
+00:04:46,840 --> 00:04:48,280
+it's the base color brick.
+
+104
+00:04:48,280 --> 00:04:50,590
+So it's the lowest value.
+
+105
+00:04:50,590 --> 00:04:52,480
+And if it's higher
+than blue, it'll end up
+
+106
+00:04:52,480 --> 00:04:55,840
+going down a color depending
+on which color it is.
+
+107
+00:04:55,840 --> 00:04:58,210
+I believe it goes blue,
+green, red, purple, yellow.
+
+108
+00:04:58,210 --> 00:05:01,600
+So anything higher
+will get shifted down.
+
+109
+00:05:01,600 --> 00:05:04,240
+And then the player amasses
+points, as you can see top right.
+
+110
+00:05:04,240 --> 00:05:04,930
+Score.
+
+111
+00:05:04,930 --> 00:05:06,370
+And notice also the three hearts.
+
+112
+00:05:06,370 --> 00:05:07,820
+That will be the player's health.
+
+113
+00:05:07,820 --> 00:05:13,830
+So if he were to lose
+on purpose possibly,
+
+114
+00:05:13,830 --> 00:05:18,870
+we can see he gets another message
+that's saying press Enter to serve.
+
+115
+00:05:18,870 --> 00:05:20,730
+His hearts have gone down by one.
+
+116
+00:05:20,730 --> 00:05:23,370
+So now he's got two out of three health.
+
+117
+00:05:23,370 --> 00:05:28,020
+And so eventually if he were
+to by chance lose completely--
+
+118
+00:05:32,900 --> 00:05:35,290
+oh.
+
+119
+00:05:35,290 --> 00:05:37,290
+That's honestly the most
+fun part about Breakout
+
+120
+00:05:37,290 --> 00:05:39,630
+is just getting it caught
+in a bunch of stuff.
+
+121
+00:05:39,630 --> 00:05:41,620
+But you can see we go
+to a Game Over screen.
+
+122
+00:05:41,620 --> 00:05:42,850
+It shows your final score.
+
+123
+00:05:42,850 --> 00:05:46,130
+And then you can press
+Enter and it will--
+
+124
+00:05:46,130 --> 00:05:46,840
+oh.
+
+125
+00:05:46,840 --> 00:05:48,040
+I must have had a bug.
+
+126
+00:05:48,040 --> 00:05:51,500
+But that should take you back to the--
+
+127
+00:05:51,500 --> 00:05:53,440
+if in the event that
+you have a high score,
+
+128
+00:05:53,440 --> 00:05:55,360
+it'll take you to enter a high score.
+
+129
+00:05:55,360 --> 00:06:00,270
+And if you don't have a high score,
+it'll take you back to the Start menu.
+
+130
+00:06:00,270 --> 00:06:02,020
+So I made a couple of
+last minute changes.
+
+131
+00:06:02,020 --> 00:06:04,390
+Unfortunately I must have
+left something in there.
+
+132
+00:06:04,390 --> 00:06:07,606
+But that's Breakout in a nutshell.
+
+133
+00:06:07,606 --> 00:06:10,730
+Our goal today will be to implement
+basically all the functionality we saw.
+
+134
+00:06:10,730 --> 00:06:12,550
+Oh, we didn't take a look
+at the high score screen.
+
+135
+00:06:12,550 --> 00:06:14,633
+So let's take a look at
+that really quick as well.
+
+136
+00:06:14,633 --> 00:06:17,820
+So here at the title, you can see
+we have Start and High Scores.
+
+137
+00:06:17,820 --> 00:06:18,970
+Oh, man.
+
+138
+00:06:18,970 --> 00:06:19,510
+OK.
+
+139
+00:06:19,510 --> 00:06:20,884
+I must have screwed something up.
+
+140
+00:06:20,884 --> 00:06:24,050
+So I'm going want to go
+[INAUDIBLE] Breakout 12.
+
+141
+00:06:24,050 --> 00:06:24,550
+OK.
+
+142
+00:06:24,550 --> 00:06:25,049
+Sorry.
+
+143
+00:06:25,049 --> 00:06:25,660
+I apologize.
+
+144
+00:06:25,660 --> 00:06:26,900
+I'm going to fix that.
+
+145
+00:06:26,900 --> 00:06:31,420
+But it should show this menu here where
+you will have a list of all your names
+
+146
+00:06:31,420 --> 00:06:35,830
+that get loaded from a file and
+will output your score accordingly.
+
+147
+00:06:35,830 --> 00:06:41,920
+And in the event that
+you get a new high score,
+
+148
+00:06:41,920 --> 00:06:44,230
+you'll get to enter
+your name after that,
+
+149
+00:06:44,230 --> 00:06:46,360
+and then it will end up
+saving it to another file.
+
+150
+00:06:46,360 --> 00:06:48,401
+And when we get to that
+point I'll try and fix it
+
+151
+00:06:48,401 --> 00:06:51,140
+so that we can actually
+see what it looks like.
+
+152
+00:06:51,140 --> 00:06:53,240
+So let's go back to these slides here.
+
+153
+00:06:53,240 --> 00:06:55,790
+So this is the overall
+state, flow of our game.
+
+154
+00:06:55,790 --> 00:06:59,080
+So as you can see by me marking
+it out in a highlighted color,
+
+155
+00:06:59,080 --> 00:07:00,550
+we start off in the StartState.
+
+156
+00:07:00,550 --> 00:07:01,990
+And this is all stuff
+we've covered before.
+
+157
+00:07:01,990 --> 00:07:03,100
+Just the state machine.
+
+158
+00:07:03,100 --> 00:07:05,266
+It's a little bit more
+complicated than Flappy Bird.
+
+159
+00:07:05,266 --> 00:07:07,930
+We have eight states as
+opposed to I think it
+
+160
+00:07:07,930 --> 00:07:10,420
+was four or five in the last lecture.
+
+161
+00:07:10,420 --> 00:07:13,640
+And the arrows illustrate which states
+can move in between other states.
+
+162
+00:07:13,640 --> 00:07:17,110
+So as we saw, the StartState can
+move via the up and down arrows
+
+163
+00:07:17,110 --> 00:07:18,700
+in the HighScoreState.
+
+164
+00:07:18,700 --> 00:07:20,710
+It can move between the
+HighScoreState and back.
+
+165
+00:07:20,710 --> 00:07:23,020
+So when you go into the
+HighScoreState, press Escape,
+
+166
+00:07:23,020 --> 00:07:25,180
+go back to the StartState.
+
+167
+00:07:25,180 --> 00:07:27,280
+The StartState also has
+an arrow branching off
+
+168
+00:07:27,280 --> 00:07:29,710
+to the left going down
+to the PaddleSelectState
+
+169
+00:07:29,710 --> 00:07:32,952
+where we saw the user is able
+to select a paddle to use.
+
+170
+00:07:32,952 --> 00:07:35,410
+Once they've selected a paddle,
+we'll go to the ServeState.
+
+171
+00:07:35,410 --> 00:07:37,780
+They'll be able to serve
+the ball at their leisure.
+
+172
+00:07:37,780 --> 00:07:40,380
+And then it will go back and
+forth between the PlayState.
+
+173
+00:07:40,380 --> 00:07:43,900
+So if they end up
+taking damage, the ball
+
+174
+00:07:43,900 --> 00:07:47,230
+goes below the surface of the screen,
+they'll go back to the ServeState
+
+175
+00:07:47,230 --> 00:07:49,930
+again so they can reorient themselves.
+
+176
+00:07:49,930 --> 00:07:53,170
+If they're in the PlayState
+and they end up scoring,
+
+177
+00:07:53,170 --> 00:07:55,476
+clearing the whole entire
+set of bricks, they'll
+
+178
+00:07:55,476 --> 00:07:57,100
+actually get taken to the VictoryState.
+
+179
+00:07:57,100 --> 00:07:59,266
+And the VictoryState is
+where we increment the level
+
+180
+00:07:59,266 --> 00:08:00,760
+and we also regenerate the level.
+
+181
+00:08:00,760 --> 00:08:02,801
+And the VictoryState goes
+back to the ServeState,
+
+182
+00:08:02,801 --> 00:08:04,990
+and then we repeat
+that whole loop again.
+
+183
+00:08:04,990 --> 00:08:08,200
+In the PlayState if they
+are to get a Game Over,
+
+184
+00:08:08,200 --> 00:08:10,960
+they'll go to the GameOverState,
+it'll tell them their score,
+
+185
+00:08:10,960 --> 00:08:13,090
+and then they'll go to
+the EnterHighScoreState
+
+186
+00:08:13,090 --> 00:08:14,950
+depending on whether
+they have a high score.
+
+187
+00:08:14,950 --> 00:08:18,010
+And if not, as seen by the arrow
+that goes up and to the left,
+
+188
+00:08:18,010 --> 00:08:19,990
+they'll actually go
+back to the StartState.
+
+189
+00:08:19,990 --> 00:08:22,730
+And then the EnterHighScoreState will
+also go back to the HighScoreState
+
+190
+00:08:22,730 --> 00:08:24,438
+so that they can see
+once they've entered
+
+191
+00:08:24,438 --> 00:08:27,687
+their high score, their score relative
+to the other scores in the list.
+
+192
+00:08:27,687 --> 00:08:29,770
+So in Breakout0, which
+we're going to look at now,
+
+193
+00:08:29,770 --> 00:08:31,436
+we're going to do some very basic stuff.
+
+194
+00:08:31,436 --> 00:08:34,059
+So this is the Day 0 update as always.
+
+195
+00:08:34,059 --> 00:08:37,900
+I'm in Breakout0 right now.
+
+196
+00:08:37,900 --> 00:08:39,049
+Yes, I am.
+
+197
+00:08:39,049 --> 00:08:42,940
+So what we're going to do is we're going
+to look at first thing here, line 27.
+
+198
+00:08:42,940 --> 00:08:47,110
+So before what we were
+doing in our application
+
+199
+00:08:47,110 --> 00:08:51,850
+is having basically a lot of files at
+the top level and sort of losing track
+
+200
+00:08:51,850 --> 00:08:53,697
+of what we were doing potentially.
+
+201
+00:08:53,697 --> 00:08:55,780
+Especially as you start
+adding more and more files
+
+202
+00:08:55,780 --> 00:08:58,330
+and you've got like 50,
+100 more files, that's
+
+203
+00:08:58,330 --> 00:09:00,190
+something that's obviously
+not maintainable.
+
+204
+00:09:00,190 --> 00:09:02,884
+So the solution there,
+just put them in folders
+
+205
+00:09:02,884 --> 00:09:04,300
+and then keep track of everything.
+
+206
+00:09:04,300 --> 00:09:05,370
+Keep them organized.
+
+207
+00:09:05,370 --> 00:09:07,745
+And that's a major thing that
+we're going to start doing.
+
+208
+00:09:07,745 --> 00:09:10,120
+And on top of that, we're
+also going to, in our code,
+
+209
+00:09:10,120 --> 00:09:11,800
+keep things a little bit more modular.
+
+210
+00:09:11,800 --> 00:09:15,790
+And that's why we have this
+file source slash dependencies,
+
+211
+00:09:15,790 --> 00:09:18,520
+which we'll take a look at in a second.
+
+212
+00:09:18,520 --> 00:09:20,530
+We've allocated a bunch
+of global tables here.
+
+213
+00:09:20,530 --> 00:09:23,410
+So we're taking the
+design decision of even
+
+214
+00:09:23,410 --> 00:09:26,740
+though I mentioned that we will be sort
+of taking a lot of the global variables
+
+215
+00:09:26,740 --> 00:09:29,740
+out of our application
+assets, we're going to keep
+
+216
+00:09:29,740 --> 00:09:31,450
+all of those in some global variables.
+
+217
+00:09:31,450 --> 00:09:34,491
+And we'll see in the future how we
+can maybe implement a resource manager
+
+218
+00:09:34,491 --> 00:09:36,430
+class that takes care of this for us.
+
+219
+00:09:36,430 --> 00:09:38,890
+But for now, for simplicity's
+sake, in love.load,
+
+220
+00:09:38,890 --> 00:09:41,320
+we're just going to have a few
+global tables that contain,
+
+221
+00:09:41,320 --> 00:09:43,300
+in this case, global fonts.
+
+222
+00:09:43,300 --> 00:09:46,237
+So by key, we can index small,
+medium, and large fonts,
+
+223
+00:09:46,237 --> 00:09:48,070
+which are just new fonts
+at different sizes.
+
+224
+00:09:48,070 --> 00:09:49,379
+8, 16, 32.
+
+225
+00:09:49,379 --> 00:09:50,170
+And we're using it.
+
+226
+00:09:50,170 --> 00:09:53,649
+We have a fonts folder now instead of
+just keeping it at the parent level.
+
+227
+00:09:53,649 --> 00:09:54,940
+We're going to set it to small.
+
+228
+00:09:54,940 --> 00:09:55,960
+We have global textures.
+
+229
+00:09:55,960 --> 00:09:59,641
+So background, main,
+arrows, hearts, particle.
+
+230
+00:09:59,641 --> 00:10:02,390
+So we have the background, which
+was the background of our screen.
+
+231
+00:10:02,390 --> 00:10:05,230
+Main has all of our bricks,
+paddles, the balls, et cetera.
+
+232
+00:10:05,230 --> 00:10:07,770
+Arrows are going to be for
+the paddle select screen.
+
+233
+00:10:07,770 --> 00:10:09,220
+The two left and right arrows.
+
+234
+00:10:09,220 --> 00:10:10,990
+Hearts are going to be for our health.
+
+235
+00:10:10,990 --> 00:10:13,570
+And then particle is a single,
+small, tiny little texture
+
+236
+00:10:13,570 --> 00:10:16,330
+that we'll use to spawn all the
+particles in our particle systems
+
+237
+00:10:16,330 --> 00:10:20,584
+later on as we get towards
+the end of the demonstration.
+
+238
+00:10:20,584 --> 00:10:21,250
+So this is push.
+
+239
+00:10:21,250 --> 00:10:22,450
+We're setting it up just like normal.
+
+240
+00:10:22,450 --> 00:10:23,440
+Nothing new there.
+
+241
+00:10:23,440 --> 00:10:26,200
+Except the virtual width, virtual
+height, and all that stuff,
+
+242
+00:10:26,200 --> 00:10:29,930
+those have been moved out, if we
+look into source in a constants file.
+
+243
+00:10:29,930 --> 00:10:32,770
+So this file here, instead of
+having all the constants in main,
+
+244
+00:10:32,770 --> 00:10:35,020
+it kind of makes sense just
+to take them out, put them
+
+245
+00:10:35,020 --> 00:10:39,520
+in a file called constants.lua,
+and we can sort manage all that.
+
+246
+00:10:39,520 --> 00:10:42,340
+We can know immediately when
+we're looking at capital window
+
+247
+00:10:42,340 --> 00:10:43,240
+width, window height, et cetera.
+
+248
+00:10:43,240 --> 00:10:44,410
+And these are all constants.
+
+249
+00:10:44,410 --> 00:10:46,150
+If you have a constants
+file, we just can more easily
+
+250
+00:10:46,150 --> 00:10:48,460
+track it rather than having to
+grab through all of our files
+
+251
+00:10:48,460 --> 00:10:50,410
+to try and figure out
+what we were looking at.
+
+252
+00:10:53,830 --> 00:10:59,410
+And the constants are used here
+in our set up screen as before.
+
+253
+00:10:59,410 --> 00:11:03,289
+And then another sounds
+global table, just as before.
+
+254
+00:11:03,289 --> 00:11:05,080
+We have a bunch of
+different sound effects.
+
+255
+00:11:05,080 --> 00:11:07,038
+I've separated the music
+from the sound effects
+
+256
+00:11:07,038 --> 00:11:10,020
+just so that we can see at a
+glance, oh, this is the music,
+
+257
+00:11:10,020 --> 00:11:11,560
+these are the sound effects.
+
+258
+00:11:11,560 --> 00:11:12,970
+Pretty straight forward.
+
+259
+00:11:12,970 --> 00:11:14,500
+We have a state machine, as always.
+
+260
+00:11:14,500 --> 00:11:18,250
+And we're just going to use a
+StartState for this demonstration.
+
+261
+00:11:18,250 --> 00:11:20,770
+Setting it to Start.
+
+262
+00:11:20,770 --> 00:11:22,180
+Love.resize, love.update.
+
+263
+00:11:22,180 --> 00:11:23,929
+These are all functions
+we've seen before.
+
+264
+00:11:23,929 --> 00:11:25,000
+Nothing too new.
+
+265
+00:11:25,000 --> 00:11:25,772
+Love.keypress.
+
+266
+00:11:25,772 --> 00:11:26,980
+We have a global input table.
+
+267
+00:11:26,980 --> 00:11:30,880
+So as in the case of Flappy Bird, we
+can index into that input table anywhere
+
+268
+00:11:30,880 --> 00:11:34,930
+in our application and call
+love.keyboard.wasPressed[key],
+
+269
+00:11:34,930 --> 00:11:38,020
+which allows us to take input
+exclusively from main and use it
+
+270
+00:11:38,020 --> 00:11:40,680
+in other modules.
+
+271
+00:11:40,680 --> 00:11:42,850
+Here we're drawing the--
+
+272
+00:11:42,850 --> 00:11:45,160
+so this is the actual rendering code.
+
+273
+00:11:45,160 --> 00:11:49,690
+And we're doing this in our love.draw
+as opposed to a specific state
+
+274
+00:11:49,690 --> 00:11:51,940
+because this is actually
+going to apply to all states.
+
+275
+00:11:51,940 --> 00:11:53,731
+We're always going to
+have this background.
+
+276
+00:11:53,731 --> 00:11:55,900
+So rather than duplicate
+it over and over again,
+
+277
+00:11:55,900 --> 00:11:58,240
+in this instance, this
+minor bit of code,
+
+278
+00:11:58,240 --> 00:12:02,214
+we're going to display the
+background behind all the states.
+
+279
+00:12:02,214 --> 00:12:04,630
+So all the states are going
+to render over this background
+
+280
+00:12:04,630 --> 00:12:07,000
+and make it seem a little more cohesive.
+
+281
+00:12:07,000 --> 00:12:09,039
+We're going to draw at
+0, 0 without rotation.
+
+282
+00:12:09,039 --> 00:12:11,080
+And then this bit of math
+here, the virtual width
+
+283
+00:12:11,080 --> 00:12:15,929
+divided by, and then background width
+minus one, end up being a scale factor
+
+284
+00:12:15,929 --> 00:12:18,220
+so that we can always scale
+it to be our virtual width.
+
+285
+00:12:18,220 --> 00:12:22,930
+Because the texture by default is some
+amount smaller than our actual window
+
+286
+00:12:22,930 --> 00:12:26,140
+or our actual virtual width and
+height, but by dividing virtual width
+
+287
+00:12:26,140 --> 00:12:29,560
+by whatever the background
+width of that image is by one,
+
+288
+00:12:29,560 --> 00:12:32,950
+we'll get a scale factor because
+virtual width is larger than the image.
+
+289
+00:12:32,950 --> 00:12:37,270
+We'll get a scale factor on X and Y
+that equates to it completely stretching
+
+290
+00:12:37,270 --> 00:12:41,050
+to fill our virtual width and height.
+
+291
+00:12:41,050 --> 00:12:44,136
+And recall that these two parameters
+are the scale on the X and the Y.
+
+292
+00:12:44,136 --> 00:12:47,260
+So it's going to be some, like, one
+point something or two point something.
+
+293
+00:12:47,260 --> 00:12:50,230
+Whatever it takes to end
+up filling the screen.
+
+294
+00:12:50,230 --> 00:12:52,567
+And then lastly here,
+the new bit I implemented
+
+295
+00:12:52,567 --> 00:12:55,150
+is just a display of frames per
+second function, which I think
+
+296
+00:12:55,150 --> 00:12:58,357
+is kind of important generally,
+and it's very easy to do.
+
+297
+00:12:58,357 --> 00:13:00,940
+I don't recall, I don't think
+we talked about it yet, but just
+
+298
+00:13:00,940 --> 00:13:02,710
+love.timer.getFPS.
+
+299
+00:13:02,710 --> 00:13:04,811
+And then I just draw in
+the top left in green
+
+300
+00:13:04,811 --> 00:13:07,810
+so that we can see it throughout all
+of our iterations of the game, what
+
+301
+00:13:07,810 --> 00:13:08,770
+are frames per second are.
+
+302
+00:13:08,770 --> 00:13:12,070
+If you want to monitor without having to
+look through your terminal or anything
+
+303
+00:13:12,070 --> 00:13:13,861
+like that, just displaying
+at the top, it's
+
+304
+00:13:13,861 --> 00:13:16,090
+standard practice in a lot of games.
+
+305
+00:13:16,090 --> 00:13:18,140
+If you've gone to the
+debug console or whatnot
+
+306
+00:13:18,140 --> 00:13:20,920
+or sort of looked into
+some of the hacks,
+
+307
+00:13:20,920 --> 00:13:23,030
+you'll see that in a lot of places.
+
+308
+00:13:23,030 --> 00:13:25,750
+So I talked earlier
+about dependencies.lua.
+
+309
+00:13:25,750 --> 00:13:30,190
+So this ties in as well to our effort
+to sort of modularize everything,
+
+310
+00:13:30,190 --> 00:13:31,750
+keep everything organized.
+
+311
+00:13:31,750 --> 00:13:34,010
+Instead of requiring
+everything at the top of main,
+
+312
+00:13:34,010 --> 00:13:36,550
+let's just put it all
+in a file and then we'll
+
+313
+00:13:36,550 --> 00:13:40,630
+know at a glance what we're requiring
+and we don't have to look through main
+
+314
+00:13:40,630 --> 00:13:44,620
+and make main 100 lines, potentially
+a lot more than it needs to be.
+
+315
+00:13:44,620 --> 00:13:47,500
+So requiring push, requiring class.
+
+316
+00:13:47,500 --> 00:13:49,690
+Same as we've done before.
+
+317
+00:13:49,690 --> 00:13:50,791
+Require source.constants.
+
+318
+00:13:50,791 --> 00:13:51,790
+We have access to those.
+
+319
+00:13:51,790 --> 00:13:55,550
+Require StateMachine, and
+then BaseState and StartState.
+
+320
+00:13:55,550 --> 00:13:58,750
+So let's go ahead and take
+a look at our StartState.
+
+321
+00:13:58,750 --> 00:14:01,330
+So I put states in a
+subfolder of source.
+
+322
+00:14:01,330 --> 00:14:03,580
+This is another effort to
+sort of keep things modular.
+
+323
+00:14:03,580 --> 00:14:08,410
+In this particular project, we won't
+have a lot of nested folders of code,
+
+324
+00:14:08,410 --> 00:14:10,720
+but I decided to put the
+states in their own folder
+
+325
+00:14:10,720 --> 00:14:14,130
+just so easily you can get
+access to all your states.
+
+326
+00:14:14,130 --> 00:14:18,610
+So we'll look at
+StartState here on line 21.
+
+327
+00:14:18,610 --> 00:14:21,940
+So recall in the StartState, we just
+had Breakout in the center of the screen
+
+328
+00:14:21,940 --> 00:14:24,950
+and then we had Start
+Game and High Scores.
+
+329
+00:14:24,950 --> 00:14:27,772
+So the user was able to highlight
+which state he wanted to look at.
+
+330
+00:14:27,772 --> 00:14:29,980
+So we need to keep track of
+which one is highlighted.
+
+331
+00:14:29,980 --> 00:14:32,220
+So all this variable's
+purpose is just to keep track.
+
+332
+00:14:32,220 --> 00:14:33,250
+So one or two.
+
+333
+00:14:33,250 --> 00:14:36,115
+One being Play Game, and
+two being High Scores.
+
+334
+00:14:39,580 --> 00:14:43,930
+And then here if we press
+up and down, then we--
+
+335
+00:14:43,930 --> 00:14:45,850
+because there's only
+two options effectively,
+
+336
+00:14:45,850 --> 00:14:48,400
+you can just flip whatever
+highlight is with one or two.
+
+337
+00:14:48,400 --> 00:14:50,590
+If you have a list of
+options that's more than two,
+
+338
+00:14:50,590 --> 00:14:52,840
+you'll need to increment one
+until it gets to whatever
+
+339
+00:14:52,840 --> 00:14:55,332
+X is, your number of list options.
+
+340
+00:14:55,332 --> 00:14:57,040
+And then if you press
+down at that point,
+
+341
+00:14:57,040 --> 00:14:58,840
+you should flip back up to the top.
+
+342
+00:14:58,840 --> 00:15:02,110
+And the same holds true for
+whether you're at option one.
+
+343
+00:15:02,110 --> 00:15:05,290
+You should go flip, rotate
+to the bottom of your list
+
+344
+00:15:05,290 --> 00:15:08,712
+so that it looks as if you've
+gone all the way around.
+
+345
+00:15:08,712 --> 00:15:11,170
+And-- then we're just playing
+a sound here when we do that.
+
+346
+00:15:11,170 --> 00:15:14,390
+We have a
+love.keyboard.wasPressed[escape] call
+
+347
+00:15:14,390 --> 00:15:14,890
+here.
+
+348
+00:15:14,890 --> 00:15:18,109
+It's not global anymore because there
+are some states in our application
+
+349
+00:15:18,109 --> 00:15:20,650
+where we might want to press
+Escape to actually go backwards,
+
+350
+00:15:20,650 --> 00:15:22,464
+and we'll see that.
+
+351
+00:15:22,464 --> 00:15:23,380
+And so rendering here.
+
+352
+00:15:23,380 --> 00:15:25,450
+We render Breakout with a large font.
+
+353
+00:15:25,450 --> 00:15:29,500
+Now that we can access G fonts at
+large key in the center of the screen,
+
+354
+00:15:29,500 --> 00:15:30,370
+set medium font.
+
+355
+00:15:30,370 --> 00:15:36,060
+And then we're going to render our
+two text fields one after the other.
+
+356
+00:15:36,060 --> 00:15:38,132
+But if highlighted is
+equal to one, then we're
+
+357
+00:15:38,132 --> 00:15:40,590
+going to set it to some blue
+color, which is one of three--
+
+358
+00:15:40,590 --> 00:15:43,590
+255, 255, 255.
+
+359
+00:15:43,590 --> 00:15:44,996
+And then render it.
+
+360
+00:15:44,996 --> 00:15:47,620
+And then make sure to reset the
+color after that because recall
+
+361
+00:15:47,620 --> 00:15:50,270
+love 2D is sort of like a
+state machine in its own right,
+
+362
+00:15:50,270 --> 00:15:53,340
+where if you set the color to
+something, whatever you draw and render
+
+363
+00:15:53,340 --> 00:15:56,430
+after that, be it images or
+text, will adopt that color.
+
+364
+00:15:56,430 --> 00:16:00,480
+So having everything
+be 255, 255, 255, 255,
+
+365
+00:16:00,480 --> 00:16:02,670
+which is pure white,
+completely opaque, has
+
+366
+00:16:02,670 --> 00:16:04,920
+the effect of drawing
+everything completely opaque.
+
+367
+00:16:04,920 --> 00:16:07,980
+But if you don't do that, your images
+or whatnot that you draw afterwards
+
+368
+00:16:07,980 --> 00:16:10,962
+will be tinted or transparent, which
+you most of the time don't want.
+
+369
+00:16:10,962 --> 00:16:13,170
+But you might sometimes want
+that, and we'll actually
+
+370
+00:16:13,170 --> 00:16:14,589
+see that in the PaddleSelectState.
+
+371
+00:16:14,589 --> 00:16:15,880
+And same thing holds true here.
+
+372
+00:16:15,880 --> 00:16:19,090
+If highlighted is two,
+do the exact same thing.
+
+373
+00:16:19,090 --> 00:16:22,830
+And so if we run this
+application, which is mainly
+
+374
+00:16:22,830 --> 00:16:26,771
+just a subset of what we saw
+before, we can move up and down
+
+375
+00:16:26,771 --> 00:16:28,020
+between Start and High Scores.
+
+376
+00:16:28,020 --> 00:16:30,270
+But if we press Enter
+on any of them, nothing
+
+377
+00:16:30,270 --> 00:16:33,450
+happens because we have no event
+handlers actually taking care of that.
+
+378
+00:16:33,450 --> 00:16:37,300
+But we have the image scaled to the
+screen, we have Breakout in the middle,
+
+379
+00:16:37,300 --> 00:16:40,750
+and we have our two menu options there.
+
+380
+00:16:40,750 --> 00:16:41,680
+So Breakout1.
+
+381
+00:16:41,680 --> 00:16:46,710
+So this is where we start to dive a
+little bit into sprite sheets, which
+
+382
+00:16:46,710 --> 00:16:49,530
+is a major component of
+game development, 2D game
+
+383
+00:16:49,530 --> 00:16:53,340
+development that we'll be looking at
+in the future and in this application.
+
+384
+00:16:53,340 --> 00:16:57,300
+But a sprite sheet is just,
+ultimately, rather than have--
+
+385
+00:16:57,300 --> 00:17:00,150
+I don't know how many images there
+are on this sprite sheet here.
+
+386
+00:17:00,150 --> 00:17:03,030
+But however many of
+these files, just have
+
+387
+00:17:03,030 --> 00:17:07,200
+one file put them all together,
+and then using rectangles, define
+
+388
+00:17:07,200 --> 00:17:08,849
+where all the different sprites are.
+
+389
+00:17:08,849 --> 00:17:11,400
+And then when we want to
+draw, use those rectangles
+
+390
+00:17:11,400 --> 00:17:14,230
+and just tell
+love.graphics.draw, I want you
+
+391
+00:17:14,230 --> 00:17:16,589
+to draw this texture, this
+sprite sheet, but I want
+
+392
+00:17:16,589 --> 00:17:19,500
+you to draw just this section of it.
+
+393
+00:17:19,500 --> 00:17:23,490
+You'd pass it in a quad, which is just
+simply rectangle with height, X and Y.
+
+394
+00:17:23,490 --> 00:17:27,900
+And love 2D will know, OK, I'm going
+to draw the image, but only this bit.
+
+395
+00:17:27,900 --> 00:17:31,290
+And it has the effect of looking as if
+you're only drawing tiny little images
+
+396
+00:17:31,290 --> 00:17:34,092
+as opposed to one monstrous image.
+
+397
+00:17:34,092 --> 00:17:36,300
+And the functions that are
+relevant for us to look at
+
+398
+00:17:36,300 --> 00:17:41,250
+are love.graphics.newquad, which
+takes an X, Y, width, and a height.
+
+399
+00:17:41,250 --> 00:17:45,570
+And also a dimensions object,
+which you get from an image.
+
+400
+00:17:45,570 --> 00:17:46,380
+We'll see that.
+
+401
+00:17:46,380 --> 00:17:50,870
+And all that basically is, I believe, is
+just an X, Y, width and height as well.
+
+402
+00:17:50,870 --> 00:17:54,540
+Or just a width and a height,
+rather, from whatever image
+
+403
+00:17:54,540 --> 00:17:57,180
+you want to create quads for.
+
+404
+00:17:57,180 --> 00:18:00,174
+And then love.graphics.draw,
+we've already seen it,
+
+405
+00:18:00,174 --> 00:18:01,590
+but this is a different signature.
+
+406
+00:18:01,590 --> 00:18:06,480
+This has texture, quad, X, Y.
+Quad being the second argument.
+
+407
+00:18:06,480 --> 00:18:09,030
+And when it takes in this
+quad, it knows to only draw
+
+408
+00:18:09,030 --> 00:18:13,290
+that defined rectangle
+of image to the screen.
+
+409
+00:18:13,290 --> 00:18:17,436
+And so we'll go ahead and
+take a look now at Breakout1.
+
+410
+00:18:17,436 --> 00:18:22,746
+AUDIENCE: [INAUDIBLE]
+
+411
+00:18:22,746 --> 00:18:24,870
+COLTON OGDEN: The question
+was, are there any tools
+
+412
+00:18:24,870 --> 00:18:28,980
+so that we don't have to guess where
+the quad is when we're doing the sheet?
+
+413
+00:18:28,980 --> 00:18:31,320
+Yes, there are a lot of the time.
+
+414
+00:18:31,320 --> 00:18:35,637
+I looked and saw a couple, but I
+haven't tested them thoroughly myself.
+
+415
+00:18:35,637 --> 00:18:37,470
+For simpler examples
+like this, it's usually
+
+416
+00:18:37,470 --> 00:18:39,053
+easy enough to programmatically do it.
+
+417
+00:18:39,053 --> 00:18:42,840
+But yeah, when you get into
+having giant sprite atlases where
+
+418
+00:18:42,840 --> 00:18:46,890
+you have especially things that
+are not necessarily symmetrical
+
+419
+00:18:46,890 --> 00:18:50,970
+or rectangular looking even though they
+still need to be defined rectangularly,
+
+420
+00:18:50,970 --> 00:18:54,600
+it's often best to use a tool like that.
+
+421
+00:18:54,600 --> 00:18:57,600
+There are, I do believe,
+I just haven't used them.
+
+422
+00:18:57,600 --> 00:19:00,450
+I can bring it up in a future
+lecture so we can discuss.
+
+423
+00:19:03,450 --> 00:19:08,430
+Any other questions before
+we carry into Breakout1?
+
+424
+00:19:08,430 --> 00:19:09,840
+All right.
+
+425
+00:19:09,840 --> 00:19:12,450
+So I'm going to go ahead and
+open up the very first thing
+
+426
+00:19:12,450 --> 00:19:14,430
+we should look at on Breakout1.
+
+427
+00:19:14,430 --> 00:19:18,000
+In the source directory,
+we have a new file.
+
+428
+00:19:18,000 --> 00:19:20,970
+And from here on out,
+I'm going to assume,
+
+429
+00:19:20,970 --> 00:19:24,990
+we're going to always assume that
+when we introduce a new file,
+
+430
+00:19:24,990 --> 00:19:28,620
+we're going to include
+it in dependencies.lua.
+
+431
+00:19:28,620 --> 00:19:32,160
+And so in this case, all we need to
+do is just say require source/util.
+
+432
+00:19:32,160 --> 00:19:38,700
+And as you can see, we're also adding
+a PlayState to this demonstration.
+
+433
+00:19:38,700 --> 00:19:41,520
+But from here on out, I won't
+make mention of us actually
+
+434
+00:19:41,520 --> 00:19:42,840
+adding it to our project.
+
+435
+00:19:42,840 --> 00:19:47,210
+So util.lua is the module
+that contains the code
+
+436
+00:19:47,210 --> 00:19:51,150
+we're going to use to actually generate
+quads for a given sprite sheet.
+
+437
+00:19:51,150 --> 00:19:54,850
+And this function, all it does, is
+it takes an atlas or sprite sheet--
+
+438
+00:19:54,850 --> 00:19:56,110
+the names are synonymous.
+
+439
+00:19:56,110 --> 00:19:57,370
+You'll hear them both.
+
+440
+00:19:57,370 --> 00:20:02,040
+Or we pass it an Atlas, we pass it
+the width of the tile that we want
+
+441
+00:20:02,040 --> 00:20:04,800
+and the height of the tile that we want.
+
+442
+00:20:04,800 --> 00:20:07,440
+It's going to get the width and
+the height of the sheet here.
+
+443
+00:20:07,440 --> 00:20:11,050
+So every image has a function
+called get width and get height,
+
+444
+00:20:11,050 --> 00:20:13,150
+so we're just going to do that.
+
+445
+00:20:13,150 --> 00:20:16,290
+And specifically the sheet
+width and sheet height
+
+446
+00:20:16,290 --> 00:20:19,920
+are the width of the image divided
+by tile width and tile height.
+
+447
+00:20:19,920 --> 00:20:23,480
+So we know how many times we need
+to iterate over the sprite sheet
+
+448
+00:20:23,480 --> 00:20:24,480
+to generate a rectangle.
+
+449
+00:20:24,480 --> 00:20:29,700
+We're dividing it up based
+on the size of our tiles.
+
+450
+00:20:29,700 --> 00:20:32,350
+And then we just basically do
+a simple nested four loop here.
+
+451
+00:20:32,350 --> 00:20:34,250
+We start a counter and a sprite sheet.
+
+452
+00:20:34,250 --> 00:20:37,470
+This sprite sheet is going to be a
+table that holds all of our quads.
+
+453
+00:20:37,470 --> 00:20:39,220
+We just say for Y, get zero.
+
+454
+00:20:39,220 --> 00:20:40,400
+Sheet height minus one.
+
+455
+00:20:40,400 --> 00:20:44,200
+So starting at the top left, going down.
+
+456
+00:20:44,200 --> 00:20:46,720
+And starting at the top going
+down, and then x equals zero,
+
+457
+00:20:46,720 --> 00:20:50,320
+starting at the left going right.
+
+458
+00:20:50,320 --> 00:20:55,540
+At sprite sheet, sheet counter,
+which is one here because in lua,
+
+459
+00:20:55,540 --> 00:20:57,280
+tables are one indexed.
+
+460
+00:20:57,280 --> 00:21:02,650
+We're going to create a new quad at X
+times tile width, Y times tile width.
+
+461
+00:21:02,650 --> 00:21:05,110
+Give it the width and
+the height of our tile.
+
+462
+00:21:05,110 --> 00:21:07,930
+So just whatever we passed
+into our function signature.
+
+463
+00:21:07,930 --> 00:21:10,420
+Here it will often be
+in this case be 16 by 32
+
+464
+00:21:10,420 --> 00:21:14,590
+because that's the size of the bricks.
+
+465
+00:21:14,590 --> 00:21:17,380
+And then we pass in the last
+parameter that we saw in the slide,
+
+466
+00:21:17,380 --> 00:21:19,640
+which is atlas:getdimensions.
+
+467
+00:21:19,640 --> 00:21:21,760
+And then we just increment
+our sheet counter here.
+
+468
+00:21:21,760 --> 00:21:23,990
+And then at the end of this, when
+we're all done, we'll return this.
+
+469
+00:21:23,990 --> 00:21:25,930
+We'll have a table of
+quads that we can then
+
+470
+00:21:25,930 --> 00:21:31,410
+use that are in a sort of one, two,
+three, four, five, six, seven, eight.
+
+471
+00:21:31,410 --> 00:21:34,390
+Well, I should say, one, two, three,
+four, five, six, seven, eight top
+
+472
+00:21:34,390 --> 00:21:38,230
+left to bottom right of all the
+sprites in our sheet to make it
+
+473
+00:21:38,230 --> 00:21:40,990
+super easy to look at.
+
+474
+00:21:40,990 --> 00:21:42,480
+We have another function here.
+
+475
+00:21:42,480 --> 00:21:45,940
+Lua doesn't by default, have a slice
+function, but we are just adding to it.
+
+476
+00:21:45,940 --> 00:21:47,200
+Table.slice.
+
+477
+00:21:47,200 --> 00:21:52,390
+It takes the table a first, the first
+entry in the table that we want,
+
+478
+00:21:52,390 --> 00:21:54,940
+the last entry, and then
+the step between them.
+
+479
+00:21:54,940 --> 00:22:00,160
+Just like Pythons slice function,
+it just iterates over the
+
+480
+00:22:00,160 --> 00:22:02,500
+for loop, which is first till one.
+
+481
+00:22:02,500 --> 00:22:10,270
+So one by default. Until the last or
+until whatever this sort of number sign
+
+482
+00:22:10,270 --> 00:22:13,450
+is the size of a table, which I
+don't think we've introduced yet.
+
+483
+00:22:13,450 --> 00:22:18,430
+But basically, if we pass in last,
+it'll stop there, otherwise just
+
+484
+00:22:18,430 --> 00:22:20,920
+assume we want the whole entire table.
+
+485
+00:22:20,920 --> 00:22:25,030
+And then this comma here at
+the end, which has step or one,
+
+486
+00:22:25,030 --> 00:22:28,600
+you can pass in a step at the end
+of a for loop as a third argument,
+
+487
+00:22:28,600 --> 00:22:33,710
+and that will be however much increments
+or decrements the loop that you're in.
+
+488
+00:22:33,710 --> 00:22:35,000
+So by default, just one.
+
+489
+00:22:35,000 --> 00:22:37,540
+We go one, then we go to
+two, then we go to three.
+
+490
+00:22:37,540 --> 00:22:39,260
+But you can set it to negative one.
+
+491
+00:22:39,260 --> 00:22:42,370
+And so if you say four i
+gets three to one minus one,
+
+492
+00:22:42,370 --> 00:22:44,260
+you'll go three, two, one.
+
+493
+00:22:44,260 --> 00:22:50,170
+And you can't do normally a
+step, which is what we do here.
+
+494
+00:22:50,170 --> 00:22:52,100
+No, you can do a step,
+but you can't slice,
+
+495
+00:22:52,100 --> 00:22:58,250
+which is why we have here sliced at
+number of slice plus one gets table i,
+
+496
+00:22:58,250 --> 00:22:59,750
+and then eventually we return slice.
+
+497
+00:22:59,750 --> 00:23:04,690
+So it just returns just a segment
+of whatever table we're in.
+
+498
+00:23:04,690 --> 00:23:07,270
+And then the important function
+here that we're actually
+
+499
+00:23:07,270 --> 00:23:11,440
+going to use in our application,
+we're going to generate quads paddles.
+
+500
+00:23:11,440 --> 00:23:15,070
+And so this takes X and Y, 0 and 64.
+
+501
+00:23:15,070 --> 00:23:19,630
+And if we look back at
+our paddles here, we
+
+502
+00:23:19,630 --> 00:23:22,100
+can see that we have
+various different sizes.
+
+503
+00:23:22,100 --> 00:23:25,690
+So we have a small one, a medium one, a
+large one, and then a really large one.
+
+504
+00:23:25,690 --> 00:23:30,130
+So if we want to get every single
+paddle in our sprite sheet,
+
+505
+00:23:30,130 --> 00:23:33,809
+small, medium, large, giant,
+notice that we have four blocks
+
+506
+00:23:33,809 --> 00:23:36,350
+and within each of those blocks
+we have four different sizes.
+
+507
+00:23:36,350 --> 00:23:38,200
+So we can just iterate
+over this four times
+
+508
+00:23:38,200 --> 00:23:41,005
+and then just define whatever
+the size of this rect
+
+509
+00:23:41,005 --> 00:23:43,270
+is, that rect, that rect, and that rect.
+
+510
+00:23:43,270 --> 00:23:45,850
+And we'll see the math for it here.
+
+511
+00:23:45,850 --> 00:23:50,920
+If I go zero to three, for
+i, get zero till three.
+
+512
+00:23:50,920 --> 00:23:53,890
+We're going to go ahead
+because that will give us four.
+
+513
+00:23:53,890 --> 00:23:57,400
+So that's how many times we want
+to iterate over the sprite sheet
+
+514
+00:23:57,400 --> 00:24:00,010
+to get the separate quads.
+
+515
+00:24:00,010 --> 00:24:01,990
+We'll get the smallest one.
+
+516
+00:24:01,990 --> 00:24:03,160
+So quads counter.
+
+517
+00:24:03,160 --> 00:24:05,080
+We initialize counter to one.
+
+518
+00:24:05,080 --> 00:24:11,980
+Gets love.graphics, that new
+quad at X, Y, with the 32 and 16.
+
+519
+00:24:11,980 --> 00:24:16,960
+Oh, and X and Y default at 0
+and 64 here because the note--
+
+520
+00:24:16,960 --> 00:24:21,880
+recall that these are all 16 tall here.
+
+521
+00:24:21,880 --> 00:24:24,520
+So we're starting Y at 64
+so that we start right here.
+
+522
+00:24:24,520 --> 00:24:28,792
+And we're starting X at zero
+because it's on the left side.
+
+523
+00:24:28,792 --> 00:24:29,500
+So we'll do that.
+
+524
+00:24:29,500 --> 00:24:31,780
+We'll increment counter.
+
+525
+00:24:31,780 --> 00:24:34,150
+Get it at 32 wide by 16 tall.
+
+526
+00:24:34,150 --> 00:24:36,430
+Those are the actual
+dimensions of the smallest one.
+
+527
+00:24:36,430 --> 00:24:40,240
+The same exact logic applies
+for medium and for large.
+
+528
+00:24:40,240 --> 00:24:44,560
+Only that we're adding 32 and
+then we're making it size 64,
+
+529
+00:24:44,560 --> 00:24:49,420
+and then we're adding 96 to X at size
+96 because they're getting wider,
+
+530
+00:24:49,420 --> 00:24:52,510
+but they're also offsetting
+more to the right.
+
+531
+00:24:52,510 --> 00:24:56,830
+And then the last bit is pretty much the
+same thing as before, except now we're
+
+532
+00:24:56,830 --> 00:25:01,960
+going Y plus 16 back to X because we've
+gone down a row in our sprite sheet
+
+533
+00:25:01,960 --> 00:25:06,580
+The paddle width at that point
+is 128, but still 16 pixels.
+
+534
+00:25:06,580 --> 00:25:13,280
+And then here at the bottom because
+we want to do this four times,
+
+535
+00:25:13,280 --> 00:25:16,030
+we want to go through the
+chunks are effectively 32 pixels
+
+536
+00:25:16,030 --> 00:25:19,350
+because we're going 16, 16, 16, 16.
+
+537
+00:25:19,350 --> 00:25:23,080
+We're going to add 32 to Y and then
+go to the next set of four paddles.
+
+538
+00:25:23,080 --> 00:25:26,350
+So this is how we're effectively
+getting all of the paddle sprites,
+
+539
+00:25:26,350 --> 00:25:30,900
+and they;re going to be stored one
+through X where I believe X is 16.
+
+540
+00:25:30,900 --> 00:25:34,180
+So we'll have 16 quads
+defined in our sprite sheet
+
+541
+00:25:34,180 --> 00:25:36,560
+thereafter that we can then return.
+
+542
+00:25:36,560 --> 00:25:43,640
+So I'm going to go back to
+main.lua now on line 64.
+
+543
+00:25:43,640 --> 00:25:47,321
+Here we have a new global
+table called gframes.
+
+544
+00:25:47,321 --> 00:25:49,820
+We'll be able to access this
+anywhere we want to draw stuff.
+
+545
+00:25:49,820 --> 00:25:52,010
+And it's just the same
+thing that we just saw.
+
+546
+00:25:52,010 --> 00:25:55,430
+Generate quads paddles, and we
+just pass it in our main texture.
+
+547
+00:25:55,430 --> 00:25:57,350
+And our main texture is this.
+
+548
+00:25:57,350 --> 00:25:59,695
+This is what our main
+texture looks like.
+
+549
+00:25:59,695 --> 00:26:01,070
+And then we're going to index it.
+
+550
+00:26:01,070 --> 00:26:04,610
+We're going to say it
+gets the key paddles,
+
+551
+00:26:04,610 --> 00:26:10,400
+because in that particular table
+was just the quads for our paddles.
+
+552
+00:26:10,400 --> 00:26:14,330
+So in the future, we just need to call
+love.graphics.drawtexture and then
+
+553
+00:26:14,330 --> 00:26:19,640
+index into gframes paddles
+at whatever paddle we want.
+
+554
+00:26:19,640 --> 00:26:24,440
+And that's how we can keep track of
+what we want to draw paddle wise.
+
+555
+00:26:24,440 --> 00:26:28,010
+And in this particular demo
+we have a new paddle class
+
+556
+00:26:28,010 --> 00:26:30,380
+because paddle is a thing in our game.
+
+557
+00:26:30,380 --> 00:26:33,390
+We can represent it as sort
+of a class or an object.
+
+558
+00:26:33,390 --> 00:26:36,599
+So we'll define a class for it.
+
+559
+00:26:36,599 --> 00:26:38,140
+Everything is pretty simple thus far.
+
+560
+00:26:38,140 --> 00:26:41,680
+Gets an X and a Y. Dx
+is zero with height.
+
+561
+00:26:41,680 --> 00:26:42,470
+Skin.
+
+562
+00:26:42,470 --> 00:26:45,800
+The skin is going to
+be what color it is.
+
+563
+00:26:45,800 --> 00:26:47,300
+We need to keep track of that.
+
+564
+00:26:47,300 --> 00:26:51,440
+And then the size, because size
+will be how we sort of offset
+
+565
+00:26:51,440 --> 00:26:56,540
+into our paddles, our quads, because the
+sizes are small, medium, large, giant.
+
+566
+00:26:56,540 --> 00:26:58,306
+One, two, three, four times four.
+
+567
+00:26:58,306 --> 00:27:00,680
+So one, two, three, four for
+the first set and then five,
+
+568
+00:27:00,680 --> 00:27:03,079
+six, seven, eight for the second set.
+
+569
+00:27:03,079 --> 00:27:04,370
+Those are all sort of by color.
+
+570
+00:27:04,370 --> 00:27:07,140
+So we can just multiply skin times--
+
+571
+00:27:07,140 --> 00:27:12,050
+or we can multiply whatever
+our size is by skin
+
+572
+00:27:12,050 --> 00:27:15,710
+and that will give us the current frame,
+the current quad that we want in order
+
+573
+00:27:15,710 --> 00:27:18,770
+to draw to the screen.
+
+574
+00:27:18,770 --> 00:27:21,040
+And then on line seven--
+
+575
+00:27:21,040 --> 00:27:23,000
+so this is keyboard input here.
+
+576
+00:27:23,000 --> 00:27:24,340
+Stuff that we've seen before.
+
+577
+00:27:24,340 --> 00:27:28,570
+If we're pressing left or right,
+then the paddles should move.
+
+578
+00:27:28,570 --> 00:27:31,167
+Dx should be set left or right.
+
+579
+00:27:31,167 --> 00:27:32,000
+We want to clamp it.
+
+580
+00:27:32,000 --> 00:27:33,770
+We saw this, we've seen this as well.
+
+581
+00:27:33,770 --> 00:27:37,820
+Clamp the input to the left and
+the right side of the screen.
+
+582
+00:27:37,820 --> 00:27:42,050
+If the dx is less than zero, do
+math.max and math.min otherwise
+
+583
+00:27:42,050 --> 00:27:43,841
+if we're moving to the right.
+
+584
+00:27:43,841 --> 00:27:46,340
+And then here, this is actually
+where we tie it all together
+
+585
+00:27:46,340 --> 00:27:49,680
+and we actually use the quads to
+draw something onto the screen.
+
+586
+00:27:49,680 --> 00:27:54,860
+So we're calling love.graphics.draw
+just our texture, our main texture.
+
+587
+00:27:54,860 --> 00:28:01,280
+And then gframes at paddles at
+our current size, which is two.
+
+588
+00:28:01,280 --> 00:28:07,760
+We want to by default have the
+medium size plus four times whatever
+
+589
+00:28:07,760 --> 00:28:10,080
+our skin is, minus one.
+
+590
+00:28:10,080 --> 00:28:18,720
+So if our skin is one, which is the
+blue skin, we won't add anything to it.
+
+591
+00:28:18,720 --> 00:28:20,370
+It'll just be four times zero.
+
+592
+00:28:20,370 --> 00:28:22,790
+But if we have the next
+one, it'll be two minus one,
+
+593
+00:28:22,790 --> 00:28:24,710
+so we'll end up adding four to that.
+
+594
+00:28:24,710 --> 00:28:28,920
+And because we're adding four to
+it times whatever that skin is,
+
+595
+00:28:28,920 --> 00:28:32,120
+it will just basically
+put us four quads in,
+
+596
+00:28:32,120 --> 00:28:36,860
+which is the next, the exact
+same paddle, but the next color.
+
+597
+00:28:36,860 --> 00:28:41,360
+And then lastly what we'll
+look at here is the PlayState.
+
+598
+00:28:41,360 --> 00:28:44,777
+So we had just the
+StartState before, but now we
+
+599
+00:28:44,777 --> 00:28:47,110
+want to actually test to make
+sure we can draw a paddle,
+
+600
+00:28:47,110 --> 00:28:48,450
+move it around the screen.
+
+601
+00:28:48,450 --> 00:28:50,630
+So we're going to implement
+a simple PlayState here.
+
+602
+00:28:50,630 --> 00:28:53,840
+So on line 20, we're just
+calling self.paddle gets paddle.
+
+603
+00:28:53,840 --> 00:28:56,220
+We're initializing a new paddle object.
+
+604
+00:28:56,220 --> 00:28:58,970
+And then we're keeping
+track of also this
+
+605
+00:28:58,970 --> 00:29:01,610
+is a simple, like, pause demonstration.
+
+606
+00:29:01,610 --> 00:29:06,010
+If self.paused, then-- actually yeah.
+
+607
+00:29:06,010 --> 00:29:06,950
+Did I say self.paused?
+
+608
+00:29:06,950 --> 00:29:07,240
+I did.
+
+609
+00:29:07,240 --> 00:29:07,490
+OK.
+
+610
+00:29:07,490 --> 00:29:09,200
+I just don't initialize it to anything.
+
+611
+00:29:09,200 --> 00:29:15,440
+I should have set
+self.paused to false here.
+
+612
+00:29:15,440 --> 00:29:19,790
+If self.paused, we're going to test
+to see whether we're pressing space,
+
+613
+00:29:19,790 --> 00:29:22,910
+and if we are, unpause it.
+
+614
+00:29:22,910 --> 00:29:26,360
+Otherwise, basically just do
+the same exact thing in reverse.
+
+615
+00:29:26,360 --> 00:29:31,580
+If we press space, pause the
+game, play a sound, et cetera.
+
+616
+00:29:31,580 --> 00:29:34,250
+Here on line 39, we're just going
+to call update on the paddle.
+
+617
+00:29:34,250 --> 00:29:37,049
+Which, just remember, test
+for left or right input.
+
+618
+00:29:37,049 --> 00:29:38,840
+Here we want to be able
+to escape the game,
+
+619
+00:29:38,840 --> 00:29:41,060
+so we're going to have
+a handler for escape.
+
+620
+00:29:41,060 --> 00:29:45,350
+Render the paddle on lines 47,
+which will do the love.graphics.draw
+
+621
+00:29:45,350 --> 00:29:47,480
+with a quad as we saw
+before, but it'll use
+
+622
+00:29:47,480 --> 00:29:52,160
+the skin and the size of that paddle
+to index into the quads tile sheet
+
+623
+00:29:52,160 --> 00:29:54,170
+appropriately.
+
+624
+00:29:54,170 --> 00:29:57,170
+And then here if we're
+paused, let's just draw
+
+625
+00:29:57,170 --> 00:30:00,110
+some text in the middle of the
+screen that just says Pause.
+
+626
+00:30:00,110 --> 00:30:01,400
+And we use the large font.
+
+627
+00:30:01,400 --> 00:30:04,316
+So we can go ahead and demo this now
+and see everything come together.
+
+628
+00:30:08,190 --> 00:30:11,260
+We have as before our StartState.
+
+629
+00:30:11,260 --> 00:30:13,711
+But if we press Enter,
+now we go to our PlayState
+
+630
+00:30:13,711 --> 00:30:15,960
+and we just have a paddle
+at the bottom of the screen.
+
+631
+00:30:15,960 --> 00:30:18,720
+It's size two, skin one.
+
+632
+00:30:18,720 --> 00:30:19,740
+Just the blue skin.
+
+633
+00:30:19,740 --> 00:30:21,895
+And we can move it left
+or right like that.
+
+634
+00:30:21,895 --> 00:30:24,270
+And if it hits the left side
+of the screen, it will stop.
+
+635
+00:30:24,270 --> 00:30:27,130
+And if it hits the right side of
+the screen, it will stop as well.
+
+636
+00:30:27,130 --> 00:30:30,180
+So we've made progress, but this
+is one of the fundamental things
+
+637
+00:30:30,180 --> 00:30:35,220
+I'd like to showcase today is just,
+like, using quads and categorizing
+
+638
+00:30:35,220 --> 00:30:38,160
+them, organizing them,
+and being able to draw
+
+639
+00:30:38,160 --> 00:30:43,860
+your assets from a large compiled
+image rather than keep track
+
+640
+00:30:43,860 --> 00:30:45,742
+of however many images it would take.
+
+641
+00:30:45,742 --> 00:30:47,700
+And you have to name all
+of them and sort them.
+
+642
+00:30:47,700 --> 00:30:49,270
+It would just be a big pain.
+
+643
+00:30:49,270 --> 00:30:49,770
+So yeah.
+
+644
+00:30:49,770 --> 00:30:52,500
+Definitely going forward when
+you have more than one sprite,
+
+645
+00:30:52,500 --> 00:30:55,200
+you want to sort of put
+it together in one sheet,
+
+646
+00:30:55,200 --> 00:30:57,900
+and that's how we can accomplish that.
+
+647
+00:30:57,900 --> 00:31:00,030
+But we don't have bricks,
+and this is probably
+
+648
+00:31:00,030 --> 00:31:05,380
+the other big main component of Breakout
+besides the paddle and the ball.
+
+649
+00:31:05,380 --> 00:31:08,710
+We want to have bricks that we can
+actually hit and aim for on the screen.
+
+650
+00:31:08,710 --> 00:31:10,450
+So this update will address that.
+
+651
+00:31:10,450 --> 00:31:16,430
+So let's go ahead and take a
+look at Breakout2 in main.lua.
+
+652
+00:31:16,430 --> 00:31:17,670
+I'm going to open it up here.
+
+653
+00:31:21,740 --> 00:31:29,600
+On line 66, you can see we have
+a new table in our gframes.
+
+654
+00:31:29,600 --> 00:31:32,266
+Because we had one just
+for paddles, we took out
+
+655
+00:31:32,266 --> 00:31:33,890
+just the paddles from our sprite sheet.
+
+656
+00:31:33,890 --> 00:31:36,056
+We're going to do the same
+thing for just the balls.
+
+657
+00:31:36,056 --> 00:31:38,070
+So we're going to look
+at-- if we look here,
+
+658
+00:31:38,070 --> 00:31:43,100
+we can see that the balls sort of
+come after all of the bricks here
+
+659
+00:31:43,100 --> 00:31:46,070
+and they're just laid out in
+eight pixels wide by eight
+
+660
+00:31:46,070 --> 00:31:48,500
+pixels tall increments here.
+
+661
+00:31:48,500 --> 00:31:52,070
+So four pixels to one brick,
+four balls to one brick,
+
+662
+00:31:52,070 --> 00:31:56,610
+two balls to one horizontally,
+and then two balls vertically.
+
+663
+00:31:56,610 --> 00:32:02,360
+And so what we'll end up doing is
+just a simple function in our util
+
+664
+00:32:02,360 --> 00:32:04,530
+that takes a look at that.
+
+665
+00:32:04,530 --> 00:32:08,570
+So let's go ahead and take a look at our
+util.lua, which we've made changes to.
+
+666
+00:32:14,120 --> 00:32:17,810
+And so what this is going to
+do is sort of do the same thing
+
+667
+00:32:17,810 --> 00:32:20,540
+that we did before.
+
+668
+00:32:20,540 --> 00:32:21,290
+It has to iterate.
+
+669
+00:32:21,290 --> 00:32:23,850
+So notice we have two rows of balls.
+
+670
+00:32:23,850 --> 00:32:26,030
+We have these four and
+we have these three.
+
+671
+00:32:26,030 --> 00:32:27,606
+So we want to iterate four times.
+
+672
+00:32:27,606 --> 00:32:29,480
+You want to find whatever
+the offset is here,
+
+673
+00:32:29,480 --> 00:32:35,270
+the X and Y. So it looks like three
+times 32 and then three times 16.
+
+674
+00:32:35,270 --> 00:32:36,860
+So 96 by--
+
+675
+00:32:36,860 --> 00:32:37,550
+I can't do math.
+
+676
+00:32:37,550 --> 00:32:39,110
+Whatever 16 times three is.
+
+677
+00:32:39,110 --> 00:32:40,700
+And then we'll end up 48.
+
+678
+00:32:40,700 --> 00:32:42,839
+And then we'll have--
+
+679
+00:32:42,839 --> 00:32:43,880
+which is what we do here.
+
+680
+00:32:43,880 --> 00:32:46,187
+So we have two iterations.
+
+681
+00:32:46,187 --> 00:32:48,020
+So a four loop that
+goes from zero to three.
+
+682
+00:32:48,020 --> 00:32:51,030
+So the top row, the four.
+
+683
+00:32:51,030 --> 00:32:52,990
+We'll set a counter to one here.
+
+684
+00:32:52,990 --> 00:32:54,641
+And notice also 96 and 48.
+
+685
+00:32:54,641 --> 00:32:56,390
+That's the X and the
+Y that we're setting.
+
+686
+00:32:56,390 --> 00:33:01,510
+That's where the offset is for
+the individual ball sprites.
+
+687
+00:33:01,510 --> 00:33:03,710
+Quads at counter gets--
+
+688
+00:33:03,710 --> 00:33:05,330
+and notice also quads is a table.
+
+689
+00:33:05,330 --> 00:33:06,650
+We're going to return this.
+
+690
+00:33:06,650 --> 00:33:10,630
+Quads at counter gets
+love.graphics.newquad at X, Y.
+
+691
+00:33:10,630 --> 00:33:12,230
+Eight pixels wide, eight pixels tall.
+
+692
+00:33:12,230 --> 00:33:13,580
+That's how large the balls are.
+
+693
+00:33:13,580 --> 00:33:17,390
+And then we're going to add eight to
+it because we're going to the right.
+
+694
+00:33:17,390 --> 00:33:20,960
+So this iteration just
+goes left to right.
+
+695
+00:33:20,960 --> 00:33:25,460
+And then here we're going to
+do basically X being set to 96
+
+696
+00:33:25,460 --> 00:33:27,900
+and then Y to 56.
+
+697
+00:33:27,900 --> 00:33:30,350
+And then because we were
+editing X directly in here,
+
+698
+00:33:30,350 --> 00:33:33,380
+we want to reset X back
+to 96, but then also add
+
+699
+00:33:33,380 --> 00:33:36,320
+the eight pixels so that we
+have the start for the next row
+
+700
+00:33:36,320 --> 00:33:38,840
+vertically, so at Y 56.
+
+701
+00:33:38,840 --> 00:33:40,730
+Do the exact same thing
+here, but only do it
+
+702
+00:33:40,730 --> 00:33:43,010
+three times because recall
+there is four balls on top
+
+703
+00:33:43,010 --> 00:33:44,720
+and then three balls on bottom.
+
+704
+00:33:44,720 --> 00:33:46,280
+And then return it at the very end.
+
+705
+00:33:46,280 --> 00:33:49,250
+And so now we have just
+an individual table.
+
+706
+00:33:49,250 --> 00:33:51,620
+We don't need to keep like
+one monstrous table of quads,
+
+707
+00:33:51,620 --> 00:33:53,360
+which I find sort of disorganized.
+
+708
+00:33:53,360 --> 00:33:57,950
+We can just have a table
+of frames for the paddles,
+
+709
+00:33:57,950 --> 00:34:00,110
+and the balls, and the
+bricks as we'll see.
+
+710
+00:34:02,930 --> 00:34:05,311
+Actually, I have it up here I think.
+
+711
+00:34:05,311 --> 00:34:05,810
+Maybe not.
+
+712
+00:34:08,900 --> 00:34:12,480
+So in ball-- oh, actually, hold on.
+
+713
+00:34:12,480 --> 00:34:12,980
+Sorry.
+
+714
+00:34:12,980 --> 00:34:14,030
+So we were looking at--
+
+715
+00:34:17,540 --> 00:34:19,080
+I skipped over this one on accident.
+
+716
+00:34:19,080 --> 00:34:19,955
+So the bounce update.
+
+717
+00:34:19,955 --> 00:34:22,370
+So everything I just said is
+relevant, but I accidentally
+
+718
+00:34:22,370 --> 00:34:23,840
+hit that right two times.
+
+719
+00:34:23,840 --> 00:34:27,620
+We want to go to the bounce update
+because this is slightly simpler.
+
+720
+00:34:27,620 --> 00:34:30,699
+So we were just talking about
+the ball, which is perfect.
+
+721
+00:34:30,699 --> 00:34:33,949
+So we're going to take the ball and then
+we're going to add that to the scene,
+
+722
+00:34:33,949 --> 00:34:36,980
+and we're just going to
+implement bouncing off the walls.
+
+723
+00:34:36,980 --> 00:34:39,380
+So actually, pretty
+identical to the code
+
+724
+00:34:39,380 --> 00:34:43,040
+we saw for Pong where you just
+detect whether the ball has
+
+725
+00:34:43,040 --> 00:34:45,985
+gone past the left, right,
+or top edge of the screen.
+
+726
+00:34:45,985 --> 00:34:48,860
+In this case, it will also allow us
+to go to the bottom of the screen
+
+727
+00:34:48,860 --> 00:34:51,290
+and we'll also implement
+colliding with the paddle
+
+728
+00:34:51,290 --> 00:34:54,690
+so then get a sense of the actual
+game play and what that feels like.
+
+729
+00:34:54,690 --> 00:34:57,920
+So everything is currently current.
+
+730
+00:34:57,920 --> 00:34:59,300
+So we're going to go--
+
+731
+00:34:59,300 --> 00:35:03,712
+after talking about the function
+to actually get the individual ball
+
+732
+00:35:03,712 --> 00:35:05,420
+quads out of the
+spreadsheet, we're going
+
+733
+00:35:05,420 --> 00:35:10,140
+to look at the ball class which is going
+to allow us to spawn them in our scene.
+
+734
+00:35:10,140 --> 00:35:12,310
+So a ball takes a width
+and height of eight.
+
+735
+00:35:12,310 --> 00:35:13,490
+No velocity.
+
+736
+00:35:13,490 --> 00:35:17,600
+But we're going to allow ourselves
+to initialize the ball with the skin,
+
+737
+00:35:17,600 --> 00:35:21,010
+and we'll see this later just
+as a cutesy little thing to you
+
+738
+00:35:21,010 --> 00:35:24,550
+use the actual individual sprites
+rather than just one constant sprite.
+
+739
+00:35:24,550 --> 00:35:27,740
+We're just going to give it a
+random number between one and seven
+
+740
+00:35:27,740 --> 00:35:30,110
+because there are seven quads.
+
+741
+00:35:30,110 --> 00:35:35,300
+And then we'll just use gframes
+balls and math dot random number
+
+742
+00:35:35,300 --> 00:35:38,657
+to get the actual ball
+spread that we want.
+
+743
+00:35:38,657 --> 00:35:40,865
+And so we have a simple
+collides function within ball
+
+744
+00:35:40,865 --> 00:35:45,290
+that would allow us to check to see
+whether we've collided with something
+
+745
+00:35:45,290 --> 00:35:47,180
+that has a X, Y width and a height.
+
+746
+00:35:47,180 --> 00:35:54,620
+So it's a simple A, B
+collision detection.
+
+747
+00:35:54,620 --> 00:35:56,609
+And then here we have reset.
+
+748
+00:35:56,609 --> 00:35:58,400
+Just resets it to the
+middle of the screen.
+
+749
+00:35:58,400 --> 00:35:59,840
+Update applies velocity.
+
+750
+00:35:59,840 --> 00:36:02,420
+Stuff we've already seen.
+
+751
+00:36:02,420 --> 00:36:05,010
+This is where we actually
+implement bouncing off the walls.
+
+752
+00:36:05,010 --> 00:36:07,370
+So if X is less than or
+equal to zero, greater than
+
+753
+00:36:07,370 --> 00:36:11,180
+or equal to virtual width minus
+eight, or less than or equal to zero,
+
+754
+00:36:11,180 --> 00:36:14,660
+this should be where we
+reverse the velocity.
+
+755
+00:36:14,660 --> 00:36:18,380
+In the case of it bouncing off the left
+side, we want to reverse the X velocity
+
+756
+00:36:18,380 --> 00:36:19,370
+but keep it going up.
+
+757
+00:36:19,370 --> 00:36:21,200
+If it hits the top,
+then we want to reverse
+
+758
+00:36:21,200 --> 00:36:24,200
+the Y velocity to keep it moving in
+whatever direction it was moving.
+
+759
+00:36:24,200 --> 00:36:27,620
+And same thing with the right hand wall.
+
+760
+00:36:27,620 --> 00:36:29,150
+And then play a wall hit sound.
+
+761
+00:36:29,150 --> 00:36:31,790
+And we're incorporating the
+sounds sort of as we go today
+
+762
+00:36:31,790 --> 00:36:33,420
+just because they're so simple.
+
+763
+00:36:33,420 --> 00:36:35,360
+And it's also kind of nice just
+to have a little bit of feedback
+
+764
+00:36:35,360 --> 00:36:37,130
+when you're actually
+endpoint of the game.
+
+765
+00:36:37,130 --> 00:36:39,290
+And the exact same code
+is here for drawing.
+
+766
+00:36:39,290 --> 00:36:43,040
+So we have main texture, but
+now we're using gframes balls,
+
+767
+00:36:43,040 --> 00:36:46,100
+and then we're indexing
+that at self.skin.
+
+768
+00:36:46,100 --> 00:36:48,179
+And recall that we just
+set self.skin in here.
+
+769
+00:36:48,179 --> 00:36:49,970
+So all we need to do
+to just make it random
+
+770
+00:36:49,970 --> 00:36:53,660
+is just wherever we create a new
+ball, just give it a math.random7,
+
+771
+00:36:53,660 --> 00:36:57,170
+and then that will index
+into that quads table
+
+772
+00:36:57,170 --> 00:37:01,380
+so we can draw a different
+ball texture each time.
+
+773
+00:37:01,380 --> 00:37:03,170
+And so let's go ahead and see--
+
+774
+00:37:03,170 --> 00:37:03,890
+oh, actually, no.
+
+775
+00:37:03,890 --> 00:37:06,320
+And one last thing we need
+to look at is the PlayState
+
+776
+00:37:06,320 --> 00:37:09,471
+has a little bit of new code as well.
+
+777
+00:37:09,471 --> 00:37:11,970
+We're going to spawn a ball,
+so this is where we do it here.
+
+778
+00:37:11,970 --> 00:37:14,886
+I'm not doing it random, but I could
+do it random here if I wanted to.
+
+779
+00:37:14,886 --> 00:37:17,297
+I could math.random7,
+and every time we boot up
+
+780
+00:37:17,297 --> 00:37:19,630
+the game it's going to be a
+different color because it's
+
+781
+00:37:19,630 --> 00:37:22,646
+going to be a different skin.
+
+782
+00:37:22,646 --> 00:37:23,770
+We need to update the ball.
+
+783
+00:37:23,770 --> 00:37:26,500
+So on line 50 we just update
+it like we do the paddle.
+
+784
+00:37:26,500 --> 00:37:29,560
+And then on line 52,
+we're just testing to see
+
+785
+00:37:29,560 --> 00:37:32,661
+whether it collides with the paddle
+because we're using just simple A,
+
+786
+00:37:32,661 --> 00:37:36,790
+A, B, B. If it collides with the paddle,
+we can assume it was coming down.
+
+787
+00:37:36,790 --> 00:37:38,540
+We can just reverse as delta Y.
+
+788
+00:37:38,540 --> 00:37:43,030
+Now, does anybody know what
+might be a current issue
+
+789
+00:37:43,030 --> 00:37:46,760
+with the current implementation
+of this function?
+
+790
+00:37:46,760 --> 00:37:48,880
+Particularly with this line.
+
+791
+00:37:51,766 --> 00:38:01,284
+AUDIENCE: [INAUDIBLE]
+
+792
+00:38:01,284 --> 00:38:02,200
+COLTON OGDEN: It will.
+
+793
+00:38:02,200 --> 00:38:03,283
+You're on the right track.
+
+794
+00:38:03,283 --> 00:38:06,880
+The answer was, if the ball
+is coming from the side,
+
+795
+00:38:06,880 --> 00:38:11,082
+it won't necessarily be bounced
+back up in the right Y direction.
+
+796
+00:38:11,082 --> 00:38:13,540
+If it's coming from the side,
+it will always, in this case,
+
+797
+00:38:13,540 --> 00:38:15,170
+be coming from up above.
+
+798
+00:38:15,170 --> 00:38:17,890
+So it always still be
+reversing in the right delta Y.
+
+799
+00:38:17,890 --> 00:38:22,090
+But what's going to happen
+if it comes in at an angle
+
+800
+00:38:22,090 --> 00:38:28,840
+and then isn't basically reset?
+
+801
+00:38:28,840 --> 00:38:31,990
+Like right now if it
+comes at an angle and it
+
+802
+00:38:31,990 --> 00:38:36,640
+gets caught-- let's say it's like
+below the top edge of the paddle.
+
+803
+00:38:36,640 --> 00:38:37,840
+AUDIENCE: [INAUDIBLE]
+
+804
+00:38:37,840 --> 00:38:40,352
+COLTON OGDEN: You're going
+to get an infinite collision
+
+805
+00:38:40,352 --> 00:38:42,310
+loop because we're not
+resetting it's position,
+
+806
+00:38:42,310 --> 00:38:44,230
+we're only updating its velocity.
+
+807
+00:38:44,230 --> 00:38:46,630
+If it comes in at the
+right angle from the side,
+
+808
+00:38:46,630 --> 00:38:50,101
+it's going to get
+stuck inside the paddle
+
+809
+00:38:50,101 --> 00:38:52,600
+and then it's going to cause a
+little bit of funky behavior.
+
+810
+00:38:52,600 --> 00:38:55,690
+I'll try and see if I can make that
+happen in my demonstration here.
+
+811
+00:38:55,690 --> 00:38:58,300
+But that's the gist of
+all of these updates.
+
+812
+00:38:58,300 --> 00:39:02,620
+So if we go to Start, we can
+see immediately we have a ball.
+
+813
+00:39:02,620 --> 00:39:05,999
+And when it hits the sides or
+the top, it bounces accordingly.
+
+814
+00:39:05,999 --> 00:39:06,790
+It hits the paddle.
+
+815
+00:39:06,790 --> 00:39:11,420
+So when it comes in from the top flush
+on the top, it flips the Y velocity.
+
+816
+00:39:11,420 --> 00:39:14,620
+Let's see if I can get
+it at an angle here.
+
+817
+00:39:14,620 --> 00:39:15,520
+There it is.
+
+818
+00:39:15,520 --> 00:39:17,150
+It'll get stuck.
+
+819
+00:39:17,150 --> 00:39:22,120
+And so whenever you sort of do
+A, A, B, B collision detection,
+
+820
+00:39:22,120 --> 00:39:25,810
+just remember to always reset
+the position of whatever it
+
+821
+00:39:25,810 --> 00:39:29,020
+is that collided that's
+moving so that it doesn't clip
+
+822
+00:39:29,020 --> 00:39:31,611
+and get stuck inside of something
+else over and over again.
+
+823
+00:39:31,611 --> 00:39:32,110
+Yes.
+
+824
+00:39:32,110 --> 00:39:42,190
+AUDIENCE: [INAUDIBLE]
+
+825
+00:39:42,190 --> 00:39:45,610
+COLTON OGDEN: The question is
+I'm always doing love space dot,
+
+826
+00:39:45,610 --> 00:39:50,050
+and as opposed to just
+running things from using
+
+827
+00:39:50,050 --> 00:39:55,030
+the complete path of whatever the file
+is, in order to do that-- so are you
+
+828
+00:39:55,030 --> 00:39:56,320
+on a Mac or a Windows machine?
+
+829
+00:39:56,320 --> 00:39:57,450
+AUDIENCE: [INAUDIBLE]
+
+830
+00:39:57,450 --> 00:40:01,780
+COLTON OGDEN: So on a Windows
+machine it is a little trickier,
+
+831
+00:40:01,780 --> 00:40:07,390
+but I've found a really nice
+sort of plug-in for VS Code.
+
+832
+00:40:07,390 --> 00:40:11,650
+So if you're VS Code, which is the
+editor that I use, it has plug-ins
+
+833
+00:40:11,650 --> 00:40:14,830
+and one of the plug-ins that
+you can download is for Love2D
+
+834
+00:40:14,830 --> 00:40:19,210
+and it has a config where
+if you just press Alt L,
+
+835
+00:40:19,210 --> 00:40:22,240
+it will run whatever
+directory you're currently in,
+
+836
+00:40:22,240 --> 00:40:24,260
+whatever project you're currently in.
+
+837
+00:40:24,260 --> 00:40:25,780
+It will call Love.
+
+838
+00:40:25,780 --> 00:40:27,470
+It adds it to your path for you.
+
+839
+00:40:27,470 --> 00:40:31,810
+So download the Love2D plug-in on
+VS code if you want that to work.
+
+840
+00:40:31,810 --> 00:40:34,990
+I'm on a Mac, so I can edit
+what's called my batch profile,
+
+841
+00:40:34,990 --> 00:40:40,970
+and alias Love to its complete
+path in my file system.
+
+842
+00:40:40,970 --> 00:40:43,880
+And you can do the same thing with--
+
+843
+00:40:43,880 --> 00:40:48,280
+I don't know how it would work
+with Windows in terms of aliasing,
+
+844
+00:40:48,280 --> 00:40:52,540
+but it's essentially the same thing
+as typing out the entire path to Love,
+
+845
+00:40:52,540 --> 00:40:55,120
+but only I'm changing
+it to another word.
+
+846
+00:40:55,120 --> 00:40:56,790
+I'm changing it to Love.
+
+847
+00:40:56,790 --> 00:40:59,680
+So I'm setting Love equals
+to application slash
+
+848
+00:40:59,680 --> 00:41:02,870
+love.app/content/resources et cetera.
+
+849
+00:41:02,870 --> 00:41:04,150
+So good question.
+
+850
+00:41:04,150 --> 00:41:05,560
+I would download on Windows.
+
+851
+00:41:05,560 --> 00:41:07,720
+I'm a big fan of VS Code
+and the Love2D plug-in.
+
+852
+00:41:07,720 --> 00:41:09,427
+I would recommend looking into that.
+
+853
+00:41:09,427 --> 00:41:12,010
+And I'm sure there are other
+plug-ins, and there's a page also
+
+854
+00:41:12,010 --> 00:41:13,611
+on the website--
+
+855
+00:41:13,611 --> 00:41:15,360
+I don't have a browser
+open at the moment.
+
+856
+00:41:15,360 --> 00:41:19,330
+But on the wiki, you can look
+at the Getting Started page.
+
+857
+00:41:19,330 --> 00:41:21,606
+I believe it's like
+love2d.com/wiki/gettingstarted.
+
+858
+00:41:21,606 --> 00:41:23,980
+They have a bunch of instructions
+for different operating
+
+859
+00:41:23,980 --> 00:41:26,521
+systems and different text
+editors that allow you to get sort
+
+860
+00:41:26,521 --> 00:41:29,750
+of a more efficient workflow going.
+
+861
+00:41:29,750 --> 00:41:34,590
+So any other questions?
+
+862
+00:41:34,590 --> 00:41:35,580
+All right.
+
+863
+00:41:35,580 --> 00:41:38,130
+So we did the bounce update.
+
+864
+00:41:38,130 --> 00:41:40,780
+Now we can finally edit the bricks.
+
+865
+00:41:40,780 --> 00:41:42,420
+Add in the bricks, I should say.
+
+866
+00:41:42,420 --> 00:41:44,880
+So these are pretty simple.
+
+867
+00:41:44,880 --> 00:41:47,264
+So we're going to take a look at it.
+
+868
+00:41:47,264 --> 00:41:50,430
+And right now we're not going to do any
+sort of fancy procedural generation,
+
+869
+00:41:50,430 --> 00:41:52,980
+we're just going to get
+some bricks on the screen.
+
+870
+00:41:52,980 --> 00:41:55,509
+Just some easy bricks.
+
+871
+00:41:55,509 --> 00:41:58,050
+Or rather, we will get some very
+basic procedural generation,
+
+872
+00:41:58,050 --> 00:41:59,758
+but not to the level
+that we'll see soon.
+
+873
+00:41:59,758 --> 00:42:01,660
+We'll see that very soon.
+
+874
+00:42:01,660 --> 00:42:02,160
+OK.
+
+875
+00:42:02,160 --> 00:42:05,940
+So I'm going to go
+into my main.lua here.
+
+876
+00:42:05,940 --> 00:42:08,400
+I'm going to go into the Breakout3.
+
+877
+00:42:12,250 --> 00:42:15,310
+And same thing that we
+did before on line 67,
+
+878
+00:42:15,310 --> 00:42:19,920
+we just have a new bricks
+table in our gframes.
+
+879
+00:42:19,920 --> 00:42:21,640
+And it just generate quads bricks.
+
+880
+00:42:21,640 --> 00:42:25,840
+We call from util.lua, so we can
+look at that really quick as well.
+
+881
+00:42:25,840 --> 00:42:28,270
+This one's actually really easy.
+
+882
+00:42:28,270 --> 00:42:30,310
+Sourceutil.lua.
+
+883
+00:42:30,310 --> 00:42:33,790
+Because they start at the
+very top of the screen,
+
+884
+00:42:33,790 --> 00:42:37,720
+we can assume that--
+we could effectively
+
+885
+00:42:37,720 --> 00:42:40,270
+treat this whole thing
+as if it were just these
+
+886
+00:42:40,270 --> 00:42:43,720
+and just generate quads at
+a constant width and height
+
+887
+00:42:43,720 --> 00:42:47,530
+because, effectively, we only need a
+subset of the frames that's generating.
+
+888
+00:42:47,530 --> 00:42:52,130
+Because it's generating them this
+way, top to bottom, left to right,
+
+889
+00:42:52,130 --> 00:42:55,500
+we can just grab all
+the way up to here using
+
+890
+00:42:55,500 --> 00:42:59,020
+table.slice, which we
+saw before, and not
+
+891
+00:42:59,020 --> 00:43:01,720
+worry about indexing
+into any weird, like,
+
+892
+00:43:01,720 --> 00:43:04,450
+having any constants X and Y that
+we need to index with in order
+
+893
+00:43:04,450 --> 00:43:05,620
+to get an offset.
+
+894
+00:43:05,620 --> 00:43:07,730
+We can just do a very simple--
+
+895
+00:43:07,730 --> 00:43:15,460
+if we go down to line 57, generate quads
+bricks, it just does a table.slice.
+
+896
+00:43:15,460 --> 00:43:19,400
+And so within that, we're going
+to generate quads atlas 32,16.
+
+897
+00:43:19,400 --> 00:43:23,440
+So this is going to have the effect
+of dividing up our sprite sheet by 32
+
+898
+00:43:23,440 --> 00:43:24,730
+by 16 pieces.
+
+899
+00:43:24,730 --> 00:43:27,010
+It's going to generate
+all of these just fine,
+
+900
+00:43:27,010 --> 00:43:30,076
+but then it's going to have quads
+here, here, here, here, here
+
+901
+00:43:30,076 --> 00:43:32,200
+that don't line up with
+the quads that you see here
+
+902
+00:43:32,200 --> 00:43:36,889
+because it's just blindly assuming
+that all of the sprites in that sheet
+
+903
+00:43:36,889 --> 00:43:38,930
+are the same size because
+that's all we're doing.
+
+904
+00:43:38,930 --> 00:43:41,410
+We're just calling generate
+quads, which if you recall,
+
+905
+00:43:41,410 --> 00:43:46,300
+just generates a fixed size width and
+height throughout our entire atlas,
+
+906
+00:43:46,300 --> 00:43:49,290
+which is great for a lot of
+sheets that are symmetrical,
+
+907
+00:43:49,290 --> 00:43:52,270
+but there are cases where we have,
+like, for example here, where
+
+908
+00:43:52,270 --> 00:43:53,929
+our spreadsheet is asymmetrical.
+
+909
+00:43:53,929 --> 00:43:55,720
+We have paddles of
+differing sizes, we have
+
+910
+00:43:55,720 --> 00:43:58,011
+the balls which are eight by
+eight, we have the bricks,
+
+911
+00:43:58,011 --> 00:44:01,840
+we have the other power
+ups at the bottom.
+
+912
+00:44:01,840 --> 00:44:05,920
+But the generate quads
+bricks takes in that table
+
+913
+00:44:05,920 --> 00:44:08,769
+that we're generating, which is
+going to be a bunch of frames
+
+914
+00:44:08,769 --> 00:44:09,560
+that we don't want.
+
+915
+00:44:09,560 --> 00:44:11,650
+Many of them clipped, half clipped.
+
+916
+00:44:11,650 --> 00:44:14,120
+And then we're just going
+to take it from one to 21.
+
+917
+00:44:14,120 --> 00:44:18,500
+And when we do that, one to 21 is
+effectively-- that's how many of these
+
+918
+00:44:18,500 --> 00:44:19,000
+there are.
+
+919
+00:44:19,000 --> 00:44:22,270
+So 18 and then one, two, three.
+
+920
+00:44:22,270 --> 00:44:24,434
+So from one to 21, all of those.
+
+921
+00:44:24,434 --> 00:44:25,600
+That will be all the bricks.
+
+922
+00:44:25,600 --> 00:44:28,270
+We can throw away all
+the rest of the quads
+
+923
+00:44:28,270 --> 00:44:33,310
+and just blindly assume that
+they're all the same size.
+
+924
+00:44:36,450 --> 00:44:41,090
+So any questions on how quads or
+how any of these tables are working?
+
+925
+00:44:41,090 --> 00:44:41,590
+OK.
+
+926
+00:44:44,075 --> 00:44:45,200
+So we're going to go ahead.
+
+927
+00:44:45,200 --> 00:44:47,200
+We have a new class now, brick.lua.
+
+928
+00:44:49,750 --> 00:44:52,600
+So simple building blocks.
+
+929
+00:44:52,600 --> 00:44:57,160
+In brick.lua on line 30, we
+have a flag called in play.
+
+930
+00:44:57,160 --> 00:44:58,574
+self.inplay gets true.
+
+931
+00:44:58,574 --> 00:45:00,490
+And so we're just going
+to use this to render.
+
+932
+00:45:00,490 --> 00:45:02,800
+We're just going to say,
+if it's in play, render it.
+
+933
+00:45:02,800 --> 00:45:04,160
+If it's not, don't render it.
+
+934
+00:45:04,160 --> 00:45:04,869
+It's that simple.
+
+935
+00:45:04,869 --> 00:45:08,035
+That way we don't have to worry about
+object deallocation or anything fancy.
+
+936
+00:45:08,035 --> 00:45:10,270
+We have all of our bricks
+and whether it's in play
+
+937
+00:45:10,270 --> 00:45:12,310
+or not, render it or
+perform update logic.
+
+938
+00:45:12,310 --> 00:45:14,980
+And if it's not in play, just
+pretend it doesn't exist.
+
+939
+00:45:14,980 --> 00:45:17,560
+Just ignore it.
+
+940
+00:45:17,560 --> 00:45:21,220
+We're only going to have like
+30 or I don't know how many,
+
+941
+00:45:21,220 --> 00:45:26,860
+13 max by four bricks in our scene at
+once, so worrying about freeing memory
+
+942
+00:45:26,860 --> 00:45:28,070
+isn't really an issue.
+
+943
+00:45:28,070 --> 00:45:34,150
+But if you have a million different
+things getting generated all the time,
+
+944
+00:45:34,150 --> 00:45:37,480
+having simple in play is
+false might not always
+
+945
+00:45:37,480 --> 00:45:40,730
+be viable because you need to store
+all that memory for all those objects.
+
+946
+00:45:40,730 --> 00:45:44,920
+So just a shortcut here,
+but not necessarily best
+
+947
+00:45:44,920 --> 00:45:47,080
+practice for very large games.
+
+948
+00:45:47,080 --> 00:45:49,870
+But certainly great and
+simple for small games.
+
+949
+00:45:53,340 --> 00:45:56,350
+On line 37, we define a
+function called brick hit.
+
+950
+00:45:56,350 --> 00:46:00,520
+And all this does is just play a
+sound effect and set in play to false.
+
+951
+00:46:00,520 --> 00:46:03,430
+And so all we're going
+to do is just check
+
+952
+00:46:03,430 --> 00:46:06,940
+to see whether there's a collision
+and then just call this hit function,
+
+953
+00:46:06,940 --> 00:46:10,990
+play a sound, and then just
+pretend it doesn't exist anymore.
+
+954
+00:46:10,990 --> 00:46:15,010
+And then render, all render does is if
+it's in play, check the in play flag,
+
+955
+00:46:15,010 --> 00:46:23,425
+draw main at bricks or using our
+bricks table here that we created.
+
+956
+00:46:23,425 --> 00:46:25,300
+And then we're going to
+start at one and then
+
+957
+00:46:25,300 --> 00:46:30,020
+we're going to index it based on
+our color minus one times four,
+
+958
+00:46:30,020 --> 00:46:31,630
+and then we're going to add it's tier.
+
+959
+00:46:31,630 --> 00:46:36,490
+So there are, if you recall,
+one, two, three, four,
+
+960
+00:46:36,490 --> 00:46:41,380
+five colors and four tiers.
+
+961
+00:46:41,380 --> 00:46:44,380
+And so what we're going to do is we're
+going to jump between the colors.
+
+962
+00:46:44,380 --> 00:46:49,840
+So we'll go value one, value two,
+value three, value four, value five.
+
+963
+00:46:49,840 --> 00:46:52,450
+That will be our first
+five or I guess six.
+
+964
+00:46:52,450 --> 00:46:55,690
+That will be our first six bricks.
+
+965
+00:46:55,690 --> 00:46:59,099
+And then we're going to go one,
+two, three-- or we're going to add,
+
+966
+00:46:59,099 --> 00:47:00,640
+we're going to have a tier basically.
+
+967
+00:47:00,640 --> 00:47:04,030
+It'll be one, two, three, or four.
+
+968
+00:47:04,030 --> 00:47:07,780
+And if it's at tier one,
+then we can just add--
+
+969
+00:47:07,780 --> 00:47:10,000
+basically to index into
+whatever tier we're on,
+
+970
+00:47:10,000 --> 00:47:13,870
+we just need to add tier minus
+one to whatever our index is.
+
+971
+00:47:13,870 --> 00:47:17,050
+So here if our tier is one, then
+we just want to render this block.
+
+972
+00:47:17,050 --> 00:47:18,550
+We don't want to go to the next one.
+
+973
+00:47:18,550 --> 00:47:20,299
+So we're just going
+to say tier minus one.
+
+974
+00:47:20,299 --> 00:47:22,250
+We're going to add--
+
+975
+00:47:22,250 --> 00:47:23,922
+so one minus one is zero.
+
+976
+00:47:23,922 --> 00:47:25,630
+So we're going at zero
+to this, get this.
+
+977
+00:47:25,630 --> 00:47:29,860
+But if tiers two, we'll add
+one, and two, and three.
+
+978
+00:47:29,860 --> 00:47:34,750
+And then we just multiply whatever
+brick we want by our color.
+
+979
+00:47:34,750 --> 00:47:40,540
+Multiply it by four to get an offset
+for whatever our actual color is.
+
+980
+00:47:40,540 --> 00:47:43,210
+So we take our color, figure
+out where on the sheet it is,
+
+981
+00:47:43,210 --> 00:47:46,180
+and then just add our tier
+to it in order to index
+
+982
+00:47:46,180 --> 00:47:49,580
+into our spreadsheet accordingly.
+
+983
+00:47:49,580 --> 00:47:52,900
+And so that's what the
+math here is doing.
+
+984
+00:47:52,900 --> 00:47:56,285
+And if we go back to our PlayState--
+
+985
+00:48:02,050 --> 00:48:04,880
+and I'm going to start
+moving a little bit faster
+
+986
+00:48:04,880 --> 00:48:06,590
+just so we can keep caught up.
+
+987
+00:48:06,590 --> 00:48:10,700
+But in our PlayState, one
+thing that we notice here,
+
+988
+00:48:10,700 --> 00:48:13,820
+we have a new class called
+level maker that we're seeing,
+
+989
+00:48:13,820 --> 00:48:15,530
+which was a function called createmap.
+
+990
+00:48:15,530 --> 00:48:17,930
+We're going to take out all the
+logic for generating our levels
+
+991
+00:48:17,930 --> 00:48:19,370
+and we're just going
+to put it in one place.
+
+992
+00:48:19,370 --> 00:48:20,911
+We're going to call that level maker.
+
+993
+00:48:20,911 --> 00:48:24,170
+Rather than in our
+different states that maybe
+
+994
+00:48:24,170 --> 00:48:26,630
+generate the bricks
+like the PlayState or I
+
+995
+00:48:26,630 --> 00:48:30,680
+guess it would be the
+ServeState, VictoryState,
+
+996
+00:48:30,680 --> 00:48:33,470
+I guess, rather than
+generating all the bricks
+
+997
+00:48:33,470 --> 00:48:37,610
+in that state within it's innate
+code, let's just make a level maker
+
+998
+00:48:37,610 --> 00:48:41,750
+and we can just say, OK, set
+bricks to levelmaker.createmap,
+
+999
+00:48:41,750 --> 00:48:46,840
+which will return a table of bricks.
+
+1000
+00:48:46,840 --> 00:48:51,110
+Same-- excuse me--
+logic as we saw before.
+
+1001
+00:48:51,110 --> 00:48:53,510
+In this case, we're just
+going to iterate for k brick
+
+1002
+00:48:53,510 --> 00:48:57,050
+in pairs of self.bricks.
+
+1003
+00:48:57,050 --> 00:49:00,710
+If the brick's in play and it
+collides, if the ball collides with it,
+
+1004
+00:49:00,710 --> 00:49:02,730
+then hit it, which will
+set it not into play.
+
+1005
+00:49:02,730 --> 00:49:08,030
+So simple A, A, B, B.
+
+1006
+00:49:08,030 --> 00:49:10,550
+And then lastly, we have
+our render logic here,
+
+1007
+00:49:10,550 --> 00:49:13,805
+which is going to take that bricks
+table and just iterate over it.
+
+1008
+00:49:13,805 --> 00:49:15,680
+And the last thing we
+should probably look at
+
+1009
+00:49:15,680 --> 00:49:18,921
+is the actual level maker itself,
+which in this case is very simple,
+
+1010
+00:49:18,921 --> 00:49:21,920
+but we'll see it gets a little bit
+more complicated later when we do it.
+
+1011
+00:49:21,920 --> 00:49:26,516
+When we have a more elaborate procedural
+generation approach to our levels.
+
+1012
+00:49:26,516 --> 00:49:29,390
+But right now, we're just going to
+say set two random variables here.
+
+1013
+00:49:29,390 --> 00:49:31,040
+Number of rows and columns.
+
+1014
+00:49:31,040 --> 00:49:37,670
+And then for every row or for
+basically every row and every column,
+
+1015
+00:49:37,670 --> 00:49:40,280
+create a new brick.
+
+1016
+00:49:40,280 --> 00:49:41,810
+And then there's some math here.
+
+1017
+00:49:41,810 --> 00:49:43,934
+I'm going to kind of skim
+over it, but basically it
+
+1018
+00:49:43,934 --> 00:49:46,970
+calculates where the
+brick is and then gives us
+
+1019
+00:49:46,970 --> 00:49:50,510
+eight pixels of padding on either side.
+
+1020
+00:49:50,510 --> 00:49:53,145
+And then based on how many
+it is, it needs to center all
+
+1021
+00:49:53,145 --> 00:49:55,520
+the bricks and shift them by
+a certain amount to the left
+
+1022
+00:49:55,520 --> 00:49:57,080
+and then start drawing all of them.
+
+1023
+00:49:57,080 --> 00:49:59,270
+And that's essentially
+what this code does here.
+
+1024
+00:49:59,270 --> 00:50:01,580
+So calculate the center.
+
+1025
+00:50:01,580 --> 00:50:03,680
+I wrote it out in comments
+here, but I'm going
+
+1026
+00:50:03,680 --> 00:50:05,600
+just kind of glaze over it for now.
+
+1027
+00:50:05,600 --> 00:50:08,330
+But effectively, center all the bricks.
+
+1028
+00:50:08,330 --> 00:50:12,380
+Basically calculate what offset on
+the X-axis you need to put all of them
+
+1029
+00:50:12,380 --> 00:50:16,850
+so that they appear centered, and then
+you're going to draw them all out.
+
+1030
+00:50:16,850 --> 00:50:20,630
+And then that's it for
+the level maker class.
+
+1031
+00:50:20,630 --> 00:50:24,800
+So simply number of rows and columns,
+and then fill a table with bricks
+
+1032
+00:50:24,800 --> 00:50:28,392
+but set their X equal to however
+much we need to center all
+
+1033
+00:50:28,392 --> 00:50:29,850
+of them when they're all drawn out.
+
+1034
+00:50:29,850 --> 00:50:32,850
+So we need to figure, we need to
+basically take in our number of columns
+
+1035
+00:50:32,850 --> 00:50:34,430
+into account when we do that.
+
+1036
+00:50:34,430 --> 00:50:43,560
+And then if we go into Breakout3
+and run that, we have bricks.
+
+1037
+00:50:43,560 --> 00:50:47,130
+They're getting collided with,
+and as soon as they get hit,
+
+1038
+00:50:47,130 --> 00:50:51,390
+collided are in play on each of
+those bricks gets set to false
+
+1039
+00:50:51,390 --> 00:50:52,770
+and they no longer get rendered.
+
+1040
+00:50:52,770 --> 00:50:55,830
+And they no longer get
+updated in terms of collision.
+
+1041
+00:50:55,830 --> 00:50:58,470
+Now, we still have the issue
+with the ball not getting reset.
+
+1042
+00:50:58,470 --> 00:50:59,140
+We'll fix that.
+
+1043
+00:50:59,140 --> 00:51:01,034
+That's an easy fix.
+
+1044
+00:51:01,034 --> 00:51:02,200
+But we're coming a long way.
+
+1045
+00:51:02,200 --> 00:51:04,880
+We have things moving at quite a pace.
+
+1046
+00:51:04,880 --> 00:51:08,039
+I'm going to go ahead and move
+to the next bit of code here.
+
+1047
+00:51:08,039 --> 00:51:09,330
+So this is another bit of code.
+
+1048
+00:51:09,330 --> 00:51:12,450
+I'm going to sort of glaze over
+a little bit of the details here.
+
+1049
+00:51:12,450 --> 00:51:16,380
+But at a high level what we
+need to do is it's one thing
+
+1050
+00:51:16,380 --> 00:51:18,840
+to detect that we've
+collided with a brick,
+
+1051
+00:51:18,840 --> 00:51:21,990
+but in Breakout, the ball
+bounces off of the brick
+
+1052
+00:51:21,990 --> 00:51:23,580
+depending on which side it hits.
+
+1053
+00:51:23,580 --> 00:51:27,780
+And we don't know this necessarily
+just based off of the collision.
+
+1054
+00:51:27,780 --> 00:51:29,920
+We just know whether the
+collision is true or not.
+
+1055
+00:51:29,920 --> 00:51:34,260
+We don't know where it came from
+and how much it collided with.
+
+1056
+00:51:34,260 --> 00:51:37,860
+And then we're also going to fix our
+paddles so that rather than-- because
+
+1057
+00:51:37,860 --> 00:51:40,790
+currently all it does is just
+negate whatever the Y velocity is,
+
+1058
+00:51:40,790 --> 00:51:43,230
+but we want to add a
+little bit more variety
+
+1059
+00:51:43,230 --> 00:51:47,895
+to how we end up sort of ricocheting
+the ball off the paddle when we play
+
+1060
+00:51:47,895 --> 00:51:50,190
+so that we can sort of
+strategize a little bit,
+
+1061
+00:51:50,190 --> 00:51:51,550
+give ourselves a little
+bit of game play.
+
+1062
+00:51:51,550 --> 00:51:54,300
+So if we are moving to the right and
+we hit the right edge of the puddle
+
+1063
+00:51:54,300 --> 00:51:56,800
+with the ball, it should probably
+go in a sharper direction.
+
+1064
+00:51:56,800 --> 00:51:58,330
+Same thing with the left side.
+
+1065
+00:51:58,330 --> 00:52:01,320
+And we can effectively do
+that by taking the middle,
+
+1066
+00:52:01,320 --> 00:52:03,630
+figuring out how far away
+from the center it is,
+
+1067
+00:52:03,630 --> 00:52:08,430
+and then just amplifying our delta X
+in the negative or positive direction
+
+1068
+00:52:08,430 --> 00:52:09,510
+based off of that.
+
+1069
+00:52:09,510 --> 00:52:13,390
+And that has the effect
+of causing that to happen.
+
+1070
+00:52:13,390 --> 00:52:18,090
+So here we can see we have the
+ball sort of coming at the paddle,
+
+1071
+00:52:18,090 --> 00:52:21,270
+and let's pretend that the
+paddle is moving to the left.
+
+1072
+00:52:21,270 --> 00:52:24,930
+In this case, however far away
+the ball is from the center,
+
+1073
+00:52:24,930 --> 00:52:27,390
+we want to scale that
+by some amount and then
+
+1074
+00:52:27,390 --> 00:52:32,970
+end up making that our negative
+delta X, because that's effectively
+
+1075
+00:52:32,970 --> 00:52:34,650
+how the game normally works.
+
+1076
+00:52:34,650 --> 00:52:36,692
+If you move the paddle
+to the left or the right,
+
+1077
+00:52:36,692 --> 00:52:39,150
+hit it on a corner or something,
+gives it that sharp angle.
+
+1078
+00:52:39,150 --> 00:52:41,108
+And that's effectively
+what the sharp angle is.
+
+1079
+00:52:41,108 --> 00:52:44,350
+It's just a strong delta X, and it
+gets amplified the larger this is.
+
+1080
+00:52:44,350 --> 00:52:47,040
+So just basically take this,
+multiply it by some amount,
+
+1081
+00:52:47,040 --> 00:52:50,220
+and then make it negative
+or positive on your dx.
+
+1082
+00:52:50,220 --> 00:52:56,730
+That's your sort of paddle collision V2.
+
+1083
+00:52:56,730 --> 00:53:00,630
+Brick collision is a little bit--
+
+1084
+00:53:00,630 --> 00:53:03,340
+it's pretty simple, but it's
+a little bit more complicated.
+
+1085
+00:53:03,340 --> 00:53:06,900
+Basically what we need to do is just
+check and see which edge of the ball
+
+1086
+00:53:06,900 --> 00:53:09,630
+isn't inside the brick.
+
+1087
+00:53:09,630 --> 00:53:12,000
+And so if the left edge of
+the-- and we can also sort of
+
+1088
+00:53:12,000 --> 00:53:13,290
+simplify this a little bit.
+
+1089
+00:53:13,290 --> 00:53:15,500
+If the left-- as you see
+here by the pseudocode--
+
+1090
+00:53:15,500 --> 00:53:20,140
+if the left edge of the ball is outside
+the brick and the dx is positive,
+
+1091
+00:53:20,140 --> 00:53:22,440
+then we can say, oh,
+we can basically assume
+
+1092
+00:53:22,440 --> 00:53:25,590
+we've come in from the left
+side, so we should probably
+
+1093
+00:53:25,590 --> 00:53:30,120
+go in the opposite Y
+direction on the left side.
+
+1094
+00:53:30,120 --> 00:53:35,310
+Or sorry, we should go in the same
+Y direction, but negate our delta
+
+1095
+00:53:35,310 --> 00:53:38,730
+X. Because we're coming
+in from the left,
+
+1096
+00:53:38,730 --> 00:53:42,907
+the left side is outside the
+brick, so bounce it back.
+
+1097
+00:53:42,907 --> 00:53:44,490
+And the same thing for the right edge.
+
+1098
+00:53:44,490 --> 00:53:48,300
+And we only do this test, the left
+edge of the ball, if dx is positive.
+
+1099
+00:53:48,300 --> 00:53:50,130
+Because if dx is
+negative, there's no way
+
+1100
+00:53:50,130 --> 00:53:52,590
+the ball's colliding with
+the left side of our brick.
+
+1101
+00:53:52,590 --> 00:53:54,379
+So we can shortcut that effectively.
+
+1102
+00:53:54,379 --> 00:53:56,670
+We do the same exact logic
+here, just on the right edge
+
+1103
+00:53:56,670 --> 00:53:59,460
+of the brick instead of the left edge.
+
+1104
+00:53:59,460 --> 00:54:01,230
+And then if none of
+those hold true, we're
+
+1105
+00:54:01,230 --> 00:54:06,570
+going to see if the top edge of the
+ball is above the top edge of the brick.
+
+1106
+00:54:06,570 --> 00:54:09,290
+And if that's the case, we know
+that we've hit from the top.
+
+1107
+00:54:09,290 --> 00:54:10,740
+We can trigger a top collision.
+
+1108
+00:54:10,740 --> 00:54:12,600
+And if none of those
+have held true, we know
+
+1109
+00:54:12,600 --> 00:54:14,970
+that we have had a
+collision of some kind,
+
+1110
+00:54:14,970 --> 00:54:18,440
+we can just register a bottom collision.
+
+1111
+00:54:18,440 --> 00:54:23,130
+And so this is a simple
+version of this sort
+
+1112
+00:54:23,130 --> 00:54:25,290
+of way of doing Breakout collision.
+
+1113
+00:54:25,290 --> 00:54:27,604
+It has a few faults when
+it comes to corners,
+
+1114
+00:54:27,604 --> 00:54:29,520
+sometimes corners can
+be a little bit finicky,
+
+1115
+00:54:29,520 --> 00:54:31,680
+but I would say it
+works 99% of the time.
+
+1116
+00:54:31,680 --> 00:54:37,170
+For a much more robust and a better
+example, I would look at this URL
+
+1117
+00:54:37,170 --> 00:54:40,050
+here because he also goes
+into a full sort of breakdown
+
+1118
+00:54:40,050 --> 00:54:43,230
+of how he would implement arkanoid,
+which is the same thing effectively
+
+1119
+00:54:43,230 --> 00:54:46,050
+as Breakout if you just want
+an alternative look at it.
+
+1120
+00:54:46,050 --> 00:54:50,220
+But basically, his solution involved
+taking how much the X and the Y
+
+1121
+00:54:50,220 --> 00:54:54,570
+differed on different points of
+the bricks relative to the ball.
+
+1122
+00:54:54,570 --> 00:54:58,680
+And I believe he also kept the ball
+as an actual ball with a center point,
+
+1123
+00:54:58,680 --> 00:55:04,420
+even though he rendered
+it as a rectangle.
+
+1124
+00:55:04,420 --> 00:55:05,820
+So it's a little bit more robust.
+
+1125
+00:55:05,820 --> 00:55:09,090
+I decided to implement it a
+simpler way, which I'll showcase,
+
+1126
+00:55:09,090 --> 00:55:12,240
+which is the way that I
+demonstrated because it worked well
+
+1127
+00:55:12,240 --> 00:55:15,600
+and it wasn't too much
+code to sort of look over.
+
+1128
+00:55:15,600 --> 00:55:17,580
+But I do encourage you
+to take a look at that.
+
+1129
+00:55:17,580 --> 00:55:19,860
+We're going to look at our
+PlayState now in Breakout4.
+
+1130
+00:55:26,880 --> 00:55:28,965
+And in our PlayState,
+we're going to see--
+
+1131
+00:55:32,560 --> 00:55:33,460
+sorry.
+
+1132
+00:55:33,460 --> 00:55:35,470
+Line 65.
+
+1133
+00:55:35,470 --> 00:55:43,830
+So this is the actual paddle code
+for influencing the ball's delta X.
+
+1134
+00:55:43,830 --> 00:55:53,700
+So basically, if the ball.x is less than
+the paddle.x plus it's width divided
+
+1135
+00:55:53,700 --> 00:55:58,500
+by two, so basically on the
+left side of the paddle,
+
+1136
+00:55:58,500 --> 00:56:02,040
+and the paddle's delta X is less than
+zero, which means it's moving left--
+
+1137
+00:56:02,040 --> 00:56:04,956
+because we don't really want to
+necessarily influence it if we're just
+
+1138
+00:56:04,956 --> 00:56:05,889
+standing still--
+
+1139
+00:56:05,889 --> 00:56:07,680
+we're going to do what
+I described earlier.
+
+1140
+00:56:07,680 --> 00:56:11,490
+We're going to give it some
+scaler, like some start off value.
+
+1141
+00:56:11,490 --> 00:56:15,210
+In this case, negative 50 is just
+sort of seeding this, giving it
+
+1142
+00:56:15,210 --> 00:56:18,090
+some sort of initial value.
+
+1143
+00:56:18,090 --> 00:56:24,470
+And then we're just going to subtract
+the ball's X from the middle point.
+
+1144
+00:56:24,470 --> 00:56:26,892
+This being the middle
+point of the paddle
+
+1145
+00:56:26,892 --> 00:56:28,350
+And then just multiply it by eight.
+
+1146
+00:56:28,350 --> 00:56:31,980
+So whatever the difference is
+between the ball's X and the middle
+
+1147
+00:56:31,980 --> 00:56:34,080
+of the paddle, multiply it by eight.
+
+1148
+00:56:34,080 --> 00:56:36,720
+Add it to negative 50
+and then negate that.
+
+1149
+00:56:36,720 --> 00:56:40,560
+Also negate that whole value so that
+the whole entire value becomes negative.
+
+1150
+00:56:40,560 --> 00:56:44,880
+And we, therefore, get a sharper
+delta X depending on which angle
+
+1151
+00:56:44,880 --> 00:56:46,980
+it's coming at, and also how fast--
+
+1152
+00:56:46,980 --> 00:56:50,250
+or not how fast, but whether
+or not we are moving left.
+
+1153
+00:56:50,250 --> 00:56:53,970
+And it's the exact same
+thing on the right side.
+
+1154
+00:56:53,970 --> 00:56:58,050
+Only because we're taking
+this math, this self.paddle.x
+
+1155
+00:56:58,050 --> 00:57:02,655
+plus self.paddle.width divided
+by two minus the ball.x,
+
+1156
+00:57:02,655 --> 00:57:05,320
+the ball.x isn't going to
+be greater than that point.
+
+1157
+00:57:05,320 --> 00:57:07,360
+So this value is actually
+going to be negative.
+
+1158
+00:57:07,360 --> 00:57:09,660
+So we're going to just make
+it positive with math.abs.
+
+1159
+00:57:09,660 --> 00:57:10,730
+So absolute value.
+
+1160
+00:57:10,730 --> 00:57:12,330
+Just a lua function.
+
+1161
+00:57:12,330 --> 00:57:14,820
+So the absolute value of the
+difference between the ball's
+
+1162
+00:57:14,820 --> 00:57:19,530
+X and the middle point
+times eight, add it to 50,
+
+1163
+00:57:19,530 --> 00:57:23,580
+and that'll give us a positive value
+that scales depending on whether or not
+
+1164
+00:57:23,580 --> 00:57:27,030
+we've hit the middle of the, we've
+hit the right edge of the paddle
+
+1165
+00:57:27,030 --> 00:57:28,700
+and are moving to the right.
+
+1166
+00:57:28,700 --> 00:57:33,450
+And so that's, in a nutshell, how we get
+that collision to work with the paddle
+
+1167
+00:57:33,450 --> 00:57:36,630
+and how we can tweak delta X
+to be scaled a little bit more
+
+1168
+00:57:36,630 --> 00:57:40,920
+than just a constant, you
+know, negative or whatever
+
+1169
+00:57:40,920 --> 00:57:43,020
+it's current X was, but negative dy.
+
+1170
+00:57:43,020 --> 00:57:45,900
+A little bit more complicated.
+
+1171
+00:57:45,900 --> 00:57:50,610
+And then the actual
+collision code for the bricks
+
+1172
+00:57:50,610 --> 00:57:53,110
+themselves is going to take
+place in a for loop here.
+
+1173
+00:57:53,110 --> 00:57:58,270
+So if it's in play, if the
+ball collides with it, hit it.
+
+1174
+00:57:58,270 --> 00:57:59,640
+So I added plus two.
+
+1175
+00:57:59,640 --> 00:58:05,520
+So the gist of the math is if
+ball.x is less than brick.x
+
+1176
+00:58:05,520 --> 00:58:09,300
+and the ball is moving to the right,
+self.ball.dx is greater than zero,
+
+1177
+00:58:09,300 --> 00:58:10,590
+then flip it's X velocity.
+
+1178
+00:58:10,590 --> 00:58:11,850
+So bounce it to the left.
+
+1179
+00:58:11,850 --> 00:58:13,560
+That's what this check is.
+
+1180
+00:58:13,560 --> 00:58:15,785
+But it plays a little
+bit rough with corners
+
+1181
+00:58:15,785 --> 00:58:17,910
+because you could theoretically
+get into a position
+
+1182
+00:58:17,910 --> 00:58:21,900
+where you come in at an
+angle and it's intersecting
+
+1183
+00:58:21,900 --> 00:58:29,190
+with the paddle in two positions,
+both on top and the left
+
+1184
+00:58:29,190 --> 00:58:30,930
+or on bottom and the left.
+
+1185
+00:58:30,930 --> 00:58:36,780
+So in that case, adding two sort
+of prioritizes the Y being hit.
+
+1186
+00:58:36,780 --> 00:58:42,690
+So it basically takes the check from the
+exposition of the ball to the X plus 2.
+
+1187
+00:58:42,690 --> 00:58:48,210
+And so it ends up fixing the corners
+a little bit, but the gist of it
+
+1188
+00:58:48,210 --> 00:58:50,810
+is just check to see if the
+ball.x is less than the brick.x.
+
+1189
+00:58:50,810 --> 00:58:55,680
+And if it is and we've detected
+a collision, we can bounce it.
+
+1190
+00:58:55,680 --> 00:58:59,670
+There are some subtle corner case
+bugs without adding this plus two,
+
+1191
+00:58:59,670 --> 00:59:01,500
+so we add that.
+
+1192
+00:59:01,500 --> 00:59:04,190
+And then flip the velocity here.
+
+1193
+00:59:04,190 --> 00:59:05,156
+Oh, this shift here.
+
+1194
+00:59:05,156 --> 00:59:07,530
+This is what we were talking
+about earlier with make sure
+
+1195
+00:59:07,530 --> 00:59:09,570
+when you do a collision,
+shift whatever is
+
+1196
+00:59:09,570 --> 00:59:12,870
+moving outside the boundaries of
+whatever you're colliding with.
+
+1197
+00:59:12,870 --> 00:59:19,010
+So self.ball.x gets brick.x minus eight
+because the ball is eight pixels wide.
+
+1198
+00:59:19,010 --> 00:59:23,070
+It should actually be
+self.ball.width for a better style,
+
+1199
+00:59:23,070 --> 00:59:26,651
+but that's essentially
+what it translates out to.
+
+1200
+00:59:26,651 --> 00:59:27,900
+Same thing for the right edge.
+
+1201
+00:59:27,900 --> 00:59:29,850
+The plus six because
+it's on the right side.
+
+1202
+00:59:29,850 --> 00:59:34,080
+So it's effectively the same thing as
+minus two if we're on the left side.
+
+1203
+00:59:34,080 --> 00:59:39,540
+Just a sort of fixes corners,
+weird issues with corners.
+
+1204
+00:59:39,540 --> 00:59:44,970
+But check in to see if basically
+the ball plus its height minus two
+
+1205
+00:59:44,970 --> 00:59:51,630
+is greater than the brick plus X
+plus brick.width, which it means,
+
+1206
+00:59:51,630 --> 00:59:55,560
+oh, we've collided with the right
+edge of the screen, of the brick.
+
+1207
+00:59:55,560 --> 00:59:58,530
+And then if the Y is
+less than the brick.y,
+
+1208
+00:59:58,530 --> 01:00:00,980
+then we've collided with
+the top of the brick,
+
+1209
+01:00:00,980 --> 01:00:03,420
+and otherwise, we've
+collided with the bottom.
+
+1210
+01:00:03,420 --> 01:00:06,780
+And with the top and the bottom, just
+do the same thing we did with delta X,
+
+1211
+01:00:06,780 --> 01:00:09,030
+but do it with delta Y, but
+you're still resetting it.
+
+1212
+01:00:09,030 --> 01:00:11,580
+So ball.y gets brick.y minus eight.
+
+1213
+01:00:11,580 --> 01:00:17,130
+Ball.y gets brick.y plus 16 because
+the paddle or the individual bricks
+
+1214
+01:00:17,130 --> 01:00:21,120
+are 16 pixels tall.
+
+1215
+01:00:21,120 --> 01:00:24,810
+That's the gist of the
+collision detection.
+
+1216
+01:00:24,810 --> 01:00:27,840
+And then if we actually-- oh, and
+one other thing that I ended up
+
+1217
+01:00:27,840 --> 01:00:30,600
+putting here just to make it
+a little bit more interesting,
+
+1218
+01:00:30,600 --> 01:00:33,960
+and this also ties into more
+complicated collision detection.
+
+1219
+01:00:33,960 --> 01:00:38,015
+If your velocity is too fast, a lot of
+the time it'll skip through objects,
+
+1220
+01:00:38,015 --> 01:00:40,890
+and then that causes a lot of problems
+with these collision detection
+
+1221
+01:00:40,890 --> 01:00:44,520
+functions that normally are very
+sort of mathematically correct
+
+1222
+01:00:44,520 --> 01:00:45,480
+and they work well.
+
+1223
+01:00:45,480 --> 01:00:47,370
+They don't work well
+when it skips over what
+
+1224
+01:00:47,370 --> 01:00:49,260
+you're trying to actually collide with.
+
+1225
+01:00:49,260 --> 01:00:53,970
+So a solution to that, which was beyond
+the scope of this example but something
+
+1226
+01:00:53,970 --> 01:00:57,600
+we're thinking about, is perhaps
+stepping backwards a certain amount
+
+1227
+01:00:57,600 --> 01:00:59,790
+of time, a certain amount of pixels.
+
+1228
+01:00:59,790 --> 01:01:04,380
+Perhaps maybe start at where you
+where your ball was on one particular,
+
+1229
+01:01:04,380 --> 01:01:08,100
+on the last frame, and then just
+add its width and height to itself
+
+1230
+01:01:08,100 --> 01:01:12,480
+until it collides with something, until
+it reaches whatever its current delta X
+
+1231
+01:01:12,480 --> 01:01:15,380
+or delta Y plus its position is.
+
+1232
+01:01:15,380 --> 01:01:16,380
+That's one way to do it.
+
+1233
+01:01:16,380 --> 01:01:18,817
+Sort of just adding a
+bunch of invisible--
+
+1234
+01:01:18,817 --> 01:01:21,650
+whatever you're colliding with or
+whatever you're using to collide--
+
+1235
+01:01:21,650 --> 01:01:26,250
+add a bunch of invisible those to bridge
+the gap and check into if any of those
+
+1236
+01:01:26,250 --> 01:01:27,900
+hold true for a collision.
+
+1237
+01:01:27,900 --> 01:01:32,010
+A little bit more computationally
+expensive, but a lot more accurate
+
+1238
+01:01:32,010 --> 01:01:35,107
+in terms of the physics.
+
+1239
+01:01:35,107 --> 01:01:36,940
+And aside from that,
+everything is the same.
+
+1240
+01:01:36,940 --> 01:01:40,326
+So if you look at the
+code in Breakout4--
+
+1241
+01:01:40,326 --> 01:01:42,450
+and I'm going to go a little
+bit faster henceforth.
+
+1242
+01:01:42,450 --> 01:01:44,491
+That's probably the meatiest
+part of the program.
+
+1243
+01:01:47,050 --> 01:01:49,080
+We get collisions.
+
+1244
+01:01:49,080 --> 01:01:54,102
+And then I'll try and get a
+strong angle so I can demo the--
+
+1245
+01:01:54,102 --> 01:01:54,810
+that didn't work.
+
+1246
+01:01:54,810 --> 01:01:55,890
+That actually gave a weaker angle.
+
+1247
+01:01:55,890 --> 01:01:59,250
+So if you do this and you do it close to
+the center, it has the opposite effect.
+
+1248
+01:01:59,250 --> 01:01:59,958
+But there you go.
+
+1249
+01:01:59,958 --> 01:02:01,200
+That's a sharper angle.
+
+1250
+01:02:01,200 --> 01:02:05,550
+So now you can actually influence
+the ball in a little bit more
+
+1251
+01:02:05,550 --> 01:02:07,770
+of a personable way.
+
+1252
+01:02:07,770 --> 01:02:11,070
+You know, not just have it be
+a flat delta Y gets negative--
+
+1253
+01:02:11,070 --> 01:02:14,220
+or get negative delta Y effectively.
+
+1254
+01:02:14,220 --> 01:02:19,920
+So any questions on sort of how
+the gist of all of that works?
+
+1255
+01:02:23,730 --> 01:02:24,230
+OK.
+
+1256
+01:02:24,230 --> 01:02:25,040
+Perfect.
+
+1257
+01:02:25,040 --> 01:02:28,395
+So now we're going to get into a
+little bit more of some fun stuff.
+
+1258
+01:02:28,395 --> 01:02:30,770
+We'll do a couple more examples,
+then we'll take a break.
+
+1259
+01:02:30,770 --> 01:02:32,360
+So this is the hearts update.
+
+1260
+01:02:32,360 --> 01:02:35,690
+So notice that the very top of the
+screen, as I've demonstrated in these
+
+1261
+01:02:35,690 --> 01:02:38,480
+slides, we have just a few hearts.
+
+1262
+01:02:38,480 --> 01:02:39,382
+One of them is empty.
+
+1263
+01:02:39,382 --> 01:02:40,340
+We showed this earlier.
+
+1264
+01:02:40,340 --> 01:02:43,660
+And then we have a game over
+screen, which is our final score.
+
+1265
+01:02:43,660 --> 01:02:46,909
+So I'm going to go ahead and we're just
+going to look at the code a little bit
+
+1266
+01:02:46,909 --> 01:02:50,656
+faster now since a lot of the
+stuff is fairly straightforward.
+
+1267
+01:02:50,656 --> 01:02:52,280
+I'm going to go ahead and open up the--
+
+1268
+01:02:52,280 --> 01:02:54,780
+I'm going to make sure I'm in
+the right folder first of all.
+
+1269
+01:02:54,780 --> 01:02:55,760
+Breakout5.
+
+1270
+01:02:55,760 --> 01:02:57,320
+And then in the--
+
+1271
+01:03:00,860 --> 01:03:07,690
+so one other thing we're
+going to start doing is--
+
+1272
+01:03:07,690 --> 01:03:08,917
+I mentioned this earlier.
+
+1273
+01:03:08,917 --> 01:03:10,750
+And it's going to be
+it's going to hold true
+
+1274
+01:03:10,750 --> 01:03:13,570
+for any of the sort of
+state transformations
+
+1275
+01:03:13,570 --> 01:03:15,460
+that take place going forward.
+
+1276
+01:03:15,460 --> 01:03:17,440
+Rather than keep global
+variables, we're going
+
+1277
+01:03:17,440 --> 01:03:20,500
+to sort of do away with that
+idea outside of the asset tables
+
+1278
+01:03:20,500 --> 01:03:23,210
+that we have just because
+those are kind of an exception
+
+1279
+01:03:23,210 --> 01:03:26,560
+and they could reasonably be put into
+a separate class called the resource
+
+1280
+01:03:26,560 --> 01:03:27,550
+manager.
+
+1281
+01:03:27,550 --> 01:03:35,570
+We're going to start passing in what
+is basically our current app state,
+
+1282
+01:03:35,570 --> 01:03:37,750
+or at least the variables
+that make sense.
+
+1283
+01:03:37,750 --> 01:03:40,900
+And this is a common paradigm in
+web development with React as well.
+
+1284
+01:03:40,900 --> 01:03:44,560
+But basically, everything that we
+need to be preserve state to state,
+
+1285
+01:03:44,560 --> 01:03:46,310
+rather than just keeping
+global variables,
+
+1286
+01:03:46,310 --> 01:03:49,210
+let's pass them between the states
+because the state machine allows
+
+1287
+01:03:49,210 --> 01:03:52,120
+us to do that in the change function.
+
+1288
+01:03:52,120 --> 01:03:55,240
+And then whatever that state
+is in it's enter function,
+
+1289
+01:03:55,240 --> 01:03:56,950
+it'll have access to
+that and it can just
+
+1290
+01:03:56,950 --> 01:04:01,090
+set those values to self
+dot whatever and use them.
+
+1291
+01:04:01,090 --> 01:04:02,770
+But we no longer have global variables.
+
+1292
+01:04:02,770 --> 01:04:03,770
+We're just saying, here.
+
+1293
+01:04:03,770 --> 01:04:06,962
+Here's the values that are
+important for you to continue on.
+
+1294
+01:04:06,962 --> 01:04:09,670
+And then that state will take its
+values and go to the next state
+
+1295
+01:04:09,670 --> 01:04:14,170
+and say, oh, OK, here are the
+values that you need to function.
+
+1296
+01:04:14,170 --> 01:04:16,240
+Like the serve, play,
+and all those states
+
+1297
+01:04:16,240 --> 01:04:17,890
+that have the core game
+play involved will probably
+
+1298
+01:04:17,890 --> 01:04:19,540
+need to maintain a reference
+to like the paddle,
+
+1299
+01:04:19,540 --> 01:04:21,676
+and to the score, the
+amount of health we have.
+
+1300
+01:04:21,676 --> 01:04:24,550
+But when we get to the end, for
+example, and then we no longer really
+
+1301
+01:04:24,550 --> 01:04:27,849
+need a paddle, we no longer really
+need bricks or anything like that,
+
+1302
+01:04:27,849 --> 01:04:30,640
+we just need to know what our high
+score is so that we can enter it
+
+1303
+01:04:30,640 --> 01:04:33,430
+into our high score
+list, all we really need
+
+1304
+01:04:33,430 --> 01:04:37,030
+to do is just pass in the high score
+state entry or just our high score,
+
+1305
+01:04:37,030 --> 01:04:39,340
+and that's it.
+
+1306
+01:04:39,340 --> 01:04:41,170
+So it encapsulates all of our data.
+
+1307
+01:04:41,170 --> 01:04:45,730
+And at a glance, we can sort of see
+what we need to pass between the states
+
+1308
+01:04:45,730 --> 01:04:48,730
+and what's going to be
+relevant at a glance as well.
+
+1309
+01:04:48,730 --> 01:04:52,340
+It just clean things up quite a bit.
+
+1310
+01:04:52,340 --> 01:04:55,120
+So that's what we're
+doing now on line 35.
+
+1311
+01:04:55,120 --> 01:04:58,600
+And henceforth, we will do
+this in every state as we see,
+
+1312
+01:04:58,600 --> 01:05:02,500
+but I'm going to sort of
+glaze over it in the future.
+
+1313
+01:05:02,500 --> 01:05:03,610
+We have a ServeState now.
+
+1314
+01:05:03,610 --> 01:05:08,257
+So a ServeState, this is very
+identical to what we did in Pong.
+
+1315
+01:05:08,257 --> 01:05:10,090
+So we just wait for the
+user to press Space.
+
+1316
+01:05:10,090 --> 01:05:16,810
+They can move around and then
+when they do press Enter,
+
+1317
+01:05:16,810 --> 01:05:20,380
+basically the ball starts moving.
+
+1318
+01:05:20,380 --> 01:05:23,110
+And then we change the
+PlayState here using
+
+1319
+01:05:23,110 --> 01:05:25,644
+the current values that are necessary.
+
+1320
+01:05:25,644 --> 01:05:27,310
+Paddle, bricks, health, score, and ball.
+
+1321
+01:05:27,310 --> 01:05:30,220
+Those are basically the
+fundamental variables
+
+1322
+01:05:30,220 --> 01:05:35,980
+that we need in order to
+keep track of our GameState.
+
+1323
+01:05:35,980 --> 01:05:38,890
+So we have a ServeState, it
+will wait for us to press Enter.
+
+1324
+01:05:38,890 --> 01:05:50,820
+And then our main.lua, we
+have a new hearts table.
+
+1325
+01:05:50,820 --> 01:05:55,350
+And then on line 208,
+because we're going
+
+1326
+01:05:55,350 --> 01:05:59,280
+to need the ability to render health and
+render our score across several states,
+
+1327
+01:05:59,280 --> 01:06:02,100
+Play, Serve, Victory, Game Over--
+
+1328
+01:06:02,100 --> 01:06:04,290
+actually not Game Over,
+but the three before that.
+
+1329
+01:06:04,290 --> 01:06:06,081
+We don't want to
+duplicate those behaviors,
+
+1330
+01:06:06,081 --> 01:06:08,730
+so I'm just calling a function
+called Render Health, which
+
+1331
+01:06:08,730 --> 01:06:10,830
+just takes in whatever
+health is and then
+
+1332
+01:06:10,830 --> 01:06:13,800
+we just set an X to
+virtual width minus 100.
+
+1333
+01:06:13,800 --> 01:06:17,070
+And then for however many
+health we have, draw a heart
+
+1334
+01:06:17,070 --> 01:06:20,430
+from the hearts sprite sheet,
+which I separated the hearts out
+
+1335
+01:06:20,430 --> 01:06:23,670
+into a smaller image so you can just
+split them on like eight by eight
+
+1336
+01:06:23,670 --> 01:06:25,590
+or whatever it is.
+
+1337
+01:06:25,590 --> 01:06:27,774
+But just draw those
+and then add 11 to X,
+
+1338
+01:06:27,774 --> 01:06:30,690
+and just keep going until we've drawn
+out however many hearts we have.
+
+1339
+01:06:30,690 --> 01:06:32,220
+That will draw full hearts.
+
+1340
+01:06:32,220 --> 01:06:35,350
+And then three minus health will give
+us however many health we're missing.
+
+1341
+01:06:35,350 --> 01:06:38,099
+So if we took a point of damage,
+this is going to be equal to one.
+
+1342
+01:06:38,099 --> 01:06:41,736
+So then it'll draw one empty heart after
+that or it'll draw two empty hearts.
+
+1343
+01:06:41,736 --> 01:06:44,610
+So draw however many full hearts we
+have, then draw the empty hearts.
+
+1344
+01:06:44,610 --> 01:06:48,540
+And those are two separate sprites
+that we get from the image.
+
+1345
+01:06:48,540 --> 01:06:51,150
+And that will have the
+effect of drawing our health.
+
+1346
+01:06:51,150 --> 01:06:56,530
+And then our score is simply, it takes
+a score variable that we pass into here.
+
+1347
+01:06:56,530 --> 01:06:58,530
+And also note that the
+render health [INAUDIBLE]
+
+1348
+01:06:58,530 --> 01:07:00,450
+and health variable
+and pass into it here.
+
+1349
+01:07:00,450 --> 01:07:17,670
+And so in our PlayState, we are calling
+both of these functions on line 135.
+
+1350
+01:07:17,670 --> 01:07:20,702
+Well, on line 135, we are
+calculating whether we
+
+1351
+01:07:20,702 --> 01:07:23,910
+go below the edge of the screen, which
+is another important part of the game.
+
+1352
+01:07:23,910 --> 01:07:26,520
+Obviously, we need to detect
+when we've lost health.
+
+1353
+01:07:26,520 --> 01:07:28,080
+So it's as simple as this.
+
+1354
+01:07:28,080 --> 01:07:31,140
+If it's greater than the virtual
+height, decrement health by one.
+
+1355
+01:07:31,140 --> 01:07:34,200
+If it's equal to zero,
+change to Game Over.
+
+1356
+01:07:34,200 --> 01:07:35,467
+Else change to the ServeState.
+
+1357
+01:07:35,467 --> 01:07:38,550
+And note that we're passing in all
+these variables to and from our states.
+
+1358
+01:07:38,550 --> 01:07:39,716
+The ones that are important.
+
+1359
+01:07:39,716 --> 01:07:41,970
+Game Over just needs score,
+but Serve needs whatever
+
+1360
+01:07:41,970 --> 01:07:43,740
+variables we were already using.
+
+1361
+01:07:46,620 --> 01:07:50,100
+And then down here we're calling
+render score and render health,
+
+1362
+01:07:50,100 --> 01:07:54,900
+and then the GameOverState is simply--
+
+1363
+01:07:54,900 --> 01:07:58,890
+because it takes in score
+from the parameters list,
+
+1364
+01:07:58,890 --> 01:08:03,330
+just wait for keyboard input to go back
+to the start and then render game over,
+
+1365
+01:08:03,330 --> 01:08:04,530
+here's your score.
+
+1366
+01:08:04,530 --> 01:08:06,930
+It's self.score, and then that's it.
+
+1367
+01:08:06,930 --> 01:08:07,620
+Very simple.
+
+1368
+01:08:07,620 --> 01:08:08,636
+Very simple state.
+
+1369
+01:08:08,636 --> 01:08:09,510
+AUDIENCE: [INAUDIBLE]
+
+1370
+01:08:09,510 --> 01:08:10,301
+COLTON OGDEN: Sure.
+
+1371
+01:08:10,301 --> 01:08:15,899
+AUDIENCE: [INAUDIBLE]
+
+1372
+01:08:15,899 --> 01:08:18,149
+COLTON OGDEN: The question
+was, do any of these states
+
+1373
+01:08:18,149 --> 01:08:19,740
+have access to their parent file?
+
+1374
+01:08:19,740 --> 01:08:27,180
+AUDIENCE: [INAUDIBLE]
+
+1375
+01:08:27,180 --> 01:08:30,120
+COLTON OGDEN: Is everything
+in main.lua global functions?
+
+1376
+01:08:30,120 --> 01:08:30,810
+Yes.
+
+1377
+01:08:30,810 --> 01:08:31,935
+Functions that you declare.
+
+1378
+01:08:31,935 --> 01:08:35,220
+Anything that's basically not specified
+as local that you define in main.lua
+
+1379
+01:08:35,220 --> 01:08:39,163
+will be accessible anywhere in your
+application, including functions.
+
+1380
+01:08:39,163 --> 01:08:40,715
+AUDIENCE: [INAUDIBLE]
+
+1381
+01:08:40,715 --> 01:08:42,840
+COLTON OGDEN: You don't
+have to-- the question was,
+
+1382
+01:08:42,840 --> 01:08:44,215
+do you have to declare as public?
+
+1383
+01:08:44,215 --> 01:08:45,725
+No, there is no notion of public.
+
+1384
+01:08:45,725 --> 01:08:48,720
+In lua, anything that does
+not have a local specifier
+
+1385
+01:08:48,720 --> 01:08:51,330
+is assumed global, even
+if it's in a nested scope.
+
+1386
+01:08:51,330 --> 01:08:54,930
+So you could have a for loop, you
+could have several nested for loops
+
+1387
+01:08:54,930 --> 01:08:59,310
+and declare some variable without local,
+that variable can be accessed anywhere
+
+1388
+01:08:59,310 --> 01:09:01,050
+above it or outside of it.
+
+1389
+01:09:01,050 --> 01:09:03,060
+So it's pretty important
+to use local variables
+
+1390
+01:09:03,060 --> 01:09:05,970
+when you're not explicitly
+allocating something as global
+
+1391
+01:09:05,970 --> 01:09:09,600
+just to avoid the bug
+of for nested loops
+
+1392
+01:09:09,600 --> 01:09:14,729
+and you have some variable name like
+hello and you use it somewhere else.
+
+1393
+01:09:14,729 --> 01:09:16,960
+Good questions though.
+
+1394
+01:09:16,960 --> 01:09:17,460
+So yeah.
+
+1395
+01:09:17,460 --> 01:09:18,569
+We have a bunch of states now.
+
+1396
+01:09:18,569 --> 01:09:20,360
+We have a GameOverState,
+a PlayState, we're
+
+1397
+01:09:20,360 --> 01:09:22,359
+rendering our score,
+rendering our health.
+
+1398
+01:09:22,359 --> 01:09:24,239
+If we go and take a look at Breakout5--
+
+1399
+01:09:29,805 --> 01:09:33,630
+is it a different window?
+
+1400
+01:09:33,630 --> 01:09:35,660
+There we go.
+
+1401
+01:09:35,660 --> 01:09:37,500
+We can see hearts at the top.
+
+1402
+01:09:37,500 --> 01:09:38,279
+Score zero.
+
+1403
+01:09:41,600 --> 01:09:44,960
+Oh, and I forgot to mention the part
+where we actually add score now.
+
+1404
+01:09:44,960 --> 01:09:54,440
+So the bricks themselves in their on
+hit, or I should say in the PlayState,
+
+1405
+01:09:54,440 --> 01:10:00,221
+on line 81 when we detect a hit, we're
+just adding 10 to the score for now.
+
+1406
+01:10:00,221 --> 01:10:01,970
+But later on, we'll
+do a calculation where
+
+1407
+01:10:01,970 --> 01:10:04,200
+we take tier and color
+into consideration
+
+1408
+01:10:04,200 --> 01:10:09,500
+and then perform arithmetic on that to
+get our total score for each ball hit.
+
+1409
+01:10:09,500 --> 01:10:14,810
+But yeah, we have our
+health, we have our score.
+
+1410
+01:10:14,810 --> 01:10:16,569
+And then once we take
+enough damage, we'll
+
+1411
+01:10:16,569 --> 01:10:18,110
+end up going to the Game Over screen.
+
+1412
+01:10:18,110 --> 01:10:20,420
+The Game Over screen will
+go back to our Start screen.
+
+1413
+01:10:20,420 --> 01:10:21,780
+So making progress.
+
+1414
+01:10:21,780 --> 01:10:24,440
+And then probably my
+favorite of the updates
+
+1415
+01:10:24,440 --> 01:10:27,650
+before we take a short break
+is the pretty colors update.
+
+1416
+01:10:27,650 --> 01:10:31,200
+So what this does is
+clearly we can have--
+
+1417
+01:10:31,200 --> 01:10:32,480
+we've updated our level maker.
+
+1418
+01:10:32,480 --> 01:10:37,160
+So rather than just having a
+bunch of very static bricks,
+
+1419
+01:10:37,160 --> 01:10:41,270
+we end up doing a little bit more
+complicated procedural generation.
+
+1420
+01:10:41,270 --> 01:10:42,740
+It's not complicated though.
+
+1421
+01:10:42,740 --> 01:10:48,290
+Just in levelmaker.lua in Breakout6,
+we have a few different constants here.
+
+1422
+01:10:48,290 --> 01:10:51,499
+So solid, alternate, skip, or none.
+
+1423
+01:10:51,499 --> 01:10:53,290
+Actually, I don't think
+I use skip or none.
+
+1424
+01:10:53,290 --> 01:10:54,860
+Just solid or alternate basically.
+
+1425
+01:10:54,860 --> 01:10:56,180
+We have flags now.
+
+1426
+01:10:56,180 --> 01:10:58,100
+So number of columns.
+
+1427
+01:10:58,100 --> 01:11:02,480
+And we ensure that it's odd because
+even columns with generating patterns
+
+1428
+01:11:02,480 --> 01:11:04,340
+leads to asymmetry.
+
+1429
+01:11:04,340 --> 01:11:07,679
+So make sure the number
+of columns is odd.
+
+1430
+01:11:07,679 --> 01:11:10,470
+Generate the highest tier and the
+highest color based on our level.
+
+1431
+01:11:10,470 --> 01:11:12,850
+So in this case, we'll
+go no higher of a tier
+
+1432
+01:11:12,850 --> 01:11:16,025
+than three because we have
+no higher tiers than three.
+
+1433
+01:11:16,025 --> 01:11:18,080
+It goes zero, one, two, three.
+
+1434
+01:11:18,080 --> 01:11:20,564
+And then whatever our
+level divided by five is,
+
+1435
+01:11:20,564 --> 01:11:21,980
+and it would just take math.floor.
+
+1436
+01:11:21,980 --> 01:11:26,540
+Math.floor takes in basically
+performing division and then truncating
+
+1437
+01:11:26,540 --> 01:11:28,269
+the decimal point.
+
+1438
+01:11:28,269 --> 01:11:29,060
+Well, not division.
+
+1439
+01:11:29,060 --> 01:11:31,760
+It just literally truncates the
+decimal point off of a number.
+
+1440
+01:11:31,760 --> 01:11:33,260
+So a level divided by five.
+
+1441
+01:11:33,260 --> 01:11:36,560
+Whatever that is before
+the decimal point.
+
+1442
+01:11:36,560 --> 01:11:39,420
+Level modular five plus
+three for the highest color.
+
+1443
+01:11:39,420 --> 01:11:40,430
+So we'll cycle.
+
+1444
+01:11:40,430 --> 01:11:42,140
+We'll go over and over again.
+
+1445
+01:11:42,140 --> 01:11:46,400
+Go highest color one, two, three, four,
+five, and then we'll go to a new tier
+
+1446
+01:11:46,400 --> 01:11:47,810
+with level divided by 5.
+
+1447
+01:11:47,810 --> 01:11:50,520
+So basically, every five
+levels will increment in tier,
+
+1448
+01:11:50,520 --> 01:11:52,410
+and then we'll start back at blue.
+
+1449
+01:11:52,410 --> 01:11:56,406
+And then we go on, and on, and on
+like that for every number of rows.
+
+1450
+01:11:56,406 --> 01:11:57,530
+So basically I have a few--
+
+1451
+01:11:57,530 --> 01:11:59,889
+I'm going to sort of glaze
+over this a little bit
+
+1452
+01:11:59,889 --> 01:12:02,180
+just because we're probably
+going to run short on time.
+
+1453
+01:12:02,180 --> 01:12:05,360
+But we have basically two flags.
+
+1454
+01:12:05,360 --> 01:12:10,620
+Whether we're skipping bricks in this
+row or alternating bricks color wise.
+
+1455
+01:12:10,620 --> 01:12:14,810
+And if we do, we need to set
+a color for it and a tier.
+
+1456
+01:12:14,810 --> 01:12:16,681
+And then we basically
+just say, you know,
+
+1457
+01:12:16,681 --> 01:12:19,430
+the same sort of logic that we had
+before we generated random rows
+
+1458
+01:12:19,430 --> 01:12:24,350
+and columns, but if we
+have the alternate flag on,
+
+1459
+01:12:24,350 --> 01:12:31,400
+then as we can see in some of these
+photos here, here we have skip is true.
+
+1460
+01:12:31,400 --> 01:12:36,260
+So the color for that row is set
+to the blue, but skip is true,
+
+1461
+01:12:36,260 --> 01:12:40,700
+so every other brick is just going
+to skip that iteration of the loop.
+
+1462
+01:12:40,700 --> 01:12:42,980
+Same thing here, only
+it's offset by one.
+
+1463
+01:12:42,980 --> 01:12:43,770
+Same thing here.
+
+1464
+01:12:43,770 --> 01:12:44,490
+Same thing here.
+
+1465
+01:12:44,490 --> 01:12:46,550
+So this is kind of a
+nice little pattern.
+
+1466
+01:12:46,550 --> 01:12:47,966
+And in each of these cases--
+
+1467
+01:12:47,966 --> 01:12:49,340
+actually not each of these cases.
+
+1468
+01:12:49,340 --> 01:12:52,070
+Notice this third one, it
+also set alternate to true.
+
+1469
+01:12:52,070 --> 01:12:55,250
+So it goes green, purple,
+green, purple, green, purple.
+
+1470
+01:12:55,250 --> 01:12:57,920
+And so the logic there is
+if alternate is true, then
+
+1471
+01:12:57,920 --> 01:13:00,560
+just flip the color every iteration.
+
+1472
+01:13:00,560 --> 01:13:04,430
+If skip is true, don't generate a
+brick every other iteration, and so on
+
+1473
+01:13:04,430 --> 01:13:05,010
+and so forth.
+
+1474
+01:13:05,010 --> 01:13:09,570
+And then if you have solid or if you
+don't have alternate equals true,
+
+1475
+01:13:09,570 --> 01:13:11,750
+then you have a solid
+brick like these blue ones.
+
+1476
+01:13:11,750 --> 01:13:16,730
+And if you have alternate but no
+skip, you get this sort of pattern
+
+1477
+01:13:16,730 --> 01:13:18,830
+where you have green,
+purple, green, purple.
+
+1478
+01:13:18,830 --> 01:13:20,480
+You know, any random color.
+
+1479
+01:13:20,480 --> 01:13:23,450
+And then also the number
+of columns is random.
+
+1480
+01:13:23,450 --> 01:13:24,740
+So it can go--
+
+1481
+01:13:24,740 --> 01:13:30,590
+here we have 1, 2, 3, 4, 5, 6, 7, 8,
+9, 10, 11 but on this very bottom one,
+
+1482
+01:13:30,590 --> 01:13:35,810
+we have that minus two it looks like
+because it can only go that wide.
+
+1483
+01:13:35,810 --> 01:13:37,490
+And in those here too.
+
+1484
+01:13:37,490 --> 01:13:38,660
+Smaller size.
+
+1485
+01:13:38,660 --> 01:13:40,100
+That one there's no spacing.
+
+1486
+01:13:40,100 --> 01:13:42,470
+So these are very simple concepts.
+
+1487
+01:13:42,470 --> 01:13:44,960
+Like should we skip a
+block this iteration?
+
+1488
+01:13:44,960 --> 01:13:47,300
+Should we alternate the colors?
+
+1489
+01:13:47,300 --> 01:13:49,970
+And when you put them
+all together, it produces
+
+1490
+01:13:49,970 --> 01:13:52,160
+things that look as if they
+were almost handcrafted.
+
+1491
+01:13:52,160 --> 01:13:53,900
+Like this could be made by somebody.
+
+1492
+01:13:53,900 --> 01:13:55,850
+Like, that looks like
+it was made by somebody.
+
+1493
+01:13:55,850 --> 01:13:57,170
+Pretty much every iteration of this.
+
+1494
+01:13:57,170 --> 01:13:59,330
+I mean, even that, that
+looks like a shape almost.
+
+1495
+01:13:59,330 --> 01:14:03,534
+Its just very simple but the results
+are pretty awesome in my opinion.
+
+1496
+01:14:03,534 --> 01:14:05,700
+And so that's just the gist
+behind what we're doing.
+
+1497
+01:14:05,700 --> 01:14:08,510
+We're just setting flags
+and just saying, you know,
+
+1498
+01:14:08,510 --> 01:14:10,789
+if we're skipping this turn
+and just every iteration,
+
+1499
+01:14:10,789 --> 01:14:13,580
+every time we lay out a brick and
+we spawn a new brick on this row,
+
+1500
+01:14:13,580 --> 01:14:14,810
+just do or don't.
+
+1501
+01:14:14,810 --> 01:14:16,660
+Just make it's color--
+
+1502
+01:14:16,660 --> 01:14:19,940
+pick two colors if we're
+alternating and then set
+
+1503
+01:14:19,940 --> 01:14:23,660
+its color to whatever the off
+color is that we're alternating.
+
+1504
+01:14:23,660 --> 01:14:26,150
+And if we're skipping
+and alternating, then
+
+1505
+01:14:26,150 --> 01:14:29,090
+we're just doing whenever we're on
+a brick that we're actually laying
+
+1506
+01:14:29,090 --> 01:14:32,540
+is when we change the
+color, the alternate color.
+
+1507
+01:14:32,540 --> 01:14:35,004
+And so like I said, I won't
+go into too much detail.
+
+1508
+01:14:35,004 --> 01:14:36,920
+Happy to talk about the
+generator after class.
+
+1509
+01:14:36,920 --> 01:14:39,240
+But just because we're
+running short on time,
+
+1510
+01:14:39,240 --> 01:14:40,880
+sort of going to wave my hands over it.
+
+1511
+01:14:40,880 --> 01:14:42,350
+But that's it in a nutshell.
+
+1512
+01:14:42,350 --> 01:14:47,430
+So any questions before we
+take a break for five minutes?
+
+1513
+01:14:47,430 --> 01:14:47,930
+Yes?
+
+1514
+01:14:47,930 --> 01:15:02,800
+AUDIENCE: [INAUDIBLE]
+
+1515
+01:15:02,800 --> 01:15:06,340
+COLTON OGDEN: The question is, in
+an instance with this programming
+
+1516
+01:15:06,340 --> 01:15:10,360
+if the ball were so fast that it
+we're actually inside the brick,
+
+1517
+01:15:10,360 --> 01:15:12,633
+would it what?
+
+1518
+01:15:12,633 --> 01:15:14,174
+AUDIENCE: Would it still bounce back?
+
+1519
+01:15:14,174 --> 01:15:15,882
+COLTON OGDEN: Would
+it still bounce back?
+
+1520
+01:15:15,882 --> 01:15:18,250
+The answer is no, it wouldn't.
+
+1521
+01:15:18,250 --> 01:15:21,460
+This implementation doesn't
+take into consideration velocity
+
+1522
+01:15:21,460 --> 01:15:24,130
+that goes too fast.
+
+1523
+01:15:24,130 --> 01:15:26,150
+Mainly to-- for two reasons.
+
+1524
+01:15:26,150 --> 01:15:28,707
+One, it's non-trivial
+to implement, and two,
+
+1525
+01:15:28,707 --> 01:15:30,790
+it's an interesting thing
+to look at, and observe,
+
+1526
+01:15:30,790 --> 01:15:34,750
+and be conscious of as you go forward
+in implementing your own games.
+
+1527
+01:15:34,750 --> 01:15:38,862
+The current code, if it gets
+clipped inside of the brick,
+
+1528
+01:15:38,862 --> 01:15:41,320
+it will have no edges that are
+peaking outside of the brick
+
+1529
+01:15:41,320 --> 01:15:43,819
+and therefore, it will default
+to the final condition, which
+
+1530
+01:15:43,819 --> 01:15:47,080
+is the last else clause,
+which puts it below the brick.
+
+1531
+01:15:47,080 --> 01:15:48,850
+So it'll just go below the brick.
+
+1532
+01:15:48,850 --> 01:15:54,212
+It'll almost be as if it came in
+from the underside and bounced out.
+
+1533
+01:15:54,212 --> 01:15:56,920
+But like I alluded to earlier, if
+you want to implement something
+
+1534
+01:15:56,920 --> 01:16:01,960
+like this yourself, you would have to
+slice up frame X and frame X plus one
+
+1535
+01:16:01,960 --> 01:16:08,440
+into the size of the ball
+if the delta is so wide
+
+1536
+01:16:08,440 --> 01:16:11,800
+that it either goes inside of a
+brick or it goes outside of a brick,
+
+1537
+01:16:11,800 --> 01:16:13,559
+or if it skips a brick.
+
+1538
+01:16:13,559 --> 01:16:15,100
+And this sort of solves that problem.
+
+1539
+01:16:15,100 --> 01:16:18,220
+It solves both of those
+problems, but it's a little more
+
+1540
+01:16:18,220 --> 01:16:20,600
+than we can cover in this example.
+
+1541
+01:16:20,600 --> 01:16:24,260
+Any other questions?
+
+1542
+01:16:24,260 --> 01:16:24,760
+All right.
+
+1543
+01:16:24,760 --> 01:16:28,671
+Let's take five and get back to it.
+
+1544
+01:16:28,671 --> 01:16:29,170
+All right.
+
+1545
+01:16:29,170 --> 01:16:29,960
+And we're back.
+
+1546
+01:16:29,960 --> 01:16:35,980
+So the next step is we have
+basically a layout dynamically
+
+1547
+01:16:35,980 --> 01:16:39,310
+generated of interesting bricks
+now, but we haven't really
+
+1548
+01:16:39,310 --> 01:16:41,680
+implemented scoring any of these.
+
+1549
+01:16:41,680 --> 01:16:43,570
+We just have score gets
+score plus 10, which
+
+1550
+01:16:43,570 --> 01:16:46,330
+isn't really particularly interesting.
+
+1551
+01:16:46,330 --> 01:16:50,080
+So Breakout7 is what I
+call the tier update, which
+
+1552
+01:16:50,080 --> 01:16:55,160
+should allow us to hit blocks that
+are a higher tier than just base blue.
+
+1553
+01:16:55,160 --> 01:16:59,800
+And if they are of a higher color than
+base blue, they should go down a color.
+
+1554
+01:16:59,800 --> 01:17:04,150
+So the hierarchy was,
+if we look back, blue
+
+1555
+01:17:04,150 --> 01:17:08,890
+goes to green goes to red
+goes to purple goes to gold.
+
+1556
+01:17:08,890 --> 01:17:11,920
+And if something is a
+higher tier, it goes
+
+1557
+01:17:11,920 --> 01:17:15,640
+to the next color below
+it but at that same tier,
+
+1558
+01:17:15,640 --> 01:17:19,750
+unless it happens to be like
+blue and gray, in which case
+
+1559
+01:17:19,750 --> 01:17:22,010
+it'll go back to blue.
+
+1560
+01:17:22,010 --> 01:17:30,184
+So how might we implement
+scoring based on this system?
+
+1561
+01:17:30,184 --> 01:17:30,850
+What do we need?
+
+1562
+01:17:30,850 --> 01:17:33,770
+What pieces do we need?
+
+1563
+01:17:33,770 --> 01:17:38,202
+What pieces do we already have that
+we can use to make this happen?
+
+1564
+01:17:38,202 --> 01:17:40,460
+AUDIENCE: [INAUDIBLE]
+
+1565
+01:17:40,460 --> 01:17:41,460
+COLTON OGDEN: I'm sorry?
+
+1566
+01:17:41,460 --> 01:17:52,351
+AUDIENCE: [INAUDIBLE]
+
+1567
+01:17:52,351 --> 01:17:54,350
+COLTON OGDEN: So the
+answer was the brick index.
+
+1568
+01:17:54,350 --> 01:18:00,721
+So yes, the brick skin
+and color are the pieces.
+
+1569
+01:18:00,721 --> 01:18:01,220
+Yes.
+
+1570
+01:18:01,220 --> 01:18:03,280
+So those are fields of brick.
+
+1571
+01:18:03,280 --> 01:18:04,420
+So if we open up--
+
+1572
+01:18:04,420 --> 01:18:06,950
+I'm going to go up to Breakout7.
+
+1573
+01:18:06,950 --> 01:18:10,070
+And I'm going to start probably
+deferring a lot of this code
+
+1574
+01:18:10,070 --> 01:18:12,020
+to future reading.
+
+1575
+01:18:12,020 --> 01:18:16,580
+But in brick here, the
+tier and the color--
+
+1576
+01:18:16,580 --> 01:18:19,670
+sorry, not skin, but
+skin is for the paddle.
+
+1577
+01:18:19,670 --> 01:18:22,200
+But the brick has a
+tier and it has a color.
+
+1578
+01:18:22,200 --> 01:18:25,530
+And so we need to perform
+some arithmetic on that here.
+
+1579
+01:18:25,530 --> 01:18:28,100
+And that's essentially what
+lines 44 through 58 is.
+
+1580
+01:18:28,100 --> 01:18:32,420
+So basically-- oh, I apologize.
+
+1581
+01:18:32,420 --> 01:18:36,330
+That's not actually
+where the arithmetic is.
+
+1582
+01:18:36,330 --> 01:18:40,430
+44, that does compute, but
+this is the bit of code
+
+1583
+01:18:40,430 --> 01:18:45,810
+that computes how we can actually
+go backwards if we make a collision.
+
+1584
+01:18:45,810 --> 01:18:52,880
+So if we collide with a brick and
+it's of a higher tier than one
+
+1585
+01:18:52,880 --> 01:18:57,870
+and it's a higher color than blue,
+it should be brought back one step.
+
+1586
+01:18:57,870 --> 01:19:02,420
+But if it happens to be blue, in
+which case self.color gets one
+
+1587
+01:19:02,420 --> 01:19:05,420
+because blue is one, then it
+should just be removed from play
+
+1588
+01:19:05,420 --> 01:19:06,840
+just like we've done before.
+
+1589
+01:19:06,840 --> 01:19:10,490
+Only now, we're also
+taking in tier and color.
+
+1590
+01:19:10,490 --> 01:19:13,460
+So we're decrementing tier
+based on what index we're at
+
+1591
+01:19:13,460 --> 01:19:15,890
+and we're decrementing color.
+
+1592
+01:19:15,890 --> 01:19:20,053
+And then this actually
+gets used in our PlayState.
+
+1593
+01:19:24,000 --> 01:19:29,750
+If we go to line 81,
+which previously just
+
+1594
+01:19:29,750 --> 01:19:32,960
+had self.score gets self.score plus
+one, there's a little bit of math here.
+
+1595
+01:19:32,960 --> 01:19:34,220
+It's very simple though.
+
+1596
+01:19:34,220 --> 01:19:36,290
+Just brick.tier times 200.
+
+1597
+01:19:36,290 --> 01:19:38,270
+So make the tiers worth 100.
+
+1598
+01:19:38,270 --> 01:19:41,470
+Plus brick.color times 25.
+
+1599
+01:19:41,470 --> 01:19:43,520
+And so if tier is zero,
+if it's a base then we're
+
+1600
+01:19:43,520 --> 01:19:44,990
+just not going to get that 200 bonus.
+
+1601
+01:19:44,990 --> 01:19:47,115
+But the first tier, everything
+is going to be worth
+
+1602
+01:19:47,115 --> 01:19:49,490
+25 times whatever its color is.
+
+1603
+01:19:49,490 --> 01:19:52,400
+So one, two, three, four, five.
+
+1604
+01:19:52,400 --> 01:19:55,790
+And then add 200 plus
+the brick.color for when
+
+1605
+01:19:55,790 --> 01:19:58,760
+we get to the next set of bricks.
+
+1606
+01:19:58,760 --> 01:20:01,140
+And so the result of this is--
+
+1607
+01:20:05,680 --> 01:20:10,120
+I believe this is GUI Breakout7.
+
+1608
+01:20:14,100 --> 01:20:15,680
+And then if we hit a brick--
+
+1609
+01:20:15,680 --> 01:20:17,520
+since this one is blue,
+it should disappear.
+
+1610
+01:20:17,520 --> 01:20:19,103
+And we're playing a new sound as well.
+
+1611
+01:20:19,103 --> 01:20:21,285
+New, like, death sound
+just to make it clear.
+
+1612
+01:20:24,710 --> 01:20:26,337
+But notice they change colors.
+
+1613
+01:20:26,337 --> 01:20:27,420
+So that's all we're doing.
+
+1614
+01:20:27,420 --> 01:20:29,960
+We're just taking their
+tier or their color
+
+1615
+01:20:29,960 --> 01:20:32,330
+and just performing a
+simple decrement on it.
+
+1616
+01:20:32,330 --> 01:20:33,650
+Looping back.
+
+1617
+01:20:33,650 --> 01:20:36,620
+In the event that we go down
+a tier, we should loop back up
+
+1618
+01:20:36,620 --> 01:20:39,440
+to the highest color of the lower tier.
+
+1619
+01:20:39,440 --> 01:20:41,390
+So I'll let you look
+at the code for that
+
+1620
+01:20:41,390 --> 01:20:44,060
+if you want to sort of get a more
+low level understanding of it,
+
+1621
+01:20:44,060 --> 01:20:46,192
+but that's the sort of
+high level understanding.
+
+1622
+01:20:46,192 --> 01:20:48,650
+The next big concept that I'd
+like to introduce you guys to
+
+1623
+01:20:48,650 --> 01:20:51,080
+is a particle system.
+
+1624
+01:20:51,080 --> 01:20:57,420
+And so particle systems are
+fairly omnipresent in video games,
+
+1625
+01:20:57,420 --> 01:20:59,510
+I would say, because
+they make effects that
+
+1626
+01:20:59,510 --> 01:21:02,090
+or otherwise difficult
+to do with simple sprite
+
+1627
+01:21:02,090 --> 01:21:05,720
+editing achievable very
+easily and realistically.
+
+1628
+01:21:05,720 --> 01:21:07,200
+Just like fire, for example.
+
+1629
+01:21:07,200 --> 01:21:10,417
+Things that are very organic, and
+flowy, and have a lot going on
+
+1630
+01:21:10,417 --> 01:21:12,500
+are often better represented
+with particle systems
+
+1631
+01:21:12,500 --> 01:21:15,260
+than they are with
+simple sprite animation.
+
+1632
+01:21:15,260 --> 01:21:18,230
+So does anybody know how
+we might be able to--
+
+1633
+01:21:18,230 --> 01:21:22,010
+how a particle system might
+work underneath the hood?
+
+1634
+01:21:22,010 --> 01:21:26,304
+I think I alluded to it previously.
+
+1635
+01:21:26,304 --> 01:21:26,803
+Yes.
+
+1636
+01:21:26,803 --> 01:21:33,879
+AUDIENCE: [INAUDIBLE]
+
+1637
+01:21:33,879 --> 01:21:34,670
+COLTON OGDEN: Yeah.
+
+1638
+01:21:34,670 --> 01:21:38,740
+So what he said was
+in order to make fire,
+
+1639
+01:21:38,740 --> 01:21:41,650
+for example, just spawn
+a bunch of particles
+
+1640
+01:21:41,650 --> 01:21:45,320
+close to the center of wherever your
+fire is spawning and then outside of it
+
+1641
+01:21:45,320 --> 01:21:46,450
+spawn fewer.
+
+1642
+01:21:46,450 --> 01:21:49,900
+That is absolutely a
+way to get fire to work,
+
+1643
+01:21:49,900 --> 01:21:54,190
+and also taking into consideration
+the travel of your particles.
+
+1644
+01:21:54,190 --> 01:21:57,580
+For example, you might spawn a ton
+of fire particles really densely,
+
+1645
+01:21:57,580 --> 01:22:00,580
+but then maybe they have some
+logic that makes them go upwards.
+
+1646
+01:22:00,580 --> 01:22:04,400
+Maybe they have a negative delta Y
+and then some sort of acceleration
+
+1647
+01:22:04,400 --> 01:22:06,040
+so they've sort of trail off.
+
+1648
+01:22:06,040 --> 01:22:10,270
+And then maybe sort of how
+to get a more realistic fire
+
+1649
+01:22:10,270 --> 01:22:13,720
+look, they travel sort of
+upwards and then fade away.
+
+1650
+01:22:13,720 --> 01:22:16,690
+So the way fire works,
+sort of thinking of things
+
+1651
+01:22:16,690 --> 01:22:20,830
+in terms of particles like that,
+you can achieve a lot of effects.
+
+1652
+01:22:20,830 --> 01:22:23,360
+How might we implement,
+like, smoke, for example?
+
+1653
+01:22:23,360 --> 01:22:24,340
+Same system.
+
+1654
+01:22:29,250 --> 01:22:33,980
+So we could have maybe a
+timer in our particle effect,
+
+1655
+01:22:33,980 --> 01:22:36,170
+or even a transition
+because in particle systems,
+
+1656
+01:22:36,170 --> 01:22:39,300
+often you have the ability to
+transition colors between particles.
+
+1657
+01:22:39,300 --> 01:22:41,900
+Let's say you start
+off red, go to yellow,
+
+1658
+01:22:41,900 --> 01:22:44,996
+and then maybe your particle system
+transitions to gray or brown.
+
+1659
+01:22:44,996 --> 01:22:47,870
+And then over time, your particles
+are going up, they're dissipating.
+
+1660
+01:22:47,870 --> 01:22:50,210
+And they're also turning
+dark, they're turning brown,
+
+1661
+01:22:50,210 --> 01:22:52,820
+it sort of gives you
+the illusion of fire.
+
+1662
+01:22:52,820 --> 01:22:54,890
+And we won't be doing
+anything necessarily as
+
+1663
+01:22:54,890 --> 01:22:59,030
+complex as this in our code
+here, but in Breakout8, we
+
+1664
+01:22:59,030 --> 01:23:04,160
+will be using Love's sort of integrated
+particle system which is just
+
+1665
+01:23:04,160 --> 01:23:06,770
+love.graphics.newparticlesystem.
+
+1666
+01:23:06,770 --> 01:23:09,830
+And it takes in a texture because
+all particle systems need some sort
+
+1667
+01:23:09,830 --> 01:23:11,630
+of texture as their foundation.
+
+1668
+01:23:11,630 --> 01:23:15,920
+And then it needs the number of
+particles that it could maximally emit.
+
+1669
+01:23:15,920 --> 01:23:18,740
+And so each individual
+particle system can emit up
+
+1670
+01:23:18,740 --> 01:23:20,780
+to a certain instance of particles.
+
+1671
+01:23:20,780 --> 01:23:23,234
+And in the number, and
+speed, and whatnot of all
+
+1672
+01:23:23,234 --> 01:23:25,400
+those particles is ultimately
+the determining factor
+
+1673
+01:23:25,400 --> 01:23:28,850
+for how you can get an illusion.
+
+1674
+01:23:28,850 --> 01:23:32,722
+Back to last week's lecture, illusions,
+like, it's not fire, it's not smoke,
+
+1675
+01:23:32,722 --> 01:23:34,430
+it's just a bunch of
+particles responding
+
+1676
+01:23:34,430 --> 01:23:36,740
+with colors and acceleration and stuff.
+
+1677
+01:23:36,740 --> 01:23:40,940
+But there's a lot of functions that
+particle system gives you in Love2D,
+
+1678
+01:23:40,940 --> 01:23:44,240
+so I encourage you to look at that
+link just to explore some of them.
+
+1679
+01:23:44,240 --> 01:23:48,530
+Love2d.org/wiki/particlesystem.
+
+1680
+01:23:48,530 --> 01:23:49,930
+We'll be using a few of them.
+
+1681
+01:23:49,930 --> 01:23:53,330
+Here I'm going to just briefly show you.
+
+1682
+01:23:53,330 --> 01:23:57,890
+So each individual
+brick when it gets hit
+
+1683
+01:23:57,890 --> 01:23:59,895
+is going to need a
+particle system of its own.
+
+1684
+01:23:59,895 --> 01:24:00,770
+Because our goal is--
+
+1685
+01:24:00,770 --> 01:24:03,870
+I'll run the code for
+you so you can see it.
+
+1686
+01:24:03,870 --> 01:24:09,290
+So if you go to Breakout8
+and then you run it,
+
+1687
+01:24:09,290 --> 01:24:18,390
+we have a little bit of particles
+you saw there at the very end.
+
+1688
+01:24:18,390 --> 01:24:22,250
+The blue you were probably able
+to see a little bit better.
+
+1689
+01:24:22,250 --> 01:24:25,150
+And then one last time.
+
+1690
+01:24:25,150 --> 01:24:27,340
+So it spawns a bunch
+of little particles.
+
+1691
+01:24:27,340 --> 01:24:30,970
+So can anyone tell me how
+they think the particles are
+
+1692
+01:24:30,970 --> 01:24:33,670
+behaving sort of in a nutshell?
+
+1693
+01:24:33,670 --> 01:24:38,354
+What the logic is for the particles?
+
+1694
+01:24:38,354 --> 01:24:40,819
+AUDIENCE: [INAUDIBLE] slightly random.
+
+1695
+01:24:40,819 --> 01:24:41,610
+COLTON OGDEN: Yeah.
+
+1696
+01:24:41,610 --> 01:24:42,400
+Slightly random.
+
+1697
+01:24:42,400 --> 01:24:45,940
+And if you look at it, you'll also
+notice that they tend to go downwards.
+
+1698
+01:24:49,030 --> 01:24:52,210
+So knowing that, we can
+probably just assume
+
+1699
+01:24:52,210 --> 01:24:57,080
+that they have an acceleration
+that tends towards positive Y.
+
+1700
+01:24:57,080 --> 01:24:59,080
+And that's essentially
+all we really need to do.
+
+1701
+01:24:59,080 --> 01:25:02,560
+We spawn a bunch of particles
+outwards and then just set them--
+
+1702
+01:25:02,560 --> 01:25:04,000
+they have all a lifetime.
+
+1703
+01:25:04,000 --> 01:25:06,250
+They last for a certain amount of time.
+
+1704
+01:25:06,250 --> 01:25:09,490
+And then they fade between two colors.
+
+1705
+01:25:09,490 --> 01:25:16,150
+In this case, we fade from red to
+transparent or whatever color it is.
+
+1706
+01:25:16,150 --> 01:25:23,260
+And then after the lifetimes
+elapsed, it has the overall effect
+
+1707
+01:25:23,260 --> 01:25:25,810
+of sort of this glimmering,
+gravity based effect,
+
+1708
+01:25:25,810 --> 01:25:27,280
+but it's really just a
+bunch of particles that are
+
+1709
+01:25:27,280 --> 01:25:28,821
+set to spawn in different directions.
+
+1710
+01:25:28,821 --> 01:25:30,260
+Apologize for that.
+
+1711
+01:25:30,260 --> 01:25:32,110
+So we'll take a look.
+
+1712
+01:25:32,110 --> 01:25:38,130
+It's going to be in our brick
+class here in Breakout8.
+
+1713
+01:25:38,130 --> 01:25:39,380
+So we're going to go to brick.
+
+1714
+01:25:42,290 --> 01:25:45,260
+We have a bunch of colors
+that we're storing here.
+
+1715
+01:25:45,260 --> 01:25:49,820
+So if you notice, the particle systems
+adopt the color of whatever brick
+
+1716
+01:25:49,820 --> 01:25:52,430
+they're hitting just so that
+it stays sort of congruent
+
+1717
+01:25:52,430 --> 01:25:54,185
+with what we're looking at.
+
+1718
+01:25:54,185 --> 01:25:56,060
+So we're just storing
+a bunch of colors here.
+
+1719
+01:25:56,060 --> 01:25:57,950
+And I wouldn't worry
+too much about this.
+
+1720
+01:25:57,950 --> 01:25:59,824
+These are just colors
+from the sprite palette
+
+1721
+01:25:59,824 --> 01:26:01,760
+that we used with our sprite art.
+
+1722
+01:26:01,760 --> 01:26:04,490
+There's specific colors that
+are only used in that sprite.
+
+1723
+01:26:04,490 --> 01:26:06,487
+And having a palette,
+generally speaking,
+
+1724
+01:26:06,487 --> 01:26:08,570
+allows your art to look a
+little bit more cohesive
+
+1725
+01:26:08,570 --> 01:26:11,694
+when you're doing sprite art as opposed
+to just picking colors willy nilly.
+
+1726
+01:26:11,694 --> 01:26:15,320
+If you say, oh, I'm going to only
+use 16 or 32 colors for this palette,
+
+1727
+01:26:15,320 --> 01:26:17,840
+you'll sort of have a more
+cohesive look and also
+
+1728
+01:26:17,840 --> 01:26:20,780
+a very retro look because
+often hardware was
+
+1729
+01:26:20,780 --> 01:26:25,190
+limited to a certain amount of colors
+back in the day for older systems.
+
+1730
+01:26:25,190 --> 01:26:26,960
+So it's nice to--
+
+1731
+01:26:26,960 --> 01:26:30,050
+as an aside-- and we'll look
+at it next week as well.
+
+1732
+01:26:30,050 --> 01:26:34,137
+Looking at when you're doing your own
+sprite art, try to use fewer colors
+
+1733
+01:26:34,137 --> 01:26:36,720
+and then that will give you--
+it also makes it easier for you.
+
+1734
+01:26:36,720 --> 01:26:40,970
+You don't have to spend time choosing
+I want to have this shade of green.
+
+1735
+01:26:40,970 --> 01:26:42,240
+I wonder if it looks good.
+
+1736
+01:26:42,240 --> 01:26:45,634
+If you only have two shades of green
+or semi shades of green to choose from,
+
+1737
+01:26:45,634 --> 01:26:46,550
+that's all you've got.
+
+1738
+01:26:46,550 --> 01:26:48,302
+You have to make do
+with it what you can.
+
+1739
+01:26:48,302 --> 01:26:51,260
+So what we're doing here is we're
+storing five colors from our palette.
+
+1740
+01:26:51,260 --> 01:26:52,430
+We're going to use this.
+
+1741
+01:26:52,430 --> 01:26:54,920
+And then when we trigger our--
+
+1742
+01:26:54,920 --> 01:26:57,980
+so right here we're
+initializing a particle system.
+
+1743
+01:26:57,980 --> 01:27:02,150
+So psystem gets
+love.graphics.newparticlesystem.
+
+1744
+01:27:02,150 --> 01:27:04,130
+And then these are a few functions.
+
+1745
+01:27:04,130 --> 01:27:07,370
+So feel free to look in the wiki for
+how these functions actually behave.
+
+1746
+01:27:07,370 --> 01:27:10,550
+But lifetime acceleration
+and area spread
+
+1747
+01:27:10,550 --> 01:27:13,190
+just are sort of the
+properties that influence
+
+1748
+01:27:13,190 --> 01:27:15,330
+the way our particle systems behave.
+
+1749
+01:27:15,330 --> 01:27:17,600
+And so using whatever
+our current color is,
+
+1750
+01:27:17,600 --> 01:27:21,230
+we're going to set our psystem's
+colors using setcolors function.
+
+1751
+01:27:21,230 --> 01:27:23,200
+We're going to set it
+between two colors.
+
+1752
+01:27:23,200 --> 01:27:28,796
+Color with 55 times tier alpha
+and color with zero alpha.
+
+1753
+01:27:28,796 --> 01:27:30,920
+So the higher the tier,
+the brighter the particles,
+
+1754
+01:27:30,920 --> 01:27:34,130
+but they'll always fade to zero
+alpha, if that makes sense.
+
+1755
+01:27:34,130 --> 01:27:35,760
+And then we'll just emit 64.
+
+1756
+01:27:35,760 --> 01:27:37,650
+And this is all in the hit function.
+
+1757
+01:27:37,650 --> 01:27:42,020
+So all we've basically done is just add
+this particle system trigger in our hit
+
+1758
+01:27:42,020 --> 01:27:46,170
+function, and it has the result of
+the behavior that we saw earlier.
+
+1759
+01:27:46,170 --> 01:27:49,700
+So any questions on particle
+systems or how we use them?
+
+1760
+01:27:53,220 --> 01:27:55,830
+So level 9 is the progression update.
+
+1761
+01:27:55,830 --> 01:27:59,880
+So the purpose of this update is
+to allow us to go from level one
+
+1762
+01:27:59,880 --> 01:28:04,170
+to two to three to four and
+start get more interesting level
+
+1763
+01:28:04,170 --> 01:28:06,510
+generation that way.
+
+1764
+01:28:06,510 --> 01:28:09,480
+The gist of this is in our--
+
+1765
+01:28:09,480 --> 01:28:11,932
+so if you look at our StartState--
+
+1766
+01:28:16,180 --> 01:28:22,090
+so all we need to really do to store
+a level is just to store a number.
+
+1767
+01:28:22,090 --> 01:28:24,850
+And then where do we
+increment the number?
+
+1768
+01:28:24,850 --> 01:28:28,069
+Or when do we increment
+the number I should say?
+
+1769
+01:28:28,069 --> 01:28:33,914
+AUDIENCE: [INAUDIBLE]
+
+1770
+01:28:33,914 --> 01:28:34,830
+COLTON OGDEN: Exactly.
+
+1771
+01:28:34,830 --> 01:28:40,590
+So we increment the level.
+
+1772
+01:28:40,590 --> 01:28:43,560
+We go to the next level
+when all of the bricks
+
+1773
+01:28:43,560 --> 01:28:47,310
+are in play have gotten there
+in play flag set to false.
+
+1774
+01:28:47,310 --> 01:28:52,720
+So we have no pricks that
+are in play effectively.
+
+1775
+01:28:52,720 --> 01:28:54,840
+So in our StartState--
+
+1776
+01:28:54,840 --> 01:28:57,086
+so let's go ahead and look at Breakout9.
+
+1777
+01:29:00,990 --> 01:29:02,147
+So StartState.
+
+1778
+01:29:05,803 --> 01:29:07,711
+We're passing in level gets one here.
+
+1779
+01:29:07,711 --> 01:29:08,960
+We're just going to start off.
+
+1780
+01:29:08,960 --> 01:29:12,043
+When we're going to StartState, we're
+just going to pass level equals one.
+
+1781
+01:29:12,043 --> 01:29:17,450
+And then henceforth, anytime we do
+any state changes from play to serve
+
+1782
+01:29:17,450 --> 01:29:19,940
+and to victory, as we'll
+see, victory being our new,
+
+1783
+01:29:19,940 --> 01:29:21,750
+oh, you cleared this level.
+
+1784
+01:29:21,750 --> 01:29:22,690
+Here's the next level.
+
+1785
+01:29:22,690 --> 01:29:27,050
+We're just going to pass
+the level between them.
+
+1786
+01:29:27,050 --> 01:29:37,962
+And then in PlayState, the important
+bit of code here is on line 204.
+
+1787
+01:29:37,962 --> 01:29:39,920
+So this is just a function
+called checkVictory,
+
+1788
+01:29:39,920 --> 01:29:41,480
+which is exactly as James said.
+
+1789
+01:29:44,090 --> 01:29:48,590
+We're going to iterate over the entire
+table and just say if it's in play,
+
+1790
+01:29:48,590 --> 01:29:50,360
+return false because
+we're not in victory
+
+1791
+01:29:50,360 --> 01:29:52,070
+if we have any bricks that are in play.
+
+1792
+01:29:52,070 --> 01:29:55,850
+But return true if we
+didn't meet that condition.
+
+1793
+01:29:55,850 --> 01:29:59,390
+And so this is just a simple way
+for us to check whether or not
+
+1794
+01:29:59,390 --> 01:30:02,730
+we are in a victory.
+
+1795
+01:30:02,730 --> 01:30:05,800
+And so on line 88 of the
+same file in our PlayState,
+
+1796
+01:30:05,800 --> 01:30:09,560
+we're just checking to say, hey, if
+self.checkVictory after we do any brick
+
+1797
+01:30:09,560 --> 01:30:10,160
+hit--
+
+1798
+01:30:10,160 --> 01:30:13,370
+because that's when we've just
+set a brick to in play is false--
+
+1799
+01:30:13,370 --> 01:30:14,880
+just check victory.
+
+1800
+01:30:14,880 --> 01:30:17,900
+And if so, play a new
+sound like a happy sound
+
+1801
+01:30:17,900 --> 01:30:20,390
+that we've done a victory,
+and then just pass everything
+
+1802
+01:30:20,390 --> 01:30:22,400
+into the new VictoryState
+that we have here.
+
+1803
+01:30:22,400 --> 01:30:27,410
+And the VictoryState is simply
+a sort of just a message state.
+
+1804
+01:30:27,410 --> 01:30:30,630
+So all it does is just
+renders everything as before,
+
+1805
+01:30:30,630 --> 01:30:34,150
+but it just says your
+current level complete.
+
+1806
+01:30:34,150 --> 01:30:36,342
+Self.level complete.
+
+1807
+01:30:36,342 --> 01:30:39,050
+And then press Enter to serve and
+it'll go back to the ServeState
+
+1808
+01:30:39,050 --> 01:30:41,100
+as soon as that happens.
+
+1809
+01:30:41,100 --> 01:30:47,270
+And then here is where the
+actual progression happens.
+
+1810
+01:30:47,270 --> 01:30:51,450
+When we go to the ServeState, we have
+our level but we want to add one to it.
+
+1811
+01:30:51,450 --> 01:30:57,320
+So all we need to do when we trigger
+a transition into our next state, just
+
+1812
+01:30:57,320 --> 01:31:01,550
+increment level by one
+here, and also create
+
+1813
+01:31:01,550 --> 01:31:05,470
+a new map because bricks needs to get
+restarted because we have a new level.
+
+1814
+01:31:05,470 --> 01:31:07,680
+Self.level plus one.
+
+1815
+01:31:07,680 --> 01:31:12,820
+And that'll have the effect of, oh,
+we've gone from level one to two
+
+1816
+01:31:12,820 --> 01:31:17,480
+to three to four et cetera when we go
+between PlayState to the VictoryState
+
+1817
+01:31:17,480 --> 01:31:19,110
+back to the ServeState.
+
+1818
+01:31:19,110 --> 01:31:21,420
+So any questions on
+how any of this works?
+
+1819
+01:31:21,420 --> 01:31:21,920
+Yes.
+
+1820
+01:31:21,920 --> 01:31:24,545
+AUDIENCE: Do you have to worry
+about garbage collection for any
+
+1821
+01:31:24,545 --> 01:31:26,294
+of the bricks at all?
+
+1822
+01:31:26,294 --> 01:31:28,211
+Or is that handled by
+the Love engine somehow?
+
+1823
+01:31:28,211 --> 01:31:30,377
+COLTON OGDEN: Garbage
+collection is handled by Love.
+
+1824
+01:31:30,377 --> 01:31:31,060
+Yes.
+
+1825
+01:31:31,060 --> 01:31:31,560
+Yeah.
+
+1826
+01:31:31,560 --> 01:31:32,760
+AUDIENCE: [INAUDIBLE]
+
+1827
+01:31:32,760 --> 01:31:33,510
+COLTON OGDEN: Yes.
+
+1828
+01:31:33,510 --> 01:31:37,550
+Because the question was, do you have
+to worry about garbage collection
+
+1829
+01:31:37,550 --> 01:31:40,880
+when we are sort of clearing away
+the bricks and adding new bricks?
+
+1830
+01:31:40,880 --> 01:31:45,950
+The self.bricks table,
+this table here, it's
+
+1831
+01:31:45,950 --> 01:31:48,950
+getting assigned to a brand new
+table from levelmap.createmap.
+
+1832
+01:31:48,950 --> 01:31:51,950
+When there are no references
+to an existing table,
+
+1833
+01:31:51,950 --> 01:31:54,290
+lua's garbage collector
+will trigger at whatever
+
+1834
+01:31:54,290 --> 01:31:57,410
+interval it's set to trigger and
+clear up all that for you dynamically.
+
+1835
+01:31:57,410 --> 01:32:00,050
+Just like the same way that Java works.
+
+1836
+01:32:00,050 --> 01:32:02,810
+Almost identical.
+
+1837
+01:32:02,810 --> 01:32:06,170
+Any other questions?
+
+1838
+01:32:06,170 --> 01:32:07,690
+All right.
+
+1839
+01:32:07,690 --> 01:32:10,020
+So we have progression.
+
+1840
+01:32:10,020 --> 01:32:11,500
+In the sake of speed, I won't demo.
+
+1841
+01:32:11,500 --> 01:32:14,499
+It also takes a while just because
+we have to clear an entire level then
+
+1842
+01:32:14,499 --> 01:32:16,030
+get to the next level.
+
+1843
+01:32:16,030 --> 01:32:17,680
+But that's how the behavior works.
+
+1844
+01:32:17,680 --> 01:32:22,780
+The next sort of iteration
+of this is high scores.
+
+1845
+01:32:22,780 --> 01:32:30,040
+And I will test to make sure whether
+or not this is actually working.
+
+1846
+01:32:30,040 --> 01:32:31,730
+I know I changed some stuff.
+
+1847
+01:32:31,730 --> 01:32:32,230
+Yeah.
+
+1848
+01:32:32,230 --> 01:32:33,169
+So high score.
+
+1849
+01:32:33,169 --> 01:32:34,210
+Let's debug for a second.
+
+1850
+01:32:34,210 --> 01:32:41,863
+So HighScoreState line 38 in Breakout10.
+
+1851
+01:32:44,750 --> 01:32:46,730
+So HighScoreState.
+
+1852
+01:32:49,780 --> 01:32:54,030
+And then the issue was [INAUDIBLE]
+to index field high scores.
+
+1853
+01:32:54,030 --> 01:32:56,270
+A nil value.
+
+1854
+01:32:56,270 --> 01:32:57,000
+OK.
+
+1855
+01:32:57,000 --> 01:32:59,620
+So that means that--
+
+1856
+01:32:59,620 --> 01:33:00,120
+OK.
+
+1857
+01:33:00,120 --> 01:33:03,420
+I think I might know the
+issue, but it's because I
+
+1858
+01:33:03,420 --> 01:33:06,570
+transitioned to a new user that doesn't
+have a saved file active on this.
+
+1859
+01:33:06,570 --> 01:33:12,780
+The way that will transition,
+therefore, into love.file system, which
+
+1860
+01:33:12,780 --> 01:33:17,910
+is Breakout10's main new thing that
+it introduces-- so writing files
+
+1861
+01:33:17,910 --> 01:33:22,429
+to your file system is done
+[INAUDIBLE] with love.filesystem.
+
+1862
+01:33:22,429 --> 01:33:23,470
+And there's a few things.
+
+1863
+01:33:23,470 --> 01:33:28,870
+So Love automatically gives you
+a directory, a save directory
+
+1864
+01:33:28,870 --> 01:33:30,120
+that's pretty much hard coded.
+
+1865
+01:33:30,120 --> 01:33:33,960
+There are a few exceptions as to
+how to not use that directory,
+
+1866
+01:33:33,960 --> 01:33:36,480
+but it assumes that you're
+always using that directory.
+
+1867
+01:33:36,480 --> 01:33:42,750
+And with very few exceptions
+will you always use that folder.
+
+1868
+01:33:42,750 --> 01:33:47,460
+It's like app data local on
+Windows, and application support,
+
+1869
+01:33:47,460 --> 01:33:50,850
+and the name of your application on Mac.
+
+1870
+01:33:50,850 --> 01:33:53,490
+But it's a subfolder that Love
+has read and write access to
+
+1871
+01:33:53,490 --> 01:33:55,650
+for files on your file system.
+
+1872
+01:33:55,650 --> 01:33:59,940
+You can check whether it exists with
+love.filesystem.exists at some path.
+
+1873
+01:33:59,940 --> 01:34:03,870
+You can write to that path with some
+data, that data being a string value.
+
+1874
+01:34:03,870 --> 01:34:08,140
+And then love.filesystem.lines
+is an iterator,
+
+1875
+01:34:08,140 --> 01:34:11,040
+which will allow you to look
+over any of the data that's
+
+1876
+01:34:11,040 --> 01:34:12,720
+in a file at a given location.
+
+1877
+01:34:12,720 --> 01:34:13,395
+Yes.
+
+1878
+01:34:13,395 --> 01:34:16,010
+AUDIENCE: [INAUDIBLE]
+
+1879
+01:34:16,010 --> 01:34:17,010
+COLTON OGDEN: Yeah.
+
+1880
+01:34:17,010 --> 01:34:20,930
+AUDIENCE: Does this
+work if you [INAUDIBLE]
+
+1881
+01:34:20,930 --> 01:34:21,930
+COLTON OGDEN: It should.
+
+1882
+01:34:21,930 --> 01:34:24,150
+We can pull that up
+now actually and see.
+
+1883
+01:34:24,150 --> 01:34:28,500
+Because I know on their Love2D--
+
+1884
+01:34:28,500 --> 01:34:30,180
+so file system.
+
+1885
+01:34:30,180 --> 01:34:35,910
+So the question was he ported his--
+
+1886
+01:34:35,910 --> 01:34:39,390
+when you port your
+Love app to the iPhone,
+
+1887
+01:34:39,390 --> 01:34:43,440
+will it have the same sort
+of behavior if you're--
+
+1888
+01:34:47,867 --> 01:34:50,700
+on an iPhone, will it have the same
+sort of save directory behavior?
+
+1889
+01:34:50,700 --> 01:34:53,010
+And it looks like it's
+not officially on here.
+
+1890
+01:34:53,010 --> 01:34:57,840
+I know that there is
+an iOS port for Love2D,
+
+1891
+01:34:57,840 --> 01:35:02,458
+or the ability to send it to Love2D.
+
+1892
+01:35:02,458 --> 01:35:05,610
+AUDIENCE: [INAUDIBLE]
+
+1893
+01:35:05,610 --> 01:35:07,110
+COLTON OGDEN: I have to imagine yes.
+
+1894
+01:35:07,110 --> 01:35:08,359
+It probably has some sort of--
+
+1895
+01:35:08,359 --> 01:35:14,040
+I'm not entirely familiar with how
+iOS handles sort of local storage,
+
+1896
+01:35:14,040 --> 01:35:18,210
+but I'm assuming that just in the way
+that it's been abstracted for desktops
+
+1897
+01:35:18,210 --> 01:35:20,460
+and for Android, it's
+also abstracted for iOS.
+
+1898
+01:35:20,460 --> 01:35:22,320
+Haven't tested it myself.
+
+1899
+01:35:22,320 --> 01:35:25,260
+I would experiment and see
+actually maybe with this code.
+
+1900
+01:35:25,260 --> 01:35:29,200
+See if you can maybe get it working
+with persistent high scores.
+
+1901
+01:35:29,200 --> 01:35:33,292
+I know that iOS does typically let you
+store a small amount of data per app
+
+1902
+01:35:33,292 --> 01:35:35,250
+in some location, a fixed
+location, but I'm not
+
+1903
+01:35:35,250 --> 01:35:37,920
+entirely sure what that is offhand.
+
+1904
+01:35:37,920 --> 01:35:40,400
+I can look into it more
+and come up with a--
+
+1905
+01:35:40,400 --> 01:35:41,609
+AUDIENCE: [INAUDIBLE]
+
+1906
+01:35:41,609 --> 01:35:42,400
+COLTON OGDEN: Yeah.
+
+1907
+01:35:42,400 --> 01:35:45,180
+I mean, not from firsthand
+because I don't have an Android,
+
+1908
+01:35:45,180 --> 01:35:47,280
+but it has official Android support.
+
+1909
+01:35:47,280 --> 01:35:50,840
+So I'm guessing it does,
+but I haven't tested it.
+
+1910
+01:35:50,840 --> 01:35:53,710
+I have not tested it manually
+on Android to verify that.
+
+1911
+01:35:59,030 --> 01:36:00,190
+But yes.
+
+1912
+01:36:00,190 --> 01:36:03,420
+I believe-- because in the prior
+directory we were looking at when it
+
+1913
+01:36:03,420 --> 01:36:05,690
+showed--
+
+1914
+01:36:05,690 --> 01:36:08,690
+oh, it's actually up here.
+
+1915
+01:36:08,690 --> 01:36:09,750
+This path here.
+
+1916
+01:36:09,750 --> 01:36:14,640
+This data/user/0/love2d.android.
+
+1917
+01:36:14,640 --> 01:36:15,300
+file save.
+
+1918
+01:36:15,300 --> 01:36:18,990
+That looks to me like it's
+the official sort of path
+
+1919
+01:36:18,990 --> 01:36:22,050
+that data is stored on an
+Android device for application.
+
+1920
+01:36:22,050 --> 01:36:24,150
+So I haven't tested it myself.
+
+1921
+01:36:24,150 --> 01:36:27,360
+But if you have an Android and
+you're curious or maybe an emulator,
+
+1922
+01:36:27,360 --> 01:36:30,470
+give it a shot and see if it works.
+
+1923
+01:36:30,470 --> 01:36:32,970
+Oh, and it even says here, there
+are various save locations.
+
+1924
+01:36:32,970 --> 01:36:35,760
+And if they don't work, you can
+see what the actual location
+
+1925
+01:36:35,760 --> 01:36:37,200
+is with this function here.
+
+1926
+01:36:37,200 --> 01:36:39,540
+The love.filesystem.get save directory.
+
+1927
+01:36:39,540 --> 01:36:43,440
+That may work on iOS as well,
+so I'd be curious to hear about
+
+1928
+01:36:43,440 --> 01:36:45,360
+whether that actually works on that.
+
+1929
+01:36:50,790 --> 01:36:51,300
+Yeah.
+
+1930
+01:36:51,300 --> 01:36:52,260
+So that's the gist.
+
+1931
+01:36:52,260 --> 01:36:55,530
+Using the love.filesystem abstraction
+lets us read and write files.
+
+1932
+01:36:55,530 --> 01:36:58,470
+We can then just paste or we
+can just save whatever data
+
+1933
+01:36:58,470 --> 01:37:02,520
+we want anywhere within that directory.
+
+1934
+01:37:02,520 --> 01:37:06,090
+We can just create files in there
+and then use those to store our,
+
+1935
+01:37:06,090 --> 01:37:10,440
+you know, sort of game worlds, or
+character profiles, or whatnot.
+
+1936
+01:37:10,440 --> 01:37:14,445
+How would we maybe go about implementing
+sort of like a high score list?
+
+1937
+01:37:21,290 --> 01:37:21,860
+So I'll look.
+
+1938
+01:37:21,860 --> 01:37:24,360
+There's a picture here.
+
+1939
+01:37:24,360 --> 01:37:27,320
+So we have 10 scores.
+
+1940
+01:37:27,320 --> 01:37:29,390
+We'll assume that's fixed.
+
+1941
+01:37:29,390 --> 01:37:34,650
+Each of the scores has a name, and then
+each of the scores has an actual score.
+
+1942
+01:37:34,650 --> 01:37:39,230
+So all we really need to do is
+just store ultimately the names
+
+1943
+01:37:39,230 --> 01:37:42,190
+and then the scores.
+
+1944
+01:37:42,190 --> 01:37:47,680
+AUDIENCE: [INAUDIBLE]
+
+1945
+01:37:47,680 --> 01:37:49,180
+COLTON OGDEN: So we'll use an array.
+
+1946
+01:37:49,180 --> 01:37:53,371
+Their response was we'll use an
+array as sorted by that score.
+
+1947
+01:37:53,371 --> 01:37:53,870
+Yeah.
+
+1948
+01:37:53,870 --> 01:37:55,120
+Essentially that's exactly it.
+
+1949
+01:37:55,120 --> 01:37:57,560
+We're just going to keep a
+score table and each table
+
+1950
+01:37:57,560 --> 01:37:59,069
+is going to have a sub table.
+
+1951
+01:37:59,069 --> 01:38:00,860
+And each of those
+entries, one through ten,
+
+1952
+01:38:00,860 --> 01:38:02,870
+is going to have a name and a score.
+
+1953
+01:38:02,870 --> 01:38:05,300
+And then once we're done
+with our application,
+
+1954
+01:38:05,300 --> 01:38:07,790
+we'll just use love.filesystem.write.
+
+1955
+01:38:07,790 --> 01:38:10,460
+We'll have to convert all
+of those into a string
+
+1956
+01:38:10,460 --> 01:38:15,200
+because we can't just take a table
+and then spit that out into a file.
+
+1957
+01:38:15,200 --> 01:38:18,230
+We have to actually make it
+into some form that we can save
+
+1958
+01:38:18,230 --> 01:38:20,880
+and then reload back in somehow.
+
+1959
+01:38:20,880 --> 01:38:24,295
+What would be the most efficient way,
+do you think, or a way we can do this?
+
+1960
+01:38:28,950 --> 01:38:31,995
+Probably just a new line separated list.
+
+1961
+01:38:31,995 --> 01:38:33,870
+The way that I've done
+it in this application
+
+1962
+01:38:33,870 --> 01:38:39,570
+is just names, and then new line,
+score, new line, name, new line, score.
+
+1963
+01:38:39,570 --> 01:38:41,280
+10, so 20 rows.
+
+1964
+01:38:41,280 --> 01:38:43,130
+And that gets the job done.
+
+1965
+01:38:43,130 --> 01:38:46,772
+Assuming that you don't tamper with
+the file, then everything should work.
+
+1966
+01:38:46,772 --> 01:38:48,480
+And you can write
+additional code as well
+
+1967
+01:38:48,480 --> 01:38:51,845
+to say, oh, if there
+is a score that's all
+
+1968
+01:38:51,845 --> 01:38:53,970
+garbled, we don't have
+enough scores, then probably
+
+1969
+01:38:53,970 --> 01:38:55,500
+should render it accordingly.
+
+1970
+01:38:55,500 --> 01:38:59,272
+My code does something similar
+to this, but not entirely.
+
+1971
+01:39:02,370 --> 01:39:06,240
+The relevant code-- and I'm going
+to sort of just glaze over it.
+
+1972
+01:39:06,240 --> 01:39:08,640
+If we're looking at--
+this is Breakout11, right?
+
+1973
+01:39:08,640 --> 01:39:09,140
+Yeah.
+
+1974
+01:39:09,140 --> 01:39:11,550
+Oh, no, this is Breakout10.
+
+1975
+01:39:11,550 --> 01:39:14,850
+So in Breakout10, we have
+to load all the high scores
+
+1976
+01:39:14,850 --> 01:39:16,810
+in main.lua, which is here.
+
+1977
+01:39:16,810 --> 01:39:19,680
+So set identity to Breakout or
+create a folder called Breakout
+
+1978
+01:39:19,680 --> 01:39:22,170
+that we can save and
+read files to and from.
+
+1979
+01:39:22,170 --> 01:39:24,450
+If it doesn't exist,
+then just create them.
+
+1980
+01:39:24,450 --> 01:39:26,910
+In this case, I'm just
+seeding CTO my initials.
+
+1981
+01:39:26,910 --> 01:39:28,870
+And then I times 1,000.
+
+1982
+01:39:28,870 --> 01:39:30,990
+So 10,000 down to 1,000.
+
+1983
+01:39:30,990 --> 01:39:33,314
+Just very simple data.
+
+1984
+01:39:33,314 --> 01:39:34,980
+Writing into a file called breakout.lst.
+
+1985
+01:39:34,980 --> 01:39:36,300
+It can be whatever you want.
+
+1986
+01:39:36,300 --> 01:39:40,620
+All we're doing is reading lines
+from the data, or from the file.
+
+1987
+01:39:40,620 --> 01:39:42,540
+And then this is if it doesn't exist.
+
+1988
+01:39:42,540 --> 01:39:50,100
+And then if it does exist, then
+we're going to iterate over it
+
+1989
+01:39:50,100 --> 01:39:53,730
+with love.filesystem.line,
+which will take a file
+
+1990
+01:39:53,730 --> 01:39:56,460
+and then just split it on new
+lines basically and give you
+
+1991
+01:39:56,460 --> 01:39:58,200
+an iterator over all those lines.
+
+1992
+01:39:58,200 --> 01:40:00,540
+So it can just say, OK,
+if it's a name, which
+
+1993
+01:40:00,540 --> 01:40:06,120
+means that if it's one or three
+or five or seven in the list,
+
+1994
+01:40:06,120 --> 01:40:08,990
+then set the name to--
+
+1995
+01:40:08,990 --> 01:40:11,460
+and we're using string.sub
+just in case they
+
+1996
+01:40:11,460 --> 01:40:14,270
+write some long name or some
+long name gets-- they can't do it
+
+1997
+01:40:14,270 --> 01:40:17,640
+through our game, but if it gets
+written to the file as some long name,
+
+1998
+01:40:17,640 --> 01:40:19,770
+it should get truncated
+to three characters
+
+1999
+01:40:19,770 --> 01:40:22,360
+so we can display it appropriately.
+
+2000
+01:40:22,360 --> 01:40:24,850
+And then otherwise if
+we're not on a name line,
+
+2001
+01:40:24,850 --> 01:40:28,140
+if we're on, like, an
+odd line or even line,
+
+2002
+01:40:28,140 --> 01:40:32,140
+we should consider that a
+score and just use to number.
+
+2003
+01:40:32,140 --> 01:40:37,154
+Because we're using string
+data and if we try to assign,
+
+2004
+01:40:37,154 --> 01:40:39,570
+do any sort of comparisons
+numerically on the string data,
+
+2005
+01:40:39,570 --> 01:40:41,790
+which we will have to do
+to compare high scores,
+
+2006
+01:40:41,790 --> 01:40:44,160
+it's not going to work because it's
+going to see that there's strings.
+
+2007
+01:40:44,160 --> 01:40:45,330
+So we use to number here.
+
+2008
+01:40:45,330 --> 01:40:46,819
+Just a simple Lua function.
+
+2009
+01:40:46,819 --> 01:40:47,610
+And then that's it.
+
+2010
+01:40:47,610 --> 01:40:50,430
+And then we just return scores.
+
+2011
+01:40:50,430 --> 01:40:53,490
+And then I'll sort out
+what's causing the issue,
+
+2012
+01:40:53,490 --> 01:40:56,880
+and then push that to the repo ASAP.
+
+2013
+01:40:56,880 --> 01:41:00,690
+But that has the effect of us being able
+to actually load all of our high scores
+
+2014
+01:41:00,690 --> 01:41:03,790
+and display them at
+the start of the game.
+
+2015
+01:41:03,790 --> 01:41:08,680
+It doesn't take care of being
+able to actually input our score.
+
+2016
+01:41:08,680 --> 01:41:12,870
+And so we can do this with Breakout11,
+which you can see if you run the repo.
+
+2017
+01:41:12,870 --> 01:41:17,580
+And you can test just to assign your
+initial score to some value like 10,000
+
+2018
+01:41:17,580 --> 01:41:19,890
+or 20,000, and then just
+lose on purpose and you
+
+2019
+01:41:19,890 --> 01:41:21,990
+get a sense of how it actually works.
+
+2020
+01:41:21,990 --> 01:41:24,010
+But essentially, it's just arcade style.
+
+2021
+01:41:24,010 --> 01:41:26,760
+You know, you had only three
+characters you could input your name.
+
+2022
+01:41:26,760 --> 01:41:31,530
+So does anybody have any idea as
+to how we are sort of storing this,
+
+2023
+01:41:31,530 --> 01:41:32,670
+or can pitch an idea?
+
+2024
+01:41:36,720 --> 01:41:41,100
+So we have three
+characters and we want to--
+
+2025
+01:41:41,100 --> 01:41:45,330
+ideally if we're, let's say I
+want to go to C on the first one.
+
+2026
+01:41:45,330 --> 01:41:52,526
+Let's say I pressed up twice so I get
+to C. How is it going from A to C?
+
+2027
+01:41:52,526 --> 01:41:54,610
+You could just say,
+you could just render
+
+2028
+01:41:54,610 --> 01:41:58,900
+I want to render the character A,
+the character A, the character A,
+
+2029
+01:41:58,900 --> 01:42:01,700
+but how is it going to know when
+you want to go to B, or C, or D.
+
+2030
+01:42:01,700 --> 01:42:15,116
+AUDIENCE: [INAUDIBLE]
+
+2031
+01:42:15,116 --> 01:42:16,990
+COLTON OGDEN: The pitch
+was, you could create
+
+2032
+01:42:16,990 --> 01:42:19,406
+a table with all of the
+characters and iterate through it.
+
+2033
+01:42:19,406 --> 01:42:22,450
+You absolutely could do that.
+
+2034
+01:42:22,450 --> 01:42:23,740
+It's a little bit bulky.
+
+2035
+01:42:23,740 --> 01:42:24,880
+That might be what--
+
+2036
+01:42:24,880 --> 01:42:28,720
+actually, that's probably not how
+arcade systems did it back in the day.
+
+2037
+01:42:28,720 --> 01:42:38,680
+Because the way that we're going
+to do it here in Breakout11 is I
+
+2038
+01:42:38,680 --> 01:42:43,780
+added a new state called
+EnterHighScoreState.
+
+2039
+01:42:43,780 --> 01:42:46,390
+And if you recall, CS50 teaches this.
+
+2040
+01:42:46,390 --> 01:42:51,260
+But all sort of characters at the
+end of the day are just numbers.
+
+2041
+01:42:51,260 --> 01:42:53,740
+ASCI.
+
+2042
+01:42:53,740 --> 01:42:58,030
+In this case, 65, if you
+recall, is capital A.
+
+2043
+01:42:58,030 --> 01:43:03,640
+So all we need to do is just
+draw out whatever that character
+
+2044
+01:43:03,640 --> 01:43:06,590
+cast to a string is, or character.
+
+2045
+01:43:06,590 --> 01:43:11,740
+And we do that simply down
+here in the draw function.
+
+2046
+01:43:11,740 --> 01:43:19,962
+If we do string.char, at char is three.
+
+2047
+01:43:19,962 --> 01:43:22,420
+All that has the effect of
+doing is just taking that number
+
+2048
+01:43:22,420 --> 01:43:25,660
+and then converting it to a character.
+
+2049
+01:43:25,660 --> 01:43:27,520
+So all we need to do then is what?
+
+2050
+01:43:27,520 --> 01:43:33,006
+When we want to go from
+A to B, B to C, C to D.
+
+2051
+01:43:33,006 --> 01:43:35,654
+AUDIENCE: [INAUDIBLE]
+
+2052
+01:43:35,654 --> 01:43:36,570
+COLTON OGDEN: Exactly.
+
+2053
+01:43:36,570 --> 01:43:39,165
+But then what happens if we're
+at A and we want to go down?
+
+2054
+01:43:39,165 --> 01:43:41,102
+AUDIENCE: [INAUDIBLE]
+
+2055
+01:43:41,102 --> 01:43:42,060
+COLTON OGDEN: We would.
+
+2056
+01:43:42,060 --> 01:43:49,650
+So if we're at A, then if we press
+downward and we want to go to Z,
+
+2057
+01:43:49,650 --> 01:43:50,670
+the logic is in here.
+
+2058
+01:43:53,580 --> 01:43:59,280
+But one we've incremented our code,
+if it's greater than 90, which is Z,
+
+2059
+01:43:59,280 --> 01:44:00,670
+then we should set it back to 65.
+
+2060
+01:44:00,670 --> 01:44:01,560
+We'll loop back to A.
+
+2061
+01:44:01,560 --> 01:44:02,820
+And same thing here.
+
+2062
+01:44:02,820 --> 01:44:06,630
+If we press down and we're at
+A, we've got to go back up to Z,
+
+2063
+01:44:06,630 --> 01:44:08,130
+so we just set it to 90.
+
+2064
+01:44:08,130 --> 01:44:09,690
+So simple loop back logic.
+
+2065
+01:44:09,690 --> 01:44:11,940
+And we just draw it, we highlight.
+
+2066
+01:44:11,940 --> 01:44:14,940
+And then once we've done
+that, the user presses Enter.
+
+2067
+01:44:14,940 --> 01:44:19,380
+We transition to the
+HighScoreState, actually,
+
+2068
+01:44:19,380 --> 01:44:22,410
+because this state should only trigger
+if they entered a new high score.
+
+2069
+01:44:22,410 --> 01:44:26,740
+Which means that we need to check in the
+VictoryState, or not the VictoryState,
+
+2070
+01:44:26,740 --> 01:44:29,070
+but rather in the
+GameOverState whether or not
+
+2071
+01:44:29,070 --> 01:44:33,540
+their score is higher than any
+of the stores in some sort of,
+
+2072
+01:44:33,540 --> 01:44:36,000
+quote unquote, global scores table.
+
+2073
+01:44:36,000 --> 01:44:39,558
+And then how do we think we're
+passing the scores back and forth now?
+
+2074
+01:44:42,510 --> 01:44:45,388
+Does anybody recall how we're
+keeping track of app state?
+
+2075
+01:44:48,280 --> 01:44:55,190
+AUDIENCE: [INAUDIBLE]
+
+2076
+01:44:55,190 --> 01:44:55,940
+COLTON OGDEN: Yep.
+
+2077
+01:44:55,940 --> 01:44:57,270
+In the change function.
+
+2078
+01:44:57,270 --> 01:44:59,540
+So all we need to do
+is keep track of-- load
+
+2079
+01:44:59,540 --> 01:45:01,490
+our high scores at the
+beginning of the game,
+
+2080
+01:45:01,490 --> 01:45:03,360
+pass them all the way down the line.
+
+2081
+01:45:03,360 --> 01:45:07,560
+And then finally-- and we can also
+load them in our EnterHighScoreState,
+
+2082
+01:45:07,560 --> 01:45:11,390
+but we need to keep track of what our
+high scores are in the GameOverState
+
+2083
+01:45:11,390 --> 01:45:13,562
+so that we know, oh,
+I've got a high score.
+
+2084
+01:45:13,562 --> 01:45:16,520
+Let's instead of transitioning back
+to the StartState, let's transition
+
+2085
+01:45:16,520 --> 01:45:22,130
+to the EnterHighScoreState so the user
+can add their high score to the list.
+
+2086
+01:45:22,130 --> 01:45:30,770
+And then once they've entered
+their high score, which is here,
+
+2087
+01:45:30,770 --> 01:45:35,940
+we'll just write it to this file again.
+
+2088
+01:45:35,940 --> 01:45:39,760
+Compile a score string, which
+takes name and score of our scores.
+
+2089
+01:45:39,760 --> 01:45:43,000
+We take whatever score
+that we were at that's--
+
+2090
+01:45:43,000 --> 01:45:45,220
+we look through our
+scores table backwards
+
+2091
+01:45:45,220 --> 01:45:47,982
+and when we find a score
+that's lower than ours,
+
+2092
+01:45:47,982 --> 01:45:51,190
+we just keep track of that index until
+we get to one that's higher than ours.
+
+2093
+01:45:51,190 --> 01:45:54,160
+In which case the one plus
+one, that index plus one
+
+2094
+01:45:54,160 --> 01:45:55,600
+is what we should then overwrite.
+
+2095
+01:45:55,600 --> 01:45:59,050
+And so we shift all the
+other ones below accordingly.
+
+2096
+01:45:59,050 --> 01:46:01,907
+And we do that in this class if curious.
+
+2097
+01:46:01,907 --> 01:46:04,240
+And so I'm just going to
+breeze through the last couple.
+
+2098
+01:46:04,240 --> 01:46:07,000
+The paddle select update is
+just kind of a fluffy state
+
+2099
+01:46:07,000 --> 01:46:13,330
+that lets us add a element of sort
+of, like, user selection to our game.
+
+2100
+01:46:13,330 --> 01:46:18,850
+In our PaddleSelectState here,
+we transition immediately.
+
+2101
+01:46:18,850 --> 01:46:21,370
+Instead of going to the
+[INAUDIBLE] PlayState now,
+
+2102
+01:46:21,370 --> 01:46:26,140
+we're going to go from Start to
+Paddle Select when we hit Start Game.
+
+2103
+01:46:26,140 --> 01:46:27,310
+So we're going to go to--
+
+2104
+01:46:27,310 --> 01:46:29,200
+and then the Paddle Select class itself.
+
+2105
+01:46:32,170 --> 01:46:35,080
+CurrentPaddle gets one,
+and then all it essentially
+
+2106
+01:46:35,080 --> 01:46:42,210
+is is us drawing two arrows here.
+
+2107
+01:46:42,210 --> 01:46:47,260
+And so if we're at number one-- in this
+case, I think we're at number three--
+
+2108
+01:46:47,260 --> 01:46:49,990
+then both of these arrows
+will be completely opaque.
+
+2109
+01:46:49,990 --> 01:46:53,320
+But if we're on the left or the right
+edge, they should darken to say to us,
+
+2110
+01:46:53,320 --> 01:46:55,528
+oh, we can't move left or
+right anymore because we're
+
+2111
+01:46:55,528 --> 01:47:00,100
+at either index one or four or five,
+and there's only that many colors.
+
+2112
+01:47:00,100 --> 01:47:02,170
+And then render whatever
+that color variable
+
+2113
+01:47:02,170 --> 01:47:07,976
+is using the quads table that we
+had before of the different tables.
+
+2114
+01:47:07,976 --> 01:47:09,100
+And then just instructions.
+
+2115
+01:47:09,100 --> 01:47:13,360
+And then from there is where we'll
+end up transitioning to the ServeState
+
+2116
+01:47:13,360 --> 01:47:18,100
+rather than going to the
+ServeState from the StartState.
+
+2117
+01:47:18,100 --> 01:47:20,590
+And all the code in that is here.
+
+2118
+01:47:20,590 --> 01:47:22,540
+We have sound effects playing.
+
+2119
+01:47:22,540 --> 01:47:26,654
+And then making sure that we
+also play a different sound
+
+2120
+01:47:26,654 --> 01:47:29,320
+effect based upon whether they're
+at the left or the right edge.
+
+2121
+01:47:29,320 --> 01:47:30,880
+If they're on the left edge
+and they try to go left,
+
+2122
+01:47:30,880 --> 01:47:33,940
+it should play like a sound that
+sort of sounds a little rougher
+
+2123
+01:47:33,940 --> 01:47:35,680
+to let them know that
+they can't go left,
+
+2124
+01:47:35,680 --> 01:47:38,350
+and the opposite for the right edge.
+
+2125
+01:47:38,350 --> 01:47:42,770
+And then once that's all done, once
+they press Enter on whatever paddle
+
+2126
+01:47:42,770 --> 01:47:46,940
+they want, they're
+going to get the paddle,
+
+2127
+01:47:46,940 --> 01:47:50,770
+we're going to instantiate a paddle,
+pass that into the ServeState,
+
+2128
+01:47:50,770 --> 01:47:53,710
+and we're going to take
+currentPaddle from the state, which
+
+2129
+01:47:53,710 --> 01:47:59,920
+is whatever value they got by scrolling
+between all the different paddles.
+
+2130
+01:47:59,920 --> 01:48:06,280
+And then the last update, which is my
+favorite part of most every lecture
+
+2131
+01:48:06,280 --> 01:48:09,850
+I think is the music update.
+
+2132
+01:48:09,850 --> 01:48:15,130
+And all that really is is just
+music set play in main.lua,
+
+2133
+01:48:15,130 --> 01:48:19,410
+and then set looping to true,
+and then we have a game.
+
+2134
+01:48:19,410 --> 01:48:20,660
+And this is our Paddle Select.
+
+2135
+01:48:20,660 --> 01:48:25,960
+So notice the arrows are semi-opaque
+on the left and the right.
+
+2136
+01:48:25,960 --> 01:48:30,310
+It's kind of hard to hear,
+but when I press right now
+
+2137
+01:48:30,310 --> 01:48:33,890
+it's kind of like there's
+a bit of a rougher sound.
+
+2138
+01:48:33,890 --> 01:48:35,080
+We choose red.
+
+2139
+01:48:35,080 --> 01:48:37,900
+We go to level one and we
+transition to the ServeState
+
+2140
+01:48:37,900 --> 01:48:43,240
+from the PaddleSelectState, and then
+we just play the game as normal.
+
+2141
+01:48:43,240 --> 01:48:45,060
+And that's basically all there is to it.
+
+2142
+01:48:45,060 --> 01:48:48,018
+And there is a couple of features we
+didn't have time to really go over
+
+2143
+01:48:48,018 --> 01:48:51,374
+like making sure we recover HP
+if a certain amount of points
+
+2144
+01:48:51,374 --> 01:48:53,290
+have been elapsed, but
+I encourage you to look
+
+2145
+01:48:53,290 --> 01:48:56,290
+into that when you trigger a hit.
+
+2146
+01:48:56,290 --> 01:48:58,930
+There's some logic in
+the PlayState to say, oh,
+
+2147
+01:48:58,930 --> 01:49:01,467
+if they've gone over a
+current recovery threshold,
+
+2148
+01:49:01,467 --> 01:49:04,300
+let's add one heart to the player,
+you know, just keep them playing.
+
+2149
+01:49:04,300 --> 01:49:06,008
+Just to reward them
+for their high score.
+
+2150
+01:49:08,470 --> 01:49:10,410
+Next time we'll cover a few concepts.
+
+2151
+01:49:10,410 --> 01:49:11,300
+So basic shaders.
+
+2152
+01:49:11,300 --> 01:49:13,550
+Shaders are like little programs
+you can run in your graphics card
+
+2153
+01:49:13,550 --> 01:49:16,210
+and do fancy effects, but we
+won't go into too much detail.
+
+2154
+01:49:16,210 --> 01:49:17,140
+Anonymous functions.
+
+2155
+01:49:17,140 --> 01:49:21,119
+We've seen a lot of anonymous functions
+in Lua in the context of Love.
+
+2156
+01:49:21,119 --> 01:49:23,410
+They're just functions without
+a name, and you can just
+
+2157
+01:49:23,410 --> 01:49:26,410
+use them as function arguments and
+do all sorts of cool stuff with them.
+
+2158
+01:49:26,410 --> 01:49:29,140
+We'll use them for callbacks
+next week when we do things
+
+2159
+01:49:29,140 --> 01:49:31,480
+like tweening, which
+is taking some value
+
+2160
+01:49:31,480 --> 01:49:35,190
+and making it interpolate
+over time to some other thing.
+
+2161
+01:49:35,190 --> 01:49:38,440
+Because right now we've basically just
+been updating things based on velocity,
+
+2162
+01:49:38,440 --> 01:49:40,609
+but we haven't really done
+anything based on time.
+
+2163
+01:49:40,609 --> 01:49:42,400
+So we'll take a look
+at that in more detail
+
+2164
+01:49:42,400 --> 01:49:46,600
+next week with a library called
+timer, which is really fantastic.
+
+2165
+01:49:46,600 --> 01:49:50,050
+Lets you time things and
+then chain things together.
+
+2166
+01:49:50,050 --> 01:49:52,670
+We'll be covering the game
+Match Three if familiar.
+
+2167
+01:49:52,670 --> 01:49:54,130
+It's basically Candy Crush.
+
+2168
+01:49:54,130 --> 01:49:57,130
+We'll be using a different tile
+set, but it's the same idea.
+
+2169
+01:49:57,130 --> 01:49:59,500
+And we'll have to calculate
+how to actually find out
+
+2170
+01:49:59,500 --> 01:50:02,500
+whether we've gotten a match
+in the grid, our tile grid,
+
+2171
+01:50:02,500 --> 01:50:06,820
+and then shift the blocks accordingly
+and do all the other logic, add score.
+
+2172
+01:50:06,820 --> 01:50:10,810
+And then basically since it's so
+fundamental to Candy Crush and games
+
+2173
+01:50:10,810 --> 01:50:13,720
+of its nature, we will have to
+cover how to sort of generate
+
+2174
+01:50:13,720 --> 01:50:17,076
+these maps procedurally to have tiles
+that are laid out in a dynamic way,
+
+2175
+01:50:17,076 --> 01:50:19,450
+and also in a way that doesn't
+start off with any matches
+
+2176
+01:50:19,450 --> 01:50:22,199
+because then that wouldn't make
+any sense because the matches have
+
+2177
+01:50:22,199 --> 01:50:23,230
+to resolve.
+
+2178
+01:50:23,230 --> 01:50:26,740
+And then we'll take a little time
+if we have the time next week
+
+2179
+01:50:26,740 --> 01:50:28,810
+to talk about sprite
+art again and palettes.
+
+2180
+01:50:28,810 --> 01:50:32,490
+And maybe I'll show you guys how
+to sort of convert images from one
+
+2181
+01:50:32,490 --> 01:50:35,200
+palette to another in, like, a
+program that I use, Aseprite,
+
+2182
+01:50:35,200 --> 01:50:40,200
+but you can do this in any sort
+of large photo editing software.
+
+2183
+01:50:40,200 --> 01:50:44,990
+And then assignment two is a
+couple of extensions to Breakout.
+
+2184
+01:50:44,990 --> 01:50:50,100
+So if you noticed in the sheet
+there were a few little sprites here
+
+2185
+01:50:50,100 --> 01:50:51,240
+at the bottom--
+
+2186
+01:50:51,240 --> 01:50:53,580
+so get rid of the quad outlines.
+
+2187
+01:50:53,580 --> 01:50:56,580
+So these little things down
+here are, I'm assuming,
+
+2188
+01:50:56,580 --> 01:50:57,909
+they're meant to be power ups.
+
+2189
+01:50:57,909 --> 01:50:58,950
+They look like power ups.
+
+2190
+01:50:58,950 --> 01:51:01,790
+But the goal of the pset
+is to implement a power up.
+
+2191
+01:51:01,790 --> 01:51:05,939
+And a power up is going to be
+such that when you grab it,
+
+2192
+01:51:05,939 --> 01:51:08,730
+you'll get two additional balls,
+or however many you want actually,
+
+2193
+01:51:08,730 --> 01:51:12,270
+that will spawn in addition to your
+one and detect collisions on their own.
+
+2194
+01:51:12,270 --> 01:51:14,760
+So you'll have several and
+they'll score points for you.
+
+2195
+01:51:14,760 --> 01:51:18,450
+And, of course, only when the last ball
+comes below the surface of the screen
+
+2196
+01:51:18,450 --> 01:51:20,700
+should you trigger a Game Over.
+
+2197
+01:51:20,700 --> 01:51:22,930
+And then I want you to
+add-- and this will also
+
+2198
+01:51:22,930 --> 01:51:24,763
+be more detailed than
+the spec-- but I would
+
+2199
+01:51:24,763 --> 01:51:26,970
+like you to add growing and
+shrinking to the paddle.
+
+2200
+01:51:26,970 --> 01:51:29,925
+So currently, we have like
+four different sizes of paddle,
+
+2201
+01:51:29,925 --> 01:51:31,230
+but we're not using them.
+
+2202
+01:51:31,230 --> 01:51:34,380
+So it would be nice if when we gain
+enough points or we lose points, or not
+
+2203
+01:51:34,380 --> 01:51:37,890
+points, but lives rather, we increase
+or decrease the size of the paddle
+
+2204
+01:51:37,890 --> 01:51:40,260
+accordingly just to introduce
+another level of challenge
+
+2205
+01:51:40,260 --> 01:51:42,630
+and or lack of challenge.
+
+2206
+01:51:42,630 --> 01:51:46,620
+And then finally, one last part
+which is in the sprite sheet as well,
+
+2207
+01:51:46,620 --> 01:51:54,040
+there's a key block here
+and a key power up here.
+
+2208
+01:51:54,040 --> 01:52:00,504
+So sort of let the power up come,
+pick the power up with your paddle.
+
+2209
+01:52:00,504 --> 01:52:02,670
+And then only when you have
+that power up should you
+
+2210
+01:52:02,670 --> 01:52:06,069
+be able to break the block with a key.
+
+2211
+01:52:06,069 --> 01:52:07,860
+And you should take
+this into consideration
+
+2212
+01:52:07,860 --> 01:52:09,360
+when generating your levels as well.
+
+2213
+01:52:09,360 --> 01:52:12,420
+So you'll have to also get your
+hands dirty with the level maker.
+
+2214
+01:52:12,420 --> 01:52:14,670
+But all in all, that was Breakout.
+
+2215
+01:52:14,670 --> 01:52:16,170
+So I'll see you guys next time.
+
+2216
+01:52:16,170 --> 01:52:18,020
+Thank you.

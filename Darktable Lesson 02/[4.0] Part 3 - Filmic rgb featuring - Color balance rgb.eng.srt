@@ -1,0 +1,1200 @@
+1
+00:00:02,960 --> 00:00:05,359
+hello welcome back for the part 3 of the
+
+2
+00:00:05,359 --> 00:00:08,000
+deepish dive into filmic rgb in this
+
+3
+00:00:08,000 --> 00:00:09,679
+video i'm going to be attempting to
+
+4
+00:00:09,679 --> 00:00:11,759
+develop a tricky capture
+
+5
+00:00:11,759 --> 00:00:14,080
+a capture where we have the sun shining
+
+6
+00:00:14,080 --> 00:00:16,480
+through the very colorful petals
+
+7
+00:00:16,480 --> 00:00:18,720
+as well as this huge area that's in the
+
+8
+00:00:18,720 --> 00:00:21,680
+shadow the goal or intention of the
+
+9
+00:00:21,680 --> 00:00:24,640
+final image is going to be one
+
+10
+00:00:24,640 --> 00:00:27,119
+make the photo feel warm as the sky is
+
+11
+00:00:27,119 --> 00:00:30,720
+clear and we have a lovely sunshine two
+
+12
+00:00:30,720 --> 00:00:33,360
+make the tree look colorful
+
+13
+00:00:33,360 --> 00:00:35,440
+try to convey the feeling that it was
+
+14
+00:00:35,440 --> 00:00:38,079
+incredibly colorful without making it
+
+15
+00:00:38,079 --> 00:00:39,920
+look deep fried
+
+16
+00:00:39,920 --> 00:00:42,559
+and three maintain the contrast as much
+
+17
+00:00:42,559 --> 00:00:45,680
+as possible since it was a bright and
+
+18
+00:00:45,680 --> 00:00:48,239
+sunny day i want to convey the strong
+
+19
+00:00:48,239 --> 00:00:50,480
+shadows that were present that day
+
+20
+00:00:50,480 --> 00:00:52,239
+i don't want the final image to look
+
+21
+00:00:52,239 --> 00:00:54,960
+flat or hdr like
+
+22
+00:00:54,960 --> 00:00:57,600
+and this might take some time
+
+23
+00:00:57,600 --> 00:00:59,920
+okay the image is loaded i'll make a
+
+24
+00:00:59,920 --> 00:01:01,680
+duplicate
+
+25
+00:01:01,680 --> 00:01:04,959
+and i'll also take a snapshot so we can
+
+26
+00:01:04,959 --> 00:01:06,479
+compare it later
+
+27
+00:01:06,479 --> 00:01:08,960
+let's go straight to filmic rgb
+
+28
+00:01:08,960 --> 00:01:10,159
+options
+
+29
+00:01:10,159 --> 00:01:12,000
+let's get rid of the prominence
+
+30
+00:01:12,000 --> 00:01:13,600
+preservation
+
+31
+00:01:13,600 --> 00:01:15,520
+this will immediately get rid of some of
+
+32
+00:01:15,520 --> 00:01:16,960
+the artifacts
+
+33
+00:01:16,960 --> 00:01:19,280
+that we can see around this pole
+
+34
+00:01:19,280 --> 00:01:23,040
+if i turn back to max rgb
+
+35
+00:01:24,560 --> 00:01:27,439
+you will see there are a couple of weird
+
+36
+00:01:27,439 --> 00:01:29,119
+straight lines
+
+37
+00:01:29,119 --> 00:01:32,240
+and of course the the great big glaring
+
+38
+00:01:32,240 --> 00:01:34,240
+magenta sun
+
+39
+00:01:34,240 --> 00:01:37,280
+if we turn that off
+
+40
+00:01:37,360 --> 00:01:39,200
+you'll see that the issue is no longer
+
+41
+00:01:39,200 --> 00:01:41,040
+there
+
+42
+00:01:41,040 --> 00:01:43,520
+again we're sacrificing the preservation
+
+43
+00:01:43,520 --> 00:01:46,640
+of the rgb ratios but we are preserving
+
+44
+00:01:46,640 --> 00:01:48,880
+the feeling of brightness smooth
+
+45
+00:01:48,880 --> 00:01:51,360
+gradients and overall a more natural
+
+46
+00:01:51,360 --> 00:01:53,360
+feeling let's not forget we're doing
+
+47
+00:01:53,360 --> 00:01:55,759
+creative photography here if i had to do
+
+48
+00:01:55,759 --> 00:01:57,759
+brand work that include brand colors in
+
+49
+00:01:57,759 --> 00:02:00,560
+photography or cg renders i would
+
+50
+00:02:00,560 --> 00:02:02,960
+possibly consider using the max rgb
+
+51
+00:02:02,960 --> 00:02:05,520
+preservation method however what we're
+
+52
+00:02:05,520 --> 00:02:08,479
+doing here is far from it and trying to
+
+53
+00:02:08,479 --> 00:02:11,920
+scan the real world is not my priority
+
+54
+00:02:11,920 --> 00:02:14,400
+my priority is a good image a good
+
+55
+00:02:14,400 --> 00:02:16,640
+picture a good photo
+
+56
+00:02:16,640 --> 00:02:18,879
+if one wants to get the best experience
+
+57
+00:02:18,879 --> 00:02:19,680
+of
+
+58
+00:02:19,680 --> 00:02:24,480
+being there i suggest google street view
+
+59
+00:02:24,480 --> 00:02:26,640
+while we're at it i'm not a big fan of
+
+60
+00:02:26,640 --> 00:02:29,200
+mark's rgb preservation method being the
+
+61
+00:02:29,200 --> 00:02:31,440
+default so let's change that really
+
+62
+00:02:31,440 --> 00:02:32,560
+quickly
+
+63
+00:02:32,560 --> 00:02:34,800
+click on the burger menu store new
+
+64
+00:02:34,800 --> 00:02:38,000
+preset call it
+
+65
+00:02:38,000 --> 00:02:38,720
+no
+
+66
+00:02:38,720 --> 00:02:41,680
+preservation
+
+67
+00:02:42,239 --> 00:02:44,879
+and auto apply this preset to matching
+
+68
+00:02:44,879 --> 00:02:46,800
+images and leave the settings at the
+
+69
+00:02:46,800 --> 00:02:48,000
+default
+
+70
+00:02:48,000 --> 00:02:50,480
+this will apply this preset to every
+
+71
+00:02:50,480 --> 00:02:53,680
+image that's entering darkroom
+
+72
+00:02:53,680 --> 00:02:54,640
+okay
+
+73
+00:02:54,640 --> 00:02:56,480
+now that we got that out of the way
+
+74
+00:02:56,480 --> 00:02:58,640
+let's get back to developing
+
+75
+00:02:58,640 --> 00:03:00,640
+we'll jump to exposure
+
+76
+00:03:00,640 --> 00:03:03,120
+and increase it quite a bit
+
+77
+00:03:03,120 --> 00:03:04,480
+so about here
+
+78
+00:03:04,480 --> 00:03:05,920
+now that we can see what we're working
+
+79
+00:03:05,920 --> 00:03:08,879
+on i can go to color calibration
+
+80
+00:03:08,879 --> 00:03:11,040
+and adjust the temperature first let's
+
+81
+00:03:11,040 --> 00:03:13,280
+turn on the color assessment mode
+
+82
+00:03:13,280 --> 00:03:15,920
+set the illuminant to d
+
+83
+00:03:15,920 --> 00:03:18,000
+daylight
+
+84
+00:03:18,000 --> 00:03:20,239
+and adjust the temperature
+
+85
+00:03:20,239 --> 00:03:23,280
+my goal here is to get as neutral colors
+
+86
+00:03:23,280 --> 00:03:24,720
+as possible
+
+87
+00:03:24,720 --> 00:03:26,799
+we'll worry about warmth
+
+88
+00:03:26,799 --> 00:03:30,120
+a bit later
+
+89
+00:03:37,040 --> 00:03:39,120
+okay that looks about right now we can
+
+90
+00:03:39,120 --> 00:03:42,640
+jump back to filmic rgb
+
+91
+00:03:42,640 --> 00:03:44,720
+we've lost a bit of visual contrast when
+
+92
+00:03:44,720 --> 00:03:46,560
+we increase the exposure
+
+93
+00:03:46,560 --> 00:03:48,400
+so i would like to bring some of that
+
+94
+00:03:48,400 --> 00:03:51,200
+back let's move to the look tab
+
+95
+00:03:51,200 --> 00:03:52,560
+first i would like to reduce the
+
+96
+00:03:52,560 --> 00:03:55,519
+latitude to a minimum
+
+97
+00:03:55,519 --> 00:03:57,680
+that will give us a bit more flexibility
+
+98
+00:03:57,680 --> 00:04:00,159
+with the contrast as well as give us
+
+99
+00:04:00,159 --> 00:04:02,720
+smoother transitions between shadows
+
+100
+00:04:02,720 --> 00:04:06,080
+tones and highlights
+
+101
+00:04:06,159 --> 00:04:10,159
+now increase the contrast
+
+102
+00:04:10,239 --> 00:04:12,959
+until i am happy
+
+103
+00:04:12,959 --> 00:04:16,880
+okay 1.5 seems to be the magic number
+
+104
+00:04:16,880 --> 00:04:18,720
+let's do a couple of slight adjustments
+
+105
+00:04:18,720 --> 00:04:22,479
+to the white and black relative exposure
+
+106
+00:04:22,479 --> 00:04:25,840
+i need less details and highlights
+
+107
+00:04:25,840 --> 00:04:28,479
+and more details in shadows
+
+108
+00:04:28,479 --> 00:04:30,479
+let's decrease the white relative
+
+109
+00:04:30,479 --> 00:04:33,040
+exposure
+
+110
+00:04:34,160 --> 00:04:37,919
+i'll zoom in a little bit
+
+111
+00:04:41,520 --> 00:04:44,320
+that's too much
+
+112
+00:04:44,720 --> 00:04:47,040
+okay that looks about right and in the
+
+113
+00:04:47,040 --> 00:04:49,520
+shadows
+
+114
+00:04:50,479 --> 00:04:53,040
+i will increase
+
+115
+00:04:53,040 --> 00:04:56,240
+or decrease depending on how you look at
+
+116
+00:04:56,240 --> 00:05:01,040
+it i will push this slider to the left
+
+117
+00:05:01,120 --> 00:05:03,360
+it's about here
+
+118
+00:05:03,360 --> 00:05:05,199
+now we might have set the contrast
+
+119
+00:05:05,199 --> 00:05:07,440
+correctly but our project still looks
+
+120
+00:05:07,440 --> 00:05:10,000
+dull and uninteresting
+
+121
+00:05:10,000 --> 00:05:11,520
+we're going to need to do some color
+
+122
+00:05:11,520 --> 00:05:12,720
+work
+
+123
+00:05:12,720 --> 00:05:14,960
+for that let's jump to color balance rgb
+
+124
+00:05:14,960 --> 00:05:16,720
+module
+
+125
+00:05:16,720 --> 00:05:19,600
+we have three elements in this photo the
+
+126
+00:05:19,600 --> 00:05:20,720
+plant
+
+127
+00:05:20,720 --> 00:05:22,560
+the house and the sky
+
+128
+00:05:22,560 --> 00:05:24,400
+i would like to control the color of the
+
+129
+00:05:24,400 --> 00:05:27,039
+plant and the sky separately so let's
+
+130
+00:05:27,039 --> 00:05:29,759
+separate them in a quick and dirty way
+
+131
+00:05:29,759 --> 00:05:31,759
+i will select the plant based on its
+
+132
+00:05:31,759 --> 00:05:33,840
+color as we have nothing else in our
+
+133
+00:05:33,840 --> 00:05:36,320
+frame that's of this violet hue
+
+134
+00:05:36,320 --> 00:05:38,240
+let's jump to the parametric mask
+
+135
+00:05:38,240 --> 00:05:40,639
+section
+
+136
+00:05:41,199 --> 00:05:44,720
+i'll use the picker to draw a window
+
+137
+00:05:44,720 --> 00:05:48,000
+where we have a lot of this hue
+
+138
+00:05:48,000 --> 00:05:52,280
+we can enable the mask preview
+
+139
+00:05:52,479 --> 00:05:55,759
+okay so we selected a lot of this plant
+
+140
+00:05:55,759 --> 00:05:57,840
+and a bit of the roof
+
+141
+00:05:57,840 --> 00:06:00,319
+but that's just because it is reflecting
+
+142
+00:06:00,319 --> 00:06:04,160
+this aggressive violet color
+
+143
+00:06:04,479 --> 00:06:07,759
+i'll add a bit of feathering
+
+144
+00:06:07,759 --> 00:06:10,800
+and a bit of blurring
+
+145
+00:06:12,160 --> 00:06:14,800
+i did say it was quick and dirty
+
+146
+00:06:14,800 --> 00:06:16,800
+okay that will do
+
+147
+00:06:16,800 --> 00:06:18,880
+unfortunately most of the plant is in
+
+148
+00:06:18,880 --> 00:06:21,039
+the shadow but i want to be able to
+
+149
+00:06:21,039 --> 00:06:22,960
+control the color with higher
+
+150
+00:06:22,960 --> 00:06:25,600
+granularity which means i'm going to set
+
+151
+00:06:25,600 --> 00:06:27,919
+the shadows the mid-tones and the
+
+152
+00:06:27,919 --> 00:06:30,000
+highlights a bit further down in the
+
+153
+00:06:30,000 --> 00:06:32,080
+shadows
+
+154
+00:06:32,080 --> 00:06:34,400
+for that let's go to the masks tab
+
+155
+00:06:34,400 --> 00:06:36,319
+first i know i want the strongest
+
+156
+00:06:36,319 --> 00:06:38,319
+separation between the highlights and
+
+157
+00:06:38,319 --> 00:06:40,479
+the shadows therefore i will make the
+
+158
+00:06:40,479 --> 00:06:42,560
+shadow and the highlight fall of curves
+
+159
+00:06:42,560 --> 00:06:45,560
+steeper
+
+160
+00:06:50,560 --> 00:06:53,360
+like that
+
+161
+00:06:54,319 --> 00:06:56,800
+like that
+
+162
+00:06:57,440 --> 00:06:59,599
+we can enable each mask and see what we
+
+163
+00:06:59,599 --> 00:07:02,160
+get
+
+164
+00:07:02,160 --> 00:07:04,080
+masks shows us that there's still too
+
+165
+00:07:04,080 --> 00:07:06,160
+much of the plant in the shadow because
+
+166
+00:07:06,160 --> 00:07:08,400
+almost all of it is selected and
+
+167
+00:07:08,400 --> 00:07:10,639
+non-transparent
+
+168
+00:07:10,639 --> 00:07:12,960
+the mid-tone mask reveals that there's
+
+169
+00:07:12,960 --> 00:07:15,280
+almost nothing in the mid tones except a
+
+170
+00:07:15,280 --> 00:07:18,080
+bit of the plant around the edges
+
+171
+00:07:18,080 --> 00:07:20,720
+lastly the highlights mass reveals that
+
+172
+00:07:20,720 --> 00:07:22,880
+the highlights are just around the edge
+
+173
+00:07:22,880 --> 00:07:24,560
+of the plant
+
+174
+00:07:24,560 --> 00:07:26,639
+so we want to adjust the middle gray
+
+175
+00:07:26,639 --> 00:07:27,840
+fulcrum
+
+176
+00:07:27,840 --> 00:07:31,520
+and see more of the plant gets included
+
+177
+00:07:31,520 --> 00:07:34,319
+in the highlights
+
+178
+00:07:34,639 --> 00:07:36,240
+and
+
+179
+00:07:36,240 --> 00:07:38,639
+less of the plant gets included in the
+
+180
+00:07:38,639 --> 00:07:40,880
+shadows
+
+181
+00:07:40,880 --> 00:07:44,639
+and you can also see our mid-tones slide
+
+182
+00:07:44,639 --> 00:07:46,080
+around the image
+
+183
+00:07:46,080 --> 00:07:48,800
+in a wave
+
+184
+00:07:50,800 --> 00:07:55,039
+this is an excellent tool i love it
+
+185
+00:07:55,039 --> 00:08:00,000
+okay we have our mask set we have our
+
+186
+00:08:00,000 --> 00:08:02,479
+shadows here
+
+187
+00:08:02,479 --> 00:08:04,639
+highlights here and everything in
+
+188
+00:08:04,639 --> 00:08:07,520
+between is the midtones
+
+189
+00:08:07,520 --> 00:08:10,000
+now we can go back to the master tab
+
+190
+00:08:10,000 --> 00:08:12,400
+now i can increase the chroma to make
+
+191
+00:08:12,400 --> 00:08:15,120
+the plant feel a bit more colorful
+
+192
+00:08:15,120 --> 00:08:16,879
+and that will make our plant feel
+
+193
+00:08:16,879 --> 00:08:19,680
+brighter as well that's due to something
+
+194
+00:08:19,680 --> 00:08:21,520
+called
+
+195
+00:08:21,520 --> 00:08:22,639
+the
+
+196
+00:08:22,639 --> 00:08:25,280
+schoolhouse effect i'll link that in the
+
+197
+00:08:25,280 --> 00:08:27,599
+description now i have to be really
+
+198
+00:08:27,599 --> 00:08:28,960
+careful here
+
+199
+00:08:28,960 --> 00:08:31,759
+i want to make the plant feel colorful
+
+200
+00:08:31,759 --> 00:08:34,240
+without making it look uncanny or
+
+201
+00:08:34,240 --> 00:08:36,799
+overcooked this is exactly why i
+
+202
+00:08:36,799 --> 00:08:38,880
+separated the sky and the house from the
+
+203
+00:08:38,880 --> 00:08:42,240
+plant the context of a color is very
+
+204
+00:08:42,240 --> 00:08:43,360
+important
+
+205
+00:08:43,360 --> 00:08:45,760
+if we have too many saturated colors in
+
+206
+00:08:45,760 --> 00:08:47,920
+the image it will become a sensory
+
+207
+00:08:47,920 --> 00:08:50,800
+overload and it will look flat
+
+208
+00:08:50,800 --> 00:08:52,959
+the feeling of colorfulness is not
+
+209
+00:08:52,959 --> 00:08:55,200
+created by pumping the saturation value
+
+210
+00:08:55,200 --> 00:08:57,279
+to the max it just has to be more
+
+211
+00:08:57,279 --> 00:09:00,320
+colorful compared to its surroundings
+
+212
+00:09:00,320 --> 00:09:02,080
+that's why i'm going to
+
+213
+00:09:02,080 --> 00:09:04,800
+increase the global chroma i'm going to
+
+214
+00:09:04,800 --> 00:09:08,320
+decrease the chroma in the highlights
+
+215
+00:09:08,320 --> 00:09:11,200
+quite drastically
+
+216
+00:09:13,760 --> 00:09:15,839
+and i'm going to pump the chroma in the
+
+217
+00:09:15,839 --> 00:09:18,320
+shadows
+
+218
+00:09:18,959 --> 00:09:20,320
+and i might want to adjust the
+
+219
+00:09:20,320 --> 00:09:23,360
+perceptual brilliance just a little bit
+
+220
+00:09:23,360 --> 00:09:24,640
+so our plant
+
+221
+00:09:24,640 --> 00:09:27,680
+is a little bit lighter
+
+222
+00:09:28,640 --> 00:09:30,640
+now let's make a new instance of the
+
+223
+00:09:30,640 --> 00:09:32,959
+color rgb module and let's take care of
+
+224
+00:09:32,959 --> 00:09:34,800
+the sky
+
+225
+00:09:34,800 --> 00:09:38,399
+again let's enable the parametric mask
+
+226
+00:09:38,399 --> 00:09:39,920
+let's go to the
+
+227
+00:09:39,920 --> 00:09:42,000
+hue channel
+
+228
+00:09:42,000 --> 00:09:47,000
+and let's select a large area of the sky
+
+229
+00:09:50,959 --> 00:09:54,240
+i'll enable the mask preview
+
+230
+00:09:54,240 --> 00:09:58,160
+okay again feathering radius
+
+231
+00:09:58,160 --> 00:10:01,120
+blurring radius
+
+232
+00:10:02,560 --> 00:10:05,839
+and that will do for us
+
+233
+00:10:06,320 --> 00:10:08,160
+the accuracy doesn't matter too much
+
+234
+00:10:08,160 --> 00:10:10,720
+here we're not doing anything radical
+
+235
+00:10:10,720 --> 00:10:13,440
+just slight adjustments first i will
+
+236
+00:10:13,440 --> 00:10:15,920
+shift the hue slightly so it contrasts
+
+237
+00:10:15,920 --> 00:10:17,519
+with the plant
+
+238
+00:10:17,519 --> 00:10:20,880
+right now i feel that the sky
+
+239
+00:10:20,880 --> 00:10:24,079
+is a bit too purple
+
+240
+00:10:24,079 --> 00:10:26,640
+the hue slide is really sensitive so
+
+241
+00:10:26,640 --> 00:10:28,560
+it's best to
+
+242
+00:10:28,560 --> 00:10:32,120
+take small steps
+
+243
+00:10:32,959 --> 00:10:35,360
+okay
+
+244
+00:10:36,480 --> 00:10:39,200
+that looks
+
+245
+00:10:40,640 --> 00:10:42,000
+that looks good
+
+246
+00:10:42,000 --> 00:10:44,240
+we'll give it a bit more chroma
+
+247
+00:10:44,240 --> 00:10:46,240
+so we have a nice gradient between the
+
+248
+00:10:46,240 --> 00:10:47,760
+edge of the image
+
+249
+00:10:47,760 --> 00:10:50,399
+and the center of the sun
+
+250
+00:10:50,399 --> 00:10:52,880
+remember the gradient is how we convey
+
+251
+00:10:52,880 --> 00:10:54,240
+brightness
+
+252
+00:10:54,240 --> 00:10:57,440
+okay i think we nailed the contrast and
+
+253
+00:10:57,440 --> 00:10:59,279
+the colorfulness
+
+254
+00:10:59,279 --> 00:11:02,240
+but our overall image still feels a bit
+
+255
+00:11:02,240 --> 00:11:04,480
+cold you know what to do
+
+256
+00:11:04,480 --> 00:11:07,360
+create another color balance rgb
+
+257
+00:11:07,360 --> 00:11:08,640
+instance
+
+258
+00:11:08,640 --> 00:11:11,920
+this time let's go to the four ways tab
+
+259
+00:11:11,920 --> 00:11:14,480
+adjust the hue in the highlights gain to
+
+260
+00:11:14,480 --> 00:11:16,720
+something warm
+
+261
+00:11:16,720 --> 00:11:21,440
+and increase the chroma ever so slightly
+
+262
+00:11:25,200 --> 00:11:27,279
+we can zoom in
+
+263
+00:11:27,279 --> 00:11:30,480
+into our sun and check before
+
+264
+00:11:30,480 --> 00:11:33,120
+and after
+
+265
+00:11:33,360 --> 00:11:35,440
+zoom out
+
+266
+00:11:35,440 --> 00:11:37,680
+before and after
+
+267
+00:11:37,680 --> 00:11:40,320
+i think after looks much nicer
+
+268
+00:11:40,320 --> 00:11:41,200
+now
+
+269
+00:11:41,200 --> 00:11:44,079
+did we manage to achieve our intentions
+
+270
+00:11:44,079 --> 00:11:45,440
+so number one
+
+271
+00:11:45,440 --> 00:11:47,760
+did we make the photo feel warm with
+
+272
+00:11:47,760 --> 00:11:50,880
+bright sun and clear blue sky
+
+273
+00:11:50,880 --> 00:11:52,560
+i'm pretty sure we did
+
+274
+00:11:52,560 --> 00:11:56,800
+two did we make the tree look colorful
+
+275
+00:11:56,800 --> 00:11:59,920
+let's say 50 50 on this one
+
+276
+00:11:59,920 --> 00:12:02,720
+we could push more global brilliance
+
+277
+00:12:02,720 --> 00:12:04,959
+but we're risking breaking the balance
+
+278
+00:12:04,959 --> 00:12:06,639
+of the image
+
+279
+00:12:06,639 --> 00:12:08,800
+i think it's best to keep it this way
+
+280
+00:12:08,800 --> 00:12:11,760
+and three did we maintain the contrast
+
+281
+00:12:11,760 --> 00:12:13,360
+as much as possible
+
+282
+00:12:13,360 --> 00:12:15,760
+i'd say yes i tried to resist pushing
+
+283
+00:12:15,760 --> 00:12:18,079
+the exposure more and the difference
+
+284
+00:12:18,079 --> 00:12:20,160
+between the bright and the dark is
+
+285
+00:12:20,160 --> 00:12:22,600
+enough to make the image not look
+
+286
+00:12:22,600 --> 00:12:25,680
+flat we can compare our image to what
+
+287
+00:12:25,680 --> 00:12:27,440
+we've started with
+
+288
+00:12:27,440 --> 00:12:29,440
+i think the image is saved and will
+
+289
+00:12:29,440 --> 00:12:31,760
+serve its purpose as an example for this
+
+290
+00:12:31,760 --> 00:12:32,880
+tutorial
+
+291
+00:12:32,880 --> 00:12:35,040
+and a reminder of the lovely time i had
+
+292
+00:12:35,040 --> 00:12:38,399
+that day taking photos that's it i think
+
+293
+00:12:38,399 --> 00:12:39,920
+i've touched everything i wanted to
+
+294
+00:12:39,920 --> 00:12:42,560
+touch regarding the filmic rgb module
+
+295
+00:12:42,560 --> 00:12:44,480
+and a bit more
+
+296
+00:12:44,480 --> 00:12:47,040
+fun was had discussions were started
+
+297
+00:12:47,040 --> 00:12:49,200
+people were informed i thank you for
+
+298
+00:12:49,200 --> 00:12:51,200
+your time watching this hope you learned
+
+299
+00:12:51,200 --> 00:12:52,959
+something new and hope to see you next
+
+300
+00:12:52,959 --> 00:12:56,680
+time bye
+

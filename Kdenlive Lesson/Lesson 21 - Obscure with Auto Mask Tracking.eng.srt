@@ -1,0 +1,300 @@
+1
+00:00:02,930 --> 00:00:05,250
+welcome back to another kiddin live
+
+2
+00:00:05,250 --> 00:00:07,620
+video editing tutorial in the last video
+
+3
+00:00:07,620 --> 00:00:12,240
+we looked at using the obscure effect to
+
+4
+00:00:12,240 --> 00:00:14,280
+kind of obscure out a license plate but
+
+5
+00:00:14,280 --> 00:00:17,220
+the problem was when we moved forward in
+
+6
+00:00:17,220 --> 00:00:20,580
+our video that would that box would kind
+
+7
+00:00:20,580 --> 00:00:22,140
+of just stay in the same place and it
+
+8
+00:00:22,140 --> 00:00:24,000
+was going up and like see it would have
+
+9
+00:00:24,000 --> 00:00:25,830
+obscuring part of the Mercedes symbol
+
+10
+00:00:25,830 --> 00:00:27,929
+there and so this box just sort of
+
+11
+00:00:27,929 --> 00:00:30,599
+stayed wherever we put it and so now I'm
+
+12
+00:00:30,599 --> 00:00:31,769
+going to show you how to have that box
+
+13
+00:00:31,769 --> 00:00:33,840
+move and kind of track along with a
+
+14
+00:00:33,840 --> 00:00:39,060
+certain object in the video in theory so
+
+15
+00:00:39,060 --> 00:00:41,820
+I will say this tool is not perfect by
+
+16
+00:00:41,820 --> 00:00:43,740
+any means but it's actually called Auto
+
+17
+00:00:43,740 --> 00:00:45,990
+mask under blur and hide so we'll drag
+
+18
+00:00:45,990 --> 00:00:48,720
+it in and what the auto mask will do you
+
+19
+00:00:48,720 --> 00:00:50,310
+choose a point in the video that you
+
+20
+00:00:50,310 --> 00:00:52,770
+think is a good reference point and you
+
+21
+00:00:52,770 --> 00:00:55,530
+just resize this box so it looks very
+
+22
+00:00:55,530 --> 00:00:58,560
+similar to the obscure so we'll just set
+
+23
+00:00:58,560 --> 00:01:01,730
+this to a point that we want to kind of
+
+24
+00:01:01,730 --> 00:01:04,800
+maybe like right here so we'll set it to
+
+25
+00:01:04,800 --> 00:01:06,510
+that license plate and then we actually
+
+26
+00:01:06,510 --> 00:01:07,860
+have this analyze button we click
+
+27
+00:01:07,860 --> 00:01:10,200
+analyze and it takes just a second it
+
+28
+00:01:10,200 --> 00:01:13,170
+analyzes kind of all the pixels within
+
+29
+00:01:13,170 --> 00:01:15,510
+that box and it does its best to try and
+
+30
+00:01:15,510 --> 00:01:17,520
+follow them throughout so now if we go
+
+31
+00:01:17,520 --> 00:01:19,860
+forward it should so that box is still
+
+32
+00:01:19,860 --> 00:01:21,510
+moving up but look it's not obscuring
+
+33
+00:01:21,510 --> 00:01:23,700
+the Mercedes symbol if we click off so
+
+34
+00:01:23,700 --> 00:01:25,950
+that red box is no longer selected now
+
+35
+00:01:25,950 --> 00:01:28,710
+we see it's following along as best it
+
+36
+00:01:28,710 --> 00:01:30,600
+can with that license plate and it
+
+37
+00:01:30,600 --> 00:01:32,520
+doesn't now it tracks over to the right
+
+38
+00:01:32,520 --> 00:01:34,380
+so it kind of messed up there but at
+
+39
+00:01:34,380 --> 00:01:35,670
+least there's no it's not going up and
+
+40
+00:01:35,670 --> 00:01:37,530
+getting that Mercedes symbol like it was
+
+41
+00:01:37,530 --> 00:01:40,770
+doing last time we can fix that I think
+
+42
+00:01:40,770 --> 00:01:41,940
+by just making this box a little bit
+
+43
+00:01:41,940 --> 00:01:45,030
+bigger then we were hit analyze and I
+
+44
+00:01:45,030 --> 00:01:46,979
+think that should be good now and we'll
+
+45
+00:01:46,979 --> 00:01:48,990
+just merge the data together so let's
+
+46
+00:01:48,990 --> 00:01:50,820
+see what it does now so that's better
+
+47
+00:01:50,820 --> 00:01:54,060
+and so now we have it going start from
+
+48
+00:01:54,060 --> 00:01:56,540
+the beginning it kind of you know
+
+49
+00:01:56,540 --> 00:01:59,130
+obscures that license plate and it
+
+50
+00:01:59,130 --> 00:02:01,770
+doesn't get up and cover up the Mercedes
+
+51
+00:02:01,770 --> 00:02:05,430
+symbol though so this is sort of a
+
+52
+00:02:05,430 --> 00:02:06,930
+working example to tell you the truth I
+
+53
+00:02:06,930 --> 00:02:08,758
+tried to get lots of other video footage
+
+54
+00:02:08,758 --> 00:02:10,609
+like if we go later on this video here
+
+55
+00:02:10,609 --> 00:02:13,439
+I'll delete this now I couldn't get it
+
+56
+00:02:13,439 --> 00:02:14,100
+to even try
+
+57
+00:02:14,100 --> 00:02:16,920
+to this part so it's not even it's not
+
+58
+00:02:16,920 --> 00:02:20,940
+super great yet but it is an option that
+
+59
+00:02:20,940 --> 00:02:22,620
+might just work for you as long as your
+
+60
+00:02:22,620 --> 00:02:24,180
+subject or the thing you're trying to
+
+61
+00:02:24,180 --> 00:02:26,640
+obscure is not moving too much you might
+
+62
+00:02:26,640 --> 00:02:28,590
+have success but don't if you don't get
+
+63
+00:02:28,590 --> 00:02:29,850
+frustrated if you can't get it to work
+
+64
+00:02:29,850 --> 00:02:32,550
+because it's a it's not a very good
+
+65
+00:02:32,550 --> 00:02:34,560
+tracking tool if you want to do more
+
+66
+00:02:34,560 --> 00:02:35,820
+advanced tracking like this I would
+
+67
+00:02:35,820 --> 00:02:37,710
+recommend using a free software like
+
+68
+00:02:37,710 --> 00:02:39,510
+Natron you can check out my other
+
+69
+00:02:39,510 --> 00:02:41,490
+tutorials in fact I'll make a tutorial
+
+70
+00:02:41,490 --> 00:02:44,310
+in there about how to do obscure and
+
+71
+00:02:44,310 --> 00:02:47,130
+actually track really well to obscure an
+
+72
+00:02:47,130 --> 00:02:49,200
+object hopefully you found this kind of
+
+73
+00:02:49,200 --> 00:02:50,190
+informative though appreciate you
+
+74
+00:02:50,190 --> 00:02:51,570
+watching and I'll see you in the next
+
+75
+00:02:51,570 --> 00:02:53,810
+video
+

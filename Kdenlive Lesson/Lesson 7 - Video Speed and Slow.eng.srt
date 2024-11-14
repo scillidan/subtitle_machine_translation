@@ -1,0 +1,1004 @@
+1
+00:00:02,900 --> 00:00:05,070
+welcome back to another video editing
+
+2
+00:00:05,070 --> 00:00:06,480
+tutorial using the free software
+
+3
+00:00:06,480 --> 00:00:07,680
+kdenlive
+
+4
+00:00:07,680 --> 00:00:09,749
+in this video I'm going to show you how
+
+5
+00:00:09,749 --> 00:00:13,320
+to apply the speed effect under motion
+
+6
+00:00:13,320 --> 00:00:15,809
+so we can change and make a video faster
+
+7
+00:00:15,809 --> 00:00:19,380
+or slower than it normally is so I'm
+
+8
+00:00:19,380 --> 00:00:21,449
+going to start by bringing in a clip
+
+9
+00:00:21,449 --> 00:00:23,580
+I'll click here here on add clip and
+
+10
+00:00:23,580 --> 00:00:25,699
+we'll just bring in this clip of this
+
+11
+00:00:25,699 --> 00:00:28,490
+cyclist that we downloaded from pixabay
+
+12
+00:00:28,490 --> 00:00:31,259
+we can the clip appears over here in our
+
+13
+00:00:31,259 --> 00:00:33,240
+project bin we can click play clip and
+
+14
+00:00:33,240 --> 00:00:35,150
+see what this looks like at normal speed
+
+15
+00:00:35,150 --> 00:00:37,320
+let's go ahead and speed this up
+
+16
+00:00:37,320 --> 00:00:38,820
+actually we'll speed up and slow down to
+
+17
+00:00:38,820 --> 00:00:40,920
+a couple things to it so I'm gonna pause
+
+18
+00:00:40,920 --> 00:00:43,530
+it we can just drag right here on this
+
+19
+00:00:43,530 --> 00:00:45,450
+clip monitor if we click right here
+
+20
+00:00:45,450 --> 00:00:47,280
+anywhere in the video we can drag it
+
+21
+00:00:47,280 --> 00:00:49,410
+down to our timeline
+
+22
+00:00:49,410 --> 00:00:51,690
+it didn't go quite go and then we can
+
+23
+00:00:51,690 --> 00:00:53,880
+also we could have also click and drag
+
+24
+00:00:53,880 --> 00:00:56,820
+it from here to what we can't do is drag
+
+25
+00:00:56,820 --> 00:01:00,570
+it from a file in our computer we can't
+
+26
+00:01:00,570 --> 00:01:02,250
+drag it there unless it's in our clip
+
+27
+00:01:02,250 --> 00:01:04,349
+monitor already so we can drag into our
+
+28
+00:01:04,349 --> 00:01:09,480
+clip our clip project bin but we can't
+
+29
+00:01:09,480 --> 00:01:12,360
+drag it into I don't we can drag it into
+
+30
+00:01:12,360 --> 00:01:14,700
+the clip monitor or not now we can't
+
+31
+00:01:14,700 --> 00:01:15,960
+drag it anywhere the only place we can
+
+32
+00:01:15,960 --> 00:01:17,790
+drive from our computer is into the
+
+33
+00:01:17,790 --> 00:01:19,860
+project bin and then from project bin we
+
+34
+00:01:19,860 --> 00:01:22,710
+can drag into our timeline anyway so now
+
+35
+00:01:22,710 --> 00:01:24,180
+we have it we have two copies of the
+
+36
+00:01:24,180 --> 00:01:26,310
+same video down here we only want one so
+
+37
+00:01:26,310 --> 00:01:27,420
+I'm gonna delete the second one by
+
+38
+00:01:27,420 --> 00:01:28,590
+hitting the Delete key on my keyboard
+
+39
+00:01:28,590 --> 00:01:30,780
+then I'll select this one we know what
+
+40
+00:01:30,780 --> 00:01:32,430
+selected cuz as the red box around it
+
+41
+00:01:32,430 --> 00:01:34,290
+and I'm going to come down here to the
+
+42
+00:01:34,290 --> 00:01:35,550
+bottom right and just make this a little
+
+43
+00:01:35,550 --> 00:01:39,300
+bit larger alright I mean make my
+
+44
+00:01:39,300 --> 00:01:41,550
+timeline view larger the video is
+
+45
+00:01:41,550 --> 00:01:43,740
+staying the same size we see it's still
+
+46
+00:01:43,740 --> 00:01:46,860
+the same speed that it's always been but
+
+47
+00:01:46,860 --> 00:01:48,840
+we are in our project monitor so we're
+
+48
+00:01:48,840 --> 00:01:50,430
+watching it down here we know that -
+
+49
+00:01:50,430 --> 00:01:52,580
+because our playhead is moving along
+
+50
+00:01:52,580 --> 00:01:54,299
+with the video
+
+51
+00:01:54,299 --> 00:01:56,040
+whereas if we're gonna clip monitor and
+
+52
+00:01:56,040 --> 00:01:59,130
+we hit play it'll play this clip and our
+
+53
+00:01:59,130 --> 00:02:01,740
+playhead down here staying still even
+
+54
+00:02:01,740 --> 00:02:03,450
+though our video is playing up here
+
+55
+00:02:03,450 --> 00:02:05,369
+that's the way you can tell which
+
+56
+00:02:05,369 --> 00:02:09,359
+monitor you're on and yeah so now we're
+
+57
+00:02:09,359 --> 00:02:11,400
+going to take and apply the effect to
+
+58
+00:02:11,400 --> 00:02:13,599
+this clip to do that we go to motion
+
+59
+00:02:13,599 --> 00:02:15,969
+left click on the speed effect and drag
+
+60
+00:02:15,969 --> 00:02:18,760
+it over top of the clip now it says
+
+61
+00:02:18,760 --> 00:02:20,590
+speed in the top left corner of the clip
+
+62
+00:02:20,590 --> 00:02:22,689
+and also we have some new properties
+
+63
+00:02:22,689 --> 00:02:25,060
+that weren't here before there's just
+
+64
+00:02:25,060 --> 00:02:27,579
+one control for speed and that is it's
+
+65
+00:02:27,579 --> 00:02:29,709
+in percentage so the percentage right
+
+66
+00:02:29,709 --> 00:02:32,019
+now is 100% that means it's just playing
+
+67
+00:02:32,019 --> 00:02:35,139
+normal speed if we want to go twice as
+
+68
+00:02:35,139 --> 00:02:37,269
+fast we can change this we can click and
+
+69
+00:02:37,269 --> 00:02:40,959
+change it to 200% and hit enter and that
+
+70
+00:02:40,959 --> 00:02:42,969
+automatically shortens down the length
+
+71
+00:02:42,969 --> 00:02:45,340
+of our clip because now it's playing
+
+72
+00:02:45,340 --> 00:02:48,250
+twice as fast so it's going to take half
+
+73
+00:02:48,250 --> 00:02:52,120
+the time to play does that make sense so
+
+74
+00:02:52,120 --> 00:02:53,590
+we can come back and play this and see
+
+75
+00:02:53,590 --> 00:02:59,010
+what it looks like fast pretty cool
+
+76
+00:02:59,010 --> 00:03:02,680
+maybe we want it to be slow so we can
+
+77
+00:03:02,680 --> 00:03:03,879
+change it we can also just click and
+
+78
+00:03:03,879 --> 00:03:05,469
+drag up in here but it's little bit
+
+79
+00:03:05,469 --> 00:03:07,060
+sensitive on my computer I think it
+
+80
+00:03:07,060 --> 00:03:09,489
+depends on what operating system you're
+
+81
+00:03:09,489 --> 00:03:11,409
+using we can change it we can see it
+
+82
+00:03:11,409 --> 00:03:13,150
+just changes the size dynamically down
+
+83
+00:03:13,150 --> 00:03:16,689
+there let's change it down to about 58%
+
+84
+00:03:16,689 --> 00:03:19,540
+so this will be almost half speed so now
+
+85
+00:03:19,540 --> 00:03:21,310
+if we play everything should be really
+
+86
+00:03:21,310 --> 00:03:24,970
+slow so that's about half the normal
+
+87
+00:03:24,970 --> 00:03:27,750
+speed it would it would normally be
+
+88
+00:03:27,750 --> 00:03:30,970
+maybe what I want to have happen to get
+
+89
+00:03:30,970 --> 00:03:32,590
+rid of all the effects out of this we
+
+90
+00:03:32,590 --> 00:03:34,000
+just delete it or we can click on these
+
+91
+00:03:34,000 --> 00:03:36,759
+three lines and go reset effect and that
+
+92
+00:03:36,759 --> 00:03:38,530
+resets it back to what everything what
+
+93
+00:03:38,530 --> 00:03:42,189
+normally was which is 100% so we're back
+
+94
+00:03:42,189 --> 00:03:46,209
+to normal speed let's do this let's I'm
+
+95
+00:03:46,209 --> 00:03:48,009
+just left clicking on the playhead right
+
+96
+00:03:48,009 --> 00:03:49,810
+now and I'm kind of scrubbing along to
+
+97
+00:03:49,810 --> 00:03:51,849
+us find a certain point how about as
+
+98
+00:03:51,849 --> 00:03:55,000
+soon as he touches the bike let's have
+
+99
+00:03:55,000 --> 00:03:58,239
+it go into slow motion right here so to
+
+100
+00:03:58,239 --> 00:03:59,709
+do that if I want to have different
+
+101
+00:03:59,709 --> 00:04:01,239
+portions of this video will be different
+
+102
+00:04:01,239 --> 00:04:03,459
+speeds I need to cut the clip otherwise
+
+103
+00:04:03,459 --> 00:04:05,530
+it applies the effect to the entire clip
+
+104
+00:04:05,530 --> 00:04:07,299
+and in fact before I do this I'm just
+
+105
+00:04:07,299 --> 00:04:08,889
+going to delete the effect so now
+
+106
+00:04:08,889 --> 00:04:11,229
+there's no effect at all applied to this
+
+107
+00:04:11,229 --> 00:04:14,319
+clip and I'll go to my razor tool which
+
+108
+00:04:14,319 --> 00:04:15,849
+is this good as this little scissor
+
+109
+00:04:15,849 --> 00:04:18,579
+cursor and I'll click right here and now
+
+110
+00:04:18,579 --> 00:04:20,320
+I've cut this clip so we'll go back to
+
+111
+00:04:20,320 --> 00:04:22,300
+my selection tool now I have this clip
+
+112
+00:04:22,300 --> 00:04:24,729
+here and then this clip here so I will
+
+113
+00:04:24,729 --> 00:04:27,010
+apply a speed to this first clip
+
+114
+00:04:27,010 --> 00:04:30,610
+and the speed we want is gonna be 200%
+
+115
+00:04:30,610 --> 00:04:33,390
+so I'll change this to 200 hit enter it
+
+116
+00:04:33,390 --> 00:04:36,820
+shrinks that clip down by half because
+
+117
+00:04:36,820 --> 00:04:38,380
+it's taking up less space now it's
+
+118
+00:04:38,380 --> 00:04:40,510
+playing twice as fast so I want to
+
+119
+00:04:40,510 --> 00:04:42,250
+left-click and drag this over so they
+
+120
+00:04:42,250 --> 00:04:44,440
+play seamlessly so now it's gonna play
+
+121
+00:04:44,440 --> 00:04:46,920
+really fast and then it's going to
+
+122
+00:04:46,920 --> 00:04:50,530
+slowly go back to normal speed so here
+
+123
+00:04:50,530 --> 00:04:52,450
+it's like running to his bike and then
+
+124
+00:04:52,450 --> 00:04:54,790
+it slows down then maybe right here
+
+125
+00:04:54,790 --> 00:04:57,010
+where he jumps on the bike I mean go
+
+126
+00:04:57,010 --> 00:04:58,450
+back a little bit there by left clicking
+
+127
+00:04:58,450 --> 00:05:02,410
+and holding to about here I'm gonna go
+
+128
+00:05:02,410 --> 00:05:03,970
+back to my razor tool and I'm gonna cut
+
+129
+00:05:03,970 --> 00:05:06,010
+the video here because I want this last
+
+130
+00:05:06,010 --> 00:05:08,980
+part of the video to be another speed so
+
+131
+00:05:08,980 --> 00:05:11,110
+this one I want to be has come forward a
+
+132
+00:05:11,110 --> 00:05:12,880
+little bit till it gets on the bike and
+
+133
+00:05:12,880 --> 00:05:17,260
+then we'll clip it right here I'm gonna
+
+134
+00:05:17,260 --> 00:05:19,120
+go back to my selection tool so now I
+
+135
+00:05:19,120 --> 00:05:21,100
+have my ending part of the video which I
+
+136
+00:05:21,100 --> 00:05:22,660
+can just drag it over here and watch and
+
+137
+00:05:22,660 --> 00:05:24,280
+see what it's playing like this is just
+
+138
+00:05:24,280 --> 00:05:26,050
+him riding off at normal speed that's
+
+139
+00:05:26,050 --> 00:05:28,270
+how I want the ending to be but this
+
+140
+00:05:28,270 --> 00:05:30,460
+middle part I want to be slower so when
+
+141
+00:05:30,460 --> 00:05:32,440
+I slow it down it's gonna push out the
+
+142
+00:05:32,440 --> 00:05:34,690
+video make it longer so just so I don't
+
+143
+00:05:34,690 --> 00:05:37,230
+get into any trouble with it like over
+
+144
+00:05:37,230 --> 00:05:39,760
+trying to push into this existing video
+
+145
+00:05:39,760 --> 00:05:42,940
+I'm gonna move this one up to the video
+
+146
+00:05:42,940 --> 00:05:46,780
+layer to our video track 2 and now I
+
+147
+00:05:46,780 --> 00:05:48,550
+should be able to take this clip and I
+
+148
+00:05:48,550 --> 00:05:50,380
+want this to be slow so it's a hundred
+
+149
+00:05:50,380 --> 00:05:53,620
+percent now and I want it to be OH so
+
+150
+00:05:53,620 --> 00:05:55,660
+since there was actually an effect
+
+151
+00:05:55,660 --> 00:05:57,850
+applied to this it keeps them on all of
+
+152
+00:05:57,850 --> 00:05:59,680
+these we noticed our first one is two
+
+153
+00:05:59,680 --> 00:06:01,540
+hundred percent and then when we split
+
+154
+00:06:01,540 --> 00:06:03,730
+we just have a bunch of effects at one
+
+155
+00:06:03,730 --> 00:06:06,190
+hundred percent so I have to reapply it
+
+156
+00:06:06,190 --> 00:06:07,810
+but if I did if there was no effect on
+
+157
+00:06:07,810 --> 00:06:11,350
+it I have to read drag it down so let's
+
+158
+00:06:11,350 --> 00:06:13,180
+do that so I'll make sure the effect is
+
+159
+00:06:13,180 --> 00:06:15,100
+on and I'll change this down to 50
+
+160
+00:06:15,100 --> 00:06:17,560
+percent on this clip so sure enough it
+
+161
+00:06:17,560 --> 00:06:19,630
+pushed it out there it wasn't so far
+
+162
+00:06:19,630 --> 00:06:21,100
+that it ran into this so I'll drag this
+
+163
+00:06:21,100 --> 00:06:23,710
+back down and I use these tracks a lot
+
+164
+00:06:23,710 --> 00:06:25,180
+of time you can even like temporarily
+
+165
+00:06:25,180 --> 00:06:27,100
+just drag it down to the audio track if
+
+166
+00:06:27,100 --> 00:06:28,480
+ever you want to just get something out
+
+167
+00:06:28,480 --> 00:06:30,250
+of the way or you're not sure where
+
+168
+00:06:30,250 --> 00:06:32,200
+you're gonna add it in it's fine just to
+
+169
+00:06:32,200 --> 00:06:34,000
+have just different parts of Clips
+
+170
+00:06:34,000 --> 00:06:35,620
+hanging out as long as you remember what
+
+171
+00:06:35,620 --> 00:06:37,720
+they are that's not a problem I actually
+
+172
+00:06:37,720 --> 00:06:40,139
+use the timeline when I'm
+
+173
+00:06:40,139 --> 00:06:42,659
+editing to just kind of store stuff and
+
+174
+00:06:42,659 --> 00:06:44,159
+if I don't end up using it I'll just
+
+175
+00:06:44,159 --> 00:06:46,080
+delete it sometimes or I'll drag it into
+
+176
+00:06:46,080 --> 00:06:48,990
+place right last minute but that's a
+
+177
+00:06:48,990 --> 00:06:50,370
+good way to use the timeline these other
+
+178
+00:06:50,370 --> 00:06:51,780
+tracks even if you're not gonna render
+
+179
+00:06:51,780 --> 00:06:53,639
+on those tracks it's a good place to
+
+180
+00:06:53,639 --> 00:06:54,960
+just kind of set stuff while you're
+
+181
+00:06:54,960 --> 00:06:57,479
+waiting anyway so now everything's here
+
+182
+00:06:57,479 --> 00:06:59,400
+in the same one track so I'm gonna go
+
+183
+00:06:59,400 --> 00:07:00,599
+back to the beginning and we'll play
+
+184
+00:07:00,599 --> 00:07:03,300
+this and we'll see what it looks like so
+
+185
+00:07:03,300 --> 00:07:06,180
+he ran quickly to get it he slowly gets
+
+186
+00:07:06,180 --> 00:07:07,770
+on then it goes back to normal speed and
+
+187
+00:07:07,770 --> 00:07:11,189
+rides off very cool so to accomplish
+
+188
+00:07:11,189 --> 00:07:13,080
+this multiple speed we have this one at
+
+189
+00:07:13,080 --> 00:07:16,440
+double speed 200% this one's at 100% the
+
+190
+00:07:16,440 --> 00:07:19,469
+next one's at 50% so half speed and the
+
+191
+00:07:19,469 --> 00:07:21,240
+last ones 100% again I'm gonna change
+
+192
+00:07:21,240 --> 00:07:23,360
+this into 200% so he rides off quickly
+
+193
+00:07:23,360 --> 00:07:25,949
+and there we have it and then to render
+
+194
+00:07:25,949 --> 00:07:27,840
+this out this is the only effect we're
+
+195
+00:07:27,840 --> 00:07:28,949
+gonna we're gonna keep on this whole
+
+196
+00:07:28,949 --> 00:07:31,229
+thing to render it out I'll just click
+
+197
+00:07:31,229 --> 00:07:34,740
+render I'll click select mp4 I'll click
+
+198
+00:07:34,740 --> 00:07:36,599
+this button here to choose a place to
+
+199
+00:07:36,599 --> 00:07:39,150
+render it to so it'll be desktop and
+
+200
+00:07:39,150 --> 00:07:42,449
+we'll call it speed bike so what I'm
+
+201
+00:07:42,449 --> 00:07:45,449
+gonna call mine hit save and then I'll
+
+202
+00:07:45,449 --> 00:07:47,699
+hit this render to file so it'll render
+
+203
+00:07:47,699 --> 00:07:49,710
+it was it'll create this video and save
+
+204
+00:07:49,710 --> 00:07:52,050
+it on my desktop now and it takes a
+
+205
+00:07:52,050 --> 00:07:53,279
+little bit of time has to go through and
+
+206
+00:07:53,279 --> 00:07:55,319
+process and it's like okay what are we
+
+207
+00:07:55,319 --> 00:07:56,699
+doing we're slowing down this part of
+
+208
+00:07:56,699 --> 00:07:58,110
+the video we're speeding up this part of
+
+209
+00:07:58,110 --> 00:07:59,879
+the video but it'll apply all those
+
+210
+00:07:59,879 --> 00:08:02,129
+effects so just remember sometimes it
+
+211
+00:08:02,129 --> 00:08:04,050
+might be really laggy up here when
+
+212
+00:08:04,050 --> 00:08:05,490
+you're watching in your project monitor
+
+213
+00:08:05,490 --> 00:08:07,560
+but when you render it out it gets rid
+
+214
+00:08:07,560 --> 00:08:09,000
+of all that wagging as' and smoothness
+
+215
+00:08:09,000 --> 00:08:11,940
+and makes it a nice crispy video so
+
+216
+00:08:11,940 --> 00:08:14,610
+we'll play this video here and this is
+
+217
+00:08:14,610 --> 00:08:15,900
+what it looks like so we've kind of got
+
+218
+00:08:15,900 --> 00:08:19,610
+this slow and you've quickly rides off
+
+219
+00:08:19,610 --> 00:08:23,610
+so that is using the speed tool the
+
+220
+00:08:23,610 --> 00:08:25,830
+speed effect in kdenlive to either speed
+
+221
+00:08:25,830 --> 00:08:30,360
+up or slow down a video there was one
+
+222
+00:08:30,360 --> 00:08:31,710
+more thing I was gonna say about this oh
+
+223
+00:08:31,710 --> 00:08:34,169
+yes so this video it happened to not
+
+224
+00:08:34,169 --> 00:08:36,990
+have any audio associated with it but if
+
+225
+00:08:36,990 --> 00:08:38,969
+it did have audio it would have also
+
+226
+00:08:38,969 --> 00:08:42,179
+sped up and slowed down at the audio so
+
+227
+00:08:42,179 --> 00:08:44,610
+the audio would be like slower and lower
+
+228
+00:08:44,610 --> 00:08:46,680
+or be super fast and high-pitched like
+
+229
+00:08:46,680 --> 00:08:49,800
+the chipmunks so just keep that in mind
+
+230
+00:08:49,800 --> 00:08:51,839
+if you are doing with audio this speed
+
+231
+00:08:51,839 --> 00:08:53,970
+effect will also apply
+
+232
+00:08:53,970 --> 00:08:56,930
+change the speed of that audio as well
+
+233
+00:08:56,930 --> 00:08:59,340
+and check out a couple tutorials ago I
+
+234
+00:08:59,340 --> 00:09:00,870
+showed you how to actually even
+
+235
+00:09:00,870 --> 00:09:03,420
+right-click and go to split audio and
+
+236
+00:09:03,420 --> 00:09:05,700
+that'll actually split the audio out of
+
+237
+00:09:05,700 --> 00:09:08,040
+your video clip if you want us to leave
+
+238
+00:09:08,040 --> 00:09:09,990
+the audio or you can click over here and
+
+239
+00:09:09,990 --> 00:09:13,260
+mute the audio as well well I hope
+
+240
+00:09:13,260 --> 00:09:15,090
+you've enjoyed watching this video go
+
+241
+00:09:15,090 --> 00:09:16,740
+ahead and catch I'll catch you on the
+
+242
+00:09:16,740 --> 00:09:18,390
+next one in the next tutorial we're
+
+243
+00:09:18,390 --> 00:09:19,890
+going to be changing we're going to be
+
+244
+00:09:19,890 --> 00:09:22,470
+applying a crop to the video so we'll
+
+245
+00:09:22,470 --> 00:09:24,120
+change we can zoom in and look at just
+
+246
+00:09:24,120 --> 00:09:26,370
+one portion of the video and we'll also
+
+247
+00:09:26,370 --> 00:09:28,290
+learn how to how to move around the
+
+248
+00:09:28,290 --> 00:09:32,730
+video and transform it so catch on that
+
+249
+00:09:32,730 --> 00:09:35,190
+video if you're interested go ahead and
+
+250
+00:09:35,190 --> 00:09:37,470
+like comment subscribe and we'll see you
+
+251
+00:09:37,470 --> 00:09:39,800
+next video
+

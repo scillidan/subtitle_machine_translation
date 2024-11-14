@@ -1,0 +1,1008 @@
+1
+00:00:02,090 --> 00:00:04,590
+welcome to another darktable tutorial in
+
+2
+00:00:04,590 --> 00:00:05,910
+this video we're going to be taking
+
+3
+00:00:05,910 --> 00:00:07,650
+these raw images that we got from we
+
+4
+00:00:07,650 --> 00:00:09,719
+saturate calm and I'll show you how to
+
+5
+00:00:09,719 --> 00:00:12,089
+apply a watermark over top of the image
+
+6
+00:00:12,089 --> 00:00:13,949
+you can either apply it directly over
+
+7
+00:00:13,949 --> 00:00:15,839
+top like this we can put it our own
+
+8
+00:00:15,839 --> 00:00:17,670
+custom on in the bottom corner so I'll
+
+9
+00:00:17,670 --> 00:00:18,900
+call you I'll show you a couple
+
+10
+00:00:18,900 --> 00:00:21,089
+different ways that you can do that
+
+11
+00:00:21,089 --> 00:00:22,830
+we do that in the darkroom it's actually
+
+12
+00:00:22,830 --> 00:00:24,720
+a module so let's apply one to this
+
+13
+00:00:24,720 --> 00:00:27,539
+image right here we go to darkroom and
+
+14
+00:00:27,539 --> 00:00:29,130
+we see I already have it brought in here
+
+15
+00:00:29,130 --> 00:00:30,599
+but if you don't have yours it's not
+
+16
+00:00:30,599 --> 00:00:32,520
+here in your favorites by default you
+
+17
+00:00:32,520 --> 00:00:35,010
+need to go to more modules in the bottom
+
+18
+00:00:35,010 --> 00:00:36,810
+right hand corner and then just search
+
+19
+00:00:36,810 --> 00:00:38,520
+for watermark these are in alphabetical
+
+20
+00:00:38,520 --> 00:00:40,080
+order so it'll be down here at the
+
+21
+00:00:40,080 --> 00:00:41,490
+bottom and the double use and click
+
+22
+00:00:41,490 --> 00:00:45,000
+watermark and that will appear and we
+
+23
+00:00:45,000 --> 00:00:47,280
+can click on it up here as an option so
+
+24
+00:00:47,280 --> 00:00:49,530
+there's this drop-down when we it's
+
+25
+00:00:49,530 --> 00:00:52,290
+enabled right now if we click enable it
+
+26
+00:00:52,290 --> 00:00:55,260
+will show across here this marker is
+
+27
+00:00:55,260 --> 00:00:56,370
+darktable
+
+28
+00:00:56,370 --> 00:00:58,770
+we can change it to this has bulb which
+
+29
+00:00:58,770 --> 00:01:00,960
+is a black square we can change it to
+
+30
+00:01:00,960 --> 00:01:03,060
+this promo which shows information about
+
+31
+00:01:03,060 --> 00:01:05,489
+dark table and about the camera and lens
+
+32
+00:01:05,489 --> 00:01:07,980
+this first one dark table also showed
+
+33
+00:01:07,980 --> 00:01:09,480
+information about the camera and lens
+
+34
+00:01:09,480 --> 00:01:12,060
+and the metadata from the actual image
+
+35
+00:01:12,060 --> 00:01:14,580
+has the dark table logo there and then
+
+36
+00:01:14,580 --> 00:01:17,130
+this last one is this simple text so we
+
+37
+00:01:17,130 --> 00:01:19,409
+can put in our own text and change the
+
+38
+00:01:19,409 --> 00:01:22,350
+color and position of it so this is
+
+39
+00:01:22,350 --> 00:01:23,310
+probably one we're going to want to do
+
+40
+00:01:23,310 --> 00:01:24,420
+right now you can play with the other
+
+41
+00:01:24,420 --> 00:01:25,530
+ones but they're not incredibly
+
+42
+00:01:25,530 --> 00:01:27,570
+customizable this simple text is the
+
+43
+00:01:27,570 --> 00:01:28,740
+only one that's built in that's
+
+44
+00:01:28,740 --> 00:01:31,110
+customizable and then we can also add
+
+45
+00:01:31,110 --> 00:01:33,240
+our own so a fifth and a sixth and a
+
+46
+00:01:33,240 --> 00:01:35,100
+seventh we can add our own custom ones
+
+47
+00:01:35,100 --> 00:01:37,770
+in SVG format and I'll show you how to
+
+48
+00:01:37,770 --> 00:01:39,450
+do that in just a second here but to
+
+49
+00:01:39,450 --> 00:01:41,040
+change this text we just click in text
+
+50
+00:01:41,040 --> 00:01:42,900
+and we can type in whatever we want
+
+51
+00:01:42,900 --> 00:01:46,440
+TJ photos and so we can have that there
+
+52
+00:01:46,440 --> 00:01:49,170
+and then we can change the color of it
+
+53
+00:01:49,170 --> 00:01:51,270
+so we click here on color and maybe I'll
+
+54
+00:01:51,270 --> 00:01:54,450
+make this white and go select so now we
+
+55
+00:01:54,450 --> 00:01:56,250
+can have it really bold and on top there
+
+56
+00:01:56,250 --> 00:01:57,810
+if we want but we can make it more
+
+57
+00:01:57,810 --> 00:02:00,360
+subtle by going to opacity and turning
+
+58
+00:02:00,360 --> 00:02:01,740
+down that opacity that's kind of the
+
+59
+00:02:01,740 --> 00:02:05,250
+transparency or how clear it looks zero
+
+60
+00:02:05,250 --> 00:02:08,038
+is all the way invisible and 100 is all
+
+61
+00:02:08,038 --> 00:02:09,568
+the way visible so maybe I'll put it
+
+62
+00:02:09,568 --> 00:02:12,480
+down here to about like 17% or very very
+
+63
+00:02:12,480 --> 00:02:13,800
+subtle
+
+64
+00:02:13,800 --> 00:02:16,770
+there we have it we can change also the
+
+65
+00:02:16,770 --> 00:02:18,900
+scale the size of this we can scale it
+
+66
+00:02:18,900 --> 00:02:22,650
+down we can change the rotation so
+
+67
+00:02:22,650 --> 00:02:24,030
+people will rotate it and put it like
+
+68
+00:02:24,030 --> 00:02:26,850
+this and then we can also change the
+
+69
+00:02:26,850 --> 00:02:28,560
+position of it so right now it's a line
+
+70
+00:02:28,560 --> 00:02:30,390
+to the center we could align it to the
+
+71
+00:02:30,390 --> 00:02:32,820
+right we could line it to the bottom
+
+72
+00:02:32,820 --> 00:02:34,530
+right corner we could line to the bottom
+
+73
+00:02:34,530 --> 00:02:36,570
+we'll just keep it Center aligned right
+
+74
+00:02:36,570 --> 00:02:38,790
+now and then we can subtly do this X&Y
+
+75
+00:02:38,790 --> 00:02:42,390
+offset to kind of subtly adjust where
+
+76
+00:02:42,390 --> 00:02:46,650
+it's at within the picture so there we
+
+77
+00:02:46,650 --> 00:02:48,690
+go we have a nice sort of soft watermark
+
+78
+00:02:48,690 --> 00:02:50,550
+now across just with some simple text oh
+
+79
+00:02:50,550 --> 00:02:52,770
+we can also change the font which is a
+
+80
+00:02:52,770 --> 00:02:54,060
+pretty important one so you might want
+
+81
+00:02:54,060 --> 00:02:56,430
+to grab a font that's more any installed
+
+82
+00:02:56,430 --> 00:02:57,780
+fonts you have on your system you can
+
+83
+00:02:57,780 --> 00:03:00,090
+inst you can put over here alright so
+
+84
+00:03:00,090 --> 00:03:01,980
+that's the way to do basic text that's
+
+85
+00:03:01,980 --> 00:03:04,500
+using the built in module to add our own
+
+86
+00:03:04,500 --> 00:03:06,660
+in here it's a little bit more
+
+87
+00:03:06,660 --> 00:03:08,040
+complicated first of all we need to
+
+88
+00:03:08,040 --> 00:03:09,780
+create it so if you already have a
+
+89
+00:03:09,780 --> 00:03:11,490
+watermark then we can just use yours you
+
+90
+00:03:11,490 --> 00:03:14,100
+just need to put it in SVG format and if
+
+91
+00:03:14,100 --> 00:03:16,410
+we hover over just hover our mouse over
+
+92
+00:03:16,410 --> 00:03:18,750
+here the Mizzou min it'll tell us where
+
+93
+00:03:18,750 --> 00:03:21,420
+to put these so it says SVG watermarks
+
+94
+00:03:21,420 --> 00:03:23,730
+in your home directory so mine happens
+
+95
+00:03:23,730 --> 00:03:26,459
+to be home TJ I'm using Linux so this
+
+96
+00:03:26,459 --> 00:03:27,570
+file system might look a little
+
+97
+00:03:27,570 --> 00:03:28,620
+different than yours if you're using
+
+98
+00:03:28,620 --> 00:03:31,590
+Windows and then send the dot config
+
+99
+00:03:31,590 --> 00:03:34,020
+darktable in a folder called watermarks
+
+100
+00:03:34,020 --> 00:03:38,459
+or it's also in the USR / share / share
+
+101
+00:03:38,459 --> 00:03:41,520
+/ dark table / watermarks on Windows I
+
+102
+00:03:41,520 --> 00:03:43,110
+believe it's either in Program Files or
+
+103
+00:03:43,110 --> 00:03:44,700
+maybe in your app data I'll try to
+
+104
+00:03:44,700 --> 00:03:45,870
+include the link in the description this
+
+105
+00:03:45,870 --> 00:03:47,550
+video of where to put it but what we
+
+106
+00:03:47,550 --> 00:03:49,680
+need to do is go out of dark table and
+
+107
+00:03:49,680 --> 00:03:51,780
+find that directory so I'll minimize
+
+108
+00:03:51,780 --> 00:03:55,080
+this and first of all I'll just show you
+
+109
+00:03:55,080 --> 00:03:57,330
+you can use Inkscape I would recommend
+
+110
+00:03:57,330 --> 00:03:59,790
+doing so I've done I've created a quick
+
+111
+00:03:59,790 --> 00:04:01,410
+little logo here using Inkscape it's
+
+112
+00:04:01,410 --> 00:04:03,120
+just a transparent background so
+
+113
+00:04:03,120 --> 00:04:06,180
+anything we draw behind this Oh show you
+
+114
+00:04:06,180 --> 00:04:08,670
+real quick oh that I had to draw
+
+115
+00:04:08,670 --> 00:04:10,590
+something hoops anything we draw behind
+
+116
+00:04:10,590 --> 00:04:13,590
+here it'll show up so we can change the
+
+117
+00:04:13,590 --> 00:04:15,900
+color and it'll everything is Trant
+
+118
+00:04:15,900 --> 00:04:17,548
+everything in white is transparent in
+
+119
+00:04:17,548 --> 00:04:20,100
+this that make sense and so I can't did
+
+120
+00:04:20,100 --> 00:04:22,530
+a little bit of a gradient on black text
+
+121
+00:04:22,530 --> 00:04:23,729
+don't know if I'll show up very well or
+
+122
+00:04:23,729 --> 00:04:27,300
+not but anyway let's export
+
+123
+00:04:27,300 --> 00:04:29,009
+this we want to save it actually as an
+
+124
+00:04:29,009 --> 00:04:31,440
+SVG so I'm gonna go to file and I'll go
+
+125
+00:04:31,440 --> 00:04:33,599
+to save and then I asked where do you
+
+126
+00:04:33,599 --> 00:04:34,860
+want to save it well we need to go to
+
+127
+00:04:34,860 --> 00:04:37,259
+that location that dark table told us if
+
+128
+00:04:37,259 --> 00:04:39,780
+we hover over this it's in the dot
+
+129
+00:04:39,780 --> 00:04:41,639
+config dark table watermarks now on
+
+130
+00:04:41,639 --> 00:04:45,960
+Linux a dot means it's a in a hidden
+
+131
+00:04:45,960 --> 00:04:48,990
+directory so we can find that if we do
+
+132
+00:04:48,990 --> 00:04:51,479
+like this tells us all the everything in
+
+133
+00:04:51,479 --> 00:04:54,629
+this directory well if we do LS - aah
+
+134
+00:04:54,629 --> 00:04:56,490
+there's a bunch of other files with a
+
+135
+00:04:56,490 --> 00:04:58,860
+dot in front of them that dot means it's
+
+136
+00:04:58,860 --> 00:05:00,569
+hidden so it's there we just can't see
+
+137
+00:05:00,569 --> 00:05:02,940
+it so this dot config is the one that we
+
+138
+00:05:02,940 --> 00:05:06,389
+want we can also see those files by just
+
+139
+00:05:06,389 --> 00:05:09,060
+right-clicking in here and going to show
+
+140
+00:05:09,060 --> 00:05:12,000
+hidden files again all of these steps
+
+141
+00:05:12,000 --> 00:05:13,889
+are specific to most Linux operating
+
+142
+00:05:13,889 --> 00:05:17,099
+systems not Windows so if you're on
+
+143
+00:05:17,099 --> 00:05:18,810
+Windows you can ignore all this part and
+
+144
+00:05:18,810 --> 00:05:20,310
+you'll have to find it to do it another
+
+145
+00:05:20,310 --> 00:05:22,889
+way so now we have our dot config we'll
+
+146
+00:05:22,889 --> 00:05:24,690
+go into there we just need to find dark
+
+147
+00:05:24,690 --> 00:05:27,090
+table so dark table is right here and we
+
+148
+00:05:27,090 --> 00:05:30,569
+see there is no watermarks folder yet so
+
+149
+00:05:30,569 --> 00:05:32,580
+we need to create that looks like we
+
+150
+00:05:32,580 --> 00:05:34,080
+can't create it from within here so we
+
+151
+00:05:34,080 --> 00:05:35,940
+need to actually go here another way
+
+152
+00:05:35,940 --> 00:05:38,819
+so let's what I've done now see I'm in
+
+153
+00:05:38,819 --> 00:05:40,830
+the dialog for saving so I need to go to
+
+154
+00:05:40,830 --> 00:05:42,960
+my folders directory or to my file
+
+155
+00:05:42,960 --> 00:05:46,319
+explorer I need to go to home and then
+
+156
+00:05:46,319 --> 00:05:47,669
+find that and again same thing
+
+157
+00:05:47,669 --> 00:05:49,469
+right-click you can go to show hidden
+
+158
+00:05:49,469 --> 00:05:51,599
+files if you're not seeing those and
+
+159
+00:05:51,599 --> 00:05:54,479
+then we just need to go to darktable
+
+160
+00:05:54,479 --> 00:05:56,699
+and first create the folder to save it
+
+161
+00:05:56,699 --> 00:05:59,460
+into au dot config I mean first dot
+
+162
+00:05:59,460 --> 00:06:01,889
+config then darktable and we see the
+
+163
+00:06:01,889 --> 00:06:03,509
+here some configuration stuff for
+
+164
+00:06:03,509 --> 00:06:04,110
+darktable
+
+165
+00:06:04,110 --> 00:06:06,240
+we've seen to right-click and go create
+
+166
+00:06:06,240 --> 00:06:08,069
+directory and it will have to call it
+
+167
+00:06:08,069 --> 00:06:11,159
+water marks spelled exactly like that
+
+168
+00:06:11,159 --> 00:06:13,349
+all lowercase hit enter now that this
+
+169
+00:06:13,349 --> 00:06:15,870
+folders here and empty we can close out
+
+170
+00:06:15,870 --> 00:06:18,979
+of this and go back in and save our our
+
+171
+00:06:18,979 --> 00:06:22,139
+SVG there so we go to save I know this
+
+172
+00:06:22,139 --> 00:06:24,000
+seems a little complex but oh look it's
+
+173
+00:06:24,000 --> 00:06:25,139
+already there now so we're in that
+
+174
+00:06:25,139 --> 00:06:29,460
+directory and we'll just call it we'll
+
+175
+00:06:29,460 --> 00:06:37,340
+just call it up here TJ custom watermark
+
+176
+00:06:37,340 --> 00:06:40,190
+with some underscores for spaces and
+
+177
+00:06:40,190 --> 00:06:41,300
+we'll hit save
+
+178
+00:06:41,300 --> 00:06:44,270
+so that's saved as an SVG file now we
+
+179
+00:06:44,270 --> 00:06:46,970
+can we can see that SVG file if we were
+
+180
+00:06:46,970 --> 00:06:49,870
+to go into here config darktable
+
+181
+00:06:49,870 --> 00:06:53,320
+watermarks now we see that SVG file and
+
+182
+00:06:53,320 --> 00:06:56,120
+also it's also seen by darktable now we
+
+183
+00:06:56,120 --> 00:06:58,100
+don't have to restart darktable we can
+
+184
+00:06:58,100 --> 00:06:59,870
+just come over here to our drop downs
+
+185
+00:06:59,870 --> 00:07:03,070
+now and we have a new option
+
+186
+00:07:03,070 --> 00:07:05,060
+mm-maybe just close the watermark and
+
+187
+00:07:05,060 --> 00:07:05,770
+open it again
+
+188
+00:07:05,770 --> 00:07:08,360
+okay maybe go back to light table and go
+
+189
+00:07:08,360 --> 00:07:11,210
+back into darkroom now it's there okay
+
+190
+00:07:11,210 --> 00:07:13,280
+so we had to we had to reload dark just
+
+191
+00:07:13,280 --> 00:07:14,990
+the darkroom not the program but just we
+
+192
+00:07:14,990 --> 00:07:16,520
+had to get you back in the darkroom and
+
+193
+00:07:16,520 --> 00:07:18,470
+we show the drop down we can see now we
+
+194
+00:07:18,470 --> 00:07:19,460
+have another option
+
+195
+00:07:19,460 --> 00:07:21,290
+TJ custom watermark that wasn't there
+
+196
+00:07:21,290 --> 00:07:23,810
+before we click on that and that places
+
+197
+00:07:23,810 --> 00:07:26,390
+the TJ custom watermark with all the
+
+198
+00:07:26,390 --> 00:07:27,950
+settings that was there before maybe we
+
+199
+00:07:27,950 --> 00:07:30,440
+just go to reset all the settings and do
+
+200
+00:07:30,440 --> 00:07:32,990
+that drop down here we go so now we see
+
+201
+00:07:32,990 --> 00:07:34,520
+this watermark is placed over here
+
+202
+00:07:34,520 --> 00:07:36,830
+doesn't look great on this photo we can
+
+203
+00:07:36,830 --> 00:07:38,600
+align it maybe to the bottom left hand
+
+204
+00:07:38,600 --> 00:07:41,390
+corner and adjust that offset a little
+
+205
+00:07:41,390 --> 00:07:43,660
+bit so that it goes right to there and
+
+206
+00:07:43,660 --> 00:07:46,910
+down to there adjust the scale a little
+
+207
+00:07:46,910 --> 00:07:50,090
+bit so we'll put it there and then we
+
+208
+00:07:50,090 --> 00:07:52,790
+might want to do adjust the opacity and
+
+209
+00:07:52,790 --> 00:07:54,290
+I just kind of made this little
+
+210
+00:07:54,290 --> 00:07:56,630
+watermark up quick so it doesn't that
+
+211
+00:07:56,630 --> 00:07:58,160
+black text I probably make that text
+
+212
+00:07:58,160 --> 00:08:01,220
+white or something but yeah that's how
+
+213
+00:08:01,220 --> 00:08:03,590
+you do your own custom watermark and now
+
+214
+00:08:03,590 --> 00:08:05,120
+that I've put it I line it to the bottom
+
+215
+00:08:05,120 --> 00:08:06,890
+left and done this opacity like this let
+
+216
+00:08:06,890 --> 00:08:08,870
+me turn it up a little bit if we want to
+
+217
+00:08:08,870 --> 00:08:11,420
+apply it to every image in here what we
+
+218
+00:08:11,420 --> 00:08:13,880
+can do is just click on it in the light
+
+219
+00:08:13,880 --> 00:08:16,040
+table area kind of how we've kind of
+
+220
+00:08:16,040 --> 00:08:17,420
+done this in the past just not with a
+
+221
+00:08:17,420 --> 00:08:20,090
+watermark and we go to history stack and
+
+222
+00:08:20,090 --> 00:08:22,760
+click copy but then under the things to
+
+223
+00:08:22,760 --> 00:08:25,370
+copy if we uncheck all the changes
+
+224
+00:08:25,370 --> 00:08:27,890
+except for watermark and hit OK now it's
+
+225
+00:08:27,890 --> 00:08:30,560
+just copied that watermark with the
+
+226
+00:08:30,560 --> 00:08:32,720
+opacity and the location that we put it
+
+227
+00:08:32,720 --> 00:08:34,580
+now we can click on a couple of these
+
+228
+00:08:34,580 --> 00:08:37,070
+other ones and we can hold ctrl while we
+
+229
+00:08:37,070 --> 00:08:39,230
+select all four of them and then we can
+
+230
+00:08:39,230 --> 00:08:41,450
+go paste and then we can just paste that
+
+231
+00:08:41,450 --> 00:08:44,720
+watermark on all four of these and now
+
+232
+00:08:44,720 --> 00:08:48,440
+we see it yeah I did it we can't see cuz
+
+233
+00:08:48,440 --> 00:08:49,940
+it's off the screen we can see here
+
+234
+00:08:49,940 --> 00:08:50,990
+these things are
+
+235
+00:08:50,990 --> 00:08:52,790
+Haller but they are going to be on there
+
+236
+00:08:52,790 --> 00:08:54,440
+if we double-click we can probably see
+
+237
+00:08:54,440 --> 00:08:56,810
+that yeah it's down there so we need to
+
+238
+00:08:56,810 --> 00:08:58,010
+come in and adjust it just because of
+
+239
+00:08:58,010 --> 00:09:00,709
+the size of these that we can see that
+
+240
+00:09:00,709 --> 00:09:03,110
+watermark so that is adding custom
+
+241
+00:09:03,110 --> 00:09:06,260
+watermarks to images in darktable and we
+
+242
+00:09:06,260 --> 00:09:08,000
+see that it added to all of those ones
+
+243
+00:09:08,000 --> 00:09:09,620
+if we had a hundred pictures we could
+
+244
+00:09:09,620 --> 00:09:11,300
+add a hundred at once this is a great
+
+245
+00:09:11,300 --> 00:09:13,880
+way to watermark images if you're you
+
+246
+00:09:13,880 --> 00:09:15,709
+know gonna be sharing them with clients
+
+247
+00:09:15,709 --> 00:09:16,820
+or if you just want to put a tiny
+
+248
+00:09:16,820 --> 00:09:19,130
+watermark on with your your website or
+
+249
+00:09:19,130 --> 00:09:22,070
+something yeah if you have any questions
+
+250
+00:09:22,070 --> 00:09:23,480
+or comments go ahead and leave them
+
+251
+00:09:23,480 --> 00:09:25,820
+below and I'll catch you in the next
+
+252
+00:09:25,820 --> 00:09:28,330
+video
+

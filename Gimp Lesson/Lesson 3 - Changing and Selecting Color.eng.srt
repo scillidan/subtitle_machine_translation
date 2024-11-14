@@ -1,0 +1,988 @@
+1
+00:00:02,240 --> 00:00:04,740
+welcome to another tutorial in this
+
+2
+00:00:04,740 --> 00:00:06,900
+video we'll quickly look at color and
+
+3
+00:00:06,900 --> 00:00:08,999
+picking color choosing a certain color
+
+4
+00:00:08,999 --> 00:00:11,369
+that we want to use in we'll look
+
+5
+00:00:11,369 --> 00:00:12,780
+at the different options we have for the
+
+6
+00:00:12,780 --> 00:00:14,519
+color interface and different ways to
+
+7
+00:00:14,519 --> 00:00:17,310
+pick a color and then we will be using
+
+8
+00:00:17,310 --> 00:00:20,009
+color if you don't already have a blank
+
+9
+00:00:20,009 --> 00:00:21,570
+document you can just get one by going
+
+10
+00:00:21,570 --> 00:00:24,119
+to file new and then just leave
+
+11
+00:00:24,119 --> 00:00:26,339
+everything to default and hit OK and it
+
+12
+00:00:26,339 --> 00:00:27,839
+brings up a nice blank square like this
+
+13
+00:00:27,839 --> 00:00:29,999
+so we have a nice square white canvas
+
+14
+00:00:29,999 --> 00:00:31,949
+one thing I will say is that we do not
+
+15
+00:00:31,949 --> 00:00:34,080
+have an alpha channel if we go over here
+
+16
+00:00:34,080 --> 00:00:36,420
+to the top right we can look and see we
+
+17
+00:00:36,420 --> 00:00:38,730
+have a red green and a blue channel and
+
+18
+00:00:38,730 --> 00:00:41,520
+if we click on our layers we see we just
+
+19
+00:00:41,520 --> 00:00:43,710
+have one layer don't you don't need to
+
+20
+00:00:43,710 --> 00:00:44,940
+worry about any of this if it doesn't
+
+21
+00:00:44,940 --> 00:00:46,530
+make any sense to you but just know that
+
+22
+00:00:46,530 --> 00:00:48,900
+we do not have transparency which is why
+
+23
+00:00:48,900 --> 00:00:50,700
+if we go to our eraser and try and erase
+
+24
+00:00:50,700 --> 00:00:53,280
+this white we can't get to a transparent
+
+25
+00:00:53,280 --> 00:00:56,250
+background like we could if we had at a
+
+26
+00:00:56,250 --> 00:00:58,530
+alpha channel so for alpha channel if I
+
+27
+00:00:58,530 --> 00:00:59,940
+right click and go add alpha Channel
+
+28
+00:00:59,940 --> 00:01:02,370
+now we could erase and these sort of
+
+29
+00:01:02,370 --> 00:01:05,010
+squares back here is transparency or
+
+30
+00:01:05,010 --> 00:01:07,320
+like the Alpha Channel don't worry about
+
+31
+00:01:07,320 --> 00:01:08,760
+that at all I'm gonna remove it right
+
+32
+00:01:08,760 --> 00:01:11,190
+now because we'll touch on that later in
+
+33
+00:01:11,190 --> 00:01:12,480
+the future but just know that's why
+
+34
+00:01:12,480 --> 00:01:14,670
+we're not gonna see options when we left
+
+35
+00:01:14,670 --> 00:01:16,920
+click on our color to choose we can
+
+36
+00:01:16,920 --> 00:01:18,420
+choose a color but we're not gonna see
+
+37
+00:01:18,420 --> 00:01:20,640
+options for the Alpha channel or for
+
+38
+00:01:20,640 --> 00:01:23,820
+transparency in here just yet anyway
+
+39
+00:01:23,820 --> 00:01:26,760
+okay so let's slow down a little bit and
+
+40
+00:01:26,760 --> 00:01:28,590
+go over here to choose our color we've
+
+41
+00:01:28,590 --> 00:01:31,170
+learned before if we start drawing if we
+
+42
+00:01:31,170 --> 00:01:33,450
+go back to select a black color we can
+
+43
+00:01:33,450 --> 00:01:35,520
+just draw with our brush or the pencil
+
+44
+00:01:35,520 --> 00:01:37,770
+or lots of these different tools and we
+
+45
+00:01:37,770 --> 00:01:40,650
+can draw in black to change the color we
+
+46
+00:01:40,650 --> 00:01:42,750
+just left-click on one of these two
+
+47
+00:01:42,750 --> 00:01:44,130
+squares either the white or the black
+
+48
+00:01:44,130 --> 00:01:46,170
+the one that's on top is the one we're
+
+49
+00:01:46,170 --> 00:01:48,510
+using right now which is to black and we
+
+50
+00:01:48,510 --> 00:01:50,670
+can select any shade of red in here we
+
+51
+00:01:50,670 --> 00:01:52,620
+can go in the top right hand corner is
+
+52
+00:01:52,620 --> 00:01:55,830
+pure red we can hit OK and now
+
+53
+00:01:55,830 --> 00:01:59,310
+everything we draw will be in red we can
+
+54
+00:01:59,310 --> 00:02:01,920
+come again and left-click and we can go
+
+55
+00:02:01,920 --> 00:02:03,810
+over and if we left click on hold we
+
+56
+00:02:03,810 --> 00:02:06,119
+kind of get these crosshairs and we can
+
+57
+00:02:06,119 --> 00:02:08,158
+see it's moving the dials around over
+
+58
+00:02:08,158 --> 00:02:10,258
+here a little bit this might be
+
+59
+00:02:10,258 --> 00:02:12,569
+different for you might be this LCH i
+
+60
+00:02:12,569 --> 00:02:14,099
+have it selected on this
+
+61
+00:02:14,099 --> 00:02:16,920
+HSV and it's just changing different
+
+62
+00:02:16,920 --> 00:02:18,930
+ways it's got a red green and a blue
+
+63
+00:02:18,930 --> 00:02:21,540
+channel we can also change the color
+
+64
+00:02:21,540 --> 00:02:23,909
+over here but I would recommend staying
+
+65
+00:02:23,909 --> 00:02:25,499
+away from this when you're just starting
+
+66
+00:02:25,499 --> 00:02:28,349
+out and only change your color over here
+
+67
+00:02:28,349 --> 00:02:31,260
+on the left side portion so to change
+
+68
+00:02:31,260 --> 00:02:33,659
+the actual color we can select with left
+
+69
+00:02:33,659 --> 00:02:35,849
+clicking we can go to our blues we can
+
+70
+00:02:35,849 --> 00:02:38,730
+go to more like yellows or Red's we can
+
+71
+00:02:38,730 --> 00:02:40,230
+left-click and hold and see how that
+
+72
+00:02:40,230 --> 00:02:43,349
+changes and when we get the the color or
+
+73
+00:02:43,349 --> 00:02:45,989
+the hue that we want we can then select
+
+74
+00:02:45,989 --> 00:02:49,680
+mixing white with that or more blue and
+
+75
+00:02:49,680 --> 00:02:52,349
+under current it shows the color that
+
+76
+00:02:52,349 --> 00:02:54,659
+we're currently on so we did have this
+
+77
+00:02:54,659 --> 00:02:56,909
+red color so it's the old and now we're
+
+78
+00:02:56,909 --> 00:02:58,829
+going to be more of a blue and if we
+
+79
+00:02:58,829 --> 00:03:00,209
+want to be more of a blue mixed with
+
+80
+00:03:00,209 --> 00:03:02,579
+white we come up here and this is kind
+
+81
+00:03:02,579 --> 00:03:04,199
+of a halfway between blue and white we
+
+82
+00:03:04,199 --> 00:03:07,079
+hit OK and we have sort of this blue
+
+83
+00:03:07,079 --> 00:03:10,349
+white color now another tool we haven't
+
+84
+00:03:10,349 --> 00:03:11,579
+really looked at is the bucket filled
+
+85
+00:03:11,579 --> 00:03:13,409
+tool so maybe if I choose a different
+
+86
+00:03:13,409 --> 00:03:14,879
+color like this green and we get a
+
+87
+00:03:14,879 --> 00:03:18,030
+really pale green color hit OK we can go
+
+88
+00:03:18,030 --> 00:03:21,120
+to the bucket fill tool or the what's it
+
+89
+00:03:21,120 --> 00:03:23,009
+called fill tool yeah bucket fill tool
+
+90
+00:03:23,009 --> 00:03:25,620
+we left click on it and now we can click
+
+91
+00:03:25,620 --> 00:03:27,389
+and it'll fill in everything within that
+
+92
+00:03:27,389 --> 00:03:30,359
+area will be that color so maybe we want
+
+93
+00:03:30,359 --> 00:03:32,970
+these eyes to be a purple color with
+
+94
+00:03:32,970 --> 00:03:35,159
+some black mixed in like a black purpley
+
+95
+00:03:35,159 --> 00:03:37,109
+we can select that color and go to okay
+
+96
+00:03:37,109 --> 00:03:39,840
+and we can fill in these eyes now so it
+
+97
+00:03:39,840 --> 00:03:42,090
+fills in the whole area so now we've
+
+98
+00:03:42,090 --> 00:03:44,519
+drawn a little face right here there's a
+
+99
+00:03:44,519 --> 00:03:46,680
+toggle too if we want so if we grab the
+
+100
+00:03:46,680 --> 00:03:48,900
+eraser tool right now and we start to
+
+101
+00:03:48,900 --> 00:03:51,599
+erase it's going to erase this back this
+
+102
+00:03:51,599 --> 00:03:54,299
+color here so not the purple you erase
+
+103
+00:03:54,299 --> 00:03:55,680
+this cover that's behind which is a
+
+104
+00:03:55,680 --> 00:03:58,019
+white square right now so if we erase
+
+105
+00:03:58,019 --> 00:03:59,819
+everything is erasing in white but it
+
+106
+00:03:59,819 --> 00:04:01,530
+doesn't have to be that way we can
+
+107
+00:04:01,530 --> 00:04:03,810
+change the erase color by clicking on
+
+108
+00:04:03,810 --> 00:04:05,699
+that one and change it to a different
+
+109
+00:04:05,699 --> 00:04:08,129
+color as well maybe we change it to a
+
+110
+00:04:08,129 --> 00:04:11,189
+shade of red and it okay so now when we
+
+111
+00:04:11,189 --> 00:04:14,009
+erase it'll be this shade of darker you
+
+112
+00:04:14,009 --> 00:04:16,589
+know maroon red color and we can toggle
+
+113
+00:04:16,589 --> 00:04:18,199
+between the two if we click this button
+
+114
+00:04:18,199 --> 00:04:21,298
+now the foreground color is this sort of
+
+115
+00:04:21,298 --> 00:04:24,240
+maroon and the background color or the
+
+116
+00:04:24,240 --> 00:04:25,949
+color of our erase tool will be this
+
+117
+00:04:25,949 --> 00:04:29,200
+purple this darker purple
+
+118
+00:04:29,200 --> 00:04:32,380
+when we have our drawing tool selected
+
+119
+00:04:32,380 --> 00:04:34,420
+like the brush we can do that too we can
+
+120
+00:04:34,420 --> 00:04:36,610
+draw let's change the color of this to
+
+121
+00:04:36,610 --> 00:04:39,520
+more of a open somes in contrasting more
+
+122
+00:04:39,520 --> 00:04:43,120
+of a green so now we have a green right
+
+123
+00:04:43,120 --> 00:04:44,530
+here and if we want to just toggle
+
+124
+00:04:44,530 --> 00:04:46,030
+between the two we can left-click and
+
+125
+00:04:46,030 --> 00:04:48,460
+now we have the purple so play with that
+
+126
+00:04:48,460 --> 00:04:50,560
+toggling between the two it's also X is
+
+127
+00:04:50,560 --> 00:04:52,600
+the shortcut key if you hover over it
+
+128
+00:04:52,600 --> 00:04:55,270
+tells you press X and you can toggle see
+
+129
+00:04:55,270 --> 00:04:58,060
+we can draw a line press X and keep
+
+130
+00:04:58,060 --> 00:04:59,980
+toggling between those two by pressing X
+
+131
+00:04:59,980 --> 00:05:01,990
+on our keyboard monster on my keyboard
+
+132
+00:05:01,990 --> 00:05:05,740
+shortcuts real quick so X will toggle
+
+133
+00:05:05,740 --> 00:05:10,120
+that okay let's go back into the colors
+
+134
+00:05:10,120 --> 00:05:11,020
+now so I want to show you some different
+
+135
+00:05:11,020 --> 00:05:13,180
+options we have so we've just looked at
+
+136
+00:05:13,180 --> 00:05:14,500
+this one right here if we hover over
+
+137
+00:05:14,500 --> 00:05:17,230
+this is what's called the the color
+
+138
+00:05:17,230 --> 00:05:19,450
+selector if we right click we see what
+
+139
+00:05:19,450 --> 00:05:22,840
+they all are we have CMYK we have
+
+140
+00:05:22,840 --> 00:05:25,840
+water color we have wheel and we have
+
+141
+00:05:25,840 --> 00:05:28,660
+palette and that's right clicking to get
+
+142
+00:05:28,660 --> 00:05:30,100
+to those options or we can click these
+
+143
+00:05:30,100 --> 00:05:31,810
+tiny little icons once you get familiar
+
+144
+00:05:31,810 --> 00:05:34,060
+with them you can just click on them so
+
+145
+00:05:34,060 --> 00:05:38,260
+CMYK is cyan magenta yellow and K is the
+
+146
+00:05:38,260 --> 00:05:40,390
+black color so you can choose your color
+
+147
+00:05:40,390 --> 00:05:42,400
+this way you can choose this is done in
+
+148
+00:05:42,400 --> 00:05:44,800
+printing a lot you can choose by mixing
+
+149
+00:05:44,800 --> 00:05:47,290
+these different colors and you create a
+
+150
+00:05:47,290 --> 00:05:48,430
+color so we've created this sort of
+
+151
+00:05:48,430 --> 00:05:51,160
+orange color and again as we move these
+
+152
+00:05:51,160 --> 00:05:53,260
+it's changing the dials over here under
+
+153
+00:05:53,260 --> 00:05:55,660
+the red green blue and the hue
+
+154
+00:05:55,660 --> 00:05:58,540
+saturation and value is what this HSB
+
+155
+00:05:58,540 --> 00:06:01,450
+stands for so we can choose our color
+
+156
+00:06:01,450 --> 00:06:03,430
+this way and we can hit OK and now we've
+
+157
+00:06:03,430 --> 00:06:05,229
+got a nice color for printing that a
+
+158
+00:06:05,229 --> 00:06:07,270
+printer can interpret it knows how to
+
+159
+00:06:07,270 --> 00:06:09,790
+make this ugly brownish color and if we
+
+160
+00:06:09,790 --> 00:06:12,100
+add more cyan which is like a bluish
+
+161
+00:06:12,100 --> 00:06:14,650
+color and take out the magenta which is
+
+162
+00:06:14,650 --> 00:06:16,660
+more like a red and take out the yellow
+
+163
+00:06:16,660 --> 00:06:19,690
+we're gonna get just cyan so this is
+
+164
+00:06:19,690 --> 00:06:24,190
+just a cyan color now okay let's go back
+
+165
+00:06:24,190 --> 00:06:25,900
+and see what else we have we have this
+
+166
+00:06:25,900 --> 00:06:29,169
+watercolor and watercolors one I'm
+
+167
+00:06:29,169 --> 00:06:31,270
+actually not quite sure if it's working
+
+168
+00:06:31,270 --> 00:06:32,740
+correctly in this version but it's one
+
+169
+00:06:32,740 --> 00:06:34,419
+that I don't use anyway you can select
+
+170
+00:06:34,419 --> 00:06:36,400
+colors in watercolor but one that I do
+
+171
+00:06:36,400 --> 00:06:38,470
+use a lot is this color wheel this next
+
+172
+00:06:38,470 --> 00:06:40,090
+one the color wheel that you choose
+
+173
+00:06:40,090 --> 00:06:41,980
+between white in one
+
+174
+00:06:41,980 --> 00:06:44,800
+corner black in the other corner and
+
+175
+00:06:44,800 --> 00:06:47,080
+then full color saturation in that other
+
+176
+00:06:47,080 --> 00:06:49,390
+corner and you can mix between any of
+
+177
+00:06:49,390 --> 00:06:52,420
+those colors to create a nice color and
+
+178
+00:06:52,420 --> 00:06:54,400
+then if you want to change the hue of
+
+179
+00:06:54,400 --> 00:06:57,250
+the color you come around and you can
+
+180
+00:06:57,250 --> 00:06:59,800
+left-click in this circle to find a nice
+
+181
+00:06:59,800 --> 00:07:02,170
+hue and then a mix between either white
+
+182
+00:07:02,170 --> 00:07:06,700
+and black or white and that color or
+
+183
+00:07:06,700 --> 00:07:09,640
+black in that color so this is a good a
+
+184
+00:07:09,640 --> 00:07:11,170
+good way to pick colors as well you can
+
+185
+00:07:11,170 --> 00:07:13,270
+pick the same colors in this in all
+
+186
+00:07:13,270 --> 00:07:15,370
+different methods you can pick the same
+
+187
+00:07:15,370 --> 00:07:17,200
+colors it's just a different interface
+
+188
+00:07:17,200 --> 00:07:20,590
+for how you want to pick the last thing
+
+189
+00:07:20,590 --> 00:07:22,510
+we have here is our palette so this is
+
+190
+00:07:22,510 --> 00:07:23,920
+the colors that we've used in the past
+
+191
+00:07:23,920 --> 00:07:25,870
+if you want to quickly jump back to that
+
+192
+00:07:25,870 --> 00:07:28,180
+ugly brown color we can do that or this
+
+193
+00:07:28,180 --> 00:07:30,610
+kind of this magenta color we had picked
+
+194
+00:07:30,610 --> 00:07:33,070
+earlier or some of these lighter green
+
+195
+00:07:33,070 --> 00:07:35,020
+so it keeps a history of the palette
+
+196
+00:07:35,020 --> 00:07:36,790
+you're using so you can jump back and
+
+197
+00:07:36,790 --> 00:07:38,980
+forth between certain colors one last
+
+198
+00:07:38,980 --> 00:07:40,660
+thing I want to talk about is if we do
+
+199
+00:07:40,660 --> 00:07:42,880
+change over here if we want to change
+
+200
+00:07:42,880 --> 00:07:45,640
+the value of the red green and blue you
+
+201
+00:07:45,640 --> 00:07:48,250
+can toggle between 0 and 100 showing
+
+202
+00:07:48,250 --> 00:07:51,310
+that or 0 and 255 a lot of times if
+
+203
+00:07:51,310 --> 00:07:53,350
+you're working with color especially in
+
+204
+00:07:53,350 --> 00:07:55,990
+like HTML or different in like websites
+
+205
+00:07:55,990 --> 00:07:57,700
+and things you might want to have a
+
+206
+00:07:57,700 --> 00:08:01,000
+value between 0 and 255 so in that case
+
+207
+00:08:01,000 --> 00:08:04,210
+when you do maximum red it's 255 and
+
+208
+00:08:04,210 --> 00:08:07,900
+minimum is 0 but some people don't work
+
+209
+00:08:07,900 --> 00:08:09,670
+in web or maybe especially if you're
+
+210
+00:08:09,670 --> 00:08:12,610
+working in like CMYK and light color you
+
+211
+00:08:12,610 --> 00:08:15,400
+maybe want to do between 0 and 100 it's
+
+212
+00:08:15,400 --> 00:08:16,840
+just personal preference but then that
+
+213
+00:08:16,840 --> 00:08:19,030
+way when you turn up red to the full
+
+214
+00:08:19,030 --> 00:08:22,480
+amount it's 100% and so you know 50 is
+
+215
+00:08:22,480 --> 00:08:25,600
+50% it kind of helps you understand if
+
+216
+00:08:25,600 --> 00:08:29,700
+you have 25% of a certain color or not
+
+217
+00:08:29,700 --> 00:08:31,900
+anyway that's kind of the different
+
+218
+00:08:31,900 --> 00:08:33,549
+toggles we have there one last thing
+
+219
+00:08:33,549 --> 00:08:35,349
+I'll show you is we can select this here
+
+220
+00:08:35,349 --> 00:08:37,599
+which is the eyedropper tool so we can
+
+221
+00:08:37,599 --> 00:08:39,970
+pick a certain color from our image like
+
+222
+00:08:39,970 --> 00:08:42,130
+this black and then we can choose that
+
+223
+00:08:42,130 --> 00:08:44,770
+color or we can pick this purple color
+
+224
+00:08:44,770 --> 00:08:46,570
+that we had before this is especially
+
+225
+00:08:46,570 --> 00:08:48,040
+useful if you have an actual image
+
+226
+00:08:48,040 --> 00:08:49,540
+brought in that you're working on like a
+
+227
+00:08:49,540 --> 00:08:52,630
+photograph you can pick a certain pixel
+
+228
+00:08:52,630 --> 00:08:55,570
+color from that image and know exactly
+
+229
+00:08:55,570 --> 00:08:56,200
+what that
+
+230
+00:08:56,200 --> 00:08:59,010
+is and be able to use it as well so
+
+231
+00:08:59,010 --> 00:09:00,670
+hopefully that's made a little bit of
+
+232
+00:09:00,670 --> 00:09:02,680
+sense go ahead and play with this the
+
+233
+00:09:02,680 --> 00:09:04,720
+color different color options we have
+
+234
+00:09:04,720 --> 00:09:06,670
+here I will say there's also a color
+
+235
+00:09:06,670 --> 00:09:08,829
+picker tool as well right here if we
+
+236
+00:09:08,829 --> 00:09:11,649
+hover over we can pick a color this way
+
+237
+00:09:11,649 --> 00:09:13,389
+as well and just start using that color
+
+238
+00:09:13,389 --> 00:09:15,760
+so now we have this red we can click on
+
+239
+00:09:15,760 --> 00:09:18,329
+the color picker and we can pick this
+
+240
+00:09:18,329 --> 00:09:21,459
+blue color and then we can draw in that
+
+241
+00:09:21,459 --> 00:09:22,000
+as well
+
+242
+00:09:22,000 --> 00:09:23,380
+so that's another way to pick colors
+
+243
+00:09:23,380 --> 00:09:26,560
+from the image you're working with well
+
+244
+00:09:26,560 --> 00:09:27,760
+I'm gonna leave this video here go ahead
+
+245
+00:09:27,760 --> 00:09:28,959
+and leave questions or comments below if
+
+246
+00:09:28,959 --> 00:09:30,760
+you have any and I'll catch you in the
+
+247
+00:09:30,760 --> 00:09:33,389
+next video
+

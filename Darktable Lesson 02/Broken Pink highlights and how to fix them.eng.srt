@@ -1,0 +1,1136 @@
+1
+00:00:01,439 --> 00:00:03,040
+so you've heard pretty cool things about
+
+2
+00:00:03,040 --> 00:00:05,279
+dark table and you've decided to try it
+
+3
+00:00:05,279 --> 00:00:09,120
+out you load your first capture and wait
+
+4
+00:00:09,120 --> 00:00:12,080
+what the sky is pink the c is pink dark
+
+5
+00:00:12,080 --> 00:00:14,639
+table is rubbish the sun is clearly
+
+6
+00:00:14,639 --> 00:00:17,199
+yellow as displayed in this 2d graph
+
+7
+00:00:17,199 --> 00:00:18,960
+so why is dark table turning the sun
+
+8
+00:00:18,960 --> 00:00:21,680
+pink and what can we do to fix it the
+
+9
+00:00:21,680 --> 00:00:24,240
+most common culprit of pink areas in
+
+10
+00:00:24,240 --> 00:00:27,039
+your capture is
+
+11
+00:00:27,039 --> 00:00:29,679
+highlight clipping at the sensor
+
+12
+00:00:29,679 --> 00:00:31,359
+this is what happens when you have too
+
+13
+00:00:31,359 --> 00:00:32,960
+much fun in the sun
+
+14
+00:00:32,960 --> 00:00:34,960
+part of the data you captured hit the
+
+15
+00:00:34,960 --> 00:00:37,200
+ceiling of the sensor's upper limit and
+
+16
+00:00:37,200 --> 00:00:40,160
+the sensor said yep i'm full write
+
+17
+00:00:40,160 --> 00:00:43,440
+maximum values in all these areas
+
+18
+00:00:43,440 --> 00:00:46,079
+when we load a camera native data file
+
+19
+00:00:46,079 --> 00:00:48,800
+also known as raw into dark table
+
+20
+00:00:48,800 --> 00:00:51,199
+we apply certain processes
+
+21
+00:00:51,199 --> 00:00:53,920
+so we can visualize the data captured
+
+22
+00:00:53,920 --> 00:00:55,920
+i'm going to try and investigate why the
+
+23
+00:00:55,920 --> 00:00:58,399
+highlights turn pink so bear with me or
+
+24
+00:00:58,399 --> 00:01:00,399
+skip to the chapter in the video where i
+
+25
+00:01:00,399 --> 00:01:04,160
+attempt to fix the pink highlights
+
+26
+00:01:05,840 --> 00:01:07,520
+let's say that this is our capture with
+
+27
+00:01:07,520 --> 00:01:10,320
+a bit of overexposure i will disable all
+
+28
+00:01:10,320 --> 00:01:12,479
+modules that i can disable
+
+29
+00:01:12,479 --> 00:01:14,799
+so we can see what's happening step by
+
+30
+00:01:14,799 --> 00:01:16,159
+step
+
+31
+00:01:16,159 --> 00:01:18,720
+i'm also going to skip the mosaic as
+
+32
+00:01:18,720 --> 00:01:21,680
+this throws us off a little bit
+
+33
+00:01:21,680 --> 00:01:22,799
+and
+
+34
+00:01:22,799 --> 00:01:24,799
+i'm going to set the raw black and white
+
+35
+00:01:24,799 --> 00:01:27,119
+point to pass through
+
+36
+00:01:27,119 --> 00:01:29,280
+now we can work this process from the
+
+37
+00:01:29,280 --> 00:01:30,400
+bottom up
+
+38
+00:01:30,400 --> 00:01:31,920
+at this point we're pretty much
+
+39
+00:01:31,920 --> 00:01:34,320
+visualizing the data values in our raw
+
+40
+00:01:34,320 --> 00:01:36,320
+file
+
+41
+00:01:36,320 --> 00:01:38,799
+if we zoom in to a stupid percentage we
+
+42
+00:01:38,799 --> 00:01:41,200
+can see the photosite pattern
+
+43
+00:01:41,200 --> 00:01:43,759
+each photosite contains a single numeric
+
+44
+00:01:43,759 --> 00:01:45,200
+value
+
+45
+00:01:45,200 --> 00:01:47,280
+right now if we look at the raw black
+
+46
+00:01:47,280 --> 00:01:49,680
+white point module we can see that the
+
+47
+00:01:49,680 --> 00:01:53,119
+largest photosite value
+
+48
+00:01:53,119 --> 00:01:55,759
+three 65535 gets a white square and the
+
+49
+00:01:55,759 --> 00:01:57,759
+lowest value zero
+
+50
+00:01:57,759 --> 00:01:59,759
+gets a black square
+
+51
+00:01:59,759 --> 00:02:02,240
+our squares at this point are a certain
+
+52
+00:02:02,240 --> 00:02:04,240
+shade of gray because we are not using
+
+53
+00:02:04,240 --> 00:02:06,640
+the whole range between zero and six
+
+54
+00:02:06,640 --> 00:02:08,720
+five five 65535
+
+55
+00:02:08,720 --> 00:02:10,800
+the camera that i shot with can only
+
+56
+00:02:10,800 --> 00:02:13,200
+write 14 bit data files
+
+57
+00:02:13,200 --> 00:02:16,160
+which means the maximum value is
+
+58
+00:02:16,160 --> 00:02:18,080
+16 383
+
+59
+00:02:18,080 --> 00:02:19,760
+if i drag the slider back to the
+
+60
+00:02:19,760 --> 00:02:23,599
+manufacturer recommended value of 16 300
+
+61
+00:02:23,599 --> 00:02:25,200
+you will notice that we are simply
+
+62
+00:02:25,200 --> 00:02:28,000
+marking where our useful data ends and
+
+63
+00:02:28,000 --> 00:02:30,800
+where it begins
+
+64
+00:02:34,400 --> 00:02:36,640
+if i reset this module the values will
+
+65
+00:02:36,640 --> 00:02:38,480
+change depending on the camera they came
+
+66
+00:02:38,480 --> 00:02:40,080
+from
+
+67
+00:02:40,080 --> 00:02:41,840
+now we're going to take a step that is
+
+68
+00:02:41,840 --> 00:02:44,319
+going to be a bit confusing
+
+69
+00:02:44,319 --> 00:02:46,720
+because we know the bare filter pattern
+
+70
+00:02:46,720 --> 00:02:49,760
+of our sensor we can give these values
+
+71
+00:02:49,760 --> 00:02:52,160
+an arbitrary color i would give them
+
+72
+00:02:52,160 --> 00:02:54,480
+different colors other than green red
+
+73
+00:02:54,480 --> 00:02:56,400
+and blue but i don't have a choice at
+
+74
+00:02:56,400 --> 00:02:59,840
+this point so here it is
+
+75
+00:03:00,560 --> 00:03:01,599
+remember
+
+76
+00:03:01,599 --> 00:03:04,080
+we cannot deduce color information from
+
+77
+00:03:04,080 --> 00:03:05,840
+a single value this is just a
+
+78
+00:03:05,840 --> 00:03:08,000
+visualization a colorful chart if you
+
+79
+00:03:08,000 --> 00:03:10,239
+will you will notice that every second
+
+80
+00:03:10,239 --> 00:03:12,480
+square is green this is the bayer
+
+81
+00:03:12,480 --> 00:03:14,879
+pattern of the sensor it is called the
+
+82
+00:03:14,879 --> 00:03:18,319
+cfa color filtration array the most
+
+83
+00:03:18,319 --> 00:03:22,000
+common one is red green green blue why
+
+84
+00:03:22,000 --> 00:03:23,760
+there are more green squares than red
+
+85
+00:03:23,760 --> 00:03:27,040
+and blue bryce bear's patented pattern
+
+86
+00:03:27,040 --> 00:03:29,599
+included an additional green filter per
+
+87
+00:03:29,599 --> 00:03:32,640
+every red green and blue filter to mimic
+
+88
+00:03:32,640 --> 00:03:35,040
+the physiology of the human eye which
+
+89
+00:03:35,040 --> 00:03:38,480
+uses m and l cones to perceive luminance
+
+90
+00:03:38,480 --> 00:03:41,760
+they are most sensitive to green light
+
+91
+00:03:41,760 --> 00:03:43,840
+so how do we get something useful out of
+
+92
+00:03:43,840 --> 00:03:45,920
+these squares well first we need to
+
+93
+00:03:45,920 --> 00:03:47,040
+debayer
+
+94
+00:03:47,040 --> 00:03:49,840
+which is synonymous to the mosaic we
+
+95
+00:03:49,840 --> 00:03:51,599
+have quite a few algorithms to choose
+
+96
+00:03:51,599 --> 00:03:52,480
+from
+
+97
+00:03:52,480 --> 00:03:55,360
+that in a nutshell take information from
+
+98
+00:03:55,360 --> 00:03:59,200
+adjacent squares and approximate a value
+
+99
+00:03:59,200 --> 00:04:01,280
+so instead of one value per square we
+
+100
+00:04:01,280 --> 00:04:04,159
+want to have three values per square
+
+101
+00:04:04,159 --> 00:04:05,920
+three is the magic number here as
+
+102
+00:04:05,920 --> 00:04:08,400
+coincidentally we will end up with three
+
+103
+00:04:08,400 --> 00:04:11,519
+channels that make an image red green
+
+104
+00:04:11,519 --> 00:04:12,560
+and blue
+
+105
+00:04:12,560 --> 00:04:15,120
+also known as rgb
+
+106
+00:04:15,120 --> 00:04:17,120
+but right now we're still in large
+
+107
+00:04:17,120 --> 00:04:19,279
+number land
+
+108
+00:04:19,279 --> 00:04:21,680
+now let's do mosaic we will use a
+
+109
+00:04:21,680 --> 00:04:24,080
+debayering algorithm but will not
+
+110
+00:04:24,080 --> 00:04:26,080
+account for the fact that we have more
+
+111
+00:04:26,080 --> 00:04:29,440
+green squares than red and blue squares
+
+112
+00:04:29,440 --> 00:04:31,520
+we just want to get three values per
+
+113
+00:04:31,520 --> 00:04:34,560
+square instead of one value each i'll
+
+114
+00:04:34,560 --> 00:04:37,120
+select rcd for the mosaic king because
+
+115
+00:04:37,120 --> 00:04:38,560
+it's the default
+
+116
+00:04:38,560 --> 00:04:42,000
+and here it is it's as if we averaged
+
+117
+00:04:42,000 --> 00:04:44,560
+all the squares in a fancy way to get a
+
+118
+00:04:44,560 --> 00:04:47,199
+smooth visualization of the data in the
+
+119
+00:04:47,199 --> 00:04:49,600
+raw file the only thing that is missing
+
+120
+00:04:49,600 --> 00:04:52,000
+now is to take into account that we have
+
+121
+00:04:52,000 --> 00:04:54,479
+more green squares than red and blue
+
+122
+00:04:54,479 --> 00:04:56,400
+squares we need to scale the three
+
+123
+00:04:56,400 --> 00:04:58,400
+values accordingly
+
+124
+00:04:58,400 --> 00:05:00,000
+i'm going to do this manually for
+
+125
+00:05:00,000 --> 00:05:03,360
+maximum effects and that's aha moment
+
+126
+00:05:03,360 --> 00:05:06,639
+but it's best to keep this module at d65
+
+127
+00:05:06,639 --> 00:05:08,400
+notice how everything appears to be
+
+128
+00:05:08,400 --> 00:05:09,280
+green
+
+129
+00:05:09,280 --> 00:05:11,600
+except for the sun and the clouds
+
+130
+00:05:11,600 --> 00:05:13,199
+they look white
+
+131
+00:05:13,199 --> 00:05:14,720
+keep that in mind
+
+132
+00:05:14,720 --> 00:05:16,320
+now watch what happens when i move the
+
+133
+00:05:16,320 --> 00:05:18,880
+tint slider and make the preview less
+
+134
+00:05:18,880 --> 00:05:21,440
+green and more pink
+
+135
+00:05:21,440 --> 00:05:24,639
+as i move the tint slider towards pink
+
+136
+00:05:24,639 --> 00:05:27,280
+the visually green areas move towards
+
+137
+00:05:27,280 --> 00:05:28,240
+white
+
+138
+00:05:28,240 --> 00:05:30,800
+the visually white areas move towards
+
+139
+00:05:30,800 --> 00:05:32,320
+pink
+
+140
+00:05:32,320 --> 00:05:34,240
+since this operation is still simply
+
+141
+00:05:34,240 --> 00:05:36,560
+mathematical and is not performed in the
+
+142
+00:05:36,560 --> 00:05:39,600
+color space or constraint by a display
+
+143
+00:05:39,600 --> 00:05:43,520
+we are able to get values above 1 or 255
+
+144
+00:05:43,520 --> 00:05:45,520
+because we perform these operations
+
+145
+00:05:45,520 --> 00:05:47,919
+non-destructively
+
+146
+00:05:47,919 --> 00:05:50,479
+later on in the pipeline we take these
+
+147
+00:05:50,479 --> 00:05:53,280
+values and usher them into a gamut
+
+148
+00:05:53,280 --> 00:05:56,000
+finally giving them try stimulus meaning
+
+149
+00:05:56,000 --> 00:05:58,960
+in simpler terms we are finally in rgb
+
+150
+00:05:58,960 --> 00:06:01,520
+land and our values begin to hold
+
+151
+00:06:01,520 --> 00:06:02,880
+meaning
+
+152
+00:06:02,880 --> 00:06:04,639
+technically it happened a bit earlier
+
+153
+00:06:04,639 --> 00:06:06,400
+since i'm not able to turn the module
+
+154
+00:06:06,400 --> 00:06:09,120
+off you can imagine that up to the input
+
+155
+00:06:09,120 --> 00:06:11,280
+color profile module everything is black
+
+156
+00:06:11,280 --> 00:06:14,000
+and white values that we haven't applied
+
+157
+00:06:14,000 --> 00:06:16,160
+any meaning to
+
+158
+00:06:16,160 --> 00:06:18,000
+nice we manually produced the ping
+
+159
+00:06:18,000 --> 00:06:19,840
+highlights and now we know that it's not
+
+160
+00:06:19,840 --> 00:06:22,319
+a result of something being broken but a
+
+161
+00:06:22,319 --> 00:06:24,960
+result of being non-destructive
+
+162
+00:06:24,960 --> 00:06:26,479
+that's it
+
+163
+00:06:26,479 --> 00:06:29,039
+let me reset the unfortunately called
+
+164
+00:06:29,039 --> 00:06:31,759
+white balance module in its default and
+
+165
+00:06:31,759 --> 00:06:33,680
+let me enable the color calibration
+
+166
+00:06:33,680 --> 00:06:35,440
+module as well
+
+167
+00:06:35,440 --> 00:06:37,440
+right it's time to do something about
+
+168
+00:06:37,440 --> 00:06:40,240
+that pink sky
+
+169
+00:06:40,800 --> 00:06:43,039
+let's first assume our default filmic
+
+170
+00:06:43,039 --> 00:06:44,800
+rgb workflow
+
+171
+00:06:44,800 --> 00:06:47,120
+i will move to reconstruction tab as i
+
+172
+00:06:47,120 --> 00:06:48,960
+will need to reconstruct the areas that
+
+173
+00:06:48,960 --> 00:06:51,120
+were clipped at the sensor
+
+174
+00:06:51,120 --> 00:06:53,520
+i will enable the mask preview
+
+175
+00:06:53,520 --> 00:06:55,599
+as it is important to select the area
+
+176
+00:06:55,599 --> 00:06:58,080
+we're working on
+
+177
+00:06:58,080 --> 00:06:59,599
+right now it's black
+
+178
+00:06:59,599 --> 00:07:02,639
+because nothing is selected
+
+179
+00:07:02,639 --> 00:07:04,400
+i'll walk the threshold slider back
+
+180
+00:07:04,400 --> 00:07:07,039
+until i see the over exposed areas turn
+
+181
+00:07:07,039 --> 00:07:09,360
+white
+
+182
+00:07:11,599 --> 00:07:13,680
+i will adjust the transition so i can
+
+183
+00:07:13,680 --> 00:07:15,360
+almost see the rest of the objects in
+
+184
+00:07:15,360 --> 00:07:17,840
+the picture
+
+185
+00:07:23,520 --> 00:07:26,319
+now for the reconstruction bit
+
+186
+00:07:26,319 --> 00:07:28,639
+i've already went over these sliders and
+
+187
+00:07:28,639 --> 00:07:30,560
+what they do in other two videos that i
+
+188
+00:07:30,560 --> 00:07:32,319
+will link in the description
+
+189
+00:07:32,319 --> 00:07:34,000
+right now i will gloss over their
+
+190
+00:07:34,000 --> 00:07:34,960
+function
+
+191
+00:07:34,960 --> 00:07:37,759
+as i search for the best result
+
+192
+00:07:37,759 --> 00:07:40,479
+we can turn the mask off
+
+193
+00:07:40,479 --> 00:07:42,400
+for the first slider let's keep the
+
+194
+00:07:42,400 --> 00:07:44,240
+reconstruction technique in the middle
+
+195
+00:07:44,240 --> 00:07:47,360
+between structure and texture the second
+
+196
+00:07:47,360 --> 00:07:48,479
+slider
+
+197
+00:07:48,479 --> 00:07:50,800
+i will attempt to reconstruct instead of
+
+198
+00:07:50,800 --> 00:07:53,120
+bloom first because i feel there is
+
+199
+00:07:53,120 --> 00:07:55,039
+enough detail for some reconstruction
+
+200
+00:07:55,039 --> 00:07:57,520
+there in the highlights and as always i
+
+201
+00:07:57,520 --> 00:08:01,520
+will go full gray on the last slider
+
+202
+00:08:01,520 --> 00:08:03,840
+our color information is mangled due to
+
+203
+00:08:03,840 --> 00:08:05,840
+clipping and i'm not going to bother
+
+204
+00:08:05,840 --> 00:08:08,400
+preserving something i don't care about
+
+205
+00:08:08,400 --> 00:08:09,520
+full grain
+
+206
+00:08:09,520 --> 00:08:12,000
+okay we still have the pink sky and pink
+
+207
+00:08:12,000 --> 00:08:12,879
+c
+
+208
+00:08:12,879 --> 00:08:15,199
+that means that our threshold is too
+
+209
+00:08:15,199 --> 00:08:16,639
+high
+
+210
+00:08:16,639 --> 00:08:21,199
+i will walk that back slightly
+
+211
+00:08:22,080 --> 00:08:25,120
+until it's completely gone
+
+212
+00:08:25,120 --> 00:08:27,599
+okay it looks better but i can feel it
+
+213
+00:08:27,599 --> 00:08:29,919
+looks a bit harsh still let's try to
+
+214
+00:08:29,919 --> 00:08:31,599
+favor more bloom instead of
+
+215
+00:08:31,599 --> 00:08:34,599
+reconstructing
+
+216
+00:08:41,200 --> 00:08:42,640
+there we go
+
+217
+00:08:42,640 --> 00:08:45,360
+nice and smooth we can even increase the
+
+218
+00:08:45,360 --> 00:08:47,920
+white relative exposure a little bit
+
+219
+00:08:47,920 --> 00:08:50,240
+which will likely bring back a bit of
+
+220
+00:08:50,240 --> 00:08:53,560
+pink highlights
+
+221
+00:08:54,240 --> 00:08:56,160
+but we can fix that once again by
+
+222
+00:08:56,160 --> 00:08:59,360
+adjusting the threshold
+
+223
+00:09:00,000 --> 00:09:01,279
+there we go
+
+224
+00:09:01,279 --> 00:09:04,000
+problem fixed
+
+225
+00:09:04,640 --> 00:09:06,320
+often there are times where we don't
+
+226
+00:09:06,320 --> 00:09:08,880
+want to use filmic rgb for example
+
+227
+00:09:08,880 --> 00:09:11,040
+exporting exhaust to use with other
+
+228
+00:09:11,040 --> 00:09:12,160
+software
+
+229
+00:09:12,160 --> 00:09:15,279
+if we turn off filmic color balance rgb
+
+230
+00:09:15,279 --> 00:09:16,959
+color calibration
+
+231
+00:09:16,959 --> 00:09:20,320
+we end up with ping highlights again
+
+232
+00:09:20,320 --> 00:09:22,000
+but worry not because we have a
+
+233
+00:09:22,000 --> 00:09:23,760
+highlight
+
+234
+00:09:23,760 --> 00:09:27,040
+the construction module
+
+235
+00:09:27,600 --> 00:09:29,600
+let's turn that on
+
+236
+00:09:29,600 --> 00:09:32,240
+and i will clear the search term
+
+237
+00:09:32,240 --> 00:09:34,240
+now we have the most basic of methods
+
+238
+00:09:34,240 --> 00:09:36,800
+enabled which is called clip highlights
+
+239
+00:09:36,800 --> 00:09:38,560
+after we have scaled our photoside
+
+240
+00:09:38,560 --> 00:09:41,519
+values and if any value exceeded our
+
+241
+00:09:41,519 --> 00:09:44,000
+threshold it will be clipped simple as
+
+242
+00:09:44,000 --> 00:09:46,320
+that this will result in a flat pancake
+
+243
+00:09:46,320 --> 00:09:48,480
+with hue shifts everywhere
+
+244
+00:09:48,480 --> 00:09:50,560
+it also pretty much matches the areas
+
+245
+00:09:50,560 --> 00:09:52,640
+that were clipped at the center we can
+
+246
+00:09:52,640 --> 00:09:54,320
+preview that with this little sensor
+
+247
+00:09:54,320 --> 00:09:57,600
+clipping preview button
+
+248
+00:09:58,720 --> 00:10:00,560
+if we reduce the exposure later on in
+
+249
+00:10:00,560 --> 00:10:02,720
+the pipeline
+
+250
+00:10:02,720 --> 00:10:04,640
+we will see that it has no effect on the
+
+251
+00:10:04,640 --> 00:10:06,000
+clipped area
+
+252
+00:10:06,000 --> 00:10:09,360
+it just gets darker
+
+253
+00:10:09,760 --> 00:10:12,480
+the next a more intelligent option is to
+
+254
+00:10:12,480 --> 00:10:16,240
+reconstruct an lch
+
+255
+00:10:16,240 --> 00:10:18,240
+it will attempt to recover some
+
+256
+00:10:18,240 --> 00:10:20,480
+information from the remaining unclipped
+
+257
+00:10:20,480 --> 00:10:22,880
+channels it is a much better option in
+
+258
+00:10:22,880 --> 00:10:25,279
+my opinion even though the reconstructed
+
+259
+00:10:25,279 --> 00:10:28,000
+highlight contains no color information
+
+260
+00:10:28,000 --> 00:10:30,079
+we can recover data that we can work
+
+261
+00:10:30,079 --> 00:10:32,880
+with if i reduce the exposure now
+
+262
+00:10:32,880 --> 00:10:34,800
+you will see that we managed to recover
+
+263
+00:10:34,800 --> 00:10:37,920
+some detail i prefer this setting for my
+
+264
+00:10:37,920 --> 00:10:41,360
+exr exports when i need them
+
+265
+00:10:41,360 --> 00:10:44,560
+the penultimate one is reconstruct color
+
+266
+00:10:44,560 --> 00:10:46,240
+which gives a similar result to
+
+267
+00:10:46,240 --> 00:10:48,399
+reconstruct in lch
+
+268
+00:10:48,399 --> 00:10:50,160
+but gains the values based on
+
+269
+00:10:50,160 --> 00:10:52,880
+surrounding areas you get some notion of
+
+270
+00:10:52,880 --> 00:10:56,880
+color back but the results aren't always
+
+271
+00:10:56,880 --> 00:10:58,079
+stable
+
+272
+00:10:58,079 --> 00:11:01,440
+and the last one is guided laplacians it
+
+273
+00:11:01,440 --> 00:11:03,680
+is the most resource intensive
+
+274
+00:11:03,680 --> 00:11:05,839
+but in theory it should produce the best
+
+275
+00:11:05,839 --> 00:11:08,640
+results however it should be reserved to
+
+276
+00:11:08,640 --> 00:11:11,040
+cases where you don't have large areas
+
+277
+00:11:11,040 --> 00:11:13,279
+that were clipped at the sensor
+
+278
+00:11:13,279 --> 00:11:16,240
+otherwise it's not very effective
+
+279
+00:11:16,240 --> 00:11:18,240
+okay that's all the material i've
+
+280
+00:11:18,240 --> 00:11:20,079
+prepared for you today i hope you found
+
+281
+00:11:20,079 --> 00:11:21,920
+this useful and hopefully you've learned
+
+282
+00:11:21,920 --> 00:11:24,720
+something new today so see you soon
+
+283
+00:11:24,720 --> 00:11:27,720
+bye
+
+284
+00:11:31,440 --> 00:11:33,519
+you
+

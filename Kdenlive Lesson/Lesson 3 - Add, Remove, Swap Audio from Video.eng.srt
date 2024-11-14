@@ -1,0 +1,1092 @@
+1
+00:00:02,570 --> 00:00:05,280
+welcome back to another video editing
+
+2
+00:00:05,280 --> 00:00:07,529
+tutorial using kdenlive the free video
+
+3
+00:00:07,529 --> 00:00:09,419
+editing software in this video we're
+
+4
+00:00:09,419 --> 00:00:11,820
+going to be adding in a video clip that
+
+5
+00:00:11,820 --> 00:00:14,490
+has existing audio and will be swapping
+
+6
+00:00:14,490 --> 00:00:16,920
+out the audio from that video and just
+
+7
+00:00:16,920 --> 00:00:18,869
+adding in music instead of the audio
+
+8
+00:00:18,869 --> 00:00:21,089
+that the video came with so if you want
+
+9
+00:00:21,089 --> 00:00:22,170
+to follow along I'm just gonna be
+
+10
+00:00:22,170 --> 00:00:24,419
+downloading some project clips from
+
+11
+00:00:24,419 --> 00:00:27,660
+pixabay and from freesound.org the pics
+
+12
+00:00:27,660 --> 00:00:29,759
+of a clip we're going to find first of
+
+13
+00:00:29,759 --> 00:00:31,320
+all I'm gonna change my search to videos
+
+14
+00:00:31,320 --> 00:00:34,020
+and I'll search for this video called
+
+15
+00:00:34,020 --> 00:00:38,190
+runoff I'm thinking rain and runoff at
+
+16
+00:00:38,190 --> 00:00:40,970
+the same time it's just a video of rain
+
+17
+00:00:40,970 --> 00:00:43,530
+falling against a window so I left click
+
+18
+00:00:43,530 --> 00:00:47,310
+on this it's what it sounds like it's
+
+19
+00:00:47,310 --> 00:00:49,050
+just some raindrops dripping down some
+
+20
+00:00:49,050 --> 00:00:51,630
+glass so we'll download this video click
+
+21
+00:00:51,630 --> 00:00:52,770
+free download I already have it
+
+22
+00:00:52,770 --> 00:00:54,450
+downloaded I think I did the 1920 by
+
+23
+00:00:54,450 --> 00:00:56,670
+1080 go ahead and download and download
+
+24
+00:00:56,670 --> 00:00:58,590
+this video and then I'm going to also be
+
+25
+00:00:58,590 --> 00:01:00,990
+using going to freesound.org I just
+
+26
+00:01:00,990 --> 00:01:02,970
+searched music and this search might
+
+27
+00:01:02,970 --> 00:01:04,589
+change at the time that you surged up
+
+28
+00:01:04,589 --> 00:01:06,390
+with different options here but today I
+
+29
+00:01:06,390 --> 00:01:10,100
+was able to just find this music here
+
+30
+00:01:10,130 --> 00:01:12,690
+play this show is kind of the wave form
+
+31
+00:01:12,690 --> 00:01:13,140
+of it
+
+32
+00:01:13,140 --> 00:01:15,120
+I'll left-click on this file and this
+
+33
+00:01:15,120 --> 00:01:17,940
+files by JP music 82 and the last one
+
+34
+00:01:17,940 --> 00:01:22,200
+was from most media both of them are
+
+35
+00:01:22,200 --> 00:01:23,940
+really released under the Creative
+
+36
+00:01:23,940 --> 00:01:26,010
+Commons Ebro license so we really
+
+37
+00:01:26,010 --> 00:01:27,270
+appreciate these users sharing these
+
+38
+00:01:27,270 --> 00:01:29,100
+files with us go ahead and just hit
+
+39
+00:01:29,100 --> 00:01:30,570
+download and you can download this I
+
+40
+00:01:30,570 --> 00:01:32,130
+already have it downloaded so they are
+
+41
+00:01:32,130 --> 00:01:34,620
+in my downloads folder and then to bring
+
+42
+00:01:34,620 --> 00:01:36,690
+those in we can just click here we've
+
+43
+00:01:36,690 --> 00:01:38,850
+done before you can go clip I mean that
+
+44
+00:01:38,850 --> 00:01:41,850
+project add clip or you can just click
+
+45
+00:01:41,850 --> 00:01:44,640
+on this under your project bin you can
+
+46
+00:01:44,640 --> 00:01:47,070
+click on this add clip button and it
+
+47
+00:01:47,070 --> 00:01:49,560
+brings up a dialog to add the clip in so
+
+48
+00:01:49,560 --> 00:01:51,659
+maybe we'll add the mp3 file the music
+
+49
+00:01:51,659 --> 00:01:53,940
+file this way and hit OK and now we have
+
+50
+00:01:53,940 --> 00:02:00,450
+our music file but you can also drag and
+
+51
+00:02:00,450 --> 00:02:02,369
+drop so if you have your doc your your
+
+52
+00:02:02,369 --> 00:02:04,530
+folder open or your files you're viewing
+
+53
+00:02:04,530 --> 00:02:08,669
+them in the browser here come back we'll
+
+54
+00:02:08,669 --> 00:02:10,258
+just drag and drop this video of the
+
+55
+00:02:10,258 --> 00:02:12,209
+rain runoff into our project bin
+
+56
+00:02:12,209 --> 00:02:14,069
+remember we always have to have it in
+
+57
+00:02:14,069 --> 00:02:15,870
+the project bin if we try to drag it
+
+58
+00:02:15,870 --> 00:02:17,249
+down to the timeline it won't work
+
+59
+00:02:17,249 --> 00:02:19,560
+nothing will go into the timeline unless
+
+60
+00:02:19,560 --> 00:02:22,769
+it's first in our project bin and so
+
+61
+00:02:22,769 --> 00:02:23,939
+from our project bin we can kind of
+
+62
+00:02:23,939 --> 00:02:26,310
+scroll this over and see I rearranged
+
+63
+00:02:26,310 --> 00:02:29,400
+this since the last video and so if we
+
+64
+00:02:29,400 --> 00:02:31,620
+can actually click and drag different
+
+65
+00:02:31,620 --> 00:02:33,569
+parts to anywhere we want to but I'm
+
+66
+00:02:33,569 --> 00:02:34,999
+gonna keep my project bin right here
+
+67
+00:02:34,999 --> 00:02:37,499
+right there so if yours looks a little
+
+68
+00:02:37,499 --> 00:02:38,999
+different than mine you can rearrange it
+
+69
+00:02:38,999 --> 00:02:40,799
+and look I actually opened up a third
+
+70
+00:02:40,799 --> 00:02:42,870
+window now oh I have clip properties now
+
+71
+00:02:42,870 --> 00:02:44,999
+as a separate thing and it was a little
+
+72
+00:02:44,999 --> 00:02:47,189
+tab down here so we'll we'll keep it
+
+73
+00:02:47,189 --> 00:02:49,859
+there as a tab so what that does it just
+
+74
+00:02:49,859 --> 00:02:51,329
+creates a tab at the bottom that we can
+
+75
+00:02:51,329 --> 00:02:53,129
+toggle between just like we were with
+
+76
+00:02:53,129 --> 00:02:55,919
+our project monitor and clip monitor and
+
+77
+00:02:55,919 --> 00:02:58,049
+we can watch our runoff see what this
+
+78
+00:02:58,049 --> 00:03:00,930
+video looks like awesome so to get
+
+79
+00:03:00,930 --> 00:03:02,459
+started we need to put it down into our
+
+80
+00:03:02,459 --> 00:03:04,019
+into our timeline
+
+81
+00:03:04,019 --> 00:03:05,519
+so I'll left click on this video file
+
+82
+00:03:05,519 --> 00:03:08,309
+and I'll move it to video 1 track and
+
+83
+00:03:08,309 --> 00:03:10,590
+then our audio file I'll left-click on
+
+84
+00:03:10,590 --> 00:03:13,499
+and put it on to the audio audio one
+
+85
+00:03:13,499 --> 00:03:15,809
+track so now we have these I want to
+
+86
+00:03:15,809 --> 00:03:16,950
+zoom in and see them a little bit closer
+
+87
+00:03:16,950 --> 00:03:18,359
+so I'm gonna come to the bottom right
+
+88
+00:03:18,359 --> 00:03:20,909
+here and just with the scroll bar scroll
+
+89
+00:03:20,909 --> 00:03:22,169
+in to zoom in so I can see it a little
+
+90
+00:03:22,169 --> 00:03:25,049
+bit better now I can click if I hold and
+
+91
+00:03:25,049 --> 00:03:27,659
+hold down on my left mouse cursor I can
+
+92
+00:03:27,659 --> 00:03:29,519
+actually it's called scrubbing I can
+
+93
+00:03:29,519 --> 00:03:31,799
+scrub along and watch the video and
+
+94
+00:03:31,799 --> 00:03:37,680
+listen to the audio and so I don't do
+
+95
+00:03:37,680 --> 00:03:38,999
+too much of that because I'm recording
+
+96
+00:03:38,999 --> 00:03:40,769
+the video at the same time my computer
+
+97
+00:03:40,769 --> 00:03:42,349
+is getting a little overloaded I think
+
+98
+00:03:42,349 --> 00:03:44,699
+anyway and then um I want to get rid of
+
+99
+00:03:44,699 --> 00:03:46,139
+some of these video tracks we have three
+
+100
+00:03:46,139 --> 00:03:47,939
+video tracks you don't have to do this
+
+101
+00:03:47,939 --> 00:03:49,290
+but it's just something nice to learn
+
+102
+00:03:49,290 --> 00:03:50,730
+how to do if you right click on a video
+
+103
+00:03:50,730 --> 00:03:53,129
+track you can just go to delete track it
+
+104
+00:03:53,129 --> 00:03:54,239
+says what do you want to do with delete
+
+105
+00:03:54,239 --> 00:03:57,569
+video 3 ok video 2 right click delete
+
+106
+00:03:57,569 --> 00:04:00,059
+track and ok so now we just have one
+
+107
+00:04:00,059 --> 00:04:01,589
+video track and I'm gonna leave our
+
+108
+00:04:01,589 --> 00:04:03,029
+second audio track and I'll show you why
+
+109
+00:04:03,029 --> 00:04:05,309
+in a second here yeah but we can zoom in
+
+110
+00:04:05,309 --> 00:04:07,680
+and make our tracks are kind of thin now
+
+111
+00:04:07,680 --> 00:04:08,879
+we can make them even thinner by
+
+112
+00:04:08,879 --> 00:04:11,430
+clicking this button here or this one
+
+113
+00:04:11,430 --> 00:04:13,949
+smaller tracks makes them small so you
+
+114
+00:04:13,949 --> 00:04:16,228
+can have a dozen different video tracks
+
+115
+00:04:16,228 --> 00:04:18,199
+and audio tracks and have a very complex
+
+116
+00:04:18,199 --> 00:04:20,728
+edit that you're doing or if it's a
+
+117
+00:04:20,728 --> 00:04:22,500
+simple one like this we can just click
+
+118
+00:04:22,500 --> 00:04:23,849
+and scale it up and make it a little bit
+
+119
+00:04:23,849 --> 00:04:25,530
+larger to see
+
+120
+00:04:25,530 --> 00:04:27,570
+so you see we see we have our audio
+
+121
+00:04:27,570 --> 00:04:30,720
+waveform down here for our music and
+
+122
+00:04:30,720 --> 00:04:32,190
+then there's also a little bit of audio
+
+123
+00:04:32,190 --> 00:04:33,600
+you see these kind of almost looks like
+
+124
+00:04:33,600 --> 00:04:35,760
+a little mountain ridges that we're
+
+125
+00:04:35,760 --> 00:04:37,230
+seeing the audio waveform of the video
+
+126
+00:04:37,230 --> 00:04:40,440
+as well if we want a mute we can click
+
+127
+00:04:40,440 --> 00:04:42,660
+this speaker button and it'll mute just
+
+128
+00:04:42,660 --> 00:04:44,760
+that track so audio one track is now
+
+129
+00:04:44,760 --> 00:04:47,480
+muted now if we go ahead and play this
+
+130
+00:04:47,480 --> 00:04:52,760
+we just hear the rain if I click unmute
+
+131
+00:04:52,760 --> 00:04:56,430
+that's music to start playing and we can
+
+132
+00:04:56,430 --> 00:04:59,160
+go back and use just the RAM so it's
+
+133
+00:04:59,160 --> 00:05:02,370
+just music playing both of them and have
+
+134
+00:05:02,370 --> 00:05:04,770
+just the video playing so that's that's
+
+135
+00:05:04,770 --> 00:05:06,690
+how you can control muting this lock
+
+136
+00:05:06,690 --> 00:05:08,430
+button makes it so when it's locked
+
+137
+00:05:08,430 --> 00:05:10,890
+we can't edit or make any changes to it
+
+138
+00:05:10,890 --> 00:05:13,169
+whereas this one we can still move
+
+139
+00:05:13,169 --> 00:05:14,669
+around the audio we can move it down to
+
+140
+00:05:14,669 --> 00:05:17,790
+audio to if we want but this lock button
+
+141
+00:05:17,790 --> 00:05:19,110
+makes this track the watch so that's
+
+142
+00:05:19,110 --> 00:05:21,120
+what those buttons do well I'm going to
+
+143
+00:05:21,120 --> 00:05:22,980
+umm you both of these now and I'm going
+
+144
+00:05:22,980 --> 00:05:24,419
+to show you how to separate out the
+
+145
+00:05:24,419 --> 00:05:26,760
+audio so we could just mute it and then
+
+146
+00:05:26,760 --> 00:05:28,500
+we could render our video and be fine
+
+147
+00:05:28,500 --> 00:05:31,169
+but sometimes you might want to separate
+
+148
+00:05:31,169 --> 00:05:32,910
+the audio from your video and use just
+
+149
+00:05:32,910 --> 00:05:35,340
+the audio file somewhere or you might
+
+150
+00:05:35,340 --> 00:05:36,870
+want to move it forward since this is a
+
+151
+00:05:36,870 --> 00:05:39,450
+rain sound it does not really doesn't
+
+152
+00:05:39,450 --> 00:05:41,370
+matter if it's tied to a specific event
+
+153
+00:05:41,370 --> 00:05:42,900
+of this video because it's just a
+
+154
+00:05:42,900 --> 00:05:45,270
+constant pattern the whole time so we
+
+155
+00:05:45,270 --> 00:05:46,830
+might want to move it forward or back a
+
+156
+00:05:46,830 --> 00:05:49,020
+little bit so let's right-click and go
+
+157
+00:05:49,020 --> 00:05:52,800
+to split audio and that puts the audio
+
+158
+00:05:52,800 --> 00:05:56,430
+down in this audio track below they're
+
+159
+00:05:56,430 --> 00:05:58,080
+still tied to each other they're still
+
+160
+00:05:58,080 --> 00:05:59,669
+it's called grouped they're grouped
+
+161
+00:05:59,669 --> 00:06:01,770
+together so if we move one the other one
+
+162
+00:06:01,770 --> 00:06:03,720
+will move along with it that's because
+
+163
+00:06:03,720 --> 00:06:06,120
+if you ever have like a person a video
+
+164
+00:06:06,120 --> 00:06:07,620
+of a person talking or something that
+
+165
+00:06:07,620 --> 00:06:09,090
+you want a lot of times your audio will
+
+166
+00:06:09,090 --> 00:06:11,400
+be you'll want it to be in sync with
+
+167
+00:06:11,400 --> 00:06:13,530
+your video but at this we don't want
+
+168
+00:06:13,530 --> 00:06:15,020
+that to happen in this case necessarily
+
+169
+00:06:15,020 --> 00:06:17,970
+so we can right click and go to ungroup
+
+170
+00:06:17,970 --> 00:06:20,310
+Clips and that'll make it so that we can
+
+171
+00:06:20,310 --> 00:06:23,340
+control you separately we could do the
+
+172
+00:06:23,340 --> 00:06:25,590
+same thing if we want this music maybe
+
+173
+00:06:25,590 --> 00:06:27,180
+we want this to go to the end here and
+
+174
+00:06:27,180 --> 00:06:29,910
+we want this music track and this video
+
+175
+00:06:29,910 --> 00:06:32,790
+track to go together we can we can hold
+
+176
+00:06:32,790 --> 00:06:34,710
+down the shift key and select both of
+
+177
+00:06:34,710 --> 00:06:37,710
+them or maybe the control keys edit yeah
+
+178
+00:06:37,710 --> 00:06:39,249
+hold down the control key we
+
+179
+00:06:39,249 --> 00:06:40,299
+select them both and move them together
+
+180
+00:06:40,299 --> 00:06:43,299
+like that and we can hold down the
+
+181
+00:06:43,299 --> 00:06:44,499
+control key once they're both selected
+
+182
+00:06:44,499 --> 00:06:46,539
+we can right click and go group clips
+
+183
+00:06:46,539 --> 00:06:48,969
+then they'll always stay together even
+
+184
+00:06:48,969 --> 00:06:51,669
+if we don't even if we unclick but I'm
+
+185
+00:06:51,669 --> 00:06:53,259
+gonna ungroup them so that's how
+
+186
+00:06:53,259 --> 00:06:54,579
+grouping works I wanted to show you that
+
+187
+00:06:54,579 --> 00:06:56,349
+real quick Oh
+
+188
+00:06:56,349 --> 00:06:59,999
+today ungroup um yeah another one group
+
+189
+00:06:59,999 --> 00:07:02,109
+okay so let's do this let's have the
+
+190
+00:07:02,109 --> 00:07:05,979
+rain sound start with a black screen and
+
+191
+00:07:05,979 --> 00:07:08,949
+then let's have our video start so it's
+
+192
+00:07:08,949 --> 00:07:11,019
+gonna go left to right the playhead is
+
+193
+00:07:11,019 --> 00:07:13,749
+gonna start over here we'll have some
+
+194
+00:07:13,749 --> 00:07:20,229
+rain and the video will start maybe we
+
+195
+00:07:20,229 --> 00:07:22,419
+want to end the whole thing we want this
+
+196
+00:07:22,419 --> 00:07:25,959
+music to end with the last frame of the
+
+197
+00:07:25,959 --> 00:07:28,439
+video clip so to do that we're going to
+
+198
+00:07:28,439 --> 00:07:30,869
+cut the video like we did in the last
+
+199
+00:07:30,869 --> 00:07:34,269
+the last tutorial we go over here to
+
+200
+00:07:34,269 --> 00:07:35,860
+this little scissor icon and left-click
+
+201
+00:07:35,860 --> 00:07:38,919
+it the scripts our razor tool and we are
+
+202
+00:07:38,919 --> 00:07:41,259
+cursor turns to a little scissors and
+
+203
+00:07:41,259 --> 00:07:44,169
+wherever we click we can cut I'm just
+
+204
+00:07:44,169 --> 00:07:45,759
+left clicking a couple times we can cut
+
+205
+00:07:45,759 --> 00:07:47,739
+different parts of this and if you want
+
+206
+00:07:47,739 --> 00:07:48,849
+to move and we have to go back to our
+
+207
+00:07:48,849 --> 00:07:50,559
+selection tool which is right here and
+
+208
+00:07:50,559 --> 00:07:53,319
+we can select and grab this piece of
+
+209
+00:07:53,319 --> 00:07:55,899
+audio around and move it we don't want
+
+210
+00:07:55,899 --> 00:07:57,309
+in the video track necessarily but we
+
+211
+00:07:57,309 --> 00:07:59,619
+hit the Delete key and it goes away so
+
+212
+00:07:59,619 --> 00:08:00,969
+we'll select this one left click and
+
+213
+00:08:00,969 --> 00:08:06,459
+delete left click and delete and then we
+
+214
+00:08:06,459 --> 00:08:09,879
+let's go back to our razor tool or we
+
+215
+00:08:09,879 --> 00:08:11,559
+gonna hit the X key on our keyboard to
+
+216
+00:08:11,559 --> 00:08:13,449
+bring up that razor tool and then we go
+
+217
+00:08:13,449 --> 00:08:14,799
+right to where the playhead is because I
+
+218
+00:08:14,799 --> 00:08:16,839
+want to cut this right at the right when
+
+219
+00:08:16,839 --> 00:08:19,089
+our video clip ends I want the audio to
+
+220
+00:08:19,089 --> 00:08:21,399
+end as well and then to get back to our
+
+221
+00:08:21,399 --> 00:08:22,959
+selection tool we can click here or we
+
+222
+00:08:22,959 --> 00:08:24,909
+can press the S key on our keyboard and
+
+223
+00:08:24,909 --> 00:08:27,459
+left-click it's swept it has the red box
+
+224
+00:08:27,459 --> 00:08:29,889
+around it hit delete and so now our
+
+225
+00:08:29,889 --> 00:08:32,349
+video and our music will end at the same
+
+226
+00:08:32,349 --> 00:08:34,448
+time and then just at the start of the
+
+227
+00:08:34,448 --> 00:08:37,149
+video it's gonna be all black but maybe
+
+228
+00:08:37,149 --> 00:08:38,860
+I kind of want that as like an effect
+
+229
+00:08:38,860 --> 00:08:41,740
+and so I'm not gonna do any more in this
+
+230
+00:08:41,740 --> 00:08:43,839
+video but in the next video we'll be
+
+231
+00:08:43,839 --> 00:08:45,519
+we'll look at actually adding in these
+
+232
+00:08:45,519 --> 00:08:47,920
+effects here so you just like left click
+
+233
+00:08:47,920 --> 00:08:50,230
+and drag and drop an audio effect in and
+
+234
+00:08:50,230 --> 00:08:52,660
+then it actually adds in that audio
+
+235
+00:08:52,660 --> 00:08:53,260
+effect
+
+236
+00:08:53,260 --> 00:08:54,820
+to that part of the file and same with
+
+237
+00:08:54,820 --> 00:08:56,680
+the video effects so we'll be playing
+
+238
+00:08:56,680 --> 00:08:58,750
+with a lot of these different things in
+
+239
+00:08:58,750 --> 00:09:00,790
+the future in future tutorials so check
+
+240
+00:09:00,790 --> 00:09:02,770
+those out but to render this video out
+
+241
+00:09:02,770 --> 00:09:04,390
+so I'm gonna delete these effects that I
+
+242
+00:09:04,390 --> 00:09:05,500
+put in and how I should have done that
+
+243
+00:09:05,500 --> 00:09:08,170
+yet and to render this project out we'll
+
+244
+00:09:08,170 --> 00:09:09,850
+just go left click render if we like it
+
+245
+00:09:09,850 --> 00:09:12,850
+the way it is I always click on mp4 and
+
+246
+00:09:12,850 --> 00:09:15,400
+then choose a location to render this
+
+247
+00:09:15,400 --> 00:09:16,870
+file to so I'm gonna do mine on my
+
+248
+00:09:16,870 --> 00:09:19,720
+desktop I'll just call it test mp4 and
+
+249
+00:09:19,720 --> 00:09:22,620
+hit save then we just hit render to file
+
+250
+00:09:22,620 --> 00:09:25,780
+it goes since the short video it's 11
+
+251
+00:09:25,780 --> 00:09:28,750
+seconds long but little over 11 seconds
+
+252
+00:09:28,750 --> 00:09:32,220
+it just takes a few seconds to render
+
+253
+00:09:32,220 --> 00:09:34,300
+and then we have this rendering of this
+
+254
+00:09:34,300 --> 00:09:36,400
+video and again if you're making an
+
+255
+00:09:36,400 --> 00:09:38,200
+actual real project you might want to
+
+256
+00:09:38,200 --> 00:09:40,840
+check out make you want to make sure you
+
+257
+00:09:40,840 --> 00:09:43,900
+go into your project and and project
+
+258
+00:09:43,900 --> 00:09:46,720
+settings and you can configure the type
+
+259
+00:09:46,720 --> 00:09:48,160
+of video you want if you're working in
+
+260
+00:09:48,160 --> 00:09:50,550
+4k if you're working in 1080p 720p
+
+261
+00:09:50,550 --> 00:09:54,100
+that's just the size the resolution but
+
+262
+00:09:54,100 --> 00:09:56,170
+by default I think I'm not sure if it's
+
+263
+00:09:56,170 --> 00:09:58,450
+defaulter I set it but I always work in
+
+264
+00:09:58,450 --> 00:10:03,810
+1080p and 30 FPS or 29.97 fps
+
+265
+00:10:03,810 --> 00:10:05,710
+anyway that's completely rendered out
+
+266
+00:10:05,710 --> 00:10:06,940
+now so we'll just see our finished
+
+267
+00:10:06,940 --> 00:10:10,920
+product this is our video that we made
+
+268
+00:10:12,940 --> 00:10:16,940
+and pretty awesome so thanks for
+
+269
+00:10:16,940 --> 00:10:18,710
+watching this video join me in the next
+
+270
+00:10:18,710 --> 00:10:21,380
+one where we'll dive into using some of
+
+271
+00:10:21,380 --> 00:10:23,780
+these different effects go ahead and
+
+272
+00:10:23,780 --> 00:10:25,670
+like the subscribe comment below and
+
+273
+00:10:25,670 --> 00:10:28,450
+we'll see you in the next one
+

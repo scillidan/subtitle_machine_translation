@@ -1,0 +1,352 @@
+1
+00:00:02,240 --> 00:00:03,679
+in this video we'll be using free
+
+2
+00:00:03,679 --> 00:00:05,680
+software caden live to do this speed
+
+3
+00:00:05,680 --> 00:00:07,600
+effect with a blur we'll be increasing
+
+4
+00:00:07,600 --> 00:00:08,960
+the speed quite a bit and we'll also be
+
+5
+00:00:08,960 --> 00:00:11,200
+doing slow and we'll be doing this using
+
+6
+00:00:11,200 --> 00:00:15,280
+the speed remapping tool in caden life
+
+7
+00:00:15,280 --> 00:00:17,039
+so to get started we'll drag our video
+
+8
+00:00:17,039 --> 00:00:18,640
+clip down this is just drone video
+
+9
+00:00:18,640 --> 00:00:21,359
+footage um from a gopro
+
+10
+00:00:21,359 --> 00:00:23,840
+so it's a mp4 format and we're going to
+
+11
+00:00:23,840 --> 00:00:25,599
+go to the point that we want right now
+
+12
+00:00:25,599 --> 00:00:27,279
+everything's just slow
+
+13
+00:00:27,279 --> 00:00:28,480
+and so this is the part we want to be
+
+14
+00:00:28,480 --> 00:00:31,519
+speeding up this sort of pan around
+
+15
+00:00:31,519 --> 00:00:35,280
+these bikers on top of this ramp
+
+16
+00:00:35,760 --> 00:00:37,200
+we'll start by trimming the clip just a
+
+17
+00:00:37,200 --> 00:00:39,200
+little bit so that it starts in where we
+
+18
+00:00:39,200 --> 00:00:40,960
+want and we'll trim it out so it'll end
+
+19
+00:00:40,960 --> 00:00:43,280
+here just we're just trimming the start
+
+20
+00:00:43,280 --> 00:00:44,800
+and end of the clip not adjusting speed
+
+21
+00:00:44,800 --> 00:00:46,640
+at all yet so this will be the clip that
+
+22
+00:00:46,640 --> 00:00:48,160
+we're working with
+
+23
+00:00:48,160 --> 00:00:51,440
+we can right click and go to time remap
+
+24
+00:00:51,440 --> 00:00:52,960
+and that brings up this interface down
+
+25
+00:00:52,960 --> 00:00:54,800
+here in the bottom left hand corner and
+
+26
+00:00:54,800 --> 00:00:56,640
+we can see we have our source clip on
+
+27
+00:00:56,640 --> 00:00:58,800
+the top and then our output on the
+
+28
+00:00:58,800 --> 00:01:01,440
+bottom and this lets us remap or change
+
+29
+00:01:01,440 --> 00:01:03,520
+the time of the video so what we're
+
+30
+00:01:03,520 --> 00:01:04,400
+going to do is we're going to click here
+
+31
+00:01:04,400 --> 00:01:06,159
+to add a keyframe
+
+32
+00:01:06,159 --> 00:01:07,360
+and we'll go forward to the point we
+
+33
+00:01:07,360 --> 00:01:09,280
+want the time to change back
+
+34
+00:01:09,280 --> 00:01:10,960
+to so it all in between there's going to
+
+35
+00:01:10,960 --> 00:01:12,960
+be fast speed we'll click to add another
+
+36
+00:01:12,960 --> 00:01:15,119
+keyframe and then if we drag this lower
+
+37
+00:01:15,119 --> 00:01:17,280
+one we're basically telling it fit
+
+38
+00:01:17,280 --> 00:01:19,280
+everything that was going to be in there
+
+39
+00:01:19,280 --> 00:01:22,320
+into this a tiny time frame so it makes
+
+40
+00:01:22,320 --> 00:01:23,360
+it basically
+
+41
+00:01:23,360 --> 00:01:27,040
+almost nine times faster so so over this
+
+42
+00:01:27,040 --> 00:01:30,240
+time it's going to very quickly play all
+
+43
+00:01:30,240 --> 00:01:31,840
+what was normally going to be about
+
+44
+00:01:31,840 --> 00:01:33,680
+three or four seconds and play it in
+
+45
+00:01:33,680 --> 00:01:35,200
+about half a second
+
+46
+00:01:35,200 --> 00:01:36,560
+and then we can do the same thing later
+
+47
+00:01:36,560 --> 00:01:38,079
+on in the video we can add another
+
+48
+00:01:38,079 --> 00:01:41,200
+keyframe and we can either manually move
+
+49
+00:01:41,200 --> 00:01:43,119
+drag the node like we did
+
+50
+00:01:43,119 --> 00:01:44,399
+or we can just come down below so we'll
+
+51
+00:01:44,399 --> 00:01:46,240
+add these two key frames and then in
+
+52
+00:01:46,240 --> 00:01:47,759
+between these two we'll just change the
+
+53
+00:01:47,759 --> 00:01:49,520
+speed and we can change it manually by
+
+54
+00:01:49,520 --> 00:01:51,840
+just typing in 50 and that'll make it 50
+
+55
+00:01:51,840 --> 00:01:53,520
+percent or half the speed that it
+
+56
+00:01:53,520 --> 00:01:54,960
+normally was
+
+57
+00:01:54,960 --> 00:01:57,200
+and this is shot at um i think the shot
+
+58
+00:01:57,200 --> 00:02:00,000
+at 120 fps so we can slow it down it'll
+
+59
+00:02:00,000 --> 00:02:02,000
+still look nice and smooth
+
+60
+00:02:02,000 --> 00:02:03,920
+over here under effects
+
+61
+00:02:03,920 --> 00:02:05,600
+we can click on this
+
+62
+00:02:05,600 --> 00:02:08,318
+keyframe and we'll add a blur we'll add
+
+63
+00:02:08,318 --> 00:02:10,959
+a box blur and we'll add a keyframe in
+
+64
+00:02:10,959 --> 00:02:12,720
+and we have to actually add it up here
+
+65
+00:02:12,720 --> 00:02:13,440
+at
+
+66
+00:02:13,440 --> 00:02:14,560
+on the effect we have to add the
+
+67
+00:02:14,560 --> 00:02:17,120
+keyframes in the same point
+
+68
+00:02:17,120 --> 00:02:18,560
+this is going to create a blur and
+
+69
+00:02:18,560 --> 00:02:20,239
+that's because if we just speed up it
+
+70
+00:02:20,239 --> 00:02:22,480
+looks a little bit unnatural and so this
+
+71
+00:02:22,480 --> 00:02:24,160
+way we can blur while we're moving
+
+72
+00:02:24,160 --> 00:02:26,000
+quickly it kind of simulates what that
+
+73
+00:02:26,000 --> 00:02:29,440
+motion blur will look like
+
+74
+00:02:29,520 --> 00:02:30,640
+and we'll add this blur on the
+
+75
+00:02:30,640 --> 00:02:33,760
+horizontal axis instead of the vertical
+
+76
+00:02:33,760 --> 00:02:35,120
+and then that way since we're moving
+
+77
+00:02:35,120 --> 00:02:36,720
+horizontally that's just kind of the
+
+78
+00:02:36,720 --> 00:02:39,680
+direction we want the blur
+
+79
+00:02:39,840 --> 00:02:41,360
+and we can change the way that it enters
+
+80
+00:02:41,360 --> 00:02:45,040
+into this blur change it to smooth
+
+81
+00:02:45,599 --> 00:02:48,879
+and so here's the final result
+
+82
+00:02:49,200 --> 00:02:50,400
+so a really good tool to get familiar
+
+83
+00:02:50,400 --> 00:02:52,160
+with this time remapping hopefully you
+
+84
+00:02:52,160 --> 00:02:53,519
+found this video informative go ahead
+
+85
+00:02:53,519 --> 00:02:54,640
+and leave your questions comments below
+
+86
+00:02:54,640 --> 00:02:55,840
+if you have any and look forward to
+
+87
+00:02:55,840 --> 00:02:59,800
+catching you in the next video
+
+88
+00:03:04,400 --> 00:03:06,480
+you
+
