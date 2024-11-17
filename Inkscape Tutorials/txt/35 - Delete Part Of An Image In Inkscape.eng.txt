@@ -1,0 +1,315 @@
+
+so  lets  go  over  how  you  can  use
+
+inkscape  to  delete  part  of  an  image  on
+
+my  screen  here  I  have  this  example  image
+
+opened  up  and  for  this  demonstration  I
+
+will  be  removing  the  zebra  from  this
+
+image  so  the  result  will  be  an  area  of
+
+transparency  where  the  zebra  currently
+
+is  in  order  to  accomplish  this  Im  going
+
+to  be  creating  a  vector  path  in  the
+
+shape  of  my  subject  that  Id  like  to
+
+delete  and  then  Ill  be  creating  an
+
+inverse  clipping  path  out  of  it  so  lets
+
+go  over  how  you  can  do  this  so  in  order
+
+to  create  a  shape  over  my  subject  here
+
+Im  going  to  custom  draw  a  shape  using
+
+the  pen  tool  let  me  zoom  in  Im  going  to
+
+hold  Ctrl  and  roll  up  the  mouse  wheel  a
+
+couple  of  times  to  zoom  in  Im  going  to
+
+grab  the  bezier  pen  which  is  located
+
+over  here  or  you  could  press  the  letter
+
+B  on  your  keyboard
+
+and  the  setting  that  Im  going  to  use
+
+for  this  particular  subject  here  is  this
+
+setting  up  here  that  says  create  B
+
+spline
+
+and  once  thats  done  Im  just  going  to
+
+zoom  in  over  here  and  Im  going  to  move
+
+the  page  around  by  pressing  down  the
+
+mouse  wheel  and  moving  the  mouse  and  Im
+
+going  to  begin  clicking  to  create  points
+
+around  my  subject  here  as  you  can  see
+
+here  now  that  wasnt  very  accurate  so
+
+let  me  undo  that  if  you  want  to  undo  the
+
+points  that  you  create  at  any  point  you
+
+just  have  to  press  Ctrl  Z  Im  just  going
+
+to  go  and  create  a  outline  around  my
+
+subject  using  the  pen  tool  like  this  and
+
+with  this  setting  with  the  B  spline
+
+setting  youll  see  it  automatically
+
+makes  the  lines  curved  but  if  at  any
+
+point  you  want  to  make  a  straight  line  I
+
+mean  a  sharp  corner  like  you  see  here
+
+all  you  have  to  do  is  hold  shift  and
+
+click  and  then  it  creates  a  sharp  corner
+
+as  you  can  see  there  so  Im  going  to  go
+
+through  here  and  Im  going  to  draw  my
+
+lines  like  this  Im  going  to  hold  shift
+
+put  a  point  here
+
+continue  along  the  inside  of  my  path
+
+here  and  Im  just  going  to  go  around
+
+this  entire  subject  and  trace  an  outline
+
+and  once  youre  finished  drawing  your
+
+line  you  can  connect  it  back  to  the
+
+starting  point  like  that  to  close  the
+
+path  and  now  we  have  our  shape  going
+
+around  the  subject  here  now  let  me  fill
+
+this  in  with  the  color  just  so  we  can
+
+see  it  Im  going  to  use  the  color  green
+
+here  and  Im  going  to  get  rid  of  that
+
+outline  Im  going  to  hold  shift  and
+
+click  on  this  little  red  X  down  here  and
+
+now  we  have  a  subject  that  we  can  use  to
+
+delete  part  of  our  image  now  the  thing
+
+is  if  we  use  this  object  and  create  a
+
+clipping  mask  what  its  going  to  do  is
+
+the  opposite  its  going  to  delete
+
+everything  except  for  the  zebra  so  we
+
+want  to  create  the  inverse  of  that  or  an
+
+inverse  clipping  path  now  inkscape  has
+
+an  inverse  clipping  path  sending  built
+
+in  but  unfortunately  it  only  works  with
+
+Vector  objects  so  in  order  to  do  this
+
+with  the  rasterized  photo  like  we  have
+
+here  were  going  to  have  to  do  this
+
+manually  so  let  me  grab  this  selection
+
+tool  let  me  click  off  of  the  graphic  to
+
+deselect  everything  Im  now  going  to
+
+create  a  rectangle  in  the  size  of  this
+
+image  here  Im  going  to  click  on  the
+
+image  and  Im  going  to  go  to  edit
+
+copy  and  then  Im  going  to  grab  my
+
+rectangle  tool  and Im  going  to  click
+
+and  drag  to  create  a  rectangle  like  that
+
+and  Im  going  to  make  this  a  different
+
+color  than  the  color  we  just  used  Ill
+
+just  go  with  blue  for  now  and  then  Ill
+
+go  to  edit
+
+were  looking  for  paste  size  and  paste
+
+size
+
+and  now  Im  going  to  grab  the  selection
+
+tool  and  with  this  rectangle  selected
+
+Im  going  to  hold  shift  and  click  on  the
+
+image  so  we  havent  both  selected  and
+
+then  Im  going  to  open  up  the  Align  and
+
+distribute  menu  which  is  over  here  on
+
+the  right  if  you  dont  have  it  opened
+
+you  can  press  Ctrl  shift  and  a  on  the
+
+keyboard  or  you  can  come  over  to  where
+
+it  says  object  and  select  align  and
+
+distribute  and  the  menu  should  open  up
+
+over  here  on  the  right  now  with  this
+
+menu  open  I  want  to  make  sure  I  have
+
+last  selected  Chosen  and  then  Im  going
+
+to  Center  this  up  on  the  vertical  and
+
+horizontal  axis  like  that  and  now  Im
+
+going  to  click  off  of  it  to  deselect
+
+everything  Im  going  to  click  on  just
+
+the  blue  the  blue  square  here  and  Im
+
+going  to  lower  this  beneath  the  green
+
+object  that  we  created  so  Im  going  to
+
+come  up  here  to  this  menu
+
+where  it  says  a  lower  selection  One  Step
+
+press  that  and  it  should  lower  it
+
+beneath  the  object  we  just  drew  and  now
+
+Im  going  to  hold  shift  click  on  the
+
+object  so  we  have  them  both  selected  and
+
+go  to  object  and  Im  sorry  path  and  go
+
+to  difference  and  now  we  have  this  right
+
+here
+
+so  now  we  can  do  is  we  can  click  and
+
+drag  over  everything
+
+and  go  to  object
+
+clip
+
+set  clip
+
+and  just  like  that  we  have  deleted  part
+
+of  the  image
+
+by  creating  a  clipping  mask  now  the  good
+
+thing  about  this  is  that  its
+
+non-destructive  meaning  you  can  undo
+
+this  at  any  point  if  at  any  point  you
+
+want  to  put  the  deleted  part  of  the
+
+image  back  to  where  it  was  just  select
+
+the  image  and  go  to  object  clip  and  go
+
+to  release  clip  and  there  you  go  now
+
+youre  back  to  where  youre  started  with
+
+those  objects  as  they  are  so  I  think
+
+that  should  do  it  for  this  lesson  that
+
+is  how  you  can  use  inkscape  to  delete
+
+part  of  a  pixel  based  rasterized  image
+
+if  you  found  this  lesson  useful  then
+
+consider  checking  out  my  inkscape  master
+
+class  its  a  collection  of  over  60
+
+videos  where  I  go  over  all  of  the  tools
+
+and  features  in  inkscape  and  I  explain
+
+what  they  are  and  demonstrate  how  they
+
+work  kind  of  like  how  I  did  in  this
+
+video  we  even  have  a  private  Community
+
+where  you  can  ask  questions  and  get  help
+
+from  me  anytime  you  want  and  best  of  all
+
+theres  no  monthly  membership  fees  you
+
+just  pay  17  one  time  and  youre  in  for
+
+Life  Ill  have  some  information  about
+
+that  down  below  if  you  want  to  check
+
+that  out  as  always  thanks  for  watching
+
+
+
+thank  you
+
+
+

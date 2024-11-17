@@ -1,0 +1,316 @@
+1
+00:00:00,480 --> 00:00:03,060
+in previous lectures we have seen you
+
+2
+00:00:03,060 --> 00:00:05,400
+can group elements by selecting them and
+
+3
+00:00:05,400 --> 00:00:08,099
+choose group you can move and scale a
+
+4
+00:00:08,099 --> 00:00:10,080
+group like it is one object
+
+5
+00:00:10,080 --> 00:00:12,120
+we have also seen you can merge objects
+
+6
+00:00:12,120 --> 00:00:14,460
+together using the union operation
+
+7
+00:00:14,460 --> 00:00:16,079
+although the union operation is
+
+8
+00:00:16,079 --> 00:00:18,240
+destructive when paths overlap this is
+
+9
+00:00:18,240 --> 00:00:20,820
+normally what you want as we see after
+
+10
+00:00:20,820 --> 00:00:23,160
+the union operation the original circles
+
+11
+00:00:23,160 --> 00:00:24,119
+are gone
+
+12
+00:00:24,119 --> 00:00:26,039
+but there also is a non-destructive way
+
+13
+00:00:26,039 --> 00:00:28,500
+of merging overlapping paths called the
+
+14
+00:00:28,500 --> 00:00:30,000
+compound path
+
+15
+00:00:30,000 --> 00:00:32,098
+I select these two circles
+
+16
+00:00:32,098 --> 00:00:34,380
+to make them a compound path I go to
+
+17
+00:00:34,380 --> 00:00:37,559
+path combine in the layers panel we see
+
+18
+00:00:37,559 --> 00:00:39,660
+we have merged two paths into a single
+
+19
+00:00:39,660 --> 00:00:40,379
+path
+
+20
+00:00:40,379 --> 00:00:42,540
+but when I click on the Node tool I see
+
+21
+00:00:42,540 --> 00:00:44,879
+I still have the two original circles I
+
+22
+00:00:44,879 --> 00:00:46,920
+select a circle by selecting its nodes
+
+23
+00:00:46,920 --> 00:00:49,739
+to do this I hold my mouse above one of
+
+24
+00:00:49,739 --> 00:00:52,079
+the nodes which then becomes red then I
+
+25
+00:00:52,079 --> 00:00:54,059
+hold down control and scroll forward
+
+26
+00:00:54,059 --> 00:00:56,280
+until all nodes are selected
+
+27
+00:00:56,280 --> 00:00:59,340
+I can now move the circle if I click on
+
+28
+00:00:59,340 --> 00:01:01,620
+the show transformation handles icon the
+
+29
+00:01:01,620 --> 00:01:03,960
+circle can also be scaled I press the
+
+30
+00:01:03,960 --> 00:01:06,840
+space bar to go to the select tool sew
+
+31
+00:01:06,840 --> 00:01:08,880
+the compound path gives non-destructive
+
+32
+00:01:08,880 --> 00:01:11,460
+results but its real power is that it
+
+33
+00:01:11,460 --> 00:01:14,580
+can create holes in shapes I duplicate a
+
+34
+00:01:14,580 --> 00:01:17,040
+circle and make it smaller I want the
+
+35
+00:01:17,040 --> 00:01:18,840
+orange circle to punch a hole in the
+
+36
+00:01:18,840 --> 00:01:21,360
+green circle because the circles don't
+
+37
+00:01:21,360 --> 00:01:23,520
+overlap there is no danger of losing
+
+38
+00:01:23,520 --> 00:01:26,100
+geometry so I don't have to use combine
+
+39
+00:01:26,100 --> 00:01:28,560
+with both circles selected I go to path
+
+40
+00:01:28,560 --> 00:01:31,200
+difference when I click on the Node tool
+
+41
+00:01:31,200 --> 00:01:33,720
+I see I still have the two paths I hold
+
+42
+00:01:33,720 --> 00:01:35,280
+my mouse above a note of the inner
+
+43
+00:01:35,280 --> 00:01:37,439
+circle press Ctrl and scroll forward
+
+44
+00:01:37,439 --> 00:01:39,960
+until all nodes are selected we see I'm
+
+45
+00:01:39,960 --> 00:01:41,579
+able to move and scale the Inner Circle
+
+46
+00:01:41,579 --> 00:01:43,979
+so why does the Inner Circle create a
+
+47
+00:01:43,979 --> 00:01:46,799
+hole with this circle we can see the
+
+48
+00:01:46,799 --> 00:01:49,500
+path Direction I duplicate it and make
+
+49
+00:01:49,500 --> 00:01:51,979
+it smaller I go to path difference
+
+50
+00:01:51,979 --> 00:01:54,899
+inkscape like illustrator will reverse
+
+51
+00:01:54,899 --> 00:01:56,759
+the path Direction which creates the
+
+52
+00:01:56,759 --> 00:01:59,280
+hole if I select the Inner Path and go
+
+53
+00:01:59,280 --> 00:02:01,680
+to path reverse the Inner Circle doesn't
+
+54
+00:02:01,680 --> 00:02:03,960
+create a hole anymore because both paths
+
+55
+00:02:03,960 --> 00:02:06,240
+now go in the same direction I reverse
+
+56
+00:02:06,240 --> 00:02:08,818
+the path again and I have a hole this
+
+57
+00:02:08,818 --> 00:02:10,860
+knowledge can be especially useful when
+
+58
+00:02:10,860 --> 00:02:13,560
+handling text this text is a single path
+
+59
+00:02:13,560 --> 00:02:16,200
+so a compound path if I want to
+
+60
+00:02:16,200 --> 00:02:18,060
+manipulate the letters individually I
+
+61
+00:02:18,060 --> 00:02:20,340
+can go to path break apart
+
+62
+00:02:20,340 --> 00:02:23,040
+we see however with this operation we
+
+63
+00:02:23,040 --> 00:02:25,200
+lost the holes in the letters to get
+
+64
+00:02:25,200 --> 00:02:27,239
+single letters without this problem I go
+
+65
+00:02:27,239 --> 00:02:29,099
+to path split path
+
+66
+00:02:29,099 --> 00:02:31,319
+now I have individual letters and the
+
+67
+00:02:31,319 --> 00:02:33,360
+holes are retained I have encountered
+
+68
+00:02:33,360 --> 00:02:35,099
+this problem in the past when opening
+
+69
+00:02:35,099 --> 00:02:37,620
+PDFs containing text in illustrator
+
+70
+00:02:37,620 --> 00:02:39,660
+to make the letter e a compound path
+
+71
+00:02:39,660 --> 00:02:41,580
+again I make sure the larger part is
+
+72
+00:02:41,580 --> 00:02:43,560
+placed behind the cutout path
+
+73
+00:02:43,560 --> 00:02:45,540
+then I select both paths
+
+74
+00:02:45,540 --> 00:02:48,360
+I go to path difference I will do the
+
+75
+00:02:48,360 --> 00:02:50,700
+same for the O if you still not get the
+
+76
+00:02:50,700 --> 00:02:52,440
+hole which I haven't counted in the past
+
+77
+00:02:52,440 --> 00:02:54,540
+select the Inner Circle
+
+78
+00:02:54,540 --> 00:02:56,940
+then go to path reverse
+
+79
+00:02:56,940 --> 00:02:59,420
+foreign
+

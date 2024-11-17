@@ -1,0 +1,40 @@
+Now lets have a look at the Pen tool. As in Illustrator, with the Pen tool, you can create
+curved paths. I outlined the letter d, and made a screenshot of its nodes and handles. I
+will recreate the letter d with the Pen tool. As we can see, the nodes of the large curves, are
+placed at the outer edges of the curve. And their handles are perfectly horizontal or vertical.
+To place the first point, I click and hold down the mouse. I now see a handle, or arm,
+that I can move around. When I press Ctrl, I can place the arm perfectly vertical.
+I will place the arm at the same height as in the example. Now I let go of the mouse and Ctrl.
+Then I click on the second point, which is the highest point of the curve. I hold down the mouse
+down again, and press Ctrl. Now I drag the handle perfectly horizontal. I will make the length of
+the left arm, fit the left example. The right arm needs to be shorter, but I will do that at a later
+point. I click on the third point, and drag. I dont have to press Ctrl, because the arm doesnt
+have to be horizontal. I will match the left arm. Now I will go up. Because I also have a right arm,
+I have a curve, and not a straight line. To get a straight line, I need to remove the right arm.
+To remove the right arm, I press Shift plus L. I see I now have a straight line. Because I need the
+line to go up vertically, I press Ctrl. I click on the point above, and still hold down control,
+to also get a vertical arm. I click on the next point, hold Ctrl, and drag to match the right
+arm. I have a sharp corner again, so I press Shift plus L. Now we have a new situation.
+I cant drag on the node above, because that would give me a curve below. So I hold Ctrl,
+and click on the next point. Now I press Enter. To continue, I click on the last point, and hold
+down the mouse. I drag out a single arm. I click on the next point, drag, and match the left arm.
+To get a sharp corner, I press Shift-L again. I hold Ctrl, click on the next point, still hold
+Ctrl, and drag out a vertical arm. I click, press Enter, and drag out the left arm. I press Shift-L
+and click. I hold Ctrl, and click on the point below. At the corner, I only need a left arm.
+So I press Enter, and then drag the left arm. I click and drag, and press Shift-L. I hold Ctrl,
+and click on the point above. Then I click on the next point, which also gives a straight line.
+I press Enter, and drag an arm out. Then I click, and hold Ctrl, and match the left arm.
+This is the second point where I will adjust the right arm later.
+To finish the path, I click on the first point again, hold Ctrl, and match the bottom arm.
+Now I click on the Node tool. I will adjust the two right arms, that are too long. I click on the
+node on top, and hold my mouse above the right arm. I hold Ctrl, and drag the arm to match.
+I do the same for the bottom node. I click on it, hold Ctrl, and drag the right arm in. The
+outer path is now finished. Now I draw the inner path. I click on the Pen tool. I click, hold Ctrl,
+and drag. Then I click, hold Ctrl, and drag again. As before, I will adjust the right arm later. I
+click and drag. To get a corner, I press Shift-L again. I hold Ctrl, and click. I press Enter,
+and drag an arm. Then I click, hold Ctrl, and drag. And to finish, I click, hold Ctrl, and drag.
+Like before, I adjust the top and bottom arms. I click on the node on top, and hold my mouse
+above the right arm. I hold Ctrl, and drag the arm to match. I do the same for the bottom node.
+I click on it, hold Ctrl, and drag the right arm in. The inner path is now finished. Now I have
+to make the paths a compound path. I select them both, and go to: Path > Difference. I will make
+the traced letter black. In the next lecture, we will have a closer look at the Node tool.

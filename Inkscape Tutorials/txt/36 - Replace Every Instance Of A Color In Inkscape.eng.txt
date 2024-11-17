@@ -1,0 +1,171 @@
+
+so  lets  go  over  how  you  can  use
+
+inkscape  to  replace  every  instance  of  a
+
+single  color  on  a  document  all  at  once
+
+if  you  see  from  my  example  design  here  I
+
+have  this  assortment  of  objects  in  a
+
+variety  of  colors  lets  say  I  want  to
+
+take  every  object  with  this  salmon  color
+
+right  here  and  change  it  to  a  yellow
+
+shade  normally  to  do  that  I  would  have
+
+to  click  on  each  object  individually  and
+
+change  the  colors  one  by  one  which  can
+
+be  a  pretty  tedious  and  time-consuming
+
+task  depending  on  the  size  of  your
+
+artwork
+
+there  is  an  easier  way  to  go  about  doing
+
+this  in  inkscape  though  in  order  to  do
+
+this  what  Im  going  to first  do  is  Im
+
+going  to click  on  one  object  right  here
+
+that  contains  the  color  that  Id  like  to
+
+change  with  the  object  selected  Im
+
+going  to come  up  to  the  edit  menu  Ill
+
+go  down  to  select  same  and  in  this  menu
+
+over  here  to  the  right  you  should  see
+
+all  of  these  different  attributes  that
+
+you  can  choose  to  select  your  objects  by
+
+so  for  example  if  I  choose  to  select  my
+
+objects  by  fill  color
+
+its  going  to  select  every  single  object
+
+on  my  document  that  contains  that  fill
+
+color  of  the  one  object  I  have  selected
+
+and  to  change  that  color  now  all  I  have
+
+to  do  is  apply  a  different  shade  like
+
+that  and  as  you  can  see  every  single
+
+color  has  been  replaced  with  the  color
+
+that  I  chose  there  now  this  example  here
+
+contains  several  colors  so  Ill  have  to
+
+repeat  this  process  a  couple  of  more
+
+times  Im  going  to  select  this  object  up
+
+here  Ill  go  to  edit  select  same  and  if
+
+you  look  over  here  you  can  see  all  of
+
+these  different  properties  that  you  can
+
+use  to  select  your  objects  by  you  could
+
+select  by  fill  and  stroke  not  just  the
+
+fill  you  can  select  by  just  the  fill
+
+color  just  the  stroke  color  just  the
+
+stroke  style  and  by  object  type  whether
+
+it  be  a  square  or  a  circle  or  even  a
+
+custom  drawn  path  with  the  bezier  pen
+
+Im  just  going  to  use  fill  color  for
+
+this  demonstration  and  Im  going  to
+
+change  that  to  a  lighter  shade  of  yellow
+
+and  then  Ill  change  this  color  of  this
+
+object  right  here  Ill  go  to  edit  select
+
+same
+
+fill  color
+
+and  Ill  change  this  to  a  darker  shade
+
+of  yellow  maybe  something  a  little  off
+
+like  orange  add  a  little orange  in  there
+
+okay  that  looks  good
+
+and  now  we  are  finished  as  you  can  see
+
+its  as  simple  as  changing  colors
+
+globally  on  your  document  is  as  simple
+
+as  selecting  the  one  object  that
+
+contains  that  color  and  then  using  the
+
+edit  menu  to  select  every  other  object
+
+so  that  is  how  you  can  go  about
+
+performing  a  color  replace  using
+
+inkscape  if  you  found  this  lesson  useful
+
+then  consider  checking  out  my  inkscape
+
+master  class  its  a  collection  of  over
+
+60  videos  where  I  go  over  all  of  the
+
+tools  and  features  in  inkscape  and  I
+
+explain  what  they  are  and  demonstrate
+
+how  they  work  kind  of  like  how  I  did  in
+
+this  video  we  even  have  a  private
+
+Community  where  you  can  ask  questions
+
+and  get  help  from  me  anytime  you  want
+
+and  best  of  all  theres  no  monthly
+
+membership  fees  you  just  pay  17  one  time
+
+and  youre  in  for  Life  Ill  have  some
+
+information  about  that  down  below  if  you
+
+want  to  check  that  out  as  always  thanks
+
+for  watching
+
+foreign
+
+
+

@@ -1,0 +1,360 @@
+1
+00:00:01,520 --> 00:00:03,770
+in this video I'll be going over working
+
+2
+00:00:03,770 --> 00:00:05,720
+with clones which sounds similar to
+
+3
+00:00:05,720 --> 00:00:07,190
+working with duplicates but it's
+
+4
+00:00:07,190 --> 00:00:08,480
+actually a little different and I'll be
+
+5
+00:00:08,480 --> 00:00:10,280
+explaining that in this video so let's
+
+6
+00:00:10,280 --> 00:00:12,379
+go ahead and get started here just for
+
+7
+00:00:12,379 --> 00:00:13,789
+example I'm gonna go ahead and create a
+
+8
+00:00:13,789 --> 00:00:17,359
+little ellipse like that and a little
+
+9
+00:00:17,359 --> 00:00:19,430
+red circle like that I'm gonna convert
+
+10
+00:00:19,430 --> 00:00:21,560
+it to a path and we're gonna do now is
+
+11
+00:00:21,560 --> 00:00:25,400
+I'm gonna go to edit clone and I'm gonna
+
+12
+00:00:25,400 --> 00:00:27,910
+click the option that says create clone
+
+13
+00:00:27,910 --> 00:00:29,720
+what that's gonna do is it's gonna
+
+14
+00:00:29,720 --> 00:00:32,329
+create a cloned copy of that original
+
+15
+00:00:32,329 --> 00:00:34,790
+circle now you may be asking yourself
+
+16
+00:00:34,790 --> 00:00:36,350
+well why don't I just create a duplicate
+
+17
+00:00:36,350 --> 00:00:37,760
+instead why don't it is right-click it
+
+18
+00:00:37,760 --> 00:00:39,829
+and go to duplicate well this is
+
+19
+00:00:39,829 --> 00:00:42,829
+slightly different here this object this
+
+20
+00:00:42,829 --> 00:00:45,470
+cloned object is linked to this object
+
+21
+00:00:45,470 --> 00:00:47,860
+here so whatever I do to this object
+
+22
+00:00:47,860 --> 00:00:50,300
+it's gonna happen to that object as well
+
+23
+00:00:50,300 --> 00:00:51,770
+let me show you as an example I'll scale
+
+24
+00:00:51,770 --> 00:00:53,870
+that down and that scales down as well I
+
+25
+00:00:53,870 --> 00:00:56,239
+turn that green that turns green as well
+
+26
+00:00:56,239 --> 00:00:58,489
+I go to the paths I go to the other
+
+27
+00:00:58,489 --> 00:01:00,620
+nodes tool might change the nodes and it
+
+28
+00:01:00,620 --> 00:01:01,850
+happens to that as well this is
+
+29
+00:01:01,850 --> 00:01:04,578
+virtually a copy of this object here and
+
+30
+00:01:04,578 --> 00:01:06,079
+anything I do to this will happen to
+
+31
+00:01:06,079 --> 00:01:07,490
+this as well if you notice here if you
+
+32
+00:01:07,490 --> 00:01:09,049
+want to look at the nodes there's no
+
+33
+00:01:09,049 --> 00:01:11,780
+actual nodes here that I can edit if I
+
+34
+00:01:11,780 --> 00:01:13,429
+want to edit this clone I have to edit
+
+35
+00:01:13,429 --> 00:01:15,409
+the original clone first in order to do
+
+36
+00:01:15,409 --> 00:01:18,439
+that now if I want to make this clone
+
+37
+00:01:18,439 --> 00:01:20,479
+it's very own object and make it so
+
+38
+00:01:20,479 --> 00:01:22,429
+that's no longer linked to this object
+
+39
+00:01:22,429 --> 00:01:24,459
+right here what I can do is go to edit
+
+40
+00:01:24,459 --> 00:01:28,249
+clone and I can click on unlink clone
+
+41
+00:01:28,249 --> 00:01:31,069
+and now it becomes its own object and if
+
+42
+00:01:31,069 --> 00:01:32,329
+you notice here you can see there's the
+
+43
+00:01:32,329 --> 00:01:34,130
+nodes and everything and when I go and
+
+44
+00:01:34,130 --> 00:01:37,459
+edit this object over here it doesn't
+
+45
+00:01:37,459 --> 00:01:39,920
+happen to that object there so that's
+
+46
+00:01:39,920 --> 00:01:41,479
+how that works now let's go to edit
+
+47
+00:01:41,479 --> 00:01:45,319
+clone relink - copied okay how this
+
+48
+00:01:45,319 --> 00:01:47,119
+works is let me create another copy I'm
+
+49
+00:01:47,119 --> 00:01:49,249
+gonna take this object I'll go to edit
+
+50
+00:01:49,249 --> 00:01:54,499
+clone create yet create clone and here's
+
+51
+00:01:54,499 --> 00:01:57,079
+a cloned object right here what I can do
+
+52
+00:01:57,079 --> 00:01:58,789
+is instead of take instead of linking
+
+53
+00:01:58,789 --> 00:02:01,340
+this clone to this object I can instead
+
+54
+00:02:01,340 --> 00:02:03,020
+link it to this object let me just edit
+
+55
+00:02:03,020 --> 00:02:06,009
+that a little bit do something like that
+
+56
+00:02:06,009 --> 00:02:08,449
+what I can do is I can copy that by
+
+57
+00:02:08,449 --> 00:02:09,949
+right-clicking it and going to copy or
+
+58
+00:02:09,949 --> 00:02:11,480
+you can just hit ctrl C on the keyboard
+
+59
+00:02:11,480 --> 00:02:13,280
+and then I could take this clone right
+
+60
+00:02:13,280 --> 00:02:16,270
+here and go to edit clone
+
+61
+00:02:16,270 --> 00:02:19,430
+relink - copied and what that does is it
+
+62
+00:02:19,430 --> 00:02:21,260
+real inks it to that object there if you
+
+63
+00:02:21,260 --> 00:02:23,330
+notice here made it that same exact
+
+64
+00:02:23,330 --> 00:02:26,510
+thing so that's how that works
+
+65
+00:02:26,510 --> 00:02:30,770
+you look here again edit clone select
+
+66
+00:02:30,770 --> 00:02:32,870
+original okay so let's say we have a
+
+67
+00:02:32,870 --> 00:02:34,430
+bunch of objects here right I'm gonna
+
+68
+00:02:34,430 --> 00:02:36,260
+create a bunch of copies of this clone a
+
+69
+00:02:36,260 --> 00:02:38,420
+bunch of clones of the clone I'm gonna
+
+70
+00:02:38,420 --> 00:02:40,100
+mix these all together and shuffle them
+
+71
+00:02:40,100 --> 00:02:43,520
+all around and you want to select the
+
+72
+00:02:43,520 --> 00:02:45,410
+original so you can edit all of them but
+
+73
+00:02:45,410 --> 00:02:46,580
+you don't know what you want is the
+
+74
+00:02:46,580 --> 00:02:48,320
+original so what you do is you just
+
+75
+00:02:48,320 --> 00:02:50,380
+click on any one of them and go to edit
+
+76
+00:02:50,380 --> 00:02:54,560
+clone select original and then it'll
+
+77
+00:02:54,560 --> 00:02:56,420
+show you where the original one is and
+
+78
+00:02:56,420 --> 00:02:58,280
+then you can go and edit that further
+
+79
+00:02:58,280 --> 00:03:00,860
+like that so that's the basics of how
+
+80
+00:03:00,860 --> 00:03:02,720
+clones work there's a couple of other
+
+81
+00:03:02,720 --> 00:03:03,770
+things I want to show you here in this
+
+82
+00:03:03,770 --> 00:03:06,290
+menu clone clone original path that's a
+
+83
+00:03:06,290 --> 00:03:08,060
+live a path that's a live path effect
+
+84
+00:03:08,060 --> 00:03:08,780
+which is something that's totally
+
+85
+00:03:08,780 --> 00:03:10,760
+different I'll be going over that in its
+
+86
+00:03:10,760 --> 00:03:13,250
+own video and then there's create tiled
+
+87
+00:03:13,250 --> 00:03:15,860
+clones which this is an entirely long
+
+88
+00:03:15,860 --> 00:03:17,600
+video in and of itself which I'll be
+
+89
+00:03:17,600 --> 00:03:19,910
+going over next but that's the basics of
+
+90
+00:03:19,910 --> 00:03:24,610
+how you can work with clones in Inkscape
+

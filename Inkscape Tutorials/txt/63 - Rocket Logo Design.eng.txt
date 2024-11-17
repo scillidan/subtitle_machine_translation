@@ -1,0 +1,1305 @@
+
+
+
+this  is  nick  with  logosbynic.com  and  in
+
+this  tutorial  ill  be  demonstrating  how
+
+you  can  create  this
+
+rocket  logo  design  using  inkscape  but
+
+before  we  get  started  if  youd  like  to
+
+learn  more  about  how  inkscape  works  be
+
+sure  to  check  out  my  inkscape  master
+
+class
+
+its  a  collection  of  over  60  videos
+
+where  i  go  over  all  of  the  tools  and
+
+features  in  inkscape
+
+and  i  explain  what  they  are  and
+
+demonstrate  how  they  work  ill  put  a
+
+link  in  the  description  of  the  video  if
+
+you  want  to  check  that  out
+
+so  to  get  us  started  here  in  inkscape
+
+the  first  thing  i  want  to  do  is  just  set
+
+up
+
+the  uh  the  screen  here  so  that  were  all
+
+working  with  the  similar  layout  i  want
+
+to  come  up  here  to  where  it  says  view
+
+make  sure  we  have  custom  selected  im
+
+going  to  come  over  here  to  where  it  says
+
+zoom  and  im  going  to  zoom  in  at  one  to
+
+one
+
+and  then  im  going  to  open  up  the  align
+
+and  distribute  menu  with  this  button
+
+over  here  or  you  can  press  ctrl
+
+shift  and  a  i  want  to  have  last  selected
+
+chosen  from  this  relative  two
+
+and  then  i  want  to  open  up  the  fill  and
+
+stroke  menu  which  is  over  here  you  can
+
+click  on  that  or  you  can  press  ctrl
+
+shift  and  f  to  open  that  up  so  what  im
+
+going  to  do  first  is  im  going  to  create
+
+a  circle  that  is  going  to
+
+encapsulate  the  entire  design  so  let  me
+
+grab  the  circles  and  ellipses  tool
+
+im  going  to  hold  ctrl  and  shift  on  the
+
+canvas  im  going  to  hold  ctrl  and  shift
+
+and  click  and  drag  on  the  canvas  to
+
+create  a  perfectly  round  circle  like
+
+that
+
+now  let  me  grab  the  select  tool  let  me
+
+move  this  over  what  i  want  to  do  now  is
+
+just  bring  down  the  opacity  of  this  a
+
+little  bit  im  going  to  take  the  opacity
+
+bring  that  down  roughly  in  half  were
+
+going  to  want  to  be  able  to  see  through
+
+what  were  working  with
+
+as  we  go  through  this  tutorial  one  other
+
+thing  i  wanted  to
+
+i  forgot  to  mention  up  here  where  it
+
+says  enable  snapping  make  sure  you  have
+
+this  turned  off  for  the  duration  of  this
+
+tutorial  or  for  now  anyway  so
+
+go  ahead  and  disable  that  i  think  by
+
+default  its  enabled  so  just  go  ahead
+
+and
+
+disable  that  so  we  have  our  circle  right
+
+there  what  i  want  to  do  is  just
+
+duplicate  this  circle  by  hitting  control
+
+d
+
+im  going  to  make  this  copy  green  and
+
+im  going  to  hold  ctrl  and  shift  and
+
+scale  this  down  a  little  bit
+
+and  what  im  going  to  do  here  is  im
+
+going  to  create  some  plumes  of  smoke
+
+going  towards  the  bottom  of  the  uh
+
+the  bottom  of  the  design  here  let  me
+
+show  you  here  were  going  to  create  this
+
+segment  right  here  using  a  bunch  of
+
+individual  circles  so  let  me
+
+minimize  that  im  going  to  make  this  one
+
+a  little  bigger
+
+put  this  right  about  here  duplicate  this
+
+by  pressing  ctrl  d
+
+make  this  one  a  little  smaller  again
+
+holding  ctrl  and  shift  while  scaling
+
+this  down  to  lock  the  proportions
+
+ctrl  d  to  duplicate  again  hold  ctrl  and
+
+shift  make  this  one  a  little  smaller
+
+maybe  ill  put  this  over  here
+
+put  the  medium  size  over  here  on  the
+
+left  put  the  smaller  one  right  here  like
+
+that
+
+maybe  make  this  a  little  smaller
+
+duplicate  this  by  hitting  ctrl  d  bring
+
+this  over  here
+
+duplicate  this  one  put  this  over  here
+
+maybe  like  that  and  right  there  thats
+
+about  what  im  looking  for  i  want  to
+
+have  this
+
+this  is  going  to  represent  the  the  the
+
+clouds  are  like  the  exhaust  coming  from
+
+the  rocket  here
+
+and  uh  what  i  want  to  do  now  is  i  just
+
+want  to  make  sure  the  bottom  portion  of
+
+this  design  is  covered  in  as  well  so  im
+
+going  to  duplicate  some  more  of  these
+
+circles
+
+and  just  scale  them  up  so  that  its
+
+covering  the  entire  portion  of  the
+
+design  as  you  can  see  im  stamping  these
+
+circles  by  pressing  spacebar  as  i  move
+
+them  around
+
+that  right  there  is  what  were  looking
+
+for  we  want  to  make  sure  everythings
+
+covered  here  we  dont  have  any  of  the
+
+main  circles  sticking  out  let  me  just
+
+zoom  in  to  make  sure
+
+okay  good  we  dont  want  any  of  that
+
+and  what  im  going  to  do  now  is  if  you
+
+notice  over  here  theres  little  indents
+
+coming  in  from  these  circles  so  were
+
+going  to  create  those  next
+
+so  let  me  go  and  take  im  going  to  start
+
+with  this  circle  right  here
+
+to  zoom  in  and  out  im  holding  ctrl  and
+
+rolling  up  the  mouse  wheel
+
+and  to  move  them  to  move  the  page  around
+
+im  pressing  down  the  mouse  wheel  and
+
+moving  the  mouse
+
+im  going  to  duplicate  this  by  hitting
+
+control  d  im  going  to  make  that  red
+
+and  then  im  going  to  duplicate  it  again
+
+by  hitting  control  d  and  im  going  to
+
+make  this  one  green
+
+and  let  me  just  move  this  one  over  like
+
+this  and  were
+
+looking  at  the  uh  the  area  thats
+
+sticking  out  here  the  color  of  red
+
+thats  sticking  out  thats  what  we  want
+
+to  pay  attention  to
+
+something  like  that  right  there  is  what
+
+im  looking  for  im  going  to  hold  shift
+
+click  on  the  red  circle  behind  it  so  we
+
+have  both  of  these  selected  and  go  to
+
+path
+
+difference  now  i want  to  do  the  same
+
+thing  for  all  of  the  circles  at  the  top
+
+here  so  let  me  zoom  in  so  i  can  see  this
+
+a  little  better
+
+i  want  to  move  this  circle  over  so  that
+
+its  intersecting  with  this  area  a
+
+little  more  so  let  me  duplicate  this  by
+
+hitting  ctrl  d
+
+make  that  red  duplicate  it  again  make  it
+
+green
+
+and  ill  move  this  one  out  here  like
+
+this
+
+and  one  thing  im  looking  for  when  i  do
+
+this  i  want  to  make  sure  if  you  notice
+
+the  tip
+
+of  the  uh  the  red  crescent  here  is  going
+
+over  the  red  crescent  over  here  that  we
+
+previously  created  we  want  to  make  sure
+
+that  those  two  things  are  intersecting
+
+and  overlapping  completely
+
+you  dont  want  to  leave  it  like  this
+
+where  its  not  going  all  the  way  through
+
+so  thats  one  thing  to  keep  in  mind
+
+while  youre  going  about  this
+
+if  you  have  to  you  can  take  this  one
+
+hold  shift  click  the  one  beneath  it  and
+
+then  just  click  it  again  to  get  the
+
+rotation  handles  and  just  rotate  it
+
+around
+
+to  position  it  in  a  better  spot  all
+
+right  so  that  that  right  there  is  good
+
+how  it  is  im  going  to  hold  shift
+
+click  both  of  those  and  go  to  path
+
+difference  there  we  go
+
+and  maybe  maybe  ill  rotate  these  around
+
+a  little  bit  like  that
+
+and  im  gonna  have  to  move  this  one  i
+
+can  tell  already  im  gonna  move  this  one
+
+up  here
+
+again  duplicate  that  make  that  red
+
+duplicate  it  again  make  it  green
+
+and  im  going  to  position  this  one  like
+
+this
+
+maybe  over  here  like  this
+
+again  now  this  is  not  overlapping  so
+
+what  i  want  to  do  is  move  this
+
+down  like  that  there  we  go  thats  what
+
+im  looking  for  now  let  me  take  those  go
+
+to  path
+
+difference  again  to  select  two  objects
+
+at  the  same  time  just  holding  shift
+
+and  clicking  each  of  them  do  the  same
+
+thing  over  here  ctrl  d
+
+were  pretty  much  just  repeating  this
+
+process  over  and over  again  until  we  get
+
+to  the
+
+end  of  the  exhaust  plume  here
+
+thats  good
+
+oops  did  i  miss  that  there  we  go  and
+
+well  do  the  same  thing  over  here
+
+you  know  im  going  to  rotate  this  around
+
+a  little  bit
+
+yeah  maybe  ill  rotate  it  around  some
+
+more  like  that  oops
+
+okay  thats  good  and  then  finally  this
+
+last  one  over  here  im  going  to
+
+just  adjust  that  a  little  bit  duplicate
+
+that
+
+make  that  red  duplicate  it  again  make  it
+
+green
+
+and  there  we  go  path  difference
+
+okay  so  we  have  this  set  in  place  now
+
+what  i  want  to  do  now  is
+
+if  you  notice  the  areas  where  the  red
+
+crescents  the  tips  of  them  are  sticking
+
+out  from  each  other  i  just  want  to  go
+
+and  manually
+
+remove  those  from  certain  areas  so  im
+
+going  to  remove  this  area  from  this
+
+crescent  here  to  do  that  im  going  to
+
+grab  the  bezier  pen
+
+which  is  over  here  you  can  press  b  on
+
+the  keyboard  im  going  to  create
+
+an  object  going  around  the  tip  of  that
+
+crescent  right  there
+
+grab  the  select  tool  hold  shift  click  on
+
+the  red  shape  and  go  to  path
+
+difference  and  ill  do  the  same  thing
+
+over  here  back  to  the  bezier  pen
+
+im  just  going  to  press  b  on  the
+
+keyboard  its  easier  to  do  it  that  way
+
+back  to  the  starting  point  back  to  the
+
+select  tool  for  that  we  press  s  on  the
+
+keyboard
+
+hold  shift  path  difference
+
+and  ill  go  over  here  and  do  the  same
+
+thing  let  me  get  rid  of  the  uh
+
+this  area  right  here  path
+
+difference
+
+oops  path
+
+difference  there  we  go  and  then  ill
+
+delete  this  part  right  here  so  let  me
+
+grab  the  bezier  pen  again
+
+bring  this  through  like  that
+
+back  to  the  select  tool  actually  no  this
+
+one  right  here
+
+path  difference  there  we  go
+
+okay  so  now  i  want  to  take  all  of  the
+
+red  objects  right  here  im  just  going  to
+
+click  on  one  of  them
+
+and  go  to  edit  select  same
+
+fill  color  and  thats  going  to  select
+
+all  of  the  red  objects  right  there  and
+
+go  to
+
+path  union  and  now  i  want  to  unify
+
+all  of  the  green  circles  together  so  let
+
+me  click  on  the  green  circle  and  go  to
+
+edit
+
+select  same  fill  color  and  go  to
+
+path  union  okay  so  what  i  want  to  do  now
+
+is  create  an  offset
+
+of  this  um  this  green
+
+cloud  right  here  so  to  do  that  im  just
+
+going  to  press  ctrl  d
+
+on  the  keyboard  to  duplicate  that  im
+
+going  to  make  this  blue
+
+and  im  going  to  lower  this  beneath  the
+
+other  two  objects  we  just  created  so
+
+come  up  here  where  it  says  lower
+
+selection  one  step  ill  click  that  once
+
+and  then  twice  we  want  it  to  go  beneath
+
+the  red  and  the  green  objects  and  then
+
+go  to
+
+path  and  were  looking  for  dynamic
+
+offset
+
+and  once  we  get  dynamic  offset  were
+
+going to  take  this  little  node  right
+
+here  and  just  bring  this  out  like  that
+
+maybe  about  that  much  thats  a  good
+
+amount  of  padding  right  there  so  well
+
+go  to
+
+path  object  to  path  to  to  finalize  that
+
+were  going  to  what  im  going  to  create
+
+now  is  the  exhaust  trail  coming  from  the
+
+rocket  let  me  show  you  here  this  little
+
+stream  this  little  jet  stream  coming
+
+from  the  rocket  thats  going  to  be  the
+
+next
+
+thing  that  we  create  so  lets  move  this
+
+off  to  the  side  a little  bit  again  to
+
+move  the  page  around  just
+
+pressing  down  the  mouse  wheel  and  moving
+
+the  mouse  im  going  to  grab  the
+
+rectangles  tool  right  here
+
+create  a  rectangle  like  this  make  this
+
+green  because  we  want  that  to  match  this
+
+green  here
+
+and  now  im  going  to  grab  the  circles
+
+and  ellipses  tool  and  make  another
+
+make  a  an  ellipse  going  over  it  like
+
+that  now  let  me  make  that  red  so  we  can
+
+see  it
+
+grab  the  select  tool
+
+duplicate  this  shape  by  pressing  ctrl  d
+
+and  then  hold  ctrl  and  click  and  drag
+
+this  off  to  the  right  over  here
+
+and  what  were  paying  attention  to  is
+
+the  intersecting  area  between
+
+uh  or  the  absent  area  between  the  two
+
+red  red  circles  here  this  green
+
+object  is  whats  going  to  be  what
+
+remains  so  let  me  bring  this  down  a
+
+little  bit
+
+this  is  going  to  be  our  little  jet
+
+stream  right  here  so
+
+i  think  that  looks  good  right  there  so
+
+im  going  to  hold  shift  click  both  red
+
+circles  go  to
+
+path  union  hold  shift  click  on  the  green
+
+rectangle  and  go  to  path
+
+difference  and  what  im  going  to  do  now
+
+is  create
+
+some  empty  space  in  the  middle  of  it
+
+like  you  see  right  here
+
+so  to  do  that  let  me  duplicate  this  ctrl
+
+d  ill  make  this  red  im  going  to  bring
+
+this  in  a little  bit
+
+bring  this  side  in  a  little  bit  bring
+
+this  in  some  more  like  that
+
+move  this  over  thats  looking  pretty
+
+good
+
+now  let  me  hold  shift  and  click  on  both
+
+of  those  so  we  have  them  both  selected
+
+and  where  it  says  align  were  gonna  go
+
+to  our  align  menu  and  click  on
+
+uh  center  on  vertical  axis  like  that  and
+
+now  im  just  gonna  take  this
+
+maybe  bring  this  down  a little  bit  bring
+
+this  up  a  little  bit  so  that
+
+it  sticks  out  from  the  edges  there  and
+
+then  select  them  both
+
+and  go  to  path  difference
+
+and  now  we  have  our  little  jet  stream  so
+
+let  me  hold  ctrl  and  just  scale  this
+
+down
+
+let  me  put  this  in  place  over  here  with
+
+the  rest  of  the  design
+
+thats  looking  pretty  good  im  going  to
+
+hold  shift  click  on  the  circle  so  we  can
+
+center  this  up  on  our  emblem  here
+
+there  we  go  click  off  of  that  to
+
+deselect  everything  now  im  going  to
+
+take  this
+
+and  im  going  to  lower  it  beneath  the
+
+cloud  here  so  im  going  to  click  this
+
+button  that  says  lower  selection  one
+
+step
+
+one  two  three  we  want  it  going  beneath
+
+the  blue  object  there  but  above  the
+
+black  circle  here  so  let  me  zoom  back
+
+out
+
+this  time  were  going  to  use  a  different
+
+approach  for  creating  the  offset  were
+
+going to  use  a  stroke  this  time  because
+
+of  the  way  that  this
+
+object  is  structured  so  let  me  duplicate
+
+this  object  by  hitting  ctrl  d
+
+im  going  to  make  this  blue  and  then
+
+give  it  a  blue  stroke  by  holding  shift
+
+and  clicking  on  the  color  blue
+
+and  im  going  to  lower  that  down  until
+
+it  goes  beneath  the  green
+
+object  there  and  i  want  to  come  over
+
+here  to  where  it  says  stroke  style
+
+and  just  adjust  the  thickness  of  it  here
+
+if  you  notice  the  thickness  of  the  blue
+
+offset  over  here
+
+we  want  this  to  be  significantly  thicker
+
+than  that
+
+so  let  me  increase  that  a  little  bit
+
+okay  right  about  there  that  looks  good
+
+you  can  just  eyeball  it  that  right  there
+
+looks  pretty  good  so  im  going  to  go
+
+ahead  and  go  to
+
+path  stroke  to  path  path
+
+break  apart  were  going  to  ungroup  this
+
+and  then  go  to  path  union  and  the
+
+ungroup  is  right  here  if  you hover  the
+
+cursor  over  the  button  it  says
+
+ungroup  selected  objects  i  just  click  it
+
+a  couple  of  times  just  to  make  sure  its
+
+ungrouped
+
+and  now  what  we  can  do  is  im  going  to
+
+take  this  blue  object  right  here
+
+im  going  to  duplicate  that  by  pressing
+
+ctrl  d  im  going  to  hold  shift
+
+click  on  the  green  object  right  here  and
+
+go  to  path
+
+difference  and  if  you  notice  we  now  have
+
+that  cut  off  there  its  going  to  be
+
+separated  from  the  cloud  at  the  bottom
+
+there  so
+
+thats  why  we  did  that  now  im  going  to
+
+take  the  the  black  circle  in  the
+
+background  control  d
+
+to  duplicate  that  hold  shift  click  on
+
+the  green  cloud  right  there
+
+go  to  path  intersection
+
+and  then  what  i  want  to  do  is  i  want  to
+
+take  this  blue  object
+
+hold  shift  take  this  blue  object  and
+
+then  go  to
+
+path  union
+
+and  then  hold  shift  and  click  on  the
+
+black  circle  and  go  to
+
+path  difference  and  now  we  have  that
+
+there  so  let  me  go  to
+
+now  im  going  to  go  to  path  break  apart
+
+click  off  of  the  object  to  deselect
+
+everything  and  if  you  have  this  little
+
+center  piece  here  in  the  middle  you  just
+
+take  that  and  get  rid  of  it
+
+so  what  im  going  to  do  now  is  im  going
+
+to  take  this  red  object  right  here
+
+hold  shift  click  on  the  green  cloud  and
+
+go  to  path
+
+difference  and  there  we  have  the  uh
+
+the  exhaust  with  the  um  cloud  plume
+
+there
+
+so  what  we  have  to  do  now  is  lets  we
+
+can  start  we  can  actually  start  coloring
+
+this  in  now  so  let  me  select  all  of  this
+
+bring  the  opacity  all  the  way  up  like
+
+that  and  im  going  to  use  a  shade
+
+similar  to  what  i  used  for  the  thumbnail
+
+design  like  a  dark  purple
+
+combined  with  a  lighter  shade  of  purple
+
+like  that
+
+there  we  go  im  going  to  take  that  im
+
+just  going  to  use  the  dropper  to  make
+
+that  the  same  color
+
+there  we  go  and  now  im  going  to  put
+
+some  stars  in  the  background  here  to
+
+make  it  look  more  like  its
+
+more  like  its  in  space  like  that  so  go
+
+ahead  and  grab  the
+
+were  looking  for  the  stars  and  polygons
+
+tool  which  is  right  here
+
+for  the  settings  were  going  to  want
+
+this  one  selected  right  here  that  says
+
+star  instead  of  regular  polygon  were
+
+going  to  want  four  corners
+
+spoke  ratio  0.401
+
+and  then  rounded  and  randomized  both  set
+
+to  zero  im  just  going  to  hold  ctrl  and
+
+shift  and  create  our  little  star  like
+
+that
+
+im  going  to  get  rid  of  that  stroke  or
+
+that  blue  outline  by  holding
+
+shift  and  clicking  on  this  little  red  x
+
+down  here
+
+and  ill  take  this  and  just  bring  this
+
+over  here  like  this  scale  it  down  so  it
+
+fits
+
+ill  make  this  white  and  ill  just  add  a
+
+few  of  these  in  here
+
+at  different  sizes  to  make  it  look  more
+
+natural
+
+if  youll  make  this  one  a little  bigger
+
+like  that  there  we  go  and  ill  put  the
+
+same  thing  over  here  on  this  side  so
+
+ill  just  select  all  four  of  those
+
+hit  ctrl  d  to  duplicate  and  then  flip
+
+them  horizontally
+
+with  this  button  up  here  and  then  just
+
+move  these  over  here  like  that
+
+and  there  we  go  so  now  we  have  the  stars
+
+set  in  place  so  the  final  step  now
+
+is  to  create  the  little  rocket  at  the
+
+top  of  the  design  here  so  to  do  that
+
+lets  come  over  here  to  the  side  im
+
+going  to  grab  the  circles  and  ellipses
+
+tool  hold  ctrl  and  shift  and  click  and
+
+drag  to  create  a  perfectly  round  circle
+
+and  showing  up  as  white  on  my  screen  so
+
+once  youve  done  that  youll  have  to
+
+change  it  to  a  different  color  like
+
+black
+
+bring  the  opacity  down  in  half  grab  the
+
+select  tool
+
+duplicate  it  with  ctrl  d  and  just  hold
+
+ctrl  and  bring  this  over  like  this  what
+
+were  looking  at  here
+
+is  the  intercepting  area  between  these
+
+two  circles
+
+thats  going  to  make  up  the  top  of  the
+
+rocket  so  let  me  select  both  of  those
+
+and  go  to  path  intersection
+
+and  now  im  going  to  create  the  little
+
+fins  on  the  side  so  to  do  that  im
+
+actually  going  to  create  a  triangle  so
+
+to  create  a  triangle
+
+im  going  to  grab  this  the  squares  and
+
+rectangles  tool
+
+control  and  shift  to  create  a  perfectly
+
+symmetrical  square  like  that
+
+make  sure  it  has  sharp  corners  by
+
+clicking  that  button  right  there  if
+
+its  not  if  youre  not  able  to  click
+
+that  button  that  means  you  already  have
+
+sharp  corners  youre  good  to  go
+
+convert  that  to  a  path  by  going  to  path
+
+object  to  path
+
+grab  the  nodes  tool  and  then  just  take
+
+this  node  right  here  in  the  bottom  right
+
+and  press  delete  on  the  keyboard  to  get
+
+rid  of  it
+
+now  select  all  three  of  these  nodes  and
+
+come  up  here  to  where  it  says
+
+make  selected  nodes  corner
+
+like  that  go  back  to  the  select  tool
+
+click  on  the  object  again  so  we  get  the
+
+rotation  handles  and  im  going  to  hold
+
+ctrl  and  just  rotate  this  counter
+
+clockwise  like  this
+
+so  that  its  sitting  up  like  that  im
+
+going  to  position  this  over  here  next  to
+
+the  side  of  the  rocket
+
+you  can  click  on  it  again  to  get  the
+
+scaling  handles  im  just  going  to  scale
+
+it  so  that  it
+
+fits  next  to  the  uh  the  body  of  the
+
+rocket  here
+
+now  i  just  want  to  adjust  this  a  little
+
+bit  so  im  going  to  grab  the  nodes  tool
+
+over  here
+
+im  just  going  to  click  and  drag  this
+
+node  up  here  like  this  and  maybe  ill
+
+take  this  node  and  bring  this  over  to
+
+the  left  as  well
+
+bring  this  down  a  little  bit  maybe  bring
+
+that  up
+
+you  know  what  this  needs  to  be  down  a
+
+little  more  like  that  that  looks  better
+
+okay  so  now  im  just  going  to  duplicate
+
+that
+
+ctrl  d  flip  it  horizontally
+
+hold  ctrl  click  and  drag  it  over  here  to
+
+the  right
+
+and  now  were  going  to  unify  both  of
+
+them  together  by  holding  shift  and
+
+clicking  on  both  of  them  so  we  have  them
+
+both  selected  and  go  to  path
+
+union  and  now  we  can  hold  shift
+
+click  on  this  little  uh  shape  right  here
+
+center  that  up  where  it  says  a  line
+
+come  over  here  to  where  it  says  center
+
+on  vertical  axis
+
+make  sure  its  centered  up  go  to  path
+
+union
+
+and  now  im  just  going  to  close  off  the
+
+bottom  over  here  im  going  to  grab  the
+
+rectangle  tool  and  create  a  little
+
+rectangle  going  over  the  bottom  there
+
+grab  the  select  tool  hold
+
+shift  click  on  the  rocket  and  go  to  path
+
+union  and  now  im  just  going  to  add  a
+
+little  circle  right  here  for  like  a
+
+little
+
+i  guess  its  kind  of  like  a  little
+
+window  im  going to  put  right  there  so
+
+to  do  that
+
+im  going  to  grab  the  circles  and
+
+ellipses  tool  hold  ctrl  and  shift
+
+click  and  drag  to  create  a  perfectly
+
+round  circle  right  there  position  that
+
+right  about  there
+
+or  maybe  right  there  select  both  of
+
+those
+
+and  center  them  up  on  the  vertical  axis
+
+then  duplicate  this  circle  take  that
+
+ctrl  d  let  me  zoom  in  a little  bit
+
+there  we  go  take  the  larger  circle  hold
+
+shift
+
+and  select  the  rocket  as  well  go  to  path
+
+difference  there  we  go  now  we  have  our
+
+window  set
+
+let  me  select  both  of  those  and  go  to
+
+path  union
+
+and  now  our  rocket  is  set  we  just  need
+
+to  place  it  over  the  design  over  here  so
+
+to  do  this  im  just  going  to  place  it
+
+over  here
+
+im  going  to  hold  ctrl  scale  it  down  a
+
+bit
+
+lets  unify  these  two  objects  right  here
+
+the  sky  lets  take  this  guy
+
+hold  shift  take  the  other  side  of  the
+
+sky  and  go  to  path
+
+union  because  i  want  to  make  sure  that
+
+this  rocket  is  centered  up  on  this
+
+design  here  so  let  me  take  the  rocket
+
+hold  shift
+
+click  on  the  sky  and  then  center  it  up
+
+on  the  vertical  axis  like  that
+
+just  bring  this  down  make  it  a little
+
+smaller  like  that
+
+im  going  to  bring  the  opacity  all  the
+
+way  up  and  im  going  to  make  it  the  same
+
+color  as  the  sky  here  so  let  me  grab  the
+
+dropper
+
+and  grab  that  sample  selection  now  i
+
+want  to  create  another  offset  of  this  to
+
+put  above  the
+
+jet  stream  here  so  to  do  that  ctrl  d
+
+make  this  white  hold  shift  click  on
+
+white  again  to  give  this  a  white  stroke
+
+and  then  lower  this  lower  selection  one
+
+step  to  put  it  beneath
+
+the  rocket  there  and  come  over  here  to
+
+the  stroke  style  tab  again
+
+and  adjust  the  width  of  this  so  thats
+
+not  quite
+
+as  wide
+
+im  just  going  to  go  ahead  and  position
+
+this  where  id  like  it  to  be  maybe  down
+
+a little  more
+
+thats  pretty  good  right  there  so  once
+
+weve  done  that  you  can  click  off  it  to
+
+deselect  everything
+
+click  on  the  white  dont  click  on  the
+
+rocket  click  on  the  white  object  beneath
+
+the  rocket  and  go  to  path
+
+stroke  to  path  path  break  apart
+
+ungroup  and  go  to  path
+
+union  and  now  im  going  to  hold  shift
+
+click  on  the  jet  stream  and  go  to  path
+
+difference  and  then  path  break  apart
+
+click  off  it  to  deselect  we  can  get  rid
+
+of  these  objects  now  just  press  delete
+
+on  the  keyboard  to  get  rid  of  them
+
+zoom  back  out  and  as  you  can  see  we  are
+
+finished  we  have  created
+
+our  rocket  logo  design  with  inkscape  if
+
+you  want  now  you  can  go  ahead  and  add
+
+some  text  if  youd  like  otherwise  you
+
+can  just  export  this  design  and  use  it
+
+as  youd  like  so
+
+if  you  have  any  questions  leave  a
+
+comment  below  and  as  always  thanks  for
+
+
+
+watching
+

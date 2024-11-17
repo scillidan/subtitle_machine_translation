@@ -1,0 +1,240 @@
+
+in  a  previous  lesson  we  went  over  how
+
+you  can  use  the  various  Tools  in
+
+inkscape  to  draw  straight  lines  and
+
+curved  lines  but  what  if  you  have  a  line
+
+thats  already  drawn  and  you  just  want
+
+to  smooth  it  out  like  you  see  here
+
+thats  what  well  be  addressing  in
+
+todays  tutorial  so  lets  get  started  so
+
+for  this  demonstration  Im  just  going  to
+
+draw  a  quick  and  sloppy  line  using  the
+
+freehand  lines  tool  which  is  located
+
+over  here  in  the  toolbar  or  you  can
+
+access  it  by  pressing  the  letter  P  on
+
+your  keyboard
+
+Im  going  to  come  up  here  to  the
+
+smoothing  setting  and  bring  that  all  the
+
+way  down  to  zero  and  then  Im  going  to
+
+click  and  drag  on  my  canvas  to  draw  a
+
+really  rough  sloppy  line  like  that
+
+now  if  I  go  to  the  nodes  tool  you  can
+
+see  over  here  theres  a  lot  going  on  in
+
+the  way  of  nodes
+
+and  you  can  see  here  we  have  a  little
+
+bit  of  a  uh  like  a  hard  corner  right
+
+there  thats  okay  though  because  we  can
+
+salvage  this  path  lets  go  to  the  pathfx
+
+menu  by  going  to  path  and  selecting
+
+pathfx
+
+from  the  pathfx  menu  click  the  plus  icon
+
+down  here  in  the  bottom  left  corner  to
+
+add  a  new  path  effect
+
+the  path  effect  were  looking  for  is
+
+called  simplify  so  scroll  through  your
+
+list  here  and  look  for  simplify  or  you
+
+can  type  it  into  the  search  bar  up  here
+
+Im  going  to  click  on  this  checkbox
+
+right  here  to  add  this  path  effect  and
+
+once  thats  added  all  you  have  to  do  is
+
+come  down  here  to  where  it  says  roughly
+
+threshold  and  increase  that  value  so  Im
+
+going  to  hold  a  click  over  this  plus
+
+icon  here  and  depending  on  how  rough
+
+your  path  is  you  may  have  to  use  a
+
+higher  value  so  Im  going  to  hold  a
+
+click  over  this  for  a  while  and  if  you
+
+notice  as  I  do  that  it  is  slowly  but
+
+surely  becoming  a  smoother  path
+
+now  if  I  want  to  increase  it  increase
+
+this  even  more  I  can  come  over  here  to
+
+where  it  says  steps  and  start  increasing
+
+that  as  well  until  I  get  an  even
+
+smoother  path
+
+so  every  path  will  be  different  but
+
+based  on  your  drawing  you  may  have  to
+
+use  a  higher  or  lower  value  here  so  Im
+
+going  to cycle  through  the  options  and
+
+see  what  looks  best  I  think  10  looks
+
+good  right  about  there  and  this  value
+
+looks  good  as  well  so  Im  going  to  leave
+
+this  just  as  it  is
+
+so  as  you  can  see  we  now  have  a  much
+
+smoother  path  and  this  is  a  temporary
+
+effect  if  I  come  up  here  to  where  it
+
+says  simplify  I  can  toggle  the
+
+visibility  of  this  off  and  on  to  get
+
+back  to  my  original  path
+
+if  I  want  to  finalize  this  effect  I  can
+
+come  up  here  to  where  it  says  path  and
+
+go  to  object  to  path  now  if  you  notice
+
+here  although  the  line  is  a  lot  smoother
+
+its  not  quite  perfect  theres  a  little
+
+bit  of  hard  Corners  in  here  but  thats
+
+okay  because  we  can  iron  those  out
+
+manually  lets  come  over  here  to  the
+
+edit  pads  by  nodes  tool  and  if  you
+
+notice  if  you  click  on  this  node  right
+
+here  where  we  have  a  corner  we  have
+
+these  two  handles  coming  off  the  sides
+
+of  it  in  order  for  this  path  in  order
+
+for  this  node  to  be  smooth  we  need  these
+
+handles  to  be  running  parallel  with  each
+
+other  so  Im  going  to  move  these  handles
+
+so  that  theyre  parallel  with  each  other
+
+and  we  have  a  smooth  path  here  a  quicker
+
+way  to  do  that  would  be  to  just  hold
+
+Ctrl  and  click  on  the  Node  and  itll
+
+make  them  automatically  smooth  like  that
+
+and  then  you  can  just  move  the  handles
+
+around  like  that  to  adjust  it  as  needed
+
+Ill  come  over  here  and  do  the  same
+
+thing  Ill  hold  Ctrl  and  click  on  the
+
+Node
+
+and  again  you  can  click  on  the  Node
+
+again  and  adjust  the  handles  as  needed
+
+and  Ill  just  go  through  here  and  adjust
+
+all  of  these  nodes  to  ensure  that  they
+
+are  all  smooth  and  they  all  look  the  way
+
+I  want  them  to  look
+
+and  as  I  do  so  I  will  adjust  the  handle
+
+so  I  have  the  right  Contour  that  I
+
+prefer
+
+now  we  have  smoothed  out  that  path  so
+
+thats  how  you  can  smooth  out  a  rough
+
+path  using  inkscape  if  you  found  this
+
+lesson  useful  then  consider  checking  out
+
+my  inkscape  master  class  its  a
+
+collection  of  over  60  videos  where  I  go
+
+over  all  of  the  tools  and  features  in
+
+inkscape  and  I  explain  what  they  are  and
+
+demonstrate  how  they  work  kind  of  like
+
+how  I  did  in  this  video  we  even  have  a
+
+private  Community  where  you  can  ask
+
+questions  and  get  help  from  me  anytime
+
+you  want  and  best  of  all  theres  no
+
+monthly  membership  fees  you  just  pay  17
+
+one  time  and  youre  in  for  Life  Ill
+
+have  some  information  about  that  down
+
+below  if  you  want  to  check  that  out  as
+
+always  thanks  for  watching
+
+foreign

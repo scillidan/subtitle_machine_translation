@@ -1,0 +1,345 @@
+
+inkscape  is  a  large  application  with
+
+lots  of  advanced
+
+tools  and  features  as  a  new  user  you
+
+have  a  lot  to  learn  and  youre  probably
+
+going  to  make  some  mistakes  along  the
+
+way
+
+in  this  video  ill  be  going  over  some  of
+
+the  more  common  mistakes  new  users  make
+
+so  you  can  avoid  making  them  yourself
+
+
+
+this  is  nick  with  logosbynick.com  and  in
+
+this  video  ill  be  going  over  five  of
+
+the  most  common  mistakes  users  make
+
+when  theyre  new  to  inkscape  and  if
+
+youd  like  to  learn  more  about  how
+
+inkscape  works
+
+be  sure  to  check  out  my  inkscape  master
+
+class  its  a  collection  of  over  60
+
+videos  where  i  go  over  every  tool  and
+
+feature  in  inkscape
+
+and  i  explain  what  it  is  and  demonstrate
+
+how  it  works  ill  have  a  link  in  the
+
+description  of  the  video  if  you  want  to
+
+check  that  out
+
+that  being  said  lets  get  started
+
+one  of  the  most  common  mistakes  i  see
+
+new  users  making  is  trying  to  perform
+
+path  operations  on  objects  that  arent
+
+paths
+
+in  short  path  operations  allow  you  to
+
+take  multiple  objects  and  turn  them  into
+
+new  objects
+
+based  on  how  they  interact  with  each
+
+other  you  can  unify  them
+
+subtract  them  from  each  other  use  the
+
+intersecting  area  to  create  a  new
+
+object  and  more  however  this  only  works
+
+on
+
+individual  objects  that  are  paths  so  if
+
+youre  trying  to  unify
+
+groups  of  objects  for  example  its  not
+
+going  to  work
+
+youll  have  to  ungroup  the  objects  first
+
+same  for  text  objects
+
+and  rasterized  images  these  objects  are
+
+not
+
+paths  therefore  the  path  operations  will
+
+have  no  effect  on  them
+
+another  mistake  you  might  make  if  youre
+
+new  to  inkscape  and  dont  know  any
+
+better
+
+is  neglecting  to  respect  the  power  of
+
+the  edit  paths  by  nodes  tool
+
+the  nodes  tool  allows  you  to  transform
+
+all  of  the  individual  coordinate  points
+
+of  a  vector  object
+
+but  it  also  has  the  power  to  freeze  up
+
+the  software
+
+and  make  it  crash  if  you  try  to  select
+
+objects  with  too  many  nodes
+
+this  is  more  of  a  problem  with  inkscape
+
+than  it  is  with  the  user  so  i  cant
+
+really  blame  someone  for  walking  into
+
+this  problem
+
+but  it  is  something  you  need  to  be  aware
+
+of  regardless  when  working  with  the
+
+nodes  tool
+
+always  be  careful  not  to  select  objects
+
+that  are  really  complex
+
+and  may  have  lots  of  nodes  if  possible
+
+try  to  break  your  objects  apart  into
+
+separate  objects  first
+
+another  mistake  you  might  make  as  a  new
+
+user  to  inkscape  is  forgetting  to
+
+delegate
+
+whether  or  not  you  want  the  strokes  on
+
+your  object  to  scale
+
+with  the  object  every  vector  object  has
+
+two  properties
+
+a  fill  color  and  a  stroke  that  acts  as
+
+an  outline  around  your  object
+
+and  the  stroke  has  its  own  size
+
+independent  of  the  size  of  the  object
+
+if  you  scale  down  your  object  you  may
+
+notice  that  the  thickness  of  the  stroke
+
+scales  down  with  it  if  youd  like  to
+
+maintain  the  thickness  of  the  stroke
+
+regardless  of  how  you  scale  your  object
+
+though  you  can  find  the  setting  for  that
+
+in  the  tool  settings  menu  for  the  select
+
+tool  just  look  for  the  icon  that  says
+
+when  scaling  objects  scale  the  stroke
+
+width  by  the  same  proportion  when  you
+
+hover  your  cursor  over  it
+
+if  youd  like  your  strokes  to  scale
+
+alongside  your  objects
+
+leave  it  enabled  if  youd  like  to
+
+maintain  a  fixed  size  for  your  strokes
+
+regardless  of  scaling
+
+simply  turn  it  off
+
+next  up  on  our  list  of  common  mistakes
+
+you  might  make  as  a  new  inkscape  user  is
+
+forgetting  to  disable  snapping  when
+
+youre  working
+
+snapping  is  a  really  useful  feature  that
+
+allows  you  to  draw  with  precision
+
+for  example  lets  say  you  have  two  boxes
+
+and  you  want  to  place  them
+
+flush  against  each  other  doing  this
+
+freehands  would  prove  difficult  because
+
+it  would  be  nearly  impossible  for  you  to
+
+know
+
+exactly  where  the  edges  are  with
+
+snapping  enabled  though
+
+your  objects  will  snap  directly  against
+
+each  other  once  theyre  in  close
+
+proximity
+
+as  useful  as  this  may  be  there  will  be
+
+some  instances  where  youre  trying  to
+
+create  something
+
+but  the  snaps  keep  getting  in  the  way
+
+and  drawing  your  cursor  away  from  where
+
+you  actually  want  it  to  be
+
+to  disable  snapping  just  click  the
+
+enable  snapping  icon
+
+in  the  top  left  portion  of  your  screen
+
+or  what  i  like  to  do  is  just  press
+
+shift  and  5  on  the  keyboard  as  a
+
+shortcut
+
+the  final  common  mistake  new  inkscape
+
+users  make  has  to  do  with  exporting  png
+
+images
+
+exporting  allows  you  to  generate  usable
+
+copies  of  your  designs  in  the  dot  png
+
+format
+
+this  is  useful  for  exporting  your  logo
+
+for  use  on  a  website
+
+generating  app  icons  graphics  for  a  game
+
+so  on  and  so  forth
+
+one  aspect  of  the  export  menu  that  many
+
+users  overlook  though
+
+is  the  export  area  section  this  is  what
+
+allows  you  to  dictate
+
+exactly  what  gets  exported  the  page
+
+option  will  export  everything  inside  of
+
+your  page  border
+
+the  drawing  option  will  export
+
+everything  inside  and  outside  of  your
+
+page  border
+
+the  selection  option  will  only  export  an
+
+object  you  have  selected
+
+and  the  custom  option  allows  you  to
+
+manually  define  coordinate  points
+
+on  the  x  and  y  axis  of  your  canvas  that
+
+youd  like  to  export
+
+where  a  lot  of  users  run  into  trouble  is
+
+when  they  think  theyre  exporting  one
+
+thing
+
+but  theyre  really  exporting  something
+
+else  because  the  proper  export  area
+
+setting  hasnt  been  selected
+
+this  is  why  its  important  to  always  pay
+
+close  attention  to  the  settings
+
+in  the  export  menu  and  that  should  do  it
+
+for  todays  video
+
+hopefully  these  pointers  will  make  your
+
+learning  experience  a  little  easier
+
+if  you  have  any  questions  or  need
+
+clarification  on  anything  ive  gone  over
+
+in  this  video
+
+just  leave  a  comment  below  and  as  always
+
+thanks  for  watching
+

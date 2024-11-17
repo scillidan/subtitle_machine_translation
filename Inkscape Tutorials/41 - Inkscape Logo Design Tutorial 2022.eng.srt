@@ -1,0 +1,1760 @@
+1
+00:00:00,080 --> 00:00:01,719
+in this tutorial we'll be going over how
+
+2
+00:00:01,719 --> 00:00:03,639
+you can create this mountain range logo
+
+3
+00:00:03,639 --> 00:00:05,560
+with the winding River using nothing but
+
+4
+00:00:05,560 --> 00:00:08,080
+simple shapes in inkscape I should
+
+5
+00:00:08,080 --> 00:00:09,360
+mention though that this tutorial is
+
+6
+00:00:09,360 --> 00:00:11,000
+going to be more of an intermediate to
+
+7
+00:00:11,000 --> 00:00:12,480
+Advanced tutorial and that I'm not going
+
+8
+00:00:12,480 --> 00:00:14,599
+to be going over every single step in
+
+9
+00:00:14,599 --> 00:00:17,080
+excruciating detail so if you're Vaguely
+
+10
+00:00:17,080 --> 00:00:18,439
+Familiar with how the tools work in
+
+11
+00:00:18,439 --> 00:00:19,800
+inkscape then you should be able to
+
+12
+00:00:19,800 --> 00:00:21,279
+follow along with this tutorial
+
+13
+00:00:21,279 --> 00:00:22,680
+otherwise sit back and enjoy what
+
+14
+00:00:22,680 --> 00:00:26,320
+inkscape can do
+
+15
+00:00:29,130 --> 00:00:33,640
+[Music]
+
+16
+00:00:33,640 --> 00:00:35,120
+so to get us started here in inkscape
+
+17
+00:00:35,120 --> 00:00:36,680
+let's start out by making sure we are
+
+18
+00:00:36,680 --> 00:00:38,879
+working with a similar layout by coming
+
+19
+00:00:38,879 --> 00:00:41,160
+up here to where it says View and having
+
+20
+00:00:41,160 --> 00:00:43,559
+WID screen disabled now for some reason
+
+21
+00:00:43,559 --> 00:00:44,879
+I think some of the newer versions of
+
+22
+00:00:44,879 --> 00:00:46,879
+inkscape automatically start out in
+
+23
+00:00:46,879 --> 00:00:48,360
+widescreen mode so if you have that
+
+24
+00:00:48,360 --> 00:00:50,199
+enabled just go ahead and disable that
+
+25
+00:00:50,199 --> 00:00:51,960
+and your layout should look the same as
+
+26
+00:00:51,960 --> 00:00:54,359
+mine here on the screen so the first
+
+27
+00:00:54,359 --> 00:00:55,719
+thing I'm going to do is I'm going to
+
+28
+00:00:55,719 --> 00:00:57,600
+create the shape or the emblem for the
+
+29
+00:00:57,600 --> 00:00:59,239
+logo and I'm going to use the stars and
+
+30
+00:00:59,239 --> 00:01:01,320
+polygons tool for that I'm going to use
+
+31
+00:01:01,320 --> 00:01:02,920
+the polygon setting with all of these
+
+32
+00:01:02,920 --> 00:01:05,119
+input values here and I'm going to click
+
+33
+00:01:05,119 --> 00:01:07,080
+and drag upward with my mouse on the
+
+34
+00:01:07,080 --> 00:01:08,720
+canvas while holding control and shift
+
+35
+00:01:08,720 --> 00:01:11,240
+so I can get a six-sided shape like that
+
+36
+00:01:11,240 --> 00:01:12,759
+where the points go vertically up and
+
+37
+00:01:12,759 --> 00:01:15,000
+down as you can see there let me make
+
+38
+00:01:15,000 --> 00:01:15,960
+that a little
+
+39
+00:01:15,960 --> 00:01:17,720
+larger okay I'm going to grab my
+
+40
+00:01:17,720 --> 00:01:19,640
+selection tool move this up towards the
+
+41
+00:01:19,640 --> 00:01:21,520
+center of the page a little more and I'm
+
+42
+00:01:21,520 --> 00:01:23,600
+going to convert this to a path by going
+
+43
+00:01:23,600 --> 00:01:26,960
+to path object to path and then I'm
+
+44
+00:01:26,960 --> 00:01:28,560
+going to grab the edit paths by nodes
+
+45
+00:01:28,560 --> 00:01:30,360
+tool and I want to take these two nodes
+
+46
+00:01:30,360 --> 00:01:31,840
+right here and I'm going to enable the
+
+47
+00:01:31,840 --> 00:01:33,479
+transformation handles and I'm just
+
+48
+00:01:33,479 --> 00:01:35,159
+going to scale these nodes down a little
+
+49
+00:01:35,159 --> 00:01:36,799
+bit like
+
+50
+00:01:36,799 --> 00:01:38,920
+that okay then I'm going to take these
+
+51
+00:01:38,920 --> 00:01:41,040
+nodes over here and I'm going to scale
+
+52
+00:01:41,040 --> 00:01:43,280
+these down like that I'm holding control
+
+53
+00:01:43,280 --> 00:01:45,200
+and shift while I do this to lock the
+
+54
+00:01:45,200 --> 00:01:47,520
+the uh aspect ratio and then I'm going
+
+55
+00:01:47,520 --> 00:01:50,240
+to move these nodes up like that and now
+
+56
+00:01:50,240 --> 00:01:51,759
+we're starting to get the shape of our
+
+57
+00:01:51,759 --> 00:01:53,439
+emblem I may even pull this out a little
+
+58
+00:01:53,439 --> 00:01:54,719
+bit you may have to tweak this a little
+
+59
+00:01:54,719 --> 00:01:57,640
+bit just to get it how you like it that
+
+60
+00:01:57,640 --> 00:01:58,799
+right there is about what I'm going for
+
+61
+00:01:58,799 --> 00:02:00,399
+so I'm going to leave it as it is
+
+62
+00:02:00,399 --> 00:02:01,920
+I'm going to turn off my transformation
+
+63
+00:02:01,920 --> 00:02:04,200
+handles and then grab the selection tool
+
+64
+00:02:04,200 --> 00:02:05,799
+and let me open up the fill and stroke
+
+65
+00:02:05,799 --> 00:02:08,399
+menu which is located over here and I
+
+66
+00:02:08,399 --> 00:02:10,080
+will bring down the opacity of this a
+
+67
+00:02:10,080 --> 00:02:11,840
+little bit so I could see through the
+
+68
+00:02:11,840 --> 00:02:14,239
+object as I'm working with it so what I
+
+69
+00:02:14,239 --> 00:02:16,959
+want to do now is round off the corners
+
+70
+00:02:16,959 --> 00:02:18,720
+here and to make these Corners rounded
+
+71
+00:02:18,720 --> 00:02:20,080
+I'm going to use a path effect for that
+
+72
+00:02:20,080 --> 00:02:21,519
+so I'll come up here to where it says
+
+73
+00:02:21,519 --> 00:02:24,720
+path choose path effects click the plus
+
+74
+00:02:24,720 --> 00:02:26,640
+icon down here to add new path effect
+
+75
+00:02:26,640 --> 00:02:28,800
+and the path effect I am looking for is
+
+76
+00:02:28,800 --> 00:02:31,239
+Corners so I'm just going to type in
+
+77
+00:02:31,239 --> 00:02:33,879
+corners and there it is the corners path
+
+78
+00:02:33,879 --> 00:02:36,640
+effect I'm going to grab the nodes tool
+
+79
+00:02:36,640 --> 00:02:38,080
+I'm going to click and drag over all of
+
+80
+00:02:38,080 --> 00:02:39,319
+the nodes right here and I'm going to
+
+81
+00:02:39,319 --> 00:02:41,680
+pull down one of these green handles to
+
+82
+00:02:41,680 --> 00:02:43,519
+make these Corners rounded and you can't
+
+83
+00:02:43,519 --> 00:02:45,680
+really see it happening as it happens
+
+84
+00:02:45,680 --> 00:02:47,200
+probably not on my screen but if you see
+
+85
+00:02:47,200 --> 00:02:48,519
+on your screen there should be a blue
+
+86
+00:02:48,519 --> 00:02:51,159
+outline indicating the degree to which
+
+87
+00:02:51,159 --> 00:02:52,519
+the corners are being rounded right
+
+88
+00:02:52,519 --> 00:02:54,400
+there and if you release the click you
+
+89
+00:02:54,400 --> 00:02:56,000
+could see now we have some rounded
+
+90
+00:02:56,000 --> 00:02:57,159
+Corners there which is what I'm going
+
+91
+00:02:57,159 --> 00:02:59,920
+for now I want this top half of the the
+
+92
+00:02:59,920 --> 00:03:01,400
+design to be completely rounded so what
+
+93
+00:03:01,400 --> 00:03:02,599
+I'm going to do is I'm going to deselect
+
+94
+00:03:02,599 --> 00:03:04,440
+these nodes and I'm going to take just
+
+95
+00:03:04,440 --> 00:03:06,519
+this node right here oops click the
+
+96
+00:03:06,519 --> 00:03:08,080
+wrong thing I'm going to take just this
+
+97
+00:03:08,080 --> 00:03:09,239
+node right here and I'm going to bring
+
+98
+00:03:09,239 --> 00:03:12,080
+this all the way down like that so we
+
+99
+00:03:12,080 --> 00:03:13,360
+end up with something like that right
+
+100
+00:03:13,360 --> 00:03:15,440
+there and now I will finalize this by
+
+101
+00:03:15,440 --> 00:03:19,519
+going to path object to path press one
+
+102
+00:03:19,519 --> 00:03:21,239
+to zoom back out to
+
+103
+00:03:21,239 --> 00:03:24,239
+100% and maybe even let me just make
+
+104
+00:03:24,239 --> 00:03:27,879
+this a little a little uh add a little
+
+105
+00:03:27,879 --> 00:03:30,200
+more vertical height to it like that
+
+106
+00:03:30,200 --> 00:03:31,640
+this is just a personal preference I'm
+
+107
+00:03:31,640 --> 00:03:34,319
+just eyeballing this as I go along okay
+
+108
+00:03:34,319 --> 00:03:36,159
+that's looking good right there so now
+
+109
+00:03:36,159 --> 00:03:37,599
+I'm going to create some Mountains for
+
+110
+00:03:37,599 --> 00:03:39,480
+the background here to create the
+
+111
+00:03:39,480 --> 00:03:40,640
+mountains I'm going to use the squares
+
+112
+00:03:40,640 --> 00:03:42,640
+and rectangles tool I'm going to click
+
+113
+00:03:42,640 --> 00:03:44,959
+and drag I'm going to hold control and
+
+114
+00:03:44,959 --> 00:03:46,239
+shift while clicking and dragging to
+
+115
+00:03:46,239 --> 00:03:48,200
+create a perfectly symmetrical square
+
+116
+00:03:48,200 --> 00:03:49,799
+like that and I want to give this
+
+117
+00:03:49,799 --> 00:03:51,040
+rounded Corners a little bit I'm going
+
+118
+00:03:51,040 --> 00:03:52,400
+to make these Corners a little rounded
+
+119
+00:03:52,400 --> 00:03:55,159
+like that not much just a little bit and
+
+120
+00:03:55,159 --> 00:03:57,519
+then I will grab the selection tool and
+
+121
+00:03:57,519 --> 00:03:59,640
+rotate this around like that I'm going
+
+122
+00:03:59,640 --> 00:04:01,519
+to hold control while rotating so we get
+
+123
+00:04:01,519 --> 00:04:04,239
+it nice and vertical like that and I'm
+
+124
+00:04:04,239 --> 00:04:05,480
+going to give this a different color
+
+125
+00:04:05,480 --> 00:04:07,000
+just so I could differentiate it up
+
+126
+00:04:07,000 --> 00:04:08,879
+against the emblem over here I'm going
+
+127
+00:04:08,879 --> 00:04:10,879
+to duplicate this a few times to make
+
+128
+00:04:10,879 --> 00:04:12,480
+some mountains in the background so I'm
+
+129
+00:04:12,480 --> 00:04:14,799
+going to press control D to duplicate
+
+130
+00:04:14,799 --> 00:04:17,238
+I'll put this one up here control
+
+131
+00:04:17,238 --> 00:04:20,120
+duplicate again put this one down here
+
+132
+00:04:20,120 --> 00:04:22,880
+and then another copy over here and
+
+133
+00:04:22,880 --> 00:04:24,520
+that's about what I'm going for right
+
+134
+00:04:24,520 --> 00:04:25,880
+there so I'm going to shift click all of
+
+135
+00:04:25,880 --> 00:04:27,479
+these so I have them all
+
+136
+00:04:27,479 --> 00:04:29,960
+selected and I will unify them all Al
+
+137
+00:04:29,960 --> 00:04:33,039
+together by going to path
+
+138
+00:04:33,039 --> 00:04:35,320
+Union and now I'm going to take a
+
+139
+00:04:35,320 --> 00:04:36,600
+duplicate of the emblem here I'm going
+
+140
+00:04:36,600 --> 00:04:38,479
+to select the emblem control D to
+
+141
+00:04:38,479 --> 00:04:40,759
+duplicate it hold shift click on this
+
+142
+00:04:40,759 --> 00:04:41,880
+shape and we're going to take the
+
+143
+00:04:41,880 --> 00:04:44,400
+intersecting area here by going to path
+
+144
+00:04:44,400 --> 00:04:46,039
+and selecting
+
+145
+00:04:46,039 --> 00:04:48,039
+intersection and now I'm going to add a
+
+146
+00:04:48,039 --> 00:04:50,080
+little bit of a uh a shadow effect to
+
+147
+00:04:50,080 --> 00:04:52,479
+the corners of these mountains here let
+
+148
+00:04:52,479 --> 00:04:56,120
+me grab the pen tool let me enable
+
+149
+00:04:56,120 --> 00:04:58,120
+snapping and then I'm going to snap to
+
+150
+00:04:58,120 --> 00:04:59,440
+this corner right here to create a point
+
+151
+00:04:59,440 --> 00:05:01,120
+I'm going to hold control and bring this
+
+152
+00:05:01,120 --> 00:05:02,800
+line I'm going to bring this line down
+
+153
+00:05:02,800 --> 00:05:05,280
+to the right to make sure it's parallel
+
+154
+00:05:05,280 --> 00:05:07,039
+with this line right here this angle of
+
+155
+00:05:07,039 --> 00:05:08,120
+this mountain I'm going to bring it the
+
+156
+00:05:08,120 --> 00:05:10,919
+opposite way like that then click and
+
+157
+00:05:10,919 --> 00:05:12,400
+I'll bring this one up here I'm letting
+
+158
+00:05:12,400 --> 00:05:13,880
+go of control at this point I'll bring
+
+159
+00:05:13,880 --> 00:05:16,680
+this one up here click again and then
+
+160
+00:05:16,680 --> 00:05:19,199
+back to the starting
+
+161
+00:05:19,199 --> 00:05:21,520
+point okay so I had a little technical
+
+162
+00:05:21,520 --> 00:05:23,280
+difficulty there I had to redo that one
+
+163
+00:05:23,280 --> 00:05:24,800
+okay let me grab a duplicate of this
+
+164
+00:05:24,800 --> 00:05:28,919
+copy now contrl D put this over here put
+
+165
+00:05:28,919 --> 00:05:30,800
+this one over here
+
+166
+00:05:30,800 --> 00:05:32,280
+and there we go now I want to shift
+
+167
+00:05:32,280 --> 00:05:34,560
+click all of these to select them unify
+
+168
+00:05:34,560 --> 00:05:37,240
+them together path Union and then
+
+169
+00:05:37,240 --> 00:05:38,639
+subtract them from the mountains hold
+
+170
+00:05:38,639 --> 00:05:42,440
+shift click on the mountains path
+
+171
+00:05:42,440 --> 00:05:43,840
+difference and there we go that right
+
+172
+00:05:43,840 --> 00:05:46,280
+there is the effect I'm going for okay
+
+173
+00:05:46,280 --> 00:05:47,759
+so now I'm going to create I'm going to
+
+174
+00:05:47,759 --> 00:05:50,319
+create a little winding River to place
+
+175
+00:05:50,319 --> 00:05:52,560
+right here in the Forefront of the uh
+
+176
+00:05:52,560 --> 00:05:54,560
+design here so let me turn off snapping
+
+177
+00:05:54,560 --> 00:05:57,840
+first let me grab the pen tool and for
+
+178
+00:05:57,840 --> 00:05:58,800
+this we're going to get a little
+
+179
+00:05:58,800 --> 00:06:00,919
+creative I'm going to create just one
+
+180
+00:06:00,919 --> 00:06:02,319
+vertical line like this I'm going to
+
+181
+00:06:02,319 --> 00:06:04,240
+click once to create a point hold
+
+182
+00:06:04,240 --> 00:06:06,160
+control put this line down here like
+
+183
+00:06:06,160 --> 00:06:09,360
+that click again and press enter and
+
+184
+00:06:09,360 --> 00:06:11,919
+grab the nodes tool and give this line a
+
+185
+00:06:11,919 --> 00:06:13,039
+little bit of a curve I'm going to
+
+186
+00:06:13,039 --> 00:06:14,639
+select these handles over here and curve
+
+187
+00:06:14,639 --> 00:06:17,240
+this out like
+
+188
+00:06:19,199 --> 00:06:22,880
+that there we go grab the selection tool
+
+189
+00:06:22,880 --> 00:06:24,240
+and duplicate this and I want to
+
+190
+00:06:24,240 --> 00:06:26,639
+position this in such a way that the
+
+191
+00:06:26,639 --> 00:06:29,440
+space between the two lines represents
+
+192
+00:06:29,440 --> 00:06:31,440
+the shape kind of like a winding River
+
+193
+00:06:31,440 --> 00:06:32,319
+now we're going to change the
+
+194
+00:06:32,319 --> 00:06:33,680
+perspective of this to make it look like
+
+195
+00:06:33,680 --> 00:06:35,240
+it's actually part of the landscape here
+
+196
+00:06:35,240 --> 00:06:36,639
+but for now we're just trying to get
+
+197
+00:06:36,639 --> 00:06:39,039
+this this shape right here between these
+
+198
+00:06:39,039 --> 00:06:41,560
+two lines and once you have that shape
+
+199
+00:06:41,560 --> 00:06:43,919
+like that select both of them convert
+
+200
+00:06:43,919 --> 00:06:46,919
+these Strokes to a path path stroke to
+
+201
+00:06:46,919 --> 00:06:49,440
+path and then unify them together go to
+
+202
+00:06:49,440 --> 00:06:52,759
+path Union and now break them apart by
+
+203
+00:06:52,759 --> 00:06:55,639
+going to path break apart and now if I
+
+204
+00:06:55,639 --> 00:06:57,120
+click off of that to deselect it you can
+
+205
+00:06:57,120 --> 00:06:58,440
+see this has been broken up into
+
+206
+00:06:58,440 --> 00:07:00,599
+separate pieces and I want this piece
+
+207
+00:07:00,599 --> 00:07:02,120
+over here I'm G to press delete on the
+
+208
+00:07:02,120 --> 00:07:04,080
+keyboard to get rid of that and we're
+
+209
+00:07:04,080 --> 00:07:05,319
+looking for this piece right here this
+
+210
+00:07:05,319 --> 00:07:07,240
+is what we want to work with so let me
+
+211
+00:07:07,240 --> 00:07:08,840
+go back to my fill and stroke menu and
+
+212
+00:07:08,840 --> 00:07:10,319
+bring down the opacity of this a little
+
+213
+00:07:10,319 --> 00:07:12,639
+bit so I can see it better I'm going to
+
+214
+00:07:12,639 --> 00:07:13,840
+place this over here and now I'm just
+
+215
+00:07:13,840 --> 00:07:15,560
+going to use the transformation handles
+
+216
+00:07:15,560 --> 00:07:19,160
+to uh scale and Shear this as needed I'm
+
+217
+00:07:19,160 --> 00:07:20,680
+just going to make this shorter like
+
+218
+00:07:20,680 --> 00:07:22,800
+that maybe even scale this
+
+219
+00:07:22,800 --> 00:07:25,960
+up like that there we
+
+220
+00:07:25,960 --> 00:07:29,520
+go maybe even make this a little wider
+
+221
+00:07:29,520 --> 00:07:31,400
+so that it stretches out more across the
+
+222
+00:07:31,400 --> 00:07:34,039
+design okay that looks
+
+223
+00:07:34,039 --> 00:07:36,319
+good and if you really want to sell this
+
+224
+00:07:36,319 --> 00:07:38,039
+effect you can use the perspective path
+
+225
+00:07:38,039 --> 00:07:39,160
+effects so let me come over here to the
+
+226
+00:07:39,160 --> 00:07:41,319
+path effects menu let me add A New Path
+
+227
+00:07:41,319 --> 00:07:43,160
+effect and for this one I'm looking for
+
+228
+00:07:43,160 --> 00:07:44,639
+perspective envelope so I'm going to
+
+229
+00:07:44,639 --> 00:07:47,960
+type in PR RS and there it is
+
+230
+00:07:47,960 --> 00:07:50,120
+perspective and now down here where it
+
+231
+00:07:50,120 --> 00:07:52,080
+says type make sure you have perspective
+
+232
+00:07:52,080 --> 00:07:53,960
+enabled and I'm going to enable this one
+
+233
+00:07:53,960 --> 00:07:55,319
+right here that says mirror movements
+
+234
+00:07:55,319 --> 00:07:57,360
+and vertical and now I can grab the
+
+235
+00:07:57,360 --> 00:07:59,000
+nodes tool and I should be able to take
+
+236
+00:07:59,000 --> 00:08:00,759
+these two right here and bring this up
+
+237
+00:08:00,759 --> 00:08:02,360
+like that and as you can see we're
+
+238
+00:08:02,360 --> 00:08:04,319
+changing the perspective of this River
+
+239
+00:08:04,319 --> 00:08:06,080
+here to make it look like it's uh
+
+240
+00:08:06,080 --> 00:08:07,639
+disappearing into the vantage point
+
+241
+00:08:07,639 --> 00:08:09,639
+there now I'm going to convert that to a
+
+242
+00:08:09,639 --> 00:08:13,080
+path by going to path object to path
+
+243
+00:08:13,080 --> 00:08:15,000
+make that a little bit bigger so that it
+
+244
+00:08:15,000 --> 00:08:16,400
+stretches Out Among the bottom of the
+
+245
+00:08:16,400 --> 00:08:17,400
+design
+
+246
+00:08:17,400 --> 00:08:20,599
+here and now I will fit that into the
+
+247
+00:08:20,599 --> 00:08:23,000
+emblem I may even make this a little bit
+
+248
+00:08:23,000 --> 00:08:26,000
+whoops I may even make this a little bit
+
+249
+00:08:26,000 --> 00:08:29,080
+um wider like that I want the start of
+
+250
+00:08:29,080 --> 00:08:31,159
+this to be closer to this corner right
+
+251
+00:08:31,159 --> 00:08:32,360
+here so that looks good as it is I'm
+
+252
+00:08:32,360 --> 00:08:34,120
+going to leave that I'm going to take
+
+253
+00:08:34,120 --> 00:08:36,839
+this emblem shape right here control D
+
+254
+00:08:36,839 --> 00:08:39,080
+to duplicate it shift click the river
+
+255
+00:08:39,080 --> 00:08:42,679
+and go to path intersection and there we
+
+256
+00:08:42,679 --> 00:08:45,160
+go now we have that right there okay so
+
+257
+00:08:45,160 --> 00:08:47,399
+let's create a little pine tree to put
+
+258
+00:08:47,399 --> 00:08:48,839
+right here in the Forefront of the
+
+259
+00:08:48,839 --> 00:08:50,680
+design to do that I'm going to grab the
+
+260
+00:08:50,680 --> 00:08:53,200
+squares and rectangles tool I want to
+
+261
+00:08:53,200 --> 00:08:54,959
+make make sure I have sharp
+
+262
+00:08:54,959 --> 00:08:57,240
+Corners click and drag to create a
+
+263
+00:08:57,240 --> 00:08:59,800
+square like that convert it to a path
+
+264
+00:08:59,800 --> 00:09:01,200
+again make sure you have sharp Corners
+
+265
+00:09:01,200 --> 00:09:04,640
+here path object to path grab the nodes
+
+266
+00:09:04,640 --> 00:09:06,240
+tool I'm going to delete this node right
+
+267
+00:09:06,240 --> 00:09:08,160
+here by pressing delete on the keyboard
+
+268
+00:09:08,160 --> 00:09:10,000
+and then I'll take these nodes over here
+
+269
+00:09:10,000 --> 00:09:11,880
+and I'll make those Corners sharp like
+
+270
+00:09:11,880 --> 00:09:13,880
+that and now I can grab the selection
+
+271
+00:09:13,880 --> 00:09:15,760
+tool and rotate this back around while
+
+272
+00:09:15,760 --> 00:09:18,240
+holding control so we lock it onto 15°
+
+273
+00:09:18,240 --> 00:09:19,839
+angles like that we want this nice and
+
+274
+00:09:19,839 --> 00:09:22,200
+flat and upright and I'm just going to
+
+275
+00:09:22,200 --> 00:09:24,399
+make this a little narrower I'll
+
+276
+00:09:24,399 --> 00:09:26,680
+duplicate that bring this one down here
+
+277
+00:09:26,680 --> 00:09:28,360
+make this one a little
+
+278
+00:09:28,360 --> 00:09:30,959
+bigger and then I'll duplicate that and
+
+279
+00:09:30,959 --> 00:09:32,320
+I'll bring this one down here and make
+
+280
+00:09:32,320 --> 00:09:33,640
+that one a little bigger like that I
+
+281
+00:09:33,640 --> 00:09:35,120
+should probably be using darker colors
+
+282
+00:09:35,120 --> 00:09:36,399
+so you can see this better let me go
+
+283
+00:09:36,399 --> 00:09:39,360
+with blue there we
+
+284
+00:09:39,360 --> 00:09:42,240
+go and there we go I think that right
+
+285
+00:09:42,240 --> 00:09:43,279
+there looks good so I'm going to use
+
+286
+00:09:43,279 --> 00:09:45,240
+that as it is I'm going to select all of
+
+287
+00:09:45,240 --> 00:09:49,079
+those path Union and there we go there's
+
+288
+00:09:49,079 --> 00:09:50,920
+our tree so let me scale this down and
+
+289
+00:09:50,920 --> 00:09:52,440
+place this at the front of the design
+
+290
+00:09:52,440 --> 00:09:54,240
+over
+
+291
+00:09:54,240 --> 00:09:56,959
+here I may even place
+
+292
+00:09:56,959 --> 00:09:59,000
+this I think right about here would be
+
+293
+00:09:59,000 --> 00:10:00,680
+good I want this to be I want the tip of
+
+294
+00:10:00,680 --> 00:10:02,760
+this tree to go to the the edge of the
+
+295
+00:10:02,760 --> 00:10:05,440
+river right here whoops what happened
+
+296
+00:10:05,440 --> 00:10:06,880
+okay there we
+
+297
+00:10:06,880 --> 00:10:10,839
+go I'm going to place that right about
+
+298
+00:10:10,839 --> 00:10:13,760
+there okay that's good enough so let me
+
+299
+00:10:13,760 --> 00:10:16,040
+duplicate the emblem and take the
+
+300
+00:10:16,040 --> 00:10:19,720
+intersecting area there
+
+301
+00:10:19,720 --> 00:10:21,640
+intersection and let me give this thing
+
+302
+00:10:21,640 --> 00:10:22,800
+some color so we could start
+
+303
+00:10:22,800 --> 00:10:24,360
+differentiating the elements here let me
+
+304
+00:10:24,360 --> 00:10:26,480
+select everything we can now bring the
+
+305
+00:10:26,480 --> 00:10:28,120
+opacity up and start adding in some
+
+306
+00:10:28,120 --> 00:10:29,560
+color so I want the mountain range here
+
+307
+00:10:29,560 --> 00:10:31,200
+to be a dark shade of blue actually I'm
+
+308
+00:10:31,200 --> 00:10:32,360
+want to start with the background here I
+
+309
+00:10:32,360 --> 00:10:33,720
+want the background to be a light shade
+
+310
+00:10:33,720 --> 00:10:37,279
+of blue I'm going to start with uh that
+
+311
+00:10:37,279 --> 00:10:39,560
+shade right there maybe that and then
+
+312
+00:10:39,560 --> 00:10:40,959
+I'll take this and I'll make this a dark
+
+313
+00:10:40,959 --> 00:10:43,920
+blue like that and I want the tree to be
+
+314
+00:10:43,920 --> 00:10:45,440
+that same dark shade of blue so I'm
+
+315
+00:10:45,440 --> 00:10:47,519
+going to grab the dropper tool which is
+
+316
+00:10:47,519 --> 00:10:49,240
+located over here I just like to use the
+
+317
+00:10:49,240 --> 00:10:51,120
+letter d on the keyboard D for dropper
+
+318
+00:10:51,120 --> 00:10:53,160
+it's easy to remember and there you go
+
+319
+00:10:53,160 --> 00:10:54,680
+and S for selection back to the
+
+320
+00:10:54,680 --> 00:10:57,560
+selection tool grab the uh the river
+
+321
+00:10:57,560 --> 00:10:58,639
+here I'm going to make this the same
+
+322
+00:10:58,639 --> 00:11:01,079
+color as this right here D for the
+
+323
+00:11:01,079 --> 00:11:04,600
+dropper s for selection there we go and
+
+324
+00:11:04,600 --> 00:11:07,040
+now I'm going to place us a sun a little
+
+325
+00:11:07,040 --> 00:11:09,040
+bit of uh sunrays in the background here
+
+326
+00:11:09,040 --> 00:11:10,360
+so let me grab these circles and
+
+327
+00:11:10,360 --> 00:11:12,839
+ellipses tool click and drag to create a
+
+328
+00:11:12,839 --> 00:11:15,800
+perfectly round circle like that place
+
+329
+00:11:15,800 --> 00:11:17,079
+it in the center of the design I'm going
+
+330
+00:11:17,079 --> 00:11:19,639
+to make this white so we can see it
+
+331
+00:11:19,639 --> 00:11:21,680
+better and that's actually the color I'm
+
+332
+00:11:21,680 --> 00:11:22,880
+going to use for the Sun so let me
+
+333
+00:11:22,880 --> 00:11:24,360
+Center this up I'm going to shift click
+
+334
+00:11:24,360 --> 00:11:26,320
+both of these open up the aligned
+
+335
+00:11:26,320 --> 00:11:28,000
+distribute menu which is over here we
+
+336
+00:11:28,000 --> 00:11:30,279
+can press control shift and to access
+
+337
+00:11:30,279 --> 00:11:32,639
+that and from the relative two I want
+
+338
+00:11:32,639 --> 00:11:34,200
+last selected chosen I'm just going to
+
+339
+00:11:34,200 --> 00:11:36,399
+Center that up on the vertical axis like
+
+340
+00:11:36,399 --> 00:11:39,000
+that now let me make this a little bit
+
+341
+00:11:39,000 --> 00:11:41,360
+bigger and I'm going to lower this down
+
+342
+00:11:41,360 --> 00:11:42,920
+beneath the mountains now you can lower
+
+343
+00:11:42,920 --> 00:11:44,560
+you can raise and lower objects using
+
+344
+00:11:44,560 --> 00:11:46,200
+these buttons I just like to use the
+
+345
+00:11:46,200 --> 00:11:47,680
+page up and page down keys on the
+
+346
+00:11:47,680 --> 00:11:49,560
+keyboard so I'm going to press page down
+
+347
+00:11:49,560 --> 00:11:52,360
+to lower that there we go and now I'm
+
+348
+00:11:52,360 --> 00:11:53,639
+going to make a duplicate copy of this
+
+349
+00:11:53,639 --> 00:11:55,480
+I'm going to press controll D I'm going
+
+350
+00:11:55,480 --> 00:11:57,959
+to make this one
+
+351
+00:11:57,959 --> 00:12:00,760
+bigger there here we go and I'm going to
+
+352
+00:12:00,760 --> 00:12:03,240
+make this one a lighter shade of blue
+
+353
+00:12:03,240 --> 00:12:04,920
+again pressing D on the keyboard to grab
+
+354
+00:12:04,920 --> 00:12:07,399
+the dropper grab the uh fill and stroke
+
+355
+00:12:07,399 --> 00:12:11,480
+menu make this one a lot lighter oops
+
+356
+00:12:11,480 --> 00:12:13,079
+and then I'll just take this and page
+
+357
+00:12:13,079 --> 00:12:16,040
+down and lower it beneath like that and
+
+358
+00:12:16,040 --> 00:12:17,920
+I'll maybe even make that one a little
+
+359
+00:12:17,920 --> 00:12:20,720
+darker okay there we go now I'm going to
+
+360
+00:12:20,720 --> 00:12:22,959
+duplicate this circle again controll D
+
+361
+00:12:22,959 --> 00:12:25,279
+I'll make this one a little
+
+362
+00:12:25,279 --> 00:12:27,560
+darker maybe even add a little more blue
+
+363
+00:12:27,560 --> 00:12:30,480
+into it like that and I'll make this
+
+364
+00:12:30,480 --> 00:12:32,680
+larger and I'm going to lower this down
+
+365
+00:12:32,680 --> 00:12:34,880
+by pressing page the the page down key
+
+366
+00:12:34,880 --> 00:12:35,760
+like
+
+367
+00:12:35,760 --> 00:12:37,800
+that there we go I'm going to make this
+
+368
+00:12:37,800 --> 00:12:39,399
+about this big and then I'll make this
+
+369
+00:12:39,399 --> 00:12:41,560
+one about this
+
+370
+00:12:41,560 --> 00:12:43,639
+big and at this point we're just trying
+
+371
+00:12:43,639 --> 00:12:46,279
+to size things up to make sure it fits
+
+372
+00:12:46,279 --> 00:12:48,160
+nicely and then I'm going to make this
+
+373
+00:12:48,160 --> 00:12:49,720
+emblem I want this to be a darker shade
+
+374
+00:12:49,720 --> 00:12:51,519
+of blue than this so let me press D on
+
+375
+00:12:51,519 --> 00:12:53,680
+the keyboard to grab the dropper and
+
+376
+00:12:53,680 --> 00:12:58,120
+I'll make this one a little darker
+
+377
+00:13:04,440 --> 00:13:06,120
+okay that looks better now I'm going to
+
+378
+00:13:06,120 --> 00:13:07,560
+update the river color to match this
+
+379
+00:13:07,560 --> 00:13:09,120
+shade of blue right here so let me just
+
+380
+00:13:09,120 --> 00:13:11,120
+grab the dropper and do that and now I'm
+
+381
+00:13:11,120 --> 00:13:12,839
+going to take the intersecting area of
+
+382
+00:13:12,839 --> 00:13:14,160
+this circle right here so let me grab
+
+383
+00:13:14,160 --> 00:13:16,839
+the emblem and duplicate that shift
+
+384
+00:13:16,839 --> 00:13:20,399
+click the circle path
+
+385
+00:13:20,399 --> 00:13:22,240
+intersection there we go and as you can
+
+386
+00:13:22,240 --> 00:13:23,920
+see the design is coming together here
+
+387
+00:13:23,920 --> 00:13:27,000
+the one final last step would be to add
+
+388
+00:13:27,000 --> 00:13:28,360
+a little bit of a white border going
+
+389
+00:13:28,360 --> 00:13:30,440
+around the outside and a drop shadow
+
+390
+00:13:30,440 --> 00:13:31,959
+beneath it so it really pops off the
+
+391
+00:13:31,959 --> 00:13:34,199
+page so to do that let me select just
+
+392
+00:13:34,199 --> 00:13:37,720
+the emblem right here and go to path and
+
+393
+00:13:37,720 --> 00:13:40,120
+choose uh linked
+
+394
+00:13:40,120 --> 00:13:42,639
+offset and I want to make this offset a
+
+395
+00:13:42,639 --> 00:13:44,160
+totally different color so we can see it
+
+396
+00:13:44,160 --> 00:13:46,399
+better I'm going to choose red I'm going
+
+397
+00:13:46,399 --> 00:13:47,959
+to grab the node tool and there should
+
+398
+00:13:47,959 --> 00:13:49,480
+be this little node up top over here and
+
+399
+00:13:49,480 --> 00:13:50,839
+you should be able to grab this and pull
+
+400
+00:13:50,839 --> 00:13:53,440
+this out like that and I want the border
+
+401
+00:13:53,440 --> 00:13:55,959
+of this emblem to be about about that
+
+402
+00:13:55,959 --> 00:13:59,399
+big I can finalize that by going to path
+
+403
+00:13:59,399 --> 00:14:02,199
+object to path and then I will make that
+
+404
+00:14:02,199 --> 00:14:04,639
+white grab the selection tool and now
+
+405
+00:14:04,639 --> 00:14:06,160
+I'm going to duplicate that by pressing
+
+406
+00:14:06,160 --> 00:14:08,680
+control D and I'm going to make this one
+
+407
+00:14:08,680 --> 00:14:11,560
+black and now I can use my page down key
+
+408
+00:14:11,560 --> 00:14:13,240
+to lower that down and then I can use my
+
+409
+00:14:13,240 --> 00:14:16,880
+arrow keys to bring this down a little
+
+410
+00:14:17,120 --> 00:14:19,839
+bit there we go I'll give that a blur
+
+411
+00:14:19,839 --> 00:14:21,360
+and I'll bring down the opacity of that
+
+412
+00:14:21,360 --> 00:14:23,360
+blur like that and now I'll have to
+
+413
+00:14:23,360 --> 00:14:25,519
+deselect it and select it again and now
+
+414
+00:14:25,519 --> 00:14:26,800
+I can use my arrow keys to move that
+
+415
+00:14:26,800 --> 00:14:28,800
+down a little bit just to give a little
+
+416
+00:14:28,800 --> 00:14:31,040
+bit of
+
+417
+00:14:31,440 --> 00:14:33,680
+offset okay there we go and I think that
+
+418
+00:14:33,680 --> 00:14:35,279
+should do it for this lesson that is how
+
+419
+00:14:35,279 --> 00:14:37,279
+you can go about creating a mountain
+
+420
+00:14:37,279 --> 00:14:39,759
+range logo with a winding River and a
+
+421
+00:14:39,759 --> 00:14:41,759
+pine tree and a rising sun coming up
+
+422
+00:14:41,759 --> 00:14:43,959
+beneath it inside of this element using
+
+423
+00:14:43,959 --> 00:14:47,000
+nothing but simple shapes in inkscape
+
+424
+00:14:47,000 --> 00:14:48,560
+before I end this video if you found
+
+425
+00:14:48,560 --> 00:14:50,079
+this lesson useful then consider
+
+426
+00:14:50,079 --> 00:14:52,680
+checking out my inkscape master class
+
+427
+00:14:52,680 --> 00:14:54,560
+it's a collection of over 60 videos
+
+428
+00:14:54,560 --> 00:14:56,160
+where I go over all of the tools and
+
+429
+00:14:56,160 --> 00:14:58,279
+features in inkscape and I explain what
+
+430
+00:14:58,279 --> 00:14:59,600
+they are and Demon demonstrate how they
+
+431
+00:14:59,600 --> 00:15:01,279
+work kind of like how I did in this
+
+432
+00:15:01,279 --> 00:15:03,320
+video we even have a private Community
+
+433
+00:15:03,320 --> 00:15:05,120
+where you can ask questions and get help
+
+434
+00:15:05,120 --> 00:15:07,759
+from me anytime you want and best of all
+
+435
+00:15:07,759 --> 00:15:09,519
+there's no monthly membership fees you
+
+436
+00:15:09,519 --> 00:15:12,560
+just pay $17 one time and you're in for
+
+437
+00:15:12,560 --> 00:15:14,240
+Life I'll have some information about
+
+438
+00:15:14,240 --> 00:15:15,600
+that in the description of the video if
+
+439
+00:15:15,600 --> 00:15:17,639
+you want to check that out as always
+
+440
+00:15:17,639 --> 00:15:21,079
+thanks for watching
+

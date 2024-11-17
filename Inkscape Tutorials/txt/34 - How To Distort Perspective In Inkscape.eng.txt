@@ -1,0 +1,132 @@
+
+so  lets  go  over  how  you  can  change  the
+
+perspective  of  an  object  using  inkscape
+
+for  this  demonstration  Ill  be  using  a
+
+text  object  so  Im  going  to  grab  my  text
+
+tool  and  Im  going  to click  on  the
+
+canvas  and  Im  just  going  to  use  the
+
+word  perspective  for  this  demonstration
+
+and  then  Im  going  to  grab  my  selection
+
+tool  and  Im  going  to  make  this  a  little
+
+bit  bigger  so  you  can  see  it  better
+
+now  what  we  want  to  do  is  open  up  our
+
+pathfx  menu  so  Ill  come  up  here  to
+
+where  it  says  path  and  I  will  select
+
+pathfx
+
+now  in  order  for  this  function  to  work
+
+the  object  that  were  applying  it  to  has
+
+to  be  a  path  right  now  this  is  just  a
+
+text  object  so  lets  convert  this  to  a
+
+path  by  going  to  path  object  to  path  and
+
+once  youve  done  that  you  should  be  able
+
+to  click  on  this  little  plus  icon  down
+
+here  in  the  menu  to  add  a  new  path
+
+effect  and  the  path  effect  that  were
+
+looking  for  is  called  perspective
+
+envelope  which  is  located  right  there  if
+
+youre  having  trouble  accessing  it  you
+
+could  just  type  it  into  the  search  bar
+
+up  here  per  s  and  there  it  is
+
+perspective  envelope
+
+and  now  all  you  have  to  do  is  grab  your
+
+edit  paths  by  nodes  tool  and  if  you  look
+
+in  the  corners  over  here  you  will  see
+
+these  four  white  nodes  and  you  can  take
+
+these  nodes  and  use  it  to  change  the
+
+perspective  of  your  object  just  like
+
+that
+
+now  if  you  want  to  lock  the  perspective
+
+onto  a  certain  axis  you  can  use  these
+
+settings  over  here  in  the  pathfx  menu  so
+
+if  I  select  mirror  movements  in  on  the
+
+horizontal  axis  itll  make  it  so  that
+
+the  perspective  only  changes  relative  to
+
+the  horizontal  axis  like  that  as  you  can
+
+see  there  and  likewise  if  you  use
+
+vertical  itll  lock  the  perspective
+
+change  onto  the  vertical  axis  like  that
+
+and  once  you  are  finished  you  can
+
+finalize  the  changes  by  going  to  path
+
+object  to  path  and  you  are  done  that  is
+
+how  you  can  change  the  perspective  of  an
+
+object  using  inkscape  if  you  found  this
+
+lesson  useful  then  consider  checking  out
+
+my  inkscape  master  class  its  a
+
+collection  of  over  60  videos  where  I  go
+
+over  all  of  the  tools  and  features  in
+
+inkscape  and  I  explain  what  they  are  and
+
+demonstrate  how  they  work  kind  of  like
+
+how  I  did  in  this  video  we  even  have  a
+
+private  Community  where  you  can  ask
+
+questions  and  get  help  from  me  anytime
+
+you  want  and  best  of  all  theres  no
+
+monthly  membership  fees  you  just  pay  17
+
+one  time  and  youre  in  for  Life  Ill
+
+have  some  information  about  that  down
+
+below  if  you  want  to  check  that  out  as
+
+always  thanks  for  watching

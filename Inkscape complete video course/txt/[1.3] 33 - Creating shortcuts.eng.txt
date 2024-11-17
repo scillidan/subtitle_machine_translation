@@ -1,0 +1,10 @@
+In lecture 12, I assigned the shortcut Ctrl-Y, to toggle between Normal and Outline mode, as it is
+an illustrator. In Inkscape this function doesnt have a shortcut by default. I also want Inkscape,
+GIMP, and Scribus to have the same shortcuts for the same tools. To change shortcuts, I go to: Edit
+> Preferences. I open Interface, and click on: Keyboard. If you would like to have the shortcuts
+from another software program, behind Keyboard file, there is a list with options. I would
+like the Illustrator shortcuts. Toggling between Normal and Outline mode, by default doesnt have
+a shortcut set. So I will add it. In the Search window, I type: toggle. I see that Display
+Mode: Toggle doesnt have a shortcut yet. To add it, I click at the right in the Shortcut
+column. I now see the text New accelerator. I type: Ctrl-Y. If the shortcut is already used,
+you can choose to reuse it for another function. So I click on Yes, and I close the window.

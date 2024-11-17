@@ -1,0 +1,420 @@
+1
+00:00:00,299 --> 00:00:02,460
+so as you may already know you can
+
+2
+00:00:02,460 --> 00:00:04,560
+change the colors of objects in inkscape
+
+3
+00:00:04,560 --> 00:00:06,660
+by clicking on them one by one and
+
+4
+00:00:06,660 --> 00:00:08,220
+applying fill colors
+
+5
+00:00:08,220 --> 00:00:09,900
+but what if you wanted to change an
+
+6
+00:00:09,900 --> 00:00:12,120
+entire range of colors all at once so
+
+7
+00:00:12,120 --> 00:00:13,559
+that you get a more consistent result
+
+8
+00:00:13,559 --> 00:00:15,599
+like this while saving yourself a bunch
+
+9
+00:00:15,599 --> 00:00:16,619
+of time
+
+10
+00:00:16,619 --> 00:00:18,840
+this is where the hsl adjustment
+
+11
+00:00:18,840 --> 00:00:20,640
+extension comes in handy and in this
+
+12
+00:00:20,640 --> 00:00:22,260
+tutorial we'll be going over how you can
+
+13
+00:00:22,260 --> 00:00:23,340
+use it
+
+14
+00:00:23,340 --> 00:00:25,140
+so to get started I have this example
+
+15
+00:00:25,140 --> 00:00:26,640
+design here on my canvas it just
+
+16
+00:00:26,640 --> 00:00:28,800
+consists of individual Vector objects
+
+17
+00:00:28,800 --> 00:00:30,779
+I'm going to click and drag over all of
+
+18
+00:00:30,779 --> 00:00:32,279
+them to select them and group it all
+
+19
+00:00:32,279 --> 00:00:34,320
+together by going to object and
+
+20
+00:00:34,320 --> 00:00:36,360
+selecting group
+
+21
+00:00:36,360 --> 00:00:39,300
+now I'm going to open up my extensions
+
+22
+00:00:39,300 --> 00:00:41,460
+menu over here I'll come down to where
+
+23
+00:00:41,460 --> 00:00:44,280
+it says color and I will select hsl
+
+24
+00:00:44,280 --> 00:00:45,899
+adjust
+
+25
+00:00:45,899 --> 00:00:48,780
+let me bring this menu over here now hsl
+
+26
+00:00:48,780 --> 00:00:51,239
+stands for Hue saturation and lightness
+
+27
+00:00:51,239 --> 00:00:53,160
+to show you how this works let me turn
+
+28
+00:00:53,160 --> 00:00:55,379
+on the live preview
+
+29
+00:00:55,379 --> 00:00:57,300
+first I'll show you what saturation and
+
+30
+00:00:57,300 --> 00:00:58,800
+lightness does and then I will explain
+
+31
+00:00:58,800 --> 00:01:01,739
+you so saturation is the intensity of
+
+32
+00:01:01,739 --> 00:01:03,359
+the color so if I bring this all the way
+
+33
+00:01:03,359 --> 00:01:06,720
+up we have more vibrant intense colors
+
+34
+00:01:06,720 --> 00:01:09,060
+if I bring this all the way down
+
+35
+00:01:09,060 --> 00:01:11,159
+the colors become more muted and if I
+
+36
+00:01:11,159 --> 00:01:13,140
+bring it all the way down like that we
+
+37
+00:01:13,140 --> 00:01:15,420
+end up with an almost or a black and
+
+38
+00:01:15,420 --> 00:01:16,979
+white image as you can see there in that
+
+39
+00:01:16,979 --> 00:01:18,060
+grayscale
+
+40
+00:01:18,060 --> 00:01:21,119
+let me set this back to zero
+
+41
+00:01:21,119 --> 00:01:23,460
+lightness represents the lightness of
+
+42
+00:01:23,460 --> 00:01:25,560
+the color so if I bring this up we end
+
+43
+00:01:25,560 --> 00:01:27,360
+up with the lighter result like that or
+
+44
+00:01:27,360 --> 00:01:29,880
+if I bring this down we end up with a
+
+45
+00:01:29,880 --> 00:01:31,560
+darker result like that
+
+46
+00:01:31,560 --> 00:01:34,140
+so let me reset that as well
+
+47
+00:01:34,140 --> 00:01:36,420
+and then finally Hue is what you would
+
+48
+00:01:36,420 --> 00:01:38,820
+use to change the actual color so if I
+
+49
+00:01:38,820 --> 00:01:40,439
+move this over here
+
+50
+00:01:40,439 --> 00:01:42,420
+we end up with this color or if I move
+
+51
+00:01:42,420 --> 00:01:44,400
+this down more we end up with that color
+
+52
+00:01:44,400 --> 00:01:46,860
+and as you go up and down this scale
+
+53
+00:01:46,860 --> 00:01:49,079
+here you can run through the entire
+
+54
+00:01:49,079 --> 00:01:51,180
+gamut the entire range of colors you can
+
+55
+00:01:51,180 --> 00:01:52,799
+make this object virtually any color
+
+56
+00:01:52,799 --> 00:01:55,320
+that you want you can use green blue or
+
+57
+00:01:55,320 --> 00:01:57,420
+whatever and the thumbnail of the video
+
+58
+00:01:57,420 --> 00:01:59,399
+I used a pinkish purple so I will use
+
+59
+00:01:59,399 --> 00:02:01,500
+something like that right there and then
+
+60
+00:02:01,500 --> 00:02:02,939
+you can if you want to you can change
+
+61
+00:02:02,939 --> 00:02:04,740
+the saturation to increase the the
+
+62
+00:02:04,740 --> 00:02:07,079
+intensity of that color
+
+63
+00:02:07,079 --> 00:02:08,818
+and then finally over here you can use
+
+64
+00:02:08,818 --> 00:02:10,560
+your lightness to adjust that if you
+
+65
+00:02:10,560 --> 00:02:13,140
+want I think this looks better
+
+66
+00:02:13,140 --> 00:02:16,140
+with a modest lightness like that and
+
+67
+00:02:16,140 --> 00:02:17,940
+once you're finished click the apply
+
+68
+00:02:17,940 --> 00:02:20,879
+button once and I say once because once
+
+69
+00:02:20,879 --> 00:02:22,800
+you click it nothing visibly is going to
+
+70
+00:02:22,800 --> 00:02:24,239
+happen on your screen well nothing
+
+71
+00:02:24,239 --> 00:02:25,860
+nothing's going to change that you can
+
+72
+00:02:25,860 --> 00:02:27,900
+see anyway but the changes are now
+
+73
+00:02:27,900 --> 00:02:30,000
+applied and if you click that button
+
+74
+00:02:30,000 --> 00:02:32,099
+again it's going to apply those changes
+
+75
+00:02:32,099 --> 00:02:33,660
+a second time so you'll end up with a
+
+76
+00:02:33,660 --> 00:02:35,160
+different result so that's one thing to
+
+77
+00:02:35,160 --> 00:02:37,260
+keep in mind click that button once and
+
+78
+00:02:37,260 --> 00:02:38,900
+once you click it close out of the menu
+
+79
+00:02:38,900 --> 00:02:42,000
+and now if I ungroup these objects and
+
+80
+00:02:42,000 --> 00:02:44,220
+select them one by one you can see their
+
+81
+00:02:44,220 --> 00:02:46,500
+colors have indeed been changed this is
+
+82
+00:02:46,500 --> 00:02:48,959
+not a temporary filter or some kind of
+
+83
+00:02:48,959 --> 00:02:51,120
+adjustment layer these are actual
+
+84
+00:02:51,120 --> 00:02:53,160
+changes that have been applied to the
+
+85
+00:02:53,160 --> 00:02:54,780
+subject as you can see there
+
+86
+00:02:54,780 --> 00:02:57,300
+so that is how you can change colors
+
+87
+00:02:57,300 --> 00:02:59,879
+globally using the hsl adjustment in
+
+88
+00:02:59,879 --> 00:03:02,459
+inkscape if you found this lesson useful
+
+89
+00:03:02,459 --> 00:03:04,319
+then consider checking out my inkscape
+
+90
+00:03:04,319 --> 00:03:06,540
+master class it's a collection of over
+
+91
+00:03:06,540 --> 00:03:08,459
+60 videos where I go over all of the
+
+92
+00:03:08,459 --> 00:03:10,319
+tools and features in inkscape and I
+
+93
+00:03:10,319 --> 00:03:11,940
+explain what they are and demonstrate
+
+94
+00:03:11,940 --> 00:03:13,860
+how they work kind of like how I did in
+
+95
+00:03:13,860 --> 00:03:15,900
+this video we even have a private
+
+96
+00:03:15,900 --> 00:03:17,340
+Community where you can ask questions
+
+97
+00:03:17,340 --> 00:03:19,500
+and get help from me anytime you want
+
+98
+00:03:19,500 --> 00:03:21,659
+and best of all there's no monthly
+
+99
+00:03:21,659 --> 00:03:24,599
+membership fees you just pay 17 one time
+
+100
+00:03:24,599 --> 00:03:26,700
+and you're in for Life I'll have some
+
+101
+00:03:26,700 --> 00:03:28,200
+information about that down below if you
+
+102
+00:03:28,200 --> 00:03:30,060
+want to check that out as always thanks
+
+103
+00:03:30,060 --> 00:03:32,599
+for watching
+
+104
+00:03:34,800 --> 00:03:37,800
+foreign
+
+105
+00:03:37,890 --> 00:03:41,590
+[Music]
+

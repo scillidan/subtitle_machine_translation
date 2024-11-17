@@ -1,0 +1,1233 @@
+
+
+
+this  is  nick  with  logosbynick.com  and  in
+
+this  tutorial  ill  be  demonstrating  how
+
+you  can  create  these  isometric
+
+illustrations
+
+using  inkscape  and  this  is  a  topic  that
+
+ive  gone  over  in  the  past  however
+
+thanks  to  some  of  the  newer  features  in
+
+inkscape  version  1.0
+
+it  now  makes  it  easier  to  make  your
+
+designs  have  rounded  corners
+
+as  you  can  see  in  my  example  design  here
+
+so  that  is  one  of  the  things  i  will  be
+
+going  over  in  this  tutorial
+
+but  before  we  get  started  if  youd  like
+
+to  learn  more  about  how  inkscape  works
+
+be  sure  to  check  out  my  inkscape  master
+
+class
+
+its  a  collection  of  over  60  videos
+
+where  i  go  over  every  tool  and  feature
+
+in  inkscape  and  i  explain  what  it  is  and
+
+demonstrate  how  it  works
+
+ill  have  a  link  in  the  description  of
+
+the  video  if  you  want  to  check  that  out
+
+so  the  first  thing  we  want  to  do  when  we
+
+have  inkscape  open  here  is  set  up  our
+
+document  so  that  we  are  all  working  with
+
+a  similar  view  and  layout  so  ill  come
+
+over  here  to  where  it  says
+
+view  make  sure  we  have  custom  selected
+
+come  up  here  to  where  it  says  zoom  im
+
+going  to  zoom  in  at  one  to  one
+
+youre  going to  want  to  make  sure  you
+
+have  snapping  enabled  up  here  it  should
+
+be  enabled  by  default  but  just  make  sure
+
+its  enabled
+
+and  the  snapping  we  want  over  here  is
+
+snap  to  cusp  nodes
+
+and  then  snap  to  grids  which  is  over
+
+here  very  important  for  this  to  be
+
+enabled
+
+so  what  im  going  to  do  now  is  set  up
+
+the  isometric  grid  on  the  canvas  ill
+
+come  over  here  where  it  says  file
+
+go  to  document  properties  first  i  just
+
+want  to  get  rid  of  the  page  border  im
+
+going  to  click  on  this  box  right  here
+
+that  says  show  page  border  to  get  that
+
+out  of  the  way  when  were  trying  to
+
+create  our  designs
+
+and  over  here  where  it  says  grids  lets
+
+click  on  that  tab  im  going  to  choose
+
+axonometric  grid
+
+click  new  and  for  the  grid  units  im
+
+going  to  choose  pixels
+
+and  if  you  notice  we  now  have  an
+
+isometric  grid  on  the  canvas  here  i  just
+
+want  to  make  those  lines  a  little  more
+
+spaced  out  because  theres  too  many  of
+
+them
+
+on  the  canvas  as  it  is  so  where  it  says
+
+spacing  y
+
+im  just  going  to  change  that  to  50  hit
+
+enter  there  we  go  thats  a  good  thats  a
+
+good  happy  medium  right  there  so  ill  go
+
+ahead  and  close  out  of  that
+
+and  when  im  drawing  isometric  designs
+
+what  i  like  to  do  is  i  like  to  start
+
+with  the  smallest  objects  first  and  then
+
+draw  outwards  to  the  largest  objects
+
+that  way  i  can  ensure  that  i  dont  run
+
+out  of  boxes  as  im  drawing
+
+objects  so  what  i  want  to  do  now  is  draw
+
+the  buttons  of  the  phone  first  because
+
+those  are  the  smallest  objects
+
+what  im  going to  be  drawing  is  a  a
+
+phone  laying  flat  on  a  surface
+
+like  that  so  let  me  grab
+
+let  me  grab  the  bezier  pen  which  is  over
+
+here
+
+and  if  you  notice  the  way  the  grid  works
+
+is  every  five  lines  you  have  a  main  line
+
+which  is  slightly  darker  than  the  other
+
+five  lines  so  what  id  like  to  do  is  i
+
+like  to  start  at  one  of the  main  lines
+
+right  here
+
+click  to  create  a  point  bring  the  line
+
+to  the  other  main  line  right  here
+
+and  over  here  then  up  back  up  here  and
+
+then  back  to  the  starting  point
+
+and  this  is  going  to  be  the  home  button
+
+of  the  phone  and  this  button  is  going  to
+
+have  rounded  corners  but  im  going  to  go
+
+back  and  add  that  later  im  going to
+
+draw  everything  with  sharp  corners  first
+
+and  then  im  going  to  go  back  and  make
+
+the  corners  rounded  later  so  the  next
+
+biggest  object  for  me  to  draw  would  be
+
+the  screen  so
+
+let  me  start  out  here  the  screen  is
+
+going  to  be  over  here  represented  by
+
+this  area
+
+so  im  going  to  start  five  units  away
+
+from  the  button  on  the  left  side  and  one
+
+unit  up
+
+like  that  and  bring  it  the  same  distance
+
+to  the  other  side
+
+using  the  main  lines  as  a  reference
+
+and  then  im  going  to  bring  this  out
+
+here
+
+one  two  three  four  now  you  know  what  i
+
+missed  that  let  me  undo  that  by  hitting
+
+ctrl  z
+
+there  we  go  its  pretty  common  to  miss
+
+the  line  youre  going  for  so  uh  if  you
+
+if  you  end  up  missing  the  line  just  hit
+
+ctrl  z  to  undo  it
+
+or  you  can  go  back  and  edit  it  with  the
+
+nodes  tool  which  ill  show  you  in  a
+
+minute  so
+
+let  me  bring  this  out  here  out  here
+
+about  that  much
+
+up  here  and  then  back  to  the  starting
+
+point
+
+now  if  you  notice  i  totally  missed  the
+
+mark  there  this  line  is  not  parallel  to
+
+this  line  right  here  so  im  going  to
+
+grab  the  nodes  tool  and  fix  that  im
+
+just  going  to  put  that  back  over  here
+
+where  it  should  be
+
+looks  like  i  missed  it  by  one  let  me  try
+
+that
+
+to  move  around  im  just  holding  ctrl  and
+
+rolling  up  and  down  the  mouse  wheel  and
+
+then  im  pressing  down  the  mouse  wheel
+
+and  moving  mouse
+
+to  to  to  move  around  like  that  looks
+
+like  i  got to  go  one  more  like  that
+
+there  we  go  that  looks  that  looks  right
+
+so  what  im  going  to  do  now  is
+
+create  the  other  button  up  top  here  or
+
+actually  the  speaker  the  speaker  hole
+
+im  just  going  to  use  this
+
+duplicate  this  object  so  let  me  grab  the
+
+select  tool  click  on  this  object
+
+press  ctrl  d  to  duplicate  it  and  then
+
+click  and  drag  this
+
+up  here  right  there
+
+so  what  im  going  to  draw  now  is  the
+
+outside  edge  of  the  phone  so  let  me  go
+
+back  to  the  bezier  pen
+
+and  im  going  to  start  this  one  unit
+
+away  one  unit  away  from  the  button  here
+
+and  then  down  here
+
+bring  this  out  to  about  there  thats
+
+looking  good
+
+out  here
+
+and  bring  this  one  unit  away  from  this
+
+edge  right  here
+
+and  then  back  to  the  starting  point  now
+
+i  totally  missed  the  mark  there  so  let
+
+me  go  back  and  edit  that
+
+let  me  grab  the  nodes  tool  this  needs  to
+
+be
+
+this  needs  to  be  right  here  okay  thats
+
+looking  good
+
+all  right  so  what  im  going  to  do  now  is
+
+im  going  to  start  rounding  some  of
+
+these  corners  let  me  go  to  the  select
+
+tool
+
+im  going  to  start  with  the  button  right
+
+here  im  going  to  click  on  that  and  i
+
+want  to  open  up  the  path  effects  menu
+
+ill  go  to  path  path  effects
+
+and  im  going  to  click  to  add  a  new  path
+
+effect  this  little  plus  button  right
+
+here
+
+and  im  going  to  look  for  corners  if  you
+
+can  see  i  already  have  it  typed  in
+
+because  i  was  using  this  previously  you
+
+just  type  in  corners
+
+if  you  remove  the  search  function  the
+
+search  text  it  shows  you  all  of  the  path
+
+effects
+
+if  you  just  type  in  corners  there  you  go
+
+theres  the  path  effect  were  looking
+
+for  the  corners
+
+fillet  chamfer  there  we  go
+
+and  what  thats  going  to  do  is  let  me
+
+zoom  in  on  this  if  we  grab  the  nodes
+
+tool
+
+you  notice  we  have  these  four  green
+
+knots  in  the  corners  here
+
+and  you  could  take  these  knots  and  use
+
+it  to  round  to  the  corners  like  that
+
+i  dont  just  want  to  round  to  that  one
+
+corner  though  i  want  to  round  all  of
+
+these  corners  so  im  going to  click  and
+
+drag  over  all  four  of  those  knots
+
+and  then  just  click  in  oops  click  and
+
+drag  this  in  like  this  to  make  these
+
+rounded
+
+and  it  looks  like  the  snapping  is
+
+getting  in  the  way  so  im  going  to
+
+temporarily  disable  snapping
+
+and  then  move  this  in  like  that
+
+and  now  i  can  turn  snapping  back  on  you
+
+know  im  going  to  leave  it  off  because
+
+we  have  to  do  the  same  thing  to  the
+
+other  buttons  so
+
+let  me  come  back  out  here  and  do  the
+
+same  thing  to  this  speaker  hole  right
+
+here
+
+add  a  path  effect  corners
+
+click  and  drag  over  all  four  points  and
+
+then  just  click  and  drag  it  inward  like
+
+that  to  give  it  rounded  corners
+
+over  here  theres  four  different
+
+settings  this  is  the  fillet  setting  if
+
+you  choose  like  chamfer  its  going  to
+
+give  you  a  different  style  of  corner  if
+
+youre  getting  this  different  style  of
+
+corner  when  you  do  this  just  make  sure
+
+you  have  fillet  selected
+
+it  should  be  there  by  default  but  maybe
+
+maybe  its  not  so  thats  how  you  can  set
+
+it  back
+
+if  thats  the  case  and  now  i  want  to
+
+round  the  corners  of  the  phone  edge  here
+
+so  to  do  that  let  me  select  that  object
+
+add  a  new  path  effect  corners  and  for
+
+this  one  i  want  to  turn  snapping  back  on
+
+because  i  want  to  snap  to  one  of  these
+
+grid  lines  im  going  to  click  and  drag
+
+this  down
+
+or  you  know  what  i  have  to  select  all
+
+four  of  them  let  me  click  and  drag  over
+
+all  four  of  them
+
+bring  that  in  like  that  there  we  go
+
+thats  looking  pretty  good  now  thats
+
+looking  more  like  a  phone
+
+okay  so  let  me  uh  let  me  go  back  to  the
+
+select  tool
+
+lets  select  over  all  of  these  objects
+
+and  convert  them  to  paths  well  go  to
+
+path
+
+object  to  path  and  thats  going  to
+
+change  that  from  a  path  effect  to  now
+
+its  an  actual
+
+its  an  actual  path  not  just  a  path
+
+effect  if  that  makes  any  sense
+
+the  reason  why  i  do  that  is  because  this
+
+is  this  is  sort  of  a  new  path  effect  and
+
+it  doesnt  really
+
+function  uh  the  way  it  should  sometimes
+
+ill  theres  sometimes  im  working  with
+
+this  path  effect  and  like  the  corners
+
+will  just  randomly  go  back  to  being
+
+sharp
+
+and  ill  have  to  go  back  and  make  them
+
+rounded  again  thats  why  i  like  to
+
+convert  them  to  path  beforehand  so  i
+
+dont  have  to  go  back  and  do  that  so
+
+let  me  now  lets  now  take  the  button
+
+here  and  just  raise  that  to  the  top  with
+
+this  button  over  here  race
+
+race  selection  to  the  top  same  thing
+
+with  the  screen  right  here  raise
+
+selection  to  the  top
+
+nothing  visually  is  happening  on  the
+
+screen  as  you  do  this  were  just  doing
+
+this  so  that
+
+we  have  these  objects  layered  above  the
+
+background  which  is  the  phone
+
+edge  here  and  ill  do  the  same  thing  to
+
+this  raise  this  to  the  top
+
+and  now  i  want  to  fill  this  in  with  some
+
+color  so  im  going  to  take  this  object
+
+right  here
+
+and  lets  open  up  the  fill  and  stroke
+
+menu  with  this  button  over  here
+
+or  you  can  press  ctrl  shift  and  f  on  the
+
+keyboard
+
+and  im  going  to  fill  this  in  maybe  with
+
+like  a  light  shade  of  gray  like  that
+
+thats  looking  pretty  good  lets  get  rid
+
+of  the  outline  by  holding  shift  and
+
+clicking  on  the  x  over  here
+
+i  might  actually  might  want  to  make  that
+
+a little  darker  so  i  can  see  it  better
+
+and  now  i  will  do  the  same  thing  for
+
+this  button  im  going  to  make  this  maybe
+
+a  darker  shade  of  gray
+
+let  me  get  rid  of  that  outline  by
+
+holding  shift  and  clicking  the  x
+
+and  ill  do  the  same  thing  over  here  i
+
+want  to  make  this  the  same  color  so  im
+
+just  going  to  grab  the  dropper  which  is
+
+over  here  and  just  select  that
+
+so  its  the  same  color  and  then  get  rid
+
+of  the  outline  by  holding  shift  and
+
+clicking  the  x
+
+and  now  i  will  grab  the  screen  and  i
+
+guess  i  will  make  that
+
+i  guess  ill  make  that  white  for  now  let
+
+me  get  rid  of  the
+
+outline  by  shift-clicking  the  x  like
+
+that
+
+and  now  what  i  want  to  do  is  i  want  to
+
+give  this  phone  a  little  bit  of  depth  i
+
+want  to  make  it  look  like  its  a
+
+three-dimensional  object  so  im  gonna
+
+im  gonna  duplicate  this  background  over
+
+here  and  move  it  down  a little  bit
+
+so  let  me  select  the  object  right  click
+
+it  and  go  to  duplicate
+
+then  hold  ctrl  and  move  it  down  like
+
+that  and
+
+drop  it  to  the  bottom  over  here  where  it
+
+says  lower  selection  to  the  bottom  and  i
+
+want  to  make  this  the  same  color  that
+
+this  object  is  over  here  so  let  me  grab
+
+the  dropper  tool
+
+click  on  that  and  there  we  go
+
+i  actually  might  want  to  move  this  up  a
+
+little  bit  i  dont  want  that  much  depth
+
+that  looks  pretty  good  right  there  so  if
+
+you  notice  here
+
+theres  an  empty  space  between  the  edges
+
+of  these  two  objects  right  here  so  we
+
+want  to  add
+
+lines  right  here  to  fill  that  in  to  make
+
+it  look  to  make  it  look  the  way  its
+
+supposed  to  look
+
+to  do  that  maybe  i  should  put  this  down
+
+back  to  where  it  was  to  better
+
+illustrate  that
+
+to  better  illustrate  what  im  about  to
+
+do  so  im  going  to  put  that  back  to
+
+where  it  was
+
+im  going  to  select  both  objects  the
+
+original  background  im  going  to  hold
+
+shift  click  the  uh  the  new  background  we
+
+just  created  and  ill  go  to  extensions
+
+generate  from  path  and  extrude
+
+and  i  want  to  make  sure  we  have  polygon
+
+selected  and  not  lines  and  go  ahead  and
+
+click  apply
+
+and  thats  going  to  create  new  objects
+
+between  the  two  objects  we  have  selected
+
+as  you  can  see  here
+
+it  created  all  of  those  objects  so  i
+
+want  to  take  this  object  that  we  just
+
+created
+
+and  i  want  to  ungroup  that  with  this
+
+button  up  here  or  ctrl  shift  ungroup
+
+and  i  want  to  get  rid  of  everything
+
+except  for  these  lines  over
+
+here  that  we  just  created  so  im  going
+
+to  hold  shift  and  click  on  that  little
+
+object  right  there  to  deselect  it
+
+come  over  here  hold  shift  click  on  this
+
+object  to  deselect  that
+
+and  then  press  delete  on  the  keyboard  to
+
+get  rid  of  everything  else
+
+and  now  i  can  take  this  object  hold
+
+shift
+
+take  this  object  and  then  hold  shift  and
+
+take  the  bottom  object
+
+and  unify  them  all  together  by  going  to
+
+path
+
+union  and  as  you  can  see  now  it  looks
+
+the  way  its  supposed  to  look
+
+and  if  you  temporarily  disable  let  me
+
+hold  shift
+
+if  you  hold  shift  and  press  three  on  the
+
+keyboard  it  will  temporarily  disable
+
+the  grid  on  this  on  the  screen  so  you
+
+can  see  how  it  looks  without  the  grid
+
+getting  in  the  way
+
+i  might  want  to  take  this  screen  and
+
+make  this  darker  like  that  there  we  go
+
+now  its  looking  more  like  a  phone
+
+okay  so  the  phone  part  of  the  design  is
+
+out  of  the  way  im  now  going  to  create
+
+like  a  little  uh
+
+like  a  little  chat  bubble  to  go  over  the
+
+uh  the  top  of  it  here  like  i  showed  you
+
+in  the
+
+the  design  of  the  thumbnail  to  put  the
+
+grid  back  to  where  it  was
+
+im  just  going  to  hold  shift  and  press
+
+three  on  the  keyboard
+
+or  other  or  in  other  words  you  just  use
+
+the  pound  key  which  is
+
+up  here  where  it  says  view  page  grid
+
+thats  another  way  you  can  toggle  that
+
+off  and  on  i  just  like  to  use  the
+
+keyboard  shortcut  so
+
+lets  create  a  chat  bubble  to  go  over
+
+here  now  so  im  going  to  come  over  here
+
+out  of  the  way
+
+im  going  to  create  three  circles  to
+
+make  it  look  like  somebodys  typing
+
+so  let  me  grab  the  bezier  pen
+
+start  right  there  again  im  using  the
+
+main  lines  in  increments  of  five  to
+
+create  these
+
+there  we  go  im  just  going  to  duplicate
+
+this
+
+ctrl  d  move  this  over  here  so  that  its
+
+one  unit  apart
+
+ctrl  d  so  that  its  one  unit  apart
+
+and  now  im  going  to  draw  a  box  going
+
+around  these  three  thats  two  units
+
+apart  so  let  me  go  back  to  the  bezier
+
+pen
+
+i  want  to  start  out  two  units  away  one
+
+two
+
+come  up  here  like  that  one  two
+
+good  over  there
+
+and  then  back  to  the  starting  point
+
+lets  see  if  that  worked  okay  yeah  it
+
+looks  like  i  got  that  right
+
+all  right  so  now  what  i  will  do  is  i
+
+will  round  the  corners  of  these  objects
+
+here  so  let  me
+
+grab  the  select  tool  let  me  select  this
+
+object
+
+add  a  new  path  effect  corners
+
+go  to  the  nodes  tool  select  all  of  these
+
+nodes  right  here
+
+and  then  just  click  and  drag  them  in
+
+like  that
+
+let  me  turn  off  snapping  so  that  i  can
+
+get  these  a  little  closer  to  each  other
+
+without  them  getting  in  the  way
+
+box  over  here
+
+and  now  what  i  will  do  is  i  will  do  the
+
+same  thing  to  this  object  right  here  so
+
+let  me  click  on  that
+
+add  a  path  effect  rounded
+
+and  for  this  one  i  will  turn  snapping
+
+back  on
+
+maybe  right  about  there  that  looks
+
+pretty  good  so  now  i want  to  grab  the
+
+select  tool
+
+click  and  drag  over  all  of  these  convert
+
+these  to  pads  by  going  to  path
+
+object  to  path  and  now  im  going  to
+
+create  a  little  point  down  here  on  the
+
+bottom  to  make  it  look  like  a  speech
+
+bubble
+
+so  let  me  grab  the  bezier  pen  again  im
+
+going  to  come  in  over  here  a  little  bit
+
+bring  this  down  to  about  here
+
+and  then  bring  this  across  over  here
+
+this  is  the  only  line  were  drawing
+
+thats  not  going  according  to  the  grid
+
+so  im  going to  bring  this  up  here  like
+
+that  maybe  over  here  that  looks  good
+
+and  then  back  to  the  starting  point  and
+
+now  we  can  grab  the  select  tool  and
+
+unify  those  two  together  by  holding
+
+shift
+
+and  clicking  on  the  object  next  to  it
+
+and  go  to  path
+
+union  and  now  its  one  shape  like  a
+
+speech  bubble
+
+now  much  like  we  did  with  the  phone  and
+
+the  three-dimensional
+
+drop  here  i  want  to  do  the  same  thing
+
+only  going  that  way  so
+
+let  me  take  this  object  first  i  want  to
+
+color  this  in  actually
+
+lets  take  these  three  circles  right
+
+here  select  those  all  raise  those  to  the
+
+top
+
+and  then  fill  them  in  with  white
+
+nothings  going  to  visually  change  on
+
+the  canvas  because  the  canvas  background
+
+is  white  so  you  have  a  white  object
+
+against  a  white  background  so  it  doesnt
+
+look  like  its  there  but  there  is  a
+
+white  fill  there
+
+let  me  get  rid  of  the  outline  by  holding
+
+shift  and  pressing  x
+
+over  here  in  the  bottom  left  corner  and
+
+then  ill  take  this  and  ill  make  this
+
+something  like
+
+blue  or  green  or  yellow  or  whatever
+
+whatever  color  you  want  to  make  it
+
+ill  just  use  that  color  blue  get  rid  of
+
+the  outline
+
+shift  clicking  the  x  and  let  me
+
+duplicate  this  by  pressing  ctrl  d
+
+and  i  will  make  this  one  a  little  darker
+
+like  that
+
+maybe  even  use  an  off  shade  of  blue  like
+
+that
+
+bring  this  out  here  send  that  to  the
+
+bottom  this  button  over  here  lower
+
+selection  to  the  bottom
+
+there  we  go  and  now  i  want  to  extrude
+
+these  two  together  so  let  me  hold  shift
+
+and  click  on  both  of  those
+
+and  go  to  extensions  generate  from  path
+
+extrude  and  click  apply
+
+and  then  just  give  it  a  minute  to  do  its
+
+thing  when  i  was  doing  this  tutorial
+
+setting  it  up  before  it  took  a  while  for
+
+this  to
+
+load  but  this  time  it  went  nice  and
+
+quick  so  thats  good  let  me  close  out  of
+
+that
+
+we  now  have  this  object  that  were
+
+looking  for  let  me  ungroup  that  with  the
+
+ungroup  button
+
+and  again  i  want  to  keep  this  object
+
+over  here  thats  connecting  these  two
+
+points  together  i  want  to  keep  this
+
+object  over  here
+
+and  i  want  to  keep  this  object  over  here
+
+and  i  want  to  delete  the  rest  of  them  so
+
+ill  hold  shift
+
+click  that  object  to  deselect  it  hold
+
+shift
+
+click  that  object  to  deselect  it  and
+
+then  come  over  here  hold  shift
+
+click  that  object  deselect  it  and  all  we
+
+have  selected  now  are  the  objects  we
+
+want  to  get  rid  of  so  now  you  can  press
+
+delete  on  the  keyboard  and  there  you  go
+
+so  lets  take  these  objects  right  here
+
+that  we  just  created  shift  click  each  of
+
+them  so  we  have  all  three  selected
+
+and  then  hold  shift  and  click  the
+
+original  and  go  to  path
+
+union  and  thats  exactly  what  were
+
+looking  for  right  there  a  three
+
+dimensional
+
+a  3d  style  isometric  chat  bubble
+
+like  that  so  what  i  want  to  do  now  is
+
+place  this  over  to  design  over  the
+
+design  so
+
+im  going  to  get  rid  of  im  going  to
+
+temporarily  get  rid  of  the
+
+isometric  grid  because  we  dont  need  it
+
+anymore  were  done  drawing  objects  so
+
+let  me  hold  shift  and  press  three  on  the
+
+keyboard  to  get  rid  of  that
+
+let  me  disable  snapping  for  now  so  that
+
+doesnt  get  in  the  way
+
+click  and  drag  over  this  whole  thing  and
+
+press  ctrl  g
+
+on  the  keyboard  and  place  it  over  the
+
+object  over  here  like  that
+
+ctrl  shift  to  scale  it  down  and  then  you
+
+can  take  this  duplicate  it  bring  it  over
+
+here
+
+and  if  you  want  you  can  make  this  a
+
+different  color
+
+ungroup  it  ill  make  this  yellow
+
+make  this  also  yellow  but  maybe  an  off
+
+shade
+
+maybe  like  red  like  that
+
+and  then  finally  you  could  take  this  you
+
+could  put  like  a  little  drop  shadow  down
+
+here  by  duplicating  this  object
+
+im  actually  going  to  duplicate  both  of
+
+these  objects  the  light  gray  hold
+
+shift  and  the  dark  gray  ctrl  d  to
+
+duplicate
+
+path  union  unify  them  together  make  this
+
+black
+
+hold  ctrl  and  just  click  and  drag  this
+
+down  like  that  send  that  to  the  bottom
+
+that  looks  pretty  good  and  bring  the
+
+opacity  of  this  down
+
+like  that  so  we  have  a little  bit  of  a
+
+shadow  there  it  would  look  a  little  more
+
+convincing  if  this  were  a  different
+
+color  which  i  think  ill  do  that  now
+
+ill  make  this
+
+ill  make  this  something  like  purple
+
+ill  make  this  a  lighter  shade  of  that
+
+purple
+
+and  then  ill  make  these  ones  white
+
+or  you  know  what  and  ill  use  the  same
+
+shade  as  that  purple
+
+and  then  this  ill  make  this  a  darker
+
+purple  as  well  im  just  using  the
+
+keyboard  shortcuts  to  toggle  back  and
+
+forth  between  the  dropper  the  dropper
+
+tool  is
+
+the  letter  d  on  the  keyboard  and  the
+
+select  tool  is  s
+
+so  i  just  like  to  toggle  back  and  forth
+
+between  those  let  me  make  that  little
+
+darker
+
+thats  looking  good  maybe  add  some  more
+
+saturation  to  that
+
+that  right  there  is  what  im  looking  for
+
+come  over  here  make  this  now  i  can  make
+
+this  a  little  darker  so  its  a little
+
+more  convincing
+
+and  id  say  that  looks  good  enough  so  i
+
+think  that  should  do  it  for  this
+
+tutorial  thats  how  you  can  go  about
+
+creating  these  simple
+
+isometric  drawings  with  rounded  corners
+
+using  some  of  the  new  features  in
+
+inkscape  version  1.0
+
+if  you  have  any  questions  leave  a
+
+comment  below  and  as  always  thanks  for
+
+watching
+

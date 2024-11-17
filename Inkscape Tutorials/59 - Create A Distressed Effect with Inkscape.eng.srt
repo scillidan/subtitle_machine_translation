@@ -1,0 +1,864 @@
+1
+00:00:01,020 --> 00:00:06,920
+[Music]
+
+2
+00:00:08,320 --> 00:00:10,559
+this is nick with logosbynic.com and in
+
+3
+00:00:10,559 --> 00:00:12,080
+this tutorial i'll be demonstrating how
+
+4
+00:00:12,080 --> 00:00:14,000
+you can create this distressed text
+
+5
+00:00:14,000 --> 00:00:14,639
+effect
+
+6
+00:00:14,639 --> 00:00:16,800
+using inkscape but before we get started
+
+7
+00:00:16,800 --> 00:00:18,080
+if you'd like to learn more about how
+
+8
+00:00:18,080 --> 00:00:19,760
+inkscape works be sure to check out my
+
+9
+00:00:19,760 --> 00:00:21,279
+inkscape master class
+
+10
+00:00:21,279 --> 00:00:23,119
+it's a collection of over 60 videos
+
+11
+00:00:23,119 --> 00:00:24,800
+where i go over every tool and feature
+
+12
+00:00:24,800 --> 00:00:25,680
+in inkscape
+
+13
+00:00:25,680 --> 00:00:27,439
+and i explain what it is and demonstrate
+
+14
+00:00:27,439 --> 00:00:28,960
+how it works i'll have a link in the
+
+15
+00:00:28,960 --> 00:00:30,080
+description of the video if you want to
+
+16
+00:00:30,080 --> 00:00:31,199
+check that out
+
+17
+00:00:31,199 --> 00:00:32,719
+so to get us started here in inkscape
+
+18
+00:00:32,719 --> 00:00:34,160
+the first thing we want to do is set up
+
+19
+00:00:34,160 --> 00:00:35,680
+our document so that we are all working
+
+20
+00:00:35,680 --> 00:00:37,040
+with a similar workflow
+
+21
+00:00:37,040 --> 00:00:38,399
+to do that i'll come up here to where it
+
+22
+00:00:38,399 --> 00:00:40,559
+says view make sure we have custom
+
+23
+00:00:40,559 --> 00:00:41,520
+selected
+
+24
+00:00:41,520 --> 00:00:43,680
+and then go to zoom and where it says go
+
+25
+00:00:43,680 --> 00:00:45,600
+to view zoom and we're looking for zoom
+
+26
+00:00:45,600 --> 00:00:46,879
+one to one
+
+27
+00:00:46,879 --> 00:00:48,800
+like that and for this tutorial we're
+
+28
+00:00:48,800 --> 00:00:50,160
+going to want to disable snapping which
+
+29
+00:00:50,160 --> 00:00:51,039
+is up here this
+
+30
+00:00:51,039 --> 00:00:52,719
+icon in the top left hand corner just
+
+31
+00:00:52,719 --> 00:00:54,160
+click on that to disable it
+
+32
+00:00:54,160 --> 00:00:55,760
+if you already have it deselected then
+
+33
+00:00:55,760 --> 00:00:57,520
+you're good to go and then finally we
+
+34
+00:00:57,520 --> 00:00:59,280
+want to open up the fill and stroke menu
+
+35
+00:00:59,280 --> 00:01:00,559
+which is over here
+
+36
+00:01:00,559 --> 00:01:02,000
+or you could press the uh you could
+
+37
+00:01:02,000 --> 00:01:04,080
+press ctrl shift and f on the keyboard
+
+38
+00:01:04,080 --> 00:01:05,760
+to open that up
+
+39
+00:01:05,760 --> 00:01:06,960
+so the first thing i'm going to do is
+
+40
+00:01:06,960 --> 00:01:08,720
+create some text so let me grab the text
+
+41
+00:01:08,720 --> 00:01:10,000
+tool over here
+
+42
+00:01:10,000 --> 00:01:11,200
+click on the canvas and for this
+
+43
+00:01:11,200 --> 00:01:12,960
+tutorial i'm just going to use a capital
+
+44
+00:01:12,960 --> 00:01:13,680
+letter g
+
+45
+00:01:13,680 --> 00:01:15,439
+you can use whatever letter or number
+
+46
+00:01:15,439 --> 00:01:16,880
+you want though
+
+47
+00:01:16,880 --> 00:01:18,479
+and i'm going to change the font of this
+
+48
+00:01:18,479 --> 00:01:19,840
+i'm going to click on the text editor up
+
+49
+00:01:19,840 --> 00:01:20,880
+here this little t
+
+50
+00:01:20,880 --> 00:01:23,280
+icon and i'm going to change this to
+
+51
+00:01:23,280 --> 00:01:24,080
+league
+
+52
+00:01:24,080 --> 00:01:26,320
+gothic you don't have to use this font
+
+53
+00:01:26,320 --> 00:01:28,000
+you could use whatever font you'd like
+
+54
+00:01:28,000 --> 00:01:29,439
+it should work just fine with this
+
+55
+00:01:29,439 --> 00:01:31,680
+tutorial and let me grab the select tool
+
+56
+00:01:31,680 --> 00:01:32,799
+over here
+
+57
+00:01:32,799 --> 00:01:35,280
+and let me just scale this up oops not
+
+58
+00:01:35,280 --> 00:01:37,040
+like that let me grab this arrow right
+
+59
+00:01:37,040 --> 00:01:38,400
+here then hold ctrl
+
+60
+00:01:38,400 --> 00:01:41,439
+to lock the proportions put this towards
+
+61
+00:01:41,439 --> 00:01:42,799
+the center of the page scale it up a
+
+62
+00:01:42,799 --> 00:01:43,600
+little more
+
+63
+00:01:43,600 --> 00:01:45,439
+that's looking pretty good and now what
+
+64
+00:01:45,439 --> 00:01:47,280
+i want to do is convert this from a text
+
+65
+00:01:47,280 --> 00:01:49,280
+object to a path so that we can edit it
+
+66
+00:01:49,280 --> 00:01:49,840
+further
+
+67
+00:01:49,840 --> 00:01:52,399
+to do that i'll go to path object to
+
+68
+00:01:52,399 --> 00:01:53,520
+path
+
+69
+00:01:53,520 --> 00:01:55,200
+and then click on the ungroup button
+
+70
+00:01:55,200 --> 00:01:56,640
+over here which is uh this icon that
+
+71
+00:01:56,640 --> 00:01:57,920
+says ungroup or you could
+
+72
+00:01:57,920 --> 00:02:01,200
+press ctrl shift and g
+
+73
+00:02:01,200 --> 00:02:02,960
+now i will take the opacity and bring
+
+74
+00:02:02,960 --> 00:02:04,479
+this down roughly in half
+
+75
+00:02:04,479 --> 00:02:06,399
+and in order to give this the distressed
+
+76
+00:02:06,399 --> 00:02:07,600
+effect we're going to do two different
+
+77
+00:02:07,600 --> 00:02:08,399
+things to it
+
+78
+00:02:08,399 --> 00:02:09,840
+number one we're going to roughen the
+
+79
+00:02:09,840 --> 00:02:12,080
+edges so it looks more whimsical
+
+80
+00:02:12,080 --> 00:02:13,840
+and number two we're going to add a
+
+81
+00:02:13,840 --> 00:02:15,520
+vector texture to the center of the
+
+82
+00:02:15,520 --> 00:02:16,480
+letter here
+
+83
+00:02:16,480 --> 00:02:18,879
+so starting first with the the rough the
+
+84
+00:02:18,879 --> 00:02:20,400
+roughened edges to do that i'm going to
+
+85
+00:02:20,400 --> 00:02:22,400
+grab the edit paths by nodes tool
+
+86
+00:02:22,400 --> 00:02:23,680
+and what we're looking at is the number
+
+87
+00:02:23,680 --> 00:02:25,440
+of nodes here in the letter if you
+
+88
+00:02:25,440 --> 00:02:25,920
+notice
+
+89
+00:02:25,920 --> 00:02:27,520
+during in this curve over here we have a
+
+90
+00:02:27,520 --> 00:02:29,360
+lot of nodes but in this straight line
+
+91
+00:02:29,360 --> 00:02:30,400
+we don't have
+
+92
+00:02:30,400 --> 00:02:31,840
+very many nodes at all so what we want
+
+93
+00:02:31,840 --> 00:02:33,680
+to do is add some new nodes in here
+
+94
+00:02:33,680 --> 00:02:35,519
+by double clicking these lines so that
+
+95
+00:02:35,519 --> 00:02:36,879
+it's more consistent with the rest of
+
+96
+00:02:36,879 --> 00:02:37,519
+the design
+
+97
+00:02:37,519 --> 00:02:39,440
+because the way we're going to roughen
+
+98
+00:02:39,440 --> 00:02:41,840
+these edges is by altering the position
+
+99
+00:02:41,840 --> 00:02:44,800
+of these nodes using an extension which
+
+100
+00:02:44,800 --> 00:02:46,000
+i'm going to show you in just a minute
+
+101
+00:02:46,000 --> 00:02:46,560
+so
+
+102
+00:02:46,560 --> 00:02:48,080
+go ahead and add some new nodes where
+
+103
+00:02:48,080 --> 00:02:49,519
+they are needed so that it looks more
+
+104
+00:02:49,519 --> 00:02:51,120
+consistent all the way through maybe
+
+105
+00:02:51,120 --> 00:02:52,560
+i'll put one here
+
+106
+00:02:52,560 --> 00:02:55,599
+another one right here
+
+107
+00:02:57,360 --> 00:02:58,640
+and i'd say that's looking pretty good
+
+108
+00:02:58,640 --> 00:03:00,400
+right there so we'll go back to the
+
+109
+00:03:00,400 --> 00:03:01,360
+select tool
+
+110
+00:03:01,360 --> 00:03:02,840
+what i want to do now is go to
+
+111
+00:03:02,840 --> 00:03:05,920
+extensions modify path
+
+112
+00:03:05,920 --> 00:03:09,519
+and click on jitter nodes and i'm going
+
+113
+00:03:09,519 --> 00:03:11,519
+to use these presets right here
+
+114
+00:03:11,519 --> 00:03:14,560
+1.0 1.0 shift node selected
+
+115
+00:03:14,560 --> 00:03:17,360
+shift node handles deselected uniform
+
+116
+00:03:17,360 --> 00:03:18,879
+and go ahead and click live preview to
+
+117
+00:03:18,879 --> 00:03:19,920
+see how it looks
+
+118
+00:03:19,920 --> 00:03:21,680
+now the numbers that you should use here
+
+119
+00:03:21,680 --> 00:03:23,440
+depend entirely on the size of your
+
+120
+00:03:23,440 --> 00:03:25,920
+letter if you notice here
+
+121
+00:03:25,920 --> 00:03:30,000
+displacing these two axis at one pixel
+
+122
+00:03:30,000 --> 00:03:31,440
+is perfect it looks good right there if
+
+123
+00:03:31,440 --> 00:03:33,280
+this were too high let's say if i had
+
+124
+00:03:33,280 --> 00:03:35,519
+something like 10
+
+125
+00:03:35,519 --> 00:03:37,040
+it would look something like that or
+
+126
+00:03:37,040 --> 00:03:38,879
+that's not that's not that's that's too
+
+127
+00:03:38,879 --> 00:03:39,920
+much it doesn't even look like a letter
+
+128
+00:03:39,920 --> 00:03:42,080
+anymore so i want to lower that to 1.
+
+129
+00:03:42,080 --> 00:03:43,599
+now i'm mentioning this because you're
+
+130
+00:03:43,599 --> 00:03:45,120
+probably going to have to use a
+
+131
+00:03:45,120 --> 00:03:46,000
+different value
+
+132
+00:03:46,000 --> 00:03:47,599
+other than one in order to get this
+
+133
+00:03:47,599 --> 00:03:49,440
+result so make sure to play around with
+
+134
+00:03:49,440 --> 00:03:50,720
+these numbers a little bit to see what
+
+135
+00:03:50,720 --> 00:03:51,760
+gets the best result
+
+136
+00:03:51,760 --> 00:03:53,439
+what we're looking for is this right
+
+137
+00:03:53,439 --> 00:03:55,040
+here where the edges just look a little
+
+138
+00:03:55,040 --> 00:03:56,879
+roughened like that that's perfect as it
+
+139
+00:03:56,879 --> 00:03:57,360
+is so
+
+140
+00:03:57,360 --> 00:04:00,480
+i'll click apply then close out of that
+
+141
+00:04:00,480 --> 00:04:02,799
+and now we want to do is apply a texture
+
+142
+00:04:02,799 --> 00:04:03,680
+to this letter
+
+143
+00:04:03,680 --> 00:04:05,840
+but i don't want to apply the texture to
+
+144
+00:04:05,840 --> 00:04:07,599
+the entire letter i want it
+
+145
+00:04:07,599 --> 00:04:10,400
+to only be applied to the center of the
+
+146
+00:04:10,400 --> 00:04:12,000
+letter here the middle portion so i'm
+
+147
+00:04:12,000 --> 00:04:13,439
+going to create a duplicate of this
+
+148
+00:04:13,439 --> 00:04:15,120
+letter and then offset it
+
+149
+00:04:15,120 --> 00:04:17,040
+to make it smaller and then use that as
+
+150
+00:04:17,040 --> 00:04:18,238
+the reference selection
+
+151
+00:04:18,238 --> 00:04:20,079
+for applying the texture so i'm going to
+
+152
+00:04:20,079 --> 00:04:21,358
+right click this object and go to
+
+153
+00:04:21,358 --> 00:04:22,639
+duplicate
+
+154
+00:04:22,639 --> 00:04:24,639
+and i'm going to make this green just so
+
+155
+00:04:24,639 --> 00:04:26,320
+we can differentiate it
+
+156
+00:04:26,320 --> 00:04:27,360
+and i'm going to come up here to where
+
+157
+00:04:27,360 --> 00:04:29,120
+it says path and i'm going to click on
+
+158
+00:04:29,120 --> 00:04:30,479
+simplify to get rid of some of those
+
+159
+00:04:30,479 --> 00:04:31,600
+nodes that we added
+
+160
+00:04:31,600 --> 00:04:32,800
+and then we'll come over here and go to
+
+161
+00:04:32,800 --> 00:04:35,680
+path and i will look for
+
+162
+00:04:35,680 --> 00:04:38,479
+dynamic offset and now i want to take
+
+163
+00:04:38,479 --> 00:04:40,000
+this little node up here and just bring
+
+164
+00:04:40,000 --> 00:04:41,280
+this down
+
+165
+00:04:41,280 --> 00:04:43,759
+so that we have this smaller version of
+
+166
+00:04:43,759 --> 00:04:44,560
+the letter
+
+167
+00:04:44,560 --> 00:04:46,560
+inside of it like that and that green
+
+168
+00:04:46,560 --> 00:04:48,080
+area that's where we want the texture to
+
+169
+00:04:48,080 --> 00:04:48,880
+be applied
+
+170
+00:04:48,880 --> 00:04:51,120
+so let's finalize that by going to path
+
+171
+00:04:51,120 --> 00:04:52,639
+object to path
+
+172
+00:04:52,639 --> 00:04:54,479
+go back to the select tool and now what
+
+173
+00:04:54,479 --> 00:04:57,199
+i want to do is import a vector texture
+
+174
+00:04:57,199 --> 00:04:58,800
+i will have this linked in the
+
+175
+00:04:58,800 --> 00:05:00,080
+description of the video to where you
+
+176
+00:05:00,080 --> 00:05:02,479
+can go and download this svg texture so
+
+177
+00:05:02,479 --> 00:05:04,400
+you can work with it i'm just going to
+
+178
+00:05:04,400 --> 00:05:06,160
+open up the folder here on my other
+
+179
+00:05:06,160 --> 00:05:07,680
+monitor and uh
+
+180
+00:05:07,680 --> 00:05:09,520
+well i'll show you over here i have this
+
+181
+00:05:09,520 --> 00:05:11,400
+open like this i'm going to take this
+
+182
+00:05:11,400 --> 00:05:13,120
+scratch.svg and i'm just going to click
+
+183
+00:05:13,120 --> 00:05:15,199
+and drag that into inkscape like that
+
+184
+00:05:15,199 --> 00:05:16,720
+and it's going to ask all of this stuff
+
+185
+00:05:16,720 --> 00:05:17,840
+i'm just going to leave the defaults
+
+186
+00:05:17,840 --> 00:05:20,080
+click ok
+
+187
+00:05:20,080 --> 00:05:21,520
+and there is our let me zoom out a
+
+188
+00:05:21,520 --> 00:05:22,720
+little bit to zoom out i'm going to hold
+
+189
+00:05:22,720 --> 00:05:24,560
+ctrl and roll down the mouse wheel
+
+190
+00:05:24,560 --> 00:05:28,400
+there is our vector texture now let me
+
+191
+00:05:28,400 --> 00:05:30,960
+position this over the green area if you
+
+192
+00:05:30,960 --> 00:05:32,320
+notice where the red
+
+193
+00:05:32,320 --> 00:05:34,160
+and the green are intersecting that's
+
+194
+00:05:34,160 --> 00:05:36,639
+going to be the area where the
+
+195
+00:05:36,639 --> 00:05:38,080
+the texture is applied to the letter so
+
+196
+00:05:38,080 --> 00:05:39,039
+i just want to make sure i have it
+
+197
+00:05:39,039 --> 00:05:40,479
+positioned where i want it
+
+198
+00:05:40,479 --> 00:05:42,160
+that right there looks pretty good so
+
+199
+00:05:42,160 --> 00:05:43,360
+i'm going to hold i'm going to click on
+
+200
+00:05:43,360 --> 00:05:45,280
+this green letter to select that
+
+201
+00:05:45,280 --> 00:05:46,639
+and then i'm going to hold shift and
+
+202
+00:05:46,639 --> 00:05:48,400
+click on the red texture
+
+203
+00:05:48,400 --> 00:05:49,919
+and with them both selected i'll go to
+
+204
+00:05:49,919 --> 00:05:53,680
+path intersection
+
+205
+00:05:53,680 --> 00:05:55,199
+and then i'll hold shift and click on
+
+206
+00:05:55,199 --> 00:05:57,680
+the letter and go to path
+
+207
+00:05:57,680 --> 00:06:00,319
+difference and what we can do now is
+
+208
+00:06:00,319 --> 00:06:02,479
+bring the opacity all the way back up
+
+209
+00:06:02,479 --> 00:06:04,720
+and zoom out and as you can see we are
+
+210
+00:06:04,720 --> 00:06:06,960
+finished that is how you can
+
+211
+00:06:06,960 --> 00:06:09,360
+pretty easily create a distressed text
+
+212
+00:06:09,360 --> 00:06:11,199
+effect using inkscape so
+
+213
+00:06:11,199 --> 00:06:12,479
+if you have any questions just leave a
+
+214
+00:06:12,479 --> 00:06:16,240
+comment below and as always thanks for
+
+215
+00:06:18,840 --> 00:06:21,840
+watching
+
+216
+00:06:23,180 --> 00:06:36,749
+[Music]
+

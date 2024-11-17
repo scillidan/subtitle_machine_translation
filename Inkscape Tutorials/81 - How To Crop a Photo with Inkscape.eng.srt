@@ -1,0 +1,952 @@
+1
+00:00:01,020 --> 00:00:06,920
+[Music]
+
+2
+00:00:07,429 --> 00:00:10,440
+this is Nick of logos by Nick comm and
+
+3
+00:00:10,440 --> 00:00:11,519
+in today's tutorial I'll be
+
+4
+00:00:11,519 --> 00:00:13,110
+demonstrating how you can crop a photo
+
+5
+00:00:13,110 --> 00:00:15,690
+using Inkscape and if you'd like to
+
+6
+00:00:15,690 --> 00:00:17,220
+learn more about how Inkscape works be
+
+7
+00:00:17,220 --> 00:00:18,900
+sure to check out the Inkscape master
+
+8
+00:00:18,900 --> 00:00:21,300
+class which is a collection of over 50
+
+9
+00:00:21,300 --> 00:00:23,250
+videos where I go over every single tool
+
+10
+00:00:23,250 --> 00:00:24,960
+and feature in Inkscape and I explain
+
+11
+00:00:24,960 --> 00:00:26,310
+what it is and demonstrate how it works
+
+12
+00:00:26,310 --> 00:00:28,109
+I'll put a link in the description of
+
+13
+00:00:28,109 --> 00:00:29,310
+the video if you want to check that out
+
+14
+00:00:29,310 --> 00:00:31,410
+so to get started here I'm going to open
+
+15
+00:00:31,410 --> 00:00:32,940
+up Inkscape the first thing we want to
+
+16
+00:00:32,940 --> 00:00:34,410
+do is just make sure that we set up our
+
+17
+00:00:34,410 --> 00:00:35,760
+documents that we're all working with
+
+18
+00:00:35,760 --> 00:00:37,500
+this similar setup I'm gonna come up
+
+19
+00:00:37,500 --> 00:00:39,149
+here to where it says view we're gonna
+
+20
+00:00:39,149 --> 00:00:41,160
+want custom selected and then I'm going
+
+21
+00:00:41,160 --> 00:00:43,559
+to go to zoom going to zoom in at 1 to 1
+
+22
+00:00:43,559 --> 00:00:48,270
+and then I want to open up the the edit
+
+23
+00:00:48,270 --> 00:00:50,190
+objects colors gradients and Stroke menu
+
+24
+00:00:50,190 --> 00:00:51,780
+with this button up here or you could
+
+25
+00:00:51,780 --> 00:00:54,780
+just press control shift F as a keyboard
+
+26
+00:00:54,780 --> 00:00:57,180
+shortcut and what I want to do now is
+
+27
+00:00:57,180 --> 00:00:59,370
+import my photo into Inkscape you can do
+
+28
+00:00:59,370 --> 00:01:01,230
+that by going to file import and
+
+29
+00:01:01,230 --> 00:01:03,120
+navigating to the file on your hard
+
+30
+00:01:03,120 --> 00:01:04,949
+drive where the photo is located what I
+
+31
+00:01:04,949 --> 00:01:06,479
+like to do is I like to just grab a
+
+32
+00:01:06,479 --> 00:01:08,100
+folder like this and just click and drag
+
+33
+00:01:08,100 --> 00:01:11,189
+it into Inkscape like that and I'm just
+
+34
+00:01:11,189 --> 00:01:12,720
+gonna choose M bed if it asks you if you
+
+35
+00:01:12,720 --> 00:01:14,310
+want to embed it or link it I just like
+
+36
+00:01:14,310 --> 00:01:16,439
+to go with embed and there we go there's
+
+37
+00:01:16,439 --> 00:01:17,759
+the photo I'm gonna be cropping let me
+
+38
+00:01:17,759 --> 00:01:18,840
+zoom out a little bit I'm gonna hold
+
+39
+00:01:18,840 --> 00:01:20,909
+ctrl and roll down the mouse wheel to
+
+40
+00:01:20,909 --> 00:01:22,530
+zoom out a little bit what I'm gonna be
+
+41
+00:01:22,530 --> 00:01:24,689
+doing here is removing the subject from
+
+42
+00:01:24,689 --> 00:01:27,479
+the background here now before we get
+
+43
+00:01:27,479 --> 00:01:28,890
+started I just have to mention that this
+
+44
+00:01:28,890 --> 00:01:30,240
+is the sort of thing that would be
+
+45
+00:01:30,240 --> 00:01:31,920
+better suited for an application like
+
+46
+00:01:31,920 --> 00:01:34,439
+ inkscape isn't really designed for
+
+47
+00:01:34,439 --> 00:01:35,909
+working with photos like this it's more
+
+48
+00:01:35,909 --> 00:01:38,520
+for vector design but if you don't feel
+
+49
+00:01:38,520 --> 00:01:40,229
+like downloading if you're not a
+
+50
+00:01:40,229 --> 00:01:41,369
+user and you don't feel like downloading
+
+51
+00:01:41,369 --> 00:01:43,049
+and installing and learning how to
+
+52
+00:01:43,049 --> 00:01:44,939
+use a new piece of software this can
+
+53
+00:01:44,939 --> 00:01:46,710
+absolutely be done with Inkscape in fact
+
+54
+00:01:46,710 --> 00:01:48,530
+i do this with Inkscape all the time so
+
+55
+00:01:48,530 --> 00:01:50,369
+just wanted to throw that out there
+
+56
+00:01:50,369 --> 00:01:51,869
+before we get started so let me get
+
+57
+00:01:51,869 --> 00:01:53,070
+started here I'm gonna zoom in a little
+
+58
+00:01:53,070 --> 00:01:54,750
+bit to zoom in and out again who's
+
+59
+00:01:54,750 --> 00:01:56,250
+holding ctrl and rolling up and down the
+
+60
+00:01:56,250 --> 00:01:57,840
+mouse wheel we'll be doing that a lot
+
+61
+00:01:57,840 --> 00:01:59,579
+throughout this tutorial we'll also be
+
+62
+00:01:59,579 --> 00:02:01,290
+moving the page around like this to do
+
+63
+00:02:01,290 --> 00:02:02,729
+this I'm pressing down the mouse wheel
+
+64
+00:02:02,729 --> 00:02:04,560
+and moving the mouse just basic
+
+65
+00:02:04,560 --> 00:02:05,820
+navigation tools you're gonna have to
+
+66
+00:02:05,820 --> 00:02:07,979
+keep in mind while working on this I'm
+
+67
+00:02:07,979 --> 00:02:09,449
+gonna start over here about the lower
+
+68
+00:02:09,449 --> 00:02:11,819
+right edge of the subject I'm going to
+
+69
+00:02:11,819 --> 00:02:12,560
+grab the bezel
+
+70
+00:02:12,560 --> 00:02:14,090
+which is over here or you could present
+
+71
+00:02:14,090 --> 00:02:16,790
+beyond the keyboard and I'm going to
+
+72
+00:02:16,790 --> 00:02:18,290
+click to create a point outside of the
+
+73
+00:02:18,290 --> 00:02:20,480
+photo here and I'm going to start
+
+74
+00:02:20,480 --> 00:02:23,420
+creating points going around the edge of
+
+75
+00:02:23,420 --> 00:02:26,510
+the subject here just like this and if
+
+76
+00:02:26,510 --> 00:02:28,459
+you notice these lines aren't exactly
+
+77
+00:02:28,459 --> 00:02:30,110
+smooth they're not following the
+
+78
+00:02:30,110 --> 00:02:32,360
+contours of the subjects outline here
+
+79
+00:02:32,360 --> 00:02:34,069
+but that's okay we're gonna go back and
+
+80
+00:02:34,069 --> 00:02:35,390
+fix that later so don't worry about that
+
+81
+00:02:35,390 --> 00:02:37,250
+right now just go ahead and click to
+
+82
+00:02:37,250 --> 00:02:39,620
+create these points going around the
+
+83
+00:02:39,620 --> 00:02:41,450
+subject and this is a pretty big photo
+
+84
+00:02:41,450 --> 00:02:42,830
+with a lot of points to create so what
+
+85
+00:02:42,830 --> 00:02:44,030
+I'm gonna do is I'm gonna do this and
+
+86
+00:02:44,030 --> 00:02:45,680
+I'm gonna fast forward and I'll catch up
+
+87
+00:02:45,680 --> 00:02:48,459
+with you what I'm done
+
+88
+00:02:53,060 --> 00:02:54,950
+okay so as you can see here I went
+
+89
+00:02:54,950 --> 00:02:56,690
+around the outside of the subject here
+
+90
+00:02:56,690 --> 00:02:58,430
+and I've traced an outline coming out to
+
+91
+00:02:58,430 --> 00:03:00,200
+the other end of the photo what I'm
+
+92
+00:03:00,200 --> 00:03:01,970
+gonna do is I'm just gonna bring this
+
+93
+00:03:01,970 --> 00:03:04,220
+line around outside the photo over here
+
+94
+00:03:04,220 --> 00:03:05,540
+and connect it back to the starting
+
+95
+00:03:05,540 --> 00:03:07,220
+point by clicking on that and it's gonna
+
+96
+00:03:07,220 --> 00:03:08,630
+create a shape there like that if you
+
+97
+00:03:08,630 --> 00:03:10,280
+notice now we have a shape going around
+
+98
+00:03:10,280 --> 00:03:12,140
+the outline of the subject let me go
+
+99
+00:03:12,140 --> 00:03:13,790
+ahead and undo that what we want to do
+
+100
+00:03:13,790 --> 00:03:15,020
+now is we want to account for these
+
+101
+00:03:15,020 --> 00:03:17,030
+negative space areas within this within
+
+102
+00:03:17,030 --> 00:03:19,010
+the subject here assuming your photo
+
+103
+00:03:19,010 --> 00:03:20,959
+does have these negative space areas if
+
+104
+00:03:20,959 --> 00:03:22,100
+it doesn't don't worry about it but
+
+105
+00:03:22,100 --> 00:03:23,510
+we're gonna have to eliminate these
+
+106
+00:03:23,510 --> 00:03:25,640
+areas like between the hand and the
+
+107
+00:03:25,640 --> 00:03:28,100
+shoulder over here and the same over
+
+108
+00:03:28,100 --> 00:03:29,390
+here on this side so I'm gonna do is I'm
+
+109
+00:03:29,390 --> 00:03:32,180
+gonna create more shapes inside of here
+
+110
+00:03:32,180 --> 00:03:34,720
+doing the same thing just creating
+
+111
+00:03:34,720 --> 00:03:36,890
+following along the contours of the
+
+112
+00:03:36,890 --> 00:03:39,440
+subject with the Bezier pen by creating
+
+113
+00:03:39,440 --> 00:03:41,959
+points like that I'll put one right
+
+114
+00:03:41,959 --> 00:03:47,170
+there another one here for the hair
+
+115
+00:03:57,630 --> 00:04:00,160
+okay so once you're done accounting for
+
+116
+00:04:00,160 --> 00:04:02,260
+all of the areas of negative space what
+
+117
+00:04:02,260 --> 00:04:03,460
+we want to do is combine them all
+
+118
+00:04:03,460 --> 00:04:04,900
+together by grabbing the select tool
+
+119
+00:04:04,900 --> 00:04:07,420
+over here I'm gonna grab this area right
+
+120
+00:04:07,420 --> 00:04:09,070
+here I'm gonna hold shift and click on
+
+121
+00:04:09,070 --> 00:04:10,480
+the other one so that we can select
+
+122
+00:04:10,480 --> 00:04:12,790
+multiples at a time I'm gonna hold shift
+
+123
+00:04:12,790 --> 00:04:14,590
+click on that one and then hold shift
+
+124
+00:04:14,590 --> 00:04:15,910
+and click on that one and you should
+
+125
+00:04:15,910 --> 00:04:17,320
+have all of them selected if you
+
+126
+00:04:17,320 --> 00:04:19,149
+shift-click them and what I want to do
+
+127
+00:04:19,149 --> 00:04:21,480
+is unify them together by going to path
+
+128
+00:04:21,480 --> 00:04:25,030
+Union and now what I want to do is take
+
+129
+00:04:25,030 --> 00:04:27,160
+that group of unified objects and
+
+130
+00:04:27,160 --> 00:04:29,770
+subtract them from the main outline that
+
+131
+00:04:29,770 --> 00:04:31,180
+we created in the background over there
+
+132
+00:04:31,180 --> 00:04:33,460
+so with this group of objects selected
+
+133
+00:04:33,460 --> 00:04:35,080
+I'm going to hold shift and I'm going to
+
+134
+00:04:35,080 --> 00:04:36,940
+click on the original outline and I'm
+
+135
+00:04:36,940 --> 00:04:40,330
+gonna go to path difference and nothing
+
+136
+00:04:40,330 --> 00:04:41,560
+is going to change visually on the
+
+137
+00:04:41,560 --> 00:04:43,570
+screen but if you change the color of
+
+138
+00:04:43,570 --> 00:04:46,060
+the object here you'll see it now fits
+
+139
+00:04:46,060 --> 00:04:49,120
+the shape of the subject here if you see
+
+140
+00:04:49,120 --> 00:04:50,500
+I missed that one so let me just
+
+141
+00:04:50,500 --> 00:04:51,640
+subtract that as well
+
+142
+00:04:51,640 --> 00:04:55,900
+path difference there we go okay so what
+
+143
+00:04:55,900 --> 00:04:57,460
+I want to do now is I want to go back to
+
+144
+00:04:57,460 --> 00:04:58,930
+where what I was talking about earlier
+
+145
+00:04:58,930 --> 00:05:00,460
+with those rough lines I want to make
+
+146
+00:05:00,460 --> 00:05:01,960
+them smooth so let me turn off the fill
+
+147
+00:05:01,960 --> 00:05:04,120
+color of this and let me zoom in on this
+
+148
+00:05:04,120 --> 00:05:07,000
+area over here where we started out let
+
+149
+00:05:07,000 --> 00:05:08,620
+me go to the edit pads by nodes tool
+
+150
+00:05:08,620 --> 00:05:10,660
+over here or a good pressed end on the
+
+151
+00:05:10,660 --> 00:05:13,330
+keyboard let me just fix that one it's
+
+152
+00:05:13,330 --> 00:05:14,920
+not quite right there we go what I'm
+
+153
+00:05:14,920 --> 00:05:16,000
+gonna do is I'm gonna click and drag
+
+154
+00:05:16,000 --> 00:05:17,800
+over this node right here and I'm gonna
+
+155
+00:05:17,800 --> 00:05:19,240
+click on this button that says make
+
+156
+00:05:19,240 --> 00:05:22,060
+selected nodes Auto smooth and it's
+
+157
+00:05:22,060 --> 00:05:23,740
+gonna make that node smooth so that it's
+
+158
+00:05:23,740 --> 00:05:26,290
+no longer like a rough like a like a
+
+159
+00:05:26,290 --> 00:05:28,510
+polygonal sort of corner it's gonna make
+
+160
+00:05:28,510 --> 00:05:29,680
+it smooth I'll do the same thing with
+
+161
+00:05:29,680 --> 00:05:31,990
+this node over here make that smooth and
+
+162
+00:05:31,990 --> 00:05:32,860
+what we're gonna do is we're gonna go
+
+163
+00:05:32,860 --> 00:05:34,000
+through and do this with all of these
+
+164
+00:05:34,000 --> 00:05:35,860
+nodes but we're not gonna do this node
+
+165
+00:05:35,860 --> 00:05:37,210
+by node because that would take forever
+
+166
+00:05:37,210 --> 00:05:38,770
+what I'm gonna do is I'm gonna select
+
+167
+00:05:38,770 --> 00:05:40,690
+these multiples at a time by holding
+
+168
+00:05:40,690 --> 00:05:43,360
+shift and clicking on them you can't
+
+169
+00:05:43,360 --> 00:05:45,220
+select multiples at a time as I'm doing
+
+170
+00:05:45,220 --> 00:05:46,600
+here just hold your shift and click and
+
+171
+00:05:46,600 --> 00:05:48,640
+drag over them and make sure not to
+
+172
+00:05:48,640 --> 00:05:50,230
+select any corner so let me show you
+
+173
+00:05:50,230 --> 00:05:52,000
+what I mean I'm gonna come over here I'm
+
+174
+00:05:52,000 --> 00:05:53,620
+not gonna select that node because it's
+
+175
+00:05:53,620 --> 00:05:54,669
+a corner I don't want to make that
+
+176
+00:05:54,669 --> 00:05:56,560
+smooth so with these selected let me
+
+177
+00:05:56,560 --> 00:05:58,900
+make those Auto smooth and if you notice
+
+178
+00:05:58,900 --> 00:06:00,460
+it's now smooth it now follows the
+
+179
+00:06:00,460 --> 00:06:02,140
+contours of the subject they're a little
+
+180
+00:06:02,140 --> 00:06:04,180
+more closely if you take a corner node
+
+181
+00:06:04,180 --> 00:06:06,070
+and you make that smooth you're gonna
+
+182
+00:06:06,070 --> 00:06:07,660
+end up with that we don't want to end up
+
+183
+00:06:07,660 --> 00:06:08,890
+with that right there so let me undo
+
+184
+00:06:08,890 --> 00:06:10,510
+that by hitting ctrl Z
+
+185
+00:06:10,510 --> 00:06:12,550
+and I'm gonna go through and select more
+
+186
+00:06:12,550 --> 00:06:15,100
+of these nodes making sure to avoid the
+
+187
+00:06:15,100 --> 00:06:19,060
+corners like I previously mentioned let
+
+188
+00:06:19,060 --> 00:06:22,810
+me see let me see how this looks okay
+
+189
+00:06:22,810 --> 00:06:23,230
+good
+
+190
+00:06:23,230 --> 00:06:24,610
+let me go through here and do this as
+
+191
+00:06:24,610 --> 00:06:26,560
+well I'm gonna go through the entire
+
+192
+00:06:26,560 --> 00:06:27,880
+image and do this with all of these
+
+193
+00:06:27,880 --> 00:06:29,500
+nodes and then once again I'll I'll
+
+194
+00:06:29,500 --> 00:06:32,580
+catch up if you when I'm done
+
+195
+00:06:36,710 --> 00:06:39,120
+okay so I finished going through and
+
+196
+00:06:39,120 --> 00:06:41,190
+smoothing out all of the nodes of the
+
+197
+00:06:41,190 --> 00:06:43,650
+the outline here now we're ready to crop
+
+198
+00:06:43,650 --> 00:06:44,880
+so what I'm gonna do is I'm gonna grab
+
+199
+00:06:44,880 --> 00:06:46,980
+the select tool I want to take this
+
+200
+00:06:46,980 --> 00:06:48,330
+object right here I just want to give
+
+201
+00:06:48,330 --> 00:06:49,680
+this a different color look I'm gonna
+
+202
+00:06:49,680 --> 00:06:51,270
+make this green for example just so we
+
+203
+00:06:51,270 --> 00:06:53,430
+can see what exactly will be cropping
+
+204
+00:06:53,430 --> 00:06:55,440
+right here now what I want to do is get
+
+205
+00:06:55,440 --> 00:06:56,730
+rid of that outline so I'm gonna hold
+
+206
+00:06:56,730 --> 00:06:58,410
+shift I'm gonna click on this little red
+
+207
+00:06:58,410 --> 00:06:59,900
+X down here in the bottom left corner
+
+208
+00:06:59,900 --> 00:07:02,070
+and let me just bring the opacity of
+
+209
+00:07:02,070 --> 00:07:03,540
+this down a little bit just so I can see
+
+210
+00:07:03,540 --> 00:07:05,010
+I just want to double check and make
+
+211
+00:07:05,010 --> 00:07:06,450
+sure that everything that I'm cropping
+
+212
+00:07:06,450 --> 00:07:08,040
+out here looks good and everything it
+
+213
+00:07:08,040 --> 00:07:10,080
+does it looks like everything looks good
+
+214
+00:07:10,080 --> 00:07:11,639
+here looks like it's gonna be a clean
+
+215
+00:07:11,639 --> 00:07:12,810
+crop so what I'm gonna do is I'm gonna
+
+216
+00:07:12,810 --> 00:07:14,729
+hold shift and I'm gonna click on the
+
+217
+00:07:14,729 --> 00:07:16,979
+object right there both the object in
+
+218
+00:07:16,979 --> 00:07:18,600
+the photo we want them both selected and
+
+219
+00:07:18,600 --> 00:07:22,470
+then we'll go to object clip set and if
+
+220
+00:07:22,470 --> 00:07:24,590
+you notice they're the background of the
+
+221
+00:07:24,590 --> 00:07:27,690
+of the photo is now gone in fact you can
+
+222
+00:07:27,690 --> 00:07:30,360
+create a rectangle let me go to the
+
+223
+00:07:30,360 --> 00:07:31,530
+rectangle tool right here
+
+224
+00:07:31,530 --> 00:07:34,350
+create a rectangle grab the Select tool
+
+225
+00:07:34,350 --> 00:07:36,600
+send this to the bottom and you can see
+
+226
+00:07:36,600 --> 00:07:38,970
+we have our subject cropped out from the
+
+227
+00:07:38,970 --> 00:07:40,919
+background now if any point you want to
+
+228
+00:07:40,919 --> 00:07:42,960
+go back and remove this crop you just go
+
+229
+00:07:42,960 --> 00:07:47,039
+to object clip objects clip release and
+
+230
+00:07:47,039 --> 00:07:48,690
+it'll release it so you can go back to
+
+231
+00:07:48,690 --> 00:07:50,550
+the original photo of how it was
+
+232
+00:07:50,550 --> 00:07:51,750
+otherwise you can just leave it right
+
+233
+00:07:51,750 --> 00:07:53,610
+there as it is and that is how you can
+
+234
+00:07:53,610 --> 00:07:56,010
+go about cropping a photo with Inkscape
+
+235
+00:07:56,010 --> 00:07:57,570
+if you have any questions let me know
+
+236
+00:07:57,570 --> 00:07:59,960
+and as always thanks for watching
+
+237
+00:07:59,960 --> 00:08:08,190
+[Music]
+
+238
+00:08:13,970 --> 00:08:21,060
+[Music]
+

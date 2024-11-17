@@ -1,0 +1,140 @@
+1
+00:00:00,120 --> 00:00:02,520
+in the last lecture we created a
+
+2
+00:00:02,520 --> 00:00:04,920
+multi-page document now I will save the
+
+3
+00:00:04,920 --> 00:00:06,600
+pages as a PDF
+
+4
+00:00:06,600 --> 00:00:09,120
+I go to file save as
+
+5
+00:00:09,120 --> 00:00:11,820
+behind save as type I choose portable
+
+6
+00:00:11,820 --> 00:00:14,219
+document format I will choose the
+
+7
+00:00:14,219 --> 00:00:15,839
+highest pdf version
+
+8
+00:00:15,839 --> 00:00:18,119
+if you want your text to stay text so it
+
+9
+00:00:18,119 --> 00:00:20,220
+can be selected and copied choose embed
+
+10
+00:00:20,220 --> 00:00:23,279
+fonts otherwise choose convert text to
+
+11
+00:00:23,279 --> 00:00:26,279
+paths if you used blur for example for
+
+12
+00:00:26,279 --> 00:00:28,320
+making a shadow or you applied a filter
+
+13
+00:00:28,320 --> 00:00:30,420
+you will have to rasterize these effects
+
+14
+00:00:30,420 --> 00:00:33,300
+if you want them displayed in your PDF
+
+15
+00:00:33,300 --> 00:00:35,280
+because I save for print I will set
+
+16
+00:00:35,280 --> 00:00:39,239
+rasterize filter effects to 300 DPI it
+
+17
+00:00:39,239 --> 00:00:41,579
+is also possible to save a PDF with
+
+18
+00:00:41,579 --> 00:00:43,440
+extra space around each page called
+
+19
+00:00:43,440 --> 00:00:46,379
+bleed as indicated in the menu you can
+
+20
+00:00:46,379 --> 00:00:48,480
+set page bleed with the page tool which
+
+21
+00:00:48,480 --> 00:00:50,520
+can be found below margins
+
+22
+00:00:50,520 --> 00:00:52,800
+keep in mind that for creating PDF files
+
+23
+00:00:52,800 --> 00:00:55,020
+with multiple Pages you can also use a
+
+24
+00:00:55,020 --> 00:00:56,879
+dedicated desktop publishing software
+
+25
+00:00:56,879 --> 00:00:58,199
+like Scripps
+
+26
+00:00:58,199 --> 00:01:00,180
+I have a complete course about scribus
+
+27
+00:01:00,180 --> 00:01:01,260
+on this channel
+
+28
+00:01:01,260 --> 00:01:03,719
+I created spreads in inkscape so I also
+
+29
+00:01:03,719 --> 00:01:05,820
+would like to view spreads in acrobat
+
+30
+00:01:05,820 --> 00:01:08,040
+to do this I can click on the show two
+
+31
+00:01:08,040 --> 00:01:10,200
+pages side by side icon
+
+32
+00:01:10,200 --> 00:01:13,260
+or I can go to view page display to page
+
+33
+00:01:13,260 --> 00:01:14,840
+view
+
+34
+00:01:14,840 --> 00:01:16,920
+[Music]
+
+35
+00:01:16,920 --> 00:01:19,159
+foreign
+

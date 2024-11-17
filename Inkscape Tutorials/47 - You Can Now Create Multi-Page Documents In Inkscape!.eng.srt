@@ -1,0 +1,768 @@
+1
+00:00:01,020 --> 00:00:06,910
+[Music]
+
+2
+00:00:08,800 --> 00:00:11,519
+this is nick with logosbynic.com and in
+
+3
+00:00:11,519 --> 00:00:13,200
+this lesson we'll be going over how you
+
+4
+00:00:13,200 --> 00:00:15,759
+can create multi-page documents using
+
+5
+00:00:15,759 --> 00:00:18,080
+inkscape now in order to follow along
+
+6
+00:00:18,080 --> 00:00:19,680
+with this lesson you'll need to update
+
+7
+00:00:19,680 --> 00:00:22,640
+to version 1.2 which was just released
+
+8
+00:00:22,640 --> 00:00:25,279
+yesterday because this is a new feature
+
+9
+00:00:25,279 --> 00:00:27,279
+to inkscape if you remember a couple of
+
+10
+00:00:27,279 --> 00:00:28,560
+years ago i made a tutorial
+
+11
+00:00:28,560 --> 00:00:30,960
+demonstrating how to design pdf reports
+
+12
+00:00:30,960 --> 00:00:32,800
+and ebooks and various types of
+
+13
+00:00:32,800 --> 00:00:35,200
+multi-page documents but because
+
+14
+00:00:35,200 --> 00:00:37,280
+inkscape didn't have the ability to do
+
+15
+00:00:37,280 --> 00:00:39,440
+this at the time we had to save each
+
+16
+00:00:39,440 --> 00:00:42,079
+page as an individual pdf and then merge
+
+17
+00:00:42,079 --> 00:00:43,440
+them together using a third-party
+
+18
+00:00:43,440 --> 00:00:44,719
+application
+
+19
+00:00:44,719 --> 00:00:47,440
+but thanks to version 1.2 those days are
+
+20
+00:00:47,440 --> 00:00:49,039
+over so let's get started here and
+
+21
+00:00:49,039 --> 00:00:50,800
+demonstrate how this works so when you
+
+22
+00:00:50,800 --> 00:00:53,039
+open up inkscape version 1.2 this should
+
+23
+00:00:53,039 --> 00:00:54,879
+be your view when you first open a new
+
+24
+00:00:54,879 --> 00:00:57,039
+document this white square right here or
+
+25
+00:00:57,039 --> 00:00:59,520
+rectangle rather represents your page
+
+26
+00:00:59,520 --> 00:01:00,559
+now if you notice down here at the
+
+27
+00:01:00,559 --> 00:01:02,000
+bottom of the tools menu you'll see you
+
+28
+00:01:02,000 --> 00:01:04,799
+have a new tool here called the create
+
+29
+00:01:04,799 --> 00:01:07,119
+and edit document pages tool if you
+
+30
+00:01:07,119 --> 00:01:09,520
+click on that it'll activate nodes on
+
+31
+00:01:09,520 --> 00:01:10,960
+your page right here and you can take
+
+32
+00:01:10,960 --> 00:01:12,799
+these nodes and use them to scale them
+
+33
+00:01:12,799 --> 00:01:14,640
+and change the size of your document and
+
+34
+00:01:14,640 --> 00:01:16,320
+you could even move your document around
+
+35
+00:01:16,320 --> 00:01:18,640
+the workspace like this if you need to
+
+36
+00:01:18,640 --> 00:01:20,000
+do that
+
+37
+00:01:20,000 --> 00:01:21,680
+now what you can also do with this tool
+
+38
+00:01:21,680 --> 00:01:24,000
+is you can click and drag like this to
+
+39
+00:01:24,000 --> 00:01:25,680
+create another page like that and now
+
+40
+00:01:25,680 --> 00:01:28,400
+you have two different pages here
+
+41
+00:01:28,400 --> 00:01:30,159
+okay now if you want to create an exact
+
+42
+00:01:30,159 --> 00:01:31,840
+copy of a page you already have what you
+
+43
+00:01:31,840 --> 00:01:33,040
+can do is you can click on one of those
+
+44
+00:01:33,040 --> 00:01:34,960
+pages and you come up here to the tools
+
+45
+00:01:34,960 --> 00:01:36,799
+menu bar at the top of the screen and
+
+46
+00:01:36,799 --> 00:01:38,079
+click on this little icon right here
+
+47
+00:01:38,079 --> 00:01:40,000
+that says create a new page and when you
+
+48
+00:01:40,000 --> 00:01:41,439
+click on that it's going to create a new
+
+49
+00:01:41,439 --> 00:01:43,840
+page in the same dimensions that the
+
+50
+00:01:43,840 --> 00:01:45,920
+current page that you have selected is
+
+51
+00:01:45,920 --> 00:01:48,240
+so this new page is the same size as
+
+52
+00:01:48,240 --> 00:01:50,320
+this page over here
+
+53
+00:01:50,320 --> 00:01:51,520
+now if you look over here through this
+
+54
+00:01:51,520 --> 00:01:52,799
+drop down we have all of these different
+
+55
+00:01:52,799 --> 00:01:54,159
+pre-made templates that you can choose
+
+56
+00:01:54,159 --> 00:01:55,520
+from if you want to change the size of
+
+57
+00:01:55,520 --> 00:01:58,240
+your page to something specific say for
+
+58
+00:01:58,240 --> 00:02:00,479
+example if you're designing a us letter
+
+59
+00:02:00,479 --> 00:02:02,479
+8.5 by 11 inches you can change it to
+
+60
+00:02:02,479 --> 00:02:04,159
+that right there and there you go now
+
+61
+00:02:04,159 --> 00:02:06,799
+you have 8.5 by 11 inch document and
+
+62
+00:02:06,799 --> 00:02:08,318
+then again you could change this using
+
+63
+00:02:08,318 --> 00:02:10,080
+these nodes at any time just as you
+
+64
+00:02:10,080 --> 00:02:12,000
+would with the original page
+
+65
+00:02:12,000 --> 00:02:14,640
+okay so looking up through these uh menu
+
+66
+00:02:14,640 --> 00:02:16,160
+items right here let's go over what each
+
+67
+00:02:16,160 --> 00:02:17,920
+of these things do now if you notice
+
+68
+00:02:17,920 --> 00:02:20,160
+over here as i click on these different
+
+69
+00:02:20,160 --> 00:02:21,760
+pages you'll see up here they are
+
+70
+00:02:21,760 --> 00:02:24,160
+ordered one through three this is page
+
+71
+00:02:24,160 --> 00:02:25,280
+one of three
+
+72
+00:02:25,280 --> 00:02:27,440
+this is page two of three and this is
+
+73
+00:02:27,440 --> 00:02:30,000
+page three of three this represents the
+
+74
+00:02:30,000 --> 00:02:32,160
+order of the pages so if i were to save
+
+75
+00:02:32,160 --> 00:02:34,800
+this as a pdf document this would be the
+
+76
+00:02:34,800 --> 00:02:37,360
+first page this would be the second page
+
+77
+00:02:37,360 --> 00:02:39,120
+and this would be the third page if i
+
+78
+00:02:39,120 --> 00:02:40,640
+want to change their order at any point
+
+79
+00:02:40,640 --> 00:02:42,400
+all i have to do is select one of them
+
+80
+00:02:42,400 --> 00:02:43,920
+and then on either side of the order
+
+81
+00:02:43,920 --> 00:02:45,200
+right here we have this one that says
+
+82
+00:02:45,200 --> 00:02:47,120
+move page backwards
+
+83
+00:02:47,120 --> 00:02:49,360
+and now that will be page two of three
+
+84
+00:02:49,360 --> 00:02:50,879
+even though nothing visibly changes on
+
+85
+00:02:50,879 --> 00:02:52,160
+the canvas if i were to save this
+
+86
+00:02:52,160 --> 00:02:54,800
+document this would be page one
+
+87
+00:02:54,800 --> 00:02:56,720
+this would be page two and then this
+
+88
+00:02:56,720 --> 00:02:58,879
+would be page three so let me go ahead
+
+89
+00:02:58,879 --> 00:03:00,640
+and undo that
+
+90
+00:03:00,640 --> 00:03:02,480
+so now this is one this is two and this
+
+91
+00:03:02,480 --> 00:03:04,640
+is three and then up here we have names
+
+92
+00:03:04,640 --> 00:03:06,879
+you can name each page if you want this
+
+93
+00:03:06,879 --> 00:03:08,480
+is really just for personal reference
+
+94
+00:03:08,480 --> 00:03:09,599
+this isn't going to change the name of
+
+95
+00:03:09,599 --> 00:03:10,959
+your document or anything this is just
+
+96
+00:03:10,959 --> 00:03:12,400
+for example if you want to change this
+
+97
+00:03:12,400 --> 00:03:13,120
+to
+
+98
+00:03:13,120 --> 00:03:14,879
+um i don't know like something like
+
+99
+00:03:14,879 --> 00:03:18,000
+brochure contents
+
+100
+00:03:18,000 --> 00:03:19,680
+there you go
+
+101
+00:03:19,680 --> 00:03:22,000
+and then over here you could write in
+
+102
+00:03:22,000 --> 00:03:23,360
+um
+
+103
+00:03:23,360 --> 00:03:25,599
+business card
+
+104
+00:03:25,599 --> 00:03:27,519
+just in case you know naming your pages
+
+105
+00:03:27,519 --> 00:03:28,879
+comes in handy in some way so that's
+
+106
+00:03:28,879 --> 00:03:30,640
+what that does and if you want to delete
+
+107
+00:03:30,640 --> 00:03:31,760
+any of your pages what you could do is
+
+108
+00:03:31,760 --> 00:03:33,360
+you can select on it like that click on
+
+109
+00:03:33,360 --> 00:03:34,879
+it with the tool and you could either
+
+110
+00:03:34,879 --> 00:03:36,799
+press delete on your keyboard
+
+111
+00:03:36,799 --> 00:03:38,480
+or you can click on this button over
+
+112
+00:03:38,480 --> 00:03:41,200
+here that says delete the selected page
+
+113
+00:03:41,200 --> 00:03:42,799
+okay so let me go ahead and undo that
+
+114
+00:03:42,799 --> 00:03:44,400
+let me show you what these other tools
+
+115
+00:03:44,400 --> 00:03:45,519
+in here do what i'm going to do is i'm
+
+116
+00:03:45,519 --> 00:03:47,440
+going to grab the stars tool and create
+
+117
+00:03:47,440 --> 00:03:49,120
+a star right on top of this page right
+
+118
+00:03:49,120 --> 00:03:50,000
+here
+
+119
+00:03:50,000 --> 00:03:51,519
+now if i go back to the pages tool if
+
+120
+00:03:51,519 --> 00:03:53,120
+you notice i have this option right here
+
+121
+00:03:53,120 --> 00:03:55,439
+that says move overlapping objects as
+
+122
+00:03:55,439 --> 00:03:57,519
+the page is moved this means that if i
+
+123
+00:03:57,519 --> 00:03:59,840
+move the page the object will move with
+
+124
+00:03:59,840 --> 00:04:01,680
+it so if i move this page you'll notice
+
+125
+00:04:01,680 --> 00:04:03,840
+the object is fixed in place it's not
+
+126
+00:04:03,840 --> 00:04:05,200
+moving anywhere
+
+127
+00:04:05,200 --> 00:04:06,560
+that's because i have that setting
+
+128
+00:04:06,560 --> 00:04:09,120
+turned off if i turn that setting on now
+
+129
+00:04:09,120 --> 00:04:11,040
+when i move a page the contents of the
+
+130
+00:04:11,040 --> 00:04:13,120
+page will be moved along with it like
+
+131
+00:04:13,120 --> 00:04:15,120
+that as you can see there
+
+132
+00:04:15,120 --> 00:04:17,519
+okay so that's how that works and then
+
+133
+00:04:17,519 --> 00:04:19,600
+finally over here we have fit the page
+
+134
+00:04:19,600 --> 00:04:21,199
+to the current selection or the drawing
+
+135
+00:04:21,199 --> 00:04:22,800
+so if i have an object selected let me
+
+136
+00:04:22,800 --> 00:04:24,479
+grab my selection tool
+
+137
+00:04:24,479 --> 00:04:26,960
+if i have an object selected like that
+
+138
+00:04:26,960 --> 00:04:28,800
+i can come back over here to the create
+
+139
+00:04:28,800 --> 00:04:31,120
+and edit document pages and i can click
+
+140
+00:04:31,120 --> 00:04:32,880
+on this button right here that says fit
+
+141
+00:04:32,880 --> 00:04:34,320
+the pages to the current selection of
+
+142
+00:04:34,320 --> 00:04:36,160
+the drawing if i click on that you see
+
+143
+00:04:36,160 --> 00:04:38,400
+what happens there the page is now fit
+
+144
+00:04:38,400 --> 00:04:40,960
+to the size of that document right there
+
+145
+00:04:40,960 --> 00:04:42,639
+or that object right there so that's how
+
+146
+00:04:42,639 --> 00:04:43,680
+that works
+
+147
+00:04:43,680 --> 00:04:44,800
+so let me give you a working
+
+148
+00:04:44,800 --> 00:04:46,560
+demonstration of how you can save a
+
+149
+00:04:46,560 --> 00:04:48,160
+multi-page document now so let me take
+
+150
+00:04:48,160 --> 00:04:49,680
+this and get rid of this i'm going to
+
+151
+00:04:49,680 --> 00:04:50,960
+grab the text tool i'm just going to
+
+152
+00:04:50,960 --> 00:04:52,320
+this is just for an example here you
+
+153
+00:04:52,320 --> 00:04:53,360
+don't have to follow along with what i'm
+
+154
+00:04:53,360 --> 00:04:54,400
+doing i'm just going to put some numbers
+
+155
+00:04:54,400 --> 00:04:56,400
+on the page
+
+156
+00:04:56,400 --> 00:04:58,080
+like this i'm gonna put this over here
+
+157
+00:04:58,080 --> 00:04:59,680
+just so you can visualize how this works
+
+158
+00:04:59,680 --> 00:05:01,759
+this is page one this is gonna be page
+
+159
+00:05:01,759 --> 00:05:03,680
+two and this is gonna be page three and
+
+160
+00:05:03,680 --> 00:05:05,039
+what i'm gonna do now is in order to
+
+161
+00:05:05,039 --> 00:05:06,960
+save this as a multi-page document i'm
+
+162
+00:05:06,960 --> 00:05:08,720
+gonna go to file and i'm gonna go to
+
+163
+00:05:08,720 --> 00:05:11,919
+save as and i want to choose pdf down
+
+164
+00:05:11,919 --> 00:05:13,759
+here
+
+165
+00:05:13,759 --> 00:05:16,400
+and i'll click save
+
+166
+00:05:16,400 --> 00:05:18,479
+leave all of the defaults as they are
+
+167
+00:05:18,479 --> 00:05:20,479
+click ok and now what i'm going to do is
+
+168
+00:05:20,479 --> 00:05:22,080
+i'm going to go and open up that pdf
+
+169
+00:05:22,080 --> 00:05:24,560
+document and show you how it works
+
+170
+00:05:24,560 --> 00:05:26,240
+okay so as you can see here i've opened
+
+171
+00:05:26,240 --> 00:05:28,479
+up my multi-page pdf document that i've
+
+172
+00:05:28,479 --> 00:05:30,720
+created thanks to inkscape version 1.2
+
+173
+00:05:30,720 --> 00:05:32,320
+and as you can see everything is in its
+
+174
+00:05:32,320 --> 00:05:34,639
+order this was page one this was page
+
+175
+00:05:34,639 --> 00:05:37,280
+two and this was page three
+
+176
+00:05:37,280 --> 00:05:39,520
+so that is how you can create multi-page
+
+177
+00:05:39,520 --> 00:05:42,160
+documents using inkscape if you found
+
+178
+00:05:42,160 --> 00:05:43,600
+this lesson useful then consider
+
+179
+00:05:43,600 --> 00:05:45,840
+checking out my inkscape master class
+
+180
+00:05:45,840 --> 00:05:47,680
+it's a collection of over 60 videos
+
+181
+00:05:47,680 --> 00:05:49,199
+where i go over all of the tools and
+
+182
+00:05:49,199 --> 00:05:51,199
+features in inkscape and i explain what
+
+183
+00:05:51,199 --> 00:05:52,960
+they are and demonstrate how they work
+
+184
+00:05:52,960 --> 00:05:54,160
+kind of like how i just did in this
+
+185
+00:05:54,160 --> 00:05:56,319
+video we even have a private community
+
+186
+00:05:56,319 --> 00:05:57,840
+where you can ask questions and get help
+
+187
+00:05:57,840 --> 00:06:00,000
+from me anytime you want i'll have some
+
+188
+00:06:00,000 --> 00:06:01,280
+information about that linked in the
+
+189
+00:06:01,280 --> 00:06:03,280
+description of the video down below as
+
+190
+00:06:03,280 --> 00:06:05,340
+always thanks for watching
+
+191
+00:06:05,340 --> 00:06:13,580
+[Music]
+
+192
+00:06:19,350 --> 00:06:23,489
+[Music]
+

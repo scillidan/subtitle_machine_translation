@@ -1,0 +1,33 @@
+In Inkscape you can combine Path Effects. I select the Text tool, and type some text.
+I will use Luckiest Guy, which is a free Google font. I go to: Path Effects. I see,
+that I need to convert the text to a path, to use a path effect. New in Inkscape 1.3 Beta, is
+that you can do this now with a single click! So I click on: Convert text to paths. From the menu,
+I choose: Perspective/Envelope. We will look at Perspective in the next lecture. I select:
+Envelope deformation. I click on the Node tool. I can now drag the four corners,
+to deform the shape. What I want, is the end of the text to be smaller. So I hold Ctrl,
+and drag the nodes at the right in. Now I will add a second effect. From the menu, I choose: Bend. I
+select: Edit on-canvas. I can now curve the text. I can switch between the two filters, to get the
+result I want. I can even change the order of the filters, which will change the look of the shape.
+When Im happy with the shape, Ill finalize it by going to: Path > Object to Path. I will make
+the text a bit higher. I call the path: text. Now I go to: Path > Linked Offset. I select the
+Node tool. I set the fill color to red. I drag the node up. I go to: Path > Object to Path.
+I call the path: red. I go to: Extensions > Generate from Path > Long Shadow. I set Length to:
+5. I select the Long Shadow elements, and make them a single path with: Union. I call the path:
+long shadow. I remove the group folders. In Fill and Stroke I make the red darker.
+And inside my text I want a gradient. I choose: Linear gradient, and I select the Gradient tool.
+I make the gradient vertical. I set the gradient to yellow. And I make the top color more orange.
+I convert text to a Clip Group. Now Ill create a diamond pattern. I select the Rectangle
+tool. I hold Ctrl, and drag a small square. I go to: Path > Object to Path. I click on the
+square again, hold Ctrl, and rotate 45 degrees. I go to: Path Effects. From the menu, I choose:
+Tiling. I set Rows to: 50, and Columns to: 150. And I increase the gap between the squares. I
+set Offset to 50 percent. I will leave the Tiling path effect editable. I call the path:
+pattern. I set the Opacity to: 15 percent, and the Blend mode to: Multiply. I drag the pattern on
+the Clip Group. I make the pattern smaller. I duplicate text, and drag it on top.
+I Shift-click on white, and click on the red cross to delete the fill. I make the stroke smaller. I
+call the path: stroke white. I duplicate stroke white. I call the original: stroke
+shadow. I Shift-click on black. In Fill and Stroke, I set Blur to: 10 percent, and Opacity to:
+75 percent. I hold Alt, and position the shadow. I duplicate red. I make the original pink. I call
+the path: pink. I position red on the canvas. I select the Rectangle tool. I drag a rectangle,
+and drag it on the Clip Group. I call the path: horizon. Now I will duplicate long shadow,
+to make the shadow below. I call the copy: shadow below. I place shadow below on
+the bottom, and click on black. And in Fill and Stroke I increase the Blur.

@@ -1,0 +1,1737 @@
+
+
+
+this  is  Nick  with  logos  by  Nick  comm  and
+
+in  this  tutorial  Ill  be  demonstrating
+
+how  you  can  create  this  eSports  logo
+
+using  Inkscape  version  1.0  and  its
+
+important  that  you  use  version  1.0  for
+
+this  tutorial  because  we  will  be  using
+
+the  new  offset  live  path  effect  quite  a
+
+bit  in  this  lesson  and  its  also
+
+important  that  you  download  and  install
+
+a  particular  font  known  as  Falcons  I
+
+will  have  that  linked  in  the  description
+
+of  the  video  it  is  a  free  font  so  go
+
+ahead  and  download  and  install  that  font
+
+before  you  launch  Inkscape  and  youll  be
+
+good  to  go  and  before  we  get  started  if
+
+you  would  like  to  learn  more  about
+
+Inkscape  be  sure  to  check  out  my
+
+Inkscape  masterclass  its  a  collection
+
+of  over  60  videos  where  I  go  over  every
+
+single  tool  and  feature  in  Inkscape  and
+
+I  explain  what  it  is  and  demonstrate  how
+
+it  works  Ill  put  a  link  in  the
+
+description  of  the  video  if  you  want  to
+
+check  that  out  so  well  get  started  here
+
+in  Inkscape  the  first  thing  we  want  to
+
+do  is  setup  our  documents  that  were  all
+
+working  with  this  similar  layout  the
+
+first  thing  I  want  to  do  is  come  up  here
+
+and  click  this  button  to  disable
+
+snapping  I  want  this  all  disabled  for
+
+the  time  being  well  be  enabling  it
+
+throughout  the  tutorial  but  for  now  we
+
+want  that  turned  off  were  gonna  come  up
+
+here  to  where  it  says  view  view  were
+
+gonna  want  custom  selected  and  Im  going
+
+to  go  to  zoom  Im  going  to  zoom  in  at  1
+
+to  1  and  for  now  were  gonna  want  the
+
+alignment  distribute  menu  opened  were
+
+gonna  want  last  selected  chosen  from
+
+that  drop-down  then  we  want  the  fill  and
+
+Stroke  menu  open  which  is  this  button
+
+over  here  or  you  could  press  control
+
+shift  +  F  and  let  me  just  expand  that  so
+
+that  I  have  both  of  these  open  at  the
+
+same  time  I  just  want  to  change  the  way
+
+that  those  menus  are  Docs  there  we  go
+
+and  were  gonna  use  the  path  effects
+
+menu  too  but  Ill  get  to  that  a  little
+
+later  so  what  we  want  to  do  now  is
+
+basically  what  Im  gonna  do  is  Im  gonna
+
+break  this  up  into  three  different  parts
+
+and  Ill  have  them  time  stamped  down
+
+below  because  this  is  this  is  somewhat
+
+of  an  elaborate  design  so  its  gonna
+
+take  us  a  while  to  create  this  and  the
+
+first  part  will  create  the  text  the
+
+second  part  will  create  the  emblem  and
+
+then  in  the  third  part  will  create  the
+
+controller  so  lets  start  off  with  the
+
+text  Im  gonna  grab  the  text  tool  and
+
+Im  gonna  click  on  the  canvas  here  and
+
+Im  gonna  use  all  caps  for  this  tutorial
+
+Im  going  to  use  the  word  eSports  for
+
+example  grab  the  grab  the  text  tool
+
+Im  going  to  change  that  grab  the  text
+
+editor  up  here  Im  gonna  change  this  to
+
+Falcons  there  we  go  thats  the  font
+
+were  looking  for  let  me  grab  the  Select
+
+tool  and  hold  ctrl  and  shift  to  scale
+
+this  up  what  we  want  to  do  now  is
+
+manually  adjust  the  spacing  between
+
+these  letters  and  I  also  want  to  change
+
+the  way  that  these  letters  interact  with
+
+each  other  let  me  show  you  what  I  mean
+
+here  on  the  thumbnail  if  you  see  here
+
+between  these  letters  youll  see  I  have
+
+the  letters  kind  of  look  like  they  fit
+
+next  to  each  other  like  puzzle  pieces  I
+
+want  to  make  it  so  that  each  letter  is
+
+slicing  off  the  top  right  edge  of  the
+
+letter  that  comes  before  it  so  to  do
+
+that  let  me  get  this  off  the  screen  to
+
+do  that  Im  going  to  convert  the  text  of
+
+paths  path  object  to  path  and  then  Ill
+
+ungroup  the  letters  like  that  and  let  me
+
+just  bring  the  opacity  of  that  down  so  I
+
+can  see  through  them  a  little  bit  and
+
+Im  gonna  zoom  in  to  zoom  in  Im  holding
+
+ctrl  and  rolling  up  the  mouse  wheel  to
+
+move  the  page  around  Im  just  pressing
+
+down  the  mouse  wheel  and  moving  the
+
+mouse  Im  gonna  click  this  letter
+
+hold  ctrl  click  and  drag  it  to  the  right
+
+like  that  so  that  its  not  quite
+
+touching  the  s  but  pretty  close  hold
+
+shift  click  the  other  letter  bring  these
+
+two  over  here  like  that  do  the  same
+
+thing  and  thats  going  to  come  through
+
+here  and  do  the  same  thing  with  the  rest
+
+of  this  world  with  the  rest  of  this  word
+
+holding  shift  while  we  click  on  each
+
+letter  so  it  drags  the  whole  word  over
+
+there  this  isnt  necessarily  a  step  that
+
+you  have  to  do  but  I  just  think  the
+
+design  will  look  a  lot  better  if  you  go
+
+ahead  and  make  these  letters  look  like
+
+they  fit  together  so  what  Im  gonna  do
+
+now  is  Im  gonna  duplicate  this  letter  S
+
+right  here  by  pressing  ctrl  D  Im  gonna
+
+make  that  red  and  then  Ill  hold  shift
+
+and  click  on  the  letter  E  and  go  to  path
+
+difference  and  if  you  notice  now  if  you
+
+move  this  apart  it  looks  like  those  two
+
+letters  fit  with  each  other  so  let  me
+
+put  that  back  Im  gonna  come  through
+
+here  and  do  the  same  thing  with  the  rest
+
+of  these  letters  duplicate  that  hold
+
+shift  click  the  letter  go  to  path
+
+difference  take  the  letter  O  ctrl  D  hold
+
+shift  click  the  P
+
+path  difference  and  Im  sure  you  get  the
+
+idea  by  now  so  so  let  me  go  through  and
+
+do  this  with  the  rest  of  the  word  here
+
+difference  Im  actually  gonna  use  the
+
+keyboard  shortcut  for  this  last  one
+
+because  I  havent  memorized  I  actually
+
+never  used  these  menus  up  here  I  always
+
+use  the  keyboard  shortcut  which  for  this
+
+one  is  ctrl  shift  and  -  okay  so  let  me
+
+take  the  letter  S  and  hold  ctrl  and  move
+
+that  to  the  right  a  little  bit  hold
+
+shift  click  the  T  move  that  to  the  right
+
+a  little  bit  while  holding  ctrl  so  that
+
+were  locking  it  onto  the  horizontal
+
+axis  same  thing  over  here  with  the  R
+
+were  basically  we  just  spacing  these
+
+letters  out  apart  like  that  looking  good
+
+do  the  same  thing  over  here  now  let  me
+
+zoom  back  out  to  see  how  were  looking
+
+over  here  okay  thats  looking  pretty
+
+good  right  there  so  what  Im  gonna  do  is
+
+Im  gonna  unify  all  those  letters
+
+together  by  selecting  them  all  and  going
+
+to  path  Union  and  now  what  I  want  to  do
+
+is  I  want  to  a  plot  I  want  to  apply  a
+
+perspective  like  you  see  here  so  let  me
+
+go  to  path  path  effects  and  youre  gonna
+
+get  this  path  effects  editor  up  here  Im
+
+gonna  click  the  add  path  effect  button
+
+and  Im  going  to  look  for  perspective
+
+there  it  is  perspective  envelope  and  I
+
+want  to  check  this  box  that  says  mere
+
+movements  in  vertical  and  then  grab  the
+
+edit  pads  by  nodes  tool  and  what  were
+
+looking  for  here  were  looking  for  the
+
+nodes  in  the  corner  but  they  look
+
+different  they  look  similar  to  the  other
+
+nodes  but  the  look  the  node  that  were
+
+looking  for  is  white  these  ones  are  gray
+
+so  they  look  similar  so  its  easy  to
+
+miss  them  make  sure  youre  grabbing  the
+
+white  node  like  that  Im  just  going  to
+
+take  that  and  pull  that  out  if  you  want
+
+you  could  hold  ctrl  to  lock  it  onto  the
+
+axis  pull  that  out  a  little  bit  like
+
+that  just  to  give  it  a  little  bit  of  a
+
+perspective  and  now  we  can  finalize  that
+
+by  going  to  path  object  to  path  now  what
+
+Im  gonna  do  is  Im  gonna  give  this  a
+
+bit  of  a  3d  effect  as  you  can  see  here
+
+if  you  notice  is  a  bit  of  a  like  a  3d
+
+effect  like  its  coming  out  at  you  like
+
+that
+
+were  gonna  use  the  extrude  feature  for
+
+that  so  let  me  grab  this  select  tool  let
+
+me  just  adjust  that  a  little  bit  make
+
+that  a  little  higher  that  looks  pretty
+
+good  I  want  to  right  click  this  text  and
+
+go  to  duplicate  I  want  to  make  this  red
+
+and  I  want  to  hold  ctrl  and  move  this  up
+
+above  it  a  little  bit  Im  gonna  hold
+
+ctrl  scale  this  up  a  little  bit  maybe
+
+about  that  much  it  doesnt  have  to  be
+
+exactly  the  the  amount  that  Im  scaling
+
+it  you  can  just  eyeball  it  like
+
+doing  here  and  then  I  want  to  select
+
+both  of  these  actually  let  me  move  this
+
+up  a  little  bit  let  me  select  both  of
+
+these  and  go  to  extensions  generate  from
+
+path  and  Im  gonna  look  for  extrude  and
+
+right  here  I  want  to  choose  polygons  and
+
+then  click  apply  and  its  gonna  create
+
+this  3d  block  right  here  so  let  me  get
+
+rid  of  this  let  me  take  this  new  shape
+
+that  I  created  let  me  ungroup  that  the
+
+only  unified  altogether  by  going  to  path
+
+Union  and  I  want  to  get  rid  of  those
+
+empty  negative  spaces  in  there  so  Ill
+
+go  to  path  break  apart  and  then  path
+
+Union  let  me  get  rid  of  the  stroke  or
+
+the  outline  Im  gonna  hold  shift  and
+
+click  on  this  X  up  here  and  let  me  come
+
+over  here  to  the  fill  tab  under  the  HSL
+
+tab  Im  just  gonna  make  sure  that  a
+
+column  is  brought  all  the  way  up  and
+
+then  Ill  bring  the  opacity  down
+
+partially  like  that  and  now  I  can  take
+
+this  red  text  up  here  our  original  text
+
+make  sure  its  raised  to  the  top  Im
+
+gonna  click  this  button  raise  selection
+
+to  the  top  select  both  of  these  and
+
+Center  them  up  and  they  come  down  here
+
+to  the  alignment  menu  Center  them  up  on
+
+the  vertical  axis  and  then  align  the  top
+
+edges  like  that  so  that  we  end  up  with
+
+that  right  there  now  we  could  take  this
+
+and  we  can  just  press  delete  to  get  rid
+
+of  that  we  dont  need  that  right  now  so
+
+now  what  I  want  to  do  is  I  want  to  take
+
+this  red  text  this  original  text  layer
+
+and  I  want  to  make  this  white  and  then  I
+
+want  to  take  the  black  text  beneath  it
+
+and  I  want  to  apply  an  offset  to  it  so
+
+Im  gonna  come  back  up  here  to  the  path
+
+effects  menu  click  the  plus  button  to
+
+add  a  path  effect  and  on  this  time  Im
+
+looking  for  offset  and  I  would  recommend
+
+getting  familiar  getting  comfortable
+
+with  this  path  effect  because  well  be
+
+using  this  a  lot  throughout  this
+
+tutorial  where  it  says  offset  Im  gonna
+
+click  the  plus  button  to  increase  the
+
+offset  and  if  you  notice  its  growing  a
+
+border  around  the  text  right  there  by
+
+default  it  should  have  lighter  if  not
+
+just  go  ahead  and  select  that
+
+there  we  go  thats  looking  pretty  good
+
+now  let  me  finalize  that  by  going  to
+
+path  object  to  path  and  now  what  I  want
+
+to  do  is  I  want  to  create  another  copy
+
+of  this  text  here  let  me  show  you  where
+
+Im  where  Im  going  with  this  notice
+
+this  little  reflective  effect  going
+
+through  the  text  there  thats  what  Im
+
+gonna  create  next  so  let  me  take  this
+
+white  text  let  me  duplicate  that  by
+
+Crescent  control-d  and  Ill  just  make
+
+this  red  so  I  can  differentiate  it  up
+
+against  the  white  and  Im  going  to  apply
+
+an  offset  to  this  as  well  so  click  on
+
+the  offset  path  effect  and  where  it  says
+
+offset  Im  just  going  to  press  -  this
+
+time  Im  going  to  click  that  down  maybe
+
+not  that  much  right  about  there  is  what
+
+were  going  for
+
+again  well  finalize  that  by  going  to
+
+path  object  to  path  and  now  Im  going  to
+
+grab  the  rectangle  tool  I  want  to  slice
+
+this  in  half  here  so  Im  gonna  use  the
+
+rectangle  tool  as  a  reference  point  put
+
+that  through  there  like  that  let  me  just
+
+make  this  green  so  I  can  see  a  little
+
+better  okay  that  looks  pretty  good  let
+
+me  go  to  the  Select  tool  and  let  me
+
+adjust  that  just  a  little  more  hold
+
+shift  click  on  the  rip  on  the  red  text
+
+that  we  have  the  green  box  and  the  red
+
+text  selected  and  go  to  path
+
+intersection  so  what  Im  going  to  do  now
+
+is  Im  going  to  color  this  in  so  let  me
+
+select  all  of  this  and  bring  the  opacity
+
+all  the  way  up  to  100%  and  Im  going  to
+
+use  the  colors  depicted  here  in  the
+
+thumbnail  or  something  very  close  anyway
+
+Im  probably  not  going  to  get  the  exact
+
+shades  but  Ill  take  the  other  black
+
+background  here  and  Im  going  to  make
+
+this  a  very  dark  shade  of  purple  like
+
+that  then  Ill  take  the  white  text  in
+
+here  Ill  make  that  a  light  shade  of
+
+purple  maybe  something  with  a  little
+
+more  vibrance  that  looks  good  maybe
+
+adjust  that  a  little  bit  and  then  I  want
+
+to  make  this  an  even  lighter  shade  of
+
+purple  so  let  me  make  this  something
+
+like  that  down  here  I  actually  know  this
+
+has  to  be  a  medium  shade  of  purple  my
+
+bad  okay  so  well  do  that  okay  now  were
+
+going  to  apply  to  a  gradient  to  this  so
+
+where  it  says  up  here  in  the  fill  and
+
+stroke  menu  were  looking  for  a  linear
+
+gradient  click  on  that  grab  the  gradient
+
+tool  which  is  right  here  I  just  like  to
+
+press  G  on  the  keyboard  and  then  take
+
+the  darker  stop  and  put  this  towards  the
+
+top  and  then  take  the  lighter  one  and
+
+put  this  towards  the  bottom  and  Im
+
+gonna  hold  ctrl  to  lock  it  onto  the
+
+vertical  axis  so  that  we  end  up  with
+
+something  like  that  right  there  now  let
+
+me  go  back  to  the  Select  tool  I  want  to
+
+take  this  text  Im  just  gonna  make  this
+
+a  little  lighter  Im  just  eyeballing
+
+this  here  I  dont
+
+like  how  that  looks  before  so  thats
+
+looking  pretty  good  right  there  so
+
+thats  part  one  we  have  the  text
+
+finished  let  me  click  and  drag  over  all
+
+of  this  I  want  to  group  it  together  and
+
+press  ctrl  G  on  the  keyboard  Im  going
+
+to  put  this  off  to  the  side  for  now
+
+maybe  Ill  even  scale  it  down  like  that
+
+hold  ctrl  and  scale  it  down  and  now
+
+were  going  to  create  the  emblem  so  let
+
+me  grab  the  actually  first  let  me  show
+
+you  the  thumbnail  here  Im  gonna  create
+
+this  emblem  that  you  see  in  the
+
+background  to  create  that  shape  Im
+
+actually  going  to  start  off  with  this
+
+square  so  let  me  show  you  how  that  works
+
+Im  going  to  grab  this  squares  and
+
+rectangles  tool  Im  gonna  hold  ctrl  +
+
+Shift  +  click  and  drag  on  the  cabbage  to
+
+create  a  perfectly  symmetrical  square
+
+like  that  I  just  want  to  come  up  here  to
+
+where  it  says  make  Carter  corner  sharp
+
+make  sure  thats  enabled  if  you  cant
+
+click  it  and  its  grayed  out  that  means
+
+youre  good  to  go
+
+we  dont  want  rounded  corners  for  were
+
+about  to  do  here  so  its  important  to
+
+check  that  and  let  me  convert  that  to  a
+
+path  by  going  to  path  object  to  path  and
+
+Ill  go  to  the  nodes  tool  and  I  want  to
+
+add  some  new  nodes  in  here  I  want  to  add
+
+one  right  here  and  add  one  right  there
+
+so  let  me  select  those  nodes  click  this
+
+button  up  here  to  the  top  left  that  says
+
+insert  new  nodes  into  selected  segments
+
+and  then  come  down  here  do  the  same
+
+thing  and  then  I  want  to  select  these
+
+two  nodes  right  here  the  two  new  ones
+
+and  up  here  where  it  says  show
+
+transformation  handles  for  selected
+
+nodes  lets  go  ahead  and  turn  that  on  so
+
+we  can  see  the  transformation  because  we
+
+want  to  do  is  we  want  to  hold  ctrl  down
+
+and  just  hold  ctrl  and  shift  actually
+
+and  just  scale  them  out  like  that  pull
+
+them  out  about  that  far  thats  looking
+
+pretty  good
+
+and  now  I  want  to  take  these  bottom  ones
+
+down  here  and  hold  ctrl  and  just  scale
+
+those  down  actually  let  me  hold  ctrl  and
+
+shift  then  Ill  hold  ctrl  and  move  this
+
+up  like  that  that  right  there  is  what
+
+were  looking  for  thats  sort  of  its
+
+kind  of  like  a  squared  shield  kind  of
+
+shape  now  once  youre  done  making  that
+
+shape  you  can  go  ahead  and  disable  this
+
+transformation  handle  because  the  next
+
+time  you  go  to  Newton  use  the  nodes  tool
+
+that  will  get  in  your  way  if  you  dont
+
+need  it  so  I  like  to  always  turn  that
+
+off  when  Im  done  now  let  me  take  this
+
+and  scale  this  up  a  little  bit  let  me
+
+take  the  text  actually  and  Im  gonna
+
+raise  this  to  the  top  and  place  it  over
+
+the  emblem  here  let  me  Center  them  up  on
+
+the  vertical
+
+horizontal-axis  like  that  Im  gonna  take
+
+just  the  text  and  hold  ctrl  and  shift
+
+and  scale  this  up  like  that  and  I  want
+
+to  take  the  shield  right  here  and  I  want
+
+to  make  it  the  same  color  as  this  dark
+
+purple  down  here  so  Im  gonna  grab  the
+
+dropper  which  is  over  here  we  can  just
+
+press  D  on  the  keyboard  there  you  go  and
+
+now  I  want  to  create  these  little  accent
+
+pieces  going  on  the  inside  of  that
+
+shield  shape  so  to  do  that  Im  going  to
+
+create  a  duplicate  of  this  object  Im
+
+going  to  right  click  and  go  to  duplicate
+
+and  Im  going  to  make  this  the  lighter
+
+shade  of  purple  so  let  me  grab  the
+
+dropper  again  press  D  on  the  keyboard
+
+and  use  this  lighter  shade  as  a
+
+reference  there  we  go  back  to  the  Select
+
+tool  and  now  I  want  to  do  another  offset
+
+so  let  me  add  a  new  path  effect  were
+
+gonna  use  offset  again  and  Im  going  to
+
+use  the  -  Im  going  to  shrink  this  down
+
+like  that  and  what  Im  paying  attention
+
+to  here  is  I  want  to  make  sure  that  the
+
+thickness  here  this  the  padding  between
+
+the  dark  and  the  light  here  is  pretty
+
+much  the  same  or  close  anyway  to  the
+
+thickness  of  the  wording  here  I  want  the
+
+I  want  the  padding  to  be  consistent
+
+between  the  shield  and  the  text  so  you
+
+may  have  to  tweak  that  manually  Im  not
+
+using  exact  measurements  or  anything  Im
+
+just  going  by  how  it  looks  on  my  screen
+
+thats  good  enough  so  let  me  go  to  path
+
+object  to  path  and  now  what  Ill  do  is
+
+Ill  create  a  duplicate  of  this
+
+right-click  it  go  to  duplicate  and  Im
+
+just  gonna  make  this  a  different  color
+
+for  now  maybe  red  bring  the  opacity  down
+
+it  doesnt  matter  what  color  it  is  let
+
+me  hold  ctrl  and  shift  and  scale  this
+
+down  to  make  it  smaller  and  then  Ill  go
+
+back  to  the  nodes  tool  up  here  select
+
+these  two  nodes  right  here  and  then  turn
+
+the  transformation  handles  back  on  and
+
+then  hold  ctrl  and  shift  and  scale  these
+
+nodes  up  like  that  so  that  they  surpass
+
+so  that  they  extend  beyond  the  the  white
+
+via  the  lighter  purple  shape  there  which
+
+is  what  were  going  for
+
+let  me  turn  those  off  go  back  to  the
+
+Select  tool  hold  shift  click  on  the
+
+other  shape  so  we  have  them  both
+
+selected  and  go  to  path  difference  and
+
+now  we  want  them  to  be  two  different
+
+colors  so  Im  going  to  go  to  path  break
+
+apart  to  break  them  apart  and
+
+separate  pieces  paths  break  apart  and
+
+let  me  click  off  of  that  to  deselect
+
+everything  Im  gonna  take  this  one  right
+
+here  and  make  this  the  medium  shade  of
+
+purple  which  is  right  here  so  let  me
+
+grab  the  dropper  again  just  press  D  on
+
+the  keyboard  and  just  click  on  that  and
+
+there  to  give  that  that  same  color  maybe
+
+a  little  lighter  there  we  go
+
+Ill  grab  the  select  tool  take  this  text
+
+item  raise  it  to  the  top  once  again  and
+
+as  you  can  see  we  are  on  our  way  we  just
+
+have  to  now  create  the  controller
+
+illustration  so  let  me  bring  that  in
+
+here  as  you  can  see  now  now  were  going
+
+to  create  the  controller  the  shape  of
+
+this  controller  is  a  very  unique  shape
+
+theres  no  tool  that  makes  that  specific
+
+shape  and  Inkscape  so  were  gonna
+
+manually  create  it  using  ellipses  so  let
+
+me  move  that  off  the  screen  we  can  do
+
+now  is  you  can  take  this  and  just  hold
+
+ctrl  and  shift  to  scale  that  down  put  it
+
+off  to  the  side  for  now  may  be  a  good
+
+idea  to  save  your  work  at  this  point  in
+
+case  Inkscape  crashes  you  dont  want  to
+
+lose  all  of  this  that  youve  been
+
+working  on  so  Im  actually  gonna  do  that
+
+real  quick  myself  okay  so  now  that  Ive
+
+saved  my  work  lets  create  the
+
+controller  now  so  Im  gonna  grab  the
+
+circles  and  ellipses  tool  Im  gonna
+
+click  and  drag  to  create  an  ellipse  like
+
+that  and  while  Im  creating  this  shape
+
+Im  just  gonna  for  now  make  this  black
+
+and  Im  gonna  make  sure  the  opacity  is
+
+down  in  half  like  that  because  were
+
+gonna  be  able  to  see  through  these
+
+shapes  Im  going  to  convert  this  to  a
+
+path  by  going  to  path  object  to  path  and
+
+then  Im  gonna  grab  the  edit  pads  by
+
+nodes  tool  and  I  want  to  take  these  two
+
+nodes  up  here  and  hold  ctrl  and  just
+
+scale  them  up  like  that  not  too  much
+
+maybe  up  about  that  much  and  then  Ill
+
+take  this  node  and  hold  ctrl  and  scale
+
+that  down  a  little  bit  now  let  me  grab
+
+this  select  tool  Im  gonna  make  this  a
+
+little  wider  again  Im  just  eyeballing
+
+us  it  doesnt  have  to  be  exactly  like
+
+what  you  see  on  my  screen  just  something
+
+there  abouts  is  pretty  good  Im  gonna
+
+click  on  this  so  I  get  the  rotation
+
+handles  Im  gonna  hold  ctrl  to  take  this
+
+little  hand  on  the  top  right  corner  and
+
+Im  gonna  rotate  this  clockwise  one  to
+
+two  steps  like  that
+
+now  let  me  duplicate  that  by  pressing
+
+ctrl  D  I  want  to  flip  this  horizontally
+
+and  hold  ctrl  and  move  this  over  here
+
+like  that  and  now  I  want  to  grab  the
+
+ellipses  tool  again  and  I  want  to  create
+
+another  ellipse
+
+going  through  the  inside  here  like  this
+
+make  sure  that  this  is  oops  make  sure
+
+this  is  going  through  to  the  other  side
+
+like  that  thats  looking  pretty  good  now
+
+I  just  want  to  make  sure  that  these
+
+three  shapes  are  spaced  apart  evenly
+
+otherwise  youll  get  a  little  bit  of
+
+asymmetry  here  so  let  me  select  all
+
+three  of  those  and  down  here  in  the
+
+align  and  distribute  menu  and  under  the
+
+distribute  panel  you  should  see
+
+something  that  says  make  horizontal  gaps
+
+between  objects  equal  go  ahead  and  click
+
+on  that  and  now  we  can  unify  this
+
+together  by  going  to  path  Union  and  we
+
+have  the  beginning  of  a  controller  shape
+
+but  if  you  notice  its  not  quite  there
+
+yet  if  you  notice  on  the  thumbnail  here
+
+the  controller  shape  dips  down  like  that
+
+and  then  it  dips  upward  like  that  so  to
+
+do  that  were  gonna  have  to  manually
+
+create  that  shape  so  let  me  grab  the
+
+Edit  path  by  nodes  tool  again  and  Im
+
+gonna  take  this  note  up  here  Im  gonna
+
+click  and  drag  this  down  actually
+
+theres  two  nodes  theres  one  cigar  grab
+
+both  of  those  let  me  undo  that  with  ctrl
+
+Z  if  you  end  up  having  two  nodes  there
+
+like  I  do  just  click  and  drag  over  both
+
+of  those  and  combine  them  together  join
+
+selected  nodes  there  we  go  and  then  hold
+
+ctrl  and  just  click  and  drag  them  down
+
+like  that  and  then  just  take  this  handle
+
+and  make  it  adjust  it  so  that  its  this
+
+line  right  here  is  going  flush  with  the
+
+rest  of  it  dont  worry  about  this  side
+
+were  actually  gonna  exclude  this  side
+
+and  duplicate  this  left  side  lets  take
+
+this  one  and  do  the  same  thing  move  this
+
+up  here  like  that  adjust  this  handle
+
+there  we  go  now  what  I  want  to  do  is
+
+hold  ctrl  and  click  on  that  node  so  that
+
+it  makes  it  automatically  smooth  I  want
+
+to  do  the  same  thing  up  here  hold  ctrl
+
+click  on  this  node  Im  actually  gonna
+
+bring  this  up  a  little  more  there  we  go
+
+now  what  I  want  to  do  is  I  want  to
+
+temporarily  turn  on  snapping  where  it
+
+says  enable  snapping  turn  that  on  and
+
+over  here  where  it  says  were  gonna  want
+
+this  one  that  says  snap  to  custom  nodes
+
+and  then  this  one  that  says  snap  to
+
+smooth  nodes  and  Im  gonna  grab  the
+
+Bezier  pen  over  here  or  you  could  press
+
+B  on  the  keyboard  Im  gonna  snap  to  that
+
+middle  node  that  we  just  created  and
+
+click  and  then  bring  the  line  straight
+
+down  to  the  other  node  click  on  that  and
+
+then  finish  this  shape  up  going  around
+
+the  outside  of  the  controller  here  and
+
+that
+
+the  starting  point  now  I  want  to  grab
+
+this  select  tool  hold  shift  click  on  the
+
+controller  and  go  to  path  difference  and
+
+now  we  have  half  of  a  controller  so  what
+
+Im  going  to  do  is  Im  going  to
+
+duplicate  that  right  click  go  to
+
+duplicate  flip  it  horizontally  and  then
+
+snap  it  on  to  the  left  side  over  here  so
+
+that  we  end  up  with  this  symmetrical
+
+shape  now  let  me  turn  off  the  snapping
+
+now  so  that  it  doesnt  get  in  the  way
+
+for  the  rest  of  the  way  and  I  want  to
+
+click  and  drag  over  both  of  those  and  go
+
+to  path  Union  and  we  now  have  our
+
+controller  shape  so  now  its  time  to  add
+
+some  buttons  and  some  some  simulated
+
+lighting  effects  in  here  a  little  bit  of
+
+shading  and  some  buttons  so  to  do  that
+
+lets  first  add  these  buttons  down  here
+
+grab  the  circles  and  ellipses  tool  hold
+
+ctrl  and  shift  create  a  perfectly  round
+
+circle  put  that  right  there  and  then  I
+
+want  to  duplicate  that  by  pressing  ctrl
+
+D  instead  of  right-clicking  and  going  to
+
+duplicate  were  just  going  to  press  ctrl
+
+D  just  easier  to  do  that  make  this  red
+
+just  for  now  hold  ctrl  ctrl  and  shift
+
+scale  that  down  and  now  I  want  to  take
+
+both  of  those  and  group  them  together
+
+and  I  want  to  duplicate  that  by  pressing
+
+ctrl  D  again  hold  ctrl  and  click  and
+
+drag  these  over  here  so  that  we  have  a
+
+copy  over  here  and  again  we  want  to  make
+
+sure  that  this  is  centered  up  on  the
+
+controller  so  lets  group  those  together
+
+with  that  group  button  up  there  hold
+
+shift  click  on  the  controller  and  then
+
+again  just  make  sure  theyre  centered  up
+
+on  the  vertical  axis  like  that  I  might
+
+even  make  these  a  little  bigger  bring
+
+them  down  a  little  more  okay  that  looks
+
+pretty  good
+
+now  Im  gonna  ungroup  those  actually  no
+
+there  we  go  this  is  the  ungroup  button
+
+just  youll  have  to  click  it  a  few  times
+
+because  its  grouped  several  layers  deep
+
+so  well  have  to  do  like  a  deep  ungroup
+
+on  that  what  we  can  do  now  is  lets
+
+create  the  D  pad  over  here  and  the
+
+buttons  over  here  so  let  me  grab  the
+
+squares  and  rectangles  tool  zoom  back  in
+
+just  create  a  very  simple  very  simple
+
+rectangle  like  that  let  me  zoom  in  Im
+
+gonna  use  this  little  rounded  node  at
+
+the  top  right  to  make  this  to  make  the
+
+edges  of  that  rounded  and  then  Ill  take
+
+this  note  up  here  and  bring  that  in  life
+
+like  that  so  that  we  end  up  with
+
+slightly  rounded  rectangle  a  slightly
+
+rounded  rectangle  like  that  right  click
+
+that  go  to  duplicate  and  then  were  just
+
+gonna  rotate  that  90  degrees  with  this
+
+button  that  says  rotate  selection  90
+
+degrees  clockwise  there  we  go  I  actually
+
+dont  like  how  that  button  how  this  came
+
+out  so  emotionally  to  delete  that  Im
+
+going  to  grab  the  nodes  tool  this  is  a
+
+little  too  elongated  so  Im  going  to
+
+convert  this  to  a  path  path  object  to
+
+path  this  is  all  optional  you  dont  have
+
+to  do  it  what  im  doing  here  im  just
+
+being  meticulous  at  this  point  im  gonna
+
+take  those  nodes  bring  them  up  a  little
+
+bit  with  the  arrow  keys  and  ill  do  the
+
+same  thing  again  control  d  rotate  it  90
+
+degrees  and  that  looks  a  little  better
+
+ill  just  go  with  that  select  both  of
+
+them  go  to  path  Union  now  let  me  just
+
+scale  that  down  a  little  bit  put  that
+
+right  here  now  I  want  to  put  a  little
+
+circle  behind  this  but  behind  this  as
+
+well  if  I  bring  this  back  in  youll
+
+notice  theres  a  circle  behind  the  d-pad
+
+and  a  circle  behind  the  button  so  let  me
+
+create  a  circle  control  and  shift  to
+
+make  a  perfectly  round  circle  Im  going
+
+to  make  this  its  gonna  make  this  green
+
+for  now  layer  this  beneath  the  d-pad
+
+with  the  button  up  here  that  says  lower
+
+selection  one  step  hold  shift  click  on
+
+that  and  just  make  sure  to  Center  it  up
+
+on  the  vertical  and  horizontal  axis  like
+
+that  Ill  move  this  up  here  Im  gonna
+
+make  this  a  little  bigger  then  Ill  take
+
+this  green  circle  duplicate  that  by
+
+pressing  control  D  and  hold  ctrl  to  move
+
+this  over  here  and  now  we  can  create
+
+some  buttons  so  let  me  create  more
+
+circles  over  here  ctrl  and  shift  Ill
+
+make  that  red  I  just  want  to  Center  this
+
+up  make  sure  its  centered  within  the
+
+circle  there  take  this  circle  control  D
+
+to  duplicate  it  bring  this  one  down  here
+
+shift-click  both  of  them  and  then  group
+
+them  together  ctrl  D  to  duplicate  click
+
+on  it  again  to  get  the  rotation  handles
+
+and  then  hold  ctrl  and  rotate  this
+
+counter  or  clockwise  rather  until  you
+
+end  up  with  buttons  going  in  all  four
+
+directions  like  that  and  thats  what
+
+were  looking  for  so  let  me  hold  shift
+
+and  click  on  both  of  those  I  want  to
+
+group  them  together
+
+shift-click  on  the  circle  and  center
+
+that  up  within  the  circle  and  the
+
+vertical  and  horizontal  axis  and  what
+
+Im  gonna  do  now  is  now  that  we  have  our
+
+buttons  in  place  I  want  to  add  I  want  to
+
+add  some  more  details  in  here  so  first
+
+let  me  just  click  and  drag  over  all  of
+
+this  and  do  a  deep  on  a  group  let  me
+
+just  make  sure  everything  is  ungrouped
+
+here  and  now  what  Im  going  to  do  is  Im
+
+going  to  lets  click  and  drag  over
+
+everything  lets  bring  the  opacity  all
+
+the  way  up  like  that  lets  take  the
+
+controller  and  make  this  the  medium
+
+shade  of  purple  which  is  over  here  grab
+
+press  D  on  the  keyboard  to  grab  the
+
+dropper  there  we  go  go  back  to  the
+
+Select  tool  I  want  to  make  this  I  want
+
+to  make  these  black  circles  the  same
+
+shade  as  well  so  Im  gonna  press  D  to
+
+get  the  dropper  back  to  the  Select  tool
+
+D  for  the  dropper  there  we  go  and  now  I
+
+want  to  go  back  to  the  Select  tool  I
+
+want  to  take  this  D  pad  these  joysticks
+
+over  here  and  these  buttons  and  make
+
+them  the  same  shade  as  a  dark  purple
+
+here  so  let  me  shift  click  all  of  that
+
+Im  gonna  make  sure  I  have  all  of  that
+
+selected  and  then  Ill  come  over  here
+
+and  again  D  for  the  dropper  and  make
+
+this  the  dark  shade  of  purple  like  that
+
+thats  what  Im  going  for  it
+
+and  now  back  to  the  select  tool  lets
+
+take  this  green  shape  hold  shift  grab
+
+this  green  shape  hold  shift  grab  this
+
+circle  down  here  and  then  this  circle
+
+down  here  as  well  and  make  this  the
+
+light  shade  of  purple  so  once  again
+
+press  D  on  the  keyboard  to  grab  the
+
+dropper  there  we  go  and  now  we  have  that
+
+colored  in  the  final  part  of  the
+
+controller  here  is  to  add  these  little
+
+these  little  shading  these  little  this
+
+little  shading  effect  here  so  let  me
+
+take  this  controller  object  right  here
+
+I  want  to  duplicate  that  by  pressing
+
+control  D  I  want  to  make  this  green  or
+
+whatever  color  you  want  just  some  kind
+
+of  contrasting  color  I  want  to  bring  the
+
+opacity  down  like  that  and  once  again
+
+were  going  to  use  the  offset  path
+
+effect  so  Im  going  to  add  a  new  path
+
+effect  right  back  to  offset  over  here
+
+and  where  it  says  offset  Im  just  gonna
+
+use  this  minus  symbol  make  this  a  little
+
+smaller  like  that
+
+thats  what  were  looking  for  now  let  me
+
+finalise  that  I  actually  make  it  a
+
+little  smaller
+
+now  let  me  finalise  that  by  going  to
+
+path  object  to  path  and  then  let  me
+
+duplicate  this  by  pressing  ctrl  D  and
+
+Ill  make  this  red  and  Im  just  going  to
+
+move  this  up  up  like  this  Im  gonna  hold
+
+ctrl  and  just  scale  that  up  a  little  bit
+
+when  Im  paying  attention  to  here  is  the
+
+little  piece  thats  extending  from
+
+little  green  piece  thats  extending  from
+
+underneath  the  red  object  here  thats
+
+gonna  make  up  the  lighting  effect  so  Im
+
+gonna  go  with  Im  gonna  go  with  the
+
+positioning  like  that  hold  shift  click
+
+on  the  green  object  and  go  to  path
+
+difference  so  now  I  just  want  to  keep
+
+this  object  here  I  want  to  get  rid  of
+
+this  so  let  me  break  them  apart  by  going
+
+to  path  break  apart  click  off  of  it  to
+
+deselect  everything  and  just  take  this
+
+and  get  rid  of  it  Im  gonna  take  this
+
+object  bring  the  opacity  all  the  way  up
+
+and  make  this  the  same  color  that  this
+
+is  right  here  so  once  again  were
+
+grabbing  the  dropper  tool  press  D  on  the
+
+keyboard  make  that  the  same  color  and
+
+now  I  could  just  duplicate  this  object
+
+ctrl  D  flip  it  horizontally  and  then
+
+just  place  it  over  here  on  the  other
+
+side  like  that  and  then  finally  Im
+
+gonna  put  one  more  piece  right  here  so
+
+let  me  duplicate  this  object  again  make
+
+this  green  bring  the  opacity  down  and
+
+come  back  over  here  to  the  path  effects
+
+menu  and  add  another  offset  bring  this
+
+down  right  about  there  roughly  the  same
+
+as  we  did  before  finalize  that  by  going
+
+to  path  object  to  path  and  then  I  want
+
+to  duplicate  this  control  D  turn  this
+
+red  and  then  Im  just  gonna  take  this
+
+bottom  arrow  and  click  and  drag  that
+
+down  like  this  and  Im  going  to  hold
+
+ctrl  and  bring  this  up  here  like  that
+
+and  again  when  Im  paying  attention  to
+
+is  right  here  this  little  green  part
+
+thats  its  excluded  from  the  rest  of  it
+
+Im  gonna  hold  shift  click  on  the  green
+
+object  so  we  havent  both  selected  and
+
+go  to  path  difference  and  then  we  can  go
+
+to  path  break  apart  hold  shift  and  click
+
+on  this  little  piece  right  here  to
+
+deselect  it  though  we  only  have  these
+
+two  pieces  selected  then  I  could  press
+
+Delete  on  the  keyboard  to  get  rid  of
+
+them
+
+and  now  I  want  to  take  this  object  bring
+
+the  opacity  up  and  once  again  were
+
+grabbing  the  dropper  and  making  that  the
+
+same  shade  so  okay  so  now  the  controller
+
+is  finished  we  have  all  of  our
+
+individual  objects  finished  Im  going  to
+
+click  and  drag  over  everything  over  the
+
+controller  rather  group  it  together
+
+lets  bring  it  over  here  Im  gonna  hold
+
+ctrl  and  shift  and  scale  it  down  its
+
+time  to  put  everything  together  now  the
+
+place  thats  right  over  here  Im  sizing
+
+it  up  so  that  it  fits  within  here  nicely
+
+but  then  the  top  parts  of  the  controller
+
+are  expanding  beyond  the  emblem  theyre
+
+just  a  little  bit  not  by  much  but  just  a
+
+little  bit  and  one  thing  out  one  more
+
+thing  I  want  to  do  for  the  controller
+
+here  if  you  notice  I  have  a  little  bit
+
+of  a  I  have  some  padding  going  around
+
+the  controller  so  I  want  to  do  that  as
+
+well  I  want  to  add  some  padding  around
+
+there  first  let  me  Center  it  up  with  the
+
+idiot  with  the  emblem  here  Im  gonna
+
+hold  shift  and  click  on  the  emblem  and
+
+just  make  sure  its  centered  up  on  the
+
+vertical  axis  like  that  now  I  can  click
+
+on  the  controller  lets  ungroup  it  click
+
+off  at  the  deselect  lets  take  the
+
+controller  shape  right  here  duplicate
+
+that  by  pressing  ctrl  D  I  want  to  make
+
+this  the  same  shade  as  the  dark  purple
+
+here  let  me  just  grab  the  dropper  tool
+
+by  pressing  D  make  that  the  same  color
+
+back  to  the  select  tool  and  now  Im  just
+
+going  to  lower  this  until  it  goes
+
+beneath  the  controller  there  so  Im
+
+gonna  lower  it  one  step  at  a  time  until
+
+it  goes  beneath  the  controller  there  we
+
+go  and  then  well  add  an  offset  and  path
+
+effect  offset  and  Im  going  to  increase
+
+this  offset  and  again  what  Im  paying
+
+attention  to  here  is  the  thickness  of
+
+this  padding  making  sure  its  consistent
+
+with  the  thickness  of  this  padding  and
+
+this  padding  over  here  we  want
+
+everything  to  look  nice  and  consistent
+
+like  it  all  belongs  together  nice  fluid
+
+looking  there  we  go
+
+now  let  me  go  to  path  object  to  path  to
+
+finalize  that  and  let  me  just  take  all
+
+of  this  right  here  the  whole  controller
+
+with  the  padding  and  just  group  it  all
+
+together
+
+there  we  go  Im  just  gonna  scale  it  down
+
+a  little  bit  we  just  double-check  make
+
+sure  I  have  it  centered  there  we  go
+
+so  we  have  the  design  finished  for  the
+
+most  part  Im  actually  gonna  make  the
+
+text  a  little  larger  there  we  go
+
+you  may  have  to  adjust  the  sizing  based
+
+on  how  your  design  came  out  Im  just
+
+gonna  manually  tweak  this  a  little  bit
+
+the  final  part  now  would  be  to  add  this
+
+yellow  outline  going  around  the  entire
+
+design  just  to  tie  everything  together
+
+so  to  do  that  lets  take  everything
+
+lets  press  control  D  on  the  keyboard  to
+
+duplicate  everything  and  lets  do  a  deep
+
+on  group  click  the  ungroup  button  a  few
+
+times  to  make  sure  its  all  ungrouped
+
+and  go  to  path  Union  and  now  Im  gonna
+
+make  this  yellow  because  it  contrasts
+
+nicely  with  the  purple  there  and  I  want
+
+to  send  this  to  the  bottom  where  it  says
+
+lower  selection  to  the  bottom  and  then
+
+finally  one  last  time  we  will  add  an
+
+offset  path  effect  so  but  by  this  point
+
+Im  sure  youre  pretty  familiar  with
+
+this  path  effect  were  just  gonna  add
+
+this  in  manually  like  that  that  right
+
+there  looks  pretty  good  now  we  can  just
+
+finalize  this  by  going  to  path  object  to
+
+path  and  there  you  go  we  are  finished
+
+with  this  tutorial  there  you  have  your
+
+eSports  logo  design  made  with  Inkscape
+
+so  if  you  have  any  questions  leave  a
+
+comment  below  and  as  always  thanks  for
+
+watching
+
+
+

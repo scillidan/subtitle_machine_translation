@@ -1,0 +1,304 @@
+1
+00:00:00,179 --> 00:00:02,399
+in this lecture we'll use the shape
+
+2
+00:00:02,399 --> 00:00:05,400
+Builder tool to create the Helios logo I
+
+3
+00:00:05,400 --> 00:00:08,820
+open the logo by going to file import
+
+4
+00:00:08,820 --> 00:00:11,099
+I right click on the canvas and choose
+
+5
+00:00:11,099 --> 00:00:13,620
+document properties I click on the
+
+6
+00:00:13,620 --> 00:00:15,660
+resize to content icon
+
+7
+00:00:15,660 --> 00:00:17,640
+I turn snapping on
+
+8
+00:00:17,640 --> 00:00:20,039
+I click on the rectangle tool and draw a
+
+9
+00:00:20,039 --> 00:00:23,039
+rectangle over the logo which will snap
+
+10
+00:00:23,039 --> 00:00:25,140
+I set fill to none
+
+11
+00:00:25,140 --> 00:00:27,599
+now I will use the pen tool to draw a
+
+12
+00:00:27,599 --> 00:00:30,359
+leaf when I hold my mouse at the top I
+
+13
+00:00:30,359 --> 00:00:32,220
+see it snaps to the midpoint
+
+14
+00:00:32,220 --> 00:00:34,100
+but the mouse doesn't snap to the center
+
+15
+00:00:34,100 --> 00:00:36,600
+so I will go into the snapping options
+
+16
+00:00:36,600 --> 00:00:39,000
+and check object midpoint
+
+17
+00:00:39,000 --> 00:00:42,000
+now I click on the object midpoint then
+
+18
+00:00:42,000 --> 00:00:44,100
+I click on the top midpoint and keep the
+
+19
+00:00:44,100 --> 00:00:45,420
+mouse pressed down
+
+20
+00:00:45,420 --> 00:00:47,820
+I drag and move the mouse to adjust the
+
+21
+00:00:47,820 --> 00:00:50,579
+red line until the curve fits the leaf
+
+22
+00:00:50,579 --> 00:00:52,620
+then I let go of the mouse and press
+
+23
+00:00:52,620 --> 00:00:54,719
+enter to stop drawing
+
+24
+00:00:54,719 --> 00:00:56,640
+I press the space bar to go to the
+
+25
+00:00:56,640 --> 00:00:59,520
+select tool at the bottom left I right
+
+26
+00:00:59,520 --> 00:01:02,820
+click and choose swap fill and stroke I
+
+27
+00:01:02,820 --> 00:01:05,939
+set the opacity to 50 I duplicate the
+
+28
+00:01:05,939 --> 00:01:08,159
+path I click on the object flip
+
+29
+00:01:08,159 --> 00:01:11,340
+horizontal icon I drag the copy until it
+
+30
+00:01:11,340 --> 00:01:13,979
+snaps to the original path I hold shift
+
+31
+00:01:13,979 --> 00:01:16,680
+and click on the other path I go to path
+
+32
+00:01:16,680 --> 00:01:20,040
+Union next I want to rotate the leaf and
+
+33
+00:01:20,040 --> 00:01:22,200
+make copies of them I click on the
+
+34
+00:01:22,200 --> 00:01:25,200
+pathfx tab I open the menu and choose
+
+35
+00:01:25,200 --> 00:01:27,840
+rotate copies then I click on the Node
+
+36
+00:01:27,840 --> 00:01:30,780
+tool I drag the rotation origin point to
+
+37
+00:01:30,780 --> 00:01:33,360
+the midpoint where it will snap I set
+
+38
+00:01:33,360 --> 00:01:36,479
+number of copies to 18 and press enter
+
+39
+00:01:36,479 --> 00:01:38,579
+to complete the effect I go to path
+
+40
+00:01:38,579 --> 00:01:42,079
+object to path I set the opacity to 100
+
+41
+00:01:42,079 --> 00:01:44,820
+I duplicate the path Two Times by
+
+42
+00:01:44,820 --> 00:01:47,400
+pressing Ctrl D twice now I click on the
+
+43
+00:01:47,400 --> 00:01:49,979
+shape Builder tool I drag over the outer
+
+44
+00:01:49,979 --> 00:01:51,960
+leaves to select them
+
+45
+00:01:51,960 --> 00:01:54,000
+as long as I keep the mouse pressed down
+
+46
+00:01:54,000 --> 00:01:56,820
+I will create a single path to show this
+
+47
+00:01:56,820 --> 00:01:58,979
+I will let go of the mouse and select
+
+48
+00:01:58,979 --> 00:02:01,200
+the rest of the outer leaves I click on
+
+49
+00:02:01,200 --> 00:02:04,799
+finish as we see we now have two paths I
+
+50
+00:02:04,799 --> 00:02:07,740
+will unite them by going to path Union
+
+51
+00:02:07,740 --> 00:02:10,440
+I will call the layer outer leaves I
+
+52
+00:02:10,440 --> 00:02:12,420
+select the second path and click on the
+
+53
+00:02:12,420 --> 00:02:14,700
+shape Builder tool to select the second
+
+54
+00:02:14,700 --> 00:02:18,120
+row of leaves I click on them
+
+55
+00:02:18,120 --> 00:02:21,720
+I click on finish and go to path Union I
+
+56
+00:02:21,720 --> 00:02:24,360
+call the path middle leaves I will click
+
+57
+00:02:24,360 --> 00:02:27,000
+on a green Swatch to make them visible I
+
+58
+00:02:27,000 --> 00:02:28,860
+select the last path and click on the
+
+59
+00:02:28,860 --> 00:02:30,959
+shape Builder tool I select the third
+
+60
+00:02:30,959 --> 00:02:33,360
+row of leaves when I click on a wrong
+
+61
+00:02:33,360 --> 00:02:35,400
+Leaf I can remove it again using the
+
+62
+00:02:35,400 --> 00:02:38,160
+delete tool I click on finish and go to
+
+63
+00:02:38,160 --> 00:02:41,519
+path Union I click on a yellow swatch
+
+64
+00:02:41,519 --> 00:02:43,800
+finally let's give the logo the correct
+
+65
+00:02:43,800 --> 00:02:46,260
+colors I dragged the original logo to
+
+66
+00:02:46,260 --> 00:02:48,480
+the left I will delete the rectangle
+
+67
+00:02:48,480 --> 00:02:51,300
+that I used for snapping I click on
+
+68
+00:02:51,300 --> 00:02:53,640
+outer leaves then I select the dropper
+
+69
+00:02:53,640 --> 00:02:54,540
+tool
+
+70
+00:02:54,540 --> 00:02:57,300
+I click on an outer Leaf of the logo I
+
+71
+00:02:57,300 --> 00:02:59,220
+click on middle leaves and Sample the
+
+72
+00:02:59,220 --> 00:03:01,379
+color from the logo and I click on
+
+73
+00:03:01,379 --> 00:03:04,560
+yellow leaves and assign the yellow
+
+74
+00:03:04,560 --> 00:03:06,959
+we have now vectorized the logo using
+
+75
+00:03:06,959 --> 00:03:09,780
+the shape Builder tool
+
+76
+00:03:09,780 --> 00:03:12,780
+foreign
+

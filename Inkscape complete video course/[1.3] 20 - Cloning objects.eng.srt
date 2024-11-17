@@ -1,0 +1,228 @@
+1
+00:00:00,560 --> 00:00:02,560
+let's say you have many objects that are
+
+2
+00:00:02,560 --> 00:00:04,880
+the same and at a later point you want
+
+3
+00:00:04,880 --> 00:00:06,879
+to adjust them then you could use
+
+4
+00:00:06,879 --> 00:00:09,400
+cloning let's create a custom
+
+5
+00:00:09,400 --> 00:00:12,120
+bullet I select the rectangle tool and
+
+6
+00:00:12,120 --> 00:00:15,080
+drag a rectangle to get rounded Corners
+
+7
+00:00:15,080 --> 00:00:16,960
+I drag the circle shape control widget
+
+8
+00:00:16,960 --> 00:00:19,480
+down I want the rectangle to stay alive
+
+9
+00:00:19,480 --> 00:00:22,400
+shape so I will not convert it to a path
+
+10
+00:00:22,400 --> 00:00:24,119
+I press the space
+
+11
+00:00:24,119 --> 00:00:26,840
+bar in my layers I will set the blend
+
+12
+00:00:26,840 --> 00:00:29,439
+mode to multiply now I will clone the
+
+13
+00:00:29,439 --> 00:00:30,759
+rectangle
+
+14
+00:00:30,759 --> 00:00:33,920
+you clone an object by pressing alt d i
+
+15
+00:00:33,920 --> 00:00:36,680
+drag the Clone down for my bullet I need
+
+16
+00:00:36,680 --> 00:00:39,000
+a second rectangle so I will clone the
+
+17
+00:00:39,000 --> 00:00:41,800
+original again I click on the rectangle
+
+18
+00:00:41,800 --> 00:00:45,079
+again so I can rotate it I hold control
+
+19
+00:00:45,079 --> 00:00:46,280
+and rotate at
+
+20
+00:00:46,280 --> 00:00:50,239
+90° I turn on snapping and open the menu
+
+21
+00:00:50,239 --> 00:00:51,960
+I want the corners of the bounding boxes
+
+22
+00:00:51,960 --> 00:00:55,000
+to snap I select both rectangles and
+
+23
+00:00:55,000 --> 00:00:57,760
+click on them again so I can rotate I
+
+24
+00:00:57,760 --> 00:01:00,960
+hold control and rotate 45°
+
+25
+00:01:00,960 --> 00:01:02,760
+I want to add a third rectangle and I
+
+26
+00:01:02,760 --> 00:01:05,239
+want the two clones to mask it so I
+
+27
+00:01:05,239 --> 00:01:07,479
+right click on the rectangles and choose
+
+28
+00:01:07,479 --> 00:01:10,439
+set clip group now I clone the original
+
+29
+00:01:10,439 --> 00:01:14,159
+again I drag the Clone in place to mask
+
+30
+00:01:14,159 --> 00:01:16,759
+I drag the Clone on the clip group now
+
+31
+00:01:16,759 --> 00:01:18,759
+let's say I want the rectangles to be
+
+32
+00:01:18,759 --> 00:01:21,640
+shorter to do this I drag the left side
+
+33
+00:01:21,640 --> 00:01:23,759
+of the original end because the
+
+34
+00:01:23,759 --> 00:01:25,720
+rectangle is still Al live shape the
+
+35
+00:01:25,720 --> 00:01:28,400
+corners will stay round after scaling
+
+36
+00:01:28,400 --> 00:01:30,920
+now I select the bullet and clone it we
+
+37
+00:01:30,920 --> 00:01:33,479
+see the Clone now is a single shape I
+
+38
+00:01:33,479 --> 00:01:35,640
+will create a layer for it and call it
+
+39
+00:01:35,640 --> 00:01:39,200
+bullets I call the other layer parents I
+
+40
+00:01:39,200 --> 00:01:40,960
+drag the single- shaped bullet on the
+
+41
+00:01:40,960 --> 00:01:43,240
+bullet's layer I select the parent
+
+42
+00:01:43,240 --> 00:01:46,000
+objects and drag them on the paste board
+
+43
+00:01:46,000 --> 00:01:48,119
+now I will hide them I don't have to
+
+44
+00:01:48,119 --> 00:01:50,200
+clone the newest object anymore I can
+
+45
+00:01:50,200 --> 00:01:52,439
+just duplicate it I will activate
+
+46
+00:01:52,439 --> 00:01:55,280
+alignment and select same distances I
+
+47
+00:01:55,280 --> 00:01:56,799
+can now duplicate instances of the
+
+48
+00:01:56,799 --> 00:02:01,159
+Bullet by pressing the space bar
+
+49
+00:02:01,159 --> 00:02:03,200
+now let's say I want the bullets to be
+
+50
+00:02:03,200 --> 00:02:05,159
+smaller I show
+
+51
+00:02:05,159 --> 00:02:07,399
+parents when I make the parent bullets
+
+52
+00:02:07,399 --> 00:02:10,318
+smaller the children will follow I hold
+
+53
+00:02:10,318 --> 00:02:13,360
+shift plus control while scaling and to
+
+54
+00:02:13,360 --> 00:02:15,400
+change the color of the bullets I select
+
+55
+00:02:15,400 --> 00:02:17,879
+the original rectangle in fill and
+
+56
+00:02:17,879 --> 00:02:20,879
+stroke I adjust the color and I make the
+
+57
+00:02:20,879 --> 00:02:25,360
+arms of the bullets a bit shorter
+

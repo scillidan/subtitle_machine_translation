@@ -1,0 +1,240 @@
+
+in  this  tutorial  well  be  going  over  how
+
+you  can  rasterize  Vector  objects  in
+
+inkscape  more  importantly  though  well
+
+be  going  over  why  you  would  want  to  do
+
+such  a  thing  so  lets  get  started  here
+
+on  my  canvas  I  have  this  example  design
+
+which  consists  of  individual  Vector
+
+elements  if  I  zoom  in  on  this  you  can
+
+see  theres  no  quality  loss
+
+if  I  wanted  to  make  a  rasterized  or  a
+
+pixel  based  copy  of  this  design  here  all
+
+I  have  to  do  is  Select  it  and  go  to  edit
+
+and  select  make  a  bitmap  copy
+
+and  when  you  do  that  it  creates  a  copy
+
+of  your  selection  only  its  a  pixel
+
+based  copy  so  if  I  zoom  in  on  this  you
+
+can  see  this  is  indeed  a  pixel  based
+
+image
+
+now  lets  have  a  look  at  an  example  of
+
+when  this  sort  of  thing  would  be  useful
+
+so  on  my  screen  here  I  have  this
+
+halftone  pattern  that  we  created  in  a
+
+previous  tutorial  and  this  actually
+
+serves  as  a  perfect  example  of  when  to
+
+use  this  sort  of  thing  because  this
+
+design  here  consists  of  hundreds  maybe
+
+even  thousands  of  tiny  little  circles
+
+and  because  of  that  the  software  has  to
+
+process  the  information  of  each  and
+
+every  one  of  these  elements  which  can
+
+slow  down  the  software  and  decrease
+
+performance  so  this  is  where  making  a
+
+bitmap  copy  comes  in  handy  because  it
+
+allows  you  to  create  a  pixel  based  copy
+
+which  will  free  up  a  lot  of  CPU  usage
+
+and  make  the  software  run  a  lot  better
+
+so  what  Im  going  to  do  is  Im  going  to
+
+open  my  layers  menu  Im  going  to  come  up
+
+here  to  layers  and  select  layers  and
+
+objects
+
+and  Im  going  to  look  for
+
+here  we  go  Layer  Two  this  is  where  all
+
+of  the  objects  remain  on  this  layer  Im
+
+going  to  select  the  objects  I  want  to
+
+make  a  copy  of
+
+and  if  I  go  to  edit  and  select  make  a
+
+bitmap  copy  we  now  have  an  image  over
+
+here  in  the  layers  menu  so  Im  going  to
+
+take  this  image  and  Im  going  to  pop  it
+
+out  of  the  layer  and  place  it  on  top  of
+
+the  layer  and  if  I  scroll  up  you  can  see
+
+it  up  there  and  then  Im  going  to
+
+collapse  the  layer
+
+and  Im  going  to  lock  the  layer  and  turn
+
+off  the  visibility  of  the  layer  and  now
+
+we  have  just  this  pixel  based  image  here
+
+and  now  the  software  is  already  running
+
+much  smoother  if  I  try  doing  this  and
+
+working  with  this  with  thousands  of
+
+individual  little  elements  being
+
+displayed  on  the  screen  its  going  to
+
+decrease  performance  by  a  lot  now  one
+
+problem  you  may  encounter  when  doing
+
+this  sort  of  thing  if  I  zoom  in  here  you
+
+can  see  the  resolution  isnt  too  great
+
+so  if  you  want  to  make  bitmap  copies
+
+while  preserving  a  higher  resolution
+
+than  what  the  default  is  what  I  would
+
+recommend  doing  is  going  into  inkscape
+
+preferences  if  youre  a  Windows  or  Linux
+
+User  its  up  here  in  the  edit  menu  and
+
+come  down  here  to  where  it  says  either
+
+preferences  or  inkscape  preferences  if
+
+youre  using  Mac  just  come  over  here  to
+
+where  it  says  inkscape  and  select
+
+settings
+
+and  in  the  menu  what  were  looking  for
+
+is  over  here  where  it  says  imported
+
+images  Im  going  to  come  down  here  to
+
+where  it  says  resolution  for  create  a
+
+bitmap  copy  the  default  is  96.  Im  going
+
+to  change  that  to  300.  and  then  close
+
+out  of  the  menu  and  now  next  time  when
+
+you  make  a  bitmap  copy  itll  be  a  much
+
+higher  resolution  so  let  me  show  you
+
+here  as  an  example  let  me  get  rid  of  my
+
+other  copy  and  let  me  make  a  new  copy
+
+of  my  halftones  here  Im  going  to  select
+
+all  of  my  halftones
+
+Ill  go  to  edit  make  a  bitmap  copy
+
+take  the  image  layer  pop  that  out
+
+collapse  the  layer
+
+turn  this  off
+
+and  there  we  go  this  is  a  much  higher
+
+resolution  like  Im  zooming  in  Beyond
+
+100  and  you  dont  see  any  pixelation  yet
+
+in  fact  I  could  zoom  in  quite  a  bit
+
+without  any  kind  of  pixelation
+
+whatsoever  I  have  to  go  pretty  far  there
+
+before  you  start  seeing  the  pixelation
+
+so  thats  a  little  tip  that  you  can  use
+
+to  help  create  higher  resolution  copies
+
+of  your  rasterize  objects  if  you  found
+
+this  lesson  useful  then  consider
+
+checking  out  my  inkscape  master  class
+
+its  a  collection  of  over  60  videos
+
+where  I  go  over  all  of  the  tools  and
+
+features  in  inkscape  and  I  explain  what
+
+they  are  and  demonstrate  how  they  work
+
+kind  of  like  how  I  did  in  this  video  we
+
+even  have  a  private  Community  where  you
+
+can  ask  questions  and  get  help  from  me
+
+anytime  you  want  and  best  of  all  theres
+
+no  monthly  membership  fees  you  just  pay
+
+17  one  time  and  youre  in  for  Life  Ill
+
+have  some  information  about  that  down
+
+below  if  you  want  to  check  that  out  as
+
+always  thanks  for  watching
+
+
+
+thank  you

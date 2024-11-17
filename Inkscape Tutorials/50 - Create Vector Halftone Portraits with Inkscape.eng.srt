@@ -1,0 +1,800 @@
+1
+00:00:01,030 --> 00:00:06,950
+[Music]
+
+2
+00:00:08,800 --> 00:00:10,960
+this is nick with logos by nick.com and
+
+3
+00:00:10,960 --> 00:00:12,559
+in this tutorial i'll be demonstrating
+
+4
+00:00:12,559 --> 00:00:14,799
+how you can take an image and use it to
+
+5
+00:00:14,799 --> 00:00:17,760
+trace a vector halftone portrait using
+
+6
+00:00:17,760 --> 00:00:20,000
+inkscape so getting us started here in
+
+7
+00:00:20,000 --> 00:00:21,359
+inkscape the first thing i want to do is
+
+8
+00:00:21,359 --> 00:00:22,960
+just set up the workflow so that we all
+
+9
+00:00:22,960 --> 00:00:24,640
+have a similar setup on our screen i'm
+
+10
+00:00:24,640 --> 00:00:26,240
+going to come up here to where it says
+
+11
+00:00:26,240 --> 00:00:27,119
+view
+
+12
+00:00:27,119 --> 00:00:28,400
+i want to make sure i have custom
+
+13
+00:00:28,400 --> 00:00:30,400
+selected and then i want to zoom i want
+
+14
+00:00:30,400 --> 00:00:32,960
+to go to view zoom and zoom in at one to
+
+15
+00:00:32,960 --> 00:00:34,160
+one
+
+16
+00:00:34,160 --> 00:00:35,600
+okay now what i'm going to do is i'm
+
+17
+00:00:35,600 --> 00:00:38,079
+going to import my example photo so i
+
+18
+00:00:38,079 --> 00:00:40,000
+have over here my other my other monitor
+
+19
+00:00:40,000 --> 00:00:41,440
+i have my example photo i'm going to
+
+20
+00:00:41,440 --> 00:00:43,440
+click and drag that file into inkscape
+
+21
+00:00:43,440 --> 00:00:44,800
+i'm going to leave the defaults as they
+
+22
+00:00:44,800 --> 00:00:46,800
+are and click ok and there we go there
+
+23
+00:00:46,800 --> 00:00:48,559
+is the example photo i will be using for
+
+24
+00:00:48,559 --> 00:00:50,160
+this tutorial this is just a stock photo
+
+25
+00:00:50,160 --> 00:00:51,600
+that i grabbed off the internet i'll
+
+26
+00:00:51,600 --> 00:00:52,640
+have a link in the description of the
+
+27
+00:00:52,640 --> 00:00:54,160
+video if you want to use this image
+
+28
+00:00:54,160 --> 00:00:55,600
+otherwise you can use whatever image
+
+29
+00:00:55,600 --> 00:00:56,879
+you'd like
+
+30
+00:00:56,879 --> 00:00:58,640
+so the first thing we have to do is make
+
+31
+00:00:58,640 --> 00:01:00,320
+this image black and white so i'm going
+
+32
+00:01:00,320 --> 00:01:02,079
+to make sure i have the image selected
+
+33
+00:01:02,079 --> 00:01:03,280
+and i'll come up here to where it says
+
+34
+00:01:03,280 --> 00:01:05,119
+filters and i'll come over to color and
+
+35
+00:01:05,119 --> 00:01:07,920
+i'm looking for grayscale
+
+36
+00:01:07,920 --> 00:01:09,200
+now i'm going to take this menu i'm
+
+37
+00:01:09,200 --> 00:01:10,799
+going to tick the preview box right here
+
+38
+00:01:10,799 --> 00:01:12,240
+just to give us a preview of how this
+
+39
+00:01:12,240 --> 00:01:14,240
+looks uh if you want you can adjust your
+
+40
+00:01:14,240 --> 00:01:16,479
+rgb values up here as well as the as the
+
+41
+00:01:16,479 --> 00:01:18,320
+uh the lightness i like how this looks
+
+42
+00:01:18,320 --> 00:01:19,439
+as it is so i'm just going to leave it
+
+43
+00:01:19,439 --> 00:01:21,840
+as it is and click apply
+
+44
+00:01:21,840 --> 00:01:23,280
+and now that we've done that now that
+
+45
+00:01:23,280 --> 00:01:24,720
+this is applied we can close out of this
+
+46
+00:01:24,720 --> 00:01:26,560
+menu and now i want to open up the
+
+47
+00:01:26,560 --> 00:01:28,880
+layers menu which is located
+
+48
+00:01:28,880 --> 00:01:31,040
+over here or you can just press ctrl
+
+49
+00:01:31,040 --> 00:01:33,040
+shift and l on your keyboard
+
+50
+00:01:33,040 --> 00:01:34,960
+so right this right here layer one this
+
+51
+00:01:34,960 --> 00:01:36,799
+is the layer where the image is located
+
+52
+00:01:36,799 --> 00:01:39,119
+we want to create a new layer to trace
+
+53
+00:01:39,119 --> 00:01:41,280
+our halftone portrait over this image so
+
+54
+00:01:41,280 --> 00:01:42,720
+i'm going to click the plus icon down
+
+55
+00:01:42,720 --> 00:01:44,880
+here and i'm going to add a new layer
+
+56
+00:01:44,880 --> 00:01:46,320
+i'm going to use the layer name i'm just
+
+57
+00:01:46,320 --> 00:01:47,759
+going to leave the default and position
+
+58
+00:01:47,759 --> 00:01:49,360
+we want to make sure we have above
+
+59
+00:01:49,360 --> 00:01:52,560
+current and then go ahead and click add
+
+60
+00:01:52,560 --> 00:01:54,240
+now what i'm going to do is i'm going to
+
+61
+00:01:54,240 --> 00:01:56,960
+create a single circle going over this
+
+62
+00:01:56,960 --> 00:01:58,159
+image right here so let me grab the
+
+63
+00:01:58,159 --> 00:01:59,920
+circles and ellipses tool i'm going to
+
+64
+00:01:59,920 --> 00:02:01,360
+click and drag on the canvas to create a
+
+65
+00:02:01,360 --> 00:02:03,200
+circle i'm going to hold ctrl on the
+
+66
+00:02:03,200 --> 00:02:05,280
+keyboard so it makes a perfectly round
+
+67
+00:02:05,280 --> 00:02:06,640
+circle like that
+
+68
+00:02:06,640 --> 00:02:08,479
+and i'm going to make this black let me
+
+69
+00:02:08,479 --> 00:02:09,758
+grab the select tool and put this
+
+70
+00:02:09,758 --> 00:02:11,680
+towards the top of the uh the top left
+
+71
+00:02:11,680 --> 00:02:13,360
+corner of the image right here and in
+
+72
+00:02:13,360 --> 00:02:14,720
+fact i'm going to scale that down a
+
+73
+00:02:14,720 --> 00:02:16,319
+little more
+
+74
+00:02:16,319 --> 00:02:17,920
+what i want to do is align this in the
+
+75
+00:02:17,920 --> 00:02:19,440
+top left corner here so let's open up
+
+76
+00:02:19,440 --> 00:02:20,959
+the alignment menu which is over here or
+
+77
+00:02:20,959 --> 00:02:23,440
+you could press ctrl shift a
+
+78
+00:02:23,440 --> 00:02:25,040
+and with this circle selected i'm going
+
+79
+00:02:25,040 --> 00:02:26,400
+to hold shift and i'm going to click on
+
+80
+00:02:26,400 --> 00:02:28,480
+the image so we have them both selected
+
+81
+00:02:28,480 --> 00:02:30,000
+and in the align distribute menu i want
+
+82
+00:02:30,000 --> 00:02:31,760
+to make sure i have last selected chosen
+
+83
+00:02:31,760 --> 00:02:33,599
+from this relative drop down and i want
+
+84
+00:02:33,599 --> 00:02:34,879
+to align this
+
+85
+00:02:34,879 --> 00:02:36,879
+to the left edge and then i want to
+
+86
+00:02:36,879 --> 00:02:38,800
+align this to the top edge so that is
+
+87
+00:02:38,800 --> 00:02:40,560
+right there in the top left corner and
+
+88
+00:02:40,560 --> 00:02:42,160
+now we can click off of that to deselect
+
+89
+00:02:42,160 --> 00:02:43,360
+everything
+
+90
+00:02:43,360 --> 00:02:44,720
+so now i'm going to click and drag over
+
+91
+00:02:44,720 --> 00:02:46,480
+the circle so i have just the circle
+
+92
+00:02:46,480 --> 00:02:49,519
+selected and i'm going to go to edit
+
+93
+00:02:49,519 --> 00:02:50,560
+clone
+
+94
+00:02:50,560 --> 00:02:53,120
+create tiled clones
+
+95
+00:02:53,120 --> 00:02:54,720
+and in this menu over here what we're
+
+96
+00:02:54,720 --> 00:02:56,160
+looking for is
+
+97
+00:02:56,160 --> 00:02:58,000
+the trace option
+
+98
+00:02:58,000 --> 00:02:59,760
+now from these settings over here you
+
+99
+00:02:59,760 --> 00:03:01,200
+want to make sure you have traced the
+
+100
+00:03:01,200 --> 00:03:03,360
+drawing under the clone spray items you
+
+101
+00:03:03,360 --> 00:03:04,879
+want to have that selected you want to
+
+102
+00:03:04,879 --> 00:03:06,879
+have color selected you want to leave
+
+103
+00:03:06,879 --> 00:03:08,400
+the defaults as they are over here and
+
+104
+00:03:08,400 --> 00:03:10,560
+then down here we only want presence and
+
+105
+00:03:10,560 --> 00:03:12,159
+size selected we don't want either of
+
+106
+00:03:12,159 --> 00:03:14,400
+these selected and then down here apply
+
+107
+00:03:14,400 --> 00:03:16,959
+the tiled clones to we want to choose
+
+108
+00:03:16,959 --> 00:03:18,400
+width and height and we want to change
+
+109
+00:03:18,400 --> 00:03:19,920
+the width and height to match the width
+
+110
+00:03:19,920 --> 00:03:21,280
+and height of this image so let me click
+
+111
+00:03:21,280 --> 00:03:22,560
+on this image here so i can see the
+
+112
+00:03:22,560 --> 00:03:24,159
+width and height as you can see the
+
+113
+00:03:24,159 --> 00:03:26,879
+width is a thousand pixels wide and then
+
+114
+00:03:26,879 --> 00:03:28,560
+778
+
+115
+00:03:28,560 --> 00:03:30,400
+pixels high
+
+116
+00:03:30,400 --> 00:03:31,680
+so i'm going to change this over here
+
+117
+00:03:31,680 --> 00:03:33,760
+let me select the circle again
+
+118
+00:03:33,760 --> 00:03:35,760
+i'm going to change this to pixels and
+
+119
+00:03:35,760 --> 00:03:37,280
+i'm going to change this to the same
+
+120
+00:03:37,280 --> 00:03:39,280
+size that uh the images over here which
+
+121
+00:03:39,280 --> 00:03:42,239
+is 1000 by 778 as you can see i already
+
+122
+00:03:42,239 --> 00:03:44,000
+have it inputted here so once you've
+
+123
+00:03:44,000 --> 00:03:45,120
+done that you can just go ahead and
+
+124
+00:03:45,120 --> 00:03:46,480
+click create
+
+125
+00:03:46,480 --> 00:03:47,760
+and as you can see it's going to create
+
+126
+00:03:47,760 --> 00:03:50,799
+a bunch of copies of that
+
+127
+00:03:50,799 --> 00:03:52,560
+a bunch of copies of that circle and use
+
+128
+00:03:52,560 --> 00:03:54,000
+it to trace over the image here and you
+
+129
+00:03:54,000 --> 00:03:55,120
+can see it a little better if you come
+
+130
+00:03:55,120 --> 00:03:56,640
+over here to the layers menu and turn
+
+131
+00:03:56,640 --> 00:03:58,640
+off the visibility of layer one you can
+
+132
+00:03:58,640 --> 00:04:00,319
+see where it traced that image a little
+
+133
+00:04:00,319 --> 00:04:01,360
+better
+
+134
+00:04:01,360 --> 00:04:02,879
+now let me turn that back on let me come
+
+135
+00:04:02,879 --> 00:04:04,319
+over here let me undo what i just did
+
+136
+00:04:04,319 --> 00:04:06,640
+there by pressing ctrl z let me undo it
+
+137
+00:04:06,640 --> 00:04:09,439
+again ctrl z one more time ctrl z and
+
+138
+00:04:09,439 --> 00:04:11,040
+there we go what i want to do is make
+
+139
+00:04:11,040 --> 00:04:12,720
+this circle a little smaller and see if
+
+140
+00:04:12,720 --> 00:04:14,159
+i can get a better result because i
+
+141
+00:04:14,159 --> 00:04:15,439
+clicked on the wrong thing let me make
+
+142
+00:04:15,439 --> 00:04:17,600
+this a little smaller
+
+143
+00:04:17,600 --> 00:04:20,400
+click on create
+
+144
+00:04:20,560 --> 00:04:22,160
+and as you can see with the smaller
+
+145
+00:04:22,160 --> 00:04:24,000
+circle it added more circles in here
+
+146
+00:04:24,000 --> 00:04:25,520
+there's more circle density so i think
+
+147
+00:04:25,520 --> 00:04:27,199
+that looks a little better if you want
+
+148
+00:04:27,199 --> 00:04:29,120
+let me undo that again
+
+149
+00:04:29,120 --> 00:04:30,639
+if you want you can make this larger and
+
+150
+00:04:30,639 --> 00:04:32,240
+see how that looks this is just a matter
+
+151
+00:04:32,240 --> 00:04:33,680
+of personal preference at this point if
+
+152
+00:04:33,680 --> 00:04:34,880
+you go ahead and click on create you can
+
+153
+00:04:34,880 --> 00:04:36,720
+see how that looks right there i liked
+
+154
+00:04:36,720 --> 00:04:37,919
+how it looked better with the smaller
+
+155
+00:04:37,919 --> 00:04:40,240
+circle so let me undo that one more time
+
+156
+00:04:40,240 --> 00:04:41,520
+and let me just make that a little
+
+157
+00:04:41,520 --> 00:04:44,080
+smaller like that click on create
+
+158
+00:04:44,080 --> 00:04:45,680
+there we go now i'm going to come over
+
+159
+00:04:45,680 --> 00:04:46,800
+here to the layers menu i'm going to
+
+160
+00:04:46,800 --> 00:04:48,880
+turn off the visibility of layer one and
+
+161
+00:04:48,880 --> 00:04:51,360
+if you zoom out you can really see the
+
+162
+00:04:51,360 --> 00:04:53,360
+portrait it almost looks like an actual
+
+163
+00:04:53,360 --> 00:04:55,199
+image but if you zoom in all the way you
+
+164
+00:04:55,199 --> 00:04:57,600
+can see this is indeed a vector tracing
+
+165
+00:04:57,600 --> 00:04:59,360
+there is no quality loss here as you
+
+166
+00:04:59,360 --> 00:05:01,520
+zoom in these are vectors and the cool
+
+167
+00:05:01,520 --> 00:05:03,600
+thing about this is that all of these
+
+168
+00:05:03,600 --> 00:05:06,080
+circles are linked to the original
+
+169
+00:05:06,080 --> 00:05:08,080
+circle so whatever you do to that
+
+170
+00:05:08,080 --> 00:05:10,160
+original circle will be applied to all
+
+171
+00:05:10,160 --> 00:05:11,520
+of the other circles as well let me show
+
+172
+00:05:11,520 --> 00:05:12,560
+you what i mean i'm going to zoom in
+
+173
+00:05:12,560 --> 00:05:13,919
+over here i'm going to take this
+
+174
+00:05:13,919 --> 00:05:15,280
+original circle and move it out of the
+
+175
+00:05:15,280 --> 00:05:16,160
+way
+
+176
+00:05:16,160 --> 00:05:18,400
+let me zoom out to zoom i'm just holding
+
+177
+00:05:18,400 --> 00:05:19,840
+ctrl and rolling up and down the mouse
+
+178
+00:05:19,840 --> 00:05:21,280
+wheel to move the page around just
+
+179
+00:05:21,280 --> 00:05:22,560
+pressing down the mouse wheel and moving
+
+180
+00:05:22,560 --> 00:05:24,479
+the mouse i'm going to take that circle
+
+181
+00:05:24,479 --> 00:05:27,280
+and i'm going to make that blue
+
+182
+00:05:27,280 --> 00:05:28,639
+and as you can see it made all of the
+
+183
+00:05:28,639 --> 00:05:30,800
+other circles blue and this works with
+
+184
+00:05:30,800 --> 00:05:32,320
+any other transformation as well if i
+
+185
+00:05:32,320 --> 00:05:34,560
+make this a little bigger
+
+186
+00:05:34,560 --> 00:05:35,919
+it's going to make all of those circles
+
+187
+00:05:35,919 --> 00:05:37,039
+a little bigger and i think that looks
+
+188
+00:05:37,039 --> 00:05:38,639
+better right there up close it looks
+
+189
+00:05:38,639 --> 00:05:40,000
+like a tracing of a bunch of little
+
+190
+00:05:40,000 --> 00:05:42,560
+circles but if you zoom out you can see
+
+191
+00:05:42,560 --> 00:05:44,720
+it looks more like a photograph
+
+192
+00:05:44,720 --> 00:05:45,919
+so i think that should do it for this
+
+193
+00:05:45,919 --> 00:05:47,680
+tutorial that is how you can very easily
+
+194
+00:05:47,680 --> 00:05:49,440
+go about creating your own
+
+195
+00:05:49,440 --> 00:05:52,320
+halftone portraits using images in
+
+196
+00:05:52,320 --> 00:05:54,160
+inkscape if you have any questions just
+
+197
+00:05:54,160 --> 00:05:55,759
+leave a comment below and as always
+
+198
+00:05:55,759 --> 00:05:57,420
+thanks for watching
+
+199
+00:05:57,420 --> 00:06:05,649
+[Music]
+
+200
+00:06:11,430 --> 00:06:15,540
+[Music]
+

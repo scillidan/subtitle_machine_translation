@@ -1,0 +1,588 @@
+
+in  this  tutorial  well  be  going  over
+
+everything  you  need  to  know  about
+
+working  with  gradients  in  inkscape  now
+
+in  this  lesson  were  going  to  focus  on
+
+linear  and  Radial  gradients  in
+
+particular  but  if  you  want  to  learn
+
+about  some  of  the  more  advanced  types  of
+
+gradients  in  inkscape  such  as  mesh
+
+gradients  and  conical  gradients  I  have  a
+
+separate  tutorial  for  that  that  Ill
+
+have  Linked  In  the  description  below  so
+
+to  start  us  off  here  a  gradient  is
+
+basically  a  transition  between  two  or
+
+more  colors  and  a  good  example  of  that
+
+would  be  the  sunset  graphic  in  the
+
+background  this  sky  does  not  have  a
+
+single  color  applied  to  it  it  has  a
+
+gradient  applied  to  it  where  it
+
+transitions  from  lavender  to  this  Peach
+
+sort  of  shade  so  let  me  show  you  how
+
+this  can  be  accomplished  in  inkscape  Im
+
+going  to  grab  my  rectangle  tool  and  Im
+
+going  to  click  and  drag  on  the  canvas  to
+
+draw  a  rectangle  and  then  Im  going  to
+
+open  up  my  fill  and  stroke  menu  by
+
+coming  down  here  to  this  color  stripe
+
+and  double  clicking
+
+it  when  I  do  that  the  fill  and  stroke
+
+menu  will  open  up  over  here  on  the  right
+
+hand  side  of  the  screen  and  Under  The
+
+Fill  tab  youll  notice  we  have  have
+
+these  different  types  of  fills  that  we
+
+can  apply  to  an  object  right  now  we  have
+
+a  solid  color  applied  to  the  object  but
+
+if  we  wanted  to  apply  a  a  gradient  we
+
+can  choose  one  of  these  options  over
+
+here  we  have  a  linear  gradient  which
+
+follows  a  linear  or  straight  path  and
+
+then  we  have  a  radial  gradient  which
+
+follows  a  circular  or  round  path  so  let
+
+me  select  linear  gradient  and  when  I  do
+
+that  you  can  see  that  by  default  the
+
+gradient  that  it  applies  starts  off  with
+
+the  original  color  on  the  left  hand  side
+
+and  then  it  transitions  over  to
+
+transparency  on  the  right  hand  side  now
+
+Im  going  to  grab  my  gradient  tool  from
+
+the  toolbar  over  here  you  can  also
+
+access  it  by  pressing  the  letter  G  on
+
+your  keyboard  and  if  I  click  on  this
+
+handle  you  can  see  the  color  thats
+
+applied  to  this  part  of  the  gradient
+
+over  here  in  the  fill  and  stroke  menu
+
+you  can  see  the  color  code  you  can  see
+
+the  hsl  values  and  then  you  can  see  the
+
+colors  indexed  over  here  in  the  stops
+
+menu  now  if  I  click  on  the  other  end  of
+
+this  gradient  you  can  see  now  I  have  the
+
+other  color  selected  now  this  is  the
+
+same  color  but  the  alpha  channel  is
+
+brought  all  the  way  down  and  by  the  way
+
+if  you  dont  have  an  alpha  channel  here
+
+make  sure  to  come  up  here  to  this  drop
+
+down  and  choose  hsl  from  this  list  now
+
+Im  going  to  bring  the  opacity  of  this
+
+end  of  the  gradient  all  the  way  up  so
+
+Im  going  to  change  the  alpha  channel  to
+
+100  and  Ill  press  enter  and  Im  going
+
+to  give  this  a  different  color  so  Im
+
+going  to  click  on  this  side  of  the
+
+gradient  to  select  it  and  Ill  choose  a
+
+different  color  from  my  color  palette
+
+down  here  now  by  the  way  you  dont  have
+
+have  to  use  the  color  palette  if  you
+
+want  you  can  change  the  color  using  the
+
+color  wheel  or  the  hsl
+
+sliders  and  once  youve  chosen  your
+
+colors  you  can  take  these  ends  of  the
+
+gradients  and  move  them  around  if  youd
+
+like  you  could  just  click  and  drag  them
+
+like  that  and  you  can  move  them  as  if
+
+they  were  any  other  object  in  fact  if
+
+you  hold  the  control  key  itll  lock  it
+
+onto  15  Dee  increments  so  that  you  can
+
+get  a  perfectly  straight  gradient  that
+
+either  goes  vertically  or
+
+horizontally  so  let  me  move  this  back
+
+over  a  little
+
+bit  now  if  you  come  up  here  to  the  top
+
+top  of  the  menu  you  can  see  we  have  some
+
+controls  in  here  lets  say  I  wanted  to
+
+reverse  this  gradient  I  can  click  on
+
+that  button  and  it  flips  the  gradient
+
+around  so  that  yellow  is  on  the  left
+
+hand  side  and  pink  is  on  the  right  and
+
+Im  going  to  flip  it  back  and  it  gets
+
+the  same  effect  and  then  over  here  we
+
+have  repeat  as  of  right  now  there  is  no
+
+repeat  applied  to  this  gradient  so  the
+
+default  is  none  but  if  I  were  to  change
+
+this  to  a  direct  repeat  you  can  see  what
+
+happens  here  when  the  gradient  ends  it
+
+just  starts  and  stops  abruptly  and  opens
+
+up  a  new  one  and  this  goes
+
+infinitely  so  let  me  put  this  back  and
+
+then  the  other  option  is  reflected  so
+
+Ill  choose  reflected  and  this  repeats
+
+the  gradient  as  well  but  it  just  mirrors
+
+it  each  time  so  its  a  little  bit  of  a
+
+softer  transition  so  let  me  set  this
+
+back  to  none  Im  going  to  move  my  stops
+
+out  a  little  bit  and  lets  say  I  wanted
+
+to  add  a  new  color  to  this  gradient  to
+
+do  that  all  I  have  to  do  is  doubleclick
+
+anywhere  on  the  path  with  the  gradient
+
+tool  so  Ill  double  click  right  here  and
+
+itll  add  a  new  stop  to  that  gradient
+
+and  if  you  look  over  here  in  your  stops
+
+index  you  can  see  all  of  the  colors  that
+
+are  included  in  this  gradient  and  we  now
+
+have  that  one  in  the  middle  that  was
+
+just  added  and  if  you  click  on  that  one
+
+to  select  it  you  can  change  the  color  of
+
+that  as  well  so  Ill  make  this  something
+
+radically  different  like  green  just  to
+
+show  you  and  you  can  see  we  now  have  a
+
+gradient  that  transitions  from  pink  to
+
+Green  to  yellow  and  I  could  take  these
+
+stops  and  move  them  around  as  needed  and
+
+this  works  infinitely  you  can  keep
+
+adding  new  stops  in  here  if  you  want  to
+
+to  add  new  parts  to  the
+
+gradient  and  if  you  want  to  remove  them
+
+all  you  have  to  do  is  just  press  the
+
+delete  key  so  Ill  press  delete  to
+
+delete  that  one  Ill  click  on  that  one
+
+to  select  it  press  delete  and  then  Ill
+
+do  the  same  thing  over  here  and  then
+
+were  back  to  our  original  gradient  and
+
+by  the  way  it  works  the  same  thing  over
+
+here  in  this  menu  you  can  select  these
+
+stops  just  by  clicking  on  these  colors
+
+in  the  stops  index  and  another  thing  you
+
+can  do  is  if  you  want  to  offset  your
+
+gradient  so  that  one  color  is  more
+
+dominant  than  the  other  you  can  use  this
+
+slider  up  here  so  lets  say  I  wanted
+
+more  pink  in  this  gradient  I  could  take
+
+this  slider  and  just  bring  this  over  and
+
+then  it  becomes  more  pink  dominant  and
+
+it  works  the  other  way  in  Reverse  as
+
+well  I  can  take  the  yellow  slider  and
+
+bring  that
+
+over  and  there  you  go  now  theres  more
+
+yellow  in  the
+
+gradient  so  now  lets  have  a  look  at  an
+
+example  of  when  linear  gradients  would
+
+come  in  handy  getting  back  to  my
+
+original  example  of  the  sunset  right  now
+
+the  sky  just  has  a  single  color  applied
+
+to  it  but  if  I  wanted  to  make  this  look
+
+more  like  a  realistic  Sunset  I  would
+
+apply  a  linear  gradient  to  it  so  Im
+
+going  to  click  on  the  object  to  select
+
+it  and  then  Ill  open  up  my  fill  and
+
+stroke  menu  Ill  apply  a  linear  gradient
+
+and  Im  going  to  grab  my  gradients  tool
+
+and  Im  going  to  select  this  end  of  the
+
+gradient  and  instead  of  letting  this  be
+
+transparent  Im  going  to  make  this  a
+
+purple  shade  so  another  way  that  you  can
+
+apply  colors  to  your  gradient  is  with
+
+the  dropper  tool  so  with  this  end  of  the
+
+gradient  selected  I  will  press  D  on  my
+
+keyboard  to  grab  my  color  selector  and
+
+then  Im  going  to  sample  this  color
+
+right  here  just  to  make  it  that  shade  of
+
+purple
+
+and  then  Ill  grab  my  gradient  tool  and
+
+Ill  take  this  stop  and  bring  this  up
+
+here  and  then  Ill  take  this  one  and
+
+bring  this  down  and  again  holding
+
+control  on  my  keyboard  so  that  it
+
+remains  a  perfectly  vertical  path  and
+
+there  you  go  just  like  that  I  was  able
+
+to  use  linear  gradients  to  make  this
+
+Sunset  look  more
+
+realistic  now  lets  have  a  look  at  how
+
+radial  gradients  work  Im  going  to  grab
+
+my  circles  and  ellipses  tool  and  Ill
+
+hold  control  and  click  and  drag  to
+
+create  a  circle  and  now  Im  going  to
+
+apply  a  gradient  to  it  but  instead  of
+
+using  a  linear  gradient  this  time  Im
+
+going  to  use  a  radial  gradient  and  when
+
+I  click  on  that  you  can  see  what  happens
+
+here  uh  if  I  grab  my  gradient  tool  you
+
+can  see  that  this  works  almost  the  same
+
+way  but  the  only  difference  is  that  the
+
+gradient  is  now  following  a  round  path
+
+instead  of  a  linear  path  and  I  could
+
+take  these  handles  and  bring  them  in
+
+like  this  and  if  I  do  that  you  can  see
+
+it  distorts  the  gradient  but  if  I  want
+
+to  maintain  the  aspect  ratio  while
+
+scaling  what  I  would  do  is  I  would  hold
+
+the  control  key  or  control  and  shift
+
+rather  and  it  scales  both  at  the  same
+
+time  time  let  me  try  that  again  though
+
+since  I  already  distorted  it  the  key  is
+
+that  you  want  to  hold  control  and  shift
+
+before  you  click  and  drag  so  Ill  hold
+
+control  and  shift  and  then  Ill  click
+
+and  drag  and  now  it  scales  it  with  the
+
+aspect  ratio
+
+preserved  and  again  this  works  the  same
+
+way  if  you  want  to  add  new  colors  in
+
+here  you  could  just  double  click  the
+
+path  and  with  that  node  selected  you  can
+
+click  on  a  different  color  and  then  it
+
+adds  that  color  to  the
+
+gradient  so  let  me  undo  that  let  me  undo
+
+adding  the  new  stop  to  the  gradient  and
+
+Im  going  to  reverse  this  gradient  up
+
+here  Im  going  to  click  on  this  option
+
+that  says  reverse  the  direction  of  the
+
+gradient  and  Im  going  to  select  this
+
+option  in  the  middle  and  Im  going  to
+
+bring  the  alpha  Channel  up  to
+
+100  and  Ill  make  this  one  white  so  Ill
+
+bring  this  up  to  100  as  well  so  that
+
+its  all  white  and  then  Ill  take  this
+
+end  of  the  gradient  and  Ill  move  this
+
+up  into  the  right  like
+
+that  and  then  Ill  change  the  offset  of
+
+this  gradient  by  adding  more  white  to  it
+
+so  Ill  take  this  handle  and  bring  this
+
+out  a  little
+
+bit
+
+and  Ill  scale  this  out  some  more  Im
+
+going  to  hold  control  and  shift  and
+
+scale
+
+up  and  as  you  can  see  we  were  able  to
+
+use  the  radial  gradients  to  create  this
+
+simulated  uh  I  guess  you  can  say  it  sort
+
+of  looks  like  a  sphere  or  like  a
+
+three-dimensional  round
+
+object  so  now  lets  go  over  an  example
+
+of  when  radial  gradients  come  in  handy
+
+Im  going  to  use  radial  gradients  to
+
+create  a  vignette  effect  over  this
+
+graphic  here  so  let  me  grab  my  rectangle
+
+tool  and  Ill  click  and  drag  over  the
+
+graphic  to  draw  a  rectangle  that  covers
+
+the  graphic  entirely  and  let  me  get  rid
+
+of  that  Stroke  by  holding  shift  and
+
+clicking  the  X  and  Im  going  to  make
+
+this  all  white  and  now  Im  going  to
+
+apply  a  radial  gradient  to  it  Im  going
+
+to  reverse  the  gradient  so  that
+
+transparency  is  on  the  inside  and  white
+
+is  on  the  outside  and  then  Ill  scale
+
+the  gradient  down  so  that  the  boundaries
+
+of  it  stay  or  the  ends  of  it  stay  within
+
+the  boundary  of  the
+
+image  and  now  Im  going  to  add  more  to
+
+the  Im  going  to  set  an  offset  favoring
+
+the  transparent  side  of  the  gradient  so
+
+Ill  bring  that  up  a  little  bit  so  that
+
+you  can  see  more  of  the  image  and  if  I
+
+zoom  out  you  can  see  what  we  were  able
+
+to  accomplish  with  that  there  we  created
+
+this  vignette  effect  where  it  looks  like
+
+the  edges  of  the  graphic  have  been
+
+softened  and  faded  out  so  that  is  how
+
+you  can  go  about  working  with  linear  and
+
+Radial  gradients  in  inkscape  if  you
+
+found  this  lesson  useful  then  consider
+
+checking  out  my  inkscape  master  class
+
+its  a  collection  of  over  60  videos
+
+where  I  go  over  all  of  the  tools  and
+
+features  in  inkscape  and  I  explain  what
+
+they  are  and  demonstrate  how  they  work
+
+kind  of  like  how  I  did  in  this  video  we
+
+even  have  a  private  Community  where  you
+
+can  ask  questions  and  get  help  from  me
+
+anytime  you  want  and  best  of  all  theres
+
+no  monthly  membership  fees  you  just  pay
+
+$17  one  time  and  youre  in  for  Life  Ill
+
+have  some  information  about  that  down
+
+below  if  you  want  to  check  that  out  as
+
+always  thanks  for
+
+watching
+
+o

@@ -1,0 +1,725 @@
+
+in  this  tutorial  Ill  be  demonstrating
+
+how  you  can  use  inkscape  to  draw  objects
+
+that  have  a  complicated  Contour  to  them
+
+and  a  good  example  of  this  would  be
+
+these  eyeglass  frames  which  Ive  created
+
+here  for  this  demonstration  so  Ill  be
+
+showing  you  how  to  create  this  before  we
+
+get  started  though  if  you  want  to  learn
+
+more  about  how  inkscape  Works  be  sure  to
+
+check  out  my  inkscape  master  class  its
+
+a  collection  of  over  80  videos  where  I
+
+go  over  every  tool  and  feature  in  this
+
+software  and  I  explain  what  it  is  and
+
+demonstrate  how  it  works  we  even  have  a
+
+private  Community  where  you  can  ask
+
+questions  and  get  help  from  me  anytime
+
+you  want  so  Ill  have  some  information
+
+about  that  down  below  if  you  want  to
+
+check  that  out  and  with  that  out  of  the
+
+way  lets  get  started  so  let  me  move
+
+this  out  of  the  way  and  Im  going  to  get
+
+started  by  drawing  a  rectangle  so  Im
+
+going  to  grab  my  squares  and  rectangles
+
+tool  and  Im  going  to  draw  a  rectangle
+
+and  Ill  grab  my  selection  tool  and  I
+
+want  to  size  this  rectangle  at  400x  200
+
+pixels  so  for  the  width  Ill  put  in  400
+
+and  then  for  the  height  Ill  put  in  200
+
+now  we  want  to  convert  this  to  a  path  by
+
+going  to  path  and  selecting  object  to
+
+path  and  Im  going  to  zoom  in  on  this  a
+
+little  bit  now  Im  going  to  grab  my
+
+nodes  tool  and  Im  going  to  click  and
+
+drag  over  these  two  nodes  right  here  to
+
+select  both  of  them  and  I  want  to  enable
+
+this  option  up  here  in  the  toolbar  that
+
+says  show  transformation  handles  for
+
+selected  nodes  Im  going  to  turn  that  on
+
+and  thats  going  to  give  us
+
+transformation  handles  for  these
+
+selected  nodes  and  Im  going  to  hold
+
+control  and  shift  and  Im  just  going  to
+
+scale  these  two  nodes  in  about  this  far
+
+now  if  you  look  at  the  bottom  left  of
+
+the  screen  itll  show  you  how  much
+
+youre  scaling  it  by  for  this
+
+demonstration  Im  going  to  scale  it  by
+
+about  70%  it  doesnt  have  to  be  exact
+
+but  somewhere  thereabouts  is  good  enough
+
+and  once  you  do  that  you  can  go  ahead
+
+and  disable  this  setting  that  we  just
+
+enabled  and  now  that  thats  done  Im
+
+just  going  to  click  and  drag  this  top
+
+Edge  right  here  to  give  this  a  nice
+
+curved  contour  and  Ill  do  the  same
+
+thing  down  here  Im  going  to  click  and
+
+drag  this  down  as  well  to  give  that  a
+
+rounded  contour  and  maybe  Ill  bring
+
+that  up  a  little  more  and  Ill  do  the
+
+same  thing  over  here  on  the  side  edges
+
+of  the  glass  frame  or  the  eyeglass
+
+frame  so  now  were  going  to  take  these
+
+corners  and  make  them  rounded  so  Im
+
+going  to  come  up  here  to  the  toolbar  and
+
+Im  going  to  select  this  option  right
+
+here  that  says  add  corner  LP  and  once
+
+you  do  that  click  and  drag  over  all  four
+
+nodes  right  there  and  were  going  to
+
+take  this  rounded  node  and  bring  that  in
+
+and  as  you  can  see  as  I  do  that  its
+
+rounding  the  corner  of  those  nodes  now
+
+right  about  there  looks  good  once  I  do
+
+that  Im  going  to  click  on  just  this
+
+node  right  here  and  Im  going  to  make
+
+this  one  a  little  extra
+
+rounded  and  that  right  there  is  about
+
+the  effect  were  going  for  so  Im  going
+
+to  finalize  this  now  by  coming  back  up
+
+here  to  the  toolbar  and  selecting  this
+
+option  that  says  object  to  path  when  you
+
+hover  your  cursor  over  it  click  on  that
+
+and  now  weve  converted  that  to  a  path
+
+so  let  me  grab  my  selection  tool  zoom
+
+out  a  bit  and  now  Im  going  to  turn  this
+
+from  a  solid  object  into  a  uh  like  an
+
+eyeglass  frame  so  to  do  that  Im  going
+
+to  first  make  this  a  lighter  shade  of
+
+gray  and  then  Im  going  to  go  to  path
+
+and  I  will  select  linked  path  or  linked
+
+offset  and  thats  going  to  create
+
+another  copy  of  it  behind  it  so  I  want  I
+
+want  to  make  that  other  copy  black  so
+
+let  me  click  on  black  and  Im  going  to
+
+take  this  node  and  bring  this  out  about
+
+that  far  we  want  this  Noe  to  be  about
+
+that  far  and  that  right  right  about
+
+there  looks  good  and  I  will  click  this
+
+button  again  that  says  object  to  path
+
+now  Ill  grab  my  selection  tool  hold
+
+shift  and  click  on  the  gray  object  in
+
+the  middle  so  that  we  have  them  both
+
+selected  and  were  going  to  subtract
+
+them  from  each  other  by  going  to  path
+
+and  selecting  difference  and  once  you  do
+
+that  lets  come  over  here  to  the  fill
+
+and  stroke  menu  if  you  dont  have  your
+
+fill  and  stroke  menu  open  just  come  down
+
+here  to  the  fill  and  just  double  click
+
+that  and  it  should  open  over  here  on  the
+
+right  hand  side  and  I  want  to  take  this
+
+and  bring  the  opacity  down  roughly  in
+
+half  and  once  thats  done  lets  right
+
+click  on  this  and  go  to  duplicate  and
+
+Im  going  to  hold  control  and  bring  this
+
+object  over  here  to  the  left  like
+
+that  and  Im  going  to  zoom  in  on  this
+
+right  here  and  the  reason  why  I  made
+
+them  halfway  transparent  is  because  I
+
+want  to  see  where  they  line  up  I  want  to
+
+take  this  object  and  Im  holding  control
+
+the  whole  time  I  do  this  to  lock  it  onto
+
+the  horizontal  axis  and  I  want  to
+
+overlap  overlap  this  object  about  that
+
+far  and  you  can  see  the  area  where  they
+
+overlap  right  about  there  and  Im  going
+
+to  duplicate  this  object  again  Im  going
+
+to  right  click  it  and  go  to  duplicate
+
+and  Im  going  to  take  this  copy  and  put
+
+it  up  here  and  I  want  to  zoom  in  and  I
+
+want  to  make  this  object  if  Im  looking
+
+right  about  here  I  want  it  to  intersect
+
+with  the  other  object  right  about  there
+
+and  where  Im  going  with  this  is  Im
+
+going  to  create  an  object  from  this
+
+empty  space  in  here  and  Im  going  to  use
+
+that  as  sort  of  like  the  uh  the  edge  of
+
+the  eyeglass  frame  there  so  once  thats
+
+done  Im  going  to  position  that  right
+
+about  there  you  may  want  to  try  to
+
+visualize  what  this  Contour  looks  like
+
+like  going  up  top  here  so  if  you  may
+
+have  to  move  it  just  to  make  it  look
+
+more  fluid  I  think  right  about  there
+
+looks  pretty  good  if  it  doesnt  look
+
+perfect  dont  worry  about  it  were  going
+
+to  address  that  in  just  a  moment  so  let
+
+me  move  this  in  just  a  little
+
+more  and  once  thats  done  Im  going  to
+
+select  all  of  these  so  let  me  click  and
+
+drag  over  all  of  them  to  select  them  and
+
+now  Im  going  to  go  into  my  shape
+
+Builder  tool  which  is  over  here  Im
+
+going  to  click  on  that  and  I  want  to
+
+make  sure  I  have  the  addition  option
+
+enabled  and  then  Im  going  to  click  on
+
+this  object  right  here  and  then  this
+
+object  right  here  and  its  going  to  make
+
+them  into  separate  objects  and  now  I  can
+
+go  back  to  my  selection  tool  and  now  I
+
+have  that  as  a  separate  object  and  what
+
+I  want  to  do  now  is  take  just  this
+
+object  Im  going  to  make  this  red  just
+
+so  I  can  differentiate  it  and  hold
+
+control  and  shift  and  scale  this  up
+
+about  that  far  we  want  this  to  be  a
+
+little  bit  bigger  and  then  Im  going  to
+
+bring  this  in  and  place  it  right  about
+
+there  now  mine  looks  a  little  sloppy
+
+theres  some  Jagged  edges  in  there  dont
+
+worry  about  that  were  going  to  smooth
+
+that  out  in  just  a  minute  the  idea  is  we
+
+want  to  have  this  object  that  we  can
+
+work  with  and  we  can  use  as  that  shape
+
+for  the  edge  of  the  eyeglass  frame  so
+
+let  me  move  that  out  a  little
+
+more  and  once  thats  done  Im  going  to
+
+hold  shift  and  click  on  the  other
+
+objects  so  we  have  them  both  selected
+
+and  I  will  go  into  the  shape  Builder
+
+tool  again  and  I  just  want  to  click
+
+click  and  drag  a  line  going  through
+
+those  just  to  unify  them  all  together
+
+and  then  go  back  to  the  selection  tool
+
+and  now  we  have  something  like  that
+
+right  there  so  now  that  thats  set  lets
+
+go  to  our  nodes  tool  and  lets  go  in
+
+here  and  clean  this  up  so  if  you  notice
+
+over  here  we  have  a  bunch  of  nodes
+
+thats  whats  giving  it  that  uneven  look
+
+Im  Im  going  to  take  these  three  nodes
+
+over  here  to  the  left  and  Im  going  to
+
+press  delete  on  the  keyboard  to  get  rid
+
+of  them  and  you  should  be  able  to  take
+
+this  handle  right  here  and  just  jiggle
+
+it  bit  and  youll  see  it  straightens  out
+
+so  we  have  a  nice  straight  fluid  line
+
+and  then  Ill  take  this  handle  over  here
+
+and  just  straighten  that  out  a  little
+
+bit  we  want  a  nice  fluid  curve  going
+
+through  there  and  then  Im  going  to  do
+
+the  same  thing  over  here  if  you  notice
+
+theres  an  extra  node  in  here  if  theres
+
+any  extra  nodes  get  rid  of  them  you  only
+
+want  one  node  there  and  then  Im  going
+
+to  take  this  handle  and  bring  that  out  I
+
+want  to  make  this  handle  so  that  its
+
+going  parallel  with  the  other  handle  or
+
+the  other  side  of  the  handle  and  once  it
+
+looks  about  parallel  you  can  hold  the
+
+control  key  and  then  click  the  node  and
+
+then  itll  make  it  automatically  smooth
+
+and  Im  going  to  take  this  and  bring
+
+that  in  a  little  bit  so  it  gives  it  more
+
+of  a  swoop  and  now  Im  going  to  cut  off
+
+this  little  corner  right  here  so  let  me
+
+grab  my  pen  tool  which  is  located  over
+
+here  Im  going  to  click  to  add  a  point
+
+hold  the  control  button  bring  the  line
+
+straight  down  click  to  add  another  point
+
+and  then  add  some  more  points  going
+
+around  the  outside  and  then  connect  it
+
+back  to  the  starting  point  and  Im  just
+
+going  to  bring  this  in  a  little
+
+more  right  about  there  looks  good  and
+
+then  Ill  hold  shift  and  click  on  the
+
+object  so  that  we  have  them  both
+
+selected  and  once  again  well  go  to  path
+
+and  select  difference  and  now  we  have
+
+that  little  Notch  there  on  the  left  hand
+
+side  Im  going  to  shape  this  up  a  little
+
+more  let  me  go  back  to  my  nodes  tool  Im
+
+going  to  grab  this  left  Edge  right  here
+
+and  pull  that  out  a  little  bit  and  Im
+
+going  to  round  these  Corners  just  a  tiny
+
+bit  so  Im  going  to  come  back  up  here  to
+
+the  add  Corners  live  path  effect  and  Im
+
+going  to  select  just  those  two  corners
+
+and  Ill  grab  this  round  knot  right  here
+
+and  just  round  those  Corners  a  little
+
+bit  about  that  much  looks  good  and  then
+
+I  will  click  this  button  over  here  that
+
+says  object  to  path  and  there  we  go  Im
+
+going  to  select  Ju  Just  this  object
+
+right  here  and  I  want  to  click  on  it
+
+again  to  get  the  rotation  handles  and  I
+
+want  to  rotate  this  clockwise  just  a
+
+couple  of  degrees  just  to  give  it  a
+
+little  bit  of  a
+
+tilt  about  that  much  looks  good  okay  so
+
+now  Ill  uh  duplicate  it  Ill  right
+
+click  and  go  to  duplicate
+
+hold  control  bring  this  over  to  the
+
+right  and  then  I  want  to  flip  this
+
+horizontally  to  do  that  Im  just  going
+
+to  press  the  letter  H  on  my  keyboard  and
+
+its  going  to  flip  it  horizontally  and
+
+then  Ill  just  move  this  over  a  little
+
+more  just  to  space  it  out  you  want  to
+
+eyeball  about  how  far  apart  these  uh
+
+lenses  should
+
+be  I  think  right  about  there  looks  good
+
+and  then  Im  going  to  draw  a  rectangle
+
+going
+
+through  the  uh  space  between  these  two
+
+objects  so  let  me  grab  my  rectangle  tool
+
+and  Im  going  to  click  and  drag  to  draw
+
+a  rectangle  going  through  there  and  Im
+
+going  to  grab  my  selection  tool  I  want
+
+to  make  sure  that  the  bottom  of  the
+
+rectangle  ends  where  this  curve  before
+
+this  curve  begins  over  here  so  if  its
+
+up  here  its  about  too  high  because  this
+
+curve  is  already  beginning  I  want  to
+
+bring  it  down  here  about  that  far  where
+
+we  still  have  a  little  bit  of  a  straight
+
+edge  there  and  up  here  I  want  to  bring
+
+this  up  a  little  bit  maybe  about  that
+
+far  the  placement  up  here  isnt  as
+
+important  as  long  as  its  somewhere
+
+thereabouts  it  should  be  pretty  good  and
+
+now  I  will  select  everything  here  and  go
+
+into  my  shape  Builder  tool  and  Im  just
+
+going  to  draw  a  line  going  through  all
+
+of  these  objects  here  to  make  them  one
+
+single  object  go  back  to  the  selection
+
+tool  and  now  were  going  to  shape  this
+
+up  so  that  it  looks  like  this  over  here
+
+what  its  supposed  to  look  like  so  to  do
+
+that  let  me  grab  my  nodes
+
+tool  I  want  to  select  these  two  nodes
+
+right  here  and  I  want  to  add  a  new  node
+
+in  the  middle  so  to  do  that  Im  going  to
+
+come  over  here  to  this  button  at  the  top
+
+left  corner  that  says  insert  new  nodes
+
+and  click  on  that  and  Ill  take  just
+
+that  node  Im  going  to  click  on  just
+
+that  node  and  hold  control  and  bring
+
+that  down  and  I  want  to  make  this  into  a
+
+symmetrical  node  so  Ill  come  back  up
+
+here  to  the  toolbar  and  I  want  to  select
+
+this  option  that  says  make  selected  node
+
+symmetric  and  thats  going  to  give  us
+
+this  symmetrical  node  with  these  handles
+
+that  move  in  and  out  uh  the  same  way
+
+then  I  want  to  select  this  node  over
+
+here  hold  shift  select  this  node  over
+
+here  so  that  we  have  them  both  selected
+
+and  Ill  press  delete  on  the  keyboard  to
+
+get  rid  of  those  nodes  and  if  you  notice
+
+were  starting  to  get  a  little  bit  of  a
+
+we  have  a  nice  fluid  dip  in  here  so  let
+
+me  move  this  up  a  little  more  and  Im
+
+going  to  move  this  handle  out  Im  going
+
+to  hold  control  while  I  do  this  to  keep
+
+it  on  its  axis  and  Ill  move  this  one
+
+out  about  the  same
+
+distance  and  then  I  want  to  take  this
+
+one  and  just  bring  that  in  a  little  bit
+
+and  if  I  go  back  to  my  selection  tool
+
+and  click  off  of  it  you  can  see  uh  how
+
+it  looks  it  looks  pretty  fluid  but  it
+
+could  look  a  little  better  so  Im  going
+
+to  take  this  and  bring  that  up  a  little
+
+more  that  should  help  it  look  a  little
+
+more  even  okay  that  looks  better  and  now
+
+Im  just  going  to  use  Im  going  to  use
+
+the  nodes  tool  again  to  take  this  bottom
+
+Edge  and  just  bring  this  up  like  that
+
+and  to  straighten  this  out  Im  going  to
+
+click  on  this  node  take  this  handle  and
+
+bring  this  straight  up  or  not  straight
+
+up  but  going  up  at  the  angle  it  want  you
+
+want  it  to  match  the  angle  of  the  edge
+
+of  this  Frame  right  here  so  Ill  bring
+
+that  up  about  that  far  and  then  I  want
+
+to  take  this  node  or  this  handle  and  do
+
+the  same  thing  we  want  to  bring  it  up
+
+about  just  as  high  and  again  we  want  to
+
+use  the  same  angle  as  the  frame  right
+
+there  and  if  I  zoom  out  you  can  see  we
+
+are  finished  I  can  take  the  opacity  and
+
+bring  it  up  to  100%  And  as  you  can  see
+
+we  have  created  those  eyeglass  frames
+
+with  those  really  complicated  Contours
+
+using  inkscape  if  you  found  this  lesson
+
+useful  then  consider  checking  out  my
+
+inkscape  master  class  its  a  collection
+
+of  over  60  videos  where  I  go  over  all  of
+
+the  tools  and  features  in  inkscape  and  I
+
+explain  what  they  are  and  demonstrate
+
+how  they  work  kind  of  like  how  I  did  in
+
+this  video  we  even  have  a  private
+
+Community  where  you  can  ask  questions
+
+and  get  help  for  me  anytime  you  want  and
+
+best  of  all  theres  no  monthly
+
+membership  fees  you  just  pay  $17  one
+
+time  and  youre  in  for  Life  Ill  have
+
+some  information  about  that  down  below
+
+if  you  want  to  check  that  out  as  always
+
+thanks  for  watching
+
+
+
+a
+

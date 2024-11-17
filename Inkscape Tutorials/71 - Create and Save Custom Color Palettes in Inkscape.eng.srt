@@ -1,0 +1,628 @@
+1
+00:00:07,820 --> 00:00:10,680
+this is knit with logos by Nick comm and
+
+2
+00:00:10,680 --> 00:00:12,420
+in this tutorial I'll be demonstrating
+
+3
+00:00:12,420 --> 00:00:14,250
+how you can create your own custom color
+
+4
+00:00:14,250 --> 00:00:16,529
+palettes in Inkscape and save them to
+
+5
+00:00:16,529 --> 00:00:18,450
+your installation so that you can load
+
+6
+00:00:18,450 --> 00:00:20,130
+them up and work with them at any point
+
+7
+00:00:20,130 --> 00:00:21,960
+in the future if you'd like and if you'd
+
+8
+00:00:21,960 --> 00:00:23,340
+like to learn more about how Inkscape
+
+9
+00:00:23,340 --> 00:00:24,990
+works be sure to check out my Inkscape
+
+10
+00:00:24,990 --> 00:00:27,510
+masterclass it's a collection of over 60
+
+11
+00:00:27,510 --> 00:00:29,250
+videos where I go over every tool in
+
+12
+00:00:29,250 --> 00:00:31,349
+future in Inkscape and I explain what it
+
+13
+00:00:31,349 --> 00:00:33,360
+is and demonstrate how it works I'll
+
+14
+00:00:33,360 --> 00:00:34,589
+have a link in the description of the
+
+15
+00:00:34,589 --> 00:00:36,750
+video if you want to check that out so
+
+16
+00:00:36,750 --> 00:00:38,129
+to get us started here as you can see I
+
+17
+00:00:38,129 --> 00:00:39,960
+have Inkscape opened up on my screen and
+
+18
+00:00:39,960 --> 00:00:41,370
+if you look down here to the bottom of
+
+19
+00:00:41,370 --> 00:00:42,600
+the page you'll notice we have this
+
+20
+00:00:42,600 --> 00:00:44,070
+color palette that we normally work with
+
+21
+00:00:44,070 --> 00:00:46,110
+an Inkscape and if you click this little
+
+22
+00:00:46,110 --> 00:00:47,879
+arrow icon over here to the bottom right
+
+23
+00:00:47,879 --> 00:00:49,949
+you'll get this little flyout menu with
+
+24
+00:00:49,949 --> 00:00:51,480
+a bunch of different color palettes to
+
+25
+00:00:51,480 --> 00:00:53,670
+choose from now by default
+
+26
+00:00:53,670 --> 00:00:55,829
+Inkscape has the Inkscape default
+
+27
+00:00:55,829 --> 00:00:57,809
+palette here when you load it up but you
+
+28
+00:00:57,809 --> 00:00:59,010
+can choose from any of these other
+
+29
+00:00:59,010 --> 00:01:01,109
+options here like for example if you
+
+30
+00:01:01,109 --> 00:01:03,180
+click on greens it'll give you a wide
+
+31
+00:01:03,180 --> 00:01:06,420
+spectrum of green shades to choose from
+
+32
+00:01:06,420 --> 00:01:08,250
+and coloring your objects and there's a
+
+33
+00:01:08,250 --> 00:01:09,599
+whole bunch of different options in here
+
+34
+00:01:09,599 --> 00:01:10,740
+if you want to check it out you can look
+
+35
+00:01:10,740 --> 00:01:12,569
+at something like a bun sue here where
+
+36
+00:01:12,569 --> 00:01:14,509
+this looks as if it's the Ubuntu
+
+37
+00:01:14,509 --> 00:01:17,550
+branding colors so on and so forth now
+
+38
+00:01:17,550 --> 00:01:18,630
+what you can do is you can actually
+
+39
+00:01:18,630 --> 00:01:20,910
+create your own color palette and add it
+
+40
+00:01:20,910 --> 00:01:22,830
+to this list using the technique I'm
+
+41
+00:01:22,830 --> 00:01:24,149
+going to show you in this tutorial so
+
+42
+00:01:24,149 --> 00:01:26,220
+let me set this back to Inkscape default
+
+43
+00:01:26,220 --> 00:01:26,729
+for now
+
+44
+00:01:26,729 --> 00:01:28,440
+and let me just set up the document here
+
+45
+00:01:28,440 --> 00:01:30,450
+I'm gonna go to file document properties
+
+46
+00:01:30,450 --> 00:01:32,970
+and I want to turn off the visibility of
+
+47
+00:01:32,970 --> 00:01:34,950
+the page border for now so where it says
+
+48
+00:01:34,950 --> 00:01:36,989
+show page border just deselect that for
+
+49
+00:01:36,989 --> 00:01:39,300
+now and I'm gonna come up here to the
+
+50
+00:01:39,300 --> 00:01:41,789
+grids tab and I'm going to add a new
+
+51
+00:01:41,789 --> 00:01:45,929
+rectangular grid click on new and where
+
+52
+00:01:45,929 --> 00:01:48,090
+it says spacing X and space and Y I'm
+
+53
+00:01:48,090 --> 00:01:51,270
+going to change each of those to 100 so
+
+54
+00:01:51,270 --> 00:01:53,039
+that there's 100 pixels of space between
+
+55
+00:01:53,039 --> 00:01:56,190
+each grid line close out of that we're
+
+56
+00:01:56,190 --> 00:02:00,119
+gonna go to view zoom zoom in at 1 to 1
+
+57
+00:02:00,119 --> 00:02:02,700
+so that we have a 100% view of the
+
+58
+00:02:02,700 --> 00:02:04,560
+document here and then finally I'm going
+
+59
+00:02:04,560 --> 00:02:06,690
+to open up the fill and Stroke menu with
+
+60
+00:02:06,690 --> 00:02:08,610
+this button up here or you can press
+
+61
+00:02:08,610 --> 00:02:11,430
+control shift + F on the keyboard so
+
+62
+00:02:11,430 --> 00:02:12,420
+what I'm going to do now is I'm
+
+63
+00:02:12,420 --> 00:02:14,250
+basically going to create a bunch of
+
+64
+00:02:14,250 --> 00:02:16,740
+objects and color them all in with
+
+65
+00:02:16,740 --> 00:02:17,790
+whatever shade
+
+66
+00:02:17,790 --> 00:02:19,709
+like to be included in my custom color
+
+67
+00:02:19,709 --> 00:02:21,030
+palette that I'm gonna load up in here
+
+68
+00:02:21,030 --> 00:02:22,829
+so I'm going to grab the squares and
+
+69
+00:02:22,829 --> 00:02:24,959
+rectangles tool and I'm going to create
+
+70
+00:02:24,959 --> 00:02:27,359
+a square within these grid lines and I'm
+
+71
+00:02:27,359 --> 00:02:29,909
+going to color this in with a shade that
+
+72
+00:02:29,909 --> 00:02:32,700
+I would like to save maybe something
+
+73
+00:02:32,700 --> 00:02:34,950
+like that and I'm going to create
+
+74
+00:02:34,950 --> 00:02:38,250
+another shade I would like to save maybe
+
+75
+00:02:38,250 --> 00:02:41,099
+something like that then create
+
+76
+00:02:41,099 --> 00:02:44,760
+something else maybe something like that
+
+77
+00:02:44,760 --> 00:02:45,689
+that's looking pretty good
+
+78
+00:02:45,689 --> 00:02:47,310
+and we're going to do is I'm just going
+
+79
+00:02:47,310 --> 00:02:48,359
+to go through and I'm gonna create a
+
+80
+00:02:48,359 --> 00:02:49,920
+bunch of different objects and I'm gonna
+
+81
+00:02:49,920 --> 00:02:51,629
+color them all in with colors that I
+
+82
+00:02:51,629 --> 00:02:54,000
+like that I'd like to save to my custom
+
+83
+00:02:54,000 --> 00:02:56,629
+color palette
+
+84
+00:02:57,630 --> 00:02:59,980
+okay so as you can see here I've gone
+
+85
+00:02:59,980 --> 00:03:01,240
+through and I've created a bunch of
+
+86
+00:03:01,240 --> 00:03:03,400
+different squares and I've colored them
+
+87
+00:03:03,400 --> 00:03:04,840
+in with colors that I'd like to save to
+
+88
+00:03:04,840 --> 00:03:06,460
+my palette once I'm finished what I'm
+
+89
+00:03:06,460 --> 00:03:07,540
+going to do is I'm going to click off of
+
+90
+00:03:07,540 --> 00:03:09,520
+the graphic to deselect everything and
+
+91
+00:03:09,520 --> 00:03:12,070
+then I'm gonna come back to the document
+
+92
+00:03:12,070 --> 00:03:13,870
+properties by going to file document
+
+93
+00:03:13,870 --> 00:03:16,600
+properties and let's come back over to
+
+94
+00:03:16,600 --> 00:03:19,570
+the page tab and I'm going to turn the
+
+95
+00:03:19,570 --> 00:03:21,310
+visibility of the page border back on
+
+96
+00:03:21,310 --> 00:03:23,950
+and I'm gonna come over here to where it
+
+97
+00:03:23,950 --> 00:03:26,050
+says resize page to content I'm going to
+
+98
+00:03:26,050 --> 00:03:28,300
+expand to that menu and I'm gonna click
+
+99
+00:03:28,300 --> 00:03:29,980
+this button right here that says resize
+
+100
+00:03:29,980 --> 00:03:33,340
+page to drawing or selection and that we
+
+101
+00:03:33,340 --> 00:03:34,630
+can close out of that menu and that's
+
+102
+00:03:34,630 --> 00:03:36,040
+gonna do what that's gonna do is it's
+
+103
+00:03:36,040 --> 00:03:38,890
+gonna make the document size fit the
+
+104
+00:03:38,890 --> 00:03:40,240
+size of the graphic that we've created
+
+105
+00:03:40,240 --> 00:03:42,340
+here and all I'm gonna do now is I'm
+
+106
+00:03:42,340 --> 00:03:43,570
+just gonna save this I'm gonna go to
+
+107
+00:03:43,570 --> 00:03:46,900
+file save as and for now I'm just gonna
+
+108
+00:03:46,900 --> 00:03:48,670
+save this to my desktop I'm going to
+
+109
+00:03:48,670 --> 00:03:51,250
+give it whatever name I'd like the name
+
+110
+00:03:51,250 --> 00:03:53,020
+of the color palette to be in this list
+
+111
+00:03:53,020 --> 00:03:54,820
+when I bring it up so I'm just gonna for
+
+112
+00:03:54,820 --> 00:03:56,680
+demonstration purpose isms going to name
+
+113
+00:03:56,680 --> 00:04:01,660
+this u2 palette and I'm actually going
+
+114
+00:04:01,660 --> 00:04:03,010
+to save this I'm not going to save this
+
+115
+00:04:03,010 --> 00:04:04,990
+as an SVG file I'm going to save it as a
+
+116
+00:04:04,990 --> 00:04:08,350
+dot GPL file or a palette file and
+
+117
+00:04:08,350 --> 00:04:12,810
+I'm gonna go ahead and click Save now
+
+118
+00:04:12,810 --> 00:04:15,610
+let me close out of Inkscape here let me
+
+119
+00:04:15,610 --> 00:04:19,480
+minimize this what we have over here I
+
+120
+00:04:19,480 --> 00:04:21,459
+have this on my desktop this is the GPL
+
+121
+00:04:21,459 --> 00:04:24,400
+file I'm going to open up a window I'm
+
+122
+00:04:24,400 --> 00:04:27,520
+actually gonna open up a folder and go
+
+123
+00:04:27,520 --> 00:04:28,990
+to wherever it is that you have your
+
+124
+00:04:28,990 --> 00:04:30,610
+Inkscape whatever Drive that you have
+
+125
+00:04:30,610 --> 00:04:32,920
+Inkscape installed on for most of you is
+
+126
+00:04:32,920 --> 00:04:34,990
+probably going to be your C Drive for me
+
+127
+00:04:34,990 --> 00:04:36,850
+I have it saved on my e Drive so I'm
+
+128
+00:04:36,850 --> 00:04:38,050
+gonna open up the e Drive
+
+129
+00:04:38,050 --> 00:04:41,230
+I'm gonna look for Program Files I'm
+
+130
+00:04:41,230 --> 00:04:48,540
+gonna go to Inkscape share Inkscape and
+
+131
+00:04:48,540 --> 00:04:52,630
+palettes and if you noticed here we have
+
+132
+00:04:52,630 --> 00:04:54,520
+an index of all of our color palettes
+
+133
+00:04:54,520 --> 00:04:56,350
+that are included with our Inkscape
+
+134
+00:04:56,350 --> 00:04:57,940
+installation so I'm just going to take
+
+135
+00:04:57,940 --> 00:05:00,310
+this YouTube palette GPL and click and
+
+136
+00:05:00,310 --> 00:05:02,230
+drag this into the folder go ahead and
+
+137
+00:05:02,230 --> 00:05:03,670
+click continue to give it permission to
+
+138
+00:05:03,670 --> 00:05:06,490
+do so and all we have to do now is
+
+139
+00:05:06,490 --> 00:05:08,560
+restart Inkscape so let me come back up
+
+140
+00:05:08,560 --> 00:05:10,800
+here let me close out of Inkscape
+
+141
+00:05:10,800 --> 00:05:17,500
+and let me just load it back up make it
+
+142
+00:05:17,500 --> 00:05:21,790
+fullscreen there we go and let's click
+
+143
+00:05:21,790 --> 00:05:24,130
+on this arrow again and there you go
+
+144
+00:05:24,130 --> 00:05:26,050
+YouTube padlet the GPL if you click on
+
+145
+00:05:26,050 --> 00:05:28,930
+that there is our custom color palette
+
+146
+00:05:28,930 --> 00:05:31,480
+based on those colors that I used in
+
+147
+00:05:31,480 --> 00:05:33,220
+that previous document you can now color
+
+148
+00:05:33,220 --> 00:05:36,400
+this in however you would like so I
+
+149
+00:05:36,400 --> 00:05:37,600
+think that should do it for today's
+
+150
+00:05:37,600 --> 00:05:39,010
+tutorial that is how you can go about
+
+151
+00:05:39,010 --> 00:05:41,350
+creating your own custom color palettes
+
+152
+00:05:41,350 --> 00:05:43,510
+in Inkscape and saving them so that you
+
+153
+00:05:43,510 --> 00:05:45,100
+can work with them in the future if you
+
+154
+00:05:45,100 --> 00:05:46,480
+have any questions leave a comment below
+
+155
+00:05:46,480 --> 00:05:48,620
+and as always thanks for watching
+
+156
+00:05:48,620 --> 00:05:56,889
+[Music]
+
+157
+00:06:03,610 --> 00:06:06,730
+[Music]
+

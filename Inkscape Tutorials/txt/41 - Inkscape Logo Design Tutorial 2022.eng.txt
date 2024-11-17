@@ -1,0 +1,880 @@
+
+in  this  tutorial  well  be  going  over  how
+
+you  can  create  this  mountain  range  logo
+
+with  the  winding  River  using  nothing  but
+
+simple  shapes  in  inkscape  I  should
+
+mention  though  that  this  tutorial  is
+
+going  to  be  more  of  an  intermediate  to
+
+Advanced  tutorial  and  that  Im  not  going
+
+to  be  going  over  every  single  step  in
+
+excruciating  detail  so  if  youre  Vaguely
+
+Familiar  with  how  the  tools  work  in
+
+inkscape  then  you  should  be  able  to
+
+follow  along  with  this  tutorial
+
+otherwise  sit  back  and  enjoy  what
+
+inkscape  can  do
+
+
+
+so  to  get  us  started  here  in  inkscape
+
+lets  start  out  by  making  sure  we  are
+
+working  with  a  similar  layout  by  coming
+
+up  here  to  where  it  says  View  and  having
+
+WID  screen  disabled  now  for  some  reason
+
+I  think  some  of  the  newer  versions  of
+
+inkscape  automatically  start  out  in
+
+widescreen  mode  so  if  you  have  that
+
+enabled  just  go  ahead  and  disable  that
+
+and  your  layout  should  look  the  same  as
+
+mine  here  on  the  screen  so  the  first
+
+thing  Im  going  to  do  is  Im  going  to
+
+create  the  shape  or  the  emblem  for  the
+
+logo  and  Im  going  to  use  the  stars  and
+
+polygons  tool  for  that  Im  going  to  use
+
+the  polygon  setting  with  all  of  these
+
+input  values  here  and  Im  going  to  click
+
+and  drag  upward  with  my  mouse  on  the
+
+canvas  while  holding  control  and  shift
+
+so  I  can  get  a  six-sided  shape  like  that
+
+where  the  points  go  vertically  up  and
+
+down  as  you  can  see  there  let  me  make
+
+that  a  little
+
+larger  okay  Im  going  to  grab  my
+
+selection  tool  move  this  up  towards  the
+
+center  of  the  page  a  little  more  and  Im
+
+going  to  convert  this  to  a  path  by  going
+
+to  path  object  to  path  and  then  Im
+
+going  to  grab  the  edit  paths  by  nodes
+
+tool  and  I  want  to  take  these  two  nodes
+
+right  here  and  Im  going  to  enable  the
+
+transformation  handles  and  Im  just
+
+going  to  scale  these  nodes  down  a  little
+
+bit  like
+
+that  okay  then  Im  going  to  take  these
+
+nodes  over  here  and  Im  going  to  scale
+
+these  down  like  that  Im  holding  control
+
+and  shift  while  I  do  this  to  lock  the
+
+the  uh  aspect  ratio  and  then  Im  going
+
+to  move  these  nodes  up  like  that  and  now
+
+were  starting  to  get  the  shape  of  our
+
+emblem  I  may  even  pull  this  out  a  little
+
+bit  you  may  have  to  tweak  this  a  little
+
+bit  just  to  get  it  how  you  like  it  that
+
+right  there  is  about  what  Im  going  for
+
+so  Im  going  to  leave  it  as  it  is
+
+Im  going  to  turn  off  my  transformation
+
+handles  and  then  grab  the  selection  tool
+
+and  let  me  open  up  the  fill  and  stroke
+
+menu  which  is  located  over  here  and  I
+
+will  bring  down  the  opacity  of  this  a
+
+little  bit  so  I  could  see  through  the
+
+object  as  Im  working  with  it  so  what  I
+
+want  to  do  now  is  round  off  the  corners
+
+here  and  to  make  these  Corners  rounded
+
+Im  going  to  use  a  path  effect  for  that
+
+so  Ill  come  up  here  to  where  it  says
+
+path  choose  path  effects  click  the  plus
+
+icon  down  here  to  add  new  path  effect
+
+and  the  path  effect  I  am  looking  for  is
+
+Corners  so  Im  just  going  to  type  in
+
+corners  and  there  it  is  the  corners  path
+
+effect  Im  going  to  grab  the  nodes  tool
+
+Im  going  to  click  and  drag  over  all  of
+
+the  nodes  right  here  and  Im  going  to
+
+pull  down  one  of  these  green  handles  to
+
+make  these  Corners  rounded  and  you  cant
+
+really  see  it  happening  as  it  happens
+
+probably  not  on  my  screen  but  if  you  see
+
+on  your  screen  there  should  be  a  blue
+
+outline  indicating  the  degree  to  which
+
+the  corners  are  being  rounded  right
+
+there  and  if  you  release  the  click  you
+
+could  see  now  we  have  some  rounded
+
+Corners  there  which  is  what  Im  going
+
+for  now  I  want  this  top  half  of  the  the
+
+design  to  be  completely  rounded  so  what
+
+Im  going  to  do  is  Im  going  to  deselect
+
+these  nodes  and  Im  going  to  take  just
+
+this  node  right  here  oops  click  the
+
+wrong  thing  Im  going  to  take  just  this
+
+node  right  here  and  Im  going  to  bring
+
+this  all  the  way  down  like  that  so  we
+
+end  up  with  something  like  that  right
+
+there  and  now  I  will  finalize  this  by
+
+going  to  path  object  to  path  press  one
+
+to  zoom  back  out  to
+
+100%  and  maybe  even  let  me  just  make
+
+this  a  little  a  little  uh  add  a  little
+
+more  vertical  height  to  it  like  that
+
+this  is  just  a  personal  preference  Im
+
+just  eyeballing  this  as  I  go  along  okay
+
+thats  looking  good  right  there  so  now
+
+Im  going  to  create  some  Mountains  for
+
+the  background  here  to  create  the
+
+mountains  Im  going  to  use  the  squares
+
+and  rectangles  tool  Im  going  to  click
+
+and  drag  Im  going  to  hold  control  and
+
+shift  while  clicking  and  dragging  to
+
+create  a  perfectly  symmetrical  square
+
+like  that  and  I  want  to  give  this
+
+rounded  Corners  a  little  bit  Im  going
+
+to  make  these  Corners  a  little  rounded
+
+like  that  not  much  just  a  little  bit  and
+
+then  I  will  grab  the  selection  tool  and
+
+rotate  this  around  like  that  Im  going
+
+to  hold  control  while  rotating  so  we  get
+
+it  nice  and  vertical  like  that  and  Im
+
+going  to  give  this  a  different  color
+
+just  so  I  could  differentiate  it  up
+
+against  the  emblem  over  here  Im  going
+
+to  duplicate  this  a  few  times  to  make
+
+some  mountains  in  the  background  so  Im
+
+going  to  press  control  D  to  duplicate
+
+Ill  put  this  one  up  here  control
+
+duplicate  again  put  this  one  down  here
+
+and  then  another  copy  over  here  and
+
+thats  about  what  Im  going  for  right
+
+there  so  Im  going  to  shift  click  all  of
+
+these  so  I  have  them  all
+
+selected  and  I  will  unify  them  all  Al
+
+together  by  going  to  path
+
+Union  and  now  Im  going  to  take  a
+
+duplicate  of  the  emblem  here  Im  going
+
+to  select  the  emblem  control  D  to
+
+duplicate  it  hold  shift  click  on  this
+
+shape  and  were  going  to  take  the
+
+intersecting  area  here  by  going  to  path
+
+and  selecting
+
+intersection  and  now  Im  going  to  add  a
+
+little  bit  of  a  uh  a  shadow  effect  to
+
+the  corners  of  these  mountains  here  let
+
+me  grab  the  pen  tool  let  me  enable
+
+snapping  and  then  Im  going  to  snap  to
+
+this  corner  right  here  to  create  a  point
+
+Im  going  to  hold  control  and  bring  this
+
+line  Im  going  to  bring  this  line  down
+
+to  the  right  to  make  sure  its  parallel
+
+with  this  line  right  here  this  angle  of
+
+this  mountain  Im  going  to  bring  it  the
+
+opposite  way  like  that  then  click  and
+
+Ill  bring  this  one  up  here  Im  letting
+
+go  of  control  at  this  point  Ill  bring
+
+this  one  up  here  click  again  and  then
+
+back  to  the  starting
+
+point  okay  so  I  had  a  little  technical
+
+difficulty  there  I  had  to  redo  that  one
+
+okay  let  me  grab  a  duplicate  of  this
+
+copy  now  contrl  D  put  this  over  here  put
+
+this  one  over  here
+
+and  there  we  go  now  I  want  to  shift
+
+click  all  of  these  to  select  them  unify
+
+them  together  path  Union  and  then
+
+subtract  them  from  the  mountains  hold
+
+shift  click  on  the  mountains  path
+
+difference  and  there  we  go  that  right
+
+there  is  the  effect  Im  going  for  okay
+
+so  now  Im  going  to  create  Im  going  to
+
+create  a  little  winding  River  to  place
+
+right  here  in  the  Forefront  of  the  uh
+
+design  here  so  let  me  turn  off  snapping
+
+first  let  me  grab  the  pen  tool  and  for
+
+this  were  going  to  get  a  little
+
+creative  Im  going  to  create  just  one
+
+vertical  line  like  this  Im  going  to
+
+click  once  to  create  a  point  hold
+
+control  put  this  line  down  here  like
+
+that  click  again  and  press  enter  and
+
+grab  the  nodes  tool  and  give  this  line  a
+
+little  bit  of  a  curve  Im  going  to
+
+select  these  handles  over  here  and  curve
+
+this  out  like
+
+that  there  we  go  grab  the  selection  tool
+
+and  duplicate  this  and  I  want  to
+
+position  this  in  such  a  way  that  the
+
+space  between  the  two  lines  represents
+
+the  shape  kind  of  like  a  winding  River
+
+now  were  going  to  change  the
+
+perspective  of  this  to  make  it  look  like
+
+its  actually  part  of  the  landscape  here
+
+but  for  now  were  just  trying  to  get
+
+this  this  shape  right  here  between  these
+
+two  lines  and  once  you  have  that  shape
+
+like  that  select  both  of  them  convert
+
+these  Strokes  to  a  path  path  stroke  to
+
+path  and  then  unify  them  together  go  to
+
+path  Union  and  now  break  them  apart  by
+
+going  to  path  break  apart  and  now  if  I
+
+click  off  of  that  to  deselect  it  you  can
+
+see  this  has  been  broken  up  into
+
+separate  pieces  and  I  want  this  piece
+
+over  here  Im  G  to  press  delete  on  the
+
+keyboard  to  get  rid  of  that  and  were
+
+looking  for  this  piece  right  here  this
+
+is  what  we  want  to  work  with  so  let  me
+
+go  back  to  my  fill  and  stroke  menu  and
+
+bring  down  the  opacity  of  this  a  little
+
+bit  so  I  can  see  it  better  Im  going  to
+
+place  this  over  here  and  now  Im  just
+
+going  to  use  the  transformation  handles
+
+to  uh  scale  and  Shear  this  as  needed  Im
+
+just  going  to  make  this  shorter  like
+
+that  maybe  even  scale  this
+
+up  like  that  there  we
+
+go  maybe  even  make  this  a  little  wider
+
+so  that  it  stretches  out  more  across  the
+
+design  okay  that  looks
+
+good  and  if  you  really  want  to  sell  this
+
+effect  you  can  use  the  perspective  path
+
+effects  so  let  me  come  over  here  to  the
+
+path  effects  menu  let  me  add  A  New  Path
+
+effect  and  for  this  one  Im  looking  for
+
+perspective  envelope  so  Im  going  to
+
+type  in  PR  RS  and  there  it  is
+
+perspective  and  now  down  here  where  it
+
+says  type  make  sure  you  have  perspective
+
+enabled  and  Im  going  to  enable  this  one
+
+right  here  that  says  mirror  movements
+
+and  vertical  and  now  I  can  grab  the
+
+nodes  tool  and  I  should  be  able  to  take
+
+these  two  right  here  and  bring  this  up
+
+like  that  and  as  you  can  see  were
+
+changing  the  perspective  of  this  River
+
+here  to  make  it  look  like  its  uh
+
+disappearing  into  the  vantage  point
+
+there  now  Im  going  to  convert  that  to  a
+
+path  by  going  to  path  object  to  path
+
+make  that  a  little  bit  bigger  so  that  it
+
+stretches  Out  Among  the  bottom  of  the
+
+design
+
+here  and  now  I  will  fit  that  into  the
+
+emblem  I  may  even  make  this  a  little  bit
+
+whoops  I  may  even  make  this  a  little  bit
+
+um  wider  like  that  I  want  the  start  of
+
+this  to  be  closer  to  this  corner  right
+
+here  so  that  looks  good  as  it  is  Im
+
+going  to  leave  that  Im  going  to  take
+
+this  emblem  shape  right  here  control  D
+
+to  duplicate  it  shift  click  the  river
+
+and  go  to  path  intersection  and  there  we
+
+go  now  we  have  that  right  there  okay  so
+
+lets  create  a  little  pine  tree  to  put
+
+right  here  in  the  Forefront  of  the
+
+design  to  do  that  Im  going  to  grab  the
+
+squares  and  rectangles  tool  I  want  to
+
+make  make  sure  I  have  sharp
+
+Corners  click  and  drag  to  create  a
+
+square  like  that  convert  it  to  a  path
+
+again  make  sure  you  have  sharp  Corners
+
+here  path  object  to  path  grab  the  nodes
+
+tool  Im  going  to  delete  this  node  right
+
+here  by  pressing  delete  on  the  keyboard
+
+and  then  Ill  take  these  nodes  over  here
+
+and  Ill  make  those  Corners  sharp  like
+
+that  and  now  I  can  grab  the  selection
+
+tool  and  rotate  this  back  around  while
+
+holding  control  so  we  lock  it  onto  15°
+
+angles  like  that  we  want  this  nice  and
+
+flat  and  upright  and  Im  just  going  to
+
+make  this  a  little  narrower  Ill
+
+duplicate  that  bring  this  one  down  here
+
+make  this  one  a  little
+
+bigger  and  then  Ill  duplicate  that  and
+
+Ill  bring  this  one  down  here  and  make
+
+that  one  a  little  bigger  like  that  I
+
+should  probably  be  using  darker  colors
+
+so  you  can  see  this  better  let  me  go
+
+with  blue  there  we
+
+go  and  there  we  go  I  think  that  right
+
+there  looks  good  so  Im  going  to  use
+
+that  as  it  is  Im  going  to  select  all  of
+
+those  path  Union  and  there  we  go  theres
+
+our  tree  so  let  me  scale  this  down  and
+
+place  this  at  the  front  of  the  design
+
+over
+
+here  I  may  even  place
+
+this  I  think  right  about  here  would  be
+
+good  I  want  this  to  be  I  want  the  tip  of
+
+this  tree  to  go  to  the  the  edge  of  the
+
+river  right  here  whoops  what  happened
+
+okay  there  we
+
+go  Im  going  to  place  that  right  about
+
+there  okay  thats  good  enough  so  let  me
+
+duplicate  the  emblem  and  take  the
+
+intersecting  area  there
+
+intersection  and  let  me  give  this  thing
+
+some  color  so  we  could  start
+
+differentiating  the  elements  here  let  me
+
+select  everything  we  can  now  bring  the
+
+opacity  up  and  start  adding  in  some
+
+color  so  I  want  the  mountain  range  here
+
+to  be  a  dark  shade  of  blue  actually  Im
+
+want  to  start  with  the  background  here  I
+
+want  the  background  to  be  a  light  shade
+
+of  blue  Im  going  to  start  with  uh  that
+
+shade  right  there  maybe  that  and  then
+
+Ill  take  this  and  Ill  make  this  a  dark
+
+blue  like  that  and  I  want  the  tree  to  be
+
+that  same  dark  shade  of  blue  so  Im
+
+going  to  grab  the  dropper  tool  which  is
+
+located  over  here  I  just  like  to  use  the
+
+letter  d  on  the  keyboard  D  for  dropper
+
+its  easy  to  remember  and  there  you  go
+
+and  S  for  selection  back  to  the
+
+selection  tool  grab  the  uh  the  river
+
+here  Im  going  to  make  this  the  same
+
+color  as  this  right  here  D  for  the
+
+dropper  s  for  selection  there  we  go  and
+
+now  Im  going  to  place  us  a  sun  a  little
+
+bit  of  uh  sunrays  in  the  background  here
+
+so  let  me  grab  these  circles  and
+
+ellipses  tool  click  and  drag  to  create  a
+
+perfectly  round  circle  like  that  place
+
+it  in  the  center  of  the  design  Im  going
+
+to  make  this  white  so  we  can  see  it
+
+better  and  thats  actually  the  color  Im
+
+going  to  use  for  the  Sun  so  let  me
+
+Center  this  up  Im  going  to  shift  click
+
+both  of  these  open  up  the  aligned
+
+distribute  menu  which  is  over  here  we
+
+can  press  control  shift  and  to  access
+
+that  and  from  the  relative  two  I  want
+
+last  selected  chosen  Im  just  going  to
+
+Center  that  up  on  the  vertical  axis  like
+
+that  now  let  me  make  this  a  little  bit
+
+bigger  and  Im  going  to  lower  this  down
+
+beneath  the  mountains  now  you  can  lower
+
+you  can  raise  and  lower  objects  using
+
+these  buttons  I  just  like  to  use  the
+
+page  up  and  page  down  keys  on  the
+
+keyboard  so  Im  going  to  press  page  down
+
+to  lower  that  there  we  go  and  now  Im
+
+going  to  make  a  duplicate  copy  of  this
+
+Im  going  to  press  controll  D  Im  going
+
+to  make  this  one
+
+bigger  there  here  we  go  and  Im  going  to
+
+make  this  one  a  lighter  shade  of  blue
+
+again  pressing  D  on  the  keyboard  to  grab
+
+the  dropper  grab  the  uh  fill  and  stroke
+
+menu  make  this  one  a  lot  lighter  oops
+
+and  then  Ill  just  take  this  and  page
+
+down  and  lower  it  beneath  like  that  and
+
+Ill  maybe  even  make  that  one  a  little
+
+darker  okay  there  we  go  now  Im  going  to
+
+duplicate  this  circle  again  controll  D
+
+Ill  make  this  one  a  little
+
+darker  maybe  even  add  a  little  more  blue
+
+into  it  like  that  and  Ill  make  this
+
+larger  and  Im  going  to  lower  this  down
+
+by  pressing  page  the  the  page  down  key
+
+like
+
+that  there  we  go  Im  going  to  make  this
+
+about  this  big  and  then  Ill  make  this
+
+one  about  this
+
+big  and  at  this  point  were  just  trying
+
+to  size  things  up  to  make  sure  it  fits
+
+nicely  and  then  Im  going  to  make  this
+
+emblem  I  want  this  to  be  a  darker  shade
+
+of  blue  than  this  so  let  me  press  D  on
+
+the  keyboard  to  grab  the  dropper  and
+
+Ill  make  this  one  a  little  darker
+
+okay  that  looks  better  now  Im  going  to
+
+update  the  river  color  to  match  this
+
+shade  of  blue  right  here  so  let  me  just
+
+grab  the  dropper  and  do  that  and  now  Im
+
+going  to  take  the  intersecting  area  of
+
+this  circle  right  here  so  let  me  grab
+
+the  emblem  and  duplicate  that  shift
+
+click  the  circle  path
+
+intersection  there  we  go  and  as  you  can
+
+see  the  design  is  coming  together  here
+
+the  one  final  last  step  would  be  to  add
+
+a  little  bit  of  a  white  border  going
+
+around  the  outside  and  a  drop  shadow
+
+beneath  it  so  it  really  pops  off  the
+
+page  so  to  do  that  let  me  select  just
+
+the  emblem  right  here  and  go  to  path  and
+
+choose  uh  linked
+
+offset  and  I  want  to  make  this  offset  a
+
+totally  different  color  so  we  can  see  it
+
+better  Im  going  to  choose  red  Im  going
+
+to  grab  the  node  tool  and  there  should
+
+be  this  little  node  up  top  over  here  and
+
+you  should  be  able  to  grab  this  and  pull
+
+this  out  like  that  and  I  want  the  border
+
+of  this  emblem  to  be  about  about  that
+
+big  I  can  finalize  that  by  going  to  path
+
+object  to  path  and  then  I  will  make  that
+
+white  grab  the  selection  tool  and  now
+
+Im  going  to  duplicate  that  by  pressing
+
+control  D  and  Im  going  to  make  this  one
+
+black  and  now  I  can  use  my  page  down  key
+
+to  lower  that  down  and  then  I  can  use  my
+
+arrow  keys  to  bring  this  down  a  little
+
+bit  there  we  go  Ill  give  that  a  blur
+
+and  Ill  bring  down  the  opacity  of  that
+
+blur  like  that  and  now  Ill  have  to
+
+deselect  it  and  select  it  again  and  now
+
+I  can  use  my  arrow  keys  to  move  that
+
+down  a  little  bit  just  to  give  a  little
+
+bit  of
+
+offset  okay  there  we  go  and  I  think  that
+
+should  do  it  for  this  lesson  that  is  how
+
+you  can  go  about  creating  a  mountain
+
+range  logo  with  a  winding  River  and  a
+
+pine  tree  and  a  rising  sun  coming  up
+
+beneath  it  inside  of  this  element  using
+
+nothing  but  simple  shapes  in  inkscape
+
+before  I  end  this  video  if  you  found
+
+this  lesson  useful  then  consider
+
+checking  out  my  inkscape  master  class
+
+its  a  collection  of  over  60  videos
+
+where  I  go  over  all  of  the  tools  and
+
+features  in  inkscape  and  I  explain  what
+
+they  are  and  Demon  demonstrate  how  they
+
+work  kind  of  like  how  I  did  in  this
+
+video  we  even  have  a  private  Community
+
+where  you  can  ask  questions  and  get  help
+
+from  me  anytime  you  want  and  best  of  all
+
+theres  no  monthly  membership  fees  you
+
+just  pay  $17  one  time  and  youre  in  for
+
+Life  Ill  have  some  information  about
+
+that  in  the  description  of  the  video  if
+
+you  want  to  check  that  out  as  always
+
+thanks  for  watching

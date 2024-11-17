@@ -1,0 +1,268 @@
+1
+00:00:00,000 --> 00:00:02,879
+let's look at how to make this logo a
+
+2
+00:00:02,879 --> 00:00:04,920
+convenient way to do this is to use the
+
+3
+00:00:04,920 --> 00:00:06,000
+power stroke
+
+4
+00:00:06,000 --> 00:00:08,820
+it wasn't until Illustrator CS6 that you
+
+5
+00:00:08,820 --> 00:00:10,380
+were able to create a variable stroke
+
+6
+00:00:10,380 --> 00:00:11,219
+width
+
+7
+00:00:11,219 --> 00:00:12,960
+it's a powerful tool to have in your
+
+8
+00:00:12,960 --> 00:00:15,660
+Arsenal so let's have a look
+
+9
+00:00:15,660 --> 00:00:17,640
+select the ellipse tool and drag a
+
+10
+00:00:17,640 --> 00:00:19,820
+circle
+
+11
+00:00:22,610 --> 00:00:25,739
+[Music]
+
+12
+00:00:30,960 --> 00:00:32,880
+I will make the start and end points fit
+
+13
+00:00:32,880 --> 00:00:35,040
+the large Arc
+
+14
+00:00:35,040 --> 00:00:39,059
+I go to pathfx and choose power stroke
+
+15
+00:00:39,059 --> 00:00:40,920
+I want the start and end cap to be
+
+16
+00:00:40,920 --> 00:00:43,280
+rounded
+
+17
+00:00:45,059 --> 00:00:47,040
+I drag the purple control point to
+
+18
+00:00:47,040 --> 00:00:49,760
+adjust the width
+
+19
+00:00:50,399 --> 00:00:52,920
+I lower the opacity so I can clearly see
+
+20
+00:00:52,920 --> 00:00:54,600
+both shapes
+
+21
+00:00:54,600 --> 00:00:57,719
+[Music]
+
+22
+00:00:57,840 --> 00:01:01,280
+I zoom in on the start point
+
+23
+00:01:05,640 --> 00:01:08,900
+I fine tune the end point
+
+24
+00:01:22,740 --> 00:01:24,780
+at this moment I have three points to
+
+25
+00:01:24,780 --> 00:01:26,280
+adjust the line width
+
+26
+00:01:26,280 --> 00:01:29,580
+but you can remove and add points
+
+27
+00:01:29,580 --> 00:01:31,860
+to add a control point I control click
+
+28
+00:01:31,860 --> 00:01:33,479
+on a purple diamond
+
+29
+00:01:33,479 --> 00:01:35,340
+now I have four points to control the
+
+30
+00:01:35,340 --> 00:01:37,759
+line with
+
+31
+00:01:38,700 --> 00:01:40,860
+I will create a fifth control Point by
+
+32
+00:01:40,860 --> 00:01:43,799
+control clicking on a purple diamond
+
+33
+00:01:43,799 --> 00:01:45,960
+to make the top curve I duplicate the
+
+34
+00:01:45,960 --> 00:01:47,100
+large Arc
+
+35
+00:01:47,100 --> 00:01:48,840
+I will reposition the start and end
+
+36
+00:01:48,840 --> 00:01:51,259
+points
+
+37
+00:01:58,860 --> 00:02:01,680
+I see I must rotate the arc somewhat
+
+38
+00:02:01,680 --> 00:02:05,119
+so I press the space bar
+
+39
+00:02:14,720 --> 00:02:17,640
+I will have to rotate a bit more but
+
+40
+00:02:17,640 --> 00:02:19,739
+this time I will reposition the rotation
+
+41
+00:02:19,739 --> 00:02:22,040
+point
+
+42
+00:02:23,580 --> 00:02:25,860
+I'll save my paths so I can adjust them
+
+43
+00:02:25,860 --> 00:02:28,860
+later if needed so I duplicate them I
+
+44
+00:02:28,860 --> 00:02:30,720
+hide the original shapes that have the
+
+45
+00:02:30,720 --> 00:02:32,879
+live path effects then I will turn the
+
+46
+00:02:32,879 --> 00:02:35,040
+duplicates into regular paths and unite
+
+47
+00:02:35,040 --> 00:02:37,280
+them
+
+48
+00:02:37,620 --> 00:02:41,060
+now let's color the path
+
+49
+00:02:42,480 --> 00:02:44,519
+I go to fill and stroke and select
+
+50
+00:02:44,519 --> 00:02:45,959
+radial gradient
+
+51
+00:02:45,959 --> 00:02:48,239
+I select the gradient tool and move the
+
+52
+00:02:48,239 --> 00:02:50,099
+gradient to the bottom left
+
+53
+00:02:50,099 --> 00:02:52,200
+I click on the dropper tool and Sample
+
+54
+00:02:52,200 --> 00:02:54,780
+the green and for the outside color I
+
+55
+00:02:54,780 --> 00:02:58,200
+sample the blue I shift Ctrl drag to
+
+56
+00:02:58,200 --> 00:03:00,720
+make the gradient bigger now let's place
+
+57
+00:03:00,720 --> 00:03:02,519
+the text
+
+58
+00:03:02,519 --> 00:03:04,440
+I will use assistant which is a free
+
+59
+00:03:04,440 --> 00:03:05,760
+Google font
+
+60
+00:03:05,760 --> 00:03:08,099
+I click on spacing and set spacing
+
+61
+00:03:08,099 --> 00:03:10,440
+between letter to 15.
+
+62
+00:03:10,440 --> 00:03:12,239
+I want to remove the horizontal stroke
+
+63
+00:03:12,239 --> 00:03:13,500
+from the letter A
+
+64
+00:03:13,500 --> 00:03:18,260
+to do this I go to path object to path
+
+65
+00:03:19,980 --> 00:03:22,200
+I select the node tool and drag over the
+
+66
+00:03:22,200 --> 00:03:23,519
+horizontal stroke
+
+67
+00:03:23,519 --> 00:03:26,300
+I press delete
+

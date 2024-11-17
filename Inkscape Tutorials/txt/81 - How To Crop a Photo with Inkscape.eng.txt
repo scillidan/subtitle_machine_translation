@@ -1,0 +1,475 @@
+
+
+
+this  is  Nick  of  logos  by  Nick  comm  and
+
+in  todays  tutorial  Ill  be
+
+demonstrating  how  you  can  crop  a  photo
+
+using  Inkscape  and  if  youd  like  to
+
+learn  more  about  how  Inkscape  works  be
+
+sure  to  check  out  the  Inkscape  master
+
+class  which  is  a  collection  of  over  50
+
+videos  where  I  go  over  every  single  tool
+
+and  feature  in  Inkscape  and  I  explain
+
+what  it  is  and  demonstrate  how  it  works
+
+Ill  put  a  link  in  the  description  of
+
+the  video  if  you  want  to  check  that  out
+
+so  to  get  started  here  Im  going  to  open
+
+up  Inkscape  the  first  thing  we  want  to
+
+do  is  just  make  sure  that  we  set  up  our
+
+documents  that  were  all  working  with
+
+this  similar  setup  Im  gonna  come  up
+
+here  to  where  it  says  view  were  gonna
+
+want  custom  selected  and  then  Im  going
+
+to  go  to  zoom  going  to  zoom  in  at  1  to  1
+
+and  then  I  want  to  open  up  the  the  edit
+
+objects  colors  gradients  and  Stroke  menu
+
+with  this  button  up  here  or  you  could
+
+just  press  control  shift  F  as  a  keyboard
+
+shortcut  and  what  I  want  to  do  now  is
+
+import  my  photo  into  Inkscape  you  can  do
+
+that  by  going  to  file  import  and
+
+navigating  to  the  file  on  your  hard
+
+drive  where  the  photo  is  located  what  I
+
+like  to  do  is  I  like  to  just  grab  a
+
+folder  like  this  and  just  click  and  drag
+
+it  into  Inkscape  like  that  and  Im  just
+
+gonna  choose  M  bed  if  it  asks  you  if  you
+
+want  to  embed  it  or  link  it  I  just  like
+
+to  go  with  embed  and  there  we  go  theres
+
+the  photo  Im  gonna  be  cropping  let  me
+
+zoom  out  a  little  bit  Im  gonna  hold
+
+ctrl  and  roll  down  the  mouse  wheel  to
+
+zoom  out  a  little  bit  what  Im  gonna  be
+
+doing  here  is  removing  the  subject  from
+
+the  background  here  now  before  we  get
+
+started  I  just  have  to  mention  that  this
+
+is  the  sort  of  thing  that  would  be
+
+better  suited  for  an  application  like
+
+inkscape  isnt  really  designed  for
+
+working  with  photos  like  this  its  more
+
+for  vector  design  but  if  you  dont  feel
+
+like  downloading  if  youre  not  a
+
+user  and  you  dont  feel  like  downloading
+
+and  installing  and  learning  how  to
+
+use  a  new  piece  of  software  this  can
+
+absolutely  be  done  with  Inkscape  in  fact
+
+i  do  this  with  Inkscape  all  the  time  so
+
+just  wanted  to  throw  that  out  there
+
+before  we  get  started  so  let  me  get
+
+started  here  Im  gonna  zoom  in  a  little
+
+bit  to  zoom  in  and  out  again  whos
+
+holding  ctrl  and  rolling  up  and  down  the
+
+mouse  wheel  well  be  doing  that  a  lot
+
+throughout  this  tutorial  well  also  be
+
+moving  the  page  around  like  this  to  do
+
+this  Im  pressing  down  the  mouse  wheel
+
+and  moving  the  mouse  just  basic
+
+navigation  tools  youre  gonna  have  to
+
+keep  in  mind  while  working  on  this  Im
+
+gonna  start  over  here  about  the  lower
+
+right  edge  of  the  subject  Im  going  to
+
+grab  the  bezel
+
+which  is  over  here  or  you  could  present
+
+beyond  the  keyboard  and  Im  going  to
+
+click  to  create  a  point  outside  of  the
+
+photo  here  and  Im  going  to  start
+
+creating  points  going  around  the  edge  of
+
+the  subject  here  just  like  this  and  if
+
+you  notice  these  lines  arent  exactly
+
+smooth  theyre  not  following  the
+
+contours  of  the  subjects  outline  here
+
+but  thats  okay  were  gonna  go  back  and
+
+fix  that  later  so  dont  worry  about  that
+
+right  now  just  go  ahead  and  click  to
+
+create  these  points  going  around  the
+
+subject  and  this  is  a  pretty  big  photo
+
+with  a  lot  of  points  to  create  so  what
+
+Im  gonna  do  is  Im  gonna  do  this  and
+
+Im  gonna  fast  forward  and  Ill  catch  up
+
+with  you  what  Im  done
+
+okay  so  as  you  can  see  here  I  went
+
+around  the  outside  of  the  subject  here
+
+and  Ive  traced  an  outline  coming  out  to
+
+the  other  end  of  the  photo  what  Im
+
+gonna  do  is  Im  just  gonna  bring  this
+
+line  around  outside  the  photo  over  here
+
+and  connect  it  back  to  the  starting
+
+point  by  clicking  on  that  and  its  gonna
+
+create  a  shape  there  like  that  if  you
+
+notice  now  we  have  a  shape  going  around
+
+the  outline  of  the  subject  let  me  go
+
+ahead  and  undo  that  what  we  want  to  do
+
+now  is  we  want  to  account  for  these
+
+negative  space  areas  within  this  within
+
+the  subject  here  assuming  your  photo
+
+does  have  these  negative  space  areas  if
+
+it  doesnt  dont  worry  about  it  but
+
+were  gonna  have  to  eliminate  these
+
+areas  like  between  the  hand  and  the
+
+shoulder  over  here  and  the  same  over
+
+here  on  this  side  so  Im  gonna  do  is  Im
+
+gonna  create  more  shapes  inside  of  here
+
+doing  the  same  thing  just  creating
+
+following  along  the  contours  of  the
+
+subject  with  the  Bezier  pen  by  creating
+
+points  like  that  Ill  put  one  right
+
+there  another  one  here  for  the  hair
+
+okay  so  once  youre  done  accounting  for
+
+all  of  the  areas  of  negative  space  what
+
+we  want  to  do  is  combine  them  all
+
+together  by  grabbing  the  select  tool
+
+over  here  Im  gonna  grab  this  area  right
+
+here  Im  gonna  hold  shift  and  click  on
+
+the  other  one  so  that  we  can  select
+
+multiples  at  a  time  Im  gonna  hold  shift
+
+click  on  that  one  and  then  hold  shift
+
+and  click  on  that  one  and  you  should
+
+have  all  of  them  selected  if  you
+
+shift-click  them  and  what  I  want  to  do
+
+is  unify  them  together  by  going  to  path
+
+Union  and  now  what  I  want  to  do  is  take
+
+that  group  of  unified  objects  and
+
+subtract  them  from  the  main  outline  that
+
+we  created  in  the  background  over  there
+
+so  with  this  group  of  objects  selected
+
+Im  going  to  hold  shift  and  Im  going  to
+
+click  on  the  original  outline  and  Im
+
+gonna  go  to  path  difference  and  nothing
+
+is  going  to  change  visually  on  the
+
+screen  but  if  you  change  the  color  of
+
+the  object  here  youll  see  it  now  fits
+
+the  shape  of  the  subject  here  if  you  see
+
+I  missed  that  one  so  let  me  just
+
+subtract  that  as  well
+
+path  difference  there  we  go  okay  so  what
+
+I  want  to  do  now  is  I  want  to  go  back  to
+
+where  what  I  was  talking  about  earlier
+
+with  those  rough  lines  I  want  to  make
+
+them  smooth  so  let  me  turn  off  the  fill
+
+color  of  this  and  let  me  zoom  in  on  this
+
+area  over  here  where  we  started  out  let
+
+me  go  to  the  edit  pads  by  nodes  tool
+
+over  here  or  a  good  pressed  end  on  the
+
+keyboard  let  me  just  fix  that  one  its
+
+not  quite  right  there  we  go  what  Im
+
+gonna  do  is  Im  gonna  click  and  drag
+
+over  this  node  right  here  and  Im  gonna
+
+click  on  this  button  that  says  make
+
+selected  nodes  Auto  smooth  and  its
+
+gonna  make  that  node  smooth  so  that  its
+
+no  longer  like  a  rough  like  a  like  a
+
+polygonal  sort  of  corner  its  gonna  make
+
+it  smooth  Ill  do  the  same  thing  with
+
+this  node  over  here  make  that  smooth  and
+
+what  were  gonna  do  is  were  gonna  go
+
+through  and  do  this  with  all  of  these
+
+nodes  but  were  not  gonna  do  this  node
+
+by  node  because  that  would  take  forever
+
+what  Im  gonna  do  is  Im  gonna  select
+
+these  multiples  at  a  time  by  holding
+
+shift  and  clicking  on  them  you  cant
+
+select  multiples  at  a  time  as  Im  doing
+
+here  just  hold  your  shift  and  click  and
+
+drag  over  them  and  make  sure  not  to
+
+select  any  corner  so  let  me  show  you
+
+what  I  mean  Im  gonna  come  over  here  Im
+
+not  gonna  select  that  node  because  its
+
+a  corner  I  dont  want  to  make  that
+
+smooth  so  with  these  selected  let  me
+
+make  those  Auto  smooth  and  if  you  notice
+
+its  now  smooth  it  now  follows  the
+
+contours  of  the  subject  theyre  a  little
+
+more  closely  if  you  take  a  corner  node
+
+and  you  make  that  smooth  youre  gonna
+
+end  up  with  that  we  dont  want  to  end  up
+
+with  that  right  there  so  let  me  undo
+
+that  by  hitting  ctrl  Z
+
+and  Im  gonna  go  through  and  select  more
+
+of  these  nodes  making  sure  to  avoid  the
+
+corners  like  I  previously  mentioned  let
+
+me  see  let  me  see  how  this  looks  okay
+
+good
+
+let  me  go  through  here  and  do  this  as
+
+well  Im  gonna  go  through  the  entire
+
+image  and  do  this  with  all  of  these
+
+nodes  and  then  once  again  Ill  Ill
+
+catch  up  if  you  when  Im  done
+
+okay  so  I  finished  going  through  and
+
+smoothing  out  all  of  the  nodes  of  the
+
+the  outline  here  now  were  ready  to  crop
+
+so  what  Im  gonna  do  is  Im  gonna  grab
+
+the  select  tool  I  want  to  take  this
+
+object  right  here  I  just  want  to  give
+
+this  a  different  color  look  Im  gonna
+
+make  this  green  for  example  just  so  we
+
+can  see  what  exactly  will  be  cropping
+
+right  here  now  what  I  want  to  do  is  get
+
+rid  of  that  outline  so  Im  gonna  hold
+
+shift  Im  gonna  click  on  this  little  red
+
+X  down  here  in  the  bottom  left  corner
+
+and  let  me  just  bring  the  opacity  of
+
+this  down  a  little  bit  just  so  I  can  see
+
+I  just  want  to  double  check  and  make
+
+sure  that  everything  that  Im  cropping
+
+out  here  looks  good  and  everything  it
+
+does  it  looks  like  everything  looks  good
+
+here  looks  like  its  gonna  be  a  clean
+
+crop  so  what  Im  gonna  do  is  Im  gonna
+
+hold  shift  and  Im  gonna  click  on  the
+
+object  right  there  both  the  object  in
+
+the  photo  we  want  them  both  selected  and
+
+then  well  go  to  object  clip  set  and  if
+
+you  notice  theyre  the  background  of  the
+
+of  the  photo  is  now  gone  in  fact  you  can
+
+create  a  rectangle  let  me  go  to  the
+
+rectangle  tool  right  here
+
+create  a  rectangle  grab  the  Select  tool
+
+send  this  to  the  bottom  and  you  can  see
+
+we  have  our  subject  cropped  out  from  the
+
+background  now  if  any  point  you  want  to
+
+go  back  and  remove  this  crop  you  just  go
+
+to  object  clip  objects  clip  release  and
+
+itll  release  it  so  you  can  go  back  to
+
+the  original  photo  of  how  it  was
+
+otherwise  you  can  just  leave  it  right
+
+there  as  it  is  and  that  is  how  you  can
+
+go  about  cropping  a  photo  with  Inkscape
+
+if  you  have  any  questions  let  me  know
+
+and  as  always  thanks  for  watching
+
+
+

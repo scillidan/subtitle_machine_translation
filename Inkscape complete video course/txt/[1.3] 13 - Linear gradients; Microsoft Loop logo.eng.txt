@@ -1,0 +1,64 @@
+In this lecture, we will make the Microsoft Loop logo. I go to: File > Import. I select the logo,
+and click on: Open. I click on OK. I will create a new layer, and lock the layer with
+the image. I click on the Ellipse tool. I hold down Control, and drag a circle. I click on the
+Fill and Stroke tab. I drag the Alpha of the fill to zero. I press the plus once, to set it to
+1 percent. I do this, so I see only the stroke, but I can still drag the shapes easily around by
+dragging their fill. I hold Shift plus Control, and size the circle. I duplicate the circle,
+by pressing Ctrl-D. I hold Shift, and click on the larger circle. I go to: Path > Difference.
+I name the path: circle. Now I click on the Rectangle tool, and drag a rectangle.
+I activate Snapping. I press the spacebar, to go to the Select tool. I drag the rectangle
+against the inner circle until I see: Corner to smooth node. I drag the handle down, until it
+snaps. And I drag to the left, until it snaps. I duplicate the rectangle. I click on the rectangle
+again, so I see the rotation handles. I hold Ctrl and drag a corner, until I rotate it 90 degrees.
+I drag the rectangle to the corner until it snaps. I click on the Node tool, and select: Add corners.
+I drag the circle at the bottom right, until I see: Handle to corner. I press the spacebar. I
+call the shape: gradient left. And I call the rectangle below: gradient bottom.
+Now I duplicate the layer two times, by pressing Ctrl-D. To recreate the gradient of the logo, I
+will need to make three gradients. I will call the top layer: gradient left. And the layer below
+I call: gradient bottom. The bottom layer will have a general gradient. The left gradient
+goes from dark purple, to a lighter purple. To create the shape for this, I dont need the bottom
+rectangle, so I will delete it. I hide the other layers, so I can better see what I am doing. I
+will also hide gradient left for a moment. I click on the circle, and select the Node tool. I
+only need the top left part of the circle. So I will cut the circle. I drag over the top nodes,
+to select them. Then I click on: Break path at selected nodes. I also do this for the nodes at
+the left. Then I click on the most right node. I hold Ctrl, and scroll forward until all nodes are
+selected. I also Control-scroll on the right node, of the inner circle. I have now selected all nodes
+that I dont need, so I press: Delete. Now I want to close the gaps. I drag over the right nodes.
+I click on: Join selected endnodes with a new segment. I also do this for the bottom nodes.
+I make gradient left visible again, and Shift-click on it. I go to:
+Path > Union. I call the shape: gradient left. Now lets create the shape for the
+bottom gradient. I hide gradient left, and make gradient bottom visible. For the bottom gradient,
+I dont need gradient left, so I delete it. I hide gradient bottom. For the bottom gradient,
+I need the bottom right of the circle. So I repeat what I did before. I select the nodes
+at the right, and break the path at the selected nodes. Then I select the nodes at the bottom,
+and break the path there. I click on the most left node, and Control-scroll forward, until
+all nodes are selected. I also Control-scroll on the left node of the inner path. Then I press:
+Delete. I select the top nodes, and join them. And I select the left nodes, and connect them. I make
+gradient bottom visible again, and Shift-click on it. Then I go to: Path > Union. I call the shape:
+gradient bottom. Now I will use the Shape Builder tool, to create the logo shape.
+I hide gradient bottom, and make the layer below visible. I select all three shapes. I click on
+the Shape Builder tool. I see I have an unwanted connection, so I click on the X icon to exit. I go
+to: Path > Fracture. I click on the Shape Builder tool again. I will now combine the shapes I want.
+I remove superfluent nodes. I call the shape: general shape. Now lets place the gradients.
+I will make the logo layer visible. To see the colors, I will drag the image to the left. I click
+on the Fill and Stroke tab. For my fill, I need a linear gradient. I click on the Gradient tool.
+Then I click on the Dropper tool. Because the left gradient will be on top, I need the general
+gradient to go from blue, to the lighter purple. So I click on the left color stop,
+and sample the blue. Then I click on the right color stop, and sample the light purple. Now I
+will position the color stops. I drag the left color stop down, and the right color stop up.
+I click on Stroke, and click on: No paint. I go back to my layers. Now lets color gradient left.
+I go to Fill and Stroke again. I click on Fill, and click on:
+Linear gradient. I click on the left color stop, and sample the dark purple. Then I
+select the right color stop, and sample the light purple. Then I position the color stops.
+I click on Stroke, and click on: No paint. I go back to my layers. The third gradient is to
+improve the gradient on the bottom. I go to Fill and Stroke, and set Fill to: gradient. I click
+on the left color stop, and sample the blue. And for the right color stop, I also sample the blue,
+but I set its Alpha to zero. I position the color stops. And finally, I will place the shadow. I go
+to my layers. I duplicate gradient left, that will become the shadow. In Fill and Stroke, I select:
+Flat color. I drag Alpha to 100 percent. And I set Blur to about 30 percent. In my layers,
+I call the shape: shadow. I will use general shape to mask the shadow. I right-click on it,
+and choose: Set Clip Group. I drag the Clip Group in the gradient left layer. I place the Clip
+Group on the bottom. I open the clip group. I will now drag the shadow in the Clip Group. To remove
+the shadow at the top, I click on the Node tool. I click on the top node, and press: Delete. I will
+also delete the node below. And to make gradient bottom visible again, I drag it below the
+shadow. I will delete the other layers. All shapes of the vectorized logo, are now in a single layer.

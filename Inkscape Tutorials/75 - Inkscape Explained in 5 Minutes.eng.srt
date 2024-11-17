@@ -1,0 +1,516 @@
+1
+00:00:00,080 --> 00:00:01,719
+if you're new to graphic design then you
+
+2
+00:00:01,719 --> 00:00:03,360
+may be unfamiliar with what the
+
+3
+00:00:03,360 --> 00:00:05,240
+different types of design are why
+
+4
+00:00:05,240 --> 00:00:07,359
+they're used and how they're made in
+
+5
+00:00:07,359 --> 00:00:09,040
+this video I'll be giving you a brief
+
+6
+00:00:09,040 --> 00:00:11,200
+overview of what Vector design is in
+
+7
+00:00:11,200 --> 00:00:13,440
+particular and how you can use inkscape
+
+8
+00:00:13,440 --> 00:00:15,150
+to create
+
+9
+00:00:15,150 --> 00:00:21,050
+[Music]
+
+10
+00:00:21,840 --> 00:00:24,960
+it this is Nick with logos by nick.com
+
+11
+00:00:24,960 --> 00:00:26,400
+and today I'll be explaining how
+
+12
+00:00:26,400 --> 00:00:29,039
+inkscape Works in 5 minutes or less
+
+13
+00:00:29,039 --> 00:00:31,160
+inkscape is a free an open source vector
+
+14
+00:00:31,160 --> 00:00:32,880
+graphics editor similar to Adobe
+
+15
+00:00:32,880 --> 00:00:35,280
+Illustrator the graphical format you may
+
+16
+00:00:35,280 --> 00:00:37,200
+be most familiar with would probably be
+
+17
+00:00:37,200 --> 00:00:39,200
+the raster format where you're working
+
+18
+00:00:39,200 --> 00:00:41,600
+with a bunch of individual colored boxes
+
+19
+00:00:41,600 --> 00:00:44,039
+known as pixels this describes things
+
+20
+00:00:44,039 --> 00:00:47,000
+like photographs and jpeg images vector
+
+21
+00:00:47,000 --> 00:00:48,800
+graphics aren't made of pixels though
+
+22
+00:00:48,800 --> 00:00:50,559
+they're a series of mathematical
+
+23
+00:00:50,559 --> 00:00:52,800
+equations that dictate the properties of
+
+24
+00:00:52,800 --> 00:00:55,440
+a graphic on an X Andy AIS the benefit
+
+25
+00:00:55,440 --> 00:00:57,160
+of working with vector graphics is that
+
+26
+00:00:57,160 --> 00:00:58,879
+they're easier to manipulate and you can
+
+27
+00:00:58,879 --> 00:01:01,399
+enlarge them infin itely without quality
+
+28
+00:01:01,399 --> 00:01:04,040
+loss this makes vectors ideal for things
+
+29
+00:01:04,040 --> 00:01:06,320
+like logos and app icons where you'll
+
+30
+00:01:06,320 --> 00:01:08,720
+need to use the same design in a variety
+
+31
+00:01:08,720 --> 00:01:11,159
+of different sizes vector graphics can
+
+32
+00:01:11,159 --> 00:01:12,880
+also be used to create things like
+
+33
+00:01:12,880 --> 00:01:14,920
+characters and mascots digital
+
+34
+00:01:14,920 --> 00:01:17,520
+illustrations menu icons for the web and
+
+35
+00:01:17,520 --> 00:01:19,119
+they can even be used in combination
+
+36
+00:01:19,119 --> 00:01:20,680
+with raster images to create
+
+37
+00:01:20,680 --> 00:01:23,159
+advertisements headers for social media
+
+38
+00:01:23,159 --> 00:01:25,360
+or anything else you'd like my favorite
+
+39
+00:01:25,360 --> 00:01:27,159
+tool for creating vector graphics is
+
+40
+00:01:27,159 --> 00:01:29,320
+inkscape and on this channel you'll find
+
+41
+00:01:29,320 --> 00:01:31,079
+hundreds of tutorials for learning how
+
+42
+00:01:31,079 --> 00:01:32,960
+to use inkscape to create things like
+
+43
+00:01:32,960 --> 00:01:37,000
+logos icons posters textures and more
+
+44
+00:01:37,000 --> 00:01:38,680
+when you launch inkscape for the first
+
+45
+00:01:38,680 --> 00:01:40,560
+time after downloading it you may notice
+
+46
+00:01:40,560 --> 00:01:42,320
+that it doesn't quite look the same on
+
+47
+00:01:42,320 --> 00:01:44,280
+your screen as it does on mine when
+
+48
+00:01:44,280 --> 00:01:46,320
+following along with one of my tutorials
+
+49
+00:01:46,320 --> 00:01:48,600
+you can change this by going to edit
+
+50
+00:01:48,600 --> 00:01:51,799
+preferences interface and theme and
+
+51
+00:01:51,799 --> 00:01:53,960
+ticking on the boxes to use a dark theme
+
+52
+00:01:53,960 --> 00:01:56,360
+along with the symbolic icons this is
+
+53
+00:01:56,360 --> 00:01:58,200
+not something that's necessary but it
+
+54
+00:01:58,200 --> 00:01:59,640
+just may be easier for you to follow
+
+55
+00:01:59,640 --> 00:02:01,439
+along Ong with my lessons if things look
+
+56
+00:02:01,439 --> 00:02:03,280
+the same on your screen as they do on
+
+57
+00:02:03,280 --> 00:02:05,439
+mine the tools menu on the left hand
+
+58
+00:02:05,439 --> 00:02:07,200
+side of the screen allows you to create
+
+59
+00:02:07,200 --> 00:02:10,038
+Vector objects like squares circles
+
+60
+00:02:10,038 --> 00:02:12,360
+stars and polygons and you can even use
+
+61
+00:02:12,360 --> 00:02:14,000
+tools like the beier pen and the
+
+62
+00:02:14,000 --> 00:02:16,200
+freehand tool to draw your own Vector
+
+63
+00:02:16,200 --> 00:02:18,800
+shapes you can then edit the structural
+
+64
+00:02:18,800 --> 00:02:20,280
+properties of those shapes using the
+
+65
+00:02:20,280 --> 00:02:22,720
+edit pads by nodes tool which allows you
+
+66
+00:02:22,720 --> 00:02:24,840
+to change the Contours of individual
+
+67
+00:02:24,840 --> 00:02:27,000
+lines and the key points of the design
+
+68
+00:02:27,000 --> 00:02:29,160
+otherwise known as nodes you can add
+
+69
+00:02:29,160 --> 00:02:31,480
+nodes remove nodes and even change the
+
+70
+00:02:31,480 --> 00:02:33,319
+type of node you're working with you can
+
+71
+00:02:33,319 --> 00:02:35,040
+then give those shapes whatever color
+
+72
+00:02:35,040 --> 00:02:36,840
+you want using the color palette at the
+
+73
+00:02:36,840 --> 00:02:38,640
+bottom of the screen or you can choose
+
+74
+00:02:38,640 --> 00:02:40,840
+Your Colors by RGB or hex code by
+
+75
+00:02:40,840 --> 00:02:42,879
+opening up the fill and stroke menu you
+
+76
+00:02:42,879 --> 00:02:44,400
+can even fill your objects with a
+
+77
+00:02:44,400 --> 00:02:46,360
+gradient which is basically a transition
+
+78
+00:02:46,360 --> 00:02:48,400
+between two different colors the path
+
+79
+00:02:48,400 --> 00:02:49,959
+menu at the top of the screen is a
+
+80
+00:02:49,959 --> 00:02:51,920
+series of path operations that allows
+
+81
+00:02:51,920 --> 00:02:53,720
+you to take objects that you've already
+
+82
+00:02:53,720 --> 00:02:56,159
+created and turn them into new objects
+
+83
+00:02:56,159 --> 00:02:58,159
+based on how you make them interact with
+
+84
+00:02:58,159 --> 00:03:00,440
+each other you can unify them together
+
+85
+00:03:00,440 --> 00:03:02,440
+subtract them from each other use the
+
+86
+00:03:02,440 --> 00:03:04,480
+intersecting area between them to create
+
+87
+00:03:04,480 --> 00:03:06,920
+a new object and more there's even a
+
+88
+00:03:06,920 --> 00:03:08,959
+more advanced feature known as live path
+
+89
+00:03:08,959 --> 00:03:10,599
+effects which allows you to manipulate
+
+90
+00:03:10,599 --> 00:03:12,760
+your vector objects even further
+
+91
+00:03:12,760 --> 00:03:15,200
+inkscape also has a powerful text editor
+
+92
+00:03:15,200 --> 00:03:17,120
+built in that allows you to flow text
+
+93
+00:03:17,120 --> 00:03:19,879
+inside of objects wrap it around objects
+
+94
+00:03:19,879 --> 00:03:21,799
+and even warp it into different shapes
+
+95
+00:03:21,799 --> 00:03:23,200
+and there's countless other features in
+
+96
+00:03:23,200 --> 00:03:25,000
+inkscape that make it a powerful tool
+
+97
+00:03:25,000 --> 00:03:27,360
+like texture masking and clone stamping
+
+98
+00:03:27,360 --> 00:03:29,400
+once you have a solid understanding of
+
+99
+00:03:29,400 --> 00:03:31,280
+how all of this works you can create
+
+100
+00:03:31,280 --> 00:03:33,560
+some really impressive designs there
+
+101
+00:03:33,560 --> 00:03:35,239
+really are no limitations to what you
+
+102
+00:03:35,239 --> 00:03:37,360
+can create with inkscape it's just as
+
+103
+00:03:37,360 --> 00:03:39,319
+powerful as any other vector graphics
+
+104
+00:03:39,319 --> 00:03:41,599
+tool out there commercial or otherwise
+
+105
+00:03:41,599 --> 00:03:43,360
+I've personally been using inkscape as
+
+106
+00:03:43,360 --> 00:03:45,680
+my primary tool for over a decade to
+
+107
+00:03:45,680 --> 00:03:47,680
+design logos for my clients and graphics
+
+108
+00:03:47,680 --> 00:03:50,040
+for my own website I even have an online
+
+109
+00:03:50,040 --> 00:03:52,120
+course called The inkscape Master Class
+
+110
+00:03:52,120 --> 00:03:54,000
+where I go over every single tool and
+
+111
+00:03:54,000 --> 00:03:56,000
+feature in inkscape and explain how it
+
+112
+00:03:56,000 --> 00:03:58,360
+works it's kind of like a user manual
+
+113
+00:03:58,360 --> 00:04:00,280
+but in video format where you can ask
+
+114
+00:04:00,280 --> 00:04:01,920
+questions and get help from me anytime
+
+115
+00:04:01,920 --> 00:04:03,920
+you want and it may be helpful in giving
+
+116
+00:04:03,920 --> 00:04:05,959
+some context to my lessons here on
+
+117
+00:04:05,959 --> 00:04:07,360
+YouTube I'll put a link in the
+
+118
+00:04:07,360 --> 00:04:08,599
+description of the video if you're
+
+119
+00:04:08,599 --> 00:04:10,040
+interested in checking that out
+
+120
+00:04:10,040 --> 00:04:11,760
+otherwise if you're just curious about
+
+121
+00:04:11,760 --> 00:04:13,599
+seeing what inkscape is capable of and
+
+122
+00:04:13,599 --> 00:04:15,480
+maybe dabbling around with it a bit then
+
+123
+00:04:15,480 --> 00:04:17,120
+feel free to check out any of the
+
+124
+00:04:17,120 --> 00:04:18,839
+hundreds of tutorials I have on this
+
+125
+00:04:18,839 --> 00:04:20,959
+channel I even have a beginners playlist
+
+126
+00:04:20,959 --> 00:04:23,240
+that would be ideal for firsttime users
+
+127
+00:04:23,240 --> 00:04:24,800
+if you have any questions just leave a
+
+128
+00:04:24,800 --> 00:04:28,720
+comment below and as always thanks for
+
+129
+00:04:28,720 --> 00:04:32,720
+watching for
+

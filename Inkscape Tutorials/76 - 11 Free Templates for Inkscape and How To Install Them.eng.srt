@@ -1,0 +1,408 @@
+1
+00:00:01,020 --> 00:00:06,910
+[Music]
+
+2
+00:00:07,880 --> 00:00:10,410
+one of my favorite features in Inkscape
+
+3
+00:00:10,410 --> 00:00:11,940
+is having the ability to create a
+
+4
+00:00:11,940 --> 00:00:13,920
+document and save it as a template that
+
+5
+00:00:13,920 --> 00:00:15,570
+you can launch directly from within
+
+6
+00:00:15,570 --> 00:00:18,210
+Inkscape anytime you want this is useful
+
+7
+00:00:18,210 --> 00:00:19,949
+because it means you won't have to waste
+
+8
+00:00:19,949 --> 00:00:22,529
+time formatting your document every time
+
+9
+00:00:22,529 --> 00:00:24,060
+you go to create certain types of
+
+10
+00:00:24,060 --> 00:00:25,980
+designs that you may regularly work with
+
+11
+00:00:25,980 --> 00:00:28,050
+like YouTube thumbnails channel art
+
+12
+00:00:28,050 --> 00:00:31,019
+business cards invoices and so on if you
+
+13
+00:00:31,019 --> 00:00:33,480
+go to file new from template you'll see
+
+14
+00:00:33,480 --> 00:00:35,040
+a list of templates that are already
+
+15
+00:00:35,040 --> 00:00:36,660
+formatted for whatever it is you'd like
+
+16
+00:00:36,660 --> 00:00:38,850
+to create and if you're using Inkscape
+
+17
+00:00:38,850 --> 00:00:41,309
+version 1.0 or later you can add your
+
+18
+00:00:41,309 --> 00:00:43,500
+templates to this library by going to
+
+19
+00:00:43,500 --> 00:00:45,989
+file save template and from there you
+
+20
+00:00:45,989 --> 00:00:47,670
+can choose a name along with some other
+
+21
+00:00:47,670 --> 00:00:49,170
+metadata and whatever it is you're
+
+22
+00:00:49,170 --> 00:00:50,879
+currently working on an Inkscape will be
+
+23
+00:00:50,879 --> 00:00:53,399
+saved to that library as a template that
+
+24
+00:00:53,399 --> 00:00:55,260
+you could launch anytime you'd like all
+
+25
+00:00:55,260 --> 00:00:57,360
+you have to do is go to file new from
+
+26
+00:00:57,360 --> 00:00:59,340
+template and there it will be because of
+
+27
+00:00:59,340 --> 00:01:00,930
+this I've been able to generate a list
+
+28
+00:01:00,930 --> 00:01:02,940
+of eleven templates for common design
+
+29
+00:01:02,940 --> 00:01:05,159
+items like print-ready business cards
+
+30
+00:01:05,159 --> 00:01:07,470
+and trifold brochures with bleed lines
+
+31
+00:01:07,470 --> 00:01:09,720
+and dpi already accounted for and in
+
+32
+00:01:09,720 --> 00:01:11,220
+this video I'll be sharing them with you
+
+33
+00:01:11,220 --> 00:01:12,930
+and just to be clear these are not
+
+34
+00:01:12,930 --> 00:01:15,390
+designs these are just blank templates
+
+35
+00:01:15,390 --> 00:01:17,130
+that you can load into your template
+
+36
+00:01:17,130 --> 00:01:18,930
+library and use to create your own
+
+37
+00:01:18,930 --> 00:01:20,850
+designs in the description of the video
+
+38
+00:01:20,850 --> 00:01:22,229
+I'll have a link to where you can
+
+39
+00:01:22,229 --> 00:01:23,790
+download a zip folder with these
+
+40
+00:01:23,790 --> 00:01:25,920
+templates in them once you open the
+
+41
+00:01:25,920 --> 00:01:27,540
+folder you'll see a list of templates
+
+42
+00:01:27,540 --> 00:01:29,900
+including brochures business cards
+
+43
+00:01:29,900 --> 00:01:32,100
+contact icons for business cards
+
+44
+00:01:32,100 --> 00:01:35,009
+Facebook banners Google Ads and so on
+
+45
+00:01:35,009 --> 00:01:36,810
+like I mentioned earlier all you have to
+
+46
+00:01:36,810 --> 00:01:38,549
+do is open one of these files with
+
+47
+00:01:38,549 --> 00:01:41,100
+Inkscape then go to file save template
+
+48
+00:01:41,100 --> 00:01:42,600
+and if you're using an earlier version
+
+49
+00:01:42,600 --> 00:01:44,399
+of Inkscape that doesn't yet have the
+
+50
+00:01:44,399 --> 00:01:46,350
+same template feature you can simply
+
+51
+00:01:46,350 --> 00:01:48,689
+navigate to see Program Files
+
+52
+00:01:48,689 --> 00:01:52,409
+Inkscape share templates and copy and
+
+53
+00:01:52,409 --> 00:01:53,700
+paste all of the files into that folder
+
+54
+00:01:53,700 --> 00:01:55,860
+and the next time you launch Inkscape
+
+55
+00:01:55,860 --> 00:01:57,600
+you will be able to create a new
+
+56
+00:01:57,600 --> 00:01:59,430
+document based on one of those templates
+
+57
+00:01:59,430 --> 00:02:01,860
+this method also works for Inkscape
+
+58
+00:02:01,860 --> 00:02:03,570
+version 1.0 if you don't feel like
+
+59
+00:02:03,570 --> 00:02:05,670
+opening each document one by one and
+
+60
+00:02:05,670 --> 00:02:07,350
+saving it although the pathway is
+
+61
+00:02:07,350 --> 00:02:08,940
+slightly different for this one navigate
+
+62
+00:02:08,940 --> 00:02:13,410
+to see Program Files share Inkscape
+
+63
+00:02:13,410 --> 00:02:15,270
+place I'll have this information posted
+
+64
+00:02:15,270 --> 00:02:17,100
+in the description as well one thing I'd
+
+65
+00:02:17,100 --> 00:02:18,540
+like to point out is that some of these
+
+66
+00:02:18,540 --> 00:02:20,550
+templates may be a little confusing when
+
+67
+00:02:20,550 --> 00:02:22,470
+you first open them take the brochure
+
+68
+00:02:22,470 --> 00:02:24,600
+template for example it has separate
+
+69
+00:02:24,600 --> 00:02:26,520
+layers with boundaries that represent
+
+70
+00:02:26,520 --> 00:02:28,920
+the bleed cutoff line another example
+
+71
+00:02:28,920 --> 00:02:30,570
+would be the business card templates as
+
+72
+00:02:30,570 --> 00:02:32,640
+you may already know business card sizes
+
+73
+00:02:32,640 --> 00:02:34,440
+differ by countries so I created a
+
+74
+00:02:34,440 --> 00:02:36,540
+master file with every size included if
+
+75
+00:02:36,540 --> 00:02:38,280
+you're unsure of how this works then I
+
+76
+00:02:38,280 --> 00:02:39,780
+would recommend checking out the PDF
+
+77
+00:02:39,780 --> 00:02:42,270
+document in the zip folder it has links
+
+78
+00:02:42,270 --> 00:02:43,740
+to some articles that I've written in
+
+79
+00:02:43,740 --> 00:02:45,090
+the past where I explained how some of
+
+80
+00:02:45,090 --> 00:02:47,010
+these templates work in more detail
+
+81
+00:02:47,010 --> 00:02:49,260
+other templates like the switch banner
+
+82
+00:02:49,260 --> 00:02:50,880
+for example are more self-explanatory
+
+83
+00:02:50,880 --> 00:02:52,980
+because it's just a document set to a
+
+84
+00:02:52,980 --> 00:02:55,290
+specific width and height the templates
+
+85
+00:02:55,290 --> 00:02:56,550
+are free to download and use however
+
+86
+00:02:56,550 --> 00:02:57,870
+you'd like without any need for
+
+87
+00:02:57,870 --> 00:02:59,790
+attribution I'm releasing them into the
+
+88
+00:02:59,790 --> 00:03:01,650
+public domain so use them however you
+
+89
+00:03:01,650 --> 00:03:03,480
+want you can even redistribute them if
+
+90
+00:03:03,480 --> 00:03:03,780
+you'd like
+
+91
+00:03:03,780 --> 00:03:05,760
+finally if you want to learn more about
+
+92
+00:03:05,760 --> 00:03:07,590
+how Inkscape perks be sure to check out
+
+93
+00:03:07,590 --> 00:03:09,600
+my Inkscape course it's a collection of
+
+94
+00:03:09,600 --> 00:03:11,520
+over 60 videos where I go over every
+
+95
+00:03:11,520 --> 00:03:13,260
+single tool and feature in Inkscape and
+
+96
+00:03:13,260 --> 00:03:15,240
+I explain what it is and demonstrate how
+
+97
+00:03:15,240 --> 00:03:16,650
+it works I'll have a link in the
+
+98
+00:03:16,650 --> 00:03:17,700
+description if you want to check that
+
+99
+00:03:17,700 --> 00:03:19,320
+out if you have any questions leave a
+
+100
+00:03:19,320 --> 00:03:21,000
+comment below and as always thanks for
+
+101
+00:03:21,000 --> 00:03:23,120
+watching
+
+102
+00:03:29,050 --> 00:03:31,110
+you
+

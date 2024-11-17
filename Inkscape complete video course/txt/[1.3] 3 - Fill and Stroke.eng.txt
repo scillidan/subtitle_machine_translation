@@ -1,0 +1,8 @@
+When I draw a shape, I can give it a fill and a stroke.
+To hide the fill, click on the red cross. And to hide the stroke, Shift-click on the red cross. I
+Shift-click on black again. The width of the stroke is 2 millimeter. When I hold my mouse
+above the value and scroll forward, I increase the stroke width. It is clear that the stroke is
+in front of the fill. I can place the stroke behind the fill. I click on the stroke width
+value. Behind Order, I click on the second icon. Here I have text with a stroke. When I increase
+the stroke, it will obfuscate the text. So I click on the second icon. The corners of the stroke are
+rounded. You can also choose Bevel or Miter, to get another look. And the text is still editable.

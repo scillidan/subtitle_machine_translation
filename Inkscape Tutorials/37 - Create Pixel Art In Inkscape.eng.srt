@@ -1,0 +1,1460 @@
+1
+00:00:00,240 --> 00:00:01,920
+in this tutorial we'll be going over how
+
+2
+00:00:01,920 --> 00:00:04,319
+you can trace pixel art from images
+
+3
+00:00:04,319 --> 00:00:06,799
+using inkscape now there is a built-in
+
+4
+00:00:06,799 --> 00:00:08,960
+feature for auto tracing your pixel art
+
+5
+00:00:08,960 --> 00:00:10,480
+but it doesn't always produce the
+
+6
+00:00:10,480 --> 00:00:12,960
+desired results in these instances it
+
+7
+00:00:12,960 --> 00:00:14,799
+would be good to know how to trace pixel
+
+8
+00:00:14,799 --> 00:00:16,800
+art manually which we'll be going over
+
+9
+00:00:16,800 --> 00:00:19,680
+in today's tutorial
+
+10
+00:00:21,220 --> 00:00:26,309
+[Music]
+
+11
+00:00:27,680 --> 00:00:29,359
+so getting us started here in inkscape
+
+12
+00:00:29,359 --> 00:00:30,560
+the first thing you'll want to do is
+
+13
+00:00:30,560 --> 00:00:32,079
+import the graphic that you'd like to
+
+14
+00:00:32,079 --> 00:00:34,320
+trace over into inkscape as you can see
+
+15
+00:00:34,320 --> 00:00:35,920
+that i've done here now for this
+
+16
+00:00:35,920 --> 00:00:37,520
+demonstration i will be using this
+
+17
+00:00:37,520 --> 00:00:39,680
+vector illustration of a fox that i
+
+18
+00:00:39,680 --> 00:00:42,399
+downloaded from 123rf.com
+
+19
+00:00:42,399 --> 00:00:44,320
+so once you have your graphic imported
+
+20
+00:00:44,320 --> 00:00:46,079
+let's turn on the grid let's come up
+
+21
+00:00:46,079 --> 00:00:47,920
+here to where it says view
+
+22
+00:00:47,920 --> 00:00:49,840
+and where it says page grid go ahead and
+
+23
+00:00:49,840 --> 00:00:51,440
+select that
+
+24
+00:00:51,440 --> 00:00:53,520
+now by default your grid should be one
+
+25
+00:00:53,520 --> 00:00:55,840
+pixel by one pixel in size but we can
+
+26
+00:00:55,840 --> 00:00:57,280
+ensure that by going to document
+
+27
+00:00:57,280 --> 00:00:59,039
+properties so let's come up here to file
+
+28
+00:00:59,039 --> 00:01:02,399
+and go to document properties
+
+29
+00:01:02,480 --> 00:01:05,040
+and then come over here to the
+
+30
+00:01:05,040 --> 00:01:06,960
+grids tab
+
+31
+00:01:06,960 --> 00:01:08,880
+and then down here where it says spacing
+
+32
+00:01:08,880 --> 00:01:11,520
+x and spacing y it should be one and one
+
+33
+00:01:11,520 --> 00:01:13,600
+by default if yours isn't one and one go
+
+34
+00:01:13,600 --> 00:01:15,680
+ahead and change that so that your grid
+
+35
+00:01:15,680 --> 00:01:18,880
+is spaced out one pixel by one pixel and
+
+36
+00:01:18,880 --> 00:01:20,400
+the end result of that if you zoom in
+
+37
+00:01:20,400 --> 00:01:21,759
+i'm going to hold ctrl and roll up my
+
+38
+00:01:21,759 --> 00:01:23,439
+mouse wheel if you zoom in you can see
+
+39
+00:01:23,439 --> 00:01:26,159
+all of the individual pixels represented
+
+40
+00:01:26,159 --> 00:01:27,600
+by these grid lines here we're going to
+
+41
+00:01:27,600 --> 00:01:29,280
+use these grid lines as a reference for
+
+42
+00:01:29,280 --> 00:01:31,360
+tracing over our image so let me zoom
+
+43
+00:01:31,360 --> 00:01:32,560
+back out here
+
+44
+00:01:32,560 --> 00:01:34,479
+what i want to do now is take my graphic
+
+45
+00:01:34,479 --> 00:01:36,240
+and scale it down really small i want to
+
+46
+00:01:36,240 --> 00:01:38,479
+scale it down so small that one pixel
+
+47
+00:01:38,479 --> 00:01:40,640
+squares that will will seem large in
+
+48
+00:01:40,640 --> 00:01:42,320
+comparison to it so i'm going to grab
+
+49
+00:01:42,320 --> 00:01:43,759
+the transformation handle here i'm going
+
+50
+00:01:43,759 --> 00:01:45,439
+to hold control on my keyboard to lock
+
+51
+00:01:45,439 --> 00:01:47,119
+the proportions and i'm going to scale
+
+52
+00:01:47,119 --> 00:01:49,439
+this down pretty small maybe down to
+
+53
+00:01:49,439 --> 00:01:50,880
+like um
+
+54
+00:01:50,880 --> 00:01:54,079
+i don't know 150 pixels wide and you
+
+55
+00:01:54,079 --> 00:01:55,680
+could see what the width is while you're
+
+56
+00:01:55,680 --> 00:01:58,159
+scaling by referencing the toolbar the
+
+57
+00:01:58,159 --> 00:01:59,680
+tool settings menu towards the top of
+
+58
+00:01:59,680 --> 00:02:01,759
+the screen so i'm going to set mine
+
+59
+00:02:01,759 --> 00:02:04,000
+right at about 150 and that that right
+
+60
+00:02:04,000 --> 00:02:05,840
+there looks good now let me zoom in on
+
+61
+00:02:05,840 --> 00:02:07,119
+this
+
+62
+00:02:07,119 --> 00:02:09,199
+as you can see these individual squares
+
+63
+00:02:09,199 --> 00:02:11,120
+here we're going to create boxes that
+
+64
+00:02:11,120 --> 00:02:12,640
+fill these squares
+
+65
+00:02:12,640 --> 00:02:14,480
+in the color of the graphic beneath it
+
+66
+00:02:14,480 --> 00:02:15,440
+and then it's going to create like a
+
+67
+00:02:15,440 --> 00:02:17,599
+pixel effect beneath it so let me just
+
+68
+00:02:17,599 --> 00:02:19,599
+reposition this a little bit i want this
+
+69
+00:02:19,599 --> 00:02:21,599
+i want the tip of the fox's nose here up
+
+70
+00:02:21,599 --> 00:02:25,360
+against this square grid line
+
+71
+00:02:25,360 --> 00:02:27,440
+there we go so now let's go ahead and
+
+72
+00:02:27,440 --> 00:02:30,160
+create our initial box what we want to
+
+73
+00:02:30,160 --> 00:02:32,239
+do first is enable snapping which is up
+
+74
+00:02:32,239 --> 00:02:34,080
+here this little magnet icon turn that
+
+75
+00:02:34,080 --> 00:02:36,720
+on and then from this drop down menu
+
+76
+00:02:36,720 --> 00:02:38,959
+where it says uh bounding boxes and
+
+77
+00:02:38,959 --> 00:02:41,040
+nodes we want those two enabled but we
+
+78
+00:02:41,040 --> 00:02:42,560
+don't want alignment enabled that's the
+
+79
+00:02:42,560 --> 00:02:44,400
+settings we want right now
+
+80
+00:02:44,400 --> 00:02:45,920
+so i'm going to grab my rectangle tool
+
+81
+00:02:45,920 --> 00:02:47,120
+and i'm just going to click and drag
+
+82
+00:02:47,120 --> 00:02:49,360
+like this to create a box it should snap
+
+83
+00:02:49,360 --> 00:02:51,680
+to the grid lines nice and evenly as you
+
+84
+00:02:51,680 --> 00:02:53,599
+saw here and once you've done that you
+
+85
+00:02:53,599 --> 00:02:56,319
+can disable the node setting in the uh
+
+86
+00:02:56,319 --> 00:02:58,239
+snapping options we're going to leave
+
+87
+00:02:58,239 --> 00:02:59,760
+we're going to leave bounding boxes
+
+88
+00:02:59,760 --> 00:03:01,200
+enabled but for the rest of this
+
+89
+00:03:01,200 --> 00:03:02,640
+tutorial we're going to leave these two
+
+90
+00:03:02,640 --> 00:03:05,040
+disabled and now i'm going to take this
+
+91
+00:03:05,040 --> 00:03:06,239
+i'm going to grab my dropper i'm going
+
+92
+00:03:06,239 --> 00:03:08,239
+to make this the same color as the fox's
+
+93
+00:03:08,239 --> 00:03:10,319
+nose like that and now i'll grab my
+
+94
+00:03:10,319 --> 00:03:11,680
+selection tool and i'll just snap that
+
+95
+00:03:11,680 --> 00:03:13,200
+in there like that
+
+96
+00:03:13,200 --> 00:03:14,800
+let me zoom in a little bit now to
+
+97
+00:03:14,800 --> 00:03:16,640
+duplicate that i'm going to press ctrl d
+
+98
+00:03:16,640 --> 00:03:17,760
+on the keyboard and i'm going to move
+
+99
+00:03:17,760 --> 00:03:19,519
+this copy over here
+
+100
+00:03:19,519 --> 00:03:21,040
+and if you want to stamp copies while
+
+101
+00:03:21,040 --> 00:03:22,640
+you're doing this you could just hold
+
+102
+00:03:22,640 --> 00:03:24,319
+the click and then press the space bar
+
+103
+00:03:24,319 --> 00:03:26,080
+and it'll stamp a copy like that and
+
+104
+00:03:26,080 --> 00:03:27,360
+i'll put another one down here for the
+
+105
+00:03:27,360 --> 00:03:28,879
+fox's nose like that and i'll just leave
+
+106
+00:03:28,879 --> 00:03:30,560
+that one there
+
+107
+00:03:30,560 --> 00:03:31,920
+okay so now i'm going to duplicate this
+
+108
+00:03:31,920 --> 00:03:33,360
+again i'm going to press ctrl d to
+
+109
+00:03:33,360 --> 00:03:35,200
+duplicate this i want to make this one
+
+110
+00:03:35,200 --> 00:03:37,440
+the same color as this shade right here
+
+111
+00:03:37,440 --> 00:03:39,680
+so i'm going to grab my dropper again
+
+112
+00:03:39,680 --> 00:03:41,360
+and go like that and there we go now we
+
+113
+00:03:41,360 --> 00:03:43,040
+have that box and i'm just going to
+
+114
+00:03:43,040 --> 00:03:44,720
+stamp that in there and try to follow
+
+115
+00:03:44,720 --> 00:03:47,519
+along the lines of the subject here
+
+116
+00:03:47,519 --> 00:03:49,120
+although it's not going to be exactly
+
+117
+00:03:49,120 --> 00:03:50,480
+precise
+
+118
+00:03:50,480 --> 00:03:52,239
+what you're going for is a close
+
+119
+00:03:52,239 --> 00:03:53,519
+representation it's not going to be
+
+120
+00:03:53,519 --> 00:03:56,159
+exact but if you just follow along um in
+
+121
+00:03:56,159 --> 00:03:58,560
+a rudimentary way it should look good
+
+122
+00:03:58,560 --> 00:04:00,799
+once you're finished and zoomed out
+
+123
+00:04:00,799 --> 00:04:02,879
+okay so let me put these over here
+
+124
+00:04:02,879 --> 00:04:05,040
+and again to stamp these copies i'm just
+
+125
+00:04:05,040 --> 00:04:06,720
+pressing the spacebar
+
+126
+00:04:06,720 --> 00:04:08,879
+on my keyboard to do that
+
+127
+00:04:08,879 --> 00:04:10,239
+now if you notice here it's hard to see
+
+128
+00:04:10,239 --> 00:04:11,599
+what's actually going on so what i would
+
+129
+00:04:11,599 --> 00:04:13,519
+recommend doing is clicking on the image
+
+130
+00:04:13,519 --> 00:04:15,760
+and reducing the opacity of it i'm going
+
+131
+00:04:15,760 --> 00:04:17,199
+to open up the fill and stroke menu
+
+132
+00:04:17,199 --> 00:04:19,918
+which is located over here
+
+133
+00:04:19,918 --> 00:04:21,358
+and over here where it says opacity i'm
+
+134
+00:04:21,358 --> 00:04:22,960
+going to bring that down
+
+135
+00:04:22,960 --> 00:04:24,720
+and i would even recommend making the
+
+136
+00:04:24,720 --> 00:04:26,720
+page darker than white so that you can
+
+137
+00:04:26,720 --> 00:04:28,080
+see the white boxes when we start
+
+138
+00:04:28,080 --> 00:04:29,520
+creating them so i'm going to come back
+
+139
+00:04:29,520 --> 00:04:32,160
+to the document properties tab and come
+
+140
+00:04:32,160 --> 00:04:34,479
+over here to the display tab and where
+
+141
+00:04:34,479 --> 00:04:35,919
+it says page i'm going to click on that
+
+142
+00:04:35,919 --> 00:04:37,360
+and i'm going to make that a darker
+
+143
+00:04:37,360 --> 00:04:38,400
+shade i'm going to make that maybe
+
+144
+00:04:38,400 --> 00:04:39,759
+something like gray so we can see a
+
+145
+00:04:39,759 --> 00:04:41,199
+little better
+
+146
+00:04:41,199 --> 00:04:44,400
+okay so let me zoom back in here
+
+147
+00:04:44,400 --> 00:04:47,520
+let me uh create some more boxes
+
+148
+00:04:47,520 --> 00:04:50,880
+to fill in my subject here
+
+149
+00:04:51,840 --> 00:04:53,919
+i'm going to create the ear right here
+
+150
+00:04:53,919 --> 00:04:55,680
+and use this color so let me bring the
+
+151
+00:04:55,680 --> 00:04:57,840
+opacity of this image back up so i can
+
+152
+00:04:57,840 --> 00:05:00,320
+sample a better so i can sample that
+
+153
+00:05:00,320 --> 00:05:02,639
+color properly properly back to the fill
+
+154
+00:05:02,639 --> 00:05:04,639
+and stroke menu with the image selected
+
+155
+00:05:04,639 --> 00:05:06,240
+bring the opacity all the way up there
+
+156
+00:05:06,240 --> 00:05:07,360
+we go
+
+157
+00:05:07,360 --> 00:05:08,880
+and let me create a duplicate of this
+
+158
+00:05:08,880 --> 00:05:10,400
+box right here to move the page around
+
+159
+00:05:10,400 --> 00:05:11,680
+i'm just pressing down the mouse wheel
+
+160
+00:05:11,680 --> 00:05:13,600
+and moving the mouse let me take this
+
+161
+00:05:13,600 --> 00:05:15,680
+one duplicate that by pressing ctrl d
+
+162
+00:05:15,680 --> 00:05:17,600
+and i'll make this a darker shade let me
+
+163
+00:05:17,600 --> 00:05:19,600
+grab my dropper tool right here
+
+164
+00:05:19,600 --> 00:05:21,680
+make that a darker shade like that and i
+
+165
+00:05:21,680 --> 00:05:23,680
+may even change these boxes right here
+
+166
+00:05:23,680 --> 00:05:25,360
+to be the same color
+
+167
+00:05:25,360 --> 00:05:27,680
+just for consistency
+
+168
+00:05:27,680 --> 00:05:29,520
+okay that's a nice contrasting shade
+
+169
+00:05:29,520 --> 00:05:30,720
+compared to the other orange so i'm
+
+170
+00:05:30,720 --> 00:05:32,560
+going to leave that as it is
+
+171
+00:05:32,560 --> 00:05:34,479
+let me make copies in here again just
+
+172
+00:05:34,479 --> 00:05:39,000
+pressing the space bar to stamp copies
+
+173
+00:05:39,600 --> 00:05:42,160
+there we go
+
+174
+00:05:42,320 --> 00:05:44,960
+i'll put some copies up here
+
+175
+00:05:44,960 --> 00:05:48,000
+for this part of the ear
+
+176
+00:05:50,560 --> 00:05:53,840
+there we go
+
+177
+00:05:54,320 --> 00:05:56,080
+now i'm not what i'm doing right here is
+
+178
+00:05:56,080 --> 00:05:58,320
+i'm not filling in the entire subject
+
+179
+00:05:58,320 --> 00:06:00,080
+i'm just creating like an outline around
+
+180
+00:06:00,080 --> 00:06:02,560
+the main areas let me turn the opacity
+
+181
+00:06:02,560 --> 00:06:04,240
+of that image back down so i can see a
+
+182
+00:06:04,240 --> 00:06:06,560
+little better there we go we want to try
+
+183
+00:06:06,560 --> 00:06:09,120
+not to make duplicate copies of squares
+
+184
+00:06:09,120 --> 00:06:12,800
+in those grid lines if possible
+
+185
+00:06:12,800 --> 00:06:14,560
+there we go
+
+186
+00:06:14,560 --> 00:06:16,160
+let me just make an outline here going
+
+187
+00:06:16,160 --> 00:06:20,120
+around the outline of the shading
+
+188
+00:06:22,319 --> 00:06:25,120
+okay looking good
+
+189
+00:06:28,479 --> 00:06:31,440
+do this one as well
+
+190
+00:06:32,639 --> 00:06:34,960
+and don't worry about it being exactly
+
+191
+00:06:34,960 --> 00:06:36,800
+flush with the uh boundaries of the
+
+192
+00:06:36,800 --> 00:06:38,880
+subject it's not gonna be perfect but
+
+193
+00:06:38,880 --> 00:06:39,919
+that's okay it doesn't have to be
+
+194
+00:06:39,919 --> 00:06:41,280
+perfect so let me fill this in a little
+
+195
+00:06:41,280 --> 00:06:43,520
+more
+
+196
+00:06:44,240 --> 00:06:45,680
+okay now i'm gonna fill in the ear up
+
+197
+00:06:45,680 --> 00:06:47,759
+here using these colors again ctrl d to
+
+198
+00:06:47,759 --> 00:06:49,520
+duplicate and then just click and drag
+
+199
+00:06:49,520 --> 00:06:51,440
+and press down the space bar to stamp
+
+200
+00:06:51,440 --> 00:06:55,680
+copies of it as you see me doing here
+
+201
+00:06:57,440 --> 00:06:58,800
+okay so now i'm going to start filling
+
+202
+00:06:58,800 --> 00:07:00,639
+in the white area here and this is where
+
+203
+00:07:00,639 --> 00:07:02,160
+you'll see why it is that i change the
+
+204
+00:07:02,160 --> 00:07:05,039
+page border or the page color rather
+
+205
+00:07:05,039 --> 00:07:06,319
+because it makes it easier to see the
+
+206
+00:07:06,319 --> 00:07:08,080
+white i'm going to make that box white
+
+207
+00:07:08,080 --> 00:07:09,759
+and now you can see it much easier up
+
+208
+00:07:09,759 --> 00:07:11,280
+against that backdrop there you can see
+
+209
+00:07:11,280 --> 00:07:14,319
+exactly where the white boxes or pixels
+
+210
+00:07:14,319 --> 00:07:16,160
+as they're supposed to be are being
+
+211
+00:07:16,160 --> 00:07:18,639
+placed
+
+212
+00:07:20,639 --> 00:07:22,240
+and a little shortcut for filling in
+
+213
+00:07:22,240 --> 00:07:23,759
+these large areas you don't have to
+
+214
+00:07:23,759 --> 00:07:25,520
+create individual boxes for each of
+
+215
+00:07:25,520 --> 00:07:26,720
+these areas you can just take one of
+
+216
+00:07:26,720 --> 00:07:28,080
+these transformation handles and bring
+
+217
+00:07:28,080 --> 00:07:29,919
+it down like that and as you can see it
+
+218
+00:07:29,919 --> 00:07:31,520
+just fills in the whole area nice and
+
+219
+00:07:31,520 --> 00:07:33,680
+easily without having to create too many
+
+220
+00:07:33,680 --> 00:07:34,960
+other copies in fact you could take
+
+221
+00:07:34,960 --> 00:07:36,960
+these existing copies right there and
+
+222
+00:07:36,960 --> 00:07:38,960
+just fill them in like that as you can
+
+223
+00:07:38,960 --> 00:07:41,280
+see there okay so if i if i zoom out a
+
+224
+00:07:41,280 --> 00:07:42,479
+little bit you can see this thing is
+
+225
+00:07:42,479 --> 00:07:43,919
+starting to come together you could
+
+226
+00:07:43,919 --> 00:07:45,280
+actually take the original image and
+
+227
+00:07:45,280 --> 00:07:46,560
+press delete to get rid of it just to
+
+228
+00:07:46,560 --> 00:07:48,319
+give you a temporary look at how it's
+
+229
+00:07:48,319 --> 00:07:50,160
+coming along now if you want to get your
+
+230
+00:07:50,160 --> 00:07:52,560
+image back just just do an undo which is
+
+231
+00:07:52,560 --> 00:07:54,000
+ctrl z
+
+232
+00:07:54,000 --> 00:07:56,000
+ctrl z on the keyboard undoes your last
+
+233
+00:07:56,000 --> 00:07:57,919
+action so it puts it back there and now
+
+234
+00:07:57,919 --> 00:08:00,160
+i'm just gonna go and fill in this part
+
+235
+00:08:00,160 --> 00:08:01,919
+of the shading of the subject here using
+
+236
+00:08:01,919 --> 00:08:04,720
+these darker
+
+237
+00:08:10,840 --> 00:08:13,360
+boxes okay so now that that's filled in
+
+238
+00:08:13,360 --> 00:08:15,680
+i'm going to fill in this area over here
+
+239
+00:08:15,680 --> 00:08:19,440
+this part of the darker shading as well
+
+240
+00:08:25,599 --> 00:08:27,440
+okay so as you can see here it's
+
+241
+00:08:27,440 --> 00:08:28,960
+starting to come along nicely if i
+
+242
+00:08:28,960 --> 00:08:30,240
+delete this you can see it's starting to
+
+243
+00:08:30,240 --> 00:08:32,240
+come together a little bit still got a a
+
+244
+00:08:32,240 --> 00:08:34,159
+ways to go here i think what i'll do
+
+245
+00:08:34,159 --> 00:08:36,159
+next is i'll fill in this lighter area i
+
+246
+00:08:36,159 --> 00:08:37,760
+guess this reflection of light on the
+
+247
+00:08:37,760 --> 00:08:41,640
+fox's back right here
+
+248
+00:08:46,160 --> 00:08:48,640
+okay so next up i will fill in the tail
+
+249
+00:08:48,640 --> 00:08:50,399
+here these three different areas of the
+
+250
+00:08:50,399 --> 00:08:52,880
+tail and then i will fill in the larger
+
+251
+00:08:52,880 --> 00:08:54,480
+part of the body and then we will be
+
+252
+00:08:54,480 --> 00:08:56,470
+finished
+
+253
+00:08:56,470 --> 00:08:59,669
+[Music]
+
+254
+00:09:03,360 --> 00:09:05,040
+okay so i'm pretty much finished here i
+
+255
+00:09:05,040 --> 00:09:07,040
+just have to fill in this large area
+
+256
+00:09:07,040 --> 00:09:09,120
+right here which i could fill in by
+
+257
+00:09:09,120 --> 00:09:10,800
+creating individual boxes but it would
+
+258
+00:09:10,800 --> 00:09:12,399
+be pretty tedious so what i'm going to
+
+259
+00:09:12,399 --> 00:09:13,440
+do is i'm going to take a little bit of
+
+260
+00:09:13,440 --> 00:09:15,120
+a shortcut here and use the bezier pen
+
+261
+00:09:15,120 --> 00:09:17,360
+to just manually draw a shape and fill
+
+262
+00:09:17,360 --> 00:09:18,560
+it in with the color that would
+
+263
+00:09:18,560 --> 00:09:20,800
+otherwise be filled here so let me turn
+
+264
+00:09:20,800 --> 00:09:22,720
+off my snapping to do that i'm going to
+
+265
+00:09:22,720 --> 00:09:24,320
+grab the bezier pen and this is a trick
+
+266
+00:09:24,320 --> 00:09:25,600
+you may want to employ yourself
+
+267
+00:09:25,600 --> 00:09:26,800
+depending on the image you're working
+
+268
+00:09:26,800 --> 00:09:29,519
+with if it has large areas of a single
+
+269
+00:09:29,519 --> 00:09:30,880
+color like this
+
+270
+00:09:30,880 --> 00:09:32,080
+you may want to do something like this
+
+271
+00:09:32,080 --> 00:09:33,680
+yourself so let me grab the bezier pen
+
+272
+00:09:33,680 --> 00:09:36,399
+over here keyboard shortcut is b let me
+
+273
+00:09:36,399 --> 00:09:37,680
+zoom in on this
+
+274
+00:09:37,680 --> 00:09:39,760
+and i'm just going to draw a shape going
+
+275
+00:09:39,760 --> 00:09:41,839
+through the edges here that i'm going to
+
+276
+00:09:41,839 --> 00:09:44,959
+use to fill in the rest of this object
+
+277
+00:09:44,959 --> 00:09:46,959
+and then we will be finished
+
+278
+00:09:46,959 --> 00:09:48,560
+so let me just uh
+
+279
+00:09:48,560 --> 00:09:51,839
+come around the edges here like this
+
+280
+00:09:52,240 --> 00:09:54,080
+there we go
+
+281
+00:09:54,080 --> 00:09:55,920
+back to the starting point
+
+282
+00:09:55,920 --> 00:09:58,560
+and i will make this the same color
+
+283
+00:09:58,560 --> 00:10:00,480
+as the object that i'd like to the boxes
+
+284
+00:10:00,480 --> 00:10:02,000
+i would have filled in there otherwise
+
+285
+00:10:02,000 --> 00:10:03,360
+and i can get rid of that outline by
+
+286
+00:10:03,360 --> 00:10:04,480
+holding shift
+
+287
+00:10:04,480 --> 00:10:06,160
+and clicking on this little x down here
+
+288
+00:10:06,160 --> 00:10:07,839
+now i'm going to take this grab this
+
+289
+00:10:07,839 --> 00:10:09,760
+selection tool i'm going to send that to
+
+290
+00:10:09,760 --> 00:10:11,279
+the bottom using this button right here
+
+291
+00:10:11,279 --> 00:10:13,040
+lower selection to the bottom
+
+292
+00:10:13,040 --> 00:10:14,640
+and then i'm going to raise it one step
+
+293
+00:10:14,640 --> 00:10:16,160
+by uh clicking this button next to it
+
+294
+00:10:16,160 --> 00:10:17,120
+that says
+
+295
+00:10:17,120 --> 00:10:18,800
+or two buttons over to the left that
+
+296
+00:10:18,800 --> 00:10:21,200
+says raise selection one step and now it
+
+297
+00:10:21,200 --> 00:10:22,880
+should be over the original image now
+
+298
+00:10:22,880 --> 00:10:25,279
+let me zoom out a little bit
+
+299
+00:10:25,279 --> 00:10:26,720
+let me take the original image and move
+
+300
+00:10:26,720 --> 00:10:28,079
+it out of the way
+
+301
+00:10:28,079 --> 00:10:29,600
+as you can see here we're pretty much
+
+302
+00:10:29,600 --> 00:10:33,120
+finished we have our vector
+
+303
+00:10:33,120 --> 00:10:34,560
+pixel art that we created from the
+
+304
+00:10:34,560 --> 00:10:36,000
+vector fox here
+
+305
+00:10:36,000 --> 00:10:37,839
+now if i zoom out one more thing i
+
+306
+00:10:37,839 --> 00:10:39,519
+wanted to point out let's turn off the
+
+307
+00:10:39,519 --> 00:10:40,720
+page grid i'm going to come up here to
+
+308
+00:10:40,720 --> 00:10:42,560
+where it says view
+
+309
+00:10:42,560 --> 00:10:43,839
+where it says page grid i'm going to
+
+310
+00:10:43,839 --> 00:10:45,360
+deselect that
+
+311
+00:10:45,360 --> 00:10:46,959
+now if you notice
+
+312
+00:10:46,959 --> 00:10:49,600
+there's space showing through
+
+313
+00:10:49,600 --> 00:10:51,279
+these boxes in here
+
+314
+00:10:51,279 --> 00:10:53,440
+because of the way vector graphics work
+
+315
+00:10:53,440 --> 00:10:55,040
+in general this isn't just an
+
+316
+00:10:55,040 --> 00:10:56,560
+inkscape problem this happens in every
+
+317
+00:10:56,560 --> 00:10:57,920
+vector application you're going to
+
+318
+00:10:57,920 --> 00:10:59,440
+notice these little these little gaps
+
+319
+00:10:59,440 --> 00:11:01,120
+between the boxes here maybe it's not so
+
+320
+00:11:01,120 --> 00:11:03,040
+apparent on my screen if i were to make
+
+321
+00:11:03,040 --> 00:11:04,720
+this page background a little darker
+
+322
+00:11:04,720 --> 00:11:06,640
+you'd probably see it you can see more
+
+323
+00:11:06,640 --> 00:11:07,600
+of those
+
+324
+00:11:07,600 --> 00:11:09,360
+um lines showing through between the
+
+325
+00:11:09,360 --> 00:11:11,360
+boxes the way that we remedy this is
+
+326
+00:11:11,360 --> 00:11:12,880
+just by selecting everything and
+
+327
+00:11:12,880 --> 00:11:14,640
+duplicating it so let me select
+
+328
+00:11:14,640 --> 00:11:15,839
+everything here
+
+329
+00:11:15,839 --> 00:11:17,680
+i actually want to select everything
+
+330
+00:11:17,680 --> 00:11:19,920
+except for this large image in here or
+
+331
+00:11:19,920 --> 00:11:21,360
+this large object that i drew with the
+
+332
+00:11:21,360 --> 00:11:23,760
+bezier pen so to deselect just that part
+
+333
+00:11:23,760 --> 00:11:25,120
+i'm going to hold shift and click on
+
+334
+00:11:25,120 --> 00:11:27,200
+that to deselect it and now i should
+
+335
+00:11:27,200 --> 00:11:29,360
+just have the boxes selected and with
+
+336
+00:11:29,360 --> 00:11:31,360
+the boxes selected you can duplicate
+
+337
+00:11:31,360 --> 00:11:34,320
+them by pressing ctrl d on the keyboard
+
+338
+00:11:34,320 --> 00:11:35,920
+and there you go if you zoom out those
+
+339
+00:11:35,920 --> 00:11:38,240
+uh gaps should be gone if they're not
+
+340
+00:11:38,240 --> 00:11:39,760
+you could just duplicate it one more
+
+341
+00:11:39,760 --> 00:11:42,399
+time and that should do the trick
+
+342
+00:11:42,399 --> 00:11:45,040
+and there you go that is how
+
+343
+00:11:45,040 --> 00:11:47,040
+you can fix that problem
+
+344
+00:11:47,040 --> 00:11:48,320
+and i think that should do it for this
+
+345
+00:11:48,320 --> 00:11:49,839
+tutorial that is how you can go about
+
+346
+00:11:49,839 --> 00:11:53,279
+creating uh simple pixel art tracings
+
+347
+00:11:53,279 --> 00:11:56,000
+over vector graphics using inkscape if
+
+348
+00:11:56,000 --> 00:11:57,519
+you found this lesson useful then
+
+349
+00:11:57,519 --> 00:11:59,600
+consider checking out my inkscape master
+
+350
+00:11:59,600 --> 00:12:01,839
+class it's a collection of over 60
+
+351
+00:12:01,839 --> 00:12:03,519
+videos where i go over all of the tools
+
+352
+00:12:03,519 --> 00:12:05,519
+and features in inkscape and i explain
+
+353
+00:12:05,519 --> 00:12:07,120
+what they are and demonstrate how they
+
+354
+00:12:07,120 --> 00:12:08,800
+work kind of like how i did in this
+
+355
+00:12:08,800 --> 00:12:11,120
+video we even have a private community
+
+356
+00:12:11,120 --> 00:12:12,959
+where you can ask questions and get help
+
+357
+00:12:12,959 --> 00:12:15,600
+from me anytime you want and best of all
+
+358
+00:12:15,600 --> 00:12:17,360
+there's no monthly membership fees you
+
+359
+00:12:17,360 --> 00:12:18,959
+just pay 17
+
+360
+00:12:18,959 --> 00:12:21,200
+one time and you're in for life i'll
+
+361
+00:12:21,200 --> 00:12:22,560
+have some information about that down
+
+362
+00:12:22,560 --> 00:12:24,160
+below if you want to check that out as
+
+363
+00:12:24,160 --> 00:12:28,040
+always thanks for watching
+
+364
+00:12:32,680 --> 00:12:40,760
+[Music]
+
+365
+00:12:45,440 --> 00:12:47,519
+you
+

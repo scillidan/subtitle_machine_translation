@@ -1,0 +1,337 @@
+
+
+
+this  is  nick  with  logosbynick.com  and  in
+
+this  tutorial  ill  be  demonstrating  how
+
+you  can  take  a  vector  object  and  apply
+
+this  very  quick  and  simple  sketch  effect
+
+to  it  using  the  hatches  path  effect  in
+
+inkscape
+
+so  to  get  us  started  here  im  going  to
+
+apply  this  effect  to  a  really  simple
+
+shape  first  so  let  me  get  this  out  of
+
+the  way  im  going  to  grab  the  circles
+
+and  ellipses  tool  and  im  going  to  click
+
+and  drag  on  the  canvas  to  create  a
+
+circle  like  that  ill  hold  ctrl  to  make
+
+this  perfectly  round
+
+so  im  going  to  apply  the  sketch  effect
+
+to  this  shape  and  then  well  go  ahead
+
+and  apply  it  to  some  text
+
+so  the  first  thing  we  want  to  do  is  open
+
+up  the  path  effects  menu  so  im  going  to
+
+come  up  here  to  where  it  says  path  and
+
+im  going to  click  on  path  effects
+
+and  youre  going  to  get  this  little  menu
+
+over  here  in  the  right  hand  side  of  the
+
+screen  and  what  were  looking  for  down
+
+here  is  where  this  little  plus  icon  is
+
+you  click  on  that  to  add  a  new  path
+
+effect  and  youre  going  to  see  you  have
+
+this  whole  list  of  different  path
+
+effects  to  choose  from  the  one  that  we
+
+are  looking  for  is  right  here  its
+
+called  hatches  if  youre  having
+
+difficulty  locating  it  you  can  come  up
+
+here  to  the  search  bar  and  just  type  in
+
+hatches  and  there  you  go  there  it  is
+
+okay  so  once  we  apply  that  as  you  can
+
+see  it  took  the  object  and  filled  it
+
+with  these  lines  otherwise  known  as
+
+hatches  and  what  you  can  do  now  is  grab
+
+the  edit  paths  by  nodes  tool  and  if  you
+
+notice  let  me  zoom  in  on  this  a  little
+
+bit
+
+if  you  notice  we  have  these  green  nodes
+
+right  here  we  have  this  one  green  node
+
+and  then  we  have  this  green  node  and
+
+then  down  here  we  have  this  yellow  node
+
+and  then  we  have  this  yellow  node  so  let
+
+me  show  you  how  this  works  this  first
+
+green  node  right  here  if  you  click  and
+
+drag  it  it  allows  you  to  change  the
+
+position  of  the  hatches  on  the  object
+
+this  green  node  over  here  allows  you  to
+
+change  the  density  and  the  direction  of
+
+the  hatches  so  if  i  bring  the  green  node
+
+closer  to  the  other  green  node  it  makes
+
+the  hatches  more  dense  like  that  so  it
+
+fills  in  more  of  the  shape  and  then  if
+
+you  rotate  it  around  like  that  you  can
+
+change  the  direction  of  it
+
+so  let  me  place  this  right  about  here
+
+over  here  we  have  um
+
+this  these  yellow  handles  right  here
+
+represent  the  bend  so  you  what  you  can
+
+do  is  take  this  one  handle  and  give  this
+
+object  a  bend  like  that  by  clicking  and
+
+dragging  it  out  like  that  and  this  other
+
+yellow  handle  represents  the  start  point
+
+of  that  bend  so  if  you  were  to  take  this
+
+over  here  notice  the  two  handles  are
+
+moving  together  if  i  put  this  one  over
+
+here  this  will  be  the  start  point  and
+
+then  over  here  this  will  be  the  end
+
+point  and  i  can  move  this  all  the way
+
+out  like  that  and  you  can  as  you  can  see
+
+we  are  creating  quite  an  intense  bend
+
+there  so  let  me  put  that  back  towards
+
+the  original  one  because  i  dont  want
+
+this  to  have  much  of  a  bend  at  all  ill
+
+put  this  back  in  the  center  of  the
+
+object  and  let  me  zoom  out  a  little  bit
+
+im  going  to  grab  the  select  tool  now
+
+lets  say  we  want  to  make  these  hatches
+
+thicker  or  larger  what  you  can  do  is
+
+just  scale  down  the  object  using  the
+
+select  tool  im  going  to  hold  ctrl  so
+
+that  it  scales  proportionately  scale  it
+
+down  like  that  and  as  you  can  see  it
+
+makes  the  hatches  bigger  if  you  scale  it
+
+down  if  you  scale  it  up  it  makes  them
+
+thinner  so  let  me  scale  this  down  a
+
+little  bit  so  i  get  a  nice  a  nice  size
+
+hatch  that  i  like  right  there  that  looks
+
+pretty  good  and  after  you  do  that  you
+
+may  want  to  edit  the  um  you  may  want  to
+
+go  back  to  the  nodes  tool  and  edit  the
+
+the  density  of  those  hatches  as  you  can
+
+see  here  make  them  a little  closer
+
+together  like  that
+
+and  once  youre  finished  applying  this
+
+effect  you  can  finalize  it  by  going  to
+
+path
+
+object  to  path
+
+and  now  that  is  a  vector  path  and  no
+
+longer  a  path  effect
+
+okay  so  that  is  how  you  can  create  that
+
+simple  sketch  effect  for  like  a  regular
+
+object  let  me  show  you  how  to  do  this
+
+with  text  now
+
+im  going  to  grab  the  text  tool
+
+right  over  here  click  on  the  canvas  and
+
+im  going  to  write
+
+sketch
+
+and  im  going  to  change  the  font  of  that
+
+im  going to  go  to  text  text  and  font
+
+and  im  looking  for
+
+im  going  to  use  a  heavy  font  for  this
+
+im  going  to  use  chunk  5.  you  can  use
+
+whatever  font  youd  like  but  id
+
+recommend  using  a  really  bold
+
+heavyweight  font  click  apply
+
+let  me  grab  the  select  tool  and  scale
+
+this  up
+
+hold  ctrl  so  it  locks  the  proportions
+
+like  that
+
+now  the  thing  with  these  path  effects
+
+with  this  sketch  or  this  this  uh  hatchs
+
+path  effect  it  only  works  on  pads  it
+
+wont  work  on  objects  that  arent  pads
+
+this  right  here  is  a  text  object  so  that
+
+the  hatchs  path  effect  wont  work  on
+
+this  unless  we  convert  it  to  a  path
+
+so  in  order  to  change  this  from  a  text
+
+object  to  a  path  we  just  select  it  and
+
+go  to  path
+
+object  to  path
+
+and  now  i  can  come  back  up  here  to  my
+
+path  effects  menu  add  that  path  effect
+
+again  there  it  is  hatches
+
+and  if  you  notice  here  theres  not  much
+
+visibility  there  because  theres  not
+
+much  density  between  those  hatches  so
+
+let  me  zoom  in
+
+let  me  grab  the  edit  pads  by  nodes  tool
+
+and  im  going  to  take  this  green  handle
+
+and  bring  it  towards  the  original  like
+
+that  and  as  you  can  see  we  are  getting
+
+the  sketch  effect  as  we  intended
+
+there  we  go  that  looks  pretty  good  right
+
+there  now  im  going to  zoom  out
+
+and  to  finalize  this  i  will  go  back  to
+
+the  select  tool  ill  go  to  path
+
+object  to  path  and  there  you  go  now  we
+
+have  our  simple  sketch  effect  that  we
+
+have  created  using  inkscape
+
+if  you  found  this  lesson  useful  be  sure
+
+to  check  out  my  inkscape  master  class
+
+its  a  collection  of  over  60  videos
+
+where  i  go  over  all  of  the  tools  and
+
+features  in  inkscape  just  like  i  did  in
+
+this  video  and  i  explain  what  they  are
+
+and  demonstrate  how  they  work  we  even
+
+have  a  private  community  where  you  can
+
+answer  ask  questions  and  get  help  from
+
+me  anytime  you  want  ill  have  a  link  in
+
+the  description  of  the  video  if  you  want
+
+to  check  that  out  as  always  thanks  for
+
+watching
+
+
+

@@ -1,0 +1,879 @@
+
+
+
+this  is  nick  with  logos  by  nick.com  and
+
+in  this  tutorial  ill  be  demonstrating
+
+how  you  can  create  this
+
+shiny  gold  text  using  inkscape  but
+
+before  we  get  started  if  youd  like  to
+
+learn  everything  that  there  is  to  know
+
+about  inkscape
+
+be  sure  to  check  out  my  inkscape  master
+
+class  its  a  collection  of  over  60
+
+videos
+
+where  i  go  over  every  tool  and  feature
+
+in  inkscape  and  i  explain  what  it  is  and
+
+demonstrate  how  it  works
+
+ill  have  a  link  in  the  description  of
+
+the  video  if  you  want  to  check  that  out
+
+so  to  get  us  started  here  in  inkscape
+
+lets  first  set  up  the  document  so  that
+
+we  all  have  a  similar  workflow
+
+come  up  here  to  where  it  says  view  make
+
+sure  you  have  custom  selected
+
+and  then  come  up  to  zoom  and  zoom  in  at
+
+one  to  one
+
+like  that  and  then  we  want  to  make  sure
+
+that  we  have  snapping  disabled  for  this
+
+tutorial  so  up  here  at  the  very  far  top
+
+left  where  it  says  enable  snapping
+
+go  ahead  and  disable  that  and  that  will
+
+be  good  to  get  started  so
+
+the  first  step  is  to  create  some  text  so
+
+im  going  to  grab  the  text  tool  right
+
+here
+
+im  going  to  click  on  the  canvas  to  get
+
+the  blinking  cursor  and  for  this
+
+tutorial  i  will  be  using  the  word
+
+gold  text  and  im  going  to  triple  click
+
+that  to  highlight  all  of  it
+
+and  change  the  font  so  lets  open  up  the
+
+text  editor  up  here  and  the  font  im
+
+going  to  be  using  for  this  tutorial  is
+
+called
+
+irs  or  ayers  however  its  pronounced  i
+
+would  recommend  using  this  font  if  youd
+
+like  to  make  this
+
+effect  work  because  for  whatever  reason
+
+it  just  works  really  well  with  this  font
+
+ive  tried  it  with  other  fonts  that
+
+didnt  quite
+
+look  right  but  with  this  font  it  really
+
+pops  so  ill  put  a  link  in  the
+
+description  to  where  you  can  download
+
+this  font  for  free
+
+if  you  want  to  give  that  a  try  so  go
+
+ahead  and  click  apply  now
+
+and  now  im  going  to  make  this  bigger  so
+
+let  me  grab  the  select  tool
+
+and  im  going  to  grab  this  arrow  and
+
+just  scale  this  up  im  going  to  hold
+
+ctrl  so  it  locks  the  proportions  like
+
+that
+
+and  now  what  im  going  to  do  is  color
+
+this  in  in  order  to  make  this  look  like
+
+gold  im  going  to  have  to  apply  a
+
+gradient
+
+and  the  colors  that  i  use  in  the
+
+gradient  are  very  important  in  fact
+
+theyre  so  important  that  ive  written
+
+down  the  color  codes  for  each  individual
+
+shade  of  the  gradient
+
+and  i  will  post  them  in  the  description
+
+box  of  the  video  so  that  you  can  follow
+
+along  with  what  im  doing  exactly  you
+
+can  go  ahead  and
+
+copy  and  paste  them  yourself  so  lets
+
+apply  a  gradient  here  im  going  to  grab
+
+the  uh
+
+the  edit  objects  colors  gradients  and
+
+stroke  menu  right  here  the  fill  and
+
+stroke  menu
+
+you  can  click  that  button  or  press  ctrl
+
+shift  and  f  to  open  that  up
+
+and  im  going  to  come  over  here  under
+
+the  fill  tab
+
+im  going  to  look  for  where  it  says
+
+linear  gradient  right  there  and  click  on
+
+that
+
+and  then  im  going  to  grab  the  gradient
+
+tool  and  im  going  to  click  on  this
+
+little  round  stop  right  here
+
+and  im  going to  bring  the  opacity  of
+
+that  up  so  that  right  now  its  a
+
+gradient  going  from  black
+
+to  black  so  i  will  take  this  node  right
+
+here  and  put  this  at  the  bottom  of  the
+
+gradient
+
+or  the  bottom  of  the  text  and  i  will
+
+take  this  node  and  put  this  at  the  top
+
+of  the  text  and  i  will  hold  ctrl  so  that
+
+its  going  up
+
+vertically  just  like  that  okay  so  right
+
+now  we  have  two  different  stops  in  this
+
+gradient
+
+this  gold  color  is  going  to  have  five
+
+stops  in  it  so  i  have  to  add
+
+three  stops  to  this  gradient  so  to  do
+
+that  im  just  going  to  double  click  on
+
+the  line  right  here  to  add  a  new  stop  in
+
+there
+
+ill  double  click  again  to  add  another
+
+one  and  then  one  more
+
+and  now  what  i  have  to  do  is  select  each
+
+of  these  stops  and
+
+paste  the  color  codes  into  them  so  ill
+
+start  at  the  top  right  here
+
+working  from  top  to  bottom  im  gonna  i
+
+have  a  notepad  opened  on  my  other
+
+monitor  with  these  color  codes  written
+
+out  that  i  could  just  paste  in  there
+
+like  i  said  i  will  have  these  in  the
+
+description  box  of  the  video  so  you  can
+
+do  the  same  you  can  just  go  ahead  and
+
+copy  and  paste  them  right  in
+
+so  im  going  to  select  each  stop  and
+
+just  paste  them  into  the  rgba  box  here
+
+like  that
+
+as  you  see  me  doing  take  this  one  as
+
+well
+
+paste  that  in  there
+
+this  one  here  paste  that  in  here
+
+and  then  finally  one  more  to  go  im  just
+
+ctrl  c  to  copy
+
+ctrl  v  to  paste  just  like  that
+
+and  now  i  want  to  adjust  the  positions
+
+of  these  colors  on  the  gradient  i  want
+
+to  take  this  top  one  and  move  this  a
+
+little  closer  to  the  top  like  that
+
+and  i  want  to  take  this  one  right  here
+
+this  middle  one  which  is  like  the  dark
+
+the  darker  shade  and  bring  that  towards
+
+the  top  third  or  the  bottom  of  the  top
+
+third  of  the  text  right  there  right
+
+about  there  looks  pretty  good
+
+and  then  take  this  one  right  here  and
+
+bring  this  up  closer  towards  that  darker
+
+one  like  that
+
+and  that  right  there  is  the  look  were
+
+going  for  this  is  starting  uh  starting
+
+to  come  together  its  starting  to  look
+
+like  gold  text
+
+only  now  were  going  to  add  a  little  bit
+
+of  depth  to  it  so  lets  grab  the  select
+
+tool
+
+and  lets  create  a  duplicate  copy  of
+
+this  text  lets  right  click  this  and  go
+
+to  duplicate
+
+and  lets  give  this  a  outline  otherwise
+
+known  as  a  stroke  im  going  to  im  just
+
+going  to  use  the  color  red  for  now  im
+
+going  to  hold
+
+shift  and  click  on  the  color  red  to  give
+
+that  an  outline  like  that
+
+and  then  im  going  to  send  that  to  the
+
+back  im  going  to  come  up  here  to  this
+
+button  that  says
+
+lower  selection  to  the  bottom  click  on
+
+that  so  that  it  goes  behind  the  original
+
+text
+
+and  ill  come  over  here  to  the  stroke
+
+style  tab  and  i  want  to  increase  the
+
+size  of  this  stroke
+
+maybe  not  that  much  let  me  change  this
+
+to  pixels  lets  try  something  like
+
+six  or  maybe  five
+
+maybe  not  that  much  i  want  i  dont  want
+
+this  to  be  too  thick  maybe  its  four  and
+
+a  half  that  should  be  pretty  good
+
+okay  that  looks  good  enough  right  there
+
+somewhere  there  about  it  doesnt  have  to
+
+be  exactly  the  same  size  as  mine  so  just
+
+go  ahead  and  eyeball  it
+
+and  now  i  want  to  give  that  red  outline
+
+the  same  gradient
+
+that  the  gold  text  has  only  in  reverse
+
+so  lets  come  over  here  to  the  stroke
+
+paint  tab
+
+and  click  on  linear  gradient  and  were
+
+going  to  choose  our  gradient  from  our
+
+list  over  here
+
+and  now  lets  grab  the  gradient  tool  so
+
+we  can  adjust  the  position  of  that
+
+gradient
+
+so  right  here  on  the  vertical  axis  you
+
+can  see  our  original  gradient
+
+over  here  on  the  horizontal  axis  thats
+
+the  current  gradient  for  the  stroke
+
+so  what  i  want  to  do  is  do  the  same
+
+thing  with  the  original  gradient  only  in
+
+reverse  if  you  see  here
+
+on  the  original  gradient  we  have  the
+
+circle  node  on  top
+
+and  the  square  node  on  the  bottom  i  want
+
+to  do  the  opposite  for  this  one  i  want
+
+to  put  the  circle  node  on  the  bottom
+
+oops  didnt  mean  to  do  that  put  the
+
+circle  node  on  the  bottom
+
+and  put  the  square  note  on  the  top  and
+
+again  again  just  hold  ctrl  to  lock  it
+
+onto  the
+
+vertical  axis  like  that  and  there  you  go
+
+so  lets  grab  the  select  tool  now
+
+click  off  of  that  to  deselect  everything
+
+its  starting  to  come  together  now  what
+
+im  going to  do  is  im  going  to  break
+
+these  letters  apart  and  adjust  the
+
+spacing  between  them  so
+
+lets  click  and  drag  over  both  of  these
+
+text  objects  and  go  to  path
+
+object  to  path  and  then  ungroup  over
+
+here  where  it  says  ungroup  selected
+
+groups
+
+and  now  its  individual  letters  like
+
+that  so  im  going  to  click  and  drag  over
+
+this  letter  g
+
+im  going  to  zoom  in  on  this  a little
+
+bit  im  going  to  hold  ctrl  and  roll  up
+
+the  mouse  wheel  a  couple  of  times  to
+
+zoom  in
+
+and  im  just  going  to  hold  ctrl  im
+
+going  to  click  and  drag  over  this  letter
+
+g  right  here  so  i  have  both  objects
+
+selected
+
+and  im  going  to  hold  ctrl  and  just  move
+
+this  over  like  that  im  just  manually
+
+adjusting  the  spacing  between  these
+
+letters  here  as  you  can  see
+
+clicking  and  dragging  over  all  three
+
+letters
+
+moving  it  in  then  im  going  to  click  and
+
+drag  over  the  whole  word  move  that  in
+
+and  again  while  were  doing  this  were
+
+holding  ctrl  on  the  keyboard  so  that  it
+
+locks  it  onto  the  vertical  axis  like
+
+that
+
+okay  that  looks  pretty  good  move  this  in
+
+and  then  finally  this  one  this  ones  a
+
+little  too  close  to  the  t  so  im  going
+
+to  move  that  back  just  a  tiny  bit
+
+and  maybe  ill  put  some  more  space
+
+between  the  two  words  like  that
+
+that  right  there  looks  good  so  well
+
+click  off  of  that  to  deselect  everything
+
+now  what  i  want  to  do  is  unify
+
+these  letters  together  these  these  uh
+
+the  letters  on  top  anyway
+
+so  im  going  to  click  on  the  letter  g
+
+and  then  im  going  to  hold  shift  and
+
+click  on  all  of  the  other  letters
+
+so  that  we  have  all  of  them  selected  and
+
+unify  them  together  by  going  to  path
+
+union  and  the  reason  why  i  do  that  is
+
+because  now  i  want  to  create
+
+sort  of  like  a  reflective  light  or  like
+
+a  shine  coming  off  of  the  top  of  this
+
+text  here  and  im  going  to  need  a
+
+duplicate  copy  of  that  text  to  do  that
+
+so
+
+with  the  text  selected  right  click  it
+
+and  go  to  duplicate
+
+and  make  the  duplicate  copy  white  and
+
+now  were  going  to  create  a  little  bit
+
+of  an  offset
+
+of  this  white  text  right  here  so  lets
+
+come  over  here  to  the
+
+path  effects  menu  well  go  to  path  and
+
+click  on  path  effects
+
+and  im  going  to  click  the  plus  icon
+
+here  to  add  a  new  path  effect
+
+and  the  path  effect  were  looking  for  is
+
+offset  which  is  right  here
+
+and  with  offset  enabled  im  going  to
+
+zoom  in  a  little  bit  what  i  want  to  do
+
+is  grab  the  edit  paths  by  nodes  tool
+
+which  is  right  here
+
+and  what  you  should  be  looking  for  is
+
+this  little  circle  node  right  here  if
+
+you  notice  everything  else  is  a  square
+
+node  were  looking  for  this  circle  node
+
+right  here  let  me  zoom  in  on  that  a
+
+little  bit
+
+and  im  going  to  take  this  circle  node
+
+and  just  click  and  drag  that  down  a
+
+little  bit  just  to
+
+give  that  a  little  bit  of  an  offset  and
+
+what  you  notice  what  its  doing  here  is
+
+its  shaving  off  a  little  space
+
+off  of  around  the  edges  of  the  letters
+
+like  that  which  is  exactly  what  were
+
+looking  for
+
+okay  so  im  happy  with  how  that  looks
+
+im  going  to  finalize  it  by  going  to
+
+path
+
+path  object  to  path  grab  the  select  tool
+
+im  going  to  press  1  on  the  keyboard  to
+
+zoom  back  out  to  a  hundred  percent
+
+and  lets  close  out  of  the  path  effects
+
+menu  we  dont  need  that  anymore
+
+now  what  im  gonna  do  is  im  going  to
+
+create  an  ellipse  going  over  the  top
+
+half  of  this  white  text  here  so  let  me
+
+grab  these  circles  and  ellipses  tool
+
+ill  click  and  drag  to  create  an  ellipse
+
+going  over  the  top  of  it  like  that
+
+and  i  want  to  get  rid  of  that  outline
+
+lets  hold  shift  and  click  the  little
+
+red  x  down  here  to  get  rid  of  that
+
+outline
+
+and  im  just  going  to  make  this  a
+
+contrasting  color  for  now  maybe
+
+something  like  green
+
+bring  the  opacity  down  so  i  can  see
+
+where  it  lines  up  with  the  rest  of  the
+
+text
+
+and  let  me  grab  the  select  tool  right
+
+here  now  if  you  notice  the  bottom  edge
+
+of  this  green  ellipse
+
+im  paying  attention  to  where  it  lines
+
+up  with  the  text  i  want  it  above  this
+
+part  of  the  g
+
+but  below  this  part  of  the  g  right  here
+
+right  about  here  we  want  this  to  be  in
+
+about  the  top  third  of  the  text  as  you
+
+see  here  i  like  this  position
+
+so  im  going  to  leave  that  as  it  is  im
+
+going  to  hold  shift  click  the  white  text
+
+so  that  we  have  the  green  ellipse  and
+
+the  white  text  selected  at  the  same  time
+
+and  go  to  path  intersection
+
+and  what  we  have  to  do  now  is  give  this
+
+thing  a  gradient  so  lets  come  over  here
+
+to  the  fill
+
+tab  and  click  on  the  linear  gradient
+
+button
+
+and  then  grab  the  gradient  tool  over
+
+here  and  take  this
+
+little  uh  white  stop  over  here  and  put
+
+this  towards  the  bottom  of  that  white
+
+object
+
+and  then  take  this  circle  stop  and  put
+
+this  towards  the  top  im  going  to  hold
+
+ctrl
+
+to  lock  it  onto  the  vertical  axis  like
+
+that  now  if  you  notice  im  not  putting
+
+this
+
+exactly  at  the  bottom  of  the  white  text
+
+there  im  putting  it  slightly  below  so
+
+its  not  so
+
+its  not  so  harsh  and  this  one  right
+
+here  this  is  not  going  all  the  way  up  to
+
+the  top  im  putting  this  down  to  about
+
+here  like  that
+
+and  at  this  point  you  may  have  to  adjust
+
+the  position  of  the  original  gradient  so
+
+let  me  click  on  the  gold  text
+
+and  im  going  to  take  this  if  you  notice
+
+im  going  to  take  this  stop  right  here
+
+and  bring  that  down  a  little  bit
+
+and  bring  this  down  a little  bit  as  well
+
+maybe  bring  this  down  to  here
+
+whoops  messed  up  there  if  you  mess  up
+
+and  do  something  like  this  just  hit  ctrl
+
+z  on  the  keyboard  to  undo  what  you  just
+
+did
+
+okay  thats  looking  thats  looking
+
+pretty  good  right  there  okay  so  let  me
+
+grab  the  select  tool
+
+click  off  of  it  to  deselect  everything
+
+and  the  final  step  would  be  to  add  a
+
+little  bit  of  a  drop  shadow  to  this  to
+
+make  it  pop  a  little  more  so  to  do  that
+
+im  going  to  click  on  the  gold  text  im
+
+going  to  duplicate  it  by  pressing  ctrl  d
+
+on  the  keyboard  and  im  going  to  make
+
+that  black  and  im  going  to  bring  this
+
+down
+
+slightly  down  im  going to  bring  it  down
+
+slightly
+
+and  to  the  right  slightly  and  im  gonna
+
+lower  that  to  the  bottom  with  this
+
+button  over  here  that  says  lower
+
+selection  to  the  bottom
+
+maybe  even  use  the  arrow  keys  to  adjust
+
+it  a little  bit  that  right  there  is
+
+pretty  good
+
+and  i  will  give  this  a  little  bit  of  a
+
+blur
+
+just  like  that  and  then  finally  bring
+
+the  opacity  down  a  little  bit
+
+maybe  reduce  the  blur  reduce  the  opacity
+
+and  you  get  the  idea  you  just  play  with
+
+a  little  bit  and  as  you  can  see  weve
+
+finished  creating  our  gold  text  now  one
+
+final  thing  i  would  i  would  recommend
+
+using  this  for  a  dark  background  for
+
+whatever  reason  this
+
+gold  text  effect  really  pops  better  on
+
+dark  backgrounds  so
+
+let  me  create  a  rectangle  going  over
+
+this  whole  thing  like  this
+
+let  me  bring  the  opacity  of  that  all  the
+
+way  up  grab  the  select  tool
+
+lower  that  to  the  bottom  and  maybe  make
+
+this  like  a  lighter  shade  of  gray  over
+
+here  where  it  says  fill
+
+im  going  to  select  hsl  and  im  gonna
+
+look  at  this  l  row  like  this  and  just
+
+bring  that  down  a  little  bit
+
+and  then  hold  shift  and  click  on  the
+
+text  and  uh  center  it  up
+
+using  the  alignment  menu  so  im  gonna
+
+open  up  the  align  and  distribute  menu
+
+over  here  and  set  this  the  relative  to
+
+set  it  to  last  selected  center  it  on  the
+
+vertical  and  horizontal  axis  like  that
+
+and  you  may  want  to  adjust  the  drop
+
+shadow  drop  shadow  a little  bit  so  let
+
+me  zoom  in  a little  more
+
+let  me  just  bring  this  out
+
+let  me  go  back  to  the  fill  and  stroke
+
+menu  maybe  give  this
+
+bring  the  opacity  of  it  up  now  since
+
+its  on  a  darker  background
+
+maybe  make  that  a  little  darker  and  i
+
+think  i  will  call  it  a  day  right  there
+
+so  that  should  do  it  for  this  tutorial
+
+that  is  how  you  can  go  about  creating
+
+that  gold  text
+
+using  inkscape  so  if  you  have  any
+
+questions  just  leave  a  comment  below  and
+
+as  always  thanks  for  watching
+

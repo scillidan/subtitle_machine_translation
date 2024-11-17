@@ -1,0 +1,870 @@
+
+in  this  tutorial  Ill  be  demonstrating
+
+how  you  can  use  inkscape  to  create  this
+
+Elegant  Style  logo  design  and  if  you
+
+want  to  follow  along  with  what  Im  doing
+
+in  this  lesson  I  will  have  a  link  in  the
+
+description  of  the  video  to  where  you
+
+can  download  the  fonts  that  I  used  here
+
+and  Ill  also  include  a  download  link  to
+
+the  file  itself  in  case  you  want  to  skip
+
+the  tutorial  and  just  use  this  design  so
+
+Ill  come  over  here  into  a  new  document
+
+and  we  will  get  started  the  first  thing
+
+Im  going  to  do  is  grab  my  pen  tool
+
+which  is  located  over  here  in  the
+
+toolbar  or  you  can  access  it  by  pressing
+
+the  letter  B  on  your  keyboard  Im  going
+
+to  come  up  here  to  the  settings  and  Im
+
+going  to  make  sure  I  have  the  spiral
+
+path  option  enabled  and  then  Im  going
+
+to  hold  the  control  key  and  click  once
+
+on  the  canvas  to  draw  a  line  and  bring
+
+this  line  straight  up  and  while  still
+
+holding  control  click  again  and  then  we
+
+can  let  go  of  control  and  bring  the  line
+
+out  here  and  then  click  again  and  now  I
+
+can  continue  drawing  this  curve  until  it
+
+spirals  to  the  inside  like  that  once
+
+youre  happy  with  the  placement  you  can
+
+press  the  enter  key  to  place  it  and  if
+
+youre  not  entirely  happy  with  how  it
+
+looks  you  can  come  over  here  to  the  edit
+
+paths  by  nodes  edit  paths  by  nodes  tool
+
+and  zoom  in  on  this  and  just  adjust
+
+these  nodes  a  little  bit  now  since  this
+
+is  a  Spyro  path  it  will  be  a  little  hard
+
+to  control  but  thats  to  ensure  that  it
+
+remains  fluid  and  smooth  so  Im  going  to
+
+adjust  this  a  little  bit  until  Im  happy
+
+with  how  it  looks  and  I  think  that  looks
+
+pretty  good  right  there  what  Im  looking
+
+for  mainly  is  I  want  to  make  sure
+
+theres  an  equal  amount  of  space  going
+
+through  here  I  dont  want  too  much  space
+
+on  one  side  I  want  it  to  look  fairly
+
+even  so  now  that  thats  said  Im  going
+
+to  zoom  out
+
+Im  going  to  take  this  node  right  here
+
+click  on  it  to  select  it  let  me  Zoom
+
+down  a  little  bit  Im  going  to  select
+
+this  node  right  here  and  then  Im  going
+
+to  hold  the  control  key  and  just  click
+
+and  drag  that  node  up  like  that  I  want
+
+to  shorten  that  a  little  bit  because  now
+
+Im  going  to  grab  the  selection  tool  and
+
+Im  going  to  right  click  this  and  go  to
+
+duplicate  and  Im  going  to  flip  it
+
+vertically  and  horizontally  and  Im
+
+going  to  bring  this  down  here  on  this
+
+side  now  to  snap  these  together  Im
+
+going  to  come  up  here  and  click  on  this
+
+magnet  icon  to  enable  snapping  and  I
+
+just  want  to  make  sure  I  have  these
+
+simple  controls  in  place  I  want  these
+
+two  options  highlighted  and  now  I  can
+
+zoom  in  on  this  and  snap  this  onto  the
+
+line  Im  bring  that  up  a  little  bit  Im
+
+just  eyeballing  this  here  and  that  looks
+
+pretty  good  as  it  is  now  Im  going  to
+
+create  another  one  for  this  side  so  let
+
+me  right  click  this  and  go  to  duplicate
+
+again  and  Im  going  to  take  this  one  Im
+
+going  to  flip  it  vertically  and  Im
+
+going  to  hold  my  control  key  and  scale
+
+this  one  down  a  little  bit  now  before  I
+
+do  that  let  me  undo  what  I  just  did
+
+right  there  before  you  scale  that  down
+
+make  sure  you  have  this  setting  disabled
+
+this  option  here  that  says  when  scaling
+
+objects  scale  the  stroke  width  by  the
+
+same  proportion  we  want  that  turned  off
+
+for  this  tutorial  so  make  sure  thats
+
+disabled  and  then  scale  this  down  so
+
+that  it  maintains  the  same  stroke  width
+
+and  Im  going  to  Im  going  to  place  this
+
+one  Im  going  to  snap  it  right  over  here
+
+right  about  there  I  may  make  this  one  a
+
+little  bigger  I  dont  like  how  small
+
+that  one  is  Ill  make  that  a  little
+
+bigger  and  Ill  bring  that  down
+
+here  so  now  that  thats  in  place  let  me
+
+click  off  of  it  to  deselect  everything
+
+and  Im  going  to  go  back  to  my  pen  tool
+
+cool  and  Im  going  to  draw  another
+
+little  line  coming  off  of  the  center  of
+
+this  line  here  so  let  me  snap  to  the
+
+line  hold  control  bring  the  line
+
+Straight  Up  Click  again  and  then  bring
+
+this  one  out  here  right  about  there
+
+press  enter  and  there  you  go  thats
+
+about  what  Im  looking  for  and  again  if
+
+youre  not  happy  with  the  placement  you
+
+could  just  grab  the  nodes  tool  and
+
+adjust  it  until  it  looks  good  Im  going
+
+to  take  this  and  bring  this  down  a
+
+little  bit  Im  going  to  hold  control
+
+while  I  do  this  so  that  it  snaps  or  so
+
+that  it  locks  it  onto  the  vertical  axis
+
+and  let  me  right  click  this  and
+
+duplicate  it  and  Im  going  to  flip  this
+
+vertically  and  horizontally  and  bring
+
+this  down  here  so  that  we  have  another
+
+piece  down  here  going  the  opposite  way
+
+and  that  right  there  is  what  were
+
+looking  for  so  what  Ill  do  next  is  Im
+
+going  to  draw  another  line  coming  out  of
+
+the  top  right  here  Im  going  to  grab  my
+
+pen  tool  again  Im  going  to  snap  to  this
+
+intersecting  area  and  then  just  click
+
+and  drag  or  just  click  a  couple  of  times
+
+rather  to  draw  a  line  sort  of  like  that
+
+and  press  enter  its  not  going  to  look
+
+good  at  first  but  thats  okay  CU  were
+
+going  to  go  to  the  edit  pads  by  no  noes
+
+tool  and  adjust  this  until  it  looks
+
+right  so  Im  going  to  move  this  you  got
+
+to  be  careful  of  the  snapping  here  there
+
+we  go  and  maybe  Ill  adjust  that  a
+
+little
+
+bit  okay  that  looks  good  as  it  is  okay
+
+so  let  me  zoom  out  now  what  Im  going  to
+
+do  is  Im  going  to  grab  my  selection
+
+tool  I  want  to  select  all  of  these
+
+pieces  and  I  want  to  convert  them  from
+
+spiral  paths  to  just  regular  paths  so
+
+Ill  come  up  here  to  path  and  I  will
+
+select  object  to  path
+
+and  now  Im  going  to  group  them  together
+
+by  going  to  object  group  and  now  Im
+
+going  to  click  on  it  to  get  the  rotation
+
+handles  and  I  want  to  rotate  this  around
+
+clockwise  until  its  sitting  flat  like
+
+this  and  what  Im  looking  for  is  the
+
+bottom  of  this  side  and  the  bottom  of
+
+this  side  I  want  to  make  sure  theyre
+
+both  sitting  flat  on  the  bounding  box  of
+
+the  selection  while  I  rotate  it  so  let
+
+me  just  make  sure  um  let  me  just  make
+
+sure  everythings  even  that  looks  pretty
+
+good  as  it  is  and  now  I  can  zoom  out  and
+
+now  were  going  to  ungroup  this  so  lets
+
+come  up  here  to  object  and  go  to
+
+ungroup  and  then  open  up  the  fill  and
+
+stroke  menu  and  Ill  do  that  just  by
+
+double  clicking  this  black  stripe  down
+
+here  and  thatll  open  up  the  fill  and
+
+stroke  menu  I  want  to  come  over  here  to
+
+the  stroke  style  Tab  and  I  want  to
+
+increase  the  width  so  Im  going  to  click
+
+on  this  plus  icon  and  hold  that  click  to
+
+make  this  to  make  those  lines  thicker
+
+and  I  want  to  give  them  rounded
+
+caps  and  now  Im  going  to  click  off  of
+
+it  to  deselect  everything  Im  going  to
+
+add  little  circles  at  the  ends  of  these
+
+uh  lines  here  show  you  what  I  mean  in
+
+this  design  over  here  I  have  these
+
+little  circles  on  these  ends  so  let  me
+
+show  you  how  you  can  do  that  Im  going
+
+to  select  this  object  right  here  first
+
+and  Ill  come  over  here  to  the  markers
+
+in  the  stroke  style  tab  Im  going  to
+
+come  over  here  to  where  it  says  markers
+
+and  I  want  to  add  an  ends  marker  Im
+
+going  to  click  on  this  drop  down  and  Im
+
+going  to  choose  this  round  option  but
+
+when  you  do  that  its  going  to  be  a
+
+little  too  big  so  Im  going  to  bring
+
+that  down  in  size  a  little  bit  Im  going
+
+to  manually  type  in  the  default  size  is
+
+one  Im  going  to  bring  this  down  to
+
+about  0.5  and  see  how  that
+
+looks  okay  thats  a  a  good  proportion
+
+right  there  so  Ill  leave  that  as  it  is
+
+and  Im  going  to  do  the  same  thing  over
+
+here  Im  going  to  apply  that  to  this
+
+object  as  well  Im  going  to  apply  that
+
+same  marker  now  now  that  you  applied  the
+
+first  marker  you  should  have  it  up  here
+
+in  your  recently  used  markers  and  you
+
+can  just  select  it  and  you  wont  have  to
+
+resize  this  one  itll  inherit  the  size
+
+of  the  previous
+
+one  and  Ill  apply  that  to  this  part  as
+
+well  let  me  come  up  here  and  choose  uh
+
+the  same
+
+marker  and  now  Im  just  going  to  put
+
+just  as  like  a  decorative  element  Im
+
+going  to  put  three  little  circles  in
+
+there  so  let  me  come  back  in  here  and
+
+add  those  three  little  circles  let  me
+
+grab  my  circles  and  ellipses  tool  Im
+
+going  to  turn  off  snapping  right  now
+
+thats  just  going  to  get  in  the  way  and
+
+Ill  hold  control  and  click  and  drag  to
+
+draw  perfectly  around  Circle  go  back  to
+
+my  selection
+
+tool  and  I  will  make  this  a  little
+
+bigger  actually  no  Ill  leave  that  as  it
+
+is  Ill  right  click  it  go  to  duplicate
+
+and  Ill  make  this  one  a  little
+
+bigger  and  then  Ill  create  one  more
+
+right  click  duplicate  and  Ill  make  this
+
+one  even  even
+
+bigger  holding  control  while  I  do  this
+
+to  lock  the  aspect  ratio  there  we  go  now
+
+Im  going  to  zoom
+
+out  okay  that  looks  pretty  good  so  what
+
+Im  going  to  do  now  is  Im  going  to
+
+select  all  of  this  well  first  of  all  let
+
+me  click  on  one  of  these  and  find  out
+
+what  exactly  the  stroke  weight  is  so  for
+
+mine  the  stroke  weight  is  six  so
+
+whatever  your  number  is  keep  that  in
+
+mind  were  going  to  use  that  in  just  a
+
+minute  let  me  select  all  of  this  go  to
+
+object  group  and  now  Im  going  to  create
+
+a  Circle  so  Im  going  to  grab  my  circles
+
+and  ellipses  tool  click  and  drag  while
+
+holding  control  to  create  a  perfectly
+
+round  circle  and  I  want  to  give  this  the
+
+same  properties  that  this  these  objects
+
+have  so  Im  going  to  remove  the  fill  by
+
+clicking  the  Red  X  and  Im  going  to  hold
+
+shift  and  click  on  the  color  black  to
+
+apply  a  stroke  and  it  looks  like  it
+
+inherited  that  stroke  width  already  so  I
+
+dont  have  to  manually  type  that  in  if
+
+this  were  any  other  number  than  six  Id
+
+have  to  type  that  in  and  press  enter  but
+
+it  looks  like  Im  good  to  go  so  let  me
+
+take  this  and  move  this  over  Im  going
+
+to  scale  this  down  accordingly  Ill
+
+bring  it  down  maybe  that  much
+
+and  I  want  to  make  sure  that  this  is
+
+sitting  on  the  same  horizontal  plane
+
+that  this  object  is  so  let  me  select
+
+this  object  hold  shift  select  this
+
+object  and  then  open  up  the  aligned
+
+distribute  menu  by  going  to  object  and
+
+aligned
+
+distribute  and  Im  going  to  choose  last
+
+selected  from  the  relative  two  dropdown
+
+and  I  want  to  choose  this  option  down
+
+here  that  says  align  bottom  edges  and
+
+thats  going  to  put  both  of  those  on  the
+
+same  horizontal  plane  and  Im  going
+
+click  off  of  that  to  deselect  it  and
+
+then  Ill  take  this  one  and  just  move
+
+this  in  a  little  bit  and  Im  holding
+
+control  while  I  click  and  drag  so  that  I
+
+lock  it  onto  that  horizontal  plane  and  I
+
+dont  lose  that  alignment  that  I  just
+
+made  okay  so  let  me  take  this  object  now
+
+right  click  it  go  to  duplicate  Im  going
+
+to  flip  this  one
+
+horizontally  hold  control  and  move  this
+
+one  over  here  just  like
+
+that  and  now  Im  going  to  select  both  of
+
+these  Im  holding  shift  while  I  click  on
+
+each  of  them  to  select  them  both  and  I
+
+want  to  group  them  together  well  go  to
+
+object  group  and  I  want  to  Center  it  on
+
+this  circle  just  to  make  sure  that
+
+everything  is  perfectly  symmetrical  Ill
+
+select  the  uh  Center  on  vertical  axis
+
+there  we  go  and  now  I  can  ungroup
+
+everything  so  Ill  go  to  object  and
+
+select
+
+ungroup  and  now  Im  going  to  put  another
+
+Circle  in  the  center  here  so  let  me  take
+
+this  circle  right  click  it  go  to
+
+duplicate  hold  control  and  shift  and
+
+scale  this  down  about  that  much  and  in
+
+here  you  can  put  whatever  you  want
+
+whether  it  be  a  letter  or  an  icon  or  any
+
+other  graphical  depiction  for  my
+
+demonstration  I  use  the  inkscape  logo  I
+
+figured  it  makes  sense  since  this  is  an
+
+inkscape  tutorial  but  you  could  put
+
+whatever  you  want  in  there  Im  just
+
+going  to  leave  it  blank  for  now  and  now
+
+Im  going  to  put  some  lines  underneath
+
+it  here  if  you  notice  I  had  some  lines
+
+going  underneath  these
+
+elements  so  let  me  come  back  in  here  Im
+
+going  to  grab  my  pen  tool  again  let  me
+
+choose  the  regular  pen  mode  and  then
+
+Ill  come  out  here  click  to  add  a  point
+
+hold  control  bring  the  line  straight
+
+across  right  towards  the  end  of  the
+
+other  side  click  again  and  now  we  can
+
+let  go  of  control  and  and  press  enter  to
+
+have  that  line  made  and  I  want  to  make
+
+that  stroke  the  same  size  let  me  grab  my
+
+selection  tool  Ill  come  back  over  here
+
+to  the  fill  in  stroke  menu  the  stroke
+
+style  tab  Ill  change  this  to
+
+six  I  want  this  to  have  rounded  caps  and
+
+Im  going  to  put  those  markers  on  the
+
+ends  of  these  so  let  me  use  this  drop
+
+down  and  select  those  markers  for  the
+
+first  and  the  last  the  start  and  the  end
+
+point  of  that  path  and  it  now  has  those
+
+markers  so  let  me  make  another  copy  of
+
+this  now  Im  going  to  right  click  it  and
+
+go  to  duplicate  hold  control  and  bring
+
+this  one  down  here  about  that  much  now
+
+the  amount  of  spacing  between  these  two
+
+lines  Im  going  to  use  these  circles  as
+
+a  reference  I  want  the  spacing  between
+
+these  two  lines  to  be  about  equal  to  the
+
+spacing  between  these  two  circles  so  Im
+
+just  going  to  eyeball  that  and  use  my
+
+own  judgment  it  just  gives  the  design  an
+
+overall  more  balanced  and  symmetrical
+
+look  and  once  thats  in  place  Im  going
+
+to  hold  control  and  shift  and  Im  just
+
+going  to  scale  this  down  a  little  bit  I
+
+want  this  line  to  be  a  little  shorter
+
+than  the  other  line  and  that  right  there
+
+is  what  were  going  for  so  now  were
+
+going  to  add  our  text
+
+let  me  grab  the  text  tool  click  and  for
+
+this  demonstration  Im  just  going  to
+
+write
+
+elegant  grab  my  selection  tool  and  Im
+
+going  to  open  up  the  text  editor  which
+
+can  be  accessed  by  uh  going  to  you  can
+
+use  this  icon  down  here  in  the  bottom
+
+right  of  the  screen  this  letter  T  click
+
+on  that  and  now  we  have  our  text  editor
+
+so  let  me  find  the  font  that  Im  using
+
+its  called
+
+Brittanic  there  we  go  Ill  click  apply
+
+and  Im  just  going  to  scale  this  up  to
+
+make  make  it  an  appropriate  size  for  the
+
+logo  maybe  Ill  scale  this  down  a  little
+
+bit  and  again  were  always  holding
+
+control  when  we  scale  so  that  it  locks
+
+the  aspect  ratio  if  you  let  go  of
+
+control  you  get  a  lot  of  distortion
+
+which  you  dont  want  and  now  Im  just
+
+going  to  write  logo  in  a  different  font
+
+next  to  it  so  let  me  go  back  over  here
+
+to  my  text  tool  click  again  and  Im  just
+
+going  to  use  all  caps
+
+logo  and  the  font  for  this  one  is
+
+monserat  monserat  medium  and  again  Ill
+
+have  the  links  to  these  fonts  where  you
+
+can  download  them  and  install  them  in
+
+the  descript  description  of  the  video
+
+These  are  free  fonts  so  you  should  be
+
+able  to  use  them  without  a  problem  let
+
+me  move  this  in
+
+here  scale  it  up  so  its  about  the  same
+
+size  and  I  want  to  decrease  the  the
+
+spacing  between  these  letters  so  let  me
+
+come  back  in  here  to  my  text  tool  Im
+
+going  to  place  the  cursor  between  these
+
+two  letters  and  Im  going  to  hold  my  ALT
+
+key  or  if  youre  on  Mac  it  would  be  the
+
+option  key  and  then  use  the  left  Arrow
+
+just  to  bring  that
+
+in  and  Ill  do  the  same  thing  over  here
+
+Ill  move  the  cursor  over  here  holding
+
+my  option  key  or  ALT  key  and  just  use
+
+using  the  arrows  to  bring  those  letters
+
+closer
+
+together  now  Im  going  to  grab  my
+
+selection  tool  select  both  of  these  and
+
+Im  just  going  to  scale  this  up  so  that
+
+it  fits  the  logo  more
+
+nicely  and  at  this  point  the  problem  we
+
+have  now  is  that  the  design  doesnt  look
+
+very  consistent  the  lines  of  the
+
+ornaments  here  are  much  thinner  than  the
+
+lines  of  the  letters  uh  an  easy  little
+
+trick  to  fix  that  you  could  just  select
+
+everything  hold  your  control  key  and
+
+scale  it  down  a  little  bit
+
+and  as  you  scale  It  Down  The  Strokes
+
+will  remain  the  same  weight  but  they
+
+will  just  look  bigger  because  theyre
+
+being  sized  smaller  and  Ill  just  bring
+
+this  down  until  it  looks  pretty
+
+consistent  with  the  weight  of  the
+
+letters  and  thats  really  the  secret
+
+here  to  making  this  design  look  good  you
+
+want  all  of  the  lines  to  be  a  consistent
+
+weight  so  that  it  has  a  uniform
+
+look  okay  that  looks  good  as  it  is  let
+
+me  uh  let  me  update  the  spacing  now  a
+
+little  bit  Im  going  to  move  this  down
+
+Im  going  to  move  this  line  let  me
+
+deselect  that
+
+Im  going  to  move  this  line  down  a
+
+little  bit  and  now  Im  going  to  adjust
+
+the  spacing  in  here  to  accommodate  the
+
+spacing  change  that  I  made  there  let  me
+
+scale  that  down  a  little  bit  Im  holding
+
+control  and  shift  while  I  scale  this
+
+inward  so  that  I  dont  lose  the
+
+orientation  with  the  circle  above
+
+it  and  there  we  go  that  should  do  it  for
+
+this  tutorial  that  is  how  you  can  create
+
+these  decorative  elements  to  make  an
+
+elegant  style  logo  using  inkscape  if  you
+
+found  this  lesson  useful  then  consider
+
+check  checking  out  my  inkscape  master
+
+class  its  a  collection  of  over  60
+
+videos  where  I  go  over  all  of  the  tools
+
+and  features  in  inkscape  and  I  explain
+
+what  they  are  and  demonstrate  how  they
+
+work  kind  of  like  how  I  did  in  this
+
+video  we  even  have  a  private  Community
+
+where  you  can  ask  questions  and  get  help
+
+from  me  anytime  you  want  and  best  of  all
+
+theres  no  monthly  membership  fees  you
+
+just  pay  $17  one  time  and  youre  in  for
+
+Life  Ill  have  some  information  about
+
+that  down  below  if  you  want  to  check
+
+that  out  as  always  thanks  for
+
+watching
+
+
+
+oh

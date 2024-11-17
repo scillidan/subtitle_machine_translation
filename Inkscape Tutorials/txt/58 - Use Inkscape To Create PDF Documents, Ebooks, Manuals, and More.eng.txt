@@ -1,0 +1,1271 @@
+
+
+
+this  is  nick  with  logos  by  nick.com  and
+
+in  this  tutorial  ill  be  demonstrating
+
+how  you  can  use
+
+inkscape  for  desktop  publishing  purposes
+
+to  create  things  like  reports
+
+manuals  ebooks  and  various  other  types
+
+of  pdf  documents
+
+now  granted  inkscape  probably  isnt  the
+
+best  tool  for  this  sort  of  thing
+
+but  if  you  just  need  to  create  a  simple
+
+one  or  two  page  document
+
+or  maybe  even  a  short  ebook  and  youre
+
+already  somewhat  familiar  with  inkscape
+
+then  it  would  probably  be  more  practical
+
+than  taking  the  time  to  learn
+
+an  entirely  new  piece  of  software  like
+
+scribus  or  indesign
+
+ive  used  inkscape  myself  to  create
+
+manuals  and  ebooks  in  the  past  so  i  know
+
+that  its  perfectly  capable  in  that
+
+regard
+
+before  we  get  started  though  if  youd
+
+like  to  learn  everything  that  there  is
+
+to  know  about  inkscape
+
+be  sure  to  check  out  my  inkscape  master
+
+class  its  a  collection  of  over  60
+
+videos  where  i  go  over
+
+every  tool  and  feature  in  inkscape  and  i
+
+explain  what  it  is  and  demonstrate  how
+
+it  works
+
+ill  have  a  link  in  the  description  of
+
+the  video  if  you  want  to  check  that  out
+
+so  to  get  us  started  here  in  inkscape
+
+im  going  to  open  up  a  new  document  and
+
+then  set  up  the  documents  that  we  are
+
+all  working  with  a  similar  workflow
+
+come  up  here  to  where  it  says  view  make
+
+sure  we  have  custom  selected
+
+and  then  come  up  to  zoom  and  go  to  zoom
+
+in  at  one  to  one
+
+and  then  well  open  up  the  align  and
+
+distribute  menu  with  this  button  right
+
+here
+
+and  then  open  up  the  fill  and  stroke
+
+menu  with  this  button  right  here
+
+and  over  here  where  it  says  snapping  we
+
+want  to  make  sure  we  have  enable
+
+snapping  enabled
+
+and  we  want  this  one  enabled  right  here
+
+that  says  snap  nodes
+
+pads  and  handles  we  also  want  this  one
+
+enabled  that  says  snap  to  cusp  nodes
+
+including  rectangle  corners
+
+and  the  one  next  to  it  as  well  snap  to
+
+smoothnose  were  going to  enable  that
+
+and  then  over  here  where  it  says  snap
+
+text  anchors  and  baselines
+
+enable  that  and  then  finally  over  here
+
+where  it  says  snap  to  the  page  border
+
+enable  that  as  well
+
+and  also  youre  going  to  want  to  make
+
+sure  you  have  snap  guides  enabled  as
+
+well
+
+but  that  should  be  enabled  by  default
+
+but  if  its  not  go  ahead  and  enable  that
+
+so  what  i  want  to  do  now  is  set  up  the
+
+canvas  so  that  its  suitable  for
+
+creating  these
+
+pdf  documents  were  going  to  create  so
+
+well  come  over  here  to  where  it  says
+
+file
+
+click  on  document  properties
+
+then  where  it  says  display  units  i  want
+
+to  change  that  to  inches
+
+and  over  here  where  it  says  page  size  we
+
+have  a  list  of  templates  here  im  going
+
+to  choose  us
+
+letter  which  is  8.5  by  11  inches  if  you
+
+want  to  create  something  like  an  a5  or
+
+an  a1  or  maybe  even  us  legal  you  can  use
+
+that  if  you  want  for  this  tutorial  im
+
+just  going to  do  the  standard  8.5  by  11
+
+inches
+
+over  here  where  it  says  border  we  want
+
+to  leave  show  page  border  enabled
+
+border  on  top  of  drawing  were  going  to
+
+enable  that  that  should  be  helpful  when
+
+were  creating  our  design
+
+and  then  show  border  shadow  lets  just
+
+disable  that
+
+and  then  finally  over  here  where  it  says
+
+background  color  im  going  to  change
+
+this
+
+im  going  to  click  on  the  hsl  tab  and
+
+im  going  to  come  down  here  to  the  l  row
+
+and  slide  this  to  the  left  a little  bit
+
+if  you  notice  the  canvas
+
+is  becoming  darker  as  i  do  that  and  we
+
+want  the  canvas  to  be  slightly  darker
+
+than  white  because
+
+white  is  going  to  be  the  color  of  the
+
+page  we  create  here
+
+so  let  me  close  out  of  that  we  should  be
+
+all  set  now  close  out  of  that
+
+what  i  want  to  do  now  is  create  a
+
+rectangle  to  place  in  this  page  border
+
+here  is  going  to  represent  the  white
+
+page  of  the  document  so  ill  grab  the
+
+squares  and  rectangles  tool
+
+and  ill  snap  to  the  top  left  corner  of
+
+the  page  click  and  drag  and  then  snap  to
+
+the  bottom  right  corner  of  the  page  to
+
+create  this  rectangle  there
+
+and  i  want  to  make  this  rectangle  white
+
+make  sure  your  opacity  is  all  the way  up
+
+at  100
+
+and  make  sure  you  dont  have  an  outline
+
+around  your  object  otherwise  known  as  a
+
+stroke  if  you  do  have  a  stroke  added  to
+
+your  object  just  hold
+
+shift  and  click  this  red  x  down  here  to
+
+get  rid  of  it
+
+and  then  finally  up  here  where  it  says
+
+make  shoulders  make  corners  sharp  we
+
+want  to  make  sure  we  have  sharp  corners
+
+while  were  doing  this  so  if  this  is  not
+
+grayed  out  go  ahead  and  click  on  that
+
+we  dont  want  our  page  to  have  rounded
+
+corners
+
+okay  so  now  that  we  have  our  page  set  we
+
+need  to  define  the  content
+
+area  of  this  page  we  dont  want  the
+
+content  to  run  all  the  way  to  the  edges
+
+here  so  we  want  to  create  one  inch  of
+
+padding  going  around  the  document  here
+
+so  to  do  that  let  me  grab  the  select
+
+tool  let  me  right  click  on  this
+
+dot  this  rectangle  here  and  go  to
+
+duplicate  and  im  just  going  to  make
+
+this  red  so  we  can  differentiate  it  this
+
+is  just  temporarily
+
+and  up  here  where  it  says  width  and
+
+height  or  w  and  h
+
+were  going  to  remove  an  inch  from  each
+
+dimension  so  its  going  to  be  7.5  by  11.
+
+before  we  do  this  though  make  sure  you
+
+dont  have  this  lock  icon  enabled  make
+
+sure  its  disabled  like  i  have  it  here
+
+so  im  going  to  change  this  to  7.5
+
+im  going  to  hit  tab  to  skip  over  to  the
+
+height  and  change  that  to  10
+
+and  then  press  enter  and  it  should  now
+
+be  an  inch  smaller  now  what  we  have  to
+
+do  is  center  this
+
+up  on  the  page  so  where  it  says  relative
+
+to  change  this  to  page  over  here  in  the
+
+align  distribute  menu
+
+and  were  looking  for  center  on  vertical
+
+axis  and  center  on  horizontal  axis
+
+and  this  right  here  is  going  to  define
+
+where  the  contents  of  the  page
+
+are  we  dont  want  to  leave  this  red
+
+object  sitting  here  though  so  were
+
+going  to  convert  this  to  guides
+
+come  up  here  to  where  it  says  object  and
+
+go  to
+
+convert  objects  to  guides  and  now  we
+
+have  guides  there  to  reference  as  were
+
+creating  our  design
+
+so  the  first  thing  were  going  to  do  to
+
+create  the  design  that  i  showed  you  in
+
+the  beginning  of  the  video  is  were
+
+going  to  create  some
+
+header  text  or  title  text  up  here  let  me
+
+grab  the
+
+text  tool  let  me  click  and  drag  actually
+
+im  going  to  snap  to  the  corner  of  these
+
+these  guides  over  here  and  then  just
+
+click  and  drag  to  create  a  title  area
+
+im  just  going  to  title  this  monthly
+
+report
+
+and  im  going  to  change  this  make  this
+
+bold
+
+maybe  make  this  a  smaller  size  go  with
+
+something  like  20
+
+and  if  you  want  to  change  the  font  you
+
+can  do  so  over  here  im  going  to  leave
+
+the  default  sans  font
+
+for  now  leave  that  now  i  want  to  put  a
+
+page
+
+number  over  here  so  let  me  just
+
+duplicate  this  text  object  ill  right
+
+click  it  go  to  duplicate
+
+and  ill  change  this  let  me  grab  the
+
+text  tool  change  this  to  zero
+
+one  because  this  will  be  page  one  and
+
+let  me  uh
+
+let  me  make  this  a  little  smaller  first
+
+of  all  i  wanna  remove  the  bold  im  gonna
+
+make  this  normal
+
+and  then  ill  just  make  this  maybe
+
+something  like  16
+
+that  looks  pretty  good  and  now  we  can
+
+just  place  this  in  the  top  right  corner
+
+over  here
+
+im  going  to  zoom  in  on  this  to  zoom  in
+
+im  just  holding  ctrl  and  rolling  up  the
+
+mouse  wheel  to  move  the  page  just  press
+
+down  the  mouse  wheel  and  move  the  mouse
+
+i  just  want  to  manually  place  this  in
+
+the  corner  here  unfortunately  these  text
+
+objects  will  not  snap  into
+
+your  guides  unless  its  the  base  of  the
+
+text  object  like  you  see  here  but
+
+thats  not  what  were  looking  for  so
+
+were  going  to  leave  that  right  there  as
+
+it  is  let  me  zoom  back  out
+
+and  now  i  just  want  to  create  like  a
+
+little  divider  to  put  right  here  so  im
+
+going  to  grab  the  rectangle  tool  again
+
+click  and  drag  to  create  like  a  little
+
+rectangle  going  from  one  side  to  the
+
+other
+
+thats  looking  pretty  good  ill  make
+
+this  something  like  yellow
+
+grab  the  select  tool  move  this  up  like
+
+that
+
+let  me  zoom  in  so  i  can  get  a  little
+
+closer  there  we  go  thats  what  im
+
+looking  for
+
+and  i  want  to  make  a  copy  of  this
+
+divider  and  put  it  at  the  bottom  of  the
+
+page  too  so  let  me  right  click  this  and
+
+go  to  duplicate
+
+and  i  will  put  this  divider  at  the
+
+bottom  of  the  page  where  the  bottom  of
+
+the  margin  is
+
+and  now  i  want  to  create  some  content
+
+area  for  our  design  here
+
+what  im  going  to  do  for  this  particular
+
+design  im  going  to  create  two  columns
+
+of  text
+
+if  you  want  you  could  just  use  one  giant
+
+block  of  text  im  going  to  put  a  little
+
+more  design  into  this  so  im  going to
+
+use  two  columns  of  text  here  so
+
+let  me  grab  the  rectangle  tool  again  let
+
+me  create  another  rectangle  going
+
+through  the  uh
+
+through  the  uh  guidelines  here  and  let
+
+me  just  make  this  red  let  me  bring  down
+
+the  opacity
+
+and  i  want  to  divide  this  up  into  two
+
+separate  evenly  sized  and  evenly  spaced
+
+apart
+
+rectangle  so  to  do  that  im  going  to
+
+create  another  rectangle  going  through
+
+the  center  here
+
+like  this  and  im  going  to  center  that
+
+up  on  the  page
+
+grab  the  select  tool  hold  shift
+
+click  on  the  object  there  and  go  to  path
+
+difference  so  those  are  now  two
+
+different  objects  and  im  just  going  to
+
+zoom  in  im  going  to  hold  ctrl  roll  up
+
+the  mouse  wheel  to  zoom  in  a little  bit
+
+position  this  down  here  a  little  further
+
+we  dont  want  this
+
+we  dont  want  this  flush  against  the
+
+guide  here  because  the  text  is  going  to
+
+be  in  this  red  area  we  dont  want  the
+
+text  to  be  stacked  on  top  of  this
+
+divider  so
+
+a  little  bit  of  padding  in  there  should
+
+help  something  like  that  looks  pretty
+
+good
+
+and  i  dont  want  these  text  columns  to
+
+be  this  high  so  im  just  going  to  take
+
+this  top  arrow  and  just  bring  this  down
+
+im  going  to  leave  these  two  text
+
+columns  right
+
+here  and  im  going  to  put  some  other
+
+contents  up  here
+
+which  we  will  go  over  momentarily  so  let
+
+me  zoom  in
+
+lets  break  this  apart  into  two  separate
+
+objects  well  go  to  path
+
+break  apart  and  now  well  go  to
+
+objects  object  to  guides
+
+and  we  now  just  created  guides  that  we
+
+can  reference  for  placing  our  text
+
+so  lets  go  ahead  and  place  some
+
+placeholder  text  in  here  im  just  going
+
+to  copy  and  paste
+
+some  lorem  ipsum  dummy  text
+
+and  let  me  grab  the  text  tool  over  here
+
+click  and  drag  this  corner
+
+down  to  here  like  that  im  just  going  to
+
+hit  ctrl
+
+v  to  paste  my  text  in  there  now  this  is
+
+a  little  too  big  let  me
+
+let  me  select  all  of  this  and  ctrl  a  to
+
+select  all
+
+i  want  to  bring  the  size  down  to  like
+
+maybe  12.
+
+im  just  going  to  go  ahead  and  add  some
+
+more  text  in  here  now  let  me  just  copy
+
+and  paste  more  of  this  alarm  if  some
+
+text  now  if  you  notice
+
+if  you  if  your  text  is  too  long  its
+
+going  to  run  to  the  end  of  the  page  here
+
+so  let  me  take  this  little  node  and  just
+
+drag  this  down
+
+and  as  you  can  see  the  text  is  running
+
+through  the  edge  here  so  if
+
+your  text  is  bleeding  out  to  the  edge
+
+just  go  ahead  and  select  it  and  delete
+
+it
+
+and  youll  have  to  continue  it  on  in
+
+this  column  over  here  this  is  one  of  the
+
+reasons  why  i  think  inkscape  probably
+
+isnt  the  best  tool  for  this  sort  of
+
+thing  because
+
+you  got  to  do  a  lot  of  manual  copy  and
+
+pasting  with  the  text
+
+if  you  want  if  you  notice  the  text  here
+
+we  have  this  spacing  on  the  right  side
+
+if  you  want  to  make  it  so  that  the  text
+
+runs  to  the  to  the  edges  of  both  sides
+
+uh  what  you  can  do  is  you  can  come  up  to
+
+the  uh  justification  up  here
+
+the  alignment  rather  and  then  change  to
+
+change  it  to  this  option  right  here  and
+
+if  you  notice  it  spaces  the  text  out  so
+
+it  runs  to  the  edges  like  that
+
+i  dont  like  how  that  looks  personally
+
+it  looks  too  like  robotic  so  im  just
+
+gonna
+
+leave  it  as  it  was  before  and  then  were
+
+gonna  do  the  same  thing  over  here  create
+
+some  more  text  im  gonna  make  this  box
+
+even  bigger  this  time  so  i  dont  have  to
+
+change  the  size  of  it  and  again  were
+
+just  gonna  uh
+
+im  just  gonna  control  paste  use  this
+
+dummy  text  here
+
+let  me  select  all  control  a  to  select
+
+all  change  the  size  of  this  to  match  the
+
+size  of  the  other  text  im  gonna  use  12.
+
+and  for  this  one  im  going  to  maybe
+
+shorten  this
+
+by  about  this  much  because  for  this
+
+design  im  going  to  use
+
+like  a  placeholder  graphic  over  here
+
+like  a  chart  or  some  kind  of
+
+pie  chart  or  something  like  that  go  back
+
+to  the  select  tool
+
+okay  so  now  that  part  is  done  what  we
+
+could  do  now  is  create  like  a  text  area
+
+in  here  like  a  like  a  header  section
+
+to  do  that  im  going  to  grab  the  white
+
+rectangle  that  represents  the  page
+
+im  going  to  right  click  that  and  go  to
+
+duplicate  and  im  just  going  to  take
+
+this  bottom  arrow  and  scale  it  up  like
+
+this
+
+bring  it  up  to  about  there  let  me  change
+
+the  color  of  this  so  we  can  see  what
+
+were  doing  here  im  going  to  make  this
+
+like  a  dark  shade  of  blue  like  that
+
+you  can  use  whatever  color  you  like  ill
+
+take  this  top  arrow  bring  this  down
+
+and  were  going to  use  this  area  right
+
+here  to  add  some  like  uh
+
+leader  text  or  header  text  and  before  i
+
+do  that  though  i  just  want  to  make  sure
+
+that  this  is  evenly  spaced  out  between
+
+this  text  object
+
+this  blue  rectangle  and  this  yellow
+
+divider  i  want  to  make  sure  all  three  of
+
+these  are  evenly  spaced  out  so  im going
+
+to  click  on  the  divider
+
+hold  shift  click  on  the  blue  box  hold
+
+shift
+
+click  on  the  text  and  come  over  here  to
+
+where  it  says  distribute
+
+and  were  looking  for  this  icon  down
+
+here  towards  the  bottom  right  that  says
+
+make  vertical  gaps  between  objects  equal
+
+go  ahead  and  click  on  that
+
+and  there  we  go  so  let  me  uh  create  some
+
+text  to  put  in  here  im  going to  grab
+
+the  text  tool
+
+snap  to  the  left  guide  right  here
+
+put  that  right  there  im  just  going  to
+
+use  header  text
+
+im  going  to  make  that  white
+
+and  maybe  ill  make  that  a  little  bigger
+
+maybe  something  like  30  32  that  should
+
+be  pretty  good
+
+and  now  i  want  to  use  this  divider  for
+
+this  design  im  going  to  use  this
+
+divider  down  here  as  well  so  let  me  take
+
+that  divider
+
+duplicate  that  by  right  clicking  it
+
+going  to  duplicate
+
+put  this  over  here  and  i  want  this
+
+divider  to  be  the  same  width  of  this
+
+text  so  let  me  click  on  the  text
+
+right  click  it  and  go  to  copy  and  then
+
+click  on  the  divider  and  go  to  edit
+
+paste  size  paste  with
+
+and  then  i  can  go  ahead  and  paste  this
+
+move  this  over  here  like  that
+
+im  going  to  zoom  in  so  that  the  snaps
+
+wont  get  in  the  way  there  we  go
+
+and  now  im  going  to  put  some  subtext
+
+down  here  so  let  me  click  on  this
+
+right  click  it  duplicate  put  this  down
+
+here
+
+make  this  white  grab  the  text  tool  again
+
+and  uh  sub
+
+text  can  go  here
+
+let  me  just  stack  this  next  to  it  like
+
+that
+
+now  its  looking  pretty  good  let  me  zoom
+
+in  just  make  sure  these  are
+
+evenly  spaced  apart  looking  pretty  good
+
+now  im  going  to  put  some  text  in  here
+
+on  this  right  side  to  do  that
+
+let  me  grab  the  text  tool  im  going  to
+
+start  over  here  on  this  guideline
+
+click  and  drag  like  this  let  me  try  that
+
+again  im  going  to  click  and  drag  to
+
+create  this  text  box
+
+ctrl  v  to  paste  there  we  go  make  that
+
+white
+
+uh  ctrl  a  to  select  it  all  im  going  to
+
+make  this  one  slightly  bigger  than  this
+
+body  text  over  here  so  this  was  size  to
+
+12.  im  going  to  size  this  at  maybe  uh
+
+16  see  how  that  looks
+
+that  looks  pretty  good  im  going  to  go
+
+ahead  and  remove  some  of  this  that  we
+
+dont  have  so  much  of  that  in  there
+
+okay  looking  pretty  good  now  if  youre
+
+not  happy  with  the  width  of  this  text
+
+what  you  can  do  is  let  me  zoom  in  a
+
+little  bit
+
+you  can  move  this  over  like  this
+
+and  then  you  can  go  back  to  the  text
+
+tool  and  take  this  node  right  here  and
+
+just  snap  it  to  the  right  side  so  that
+
+it  changes  the  uh  the  orientation  of  it
+
+like  that
+
+now  let  me  grab  the  select  tool  i  want
+
+to  center  this  text  up  within  this  blue
+
+object  so  im  going  to  hold  shift  and
+
+click  on  the  blue  text  i  mean  the  blue
+
+object
+
+and  im  going  to  change  the  relative  to
+
+im  going  to  change  that  to  last
+
+selected
+
+and  im  going  to  center  it  up  on  the
+
+horizontal  axis  like  that
+
+and  now  i  want  this  text  to  to  be
+
+aligned  to  the  top  of  this
+
+text  so  let  me  click  and  drag  over  those
+
+three  objects  right  there  to  select  them
+
+or  what  you  could  do  is  you  could  just
+
+click  them  one  by  one  while  holding
+
+shift
+
+and  then  just  group  them  together  with
+
+this  button  that  says  group  selected
+
+objects
+
+or  you  can  just  press  ctrl  g  hold  shift
+
+click  on  this  text  right  here  and  then
+
+just  where  it  says  uh  align  top  edges
+
+click  on  that  and  that  right  there  is
+
+what  were  looking  for  so  let  me  zoom
+
+out  a  little  bit
+
+let  me  click  off  of  this  to  deselect
+
+everything  now  what  you  could  do  now  is
+
+you  can  import  an  image  in  here  if  you
+
+want  to  do  what  i  did  if  you  want  to
+
+add  some  more  flair  to  this  design  what
+
+im  going  to  do  is  im  going  to
+
+import  my  image  over  here  i  have  it
+
+opened  up  on  my  other  monitor  if  i  can
+
+just  find  it  we  go
+
+ill  bring  my  folder  this  is  the  folder
+
+right  here
+
+ill  bring  it  into  the  screen  if  you
+
+just  take  your  image  and  just  click  and
+
+drag  it  onto  inkscape  like  that
+
+leave  the  defaults  as  it  is  click  ok  and
+
+theres  my  image
+
+i  just  want  to  send  this  to  the  bottom
+
+of  the  image  im  going  to  right  click
+
+this
+
+actually  no  im  going  to  come  over  here
+
+to  where  it  says  lower  selection  to  the
+
+bottom
+
+click  on  that  and  then  i  want  to  raise
+
+that  one  step  so  its  above
+
+the  white  page  so  im  going to  click
+
+this  button  over  here  that  says  raise
+
+selection
+
+one  step  and  if  at  any  point  you  want  to
+
+see  how  your  design  is  looking  without
+
+these  guides  in  the  way  you  could  just
+
+come  over  here  where  it  says  view
+
+and  then  deselect  guides  what  i  like  to
+
+do  is  use  the  keyboard  shortcut  which  is
+
+this
+
+vertical  line  right  here  so  im  going  to
+
+toggle  them  off  and  on  to  see  how  they
+
+look
+
+okay  so  let  me  center  this  up  on  the
+
+blue  box  right  here  let  me  select  that
+
+hold  shift  click  on  the  blue  box
+
+center  it  up  vertically  and  horizontally
+
+like  that  click  off  of  it  to  deselect
+
+everything
+
+take  just  this  blue  box  and  bring  the
+
+opacity  down  a  little  bit  so
+
+the  image  shows  beneath  it  then  i  want
+
+to  take  this  image
+
+hold  ctrl  and  shift  and  scale  it  down
+
+like  that
+
+thats  pretty  good  let  me  zoom  in  move
+
+this  up
+
+okay  so  now  i  just  want  to  crop  this
+
+image  so  that  it  fits  this  blue  square
+
+right  here  so  let  me  take  the  blue
+
+square
+
+right  click  it  go  to  duplicate  hold
+
+shift
+
+click  on  the  image  and  go  to  object  clip
+
+object  clip  set  and  there  we  go
+
+now  let  me  take  this  and  just  adjust  the
+
+opacity  so  that  some  of  it  shows  through
+
+that  right  there  looks  pretty  good
+
+now  let  me  zoom  out  im  going  to  come
+
+over  here  now  to  where  it  says  view  let
+
+me  toggle  off  the  guide  so  we  can  see
+
+how  it  looks
+
+and  as  you  can  see  our  design  is  looking
+
+pretty  good  now  you  can  use  this  area
+
+here  to  import  like  an  infographic  or  a
+
+pie  chart  or  something  like  i  did  im
+
+going  to  leave  it  blank  for  now
+
+as  it  stands  this  design  is  looking  like
+
+its  finished  so  what  im  going  to  do  is
+
+im  going  to  save  it  as  a  pdf  document
+
+ill  go  to  file
+
+save  as  im  just  going  to  title  this
+
+thing
+
+report  and  for  the  file
+
+save  save  as  type  im  going  to  change
+
+that  to  pdf
+
+right  there  there  we  go  and  ill  go
+
+ahead  and  save
+
+you  leave  the  defaults  as  they  are  go
+
+ahead  and  click  ok
+
+ok  now  the  downside  of  one  of  the  other
+
+downsides  of  doing  this  with  inkscape  is
+
+that  youll  have  to  design
+
+your  report  or  your  book  one  page  at  a
+
+time
+
+and  then  save  all  of  the  individual
+
+pages  as  individual  pdfs
+
+and  then  use  something  like  pdf  sam  to
+
+merge  the  pdf  document  together  ill
+
+show  you  that  in  just  a  minute
+
+again  this  is  one  of  the  downsides  of
+
+using  inkscape  thats  why  i  recommend  if
+
+youre  creating  something  really  long
+
+like  a  50  or  60  page  book
+
+probably  not  a  good  idea  to  use  inkscape
+
+but  if  you  just  want  to  create  a  one  or
+
+two  page  report  like  this
+
+thats  fine  so  let  me  um  let  me  uh
+
+minimize  this  now  let  me  come  back  over
+
+here  to  my  folder  im  looking  for
+
+report.pdf  what  im  going to  do  is  were
+
+going  to  save  a  second  copy  of  this
+
+file  save  as  im  going  to  save  a  second
+
+a  second  copy  of  this  just  so  i  can
+
+demonstrate  how  this  works
+
+report  to
+
+pdf  click  save
+
+so  now  what  ive  done  here  is  i  opened
+
+up  a  piece  of  software  known  as  pdf  sam
+
+this  is  a  free  piece  of  software  ill
+
+have  a  link  in  the  description  if  you
+
+want  to  download  it  this  just  allows  you
+
+to  merge  pdf  documents  together  pretty
+
+quickly
+
+if  you  want  you  can  use  a  web-based
+
+solution  if  youd  like  you  dont  have  to
+
+download  software  to  do  this
+
+come  over  here  to  where  it  says  merge
+
+and  im  going  to  take  these  two
+
+documents  and  place  them  in  here  like
+
+this  and  its  going  to  ask  you  where  you
+
+want  to  place  this  im  going  to  place  it
+
+where  it  originally  was
+
+and  im  going  to  leave  everything  as  it
+
+is  and  click  run
+
+and  there  we  go  so  let  me  open  up  this
+
+document
+
+and  as  you  can  see  here  we  have  a
+
+two-page  pdf  document  that  we  created
+
+with  inkscape  and  you  can  take  this  text
+
+and  highlight  it  and  copy  and  paste  it
+
+just  like  you  would  with  any  other  pdf
+
+document
+
+and  the  great  thing  about  this  again  is
+
+since  we  created  this  in  inkscape  this
+
+is  a  vector
+
+design  meaning  you  can  zoom  in  on  this
+
+and  you  wont  get  that  pixelization  you
+
+get  that
+
+the  benefit  of  working  with  vectors  like
+
+that  so  i  think  that  should  do  it  for
+
+this  tutorial  thats  how  you  can  go
+
+about  using  inkscape
+
+for  some  pretty  rudimentary  desktop
+
+publishing  purposes
+
+if  you  have  any  questions  just  leave  a
+
+comment  below  and  as  always  thanks  for
+
+
+
+watching
+

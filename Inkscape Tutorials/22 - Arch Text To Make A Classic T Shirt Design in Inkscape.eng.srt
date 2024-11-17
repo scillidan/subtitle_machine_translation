@@ -1,0 +1,672 @@
+1
+00:00:00,000 --> 00:00:02,159
+in this tutorial we'll be going over how
+
+2
+00:00:02,159 --> 00:00:04,620
+you can Arch text in inkscape to create
+
+3
+00:00:04,620 --> 00:00:07,379
+this classic athletic t-shirt design
+
+4
+00:00:07,379 --> 00:00:09,120
+and if you just want to know how to arch
+
+5
+00:00:09,120 --> 00:00:10,740
+text then you could skip to that part of
+
+6
+00:00:10,740 --> 00:00:12,540
+the lesson using the chapters in the
+
+7
+00:00:12,540 --> 00:00:13,799
+play bar below
+
+8
+00:00:13,799 --> 00:00:15,599
+if you do want to recreate this design
+
+9
+00:00:15,599 --> 00:00:17,220
+just make sure to download and install
+
+10
+00:00:17,220 --> 00:00:18,960
+this font that I'll have Linked In the
+
+11
+00:00:18,960 --> 00:00:20,460
+description of the video
+
+12
+00:00:20,460 --> 00:00:21,720
+so I'll come over here into a new
+
+13
+00:00:21,720 --> 00:00:23,580
+document and get started the first thing
+
+14
+00:00:23,580 --> 00:00:25,380
+we want to do is add some text so I'm
+
+15
+00:00:25,380 --> 00:00:27,480
+going to grab my text tool and I'm going
+
+16
+00:00:27,480 --> 00:00:28,859
+to click on the canvas and I'm going to
+
+17
+00:00:28,859 --> 00:00:31,260
+type inkscape
+
+18
+00:00:31,260 --> 00:00:32,880
+and then I'm going to click again to
+
+19
+00:00:32,880 --> 00:00:34,200
+create another text item and I'm going
+
+20
+00:00:34,200 --> 00:00:36,960
+to write the EST date which is 2003.
+
+21
+00:00:36,960 --> 00:00:38,399
+and then I'll come down here and make
+
+22
+00:00:38,399 --> 00:00:40,920
+one more text item that has the tagline
+
+23
+00:00:40,920 --> 00:00:43,140
+which is draw freely
+
+24
+00:00:43,140 --> 00:00:44,640
+and once you do that let's go back to
+
+25
+00:00:44,640 --> 00:00:46,680
+the select tool let's select all three
+
+26
+00:00:46,680 --> 00:00:49,200
+text items and change their font so I'll
+
+27
+00:00:49,200 --> 00:00:51,300
+come up here to text and I will select
+
+28
+00:00:51,300 --> 00:00:53,340
+text and font
+
+29
+00:00:53,340 --> 00:00:55,920
+and from this menu we're looking for the
+
+30
+00:00:55,920 --> 00:00:58,559
+varsity team font as it's called so let
+
+31
+00:00:58,559 --> 00:01:00,780
+me locate that highlight it and then
+
+32
+00:01:00,780 --> 00:01:03,420
+click apply
+
+33
+00:01:03,420 --> 00:01:05,939
+and now I'm just going to resize my text
+
+34
+00:01:05,939 --> 00:01:06,960
+items
+
+35
+00:01:06,960 --> 00:01:08,400
+accordingly so I'm going to make this
+
+36
+00:01:08,400 --> 00:01:10,500
+one a little bigger I'll keep this one a
+
+37
+00:01:10,500 --> 00:01:12,360
+little smaller and I'll make this one
+
+38
+00:01:12,360 --> 00:01:14,280
+the biggest ad the biggest of them all
+
+39
+00:01:14,280 --> 00:01:16,380
+now make sure to hold your control key
+
+40
+00:01:16,380 --> 00:01:18,500
+while you're scaling to ensure that you
+
+41
+00:01:18,500 --> 00:01:21,659
+preserve the aspect ratio
+
+42
+00:01:21,659 --> 00:01:23,640
+and now I'm going to create a rounded
+
+43
+00:01:23,640 --> 00:01:25,560
+rectangle to place behind this text here
+
+44
+00:01:25,560 --> 00:01:28,020
+so let me grab my rectangle tool I'm
+
+45
+00:01:28,020 --> 00:01:29,820
+going to click and drag over the object
+
+46
+00:01:29,820 --> 00:01:31,740
+to create the rectangle
+
+47
+00:01:31,740 --> 00:01:33,119
+and I'm going to use this little round
+
+48
+00:01:33,119 --> 00:01:34,979
+handle up here in the top right corner
+
+49
+00:01:34,979 --> 00:01:37,020
+to round the corners of this rectangle
+
+50
+00:01:37,020 --> 00:01:39,360
+rectangle ever so slightly
+
+51
+00:01:39,360 --> 00:01:41,340
+and then I will grab my selection tool
+
+52
+00:01:41,340 --> 00:01:43,380
+and place this beneath the text so I'll
+
+53
+00:01:43,380 --> 00:01:45,119
+click on this button over here that says
+
+54
+00:01:45,119 --> 00:01:48,060
+lower selection one step
+
+55
+00:01:48,060 --> 00:01:50,340
+now I'm just going to size this up
+
+56
+00:01:50,340 --> 00:01:53,159
+according to the text there
+
+57
+00:01:53,159 --> 00:01:55,439
+and now I'm going to select both and I'm
+
+58
+00:01:55,439 --> 00:01:56,939
+going to align them so let me open up
+
+59
+00:01:56,939 --> 00:01:58,439
+the Align and distribute menu by going
+
+60
+00:01:58,439 --> 00:02:00,540
+to object and selecting align and
+
+61
+00:02:00,540 --> 00:02:02,280
+distribute
+
+62
+00:02:02,280 --> 00:02:04,619
+and I'm going to choose relative 2 and
+
+63
+00:02:04,619 --> 00:02:06,240
+I'm going to align it vertically and
+
+64
+00:02:06,240 --> 00:02:07,740
+horizontally
+
+65
+00:02:07,740 --> 00:02:10,080
+and with the items still selected let's
+
+66
+00:02:10,080 --> 00:02:14,099
+go to path and select difference and
+
+67
+00:02:14,099 --> 00:02:15,540
+what that's going to do is subtract the
+
+68
+00:02:15,540 --> 00:02:17,940
+text from the rectangle and now this
+
+69
+00:02:17,940 --> 00:02:21,120
+rectangle has empty space in it in the
+
+70
+00:02:21,120 --> 00:02:22,440
+shape of those letters so that any
+
+71
+00:02:22,440 --> 00:02:24,120
+backdrop that you place it on top of
+
+72
+00:02:24,120 --> 00:02:25,440
+will show through where those letters
+
+73
+00:02:25,440 --> 00:02:26,520
+are
+
+74
+00:02:26,520 --> 00:02:28,319
+so let me zoom out I'm going to make all
+
+75
+00:02:28,319 --> 00:02:29,640
+of this the same color I'm going to
+
+76
+00:02:29,640 --> 00:02:31,200
+select everything here and choose a
+
+77
+00:02:31,200 --> 00:02:33,120
+color that I'd like to work with if you
+
+78
+00:02:33,120 --> 00:02:34,500
+want to choose a different color other
+
+79
+00:02:34,500 --> 00:02:36,000
+than what you see down here you can open
+
+80
+00:02:36,000 --> 00:02:37,920
+up your fill and stroke menu just double
+
+81
+00:02:37,920 --> 00:02:39,900
+click this color stripe over here and
+
+82
+00:02:39,900 --> 00:02:42,060
+it'll open up the fill and stroke menu
+
+83
+00:02:42,060 --> 00:02:45,599
+and I'm going to choose my color
+
+84
+00:02:45,599 --> 00:02:47,940
+there we go and now I just want to make
+
+85
+00:02:47,940 --> 00:02:50,220
+sure that everything here is aligned so
+
+86
+00:02:50,220 --> 00:02:51,300
+I'm going to come over here to the align
+
+87
+00:02:51,300 --> 00:02:52,980
+the distribute menu and I'm going to
+
+88
+00:02:52,980 --> 00:02:55,560
+align it vertically and let me make
+
+89
+00:02:55,560 --> 00:02:58,319
+these items a little closer together
+
+90
+00:02:58,319 --> 00:02:59,700
+I'm just going to move them up like that
+
+91
+00:02:59,700 --> 00:03:01,980
+now again to select multiple objects I
+
+92
+00:03:01,980 --> 00:03:03,360
+click I click on them while holding
+
+93
+00:03:03,360 --> 00:03:05,340
+shift and while I'm moving them I'm
+
+94
+00:03:05,340 --> 00:03:07,319
+holding the control key to ensure that
+
+95
+00:03:07,319 --> 00:03:08,879
+they are locked to the vertical axis
+
+96
+00:03:08,879 --> 00:03:09,959
+there and they do not lose their
+
+97
+00:03:09,959 --> 00:03:11,519
+alignment
+
+98
+00:03:11,519 --> 00:03:14,280
+and once you've done that let's apply an
+
+99
+00:03:14,280 --> 00:03:16,200
+arch to this text right here so I'm
+
+100
+00:03:16,200 --> 00:03:17,700
+going to click on the text to select it
+
+101
+00:03:17,700 --> 00:03:19,739
+and I'm going to convert it to a path by
+
+102
+00:03:19,739 --> 00:03:22,080
+going to path and selecting object to
+
+103
+00:03:22,080 --> 00:03:23,040
+path
+
+104
+00:03:23,040 --> 00:03:25,800
+and now I will open up the pathfx menu
+
+105
+00:03:25,800 --> 00:03:28,080
+so let's come back up here to path and
+
+106
+00:03:28,080 --> 00:03:30,599
+let's choose pathfx
+
+107
+00:03:30,599 --> 00:03:33,300
+from the pathfx menu I'm going to choose
+
+108
+00:03:33,300 --> 00:03:35,879
+the envelope deformation option which is
+
+109
+00:03:35,879 --> 00:03:37,440
+right here
+
+110
+00:03:37,440 --> 00:03:39,480
+and in the settings menu I want to
+
+111
+00:03:39,480 --> 00:03:40,799
+disable this setting right here that
+
+112
+00:03:40,799 --> 00:03:43,260
+says enable left and right paths we only
+
+113
+00:03:43,260 --> 00:03:45,239
+want to enable the top and bottom for
+
+114
+00:03:45,239 --> 00:03:46,799
+what we're doing here so let me deselect
+
+115
+00:03:46,799 --> 00:03:48,659
+that and then click on this button right
+
+116
+00:03:48,659 --> 00:03:51,480
+here that says Top Bend path
+
+117
+00:03:51,480 --> 00:03:52,799
+and once you do that you'll get this
+
+118
+00:03:52,799 --> 00:03:54,299
+little green line at the top of the
+
+119
+00:03:54,299 --> 00:03:56,400
+object here and if you hover your cursor
+
+120
+00:03:56,400 --> 00:03:58,140
+over you can click and drag
+
+121
+00:03:58,140 --> 00:04:00,480
+to bend the text up like that
+
+122
+00:04:00,480 --> 00:04:01,860
+and then we'll do the same thing here
+
+123
+00:04:01,860 --> 00:04:04,379
+we'll choose the bottom bent path and
+
+124
+00:04:04,379 --> 00:04:07,620
+we'll bend that text up like that
+
+125
+00:04:07,620 --> 00:04:09,540
+and just like that we have arced our
+
+126
+00:04:09,540 --> 00:04:11,580
+text so let me grab my selection tool
+
+127
+00:04:11,580 --> 00:04:15,260
+let's move these items up a little bit
+
+128
+00:04:15,599 --> 00:04:17,339
+and I'm just going to Center this up one
+
+129
+00:04:17,339 --> 00:04:18,540
+more time just to make sure everything
+
+130
+00:04:18,540 --> 00:04:20,579
+is still aligned
+
+131
+00:04:20,579 --> 00:04:21,839
+and now I'm going to make this much
+
+132
+00:04:21,839 --> 00:04:22,979
+bigger because if you're going to print
+
+133
+00:04:22,979 --> 00:04:24,000
+this on a shirt you're going to want
+
+134
+00:04:24,000 --> 00:04:25,560
+this design to be really big so let me
+
+135
+00:04:25,560 --> 00:04:27,720
+make this a lot bigger
+
+136
+00:04:27,720 --> 00:04:29,759
+again holding the control key while I
+
+137
+00:04:29,759 --> 00:04:31,380
+scale to ensure that everything remains
+
+138
+00:04:31,380 --> 00:04:33,660
+proportionate and now I'm going to
+
+139
+00:04:33,660 --> 00:04:35,699
+resize my document to match this
+
+140
+00:04:35,699 --> 00:04:37,020
+selection right here so with everything
+
+141
+00:04:37,020 --> 00:04:39,419
+selected I'm going to press Ctrl shift
+
+142
+00:04:39,419 --> 00:04:41,340
+and R or if you're using Mac it would be
+
+143
+00:04:41,340 --> 00:04:43,380
+command shift and R and there we go now
+
+144
+00:04:43,380 --> 00:04:44,520
+we're finished you could take this
+
+145
+00:04:44,520 --> 00:04:46,740
+design export it and upload it to a site
+
+146
+00:04:46,740 --> 00:04:48,419
+like Teespring or spreadshirt or
+
+147
+00:04:48,419 --> 00:04:50,880
+wherever else and have your shirt
+
+148
+00:04:50,880 --> 00:04:52,740
+printed so I think that should do it for
+
+149
+00:04:52,740 --> 00:04:54,060
+today's tutorial that is how you can
+
+150
+00:04:54,060 --> 00:04:56,040
+Arch text to create a simple athletic
+
+151
+00:04:56,040 --> 00:04:58,680
+T-shirt design using inkscape if you
+
+152
+00:04:58,680 --> 00:05:00,360
+found this lesson useful then consider
+
+153
+00:05:00,360 --> 00:05:02,280
+checking out my inkscape master class
+
+154
+00:05:02,280 --> 00:05:04,500
+it's a collection of over 60 videos
+
+155
+00:05:04,500 --> 00:05:06,120
+where I go over all of the tools and
+
+156
+00:05:06,120 --> 00:05:08,160
+features in inkscape and I explain what
+
+157
+00:05:08,160 --> 00:05:09,720
+they are and demonstrate how they work
+
+158
+00:05:09,720 --> 00:05:12,300
+kind of like how I did in this video we
+
+159
+00:05:12,300 --> 00:05:13,979
+even have a private Community where you
+
+160
+00:05:13,979 --> 00:05:15,780
+can ask questions and get help from me
+
+161
+00:05:15,780 --> 00:05:18,300
+anytime you want and best of all there's
+
+162
+00:05:18,300 --> 00:05:20,280
+no monthly membership fees you just pay
+
+163
+00:05:20,280 --> 00:05:23,699
+17 one time and you're in for Life I'll
+
+164
+00:05:23,699 --> 00:05:25,020
+have some information about that down
+
+165
+00:05:25,020 --> 00:05:26,699
+below if you want to check that out as
+
+166
+00:05:26,699 --> 00:05:29,900
+always thanks for watching
+
+167
+00:05:43,280 --> 00:05:45,300
+thank you
+
+168
+00:05:45,300 --> 00:05:47,539
+foreign
+

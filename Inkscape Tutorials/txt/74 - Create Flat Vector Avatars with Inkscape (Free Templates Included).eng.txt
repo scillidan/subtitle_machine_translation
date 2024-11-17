@@ -1,0 +1,906 @@
+
+
+
+this  is  nick  with  logosbynic.com  and  in
+
+this  tutorial  ill  be  demonstrating  how
+
+you  can  create  these  flat  style  vector
+
+avatars
+
+using  inkscape  and  if  youd  like  to
+
+learn  more  about  how  inkscape  works  be
+
+sure  to  check  out  my  inkscape  master
+
+class  its  a  collection  of  over  60
+
+videos
+
+where  i  go  over  every  tool  and  feature
+
+in  inkscape  and  i  explain  what  it  is  and
+
+demonstrate  how  it  works
+
+ill  put  a  link  in  the  description  of
+
+the  video  if  you  want  to  check  that  out
+
+so  well  get  started  here  in  escape  the
+
+first  thing  we  want  to  do  is  just  set  up
+
+our  documents  that  were  all  working
+
+with  a  similar  view
+
+i  just  want  to  come  up  here  to  where  it
+
+says  view  make  sure  we  have  custom
+
+selected
+
+well  come  over  here  to  zoom  make  sure
+
+you  zoom  in  at  one  to  one
+
+and  then  im  going  to  open  up  the  align
+
+and  distribute  menu  with  this  button
+
+over  here  or  you  could  just  press
+
+ctrl  shift  and  a  as  you  can  see  here
+
+where  it  says  relative  to  were  going  to
+
+want  to  have  this  set  to  last  selected
+
+and  then  ill  open  up  the  fill  and
+
+stroke  menu  which  is  over  here  or  you
+
+can  just  press  ctrl
+
+shift  and  f  and  well  have  that  open  as
+
+you  can  see  there
+
+so  to  get  us  started  basically  what
+
+were  going  to  be  doing  is  were  just
+
+going  to  be  using  really  basic  common
+
+shapes  in  inkscape  to  put  together
+
+avatars  or  faces  and
+
+ill  just  do  one  as  an  example  here  im
+
+going  to  grab  the  squares  and  rectangles
+
+tool  right  here
+
+and  im  going  to  click  and  drag  to
+
+create  a  rectangle  like  that  a  little
+
+longer  in  height  a  little  larger  in
+
+height  than  it  is  in  width
+
+because  this  is  going  to  represent  our
+
+avatars  head  and  up  here  this  little
+
+note  at  the  top  right  this  little
+
+circular  note  im  just  going  to  bring
+
+that  down  like  that  to  give  this  rounded
+
+corners
+
+and  ill  give  this  a  color  just  to  color
+
+in  the  face  here  maybe  like  a  shade  of
+
+orange  or  something  like  that
+
+over  here  in  the  fill  tab  under  the  hsl
+
+tab  im  just  going  to  adjust  the  color  a
+
+little  bit  maybe
+
+give  it  a little  more  vibrance  like  that
+
+there  we  go  that  looks  pretty  good  and
+
+now  that  represents  thats  going  to
+
+represent  the  head  im  going  to  put  some
+
+eyes  on  here  now  so  let  me  grab  the
+
+circle  tool  and  im  going  to  hold  ctrl
+
+and  shift  so  that  it  makes  a
+
+perfectly  round  circle  like  that  and
+
+just  click  and  drag  there  we  go
+
+ill  make  the  eyes  black  or  a  dark  shade
+
+of  gray  like  that
+
+put  this  towards  the  center  like  that
+
+create  another  eye  so  im  going  to  right
+
+click  this  and  go  to  duplicate
+
+and  hold  ctrl  and  move  this  over  here
+
+like  that  now  im  going  to  create
+
+another  rectangle  right  in  the  center
+
+here  which  is  going  to  represent  the
+
+nose  so  let  me  grab  the
+
+the  rectangle  tool  again  make  the  nose
+
+put  that  right  there
+
+i  want  to  make  this  the  same  shade  as
+
+the  uh  the  head  here  but
+
+slightly  darker  so  im  going  to  grab  the
+
+dropper  tool  which  is  over  here
+
+i  just  like  to  press  d  on  the  keyboard
+
+to  grab  that  its  a  lot  more  convenient
+
+click  on  that  to  give  it  that  color  and
+
+im  just  going  to  make  this  a  little
+
+darker  like  that
+
+looking  pretty  good  now  im  going  to
+
+grab  the  select  tool  i  want  to  make  sure
+
+this  is  all  centered  up  on  the  page  here
+
+so  im  going  to  hold  shift  and  click  on
+
+the  head  right  there  and  im  going  to
+
+make  sure  the  nose  is  centered
+
+on  the  head  and  im  going  to  take  these
+
+two  circles  the  eyes  hold
+
+shift  click  them  both  group  them
+
+together  with  this  button  up  here  that
+
+says  group  selected  objects
+
+then  hold  shift  and  click  on  the  head
+
+and  then  center  that  up
+
+on  the  uh  horizontal  axis  like  that  or
+
+the  vertical  axis  rather
+
+now  let  me  click  off  of  that  to  deselect
+
+everything  im  going  to  click  over  those
+
+objects  right  there
+
+so  i  select  them  both  and  just  hold  ctrl
+
+and  scale  them  up  a  little  bit
+
+you  may  have  to  scale  them  up  or  down
+
+depending  on  how  big  or
+
+small  you  made  them  so  just  go  ahead  and
+
+manually  adjust  it  as  you  see  fit
+
+and  what  ill  do  now  is  ill  just  put
+
+like  a  little  bit  of  a  little  mouth  down
+
+here  so  im
+
+going  to  grab  the  circles  and  ellipses
+
+tool  hold  ctrl  and  shift  and  click  and
+
+drag  to  create  a  perfectly  round  circle
+
+like  that
+
+and  i  only  want  half  of  that  circle  so
+
+what  im  going  to  do  is  im  going to
+
+convert  this  to  a  path  ill  go  to  path
+
+object  to  path  im  going  to  grab  the
+
+bezier  pen  which  is
+
+im  just  going  to  press  b  on  the
+
+keyboard  to  grab  that  its  this  is  its
+
+this  icon  right  here  i  dont  normally
+
+use  these  tools  so
+
+i  just  have  the  keyboard  shortcuts
+
+memorized  and  then  i  want  to  turn  on
+
+snapping  up  here  i  want  to  make  sure  i
+
+have  snapping  enabled  and  i  want  to  have
+
+this  one  right  here  enabled  that  says
+
+snap  to  cusp  nodes  including  rectangle
+
+corners
+
+and  this  one  right  here  snap  to  smooth
+
+nodes  including  quadrant  points  of
+
+ellipses  i  want  to  make  sure  those  two
+
+are  enabled
+
+im  going  to  snap  to  the  left  side  of
+
+this  circle  click
+
+snap  to  the  right  side  of  that  circle
+
+click  and  then  finish  the  shape  up
+
+around  the  outside  like  that
+
+grab  the  select  tool  hold  shift  click  on
+
+the  circle  so  we  have  them  both  selected
+
+and  go  to  path
+
+difference  and  what  i  want  to  do  now  is
+
+i  want  to  make  this
+
+a  shade  of  red  like  that  this  is  going
+
+to  represent  the  mouth  i  want  to  put  a
+
+rectangle  up  top  here  to  represent  teeth
+
+let  me  first  put  this  over  here  im
+
+going  to  hold  ctrl  and  scale  that  down  a
+
+little  bit
+
+let  me  hold  shift  and  click  on  both  of
+
+those  objects  and  make  sure  i  have  them
+
+centered  up  like  that
+
+i  might  want  to  take  these  eyes  and  nose
+
+and  move  them  up  a  little  bit
+
+im  going  to  put  another  rectangle  right
+
+here  to  represent  teeth
+
+so  what  i  want  to  do  is  i  want  to  i  want
+
+to  make  sure  that  the  rectangle  is  the
+
+same  width
+
+as  this  half  circle  so  im  going  to
+
+click  on  the  half  circle  up  here  where
+
+it  says  width
+
+im  going  to  triple  click  that  so  we
+
+have  it  all  selected  and  im  going  to
+
+copy  whatever  that  number  is  im  going
+
+to  hit  ctrl  c
+
+on  the  keyboard  and  now  im  going  to
+
+create  a  rectangle  so  im  going  to  come
+
+over  here
+
+create  a  rectangle  like  that  were  going
+
+to  want  square  corners  in  this  rectangle
+
+so  im  going  to  click  this  button  up
+
+here
+
+to  make  sure  the  corner  is  sharp  like
+
+that
+
+and  now  im  going  to  paste  the  height  in
+
+there  so  ill  grab  the  select  tool  and
+
+again  where  it  says  width
+
+triple  click  that  and  then  just  hit  ctrl
+
+v  to  paste  the  height  in  there  like  that
+
+thats  what  im  looking  for  im  going  to
+
+make  that  white
+
+to  represent  teeth  maybe  make  that  a
+
+little  smaller
+
+im  going  to  hold  shift  click  on  the
+
+mouth  group  those  two  together
+
+with  the  group  button  up  here  oops
+
+there  we  go  let  me  make  that  a  little
+
+smaller  again  make  sure  we  have  it
+
+centered  up  it  looks  like  it  already  is
+
+and  what  im  going to  do  now  is  im
+
+going  to  add  some  ears  to  the  sides  of
+
+the  head  here
+
+now  if  you  see  me  scrolling  um  you  see
+
+me  zooming  in  and  out  like  this  you
+
+could  just  hold  ctrl
+
+and  roll  up  and  down  your  mouse  wheel  to
+
+zoom  in  and  out  and  to  move  around  the
+
+page  you  can  just  press  down  the  mouse
+
+wheel  and  move  around  the  mouse
+
+so  let  me  grab  the  circles  and  ellipses
+
+tool  im  going  to  hold  ctrl  and  shift  to
+
+create  another  ellipse  or  a  circle
+
+rather  like  this
+
+i  want  to  make  this  the  same  color  as
+
+the  skin  tone  here  so  im  going  to  grab
+
+the  dropper  tool
+
+over  here  and  make  that  the  same  color
+
+now  i  want  this  to  be  positioned  beneath
+
+the  head  so  im  going  to  come  up  here  to
+
+where  it  says
+
+lower  selection  to  the  bottom  and  click
+
+on  that  and  let  me  just  turn  off
+
+snapping  for  the  time  being  because  that
+
+may  get  in  the  way  of  where  i  want  to
+
+position
+
+the  uh  the  ears  here  so  let  me  bring
+
+this  over  like  that
+
+im  going  to  hold  ctrl  and  shift  and
+
+scale  that  down  it  looks  a  little  too
+
+a  little  too  big  position  that  right
+
+about  there
+
+now  im  going  to  create  a  a  duplicate  of
+
+this  circle  by  pressing  control  d
+
+and  im  going  to  make  it  the  same  color
+
+as  the  nose  right  here  so  again  were
+
+going  to  grab  the  dropper
+
+go  like  that  there  we  go  now  im  going
+
+to  lower  this  down  im  going  to  lower
+
+this  one  step
+
+lower  this  another  step  so  that  it  goes
+
+beneath  the  head  there
+
+and  to  do  that  im  pushing  this  button
+
+right  here  lower  selection  one  step
+
+im  going  to  hold  ctrl  and  shift  scale
+
+that  down
+
+and  that  right  there  is  what  im  looking
+
+for  so  ill  hold  shift  now
+
+and  click  on  both  of  these  circles  so  i
+
+have  them  both  selected  and  ill  group
+
+them  together
+
+group  selected  objects  and  now  i  want  to
+
+duplicate  them  because  im  going  to
+
+use  them  for  the  other  ear  over  here  so
+
+instead  of  right  clicking  and  going  to
+
+duplicate  im  just  going  to  press  ctrl
+
+d  on  the  keyboard  to  duplicate  it  and
+
+then  ill  hold  ctrl  and  just  click  and
+
+drag  this  over  to  the  right  side  like
+
+that
+
+and  im  going  to  lower  them  to  the
+
+bottom  maybe  ill  move  this  over  a
+
+little  closer  like  that
+
+i  want  to  hold  shift  and  click  on  the
+
+other  ear  over  here  i  want  both  sets  of
+
+ears  selected
+
+and  i  want  to  group  them  together  and
+
+then  hold  shift  and  click  on  the  head
+
+and  center  that  up  on  the  vertical  axis
+
+like  that  now  let  me  zoom  out  a  little
+
+bit  so  i  can  see  how  this  is  coming  out
+
+its  looking  pretty  good  one  thing  i
+
+want  to  do  is  make  the  head  a  little
+
+more  elongated  so  let  me  convert
+
+this  to  a  path  im  going to  go  to  path
+
+object  to  path
+
+and  now  im  going  to  go  to  the  edit
+
+paths  by  nodes  tool  im  going  to  click
+
+and  drag  over  this  top  portion  of  nodes
+
+over  here
+
+and  just  hold  ctrl  and  move  them  up  like
+
+there  because  were  going  to  put  some
+
+hair
+
+over  the  head  here  and  i  want  to  make
+
+sure  i  have  more  room  to  work  with
+
+so  let  me  grab  this  select  tool  what  im
+
+going  to  do  now  is  im  going  to  create
+
+some  hair  for  our  avatar  here  so
+
+to  do  this  im  going  to  create  an  offset
+
+of  the  head  here  so  im  going  to  go  to
+
+with  this
+
+head  selected  ill  go  to  path  linked
+
+offset
+
+and  thats  going  to  create  a  copy  of  it
+
+and  the  copy  is  going  to  be  located
+
+behind
+
+the  head  so  let  me  just  come  over  here
+
+and  pick  a  color  for  the  hair  im  going
+
+to  go  with
+
+like  this  shade  of  brown  over  here
+
+youre  not  going  to  see  it  change  colors
+
+on  your  screen  because  its  positioned
+
+behind  the  head  but  once  youve  done
+
+that  you  can  take  this  little  node  and
+
+pull  that  out
+
+and  youll  notice  its  coming  out  like
+
+that  now  let  me  finalize  that  by
+
+converting  it  to  a  path  well  go  to  path
+
+object  to  path  and  i  want  to  grab  the
+
+select  tool
+
+and  lower  this  to  the  bottom  so  it  goes
+
+beneath  the  ears  and  now  i  just  want  to
+
+cut  off
+
+the  portion  of  the  hair  that  is  below
+
+the  ears  so  let  me  grab  the  bezier  pen
+
+again
+
+im  going  to  start  right  about  here
+
+click  to  create  a  point  hold  ctrl  bring
+
+the  line  straight  through  like  that
+
+create  another  point  now  we  can  just  let
+
+go  of  control  and  finish  the  shape
+
+around  the  outside  like  that
+
+grab  the  select  tool  hold  shift  click  on
+
+the  object  there  and  go  to
+
+path  difference  and  there  we  go  now  we
+
+have
+
+the  sides  of  the  hair  anyway  im  going
+
+to  add  some  hair  to  the  top  up  here
+
+so  to  do  that  im  going  to  grab  the
+
+rectangle  tool  again  and  im  just  going
+
+to  create  a  rectangle  over  the  top  here
+
+to  create  some  hair  to  put  on  top  of  the
+
+head
+
+ill  position  this  right  about  here  and
+
+im  going  to  make  this  shade  a  little
+
+lighter
+
+just  to  add  a  little  bit  of  depth  to  the
+
+design  here  and  what  i  want  to  do  now  is
+
+i  want  to  leave  this  corner
+
+sharp  but  i  want  to  make  these  three
+
+corners  rounded  and  to  do  that  im  going
+
+to  use  a
+
+live  path  effect  called  fillet  and
+
+chamfer
+
+so  let  me  first  convert  this  to  a  path
+
+ill  go  to  path
+
+object  to  path  now  i  want  to  open  up  the
+
+path  effects  menu  so  ill  go  to  path
+
+grab  the  path  effects  menu  and  right
+
+here  where  it  says  plus
+
+click  on  plus  to  add  a  new  path  effect
+
+and  the  one  im  looking  for  is  corners
+
+or  the  fillet  and  chamfer  path  effect
+
+click  on  that
+
+and  down  here  where  it  says  change  only
+
+selected  nodes  make  sure  you  click  on
+
+that  to  have  that  box  text
+
+and  im  going  to  grab  the  edit  pads  by
+
+nodes  tool
+
+and  im  going  to  click  and  drag  over
+
+this  node  on  the  top  left  then  hold
+
+shift  click  on  this  click  and  drag  over
+
+that  node  on  the  bottom  left
+
+and  then  again  hold  shift  and  take  this
+
+node  over  here  on  the  bottom  right
+
+so  that  we  only  have  these  three  nodes
+
+selected  because  i  want  to  make  these
+
+three  corners  rounded
+
+now  where  it  says  radius  im  just  going
+
+to  click  this  little  plus  icon  and
+
+youre  going  to  notice
+
+it  rounds  the  corners  it  rounds  those
+
+corners  as  we  do  that  while  leaving  this
+
+corner  sharp
+
+that  right  there  is  what  im  looking  for
+
+so  let  me  let  me  finalize  that  by  going
+
+to  path
+
+object  to  path  i  can  now  close  out  of
+
+the  path  effects  menu  we  dont  need  that
+
+anymore
+
+place  that  right  about  there  this  is
+
+starting  to  come  together  now
+
+one  final  thing  i  want  to  do  is  just  add
+
+a  little  bit  of  a  a  little  bit  of  an
+
+accent  piece  right  here  to  make  it  look
+
+like  um  like  light  is  reflecting  off  the
+
+hair  so  im  going  to  take  this
+
+object  im  going  to  duplicate  it  by
+
+pressing  ctrl  d
+
+and  then  im  going  to  hold  shift  and
+
+click  on  this  one  of  these  lighter
+
+shades  down  here  for  the  for  the  color
+
+we  originally  used  for  the  hair
+
+to  give  that  an  outline  otherwise  known
+
+as  a  stroke  now  let  me  remove
+
+the  fill  color  from  this  object  im
+
+going  to  click  this  little  red  x  over
+
+here  to  the  bottom  left
+
+and  im  going  to  hold  ctrl  and  shift  and
+
+scale  this  down  a little  bit  like  that  i
+
+just  want  to  position  this  right  about
+
+here
+
+i  just  want  to  take  a  sample  of  this
+
+line  right  here  i  dont  want  the
+
+entirety  of  this  line
+
+if  you  want  to  come  over  if  you  want  you
+
+can  come  over  here  to  the  stroke  style
+
+tab  to  adjust  the  thickness  of  this  line
+
+yours
+
+the  thickness  of  your  line  may  vary
+
+depending  on  what  you  most  recently  used
+
+so
+
+im  going  to  make  this  a  little  thicker
+
+and  now  i  just  like  i  said  i  just  want
+
+to  grab  a  sample  of  this  line  i  dont
+
+want  the  entire  line  so  im  going  to
+
+grab  the  bezier  pen  click  to  create  a
+
+point  hold  ctrl  bring  this  straight
+
+through
+
+like  that  then  bring  this  straight
+
+through  like  that
+
+back  to  the  starting  point  grab  the
+
+select  tool
+
+hold  shift  click  on  the  object  and  go  to
+
+path
+
+cut  path  and  thats  going  to  slice  that
+
+into  two  individual  pieces  so  let  me
+
+click  off  of  that
+
+and  take  just  this  object  and  just  get
+
+rid  of  that  by  pressing  delete  on  the
+
+keyboard
+
+and  now  we  have  this  im  going  to  go
+
+come  over  here  to  where  it says  stroke
+
+paint  and  im  going  to  adjust  the  color
+
+of  that  a  little  bit
+
+make  that  little  there  we  go  just  a
+
+little  lighter  than  the  hair  over  here
+
+so  if  we  zoom  out  you  can  see  were
+
+pretty  much  done  we  have  created  our
+
+vector
+
+avatar  im  going  to  leave  a  link  in  the
+
+description  of  the  video  to  where  you
+
+can  download
+
+12  of  these  vector  avatars  for  free
+
+and  then  you  can  use  them  however  you
+
+want  you  can  mix  and  match  different
+
+parts  and  elements  and
+
+pretty  much  do  whatever  you  want  with
+
+them  so  ill  be  releasing  them  into  the
+
+public  domain  so  feel  free  to  use  them
+
+however  you  want  whether  it  be  for
+
+personal  or  commercial  use  and  if  you
+
+have  any  questions  just  leave  a  comment
+
+below  and  as  always
+
+thanks  for  watching
+
+you

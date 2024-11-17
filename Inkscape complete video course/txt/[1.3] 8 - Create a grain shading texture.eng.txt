@@ -1,0 +1,23 @@
+Now lets give the crocodile a grain shading texture. Some of the techniques uses,
+will be explained more in depth in later lectures. To shade the body,
+I will first combine the body parts. I right-click on the body, and choose: Select Same > Fill Color.
+Then I go to: Path > Union. I call the united path: body parts. I will drag the body
+parts path out of the feet group, above the feet. I right-click on the body parts path, and choose:
+Set Clip Group. I name the Clip Group: body shading. You can recognize a Clip Group by
+a folder with a scissors sign. When I open the body shading folder, I see a folder called
+Clip. Whatever is in this folder, will be used as a clipping mask. I want to reuse the body
+parts path, so I press Ctrl-D. I drag the copy outside the Clip folder, and I duplicate it again.
+With the Rectangle tool I draw a rectangle, that is larger than the body parts.
+I drag body parts above the rectangle. Then I press Ctrl-9 three times.
+What I did, is Inset the path, with three steps. I hold Shift, and also select the rectangle.
+I go to: Path > Difference. I call the result: texture. I close an open Layer 2 to get more
+room, and open body shading again. I drag the Fill and Stroke panel all the way to the bottom,
+until I see a blue blinking rectangle. Then I let go of the mouse. I click on texture. At
+the bottom of Fill and Stroke, I increase Blur to about 30. I click on the black swatch. I go to:
+Filters > Overlays > Noise Fill. I click on the Noise color tab, and set Alpha
+to zero. Then I click on: Options. I click on: Live preview. For Turbulence type I choose:
+Fractal noise. With Horizontal and Vertical frequency, you can make the grain smaller and
+larger. I click on: Apply. At some parts I want more grain, and at some parts less. To do this,
+I click on the Node tool. Right now there are 32 nodes I can drag, which I find too many. So I go
+to: Path > Simplify. Now I have 18 nodes, which is better. I also lower the Opacity of the texture. I
+will set it to 25 percent. Now I will adjust the visibility of the grain, by dragging the nodes.

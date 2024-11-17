@@ -1,0 +1,1227 @@
+
+
+
+this  is  nick  with  logosbynic.com  and  in
+
+this  tutorial  ill  be  demonstrating  how
+
+you  can  create  this  long  shadow  text
+
+effect  with  an  aged  texture  applied  to
+
+it  using  inkscape
+
+before  we  get  started  though  if  youd
+
+like  to  learn  everything  that  there  is
+
+to  know  about  inkscape  be  sure  to  check
+
+out  my  inkscape  master  class  its  a
+
+collection  of  over  60  videos  where  i  go
+
+over  all  of  the  tools  and  features  in
+
+inkscape  and  i  explained  what  they  are
+
+and  demonstrate  how  they  work  we  even
+
+have  a  private  community  where  you  can
+
+ask  questions  and  get  help  from  me
+
+anytime  you  want  ill  have  a  link  in  the
+
+description  of  the  video  if  you  want  to
+
+check  that  out  so  getting  us  started
+
+here  in  inkscape  lets  first  set  up  the
+
+document  for  our  workflow  here  so  im
+
+going  to  come  up  here  to  the  top  left
+
+corner  and  where  it  says  toggle  snapping
+
+im  just  going  to  make  sure  that  is
+
+disabled  for  now  ill  come  up  here  to
+
+where  it  says  view  make  sure  i  have
+
+custom  selected  and  then  come  up  here  to
+
+zoom  and  zoom  in  at  one  to  one  like  that
+
+now  if  you  notice  we  have  this  page
+
+border  on  the  screen  here  im  just  going
+
+to  press  down  the  mouse  wheel  and  move
+
+the  mouse  to  the  right  just  to  get  that
+
+page  butter  off  of  the  viewfinder  for
+
+now  were  going  to  work  out  here  in  open
+
+space  and  then  when  were  done  were
+
+going  to  change  the  page  border  to  fit
+
+the  design
+
+so  once  youve  done  that  lets  grab  the
+
+text  tool  now  and  create  some  text  im
+
+going  to  click  on  the  canvas  to  get  the
+
+blinking  cursor  and  im  going  to  use  the
+
+letters  ink  for  this  demonstration
+
+and  i  want  to  select  all  those  letters
+
+by  pressing  ctrl  a  and  change  the  font
+
+up  here  in  the  font  drop  down  menu
+
+now  the  font  im  using  is  over  here
+
+called  varsity  team  for  this  sort  of
+
+design  i  would  recommend  using  this  font
+
+right  here  because  of  the  style  of  the
+
+font  it  makes  it  easier  to  work  with  i
+
+will  have  a  link  in  the  description  of
+
+the  video  to  where  you  can  download  and
+
+install  that  font  so  make  sure  to  go
+
+ahead  and  install  that  font  before
+
+getting  started
+
+and  once  ive  done  that  im  going  to
+
+grab  the  select  tool  im  just  going  to
+
+scale  this  up  and  im  going  to  hold  ctrl
+
+to  lock  the  proportions  like  that
+
+let  me  move  this  towards  the  center  over
+
+here  im  going  to  go  to  path
+
+object  to  path  and  then  go  to  object
+
+ungroup  and  now  that  is  no  longer  a  text
+
+object  these  are  now  individual  letters
+
+so  let  me  click  off  of  that  to  deselect
+
+everything  im  going  to  take  this  letter
+
+k  and  bring  this  over  here  to  the  right
+
+im  going  to  hold  ctrl  to  lock  it  onto
+
+the  horizontal  axis  and  then  ill  do  the
+
+same  thing  with  the  letter  i  over  here
+
+ill  move  this  over  like  that
+
+basically  what  were  doing  here  is  were
+
+spacing  out  these  letters  we  want  to
+
+have  a  lot  of  space  between  these
+
+letters
+
+in  order  for  us  to  do  what  were  going
+
+to  do  in  this  tutorial  so  once  were
+
+finished  well  go  back  and  and  bring  the
+
+letters  closer  back  together  but  for  now
+
+we  need  them  spaced  out
+
+so  with  them  spaced  out  like  that  what
+
+im  going  to  do  now  is  click  and  drag
+
+over  all  three  of  them  and  go  to  path
+
+union  so  now  theyre  unified
+
+so  now  i  will  open  up  the  fill  and
+
+stroke  menu  by  going  to
+
+object
+
+fill  and  stroke
+
+and  that  will  open  up  this  menu  over
+
+here  on  the  right  hand  side  of  your
+
+screen  so  im  going  to  apply  a  yellow
+
+color  to  this
+
+im  going  to  give  this  a  linear  gradient
+
+over  here  in  the  fill  tab  im  going  to
+
+click  this  button  that  says  linear
+
+gradient  im  going  to  grab  the  gradient
+
+tool
+
+click  on  this  end  of  the  gradient  right
+
+here  and  bring  the  opacity  all  the way
+
+up  and  im  going  to  change  this  to  a
+
+different  color  maybe  like  a  reddish
+
+orange  like  that
+
+and  then  ill  take  this  end  of  the
+
+gradient  and  put  this  down  here  towards
+
+the  bottom  of  the  text  and  ill  take
+
+this  end  and  put  it  towards  the  top  of
+
+the  text  like  that  im  going  to  hold
+
+ctrl  so  it  goes  straight  up  and  down
+
+like  that
+
+so  now  we  end  up  with  some  gradient  text
+
+like  that
+
+so  what  im  going  to  do  now  is  let  me
+
+grab  the  select  tool
+
+im  going  to  duplicate  this  by  pressing
+
+ctrl  d  on  the  keyboard  and  its  going  to
+
+create  a  duplicate  copy  even  though
+
+nothing  visually  changed  on  the  screen
+
+you  can  see  there  is  indeed  a  duplicate
+
+copy  there  so  im  going  to  take  that
+
+duplicate  copy  and  im  going  to  make
+
+that  a  dark  shade  of  red  like  that
+
+and  then  im  going  to  duplicate  this
+
+again  by  pressing  ctrl  d  again  and  i
+
+will  make  this  one  just  a  random
+
+different  color  maybe  something  like
+
+green  so  we  can  see  it  better
+
+now  im  going  to  use  my  arrow  keys  im
+
+going  to  press  down  on  the  arrow  key  and
+
+then  im  going  to  press  right  on  the
+
+arrow  key  and  its  going  to  offset  it  by
+
+two  steps  like  that  one  down  and  one
+
+right  and  im  basically  going  to  repeat
+
+that  process  a  few  more  times
+
+like  that
+
+until  we  end  up  with
+
+this  red  text  looking  the  way  it  does
+
+right  here  basically  what  im  doing  here
+
+is  im  creating  the  inner  shadow  of  this
+
+text  right  here
+
+so  that  is  what  im  paying  attention  to
+
+here  that  size  right  there  is  pretty
+
+good  maybe  ill  do  one  more  step  like
+
+that
+
+and  once  youve  done  that  hold  shift  and
+
+click  on  the  red  text  so  that  you  have
+
+both  of  those  text  items  selected  and  go
+
+to  extensions
+
+generate  from  path
+
+extrude
+
+and  from  the  mode  i  want  to  make  sure  i
+
+have  polygons  selected  and  im  going  to
+
+click  apply
+
+and  then  click
+
+close  out  of  that  menu  by  clicking  the  x
+
+im  going  to  take  this  green  text  right
+
+here  or  you  know  what  let  me  undo  that
+
+by  pressing  control  z  let  me  click  off
+
+of  the  graphic  to  deselect  everything
+
+first
+
+and  then  ill  take  this  green  text
+
+object  and  press  delete  on  the  keyboard
+
+to  get  rid  of  it
+
+and  then  i  will  take  this  newly
+
+generated
+
+extruded  path  right  here  and  select  that
+
+make  sure  you  have  that  selected  and  not
+
+the  text  youll  know  you  have  it
+
+selected  when  you  see  down  here  in  the
+
+status  indicator  if  i  have  the  text
+
+selected  its  going  to  be  red  if  i  have
+
+the  extruded  path  selected  its  going  to
+
+be
+
+those  partially  uh  transparent  color  of
+
+black  right  there  so  let  me  ungroup  that
+
+by  going  to  object  ungroup
+
+and  then  path
+
+union
+
+and  then  i  will  hold  shift  and  click  on
+
+the  red  text  and  go  to  path
+
+intersection  so  that  we  end  up  with  this
+
+right  here  where  it  looks  like  its  an
+
+inner  shadow  on  the  text  it  almost  kind
+
+of  looks  like  the  text  is  carved  into
+
+the  canvas  like  that
+
+so  lets  click  off  of  that  to  deselect
+
+everything  what  im  going  to  do  now  is
+
+let  me  click  on  just  this  red  text  right
+
+here  this  red  shadow  and  im  going  to
+
+give  this  a  linear  gradient  as  well
+
+im  going  to  grab  the  gradient  tool  im
+
+going  to  take  the  transparent  end  of  the
+
+gradient  and  put  it  down  here
+
+and  then  take  the  opaque  end  of  the
+
+gradient  and  put  it  up  here  like  that
+
+again  holding  shift  to  lock  uh  lock  it
+
+onto  the  vertical  axis  like  that  maybe
+
+ill  bring  that  down  a  little  more
+
+okay  that  looks  good
+
+so  lets  grab  the  select  tool  now  im
+
+going  to  click  on  the  yellow  text  right
+
+there  to  make  sure  i  have  that  selected
+
+and  then  im  going  to  duplicate  that  by
+
+pressing  ctrl  d
+
+and  i  want  to  give  this  an  outline  so
+
+im  going  to  hold  shift  and  click  on
+
+this  color  yellow  down  here  to  give  this
+
+yellow  outline  and  if  you  zoom  in  on
+
+this  by  holding  ctrl  and  rolling  up  the
+
+mouse  wheel  you  can  see  that  there  is  an
+
+outline  there  we  want  that  outline  to  be
+
+a  little  bigger  though  and  we  want  to
+
+get  rid  of  the  fill  color  so  let  me
+
+click  on  the  x  right  here  the  red  x  to
+
+get  rid  of  the  fill  color  and  ill  come
+
+over  here  to  the  stroke  style  menu
+
+and  im  just  going  to  hover  my  cursor
+
+over  these  numbers  right  here  and  just
+
+roll  up  the  mouse  wheel  to  increase  the
+
+size  of  that  stroke  right  there
+
+and  that  size  right  there  looks  pretty
+
+good  ill  leave  that  as  it  is  where  it
+
+says  join  make  sure  you  have  the  miter
+
+join  right  here  so  we  have  square
+
+corners  and  then  lets  convert  this
+
+stroke  to  a  path  well  go  to  object
+
+well  go  to  path  stroke  to  path
+
+now  lets  zoom  out  a  little  bit
+
+so  what  im  going  to  do  now  is  im  going
+
+to  duplicate  that  outline  by  pressing
+
+ctrl  d
+
+and  i  will  give  this  a  different  color
+
+like  green
+
+and  again  im  going  to  use  my  arrow  keys
+
+down  and  right
+
+to  move  this  over
+
+like  that
+
+and  ill  take  it  about  that  far  what
+
+were  doing  with  this  object  right  here
+
+were  creating  the  base
+
+of  the  text  which  is  located  right  here
+
+this  dark  red  area  thats  what  were
+
+creating  right  here  so  you  want  to
+
+position  it  accordingly  that  right  there
+
+looks  pretty  good  ill  leave  that  as  it
+
+is  and  then  im  going  to  duplicate  this
+
+one  more  time  by  pressing  ctrl  d  and  i
+
+will  make  this  one  an  even  different
+
+color  maybe  even  red  and  ill  move  this
+
+one  down  here  like  this
+
+or  you  know  what  let  me  make  this
+
+let  me  make  this  orange  for  now
+
+take  this
+
+move  this  down  into  the  left  like  that
+
+this  one  is  going  to  represent  the
+
+shadow  being  casted  here
+
+so  that  one  needs  to  be  placed
+
+accordingly  so  im  going  to  place  this
+
+one  over  here  like  that  now  lets  zoom
+
+in  on  this  so  we  can  see  it  better  im
+
+going to  hold  ctrl  and  roll  up  the  mouse
+
+wheel  i  want  to  select  this  yellow
+
+outline  that  we  originally  created  and
+
+then  hold  shift  and  select  this  green
+
+outline  that  we  created  next  and  with
+
+them  both  selected  go  to  extensions
+
+generate  from  path  extrude
+
+click  apply
+
+and  then  close  out  of  it  like  that  now
+
+let  me  zoom  out  a  little  bit  click  off
+
+of  it  to  deselect  everything
+
+select  the  newly  extruded  area  like  that
+
+and  go  to  object  on  group
+
+and  then  path
+
+union  and  then  i  want  to  get  rid  of  the
+
+black  stroke  going  around  it  or  the
+
+outline  so  im  going  to  hold  shift  and
+
+click  on  the  red  x  over  here
+
+and  let  me  come  over  here  to  the  fill
+
+menu
+
+under  the  hsl  tab  im  going  to  come  over
+
+here  to  the  alpha  channel  and  bring  that
+
+all  the  way  up  so  that  its  visible  and
+
+then  i  will  send  that  to  the  bottom  with
+
+this  button  right  here  that  says
+
+uh  lower  selection  to  the  bottom
+
+okay  so  now  i  will  make  that  the  same
+
+color  of  dark  red  that  i  previously
+
+applied  to  that  inner  shadow  right  there
+
+so  let  me  apply  that  color
+
+and  now
+
+im  going  to  select  the  orange  outline
+
+right  here
+
+hold  shift  select  the  green  outline  so
+
+that  we  have  them  both  selected  and  go
+
+to  extensions
+
+generate  from  path
+
+extrude
+
+and  were  doing  the  same  thing  here  just
+
+click  apply
+
+close  out  of  that
+
+click  off  of  it  to  deselect  everything
+
+take  just  this
+
+black  shape  right  here  that  we  just
+
+extruded  go  to  object
+
+ungroup
+
+path
+
+union
+
+get  rid  of  the  black  outline  by  holding
+
+shift  and  clicking  on  the  x  over  here
+
+bring  the  alpha  channel  all  the  way  up
+
+and  then  send  this  to  the  bottom  with
+
+this  button  right  here  that  says  lower
+
+selection  to  the  bottom  and  im  actually
+
+going  to  take  the  opacity  of  this  and
+
+bring  that  down  a  little  bit  for  now
+
+were  going  to  go  back  and  work  with
+
+this  later  but  for  now  i  just  want  to
+
+bring  that  opacity  down
+
+and  then  we  can  click  off  with  the
+
+deselect  everything
+
+so  im  going  to  take  this  orange  shape
+
+right  here  press  delete  on  the  keyboard
+
+to  get  rid  of  it  take  this  green  shape
+
+right  here  press  delete  on  the keyboard
+
+to  get  rid  of  it
+
+and  if  i  zoom  out  you  can  see  its
+
+starting  to  come  together  here  i  want  to
+
+add  some  more  color  in  here  first  though
+
+so  let  me  select  this  base  of  the  text
+
+right  here  this  dark  red  object  and  im
+
+going  to  give  this  a  linear  gradient
+
+and  im  going  to  grab  the  gradient  tool
+
+and  im  going  to  make  this  end  of  the
+
+gradient
+
+first  of  all  let  me  make  that  fully
+
+opaque  like  that  and  im  just  going  to
+
+make  this  a  lighter  color  of  red  like
+
+that  and  ill  take  the  lighter  end  of
+
+the  gradient  put  it  down  here  and  the
+
+darker  end  of  the  gradient  goes  up  here
+
+like  that
+
+okay  so  what  im  going  to  do  now  is  im
+
+going  to  fill  in  the  base  of  the  text
+
+here  with  shapes  as  you  can  see  here
+
+its  darker  down  here  at  the  bottom  and
+
+its  darker  over  here  and  these  little
+
+lips  that  come  off  the  top  of  the  of  the
+
+letters  there
+
+so  lets  go  and  add  that  in  im  gonna
+
+grab  first  of  all  let  me  grab  the  select
+
+tool  let  me  click  off  of  it  to  deselect
+
+everything  and  let  me  enable  snapping  up
+
+here  now  in  this  under  the  snapping  menu
+
+i  want  to  make  sure  i  have  this  one
+
+enabled  right  here  that  says  toggle
+
+snapping  to  cusp  nodes  including
+
+rectangular  corners  and  if  thats  grayed
+
+out  and  you  cant  enable  it  you  may  have
+
+to  enable  this  one  first  and  then  you
+
+can  enable  that  so  with  that  enabled
+
+grab  the  bezier  pen  which  is  located
+
+over  here  or  you  could  press  the  letter
+
+b  on  the  keyboard  let  me  zoom  in  on  this
+
+im  going  to  snap  to  this  corner  or  you
+
+know  before  i  do  that  make  sure  you  have
+
+the  mode  set  to  the  proper  mode  which  is
+
+the  first  one  here  where  it  says  create
+
+regular  bezier  path  select  that  one
+
+first  for  whatever  reason  this  version
+
+of  inkscape  always  defaults  to  this  one
+
+right  here  so  you  will  if  youre  using
+
+this  version  of  inkscape  youll  have  to
+
+manually  click  on  that
+
+so  let  me  snap  to  this  corner  and  click
+
+snap  to  this  corner  and  click
+
+same  thing  over  here
+
+same  thing  over  here  and  then  back  to
+
+the  starting  point  like  that  and  we  have
+
+that  shape  that  we  just  drew  in  there
+
+like  that  i  want  to  come  back  over  here
+
+im  going  to  draw  this  shape  in  here
+
+like  this  as  well
+
+and  again  to  move  the  page  around  like
+
+that  im  just  pressing  down  the  mouse
+
+wheel  and  moving  the  mouse  im  going  to
+
+come  over  here  and  fill  in  this  shape  as
+
+well
+
+do  the  same  thing  down  here
+
+and  then  ill  come  up  here  and  fill  in
+
+this  part  of  the  top  of  the  letter  right
+
+here  and  then  im  just  going  to  go
+
+through  and  do  this  for  the  rest  of  the
+
+text
+
+okay  so  once  youre  finished  drawing  the
+
+shapes  lets  grab  the  select  tool  over
+
+here  lets  turn  off  snapping  now  we
+
+dont  need  that  anymore  im  going  to
+
+click  and  drag  over  the  bottom  of  the
+
+text  down  here  just  to  select  those
+
+objects  that  ive  just  drawn
+
+and  im  going  to  make  them  a  darker
+
+shade  of  red  so  let  me  grab  the  uh  the
+
+uh  dropper  tool  which  is  located  over
+
+here  or  you  could  press  the  letter  d
+
+and  im  going  to  sample  this  color  right
+
+here  to  make  that  darker  i  might  even
+
+make  that  a  little  darker  than  it
+
+currently  is
+
+and  then  i  want  to  get  rid  of  the  black
+
+outline  by  holding  shift  and  clicking  on
+
+the  x  and  there  we  go
+
+im  going  to  do  the  same  thing  up  here
+
+to  these  items  let  me  zoom  out  a  little
+
+bit  im  going  to  click  and  drag  over  the
+
+top  of  the  text  to  select  those  items
+
+right  there  and  i  will  make  those  a
+
+darker  shade  of  red  as  well  let  me  hold
+
+shift  click  the  red  x  to  get  rid  of  the
+
+outline  and  for  this  i  want  to  make  this
+
+one  a  little  darker  as  well
+
+okay  looking  better
+
+okay  so  at  this  point  lets  grab  the
+
+select  tool  and  click  off  of  the  the
+
+graphic  to  deselect  everything  at  this
+
+point  were  almost  done  were  just  going
+
+to  start  bringing  these  letters  together
+
+now  so  im  going  to  click  and  drag  over
+
+everything  here
+
+to  make  sure  everything  is  selected  and
+
+then  grab  the  edit  paths  by  nodes  tool
+
+click  and  drag  over  these  nodes  right
+
+here  for  this  letter  over  here  and  im
+
+just going  to  hold  the  left  arrow  key  to
+
+bring  this  letter  over  like  this
+
+so  that  its  closer  together  to  the
+
+other  letter
+
+okay  looking  good  and  then  ill  click
+
+and  drag  over  all  of  these  letters  right
+
+here  or  just  these  two  letters  and  then
+
+bring  both  of  those  over  by  again
+
+holding  down  the  left  arrow  key
+
+okay  looking  good  and  you  can  grab  the
+
+select  tool  now  and  click  off  of  it  to
+
+deselect  everything  and  what  were  going
+
+to  do  next  is  lets  create  the
+
+background  this  um  this  colored
+
+background  with  the  gradient  for  the
+
+text  here  so  lets  go  back  in  there  what
+
+im  going  to  do  is  im  going  to  grab  the
+
+rectangle  tool
+
+and  create  a  rectangle  going  over  the
+
+text  like  that
+
+and  im  going  to  send  that  im  going  to
+
+grab  the  select  tool  im  going  to  lower
+
+that  to  the  bottom
+
+and  then  im  going  to  open  up  the  align
+
+and  distribute  menu  which  is  located
+
+over  here  or  you  can
+
+press  the  letters  uh  control  shift  and  a
+
+on  your  keyboard
+
+and  from  the  relative  two  i  want  to  make
+
+sure  i  have  last  selected  chosen
+
+with  this  rectangle  selected  im  going
+
+to  hold  shift  and  click  on  the  text  item
+
+right  there  and  just  make  sure  i  have
+
+that  centered  up  on  the  vertical  and
+
+horizontal  axis  and  now  im  going  to
+
+change  the  page  border  to  fit  this
+
+selection  to  do  that  just  press  ctrl
+
+shift
+
+r  on  the  keyboard  and  if  you  click  off
+
+it  to  deselect  everything  you  can  see
+
+that  the  page  border  now  represents  that
+
+shape  there  so  let  me  ctrl  z  that  to  put
+
+that  back  im  going  to  change  the  the
+
+color  of  this  background  here  let  me  go
+
+to  the  fill  and  stroke  menu  im  going  to
+
+make  this  a  lighter  shade  of  purple
+
+maybe  something  like  that
+
+i  will  give  this  a  radial  gradient
+
+grab  the  gradient  tool
+
+click  on  this  end  of  the  gradient  up
+
+here  and  bring  the  opacity  of  that  all
+
+the  way  up  and  im  going  to  double  click
+
+this  line  right  here  to  add  a  new  stop
+
+into  that  gradient
+
+now  im  going  to  take  this  middle  stop
+
+this  center  node  of  the  gradient  and  im
+
+going  to  make  that  lighter  like  that
+
+and  ill  take  this  end  of  the  stop  right
+
+here  and  ill  make  that  slightly  lighter
+
+not  by  much  just  a  little  bit
+
+and  then  ill  bring  this  out  a  little
+
+bit  like  that  let  me  bring  this  stop  up
+
+like  that  im  going  to  hold  ctrl
+
+to  bring  that  up  and  then  ill  take  this
+
+end  over  here  im  going  to  hold  ctrl  and
+
+shift  and  bring  this  out  like  that
+
+let  me  just  adjust  that  a  little  bit
+
+okay  looking  pretty  good
+
+so  what  i  will  do  now  is  i  will  grab  the
+
+select  tool  i  will  take  the  text  right
+
+here  bring  the  op  take  the  text  shadow
+
+rather  bring  the  opacity  all  the  way  up
+
+and  i  want  to  make  this  a  similar  shade
+
+as  this  purple  over  here  so  let  me  grab
+
+the  dropper  and  sample  that  right  there
+
+and  there  we  go  now  you  can  grab  the
+
+select  tool  and  you  can  make  this  you
+
+can  make  the  shadow  darker  or  lighter
+
+based  on  your  own  preference  so  im
+
+going  to  leave  mine
+
+right  about  there
+
+so  the  final  step  of  this  tutorial  would
+
+be  to  add  the  texture  to  the  finished
+
+design  here  so  to  do  that
+
+before  i  do  that  what  i  want  to  do  first
+
+is  i  want  to  open  up  the  layers  menu
+
+which  is  located  over  here  or  you  could
+
+press  ctrl  shift  and  l  on  the  keyboard
+
+to  open  that  up
+
+now  if  you  notice  here  everything  that
+
+weve  created  so  far  exists  on  this  one
+
+layer  i  want  to  put  the  texture  on  its
+
+own  layer  so  im  going  to  click  this
+
+button  up  here  that  says  create  a  new
+
+layer
+
+im  going  to  leave  the  default  as  it  is
+
+make  sure  you  have  the  position  set  to
+
+above  current  and  click  add  and  theres
+
+our  new  layer
+
+so  im  going  to  take  my  texture  image
+
+ill  have  a  link  in  the  description  to
+
+where  you  can  download  this  texture
+
+image  just  go  ahead  and  copy  and  paste
+
+it  into  your  document  here  or  you  can
+
+just  click  and  drag  the  file  onto  your
+
+canvas  which  is  what  im  going  to  do
+
+make  sure  you  have  layer  2  activated  so
+
+it  places  it  on  layer  2  and  im  going  to
+
+click  and  drag  it  onto  my  canvas  like
+
+that
+
+and  the the  options  im  going  to  choose
+
+here  i  want  to  choose  embed  i  want  to
+
+choose  default  import  resolution  and
+
+then  none  and  then  click  ok
+
+and  theres  the  texture  image  so  let  me
+
+select  this  rectangle  right  here  the
+
+background  and  im  going  to  right  click
+
+this  and  go  to  copy
+
+and  then  i  want  to  select  the  texture
+
+image  and  i  want  to  go  to  edit
+
+paste  size
+
+paste  size  and  thats  going  to  make  it
+
+the  same  size  as  the  background  there
+
+and  now  what  i  can  do  is  i  can  select
+
+the  texture
+
+hold  shift  select  the  background  so  we
+
+have  them  both  selected  come  back  over
+
+here  to  the  align  distribute  menu  and
+
+center  that  up  vertically  and
+
+horizontally  like  that  and  then  click
+
+off  it  to  deselect  everything
+
+now  what  i  will  do  is  i  will  select  just
+
+the  texture  image
+
+come  back  over  here  to  the  layers  menu
+
+and  where  it  says  blend  mode  im  going
+
+to  set  this  to  soft  light
+
+right  there
+
+and  there  you  go  that  is  how  you  can
+
+create  that  uh  long  shadow  text  now  once
+
+you  apply  that
+
+you  may  want  to  change  a  few  things  like
+
+im  going to  zoom  in  on  this  a little
+
+bit  that  shadow  looks  a  little  lighter
+
+now  that  the  texture  has  been  applied  so
+
+what  im  going  to  do  is  im  going  to
+
+lock  layer  2  up  here  so  that  i  cant
+
+change  the  texture
+
+and  im  going  to  continue  working  on  the
+
+objects  down  here  so  with  layer  2  locked
+
+the  texture  stays  in  place  and  you  wont
+
+be  able  to  move  it  so  im  going  to
+
+select  layer  1  and  then  ill  come  over
+
+here  im  going  to  select  the  shadow  let
+
+me  come  back  over  here  to  the  fill  and
+
+stroke  menu  maybe  make  that  a little
+
+darker
+
+that  looks  good  and  im  going  to  grab
+
+the  gradient  tool  and  maybe  change  the
+
+gradient  of  this  inner  shadow  right  here
+
+maybe  bring  that  down  a  little  bit  so
+
+thats  a  little  more  visible
+
+okay  looking  good  let  me  go  back  to  the
+
+select  tool  now  if  you  want  to  bring
+
+down  the  intensity  of  that  texture  what
+
+you  can  do  is  you  can  come  back  over
+
+here  to  your  layers  menu  you  can  select
+
+layer  two  you  can  unlock  it
+
+and  if  you  can  unlock  it  and  if  you  want
+
+what  you  can  do  is  you  can  select  this
+
+image  come  back  over  here  to  the  fill
+
+and  stroke  menu  and  you  can  change  the
+
+opacity  of  the  image  to  control  the
+
+intensity  of  that  texture  like  that  so
+
+im  going  to  put  it  back  up  to  100  to
+
+where  it  was  because  i  like  how  that
+
+looks  like  that  and  that  should  do  it
+
+for  this  tutorial  that  is  how  you  can  go
+
+about  creating  this  long  shadow  text
+
+effect  using  inkscape  if  you  have  any
+
+questions  just  leave  a  comment  below  and
+
+as  always  thanks  for  watching
+

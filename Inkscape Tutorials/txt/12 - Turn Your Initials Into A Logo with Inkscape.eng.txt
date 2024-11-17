@@ -1,0 +1,366 @@
+
+in  this  tutorial  Ill  be  demonstrating
+
+how  you  can  take  your  initials  or  any
+
+series  of  letters  and  use  them  to  create
+
+a  logo  where  the  letters  overlap  each
+
+other  and  to  follow  along  with  what  Im
+
+doing  here  in  this  tutorial  Im  going  to
+
+recommend  that  you  download  and  install
+
+this  font  that  I  used  for  this  logo
+
+design  because  this  font  works  really
+
+well  for  this  sort  of  thing  so  check  the
+
+description  of  the  video  for  a  download
+
+link  to  that  font  and  install  it  before
+
+you  launch  inkscape  and  then  youll  be
+
+good  to  go  so  lets  get  rid  of  this  and
+
+well  get  started  here  Im  going  to  grab
+
+my  my  text  tool  and  Im  going  to  click
+
+on  the  canvas  and  Im  going  to  use  the
+
+letters  c  and  b  for  this  demonstration  I
+
+found  that  these  letters  work  really
+
+well  together  but  this  works  with  pretty
+
+much  any  letter  as  long  as  youre  using
+
+this  font  and  Im  going  to  select  the
+
+letters  and  Ill  open  up  my  text  editor
+
+by  going  to  text  and  going  to  text  and
+
+font  and  the  font  Im  looking  for  is
+
+called  winner  so  Im  going  to  type  that
+
+in  and  apply  it  and  now  we  have  the  font
+
+applied  so  let  me  collapse  this  menu  Im
+
+going  to  grab  my  selection  tool  and  Im
+
+going  to  in  increase  the  size  of  this
+
+Im  going  to  hold  my  control  key  while  I
+
+do  that  so  we  can  scale  it  up
+
+proportionately  and  Im  going  to  place
+
+it  in  the  center  of  the  page  so  now
+
+lets  convert  this  from  a  text  object  to
+
+a  path  by  going  to  path  and  selecting
+
+object  to  path  and  then  we  want  to  split
+
+the  letters  apart  so  Ill  go  back  to  the
+
+path  menu  and  I  will  choose  split  path
+
+and  now  we  have  two  separate  letters  and
+
+Ill  zoom  in  on  this  so  you  can  see  it
+
+better  so  what  were  going  to  do  here  is
+
+Im  going  to  take  this  letter  C  and  Im
+
+going  to  collapse  its  height  and  then
+
+elongate  it  so  that  it  can  intertwine
+
+with  this  letter  B  here  here  and  to  do
+
+that  were  going  to  use  the  nodes  tool
+
+so  let  me  select  the  letter  and  then
+
+Ill  come  over  to  my  nodes  tool  and  Im
+
+going  to  click  and  drag  over  these  nodes
+
+to  select  them  and  then  Im  going  to
+
+click  and  drag  them  down  Im  going  to
+
+hold  my  control  key  while  I  do  that  and
+
+click  and  drag  to  bring  these  nodes  down
+
+like  this  we  want  this  letter  C  to  fit
+
+within  this  letter  B  uh  and  in  order  to
+
+do  that  we  need  to  shrink  that  down  now
+
+a  problem  Im  running  into  here  is  that
+
+this  part  of  the  design  this  part  of  the
+
+letter  anyway  is  starting  to  collapse  in
+
+on  itself  so  Im  going  to  move  these  up
+
+a  little  bit  Im  going  to  select  just
+
+these  nodes  right  here  and  Im  going  to
+
+use  my  arrow  keys  to  move  them  up  Im
+
+going  to  use  my  up  Arrow  key  and  Im
+
+going  to  count  the  number  of  steps  that
+
+I  used  to  move  these  nodes  because  I
+
+want  to  move  these  nodes  over  here  down
+
+by  the  same  number  of  steps  so  Im  going
+
+to  press  the  up  Arrow  key  1  2  3  four
+
+five  six  seven
+
+eight  15  times  and  Ill  do  the  same
+
+thing  down  here  Im  going  to  select
+
+these  nodes  and  Ill  move  them  down  15
+
+Steps  as  well  1  2  3
+
+4  and  we  do  that  just  to  maintain  the
+
+symmetry  tree  so  let  me  grab  my
+
+selection  tool  now  and  Im  going  to  move
+
+this  letter  over  here  and  put  it  on  top
+
+of  the  letter  B  where  I  would  like  it  to
+
+be  and  Ill  go  back  to  my  nodes  tool  and
+
+Im  just  going  to  use  the  nodes  tool  to
+
+select  these  nodes  and  adjust  the  size
+
+of  this  some  more  so  Im  going  to  hold
+
+control  while  I  do  this  so  it  locks  it
+
+onto  the  horizontal  axis  while  I  move
+
+these  nodes  and  Im  going  to  collapse
+
+this  down  a  little  more  what  Im  paying
+
+attention  to  right  here  is  where  the  arm
+
+of  the  C  intersects  with  the  um  negative
+
+space  of  the  letter  B  here  I  want  the
+
+this  to  be  roughly  halfway  through  so
+
+let  me  move  this  up  a  little  bit  and  now
+
+it  looks  like  its  going  about  halfway
+
+through  and  Ill  do  the  same  thing  to
+
+these  top  nodes  over  here  Ill  move
+
+these  ones  down  and  again  Im  holding
+
+control  the  whole  time  I  do  this  to  make
+
+sure  that  were  locking  it  onto  the
+
+vertical
+
+axis  and  what  Ill  do  now  is  Ill  grab
+
+my  selection  tool  and  I  will  select  both
+
+of  these  letters  and  Im  going  to  open
+
+up  my  alignment  menu  by  going  over  to
+
+object  and  selecting  aligned  distribute
+
+and  I  want  to  choose  last  selected  and
+
+Im  just  going  to  make  sure  that  they
+
+are  aligned  horizontally  and  vertically
+
+and  then  Ill  collapse  this  menu  and
+
+what  we  can  do  now  is  Im  going  to  make
+
+a  duplicate  copy  of  these  two  letters  so
+
+Im  going  to  rightclick  them  and  go  to
+
+duplicate  and  I  want  to  make  offset
+
+copies  of  these  so  with  them  selected
+
+Im  going  to  go  to  path  and  Im  going  to
+
+select  outset  and  thats  going  to
+
+increase  the  offset  of  the  letters  and
+
+Im  going  to  do  that  a  couple  of  more
+
+times  uh  this  offset  represents  the
+
+spacing  thats  going  to  be  between  the
+
+letters  when  theyre  overlapping  each
+
+other  so  depending  on  how  large  or  small
+
+is  you  may  want  to  repeat  this  step  a
+
+few  more  times  Im  going  to  repeat  this
+
+one  more  time  Im  going  to  choose
+
+outset  and  maybe  Ill  do  it  one  more
+
+time  just  because  I  have  my  letters
+
+pretty  large  Ill  go  to  path  outset  and
+
+now  thats  looking  much  bigger  than  the
+
+original  letters  so  what  we  want  to  do
+
+now  is  lets  click  and  drag  over
+
+everything  we  want  to  select  everything
+
+and  now  we  can  use  the  shape  Builder
+
+tool  to  morph  this  into  what  we  want  it
+
+to  be  so  Im  going  to  come  over  here  to
+
+the  shape  Builder  tool  and  Im  going  to
+
+zoom  in  on  this  and  I  want  to  make  sure
+
+I  have  the  plus  icon  selected  here  the
+
+add  option  and  now  I  can  just  click  and
+
+drag  through  the  areas  of  the  design  and
+
+shape  it  how  I  would  like  it  to  be
+
+shaped  so  Im  going  to  click  and  drag
+
+through  this  part  of  the  design  right
+
+here  because  I  want  this  part  of  the
+
+letter  B  to  overlap  this  part  of  the
+
+letter  c  and  then  I  want  this  part  of
+
+the  letter  c  to  overlap  the  letter  B
+
+over  here  and  then  we  get  that  effect  so
+
+Ill  come  down  here  and  repeat  this  but
+
+the  opposite  way  Im  going  to  make  this
+
+part  overlap  and  then  Ill  make  this
+
+part  overlap  and  then  Im  going  to  click
+
+on  this  part  right  here  to  highlight  it
+
+in  blue  now  its  important  that  you
+
+highlight  everything  that  you  want  to
+
+keep  in  blue  you  have  to  click  on  it  to
+
+highlight  it  in  blue  and  if  you  dont  do
+
+that  its  going  to  be  deleted  once
+
+youre  finished  so  everything  thats
+
+gray  is  going  to  be  deleted  everything
+
+thats  not  blue  is  going  to  be  deleted
+
+and  once  youre  finished  you  can  press
+
+the  check  mark  button  up  here  and  just
+
+like  that  we  have  created  an
+
+interlocking  letter  logo  using  the  shape
+
+Builder  tool  in  inkscape  if  you  found
+
+this  lesson  useful  then  consider
+
+checking  out  my  inkscape  master  class
+
+its  a  collection  of  over  60  videos
+
+where  I  go  over  all  of  the  tools  and
+
+features  in  inkscape  and  I  explain  what
+
+they  are  and  demonstrate  how  they  work
+
+kind  of  like  how  I  did  in  this  video  we
+
+even  have  a  private  Community  where  you
+
+can  ask  questions  and  get  help  from  me
+
+anytime  you  want  and  best  of  all  theres
+
+no  monthly  membership  fees  you  just  pay
+
+$17  one  time  and  youre  in  for  Life  Ill
+
+have  some  information  about  that  down
+
+below  if  you  want  to  check  that  out  as
+
+always  thanks  for
+
+watching
+
+oh

@@ -1,0 +1,100 @@
+
+in  this  tutorial  Ill  be  addressing  a
+
+bug  that  exists  in  the  current  version
+
+of  inkscape  where  converting  a  stroke  to
+
+a  path  gives  you  a  different  result  than
+
+what  you  expect  and  to  show  you  what  I
+
+mean  I  have  this  simple  fourpoint  shape
+
+that  is  a  stroke  and  if  I  convert  this
+
+stroke  to  a  path  you  can  see  what
+
+happens  we  end  up  with  a  broken  shape
+
+now  this  is  not  whats  supposed  to
+
+happen  so  I  would  imagine  this  is  some
+
+kind  of  bug  in  the  software  now  the
+
+inkscape  team  is  usually  good  with
+
+addressing  these  sorts  of  things  so  Im
+
+sure  this  will  be  ironed  out  in  the  next
+
+update  but  in  this  tutorial  I  just  want
+
+to  show  you  a  simple  fix  for  this  so  let
+
+me  press  contrl  Z  to  undo  what  I  did
+
+there  what  Im  going  to  do  is  Im  going
+
+to  select  the  object  and  now  before  I
+
+convert  it  to  a  stroke  I  will  go  to  path
+
+and  I  will  select  reverse  and  now  if  I
+
+go  to  path  and  select  stroke  to  path  you
+
+can  see  we  end  up  with  the  result  as
+
+intended  now  I  dont  know  much  about  the
+
+back  end  of  this  software  and  how  this
+
+sort  of  thing  works  but  I  would  imagine
+
+it  has  something  to  do  with  how  the
+
+start  and  end  point  of  a  path  is  defined
+
+because  the  reverse  function  is  normally
+
+only  used  when  we  place  text  on  a  path
+
+and  we  want  to  define  whether  the  text
+
+goes  on  the  outside  of  the  path  or  the
+
+inside  of  the  path  but  in  this  instance
+
+its  also  useful  here  as  well  another
+
+thing  you  can  do  you  can  also  flip  the
+
+object  so  if  I  were  to  press  the  letter
+
+H  on  my  keyboard  and  flip  it
+
+horizontally  that  will  also  work  the
+
+same  way  and  I  would  imagine  because  it
+
+reverses  the  path  the  same  way  path
+
+reverse  does  and  then  after  that  you
+
+could  just  press  h  again  and  then  its
+
+back  to  the  starting  point  so  that
+
+should  do  it  for  todays  video  I  just
+
+wanted  to  get  this  fix  out  there  in  case
+
+you  were  encountering  this  problem  and
+
+it  was  frustrating  you  if  you  have  any
+
+questions  leave  a  comment  below  and  as
+
+always  thanks  for  watching

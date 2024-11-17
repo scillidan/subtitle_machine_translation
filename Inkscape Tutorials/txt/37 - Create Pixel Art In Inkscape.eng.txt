@@ -1,0 +1,730 @@
+
+in  this  tutorial  well  be  going  over  how
+
+you  can  trace  pixel  art  from  images
+
+using  inkscape  now  there  is  a  built-in
+
+feature  for  auto  tracing  your  pixel  art
+
+but  it  doesnt  always  produce  the
+
+desired  results  in  these  instances  it
+
+would  be  good  to  know  how  to  trace  pixel
+
+art  manually  which  well  be  going  over
+
+in  todays  tutorial
+
+
+
+so  getting  us  started  here  in  inkscape
+
+the  first  thing  youll  want  to  do  is
+
+import  the  graphic  that  youd  like  to
+
+trace  over  into  inkscape  as  you  can  see
+
+that  ive  done  here  now  for  this
+
+demonstration  i  will  be  using  this
+
+vector  illustration  of  a  fox  that  i
+
+downloaded  from  123rf.com
+
+so  once  you  have  your  graphic  imported
+
+lets  turn  on  the  grid  lets  come  up
+
+here  to  where  it  says  view
+
+and  where  it  says  page  grid  go  ahead  and
+
+select  that
+
+now  by  default  your  grid  should  be  one
+
+pixel  by  one  pixel  in  size  but  we  can
+
+ensure  that  by  going  to  document
+
+properties  so  lets  come  up  here  to  file
+
+and  go  to  document  properties
+
+and  then  come  over  here  to  the
+
+grids  tab
+
+and  then  down  here  where  it  says  spacing
+
+x  and  spacing  y  it  should  be  one  and  one
+
+by  default  if  yours  isnt  one  and  one  go
+
+ahead  and  change  that  so  that  your  grid
+
+is  spaced  out  one  pixel  by  one  pixel  and
+
+the  end  result  of  that  if  you  zoom  in
+
+im  going  to  hold  ctrl  and  roll  up  my
+
+mouse  wheel  if  you  zoom  in  you  can  see
+
+all  of  the  individual  pixels  represented
+
+by  these  grid  lines  here  were  going  to
+
+use  these  grid  lines  as  a  reference  for
+
+tracing  over  our  image  so  let  me  zoom
+
+back  out  here
+
+what  i  want  to  do  now  is  take  my  graphic
+
+and  scale  it  down  really  small  i  want  to
+
+scale  it  down  so  small  that  one  pixel
+
+squares  that  will  will  seem  large  in
+
+comparison  to  it  so  im  going  to  grab
+
+the  transformation  handle  here  im  going
+
+to  hold  control  on  my  keyboard  to  lock
+
+the  proportions  and  im  going  to  scale
+
+this  down  pretty  small  maybe  down  to
+
+like  um
+
+i  dont  know  150  pixels  wide  and  you
+
+could  see  what  the  width  is  while  youre
+
+scaling  by  referencing  the  toolbar  the
+
+tool  settings  menu  towards  the  top  of
+
+the  screen  so  im  going  to  set  mine
+
+right  at  about  150  and  that  that  right
+
+there  looks  good  now  let  me  zoom  in  on
+
+this
+
+as  you  can  see  these  individual  squares
+
+here  were  going  to  create  boxes  that
+
+fill  these  squares
+
+in  the  color  of  the  graphic  beneath  it
+
+and  then  its  going  to  create  like  a
+
+pixel  effect  beneath  it  so  let  me  just
+
+reposition  this  a little  bit  i  want  this
+
+i  want  the  tip  of  the  foxs  nose  here  up
+
+against  this  square  grid  line
+
+there  we  go  so  now  lets  go  ahead  and
+
+create  our  initial  box  what  we  want  to
+
+do  first  is  enable  snapping  which  is  up
+
+here  this  little  magnet  icon  turn  that
+
+on  and  then  from  this  drop  down  menu
+
+where  it  says  uh  bounding  boxes  and
+
+nodes  we  want  those  two  enabled  but  we
+
+dont  want  alignment  enabled  thats  the
+
+settings  we  want  right  now
+
+so  im  going  to  grab  my  rectangle  tool
+
+and  im  just  going  to  click  and  drag
+
+like  this  to  create  a  box  it  should  snap
+
+to  the  grid  lines  nice  and  evenly  as  you
+
+saw  here  and  once  youve  done  that  you
+
+can  disable  the  node  setting  in  the  uh
+
+snapping  options  were  going  to  leave
+
+were  going  to  leave  bounding  boxes
+
+enabled  but  for  the  rest  of  this
+
+tutorial  were  going  to  leave  these  two
+
+disabled  and  now  im  going  to  take  this
+
+im  going  to  grab  my  dropper  im  going
+
+to  make  this  the  same  color  as  the  foxs
+
+nose  like  that  and  now  ill  grab  my
+
+selection  tool  and  ill  just  snap  that
+
+in  there  like  that
+
+let  me  zoom  in  a  little  bit  now  to
+
+duplicate  that  im  going  to  press  ctrl  d
+
+on  the  keyboard  and  im  going  to  move
+
+this  copy  over  here
+
+and  if  you  want  to  stamp  copies  while
+
+youre  doing  this  you  could  just  hold
+
+the  click  and  then  press  the  space  bar
+
+and  itll  stamp  a  copy  like  that  and
+
+ill  put  another  one  down  here  for  the
+
+foxs  nose  like  that  and  ill  just  leave
+
+that  one  there
+
+okay  so  now  im  going  to  duplicate  this
+
+again  im  going  to  press  ctrl  d  to
+
+duplicate  this  i  want  to  make  this  one
+
+the  same  color  as  this  shade  right  here
+
+so  im  going to  grab  my  dropper  again
+
+and  go  like  that  and  there  we  go  now  we
+
+have  that  box  and  im  just  going  to
+
+stamp  that  in  there  and  try  to  follow
+
+along  the  lines  of  the  subject  here
+
+although  its  not  going  to  be  exactly
+
+precise
+
+what  youre  going  for  is  a  close
+
+representation  its  not  going  to  be
+
+exact  but  if  you  just  follow  along  um  in
+
+a  rudimentary  way  it  should  look  good
+
+once  youre  finished  and  zoomed  out
+
+okay  so  let  me  put  these  over  here
+
+and  again  to  stamp  these  copies  im  just
+
+pressing  the  spacebar
+
+on  my  keyboard  to  do  that
+
+now  if  you  notice  here  its  hard  to  see
+
+whats  actually  going  on  so  what  i  would
+
+recommend  doing  is  clicking  on  the  image
+
+and  reducing  the  opacity  of  it  im  going
+
+to  open  up  the  fill  and  stroke  menu
+
+which  is  located  over  here
+
+and  over  here  where  it  says  opacity  im
+
+going  to  bring  that  down
+
+and  i  would  even  recommend  making  the
+
+page  darker  than  white  so  that  you  can
+
+see  the  white  boxes  when  we  start
+
+creating  them  so  im  going  to  come  back
+
+to  the  document  properties  tab  and  come
+
+over  here  to  the  display  tab  and  where
+
+it  says  page  im  going  to  click  on  that
+
+and  im  going to  make  that  a  darker
+
+shade  im  going to  make  that  maybe
+
+something  like  gray  so  we  can  see  a
+
+little  better
+
+okay  so  let  me  zoom  back  in  here
+
+let  me  uh  create  some  more  boxes
+
+to  fill  in  my  subject  here
+
+im  going  to  create  the  ear  right  here
+
+and  use  this  color  so  let  me  bring  the
+
+opacity  of  this  image  back  up  so  i  can
+
+sample  a  better  so  i  can  sample  that
+
+color  properly  properly  back  to  the  fill
+
+and  stroke  menu  with  the  image  selected
+
+bring  the  opacity  all  the  way  up  there
+
+we  go
+
+and  let  me  create  a  duplicate  of  this
+
+box  right  here  to  move  the  page  around
+
+im  just  pressing  down  the  mouse  wheel
+
+and  moving  the  mouse  let  me  take  this
+
+one  duplicate  that  by  pressing  ctrl  d
+
+and  ill  make  this  a  darker  shade  let  me
+
+grab  my  dropper  tool  right  here
+
+make  that  a  darker  shade  like  that  and  i
+
+may  even  change  these  boxes  right  here
+
+to  be  the  same  color
+
+just  for  consistency
+
+okay  thats  a  nice  contrasting  shade
+
+compared  to  the  other  orange  so  im
+
+going  to  leave  that  as  it  is
+
+let  me  make  copies  in  here  again  just
+
+pressing  the  space  bar  to  stamp  copies
+
+there  we  go
+
+ill  put  some  copies  up  here
+
+for  this  part  of  the  ear
+
+there  we  go
+
+now  im  not  what  im  doing  right  here  is
+
+im  not  filling  in  the  entire  subject
+
+im  just  creating  like  an  outline  around
+
+the  main  areas  let  me  turn  the  opacity
+
+of  that  image  back  down  so  i  can  see  a
+
+little  better  there  we  go  we  want  to  try
+
+not  to  make  duplicate  copies  of  squares
+
+in  those  grid  lines  if  possible
+
+there  we  go
+
+let  me  just  make  an  outline  here  going
+
+around  the  outline  of  the  shading
+
+okay  looking  good
+
+do  this  one  as  well
+
+and  dont  worry  about  it  being  exactly
+
+flush  with  the  uh  boundaries  of  the
+
+subject  its  not  gonna  be  perfect  but
+
+thats  okay  it  doesnt  have  to  be
+
+perfect  so  let  me  fill  this  in  a  little
+
+more
+
+okay  now  im  gonna  fill  in  the  ear  up
+
+here  using  these  colors  again  ctrl  d  to
+
+duplicate  and  then  just  click  and  drag
+
+and  press  down  the  space  bar  to  stamp
+
+copies  of  it  as  you  see  me  doing  here
+
+okay  so  now  im  going  to  start  filling
+
+in  the  white  area  here  and  this  is  where
+
+youll  see  why  it  is  that  i  change  the
+
+page  border  or  the  page  color  rather
+
+because  it  makes  it  easier  to  see  the
+
+white  im  going to  make  that  box  white
+
+and  now  you  can  see  it  much  easier  up
+
+against  that  backdrop  there  you  can  see
+
+exactly  where  the  white  boxes  or  pixels
+
+as  theyre  supposed  to  be  are  being
+
+placed
+
+and  a  little  shortcut  for  filling  in
+
+these  large  areas  you  dont  have  to
+
+create  individual  boxes  for  each  of
+
+these  areas  you  can  just  take  one  of
+
+these  transformation  handles  and  bring
+
+it  down  like  that  and  as  you  can  see  it
+
+just  fills  in  the  whole  area  nice  and
+
+easily  without  having  to  create  too  many
+
+other  copies  in  fact  you  could  take
+
+these  existing  copies  right  there  and
+
+just  fill  them  in  like  that  as  you  can
+
+see  there  okay  so  if  i  if  i  zoom  out  a
+
+little  bit  you  can  see  this  thing  is
+
+starting  to  come  together  you  could
+
+actually  take  the  original  image  and
+
+press  delete  to  get  rid  of  it  just  to
+
+give  you  a  temporary  look  at  how  its
+
+coming  along  now  if  you  want  to  get  your
+
+image  back  just  just  do  an  undo  which  is
+
+ctrl  z
+
+ctrl  z  on  the  keyboard  undoes  your  last
+
+action  so  it  puts  it  back  there  and  now
+
+im  just  gonna  go  and  fill  in  this  part
+
+of  the  shading  of  the  subject  here  using
+
+these  darker
+
+boxes  okay  so  now  that  thats  filled  in
+
+im  going  to  fill  in  this  area  over  here
+
+this  part  of  the  darker  shading  as  well
+
+okay  so  as  you  can  see  here  its
+
+starting  to  come  along  nicely  if  i
+
+delete  this  you  can  see  its  starting  to
+
+come  together  a  little  bit  still  got  a  a
+
+ways  to  go  here  i  think  what  ill  do
+
+next  is  ill  fill  in  this  lighter  area  i
+
+guess  this  reflection  of  light  on  the
+
+foxs  back  right  here
+
+okay  so  next  up  i  will  fill  in  the  tail
+
+here  these  three  different  areas  of  the
+
+tail  and  then  i  will  fill  in  the  larger
+
+part  of  the  body  and  then  we  will  be
+
+finished
+
+
+
+okay  so  im  pretty  much  finished  here  i
+
+just  have  to  fill  in  this  large  area
+
+right  here  which  i  could  fill  in  by
+
+creating  individual  boxes  but  it  would
+
+be  pretty  tedious  so  what  im  going  to
+
+do  is  im  going to  take  a  little  bit  of
+
+a  shortcut  here  and  use  the  bezier  pen
+
+to  just  manually  draw  a  shape  and  fill
+
+it  in  with  the  color  that  would
+
+otherwise  be  filled  here  so  let  me  turn
+
+off  my  snapping  to  do  that  im  going  to
+
+grab  the  bezier  pen  and  this  is  a  trick
+
+you  may  want  to  employ  yourself
+
+depending  on  the  image  youre  working
+
+with  if  it  has  large  areas  of  a  single
+
+color  like  this
+
+you  may  want  to  do  something  like  this
+
+yourself  so  let  me  grab  the  bezier  pen
+
+over  here  keyboard  shortcut  is  b  let  me
+
+zoom  in  on  this
+
+and  im  just  going  to  draw  a  shape  going
+
+through  the  edges  here  that  im  going  to
+
+use  to  fill  in  the  rest  of  this  object
+
+and  then  we  will  be  finished
+
+so  let  me  just  uh
+
+come  around  the  edges  here  like  this
+
+there  we  go
+
+back  to  the  starting  point
+
+and  i  will  make  this  the  same  color
+
+as  the  object  that  id  like  to  the  boxes
+
+i  would  have  filled  in  there  otherwise
+
+and  i  can  get  rid  of  that  outline  by
+
+holding  shift
+
+and  clicking  on  this  little  x  down  here
+
+now  im  going  to  take  this  grab  this
+
+selection  tool  im  going  to  send  that  to
+
+the  bottom  using  this  button  right  here
+
+lower  selection  to  the  bottom
+
+and  then  im  going  to  raise  it  one  step
+
+by  uh  clicking  this  button  next  to  it
+
+that  says
+
+or  two  buttons  over  to  the  left  that
+
+says  raise  selection  one  step  and  now  it
+
+should  be  over  the  original  image  now
+
+let  me  zoom  out  a little  bit
+
+let  me  take  the  original  image  and  move
+
+it  out  of  the  way
+
+as  you  can  see  here  were  pretty  much
+
+finished  we  have  our  vector
+
+pixel  art  that  we  created  from  the
+
+vector  fox  here
+
+now  if  i  zoom  out  one  more  thing  i
+
+wanted  to  point  out  lets  turn  off  the
+
+page  grid  im  going to  come  up  here  to
+
+where  it  says  view
+
+where  it  says  page  grid  im  going  to
+
+deselect  that
+
+now  if  you  notice
+
+theres  space  showing  through
+
+these  boxes  in  here
+
+because  of  the  way  vector  graphics  work
+
+in  general  this  isnt  just  an
+
+inkscape  problem  this  happens  in  every
+
+vector  application  youre  going  to
+
+notice  these  little  these  little  gaps
+
+between  the  boxes  here  maybe  its  not  so
+
+apparent  on  my  screen  if  i  were  to  make
+
+this  page  background  a  little  darker
+
+youd  probably  see  it  you  can  see  more
+
+of  those
+
+um  lines  showing  through  between  the
+
+boxes  the  way  that  we  remedy  this  is
+
+just  by  selecting  everything  and
+
+duplicating  it  so  let  me  select
+
+everything  here
+
+i  actually  want  to  select  everything
+
+except  for  this  large  image  in  here  or
+
+this  large  object  that  i  drew  with  the
+
+bezier  pen  so  to  deselect  just  that  part
+
+im  going  to  hold  shift  and  click  on
+
+that  to  deselect  it  and  now  i  should
+
+just  have  the  boxes  selected  and  with
+
+the  boxes  selected  you  can  duplicate
+
+them  by  pressing  ctrl  d  on  the  keyboard
+
+and  there  you  go  if  you  zoom  out  those
+
+uh  gaps  should  be  gone  if  theyre  not
+
+you  could  just  duplicate  it  one  more
+
+time  and  that  should  do  the  trick
+
+and  there  you  go  that  is  how
+
+you  can  fix  that  problem
+
+and  i  think  that  should  do  it  for  this
+
+tutorial  that  is  how  you  can  go  about
+
+creating  uh  simple  pixel  art  tracings
+
+over  vector  graphics  using  inkscape  if
+
+you  found  this  lesson  useful  then
+
+consider  checking  out  my  inkscape  master
+
+class  its  a  collection  of  over  60
+
+videos  where  i  go  over  all  of  the  tools
+
+and  features  in  inkscape  and  i  explain
+
+what  they  are  and  demonstrate  how  they
+
+work  kind  of  like  how  i  did  in  this
+
+video  we  even  have  a  private  community
+
+where  you  can  ask  questions  and  get  help
+
+from  me  anytime  you  want  and  best  of  all
+
+theres  no  monthly  membership  fees  you
+
+just  pay  17
+
+one  time  and  youre  in  for  life  ill
+
+have  some  information  about  that  down
+
+below  if  you  want  to  check  that  out  as
+
+always  thanks  for  watching
+
+
+
+you

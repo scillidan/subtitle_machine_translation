@@ -1,0 +1,2532 @@
+1
+00:00:00,240 --> 00:00:01,920
+in this tutorial I'll be demonstrating
+
+2
+00:00:01,920 --> 00:00:03,800
+how you can create these six icon
+
+3
+00:00:03,800 --> 00:00:06,359
+designs using nothing but basic shapes
+
+4
+00:00:06,359 --> 00:00:09,080
+in inkscape before we get started though
+
+5
+00:00:09,080 --> 00:00:10,240
+if you want to learn more about how
+
+6
+00:00:10,240 --> 00:00:12,080
+inkscape Works be sure to check out my
+
+7
+00:00:12,080 --> 00:00:14,280
+inkscape master class it's a collection
+
+8
+00:00:14,280 --> 00:00:16,239
+of over 80 videos where we go over all
+
+9
+00:00:16,239 --> 00:00:18,039
+of the tools and features in inkscape
+
+10
+00:00:18,039 --> 00:00:19,359
+and I explain what they are and
+
+11
+00:00:19,359 --> 00:00:21,439
+demonstrate how they work we even have a
+
+12
+00:00:21,439 --> 00:00:22,840
+private Community where you can ask
+
+13
+00:00:22,840 --> 00:00:24,560
+questions and get help from me anytime
+
+14
+00:00:24,560 --> 00:00:25,480
+you
+
+15
+00:00:25,480 --> 00:00:27,560
+want so the first thing I'm going to
+
+16
+00:00:27,560 --> 00:00:29,759
+demonstrate is how to draw a heart so
+
+17
+00:00:29,759 --> 00:00:31,759
+let me grab the squares and rectangles
+
+18
+00:00:31,759 --> 00:00:33,879
+tool I'll click and drag on the canvas
+
+19
+00:00:33,879 --> 00:00:36,760
+to draw a vertically elongated rectangle
+
+20
+00:00:36,760 --> 00:00:38,360
+and then I'll grab my selection tool and
+
+21
+00:00:38,360 --> 00:00:39,920
+I want to make sure I have this lock
+
+22
+00:00:39,920 --> 00:00:42,239
+icon turned off up here in the toolbar
+
+23
+00:00:42,239 --> 00:00:45,160
+and for the width I want the width to be
+
+24
+00:00:45,160 --> 00:00:48,559
+100 pixels and I want the height to be
+
+25
+00:00:48,559 --> 00:00:50,199
+225
+
+26
+00:00:50,199 --> 00:00:52,079
+pixels and then I'm going to zoom in on
+
+27
+00:00:52,079 --> 00:00:54,039
+this object I'm going to go back to my
+
+28
+00:00:54,039 --> 00:00:55,879
+rectangle tool and I'm going to grab
+
+29
+00:00:55,879 --> 00:00:57,480
+this circular knot right here and bring
+
+30
+00:00:57,480 --> 00:00:58,879
+this all the way down so that we have
+
+31
+00:00:58,879 --> 00:01:00,960
+rounded edges like that
+
+32
+00:01:00,960 --> 00:01:03,039
+then I'll grab my selection tool I'll
+
+33
+00:01:03,039 --> 00:01:04,760
+right click the object and go to
+
+34
+00:01:04,760 --> 00:01:09,000
+duplicate I will rotate it
+
+35
+00:01:09,000 --> 00:01:12,880
+90° select both objects click on them to
+
+36
+00:01:12,880 --> 00:01:14,520
+get the rotation handles and then hold
+
+37
+00:01:14,520 --> 00:01:16,360
+your control key and grab the rotation
+
+38
+00:01:16,360 --> 00:01:18,400
+handle in the corner here and rotate it
+
+39
+00:01:18,400 --> 00:01:20,400
+around until it's upright like that
+
+40
+00:01:20,400 --> 00:01:22,920
+where it sort of looks like an X and now
+
+41
+00:01:22,920 --> 00:01:24,920
+you can go into your shape Builder tool
+
+42
+00:01:24,920 --> 00:01:26,960
+make sure you have the addition option
+
+43
+00:01:26,960 --> 00:01:29,520
+enabled and click and drag to draw a
+
+44
+00:01:29,520 --> 00:01:31,119
+line going through the area of the
+
+45
+00:01:31,119 --> 00:01:33,840
+shapes to draw a heart now you can go
+
+46
+00:01:33,840 --> 00:01:35,479
+back to your selection tool and just
+
+47
+00:01:35,479 --> 00:01:37,479
+like that you've drawn a
+
+48
+00:01:37,479 --> 00:01:40,159
+heart now let's go over how you can draw
+
+49
+00:01:40,159 --> 00:01:43,159
+this waving flag icon I'm going to grab
+
+50
+00:01:43,159 --> 00:01:45,360
+my rectangle tool I'll click and drag on
+
+51
+00:01:45,360 --> 00:01:47,079
+the canvas to draw a
+
+52
+00:01:47,079 --> 00:01:49,920
+rectangle and I want to make sure that I
+
+53
+00:01:49,920 --> 00:01:52,520
+have the edges rounded as I did for the
+
+54
+00:01:52,520 --> 00:01:54,640
+previous object that we
+
+55
+00:01:54,640 --> 00:01:56,360
+created and then I'm going to draw
+
+56
+00:01:56,360 --> 00:01:58,200
+another rectangle right about here and
+
+57
+00:01:58,200 --> 00:02:01,680
+bring it out about that far
+
+58
+00:02:01,680 --> 00:02:02,840
+and I want to get rid of the rounded
+
+59
+00:02:02,840 --> 00:02:04,159
+edges here so I'll come up here and
+
+60
+00:02:04,159 --> 00:02:05,799
+click on this button in the
+
+61
+00:02:05,799 --> 00:02:08,479
+toolbar I'll grab my selection tool move
+
+62
+00:02:08,479 --> 00:02:11,400
+this over about here and use this
+
+63
+00:02:11,400 --> 00:02:13,400
+scaling handle right here to size the
+
+64
+00:02:13,400 --> 00:02:15,920
+rectangle appropriately about where it
+
+65
+00:02:15,920 --> 00:02:17,640
+needs to be relative to the pole I'll
+
+66
+00:02:17,640 --> 00:02:18,879
+place this right about here we want a
+
+67
+00:02:18,879 --> 00:02:20,519
+little bit of space to be between the
+
+68
+00:02:20,519 --> 00:02:22,200
+pole and the
+
+69
+00:02:22,200 --> 00:02:24,879
+flag once that's done let's create an
+
+70
+00:02:24,879 --> 00:02:26,920
+object to place on top of the flag for
+
+71
+00:02:26,920 --> 00:02:29,519
+my example here I just used a star so I
+
+72
+00:02:29,519 --> 00:02:31,280
+will use that for this demonstration as
+
+73
+00:02:31,280 --> 00:02:32,680
+well but you can use whatever you'd like
+
+74
+00:02:32,680 --> 00:02:34,840
+I'm going to grab my stars and polygons
+
+75
+00:02:34,840 --> 00:02:37,440
+tool I'm going to choose the star option
+
+76
+00:02:37,440 --> 00:02:40,080
+I want five corners and I want the spoke
+
+77
+00:02:40,080 --> 00:02:42,400
+ratio to be
+
+78
+00:02:42,400 --> 00:02:45,120
+0.375 and the rounded and randomized
+
+79
+00:02:45,120 --> 00:02:47,519
+both set to zero and then I can click
+
+80
+00:02:47,519 --> 00:02:49,560
+and drag on my canvas to draw a star
+
+81
+00:02:49,560 --> 00:02:52,560
+I'll hold control and
+
+82
+00:02:52,959 --> 00:02:56,560
+shift and bring my cursor straight up
+
+83
+00:02:56,560 --> 00:02:58,120
+like
+
+84
+00:02:58,120 --> 00:03:00,360
+that and then I'll grab my selection
+
+85
+00:03:00,360 --> 00:03:02,480
+tool I'll place this in the center of
+
+86
+00:03:02,480 --> 00:03:04,040
+the
+
+87
+00:03:04,040 --> 00:03:06,239
+rectangle to scale it down I'm holding
+
+88
+00:03:06,239 --> 00:03:07,480
+control and shift and clicking and
+
+89
+00:03:07,480 --> 00:03:08,959
+dragging the
+
+90
+00:03:08,959 --> 00:03:11,840
+handle and to place this in the center
+
+91
+00:03:11,840 --> 00:03:14,080
+of the rectangle I'll hold shift and
+
+92
+00:03:14,080 --> 00:03:15,480
+click on the rectangle so that I have
+
+93
+00:03:15,480 --> 00:03:17,720
+both object selected and I will open up
+
+94
+00:03:17,720 --> 00:03:20,760
+my aligned distribute menu by going to
+
+95
+00:03:20,760 --> 00:03:22,959
+object and selecting aligned
+
+96
+00:03:22,959 --> 00:03:24,920
+distribute I want to make sure I have
+
+97
+00:03:24,920 --> 00:03:26,840
+last selected chosen from this dropdown
+
+98
+00:03:26,840 --> 00:03:28,760
+and I will Center it vertically and
+
+99
+00:03:28,760 --> 00:03:30,400
+horizontally
+
+100
+00:03:30,400 --> 00:03:34,239
+and then I will go to path and select
+
+101
+00:03:34,239 --> 00:03:36,159
+difference and it's going to subtract
+
+102
+00:03:36,159 --> 00:03:38,319
+the star from the rectangle so that it
+
+103
+00:03:38,319 --> 00:03:41,799
+creates a negative space area within it
+
+104
+00:03:41,799 --> 00:03:43,239
+now let me just place this over here to
+
+105
+00:03:43,239 --> 00:03:45,159
+readjust it I want to make these two
+
+106
+00:03:45,159 --> 00:03:47,319
+corners of the rectangle rounded so let
+
+107
+00:03:47,319 --> 00:03:49,599
+me come over here to my nodes tool I'll
+
+108
+00:03:49,599 --> 00:03:51,599
+click on this icon up here that says add
+
+109
+00:03:51,599 --> 00:03:54,480
+Corners live path effect and I'll click
+
+110
+00:03:54,480 --> 00:03:56,159
+on this node to select it and then hold
+
+111
+00:03:56,159 --> 00:03:57,920
+shift and click on this node to select
+
+112
+00:03:57,920 --> 00:04:01,120
+it with those two nodes selected you can
+
+113
+00:04:01,120 --> 00:04:02,680
+grab these white knots right here and
+
+114
+00:04:02,680 --> 00:04:04,599
+click and drag them to round the corners
+
+115
+00:04:04,599 --> 00:04:06,560
+of the selected nodes now I'm going to
+
+116
+00:04:06,560 --> 00:04:07,879
+bring that down a little more so it's
+
+117
+00:04:07,879 --> 00:04:08,799
+not too
+
+118
+00:04:08,799 --> 00:04:11,280
+rounded right about there looks good and
+
+119
+00:04:11,280 --> 00:04:12,560
+once you're done with that you can click
+
+120
+00:04:12,560 --> 00:04:14,400
+on this Square icon up here to convert
+
+121
+00:04:14,400 --> 00:04:17,199
+them to a path and that finalizes the
+
+122
+00:04:17,199 --> 00:04:19,519
+effect now I'm going to give the flag a
+
+123
+00:04:19,519 --> 00:04:21,639
+waving effect so to do that let me grab
+
+124
+00:04:21,639 --> 00:04:23,759
+my selection tool I'm going to open up
+
+125
+00:04:23,759 --> 00:04:26,040
+the path effects menu by going to path
+
+126
+00:04:26,040 --> 00:04:29,039
+and selecting path effects and from this
+
+127
+00:04:29,039 --> 00:04:30,919
+drop down over here I'm looking for
+
+128
+00:04:30,919 --> 00:04:33,039
+envelope deformation I'm going to select
+
+129
+00:04:33,039 --> 00:04:35,520
+that and I want to uncheck this box
+
+130
+00:04:35,520 --> 00:04:37,000
+right here that says enable left and
+
+131
+00:04:37,000 --> 00:04:39,960
+right paths and I'm going to select top
+
+132
+00:04:39,960 --> 00:04:42,400
+Bend path right here and I'm going to
+
+133
+00:04:42,400 --> 00:04:45,120
+grab this top Edge and click and drag it
+
+134
+00:04:45,120 --> 00:04:47,360
+up like that and then I'll click on this
+
+135
+00:04:47,360 --> 00:04:48,919
+note over here and I'll take this handle
+
+136
+00:04:48,919 --> 00:04:51,520
+and bring this down like that so we want
+
+137
+00:04:51,520 --> 00:04:53,240
+a little bit of a contour going on the
+
+138
+00:04:53,240 --> 00:04:55,039
+top edge of the flag don't worry about
+
+139
+00:04:55,039 --> 00:04:56,320
+what's happening on the left and right
+
+140
+00:04:56,320 --> 00:04:57,560
+and down here that's going to come
+
+141
+00:04:57,560 --> 00:04:59,479
+together once we finish making all of
+
+142
+00:04:59,479 --> 00:05:01,160
+these adjustments so I'm just going to
+
+143
+00:05:01,160 --> 00:05:03,280
+adjust this
+
+144
+00:05:03,280 --> 00:05:05,000
+accordingly and then I want to do the
+
+145
+00:05:05,000 --> 00:05:06,320
+same thing with the bottom Edge so I'll
+
+146
+00:05:06,320 --> 00:05:09,680
+come over here and select bottom path
+
+147
+00:05:09,680 --> 00:05:10,960
+and I'll do the same thing I'll take
+
+148
+00:05:10,960 --> 00:05:13,320
+this line and I'll bring this one up and
+
+149
+00:05:13,320 --> 00:05:15,280
+I'll bring this one down so that the
+
+150
+00:05:15,280 --> 00:05:17,680
+Contours are consistent on the top and
+
+151
+00:05:17,680 --> 00:05:19,840
+the
+
+152
+00:05:20,720 --> 00:05:23,120
+bottom and that looks good right there
+
+153
+00:05:23,120 --> 00:05:24,720
+and once you're finish you can finalize
+
+154
+00:05:24,720 --> 00:05:26,319
+this by going to path and selecting
+
+155
+00:05:26,319 --> 00:05:28,400
+object to path and just like that you've
+
+156
+00:05:28,400 --> 00:05:30,759
+created a waving FL FL
+
+157
+00:05:30,759 --> 00:05:33,039
+icon now we'll go over how to create
+
+158
+00:05:33,039 --> 00:05:35,400
+this wi glass shape so I'm going to grab
+
+159
+00:05:35,400 --> 00:05:37,319
+my circles and ellipses tool and I'll
+
+160
+00:05:37,319 --> 00:05:39,440
+click and drag on the canvas to draw an
+
+161
+00:05:39,440 --> 00:05:42,240
+elongated ellipse like that and I'll
+
+162
+00:05:42,240 --> 00:05:44,880
+make this black and I'm going to open up
+
+163
+00:05:44,880 --> 00:05:46,479
+my fill-in stroke menu by double
+
+164
+00:05:46,479 --> 00:05:48,360
+clicking the color stripe down here next
+
+165
+00:05:48,360 --> 00:05:51,120
+to the fill label and I'll bring the
+
+166
+00:05:51,120 --> 00:05:53,319
+opacity of this down roughly in
+
+167
+00:05:53,319 --> 00:05:55,720
+half now I want to make a duplicate copy
+
+168
+00:05:55,720 --> 00:05:56,960
+of this so let me go to my selection
+
+169
+00:05:56,960 --> 00:05:58,639
+tool I'll right click this and go to
+
+170
+00:05:58,639 --> 00:06:01,080
+duplicate and I'll hold my shift key and
+
+171
+00:06:01,080 --> 00:06:02,919
+I'll grab this top Arrow up here and
+
+172
+00:06:02,919 --> 00:06:05,039
+click and drag to scale this in and as
+
+173
+00:06:05,039 --> 00:06:06,720
+long as you're holding shift it'll scale
+
+174
+00:06:06,720 --> 00:06:08,800
+inward from the top and bottom like that
+
+175
+00:06:08,800 --> 00:06:10,479
+and we want to make this about that
+
+176
+00:06:10,479 --> 00:06:12,479
+height right about
+
+177
+00:06:12,479 --> 00:06:14,440
+there and now I'm going to right click
+
+178
+00:06:14,440 --> 00:06:16,840
+this and go to duplicate I'll hold
+
+179
+00:06:16,840 --> 00:06:19,080
+control and bring this all the way down
+
+180
+00:06:19,080 --> 00:06:21,360
+here and I'll make this a little smaller
+
+181
+00:06:21,360 --> 00:06:23,039
+by holding control and taking this top
+
+182
+00:06:23,039 --> 00:06:25,759
+arrow and scaling that down a little
+
+183
+00:06:25,759 --> 00:06:27,759
+bit and then I'm going to convert this
+
+184
+00:06:27,759 --> 00:06:30,560
+to a path by going to path and selecting
+
+185
+00:06:30,560 --> 00:06:34,360
+object to path I'll grab the nodes tool
+
+186
+00:06:34,360 --> 00:06:35,880
+and I'll take this node right here and
+
+187
+00:06:35,880 --> 00:06:37,400
+click on it to select it and then hold
+
+188
+00:06:37,400 --> 00:06:39,280
+control and click and drag it up about
+
+189
+00:06:39,280 --> 00:06:41,680
+that far and the same thing with this
+
+190
+00:06:41,680 --> 00:06:43,919
+node I'll select this Noe and I'll click
+
+191
+00:06:43,919 --> 00:06:45,880
+and drag this up just a tiny bit though
+
+192
+00:06:45,880 --> 00:06:48,720
+not much maybe about that far and this
+
+193
+00:06:48,720 --> 00:06:50,080
+is going to be the base of the wine
+
+194
+00:06:50,080 --> 00:06:51,599
+glass so now I'm going to grab the
+
+195
+00:06:51,599 --> 00:06:53,280
+rectangle tool and I'm going to click
+
+196
+00:06:53,280 --> 00:06:55,639
+and drag to draw a rectangle going
+
+197
+00:06:55,639 --> 00:06:57,440
+between the two objects here to
+
+198
+00:06:57,440 --> 00:07:00,039
+represent the stem of the wine glass and
+
+199
+00:07:00,039 --> 00:07:02,080
+I will make these Corners sharp by
+
+200
+00:07:02,080 --> 00:07:03,360
+clicking on this
+
+201
+00:07:03,360 --> 00:07:05,560
+button and I'll scale this down a little
+
+202
+00:07:05,560 --> 00:07:06,960
+bit I'm going to hold my shift key and
+
+203
+00:07:06,960 --> 00:07:10,479
+use this handle right here to scale that
+
+204
+00:07:10,479 --> 00:07:12,520
+down and I want to make sure I have
+
+205
+00:07:12,520 --> 00:07:14,680
+everything here centered so let me zoom
+
+206
+00:07:14,680 --> 00:07:18,080
+out let me select everything let come
+
+207
+00:07:18,080 --> 00:07:19,280
+over here to my align and distribute
+
+208
+00:07:19,280 --> 00:07:20,599
+menu and make sure I have everything
+
+209
+00:07:20,599 --> 00:07:22,879
+centered on the vertical
+
+210
+00:07:22,879 --> 00:07:25,160
+axis and now I can come over here into
+
+211
+00:07:25,160 --> 00:07:27,400
+the shape Builder tool and I can draw a
+
+212
+00:07:27,400 --> 00:07:29,280
+line through these areas to draw the
+
+213
+00:07:29,280 --> 00:07:31,319
+shape shape that I'm trying to create
+
+214
+00:07:31,319 --> 00:07:33,879
+and if I go back to the selection tool
+
+215
+00:07:33,879 --> 00:07:35,560
+now all we have to do is round these
+
+216
+00:07:35,560 --> 00:07:37,919
+Corners in here so let me grab the nodes
+
+217
+00:07:37,919 --> 00:07:40,039
+tool and click on the object I'm going
+
+218
+00:07:40,039 --> 00:07:43,639
+to select these four nodes right
+
+219
+00:07:44,199 --> 00:07:46,840
+here I'll click on this button up here
+
+220
+00:07:46,840 --> 00:07:48,680
+to add
+
+221
+00:07:48,680 --> 00:07:51,520
+Corners let me select them
+
+222
+00:07:51,520 --> 00:07:53,680
+again and I'll take this handle and
+
+223
+00:07:53,680 --> 00:07:55,280
+bring this in or this white this little
+
+224
+00:07:55,280 --> 00:07:56,680
+round white knot and bring that in a
+
+225
+00:07:56,680 --> 00:07:58,240
+little bit just to give a little bit of
+
+226
+00:07:58,240 --> 00:08:01,199
+a rounded rounded transition between the
+
+227
+00:08:01,199 --> 00:08:03,759
+stem and the other parts of the glass
+
+228
+00:08:03,759 --> 00:08:05,039
+and now we can go back to the select
+
+229
+00:08:05,039 --> 00:08:06,720
+tool and zoom
+
+230
+00:08:06,720 --> 00:08:09,039
+out and now we can go to our fill and
+
+231
+00:08:09,039 --> 00:08:11,080
+stroke menu bring the opacity back up to
+
+232
+00:08:11,080 --> 00:08:14,120
+100% and there is our wine
+
+233
+00:08:14,120 --> 00:08:16,440
+glass next we'll go over how to create
+
+234
+00:08:16,440 --> 00:08:18,560
+this shopping cart icon so I'll come
+
+235
+00:08:18,560 --> 00:08:20,440
+back into inkscape I'm going to grab my
+
+236
+00:08:20,440 --> 00:08:22,800
+beier pen which is located over here in
+
+237
+00:08:22,800 --> 00:08:24,400
+the toolbar or you can access it by
+
+238
+00:08:24,400 --> 00:08:26,639
+pressing the letter B on your keyboard
+
+239
+00:08:26,639 --> 00:08:28,080
+and up here in the tool settings menu I
+
+240
+00:08:28,080 --> 00:08:29,560
+want to choose this option right here
+
+241
+00:08:29,560 --> 00:08:31,479
+that says create a sequence of straight
+
+242
+00:08:31,479 --> 00:08:33,519
+line segments and I want to click once
+
+243
+00:08:33,519 --> 00:08:35,360
+on the canvas to create a point and then
+
+244
+00:08:35,360 --> 00:08:36,958
+hold the control key and bring the line
+
+245
+00:08:36,958 --> 00:08:39,039
+straight across about that far and then
+
+246
+00:08:39,039 --> 00:08:41,479
+click again to create another point and
+
+247
+00:08:41,479 --> 00:08:42,760
+then I'm going to bring the line down
+
+248
+00:08:42,760 --> 00:08:44,200
+about this far but I'm going to hold the
+
+249
+00:08:44,200 --> 00:08:46,200
+control key so that it locks it onto a
+
+250
+00:08:46,200 --> 00:08:49,080
+75 degree angle and if you look in the
+
+251
+00:08:49,080 --> 00:08:50,480
+status bar at the bottom of the screen
+
+252
+00:08:50,480 --> 00:08:52,399
+it'll show you which angle you currently
+
+253
+00:08:52,399 --> 00:08:54,040
+have the line going at so if I move it
+
+254
+00:08:54,040 --> 00:08:56,120
+around you can see this angle changes I
+
+255
+00:08:56,120 --> 00:08:58,120
+want the angle to be 75 degrees so I'll
+
+256
+00:08:58,120 --> 00:09:00,200
+move it about that far
+
+257
+00:09:00,200 --> 00:09:02,240
+and again while I'm holding control
+
+258
+00:09:02,240 --> 00:09:04,760
+click to add a point and then bring this
+
+259
+00:09:04,760 --> 00:09:06,760
+line straight across about that far like
+
+260
+00:09:06,760 --> 00:09:08,800
+that and then press the enter key to
+
+261
+00:09:08,800 --> 00:09:11,480
+close the path now we'll come over here
+
+262
+00:09:11,480 --> 00:09:13,880
+to the stroke style tab under the fill
+
+263
+00:09:13,880 --> 00:09:16,079
+and stroke Tab and I want to hold up on
+
+264
+00:09:16,079 --> 00:09:18,480
+this plus icon to make this stroke
+
+265
+00:09:18,480 --> 00:09:20,240
+thicker or give it a heavier
+
+266
+00:09:20,240 --> 00:09:22,360
+weight and I want it to have rounded
+
+267
+00:09:22,360 --> 00:09:23,959
+caps as well so I'll click on this
+
+268
+00:09:23,959 --> 00:09:26,320
+rounded caps button and I want it to
+
+269
+00:09:26,320 --> 00:09:28,079
+have rounded Corners as well or rounded
+
+270
+00:09:28,079 --> 00:09:31,000
+joins so I'll select that option as well
+
+271
+00:09:31,000 --> 00:09:32,360
+and now I'm going to grabb the rectangle
+
+272
+00:09:32,360 --> 00:09:34,200
+tool let me press the Escape key to
+
+273
+00:09:34,200 --> 00:09:36,120
+deselect everything there and I'll click
+
+274
+00:09:36,120 --> 00:09:38,399
+and drag to draw a rectangle going over
+
+275
+00:09:38,399 --> 00:09:41,160
+the object like
+
+276
+00:09:41,160 --> 00:09:43,600
+this and I'll convert that to a path by
+
+277
+00:09:43,600 --> 00:09:46,200
+going to path and selecting object to
+
+278
+00:09:46,200 --> 00:09:48,839
+path and I'll grab the nodes tool and
+
+279
+00:09:48,839 --> 00:09:50,320
+I'll take this node and bring this down
+
+280
+00:09:50,320 --> 00:09:53,720
+and over like that we want the top Edge
+
+281
+00:09:53,720 --> 00:09:55,720
+and the right Edge going straight like a
+
+282
+00:09:55,720 --> 00:09:58,440
+90° angle and then down here this bottom
+
+283
+00:09:58,440 --> 00:10:01,320
+Edge dips down
+
+284
+00:10:02,120 --> 00:10:04,720
+and you can resize this as needed so I'm
+
+285
+00:10:04,720 --> 00:10:05,920
+going to resize this I'm going to scale
+
+286
+00:10:05,920 --> 00:10:07,240
+this down to make sure to hold the
+
+287
+00:10:07,240 --> 00:10:08,959
+control key while you scale it down to
+
+288
+00:10:08,959 --> 00:10:12,120
+preserve the aspect
+
+289
+00:10:12,519 --> 00:10:14,920
+ratio and I noticed that this part of
+
+290
+00:10:14,920 --> 00:10:16,440
+the cart down here sticks out a little
+
+291
+00:10:16,440 --> 00:10:18,680
+too far so I'll grab my nodes tool and
+
+292
+00:10:18,680 --> 00:10:19,959
+I'll just bring that node in a little
+
+293
+00:10:19,959 --> 00:10:21,160
+bit and I'll hold control while I'm
+
+294
+00:10:21,160 --> 00:10:22,560
+doing that so it locks it onto the
+
+295
+00:10:22,560 --> 00:10:24,440
+horizontal
+
+296
+00:10:24,440 --> 00:10:27,000
+axis now I'll select the basket of the
+
+297
+00:10:27,000 --> 00:10:29,519
+cart and I'm going to apply the corner
+
+298
+00:10:29,519 --> 00:10:32,680
+is life path effect as
+
+299
+00:10:32,720 --> 00:10:35,200
+well select each of these nodes by
+
+300
+00:10:35,200 --> 00:10:36,560
+clicking on both of them or holding
+
+301
+00:10:36,560 --> 00:10:38,279
+shift and clicking on both of them and
+
+302
+00:10:38,279 --> 00:10:40,720
+then grab the white knot and bring that
+
+303
+00:10:40,720 --> 00:10:42,200
+in like that just to give them rounded
+
+304
+00:10:42,200 --> 00:10:44,040
+Corners like
+
+305
+00:10:44,040 --> 00:10:46,320
+that now I'm going to add some Wheels to
+
+306
+00:10:46,320 --> 00:10:47,920
+the cart so let me grab the circles and
+
+307
+00:10:47,920 --> 00:10:49,920
+ellipses tool I'll click and drag I'll
+
+308
+00:10:49,920 --> 00:10:51,440
+hold the control key and click and drag
+
+309
+00:10:51,440 --> 00:10:53,279
+to draw a perfectly round circle like
+
+310
+00:10:53,279 --> 00:10:55,720
+that grab the selection tool place it
+
+311
+00:10:55,720 --> 00:10:58,320
+right under the cart duplicate it by
+
+312
+00:10:58,320 --> 00:11:00,160
+right clicking it and going to duplicate
+
+313
+00:11:00,160 --> 00:11:01,639
+and then hold your control key and click
+
+314
+00:11:01,639 --> 00:11:04,600
+and drag this straight across like that
+
+315
+00:11:04,600 --> 00:11:06,480
+and now what I'll do is for one final
+
+316
+00:11:06,480 --> 00:11:08,959
+step I'll click on this part of the cart
+
+317
+00:11:08,959 --> 00:11:11,320
+go back to the nodes tool add the corner
+
+318
+00:11:11,320 --> 00:11:13,160
+live path effect and then click on this
+
+319
+00:11:13,160 --> 00:11:15,040
+node right here and just make this
+
+320
+00:11:15,040 --> 00:11:18,000
+rounded using that
+
+321
+00:11:19,920 --> 00:11:22,040
+knot there we go once you're finished
+
+322
+00:11:22,040 --> 00:11:24,760
+you can click the square icon to convert
+
+323
+00:11:24,760 --> 00:11:27,200
+this to a path and then you're going to
+
+324
+00:11:27,200 --> 00:11:28,800
+want to convert the stroke to a path as
+
+325
+00:11:28,800 --> 00:11:30,560
+well so we'll go to path and select
+
+326
+00:11:30,560 --> 00:11:32,600
+stroke to
+
+327
+00:11:32,600 --> 00:11:35,079
+path and we can select everything now
+
+328
+00:11:35,079 --> 00:11:39,000
+and go to path Union and now we have a
+
+329
+00:11:39,000 --> 00:11:41,079
+shopping cart
+
+330
+00:11:41,079 --> 00:11:43,399
+icon now let's go over how to create
+
+331
+00:11:43,399 --> 00:11:45,000
+this sword
+
+332
+00:11:45,000 --> 00:11:47,200
+icon I'm going to grab the circles and
+
+333
+00:11:47,200 --> 00:11:49,399
+ellipses tool and I'll hold my control
+
+334
+00:11:49,399 --> 00:11:51,040
+key and click and drag to draw a
+
+335
+00:11:51,040 --> 00:11:53,760
+perfectly round circle I'll grab my
+
+336
+00:11:53,760 --> 00:11:55,079
+selection tool move it towards the
+
+337
+00:11:55,079 --> 00:11:57,320
+bottom of the page click off of the
+
+338
+00:11:57,320 --> 00:11:59,320
+graphic to deselect it and then I'll
+
+339
+00:11:59,320 --> 00:12:01,240
+grab my rectangle tool and I'll click
+
+340
+00:12:01,240 --> 00:12:02,800
+and drag a rectangle going through the
+
+341
+00:12:02,800 --> 00:12:04,399
+circle about that
+
+342
+00:12:04,399 --> 00:12:06,320
+wide and then I want to grab my
+
+343
+00:12:06,320 --> 00:12:08,560
+selection tool select both of these go
+
+344
+00:12:08,560 --> 00:12:10,360
+to the aligned distribute menu and
+
+345
+00:12:10,360 --> 00:12:13,120
+Center them up vertically click off of
+
+346
+00:12:13,120 --> 00:12:14,959
+it to deselect everything and I want to
+
+347
+00:12:14,959 --> 00:12:16,920
+select just the rectangle here and hold
+
+348
+00:12:16,920 --> 00:12:19,079
+my shift key and use this right arrow to
+
+349
+00:12:19,079 --> 00:12:21,000
+scale this down or up a little bit
+
+350
+00:12:21,000 --> 00:12:23,320
+depending on how big or small your
+
+351
+00:12:23,320 --> 00:12:26,240
+rectangle is uh the idea is we want I'm
+
+352
+00:12:26,240 --> 00:12:27,800
+paying attention to down here where this
+
+353
+00:12:27,800 --> 00:12:29,880
+circle meets I want some of the circles
+
+354
+00:12:29,880 --> 00:12:31,519
+sticking out between that from that
+
+355
+00:12:31,519 --> 00:12:33,480
+rectangle there if I make it too big
+
+356
+00:12:33,480 --> 00:12:35,000
+it's not quite obvious that there's a
+
+357
+00:12:35,000 --> 00:12:36,680
+circle there but if I make it smaller it
+
+358
+00:12:36,680 --> 00:12:38,639
+looks a little out of place or too big
+
+359
+00:12:38,639 --> 00:12:40,560
+so I want to find a happy medium which I
+
+360
+00:12:40,560 --> 00:12:42,320
+think is right about
+
+361
+00:12:42,320 --> 00:12:44,800
+there and then once that's done I will
+
+362
+00:12:44,800 --> 00:12:46,680
+bring this up a little more and I'm
+
+363
+00:12:46,680 --> 00:12:48,279
+going to convert this to a path by going
+
+364
+00:12:48,279 --> 00:12:50,839
+to path and selecting object to path and
+
+365
+00:12:50,839 --> 00:12:52,320
+then I'll grab my nodes tool and I want
+
+366
+00:12:52,320 --> 00:12:54,040
+to select these two nodes up top over
+
+367
+00:12:54,040 --> 00:12:55,639
+here and I want to enable this setting
+
+368
+00:12:55,639 --> 00:12:57,320
+up here in the tool settings menu that
+
+369
+00:12:57,320 --> 00:12:59,639
+says show transformation hand so I'll
+
+370
+00:12:59,639 --> 00:13:01,680
+click on that to enable it and then I
+
+371
+00:13:01,680 --> 00:13:03,920
+want to hold control and shift and grab
+
+372
+00:13:03,920 --> 00:13:05,920
+this Arrow right here and scale this out
+
+373
+00:13:05,920 --> 00:13:08,079
+like that so that we make this we make
+
+374
+00:13:08,079 --> 00:13:10,079
+the top of this wider than the
+
+375
+00:13:10,079 --> 00:13:13,279
+bottom now we can disable that setting
+
+376
+00:13:13,279 --> 00:13:14,959
+with these two nodes still selected we
+
+377
+00:13:14,959 --> 00:13:17,160
+can come up here and select this button
+
+378
+00:13:17,160 --> 00:13:20,600
+that says insert new nodes into selected
+
+379
+00:13:20,600 --> 00:13:22,920
+segments and then click on just that new
+
+380
+00:13:22,920 --> 00:13:24,639
+node right there and then hold your
+
+381
+00:13:24,639 --> 00:13:26,279
+control key and click and drag it up
+
+382
+00:13:26,279 --> 00:13:27,639
+like that to create the point of the
+
+383
+00:13:27,639 --> 00:13:31,079
+sword so I'll bring it up a about that
+
+384
+00:13:31,079 --> 00:13:33,399
+far and now we'll create the handle of
+
+385
+00:13:33,399 --> 00:13:34,639
+the sword so I'll go back to my
+
+386
+00:13:34,639 --> 00:13:36,560
+rectangle tool I'll click and drag to
+
+387
+00:13:36,560 --> 00:13:39,160
+draw rectangle about that
+
+388
+00:13:39,160 --> 00:13:42,040
+size let me grab my selection tool and
+
+389
+00:13:42,040 --> 00:13:44,360
+reposition
+
+390
+00:13:44,360 --> 00:13:46,600
+this I want to make sure everything here
+
+391
+00:13:46,600 --> 00:13:49,399
+is centered so I'll select everything
+
+392
+00:13:49,399 --> 00:13:51,800
+Center it up
+
+393
+00:13:51,800 --> 00:13:54,279
+vertically and select just this object
+
+394
+00:13:54,279 --> 00:13:55,560
+right here and I'm going to convert this
+
+395
+00:13:55,560 --> 00:13:59,279
+to a path I'll go to path object to path
+
+396
+00:13:59,279 --> 00:14:01,120
+I'll go to my nodes tool and select
+
+397
+00:14:01,120 --> 00:14:03,839
+these two nodes no I'm sorry I'll add
+
+398
+00:14:03,839 --> 00:14:06,320
+the cornner live path effect first and
+
+399
+00:14:06,320 --> 00:14:09,240
+then I will select these two nodes and
+
+400
+00:14:09,240 --> 00:14:10,920
+bring this hand bring these Handles in
+
+401
+00:14:10,920 --> 00:14:13,040
+like this so that we have rounded
+
+402
+00:14:13,040 --> 00:14:15,480
+edges then we can convert that to a path
+
+403
+00:14:15,480 --> 00:14:17,920
+by clicking the square
+
+404
+00:14:17,920 --> 00:14:19,920
+icon and now I want to create a little
+
+405
+00:14:19,920 --> 00:14:21,920
+bit of separation between the handle and
+
+406
+00:14:21,920 --> 00:14:24,120
+the sword or the blade of the sword kind
+
+407
+00:14:24,120 --> 00:14:26,480
+of like how I did over here you can see
+
+408
+00:14:26,480 --> 00:14:29,600
+that separation there so to do that
+
+409
+00:14:29,600 --> 00:14:31,560
+let me just take this object right click
+
+410
+00:14:31,560 --> 00:14:34,560
+it go to duplicate make it white and
+
+411
+00:14:34,560 --> 00:14:36,160
+bring this up like that just click and
+
+412
+00:14:36,160 --> 00:14:38,560
+drag this handle up and then click this
+
+413
+00:14:38,560 --> 00:14:40,399
+button that says lower selection one
+
+414
+00:14:40,399 --> 00:14:42,759
+step to lower it beneath the black
+
+415
+00:14:42,759 --> 00:14:44,160
+object and you can just take this handle
+
+416
+00:14:44,160 --> 00:14:46,120
+and make this in as big or as small as
+
+417
+00:14:46,120 --> 00:14:48,680
+you'd like it to be it may help to zoom
+
+418
+00:14:48,680 --> 00:14:51,199
+out and see exactly how it looks in
+
+419
+00:14:51,199 --> 00:14:53,560
+comparison to the rest of the objects
+
+420
+00:14:53,560 --> 00:14:55,040
+and once you're happy with the size just
+
+421
+00:14:55,040 --> 00:14:56,759
+hold shift and click on the blade and go
+
+422
+00:14:56,759 --> 00:15:00,600
+to path difference
+
+423
+00:15:00,600 --> 00:15:03,000
+then you could select everything and go
+
+424
+00:15:03,000 --> 00:15:05,440
+to path
+
+425
+00:15:05,440 --> 00:15:08,959
+Union and now you have created a sword
+
+426
+00:15:08,959 --> 00:15:11,199
+icon and for the final part of this
+
+427
+00:15:11,199 --> 00:15:12,839
+tutorial I will demonstrate how to
+
+428
+00:15:12,839 --> 00:15:14,639
+create this book
+
+429
+00:15:14,639 --> 00:15:16,880
+icon so to do this I'm going to grab my
+
+430
+00:15:16,880 --> 00:15:19,120
+stars and polygons tool I want to come
+
+431
+00:15:19,120 --> 00:15:20,560
+up here to the toolbar and choose the
+
+432
+00:15:20,560 --> 00:15:23,120
+polygon setting I want six corners and
+
+433
+00:15:23,120 --> 00:15:25,600
+rounded and randomize both set to zero
+
+434
+00:15:25,600 --> 00:15:26,880
+and then I'm going to hold control and
+
+435
+00:15:26,880 --> 00:15:29,079
+shift on my keyboard and click and drag
+
+436
+00:15:29,079 --> 00:15:31,319
+up in an upward motion with my cursor so
+
+437
+00:15:31,319 --> 00:15:33,560
+that I create a hexagon where the
+
+438
+00:15:33,560 --> 00:15:35,480
+corners are going up and down vertically
+
+439
+00:15:35,480 --> 00:15:38,399
+like that let me grab my selection tool
+
+440
+00:15:38,399 --> 00:15:39,720
+and put this towards the center of the
+
+441
+00:15:39,720 --> 00:15:41,560
+page now I'm going to convert this to a
+
+442
+00:15:41,560 --> 00:15:43,319
+path by going to path and selecting
+
+443
+00:15:43,319 --> 00:15:45,639
+object to path and I'll go to my nodes
+
+444
+00:15:45,639 --> 00:15:47,399
+tool and I want to select these nodes
+
+445
+00:15:47,399 --> 00:15:48,880
+down here these three nodes down here in
+
+446
+00:15:48,880 --> 00:15:50,759
+the bottom hold your control key and
+
+447
+00:15:50,759 --> 00:15:53,079
+click and drag them up about that
+
+448
+00:15:53,079 --> 00:15:55,839
+far now I'm going to grab my selection
+
+449
+00:15:55,839 --> 00:15:58,040
+tool click on the object to get the
+
+450
+00:15:58,040 --> 00:16:00,199
+rotation handles and hold your control
+
+451
+00:16:00,199 --> 00:16:02,319
+key and grab this corner handle and
+
+452
+00:16:02,319 --> 00:16:08,120
+rotate it left four steps so one 2 3
+
+453
+00:16:08,120 --> 00:16:10,199
+four and when you do that you should see
+
+454
+00:16:10,199 --> 00:16:12,000
+these left edges are flat against the
+
+455
+00:16:12,000 --> 00:16:14,319
+bounding box of the object
+
+456
+00:16:14,319 --> 00:16:17,360
+selection now I'll grab my nodes tool
+
+457
+00:16:17,360 --> 00:16:20,040
+select these three nodes up here hold my
+
+458
+00:16:20,040 --> 00:16:21,880
+control key and click and drag these up
+
+459
+00:16:21,880 --> 00:16:22,800
+like
+
+460
+00:16:22,800 --> 00:16:26,160
+that go back to my selection tool click
+
+461
+00:16:26,160 --> 00:16:28,079
+on the object again to get the rotation
+
+462
+00:16:28,079 --> 00:16:29,600
+handles and and now I'm going to hold
+
+463
+00:16:29,600 --> 00:16:32,160
+control and rotate it four steps
+
+464
+00:16:32,160 --> 00:16:34,040
+clockwise so in the other direction now
+
+465
+00:16:34,040 --> 00:16:37,199
+so this time I will go to the right 1 2
+
+466
+00:16:37,199 --> 00:16:39,319
+3 four and again we're holding control
+
+467
+00:16:39,319 --> 00:16:41,000
+the whole time we do this to lock it
+
+468
+00:16:41,000 --> 00:16:43,199
+into 15 Dee increments like
+
+469
+00:16:43,199 --> 00:16:45,720
+that and once that's done let's
+
+470
+00:16:45,720 --> 00:16:47,240
+rightclick the object and go to
+
+471
+00:16:47,240 --> 00:16:49,079
+duplicate and I want to make this a
+
+472
+00:16:49,079 --> 00:16:50,240
+different color just so I can
+
+473
+00:16:50,240 --> 00:16:51,680
+differentiate it I'm going to make this
+
+474
+00:16:51,680 --> 00:16:54,199
+green and then I'll rightclick this and
+
+475
+00:16:54,199 --> 00:16:56,279
+duplicate it again and I'll make this
+
+476
+00:16:56,279 --> 00:16:57,720
+one a different color as well so I'll
+
+477
+00:16:57,720 --> 00:17:00,120
+make this one red and I will turn on
+
+478
+00:17:00,120 --> 00:17:02,199
+snapping by clicking this magnet icon up
+
+479
+00:17:02,199 --> 00:17:03,360
+here in the top right corner of the
+
+480
+00:17:03,360 --> 00:17:05,599
+screen and I want to take this object
+
+481
+00:17:05,599 --> 00:17:07,480
+and just snap the corners there right
+
+482
+00:17:07,480 --> 00:17:09,319
+about there like that so that the bottom
+
+483
+00:17:09,319 --> 00:17:11,000
+area this green kind of looks like a
+
+484
+00:17:11,000 --> 00:17:13,679
+green check mark and once that's done
+
+485
+00:17:13,679 --> 00:17:15,000
+hold your shift key and click on the
+
+486
+00:17:15,000 --> 00:17:16,480
+green object so that you have both of
+
+487
+00:17:16,480 --> 00:17:18,839
+these objects selected here and go to
+
+488
+00:17:18,839 --> 00:17:21,599
+path and select
+
+489
+00:17:21,599 --> 00:17:23,959
+difference now I'm going to use the
+
+490
+00:17:23,959 --> 00:17:25,679
+offset path effects so let me come over
+
+491
+00:17:25,679 --> 00:17:27,880
+here to my path effects menu if you
+
+492
+00:17:27,880 --> 00:17:29,600
+don't have a path effects menu just go
+
+493
+00:17:29,600 --> 00:17:32,200
+to path and select path
+
+494
+00:17:32,200 --> 00:17:34,240
+effects and the path effect I'm looking
+
+495
+00:17:34,240 --> 00:17:35,840
+for is offset so I'm going to use this
+
+496
+00:17:35,840 --> 00:17:38,960
+search box right here and type off and
+
+497
+00:17:38,960 --> 00:17:40,440
+there it is right there
+
+498
+00:17:40,440 --> 00:17:43,080
+offset I'll grab my nodes tool and I
+
+499
+00:17:43,080 --> 00:17:44,520
+will make sure first of all make sure
+
+500
+00:17:44,520 --> 00:17:46,559
+you have these options enabled down here
+
+501
+00:17:46,559 --> 00:17:50,000
+we want the the join set to miter units
+
+502
+00:17:50,000 --> 00:17:51,840
+this is not really important so you can
+
+503
+00:17:51,840 --> 00:17:54,679
+ignore that offset zero and miter limit
+
+504
+00:17:54,679 --> 00:17:58,120
+4 and then use these settings as well
+
+505
+00:17:58,120 --> 00:18:00,640
+and once that's set set I will grab this
+
+506
+00:18:00,640 --> 00:18:02,520
+red circle and click and drag this down
+
+507
+00:18:02,520 --> 00:18:04,360
+like
+
+508
+00:18:04,360 --> 00:18:06,799
+that about that
+
+509
+00:18:06,799 --> 00:18:09,360
+far and once that's done you can go to
+
+510
+00:18:09,360 --> 00:18:12,559
+path object to path to finalize that and
+
+511
+00:18:12,559 --> 00:18:14,039
+now we can grab our selection tool
+
+512
+00:18:14,039 --> 00:18:16,559
+select both of these objects click on it
+
+513
+00:18:16,559 --> 00:18:18,240
+to get the rotation handle and hold your
+
+514
+00:18:18,240 --> 00:18:20,720
+control key and rotate it to the right
+
+515
+00:18:20,720 --> 00:18:24,360
+one two two steps like that now you can
+
+516
+00:18:24,360 --> 00:18:26,200
+click off of it to deselect everything
+
+517
+00:18:26,200 --> 00:18:28,280
+take just this green object grab your
+
+518
+00:18:28,280 --> 00:18:30,240
+nodes to tool and take these two nodes
+
+519
+00:18:30,240 --> 00:18:32,080
+right here and hold your control key and
+
+520
+00:18:32,080 --> 00:18:33,520
+click and drag them out like that we
+
+521
+00:18:33,520 --> 00:18:37,200
+want this to to extend beyond that black
+
+522
+00:18:37,200 --> 00:18:38,919
+shape and now we can go back to our
+
+523
+00:18:38,919 --> 00:18:41,000
+selection tool select everything let me
+
+524
+00:18:41,000 --> 00:18:42,559
+turn off the snapping Now by clicking
+
+525
+00:18:42,559 --> 00:18:45,159
+this magnet icon again and now I can
+
+526
+00:18:45,159 --> 00:18:46,679
+click on the object to get the rotation
+
+527
+00:18:46,679 --> 00:18:47,760
+handles and now I'm going to hold
+
+528
+00:18:47,760 --> 00:18:49,799
+control and rotate it to the left two
+
+529
+00:18:49,799 --> 00:18:56,240
+steps so one two and now I will go to
+
+530
+00:18:56,240 --> 00:18:59,400
+path difference and that right there is
+
+531
+00:18:59,400 --> 00:19:01,760
+the effect we're looking for so now I
+
+532
+00:19:01,760 --> 00:19:03,080
+have to make the corners of these a
+
+533
+00:19:03,080 --> 00:19:04,480
+little rounded because as of right now
+
+534
+00:19:04,480 --> 00:19:06,480
+they're a little too Square so to do
+
+535
+00:19:06,480 --> 00:19:08,080
+that I'm going to grab my nodes tool
+
+536
+00:19:08,080 --> 00:19:10,640
+click on the book to select it add the
+
+537
+00:19:10,640 --> 00:19:12,760
+corners live path effect and I'm going
+
+538
+00:19:12,760 --> 00:19:14,520
+to select these four nodes over here on
+
+539
+00:19:14,520 --> 00:19:17,679
+the left and I will grab one of these
+
+540
+00:19:17,679 --> 00:19:19,880
+handles one of these white knots and
+
+541
+00:19:19,880 --> 00:19:21,760
+scale that in like that just to make
+
+542
+00:19:21,760 --> 00:19:24,360
+these Corners
+
+543
+00:19:25,000 --> 00:19:26,880
+rounded and then I'll come over here and
+
+544
+00:19:26,880 --> 00:19:28,280
+do the same thing I want to select these
+
+545
+00:19:28,280 --> 00:19:30,320
+three notes
+
+546
+00:19:30,320 --> 00:19:31,960
+and give them a little bit of a rounded
+
+547
+00:19:31,960 --> 00:19:34,480
+Edge as
+
+548
+00:19:36,080 --> 00:19:38,200
+well and then I'll come over here and do
+
+549
+00:19:38,200 --> 00:19:40,080
+the same thing select these nodes on the
+
+550
+00:19:40,080 --> 00:19:43,360
+right hand side and scale them down it's
+
+551
+00:19:43,360 --> 00:19:45,320
+good to scale each of these segments
+
+552
+00:19:45,320 --> 00:19:47,679
+individually because the amount that you
+
+553
+00:19:47,679 --> 00:19:48,919
+want around them is going to be
+
+554
+00:19:48,919 --> 00:19:50,480
+different for each side so it's you get
+
+555
+00:19:50,480 --> 00:19:52,520
+a better result doing it this way and
+
+556
+00:19:52,520 --> 00:19:54,080
+I'll come up here and use this one as
+
+557
+00:19:54,080 --> 00:19:55,880
+well so I'll click on that one and this
+
+558
+00:19:55,880 --> 00:19:57,880
+should be the last one right here I'll
+
+559
+00:19:57,880 --> 00:20:00,159
+I'll r that off a little
+
+560
+00:20:00,159 --> 00:20:02,159
+bit and there we go I'm going to click
+
+561
+00:20:02,159 --> 00:20:04,679
+on the square button up here to convert
+
+562
+00:20:04,679 --> 00:20:06,039
+to a
+
+563
+00:20:06,039 --> 00:20:08,200
+path okay so there we go there's the
+
+564
+00:20:08,200 --> 00:20:10,080
+book icon now one final part of the book
+
+565
+00:20:10,080 --> 00:20:11,400
+icon if you notice here I put a little
+
+566
+00:20:11,400 --> 00:20:13,360
+bit of a bookmark down there just to
+
+567
+00:20:13,360 --> 00:20:14,880
+emphasize that it's a book it makes it
+
+568
+00:20:14,880 --> 00:20:16,600
+look more like a book when you do that
+
+569
+00:20:16,600 --> 00:20:18,480
+so to create that bookmark I'm just
+
+570
+00:20:18,480 --> 00:20:20,520
+going to grab my rectangle tool and I'll
+
+571
+00:20:20,520 --> 00:20:22,240
+click and drag to draw a rectangle over
+
+572
+00:20:22,240 --> 00:20:26,120
+this portion of the object I'm going to
+
+573
+00:20:26,120 --> 00:20:28,120
+grab my selection tool click on it again
+
+574
+00:20:28,120 --> 00:20:30,400
+to get the rotation handles but instead
+
+575
+00:20:30,400 --> 00:20:31,799
+of rotating we're going to Shear we're
+
+576
+00:20:31,799 --> 00:20:33,760
+going to use the icon over here on the
+
+577
+00:20:33,760 --> 00:20:36,480
+right hand side and hold the option key
+
+578
+00:20:36,480 --> 00:20:39,120
+or the ALT key if you're on Windows and
+
+579
+00:20:39,120 --> 00:20:41,960
+just bring this down two
+
+580
+00:20:41,960 --> 00:20:45,760
+steps so that the edges match in
+
+581
+00:20:45,760 --> 00:20:47,600
+Direction like that and we can bring
+
+582
+00:20:47,600 --> 00:20:49,600
+this right about
+
+583
+00:20:49,600 --> 00:20:51,880
+there and I'm going to scale that down a
+
+584
+00:20:51,880 --> 00:20:56,200
+little bit let me try that
+
+585
+00:20:56,760 --> 00:20:58,840
+again and if you need to make the this
+
+586
+00:20:58,840 --> 00:21:00,799
+bottom longer or shorter I'm placing it
+
+587
+00:21:00,799 --> 00:21:02,960
+so that the top Edge goes halfway
+
+588
+00:21:02,960 --> 00:21:05,960
+through the books pages here and I want
+
+589
+00:21:05,960 --> 00:21:07,280
+this to be a little outside of the
+
+590
+00:21:07,280 --> 00:21:09,360
+bottom so let me grab the nodes tool and
+
+591
+00:21:09,360 --> 00:21:11,080
+let me convert this to a path I'll go to
+
+592
+00:21:11,080 --> 00:21:13,720
+path object to path and now I can take
+
+593
+00:21:13,720 --> 00:21:15,720
+those nodes and hold control and move
+
+594
+00:21:15,720 --> 00:21:18,679
+them up like that and I can add new
+
+595
+00:21:18,679 --> 00:21:20,159
+nodes in there as well with those two
+
+596
+00:21:20,159 --> 00:21:21,640
+nodes selected I can click on this
+
+597
+00:21:21,640 --> 00:21:23,600
+button over here that says add new
+
+598
+00:21:23,600 --> 00:21:26,000
+nodes and just select this node right
+
+599
+00:21:26,000 --> 00:21:29,880
+here and move that up
+
+600
+00:21:30,880 --> 00:21:32,240
+and now I want to create a little bit of
+
+601
+00:21:32,240 --> 00:21:34,559
+an offset between the book and the
+
+602
+00:21:34,559 --> 00:21:37,200
+bookmark so let me make this black and
+
+603
+00:21:37,200 --> 00:21:38,760
+let me right click this and go to
+
+604
+00:21:38,760 --> 00:21:41,000
+duplicate I'll make the duplicate copy
+
+605
+00:21:41,000 --> 00:21:42,960
+white and I'll hold control and shift
+
+606
+00:21:42,960 --> 00:21:44,640
+and scale it up and I want to lower it
+
+607
+00:21:44,640 --> 00:21:46,440
+beneath the black object so I'll click
+
+608
+00:21:46,440 --> 00:21:49,039
+on the lower selection one step and then
+
+609
+00:21:49,039 --> 00:21:50,600
+I can just scale this up or down
+
+610
+00:21:50,600 --> 00:21:52,720
+depending on how much I want the offset
+
+611
+00:21:52,720 --> 00:21:54,760
+to be and again I'm holding control and
+
+612
+00:21:54,760 --> 00:21:56,679
+shift while I do this to scale it from
+
+613
+00:21:56,679 --> 00:21:58,960
+the center
+
+614
+00:21:58,960 --> 00:22:00,200
+and then once you're happy with how it
+
+615
+00:22:00,200 --> 00:22:01,919
+looks hold shift and click on the book
+
+616
+00:22:01,919 --> 00:22:04,880
+and go to path
+
+617
+00:22:04,880 --> 00:22:07,120
+difference and now we can select both
+
+618
+00:22:07,120 --> 00:22:11,760
+objects and go to path Union and we have
+
+619
+00:22:11,760 --> 00:22:13,400
+created our book
+
+620
+00:22:13,400 --> 00:22:15,679
+icon so that should do it for today's
+
+621
+00:22:15,679 --> 00:22:17,559
+tutorial we have created all six of
+
+622
+00:22:17,559 --> 00:22:19,480
+these icons using nothing but simple
+
+623
+00:22:19,480 --> 00:22:21,600
+shapes in inkscape if you have any
+
+624
+00:22:21,600 --> 00:22:23,120
+questions let me know and as always
+
+625
+00:22:23,120 --> 00:22:25,840
+thanks for watching join the logos by
+
+626
+00:22:25,840 --> 00:22:28,520
+Nick mailing list and get over 200 free
+
+627
+00:22:28,520 --> 00:22:32,039
+design templates including logos avatars
+
+628
+00:22:32,039 --> 00:22:35,440
+textures infographics and more as a
+
+629
+00:22:35,440 --> 00:22:37,559
+member you'll receive news updates and
+
+630
+00:22:37,559 --> 00:22:39,799
+tips about your favorite design apps
+
+631
+00:22:39,799 --> 00:22:41,480
+just use the link below to subscribe for
+
+632
+00:22:41,480 --> 00:22:43,919
+free and download your templates as
+
+633
+00:22:43,919 --> 00:22:47,880
+always thanks for watching
+

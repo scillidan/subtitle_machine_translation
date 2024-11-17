@@ -1,0 +1,280 @@
+1
+00:00:00,179 --> 00:00:02,159
+let's have a look at the rectangle tool
+
+2
+00:00:02,159 --> 00:00:05,220
+I select it now I drag over the body of
+
+3
+00:00:05,220 --> 00:00:07,980
+the crocodile as with the ellipse tool I
+
+4
+00:00:07,980 --> 00:00:10,260
+can drag the two squares and when I drag
+
+5
+00:00:10,260 --> 00:00:12,480
+the circle all four corners get rounded
+
+6
+00:00:12,480 --> 00:00:15,179
+I want however only to round two corners
+
+7
+00:00:15,179 --> 00:00:17,460
+I click on the make Corner sharp again
+
+8
+00:00:17,460 --> 00:00:20,699
+icon to round individual Corners I click
+
+9
+00:00:20,699 --> 00:00:23,160
+on the Node tool I click on ADD Corners
+
+10
+00:00:23,160 --> 00:00:25,080
+now I can adjust Each corner
+
+11
+00:00:25,080 --> 00:00:27,599
+individually to create a curve at the
+
+12
+00:00:27,599 --> 00:00:29,400
+bottom left corner I drag the small
+
+13
+00:00:29,400 --> 00:00:30,660
+circle up
+
+14
+00:00:30,660 --> 00:00:33,000
+I get two arrows showing the start and
+
+15
+00:00:33,000 --> 00:00:35,460
+end points of the curve I drag the arrow
+
+16
+00:00:35,460 --> 00:00:37,739
+all the way up and around the bottom
+
+17
+00:00:37,739 --> 00:00:39,719
+right corner I drag the circle to the
+
+18
+00:00:39,719 --> 00:00:42,120
+left I don't want to border so I shift
+
+19
+00:00:42,120 --> 00:00:43,800
+click on the Red Cross
+
+20
+00:00:43,800 --> 00:00:46,020
+in the layers panel I can see I placed a
+
+21
+00:00:46,020 --> 00:00:48,719
+rectangle I will name the rectangle body
+
+22
+00:00:48,719 --> 00:00:51,239
+because the rectangle was created last
+
+23
+00:00:51,239 --> 00:00:54,420
+it lies above the other elements so I
+
+24
+00:00:54,420 --> 00:00:56,520
+want to lower the body when I click on
+
+25
+00:00:56,520 --> 00:00:58,379
+the down arrow I am lowering the body
+
+26
+00:00:58,379 --> 00:01:00,899
+but when there are many objects it is
+
+27
+00:01:00,899 --> 00:01:02,660
+faster to drag it to another place
+
+28
+00:01:02,660 --> 00:01:05,459
+notice I could even add it to a group
+
+29
+00:01:05,459 --> 00:01:07,619
+when I drag and hold it above a group
+
+30
+00:01:07,619 --> 00:01:09,960
+the group opens and I can place it where
+
+31
+00:01:09,960 --> 00:01:13,080
+I want I will press Ctrl set to undo and
+
+32
+00:01:13,080 --> 00:01:15,240
+close the group with the select tool
+
+33
+00:01:15,240 --> 00:01:17,100
+selected you can click on the raise and
+
+34
+00:01:17,100 --> 00:01:19,260
+lower icons which do the same as the up
+
+35
+00:01:19,260 --> 00:01:21,540
+and down arrows and with the raise to
+
+36
+00:01:21,540 --> 00:01:23,939
+top and lower to bottom icons you can
+
+37
+00:01:23,939 --> 00:01:25,979
+quickly place an item to the top or the
+
+38
+00:01:25,979 --> 00:01:27,299
+bottom of a layer
+
+39
+00:01:27,299 --> 00:01:29,820
+now let's make the feet I click on the
+
+40
+00:01:29,820 --> 00:01:33,180
+rectangle tool and drag over a foot to
+
+41
+00:01:33,180 --> 00:01:35,159
+quickly go to the select tool press the
+
+42
+00:01:35,159 --> 00:01:37,560
+space bar now I can adjust from every
+
+43
+00:01:37,560 --> 00:01:39,780
+corner and to return to the rectangle
+
+44
+00:01:39,780 --> 00:01:42,439
+tool press the space bar again
+
+45
+00:01:42,439 --> 00:01:45,840
+I drag the circle to round the corners I
+
+46
+00:01:45,840 --> 00:01:47,340
+see the top corners are a bit different
+
+47
+00:01:47,340 --> 00:01:50,100
+so I click on the Node tool I click on
+
+48
+00:01:50,100 --> 00:01:52,860
+ADD Corners to adjust the curve I drag
+
+49
+00:01:52,860 --> 00:01:55,439
+the left Circle up and at the right I
+
+50
+00:01:55,439 --> 00:01:57,540
+drag the smaller Circle down
+
+51
+00:01:57,540 --> 00:01:59,759
+I press the space bar to go to the
+
+52
+00:01:59,759 --> 00:02:01,140
+select tool
+
+53
+00:02:01,140 --> 00:02:03,600
+now I duplicate the foot and drag it to
+
+54
+00:02:03,600 --> 00:02:05,579
+the other foot I click on the brown
+
+55
+00:02:05,579 --> 00:02:07,500
+Swatch that I pinned in the swatches
+
+56
+00:02:07,500 --> 00:02:10,139
+panel to place the foot behind the other
+
+57
+00:02:10,139 --> 00:02:13,080
+foot I click on the lower icon
+
+58
+00:02:13,080 --> 00:02:15,180
+I shift-click on the other foot right
+
+59
+00:02:15,180 --> 00:02:18,120
+click and choose group then I click on
+
+60
+00:02:18,120 --> 00:02:20,580
+the lower to bottom icon in the layers
+
+61
+00:02:20,580 --> 00:02:23,400
+panel I will call the group left feet
+
+62
+00:02:23,400 --> 00:02:25,560
+I right click on the group and choose
+
+63
+00:02:25,560 --> 00:02:28,980
+duplicate I click on Lower to bottom in
+
+64
+00:02:28,980 --> 00:02:31,200
+the layers panel I call the group right
+
+65
+00:02:31,200 --> 00:02:34,260
+feet I drag the feet and when I hold
+
+66
+00:02:34,260 --> 00:02:36,420
+Ctrl while dragging I can drag in a
+
+67
+00:02:36,420 --> 00:02:38,819
+straight line I can do this horizontally
+
+68
+00:02:38,819 --> 00:02:40,379
+and vertically
+
+69
+00:02:40,379 --> 00:02:42,480
+in the next lecture we will create the
+
+70
+00:02:42,480 --> 00:02:46,160
+scutes using the pencil tool
+

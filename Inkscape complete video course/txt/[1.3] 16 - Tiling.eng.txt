@@ -1,0 +1,40 @@
+In this lecture, I will make another 3D text effect using Tiling, to easily create a pattern.
+I click on the Text tool, and type: 3D TEXT. I use Shrikhand, which is a free
+Google font. I duplicate the text, and drag it below. I double-click on it, to get to the Text
+tool. I press Ctrl-A, and type: INKSCAPE. I click on the Select tool. I hold Ctrl and drag
+the right side in, to match the size of the text above. Now I drag the text above to the right, so
+that the T and the E show a straight line. I would like to have some curvature in the text.
+To do this, I have to convert the text to paths. I select them both, and go to: Path > Object to
+3D TEXT, I go to: Path Effects. From the menu I choose: Envelope Deformation. I click
+on the Edit on-canvas button, at the right of: Bottom bend path. Now I see a green line,
+at the bottom of the text. I can drag the line, to curve the text at the bottom. Now lets
+curve the text below. I go to: Path Effects, and choose: Envelope Deformation. I select the Edit
+on-canvas button, at the right of: Top bend path. I Control-drag the left node up. And I drag
+the green line down. I also Control-drag the right node up. I drag the green line down again. I see,
+I can drag the left node a bit further up. And I can drag the green line a bit further down.
+I want to compress the text a bit, so I select them both.
+I drag the text a bit in. To finalize the effect, I go to: Path > object to Path. Now I will make
+them a single path. I want the 3D effect, to go from light blue to a darker blue. I duplicate the
+text, and give it a darker blue. I hold Shift and Control, and make the duplicate smaller.
+I Shift-click on the larger text. I want to create a transition from one path, to the other. I go to:
+Extensions > Generate from Path > Interpolate Between Paths. I will make 50 copies in between
+them, and click on: Live preview. I click on Apply, and on Close. In my layers, I see a new
+group, which are the transitioning paths. I will place the original light blue text on top. And I
+will make it dark blue. I call the path: top text. I duplicate top text, and call it:
+pattern. I go to Fill and Stroke, and for the Fill I choose: Pattern. For my pattern I choose:
+Abstract 1. Now I will make my own pattern. I click on the Ellipse tool. I hold Ctrl, and drag
+a small circle. I go to: Path Effects. I choose: Tiling. I will make 30 Rows, and 60 Columns.
+To get smaller circles at the top, and larger circles at the bottom, I set Scale to 7 percent.
+And I want to shift each row 50 percent, so I set Offset to 50. I zoom out, and I will size the
+pattern to fit the text. I will make the pattern white. To get the pattern covering the 3D effect,
+I right-click on the group, and choose: Set Clip Group. I name the pattern: circles. I drag
+circles on the Clip group. I set the Opacity of circles to: 25 percent. With my arrow keys, I now
+choose which part I like best of the circles. I can also resize, to get larger or smaller circles.
+I will create a black background. I click on the Rectangle tool, and drag over the canvas. I press
+the spacebar, and click on: Lower to Bottom. To make the edges visible, I will add some strokes.
+I duplicate: top text. In my Swatches, I click on: none. And I Shift-click on white.
+At the bottom right I scroll backwards, to set the stroke to half a millimeter.
+I call the path: white. I duplicate the path twice. I call the top layer blue,
+and Shift-click on the light blue swatch. I hide blue. I click on white, go to Fill and Stroke,
+and Stroke paint. I set Blur to: 10 percent. I call the path: white blur. I Shift-click on
+white, and choose: Group. I drag the group a bit down. I reveal blue, and scale it from the bottom.

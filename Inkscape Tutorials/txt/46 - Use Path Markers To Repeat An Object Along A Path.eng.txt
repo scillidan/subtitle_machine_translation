@@ -1,0 +1,407 @@
+
+this  is  nick  with  logosbynic.com  and  in
+
+this  lesson  well  be  going  over  how  to
+
+use  markers  in  inkscape  now  markers  are
+
+useful  because  they  allow  you  to  take  a
+
+single  object  and  repeat  it  along  a  path
+
+without  deforming  the  object  in  previous
+
+lessons  we  went  over  how  to  use  pattern
+
+along  path  which  is  really  useful  for
+
+creating  unique  designs  and  patterns  but
+
+the  downside  of  using  this  tool  is  that
+
+it  deforms  the  object  as  it  flows  along
+
+the  path  here  and  theres  no  way  to  turn
+
+this  feature  off  so  in  order  to  get  this
+
+result  right  here  we  need  to  use  markers
+
+so  lets  go  ahead  and  demonstrate  how  to
+
+do  this  so  here  we  are  in  a  new  document
+
+the  first  thing  im  going  to  do  is
+
+create  the  path  that  id  like  the  object
+
+to  flow  along  now  you  can  use  virtually
+
+any  path  that  youd  like  for  this
+
+demonstration  im  just  going  to  use  a
+
+simple  circle  so  im  going  to  grab  the
+
+circles  and  ellipses  tool  im  going  to
+
+click  and  drag  and  hold  ctrl  to  create  a
+
+nice  round  circle  with  the  aspect  ratio
+
+locked  like  that
+
+and  the  way  markers  work  in  inkscape  is
+
+everywhere  that  theres  a  node  a  marker
+
+will  be  placed  so  what  i  want  to  do
+
+first  here  is  convert  this  circle  to  a
+
+path  let  me  go  to  path  object  to  path
+
+and  then  ill  go  to  the  edit  paths  by
+
+nodes  tool  and  as  you  can  see  here  we
+
+have  nodes  here  in  these  four  quadrants
+
+of  this  shape  now  what  im  going  to  do
+
+is  im  going  to  take  an  object  and  im
+
+going  to  convert  it  to  a  marker  and  im
+
+going  to  apply  the  marker  to  this  path
+
+so  that  theres  going  to  be  the  object
+
+at  each  of  these  four  points  right  here
+
+so  let  me  actually  go  ahead  and  create
+
+the  object  now  now  the  object  that  im
+
+going  to  use  for  a  marker  is  just  a
+
+simple  star  im  going  to  grab  the  stars
+
+tool  and  im  going  to  draw  a  star  like
+
+that
+
+now  you  can  use  whatever  shape  youd
+
+like  you  can  use  a  logo  you  can  use  an
+
+icon  you  can  use  text  any  vector  object
+
+youd  like  can  be  used  as  a  marker  so
+
+let  me  turn  this  blue  just  so  we  have
+
+some  differentiation  here
+
+and  what  im  going  to  do  is  im  going  to
+
+convert  this  object  to  a  marker  now
+
+before  you  convert  your  object  to  a
+
+marker  if  youd  like  to  keep  a  copy  of
+
+the  shape  on  hand  i  would  recommend
+
+creating  a  duplicate  copy  of  it  because
+
+once  we  convert  this  to  a  marker  the
+
+shape  is  going  to  disappear  off  of  the
+
+canvas  so  lets  say  you  want  to  keep
+
+this  shape  im  going  to  right  click  this
+
+and  go  to  duplicate  and  im  going  to
+
+take  this  duplicate  copy  and  then  ill
+
+go  to  object  and  i  will  select
+
+objects  to  marker
+
+and  now  its  going  to  disappear  off  the
+
+canvas  like  that  so  let  me  grab  this
+
+shape  right  here  i  want  to  apply  the
+
+marker  to  this  shape  let  me  open  up  the
+
+fill  and  stroke  menu  which  is  located
+
+over  here  or  you  could  press  ctrl  shift
+
+and  f  on  the  keyboard
+
+and  im  going  to  remove  the  fill  and
+
+stroke  fill  from  here  so  let  me  click
+
+this  red  x  down  here  to  get  rid  of  the
+
+fill  we  dont  want  any  fill  or  any
+
+stroke  on  here  we  want  to  leave  this  as
+
+an  invisible  shape  and  then  what  i  will
+
+do  is  ill  come  over  here  to  the  stroke
+
+style  tab  now  if  you  notice  we  have
+
+these  three  input  boxes  right  here  where
+
+it  says  markers
+
+now  the  way  this  works  is
+
+the  ones  in  the  front
+
+the  first  one  and  the  last  one  are  the
+
+first  and  the  third  this  represents  the
+
+start  point  of  the  path  and  this
+
+represents  the  end  point  of  the  path  and
+
+this  represents  all  of  the  nodes
+
+in  the  middle  of  the  path  that  go  along
+
+the  path  so  to  demonstrate  how  this
+
+works  let  me  grab  let  me
+
+click  this  drop  down  right  here  and  im
+
+going  to  grab  this  star  and  apply  that
+
+as  the  start  node
+
+im  going  to  grab  this  end  one  and  im
+
+going  to  apply  this  star  as  the  end  node
+
+theres  nothing  visibly  changing  on  my
+
+screen  here  because  im  using  a  closed
+
+path  if  youre  using  a  linear  path  like
+
+a  straight  line  you  should  see  a  star  at
+
+this  at  the  front  and  at  the  back  of  the
+
+path  like  that  and  then  ill  apply  this
+
+one  to  all  of  the  nodes  in  the  middle
+
+like  that  and  as  you  can  see  here  we  now
+
+have  this  object  going  along  the  path
+
+now  if  we  want  to  add  more  objects  in
+
+here  we  can  just  add  new  we  can  just  add
+
+more  nodes  so  let  me  come  over  here  to
+
+the  edit  paths  by  nodes  tool
+
+im  going  to  click  and  drag  over  all  of
+
+the  nodes  to  select  them  like  that  and
+
+im  going  to  click  this  button  over  here
+
+that  says  insert  new  nodes  into  selected
+
+segments
+
+and  as  i  insert  new  nodes  like  that  its
+
+going  to  insert
+
+more  of  the  object  as  you  can  see  here
+
+now  if  at  any  point  you  want  to  alter
+
+this  you  could  just  click  on  one  of
+
+these  nodes  and  you  can  move  it  around
+
+like  that  as  you  can  see  here
+
+now  let  me  go  ahead  and  undo  that
+
+because  thats  not  the  result  i  was
+
+going  for
+
+now  lets  say  you  want  to  alter  these
+
+markers  further  you  want  to  make  them
+
+bigger  or  smaller  or  maybe  even  rotate
+
+them  to  do  that  what  you  could  do  is  let
+
+me  first  go  back  to  the  selection  tool
+
+if  you  click  on  one  of  these  drop  downs
+
+over  here  where  the  markers  are  we  have
+
+this  new  revamped  menu  as  of  inkscape
+
+version  1.2  with  all  of  these  neat
+
+little  options  that  we  can  edit  if  you
+
+click  on  the  button  that  says  edit  on
+
+canvas
+
+youre  going  to  get  these  transformation
+
+handles  now  let  me  zoom  in  on  this  by
+
+holding  ctrl  and  rolling  up  the  mouse
+
+wheel
+
+how  this  works  is  the  transformation
+
+handles  that  are  squares  allow  you  to
+
+distort  and  scale  the  object  like  that
+
+so  i  can  control  the  width  the  height
+
+and  i  can  just  scale  it  down  by  holding
+
+ctrl  if  you  want  to  lock  lock  the
+
+proportions  like  that  you  can  make  it
+
+bigger
+
+or  smaller  as  you  can  see  there  now  if
+
+you  want  to  rotate  the  object  all  you
+
+have  to  do  is  click  on  this  round  node
+
+right  here  and  allow  you  to  rotate  the
+
+object  like  that
+
+pretty  simple
+
+and  if  at  any  point  you  want  to  get  back
+
+to  this  lets  say  you  deselect  it  and
+
+you  get  out  of  here  if  at  any  point  you
+
+want  to  get  back  to  editing  that  all  you
+
+have  to  do  is  select  the  object  and  then
+
+come  over  here  and  click  the  drop  down
+
+and  click  on  edit  on  canvas  and  you  can
+
+edit  that  again  like  that
+
+okay  so  i  think  that  should  do  it  for
+
+this  lesson  actually  no  theres  one  more
+
+thing  i  want  to  mention  about  this
+
+feature  whenever  you  have  markers  on  a
+
+path  they  behave  sort  of  like  a  stroke
+
+so  over  here  this  button  right  here  that
+
+says  when  scaling  objects  scale  the
+
+stroke  width  by  the  same  proportion
+
+if  this  if  this  option  is  disabled  as  it
+
+is  on  my  screen  that  means  as  you  scale
+
+this  object  down
+
+the  stars  are  going  to  say  are  going  to
+
+stay  the  same  shape
+
+so  marker  that  you  have  applied  will
+
+remain  the  same  shape  regardless  of  how
+
+big  or  small  you  make  the  path  that  its
+
+placed  along  if  youd  like  the  markers
+
+to  scale  alongside  the  object  all  you
+
+have  to  do  is  enable  this  setting  right
+
+here  and  now  itll  scale  with  it  like
+
+that  without  changing  its  size
+
+so  i  think  that  should  do  it  for  this
+
+lesson  that  is  how  you  can  go  about
+
+using  markers  in  inkscape  to  repeat  an
+
+object  along  a  path  without  deforming  it
+
+if  you  found  this  lesson  useful  then
+
+maybe  consider  checking  out  my  inkscape
+
+master  class  its  a  collection  of  over
+
+60  videos  where  i  go  over  all  of  the
+
+tools  and  features  in  inkscape  and  i
+
+explain  what  they  are  and  demonstrate
+
+how  they  work  kind  of  like  how  i  just
+
+did  in  this  video  we  even  have  a  private
+
+community  where  you  can  ask  questions
+
+and  get  help  from  me  anytime  you  want
+
+ill  have  some  information  about  that  in
+
+the  description  below  if  you  have  any
+
+questions  let  me  know  and  as  always
+
+thanks  for  watching
+

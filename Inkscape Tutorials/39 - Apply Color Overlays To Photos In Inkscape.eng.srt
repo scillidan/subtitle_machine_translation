@@ -1,0 +1,824 @@
+1
+00:00:00,000 --> 00:00:01,439
+although inkscape is meant to be a
+
+2
+00:00:01,439 --> 00:00:03,280
+vector design app that doesn't mean it
+
+3
+00:00:03,280 --> 00:00:05,759
+can't be used to edit photos as well
+
+4
+00:00:05,759 --> 00:00:07,600
+in fact i'd even go as far as saying
+
+5
+00:00:07,600 --> 00:00:09,519
+that inkscape can handle certain photo
+
+6
+00:00:09,519 --> 00:00:11,040
+editing tasks better than some
+
+7
+00:00:11,040 --> 00:00:12,719
+pixel-based editors
+
+8
+00:00:12,719 --> 00:00:14,320
+one example of such would be when
+
+9
+00:00:14,320 --> 00:00:15,839
+applying color overlays to your
+
+10
+00:00:15,839 --> 00:00:17,520
+photographs which we'll be demonstrating
+
+11
+00:00:17,520 --> 00:00:18,600
+in today's tutorial
+
+12
+00:00:18,600 --> 00:00:28,480
+[Music]
+
+13
+00:00:28,480 --> 00:00:30,000
+before we get started with the lesson
+
+14
+00:00:30,000 --> 00:00:31,519
+i'd just like to take a moment to give a
+
+15
+00:00:31,519 --> 00:00:33,840
+special thank you to expressvpn for
+
+16
+00:00:33,840 --> 00:00:35,600
+sponsoring today's video
+
+17
+00:00:35,600 --> 00:00:38,559
+expressvpn helps you secure your privacy
+
+18
+00:00:38,559 --> 00:00:40,559
+when browsing the internet they do this
+
+19
+00:00:40,559 --> 00:00:42,320
+by routing your network activity through
+
+20
+00:00:42,320 --> 00:00:44,719
+their secure and encrypted servers not
+
+21
+00:00:44,719 --> 00:00:46,640
+only does this prevent your isp from
+
+22
+00:00:46,640 --> 00:00:48,640
+seeing your web browsing activity but it
+
+23
+00:00:48,640 --> 00:00:50,239
+also makes it more difficult for
+
+24
+00:00:50,239 --> 00:00:52,320
+advertisers websites and government
+
+25
+00:00:52,320 --> 00:00:54,399
+agencies to track you by allowing you to
+
+26
+00:00:54,399 --> 00:00:56,360
+mask your ip address
+
+27
+00:00:56,360 --> 00:00:58,879
+expressvpn only invests in premium
+
+28
+00:00:58,879 --> 00:01:00,719
+servers which makes them consistently
+
+29
+00:01:00,719 --> 00:01:03,840
+faster than other vpns they offer 24 7
+
+30
+00:01:03,840 --> 00:01:05,680
+customer support if you ever need it and
+
+31
+00:01:05,680 --> 00:01:08,000
+setting it up couldn't be easier in just
+
+32
+00:01:08,000 --> 00:01:09,680
+a few clicks i was able to connect and
+
+33
+00:01:09,680 --> 00:01:11,280
+continue on with all of my design
+
+34
+00:01:11,280 --> 00:01:13,119
+research with the peace of mind of
+
+35
+00:01:13,119 --> 00:01:15,280
+knowing that my privacy is secure
+
+36
+00:01:15,280 --> 00:01:17,759
+expressvpn is your all-in-one vpn
+
+37
+00:01:17,759 --> 00:01:19,280
+provider click the link in the
+
+38
+00:01:19,280 --> 00:01:20,960
+description below to sign up today and
+
+39
+00:01:20,960 --> 00:01:23,920
+get three months for free
+
+40
+00:01:23,920 --> 00:01:25,360
+so to get us started here i'm first
+
+41
+00:01:25,360 --> 00:01:26,560
+going to show you how to do this
+
+42
+00:01:26,560 --> 00:01:28,479
+manually using a single color with blend
+
+43
+00:01:28,479 --> 00:01:30,159
+modes and then i'll show you how to do
+
+44
+00:01:30,159 --> 00:01:32,159
+this using the duo chrome filter in
+
+45
+00:01:32,159 --> 00:01:33,119
+inkscape
+
+46
+00:01:33,119 --> 00:01:34,560
+so the first thing i want to do here is
+
+47
+00:01:34,560 --> 00:01:36,560
+import my image onto the canvas now
+
+48
+00:01:36,560 --> 00:01:37,840
+there's various different ways to do
+
+49
+00:01:37,840 --> 00:01:39,520
+this but my preferred way of importing
+
+50
+00:01:39,520 --> 00:01:41,520
+images is to just click and drag the
+
+51
+00:01:41,520 --> 00:01:43,040
+image file onto the canvas let me show
+
+52
+00:01:43,040 --> 00:01:44,720
+you what i mean here if i bring in my
+
+53
+00:01:44,720 --> 00:01:46,799
+folder with my image all i have to do is
+
+54
+00:01:46,799 --> 00:01:48,399
+just click and drag this onto the canvas
+
+55
+00:01:48,399 --> 00:01:50,079
+like that and then i will get this
+
+56
+00:01:50,079 --> 00:01:51,680
+little prompt right here that asks me if
+
+57
+00:01:51,680 --> 00:01:53,920
+i want to embed or link it i'm going to
+
+58
+00:01:53,920 --> 00:01:56,719
+choose to embed the image and click ok
+
+59
+00:01:56,719 --> 00:01:58,079
+and there you go as you can see the
+
+60
+00:01:58,079 --> 00:01:59,840
+image has been embedded
+
+61
+00:01:59,840 --> 00:02:01,360
+so let me zoom out now i'm going to hold
+
+62
+00:02:01,360 --> 00:02:02,960
+ctrl and roll down my mouse wheel to
+
+63
+00:02:02,960 --> 00:02:04,240
+zoom out a little bit so i have a better
+
+64
+00:02:04,240 --> 00:02:06,159
+look at this and to move my page around
+
+65
+00:02:06,159 --> 00:02:07,600
+i'm just pressing down the mouse wheel
+
+66
+00:02:07,600 --> 00:02:09,280
+and moving the mouse
+
+67
+00:02:09,280 --> 00:02:10,878
+now what i want to do is resize the
+
+68
+00:02:10,878 --> 00:02:12,800
+document to be the same size as this
+
+69
+00:02:12,800 --> 00:02:14,800
+image right here so with this image
+
+70
+00:02:14,800 --> 00:02:17,599
+selected press ctrl shift and r on the
+
+71
+00:02:17,599 --> 00:02:19,520
+keyboard and it will change the document
+
+72
+00:02:19,520 --> 00:02:22,480
+to be resized around this image okay so
+
+73
+00:02:22,480 --> 00:02:23,599
+now what i want to do is i want to
+
+74
+00:02:23,599 --> 00:02:25,840
+create a rectangle and make it the same
+
+75
+00:02:25,840 --> 00:02:27,520
+size as this image so let me right click
+
+76
+00:02:27,520 --> 00:02:29,680
+this image and go to copy
+
+77
+00:02:29,680 --> 00:02:32,560
+let me grab the rectangle tool over here
+
+78
+00:02:32,560 --> 00:02:33,760
+and i'm going to click and drag on my
+
+79
+00:02:33,760 --> 00:02:35,360
+canvas to create a rectangle it doesn't
+
+80
+00:02:35,360 --> 00:02:37,040
+need to be the same size as the image it
+
+81
+00:02:37,040 --> 00:02:39,120
+just needs to be any size we're going to
+
+82
+00:02:39,120 --> 00:02:40,640
+address that right now we just go to
+
+83
+00:02:40,640 --> 00:02:44,239
+edit go to paste size and select paste
+
+84
+00:02:44,239 --> 00:02:46,239
+size and it's going to take the image
+
+85
+00:02:46,239 --> 00:02:48,000
+size that i have copied to my clipboard
+
+86
+00:02:48,000 --> 00:02:50,480
+and apply it to that rectangle now i'm
+
+87
+00:02:50,480 --> 00:02:51,760
+going to grab the selection tool and i'm
+
+88
+00:02:51,760 --> 00:02:53,120
+going to change the color of this
+
+89
+00:02:53,120 --> 00:02:54,959
+rectangle to whatever color i'd like my
+
+90
+00:02:54,959 --> 00:02:57,280
+overlay to be so for this example i will
+
+91
+00:02:57,280 --> 00:02:58,959
+use a blue shade so i'll come down here
+
+92
+00:02:58,959 --> 00:03:01,840
+to my palette and i will choose a shade
+
+93
+00:03:01,840 --> 00:03:03,760
+of blue like that
+
+94
+00:03:03,760 --> 00:03:05,280
+and now i want to center this up over
+
+95
+00:03:05,280 --> 00:03:07,280
+the image so let me hold shift and click
+
+96
+00:03:07,280 --> 00:03:08,879
+on the image so i have both the
+
+97
+00:03:08,879 --> 00:03:11,040
+rectangle and the image selected and i
+
+98
+00:03:11,040 --> 00:03:12,480
+will open up the align the distribute
+
+99
+00:03:12,480 --> 00:03:15,120
+menu which is located over here you can
+
+100
+00:03:15,120 --> 00:03:17,280
+also access that by pressing ctrl shift
+
+101
+00:03:17,280 --> 00:03:19,519
+and a on your keyboard
+
+102
+00:03:19,519 --> 00:03:21,040
+within the align the distribute menu i
+
+103
+00:03:21,040 --> 00:03:22,159
+want to make sure that i have the
+
+104
+00:03:22,159 --> 00:03:24,799
+relative two set to last selected and
+
+105
+00:03:24,799 --> 00:03:26,720
+then once that's enabled we can center
+
+106
+00:03:26,720 --> 00:03:29,519
+it vertically and horizontally like that
+
+107
+00:03:29,519 --> 00:03:31,440
+and as you as you can see the rectangle
+
+108
+00:03:31,440 --> 00:03:34,239
+should be directly over the image now
+
+109
+00:03:34,239 --> 00:03:35,599
+so let me click off of the graphic to
+
+110
+00:03:35,599 --> 00:03:37,040
+deselect everything i'm going to select
+
+111
+00:03:37,040 --> 00:03:39,200
+just this rectangle right here and now
+
+112
+00:03:39,200 --> 00:03:40,560
+i'm going to open up the fill and stroke
+
+113
+00:03:40,560 --> 00:03:43,280
+menu which is located up here or you can
+
+114
+00:03:43,280 --> 00:03:45,360
+access it by pressing ctrl shift and f
+
+115
+00:03:45,360 --> 00:03:46,640
+on the keyboard
+
+116
+00:03:46,640 --> 00:03:47,920
+[Music]
+
+117
+00:03:47,920 --> 00:03:49,599
+once we are in the fill and stroke menu
+
+118
+00:03:49,599 --> 00:03:50,879
+if you look down here to the bottom
+
+119
+00:03:50,879 --> 00:03:52,640
+right of the menu you will see this drop
+
+120
+00:03:52,640 --> 00:03:55,120
+down menu for blend modes by default the
+
+121
+00:03:55,120 --> 00:03:57,040
+blend mode is set to normal meaning this
+
+122
+00:03:57,040 --> 00:03:59,120
+rectangle looks like a normal rectangle
+
+123
+00:03:59,120 --> 00:04:00,640
+with a solid fill
+
+124
+00:04:00,640 --> 00:04:02,400
+we can change the way that this object
+
+125
+00:04:02,400 --> 00:04:04,080
+interacts with objects positioned
+
+126
+00:04:04,080 --> 00:04:05,519
+beneath it though by changing this blend
+
+127
+00:04:05,519 --> 00:04:07,200
+mode let me show you what i mean here
+
+128
+00:04:07,200 --> 00:04:09,360
+i'm going to change this to multiply
+
+129
+00:04:09,360 --> 00:04:10,799
+and as you can see it changes the
+
+130
+00:04:10,799 --> 00:04:12,560
+appearance of the image or the way that
+
+131
+00:04:12,560 --> 00:04:14,080
+the rectangle interacts with the image
+
+132
+00:04:14,080 --> 00:04:16,560
+beneath it and if i use my arrow keys i
+
+133
+00:04:16,560 --> 00:04:18,000
+can cycle through all of the different
+
+134
+00:04:18,000 --> 00:04:20,478
+blend modes we have here until i find
+
+135
+00:04:20,478 --> 00:04:23,600
+the color overlay that i prefer
+
+136
+00:04:23,600 --> 00:04:25,199
+now this one right here seems to work
+
+137
+00:04:25,199 --> 00:04:26,880
+pretty well the effect i'm looking for
+
+138
+00:04:26,880 --> 00:04:28,479
+is just a simple color overlay and what
+
+139
+00:04:28,479 --> 00:04:30,560
+this one does the color blend mode it
+
+140
+00:04:30,560 --> 00:04:32,080
+just takes the color and applies it over
+
+141
+00:04:32,080 --> 00:04:33,520
+the image nicely like that without
+
+142
+00:04:33,520 --> 00:04:35,600
+making too many other changes i should
+
+143
+00:04:35,600 --> 00:04:37,360
+mention though that every single image
+
+144
+00:04:37,360 --> 00:04:38,560
+is different so if you're working with
+
+145
+00:04:38,560 --> 00:04:40,400
+the image a different image than this
+
+146
+00:04:40,400 --> 00:04:41,600
+you may want to cycle through these
+
+147
+00:04:41,600 --> 00:04:44,479
+blend modes to see which one works best
+
+148
+00:04:44,479 --> 00:04:46,000
+now as you can see here if i take this
+
+149
+00:04:46,000 --> 00:04:48,240
+object and move it off of the image over
+
+150
+00:04:48,240 --> 00:04:49,919
+there you can see it looks the same as
+
+151
+00:04:49,919 --> 00:04:51,919
+it did before the only difference is the
+
+152
+00:04:51,919 --> 00:04:53,440
+way it interacts with the objects
+
+153
+00:04:53,440 --> 00:04:55,199
+beneath it like that and if you don't
+
+154
+00:04:55,199 --> 00:04:56,479
+like how this works and you want to go
+
+155
+00:04:56,479 --> 00:04:58,320
+back to having a regular solid fill
+
+156
+00:04:58,320 --> 00:04:59,759
+rectangle at any point you could just
+
+157
+00:04:59,759 --> 00:05:03,199
+select it and set the blend mode back to
+
+158
+00:05:03,199 --> 00:05:05,600
+normal like that and as you can see it's
+
+159
+00:05:05,600 --> 00:05:07,680
+now a regular rectangle again
+
+160
+00:05:07,680 --> 00:05:09,680
+so now let's have a look at an arguably
+
+161
+00:05:09,680 --> 00:05:11,680
+easier and maybe even better way to do
+
+162
+00:05:11,680 --> 00:05:14,240
+this using the duochrome filter and
+
+163
+00:05:14,240 --> 00:05:15,280
+inkscape
+
+164
+00:05:15,280 --> 00:05:16,400
+so what i'm going to do is i'm going to
+
+165
+00:05:16,400 --> 00:05:18,479
+select my image right here and i'm going
+
+166
+00:05:18,479 --> 00:05:20,320
+to come up here to where it says filters
+
+167
+00:05:20,320 --> 00:05:22,320
+i'm looking for color and then i will
+
+168
+00:05:22,320 --> 00:05:25,440
+choose duochrome
+
+169
+00:05:25,440 --> 00:05:26,639
+and once you've done that you're going
+
+170
+00:05:26,639 --> 00:05:28,720
+to get this little menu right here
+
+171
+00:05:28,720 --> 00:05:29,919
+the first thing i want to do with this
+
+172
+00:05:29,919 --> 00:05:31,680
+menu is where it says live preview i
+
+173
+00:05:31,680 --> 00:05:34,320
+want to enable that checkbox right there
+
+174
+00:05:34,320 --> 00:05:36,240
+and as you can see when i enabled that
+
+175
+00:05:36,240 --> 00:05:37,919
+it applied two different colors to my
+
+176
+00:05:37,919 --> 00:05:40,160
+image it applied the color blue to the
+
+177
+00:05:40,160 --> 00:05:42,400
+darker shades and it applied the color
+
+178
+00:05:42,400 --> 00:05:44,240
+green to the lighter shades and the
+
+179
+00:05:44,240 --> 00:05:46,240
+reason why is because color one up here
+
+180
+00:05:46,240 --> 00:05:49,199
+in this tab is set to blue and color two
+
+181
+00:05:49,199 --> 00:05:51,440
+up here in this tab is set to green now
+
+182
+00:05:51,440 --> 00:05:52,639
+if you want to change your colors you
+
+183
+00:05:52,639 --> 00:05:54,400
+could do so very easily up here say for
+
+184
+00:05:54,400 --> 00:05:55,840
+example i want to change the darker
+
+185
+00:05:55,840 --> 00:05:57,360
+shades from blue to something else like
+
+186
+00:05:57,360 --> 00:05:59,840
+pink i can do that as well if i want to
+
+187
+00:05:59,840 --> 00:06:01,840
+i can change this like that
+
+188
+00:06:01,840 --> 00:06:03,440
+and there we go now we have pink in the
+
+189
+00:06:03,440 --> 00:06:04,720
+darker shades i may even want to make
+
+190
+00:06:04,720 --> 00:06:06,000
+this a little darker so you can see it
+
+191
+00:06:06,000 --> 00:06:07,680
+better but i'm sure you get the idea
+
+192
+00:06:07,680 --> 00:06:09,600
+that's one way that you can do that
+
+193
+00:06:09,600 --> 00:06:11,120
+and if i come over here to color two i
+
+194
+00:06:11,120 --> 00:06:13,039
+could change that the lighter shades to
+
+195
+00:06:13,039 --> 00:06:14,400
+something like yellow to change up how
+
+196
+00:06:14,400 --> 00:06:16,880
+that works
+
+197
+00:06:17,840 --> 00:06:19,680
+okay and once you're finished you can go
+
+198
+00:06:19,680 --> 00:06:21,280
+ahead and click apply
+
+199
+00:06:21,280 --> 00:06:23,120
+and then close out of the menu that is
+
+200
+00:06:23,120 --> 00:06:25,039
+how you can go about applying a simple
+
+201
+00:06:25,039 --> 00:06:27,360
+color overlay or even a duotone effect
+
+202
+00:06:27,360 --> 00:06:30,080
+to a photograph using inkscape if you
+
+203
+00:06:30,080 --> 00:06:31,759
+have any questions let me know and as
+
+204
+00:06:31,759 --> 00:06:33,860
+always thanks for watching
+
+205
+00:06:33,860 --> 00:06:42,100
+[Music]
+
+206
+00:06:47,870 --> 00:06:52,009
+[Music]
+

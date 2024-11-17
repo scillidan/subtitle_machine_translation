@@ -1,0 +1,1136 @@
+1
+00:00:00,480 --> 00:00:01,920
+one of the greatest advantages that
+
+2
+00:00:01,920 --> 00:00:03,600
+comes with using inkscape is having the
+
+3
+00:00:03,600 --> 00:00:05,920
+ability to create repeat patterns from
+
+4
+00:00:05,920 --> 00:00:08,559
+simple shapes objects and even groups of
+
+5
+00:00:08,559 --> 00:00:10,880
+objects in fact not only can you use
+
+6
+00:00:10,880 --> 00:00:12,480
+vector objects to create patterns in
+
+7
+00:00:12,480 --> 00:00:15,200
+inkscape you can even use text objects
+
+8
+00:00:15,200 --> 00:00:18,000
+clipped objects and even jpeg images in
+
+9
+00:00:18,000 --> 00:00:19,279
+this tutorial we'll be showing you
+
+10
+00:00:19,279 --> 00:00:22,760
+exactly how
+
+11
+00:00:30,320 --> 00:00:31,840
+so getting us started here inkscape
+
+12
+00:00:31,840 --> 00:00:34,079
+makes the process of turning an object
+
+13
+00:00:34,079 --> 00:00:36,320
+into a pattern incredibly easy let me
+
+14
+00:00:36,320 --> 00:00:38,079
+show you what i mean using a simple
+
+15
+00:00:38,079 --> 00:00:39,680
+shape just to get us started and then
+
+16
+00:00:39,680 --> 00:00:41,200
+i'll show you a working example of how
+
+17
+00:00:41,200 --> 00:00:42,879
+you can actually use this in a practical
+
+18
+00:00:42,879 --> 00:00:43,760
+sense
+
+19
+00:00:43,760 --> 00:00:46,000
+so i'm going to start off with a star
+
+20
+00:00:46,000 --> 00:00:47,520
+i'm going to use the stars and polygons
+
+21
+00:00:47,520 --> 00:00:49,600
+tool i'm going to choose star instead of
+
+22
+00:00:49,600 --> 00:00:51,280
+polygon and i'm going to use these input
+
+23
+00:00:51,280 --> 00:00:52,480
+settings right here in case you'd like
+
+24
+00:00:52,480 --> 00:00:54,320
+to follow along with what i'm doing
+
+25
+00:00:54,320 --> 00:00:55,360
+now i'm just going to click and drag on
+
+26
+00:00:55,360 --> 00:00:56,800
+the canvas to create my star i'm going
+
+27
+00:00:56,800 --> 00:00:58,640
+to move the cursor up like that and i'm
+
+28
+00:00:58,640 --> 00:01:01,120
+going to hold ctrl and ctrl and shift so
+
+29
+00:01:01,120 --> 00:01:03,680
+that we have a nice upright star like
+
+30
+00:01:03,680 --> 00:01:04,720
+that
+
+31
+00:01:04,720 --> 00:01:06,320
+now i'm going to make this green just to
+
+32
+00:01:06,320 --> 00:01:07,840
+have a different color grab the
+
+33
+00:01:07,840 --> 00:01:09,360
+selection tool and let me scale this
+
+34
+00:01:09,360 --> 00:01:11,200
+down a little bit i'm going to hold ctrl
+
+35
+00:01:11,200 --> 00:01:13,439
+to lock the proportions and scale that
+
+36
+00:01:13,439 --> 00:01:14,880
+down like that
+
+37
+00:01:14,880 --> 00:01:17,040
+and now to turn this object into a
+
+38
+00:01:17,040 --> 00:01:18,799
+pattern all you have to do is make sure
+
+39
+00:01:18,799 --> 00:01:21,759
+you have it selected and go to object
+
+40
+00:01:21,759 --> 00:01:25,040
+pattern and select object to pattern
+
+41
+00:01:25,040 --> 00:01:26,799
+okay now nothing visibly changes on your
+
+42
+00:01:26,799 --> 00:01:28,479
+canvas but that object will now be
+
+43
+00:01:28,479 --> 00:01:30,799
+registered as a pattern in your fill and
+
+44
+00:01:30,799 --> 00:01:32,880
+stroke menu so let me show you how you
+
+45
+00:01:32,880 --> 00:01:34,640
+can apply it now i'm going to grab the
+
+46
+00:01:34,640 --> 00:01:35,920
+rectangle tool i'm going to click and
+
+47
+00:01:35,920 --> 00:01:37,680
+drag on the canvas to create a simple
+
+48
+00:01:37,680 --> 00:01:39,360
+rectangle like that
+
+49
+00:01:39,360 --> 00:01:40,960
+just for the sake of simplicity i'm
+
+50
+00:01:40,960 --> 00:01:42,479
+going to convert this to a path so i'll
+
+51
+00:01:42,479 --> 00:01:45,439
+go to path and select object to path
+
+52
+00:01:45,439 --> 00:01:46,960
+and now i want to change the fill
+
+53
+00:01:46,960 --> 00:01:49,040
+property of this rectangle from a solid
+
+54
+00:01:49,040 --> 00:01:51,119
+color to a pattern so to do that we're
+
+55
+00:01:51,119 --> 00:01:52,320
+going to use the fill and stroke menu
+
+56
+00:01:52,320 --> 00:01:55,840
+which is located over here
+
+57
+00:01:56,079 --> 00:01:58,079
+and what we are looking for is under the
+
+58
+00:01:58,079 --> 00:02:00,079
+fill tab we have all of these different
+
+59
+00:02:00,079 --> 00:02:01,759
+options for filling our object we're
+
+60
+00:02:01,759 --> 00:02:03,840
+looking for this option right here that
+
+61
+00:02:03,840 --> 00:02:05,439
+says pattern when you hover your cursor
+
+62
+00:02:05,439 --> 00:02:08,000
+over it i'm going to click on that
+
+63
+00:02:08,000 --> 00:02:09,598
+and if you use this drop down right here
+
+64
+00:02:09,598 --> 00:02:10,959
+you should see a list of all the
+
+65
+00:02:10,959 --> 00:02:12,720
+different patterns that inkscape has in
+
+66
+00:02:12,720 --> 00:02:14,879
+it already now the patterns that you
+
+67
+00:02:14,879 --> 00:02:16,480
+create custom made patterns are going to
+
+68
+00:02:16,480 --> 00:02:18,800
+be labeled as pattern with a series of
+
+69
+00:02:18,800 --> 00:02:20,800
+random numbers after it i don't know why
+
+70
+00:02:20,800 --> 00:02:22,800
+this is the case uh but for whatever
+
+71
+00:02:22,800 --> 00:02:24,640
+reason inkscape will name your patterns
+
+72
+00:02:24,640 --> 00:02:26,319
+this and as far as i know there is no
+
+73
+00:02:26,319 --> 00:02:27,760
+way to change the name of these patterns
+
+74
+00:02:27,760 --> 00:02:30,040
+so look for something titled pattern
+
+75
+00:02:30,040 --> 00:02:32,640
+3786 or whatever your numbers will be
+
+76
+00:02:32,640 --> 00:02:34,000
+and select that
+
+77
+00:02:34,000 --> 00:02:36,160
+and uh the the pattern is actually
+
+78
+00:02:36,160 --> 00:02:37,519
+applied there you can't really see it
+
+79
+00:02:37,519 --> 00:02:38,959
+though because it needs to be scaled
+
+80
+00:02:38,959 --> 00:02:41,040
+down so to scale this down let's work on
+
+81
+00:02:41,040 --> 00:02:42,560
+editing our pattern
+
+82
+00:02:42,560 --> 00:02:44,160
+i'm going to grab the edit pads by nodes
+
+83
+00:02:44,160 --> 00:02:45,599
+tool over here
+
+84
+00:02:45,599 --> 00:02:47,120
+and what we are looking for is we're
+
+85
+00:02:47,120 --> 00:02:49,200
+looking for these handles the first
+
+86
+00:02:49,200 --> 00:02:50,640
+handle we're looking for is right here
+
+87
+00:02:50,640 --> 00:02:52,560
+this little let me zoom in on this this
+
+88
+00:02:52,560 --> 00:02:56,319
+little crosshair this x represents the
+
+89
+00:02:56,319 --> 00:02:58,239
+location of the pattern relative to your
+
+90
+00:02:58,239 --> 00:02:59,360
+object
+
+91
+00:02:59,360 --> 00:03:01,200
+now if i want to move the location of
+
+92
+00:03:01,200 --> 00:03:02,640
+the pattern i could just click and drag
+
+93
+00:03:02,640 --> 00:03:04,800
+this x like this to move the pattern
+
+94
+00:03:04,800 --> 00:03:07,200
+within the object like that you probably
+
+95
+00:03:07,200 --> 00:03:08,640
+couldn't see exactly what happened there
+
+96
+00:03:08,640 --> 00:03:10,159
+because the pattern's too large i have
+
+97
+00:03:10,159 --> 00:03:12,319
+to scale it down so let's do that let me
+
+98
+00:03:12,319 --> 00:03:13,440
+zoom out a little bit i'm going to hold
+
+99
+00:03:13,440 --> 00:03:14,879
+ctrl and roll down the mouse wheel a
+
+100
+00:03:14,879 --> 00:03:16,480
+couple of times
+
+101
+00:03:16,480 --> 00:03:18,239
+and i'm looking for some more handles
+
+102
+00:03:18,239 --> 00:03:19,599
+out here i don't know why but for some
+
+103
+00:03:19,599 --> 00:03:21,360
+reason inkscape puts these handles all
+
+104
+00:03:21,360 --> 00:03:23,519
+the way out here in space sometimes so
+
+105
+00:03:23,519 --> 00:03:24,720
+you'll have to look around for them and
+
+106
+00:03:24,720 --> 00:03:26,560
+they're tiny too they're hard to see so
+
+107
+00:03:26,560 --> 00:03:28,000
+we're looking for this square handle
+
+108
+00:03:28,000 --> 00:03:30,000
+right here which represents the size of
+
+109
+00:03:30,000 --> 00:03:31,120
+the pattern
+
+110
+00:03:31,120 --> 00:03:33,519
+and then we're looking for this circular
+
+111
+00:03:33,519 --> 00:03:35,200
+handle right here which represents the
+
+112
+00:03:35,200 --> 00:03:37,040
+rotation of the pattern
+
+113
+00:03:37,040 --> 00:03:38,959
+so let me take the square handle over
+
+114
+00:03:38,959 --> 00:03:40,480
+here and scale this pattern down i'm
+
+115
+00:03:40,480 --> 00:03:41,920
+going to hold ctrl
+
+116
+00:03:41,920 --> 00:03:43,920
+while i'm doing this i'm bringing the
+
+117
+00:03:43,920 --> 00:03:46,799
+square handle towards the center point
+
+118
+00:03:46,799 --> 00:03:49,040
+that crosshair that x and as i do this
+
+119
+00:03:49,040 --> 00:03:50,640
+i'm holding ctrl to lock the aspect
+
+120
+00:03:50,640 --> 00:03:52,080
+ratio and as you can see the pattern is
+
+121
+00:03:52,080 --> 00:03:53,439
+getting smaller and we're seeing more of
+
+122
+00:03:53,439 --> 00:03:55,280
+those stars in there let me zoom in on
+
+123
+00:03:55,280 --> 00:03:56,879
+this so you can see this better
+
+124
+00:03:56,879 --> 00:03:59,360
+this scaling handle
+
+125
+00:03:59,360 --> 00:04:00,799
+allows you to
+
+126
+00:04:00,799 --> 00:04:03,280
+resize your pattern as needed as you can
+
+127
+00:04:03,280 --> 00:04:05,120
+see here and if you want to rotate your
+
+128
+00:04:05,120 --> 00:04:06,480
+pattern you can use this handle right
+
+129
+00:04:06,480 --> 00:04:08,080
+here
+
+130
+00:04:08,080 --> 00:04:09,920
+holding control will lock the rotation
+
+131
+00:04:09,920 --> 00:04:12,159
+onto 15 degree angles the same as it
+
+132
+00:04:12,159 --> 00:04:13,920
+would with any other transformation that
+
+133
+00:04:13,920 --> 00:04:16,000
+you would make in inkscape and again if
+
+134
+00:04:16,000 --> 00:04:17,279
+you want to move the location of the
+
+135
+00:04:17,279 --> 00:04:19,358
+pattern you just have to click and drag
+
+136
+00:04:19,358 --> 00:04:21,120
+this crosshair like that and move this
+
+137
+00:04:21,120 --> 00:04:23,520
+around as you can see here
+
+138
+00:04:23,520 --> 00:04:24,800
+and there you go that is how you could
+
+139
+00:04:24,800 --> 00:04:26,880
+take an object and turn it into a simple
+
+140
+00:04:26,880 --> 00:04:28,400
+pattern
+
+141
+00:04:28,400 --> 00:04:30,160
+so let's go over a working example of
+
+142
+00:04:30,160 --> 00:04:32,080
+how you would actually use this feature
+
+143
+00:04:32,080 --> 00:04:34,560
+to create a pattern design
+
+144
+00:04:34,560 --> 00:04:36,240
+for an example here i have this simple
+
+145
+00:04:36,240 --> 00:04:38,000
+avocado graphic that i created i'm just
+
+146
+00:04:38,000 --> 00:04:39,280
+going to click and drag over everything
+
+147
+00:04:39,280 --> 00:04:40,639
+here and group all of these shapes
+
+148
+00:04:40,639 --> 00:04:42,400
+together by going to object
+
+149
+00:04:42,400 --> 00:04:44,320
+and selecting
+
+150
+00:04:44,320 --> 00:04:46,240
+group now the good thing about working
+
+151
+00:04:46,240 --> 00:04:47,759
+with patterns in inkscape is that it
+
+152
+00:04:47,759 --> 00:04:49,040
+allows you to create patterns from
+
+153
+00:04:49,040 --> 00:04:50,560
+virtually anything it doesn't just have
+
+154
+00:04:50,560 --> 00:04:53,040
+to be a single shape or a single object
+
+155
+00:04:53,040 --> 00:04:54,560
+it could be a grouping of objects it
+
+156
+00:04:54,560 --> 00:04:56,479
+could be a text object it could be a
+
+157
+00:04:56,479 --> 00:04:58,400
+masked or a clipped object it could even
+
+158
+00:04:58,400 --> 00:05:01,120
+be a jpeg image so virtually anything
+
+159
+00:05:01,120 --> 00:05:02,720
+you want in inkscape can be turned into
+
+160
+00:05:02,720 --> 00:05:04,880
+a pattern okay so i'm going to turn this
+
+161
+00:05:04,880 --> 00:05:07,280
+group of vector objects into a pattern
+
+162
+00:05:07,280 --> 00:05:09,360
+now when i create my pattern i don't
+
+163
+00:05:09,360 --> 00:05:11,520
+want all of the copies of this graphic
+
+164
+00:05:11,520 --> 00:05:13,360
+to be touching each other side by side
+
+165
+00:05:13,360 --> 00:05:15,360
+as you can see here by the bounding box
+
+166
+00:05:15,360 --> 00:05:16,960
+what i want to do is increase the size
+
+167
+00:05:16,960 --> 00:05:18,800
+of that bounding box so that these
+
+168
+00:05:18,800 --> 00:05:21,440
+objects have some spacing between them
+
+169
+00:05:21,440 --> 00:05:23,199
+as they repeat in the pattern so what
+
+170
+00:05:23,199 --> 00:05:24,240
+i'm going to do is i'm going to copy
+
+171
+00:05:24,240 --> 00:05:25,440
+this object i'm going to right click it
+
+172
+00:05:25,440 --> 00:05:26,880
+and go to copy
+
+173
+00:05:26,880 --> 00:05:29,360
+and i'm going to create a rectangle
+
+174
+00:05:29,360 --> 00:05:30,560
+like that
+
+175
+00:05:30,560 --> 00:05:32,000
+and i want to make this rectangle the
+
+176
+00:05:32,000 --> 00:05:33,520
+same size as my object i'm going to go
+
+177
+00:05:33,520 --> 00:05:35,280
+to edit
+
+178
+00:05:35,280 --> 00:05:37,120
+paste size and i'm going to choose paste
+
+179
+00:05:37,120 --> 00:05:38,479
+size
+
+180
+00:05:38,479 --> 00:05:40,639
+grab the selection tool lower this
+
+181
+00:05:40,639 --> 00:05:42,880
+beneath the object click and drag over
+
+182
+00:05:42,880 --> 00:05:44,000
+both of these so we have them both
+
+183
+00:05:44,000 --> 00:05:45,919
+selected and i'm going to center this up
+
+184
+00:05:45,919 --> 00:05:48,240
+on the vertical and horizontal axis
+
+185
+00:05:48,240 --> 00:05:49,520
+using the alignment menu which is
+
+186
+00:05:49,520 --> 00:05:51,360
+located over here
+
+187
+00:05:51,360 --> 00:05:52,880
+it should open up on the right hand side
+
+188
+00:05:52,880 --> 00:05:54,800
+of your screen and i want last selected
+
+189
+00:05:54,800 --> 00:05:56,560
+chosen from this drop down and i'm just
+
+190
+00:05:56,560 --> 00:05:59,280
+going to align this on the vertical and
+
+191
+00:05:59,280 --> 00:06:01,759
+horizontal axis like that
+
+192
+00:06:01,759 --> 00:06:03,120
+okay so now i'm going to click off of
+
+193
+00:06:03,120 --> 00:06:05,280
+this to deselect everything what i want
+
+194
+00:06:05,280 --> 00:06:07,280
+to do now is take this object and add
+
+195
+00:06:07,280 --> 00:06:08,960
+some padding around it so that we have
+
+196
+00:06:08,960 --> 00:06:11,280
+some spacing going around this avocado
+
+197
+00:06:11,280 --> 00:06:12,319
+graphic
+
+198
+00:06:12,319 --> 00:06:14,000
+so what i'm going to do up here where it
+
+199
+00:06:14,000 --> 00:06:16,080
+says the width 328 i'm just going to add
+
+200
+00:06:16,080 --> 00:06:17,680
+100 to each dimension so i'm going to
+
+201
+00:06:17,680 --> 00:06:19,440
+make this
+
+202
+00:06:19,440 --> 00:06:21,280
+uh 400
+
+203
+00:06:21,280 --> 00:06:23,120
+and i'm going to make this over here the
+
+204
+00:06:23,120 --> 00:06:23,919
+height
+
+205
+00:06:23,919 --> 00:06:25,440
+500
+
+206
+00:06:25,440 --> 00:06:26,720
+and now we have a little bit of padding
+
+207
+00:06:26,720 --> 00:06:28,319
+there let me center that up center that
+
+208
+00:06:28,319 --> 00:06:30,160
+up let me see how that looks okay we
+
+209
+00:06:30,160 --> 00:06:32,080
+have some more pattern but maybe not as
+
+210
+00:06:32,080 --> 00:06:33,120
+much as i'd like i'm going to add
+
+211
+00:06:33,120 --> 00:06:34,720
+another 100 to each dimension so let me
+
+212
+00:06:34,720 --> 00:06:36,639
+make this 500
+
+213
+00:06:36,639 --> 00:06:40,160
+and then i'll make this one 600
+
+214
+00:06:40,160 --> 00:06:41,680
+and let me try that again let me center
+
+215
+00:06:41,680 --> 00:06:42,639
+that up
+
+216
+00:06:42,639 --> 00:06:44,479
+okay that looks a little better
+
+217
+00:06:44,479 --> 00:06:46,080
+so now i'm going to grop i'm going to
+
+218
+00:06:46,080 --> 00:06:47,680
+group these two objects together i'll go
+
+219
+00:06:47,680 --> 00:06:49,599
+to object and select
+
+220
+00:06:49,599 --> 00:06:50,800
+group
+
+221
+00:06:50,800 --> 00:06:52,160
+and i'm just going to scale this down
+
+222
+00:06:52,160 --> 00:06:53,919
+and put this off to the side
+
+223
+00:06:53,919 --> 00:06:55,520
+i'm going to select this make sure i
+
+224
+00:06:55,520 --> 00:06:57,759
+have it selected go to object
+
+225
+00:06:57,759 --> 00:06:58,880
+pattern
+
+226
+00:06:58,880 --> 00:07:01,039
+objects to pattern and let's say i want
+
+227
+00:07:01,039 --> 00:07:02,560
+to use this as a background for like a
+
+228
+00:07:02,560 --> 00:07:03,759
+thumbnail i'm going to design the
+
+229
+00:07:03,759 --> 00:07:06,240
+average thumbnail design is 1280 by 720
+
+230
+00:07:06,240 --> 00:07:07,280
+pixels so i'm going to grab the
+
+231
+00:07:07,280 --> 00:07:08,720
+rectangle tool
+
+232
+00:07:08,720 --> 00:07:10,720
+click and drag like that and let me grab
+
+233
+00:07:10,720 --> 00:07:12,240
+my selection tool and i'm going to
+
+234
+00:07:12,240 --> 00:07:13,599
+change the width and height of this to
+
+235
+00:07:13,599 --> 00:07:15,199
+1280
+
+236
+00:07:15,199 --> 00:07:18,240
+by 720 like that and i want to resize my
+
+237
+00:07:18,240 --> 00:07:20,160
+canvas to fit this object so i'm going
+
+238
+00:07:20,160 --> 00:07:22,639
+to select the object and press ctrl
+
+239
+00:07:22,639 --> 00:07:24,400
+shift and r on the keyboard and it'll
+
+240
+00:07:24,400 --> 00:07:27,039
+resize the document to fit that object
+
+241
+00:07:27,039 --> 00:07:28,560
+now i'm going to take this object right
+
+242
+00:07:28,560 --> 00:07:29,599
+here
+
+243
+00:07:29,599 --> 00:07:31,199
+go back to the fill and stroke menu and
+
+244
+00:07:31,199 --> 00:07:33,280
+i'm going to choose my pattern and as
+
+245
+00:07:33,280 --> 00:07:34,560
+you can see there's the pattern so what
+
+246
+00:07:34,560 --> 00:07:36,720
+i want to do is grab the edit paths by
+
+247
+00:07:36,720 --> 00:07:38,319
+nodes tool
+
+248
+00:07:38,319 --> 00:07:40,560
+and look for the placement put that in
+
+249
+00:07:40,560 --> 00:07:42,400
+the center
+
+250
+00:07:42,400 --> 00:07:44,240
+look for the scaling handle scale that
+
+251
+00:07:44,240 --> 00:07:45,039
+down
+
+252
+00:07:45,039 --> 00:07:46,560
+oops
+
+253
+00:07:46,560 --> 00:07:48,720
+there we go
+
+254
+00:07:48,720 --> 00:07:51,120
+and as you can see we have our avocado
+
+255
+00:07:51,120 --> 00:07:52,639
+pattern that we created
+
+256
+00:07:52,639 --> 00:07:54,560
+using inkscape and i could even rotate
+
+257
+00:07:54,560 --> 00:07:55,680
+this around a little bit just to give it
+
+258
+00:07:55,680 --> 00:07:57,199
+a little bit of a
+
+259
+00:07:57,199 --> 00:08:00,639
+design flare there we go
+
+260
+00:08:03,919 --> 00:08:04,800
+okay you got to make sure you're
+
+261
+00:08:04,800 --> 00:08:06,879
+grabbing the correct cross hair here
+
+262
+00:08:06,879 --> 00:08:09,280
+there we go
+
+263
+00:08:09,360 --> 00:08:10,639
+and there we go that is how you could
+
+264
+00:08:10,639 --> 00:08:13,039
+take a simple object and turn it into a
+
+265
+00:08:13,039 --> 00:08:14,960
+repeat pattern that you can use to fill
+
+266
+00:08:14,960 --> 00:08:17,520
+objects however you'd like in inkscape
+
+267
+00:08:17,520 --> 00:08:19,120
+before i end this video if you found
+
+268
+00:08:19,120 --> 00:08:20,720
+this lesson useful then consider
+
+269
+00:08:20,720 --> 00:08:23,280
+checking out my inkscape master class
+
+270
+00:08:23,280 --> 00:08:25,199
+it's a collection of over 60 videos
+
+271
+00:08:25,199 --> 00:08:26,800
+where i go over all of the tools and
+
+272
+00:08:26,800 --> 00:08:28,879
+features in inkscape and i explain what
+
+273
+00:08:28,879 --> 00:08:30,720
+they are and demonstrate how they work
+
+274
+00:08:30,720 --> 00:08:32,719
+kind of like how i did in this video we
+
+275
+00:08:32,719 --> 00:08:34,240
+even have a private community where you
+
+276
+00:08:34,240 --> 00:08:36,399
+can ask questions and get help from me
+
+277
+00:08:36,399 --> 00:08:38,640
+anytime you want and best of all there's
+
+278
+00:08:38,640 --> 00:08:40,559
+no monthly membership fees you just pay
+
+279
+00:08:40,559 --> 00:08:43,839
+17 one time and you're in for life i'll
+
+280
+00:08:43,839 --> 00:08:45,120
+have some information about that in the
+
+281
+00:08:45,120 --> 00:08:46,560
+description of the video if you want to
+
+282
+00:08:46,560 --> 00:08:48,640
+check that out as always thanks for
+
+283
+00:08:48,640 --> 00:08:51,640
+watching
+
+284
+00:09:08,959 --> 00:09:11,040
+you
+

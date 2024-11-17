@@ -1,0 +1,3476 @@
+1
+00:00:01,020 --> 00:00:06,910
+[Music]
+
+2
+00:00:07,690 --> 00:00:10,940
+this is Nick with logos by Nick comm and
+
+3
+00:00:10,940 --> 00:00:12,139
+in this tutorial I'll be demonstrating
+
+4
+00:00:12,139 --> 00:00:14,809
+how you can create this eSports logo
+
+5
+00:00:14,809 --> 00:00:18,050
+using Inkscape version 1.0 and it's
+
+6
+00:00:18,050 --> 00:00:20,840
+important that you use version 1.0 for
+
+7
+00:00:20,840 --> 00:00:22,610
+this tutorial because we will be using
+
+8
+00:00:22,610 --> 00:00:25,310
+the new offset live path effect quite a
+
+9
+00:00:25,310 --> 00:00:27,050
+bit in this lesson and it's also
+
+10
+00:00:27,050 --> 00:00:29,000
+important that you download and install
+
+11
+00:00:29,000 --> 00:00:31,730
+a particular font known as Falcons I
+
+12
+00:00:31,730 --> 00:00:33,230
+will have that linked in the description
+
+13
+00:00:33,230 --> 00:00:35,780
+of the video it is a free font so go
+
+14
+00:00:35,780 --> 00:00:37,820
+ahead and download and install that font
+
+15
+00:00:37,820 --> 00:00:40,100
+before you launch Inkscape and you'll be
+
+16
+00:00:40,100 --> 00:00:42,350
+good to go and before we get started if
+
+17
+00:00:42,350 --> 00:00:43,399
+you would like to learn more about
+
+18
+00:00:43,399 --> 00:00:45,050
+Inkscape be sure to check out my
+
+19
+00:00:45,050 --> 00:00:47,030
+Inkscape masterclass it's a collection
+
+20
+00:00:47,030 --> 00:00:49,790
+of over 60 videos where I go over every
+
+21
+00:00:49,790 --> 00:00:51,710
+single tool and feature in Inkscape and
+
+22
+00:00:51,710 --> 00:00:53,540
+I explain what it is and demonstrate how
+
+23
+00:00:53,540 --> 00:00:55,040
+it works I'll put a link in the
+
+24
+00:00:55,040 --> 00:00:56,329
+description of the video if you want to
+
+25
+00:00:56,329 --> 00:00:59,030
+check that out so we'll get started here
+
+26
+00:00:59,030 --> 00:01:01,160
+in Inkscape the first thing we want to
+
+27
+00:01:01,160 --> 00:01:03,590
+do is setup our documents that we're all
+
+28
+00:01:03,590 --> 00:01:05,509
+working with this similar layout the
+
+29
+00:01:05,509 --> 00:01:06,890
+first thing I want to do is come up here
+
+30
+00:01:06,890 --> 00:01:08,000
+and click this button to disable
+
+31
+00:01:08,000 --> 00:01:10,159
+snapping I want this all disabled for
+
+32
+00:01:10,159 --> 00:01:11,690
+the time being we'll be enabling it
+
+33
+00:01:11,690 --> 00:01:12,890
+throughout the tutorial but for now we
+
+34
+00:01:12,890 --> 00:01:14,570
+want that turned off we're gonna come up
+
+35
+00:01:14,570 --> 00:01:17,330
+here to where it says view view we're
+
+36
+00:01:17,330 --> 00:01:19,490
+gonna want custom selected and I'm going
+
+37
+00:01:19,490 --> 00:01:21,650
+to go to zoom I'm going to zoom in at 1
+
+38
+00:01:21,650 --> 00:01:24,439
+to 1 and for now we're gonna want the
+
+39
+00:01:24,439 --> 00:01:27,530
+alignment distribute menu opened we're
+
+40
+00:01:27,530 --> 00:01:29,090
+gonna want last selected chosen from
+
+41
+00:01:29,090 --> 00:01:31,250
+that drop-down then we want the fill and
+
+42
+00:01:31,250 --> 00:01:32,869
+Stroke menu open which is this button
+
+43
+00:01:32,869 --> 00:01:34,250
+over here or you could press control
+
+44
+00:01:34,250 --> 00:01:38,060
+shift + F and let me just expand that so
+
+45
+00:01:38,060 --> 00:01:39,650
+that I have both of these open at the
+
+46
+00:01:39,650 --> 00:01:41,659
+same time I just want to change the way
+
+47
+00:01:41,659 --> 00:01:43,159
+that those menus are Doc's there we go
+
+48
+00:01:43,159 --> 00:01:45,500
+and we're gonna use the path effects
+
+49
+00:01:45,500 --> 00:01:47,060
+menu too but I'll get to that a little
+
+50
+00:01:47,060 --> 00:01:49,009
+later so what we want to do now is
+
+51
+00:01:49,009 --> 00:01:50,540
+basically what I'm gonna do is I'm gonna
+
+52
+00:01:50,540 --> 00:01:52,040
+break this up into three different parts
+
+53
+00:01:52,040 --> 00:01:53,659
+and I'll have them time stamped down
+
+54
+00:01:53,659 --> 00:01:55,549
+below because this is this is somewhat
+
+55
+00:01:55,549 --> 00:01:56,780
+of an elaborate design so it's gonna
+
+56
+00:01:56,780 --> 00:01:58,670
+take us a while to create this and the
+
+57
+00:01:58,670 --> 00:02:00,500
+first part will create the text the
+
+58
+00:02:00,500 --> 00:02:02,090
+second part will create the emblem and
+
+59
+00:02:02,090 --> 00:02:04,189
+then in the third part will create the
+
+60
+00:02:04,189 --> 00:02:05,540
+controller so let's start off with the
+
+61
+00:02:05,540 --> 00:02:07,880
+text I'm gonna grab the text tool and
+
+62
+00:02:07,880 --> 00:02:09,408
+I'm gonna click on the canvas here and
+
+63
+00:02:09,408 --> 00:02:11,510
+I'm gonna use all caps for this tutorial
+
+64
+00:02:11,510 --> 00:02:13,549
+I'm going to use the word eSports for
+
+65
+00:02:13,549 --> 00:02:17,990
+example grab the grab the text tool
+
+66
+00:02:17,990 --> 00:02:21,800
+I'm going to change that grab the text
+
+67
+00:02:21,800 --> 00:02:23,770
+editor up here I'm gonna change this to
+
+68
+00:02:23,770 --> 00:02:26,780
+Falcons there we go that's the font
+
+69
+00:02:26,780 --> 00:02:29,900
+we're looking for let me grab the Select
+
+70
+00:02:29,900 --> 00:02:31,760
+tool and hold ctrl and shift to scale
+
+71
+00:02:31,760 --> 00:02:33,830
+this up what we want to do now is
+
+72
+00:02:33,830 --> 00:02:35,450
+manually adjust the spacing between
+
+73
+00:02:35,450 --> 00:02:37,130
+these letters and I also want to change
+
+74
+00:02:37,130 --> 00:02:39,230
+the way that these letters interact with
+
+75
+00:02:39,230 --> 00:02:40,400
+each other let me show you what I mean
+
+76
+00:02:40,400 --> 00:02:41,900
+here on the thumbnail if you see here
+
+77
+00:02:41,900 --> 00:02:44,090
+between these letters you'll see I have
+
+78
+00:02:44,090 --> 00:02:46,790
+the letters kind of look like they fit
+
+79
+00:02:46,790 --> 00:02:48,710
+next to each other like puzzle pieces I
+
+80
+00:02:48,710 --> 00:02:50,060
+want to make it so that each letter is
+
+81
+00:02:50,060 --> 00:02:53,120
+slicing off the top right edge of the
+
+82
+00:02:53,120 --> 00:02:55,760
+letter that comes before it so to do
+
+83
+00:02:55,760 --> 00:02:58,160
+that let me get this off the screen to
+
+84
+00:02:58,160 --> 00:02:59,810
+do that I'm going to convert the text of
+
+85
+00:02:59,810 --> 00:03:02,990
+paths path object to path and then I'll
+
+86
+00:03:02,990 --> 00:03:04,880
+ungroup the letters like that and let me
+
+87
+00:03:04,880 --> 00:03:06,620
+just bring the opacity of that down so I
+
+88
+00:03:06,620 --> 00:03:08,960
+can see through them a little bit and
+
+89
+00:03:08,960 --> 00:03:11,540
+I'm gonna zoom in to zoom in I'm holding
+
+90
+00:03:11,540 --> 00:03:13,910
+ctrl and rolling up the mouse wheel to
+
+91
+00:03:13,910 --> 00:03:15,110
+move the page around I'm just pressing
+
+92
+00:03:15,110 --> 00:03:16,340
+down the mouse wheel and moving the
+
+93
+00:03:16,340 --> 00:03:18,790
+mouse I'm gonna click this letter
+
+94
+00:03:18,790 --> 00:03:21,110
+hold ctrl click and drag it to the right
+
+95
+00:03:21,110 --> 00:03:23,450
+like that so that it's not quite
+
+96
+00:03:23,450 --> 00:03:25,940
+touching the s but pretty close hold
+
+97
+00:03:25,940 --> 00:03:28,130
+shift click the other letter bring these
+
+98
+00:03:28,130 --> 00:03:29,720
+two over here like that do the same
+
+99
+00:03:29,720 --> 00:03:31,520
+thing and that's going to come through
+
+100
+00:03:31,520 --> 00:03:33,230
+here and do the same thing with the rest
+
+101
+00:03:33,230 --> 00:03:35,090
+of this world with the rest of this word
+
+102
+00:03:35,090 --> 00:03:37,010
+holding shift while we click on each
+
+103
+00:03:37,010 --> 00:03:38,660
+letter so it drags the whole word over
+
+104
+00:03:38,660 --> 00:03:43,160
+there this isn't necessarily a step that
+
+105
+00:03:43,160 --> 00:03:44,900
+you have to do but I just think the
+
+106
+00:03:44,900 --> 00:03:47,660
+design will look a lot better if you go
+
+107
+00:03:47,660 --> 00:03:48,980
+ahead and make these letters look like
+
+108
+00:03:48,980 --> 00:03:50,720
+they fit together so what I'm gonna do
+
+109
+00:03:50,720 --> 00:03:52,820
+now is I'm gonna duplicate this letter S
+
+110
+00:03:52,820 --> 00:03:55,040
+right here by pressing ctrl D I'm gonna
+
+111
+00:03:55,040 --> 00:03:57,230
+make that red and then I'll hold shift
+
+112
+00:03:57,230 --> 00:03:59,170
+and click on the letter E and go to path
+
+113
+00:03:59,170 --> 00:04:02,120
+difference and if you notice now if you
+
+114
+00:04:02,120 --> 00:04:03,980
+move this apart it looks like those two
+
+115
+00:04:03,980 --> 00:04:05,570
+letters fit with each other so let me
+
+116
+00:04:05,570 --> 00:04:07,100
+put that back I'm gonna come through
+
+117
+00:04:07,100 --> 00:04:08,240
+here and do the same thing with the rest
+
+118
+00:04:08,240 --> 00:04:10,850
+of these letters duplicate that hold
+
+119
+00:04:10,850 --> 00:04:12,890
+shift click the letter go to path
+
+120
+00:04:12,890 --> 00:04:17,839
+difference take the letter O ctrl D hold
+
+121
+00:04:17,839 --> 00:04:19,250
+shift click the P
+
+122
+00:04:19,250 --> 00:04:22,940
+path difference and I'm sure you get the
+
+123
+00:04:22,940 --> 00:04:25,070
+idea by now so so let me go through and
+
+124
+00:04:25,070 --> 00:04:28,550
+do this with the rest of the word here
+
+125
+00:04:28,550 --> 00:04:30,990
+difference I'm actually gonna use the
+
+126
+00:04:30,990 --> 00:04:32,490
+keyboard shortcut for this last one
+
+127
+00:04:32,490 --> 00:04:33,720
+because I haven't memorized I actually
+
+128
+00:04:33,720 --> 00:04:35,490
+never used these menus up here I always
+
+129
+00:04:35,490 --> 00:04:37,140
+use the keyboard shortcut which for this
+
+130
+00:04:37,140 --> 00:04:40,980
+one is ctrl shift and - okay so let me
+
+131
+00:04:40,980 --> 00:04:42,780
+take the letter S and hold ctrl and move
+
+132
+00:04:42,780 --> 00:04:45,720
+that to the right a little bit hold
+
+133
+00:04:45,720 --> 00:04:47,850
+shift click the T move that to the right
+
+134
+00:04:47,850 --> 00:04:49,620
+a little bit while holding ctrl so that
+
+135
+00:04:49,620 --> 00:04:50,910
+we're locking it onto the horizontal
+
+136
+00:04:50,910 --> 00:04:53,070
+axis same thing over here with the R
+
+137
+00:04:53,070 --> 00:04:54,930
+we're basically we just spacing these
+
+138
+00:04:54,930 --> 00:05:01,020
+letters out apart like that looking good
+
+139
+00:05:01,020 --> 00:05:02,760
+do the same thing over here now let me
+
+140
+00:05:02,760 --> 00:05:03,990
+zoom back out to see how we're looking
+
+141
+00:05:03,990 --> 00:05:06,120
+over here okay that's looking pretty
+
+142
+00:05:06,120 --> 00:05:07,440
+good right there so what I'm gonna do is
+
+143
+00:05:07,440 --> 00:05:08,640
+I'm gonna unify all those letters
+
+144
+00:05:08,640 --> 00:05:11,010
+together by selecting them all and going
+
+145
+00:05:11,010 --> 00:05:13,860
+to path Union and now what I want to do
+
+146
+00:05:13,860 --> 00:05:16,520
+is I want to a plot I want to apply a
+
+147
+00:05:16,520 --> 00:05:19,380
+perspective like you see here so let me
+
+148
+00:05:19,380 --> 00:05:23,100
+go to path path effects and you're gonna
+
+149
+00:05:23,100 --> 00:05:25,260
+get this path effects editor up here I'm
+
+150
+00:05:25,260 --> 00:05:27,510
+gonna click the add path effect button
+
+151
+00:05:27,510 --> 00:05:30,540
+and I'm going to look for perspective
+
+152
+00:05:30,540 --> 00:05:34,290
+there it is perspective envelope and I
+
+153
+00:05:34,290 --> 00:05:35,850
+want to check this box that says mere
+
+154
+00:05:35,850 --> 00:05:38,700
+movements in vertical and then grab the
+
+155
+00:05:38,700 --> 00:05:40,560
+edit pads by nodes tool and what we're
+
+156
+00:05:40,560 --> 00:05:42,930
+looking for here we're looking for the
+
+157
+00:05:42,930 --> 00:05:44,460
+nodes in the corner but they look
+
+158
+00:05:44,460 --> 00:05:46,080
+different they look similar to the other
+
+159
+00:05:46,080 --> 00:05:47,880
+nodes but the look the node that we're
+
+160
+00:05:47,880 --> 00:05:50,040
+looking for is white these ones are gray
+
+161
+00:05:50,040 --> 00:05:51,750
+so they look similar so it's easy to
+
+162
+00:05:51,750 --> 00:05:52,950
+miss them make sure you're grabbing the
+
+163
+00:05:52,950 --> 00:05:54,840
+white node like that I'm just going to
+
+164
+00:05:54,840 --> 00:05:55,980
+take that and pull that out if you want
+
+165
+00:05:55,980 --> 00:05:57,690
+you could hold ctrl to lock it onto the
+
+166
+00:05:57,690 --> 00:05:59,910
+axis pull that out a little bit like
+
+167
+00:05:59,910 --> 00:06:01,919
+that just to give it a little bit of a
+
+168
+00:06:01,919 --> 00:06:04,470
+perspective and now we can finalize that
+
+169
+00:06:04,470 --> 00:06:08,790
+by going to path object to path now what
+
+170
+00:06:08,790 --> 00:06:09,870
+I'm gonna do is I'm gonna give this a
+
+171
+00:06:09,870 --> 00:06:12,030
+bit of a 3d effect as you can see here
+
+172
+00:06:12,030 --> 00:06:13,890
+if you notice is a bit of a like a 3d
+
+173
+00:06:13,890 --> 00:06:15,150
+effect like it's coming out at you like
+
+174
+00:06:15,150 --> 00:06:15,450
+that
+
+175
+00:06:15,450 --> 00:06:17,310
+we're gonna use the extrude feature for
+
+176
+00:06:17,310 --> 00:06:20,550
+that so let me grab this select tool let
+
+177
+00:06:20,550 --> 00:06:22,440
+me just adjust that a little bit make
+
+178
+00:06:22,440 --> 00:06:24,210
+that a little higher that looks pretty
+
+179
+00:06:24,210 --> 00:06:26,520
+good I want to right click this text and
+
+180
+00:06:26,520 --> 00:06:29,100
+go to duplicate I want to make this red
+
+181
+00:06:29,100 --> 00:06:31,770
+and I want to hold ctrl and move this up
+
+182
+00:06:31,770 --> 00:06:33,300
+above it a little bit I'm gonna hold
+
+183
+00:06:33,300 --> 00:06:36,960
+ctrl scale this up a little bit maybe
+
+184
+00:06:36,960 --> 00:06:38,789
+about that much it doesn't have to be
+
+185
+00:06:38,789 --> 00:06:41,070
+exactly the the amount that I'm scaling
+
+186
+00:06:41,070 --> 00:06:42,240
+it you can just eyeball it like
+
+187
+00:06:42,240 --> 00:06:44,160
+doing here and then I want to select
+
+188
+00:06:44,160 --> 00:06:46,139
+both of these actually let me move this
+
+189
+00:06:46,139 --> 00:06:48,449
+up a little bit let me select both of
+
+190
+00:06:48,449 --> 00:06:51,210
+these and go to extensions generate from
+
+191
+00:06:51,210 --> 00:06:54,229
+path and I'm gonna look for extrude and
+
+192
+00:06:54,229 --> 00:06:56,880
+right here I want to choose polygons and
+
+193
+00:06:56,880 --> 00:07:00,210
+then click apply and it's gonna create
+
+194
+00:07:00,210 --> 00:07:02,280
+this 3d block right here so let me get
+
+195
+00:07:02,280 --> 00:07:04,770
+rid of this let me take this new shape
+
+196
+00:07:04,770 --> 00:07:08,039
+that I created let me ungroup that the
+
+197
+00:07:08,039 --> 00:07:10,099
+only unified altogether by going to path
+
+198
+00:07:10,099 --> 00:07:12,750
+Union and I want to get rid of those
+
+199
+00:07:12,750 --> 00:07:14,729
+empty negative spaces in there so I'll
+
+200
+00:07:14,729 --> 00:07:18,740
+go to path break apart and then path
+
+201
+00:07:18,740 --> 00:07:21,569
+Union let me get rid of the stroke or
+
+202
+00:07:21,569 --> 00:07:23,099
+the outline I'm gonna hold shift and
+
+203
+00:07:23,099 --> 00:07:25,500
+click on this X up here and let me come
+
+204
+00:07:25,500 --> 00:07:28,319
+over here to the fill tab under the HSL
+
+205
+00:07:28,319 --> 00:07:29,490
+tab I'm just gonna make sure that a
+
+206
+00:07:29,490 --> 00:07:30,900
+column is brought all the way up and
+
+207
+00:07:30,900 --> 00:07:32,520
+then I'll bring the opacity down
+
+208
+00:07:32,520 --> 00:07:34,800
+partially like that and now I can take
+
+209
+00:07:34,800 --> 00:07:36,750
+this red text up here our original text
+
+210
+00:07:36,750 --> 00:07:38,069
+make sure it's raised to the top I'm
+
+211
+00:07:38,069 --> 00:07:39,509
+gonna click this button raise selection
+
+212
+00:07:39,509 --> 00:07:42,000
+to the top select both of these and
+
+213
+00:07:42,000 --> 00:07:44,130
+Center them up and they come down here
+
+214
+00:07:44,130 --> 00:07:45,780
+to the alignment menu Center them up on
+
+215
+00:07:45,780 --> 00:07:48,719
+the vertical axis and then align the top
+
+216
+00:07:48,719 --> 00:07:50,820
+edges like that so that we end up with
+
+217
+00:07:50,820 --> 00:07:53,219
+that right there now we could take this
+
+218
+00:07:53,219 --> 00:07:55,139
+and we can just press delete to get rid
+
+219
+00:07:55,139 --> 00:07:57,449
+of that we don't need that right now so
+
+220
+00:07:57,449 --> 00:07:58,560
+now what I want to do is I want to take
+
+221
+00:07:58,560 --> 00:08:00,389
+this red text this original text layer
+
+222
+00:08:00,389 --> 00:08:04,229
+and I want to make this white and then I
+
+223
+00:08:04,229 --> 00:08:05,820
+want to take the black text beneath it
+
+224
+00:08:05,820 --> 00:08:08,460
+and I want to apply an offset to it so
+
+225
+00:08:08,460 --> 00:08:09,599
+I'm gonna come back up here to the path
+
+226
+00:08:09,599 --> 00:08:12,300
+effects menu click the plus button to
+
+227
+00:08:12,300 --> 00:08:13,949
+add a path effect and on this time I'm
+
+228
+00:08:13,949 --> 00:08:16,979
+looking for offset and I would recommend
+
+229
+00:08:16,979 --> 00:08:18,330
+getting familiar getting comfortable
+
+230
+00:08:18,330 --> 00:08:19,800
+with this path effect because we'll be
+
+231
+00:08:19,800 --> 00:08:20,940
+using this a lot throughout this
+
+232
+00:08:20,940 --> 00:08:23,490
+tutorial where it says offset I'm gonna
+
+233
+00:08:23,490 --> 00:08:25,319
+click the plus button to increase the
+
+234
+00:08:25,319 --> 00:08:27,900
+offset and if you notice it's growing a
+
+235
+00:08:27,900 --> 00:08:30,449
+border around the text right there by
+
+236
+00:08:30,449 --> 00:08:32,010
+default it should have lighter if not
+
+237
+00:08:32,010 --> 00:08:35,149
+just go ahead and select that
+
+238
+00:08:37,070 --> 00:08:39,089
+there we go that's looking pretty good
+
+239
+00:08:39,089 --> 00:08:40,950
+now let me finalize that by going to
+
+240
+00:08:40,950 --> 00:08:44,310
+path object to path and now what I want
+
+241
+00:08:44,310 --> 00:08:45,839
+to do is I want to create another copy
+
+242
+00:08:45,839 --> 00:08:47,399
+of this text here let me show you where
+
+243
+00:08:47,399 --> 00:08:49,170
+I'm where I'm going with this notice
+
+244
+00:08:49,170 --> 00:08:50,790
+this little reflective effect going
+
+245
+00:08:50,790 --> 00:08:52,140
+through the text there that's what I'm
+
+246
+00:08:52,140 --> 00:08:54,270
+gonna create next so let me take this
+
+247
+00:08:54,270 --> 00:08:56,110
+white text let me duplicate that by
+
+248
+00:08:56,110 --> 00:08:58,300
+Crescent control-d and I'll just make
+
+249
+00:08:58,300 --> 00:09:00,010
+this red so I can differentiate it up
+
+250
+00:09:00,010 --> 00:09:02,230
+against the white and I'm going to apply
+
+251
+00:09:02,230 --> 00:09:04,540
+an offset to this as well so click on
+
+252
+00:09:04,540 --> 00:09:06,610
+the offset path effect and where it says
+
+253
+00:09:06,610 --> 00:09:08,260
+offset I'm just going to press - this
+
+254
+00:09:08,260 --> 00:09:11,529
+time I'm going to click that down maybe
+
+255
+00:09:11,529 --> 00:09:13,660
+not that much right about there is what
+
+256
+00:09:13,660 --> 00:09:14,410
+we're going for
+
+257
+00:09:14,410 --> 00:09:16,540
+again we'll finalize that by going to
+
+258
+00:09:16,540 --> 00:09:20,980
+path object to path and now I'm going to
+
+259
+00:09:20,980 --> 00:09:22,990
+grab the rectangle tool I want to slice
+
+260
+00:09:22,990 --> 00:09:24,459
+this in half here so I'm gonna use the
+
+261
+00:09:24,459 --> 00:09:26,950
+rectangle tool as a reference point put
+
+262
+00:09:26,950 --> 00:09:29,529
+that through there like that let me just
+
+263
+00:09:29,529 --> 00:09:30,880
+make this green so I can see a little
+
+264
+00:09:30,880 --> 00:09:37,240
+better okay that looks pretty good let
+
+265
+00:09:37,240 --> 00:09:40,450
+me go to the Select tool and let me
+
+266
+00:09:40,450 --> 00:09:42,399
+adjust that just a little more hold
+
+267
+00:09:42,399 --> 00:09:44,350
+shift click on the rip on the red text
+
+268
+00:09:44,350 --> 00:09:45,940
+that we have the green box and the red
+
+269
+00:09:45,940 --> 00:09:47,820
+text selected and go to path
+
+270
+00:09:47,820 --> 00:09:50,560
+intersection so what I'm going to do now
+
+271
+00:09:50,560 --> 00:09:52,720
+is I'm going to color this in so let me
+
+272
+00:09:52,720 --> 00:09:55,480
+select all of this and bring the opacity
+
+273
+00:09:55,480 --> 00:09:58,839
+all the way up to 100% and I'm going to
+
+274
+00:09:58,839 --> 00:10:01,240
+use the colors depicted here in the
+
+275
+00:10:01,240 --> 00:10:02,980
+thumbnail or something very close anyway
+
+276
+00:10:02,980 --> 00:10:04,480
+I'm probably not going to get the exact
+
+277
+00:10:04,480 --> 00:10:06,579
+shades but I'll take the other black
+
+278
+00:10:06,579 --> 00:10:08,050
+background here and I'm going to make
+
+279
+00:10:08,050 --> 00:10:11,350
+this a very dark shade of purple like
+
+280
+00:10:11,350 --> 00:10:13,750
+that then I'll take the white text in
+
+281
+00:10:13,750 --> 00:10:15,250
+here I'll make that a light shade of
+
+282
+00:10:15,250 --> 00:10:18,100
+purple maybe something with a little
+
+283
+00:10:18,100 --> 00:10:22,480
+more vibrance that looks good maybe
+
+284
+00:10:22,480 --> 00:10:24,190
+adjust that a little bit and then I want
+
+285
+00:10:24,190 --> 00:10:27,070
+to make this an even lighter shade of
+
+286
+00:10:27,070 --> 00:10:29,110
+purple so let me make this something
+
+287
+00:10:29,110 --> 00:10:33,820
+like that down here I actually know this
+
+288
+00:10:33,820 --> 00:10:35,890
+has to be a medium shade of purple my
+
+289
+00:10:35,890 --> 00:10:40,029
+bad okay so we'll do that okay now we're
+
+290
+00:10:40,029 --> 00:10:41,589
+going to apply to a gradient to this so
+
+291
+00:10:41,589 --> 00:10:42,850
+where it says up here in the fill and
+
+292
+00:10:42,850 --> 00:10:44,949
+stroke menu we're looking for a linear
+
+293
+00:10:44,949 --> 00:10:48,220
+gradient click on that grab the gradient
+
+294
+00:10:48,220 --> 00:10:50,620
+tool which is right here I just like to
+
+295
+00:10:50,620 --> 00:10:53,230
+press G on the keyboard and then take
+
+296
+00:10:53,230 --> 00:10:54,760
+the darker stop and put this towards the
+
+297
+00:10:54,760 --> 00:10:56,050
+top and then take the lighter one and
+
+298
+00:10:56,050 --> 00:10:57,699
+put this towards the bottom and I'm
+
+299
+00:10:57,699 --> 00:11:00,040
+gonna hold ctrl to lock it onto the
+
+300
+00:11:00,040 --> 00:11:01,899
+vertical axis so that we end up with
+
+301
+00:11:01,899 --> 00:11:03,279
+something like that right there now let
+
+302
+00:11:03,279 --> 00:11:05,560
+me go back to the Select tool I want to
+
+303
+00:11:05,560 --> 00:11:06,850
+take this text I'm just gonna make this
+
+304
+00:11:06,850 --> 00:11:07,959
+a little lighter I'm just eyeballing
+
+305
+00:11:07,959 --> 00:11:09,250
+this here I don't
+
+306
+00:11:09,250 --> 00:11:12,130
+like how that looks before so that's
+
+307
+00:11:12,130 --> 00:11:13,360
+looking pretty good right there so
+
+308
+00:11:13,360 --> 00:11:15,220
+that's part one we have the text
+
+309
+00:11:15,220 --> 00:11:17,530
+finished let me click and drag over all
+
+310
+00:11:17,530 --> 00:11:18,940
+of this I want to group it together and
+
+311
+00:11:18,940 --> 00:11:21,310
+press ctrl G on the keyboard I'm going
+
+312
+00:11:21,310 --> 00:11:22,630
+to put this off to the side for now
+
+313
+00:11:22,630 --> 00:11:24,550
+maybe I'll even scale it down like that
+
+314
+00:11:24,550 --> 00:11:27,940
+hold ctrl and scale it down and now
+
+315
+00:11:27,940 --> 00:11:31,150
+we're going to create the emblem so let
+
+316
+00:11:31,150 --> 00:11:34,030
+me grab the actually first let me show
+
+317
+00:11:34,030 --> 00:11:35,560
+you the thumbnail here I'm gonna create
+
+318
+00:11:35,560 --> 00:11:37,060
+this emblem that you see in the
+
+319
+00:11:37,060 --> 00:11:39,130
+background to create that shape I'm
+
+320
+00:11:39,130 --> 00:11:40,270
+actually going to start off with this
+
+321
+00:11:40,270 --> 00:11:41,740
+square so let me show you how that works
+
+322
+00:11:41,740 --> 00:11:42,790
+I'm going to grab this squares and
+
+323
+00:11:42,790 --> 00:11:45,250
+rectangles tool I'm gonna hold ctrl +
+
+324
+00:11:45,250 --> 00:11:46,900
+Shift + click and drag on the cabbage to
+
+325
+00:11:46,900 --> 00:11:48,670
+create a perfectly symmetrical square
+
+326
+00:11:48,670 --> 00:11:50,680
+like that I just want to come up here to
+
+327
+00:11:50,680 --> 00:11:52,480
+where it says make Carter corner sharp
+
+328
+00:11:52,480 --> 00:11:54,880
+make sure that's enabled if you can't
+
+329
+00:11:54,880 --> 00:11:56,170
+click it and it's grayed out that means
+
+330
+00:11:56,170 --> 00:11:56,710
+you're good to go
+
+331
+00:11:56,710 --> 00:11:58,960
+we don't want rounded corners for we're
+
+332
+00:11:58,960 --> 00:12:00,370
+about to do here so it's important to
+
+333
+00:12:00,370 --> 00:12:02,800
+check that and let me convert that to a
+
+334
+00:12:02,800 --> 00:12:06,310
+path by going to path object to path and
+
+335
+00:12:06,310 --> 00:12:07,660
+I'll go to the nodes tool and I want to
+
+336
+00:12:07,660 --> 00:12:09,130
+add some new nodes in here I want to add
+
+337
+00:12:09,130 --> 00:12:10,960
+one right here and add one right there
+
+338
+00:12:10,960 --> 00:12:14,380
+so let me select those nodes click this
+
+339
+00:12:14,380 --> 00:12:15,910
+button up here to the top left that says
+
+340
+00:12:15,910 --> 00:12:17,980
+insert new nodes into selected segments
+
+341
+00:12:17,980 --> 00:12:20,860
+and then come down here do the same
+
+342
+00:12:20,860 --> 00:12:23,890
+thing and then I want to select these
+
+343
+00:12:23,890 --> 00:12:25,150
+two nodes right here the two new ones
+
+344
+00:12:25,150 --> 00:12:27,390
+and up here where it says show
+
+345
+00:12:27,390 --> 00:12:29,350
+transformation handles for selected
+
+346
+00:12:29,350 --> 00:12:30,760
+nodes let's go ahead and turn that on so
+
+347
+00:12:30,760 --> 00:12:33,610
+we can see the transformation because we
+
+348
+00:12:33,610 --> 00:12:35,170
+want to do is we want to hold ctrl down
+
+349
+00:12:35,170 --> 00:12:37,750
+and just hold ctrl and shift actually
+
+350
+00:12:37,750 --> 00:12:40,180
+and just scale them out like that pull
+
+351
+00:12:40,180 --> 00:12:42,760
+them out about that far that's looking
+
+352
+00:12:42,760 --> 00:12:43,270
+pretty good
+
+353
+00:12:43,270 --> 00:12:44,800
+and now I want to take these bottom ones
+
+354
+00:12:44,800 --> 00:12:46,990
+down here and hold ctrl and just scale
+
+355
+00:12:46,990 --> 00:12:49,480
+those down actually let me hold ctrl and
+
+356
+00:12:49,480 --> 00:12:51,820
+shift then I'll hold ctrl and move this
+
+357
+00:12:51,820 --> 00:12:54,760
+up like that that right there is what
+
+358
+00:12:54,760 --> 00:12:56,440
+we're looking for that's sort of it's
+
+359
+00:12:56,440 --> 00:12:58,630
+kind of like a squared shield kind of
+
+360
+00:12:58,630 --> 00:13:00,610
+shape now once you're done making that
+
+361
+00:13:00,610 --> 00:13:02,400
+shape you can go ahead and disable this
+
+362
+00:13:02,400 --> 00:13:04,330
+transformation handle because the next
+
+363
+00:13:04,330 --> 00:13:05,920
+time you go to Newton use the nodes tool
+
+364
+00:13:05,920 --> 00:13:07,839
+that will get in your way if you don't
+
+365
+00:13:07,839 --> 00:13:09,910
+need it so I like to always turn that
+
+366
+00:13:09,910 --> 00:13:11,860
+off when I'm done now let me take this
+
+367
+00:13:11,860 --> 00:13:14,920
+and scale this up a little bit let me
+
+368
+00:13:14,920 --> 00:13:17,110
+take the text actually and I'm gonna
+
+369
+00:13:17,110 --> 00:13:20,080
+raise this to the top and place it over
+
+370
+00:13:20,080 --> 00:13:22,330
+the emblem here let me Center them up on
+
+371
+00:13:22,330 --> 00:13:22,980
+the vertical
+
+372
+00:13:22,980 --> 00:13:25,470
+horizontal-axis like that I'm gonna take
+
+373
+00:13:25,470 --> 00:13:27,240
+just the text and hold ctrl and shift
+
+374
+00:13:27,240 --> 00:13:31,019
+and scale this up like that and I want
+
+375
+00:13:31,019 --> 00:13:32,490
+to take the shield right here and I want
+
+376
+00:13:32,490 --> 00:13:35,730
+to make it the same color as this dark
+
+377
+00:13:35,730 --> 00:13:37,079
+purple down here so I'm gonna grab the
+
+378
+00:13:37,079 --> 00:13:39,449
+dropper which is over here we can just
+
+379
+00:13:39,449 --> 00:13:42,420
+press D on the keyboard there you go and
+
+380
+00:13:42,420 --> 00:13:45,389
+now I want to create these little accent
+
+381
+00:13:45,389 --> 00:13:47,010
+pieces going on the inside of that
+
+382
+00:13:47,010 --> 00:13:49,889
+shield shape so to do that I'm going to
+
+383
+00:13:49,889 --> 00:13:51,630
+create a duplicate of this object I'm
+
+384
+00:13:51,630 --> 00:13:53,070
+going to right click and go to duplicate
+
+385
+00:13:53,070 --> 00:13:57,540
+and I'm going to make this the lighter
+
+386
+00:13:57,540 --> 00:13:59,070
+shade of purple so let me grab the
+
+387
+00:13:59,070 --> 00:14:00,720
+dropper again press D on the keyboard
+
+388
+00:14:00,720 --> 00:14:02,519
+and use this lighter shade as a
+
+389
+00:14:02,519 --> 00:14:07,170
+reference there we go back to the Select
+
+390
+00:14:07,170 --> 00:14:09,420
+tool and now I want to do another offset
+
+391
+00:14:09,420 --> 00:14:11,820
+so let me add a new path effect we're
+
+392
+00:14:11,820 --> 00:14:14,190
+gonna use offset again and I'm going to
+
+393
+00:14:14,190 --> 00:14:16,050
+use the - I'm going to shrink this down
+
+394
+00:14:16,050 --> 00:14:19,019
+like that and what I'm paying attention
+
+395
+00:14:19,019 --> 00:14:20,310
+to here is I want to make sure that the
+
+396
+00:14:20,310 --> 00:14:22,589
+thickness here this the padding between
+
+397
+00:14:22,589 --> 00:14:24,750
+the dark and the light here is pretty
+
+398
+00:14:24,750 --> 00:14:27,449
+much the same or close anyway to the
+
+399
+00:14:27,449 --> 00:14:29,940
+thickness of the wording here I want the
+
+400
+00:14:29,940 --> 00:14:31,620
+I want the padding to be consistent
+
+401
+00:14:31,620 --> 00:14:33,690
+between the shield and the text so you
+
+402
+00:14:33,690 --> 00:14:36,810
+may have to tweak that manually I'm not
+
+403
+00:14:36,810 --> 00:14:38,610
+using exact measurements or anything I'm
+
+404
+00:14:38,610 --> 00:14:40,260
+just going by how it looks on my screen
+
+405
+00:14:40,260 --> 00:14:43,160
+that's good enough so let me go to path
+
+406
+00:14:43,160 --> 00:14:46,589
+object to path and now what I'll do is
+
+407
+00:14:46,589 --> 00:14:48,199
+I'll create a duplicate of this
+
+408
+00:14:48,199 --> 00:14:51,569
+right-click it go to duplicate and I'm
+
+409
+00:14:51,569 --> 00:14:53,279
+just gonna make this a different color
+
+410
+00:14:53,279 --> 00:14:55,769
+for now maybe red bring the opacity down
+
+411
+00:14:55,769 --> 00:14:57,720
+it doesn't matter what color it is let
+
+412
+00:14:57,720 --> 00:14:59,550
+me hold ctrl and shift and scale this
+
+413
+00:14:59,550 --> 00:15:02,850
+down to make it smaller and then I'll go
+
+414
+00:15:02,850 --> 00:15:05,339
+back to the nodes tool up here select
+
+415
+00:15:05,339 --> 00:15:08,490
+these two nodes right here and then turn
+
+416
+00:15:08,490 --> 00:15:10,560
+the transformation handles back on and
+
+417
+00:15:10,560 --> 00:15:12,540
+then hold ctrl and shift and scale these
+
+418
+00:15:12,540 --> 00:15:15,510
+nodes up like that so that they surpass
+
+419
+00:15:15,510 --> 00:15:19,110
+so that they extend beyond the the white
+
+420
+00:15:19,110 --> 00:15:21,209
+via the lighter purple shape there which
+
+421
+00:15:21,209 --> 00:15:21,990
+is what we're going for
+
+422
+00:15:21,990 --> 00:15:24,420
+let me turn those off go back to the
+
+423
+00:15:24,420 --> 00:15:27,060
+Select tool hold shift click on the
+
+424
+00:15:27,060 --> 00:15:28,230
+other shape so we have them both
+
+425
+00:15:28,230 --> 00:15:31,319
+selected and go to path difference and
+
+426
+00:15:31,319 --> 00:15:33,060
+now we want them to be two different
+
+427
+00:15:33,060 --> 00:15:35,430
+colors so I'm going to go to path break
+
+428
+00:15:35,430 --> 00:15:36,840
+apart to break them apart and
+
+429
+00:15:36,840 --> 00:15:41,000
+separate pieces paths break apart and
+
+430
+00:15:41,000 --> 00:15:43,170
+let me click off of that to deselect
+
+431
+00:15:43,170 --> 00:15:44,760
+everything I'm gonna take this one right
+
+432
+00:15:44,760 --> 00:15:46,680
+here and make this the medium shade of
+
+433
+00:15:46,680 --> 00:15:48,000
+purple which is right here so let me
+
+434
+00:15:48,000 --> 00:15:49,860
+grab the dropper again just press D on
+
+435
+00:15:49,860 --> 00:15:52,590
+the keyboard and just click on that and
+
+436
+00:15:52,590 --> 00:15:55,770
+there to give that that same color maybe
+
+437
+00:15:55,770 --> 00:15:58,020
+a little lighter there we go
+
+438
+00:15:58,020 --> 00:16:00,540
+I'll grab the select tool take this text
+
+439
+00:16:00,540 --> 00:16:03,360
+item raise it to the top once again and
+
+440
+00:16:03,360 --> 00:16:06,060
+as you can see we are on our way we just
+
+441
+00:16:06,060 --> 00:16:08,160
+have to now create the controller
+
+442
+00:16:08,160 --> 00:16:10,740
+illustration so let me bring that in
+
+443
+00:16:10,740 --> 00:16:12,480
+here as you can see now now we're going
+
+444
+00:16:12,480 --> 00:16:14,010
+to create the controller the shape of
+
+445
+00:16:14,010 --> 00:16:15,960
+this controller is a very unique shape
+
+446
+00:16:15,960 --> 00:16:18,330
+there's no tool that makes that specific
+
+447
+00:16:18,330 --> 00:16:19,470
+shape and Inkscape so we're gonna
+
+448
+00:16:19,470 --> 00:16:22,200
+manually create it using ellipses so let
+
+449
+00:16:22,200 --> 00:16:25,110
+me move that off the screen we can do
+
+450
+00:16:25,110 --> 00:16:27,240
+now is you can take this and just hold
+
+451
+00:16:27,240 --> 00:16:29,190
+ctrl and shift to scale that down put it
+
+452
+00:16:29,190 --> 00:16:31,140
+off to the side for now may be a good
+
+453
+00:16:31,140 --> 00:16:33,570
+idea to save your work at this point in
+
+454
+00:16:33,570 --> 00:16:35,790
+case Inkscape crashes you don't want to
+
+455
+00:16:35,790 --> 00:16:37,080
+lose all of this that you've been
+
+456
+00:16:37,080 --> 00:16:38,520
+working on so I'm actually gonna do that
+
+457
+00:16:38,520 --> 00:16:41,370
+real quick myself okay so now that I've
+
+458
+00:16:41,370 --> 00:16:42,930
+saved my work let's create the
+
+459
+00:16:42,930 --> 00:16:45,240
+controller now so I'm gonna grab the
+
+460
+00:16:45,240 --> 00:16:47,670
+circles and ellipses tool I'm gonna
+
+461
+00:16:47,670 --> 00:16:49,110
+click and drag to create an ellipse like
+
+462
+00:16:49,110 --> 00:16:51,300
+that and while I'm creating this shape
+
+463
+00:16:51,300 --> 00:16:52,860
+I'm just gonna for now make this black
+
+464
+00:16:52,860 --> 00:16:54,930
+and I'm gonna make sure the opacity is
+
+465
+00:16:54,930 --> 00:16:56,220
+down in half like that because we're
+
+466
+00:16:56,220 --> 00:16:57,300
+gonna be able to see through these
+
+467
+00:16:57,300 --> 00:16:59,070
+shapes I'm going to convert this to a
+
+468
+00:16:59,070 --> 00:17:01,920
+path by going to path object to path and
+
+469
+00:17:01,920 --> 00:17:04,109
+then I'm gonna grab the edit pads by
+
+470
+00:17:04,109 --> 00:17:06,420
+nodes tool and I want to take these two
+
+471
+00:17:06,420 --> 00:17:08,430
+nodes up here and hold ctrl and just
+
+472
+00:17:08,430 --> 00:17:10,260
+scale them up like that not too much
+
+473
+00:17:10,260 --> 00:17:12,180
+maybe up about that much and then I'll
+
+474
+00:17:12,180 --> 00:17:14,040
+take this node and hold ctrl and scale
+
+475
+00:17:14,040 --> 00:17:16,470
+that down a little bit now let me grab
+
+476
+00:17:16,470 --> 00:17:18,390
+this select tool I'm gonna make this a
+
+477
+00:17:18,390 --> 00:17:20,160
+little wider again I'm just eyeballing
+
+478
+00:17:20,160 --> 00:17:21,720
+us it doesn't have to be exactly like
+
+479
+00:17:21,720 --> 00:17:23,430
+what you see on my screen just something
+
+480
+00:17:23,430 --> 00:17:25,410
+there abouts is pretty good I'm gonna
+
+481
+00:17:25,410 --> 00:17:27,329
+click on this so I get the rotation
+
+482
+00:17:27,329 --> 00:17:29,100
+handles I'm gonna hold ctrl to take this
+
+483
+00:17:29,100 --> 00:17:30,870
+little hand on the top right corner and
+
+484
+00:17:30,870 --> 00:17:33,810
+I'm gonna rotate this clockwise one to
+
+485
+00:17:33,810 --> 00:17:35,190
+two steps like that
+
+486
+00:17:35,190 --> 00:17:37,350
+now let me duplicate that by pressing
+
+487
+00:17:37,350 --> 00:17:39,810
+ctrl D I want to flip this horizontally
+
+488
+00:17:39,810 --> 00:17:42,600
+and hold ctrl and move this over here
+
+489
+00:17:42,600 --> 00:17:46,080
+like that and now I want to grab the
+
+490
+00:17:46,080 --> 00:17:47,820
+ellipses tool again and I want to create
+
+491
+00:17:47,820 --> 00:17:48,880
+another ellipse
+
+492
+00:17:48,880 --> 00:17:53,340
+going through the inside here like this
+
+493
+00:17:53,490 --> 00:17:56,350
+make sure that this is oops make sure
+
+494
+00:17:56,350 --> 00:17:57,640
+this is going through to the other side
+
+495
+00:17:57,640 --> 00:18:03,400
+like that that's looking pretty good now
+
+496
+00:18:03,400 --> 00:18:04,360
+I just want to make sure that these
+
+497
+00:18:04,360 --> 00:18:06,309
+three shapes are spaced apart evenly
+
+498
+00:18:06,309 --> 00:18:07,900
+otherwise you'll get a little bit of
+
+499
+00:18:07,900 --> 00:18:09,760
+asymmetry here so let me select all
+
+500
+00:18:09,760 --> 00:18:11,799
+three of those and down here in the
+
+501
+00:18:11,799 --> 00:18:13,840
+align and distribute menu and under the
+
+502
+00:18:13,840 --> 00:18:15,460
+distribute panel you should see
+
+503
+00:18:15,460 --> 00:18:17,200
+something that says make horizontal gaps
+
+504
+00:18:17,200 --> 00:18:18,850
+between objects equal go ahead and click
+
+505
+00:18:18,850 --> 00:18:21,490
+on that and now we can unify this
+
+506
+00:18:21,490 --> 00:18:25,150
+together by going to path Union and we
+
+507
+00:18:25,150 --> 00:18:27,429
+have the beginning of a controller shape
+
+508
+00:18:27,429 --> 00:18:29,710
+but if you notice it's not quite there
+
+509
+00:18:29,710 --> 00:18:31,270
+yet if you notice on the thumbnail here
+
+510
+00:18:31,270 --> 00:18:33,850
+the controller shape dips down like that
+
+511
+00:18:33,850 --> 00:18:35,620
+and then it dips upward like that so to
+
+512
+00:18:35,620 --> 00:18:36,970
+do that we're gonna have to manually
+
+513
+00:18:36,970 --> 00:18:39,100
+create that shape so let me grab the
+
+514
+00:18:39,100 --> 00:18:41,080
+Edit path by nodes tool again and I'm
+
+515
+00:18:41,080 --> 00:18:42,370
+gonna take this note up here I'm gonna
+
+516
+00:18:42,370 --> 00:18:44,080
+click and drag this down actually
+
+517
+00:18:44,080 --> 00:18:46,090
+there's two nodes there's one cigar grab
+
+518
+00:18:46,090 --> 00:18:47,919
+both of those let me undo that with ctrl
+
+519
+00:18:47,919 --> 00:18:51,010
+Z if you end up having two nodes there
+
+520
+00:18:51,010 --> 00:18:53,080
+like I do just click and drag over both
+
+521
+00:18:53,080 --> 00:18:55,510
+of those and combine them together join
+
+522
+00:18:55,510 --> 00:18:57,940
+selected nodes there we go and then hold
+
+523
+00:18:57,940 --> 00:18:59,559
+ctrl and just click and drag them down
+
+524
+00:18:59,559 --> 00:19:02,409
+like that and then just take this handle
+
+525
+00:19:02,409 --> 00:19:04,900
+and make it adjust it so that it's this
+
+526
+00:19:04,900 --> 00:19:06,610
+line right here is going flush with the
+
+527
+00:19:06,610 --> 00:19:08,799
+rest of it don't worry about this side
+
+528
+00:19:08,799 --> 00:19:10,270
+we're actually gonna exclude this side
+
+529
+00:19:10,270 --> 00:19:13,780
+and duplicate this left side let's take
+
+530
+00:19:13,780 --> 00:19:15,309
+this one and do the same thing move this
+
+531
+00:19:15,309 --> 00:19:19,020
+up here like that adjust this handle
+
+532
+00:19:19,020 --> 00:19:21,400
+there we go now what I want to do is
+
+533
+00:19:21,400 --> 00:19:23,799
+hold ctrl and click on that node so that
+
+534
+00:19:23,799 --> 00:19:25,510
+it makes it automatically smooth I want
+
+535
+00:19:25,510 --> 00:19:27,070
+to do the same thing up here hold ctrl
+
+536
+00:19:27,070 --> 00:19:29,559
+click on this node I'm actually gonna
+
+537
+00:19:29,559 --> 00:19:33,010
+bring this up a little more there we go
+
+538
+00:19:33,010 --> 00:19:34,780
+now what I want to do is I want to
+
+539
+00:19:34,780 --> 00:19:36,640
+temporarily turn on snapping where it
+
+540
+00:19:36,640 --> 00:19:38,429
+says enable snapping turn that on and
+
+541
+00:19:38,429 --> 00:19:40,750
+over here where it says we're gonna want
+
+542
+00:19:40,750 --> 00:19:42,250
+this one that says snap to custom nodes
+
+543
+00:19:42,250 --> 00:19:43,929
+and then this one that says snap to
+
+544
+00:19:43,929 --> 00:19:46,720
+smooth nodes and I'm gonna grab the
+
+545
+00:19:46,720 --> 00:19:49,690
+Bezier pen over here or you could press
+
+546
+00:19:49,690 --> 00:19:51,220
+B on the keyboard I'm gonna snap to that
+
+547
+00:19:51,220 --> 00:19:53,460
+middle node that we just created and
+
+548
+00:19:53,460 --> 00:19:55,690
+click and then bring the line straight
+
+549
+00:19:55,690 --> 00:19:57,460
+down to the other node click on that and
+
+550
+00:19:57,460 --> 00:19:59,710
+then finish this shape up going around
+
+551
+00:19:59,710 --> 00:20:02,140
+the outside of the controller here and
+
+552
+00:20:02,140 --> 00:20:02,380
+that
+
+553
+00:20:02,380 --> 00:20:04,630
+the starting point now I want to grab
+
+554
+00:20:04,630 --> 00:20:08,200
+this select tool hold shift click on the
+
+555
+00:20:08,200 --> 00:20:12,190
+controller and go to path difference and
+
+556
+00:20:12,190 --> 00:20:14,140
+now we have half of a controller so what
+
+557
+00:20:14,140 --> 00:20:14,770
+I'm going to do is I'm going to
+
+558
+00:20:14,770 --> 00:20:16,300
+duplicate that right click go to
+
+559
+00:20:16,300 --> 00:20:20,470
+duplicate flip it horizontally and then
+
+560
+00:20:20,470 --> 00:20:22,390
+snap it on to the left side over here so
+
+561
+00:20:22,390 --> 00:20:23,830
+that we end up with this symmetrical
+
+562
+00:20:23,830 --> 00:20:27,190
+shape now let me turn off the snapping
+
+563
+00:20:27,190 --> 00:20:28,270
+now so that it doesn't get in the way
+
+564
+00:20:28,270 --> 00:20:30,430
+for the rest of the way and I want to
+
+565
+00:20:30,430 --> 00:20:31,990
+click and drag over both of those and go
+
+566
+00:20:31,990 --> 00:20:34,780
+to path Union and we now have our
+
+567
+00:20:34,780 --> 00:20:37,180
+controller shape so now it's time to add
+
+568
+00:20:37,180 --> 00:20:41,320
+some buttons and some some simulated
+
+569
+00:20:41,320 --> 00:20:43,030
+lighting effects in here a little bit of
+
+570
+00:20:43,030 --> 00:20:45,070
+shading and some buttons so to do that
+
+571
+00:20:45,070 --> 00:20:47,340
+let's first add these buttons down here
+
+572
+00:20:47,340 --> 00:20:50,890
+grab the circles and ellipses tool hold
+
+573
+00:20:50,890 --> 00:20:53,200
+ctrl and shift create a perfectly round
+
+574
+00:20:53,200 --> 00:20:57,130
+circle put that right there and then I
+
+575
+00:20:57,130 --> 00:20:58,900
+want to duplicate that by pressing ctrl
+
+576
+00:20:58,900 --> 00:21:00,550
+D instead of right-clicking and going to
+
+577
+00:21:00,550 --> 00:21:02,110
+duplicate we're just going to press ctrl
+
+578
+00:21:02,110 --> 00:21:04,660
+D just easier to do that make this red
+
+579
+00:21:04,660 --> 00:21:07,600
+just for now hold ctrl ctrl and shift
+
+580
+00:21:07,600 --> 00:21:10,390
+scale that down and now I want to take
+
+581
+00:21:10,390 --> 00:21:12,120
+both of those and group them together
+
+582
+00:21:12,120 --> 00:21:14,980
+and I want to duplicate that by pressing
+
+583
+00:21:14,980 --> 00:21:17,440
+ctrl D again hold ctrl and click and
+
+584
+00:21:17,440 --> 00:21:18,760
+drag these over here so that we have a
+
+585
+00:21:18,760 --> 00:21:20,800
+copy over here and again we want to make
+
+586
+00:21:20,800 --> 00:21:22,480
+sure that this is centered up on the
+
+587
+00:21:22,480 --> 00:21:25,380
+controller so let's group those together
+
+588
+00:21:25,380 --> 00:21:28,090
+with that group button up there hold
+
+589
+00:21:28,090 --> 00:21:30,340
+shift click on the controller and then
+
+590
+00:21:30,340 --> 00:21:31,720
+again just make sure they're centered up
+
+591
+00:21:31,720 --> 00:21:36,250
+on the vertical axis like that I might
+
+592
+00:21:36,250 --> 00:21:38,770
+even make these a little bigger bring
+
+593
+00:21:38,770 --> 00:21:39,910
+them down a little more okay that looks
+
+594
+00:21:39,910 --> 00:21:40,390
+pretty good
+
+595
+00:21:40,390 --> 00:21:44,890
+now I'm gonna ungroup those actually no
+
+596
+00:21:44,890 --> 00:21:46,450
+there we go this is the ungroup button
+
+597
+00:21:46,450 --> 00:21:48,040
+just you'll have to click it a few times
+
+598
+00:21:48,040 --> 00:21:49,930
+because it's grouped several layers deep
+
+599
+00:21:49,930 --> 00:21:51,550
+so we'll have to do like a deep ungroup
+
+600
+00:21:51,550 --> 00:21:55,060
+on that what we can do now is let's
+
+601
+00:21:55,060 --> 00:21:57,520
+create the D pad over here and the
+
+602
+00:21:57,520 --> 00:21:58,720
+buttons over here so let me grab the
+
+603
+00:21:58,720 --> 00:22:01,740
+squares and rectangles tool zoom back in
+
+604
+00:22:01,740 --> 00:22:04,090
+just create a very simple very simple
+
+605
+00:22:04,090 --> 00:22:07,330
+rectangle like that let me zoom in I'm
+
+606
+00:22:07,330 --> 00:22:08,920
+gonna use this little rounded node at
+
+607
+00:22:08,920 --> 00:22:11,020
+the top right to make this to make the
+
+608
+00:22:11,020 --> 00:22:12,550
+edges of that rounded and then I'll take
+
+609
+00:22:12,550 --> 00:22:14,200
+this note up here and bring that in life
+
+610
+00:22:14,200 --> 00:22:16,120
+like that so that we end up with
+
+611
+00:22:16,120 --> 00:22:19,390
+slightly rounded rectangle a slightly
+
+612
+00:22:19,390 --> 00:22:22,420
+rounded rectangle like that right click
+
+613
+00:22:22,420 --> 00:22:23,860
+that go to duplicate and then we're just
+
+614
+00:22:23,860 --> 00:22:25,540
+gonna rotate that 90 degrees with this
+
+615
+00:22:25,540 --> 00:22:27,760
+button that says rotate selection 90
+
+616
+00:22:27,760 --> 00:22:31,600
+degrees clockwise there we go I actually
+
+617
+00:22:31,600 --> 00:22:34,090
+don't like how that button how this came
+
+618
+00:22:34,090 --> 00:22:35,860
+out so emotionally to delete that I'm
+
+619
+00:22:35,860 --> 00:22:37,750
+going to grab the nodes tool this is a
+
+620
+00:22:37,750 --> 00:22:39,250
+little too elongated so I'm going to
+
+621
+00:22:39,250 --> 00:22:42,280
+convert this to a path path object to
+
+622
+00:22:42,280 --> 00:22:43,720
+path this is all optional you don't have
+
+623
+00:22:43,720 --> 00:22:45,160
+to do it what i'm doing here i'm just
+
+624
+00:22:45,160 --> 00:22:47,140
+being meticulous at this point i'm gonna
+
+625
+00:22:47,140 --> 00:22:49,240
+take those nodes bring them up a little
+
+626
+00:22:49,240 --> 00:22:51,460
+bit with the arrow keys and i'll do the
+
+627
+00:22:51,460 --> 00:22:54,910
+same thing again control d rotate it 90
+
+628
+00:22:54,910 --> 00:22:56,770
+degrees and that looks a little better
+
+629
+00:22:56,770 --> 00:22:59,560
+i'll just go with that select both of
+
+630
+00:22:59,560 --> 00:23:02,680
+them go to path Union now let me just
+
+631
+00:23:02,680 --> 00:23:04,150
+scale that down a little bit put that
+
+632
+00:23:04,150 --> 00:23:05,830
+right here now I want to put a little
+
+633
+00:23:05,830 --> 00:23:07,960
+circle behind this but behind this as
+
+634
+00:23:07,960 --> 00:23:09,250
+well if I bring this back in you'll
+
+635
+00:23:09,250 --> 00:23:11,230
+notice there's a circle behind the d-pad
+
+636
+00:23:11,230 --> 00:23:13,510
+and a circle behind the button so let me
+
+637
+00:23:13,510 --> 00:23:19,150
+create a circle control and shift to
+
+638
+00:23:19,150 --> 00:23:20,560
+make a perfectly round circle I'm going
+
+639
+00:23:20,560 --> 00:23:22,150
+to make this it's gonna make this green
+
+640
+00:23:22,150 --> 00:23:25,030
+for now layer this beneath the d-pad
+
+641
+00:23:25,030 --> 00:23:27,370
+with the button up here that says lower
+
+642
+00:23:27,370 --> 00:23:30,160
+selection one step hold shift click on
+
+643
+00:23:30,160 --> 00:23:31,570
+that and just make sure to Center it up
+
+644
+00:23:31,570 --> 00:23:33,430
+on the vertical and horizontal axis like
+
+645
+00:23:33,430 --> 00:23:38,050
+that I'll move this up here I'm gonna
+
+646
+00:23:38,050 --> 00:23:40,060
+make this a little bigger then I'll take
+
+647
+00:23:40,060 --> 00:23:42,310
+this green circle duplicate that by
+
+648
+00:23:42,310 --> 00:23:44,980
+pressing control D and hold ctrl to move
+
+649
+00:23:44,980 --> 00:23:46,420
+this over here and now we can create
+
+650
+00:23:46,420 --> 00:23:48,760
+some buttons so let me create more
+
+651
+00:23:48,760 --> 00:23:51,010
+circles over here ctrl and shift I'll
+
+652
+00:23:51,010 --> 00:23:56,110
+make that red I just want to Center this
+
+653
+00:23:56,110 --> 00:23:57,880
+up make sure it's centered within the
+
+654
+00:23:57,880 --> 00:24:00,790
+circle there take this circle control D
+
+655
+00:24:00,790 --> 00:24:04,260
+to duplicate it bring this one down here
+
+656
+00:24:05,100 --> 00:24:07,450
+shift-click both of them and then group
+
+657
+00:24:07,450 --> 00:24:11,590
+them together ctrl D to duplicate click
+
+658
+00:24:11,590 --> 00:24:13,330
+on it again to get the rotation handles
+
+659
+00:24:13,330 --> 00:24:15,550
+and then hold ctrl and rotate this
+
+660
+00:24:15,550 --> 00:24:17,650
+counter or clockwise rather until you
+
+661
+00:24:17,650 --> 00:24:19,840
+end up with buttons going in all four
+
+662
+00:24:19,840 --> 00:24:22,210
+directions like that and that's what
+
+663
+00:24:22,210 --> 00:24:23,620
+we're looking for so let me hold shift
+
+664
+00:24:23,620 --> 00:24:25,630
+and click on both of those I want to
+
+665
+00:24:25,630 --> 00:24:27,160
+group them together
+
+666
+00:24:27,160 --> 00:24:28,930
+shift-click on the circle and center
+
+667
+00:24:28,930 --> 00:24:30,280
+that up within the circle and the
+
+668
+00:24:30,280 --> 00:24:33,880
+vertical and horizontal axis and what
+
+669
+00:24:33,880 --> 00:24:35,290
+I'm gonna do now is now that we have our
+
+670
+00:24:35,290 --> 00:24:39,160
+buttons in place I want to add I want to
+
+671
+00:24:39,160 --> 00:24:41,020
+add some more details in here so first
+
+672
+00:24:41,020 --> 00:24:42,790
+let me just click and drag over all of
+
+673
+00:24:42,790 --> 00:24:44,530
+this and do a deep on a group let me
+
+674
+00:24:44,530 --> 00:24:45,820
+just make sure everything is ungrouped
+
+675
+00:24:45,820 --> 00:24:49,720
+here and now what I'm going to do is I'm
+
+676
+00:24:49,720 --> 00:24:52,780
+going to let's click and drag over
+
+677
+00:24:52,780 --> 00:24:54,250
+everything let's bring the opacity all
+
+678
+00:24:54,250 --> 00:24:56,620
+the way up like that let's take the
+
+679
+00:24:56,620 --> 00:24:58,420
+controller and make this the medium
+
+680
+00:24:58,420 --> 00:25:02,080
+shade of purple which is over here grab
+
+681
+00:25:02,080 --> 00:25:03,610
+press D on the keyboard to grab the
+
+682
+00:25:03,610 --> 00:25:09,730
+dropper there we go go back to the
+
+683
+00:25:09,730 --> 00:25:11,440
+Select tool I want to make this I want
+
+684
+00:25:11,440 --> 00:25:12,730
+to make these black circles the same
+
+685
+00:25:12,730 --> 00:25:14,020
+shade as well so I'm gonna press D to
+
+686
+00:25:14,020 --> 00:25:16,950
+get the dropper back to the Select tool
+
+687
+00:25:16,950 --> 00:25:21,010
+D for the dropper there we go and now I
+
+688
+00:25:21,010 --> 00:25:22,450
+want to go back to the Select tool I
+
+689
+00:25:22,450 --> 00:25:25,960
+want to take this D pad these joysticks
+
+690
+00:25:25,960 --> 00:25:27,250
+over here and these buttons and make
+
+691
+00:25:27,250 --> 00:25:28,870
+them the same shade as a dark purple
+
+692
+00:25:28,870 --> 00:25:30,940
+here so let me shift click all of that
+
+693
+00:25:30,940 --> 00:25:31,990
+I'm gonna make sure I have all of that
+
+694
+00:25:31,990 --> 00:25:34,660
+selected and then I'll come over here
+
+695
+00:25:34,660 --> 00:25:37,420
+and again D for the dropper and make
+
+696
+00:25:37,420 --> 00:25:39,190
+this the dark shade of purple like that
+
+697
+00:25:39,190 --> 00:25:40,990
+that's what I'm going for it
+
+698
+00:25:40,990 --> 00:25:43,450
+and now back to the select tool let's
+
+699
+00:25:43,450 --> 00:25:46,120
+take this green shape hold shift grab
+
+700
+00:25:46,120 --> 00:25:49,390
+this green shape hold shift grab this
+
+701
+00:25:49,390 --> 00:25:51,670
+circle down here and then this circle
+
+702
+00:25:51,670 --> 00:25:52,930
+down here as well and make this the
+
+703
+00:25:52,930 --> 00:25:55,270
+light shade of purple so once again
+
+704
+00:25:55,270 --> 00:25:56,770
+press D on the keyboard to grab the
+
+705
+00:25:56,770 --> 00:26:01,600
+dropper there we go and now we have that
+
+706
+00:26:01,600 --> 00:26:03,100
+colored in the final part of the
+
+707
+00:26:03,100 --> 00:26:04,770
+controller here is to add these little
+
+708
+00:26:04,770 --> 00:26:07,120
+these little shading these little this
+
+709
+00:26:07,120 --> 00:26:09,220
+little shading effect here so let me
+
+710
+00:26:09,220 --> 00:26:11,050
+take this controller object right here
+
+711
+00:26:11,050 --> 00:26:13,210
+I want to duplicate that by pressing
+
+712
+00:26:13,210 --> 00:26:16,690
+control D I want to make this green or
+
+713
+00:26:16,690 --> 00:26:18,130
+whatever color you want just some kind
+
+714
+00:26:18,130 --> 00:26:19,630
+of contrasting color I want to bring the
+
+715
+00:26:19,630 --> 00:26:22,570
+opacity down like that and once again
+
+716
+00:26:22,570 --> 00:26:24,130
+we're going to use the offset path
+
+717
+00:26:24,130 --> 00:26:25,390
+effect so I'm going to add a new path
+
+718
+00:26:25,390 --> 00:26:27,550
+effect right back to offset over here
+
+719
+00:26:27,550 --> 00:26:29,440
+and where it says offset I'm just gonna
+
+720
+00:26:29,440 --> 00:26:32,680
+use this minus symbol make this a little
+
+721
+00:26:32,680 --> 00:26:35,580
+smaller like that
+
+722
+00:26:36,320 --> 00:26:38,460
+that's what we're looking for now let me
+
+723
+00:26:38,460 --> 00:26:40,410
+finalise that I actually make it a
+
+724
+00:26:40,410 --> 00:26:41,160
+little smaller
+
+725
+00:26:41,160 --> 00:26:42,750
+now let me finalise that by going to
+
+726
+00:26:42,750 --> 00:26:46,050
+path object to path and then let me
+
+727
+00:26:46,050 --> 00:26:48,060
+duplicate this by pressing ctrl D and
+
+728
+00:26:48,060 --> 00:26:49,740
+I'll make this red and I'm just going to
+
+729
+00:26:49,740 --> 00:26:53,100
+move this up up like this I'm gonna hold
+
+730
+00:26:53,100 --> 00:26:55,370
+ctrl and just scale that up a little bit
+
+731
+00:26:55,370 --> 00:26:58,370
+when I'm paying attention to here is the
+
+732
+00:26:58,370 --> 00:27:01,430
+little piece that's extending from
+
+733
+00:27:01,430 --> 00:27:04,350
+little green piece that's extending from
+
+734
+00:27:04,350 --> 00:27:06,180
+underneath the red object here that's
+
+735
+00:27:06,180 --> 00:27:09,270
+gonna make up the lighting effect so I'm
+
+736
+00:27:09,270 --> 00:27:11,130
+gonna go with I'm gonna go with the
+
+737
+00:27:11,130 --> 00:27:13,080
+positioning like that hold shift click
+
+738
+00:27:13,080 --> 00:27:15,140
+on the green object and go to path
+
+739
+00:27:15,140 --> 00:27:18,180
+difference so now I just want to keep
+
+740
+00:27:18,180 --> 00:27:19,830
+this object here I want to get rid of
+
+741
+00:27:19,830 --> 00:27:21,450
+this so let me break them apart by going
+
+742
+00:27:21,450 --> 00:27:24,180
+to path break apart click off of it to
+
+743
+00:27:24,180 --> 00:27:25,740
+deselect everything and just take this
+
+744
+00:27:25,740 --> 00:27:28,080
+and get rid of it I'm gonna take this
+
+745
+00:27:28,080 --> 00:27:30,780
+object bring the opacity all the way up
+
+746
+00:27:30,780 --> 00:27:33,240
+and make this the same color that this
+
+747
+00:27:33,240 --> 00:27:34,620
+is right here so once again we're
+
+748
+00:27:34,620 --> 00:27:36,300
+grabbing the dropper tool press D on the
+
+749
+00:27:36,300 --> 00:27:39,900
+keyboard make that the same color and
+
+750
+00:27:39,900 --> 00:27:41,540
+now I could just duplicate this object
+
+751
+00:27:41,540 --> 00:27:44,880
+ctrl D flip it horizontally and then
+
+752
+00:27:44,880 --> 00:27:46,020
+just place it over here on the other
+
+753
+00:27:46,020 --> 00:27:48,870
+side like that and then finally I'm
+
+754
+00:27:48,870 --> 00:27:50,310
+gonna put one more piece right here so
+
+755
+00:27:50,310 --> 00:27:53,850
+let me duplicate this object again make
+
+756
+00:27:53,850 --> 00:27:56,880
+this green bring the opacity down and
+
+757
+00:27:56,880 --> 00:27:59,810
+come back over here to the path effects
+
+758
+00:27:59,810 --> 00:28:03,690
+menu and add another offset bring this
+
+759
+00:28:03,690 --> 00:28:08,970
+down right about there roughly the same
+
+760
+00:28:08,970 --> 00:28:11,070
+as we did before finalize that by going
+
+761
+00:28:11,070 --> 00:28:14,340
+to path object to path and then I want
+
+762
+00:28:14,340 --> 00:28:16,680
+to duplicate this control D turn this
+
+763
+00:28:16,680 --> 00:28:18,960
+red and then I'm just gonna take this
+
+764
+00:28:18,960 --> 00:28:20,280
+bottom arrow and click and drag that
+
+765
+00:28:20,280 --> 00:28:22,110
+down like this and I'm going to hold
+
+766
+00:28:22,110 --> 00:28:23,880
+ctrl and bring this up here like that
+
+767
+00:28:23,880 --> 00:28:25,830
+and again when I'm paying attention to
+
+768
+00:28:25,830 --> 00:28:27,960
+is right here this little green part
+
+769
+00:28:27,960 --> 00:28:30,860
+that's it's excluded from the rest of it
+
+770
+00:28:30,860 --> 00:28:33,270
+I'm gonna hold shift click on the green
+
+771
+00:28:33,270 --> 00:28:34,830
+object so we haven't both selected and
+
+772
+00:28:34,830 --> 00:28:38,670
+go to path difference and then we can go
+
+773
+00:28:38,670 --> 00:28:43,140
+to path break apart hold shift and click
+
+774
+00:28:43,140 --> 00:28:44,370
+on this little piece right here to
+
+775
+00:28:44,370 --> 00:28:45,960
+deselect it though we only have these
+
+776
+00:28:45,960 --> 00:28:47,520
+two pieces selected then I could press
+
+777
+00:28:47,520 --> 00:28:48,690
+Delete on the keyboard to get rid of
+
+778
+00:28:48,690 --> 00:28:49,080
+them
+
+779
+00:28:49,080 --> 00:28:52,530
+and now I want to take this object bring
+
+780
+00:28:52,530 --> 00:28:54,510
+the opacity up and once again we're
+
+781
+00:28:54,510 --> 00:28:55,890
+grabbing the dropper and making that the
+
+782
+00:28:55,890 --> 00:28:57,870
+same shade so okay so now the controller
+
+783
+00:28:57,870 --> 00:28:59,460
+is finished we have all of our
+
+784
+00:28:59,460 --> 00:29:02,430
+individual objects finished I'm going to
+
+785
+00:29:02,430 --> 00:29:04,530
+click and drag over everything over the
+
+786
+00:29:04,530 --> 00:29:07,430
+controller rather group it together
+
+787
+00:29:07,430 --> 00:29:09,930
+let's bring it over here I'm gonna hold
+
+788
+00:29:09,930 --> 00:29:11,580
+ctrl and shift and scale it down it's
+
+789
+00:29:11,580 --> 00:29:16,380
+time to put everything together now the
+
+790
+00:29:16,380 --> 00:29:21,270
+place that's right over here I'm sizing
+
+791
+00:29:21,270 --> 00:29:23,940
+it up so that it fits within here nicely
+
+792
+00:29:23,940 --> 00:29:25,740
+but then the top parts of the controller
+
+793
+00:29:25,740 --> 00:29:29,040
+are expanding beyond the emblem they're
+
+794
+00:29:29,040 --> 00:29:30,660
+just a little bit not by much but just a
+
+795
+00:29:30,660 --> 00:29:32,700
+little bit and one thing out one more
+
+796
+00:29:32,700 --> 00:29:33,780
+thing I want to do for the controller
+
+797
+00:29:33,780 --> 00:29:35,340
+here if you notice I have a little bit
+
+798
+00:29:35,340 --> 00:29:37,110
+of a I have some padding going around
+
+799
+00:29:37,110 --> 00:29:38,400
+the controller so I want to do that as
+
+800
+00:29:38,400 --> 00:29:39,720
+well I want to add some padding around
+
+801
+00:29:39,720 --> 00:29:41,880
+there first let me Center it up with the
+
+802
+00:29:41,880 --> 00:29:43,410
+idiot with the emblem here I'm gonna
+
+803
+00:29:43,410 --> 00:29:44,940
+hold shift and click on the emblem and
+
+804
+00:29:44,940 --> 00:29:46,860
+just make sure it's centered up on the
+
+805
+00:29:46,860 --> 00:29:49,890
+vertical axis like that now I can click
+
+806
+00:29:49,890 --> 00:29:52,770
+on the controller let's ungroup it click
+
+807
+00:29:52,770 --> 00:29:55,470
+off at the deselect let's take the
+
+808
+00:29:55,470 --> 00:29:57,660
+controller shape right here duplicate
+
+809
+00:29:57,660 --> 00:30:00,000
+that by pressing ctrl D I want to make
+
+810
+00:30:00,000 --> 00:30:02,490
+this the same shade as the dark purple
+
+811
+00:30:02,490 --> 00:30:04,440
+here let me just grab the dropper tool
+
+812
+00:30:04,440 --> 00:30:06,780
+by pressing D make that the same color
+
+813
+00:30:06,780 --> 00:30:09,210
+back to the select tool and now I'm just
+
+814
+00:30:09,210 --> 00:30:10,710
+going to lower this until it goes
+
+815
+00:30:10,710 --> 00:30:12,060
+beneath the controller there so I'm
+
+816
+00:30:12,060 --> 00:30:15,150
+gonna lower it one step at a time until
+
+817
+00:30:15,150 --> 00:30:22,560
+it goes beneath the controller there we
+
+818
+00:30:22,560 --> 00:30:26,310
+go and then we'll add an offset and path
+
+819
+00:30:26,310 --> 00:30:29,580
+effect offset and I'm going to increase
+
+820
+00:30:29,580 --> 00:30:32,640
+this offset and again what I'm paying
+
+821
+00:30:32,640 --> 00:30:34,320
+attention to here is the thickness of
+
+822
+00:30:34,320 --> 00:30:36,870
+this padding making sure it's consistent
+
+823
+00:30:36,870 --> 00:30:38,340
+with the thickness of this padding and
+
+824
+00:30:38,340 --> 00:30:39,360
+this padding over here we want
+
+825
+00:30:39,360 --> 00:30:40,620
+everything to look nice and consistent
+
+826
+00:30:40,620 --> 00:30:42,870
+like it all belongs together nice fluid
+
+827
+00:30:42,870 --> 00:30:44,790
+looking there we go
+
+828
+00:30:44,790 --> 00:30:46,950
+now let me go to path object to path to
+
+829
+00:30:46,950 --> 00:30:48,720
+finalize that and let me just take all
+
+830
+00:30:48,720 --> 00:30:50,520
+of this right here the whole controller
+
+831
+00:30:50,520 --> 00:30:52,740
+with the padding and just group it all
+
+832
+00:30:52,740 --> 00:30:54,920
+together
+
+833
+00:30:56,260 --> 00:30:58,720
+there we go I'm just gonna scale it down
+
+834
+00:30:58,720 --> 00:31:02,620
+a little bit we just double-check make
+
+835
+00:31:02,620 --> 00:31:04,060
+sure I have it centered there we go
+
+836
+00:31:04,060 --> 00:31:06,880
+so we have the design finished for the
+
+837
+00:31:06,880 --> 00:31:08,350
+most part I'm actually gonna make the
+
+838
+00:31:08,350 --> 00:31:11,170
+text a little larger there we go
+
+839
+00:31:11,170 --> 00:31:13,510
+you may have to adjust the sizing based
+
+840
+00:31:13,510 --> 00:31:15,160
+on how your design came out I'm just
+
+841
+00:31:15,160 --> 00:31:17,220
+gonna manually tweak this a little bit
+
+842
+00:31:17,220 --> 00:31:20,830
+the final part now would be to add this
+
+843
+00:31:20,830 --> 00:31:22,750
+yellow outline going around the entire
+
+844
+00:31:22,750 --> 00:31:24,460
+design just to tie everything together
+
+845
+00:31:24,460 --> 00:31:28,710
+so to do that let's take everything
+
+846
+00:31:28,710 --> 00:31:31,390
+let's press control D on the keyboard to
+
+847
+00:31:31,390 --> 00:31:33,610
+duplicate everything and let's do a deep
+
+848
+00:31:33,610 --> 00:31:35,530
+on group click the ungroup button a few
+
+849
+00:31:35,530 --> 00:31:37,000
+times to make sure it's all ungrouped
+
+850
+00:31:37,000 --> 00:31:40,900
+and go to path Union and now I'm gonna
+
+851
+00:31:40,900 --> 00:31:43,120
+make this yellow because it contrasts
+
+852
+00:31:43,120 --> 00:31:45,400
+nicely with the purple there and I want
+
+853
+00:31:45,400 --> 00:31:46,600
+to send this to the bottom where it says
+
+854
+00:31:46,600 --> 00:31:49,240
+lower selection to the bottom and then
+
+855
+00:31:49,240 --> 00:31:51,220
+finally one last time we will add an
+
+856
+00:31:51,220 --> 00:31:54,760
+offset path effect so but by this point
+
+857
+00:31:54,760 --> 00:31:56,380
+I'm sure you're pretty familiar with
+
+858
+00:31:56,380 --> 00:31:57,520
+this path effect we're just gonna add
+
+859
+00:31:57,520 --> 00:32:06,190
+this in manually like that that right
+
+860
+00:32:06,190 --> 00:32:08,050
+there looks pretty good now we can just
+
+861
+00:32:08,050 --> 00:32:10,780
+finalize this by going to path object to
+
+862
+00:32:10,780 --> 00:32:13,690
+path and there you go we are finished
+
+863
+00:32:13,690 --> 00:32:15,580
+with this tutorial there you have your
+
+864
+00:32:15,580 --> 00:32:18,370
+eSports logo design made with Inkscape
+
+865
+00:32:18,370 --> 00:32:20,230
+so if you have any questions leave a
+
+866
+00:32:20,230 --> 00:32:22,030
+comment below and as always thanks for
+
+867
+00:32:22,030 --> 00:32:23,110
+watching
+
+868
+00:32:23,110 --> 00:32:31,880
+[Music]
+
+869
+00:32:37,120 --> 00:32:41,250
+[Music]
+

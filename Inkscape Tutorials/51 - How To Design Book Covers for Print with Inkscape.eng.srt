@@ -1,0 +1,2440 @@
+1
+00:00:01,020 --> 00:00:06,910
+[Music]
+
+2
+00:00:09,040 --> 00:00:11,280
+this is nick with logosbynic.com and in
+
+3
+00:00:11,280 --> 00:00:12,960
+this tutorial i'll be demonstrating how
+
+4
+00:00:12,960 --> 00:00:15,120
+you can design your own book covers
+
+5
+00:00:15,120 --> 00:00:17,039
+using inkscape and i don't just mean a
+
+6
+00:00:17,039 --> 00:00:19,039
+book cover for an ebook i mean an actual
+
+7
+00:00:19,039 --> 00:00:21,119
+physical book cover that you would print
+
+8
+00:00:21,119 --> 00:00:23,039
+and use on a book as you can see here in
+
+9
+00:00:23,039 --> 00:00:25,039
+the mock-up before we get started though
+
+10
+00:00:25,039 --> 00:00:26,560
+if you'd like to learn everything that
+
+11
+00:00:26,560 --> 00:00:28,080
+there is to know about enscape
+
+12
+00:00:28,080 --> 00:00:29,840
+be sure to check out my inkscape master
+
+13
+00:00:29,840 --> 00:00:31,519
+class it's a collection of over 60
+
+14
+00:00:31,519 --> 00:00:32,800
+videos where i go over
+
+15
+00:00:32,800 --> 00:00:34,239
+all of the tools and features in
+
+16
+00:00:34,239 --> 00:00:36,079
+inkscape and i explained what they are
+
+17
+00:00:36,079 --> 00:00:37,520
+and demonstrate how they work
+
+18
+00:00:37,520 --> 00:00:38,719
+i'll have a link in the description of
+
+19
+00:00:38,719 --> 00:00:40,800
+the video if you want to check that out
+
+20
+00:00:40,800 --> 00:00:42,719
+okay so as you can see here i've opened
+
+21
+00:00:42,719 --> 00:00:44,480
+up the kindle direct publishing
+
+22
+00:00:44,480 --> 00:00:46,399
+uh this is there this is amazon's print
+
+23
+00:00:46,399 --> 00:00:48,160
+on demand service for uh having your own
+
+24
+00:00:48,160 --> 00:00:48,719
+books
+
+25
+00:00:48,719 --> 00:00:50,800
+printed i'll be showing you how to use
+
+26
+00:00:50,800 --> 00:00:52,079
+this service here because this is the
+
+27
+00:00:52,079 --> 00:00:53,680
+one that people most commonly use when
+
+28
+00:00:53,680 --> 00:00:54,879
+they have books printed
+
+29
+00:00:54,879 --> 00:00:56,480
+in order to design your book cover with
+
+30
+00:00:56,480 --> 00:00:58,320
+inkscape you first have to come here and
+
+31
+00:00:58,320 --> 00:00:59,760
+download a template
+
+32
+00:00:59,760 --> 00:01:03,120
+for the size of book you'd like to print
+
+33
+00:01:03,120 --> 00:01:04,400
+so if you notice over here we have all
+
+34
+00:01:04,400 --> 00:01:06,000
+these different sizes to choose from we
+
+35
+00:01:06,000 --> 00:01:07,600
+have a page count to choose from and we
+
+36
+00:01:07,600 --> 00:01:08,000
+have
+
+37
+00:01:08,000 --> 00:01:09,439
+color options to choose from for the
+
+38
+00:01:09,439 --> 00:01:11,520
+paper as well for this demonstration
+
+39
+00:01:11,520 --> 00:01:12,000
+i'll be showing
+
+40
+00:01:12,000 --> 00:01:13,760
+you how to design a six inches by nine
+
+41
+00:01:13,760 --> 00:01:15,840
+inches book with 200 pages in it
+
+42
+00:01:15,840 --> 00:01:17,840
+with white paper now if you go ahead and
+
+43
+00:01:17,840 --> 00:01:19,600
+click the download cover template button
+
+44
+00:01:19,600 --> 00:01:21,360
+you should get a zip folder and within
+
+45
+00:01:21,360 --> 00:01:22,720
+that zip folder is a
+
+46
+00:01:22,720 --> 00:01:25,360
+dot png file that we will be working
+
+47
+00:01:25,360 --> 00:01:27,200
+with in inkscape
+
+48
+00:01:27,200 --> 00:01:29,040
+okay so getting started here in inkscape
+
+49
+00:01:29,040 --> 00:01:30,400
+the first thing i want to do is just set
+
+50
+00:01:30,400 --> 00:01:31,840
+up the documents that we all have a
+
+51
+00:01:31,840 --> 00:01:33,119
+similar workflow here
+
+52
+00:01:33,119 --> 00:01:34,320
+i'm going to come up here and turn off
+
+53
+00:01:34,320 --> 00:01:36,479
+snapping i want to change the
+
+54
+00:01:36,479 --> 00:01:39,439
+units of measurement to pixels and then
+
+55
+00:01:39,439 --> 00:01:40,640
+i will come up here to where it says
+
+56
+00:01:40,640 --> 00:01:41,920
+view and make sure you have custom
+
+57
+00:01:41,920 --> 00:01:43,280
+selected
+
+58
+00:01:43,280 --> 00:01:44,320
+and now what i'm going to do is i'm
+
+59
+00:01:44,320 --> 00:01:46,640
+going to import that png template onto
+
+60
+00:01:46,640 --> 00:01:48,079
+my canvas here by just clicking and
+
+61
+00:01:48,079 --> 00:01:50,000
+dragging it onto the canvas like that
+
+62
+00:01:50,000 --> 00:01:51,439
+now you can't see where this is coming
+
+63
+00:01:51,439 --> 00:01:53,119
+from because i have this folder opened
+
+64
+00:01:53,119 --> 00:01:54,560
+up on my other monitor but if you take
+
+65
+00:01:54,560 --> 00:01:56,079
+the dot png file
+
+66
+00:01:56,079 --> 00:01:57,680
+and click and drag it onto your canvas
+
+67
+00:01:57,680 --> 00:02:00,399
+like that you should get this little
+
+68
+00:02:00,399 --> 00:02:02,799
+this little menu that pops up and from
+
+69
+00:02:02,799 --> 00:02:04,320
+these defaults here we want to make sure
+
+70
+00:02:04,320 --> 00:02:06,079
+we have embed
+
+71
+00:02:06,079 --> 00:02:09,038
+from image dpi default import resolution
+
+72
+00:02:09,038 --> 00:02:10,560
+and for image rendering mode
+
+73
+00:02:10,560 --> 00:02:12,640
+none and once you have those presets as
+
+74
+00:02:12,640 --> 00:02:14,239
+they are click ok
+
+75
+00:02:14,239 --> 00:02:16,239
+and it should import your image as you
+
+76
+00:02:16,239 --> 00:02:17,520
+can see here now let me zoom out a
+
+77
+00:02:17,520 --> 00:02:18,640
+little bit so i can see that a little
+
+78
+00:02:18,640 --> 00:02:19,360
+better
+
+79
+00:02:19,360 --> 00:02:21,120
+you hold ctrl roll down the mouse wheel
+
+80
+00:02:21,120 --> 00:02:22,800
+a couple of times
+
+81
+00:02:22,800 --> 00:02:25,440
+okay so there's our template a couple of
+
+82
+00:02:25,440 --> 00:02:26,959
+things about this template
+
+83
+00:02:26,959 --> 00:02:29,200
+this image right here represents the
+
+84
+00:02:29,200 --> 00:02:31,280
+size that our document needs to be so
+
+85
+00:02:31,280 --> 00:02:32,720
+what i'm going to do is i want to resize
+
+86
+00:02:32,720 --> 00:02:34,080
+the document so that it fits
+
+87
+00:02:34,080 --> 00:02:35,920
+this image right here now if you notice
+
+88
+00:02:35,920 --> 00:02:37,680
+this is the document size right here as
+
+89
+00:02:37,680 --> 00:02:38,640
+it stands
+
+90
+00:02:38,640 --> 00:02:40,000
+so in order to change that what i'm
+
+91
+00:02:40,000 --> 00:02:41,360
+going to do is i'm going to select the
+
+92
+00:02:41,360 --> 00:02:41,920
+image
+
+93
+00:02:41,920 --> 00:02:44,720
+and i'm going to press ctrl shift and r
+
+94
+00:02:44,720 --> 00:02:45,680
+on the keyboard
+
+95
+00:02:45,680 --> 00:02:47,360
+and that's going to change the document
+
+96
+00:02:47,360 --> 00:02:48,879
+size to match
+
+97
+00:02:48,879 --> 00:02:50,480
+the size of the selection there as you
+
+98
+00:02:50,480 --> 00:02:53,040
+can see there a couple of more things uh
+
+99
+00:02:53,040 --> 00:02:54,800
+worth noting about this template over
+
+100
+00:02:54,800 --> 00:02:56,400
+here you'll notice this dotted line
+
+101
+00:02:56,400 --> 00:02:57,519
+going around the edge
+
+102
+00:02:57,519 --> 00:02:59,519
+of the image here this dotted line
+
+103
+00:02:59,519 --> 00:03:01,280
+represents the bleed cutoff
+
+104
+00:03:01,280 --> 00:03:03,120
+once this document is printed everything
+
+105
+00:03:03,120 --> 00:03:04,800
+outside of this dotted line will be
+
+106
+00:03:04,800 --> 00:03:05,680
+trimmed off
+
+107
+00:03:05,680 --> 00:03:07,440
+and then this pink area right here
+
+108
+00:03:07,440 --> 00:03:09,360
+represents the safe area
+
+109
+00:03:09,360 --> 00:03:11,200
+meaning all of your contents of your
+
+110
+00:03:11,200 --> 00:03:12,560
+design need to be
+
+111
+00:03:12,560 --> 00:03:14,720
+away from this pink area if you have any
+
+112
+00:03:14,720 --> 00:03:16,800
+elements like text or imagery that touch
+
+113
+00:03:16,800 --> 00:03:18,480
+this pink area or start to bleed out
+
+114
+00:03:18,480 --> 00:03:19,840
+into that area
+
+115
+00:03:19,840 --> 00:03:22,400
+uh amazon will reject your book cover
+
+116
+00:03:22,400 --> 00:03:23,599
+design so that's something important to
+
+117
+00:03:23,599 --> 00:03:24,959
+keep in mind as we're going through and
+
+118
+00:03:24,959 --> 00:03:26,080
+creating this design you want to make
+
+119
+00:03:26,080 --> 00:03:27,200
+sure you keep everything
+
+120
+00:03:27,200 --> 00:03:29,840
+in this white space in here now as you
+
+121
+00:03:29,840 --> 00:03:31,440
+can see over here on the right
+
+122
+00:03:31,440 --> 00:03:33,120
+we have the cover of the book the front
+
+123
+00:03:33,120 --> 00:03:34,720
+cover over here on the left we have the
+
+124
+00:03:34,720 --> 00:03:35,599
+back cover
+
+125
+00:03:35,599 --> 00:03:37,760
+and this right here is the spine of the
+
+126
+00:03:37,760 --> 00:03:39,840
+book now the way this works is this will
+
+127
+00:03:39,840 --> 00:03:41,120
+be printed out as one
+
+128
+00:03:41,120 --> 00:03:43,120
+entire document and then just wrapped
+
+129
+00:03:43,120 --> 00:03:45,120
+around the book as a single
+
+130
+00:03:45,120 --> 00:03:47,360
+a single piece of paper and then over
+
+131
+00:03:47,360 --> 00:03:48,239
+here we have
+
+132
+00:03:48,239 --> 00:03:50,640
+the barcode now when we're designing we
+
+133
+00:03:50,640 --> 00:03:52,480
+want to make sure we do not put anything
+
+134
+00:03:52,480 --> 00:03:53,840
+over here we do not need to put the
+
+135
+00:03:53,840 --> 00:03:55,680
+barcode on the design ourselves amazon
+
+136
+00:03:55,680 --> 00:03:57,120
+will handle that themselves all we have
+
+137
+00:03:57,120 --> 00:03:57,680
+to do
+
+138
+00:03:57,680 --> 00:03:59,599
+is make sure that we leave this space
+
+139
+00:03:59,599 --> 00:04:01,519
+right here free
+
+140
+00:04:01,519 --> 00:04:03,840
+so let me zoom out a little bit let me
+
+141
+00:04:03,840 --> 00:04:05,840
+open up the layers menu
+
+142
+00:04:05,840 --> 00:04:08,000
+which is located over here you can also
+
+143
+00:04:08,000 --> 00:04:10,080
+press shift control l as a keyboard
+
+144
+00:04:10,080 --> 00:04:11,439
+shortcut
+
+145
+00:04:11,439 --> 00:04:13,519
+and what i want to do is i want to
+
+146
+00:04:13,519 --> 00:04:14,879
+rename this layer to
+
+147
+00:04:14,879 --> 00:04:18,399
+template and i want to create a new
+
+148
+00:04:18,399 --> 00:04:18,959
+layer
+
+149
+00:04:18,959 --> 00:04:20,399
+by clicking the plus button over here
+
+150
+00:04:20,399 --> 00:04:22,560
+and i want to name this contents
+
+151
+00:04:22,560 --> 00:04:24,000
+all of the contents the design is going
+
+152
+00:04:24,000 --> 00:04:25,520
+to be on this layer i want to put this
+
+153
+00:04:25,520 --> 00:04:27,199
+below current
+
+154
+00:04:27,199 --> 00:04:29,919
+and click add so we have the contents
+
+155
+00:04:29,919 --> 00:04:31,040
+layer where the design is going to be
+
+156
+00:04:31,040 --> 00:04:32,479
+and then we have the template layer up
+
+157
+00:04:32,479 --> 00:04:33,919
+here which we're going to use for a
+
+158
+00:04:33,919 --> 00:04:36,000
+reference as we're creating our design
+
+159
+00:04:36,000 --> 00:04:37,759
+now instead of using this template right
+
+160
+00:04:37,759 --> 00:04:39,120
+here i'm just going to create some
+
+161
+00:04:39,120 --> 00:04:41,759
+simple guides to make sure that i'm
+
+162
+00:04:41,759 --> 00:04:43,840
+staying within these boundaries here so
+
+163
+00:04:43,840 --> 00:04:46,479
+the first thing i want to do is let me
+
+164
+00:04:46,479 --> 00:04:48,240
+grab the rectangles tool
+
+165
+00:04:48,240 --> 00:04:49,440
+and i'm going to create a rectangle
+
+166
+00:04:49,440 --> 00:04:52,479
+going over the white space right here
+
+167
+00:04:52,479 --> 00:04:54,639
+of the back cover and i want to give
+
+168
+00:04:54,639 --> 00:04:56,400
+that an outline um
+
+169
+00:04:56,400 --> 00:04:57,840
+or a stroke i'm going to hold shift and
+
+170
+00:04:57,840 --> 00:04:59,759
+click on the color green to give that
+
+171
+00:04:59,759 --> 00:05:02,400
+an outline let me remove the fill color
+
+172
+00:05:02,400 --> 00:05:03,840
+let me grab the select tool
+
+173
+00:05:03,840 --> 00:05:04,960
+i'm going to be moving through these
+
+174
+00:05:04,960 --> 00:05:06,479
+steps a little quicker than normal this
+
+175
+00:05:06,479 --> 00:05:07,440
+is going to be more of like an
+
+176
+00:05:07,440 --> 00:05:09,600
+intermediate tutorial because
+
+177
+00:05:09,600 --> 00:05:11,199
+there's a lot for me to go over in this
+
+178
+00:05:11,199 --> 00:05:12,960
+lesson so i'm not going to be explaining
+
+179
+00:05:12,960 --> 00:05:15,360
+every single click like i normally do so
+
+180
+00:05:15,360 --> 00:05:16,720
+that's something to keep in mind
+
+181
+00:05:16,720 --> 00:05:19,199
+let me zoom in over here i want to make
+
+182
+00:05:19,199 --> 00:05:20,960
+sure i have this option up here disabled
+
+183
+00:05:20,960 --> 00:05:22,800
+where it says when scaling objects scale
+
+184
+00:05:22,800 --> 00:05:24,000
+the stroke width by the same
+
+185
+00:05:24,000 --> 00:05:26,000
+proportion have that turned off and i
+
+186
+00:05:26,000 --> 00:05:27,039
+just want to make sure
+
+187
+00:05:27,039 --> 00:05:28,960
+that the edge of this green stroke is
+
+188
+00:05:28,960 --> 00:05:30,160
+resting on the edge
+
+189
+00:05:30,160 --> 00:05:33,919
+of this white safe space right here
+
+190
+00:05:34,720 --> 00:05:37,280
+there we go looking pretty good and
+
+191
+00:05:37,280 --> 00:05:39,120
+again to zoom in and out holding control
+
+192
+00:05:39,120 --> 00:05:40,400
+rolling up and down the mouse wheel to
+
+193
+00:05:40,400 --> 00:05:41,840
+move the page around pressing down the
+
+194
+00:05:41,840 --> 00:05:43,440
+mouse wheel and moving the mouse
+
+195
+00:05:43,440 --> 00:05:44,720
+i want to create another one going over
+
+196
+00:05:44,720 --> 00:05:47,759
+this barcode right here
+
+197
+00:05:50,800 --> 00:05:53,840
+there we go
+
+198
+00:05:53,919 --> 00:05:55,759
+i'm going to grab the select tool
+
+199
+00:05:55,759 --> 00:05:58,479
+duplicate that by pressing ctrl d
+
+200
+00:05:58,479 --> 00:06:01,120
+i'm going to move this over here like
+
+201
+00:06:01,120 --> 00:06:02,639
+that
+
+202
+00:06:02,639 --> 00:06:03,919
+and then i'll create another one for the
+
+203
+00:06:03,919 --> 00:06:05,680
+spine control d to duplicate it move
+
+204
+00:06:05,680 --> 00:06:08,479
+this one over here
+
+205
+00:06:09,039 --> 00:06:11,199
+there we go and i'll just resize that to
+
+206
+00:06:11,199 --> 00:06:12,080
+fit
+
+207
+00:06:12,080 --> 00:06:15,120
+the uh i want to make sure it fits the
+
+208
+00:06:15,120 --> 00:06:16,160
+spine right there
+
+209
+00:06:16,160 --> 00:06:18,639
+okay looking pretty good okay let me
+
+210
+00:06:18,639 --> 00:06:21,600
+just zoom out
+
+211
+00:06:21,600 --> 00:06:23,280
+okay looking pretty good here we've got
+
+212
+00:06:23,280 --> 00:06:24,800
+uh green strokes for all of the
+
+213
+00:06:24,800 --> 00:06:25,759
+important areas
+
+214
+00:06:25,759 --> 00:06:27,520
+what i want to do is i want to select
+
+215
+00:06:27,520 --> 00:06:29,039
+this image the template and i want to
+
+216
+00:06:29,039 --> 00:06:31,680
+right click it and go to copy
+
+217
+00:06:31,680 --> 00:06:32,960
+and then i want to turn off the
+
+218
+00:06:32,960 --> 00:06:34,880
+visibility of the templates layer i want
+
+219
+00:06:34,880 --> 00:06:36,479
+to come down here to the contents layer
+
+220
+00:06:36,479 --> 00:06:38,000
+and i want to create another rectangle
+
+221
+00:06:38,000 --> 00:06:40,080
+so just create a rectangle like that
+
+222
+00:06:40,080 --> 00:06:41,600
+give this a fill color i'm going to make
+
+223
+00:06:41,600 --> 00:06:43,360
+this as you can see in the thumbnail
+
+224
+00:06:43,360 --> 00:06:44,639
+design i made this book cover
+
+225
+00:06:44,639 --> 00:06:46,319
+yellow with some white going through
+
+226
+00:06:46,319 --> 00:06:47,520
+here so i'm going to make this yellow
+
+227
+00:06:47,520 --> 00:06:49,039
+the cover out the color i want the book
+
+228
+00:06:49,039 --> 00:06:50,000
+cover to be
+
+229
+00:06:50,000 --> 00:06:51,440
+i'll make that yellow let me get rid of
+
+230
+00:06:51,440 --> 00:06:52,800
+that stroke by holding shift and
+
+231
+00:06:52,800 --> 00:06:54,000
+clicking the x
+
+232
+00:06:54,000 --> 00:06:56,080
+and i want to make this the same size as
+
+233
+00:06:56,080 --> 00:06:57,919
+the template that we just copied so to
+
+234
+00:06:57,919 --> 00:06:58,800
+do that
+
+235
+00:06:58,800 --> 00:07:02,639
+let me go to edit paste size paste size
+
+236
+00:07:02,639 --> 00:07:04,479
+and it'll paste the width and height of
+
+237
+00:07:04,479 --> 00:07:05,680
+that image like that
+
+238
+00:07:05,680 --> 00:07:07,440
+and then i just want to align this on
+
+239
+00:07:07,440 --> 00:07:09,680
+the artboard here or the canvas so let
+
+240
+00:07:09,680 --> 00:07:11,919
+me open up the alignment menu over here
+
+241
+00:07:11,919 --> 00:07:14,240
+ctrl shift a is the keyboard shortcut
+
+242
+00:07:14,240 --> 00:07:15,759
+and i'm going to align this relative to
+
+243
+00:07:15,759 --> 00:07:17,360
+the page i'm going to put that on the
+
+244
+00:07:17,360 --> 00:07:20,240
+vertical and horizontal axis like that
+
+245
+00:07:20,240 --> 00:07:21,360
+okay now we'll come back over here to
+
+246
+00:07:21,360 --> 00:07:23,199
+the layers menu now that we have that in
+
+247
+00:07:23,199 --> 00:07:24,080
+place
+
+248
+00:07:24,080 --> 00:07:26,639
+we can select the template layer turn
+
+249
+00:07:26,639 --> 00:07:28,479
+the visibility of that back on
+
+250
+00:07:28,479 --> 00:07:30,000
+and what i want to do is take this
+
+251
+00:07:30,000 --> 00:07:32,000
+template and we don't need this anymore
+
+252
+00:07:32,000 --> 00:07:33,199
+you could just press delete on your
+
+253
+00:07:33,199 --> 00:07:34,560
+keyboard and get rid of that
+
+254
+00:07:34,560 --> 00:07:36,000
+and as you can see we have the book
+
+255
+00:07:36,000 --> 00:07:37,759
+cover design which is the yellow
+
+256
+00:07:37,759 --> 00:07:38,639
+rectangle
+
+257
+00:07:38,639 --> 00:07:40,720
+with these guides in place to let us
+
+258
+00:07:40,720 --> 00:07:42,800
+know where the important content should
+
+259
+00:07:42,800 --> 00:07:43,280
+go
+
+260
+00:07:43,280 --> 00:07:44,800
+and where we should not be putting any
+
+261
+00:07:44,800 --> 00:07:46,400
+content so let me
+
+262
+00:07:46,400 --> 00:07:48,080
+lock this layer so that i don't
+
+263
+00:07:48,080 --> 00:07:49,520
+accidentally
+
+264
+00:07:49,520 --> 00:07:51,120
+move any of these guides as i'm
+
+265
+00:07:51,120 --> 00:07:52,479
+designing and there we go now i'm going
+
+266
+00:07:52,479 --> 00:07:54,240
+to click on the contents layer
+
+267
+00:07:54,240 --> 00:07:56,720
+and now we are ready to start designing
+
+268
+00:07:56,720 --> 00:07:58,479
+so as you can see here this book cover
+
+269
+00:07:58,479 --> 00:07:58,800
+is
+
+270
+00:07:58,800 --> 00:08:00,639
+yellow and i have some white in there so
+
+271
+00:08:00,639 --> 00:08:02,160
+i'm going to go ahead and create that
+
+272
+00:08:02,160 --> 00:08:03,759
+aspect of it real quick let me
+
+273
+00:08:03,759 --> 00:08:05,599
+take this image right here and duplicate
+
+274
+00:08:05,599 --> 00:08:07,520
+that by pressing ctrl d
+
+275
+00:08:07,520 --> 00:08:08,800
+and i'm going to make this white and i'm
+
+276
+00:08:08,800 --> 00:08:12,800
+just going to scale this down like this
+
+277
+00:08:12,800 --> 00:08:15,440
+kind of like that now i'm going to grab
+
+278
+00:08:15,440 --> 00:08:16,639
+my text tool
+
+279
+00:08:16,639 --> 00:08:18,400
+and i'm going to put some text in here
+
+280
+00:08:18,400 --> 00:08:19,680
+i'm going to write
+
+281
+00:08:19,680 --> 00:08:22,879
+how to create a
+
+282
+00:08:22,879 --> 00:08:24,240
+now let me change the font i'm going to
+
+283
+00:08:24,240 --> 00:08:26,800
+go to text text and font
+
+284
+00:08:26,800 --> 00:08:28,479
+and the font i'm looking for is
+
+285
+00:08:28,479 --> 00:08:29,759
+montserrat obviously you can use
+
+286
+00:08:29,759 --> 00:08:31,120
+whatever font you'd like i'm just
+
+287
+00:08:31,120 --> 00:08:33,200
+showing you how i created this specific
+
+288
+00:08:33,200 --> 00:08:35,519
+design i'm going to apply that font like
+
+289
+00:08:35,519 --> 00:08:36,479
+that
+
+290
+00:08:36,479 --> 00:08:38,479
+let me scale that up i'm holding ctrl
+
+291
+00:08:38,479 --> 00:08:41,279
+while i scale to lock the proportions
+
+292
+00:08:41,279 --> 00:08:43,440
+place this right about there and i'm
+
+293
+00:08:43,440 --> 00:08:45,600
+going to duplicate that control d
+
+294
+00:08:45,600 --> 00:08:47,440
+bring that down there and i'm going to
+
+295
+00:08:47,440 --> 00:08:48,640
+change
+
+296
+00:08:48,640 --> 00:08:52,240
+this to with inkscape
+
+297
+00:08:52,240 --> 00:08:53,519
+and the text in the middle here is going
+
+298
+00:08:53,519 --> 00:08:54,959
+to be a different font let me just make
+
+299
+00:08:54,959 --> 00:08:56,399
+sure i have this centered up first i'm
+
+300
+00:08:56,399 --> 00:08:57,920
+going to select both of these
+
+301
+00:08:57,920 --> 00:08:59,200
+come back over here to the align
+
+302
+00:08:59,200 --> 00:09:00,959
+distribute menu and set this to
+
+303
+00:09:00,959 --> 00:09:02,560
+last selected and just make sure i have
+
+304
+00:09:02,560 --> 00:09:04,320
+that centered up like that
+
+305
+00:09:04,320 --> 00:09:05,760
+now if you notice here i have a book
+
+306
+00:09:05,760 --> 00:09:07,760
+cover design in the middle here with a
+
+307
+00:09:07,760 --> 00:09:08,959
+different font so i'm going to go ahead
+
+308
+00:09:08,959 --> 00:09:10,160
+and create that next
+
+309
+00:09:10,160 --> 00:09:11,920
+let me grab my text tool again i'm going
+
+310
+00:09:11,920 --> 00:09:14,000
+to write
+
+311
+00:09:14,000 --> 00:09:18,560
+book cover design
+
+312
+00:09:18,560 --> 00:09:20,080
+there we go let me change the font of
+
+313
+00:09:20,080 --> 00:09:21,680
+that to
+
+314
+00:09:21,680 --> 00:09:25,279
+sirona make sure i have that
+
+315
+00:09:25,279 --> 00:09:28,720
+centered and i'm just going to scale
+
+316
+00:09:28,720 --> 00:09:31,600
+that up as well
+
+317
+00:09:31,600 --> 00:09:32,800
+i'm actually going to move this out of
+
+318
+00:09:32,800 --> 00:09:34,800
+the way i want to make this i want this
+
+319
+00:09:34,800 --> 00:09:36,720
+title to take up the whole width of this
+
+320
+00:09:36,720 --> 00:09:39,360
+of this uh of this cover right here just
+
+321
+00:09:39,360 --> 00:09:41,200
+like that
+
+322
+00:09:41,200 --> 00:09:44,399
+let me center that up on there
+
+323
+00:09:44,399 --> 00:09:46,320
+and let me just change this white stripe
+
+324
+00:09:46,320 --> 00:09:49,519
+right here to accommodate the change
+
+325
+00:09:49,519 --> 00:09:51,279
+in the size of the text like that let me
+
+326
+00:09:51,279 --> 00:09:52,560
+move this up
+
+327
+00:09:52,560 --> 00:09:54,959
+move this up now if you notice over here
+
+328
+00:09:54,959 --> 00:09:56,800
+i also have these little white stripes
+
+329
+00:09:56,800 --> 00:09:58,320
+on the top and bottom of each of them so
+
+330
+00:09:58,320 --> 00:09:59,519
+what i'm going to do is i'm going to
+
+331
+00:09:59,519 --> 00:10:00,480
+duplicate that
+
+332
+00:10:00,480 --> 00:10:05,519
+ctrl d move this over here like this
+
+333
+00:10:05,519 --> 00:10:08,000
+and just bring down the height of that
+
+334
+00:10:08,000 --> 00:10:09,360
+and i'll just duplicate that and bring
+
+335
+00:10:09,360 --> 00:10:10,880
+that up there
+
+336
+00:10:10,880 --> 00:10:12,240
+and i want to make sure that all three
+
+337
+00:10:12,240 --> 00:10:14,720
+of these white stripes are
+
+338
+00:10:14,720 --> 00:10:16,240
+spaced out apart evenly so i'm going to
+
+339
+00:10:16,240 --> 00:10:18,720
+hold shift and click on each of them
+
+340
+00:10:18,720 --> 00:10:20,320
+come over here to align and distribute
+
+341
+00:10:20,320 --> 00:10:21,760
+and click on where it says
+
+342
+00:10:21,760 --> 00:10:24,240
+make vertical gaps between objects equal
+
+343
+00:10:24,240 --> 00:10:25,120
+there we go
+
+344
+00:10:25,120 --> 00:10:26,720
+and now i just want to align my text
+
+345
+00:10:26,720 --> 00:10:28,480
+again to make sure that it's aligned
+
+346
+00:10:28,480 --> 00:10:30,480
+after that change right there and i'm
+
+347
+00:10:30,480 --> 00:10:31,760
+just trying to make sure that this is
+
+348
+00:10:31,760 --> 00:10:33,200
+centered
+
+349
+00:10:33,200 --> 00:10:36,240
+like that i'm going to take this text
+
+350
+00:10:36,240 --> 00:10:37,519
+and this text
+
+351
+00:10:37,519 --> 00:10:39,120
+select them both and then center it up
+
+352
+00:10:39,120 --> 00:10:40,720
+with this text just to make sure that
+
+353
+00:10:40,720 --> 00:10:42,240
+everything is aligned
+
+354
+00:10:42,240 --> 00:10:44,839
+in the center like that let me move that
+
+355
+00:10:44,839 --> 00:10:47,360
+up
+
+356
+00:10:47,360 --> 00:10:51,200
+there we go okay so what i'm going to do
+
+357
+00:10:51,200 --> 00:10:51,600
+next
+
+358
+00:10:51,600 --> 00:10:54,560
+is down here all of the secrets of book
+
+359
+00:10:54,560 --> 00:10:55,839
+cover design revealed
+
+360
+00:10:55,839 --> 00:10:57,360
+and then by author name let me add that
+
+361
+00:10:57,360 --> 00:11:01,839
+text in there real quick
+
+362
+00:11:03,519 --> 00:11:04,880
+and i'm going to give this text a little
+
+363
+00:11:04,880 --> 00:11:06,880
+bit of a shear by clicking on it again
+
+364
+00:11:06,880 --> 00:11:08,240
+and getting these shearing handles just
+
+365
+00:11:08,240 --> 00:11:09,600
+to make it look like it's italics
+
+366
+00:11:09,600 --> 00:11:11,200
+because there's no italics version of
+
+367
+00:11:11,200 --> 00:11:12,560
+this font
+
+368
+00:11:12,560 --> 00:11:15,120
+let me just do that there we go and i
+
+369
+00:11:15,120 --> 00:11:16,399
+want to make sure i have that centered
+
+370
+00:11:16,399 --> 00:11:18,240
+right there
+
+371
+00:11:18,240 --> 00:11:21,680
+there we go and then down here finally i
+
+372
+00:11:21,680 --> 00:11:22,079
+have
+
+373
+00:11:22,079 --> 00:11:23,440
+by author name this is where you put
+
+374
+00:11:23,440 --> 00:11:25,360
+your author right here so let me
+
+375
+00:11:25,360 --> 00:11:26,959
+i'm just going to use this text item
+
+376
+00:11:26,959 --> 00:11:30,320
+right here i'm going to duplicate that
+
+377
+00:11:31,519 --> 00:11:35,519
+by author name and i'll make this one
+
+378
+00:11:35,519 --> 00:11:38,880
+smaller because this one is less
+
+379
+00:11:38,880 --> 00:11:41,760
+less prominent there we go put that down
+
+380
+00:11:41,760 --> 00:11:42,000
+there
+
+381
+00:11:42,000 --> 00:11:44,800
+towards the bottom center that up i want
+
+382
+00:11:44,800 --> 00:11:46,399
+to make sure i have everything centered
+
+383
+00:11:46,399 --> 00:11:47,680
+up here so i'm going to click on
+
+384
+00:11:47,680 --> 00:11:49,279
+click and drag over all of that make
+
+385
+00:11:49,279 --> 00:11:51,120
+sure it's all centered up like that
+
+386
+00:11:51,120 --> 00:11:52,079
+and i want to make sure it's all
+
+387
+00:11:52,079 --> 00:11:55,600
+centered relative to the page there
+
+388
+00:11:55,600 --> 00:11:56,880
+and what i might want to do is just
+
+389
+00:11:56,880 --> 00:11:58,399
+space things out vertically a little
+
+390
+00:11:58,399 --> 00:11:59,760
+better so let me move this down
+
+391
+00:11:59,760 --> 00:12:02,000
+let me move this down i'm going to group
+
+392
+00:12:02,000 --> 00:12:04,320
+all of this right here together
+
+393
+00:12:04,320 --> 00:12:06,000
+i'm going to just press ctrl g to group
+
+394
+00:12:06,000 --> 00:12:07,519
+that together like that
+
+395
+00:12:07,519 --> 00:12:10,399
+move this down like this now if you can
+
+396
+00:12:10,399 --> 00:12:11,120
+see here
+
+397
+00:12:11,120 --> 00:12:13,360
+i have the um the inkscape logo up top
+
+398
+00:12:13,360 --> 00:12:15,360
+there so let me import that in here and
+
+399
+00:12:15,360 --> 00:12:18,240
+place that real quick
+
+400
+00:12:20,000 --> 00:12:21,680
+okay so there we go there's the inkscape
+
+401
+00:12:21,680 --> 00:12:23,600
+logo and now i'm just going to select
+
+402
+00:12:23,600 --> 00:12:24,959
+all of these objects or actually you
+
+403
+00:12:24,959 --> 00:12:26,160
+know what let me make sure i have this
+
+404
+00:12:26,160 --> 00:12:27,440
+centered first
+
+405
+00:12:27,440 --> 00:12:29,600
+there we go i'm going to select all of
+
+406
+00:12:29,600 --> 00:12:30,800
+these objects
+
+407
+00:12:30,800 --> 00:12:32,480
+and i just want to space them all apart
+
+408
+00:12:32,480 --> 00:12:34,720
+evenly vertically like this
+
+409
+00:12:34,720 --> 00:12:37,600
+there we go and maybe move that up a
+
+410
+00:12:37,600 --> 00:12:38,160
+little bit
+
+411
+00:12:38,160 --> 00:12:40,240
+all right we're looking pretty good here
+
+412
+00:12:40,240 --> 00:12:41,680
+okay so what i'm going to do now is the
+
+413
+00:12:41,680 --> 00:12:42,959
+cover of the book
+
+414
+00:12:42,959 --> 00:12:44,320
+is now finished i'm going to work on the
+
+415
+00:12:44,320 --> 00:12:46,480
+spine now as you can see in the spine
+
+416
+00:12:46,480 --> 00:12:48,079
+i have the inkscape logo i have the
+
+417
+00:12:48,079 --> 00:12:50,079
+author name i have the title
+
+418
+00:12:50,079 --> 00:12:51,680
+and then i have some subtext over here
+
+419
+00:12:51,680 --> 00:12:53,360
+so let me add that in here
+
+420
+00:12:53,360 --> 00:12:55,040
+let me put the escape logo in there i'm
+
+421
+00:12:55,040 --> 00:12:56,720
+going to duplicate that by pressing ctrl
+
+422
+00:12:56,720 --> 00:12:57,600
+d
+
+423
+00:12:57,600 --> 00:13:00,800
+i have to make this small
+
+424
+00:13:01,279 --> 00:13:04,959
+there we go put that right about there
+
+425
+00:13:04,959 --> 00:13:06,399
+and i'm going to put some text right
+
+426
+00:13:06,399 --> 00:13:10,000
+here that says the author name
+
+427
+00:13:10,000 --> 00:13:11,839
+let me just duplicate this text and move
+
+428
+00:13:11,839 --> 00:13:13,040
+it over here
+
+429
+00:13:13,040 --> 00:13:15,360
+and just rotate that around like that so
+
+430
+00:13:15,360 --> 00:13:17,360
+that it fits in there
+
+431
+00:13:17,360 --> 00:13:19,040
+you may have to scale it down a bit like
+
+432
+00:13:19,040 --> 00:13:21,839
+that there we go
+
+433
+00:13:22,320 --> 00:13:24,959
+now i'm going to put the book title in
+
+434
+00:13:24,959 --> 00:13:26,399
+this white space right here so i'm going
+
+435
+00:13:26,399 --> 00:13:27,360
+to duplicate
+
+436
+00:13:27,360 --> 00:13:29,360
+first let me ungroup that i'm going to
+
+437
+00:13:29,360 --> 00:13:30,880
+duplicate this design right here i'm
+
+438
+00:13:30,880 --> 00:13:31,360
+going to
+
+439
+00:13:31,360 --> 00:13:33,120
+duplicate this text right here and i
+
+440
+00:13:33,120 --> 00:13:35,200
+want to put this text all on one line
+
+441
+00:13:35,200 --> 00:13:37,600
+like that
+
+442
+00:13:39,199 --> 00:13:42,959
+oops scale that down
+
+443
+00:13:42,959 --> 00:13:46,800
+rotate that place this in here
+
+444
+00:13:46,800 --> 00:13:49,839
+and scale this down so that it doesn't
+
+445
+00:13:49,839 --> 00:13:51,680
+it doesn't touch the green edges right
+
+446
+00:13:51,680 --> 00:13:53,680
+here you want to make sure it's well
+
+447
+00:13:53,680 --> 00:13:56,320
+within that safe area
+
+448
+00:13:56,320 --> 00:13:59,040
+and then just center that up there we go
+
+449
+00:13:59,040 --> 00:14:00,160
+looking pretty good
+
+450
+00:14:00,160 --> 00:14:01,920
+now what i'm going to do is i'm going to
+
+451
+00:14:01,920 --> 00:14:04,399
+put some subtext down here
+
+452
+00:14:04,399 --> 00:14:07,839
+uh let me just duplicate this
+
+453
+00:14:08,800 --> 00:14:10,320
+the secrets i'm going to i'm going to
+
+454
+00:14:10,320 --> 00:14:12,480
+abbreviate this text so that it doesn't
+
+455
+00:14:12,480 --> 00:14:15,360
+take up too much space down here
+
+456
+00:14:15,360 --> 00:14:17,440
+the secrets of book cover design let's
+
+457
+00:14:17,440 --> 00:14:20,320
+see if that works
+
+458
+00:14:24,480 --> 00:14:26,959
+okay looking pretty good alright so now
+
+459
+00:14:26,959 --> 00:14:28,480
+the spine is finished
+
+460
+00:14:28,480 --> 00:14:30,240
+the final step would be to work on the
+
+461
+00:14:30,240 --> 00:14:31,680
+back cover of the book
+
+462
+00:14:31,680 --> 00:14:33,279
+so i'm going to put some text up there
+
+463
+00:14:33,279 --> 00:14:34,959
+some placeholder text in the middle and
+
+464
+00:14:34,959 --> 00:14:36,560
+then about the author
+
+465
+00:14:36,560 --> 00:14:37,920
+uh down there at the bottom so we'll go
+
+466
+00:14:37,920 --> 00:14:39,760
+ahead and get started on that
+
+467
+00:14:39,760 --> 00:14:42,079
+i have up here learn how to design book
+
+468
+00:14:42,079 --> 00:14:43,680
+covers okay so i'm going to grab
+
+469
+00:14:43,680 --> 00:14:46,160
+this text i'm going to duplicate that
+
+470
+00:14:46,160 --> 00:14:47,440
+put this over here i'll make this a
+
+471
+00:14:47,440 --> 00:14:49,199
+little smaller
+
+472
+00:14:49,199 --> 00:14:52,320
+let me uh change this learn how to
+
+473
+00:14:52,320 --> 00:14:54,639
+did i have that on two lines or one line
+
+474
+00:14:54,639 --> 00:14:55,600
+learn how to
+
+475
+00:14:55,600 --> 00:14:58,800
+design book covers okay learn how to
+
+476
+00:14:58,800 --> 00:15:02,160
+design book covers
+
+477
+00:15:02,160 --> 00:15:05,680
+perfect i'll scale that down
+
+478
+00:15:07,680 --> 00:15:08,639
+and now i'm going to put some
+
+479
+00:15:08,639 --> 00:15:10,880
+placeholder text in here some lorem
+
+480
+00:15:10,880 --> 00:15:12,399
+ipsum text you would obviously want to
+
+481
+00:15:12,399 --> 00:15:13,920
+write like a description of the book or
+
+482
+00:15:13,920 --> 00:15:14,399
+something
+
+483
+00:15:14,399 --> 00:15:15,839
+this is just a tutorial so i'm going to
+
+484
+00:15:15,839 --> 00:15:17,839
+put some lorem if some text in there
+
+485
+00:15:17,839 --> 00:15:21,440
+i'll go to extensions render
+
+486
+00:15:21,440 --> 00:15:24,560
+and actually no extensions text and
+
+487
+00:15:24,560 --> 00:15:28,959
+lorem ipsum and i want to choose
+
+488
+00:15:28,959 --> 00:15:32,000
+two paragraphs six sentences per
+
+489
+00:15:32,000 --> 00:15:33,600
+paragraph
+
+490
+00:15:33,600 --> 00:15:35,839
+and four for the paragraph i'm just
+
+491
+00:15:35,839 --> 00:15:37,759
+putting random numbers in here
+
+492
+00:15:37,759 --> 00:15:39,680
+let me close out of that and this text
+
+493
+00:15:39,680 --> 00:15:41,759
+pretty small i got it was generated over
+
+494
+00:15:41,759 --> 00:15:43,600
+here in the top left corner so let me
+
+495
+00:15:43,600 --> 00:15:46,639
+let me grab that place this in here let
+
+496
+00:15:46,639 --> 00:15:48,880
+me go to the text editor
+
+497
+00:15:48,880 --> 00:15:51,360
+let me select the text with the text
+
+498
+00:15:51,360 --> 00:15:52,480
+tool
+
+499
+00:15:52,480 --> 00:15:55,680
+and i want to change this to montserrat
+
+500
+00:15:55,680 --> 00:15:58,240
+i want to make this uh medium or
+
+501
+00:15:58,240 --> 00:15:59,519
+semi-bold
+
+502
+00:15:59,519 --> 00:16:02,720
+make this a little bigger maybe 28
+
+503
+00:16:02,720 --> 00:16:05,440
+see how that looks maybe a little bigger
+
+504
+00:16:05,440 --> 00:16:06,839
+than that
+
+505
+00:16:06,839 --> 00:16:09,120
+36. looking better
+
+506
+00:16:09,120 --> 00:16:10,399
+okay that's good enough i'll leave it at
+
+507
+00:16:10,399 --> 00:16:12,560
+36. i'll place this over here towards
+
+508
+00:16:12,560 --> 00:16:13,759
+the top left
+
+509
+00:16:13,759 --> 00:16:15,279
+again making sure it's not it's not
+
+510
+00:16:15,279 --> 00:16:17,519
+going anywhere near that green border
+
+511
+00:16:17,519 --> 00:16:18,959
+let me go back to the text tool and i'm
+
+512
+00:16:18,959 --> 00:16:20,000
+just going to take this little node
+
+513
+00:16:20,000 --> 00:16:20,959
+right here and bring that
+
+514
+00:16:20,959 --> 00:16:23,759
+in so that it forces the text within
+
+515
+00:16:23,759 --> 00:16:26,000
+this area right here
+
+516
+00:16:26,000 --> 00:16:29,680
+and then i will center align that text
+
+517
+00:16:29,680 --> 00:16:31,360
+and just to uh let me bring this down a
+
+518
+00:16:31,360 --> 00:16:33,120
+little bit
+
+519
+00:16:33,120 --> 00:16:35,680
+there we go just to make this look a
+
+520
+00:16:35,680 --> 00:16:36,880
+little better i'm going to add some
+
+521
+00:16:36,880 --> 00:16:38,320
+spacing between these lines because
+
+522
+00:16:38,320 --> 00:16:40,000
+something about this text right here is
+
+523
+00:16:40,000 --> 00:16:41,680
+just not visually appealing it just
+
+524
+00:16:41,680 --> 00:16:43,759
+looks like a cluster of text so
+
+525
+00:16:43,759 --> 00:16:46,079
+i want to space this out a little bit
+
+526
+00:16:46,079 --> 00:16:47,519
+let me grab the text tool
+
+527
+00:16:47,519 --> 00:16:50,399
+select that and over here uh spacing
+
+528
+00:16:50,399 --> 00:16:52,160
+between baselines i'm just gonna
+
+529
+00:16:52,160 --> 00:16:54,800
+increase that
+
+530
+00:16:56,079 --> 00:16:59,279
+there we go that looks a lot better okay
+
+531
+00:16:59,279 --> 00:17:00,800
+now down here
+
+532
+00:17:00,800 --> 00:17:02,720
+bottom left we have about the author and
+
+533
+00:17:02,720 --> 00:17:04,000
+some more lorem ipsum
+
+534
+00:17:04,000 --> 00:17:05,280
+text so let's go ahead and create that
+
+535
+00:17:05,280 --> 00:17:06,959
+and then we'll be done so let me take
+
+536
+00:17:06,959 --> 00:17:10,480
+this text let me duplicate that
+
+537
+00:17:12,799 --> 00:17:14,240
+and then i'll just take this text over
+
+538
+00:17:14,240 --> 00:17:15,679
+here and just duplicate that i'll put
+
+539
+00:17:15,679 --> 00:17:18,319
+this down here
+
+540
+00:17:18,319 --> 00:17:20,079
+let me go back to the text tool i'm
+
+541
+00:17:20,079 --> 00:17:21,359
+going to give this i'm going to align
+
+542
+00:17:21,359 --> 00:17:23,679
+this to the left
+
+543
+00:17:23,679 --> 00:17:27,039
+there we go i'll bring this in like this
+
+544
+00:17:27,039 --> 00:17:28,400
+and i want to make this text smaller
+
+545
+00:17:28,400 --> 00:17:29,679
+this is less prominent if you're
+
+546
+00:17:29,679 --> 00:17:30,559
+following
+
+547
+00:17:30,559 --> 00:17:32,640
+the rules of visual hierarchy here this
+
+548
+00:17:32,640 --> 00:17:34,000
+here is the most prominent this is
+
+549
+00:17:34,000 --> 00:17:35,679
+secondary and then this is
+
+550
+00:17:35,679 --> 00:17:38,640
+uh down here the least important text
+
+551
+00:17:38,640 --> 00:17:39,440
+let me uh
+
+552
+00:17:39,440 --> 00:17:42,480
+shrink that down let me try 24.
+
+553
+00:17:42,480 --> 00:17:45,440
+see how that looks okay that looks
+
+554
+00:17:45,440 --> 00:17:46,160
+pretty good
+
+555
+00:17:46,160 --> 00:17:47,360
+i'm gonna get rid of some of these lines
+
+556
+00:17:47,360 --> 00:17:49,520
+of text in here so that it's not
+
+557
+00:17:49,520 --> 00:17:51,919
+bleeding out into the uh the bleed cut
+
+558
+00:17:51,919 --> 00:17:53,280
+off
+
+559
+00:17:53,280 --> 00:18:00,240
+um there we go
+
+560
+00:18:00,240 --> 00:18:01,440
+and if you want you could add like a
+
+561
+00:18:01,440 --> 00:18:02,880
+little picture right here a picture of
+
+562
+00:18:02,880 --> 00:18:03,840
+the author and
+
+563
+00:18:03,840 --> 00:18:05,120
+you know whatever else you want to add
+
+564
+00:18:05,120 --> 00:18:08,000
+in there okay so the design portion of
+
+565
+00:18:08,000 --> 00:18:09,520
+the book cover is finished
+
+566
+00:18:09,520 --> 00:18:11,520
+okay so how do we go from here to having
+
+567
+00:18:11,520 --> 00:18:13,440
+an actual file that we can send to the
+
+568
+00:18:13,440 --> 00:18:14,960
+printers and have printed
+
+569
+00:18:14,960 --> 00:18:16,240
+what we want to do first is come over
+
+570
+00:18:16,240 --> 00:18:18,160
+here to the layers menu and where it
+
+571
+00:18:18,160 --> 00:18:19,840
+says template we want to just turn off
+
+572
+00:18:19,840 --> 00:18:21,280
+the visibility of that layer we don't
+
+573
+00:18:21,280 --> 00:18:22,960
+need that anymore
+
+574
+00:18:22,960 --> 00:18:24,720
+and what we want to do now is export
+
+575
+00:18:24,720 --> 00:18:27,120
+this as a jpeg image so we'll go to file
+
+576
+00:18:27,120 --> 00:18:29,679
+and we'll go to export png image it's
+
+577
+00:18:29,679 --> 00:18:31,919
+labeled as png image but it also allows
+
+578
+00:18:31,919 --> 00:18:34,480
+you to export other formats such as jpg
+
+579
+00:18:34,480 --> 00:18:35,919
+if you're working with inkscape version
+
+580
+00:18:35,919 --> 00:18:38,240
+1.1 or later so let's open up the export
+
+581
+00:18:38,240 --> 00:18:39,360
+menu
+
+582
+00:18:39,360 --> 00:18:40,799
+and i want to leave all of the defaults
+
+583
+00:18:40,799 --> 00:18:42,480
+as they are the export area we are
+
+584
+00:18:42,480 --> 00:18:44,559
+exporting the page
+
+585
+00:18:44,559 --> 00:18:46,320
+and just leave all of these defaults as
+
+586
+00:18:46,320 --> 00:18:48,240
+they are and then just go ahead and
+
+587
+00:18:48,240 --> 00:18:50,160
+click on export as and when you click on
+
+588
+00:18:50,160 --> 00:18:51,600
+that it's gonna it's gonna ask you to
+
+589
+00:18:51,600 --> 00:18:53,360
+choose a location on your hard drive to
+
+590
+00:18:53,360 --> 00:18:54,559
+save this file to
+
+591
+00:18:54,559 --> 00:18:56,240
+and it's also going to ask you to it's
+
+592
+00:18:56,240 --> 00:18:57,679
+also going to ask you to choose a file
+
+593
+00:18:57,679 --> 00:18:58,559
+format
+
+594
+00:18:58,559 --> 00:19:00,400
+now for this probably a good idea to
+
+595
+00:19:00,400 --> 00:19:02,000
+choose jpeg
+
+596
+00:19:02,000 --> 00:19:04,240
+so um yeah whenever you're printing
+
+597
+00:19:04,240 --> 00:19:06,640
+something jpeg is always better than png
+
+598
+00:19:06,640 --> 00:19:08,880
+and once you save that file you should
+
+599
+00:19:08,880 --> 00:19:10,480
+be done you should be able to take that
+
+600
+00:19:10,480 --> 00:19:12,880
+file that jpeg file that you've exported
+
+601
+00:19:12,880 --> 00:19:15,120
+and upload it to kindle direct
+
+602
+00:19:15,120 --> 00:19:16,160
+publishing
+
+603
+00:19:16,160 --> 00:19:19,280
+to have your book cover printed so i
+
+604
+00:19:19,280 --> 00:19:20,080
+think that should do it for this
+
+605
+00:19:20,080 --> 00:19:21,520
+tutorial that's how you can go about
+
+606
+00:19:21,520 --> 00:19:23,440
+designing your own book covers
+
+607
+00:19:23,440 --> 00:19:25,679
+using inkscape if you have any questions
+
+608
+00:19:25,679 --> 00:19:27,440
+just leave a comment below and as always
+
+609
+00:19:27,440 --> 00:19:39,840
+thanks for watching
+
+610
+00:19:42,950 --> 00:19:47,089
+[Music]
+

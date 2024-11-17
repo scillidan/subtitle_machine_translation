@@ -1,0 +1,660 @@
+
+in  this  tutorial  well  be  going  over  an
+
+example  of  what  can  be  created  using  the
+
+spiral  tool  in  inkscape  and  to  show  you
+
+what  I  mean  I  have  this  simple  spiral
+
+path  that  I  started  off  with  and  I  was
+
+able  to  use  it  to  construct  this  rolled
+
+sheet  of  paper  icon  that  you  could  see
+
+here  and  I  will  be  demonstrating  how  to
+
+create  this  entire  thing  so  let  me  come
+
+over  here  into  a  new  document  and  we
+
+will  get  started  so  the  first  thing  Im
+
+going  to  do  is  grab  my  spiral  tool  which
+
+is  located  over  here  and  the  tool
+
+settings  I  want  to  use  I  already  have
+
+inputed  into  my  input  boxes  here  so  go
+
+ahead  and  pause  the  video  and  type  in
+
+these  values  into  each  of  these  three
+
+boxes  here  we  want  2.9  2.0  and
+
+0.550  and  once  you  do  that  youll  be
+
+good  to  get  started  so  now  what  I  will
+
+do  is  I  will  hold  the  control  key  and
+
+click  and  drag  to  the  right  to  create  a
+
+spiral  and  the  way  that  I  want  this
+
+spiral  positioned  I  want  the  tail  of  the
+
+Spiral  on  the  right  hand  side  I  want
+
+that  to  rest  on  the  horizontal  plane  so
+
+that  its  going  up  vertically  like  that
+
+we  dont  want  it  offc  Center  like  that
+
+we  want  it  placed  just  like  that  and
+
+thats  the  result  were  looking  for  and
+
+now  Im  going  to  convert  this  to  a  path
+
+so  Ill  come  up  here  to  where  it  says
+
+path  and  I  will  go  to  object  to  path  and
+
+Im  going  to  grab  my  selection  tool  and
+
+Im  going  to  flip  this  vertically  by
+
+pressing  this  button  right  here  that
+
+says  flip  uh  object  vertically  or  you
+
+could  just  press  the  letter  V  on  your
+
+keyboard  and  that  works  as  well  and  Im
+
+going  to  zoom  in  on  this  and  Im  going
+
+to  click  on  it  again  to  get  the  rotation
+
+handles  Im  going  to  rotate  this  around
+
+a  little  bit  just  so  that  this  tail
+
+right  here  is  not  too  far  up  we  dont
+
+want  that  too  far  up  like  that  we  want
+
+this  down  a  little  bit  and  that  looks  a
+
+lot  better  so  what  Im  going  to  do  now
+
+is  first  of  all  come  up  here  to  the  tool
+
+settings  menu  if  you  hover  your  cursor
+
+over  this  first  of  four  icons  right  here
+
+itll  say  when  scaling  objects  scale  the
+
+stroke  width  by  the  same  proportion  make
+
+sure  you  have  that  turned  off  right  now
+
+we  want  that  disabled  and  once  we  do
+
+that  Im  going  to  come  back  over  here  to
+
+my  object  click  on  it  again  to  get  back
+
+to  my  scaling  handles  and  Im  going  to
+
+take  this  bottom  Arrow  icon  right  here
+
+and  just  scale  this  up  like  that  so  we
+
+have  this  distorted  effect  as  you  can
+
+see  here  and  once  weve  done  that  Im
+
+just  going  to  click  on  it  again  Im
+
+going  to  rotate  this  a  little  bit  more
+
+Im  not  quite  happy  with  how  that  looks
+
+all  right  that  looks  a  lot  better  and
+
+now  Im  going  to  open  up  the  fill  and
+
+stroke  menu  so  come  over  here  to  where
+
+it  says  path  or  No  Object  and  go  to  fill
+
+and  stroke  and  the  menu  should  open  up
+
+over  here  on  your  right  hand  side  of
+
+your  screen  Im  going  to  select  the
+
+stroke  style  Tab  and  I  want  to  change
+
+the  width  of  the  stroke  from  one  pixel
+
+to  five  pixel
+
+pixels  and  I  want  to  make  the  caps
+
+rounded  as  well  and  then  I  want  to  come
+
+down  here  and  bring  the  opacity  of  this
+
+down  in  half  this  is  just  going  to  make
+
+it  easier  for  us  to  see  what  were
+
+working  with  as  we  move
+
+forward  so  we  now  have  the  top  portion
+
+design  so  what  Im  going  to  do  is  Im
+
+going  to  right  click  this  and  go  to
+
+duplicate  and  Im  going  to  hold  the
+
+control  key  and  move  this  down  here  like
+
+this  this  is  going  to  represent  the  top
+
+of  the  roll  of  paper  and  this  is  going
+
+to  represent  the  bottom  if  I  could  show
+
+show  you  what  I  mean  here  this  is  the
+
+shape  were  starting  off  with  and  this
+
+is  what  were  putting  it  were  putting
+
+it  down  there  like  that  and  now  what  I
+
+will  do  is  let  me  click  off  of  that  to
+
+deselect  it  Im  going  to  turn  on
+
+snapping  Im  going  to  come  over  here  to
+
+this  magnet  icon  and  enable  that  let  me
+
+expand  this  menu  and  we  dont  want
+
+advanced  mode  if  youre  in  advanced  mode
+
+just  come  over  here  to  where  it  says
+
+reset  to  simple  snapping  mode  and  the
+
+two  options  we  want  enabled  in  simple
+
+mode  are  bounding  boxes  and  nodes  and
+
+were  going  to  keep  alignment  turned  off
+
+so  now  Im  going  to  grab  my  bezier  pen
+
+which  is  located  over  here  or  the  pen
+
+tool  as  its  called  and  Im  going  to
+
+come  over  here  and  Im  going  to  snap  to
+
+the  left  side  of  this  spiral  and  let  me
+
+zoom  out  Im  going  to  bring  the  line
+
+straight  down  Im  going  to  hold  my
+
+control  key  to  lock  it  onto  the  vertical
+
+axis  and  then  snap  to  the  left  edge  of
+
+the  other  shape  like  that  and  press
+
+enter  and  now  we  want  to  give  this
+
+stroke  the  same  style  so  let  me  change
+
+this  to  five  pixels  and  Ill  make  these
+
+caps  arounded  as  well  and  Ill  bring
+
+down  the  opacity  of  that  in  half  and  you
+
+can  see  why  Im  turning  down  the  opacity
+
+I  want  to  be  able  to  see  where  this  line
+
+lines  up  with  the  other  path  with  the
+
+spiral  path  I  want  to  make  sure
+
+everything  there  is  nice  and  lined  up
+
+and  having  partial  opacity  makes  it  easy
+
+to  see  through  these  objects  while  you
+
+do  that  so  now  lets  create  another  line
+
+going  over  here  lets  connect  this  top
+
+part  to  this  bottom  part  over  here  Im
+
+going  to  hold  control  bring  this
+
+straight  down  and  then  snap  it  onto  the
+
+path  right  there  and  press  enter  to
+
+create  the  line  Im  going  to  make  the
+
+width  five  pixels  make  the  Caps  rounded
+
+and  bring  the  opacity  down  in  half  like
+
+that  and  now  we  have  the  right  side  in
+
+place  okay  so  Ill  just  zoom  in  to  make
+
+sure  everything  looks  correct  here  we
+
+want  this  nice  and  smooth  we  dont  want
+
+anything  off
+
+center  and  now  Im  going  to  do  the  same
+
+thing  over  here  let  me  snap  to  this
+
+piece  bring  this  straight  down  by
+
+holding  the  control  key  snap  to  the
+
+bottom  part  click  again  and  press  enter
+
+Im  going  to  make  this  five
+
+pixels  make  the  caps  rounded  bring  the
+
+opacity  down  and  Ill  do  the  same  thing
+
+over  here  Ill  snap  to  the  right  Edge
+
+bring  the  line  straight  down  by  holding
+
+control  there  we  go  let  me  change  the
+
+style  of  this  one  as
+
+well  and  its  starting  to  come  together
+
+as  you  can  see  we  now  have  to  get  rid  of
+
+this  bottom  piece  down  here  so  uh
+
+theres  various  ways  we  can  get  rid  of
+
+this  bottom  piece  down  here  the  way  that
+
+Im  going  to  do  this  is  Im  going  to
+
+grab  my  select  tool  Im  going  to  enable
+
+the  ruler  on  my  canvas  by  pressing
+
+controlr  on  the  keyboard  if  youre  using
+
+Mac  it  would  be  command  R  so  Im  going
+
+to  press  command  R  and  now  we  have  the
+
+ruler  and  Im  going  to  come  up  here  to
+
+the  horizontal  ruler  and  click  and  drag
+
+to  pull  a  guide  down  and  Im  going  to
+
+snap  that  guide  right  where  the  end
+
+point  of  this  vertical  line  is  and  now
+
+Im  going  to  select  this  path  right  here
+
+and  I  will  grab  my  nodes  tool  and  I  will
+
+double  click  right  there  to  add  a  new
+
+node  and  Ill  make  sure  that  Noe  is
+
+selected  and  I  want  to  come  up  here  to
+
+where  it  says  uh  not  join  selected  we
+
+want  this  one  right  here  break  path  at
+
+selected  nodes  and  thats  going  to  break
+
+that  up  into  separate
+
+pieces  and  now  Im  going  to  grab  my
+
+select  tool  Ill  go  to  path  and  I  will
+
+select  break
+
+apart  deselect  it  by  clicking  off  onto
+
+the  canvas  and  Im  going  to  take  this
+
+piece  and  just  press  delete  to  get  rid
+
+of  it  and  then  I  will  get  rid  of  the
+
+guide  Ill  press  Ill  click  on  the  guide
+
+hover  the  cursor  over  it  until  it
+
+highlights  red  press  the  delete  key  to
+
+get  rid  of  the  guide  and  now  I  will  get
+
+rid  of  the  ruler  as  well  by  holding  uh
+
+command  and  pressing  r  or  controlr  if
+
+youre  on  Windows  or  Linux  so  a  lot  of
+
+this  is  in  place  now  all  we  have  to  do
+
+now  is  create  these  lines  of  text  or
+
+what  are  supposed  to  be  lines  of  text
+
+and  then  well  fill  this  in  with  some
+
+color  so  let  me  uh  let  me  click  on  this
+
+object  up  here  the  original  spiral  path
+
+Im  going  to  right  click  that  and  go  to
+
+duplicate  and  Ill  hold  control  and
+
+bring  this  straight  down  like  this  lets
+
+turn  off  snapping  now  we  dont  need  that
+
+anymore  and  I  just  want  to  I  just  want
+
+to  take  this  segment  right  here  and  use
+
+it  that  so  let  me  grab  the  rectangle
+
+tool  and  Ill  click  and  drag  and  create
+
+a  rectangle  over  that  portion  of  the
+
+Spiral  right  there  we  just  want  to  take
+
+this  selection  and  then  Ill  select  both
+
+of  those  and  I  will  go  to  path  and
+
+select  cut  path  and  that  should  break  it
+
+up  into  separate  pieces  and  now  we  can
+
+just  take  this  piece  right  here  and  get
+
+rid  of  that  and  get  rid  of  this  piece
+
+right  here  as  well  and  let  me  move  this
+
+up  Im  going  to  hold  control  while  doing
+
+this  so  that  we  lock  it  onto  the
+
+vertical  axis  and  Im  going  to  duplicate
+
+this  instead  of  right  clicking  and  going
+
+to  duplicate  Im  just  going  to  press
+
+contrl  D  or  command  D  if  youre  on  Mac
+
+and  then  Ill  take  this  duplicate  copy
+
+and  move  that  down  and  Im  going  to
+
+repeat  this  Im  going  to  select  both  of
+
+these  control  D  to  duplicate  bring  them
+
+down  here  and  Ill  do  this  maybe  one
+
+more  time  bring  these  ones  down
+
+here  and  now  we  want  to  make  sure  that
+
+these  lines  are  evenly  spaced  so  let  me
+
+select  all  of  them  and  I  will  open  up  my
+
+aligned  distribute  menu  you  can  access
+
+that  by  going  to  object  and  selecting
+
+aligned  distribute  I  already  have  mine
+
+open  over  here  in  my  dock  dockable  menu
+
+so  Ill  just  click  on  that  and  the
+
+option  Im  looking  for  over  here  where
+
+it  says  distribute  we  want  to  choose
+
+this  option  right  here  that  says  even
+
+vertical  gaps  and  when  I  click  on
+
+that  it  makes  everything  spaced  apart
+
+evenly  and  what  we  could  do  now  is  Im
+
+just  going  to  adjust  this  a  little  bit
+
+what  we  could  do  now  is  we  can  combine
+
+all  of  these  Strokes  together  so  that
+
+this  becomes  one  shape  so  Im  going  to
+
+select  everything  and  I  will  go  to  path
+
+and  select  combine
+
+and  once  you  do  that  you  can  come  back
+
+over  to  your  fill  and  stroke  menu  and  we
+
+can  bring  the  opacity  all  the  way  up  and
+
+if  you  want  you  can  make  the  stroke
+
+larger  another  way  that  you  can  make  the
+
+stroke  larger  is  that  you  can  just  scale
+
+this  down  Im  going  to  hold  control  and
+
+scale  this  down  and  since  we  have  this
+
+setting  disabled  as  we  scale  the  object
+
+the  stroke  size  will  stay  the  same  so  if
+
+you  want  a  heavier  stroke  you  can  scale
+
+this  down  like  that  and  you  could  see
+
+the  result  as  its  happening  and  once
+
+youre  happy  with  the  thickness  of  the
+
+stroke  lets  enable  this  setting  again
+
+so  so  that  now  we  can  enlarge  this
+
+object  without  losing  those
+
+proportions  and  Im  actually  going  to
+
+adjust  that  a  little  bit  I  dont  want  it
+
+that
+
+heavy  okay  that  looks  a  little  better  so
+
+all  thats  left  now  is  to  color  this
+
+thing  in  so  let  me  zoom  in  on  this  a
+
+little  bit  and  Im  going  to  come  over
+
+here  to  my  stroke  paint  Tab  and  Im
+
+going  to  give  this  a  dark  blue  color
+
+Ill  come  over  here  to  the  original
+
+design  you  can  see  how  I  colored  it  here
+
+this  is  Im  going  to  go  for  something
+
+similar  right  here  I  mean  obviously  you
+
+can  color  this  however  youd  like  Im
+
+just  going  to  go  with  this  blue  theme
+
+Ill  make  this  a  little
+
+darker  and  I  want  to  fill  in  these  empty
+
+areas  here  using  the  paint  bucket  tool
+
+so  let  me  grab  the  paint  bucket  tool  and
+
+Im  going  to  click  on  this  area  right
+
+here  to  fill  it  in  and  Im  going  to
+
+change  that  color  to  something  else  oops
+
+that  was  the  wrong  thing  let  me  press
+
+control  Z  I  want  to  choose  the  fill  tab
+
+not  the  stroke  paint  tab  there  we  go  let
+
+me  make  this  a  different
+
+color  Ill  go  with  a  lighter  shade  of
+
+blue  and  Ill  come  over  here  and  fill
+
+this  in  as  well  Ill  make  this  a
+
+I  dont  know  why  its  applying  a  stroke
+
+let  me  get  rid  of  that  there  we  go  Ill
+
+take  this  and  Ill  make  this  one  a
+
+little
+
+darker  maybe  Ill  put  a  little  more  blue
+
+in
+
+there  and  then  Ill  do  this  one  more
+
+time  Ill  fill  that  one  in  and  Ill  make
+
+this  one  the  darkest  of  them  all  so  let
+
+me  make  it  a  little
+
+darker  and  Im  actually  going  to  make
+
+this  stroke  a  little  darker  as  well  to
+
+accommodate  these  uh  other  colors  and
+
+once  thats  done  we  want  to  raise  this
+
+to  the  top  so  Im  going  to  press  this
+
+button  over  here  that  says  raise  to  the
+
+top  we  want  that  we  want  the  stroke
+
+object  on  top  of  everything  else  on  top
+
+of  the  fill  objects  and  we  could  zoom
+
+out  and  you  can  see  we  are  finished  so
+
+thats  an  example  of  what  you  can  do
+
+using  the  spiral  tool  in  inkscape  if  you
+
+found  this  lesson  useful  then  consider
+
+checking  out  my  inkscape  master  class
+
+its  a  collection  of  over  60  videos
+
+where  I  go  over  all  of  the  tools  and
+
+features  in  inkscape  and  I  explain  what
+
+they  are  and  demonstrate  how  they  work
+
+kind  of  like  how  how  I  did  in  this  video
+
+we  even  have  a  private  Community  where
+
+you  can  ask  questions  and  get  help  from
+
+me  anytime  you  want  and  best  of  all
+
+theres  no  monthly  membership  fees  you
+
+just  pay  $17  one  time  and  youre  in  for
+
+Life  Ill  have  some  information  about
+
+that  down  below  if  you  want  to  check
+
+that  out  as  always  thanks  for
+
+
+
+watching

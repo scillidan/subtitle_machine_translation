@@ -1,0 +1,56 @@
+Lets create this crocodile with simple shapes.
+I drew this crocodile in GIMP. I will import this drawing in Inkscape, and vectorize it. I go to:
+File > Import. I select the sketch, and click on: Open. I click on: OK. I want to resize the canvas,
+to match the size of my drawing. To do this I right-click, and click on Document Properties.
+Then I click on the Resize to content icon. I zoom in, by pressing Ctrl and scrolling forward.
+And I can pan, by pressing the middle mouse button, and drag. To be able to see both the
+drawing and the artwork, I will create a new layer. I click on the Add Layer icon,
+and click on Add. I will place the layer below the layer with the drawing, by clicking on the Move
+down in the Stack icon. I hold my mouse above layer 1, and click on the square icon. I set the
+layer to: Multiply, so I can see the layer below, and I can look through the drawing. I will also
+set its Opacity to about 15 percent. And I will lock the layer, so the drawing cant be moved. I
+will start by drawing the eyes, which are made of circles. I will create them with the Ellipse tool.
+I zoom in on the left eye. I drag, and also hold down the Control key, so I get a perfect circle.
+Each shape you draw, can have a fill and a stroke. To give the circle a fill color, I can click on
+a color in the Swatches panel. And to give the circle a stroke color, you Shift-click on a color.
+Notice, the used fill color swatch, has a dot in it. And the stroke color swatch, is indicated
+with a larger circle line. So how do I remove the stroke? I remove the stroke, by Shift-clicking on
+the red cross. The red cross now shows the circle line. I also want a slightly different green for
+my fill. Although the dot and circle line make it easy to find back the used colors, I would
+like to have the used colors at the top, for easy access. To do this, I right click on the swatch,
+and choose: Pin Color. Now lets finish the eye. With the Ellipse tool I can make the circle
+larger. But I prefer to do this with the Select tool, because then I can drag from every corner.
+So I drag a corner, while holding down Control, to keep the circle round. Now I press Ctrl-D,
+to duplicate the circle. The duplicate is placed exactly on top of the original.
+I make the copy white, by clicking on the white swatch. Now I will make the eye smaller. To scale
+the circle from the center, I hold Ctrl plus Shift pressed down while dragging. Although the pupil is
+black, to see what I am doing I will temporarily choose gray. The pupil is not round, so now I will
+drag from the sides. To make the reflection, I will duplicate the white circle. I hold Ctrl,
+and drag it in place. I will now make the pupil black. I press Ctrl and scroll backward, to zoom
+out. Lets copy the left eye, and reuse it for the right eye. In the layers panel we see, the eye is
+created with four circles. To copy them, and move them together, I will make them a group. I drag
+over them, to select them all. I right-click on the selected items, and choose: Group.
+In the Layers panel we see, we now have a group. I can open and close the group. And I can give the
+group a name, by double-clicking on it. I type: left eye. We see the group behaves as if it is a
+single object. So I will press Ctrl-D to duplicate the group. And I will place the copied group over
+the other eye. I will call the new group: right eye. Now I reuse the group once again, to make the
+nostrils. I press Ctrl-D once again, to duplicate the group. The nostrils dont need the pupils and
+highlight, so I can remove these. To do this, I will ungroup the group. I click on the highlight,
+and press: Delete. And I also delete the pupil. The nostrils, like the scutes, are brown.
+So I click on the white circle, and in my Swatches, I choose a brown. I right-click
+on the swatch, and choose: Pin Color. Now I select the two circles, right-click, and choose: Group.
+I will scale the nostril down, and place it. I press Ctrl-D, and position the other nostril.
+I hold Shift, and click on the other nostril, to select them both. I right-click, and choose:
+Group. I now have two groups, placed in a new group. I will call the group: nostrils. For the
+belly, I drag another ellipse. I click on a yellow swatch. I right-click on the swatch, and choose:
+Pin Color. Finally, I make the mouth with the Ellipse tool. To use the Ellipse tool for scaling,
+drag one of the two squares. And to move the circle, drag the cross in the middle. Until now,
+we have only used fill colors for our circles. In the Swatches panel I can see that my circle
+has no stroke. To add a stroke, I Shift-click on a swatch. I need the stroke to be the same width as
+the mouth. I click on the Fill and Stroke tab, and then on: Stroke style. A width of 0.5 millimeter
+looks right. To remove the fill color, I click on the red cross. Now the circle only has a stroke.
+With the Ellipse tool, I can drag the little circle at the right,
+in two ways. If I drag and hold my mouse outside of the circle, I can create pie charts.
+And when I drag while holding my mouse inside the circle, I can create arc lines. Behind Cap,
+I choose: Round cap, so that the line will be rounded at the edges. I shift-click on the black
+swatch, to make the stroke black. In the next lecture, we will look at the rectangle tool.

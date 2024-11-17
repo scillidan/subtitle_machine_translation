@@ -1,0 +1,28 @@
+In this lecture, well make a chain icon, using the Shape Builder tool. I right-click on the
+canvas, and choose: Document Properties. Behind Orientation, I click on Landscape,
+to rotate the document 90 degrees. I click on the Rectangle tool, and drag a rectangle. I will hide
+the stroke, by shift-clicking on the red cross. I round the corners. To create a hole, lets try
+duplicating the rectangle. I make the duplicate green. I press shift plus Control, and make the
+rectangle smaller. We see, the green rectangle doesnt scale proportionally. So I press Ctrl-Z
+to undo. Lets try insetting. I press Ctrl-9 a couple of times. At first glance, this looks okay.
+So I will select them both, and go to: Path > Difference. Now I go to: View > Display
+Mode > Outline. Notice that I assigned Ctrl-Y to toggle between Normal and Outline mode,
+as it is in Illustrator. We will look at shortcuts in a later lecture. When I click on the Node tool,
+I see the nodes of the inset path are a bit off. To get a perfect path, lets try something
+else. I press Ctrl-Y, and Ctrl-Z. I delete the green rectangle. I give the rectangle a stroke,
+and increase its width. I set the fill to none. If I press Ctrl-Y, we see we just have a single
+line. I go to: Path > Stroke to Path. It looks like nothing happened. But when I press Ctrl-Y,
+we see I have outlined the stroke of the path. If I click on the Node tool, and click on the path,
+we see the nodes are now perfect. Now that I have changed the stroke to a fill,
+I will fill it with orange. I duplicate the chain element, and make it green. I select Snapping,
+and drag until it snaps. I select both elements, and click on the Shape Builder tool. When I drag,
+I see I get an unwanted connection. So I press on the X, and go to: Path > Fracture. I click on the
+Shape Builder tool again. I keep my mouse pressed down, and drag to connect some parts of the right
+chain. Then I let go of the mouse. Now I also drag over parts of the other chain. I click on Finish.
+Like in Illustrator, you sometimes have to do a little cleaning up. I click on the Node tool,
+and look for nodes that are superfluous. If there are any, I select them and press
+Delete. I will give the chain a stroke. And I remove the fill. When I scale the icon, I see
+the stroke doesnt scale with it. The reason is that proportional stroke scaling is not selected,
+which normally is what I want. When I select it, the stroke scales, proportionally with
+the scaling. The best solution however, is to outline the stroke as we did before. Regardless
+whether stroke scaling is activated, the chain can now be scaled to any size.

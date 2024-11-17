@@ -1,0 +1,248 @@
+1
+00:00:01,079 --> 00:00:02,639
+we have seen that filters and effects
+
+2
+00:00:02,639 --> 00:00:05,279
+must be rasterized to be visible in a
+
+3
+00:00:05,279 --> 00:00:08,200
+PDF also when importing an SVG and
+
+4
+00:00:08,200 --> 00:00:10,840
+scribus you will not see the blur effect
+
+5
+00:00:10,840 --> 00:00:12,840
+you'll see the original Vector shape but
+
+6
+00:00:12,840 --> 00:00:15,599
+effects like blur are emitted so artwork
+
+7
+00:00:15,599 --> 00:00:17,800
+often must be rasterized to be visible
+
+8
+00:00:17,800 --> 00:00:20,600
+in other programs the two most used bit
+
+9
+00:00:20,600 --> 00:00:24,359
+map formats are PNG and jpeg jpeg
+
+10
+00:00:24,359 --> 00:00:26,320
+doesn't support transparency so
+
+11
+00:00:26,320 --> 00:00:28,279
+transparent areas will be filled in with
+
+12
+00:00:28,279 --> 00:00:31,679
+white also jpeg uses a lossy compression
+
+13
+00:00:31,679 --> 00:00:35,120
+algorithm sacrificing image quality so
+
+14
+00:00:35,120 --> 00:00:37,239
+PNG is higher quality and the best
+
+15
+00:00:37,239 --> 00:00:39,800
+choice for everything except photographs
+
+16
+00:00:39,800 --> 00:00:41,640
+let's see how to save this logo as a bit
+
+17
+00:00:41,640 --> 00:00:44,239
+map I will save one for the internet and
+
+18
+00:00:44,239 --> 00:00:46,920
+one for print what we will see is that
+
+19
+00:00:46,920 --> 00:00:50,320
+you always save in pixels I go to file
+
+20
+00:00:50,320 --> 00:00:54,160
+export I see I can save the entire page
+
+21
+00:00:54,160 --> 00:00:56,280
+when I click on document I see the area
+
+22
+00:00:56,280 --> 00:00:58,079
+that will be exported comprises the
+
+23
+00:00:58,079 --> 00:01:00,760
+visible elements I only want to export
+
+24
+00:01:00,760 --> 00:01:03,760
+the logo so I drag over the logo then I
+
+25
+00:01:03,760 --> 00:01:06,320
+go to selection now I see the export
+
+26
+00:01:06,320 --> 00:01:09,080
+area is confined to the selection the
+
+27
+00:01:09,080 --> 00:01:11,240
+logo for the website has to be 200
+
+28
+00:01:11,240 --> 00:01:15,200
+pixels high so for height I give in 200
+
+29
+00:01:15,200 --> 00:01:17,119
+when I press enter I see the width is
+
+30
+00:01:17,119 --> 00:01:21,600
+automatically set to 175 pixels DPI is
+
+31
+00:01:21,600 --> 00:01:24,280
+unrelated to pixel dimensions changing
+
+32
+00:01:24,280 --> 00:01:26,840
+the DPI will also change the amount of
+
+33
+00:01:26,840 --> 00:01:30,439
+pixels so I leave DPI as it is I click
+
+34
+00:01:30,439 --> 00:01:33,000
+on export selected only I click on
+
+35
+00:01:33,000 --> 00:01:36,680
+select export format and choose PNG at
+
+36
+00:01:36,680 --> 00:01:39,119
+the right are different options I prefer
+
+37
+00:01:39,119 --> 00:01:41,079
+compression on nine to get the smallest
+
+38
+00:01:41,079 --> 00:01:44,240
+file size and anti-alias should be on
+
+39
+00:01:44,240 --> 00:01:47,119
+two anti-alias on zero gives ragged
+
+40
+00:01:47,119 --> 00:01:49,600
+edges click on the folder icon to choose
+
+41
+00:01:49,600 --> 00:01:53,200
+a location to save then click on export
+
+42
+00:01:53,200 --> 00:01:55,560
+when I open the PNG and gim I see the
+
+43
+00:01:55,560 --> 00:01:59,920
+size is 175 x 200 pixels now let's save
+
+44
+00:01:59,920 --> 00:02:02,719
+the logo for print for print you also
+
+45
+00:02:02,719 --> 00:02:05,600
+save in pixels this is because 300
+
+46
+00:02:05,600 --> 00:02:09,038
+pixels is the same as 1 in let's say my
+
+47
+00:02:09,038 --> 00:02:13,239
+logo has to be 2 1/2 in high so 2 1/2 *
+
+48
+00:02:13,239 --> 00:02:17,920
+300 pix is 750 pixels so for height I
+
+49
+00:02:17,920 --> 00:02:19,280
+give in
+
+50
+00:02:19,280 --> 00:02:21,879
+750 when I press tab width is
+
+51
+00:02:21,879 --> 00:02:26,080
+automatically calculated to 657 pixels I
+
+52
+00:02:26,080 --> 00:02:30,080
+see the DPI value has also changed again
+
+53
+00:02:30,080 --> 00:02:32,560
+in this situation the DPI value is
+
+54
+00:02:32,560 --> 00:02:35,120
+unrelated to the pixel dimensions the
+
+55
+00:02:35,120 --> 00:02:37,760
+only time you use the DPI value field is
+
+56
+00:02:37,760 --> 00:02:40,879
+on the page tab this is because a page
+
+57
+00:02:40,879 --> 00:02:43,879
+has a concrete Dimension like A4 to
+
+58
+00:02:43,879 --> 00:02:45,879
+export a page for print you set it to
+
+59
+00:02:45,879 --> 00:02:46,959
+300
+
+60
+00:02:46,959 --> 00:02:50,680
+DPI changing the DPI change the pixel
+
+61
+00:02:50,680 --> 00:02:54,360
+dimensions now we can see that an A4 is
+
+62
+00:02:54,360 --> 00:03:00,480
+2,480 x 358 pixels for print
+

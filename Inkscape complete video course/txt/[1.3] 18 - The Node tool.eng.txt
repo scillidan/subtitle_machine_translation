@@ -1,0 +1,56 @@
+In this and the next lecture, I will integrate a graph with an image. To start, lets import
+the sketch I have for the end result. I go to: File > Import, and open the sketch. I hold Shift
+plus Control, and make the sketch a bit smaller. I call the image: sketch, and lock it. I set
+the Opacity to: 25 percent, and the Blend mode to: Multiply. I create a new layer, and call it:
+legs. Now I import the image of the soccer player. I call the image: bicycle kick. I
+will increase the size of the image, until it roughly fits the sketch outline. As we see with
+the end result, I need the legs to be cut out. Normally you dont need the high precision like
+the letter we traced in the last lecture. The Node tool in Inkscape lets you trace an image extremely
+fast. And the Node tool offers many possibilities, to customize the result when needed. I will hide
+the sketch. Before we can utilize the Node tool, I will first place some nodes around the legs using
+the Pen tool. I will place points, by roughly following the shape of the legs. As we see,
+I do not make any curves. I just place a point, when there is a change in direction. I dont
+worry about curves. The Node tool is much faster at creating curves. With the football, I only
+click on the outer edges, as we saw in the last lecture. So I only click at the bottom, the left,
+and the top of the ball. Where there is some more important detail, I will zoom in a bit, and place
+some points. What is chopped off by the straight lines, will be corrected by the Node tool.
+So I click there, where there are changes in the direction of the curve. Also for the bottom
+of the shoe, I click, pretending my lines are curved, even though they are not. Even
+the sharp points of the soccer shoe studs, will be taken care of by the Node tool. When I have
+reached the shorts again, I can close the path. To do this, I click again on the first point.
+Now I select the Node tool. I will select some nodes that I dont need, by dragging over them.
+Then I press: Delete. Now I will match the curves, by simply dragging the lines. I wouldnt do this
+to trace letters, but it works extremely fast. I have traced many images in GIMP and Photoshop
+in the past, but the Node tool of Inkscape, is probably my favorite tool to trace images. This
+way of working, doesnt give the 100% accuracy, that for example is needed when you create a logo.
+But for tracing bitmap images, in my opinion, this isnt needed to get good results. As we see,
+I have full control over the curve. I drag a line, and can get it any curvature I want. And
+if I want to add a point, I simply double-click on a line. So now lets look at some extra features,
+that the Node tool provides. I drew the spikes of the bottom shoe, with a single node. If I
+find this a bit too pointy, I can easily make them more round. I select the spikes by Shift-clicking
+on them. Then I click on the Make selected nodes smooth icon. Now lets have a look at the
+other foot. I will drag over the top nodes, and smooth them. It does give me the result I need,
+but you can do more. As we see, with a smooth node, the arms are linked. But lets say, I want
+to move the arms independently. To do this, click once on the Make selected nodes corner icon.
+We see the node changed from a square, to a diamond. The arms are not connected anymore.
+And if you want to remove the arms, click on the Make selected nodes corner icon a second time.
+I will make the nodes smooth again. If you want the arms of a node to have the same length at all
+times, click on Make selected nodes symmetric. If I drag an arm, I see the other arm is mirrored
+in the node. Auto-smooth gives special kind of arms, that adjusts themselves when you drag the
+node. I will go back to a smooth node, where the arms are linked, but can have their own length.
+If you want to create a straight line between two curved nodes, select the nodes. Then click on:
+Straighten lines. Now the path between the nodes is straight, and the nodes are locked in their
+direction. This locking is to prevent the straight line to curve, when you adjust the handles. And
+to go back to a curve, simply drag the line. If you want to give an arm a different direction,
+but you dont want to change the length of an arm, hold the Alt key. And to add a point, simply
+double-click on a line. As we see, there are many ways to manipulate a curve with the Node tool.
+If you dont want to see the arms, deselect the Show Bezier handles icon. And to hide the path
+itself, deselect the Show path outline icon. I will delete some nodes. To quickly add nodes,
+without having to double-click many times, select two nodes. Then click on Insert new
+nodes into selected segments. Each time you click, the amount of added nodes will double.
+Now my path is ready. Lets use the path to cut out the legs. I call the path:
+legs. I right-click on the path, and choose: Set Clip Group. I drag the image
+on the Clip Group folder. I want my image to be duotone, so I will add a blue rectangle.
+I click on a blue. I call the rectangle: blue. I set blue to the Color Blend mode. I click on
+Fill and Stroke. I can now give the duotone the correct color. I drag the blue a bit more to cyan.
+In the next lecture, we will place the bars and the text.

@@ -1,0 +1,80 @@
+1
+00:00:00,360 --> 00:00:06,660
+Just like Adobe Illustrator, Inkscape is a 
+vector graphics editing program. But Inkscape  
+
+2
+00:00:06,660 --> 00:00:14,520
+is 100% free! With Inkscape, as with illustrator, 
+you can create logos, illustrations and artwork.  
+
+3
+00:00:15,660 --> 00:00:19,440
+Because the graphics made in Inkscape 
+are vector based, you can scale them  
+
+4
+00:00:19,440 --> 00:00:27,900
+infinitely without losing quality. So let's 
+download Inkscape. I go to: www.inkscape.org.
+
+5
+00:00:28,500 --> 00:00:32,280
+On the Inkscape website you can find 
+a lot of information and resources.  
+
+6
+00:00:32,820 --> 00:00:38,820
+The latest version is 1.2, but there already is 
+a contest for the new screen for Inkscape 1.3.  
+
+7
+00:00:39,420 --> 00:00:44,220
+I click on: ''Download Now!''. Inkscape tells 
+me I've been redirected to the best download,  
+
+8
+00:00:44,220 --> 00:00:50,400
+which in my case is a ''Windows Installer 
+Package''. ''MSI'' stands for ''Microsoft Software  
+
+9
+00:00:50,400 --> 00:00:55,560
+Installer'', which is normally used to install 
+and update software on Windows. The Microsoft  
+
+10
+00:00:55,560 --> 00:01:00,720
+installer keeps track of which products have been 
+installed, and to which location. This means with  
+
+11
+00:01:00,720 --> 00:01:05,519
+an update of the software, it can detect the older 
+version, and can preserve any custom settings or  
+
+12
+00:01:05,519 --> 00:01:11,160
+configurations that I applied. I click on it 
+to start the download. In my Downloads folder  
+
+13
+00:01:11,160 --> 00:01:18,360
+I double-click on the MSI file. I click on: Next. 
+Here I can see where Inkscape will be installed.  
+
+14
+00:01:18,360 --> 00:01:22,920
+You can choose not to install some parts of 
+Inkscape. But I like to have all extensions and  
+
+15
+00:01:22,920 --> 00:01:28,200
+dictionaries. When asked if I want to proceed the 
+installation, I click on: Yes. Then I click on:  
+
+16
+00:01:28,200 --> 00:01:33,180
+Finish. In the next lecture we'll look at how 
+to customize the user interface of Inkscape.
+

@@ -1,0 +1,568 @@
+
+one  of  the  greatest  advantages  that
+
+comes  with  using  inkscape  is  having  the
+
+ability  to  create  repeat  patterns  from
+
+simple  shapes  objects  and  even  groups  of
+
+objects  in  fact  not  only  can  you  use
+
+vector  objects  to  create  patterns  in
+
+inkscape  you  can  even  use  text  objects
+
+clipped  objects  and  even  jpeg  images  in
+
+this  tutorial  well  be  showing  you
+
+exactly  how
+
+so  getting  us  started  here  inkscape
+
+makes  the  process  of  turning  an  object
+
+into  a  pattern  incredibly  easy  let  me
+
+show  you  what  i  mean  using  a  simple
+
+shape  just  to  get  us  started  and  then
+
+ill  show  you  a  working  example  of  how
+
+you  can  actually  use  this  in  a  practical
+
+sense
+
+so  im  going  to  start  off  with  a  star
+
+im  going  to use  the  stars  and  polygons
+
+tool  im  going  to  choose  star  instead  of
+
+polygon  and  im  going  to  use  these  input
+
+settings  right  here  in  case  youd  like
+
+to  follow  along  with  what  im  doing
+
+now  im  just  going  to  click  and  drag  on
+
+the  canvas  to  create  my  star  im  going
+
+to  move  the  cursor  up  like  that  and  im
+
+going  to  hold  ctrl  and  ctrl  and  shift  so
+
+that  we  have  a  nice  upright  star  like
+
+that
+
+now  im  going  to  make  this  green  just  to
+
+have  a  different  color  grab  the
+
+selection  tool  and  let  me  scale  this
+
+down  a little  bit  im  going to  hold  ctrl
+
+to  lock  the  proportions  and  scale  that
+
+down  like  that
+
+and  now  to  turn  this  object  into  a
+
+pattern  all  you  have  to  do  is  make  sure
+
+you  have  it  selected  and  go  to  object
+
+pattern  and  select  object  to  pattern
+
+okay  now  nothing  visibly  changes  on  your
+
+canvas  but  that  object  will  now  be
+
+registered  as  a  pattern  in  your  fill  and
+
+stroke  menu  so  let  me  show  you  how  you
+
+can  apply  it  now  im  going  to  grab  the
+
+rectangle  tool  im  going  to  click  and
+
+drag  on  the  canvas  to  create  a  simple
+
+rectangle  like  that
+
+just  for  the  sake  of  simplicity  im
+
+going  to  convert  this  to  a  path  so  ill
+
+go  to  path  and  select  object  to  path
+
+and  now  i  want  to  change  the  fill
+
+property  of  this  rectangle  from  a  solid
+
+color  to  a  pattern  so  to  do  that  were
+
+going to  use  the  fill  and  stroke  menu
+
+which  is  located  over  here
+
+and  what  we  are  looking  for  is  under  the
+
+fill  tab  we  have  all  of  these  different
+
+options  for  filling  our  object  were
+
+looking  for  this  option  right  here  that
+
+says  pattern  when  you  hover  your  cursor
+
+over  it  im  going  to  click  on  that
+
+and  if  you  use  this  drop  down  right  here
+
+you  should  see  a  list  of  all  the
+
+different  patterns  that  inkscape  has  in
+
+it  already  now  the  patterns  that  you
+
+create  custom  made  patterns  are  going  to
+
+be  labeled  as  pattern  with  a  series  of
+
+random  numbers  after  it  i  dont  know  why
+
+this  is  the  case  uh  but  for  whatever
+
+reason  inkscape  will  name  your  patterns
+
+this  and  as  far  as  i  know  there  is  no
+
+way  to  change  the  name  of  these  patterns
+
+so  look  for  something  titled  pattern
+
+3786  or  whatever  your  numbers  will  be
+
+and  select  that
+
+and  uh  the  the  pattern  is  actually
+
+applied  there  you  cant  really  see  it
+
+though  because  it  needs  to  be  scaled
+
+down  so  to  scale  this  down  lets  work  on
+
+editing  our  pattern
+
+im  going  to  grab  the  edit  pads  by  nodes
+
+tool  over  here
+
+and  what  we  are  looking  for  is  were
+
+looking  for  these  handles  the  first
+
+handle  were  looking  for  is  right  here
+
+this  little  let  me  zoom  in  on  this  this
+
+little  crosshair  this  x  represents  the
+
+location  of  the  pattern  relative  to  your
+
+object
+
+now  if  i  want  to  move  the  location  of
+
+the  pattern  i  could  just  click  and  drag
+
+this  x  like  this  to  move  the  pattern
+
+within  the  object  like  that  you  probably
+
+couldnt  see  exactly  what  happened  there
+
+because  the  patterns  too  large  i  have
+
+to  scale  it  down  so  lets  do  that  let  me
+
+zoom  out  a little  bit  im  going  to  hold
+
+ctrl  and  roll  down  the  mouse  wheel  a
+
+couple  of  times
+
+and  im  looking  for  some  more  handles
+
+out  here  i  dont  know  why  but  for  some
+
+reason  inkscape  puts  these  handles  all
+
+the  way  out  here  in  space  sometimes  so
+
+youll  have  to  look  around  for  them  and
+
+theyre  tiny  too  theyre  hard  to  see  so
+
+were  looking  for  this  square  handle
+
+right  here  which  represents  the  size  of
+
+the  pattern
+
+and  then  were  looking  for  this  circular
+
+handle  right  here  which  represents  the
+
+rotation  of  the  pattern
+
+so  let  me  take  the  square  handle  over
+
+here  and  scale  this  pattern  down  im
+
+going  to  hold  ctrl
+
+while  im  doing  this  im  bringing  the
+
+square  handle  towards  the  center  point
+
+that  crosshair  that  x  and  as  i  do  this
+
+im  holding  ctrl  to  lock  the  aspect
+
+ratio  and  as  you  can  see  the  pattern  is
+
+getting  smaller  and  were  seeing  more  of
+
+those  stars  in  there  let  me  zoom  in  on
+
+this  so  you  can  see  this  better
+
+this  scaling  handle
+
+allows  you  to
+
+resize  your  pattern  as  needed  as  you  can
+
+see  here  and  if  you  want  to  rotate  your
+
+pattern  you  can  use  this  handle  right
+
+here
+
+holding  control  will  lock  the  rotation
+
+onto  15  degree  angles  the  same  as  it
+
+would  with  any  other  transformation  that
+
+you  would  make  in  inkscape  and  again  if
+
+you  want  to  move  the  location  of  the
+
+pattern  you  just  have  to  click  and  drag
+
+this  crosshair  like  that  and  move  this
+
+around  as  you  can  see  here
+
+and  there  you  go  that  is  how  you  could
+
+take  an  object  and  turn  it  into  a  simple
+
+pattern
+
+so  lets  go  over  a  working  example  of
+
+how  you  would  actually  use  this  feature
+
+to  create  a  pattern  design
+
+for  an  example  here  i  have  this  simple
+
+avocado  graphic  that  i  created  im  just
+
+going  to  click  and  drag  over  everything
+
+here  and  group  all  of  these  shapes
+
+together  by  going  to  object
+
+and  selecting
+
+group  now  the  good  thing  about  working
+
+with  patterns  in  inkscape  is  that  it
+
+allows  you  to  create  patterns  from
+
+virtually  anything  it  doesnt  just  have
+
+to  be  a  single  shape  or  a  single  object
+
+it  could  be  a  grouping  of  objects  it
+
+could  be  a  text  object  it  could  be  a
+
+masked  or  a  clipped  object  it  could  even
+
+be  a  jpeg  image  so  virtually  anything
+
+you  want  in  inkscape  can  be  turned  into
+
+a  pattern  okay  so  im  going  to  turn  this
+
+group  of  vector  objects  into  a  pattern
+
+now  when  i  create  my  pattern  i  dont
+
+want  all  of  the  copies  of  this  graphic
+
+to  be  touching  each  other  side  by  side
+
+as  you  can  see  here  by  the  bounding  box
+
+what  i  want  to  do  is  increase  the  size
+
+of  that  bounding  box  so  that  these
+
+objects  have  some  spacing  between  them
+
+as  they  repeat  in  the  pattern  so  what
+
+im  going  to  do  is  im  going  to  copy
+
+this  object  im  going  to  right  click  it
+
+and  go  to  copy
+
+and  im  going  to  create  a  rectangle
+
+like  that
+
+and  i  want  to  make  this  rectangle  the
+
+same  size  as  my  object  im  going  to  go
+
+to  edit
+
+paste  size  and  im  going  to  choose  paste
+
+size
+
+grab  the  selection  tool  lower  this
+
+beneath  the  object  click  and  drag  over
+
+both  of  these  so  we  have  them  both
+
+selected  and  im  going  to  center  this  up
+
+on  the  vertical  and  horizontal  axis
+
+using  the  alignment  menu  which  is
+
+located  over  here
+
+it  should  open  up  on  the  right  hand  side
+
+of  your  screen  and  i  want  last  selected
+
+chosen  from  this  drop  down  and  im  just
+
+going  to  align  this  on  the  vertical  and
+
+horizontal  axis  like  that
+
+okay  so  now  im  going  to  click  off  of
+
+this  to  deselect  everything  what  i  want
+
+to  do  now  is  take  this  object  and  add
+
+some  padding  around  it  so  that  we  have
+
+some  spacing  going  around  this  avocado
+
+graphic
+
+so  what  im  going  to  do  up  here  where  it
+
+says  the  width  328  im  just  going  to  add
+
+100  to  each  dimension  so  im  going  to
+
+make  this
+
+uh  400
+
+and  im  going  to  make  this  over  here  the
+
+height
+
+500
+
+and  now  we  have  a  little  bit  of  padding
+
+there  let  me  center  that  up  center  that
+
+up  let  me  see  how  that  looks  okay  we
+
+have  some  more  pattern  but  maybe  not  as
+
+much  as  id  like  im  going  to  add
+
+another  100  to  each  dimension  so  let  me
+
+make  this  500
+
+and  then  ill  make  this  one  600
+
+and  let  me  try  that  again  let  me  center
+
+that  up
+
+okay  that  looks  a  little  better
+
+so  now  im  going  to  grop  im  going  to
+
+group  these  two  objects  together  ill  go
+
+to  object  and  select
+
+group
+
+and  im  just  going  to  scale  this  down
+
+and  put  this  off  to  the  side
+
+im  going  to  select  this  make  sure  i
+
+have  it  selected  go  to  object
+
+pattern
+
+objects  to  pattern  and  lets  say  i  want
+
+to  use  this  as  a  background  for  like  a
+
+thumbnail  im  going  to  design  the
+
+average  thumbnail  design  is  1280  by  720
+
+pixels  so  im  going  to  grab  the
+
+rectangle  tool
+
+click  and  drag  like  that  and  let  me  grab
+
+my  selection  tool  and  im  going  to
+
+change  the  width  and  height  of  this  to
+
+1280
+
+by  720  like  that  and  i  want  to  resize  my
+
+canvas  to  fit  this  object  so  im  going
+
+to  select  the  object  and  press  ctrl
+
+shift  and  r  on  the  keyboard  and  itll
+
+resize  the  document  to  fit  that  object
+
+now  im  going  to  take  this  object  right
+
+here
+
+go  back  to  the  fill  and  stroke  menu  and
+
+im  going  to  choose  my  pattern  and  as
+
+you  can  see  theres  the  pattern  so  what
+
+i  want  to  do  is  grab  the  edit  paths  by
+
+nodes  tool
+
+and  look  for  the  placement  put  that  in
+
+the  center
+
+look  for  the  scaling  handle  scale  that
+
+down
+
+oops
+
+there  we  go
+
+and  as  you  can  see  we  have  our  avocado
+
+pattern  that  we  created
+
+using  inkscape  and  i  could  even  rotate
+
+this  around  a little  bit  just  to  give  it
+
+a  little  bit  of  a
+
+design  flare  there  we  go
+
+okay  you  got  to  make  sure  youre
+
+grabbing  the  correct  cross  hair  here
+
+there  we  go
+
+and  there  we  go  that  is  how  you  could
+
+take  a  simple  object  and  turn  it  into  a
+
+repeat  pattern  that  you  can  use  to  fill
+
+objects  however  youd  like  in  inkscape
+
+before  i  end  this  video  if  you  found
+
+this  lesson  useful  then  consider
+
+checking  out  my  inkscape  master  class
+
+its  a  collection  of  over  60  videos
+
+where  i  go  over  all  of  the  tools  and
+
+features  in  inkscape  and  i  explain  what
+
+they  are  and  demonstrate  how  they  work
+
+kind  of  like  how  i  did  in  this  video  we
+
+even  have  a  private  community  where  you
+
+can  ask  questions  and  get  help  from  me
+
+anytime  you  want  and  best  of  all  theres
+
+no  monthly  membership  fees  you  just  pay
+
+17  one  time  and  youre  in  for  life  ill
+
+have  some  information  about  that  in  the
+
+description  of  the  video  if  you  want  to
+
+check  that  out  as  always  thanks  for
+
+watching
+
+you

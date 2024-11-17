@@ -1,0 +1,584 @@
+1
+00:00:00,000 --> 00:00:02,040
+in a video that I uploaded last week
+
+2
+00:00:02,040 --> 00:00:03,360
+discussing some of the differences
+
+3
+00:00:03,360 --> 00:00:05,580
+between illustrator and inkscape one of
+
+4
+00:00:05,580 --> 00:00:07,200
+the items that I pointed out was that in
+
+5
+00:00:07,200 --> 00:00:08,880
+inkscape you don't have the ability to
+
+6
+00:00:08,880 --> 00:00:10,559
+generate charts and graphs like you can
+
+7
+00:00:10,559 --> 00:00:12,900
+in illustrator but it turns out I spoke
+
+8
+00:00:12,900 --> 00:00:15,000
+too soon on that one as a commenter
+
+9
+00:00:15,000 --> 00:00:16,680
+pointed out there is an extension in
+
+10
+00:00:16,680 --> 00:00:18,660
+inkscape that allows you to do this and
+
+11
+00:00:18,660 --> 00:00:20,580
+although it is pretty rudimentary it
+
+12
+00:00:20,580 --> 00:00:22,680
+does work well enough so let's go over
+
+13
+00:00:22,680 --> 00:00:24,720
+how to use this extension
+
+14
+00:00:24,720 --> 00:00:27,240
+I'm going to open up a new document and
+
+15
+00:00:27,240 --> 00:00:28,740
+to access this extension we're going to
+
+16
+00:00:28,740 --> 00:00:30,240
+come up here to where it says extensions
+
+17
+00:00:30,240 --> 00:00:33,000
+we're going to go down to render
+
+18
+00:00:33,000 --> 00:00:35,280
+and the item we're looking for is nice
+
+19
+00:00:35,280 --> 00:00:37,820
+charts
+
+20
+00:00:38,219 --> 00:00:40,020
+and in this menu
+
+21
+00:00:40,020 --> 00:00:41,460
+if you come over here to where it says
+
+22
+00:00:41,460 --> 00:00:43,739
+data you can see we have two different
+
+23
+00:00:43,739 --> 00:00:45,899
+types of data that we can input we can
+
+24
+00:00:45,899 --> 00:00:48,120
+choose data from a file I haven't tried
+
+25
+00:00:48,120 --> 00:00:49,680
+this myself but apparently you can
+
+26
+00:00:49,680 --> 00:00:52,020
+import data from a CSV file if you'd
+
+27
+00:00:52,020 --> 00:00:53,940
+like and then over here we have direct
+
+28
+00:00:53,940 --> 00:00:55,079
+input which is we're going to be
+
+29
+00:00:55,079 --> 00:00:57,239
+focusing on for this lesson
+
+30
+00:00:57,239 --> 00:00:58,680
+now this is where things get a little
+
+31
+00:00:58,680 --> 00:01:00,059
+complicated if you come down here to
+
+32
+00:01:00,059 --> 00:01:02,219
+this text input box you'll see this is
+
+33
+00:01:02,219 --> 00:01:04,319
+how we go about adding items to our
+
+34
+00:01:04,319 --> 00:01:06,960
+chart so every item that you add has to
+
+35
+00:01:06,960 --> 00:01:08,340
+have a name here like I've done I've
+
+36
+00:01:08,340 --> 00:01:11,760
+written in Sample item and then add a
+
+37
+00:01:11,760 --> 00:01:13,979
+colon and then the number representing
+
+38
+00:01:13,979 --> 00:01:16,020
+the percentage of that chart and then
+
+39
+00:01:16,020 --> 00:01:18,479
+add a comma separating it from the next
+
+40
+00:01:18,479 --> 00:01:19,380
+item
+
+41
+00:01:19,380 --> 00:01:21,060
+so it's kind of like writing code here
+
+42
+00:01:21,060 --> 00:01:22,439
+you're gonna have to write this for each
+
+43
+00:01:22,439 --> 00:01:24,000
+one of the items that you want in your
+
+44
+00:01:24,000 --> 00:01:25,979
+chart and if you're using the percentage
+
+45
+00:01:25,979 --> 00:01:27,299
+pie chart like I'm using you're going to
+
+46
+00:01:27,299 --> 00:01:28,680
+want to make sure that these numbers add
+
+47
+00:01:28,680 --> 00:01:30,000
+up to 100.
+
+48
+00:01:30,000 --> 00:01:31,680
+so I'm going to move this menu off to
+
+49
+00:01:31,680 --> 00:01:33,780
+the side and I'm going to tick the live
+
+50
+00:01:33,780 --> 00:01:35,400
+preview box
+
+51
+00:01:35,400 --> 00:01:37,020
+and it's going to show you a preview of
+
+52
+00:01:37,020 --> 00:01:38,939
+what gets generated here
+
+53
+00:01:38,939 --> 00:01:40,560
+so if I come down here to the chart type
+
+54
+00:01:40,560 --> 00:01:42,180
+drop down you can see we have four
+
+55
+00:01:42,180 --> 00:01:43,619
+different types of charts that we can
+
+56
+00:01:43,619 --> 00:01:46,560
+choose from if I choose bar chart
+
+57
+00:01:46,560 --> 00:01:49,140
+we get something like this right here if
+
+58
+00:01:49,140 --> 00:01:51,720
+I choose pie chart we get the regular
+
+59
+00:01:51,720 --> 00:01:52,860
+pie chart
+
+60
+00:01:52,860 --> 00:01:55,740
+if we choose pie chart percentage it
+
+61
+00:01:55,740 --> 00:01:57,240
+gives you the same pie chart but with
+
+62
+00:01:57,240 --> 00:01:59,100
+the numbers having a percentage symbol
+
+63
+00:01:59,100 --> 00:02:00,180
+after them
+
+64
+00:02:00,180 --> 00:02:02,100
+and then finally we have stacked bar
+
+65
+00:02:02,100 --> 00:02:04,920
+chart down here which looks like that
+
+66
+00:02:04,920 --> 00:02:06,600
+so I'm going to go back to pie chart
+
+67
+00:02:06,600 --> 00:02:07,799
+percentage
+
+68
+00:02:07,799 --> 00:02:09,598
+and if you come over here to the labels
+
+69
+00:02:09,598 --> 00:02:11,400
+tab we have some options that we can
+
+70
+00:02:11,400 --> 00:02:13,260
+work with you can change the font if
+
+71
+00:02:13,260 --> 00:02:15,120
+you'd like you can change the font size
+
+72
+00:02:15,120 --> 00:02:17,340
+and you could change the font color now
+
+73
+00:02:17,340 --> 00:02:18,959
+the problem with using this menu is that
+
+74
+00:02:18,959 --> 00:02:20,099
+if you want to change the color you're
+
+75
+00:02:20,099 --> 00:02:21,540
+going to have to manually type in the
+
+76
+00:02:21,540 --> 00:02:23,220
+hex code and if you want to change the
+
+77
+00:02:23,220 --> 00:02:25,140
+font you'll have to manually type in the
+
+78
+00:02:25,140 --> 00:02:27,660
+font name here so maybe this menu isn't
+
+79
+00:02:27,660 --> 00:02:29,879
+the best way to go about doing this once
+
+80
+00:02:29,879 --> 00:02:31,379
+you're finished generating the chart you
+
+81
+00:02:31,379 --> 00:02:33,180
+can go and do all of that retroactively
+
+82
+00:02:33,180 --> 00:02:34,680
+using the text tool in the fill and
+
+83
+00:02:34,680 --> 00:02:36,420
+stroke menu so that's probably a much
+
+84
+00:02:36,420 --> 00:02:38,040
+easier way to do that so I'm going to
+
+85
+00:02:38,040 --> 00:02:40,020
+ignore this part of the menu and I'll
+
+86
+00:02:40,020 --> 00:02:41,819
+come over here to the charts tab
+
+87
+00:02:41,819 --> 00:02:43,560
+and if you notice we have some more
+
+88
+00:02:43,560 --> 00:02:45,540
+options that we can work with more
+
+89
+00:02:45,540 --> 00:02:47,099
+specifically we have the color scheme
+
+90
+00:02:47,099 --> 00:02:49,080
+that we can change if I click on this
+
+91
+00:02:49,080 --> 00:02:50,640
+drop down right here I can choose a blue
+
+92
+00:02:50,640 --> 00:02:53,280
+color scheme which looks like that I can
+
+93
+00:02:53,280 --> 00:02:55,739
+choose gray which looks like that
+
+94
+00:02:55,739 --> 00:02:58,140
+and then we have contrast and then we
+
+95
+00:02:58,140 --> 00:02:59,580
+have sap
+
+96
+00:02:59,580 --> 00:03:01,019
+so that's what those options look like
+
+97
+00:03:01,019 --> 00:03:02,400
+I'm going to set this back to default
+
+98
+00:03:02,400 --> 00:03:04,379
+again this would probably be easier to
+
+99
+00:03:04,379 --> 00:03:06,120
+change after we generate the chart so
+
+100
+00:03:06,120 --> 00:03:07,620
+I'm going to leave that as it is for now
+
+101
+00:03:07,620 --> 00:03:09,660
+and then over here we can add or remove
+
+102
+00:03:09,660 --> 00:03:11,400
+a drop shadow so this is what it looks
+
+103
+00:03:11,400 --> 00:03:13,080
+like with the drop shadow added beneath
+
+104
+00:03:13,080 --> 00:03:15,840
+the chart if I deselect that we just
+
+105
+00:03:15,840 --> 00:03:18,360
+have a flat chart as you can see there
+
+106
+00:03:18,360 --> 00:03:20,819
+and then finally I'll come over here to
+
+107
+00:03:20,819 --> 00:03:23,700
+the values tab now the values represent
+
+108
+00:03:23,700 --> 00:03:25,920
+the numbers after the item name so if
+
+109
+00:03:25,920 --> 00:03:27,300
+you don't want those numbers being
+
+110
+00:03:27,300 --> 00:03:29,159
+displayed there you can just untick that
+
+111
+00:03:29,159 --> 00:03:31,080
+box and then those values will be
+
+112
+00:03:31,080 --> 00:03:32,099
+removed
+
+113
+00:03:32,099 --> 00:03:33,480
+so I'm going to put them back on there
+
+114
+00:03:33,480 --> 00:03:35,340
+and once you're finished you can just
+
+115
+00:03:35,340 --> 00:03:37,319
+click the apply button and then close
+
+116
+00:03:37,319 --> 00:03:39,959
+out of the menu and now you have a pie
+
+117
+00:03:39,959 --> 00:03:41,340
+chart that you can work with and you can
+
+118
+00:03:41,340 --> 00:03:43,560
+click on these items individually and
+
+119
+00:03:43,560 --> 00:03:45,480
+change their colors like any other
+
+120
+00:03:45,480 --> 00:03:47,400
+Vector object as you see me doing here
+
+121
+00:03:47,400 --> 00:03:49,860
+and if you want to change the font of
+
+122
+00:03:49,860 --> 00:03:52,920
+the text you just grab your text tool
+
+123
+00:03:52,920 --> 00:03:54,120
+um if you could find it I'm just going
+
+124
+00:03:54,120 --> 00:03:55,560
+to press the letter t on the keyboard to
+
+125
+00:03:55,560 --> 00:03:57,480
+access it and you can just triple click
+
+126
+00:03:57,480 --> 00:03:59,340
+your text to select it and choose a new
+
+127
+00:03:59,340 --> 00:04:01,620
+font using the text menu if you'd like
+
+128
+00:04:01,620 --> 00:04:02,700
+so that's how you can go about
+
+129
+00:04:02,700 --> 00:04:05,580
+generating charts and graphs using the
+
+130
+00:04:05,580 --> 00:04:08,099
+nice charts extension in inkscape
+
+131
+00:04:08,099 --> 00:04:10,080
+if you found this lesson useful then
+
+132
+00:04:10,080 --> 00:04:11,939
+consider checking out my inkscape master
+
+133
+00:04:11,939 --> 00:04:14,220
+class it's a collection of over 60
+
+134
+00:04:14,220 --> 00:04:16,079
+videos where I go over all of the tools
+
+135
+00:04:16,079 --> 00:04:17,880
+and features in inkscape and I explain
+
+136
+00:04:17,880 --> 00:04:19,620
+what they are and demonstrate how they
+
+137
+00:04:19,620 --> 00:04:21,418
+work kind of like how I did in this
+
+138
+00:04:21,418 --> 00:04:23,460
+video we even have a private Community
+
+139
+00:04:23,460 --> 00:04:25,440
+where you can ask questions and get help
+
+140
+00:04:25,440 --> 00:04:28,020
+from me anytime you want and best of all
+
+141
+00:04:28,020 --> 00:04:29,940
+there's no monthly membership fees you
+
+142
+00:04:29,940 --> 00:04:33,060
+just pay 17 one time and you're in for
+
+143
+00:04:33,060 --> 00:04:34,740
+Life I'll have some information about
+
+144
+00:04:34,740 --> 00:04:35,880
+that down below if you want to check
+
+145
+00:04:35,880 --> 00:04:39,979
+that out as always thanks for watching
+
+146
+00:04:53,120 --> 00:04:56,300
+all right
+

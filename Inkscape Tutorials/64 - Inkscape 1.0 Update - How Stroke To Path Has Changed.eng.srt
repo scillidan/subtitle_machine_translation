@@ -1,0 +1,380 @@
+1
+00:00:00,080 --> 00:00:02,399
+when inkscape released version 1.0
+
+2
+00:00:02,399 --> 00:00:04,240
+earlier this year they made a pretty big
+
+3
+00:00:04,240 --> 00:00:05,759
+change to the way that the stroke to
+
+4
+00:00:05,759 --> 00:00:06,879
+path function works
+
+5
+00:00:06,879 --> 00:00:08,480
+and it was significant enough that it
+
+6
+00:00:08,480 --> 00:00:09,920
+actually broke some of my older
+
+7
+00:00:09,920 --> 00:00:10,719
+tutorials
+
+8
+00:00:10,719 --> 00:00:12,400
+so i wanted to put this video together
+
+9
+00:00:12,400 --> 00:00:14,320
+to address this problem and how you can
+
+10
+00:00:14,320 --> 00:00:15,839
+work around it if you're following along
+
+11
+00:00:15,839 --> 00:00:17,440
+with one of my older tutorials
+
+12
+00:00:17,440 --> 00:00:19,119
+and getting stuck on the stroke to path
+
+13
+00:00:19,119 --> 00:00:20,590
+part
+
+14
+00:00:20,590 --> 00:00:26,500
+[Music]
+
+15
+00:00:28,400 --> 00:00:30,000
+so on my screen here i have two
+
+16
+00:00:30,000 --> 00:00:31,599
+different versions of inkscape opened
+
+17
+00:00:31,599 --> 00:00:33,120
+this is the older version of inkscape
+
+18
+00:00:33,120 --> 00:00:34,040
+which is
+
+19
+00:00:34,040 --> 00:00:36,800
+0.92.5 and then this over here is the
+
+20
+00:00:36,800 --> 00:00:38,719
+new version of inkscape which is version
+
+21
+00:00:38,719 --> 00:00:39,600
+1.0
+
+22
+00:00:39,600 --> 00:00:41,120
+and as you can see i have the same
+
+23
+00:00:41,120 --> 00:00:42,960
+object posted into each
+
+24
+00:00:42,960 --> 00:00:45,039
+each installation if you notice this is
+
+25
+00:00:45,039 --> 00:00:46,800
+a circle it's a green circle with a
+
+26
+00:00:46,800 --> 00:00:48,640
+green fill and a red stroke as you can
+
+27
+00:00:48,640 --> 00:00:50,079
+see here in the data
+
+28
+00:00:50,079 --> 00:00:52,800
+the fill is green the stroke is red and
+
+29
+00:00:52,800 --> 00:00:53,760
+what happens is
+
+30
+00:00:53,760 --> 00:00:55,600
+in the older version of inkscape if you
+
+31
+00:00:55,600 --> 00:00:56,800
+go to path
+
+32
+00:00:56,800 --> 00:01:00,160
+stroke to path it takes that red stroke
+
+33
+00:01:00,160 --> 00:01:01,760
+and turns it into a path of its own if
+
+34
+00:01:01,760 --> 00:01:03,760
+you go to the nodes tool you'll see
+
+35
+00:01:03,760 --> 00:01:06,000
+now that is now a red object of its own
+
+36
+00:01:06,000 --> 00:01:07,520
+it's no longer a stroke
+
+37
+00:01:07,520 --> 00:01:09,280
+so let me just undo that and come over
+
+38
+00:01:09,280 --> 00:01:10,720
+here to the newer version of inkscape to
+
+39
+00:01:10,720 --> 00:01:12,240
+show you how it works now
+
+40
+00:01:12,240 --> 00:01:15,680
+now if you go to path stroke to path
+
+41
+00:01:15,680 --> 00:01:17,840
+nothing visual nothing visibly changes
+
+42
+00:01:17,840 --> 00:01:19,520
+on the screen but what it did was it
+
+43
+00:01:19,520 --> 00:01:19,840
+took
+
+44
+00:01:19,840 --> 00:01:21,920
+this it took the red stroke and turned
+
+45
+00:01:21,920 --> 00:01:23,280
+it into a path of its own
+
+46
+00:01:23,280 --> 00:01:26,000
+only it didn't get rid of the green fill
+
+47
+00:01:26,000 --> 00:01:28,240
+it kept the green fill as a separate
+
+48
+00:01:28,240 --> 00:01:28,880
+object
+
+49
+00:01:28,880 --> 00:01:30,960
+grouped together with the red stroke and
+
+50
+00:01:30,960 --> 00:01:32,400
+to see what i mean you'll have to go to
+
+51
+00:01:32,400 --> 00:01:33,360
+object
+
+52
+00:01:33,360 --> 00:01:35,759
+ungroup and you can see it is now two
+
+53
+00:01:35,759 --> 00:01:37,360
+separate objects so you have this here
+
+54
+00:01:37,360 --> 00:01:39,040
+you have this red stroke which is now
+
+55
+00:01:39,040 --> 00:01:40,960
+its own path but it also
+
+56
+00:01:40,960 --> 00:01:44,000
+kept this green fill here as a separate
+
+57
+00:01:44,000 --> 00:01:44,799
+object
+
+58
+00:01:44,799 --> 00:01:47,759
+so let me undo this even further i want
+
+59
+00:01:47,759 --> 00:01:49,439
+to show you what the uh the work around
+
+60
+00:01:49,439 --> 00:01:50,880
+is now
+
+61
+00:01:50,880 --> 00:01:51,920
+let's come back over here to the
+
+62
+00:01:51,920 --> 00:01:54,000
+original one now in the if you're
+
+63
+00:01:54,000 --> 00:01:55,040
+following along with one of these
+
+64
+00:01:55,040 --> 00:01:56,880
+tutorials and i tell you to do stroke to
+
+65
+00:01:56,880 --> 00:01:57,360
+path
+
+66
+00:01:57,360 --> 00:01:59,040
+break apart union let me show you how
+
+67
+00:01:59,040 --> 00:02:00,719
+that works if you go to path
+
+68
+00:02:00,719 --> 00:02:04,960
+stroke to path path break apart
+
+69
+00:02:04,960 --> 00:02:08,160
+path union you end up with this right
+
+70
+00:02:08,160 --> 00:02:08,878
+here
+
+71
+00:02:08,878 --> 00:02:11,280
+this this sequence doesn't work in the
+
+72
+00:02:11,280 --> 00:02:12,800
+new installation of inkscape though so
+
+73
+00:02:12,800 --> 00:02:14,000
+what you have to do is you have to
+
+74
+00:02:14,000 --> 00:02:15,120
+select it
+
+75
+00:02:15,120 --> 00:02:19,120
+and go to path stroke to path
+
+76
+00:02:19,120 --> 00:02:22,800
+and then object on group
+
+77
+00:02:22,800 --> 00:02:26,080
+and then path union so basically what
+
+78
+00:02:26,080 --> 00:02:27,360
+you're doing is we're taking the
+
+79
+00:02:27,360 --> 00:02:28,080
+sequence
+
+80
+00:02:28,080 --> 00:02:30,879
+stroke to path break apart union and
+
+81
+00:02:30,879 --> 00:02:32,080
+replacing it with
+
+82
+00:02:32,080 --> 00:02:35,360
+stroke to path on group union i'll have
+
+83
+00:02:35,360 --> 00:02:36,000
+this all written
+
+84
+00:02:36,000 --> 00:02:37,840
+out in the description below in case you
+
+85
+00:02:37,840 --> 00:02:39,200
+find it easier to follow along with that
+
+86
+00:02:39,200 --> 00:02:39,519
+so
+
+87
+00:02:39,519 --> 00:02:41,040
+i just wanted to put this video together
+
+88
+00:02:41,040 --> 00:02:42,640
+real quick to address that problem
+
+89
+00:02:42,640 --> 00:02:44,560
+hopefully this isn't too much of a
+
+90
+00:02:44,560 --> 00:02:46,080
+disruption to your learning experience
+
+91
+00:02:46,080 --> 00:02:47,360
+if you have any questions just leave a
+
+92
+00:02:47,360 --> 00:02:49,040
+comment below and as always thanks for
+
+93
+00:02:49,040 --> 00:02:50,280
+watching
+
+94
+00:02:50,280 --> 00:02:58,560
+[Music]
+
+95
+00:03:05,280 --> 00:03:08,389
+[Music]
+

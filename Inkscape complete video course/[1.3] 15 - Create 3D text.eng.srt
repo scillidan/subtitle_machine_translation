@@ -1,0 +1,508 @@
+1
+00:00:00,120 --> 00:00:02,460
+in this lecture we will create the 3D
+
+2
+00:00:02,460 --> 00:00:05,580
+text I click on the text tool I click on
+
+3
+00:00:05,580 --> 00:00:08,519
+the canvas and type inkscape I use
+
+4
+00:00:08,519 --> 00:00:11,400
+shrikan which is a free Google font I
+
+5
+00:00:11,400 --> 00:00:13,440
+click on the select tool when I hold
+
+6
+00:00:13,440 --> 00:00:15,839
+Ctrl I can easily change the size of the
+
+7
+00:00:15,839 --> 00:00:18,720
+text I would like to curve the text to
+
+8
+00:00:18,720 --> 00:00:20,699
+do this I first have to convert the text
+
+9
+00:00:20,699 --> 00:00:24,660
+to paths I go to path object to path to
+
+10
+00:00:24,660 --> 00:00:27,599
+curve the path I click on pathfx from
+
+11
+00:00:27,599 --> 00:00:30,720
+the menu I choose Bend I click on the
+
+12
+00:00:30,720 --> 00:00:33,360
+edit on canvas icon now I see a green
+
+13
+00:00:33,360 --> 00:00:36,540
+line using the tool I can curve the line
+
+14
+00:00:36,540 --> 00:00:38,880
+to finalize the effect I go to path
+
+15
+00:00:38,880 --> 00:00:42,600
+object to path I press the space bar I
+
+16
+00:00:42,600 --> 00:00:45,480
+go to my layers I call the path inkscape
+
+17
+00:00:45,480 --> 00:00:47,460
+now I want to give the text some depth
+
+18
+00:00:47,460 --> 00:00:50,520
+to do this I go to extensions generate
+
+19
+00:00:50,520 --> 00:00:53,399
+from path long Shadow I click on live
+
+20
+00:00:53,399 --> 00:00:56,520
+preview I set length to 2. I click on
+
+21
+00:00:56,520 --> 00:00:59,820
+apply and on close we see below the text
+
+22
+00:00:59,820 --> 00:01:02,699
+I have a group like before I want this
+
+23
+00:01:02,699 --> 00:01:04,920
+group to be a single path I open the
+
+24
+00:01:04,920 --> 00:01:07,979
+group I click on the top path I drag the
+
+25
+00:01:07,979 --> 00:01:09,540
+scroll bar to the bottom and I
+
+26
+00:01:09,540 --> 00:01:11,880
+shift-click on the bottom path now that
+
+27
+00:01:11,880 --> 00:01:13,860
+all paths are selected I go to path
+
+28
+00:01:13,860 --> 00:01:16,260
+Union I make the path thirty percent
+
+29
+00:01:16,260 --> 00:01:20,280
+gray I call the path gray inkscape like
+
+30
+00:01:20,280 --> 00:01:22,080
+illustrator is very good at making
+
+31
+00:01:22,080 --> 00:01:24,299
+groups but I don't need them to be in a
+
+32
+00:01:24,299 --> 00:01:26,520
+group so I right click on the top group
+
+33
+00:01:26,520 --> 00:01:29,640
+and choose ungroup and I right click on
+
+34
+00:01:29,640 --> 00:01:31,799
+the folder where gray is in and choose
+
+35
+00:01:31,799 --> 00:01:33,060
+ungroup
+
+36
+00:01:33,060 --> 00:01:35,759
+now I duplicate gray I lower the
+
+37
+00:01:35,759 --> 00:01:38,159
+duplicate one step I make the path blue
+
+38
+00:01:38,159 --> 00:01:41,579
+I call the path light blue I zoom in
+
+39
+00:01:41,579 --> 00:01:44,159
+hold Ctrl and drag the blue path below
+
+40
+00:01:44,159 --> 00:01:45,240
+the gray path
+
+41
+00:01:45,240 --> 00:01:48,360
+in my layers I place blue below Gray
+
+42
+00:01:48,360 --> 00:01:51,000
+I hold Ctrl and drag the blue path up
+
+43
+00:01:51,000 --> 00:01:52,799
+until it is roughly a quarter of the
+
+44
+00:01:52,799 --> 00:01:54,000
+size of Gray
+
+45
+00:01:54,000 --> 00:01:56,700
+I click on fill and stroke I change the
+
+46
+00:01:56,700 --> 00:01:58,259
+color a bit more to Blue
+
+47
+00:01:58,259 --> 00:02:01,320
+now I duplicate gray I click on Lower to
+
+48
+00:02:01,320 --> 00:02:04,860
+bottom I go to path Dynamic offset I
+
+49
+00:02:04,860 --> 00:02:06,960
+click on the Node tool above the letter
+
+50
+00:02:06,960 --> 00:02:10,080
+K there is a no I drag the note up to
+
+51
+00:02:10,080 --> 00:02:11,819
+make the path larger
+
+52
+00:02:11,819 --> 00:02:14,040
+to finalize the effect I go to path
+
+53
+00:02:14,040 --> 00:02:17,760
+object to path I hide the other paths I
+
+54
+00:02:17,760 --> 00:02:19,440
+see the new shape has some holes in it
+
+55
+00:02:19,440 --> 00:02:22,920
+to remove them I go to path break apart
+
+56
+00:02:22,920 --> 00:02:25,980
+then I go to path Union I will make the
+
+57
+00:02:25,980 --> 00:02:28,440
+path a darker blue I drag the blue a bit
+
+58
+00:02:28,440 --> 00:02:32,099
+more to cyan I call the path dark blue I
+
+59
+00:02:32,099 --> 00:02:33,959
+want a shape to go from dark blue to
+
+60
+00:02:33,959 --> 00:02:34,920
+light blue
+
+61
+00:02:34,920 --> 00:02:37,500
+I right click on dark blue and choose
+
+62
+00:02:37,500 --> 00:02:40,920
+set clip group I click on the pen tool I
+
+63
+00:02:40,920 --> 00:02:42,900
+click on the canvas click somewhere else
+
+64
+00:02:42,900 --> 00:02:46,019
+and press enter I now have a line I
+
+65
+00:02:46,019 --> 00:02:48,180
+click on the Node tool when I drag the
+
+66
+00:02:48,180 --> 00:02:50,640
+line in the middle I can bend the line I
+
+67
+00:02:50,640 --> 00:02:52,739
+will drag the end nodes outside the dark
+
+68
+00:02:52,739 --> 00:02:55,260
+blue area at the bottom left I will
+
+69
+00:02:55,260 --> 00:02:56,760
+increase the width of the line to about
+
+70
+00:02:56,760 --> 00:02:59,760
+75. I click on the dropper tool and
+
+71
+00:02:59,760 --> 00:03:02,040
+shift-click on light blue I will call
+
+72
+00:03:02,040 --> 00:03:04,920
+the path light blue line I click on fill
+
+73
+00:03:04,920 --> 00:03:07,560
+and stroke and click on stroke paint I
+
+74
+00:03:07,560 --> 00:03:10,319
+set blur to 30. I click on the Node tool
+
+75
+00:03:10,319 --> 00:03:12,840
+to get the curve right I drag the lineup
+
+76
+00:03:12,840 --> 00:03:15,900
+to move the line I press Ctrl a to
+
+77
+00:03:15,900 --> 00:03:18,420
+select both nodes then I drag one of the
+
+78
+00:03:18,420 --> 00:03:20,599
+nodes
+
+79
+00:03:20,760 --> 00:03:22,379
+I want to be able to drag the text
+
+80
+00:03:22,379 --> 00:03:24,900
+independent from the gradient so I
+
+81
+00:03:24,900 --> 00:03:26,819
+select the text related paths and group
+
+82
+00:03:26,819 --> 00:03:29,519
+them now I can move the text up to get a
+
+83
+00:03:29,519 --> 00:03:32,280
+more 3D look I also want the gradient to
+
+84
+00:03:32,280 --> 00:03:35,099
+be 3D so I duplicate it I drag the
+
+85
+00:03:35,099 --> 00:03:37,019
+duplicate on top in the layer and click
+
+86
+00:03:37,019 --> 00:03:39,420
+on Lower to bottom I go to extensions
+
+87
+00:03:39,420 --> 00:03:42,780
+generate from path long Shadow I set
+
+88
+00:03:42,780 --> 00:03:45,599
+length to 7. I click on apply and on
+
+89
+00:03:45,599 --> 00:03:48,720
+close I place the group on the bottom as
+
+90
+00:03:48,720 --> 00:03:51,360
+before I will unify the 3d effect into a
+
+91
+00:03:51,360 --> 00:03:54,239
+single path I open the group I click on
+
+92
+00:03:54,239 --> 00:03:56,760
+the top path I drag the scroll bar to
+
+93
+00:03:56,760 --> 00:03:58,440
+the bottom and I shift-click on the
+
+94
+00:03:58,440 --> 00:04:01,980
+bottom path I go to path Union and as
+
+95
+00:04:01,980 --> 00:04:03,780
+before I don't need them to be in a
+
+96
+00:04:03,780 --> 00:04:05,700
+group so I right click on the top group
+
+97
+00:04:05,700 --> 00:04:07,860
+and choose ungroup
+
+98
+00:04:07,860 --> 00:04:09,720
+and I right click on the folder where
+
+99
+00:04:09,720 --> 00:04:13,260
+the 3d effect is in and choose ungroup I
+
+100
+00:04:13,260 --> 00:04:16,019
+will call the New Path long Shadow I go
+
+101
+00:04:16,019 --> 00:04:17,940
+to fill and stroke and make long Shadow
+
+102
+00:04:17,940 --> 00:04:20,339
+a bit darker to see the long Shadow
+
+103
+00:04:20,339 --> 00:04:22,860
+better I will add a gradient I will use
+
+104
+00:04:22,860 --> 00:04:25,259
+dark blue for that I make dark blue
+
+105
+00:04:25,259 --> 00:04:28,680
+black I call the path gradient I go to
+
+106
+00:04:28,680 --> 00:04:32,580
+fill and stroke I set blur to 25 I will
+
+107
+00:04:32,580 --> 00:04:35,280
+use long Shadow to clip the gradient I
+
+108
+00:04:35,280 --> 00:04:37,560
+right click on it and choose set clip
+
+109
+00:04:37,560 --> 00:04:40,320
+group I drag gradient in the clip group
+
+110
+00:04:40,320 --> 00:04:43,259
+I lower its opacity to 75 percent
+
+111
+00:04:43,259 --> 00:04:45,120
+I also would like a shadow below the
+
+112
+00:04:45,120 --> 00:04:45,900
+text
+
+113
+00:04:45,900 --> 00:04:48,660
+so I duplicate inkscape I click on black
+
+114
+00:04:48,660 --> 00:04:51,300
+I set blur to 10 percent
+
+115
+00:04:51,300 --> 00:04:54,840
+I call the path Shadow I press Ctrl and
+
+116
+00:04:54,840 --> 00:04:57,479
+drag it down I click on Lower to bottom
+
+117
+00:04:57,479 --> 00:04:59,880
+I can also move the Shadow with my arrow
+
+118
+00:04:59,880 --> 00:05:02,580
+keys to move in smaller increments hold
+
+119
+00:05:02,580 --> 00:05:04,259
+the ALT key while pressing the arrow
+
+120
+00:05:04,259 --> 00:05:07,320
+keys finally I will place a shadow below
+
+121
+00:05:07,320 --> 00:05:09,840
+the whole text object I duplicate dark
+
+122
+00:05:09,840 --> 00:05:12,900
+blue I drag it on the top of the layer I
+
+123
+00:05:12,900 --> 00:05:15,660
+call the path Shadow below I make it
+
+124
+00:05:15,660 --> 00:05:19,380
+black I set blur to 30. I press Ctrl and
+
+125
+00:05:19,380 --> 00:05:21,960
+drag the shadow down I click on Lower to
+
+126
+00:05:21,960 --> 00:05:24,660
+bottom and with my arrow keys I can
+
+127
+00:05:24,660 --> 00:05:27,440
+position The Shadow
+

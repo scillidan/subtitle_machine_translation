@@ -1,0 +1,680 @@
+1
+00:00:00,380 --> 00:00:02,700
+in this lecture we will make the
+
+2
+00:00:02,700 --> 00:00:05,700
+Microsoft Loop logo I go to file import
+
+3
+00:00:05,700 --> 00:00:09,120
+I select the logo and click on open
+
+4
+00:00:09,120 --> 00:00:12,120
+I click on OK I will create a new layer
+
+5
+00:00:12,120 --> 00:00:14,340
+and lock the layer with the image I
+
+6
+00:00:14,340 --> 00:00:16,619
+click on the ellipse tool I hold down
+
+7
+00:00:16,619 --> 00:00:19,440
+control and drag a circle I click on the
+
+8
+00:00:19,440 --> 00:00:22,140
+fill and stroke tab I drag the alpha of
+
+9
+00:00:22,140 --> 00:00:25,019
+the fill to zero I press the plus once
+
+10
+00:00:25,019 --> 00:00:28,320
+to set it to one percent I do this so I
+
+11
+00:00:28,320 --> 00:00:30,359
+see only the stroke but I can still drag
+
+12
+00:00:30,359 --> 00:00:32,159
+the shapes easily around by dragging
+
+13
+00:00:32,159 --> 00:00:33,059
+their fill
+
+14
+00:00:33,059 --> 00:00:35,640
+I hold shift plus control and size the
+
+15
+00:00:35,640 --> 00:00:36,420
+circle
+
+16
+00:00:36,420 --> 00:00:39,000
+I duplicate the circle by pressing Ctrl
+
+17
+00:00:39,000 --> 00:00:39,719
+d
+
+18
+00:00:39,719 --> 00:00:41,879
+I hold shift and click on the larger
+
+19
+00:00:41,879 --> 00:00:44,820
+Circle I go to path difference
+
+20
+00:00:44,820 --> 00:00:47,040
+I name the path Circle
+
+21
+00:00:47,040 --> 00:00:49,200
+now I click on the rectangle tool and
+
+22
+00:00:49,200 --> 00:00:50,940
+drag a rectangle
+
+23
+00:00:50,940 --> 00:00:52,800
+I activate snapping
+
+24
+00:00:52,800 --> 00:00:54,960
+I press the space bar to go to the
+
+25
+00:00:54,960 --> 00:00:57,600
+select tool I drag the rectangle against
+
+26
+00:00:57,600 --> 00:01:00,120
+the Inner Circle until I see corner to
+
+27
+00:01:00,120 --> 00:01:01,440
+smooth node
+
+28
+00:01:01,440 --> 00:01:03,960
+I drag the handle down until it snaps
+
+29
+00:01:03,960 --> 00:01:07,320
+and I drag to the left until it snaps
+
+30
+00:01:07,320 --> 00:01:09,960
+I duplicate the rectangle I click on the
+
+31
+00:01:09,960 --> 00:01:12,060
+rectangle again so I see the rotation
+
+32
+00:01:12,060 --> 00:01:13,200
+handles
+
+33
+00:01:13,200 --> 00:01:15,840
+I hold Ctrl and drag a corner until I
+
+34
+00:01:15,840 --> 00:01:17,460
+rotate it 90 degrees
+
+35
+00:01:17,460 --> 00:01:19,680
+I drag the rectangle to the corner until
+
+36
+00:01:19,680 --> 00:01:20,880
+it snaps
+
+37
+00:01:20,880 --> 00:01:23,400
+I click on the Node tool and select add
+
+38
+00:01:23,400 --> 00:01:24,540
+corners
+
+39
+00:01:24,540 --> 00:01:26,280
+I drag the circle at the bottom right
+
+40
+00:01:26,280 --> 00:01:29,100
+until I see handle to Corner
+
+41
+00:01:29,100 --> 00:01:31,860
+I press the space bar I call the shape
+
+42
+00:01:31,860 --> 00:01:34,619
+gradient left and I call the rectangle
+
+43
+00:01:34,619 --> 00:01:37,619
+below gradient bottom now I duplicate
+
+44
+00:01:37,619 --> 00:01:40,020
+the Layer Two Times by pressing Ctrl D
+
+45
+00:01:40,020 --> 00:01:42,780
+to recreate the gradient of the logo I
+
+46
+00:01:42,780 --> 00:01:45,240
+will need to make three gradients I will
+
+47
+00:01:45,240 --> 00:01:48,000
+call the top layer gradient left and the
+
+48
+00:01:48,000 --> 00:01:50,820
+layer below I call gradient bottom the
+
+49
+00:01:50,820 --> 00:01:52,259
+bottom layer will have a general
+
+50
+00:01:52,259 --> 00:01:54,899
+gradient the left gradient goes from
+
+51
+00:01:54,899 --> 00:01:57,119
+dark purple to a lighter purple
+
+52
+00:01:57,119 --> 00:01:58,920
+to create the shape for this I don't
+
+53
+00:01:58,920 --> 00:02:00,720
+need the bottom rectangle so I will
+
+54
+00:02:00,720 --> 00:02:01,680
+delete it
+
+55
+00:02:01,680 --> 00:02:03,840
+I hide the other layers so I can better
+
+56
+00:02:03,840 --> 00:02:06,180
+see what I am doing I will also hide
+
+57
+00:02:06,180 --> 00:02:08,580
+gradient left for a moment I click on
+
+58
+00:02:08,580 --> 00:02:10,979
+the circle and select the node tool I
+
+59
+00:02:10,979 --> 00:02:12,540
+only need the top left part of the
+
+60
+00:02:12,540 --> 00:02:13,319
+circle
+
+61
+00:02:13,319 --> 00:02:15,239
+so I will cut the circle
+
+62
+00:02:15,239 --> 00:02:18,120
+I drag over the top nodes to select them
+
+63
+00:02:18,120 --> 00:02:20,580
+then I click on break path at selected
+
+64
+00:02:20,580 --> 00:02:22,980
+nodes I also do this for the nodes at
+
+65
+00:02:22,980 --> 00:02:25,080
+the left then I click on the most write
+
+66
+00:02:25,080 --> 00:02:27,840
+node I hold Ctrl and scroll forward
+
+67
+00:02:27,840 --> 00:02:30,300
+until all nodes are selected I also
+
+68
+00:02:30,300 --> 00:02:32,340
+control scroll on the right node of the
+
+69
+00:02:32,340 --> 00:02:34,500
+Inner Circle I have now selected all
+
+70
+00:02:34,500 --> 00:02:36,360
+nodes that I don't need so I press
+
+71
+00:02:36,360 --> 00:02:39,300
+delete now I want to close the gaps I
+
+72
+00:02:39,300 --> 00:02:41,580
+drag over the right nodes I click on
+
+73
+00:02:41,580 --> 00:02:43,500
+join selected endnodes with a new
+
+74
+00:02:43,500 --> 00:02:45,780
+segment I also do this for the bottom
+
+75
+00:02:45,780 --> 00:02:46,560
+nodes
+
+76
+00:02:46,560 --> 00:02:49,080
+I make gradient left visible again and
+
+77
+00:02:49,080 --> 00:02:52,620
+shift click on it I go to path Union I
+
+78
+00:02:52,620 --> 00:02:54,840
+call the shape gradient left
+
+79
+00:02:54,840 --> 00:02:56,580
+now let's create the shape for the
+
+80
+00:02:56,580 --> 00:02:59,280
+bottom gradient I hide gradient left and
+
+81
+00:02:59,280 --> 00:03:01,319
+make gradient bottom visible for the
+
+82
+00:03:01,319 --> 00:03:03,000
+bottom gradient I don't need gradient
+
+83
+00:03:03,000 --> 00:03:05,819
+left so I delete it I hide gradient
+
+84
+00:03:05,819 --> 00:03:08,099
+bottom for the bottom gradient I need
+
+85
+00:03:08,099 --> 00:03:10,440
+the bottom right of the circle so I
+
+86
+00:03:10,440 --> 00:03:12,720
+repeat what I did before I select the
+
+87
+00:03:12,720 --> 00:03:14,700
+nodes at the right and break the path at
+
+88
+00:03:14,700 --> 00:03:16,860
+the selected nodes then I select the
+
+89
+00:03:16,860 --> 00:03:18,659
+nodes at the bottom and break the path
+
+90
+00:03:18,659 --> 00:03:19,500
+there
+
+91
+00:03:19,500 --> 00:03:21,599
+I click on the most left node and
+
+92
+00:03:21,599 --> 00:03:23,640
+control scroll forward until all nodes
+
+93
+00:03:23,640 --> 00:03:26,519
+are selected I also control scroll on
+
+94
+00:03:26,519 --> 00:03:28,739
+the left note of the Inner Path then I
+
+95
+00:03:28,739 --> 00:03:31,620
+press delete I select the top nodes and
+
+96
+00:03:31,620 --> 00:03:33,780
+join them and I select the left nodes
+
+97
+00:03:33,780 --> 00:03:36,360
+and connect them I make gradient bottom
+
+98
+00:03:36,360 --> 00:03:39,300
+visible again and shift-click on it then
+
+99
+00:03:39,300 --> 00:03:42,060
+I go to path Union I call the shape
+
+100
+00:03:42,060 --> 00:03:44,640
+gradient Bottom now I will use the shape
+
+101
+00:03:44,640 --> 00:03:47,220
+Builder tool to create the logo shape
+
+102
+00:03:47,220 --> 00:03:49,319
+I hide gradient bottom and make the
+
+103
+00:03:49,319 --> 00:03:51,720
+layer below visible I select all three
+
+104
+00:03:51,720 --> 00:03:54,900
+shapes I click on the shape Builder tool
+
+105
+00:03:54,900 --> 00:03:57,299
+I see I have an unwanted connection so I
+
+106
+00:03:57,299 --> 00:04:00,060
+click on the X icon to exit I go to path
+
+107
+00:04:00,060 --> 00:04:02,700
+fracture I click on the shape Builder
+
+108
+00:04:02,700 --> 00:04:05,099
+tool again I will now combine the shapes
+
+109
+00:04:05,099 --> 00:04:06,060
+I want
+
+110
+00:04:06,060 --> 00:04:08,640
+I remove superfluent nodes
+
+111
+00:04:08,640 --> 00:04:11,760
+I call the shape General shape now let's
+
+112
+00:04:11,760 --> 00:04:14,159
+place the gradients I will make the logo
+
+113
+00:04:14,159 --> 00:04:16,858
+layer visible to see the colors I will
+
+114
+00:04:16,858 --> 00:04:19,079
+drag the image to the left I click on
+
+115
+00:04:19,079 --> 00:04:21,720
+the fill and stroke tab for my fill I
+
+116
+00:04:21,720 --> 00:04:23,940
+need a linear gradient I click on the
+
+117
+00:04:23,940 --> 00:04:25,199
+gradient tool
+
+118
+00:04:25,199 --> 00:04:27,540
+then I click on the dropper tool because
+
+119
+00:04:27,540 --> 00:04:29,699
+the left gradient will be on top I need
+
+120
+00:04:29,699 --> 00:04:32,040
+the general gradient to go from Blue to
+
+121
+00:04:32,040 --> 00:04:33,419
+the lighter purple
+
+122
+00:04:33,419 --> 00:04:35,639
+so I click on the left color stop and
+
+123
+00:04:35,639 --> 00:04:37,740
+Sample the blue then I click on the
+
+124
+00:04:37,740 --> 00:04:39,600
+right color stop and Sample the light
+
+125
+00:04:39,600 --> 00:04:41,880
+purple now I will position the color
+
+126
+00:04:41,880 --> 00:04:44,639
+stops I drag the left color stop down
+
+127
+00:04:44,639 --> 00:04:47,639
+and the right color stop up
+
+128
+00:04:47,639 --> 00:04:50,460
+I click on stroke and click on no paint
+
+129
+00:04:50,460 --> 00:04:53,040
+I go back to my layers now let's color
+
+130
+00:04:53,040 --> 00:04:54,660
+gradient left
+
+131
+00:04:54,660 --> 00:04:57,419
+I go to fill and stroke again I click on
+
+132
+00:04:57,419 --> 00:04:59,940
+fill and click on linear gradient I
+
+133
+00:04:59,940 --> 00:05:01,979
+click on the left color stop and Sample
+
+134
+00:05:01,979 --> 00:05:04,139
+the dark purple then I select the right
+
+135
+00:05:04,139 --> 00:05:06,840
+color stop and Sample the light purple
+
+136
+00:05:06,840 --> 00:05:10,440
+then I position the color stops
+
+137
+00:05:10,440 --> 00:05:12,720
+I click on stroke and click on no paint
+
+138
+00:05:12,720 --> 00:05:15,419
+I go back to my layers the third
+
+139
+00:05:15,419 --> 00:05:17,520
+gradient is to improve the gradient on
+
+140
+00:05:17,520 --> 00:05:19,919
+the bottom I go to fill and stroke and
+
+141
+00:05:19,919 --> 00:05:21,600
+set fill to gradient
+
+142
+00:05:21,600 --> 00:05:23,759
+I click on the left color stop and
+
+143
+00:05:23,759 --> 00:05:25,919
+Sample the blue and for the right color
+
+144
+00:05:25,919 --> 00:05:28,680
+stop I also sample the blue but I set
+
+145
+00:05:28,680 --> 00:05:30,419
+its Alpha to zero
+
+146
+00:05:30,419 --> 00:05:32,820
+I position the color stops
+
+147
+00:05:32,820 --> 00:05:35,820
+and finally I will place the shadow I go
+
+148
+00:05:35,820 --> 00:05:38,220
+to my layers I duplicate gradient left
+
+149
+00:05:38,220 --> 00:05:40,919
+that will become the shadow in fill and
+
+150
+00:05:40,919 --> 00:05:43,500
+stroke I select flat color
+
+151
+00:05:43,500 --> 00:05:46,979
+I drag Alpha to 100 and I set blur to
+
+152
+00:05:46,979 --> 00:05:48,360
+about 30 percent
+
+153
+00:05:48,360 --> 00:05:52,020
+in my layers I call the shape shadow
+
+154
+00:05:52,020 --> 00:05:54,240
+I will use General shape to mask the
+
+155
+00:05:54,240 --> 00:05:55,080
+shadow
+
+156
+00:05:55,080 --> 00:05:57,720
+I right click on it and choose set clip
+
+157
+00:05:57,720 --> 00:06:00,120
+group I drag the clip group in the
+
+158
+00:06:00,120 --> 00:06:02,340
+gradient left layer I place the clip
+
+159
+00:06:02,340 --> 00:06:04,680
+group on the bottom I open the clip
+
+160
+00:06:04,680 --> 00:06:07,139
+group I will now drag the shadow in the
+
+161
+00:06:07,139 --> 00:06:08,100
+clip group
+
+162
+00:06:08,100 --> 00:06:10,320
+to remove the shadow at the top I click
+
+163
+00:06:10,320 --> 00:06:12,780
+on the Node tool I click on the top node
+
+164
+00:06:12,780 --> 00:06:14,580
+and press delete
+
+165
+00:06:14,580 --> 00:06:17,220
+I will also delete the node below and to
+
+166
+00:06:17,220 --> 00:06:19,259
+make gradient bottom visible again I
+
+167
+00:06:19,259 --> 00:06:20,940
+drag it below the shadow
+
+168
+00:06:20,940 --> 00:06:23,220
+I will delete the other layers all
+
+169
+00:06:23,220 --> 00:06:25,440
+shapes of the vectorized logo are now in
+
+170
+00:06:25,440 --> 00:06:28,160
+a single layer
+

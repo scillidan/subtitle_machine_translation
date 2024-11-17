@@ -1,0 +1,883 @@
+
+in  this  tutorial  Ill  be  demonstrating
+
+how  you  can  create  these  technologically
+
+styled  letters  that  look  like  theyre
+
+made  of  circuits  using  nothing  but
+
+strokes  and  shapes  in  inkscape  so  Ill
+
+come  over  here  into  a  new  document  and
+
+Ill  get  started  the  first  thing  I  want
+
+to  do  is  grab  the  rectangle  tool  and
+
+click  and  drag  on  the  cvas  to  draw  a
+
+rectangle  I  want  to  hold  my  control  key
+
+while  I  do  that  so  we  have  a  perfectly
+
+symmetrical  square  like  that  then  Im
+
+going  to  remove  the  fill  color  from  that
+
+rectangle  by  clicking  this  red  X  down
+
+here  in  the  bottom  left  corner  and  I
+
+want  to  apply  a  black  stroke  to  this
+
+object  by  holding  the  shift  key  and
+
+clicking  on  the  black  Swatch  down  here
+
+in  my  color  palette  and  now  we  have  a
+
+square  with  a  black
+
+outline  so  lets  come  over  here  to  the
+
+selection  tool  come  up  here  to  the  tool
+
+settings  menu  uh  where  this  icon  that
+
+says  when  scaling  objects  scale  the
+
+stroke  width  by  the  same  proportion
+
+lets  turn  that  off  for  this  tutorial
+
+and  now  lets  change  the  size  of  the
+
+stroke  here  so  Im  going  to  open  up  the
+
+fill  and  stroke  menu  by  going  to  object
+
+and  selecting  fill  and  stroke
+
+and  from  this  menu  Ill  come  over  here
+
+to  the  stroke  style  Tab  and  I  want  to
+
+make  sure  the  stroke  width  is  five
+
+pixels  so  mines  already  set  to  five
+
+pixels  if  yours  isnt  just  manually  type
+
+that  in  and  change  the  units  of
+
+measurement  to  pixels  Here  and  Now  I
+
+want  to  make  this  Square  100  by  100
+
+pixels  so  Ill  come  up  here  to  the
+
+toolbar  where  we  have  the  width  and  the
+
+height  Im  going  to  turn  on  this  lock
+
+icon  between  the  two  of  them  to  make
+
+sure  that  were  locking  the  proportions
+
+as  we  scale  and  Im  going  to  change  this
+
+to  100  and  press  enter  and  now  we  have  a
+
+100  100  by  100  rectangle  uh  with  a  five
+
+pixel
+
+stroke  so  what  Im  going  to  do  now  is
+
+Im  going  to  duplicate  this  Im  going  to
+
+right  click  this  and  go  to  duplicate  and
+
+Im  going  to  add  25  pixels  to  each
+
+Dimension  so  this  one  will  be  125  pixels
+
+so  Ill  write  in  125  and  press  enter  and
+
+then  Ill  do  this  one  more  time  Ill
+
+right  click  this  go  to  duplicate  and
+
+Ill  make  this  one  150  so  Ill  write  in
+
+1  15  and  press  enter  and  there  we  go  and
+
+now  Im  going  to  select  all  three  of
+
+these  and  I  just  want  to  Center  them  up
+
+vertically  and  horizontally  so  Ill  open
+
+up  the  the  alignment  menu  by  going  to
+
+object  and  selecting  align
+
+distribute  and  from  this  menu  I  want  to
+
+choose  last  selected  from  this  drop  down
+
+and  Ill  Center  them  up  vertically  and
+
+horizontally  just  like  that  so  with  all
+
+of  these  objects  selected  lets  go  to
+
+path  and  select  object  to  path  so  that
+
+now  these  are  no  longer  rectangles  these
+
+are  pure  Vector  paths  and  Im  going  to
+
+grab  my  edit  paths  by  nodes  tool  and  Im
+
+going  to  click  and  drag  over  these  nodes
+
+over  here  on  the  right  hand  side  to
+
+select  them  let  me  try  that  again  if
+
+youre  using  Max  sometimes  its
+
+difficult  to  select  these  nodes  there  we
+
+go  I  was  able  to  select  those  nodes  now
+
+Im  going  to  come  up  here  to  the  tool
+
+settings  menu  where  it  says  add  Corners
+
+live  path  effect  Im  going  to  enable
+
+that  and  when  I  do  that  youre  going  to
+
+see  these  round  knots  that  appear  next
+
+to  the  nodes  and  Im  going  to  select  the
+
+nodes  again  and  Im  going  to  grab  this
+
+white  node  right  here  and  just  bring
+
+this  in  like  that  until  it  snaps  I  want
+
+this  I  want  it  to  snap  right  in  the
+
+center  there  before  you  do  that  though
+
+let  me  back  up  a  little  bit  turn  on  your
+
+snapping  menu  up  here  by  clicking  on
+
+this  mag  magnet  icon  in  the  top  right
+
+corner  and  then  do  that  again  so  let  me
+
+uh  let  me  do  that  again  now  that  I  have
+
+snapping  enabled  and  I  want  to  snap  them
+
+together  just  like  that  youll  see  that
+
+red  line  up  here  there  in  the  middle  Im
+
+going  to  do  the  same  thing  with  these
+
+other  nodes  over  here  Im  going  to  snap
+
+them  together  so  we  have  nice  rounded
+
+edges  like
+
+that  and  once  we  do  that  we  can  finalize
+
+this  by  going  to  path  and  selecting
+
+object  to  path  now  with  all  with  all  of
+
+these  objects  still  selected  Im  going
+
+to  select  over  all  of  these  nodes  right
+
+here  and  I  want  to  break  all  of  them  up
+
+so  Ill  come  over  here  to  the  tool
+
+settings  menu  and  Im  looking  for  the
+
+option  that  says  break  path  at  selected
+
+nodes  and  when  I  click  on  that  its
+
+going  to  break  them  all  up  into  separate
+
+nodes  and  now  we  want  to  break  them  up
+
+into  separate  objects  so  well  go  to
+
+path  and  select  break  apart  and  click
+
+off  of  the  the  graphic  lets  grab  this
+
+selection  tool  and  click  off  of  it  to
+
+deselect  everything  and  you  can  see  we
+
+now  have  individual  pieces  of  this
+
+entire  element  here  and  if  I  select  all
+
+of  these  I  can  come  over  here  to  my  fill
+
+and  stroke  menu  I  could  bring  down  the
+
+opacity  roughly  in  half  and  just  so  you
+
+can  see  where  the  start  and  end  point  is
+
+of  each  of  these  lines  they  all  overlap
+
+and  underlap  with  each  other  and  the
+
+point  of  doing  this  is  that  we  now  have
+
+these  individual  elements  that  we  can
+
+use  to  construct  virtually  any  letter
+
+that  wed  like  so  let  me  put  that  back
+
+and  Im  going  to  zoom  out  Im  going  to
+
+take  all  of  these  and  Im  going  to  right
+
+click  them  and  go  to  duplicate  and  move
+
+the  duplicate  copy  off  to  the  side  just
+
+in  case  I  want  another  copy  to  work  with
+
+if  I  want  to  create  other  letters  and
+
+Im  going  to  use  these  objects  right
+
+here  to  to  uh  create  the  letter  A  so  let
+
+me  select  all  of  them  Im  going  to
+
+rotate  them  around  by  clicking  on  the
+
+objects  and  then  Im  going  to  get  those
+
+rotation  handles  and  with  the  rotation
+
+handles  enabled  Im  going  to  hold  the
+
+control  key  and  just  roll  it  around
+
+until  its  flat  like  that  and  Im  going
+
+to  create  a  letter  A  out  of  this  right
+
+here  Ill  come  back  over  here  to  show
+
+you  what  I  mean  this  letter  a  is  what
+
+were  going  to  create  so  let  me  come
+
+back  into  inkscape  let  me  click  off  of
+
+it  to  deselect  everything  Im  going  to
+
+click  and  drag  over  these  three  pieces
+
+right  here  and  Im  just  going  to  bring
+
+them  up  and  Im  going  to  snap  them  up
+
+here  I  want  this  object  to  snap  to  this
+
+part  of  the  uh  the  starting  point  of
+
+that  curve  right  there  so  Ill  snap  that
+
+in
+
+there  and  now  I  want  I  want  to  make
+
+these  lines  right  here  all  the  same
+
+height  so  I  want  to  take  these  lines  and
+
+bring  them  down  so  that  theyre  the  same
+
+height  as  these  ones  with  snapping
+
+enabled  we  should  be  able  to  grab  the
+
+nodes  tool  and  select  the  node  and  then
+
+just  hold  control  and  bring  it  straight
+
+down  and  it  may
+
+snap  or  we  might  have  to  create  a  guide
+
+for  that  so  it  didnt  snap  to  the  bottom
+
+there  what  Im  going  to  do  is  Im  going
+
+to  create  a  guide  uh  you  should  have  a
+
+ruler  on  your  canvas  up  here  if  you
+
+dont  have  a  ruler  uh  as  is  the  case  on
+
+my  screen  you  can  activate  it  by
+
+pressing  control  r  on  your  keyboard  or
+
+if  youre  using  Mac  it  would  be  command
+
+R  and  once  we  have  that  ruler  we  can
+
+click  and  drag  a  guide  down  here  and  Im
+
+going  to  snap  that  Guide  to  the  bottom
+
+of  this  path  right  here  and  now  I  could
+
+take  these  paths  and  snap  them  down  to
+
+the  bottom  of  the  guide  and  Im  holding
+
+control  while  I  do  this  to  lock  the  line
+
+onto  the  vertical  axis  if  Im  not
+
+holding  control  its  going  to  wobble
+
+around  like  that  holding  control  will
+
+enable  you  to  lock  it  onto  that  axis  so
+
+Ill  come  over  here  and  do  the  same
+
+thing  Im  going  to  snap  these  lines  as
+
+well  and  then  Im  going  to  zoom  back
+
+out  and  Im  going  to  adjust  these  lines
+
+here  so  let  me  select  this  line  in  the
+
+middle  and  Im  going  to  take  this  node
+
+and  bring  this  in  right  here  and  Im
+
+holding  control  while  I  do  that  to  lock
+
+it  onto  the  horizontal  axis  Im  going  to
+
+bring  that  line  right  there  and  Ill  do
+
+the  same  thing  over  here  on  this  side
+
+Im  just  going  to  bring  these  lines  in
+
+like  that  and  then  I  want  to  take  this
+
+line  right  here  and  take  this  node  and
+
+just  snap  it  down  here  and  Ill  do  the
+
+same  thing  over  here  on  this  side  Ill
+
+snap  this  line  onto  this  node  and  we  end
+
+up  with  this  outcome  right  here  so  Im
+
+going  to  get  rid  of  the  guide  now  Im
+
+going  to  make  the  guide  Invisible  by
+
+holding  shift  and  pressing  the  vert
+
+vertical  Bar  Key  on  the  keyboard  and  Im
+
+going  to  get  rid  of  the  ruler  as  well
+
+Im  going  to  press  command  r  or  controlr
+
+again  to  get  rid  of  that  and  what  we
+
+have  here  is  we  have  all  of  these
+
+individual  lines  for  each  segment  here
+
+we  want  it  to  be  one  continuous  path  so
+
+for  this  segment  here  this  is  not  a
+
+continuous  path  this  is  broken  up  into
+
+three  pieces  to  make  this  a  continuous
+
+path  Im  going  to  select  all  of  the
+
+objects  by  holding  shift  and  clicking  on
+
+each  of  them  and  then  Ill  come  over
+
+here  to  my  nodes  tool  and  I  want  to
+
+select  all  of  these  nodes  Im  going  to
+
+hold  shift  while  Im  doing  that  select
+
+all  of  the  nodes  and  with  them  all
+
+selected  Im  going  to  come  up  here  to
+
+the  tool  settings  menu  where  it  says
+
+join  selected  nodes  and  click  on  that
+
+and  you  can  you  should  see  that  those
+
+overlapping  segments  go  away  we  now  have
+
+uh  combined  the  nodes  together  so  let  me
+
+grab  my  selection  tool  if  you  notice  we
+
+have  a  little  bit  of  an  extra  piece  that
+
+got  left  out  here  this  is  kind  of  like  a
+
+I  guess  you  could  consider  it  a
+
+mathematical  error  with  working  with
+
+vectors  its  really  not  supposed  to  be
+
+there  but  it  happens  sometimes  let  me
+
+put  that  back  if  you  have  this  on  your
+
+screen  you  could  just  select  it  and  then
+
+press  delete  on  your  keyboard  to  get  rid
+
+of  it  and  now  were  going  to  do  the  same
+
+thing  to  the  rest  of  these  paths  we  want
+
+this  to  be  one  continuous  path  as  well
+
+so  Im  going  to  select  each  of  these
+
+Ill  come  over  here  to  my  nodes  tool
+
+Ill  select  each  of  these  these  nodes
+
+one  by  one  I  want  to  make  sure  theyre
+
+all  selected  Im  going  to  hold  shift
+
+while  I  do  that  to  make  sure  theyre  all
+
+selected  and  Ill  unify  those  together
+
+as  well  and  now  I  will  do  the  same  thing
+
+to  this  line  that  runs  in  the  middle  so
+
+Im  going  to  hold  shift  and  select  each
+
+of  these  lines  and  then  Ill  click  and
+
+drag  over  each  of  these  nodes  while
+
+holding  shift  to  select  all  of  them  and
+
+once  I  do  that  Ill  merge  them  together
+
+as  well  now  thats  one  continuous  path
+
+and  then  finally  Ill  do  that  for  this
+
+path  as  well  so  Im  going  to  select  each
+
+of  these  hold  shift  and  click  and  drag
+
+over  each  and  then  combine  them
+
+together  and  there  we  go  now  we  have
+
+continuous  paths  for  each  segment  of
+
+this  letter  so  at  this  point  in  the
+
+tutorial  were  going  to  start
+
+subtracting  areas  of  these  lines  and
+
+adding  the  circles  to  the  ends  of  them
+
+to  really  complete  this  look  here  so  let
+
+me  come  back  into  here  and  well  get
+
+started  on  this  uh  I  think  at  this  point
+
+we  can  bring  the  opacity  of  these
+
+objects  back  up  let  me  select  all  of
+
+them  and  bring  the  opacity  back  up  to
+
+100%  And  Im  going  to  start  off  with
+
+this  segment  in  the  center  here  Im
+
+going  to  select  that  and  grabb  my  nodes
+
+tool  and  I  want  to  add  a  couple  of  nodes
+
+in  an  area  where  Id  like  to  subtract
+
+part  of  the  line  so  Im  going  to  double
+
+click  right  here  to  add  a  new  node  and
+
+lets  say  I  want  to  subtract  the  area  or
+
+remove  the  line  segment  between  these
+
+two  nodes  right  here  I  could  select  both
+
+of  those  nodes  and  I  can  come  up  here  to
+
+the  tool  settings  menu  and  select  this
+
+option  that  says  delete  select  delete
+
+segment  between  two  non-  endpoint  nodes
+
+and  click  on  that  and  that  line  has  been
+
+eliminated  so  Im  going  to  eliminate
+
+another  part  of  this  line  down  here  Im
+
+going  to  double  click  to  add  a  new  node
+
+right  here  and  then  double  click  to  add
+
+a  node  right  here  and  then  Ill  select
+
+both  of  those  and  Ill  sub  Ill  uh
+
+subtract  that  segment  as  well  and  now
+
+what  we  can  do  is  we  can  put  the  circles
+
+at  the  tips  of  those  lines  by  coming
+
+over  here  to  the  stroke  style  Tab  and  if
+
+you  notice  we  have  these  three  drop
+
+downs  for  markers  Im  going  to  choose
+
+this  drop  down  over  here  in  the  left
+
+first  Im  going  to  choose  Im  going  to
+
+click  on  that  Im  going  to  choose  this
+
+rounded  marker  right  here  and  I  want  to
+
+make  the  size  of  that  04  so  by  default
+
+its  1.0  Im  going  to  remove  that  and
+
+type  in4  and  press  enter  and  Im  going
+
+to  close  out  of  that  and  I  want  to  apply
+
+the  same  type  of  marker  to  the  end  point
+
+so  Im  going  to  click  on  this  drop  down
+
+and  instead  of  choosing  Circle  again  and
+
+manually  typing  in  that  size  we  could
+
+just  use  the  most  recently  applied
+
+marker  so  Im  going  to  choose  this  one
+
+right  up  here  in  the  top  of  this  list
+
+and  now  we  have  it  applied  there  as  well
+
+so  the  problem  at  this  point  is  that  we
+
+have  the  circles  at  the  start  point  and
+
+the  end  point  but  we  dont  have  them  on
+
+these  middle  points  here  so  to  fix  that
+
+Im  just  going  to  break  this  apart  Ill
+
+come  up  here  and  go  to  path  and  Ill
+
+select  break  apart  and  now  these  are
+
+separate  segments  that  have  the  circles
+
+at  the  start  point  and  the  end  point  of
+
+each
+
+line  so  now  lets  do  the  same  thing  down
+
+here  with  this  other  segment  this  time
+
+Im  going  to  put  the  line  braks  on  the
+
+opposite  side  so  instead  of  putting  the
+
+line  break  right  here  where  it  looks
+
+kind  of  symmetrical  Im  going  to  make  it
+
+look  a  little  little  more  Whimsical  than
+
+that  so  Ill  put  it  over  here  Im  going
+
+to  grab  my  nodes  tool  Ill  double  click
+
+to  add  a  point  right  here  and  then  Ill
+
+add  another  point  right  here  and  then
+
+Im  going  to  select  those  and  delete  the
+
+segment  between  between  them  and  then
+
+Ill  put  another  one  down  here  Ill
+
+double  click  this  one  and  then  put
+
+another  one  right  there  and  Ill  delete
+
+that  segment  out  of  there  and  now  we  can
+
+just  go  to  our  markers  drop  down  and
+
+choose  our  previously  used  marker  for
+
+each  the  uh  for  both  the  start  and  the
+
+end  point  and  now  we  can  break  this
+
+apart  by  going  to  path  and
+
+selecting  break
+
+apart  and  there  we  go  that  segment  is
+
+done  now  when  Im  creating  these  letters
+
+what  I  like  to  do  is  I  like  to  leave  the
+
+center  line  in  place  I  dont  like  to
+
+break  them  apart  and  add  those  nodes  on
+
+there  because  then  it  starts  to  look
+
+less  like  a  letter  Ive  noticed  that
+
+leaving  that  line  like  it  is  helps
+
+preserve  its  appearance  as  a  letter
+
+especially  if  you  zoom  out  more  so  let
+
+me  Zoom  back  in  and  finally  Ill  do  this
+
+outer  line  here  so  for  this  outer  line
+
+Im  going  to  put  the  line  brakes  at
+
+opposite  sides  of  this  one  here  in  the
+
+center  so  instead  of  putting  the  line
+
+brake  right  here  Ill  put  it  over  here
+
+so  let  me  go  back  to  my  nodes  tool  Ill
+
+click  double  click  to  add  a  node  where  I
+
+want  the  line  brakes  to  be  select  both
+
+of  them
+
+delete  the  segment  and  then  Ill  come
+
+down  here  and  do  the  same  thing  Ill
+
+maybe  choose  this  part  right  here  and
+
+then  Ill  just  delete  the  segment
+
+between  these  two  nodes  let  me  try  that
+
+again  and  then  Ill  delete  that  out  of
+
+there  and  again  once  again  we  could  just
+
+choose  the  same  markers  for  the  start
+
+and  end
+
+point  and  then  break  it  apart  by  going
+
+to  path  and  selecting  break
+
+apart  and  what  I  like  to  do  is  for  this
+
+Center  Line  here  Im  just  going  to  grab
+
+my  nodes  tool  and  Im  going  to  select
+
+these  two  nodes  and  Im  just  going  to
+
+drag  this  down  a  little  bit  personally  I
+
+think  this  just  looks  a  little  better
+
+when  this  Center  Line  descends  down  a
+
+little  further  than  those  other  two
+
+lines  right  there  and  as  you  can  see
+
+were  finished  with  the  letter  now  if
+
+you  want  to  change  the  color  and  style
+
+of  your  letter  you  could  just  select
+
+over  all  of  it  and  change  the  stroke
+
+color  so  Ill  come  over  here  to  the
+
+stroke  paint  Tab  and  Ill  choose  a  new
+
+color  for  my  stroke  that  Ive  created
+
+and  there  we  go  now  we  have  a  blue  sort
+
+of  line  like  that  now  one  thing  to  keep
+
+in  mind  is  because  we  have  this  setting
+
+disabled  if  you  go  to  scale  this  object
+
+up  like  that  the  lines  are  going  to
+
+appear  thinner  and  the  same  thing  if  you
+
+scale  it  down  if  you  scale  it  down  the
+
+lines  are  going  to  appear  thicker  like
+
+that  if  you  want  to  preserve  the  object
+
+so  that  it  scales  the  line  the  line
+
+weight  stays  the  same  regardless  of  how
+
+much  you  scale  it  just  enable  this
+
+setting  again  and  now  youll  be  able  to
+
+scale  your  object  however  youd  like
+
+without  losing  any  of  those  proportions
+
+and  now  you  can  repeat  that  process
+
+using  these  objects  over  here  you  could
+
+take  these  lines  and  use  them  to  create
+
+every  other  letter  of  the  alphabet  and
+
+Ill  put  a  quick  little  graphic  up  on
+
+the  screen  here  just  to  show  you  how  I
+
+went  about  creating  all  of  the
+
+individual  letters  of  the  alphabet  if
+
+you  want  to  use  that  for
+
+inspiration  and  that  should  do  it  for
+
+this  tutorial  as  always  thanks  for
+
+watching  if  you  found  this  lesson  useful
+
+then  consider  checking  out  my  inkscape
+
+master  class  its  a  collection  of  over
+
+60  videos  where  I  go  over  all  of  the
+
+tools  and  features  in  inkscape  and  I
+
+explain  what  they  are  and  demonstrate
+
+how  they  work  kind  of  like  how  I  did  in
+
+this  video  we  even  have  a  private
+
+Community  where  you  can  ask  questions
+
+and  get  help  from  me  anytime  you  want
+
+and  best  of  all  theres  no  monthly
+
+membership  fees  you  just  pay  $17  one
+
+time  and  youre  in  for  Life  Ill  have
+
+some  information  about  that  down  below
+
+if  you  want  to  check  that  out  as  always
+
+thanks  for
+
+
+
+watching
+

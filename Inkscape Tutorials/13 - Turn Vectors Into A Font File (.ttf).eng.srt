@@ -1,0 +1,928 @@
+1
+00:00:00,080 --> 00:00:01,959
+in a previous tutorial I demonstrated
+
+2
+00:00:01,959 --> 00:00:03,719
+how you can use inkscape to create your
+
+3
+00:00:03,719 --> 00:00:05,920
+own Vector letters but in this tutorial
+
+4
+00:00:05,920 --> 00:00:07,439
+I'll be demonstrating how you can take
+
+5
+00:00:07,439 --> 00:00:09,519
+those letters and turn them into a
+
+6
+00:00:09,519 --> 00:00:13,679
+proper font file in ttf format so
+
+7
+00:00:13,679 --> 00:00:15,040
+getting us started here in inscape you
+
+8
+00:00:15,040 --> 00:00:16,840
+can see I have these simple letters that
+
+9
+00:00:16,840 --> 00:00:18,760
+I've designed if I grab my nodes tool
+
+10
+00:00:18,760 --> 00:00:20,119
+and zoom in on this you can see how I
+
+11
+00:00:20,119 --> 00:00:22,480
+created these these are just individual
+
+12
+00:00:22,480 --> 00:00:24,920
+paths that I apply to stroke to and I'm
+
+13
+00:00:24,920 --> 00:00:26,760
+going to use these letters to create a
+
+14
+00:00:26,760 --> 00:00:29,560
+font file uh for this demonstration so
+
+15
+00:00:29,560 --> 00:00:31,640
+in order turn these letters into a font
+
+16
+00:00:31,640 --> 00:00:33,280
+file we're going to need to download an
+
+17
+00:00:33,280 --> 00:00:35,840
+application called font uh font Forge
+
+18
+00:00:35,840 --> 00:00:38,120
+it's a free and open- Source font editor
+
+19
+00:00:38,120 --> 00:00:39,600
+that allows you to create your own fonts
+
+20
+00:00:39,600 --> 00:00:41,559
+as well so go ahead and download a font
+
+21
+00:00:41,559 --> 00:00:43,280
+Forge from the link in the description
+
+22
+00:00:43,280 --> 00:00:45,640
+launch the application and once you've
+
+23
+00:00:45,640 --> 00:00:47,480
+launched font Forge it should look
+
+24
+00:00:47,480 --> 00:00:48,920
+something like this so I'm going to
+
+25
+00:00:48,920 --> 00:00:50,480
+click on this button right here titled
+
+26
+00:00:50,480 --> 00:00:52,600
+new so I can create a new font and when
+
+27
+00:00:52,600 --> 00:00:54,079
+I do that we're going to get this window
+
+28
+00:00:54,079 --> 00:00:56,199
+with all of these individual boxes in it
+
+29
+00:00:56,199 --> 00:00:58,039
+and these boxes all represent the
+
+30
+00:00:58,039 --> 00:00:59,920
+individual characters of the font your
+
+31
+00:00:59,920 --> 00:01:01,199
+creating so if you notice we have all of
+
+32
+00:01:01,199 --> 00:01:03,120
+the special characters here we have the
+
+33
+00:01:03,120 --> 00:01:05,319
+numbers we have the uppercase letters
+
+34
+00:01:05,319 --> 00:01:07,119
+the lowercase letters and some
+
+35
+00:01:07,119 --> 00:01:09,439
+additional special characters down here
+
+36
+00:01:09,439 --> 00:01:10,680
+for this demonstration I'm just going to
+
+37
+00:01:10,680 --> 00:01:12,320
+fill in the upper and lowercase letters
+
+38
+00:01:12,320 --> 00:01:14,200
+I'm going to go back into inkscape and
+
+39
+00:01:14,200 --> 00:01:16,280
+to do this all we have to do is copy and
+
+40
+00:01:16,280 --> 00:01:18,439
+paste each letter into each individual
+
+41
+00:01:18,439 --> 00:01:20,360
+each individual box so I'm going to take
+
+42
+00:01:20,360 --> 00:01:21,880
+the letter a right here I'll right click
+
+43
+00:01:21,880 --> 00:01:23,640
+that and go to copy I'll come back over
+
+44
+00:01:23,640 --> 00:01:25,560
+here into font Forge and I'm going to
+
+45
+00:01:25,560 --> 00:01:27,680
+select the Box corresponding with the
+
+46
+00:01:27,680 --> 00:01:29,119
+letter a and I'm just going to paste
+
+47
+00:01:29,119 --> 00:01:30,520
+that in there either by right clicking
+
+48
+00:01:30,520 --> 00:01:32,360
+it and going to paste or you could just
+
+49
+00:01:32,360 --> 00:01:33,880
+press contrl +v on the keyboard that
+
+50
+00:01:33,880 --> 00:01:36,360
+paste that in there now if you notice in
+
+51
+00:01:36,360 --> 00:01:38,360
+the thumbnail preview there the letter
+
+52
+00:01:38,360 --> 00:01:40,360
+is located in the top left of that
+
+53
+00:01:40,360 --> 00:01:41,680
+preview box there so we're going to
+
+54
+00:01:41,680 --> 00:01:43,360
+adjust that by double clicking on the
+
+55
+00:01:43,360 --> 00:01:44,680
+letter to open
+
+56
+00:01:44,680 --> 00:01:46,759
+it and when we open it we're going to
+
+57
+00:01:46,759 --> 00:01:48,280
+get this editor here sort of like
+
+58
+00:01:48,280 --> 00:01:50,680
+inkscape it allows you to change the
+
+59
+00:01:50,680 --> 00:01:53,000
+design if you'd like to it also allows
+
+60
+00:01:53,000 --> 00:01:55,520
+you to change the position now the size
+
+61
+00:01:55,520 --> 00:01:57,960
+of your letter may vary depending on the
+
+62
+00:01:57,960 --> 00:01:59,880
+size of the letter in the software here
+
+63
+00:01:59,880 --> 00:02:01,799
+here if you find that your letter is too
+
+64
+00:02:01,799 --> 00:02:03,840
+big or too small you can resize it
+
+65
+00:02:03,840 --> 00:02:06,280
+manually using the interface here or
+
+66
+00:02:06,280 --> 00:02:07,640
+what I would recommend doing is going
+
+67
+00:02:07,640 --> 00:02:09,919
+back into inkscape and resizing all of
+
+68
+00:02:09,919 --> 00:02:11,520
+the letters at the same time so that
+
+69
+00:02:11,520 --> 00:02:13,480
+each letter is consistent when you
+
+70
+00:02:13,480 --> 00:02:15,280
+create your font from it so uh if you
+
+71
+00:02:15,280 --> 00:02:16,840
+size these down one by one you're going
+
+72
+00:02:16,840 --> 00:02:18,560
+to have inconsistent weights between the
+
+73
+00:02:18,560 --> 00:02:19,959
+letters so I would recommend sizing them
+
+74
+00:02:19,959 --> 00:02:22,319
+all at once my size here is pretty good
+
+75
+00:02:22,319 --> 00:02:23,840
+I'm going to leave it as it is what I am
+
+76
+00:02:23,840 --> 00:02:24,680
+going to do though is I'm going to
+
+77
+00:02:24,680 --> 00:02:26,160
+change the position of this letter if
+
+78
+00:02:26,160 --> 00:02:27,879
+you notice down here this represents the
+
+79
+00:02:27,879 --> 00:02:30,360
+Baseline of the text and this area down
+
+80
+00:02:30,360 --> 00:02:31,920
+here represents the area that goes
+
+81
+00:02:31,920 --> 00:02:33,840
+beneath the Baseline so for example if
+
+82
+00:02:33,840 --> 00:02:36,000
+you were creating a lowercase G you
+
+83
+00:02:36,000 --> 00:02:37,720
+would want part of the letter to rest on
+
+84
+00:02:37,720 --> 00:02:39,640
+the Baseline but you'd want that tail to
+
+85
+00:02:39,640 --> 00:02:42,000
+dip down under there so to move this I'm
+
+86
+00:02:42,000 --> 00:02:43,080
+just going to click and drag over the
+
+87
+00:02:43,080 --> 00:02:45,080
+letter here and I'm going to click and
+
+88
+00:02:45,080 --> 00:02:46,360
+drag one of these nodes and I'm going to
+
+89
+00:02:46,360 --> 00:02:48,280
+hold the shift key and bring this down
+
+90
+00:02:48,280 --> 00:02:50,840
+until the node snaps onto the Baseline
+
+91
+00:02:50,840 --> 00:02:52,319
+and now you can see we have all of this
+
+92
+00:02:52,319 --> 00:02:53,840
+extra space in here I'm going to close
+
+93
+00:02:53,840 --> 00:02:55,400
+that by taking this guide right here and
+
+94
+00:02:55,400 --> 00:02:57,319
+just bringing this in further and I want
+
+95
+00:02:57,319 --> 00:02:58,879
+to leave a little bit of space there
+
+96
+00:02:58,879 --> 00:03:00,120
+because this is going to repres repr the
+
+97
+00:03:00,120 --> 00:03:02,080
+spacing between each letter so if I were
+
+98
+00:03:02,080 --> 00:03:03,519
+to bring this all the way in there would
+
+99
+00:03:03,519 --> 00:03:05,080
+be no spacing between the letter a and
+
+100
+00:03:05,080 --> 00:03:06,680
+the next letter I type I want there to
+
+101
+00:03:06,680 --> 00:03:08,519
+be some spacing though so I'll put about
+
+102
+00:03:08,519 --> 00:03:10,080
+that much spacing in there and that
+
+103
+00:03:10,080 --> 00:03:11,799
+looks pretty good I can close out of
+
+104
+00:03:11,799 --> 00:03:14,120
+that and now you can see the letter a is
+
+105
+00:03:14,120 --> 00:03:16,000
+all set so I'll repeat this process now
+
+106
+00:03:16,000 --> 00:03:18,720
+with the letter B I'll just copy it by
+
+107
+00:03:18,720 --> 00:03:21,760
+pressing contrl C come back in here come
+
+108
+00:03:21,760 --> 00:03:24,159
+back in here press contrl V to paste it
+
+109
+00:03:24,159 --> 00:03:27,440
+double click the layer select the letter
+
+110
+00:03:27,440 --> 00:03:29,840
+and grab the node and just snap this to
+
+111
+00:03:29,840 --> 00:03:31,239
+the bottom again holding shift to lock
+
+112
+00:03:31,239 --> 00:03:33,439
+it onto the vertical axis there we go
+
+113
+00:03:33,439 --> 00:03:35,040
+now it snaps I can take this line and
+
+114
+00:03:35,040 --> 00:03:36,799
+move this
+
+115
+00:03:36,799 --> 00:03:39,519
+in and close out of that and there we go
+
+116
+00:03:39,519 --> 00:03:40,560
+so what I'm going to do is I'll go
+
+117
+00:03:40,560 --> 00:03:41,959
+through here and copy and paste all of
+
+118
+00:03:41,959 --> 00:03:43,120
+these letters in here real quick and
+
+119
+00:03:43,120 --> 00:03:45,519
+I'll catch up with you when I'm
+
+120
+00:03:45,519 --> 00:03:47,840
+done so one minor thing I wanted to
+
+121
+00:03:47,840 --> 00:03:49,920
+point out in regards to letters like a
+
+122
+00:03:49,920 --> 00:03:52,239
+lowercase G where the tail descends down
+
+123
+00:03:52,239 --> 00:03:54,400
+beneath the Baseline to move this letter
+
+124
+00:03:54,400 --> 00:03:56,000
+we want to place the Baseline we want to
+
+125
+00:03:56,000 --> 00:03:57,400
+place this part of the letter right here
+
+126
+00:03:57,400 --> 00:03:58,959
+on the Baseline and we want this part of
+
+127
+00:03:58,959 --> 00:04:00,760
+the letter to descend send beyond the
+
+128
+00:04:00,760 --> 00:04:01,920
+Baseline so I'm going to select
+
+129
+00:04:01,920 --> 00:04:03,560
+everything and instead of clicking and
+
+130
+00:04:03,560 --> 00:04:04,840
+dragging the bottom node I'm going to
+
+131
+00:04:04,840 --> 00:04:06,280
+take this node right here which is the
+
+132
+00:04:06,280 --> 00:04:08,040
+node that I'd like to be on the Baseline
+
+133
+00:04:08,040 --> 00:04:09,959
+and I'll drag it according to that one
+
+134
+00:04:09,959 --> 00:04:12,040
+again I'll hold shift and then snap that
+
+135
+00:04:12,040 --> 00:04:13,879
+node onto the Baseline and as you can
+
+136
+00:04:13,879 --> 00:04:15,760
+see there the letter G now descends
+
+137
+00:04:15,760 --> 00:04:17,519
+beneath the Baseline as intended and I
+
+138
+00:04:17,519 --> 00:04:19,600
+can move this line back in and we're
+
+139
+00:04:19,600 --> 00:04:21,839
+good to
+
+140
+00:04:21,839 --> 00:04:24,360
+go and for this particular font that I'm
+
+141
+00:04:24,360 --> 00:04:26,199
+creating I don't have upper and
+
+142
+00:04:26,199 --> 00:04:28,240
+lowercase variations of these letters I
+
+143
+00:04:28,240 --> 00:04:29,800
+just have the lowercase varieties so I'm
+
+144
+00:04:29,800 --> 00:04:31,479
+just going to copy and paste the
+
+145
+00:04:31,479 --> 00:04:33,880
+uppercase variety into the lowercase
+
+146
+00:04:33,880 --> 00:04:37,639
+boxes uh so that they're all the
+
+147
+00:04:39,440 --> 00:04:41,759
+same and once you're finished generating
+
+148
+00:04:41,759 --> 00:04:43,360
+all of the characters for your font you
+
+149
+00:04:43,360 --> 00:04:45,080
+can give your font a name by coming up
+
+150
+00:04:45,080 --> 00:04:47,280
+here to the element menu and choosing
+
+151
+00:04:47,280 --> 00:04:49,720
+font info now this part's important
+
+152
+00:04:49,720 --> 00:04:51,160
+because whatever you enter here is going
+
+153
+00:04:51,160 --> 00:04:52,680
+to be the name of your font so if you
+
+154
+00:04:52,680 --> 00:04:53,960
+don't want your font to be named
+
+155
+00:04:53,960 --> 00:04:55,560
+Untitled one just go ahead and change
+
+156
+00:04:55,560 --> 00:04:56,600
+that to something else I'm just going to
+
+157
+00:04:56,600 --> 00:04:59,080
+name this after myself I'll name it Nick
+
+158
+00:04:59,080 --> 00:05:00,400
+and uh if if you want you could fill in
+
+159
+00:05:00,400 --> 00:05:02,120
+this other metadata down here we have
+
+160
+00:05:02,120 --> 00:05:03,440
+all of this other stuff that you can
+
+161
+00:05:03,440 --> 00:05:04,639
+look through if you'd like I'm just
+
+162
+00:05:04,639 --> 00:05:05,960
+going to leave these defaults as they
+
+163
+00:05:05,960 --> 00:05:08,199
+are for this lesson and I'll click
+
+164
+00:05:08,199 --> 00:05:11,039
+okay and now to generate a font file I'm
+
+165
+00:05:11,039 --> 00:05:12,160
+going to come up here to where it says
+
+166
+00:05:12,160 --> 00:05:16,320
+file and I'm going to select uh generate
+
+167
+00:05:16,320 --> 00:05:18,880
+fonts and from this menu you can choose
+
+168
+00:05:18,880 --> 00:05:20,400
+where you would like to save your font
+
+169
+00:05:20,400 --> 00:05:22,840
+file to you can use this dropdown to
+
+170
+00:05:22,840 --> 00:05:25,199
+choose the font file type I'm just going
+
+171
+00:05:25,199 --> 00:05:27,759
+to leave the default which is ttf and my
+
+172
+00:05:27,759 --> 00:05:29,560
+font file is going to be called nick.
+
+173
+00:05:29,560 --> 00:05:31,919
+ttf and I'm just going to click generate
+
+174
+00:05:31,919 --> 00:05:33,160
+now when I click generate I'm going to
+
+175
+00:05:33,160 --> 00:05:34,440
+get these error messages because I
+
+176
+00:05:34,440 --> 00:05:36,000
+didn't create a proper font file there's
+
+177
+00:05:36,000 --> 00:05:37,680
+a lot of errors with what I created here
+
+178
+00:05:37,680 --> 00:05:39,240
+I'm just going to skip past this I'm
+
+179
+00:05:39,240 --> 00:05:40,840
+going to click
+
+180
+00:05:40,840 --> 00:05:43,479
+generate and if you open up your files
+
+181
+00:05:43,479 --> 00:05:44,600
+I'm going to open this right here you
+
+182
+00:05:44,600 --> 00:05:47,160
+can see nick. ttf there is my font and
+
+183
+00:05:47,160 --> 00:05:48,720
+there is the preview of the font that I
+
+184
+00:05:48,720 --> 00:05:51,479
+created and I'll go ahead and install
+
+185
+00:05:51,479 --> 00:05:53,880
+this and now this font can be used
+
+186
+00:05:53,880 --> 00:05:55,199
+virtually anywhere in your operating
+
+187
+00:05:55,199 --> 00:05:56,759
+system not just with inkscape with any
+
+188
+00:05:56,759 --> 00:05:58,600
+design app that you want any word
+
+189
+00:05:58,600 --> 00:06:00,800
+processor in fact I'll reload inkscape
+
+190
+00:06:00,800 --> 00:06:02,560
+here just to show you what I mean let me
+
+191
+00:06:02,560 --> 00:06:04,280
+close out of this and relaunch the
+
+192
+00:06:04,280 --> 00:06:07,400
+software let me shrink that
+
+193
+00:06:07,400 --> 00:06:09,440
+down and I'll just write in some
+
+194
+00:06:09,440 --> 00:06:12,199
+placeholder text I'll press contr a to
+
+195
+00:06:12,199 --> 00:06:13,720
+select it all and I'm going to go
+
+196
+00:06:13,720 --> 00:06:15,800
+looking for my font here in this list so
+
+197
+00:06:15,800 --> 00:06:18,080
+I'm looking for
+
+198
+00:06:18,080 --> 00:06:21,680
+Nick there it is I'll click apply and
+
+199
+00:06:21,680 --> 00:06:23,800
+there is the font that I've created and
+
+200
+00:06:23,800 --> 00:06:25,919
+in fact I can go and change this now you
+
+201
+00:06:25,919 --> 00:06:28,400
+know what let me try that
+
+202
+00:06:28,400 --> 00:06:31,400
+again
+
+203
+00:06:31,759 --> 00:06:34,080
+and if I bring out let me let me open
+
+204
+00:06:34,080 --> 00:06:35,919
+the rulers by pressing controlr and I'll
+
+205
+00:06:35,919 --> 00:06:38,199
+bring down a horizontal guide if I place
+
+206
+00:06:38,199 --> 00:06:39,599
+this horizontal guide here you could see
+
+207
+00:06:39,599 --> 00:06:41,080
+what I was talking about earlier with
+
+208
+00:06:41,080 --> 00:06:42,919
+the uh the Baseline of the text the
+
+209
+00:06:42,919 --> 00:06:45,160
+Baseline sits the letters all sit on the
+
+210
+00:06:45,160 --> 00:06:47,680
+proper Baseline and the letter G and the
+
+211
+00:06:47,680 --> 00:06:49,560
+letter Y descend beneath it the same
+
+212
+00:06:49,560 --> 00:06:51,280
+with the letter P as well so that is how
+
+213
+00:06:51,280 --> 00:06:52,800
+you can go about creating your own font
+
+214
+00:06:52,800 --> 00:06:56,280
+files using Vector elements if you found
+
+215
+00:06:56,280 --> 00:06:57,720
+this lesson useful then consider
+
+216
+00:06:57,720 --> 00:07:00,199
+checking out my inkscape master class
+
+217
+00:07:00,199 --> 00:07:02,000
+it's a collection of over 60 videos
+
+218
+00:07:02,000 --> 00:07:03,440
+where I go over all of the tools and
+
+219
+00:07:03,440 --> 00:07:05,520
+features in inkscape and I explain what
+
+220
+00:07:05,520 --> 00:07:07,520
+they are and demonstrate how they work
+
+221
+00:07:07,520 --> 00:07:09,560
+kind of like how I did in this video we
+
+222
+00:07:09,560 --> 00:07:11,199
+even have a private Community where you
+
+223
+00:07:11,199 --> 00:07:13,400
+can ask questions and get help from me
+
+224
+00:07:13,400 --> 00:07:15,680
+anytime you want and best of all there's
+
+225
+00:07:15,680 --> 00:07:17,759
+no monthly membership fees you just pay
+
+226
+00:07:17,759 --> 00:07:21,039
+$17 one time and you're in for Life I'll
+
+227
+00:07:21,039 --> 00:07:22,360
+have some information about that down
+
+228
+00:07:22,360 --> 00:07:24,000
+below if you want to check that out as
+
+229
+00:07:24,000 --> 00:07:26,919
+always thanks for
+
+230
+00:07:28,319 --> 00:07:31,319
+watching
+
+231
+00:07:32,320 --> 00:07:36,759
+[Music]
+
+232
+00:07:44,319 --> 00:07:47,319
+h
+

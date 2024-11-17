@@ -1,0 +1,1176 @@
+1
+00:00:00,160 --> 00:00:01,880
+in this tutorial we'll be going over
+
+2
+00:00:01,880 --> 00:00:03,159
+everything you need to know about
+
+3
+00:00:03,159 --> 00:00:05,879
+working with gradients in inkscape now
+
+4
+00:00:05,879 --> 00:00:07,359
+in this lesson we're going to focus on
+
+5
+00:00:07,359 --> 00:00:09,040
+linear and Radial gradients in
+
+6
+00:00:09,040 --> 00:00:10,400
+particular but if you want to learn
+
+7
+00:00:10,400 --> 00:00:11,960
+about some of the more advanced types of
+
+8
+00:00:11,960 --> 00:00:14,160
+gradients in inkscape such as mesh
+
+9
+00:00:14,160 --> 00:00:16,359
+gradients and conical gradients I have a
+
+10
+00:00:16,359 --> 00:00:17,720
+separate tutorial for that that I'll
+
+11
+00:00:17,720 --> 00:00:20,199
+have Linked In the description below so
+
+12
+00:00:20,199 --> 00:00:21,840
+to start us off here a gradient is
+
+13
+00:00:21,840 --> 00:00:23,519
+basically a transition between two or
+
+14
+00:00:23,519 --> 00:00:25,599
+more colors and a good example of that
+
+15
+00:00:25,599 --> 00:00:27,679
+would be the sunset graphic in the
+
+16
+00:00:27,679 --> 00:00:30,279
+background this sky does not have a
+
+17
+00:00:30,279 --> 00:00:32,680
+single color applied to it it has a
+
+18
+00:00:32,680 --> 00:00:34,120
+gradient applied to it where it
+
+19
+00:00:34,120 --> 00:00:36,760
+transitions from lavender to this Peach
+
+20
+00:00:36,760 --> 00:00:39,559
+sort of shade so let me show you how
+
+21
+00:00:39,559 --> 00:00:42,039
+this can be accomplished in inkscape I'm
+
+22
+00:00:42,039 --> 00:00:43,920
+going to grab my rectangle tool and I'm
+
+23
+00:00:43,920 --> 00:00:45,640
+going to click and drag on the canvas to
+
+24
+00:00:45,640 --> 00:00:47,840
+draw a rectangle and then I'm going to
+
+25
+00:00:47,840 --> 00:00:49,440
+open up my fill and stroke menu by
+
+26
+00:00:49,440 --> 00:00:51,239
+coming down here to this color stripe
+
+27
+00:00:51,239 --> 00:00:52,680
+and double clicking
+
+28
+00:00:52,680 --> 00:00:55,079
+it when I do that the fill and stroke
+
+29
+00:00:55,079 --> 00:00:56,719
+menu will open up over here on the right
+
+30
+00:00:56,719 --> 00:00:58,719
+hand side of the screen and Under The
+
+31
+00:00:58,719 --> 00:01:00,120
+Fill tab you'll notice we have have
+
+32
+00:01:00,120 --> 00:01:01,600
+these different types of fills that we
+
+33
+00:01:01,600 --> 00:01:04,680
+can apply to an object right now we have
+
+34
+00:01:04,680 --> 00:01:07,200
+a solid color applied to the object but
+
+35
+00:01:07,200 --> 00:01:09,240
+if we wanted to apply a a gradient we
+
+36
+00:01:09,240 --> 00:01:10,960
+can choose one of these options over
+
+37
+00:01:10,960 --> 00:01:12,880
+here we have a linear gradient which
+
+38
+00:01:12,880 --> 00:01:16,000
+follows a linear or straight path and
+
+39
+00:01:16,000 --> 00:01:18,119
+then we have a radial gradient which
+
+40
+00:01:18,119 --> 00:01:21,000
+follows a circular or round path so let
+
+41
+00:01:21,000 --> 00:01:23,799
+me select linear gradient and when I do
+
+42
+00:01:23,799 --> 00:01:26,079
+that you can see that by default the
+
+43
+00:01:26,079 --> 00:01:28,400
+gradient that it applies starts off with
+
+44
+00:01:28,400 --> 00:01:30,600
+the original color on the left hand side
+
+45
+00:01:30,600 --> 00:01:32,520
+and then it transitions over to
+
+46
+00:01:32,520 --> 00:01:35,119
+transparency on the right hand side now
+
+47
+00:01:35,119 --> 00:01:36,720
+I'm going to grab my gradient tool from
+
+48
+00:01:36,720 --> 00:01:38,520
+the toolbar over here you can also
+
+49
+00:01:38,520 --> 00:01:40,079
+access it by pressing the letter G on
+
+50
+00:01:40,079 --> 00:01:42,799
+your keyboard and if I click on this
+
+51
+00:01:42,799 --> 00:01:44,640
+handle you can see the color that's
+
+52
+00:01:44,640 --> 00:01:46,960
+applied to this part of the gradient
+
+53
+00:01:46,960 --> 00:01:48,920
+over here in the fill and stroke menu
+
+54
+00:01:48,920 --> 00:01:50,880
+you can see the color code you can see
+
+55
+00:01:50,880 --> 00:01:54,200
+the hsl values and then you can see the
+
+56
+00:01:54,200 --> 00:01:56,759
+colors indexed over here in the stops
+
+57
+00:01:56,759 --> 00:01:59,039
+menu now if I click on the other end of
+
+58
+00:01:59,039 --> 00:02:01,680
+this gradient you can see now I have the
+
+59
+00:02:01,680 --> 00:02:03,799
+other color selected now this is the
+
+60
+00:02:03,799 --> 00:02:05,600
+same color but the alpha channel is
+
+61
+00:02:05,600 --> 00:02:07,399
+brought all the way down and by the way
+
+62
+00:02:07,399 --> 00:02:09,239
+if you don't have an alpha channel here
+
+63
+00:02:09,239 --> 00:02:10,639
+make sure to come up here to this drop
+
+64
+00:02:10,639 --> 00:02:13,640
+down and choose hsl from this list now
+
+65
+00:02:13,640 --> 00:02:15,120
+I'm going to bring the opacity of this
+
+66
+00:02:15,120 --> 00:02:16,680
+end of the gradient all the way up so
+
+67
+00:02:16,680 --> 00:02:18,280
+I'm going to change the alpha channel to
+
+68
+00:02:18,280 --> 00:02:20,800
+100 and I'll press enter and I'm going
+
+69
+00:02:20,800 --> 00:02:22,160
+to give this a different color so I'm
+
+70
+00:02:22,160 --> 00:02:23,480
+going to click on this side of the
+
+71
+00:02:23,480 --> 00:02:25,720
+gradient to select it and I'll choose a
+
+72
+00:02:25,720 --> 00:02:27,200
+different color from my color palette
+
+73
+00:02:27,200 --> 00:02:29,879
+down here now by the way you don't have
+
+74
+00:02:29,879 --> 00:02:31,200
+have to use the color palette if you
+
+75
+00:02:31,200 --> 00:02:32,879
+want you can change the color using the
+
+76
+00:02:32,879 --> 00:02:35,000
+color wheel or the hsl
+
+77
+00:02:35,000 --> 00:02:36,959
+sliders and once you've chosen your
+
+78
+00:02:36,959 --> 00:02:38,560
+colors you can take these ends of the
+
+79
+00:02:38,560 --> 00:02:40,480
+gradients and move them around if you'd
+
+80
+00:02:40,480 --> 00:02:41,879
+like you could just click and drag them
+
+81
+00:02:41,879 --> 00:02:43,599
+like that and you can move them as if
+
+82
+00:02:43,599 --> 00:02:45,120
+they were any other object in fact if
+
+83
+00:02:45,120 --> 00:02:47,080
+you hold the control key it'll lock it
+
+84
+00:02:47,080 --> 00:02:49,680
+onto 15 Dee increments so that you can
+
+85
+00:02:49,680 --> 00:02:51,400
+get a perfectly straight gradient that
+
+86
+00:02:51,400 --> 00:02:54,480
+either goes vertically or
+
+87
+00:02:54,480 --> 00:02:56,400
+horizontally so let me move this back
+
+88
+00:02:56,400 --> 00:02:57,760
+over a little
+
+89
+00:02:57,760 --> 00:02:59,800
+bit now if you come up here to the top
+
+90
+00:02:59,800 --> 00:03:01,400
+top of the menu you can see we have some
+
+91
+00:03:01,400 --> 00:03:03,319
+controls in here let's say I wanted to
+
+92
+00:03:03,319 --> 00:03:05,000
+reverse this gradient I can click on
+
+93
+00:03:05,000 --> 00:03:07,280
+that button and it flips the gradient
+
+94
+00:03:07,280 --> 00:03:09,040
+around so that yellow is on the left
+
+95
+00:03:09,040 --> 00:03:11,599
+hand side and pink is on the right and
+
+96
+00:03:11,599 --> 00:03:13,080
+I'm going to flip it back and it gets
+
+97
+00:03:13,080 --> 00:03:15,040
+the same effect and then over here we
+
+98
+00:03:15,040 --> 00:03:17,640
+have repeat as of right now there is no
+
+99
+00:03:17,640 --> 00:03:19,400
+repeat applied to this gradient so the
+
+100
+00:03:19,400 --> 00:03:21,360
+default is none but if I were to change
+
+101
+00:03:21,360 --> 00:03:24,200
+this to a direct repeat you can see what
+
+102
+00:03:24,200 --> 00:03:25,799
+happens here when the gradient ends it
+
+103
+00:03:25,799 --> 00:03:27,959
+just starts and stops abruptly and opens
+
+104
+00:03:27,959 --> 00:03:30,319
+up a new one and this goes
+
+105
+00:03:30,319 --> 00:03:33,200
+infinitely so let me put this back and
+
+106
+00:03:33,200 --> 00:03:36,239
+then the other option is reflected so
+
+107
+00:03:36,239 --> 00:03:38,400
+I'll choose reflected and this repeats
+
+108
+00:03:38,400 --> 00:03:40,760
+the gradient as well but it just mirrors
+
+109
+00:03:40,760 --> 00:03:43,319
+it each time so it's a little bit of a
+
+110
+00:03:43,319 --> 00:03:46,000
+softer transition so let me set this
+
+111
+00:03:46,000 --> 00:03:49,159
+back to none I'm going to move my stops
+
+112
+00:03:49,159 --> 00:03:51,840
+out a little bit and let's say I wanted
+
+113
+00:03:51,840 --> 00:03:54,400
+to add a new color to this gradient to
+
+114
+00:03:54,400 --> 00:03:56,920
+do that all I have to do is doubleclick
+
+115
+00:03:56,920 --> 00:03:58,680
+anywhere on the path with the gradient
+
+116
+00:03:58,680 --> 00:04:00,879
+tool so I'll double click right here and
+
+117
+00:04:00,879 --> 00:04:03,200
+it'll add a new stop to that gradient
+
+118
+00:04:03,200 --> 00:04:04,799
+and if you look over here in your stops
+
+119
+00:04:04,799 --> 00:04:07,079
+index you can see all of the colors that
+
+120
+00:04:07,079 --> 00:04:08,959
+are included in this gradient and we now
+
+121
+00:04:08,959 --> 00:04:10,480
+have that one in the middle that was
+
+122
+00:04:10,480 --> 00:04:12,280
+just added and if you click on that one
+
+123
+00:04:12,280 --> 00:04:14,239
+to select it you can change the color of
+
+124
+00:04:14,239 --> 00:04:15,879
+that as well so I'll make this something
+
+125
+00:04:15,879 --> 00:04:17,720
+radically different like green just to
+
+126
+00:04:17,720 --> 00:04:19,639
+show you and you can see we now have a
+
+127
+00:04:19,639 --> 00:04:21,519
+gradient that transitions from pink to
+
+128
+00:04:21,519 --> 00:04:23,320
+Green to yellow and I could take these
+
+129
+00:04:23,320 --> 00:04:25,560
+stops and move them around as needed and
+
+130
+00:04:25,560 --> 00:04:27,080
+this works infinitely you can keep
+
+131
+00:04:27,080 --> 00:04:29,080
+adding new stops in here if you want to
+
+132
+00:04:29,080 --> 00:04:32,120
+to add new parts to the
+
+133
+00:04:32,680 --> 00:04:34,720
+gradient and if you want to remove them
+
+134
+00:04:34,720 --> 00:04:36,000
+all you have to do is just press the
+
+135
+00:04:36,000 --> 00:04:37,400
+delete key so I'll press delete to
+
+136
+00:04:37,400 --> 00:04:39,199
+delete that one I'll click on that one
+
+137
+00:04:39,199 --> 00:04:40,800
+to select it press delete and then I'll
+
+138
+00:04:40,800 --> 00:04:42,320
+do the same thing over here and then
+
+139
+00:04:42,320 --> 00:04:44,199
+we're back to our original gradient and
+
+140
+00:04:44,199 --> 00:04:45,720
+by the way it works the same thing over
+
+141
+00:04:45,720 --> 00:04:47,240
+here in this menu you can select these
+
+142
+00:04:47,240 --> 00:04:49,039
+stops just by clicking on these colors
+
+143
+00:04:49,039 --> 00:04:51,479
+in the stops index and another thing you
+
+144
+00:04:51,479 --> 00:04:52,960
+can do is if you want to offset your
+
+145
+00:04:52,960 --> 00:04:54,720
+gradient so that one color is more
+
+146
+00:04:54,720 --> 00:04:56,680
+dominant than the other you can use this
+
+147
+00:04:56,680 --> 00:04:59,000
+slider up here so let's say I wanted
+
+148
+00:04:59,000 --> 00:05:00,600
+more pink in this gradient I could take
+
+149
+00:05:00,600 --> 00:05:02,759
+this slider and just bring this over and
+
+150
+00:05:02,759 --> 00:05:06,000
+then it becomes more pink dominant and
+
+151
+00:05:06,000 --> 00:05:07,280
+it works the other way in Reverse as
+
+152
+00:05:07,280 --> 00:05:08,680
+well I can take the yellow slider and
+
+153
+00:05:08,680 --> 00:05:09,720
+bring that
+
+154
+00:05:09,720 --> 00:05:11,919
+over and there you go now there's more
+
+155
+00:05:11,919 --> 00:05:14,440
+yellow in the
+
+156
+00:05:14,440 --> 00:05:16,639
+gradient so now let's have a look at an
+
+157
+00:05:16,639 --> 00:05:18,560
+example of when linear gradients would
+
+158
+00:05:18,560 --> 00:05:20,199
+come in handy getting back to my
+
+159
+00:05:20,199 --> 00:05:22,639
+original example of the sunset right now
+
+160
+00:05:22,639 --> 00:05:25,120
+the sky just has a single color applied
+
+161
+00:05:25,120 --> 00:05:26,880
+to it but if I wanted to make this look
+
+162
+00:05:26,880 --> 00:05:28,919
+more like a realistic Sunset I would
+
+163
+00:05:28,919 --> 00:05:31,160
+apply a linear gradient to it so I'm
+
+164
+00:05:31,160 --> 00:05:32,680
+going to click on the object to select
+
+165
+00:05:32,680 --> 00:05:34,199
+it and then I'll open up my fill and
+
+166
+00:05:34,199 --> 00:05:38,319
+stroke menu I'll apply a linear gradient
+
+167
+00:05:38,319 --> 00:05:40,479
+and I'm going to grab my gradients tool
+
+168
+00:05:40,479 --> 00:05:42,240
+and I'm going to select this end of the
+
+169
+00:05:42,240 --> 00:05:43,840
+gradient and instead of letting this be
+
+170
+00:05:43,840 --> 00:05:45,840
+transparent I'm going to make this a
+
+171
+00:05:45,840 --> 00:05:48,000
+purple shade so another way that you can
+
+172
+00:05:48,000 --> 00:05:49,639
+apply colors to your gradient is with
+
+173
+00:05:49,639 --> 00:05:52,120
+the dropper tool so with this end of the
+
+174
+00:05:52,120 --> 00:05:54,319
+gradient selected I will press D on my
+
+175
+00:05:54,319 --> 00:05:56,280
+keyboard to grab my color selector and
+
+176
+00:05:56,280 --> 00:05:57,680
+then I'm going to sample this color
+
+177
+00:05:57,680 --> 00:05:59,080
+right here just to make it that shade of
+
+178
+00:05:59,080 --> 00:06:00,800
+purple
+
+179
+00:06:00,800 --> 00:06:03,360
+and then I'll grab my gradient tool and
+
+180
+00:06:03,360 --> 00:06:04,960
+I'll take this stop and bring this up
+
+181
+00:06:04,960 --> 00:06:06,520
+here and then I'll take this one and
+
+182
+00:06:06,520 --> 00:06:08,080
+bring this down and again holding
+
+183
+00:06:08,080 --> 00:06:09,840
+control on my keyboard so that it
+
+184
+00:06:09,840 --> 00:06:12,160
+remains a perfectly vertical path and
+
+185
+00:06:12,160 --> 00:06:13,520
+there you go just like that I was able
+
+186
+00:06:13,520 --> 00:06:15,880
+to use linear gradients to make this
+
+187
+00:06:15,880 --> 00:06:18,560
+Sunset look more
+
+188
+00:06:18,560 --> 00:06:20,720
+realistic now let's have a look at how
+
+189
+00:06:20,720 --> 00:06:22,840
+radial gradients work I'm going to grab
+
+190
+00:06:22,840 --> 00:06:24,440
+my circles and ellipses tool and I'll
+
+191
+00:06:24,440 --> 00:06:26,120
+hold control and click and drag to
+
+192
+00:06:26,120 --> 00:06:28,919
+create a circle and now I'm going to
+
+193
+00:06:28,919 --> 00:06:30,800
+apply a gradient to it but instead of
+
+194
+00:06:30,800 --> 00:06:32,919
+using a linear gradient this time I'm
+
+195
+00:06:32,919 --> 00:06:35,160
+going to use a radial gradient and when
+
+196
+00:06:35,160 --> 00:06:37,160
+I click on that you can see what happens
+
+197
+00:06:37,160 --> 00:06:39,240
+here uh if I grab my gradient tool you
+
+198
+00:06:39,240 --> 00:06:41,440
+can see that this works almost the same
+
+199
+00:06:41,440 --> 00:06:42,919
+way but the only difference is that the
+
+200
+00:06:42,919 --> 00:06:45,160
+gradient is now following a round path
+
+201
+00:06:45,160 --> 00:06:47,360
+instead of a linear path and I could
+
+202
+00:06:47,360 --> 00:06:48,880
+take these handles and bring them in
+
+203
+00:06:48,880 --> 00:06:50,319
+like this and if I do that you can see
+
+204
+00:06:50,319 --> 00:06:52,160
+it distorts the gradient but if I want
+
+205
+00:06:52,160 --> 00:06:54,120
+to maintain the aspect ratio while
+
+206
+00:06:54,120 --> 00:06:55,599
+scaling what I would do is I would hold
+
+207
+00:06:55,599 --> 00:06:57,680
+the control key or control and shift
+
+208
+00:06:57,680 --> 00:06:59,240
+rather and it scales both at the same
+
+209
+00:06:59,240 --> 00:07:01,479
+time time let me try that again though
+
+210
+00:07:01,479 --> 00:07:04,000
+since I already distorted it the key is
+
+211
+00:07:04,000 --> 00:07:05,800
+that you want to hold control and shift
+
+212
+00:07:05,800 --> 00:07:07,400
+before you click and drag so I'll hold
+
+213
+00:07:07,400 --> 00:07:08,919
+control and shift and then I'll click
+
+214
+00:07:08,919 --> 00:07:11,599
+and drag and now it scales it with the
+
+215
+00:07:11,599 --> 00:07:13,599
+aspect ratio
+
+216
+00:07:13,599 --> 00:07:15,800
+preserved and again this works the same
+
+217
+00:07:15,800 --> 00:07:17,280
+way if you want to add new colors in
+
+218
+00:07:17,280 --> 00:07:18,599
+here you could just double click the
+
+219
+00:07:18,599 --> 00:07:20,919
+path and with that node selected you can
+
+220
+00:07:20,919 --> 00:07:22,680
+click on a different color and then it
+
+221
+00:07:22,680 --> 00:07:24,400
+adds that color to the
+
+222
+00:07:24,400 --> 00:07:28,039
+gradient so let me undo that let me undo
+
+223
+00:07:28,039 --> 00:07:30,360
+adding the new stop to the gradient and
+
+224
+00:07:30,360 --> 00:07:31,720
+I'm going to reverse this gradient up
+
+225
+00:07:31,720 --> 00:07:32,919
+here I'm going to click on this option
+
+226
+00:07:32,919 --> 00:07:34,199
+that says reverse the direction of the
+
+227
+00:07:34,199 --> 00:07:36,199
+gradient and I'm going to select this
+
+228
+00:07:36,199 --> 00:07:37,560
+option in the middle and I'm going to
+
+229
+00:07:37,560 --> 00:07:39,960
+bring the alpha Channel up to
+
+230
+00:07:39,960 --> 00:07:42,360
+100 and I'll make this one white so I'll
+
+231
+00:07:42,360 --> 00:07:43,879
+bring this up to 100 as well so that
+
+232
+00:07:43,879 --> 00:07:46,039
+it's all white and then I'll take this
+
+233
+00:07:46,039 --> 00:07:48,159
+end of the gradient and I'll move this
+
+234
+00:07:48,159 --> 00:07:51,319
+up into the right like
+
+235
+00:07:51,520 --> 00:07:53,840
+that and then I'll change the offset of
+
+236
+00:07:53,840 --> 00:07:55,560
+this gradient by adding more white to it
+
+237
+00:07:55,560 --> 00:07:56,919
+so I'll take this handle and bring this
+
+238
+00:07:56,919 --> 00:07:58,319
+out a little
+
+239
+00:07:58,319 --> 00:08:00,800
+bit
+
+240
+00:08:00,800 --> 00:08:02,319
+and I'll scale this out some more I'm
+
+241
+00:08:02,319 --> 00:08:03,599
+going to hold control and shift and
+
+242
+00:08:03,599 --> 00:08:04,960
+scale
+
+243
+00:08:04,960 --> 00:08:07,280
+up and as you can see we were able to
+
+244
+00:08:07,280 --> 00:08:09,639
+use the radial gradients to create this
+
+245
+00:08:09,639 --> 00:08:11,639
+simulated uh I guess you can say it sort
+
+246
+00:08:11,639 --> 00:08:13,080
+of looks like a sphere or like a
+
+247
+00:08:13,080 --> 00:08:15,440
+three-dimensional round
+
+248
+00:08:15,440 --> 00:08:18,000
+object so now let's go over an example
+
+249
+00:08:18,000 --> 00:08:20,400
+of when radial gradients come in handy
+
+250
+00:08:20,400 --> 00:08:21,919
+I'm going to use radial gradients to
+
+251
+00:08:21,919 --> 00:08:24,120
+create a vignette effect over this
+
+252
+00:08:24,120 --> 00:08:26,199
+graphic here so let me grab my rectangle
+
+253
+00:08:26,199 --> 00:08:28,479
+tool and I'll click and drag over the
+
+254
+00:08:28,479 --> 00:08:30,879
+graphic to draw a rectangle that covers
+
+255
+00:08:30,879 --> 00:08:33,399
+the graphic entirely and let me get rid
+
+256
+00:08:33,399 --> 00:08:35,039
+of that Stroke by holding shift and
+
+257
+00:08:35,039 --> 00:08:36,799
+clicking the X and I'm going to make
+
+258
+00:08:36,799 --> 00:08:39,200
+this all white and now I'm going to
+
+259
+00:08:39,200 --> 00:08:42,599
+apply a radial gradient to it I'm going
+
+260
+00:08:42,599 --> 00:08:44,120
+to reverse the gradient so that
+
+261
+00:08:44,120 --> 00:08:46,240
+transparency is on the inside and white
+
+262
+00:08:46,240 --> 00:08:48,360
+is on the outside and then I'll scale
+
+263
+00:08:48,360 --> 00:08:50,480
+the gradient down so that the boundaries
+
+264
+00:08:50,480 --> 00:08:52,240
+of it stay or the ends of it stay within
+
+265
+00:08:52,240 --> 00:08:53,760
+the boundary of the
+
+266
+00:08:53,760 --> 00:08:56,760
+image and now I'm going to add more to
+
+267
+00:08:56,760 --> 00:08:58,920
+the I'm going to set an offset favoring
+
+268
+00:08:58,920 --> 00:09:01,000
+the transparent side of the gradient so
+
+269
+00:09:01,000 --> 00:09:03,519
+I'll bring that up a little bit so that
+
+270
+00:09:03,519 --> 00:09:06,079
+you can see more of the image and if I
+
+271
+00:09:06,079 --> 00:09:07,839
+zoom out you can see what we were able
+
+272
+00:09:07,839 --> 00:09:09,480
+to accomplish with that there we created
+
+273
+00:09:09,480 --> 00:09:11,040
+this vignette effect where it looks like
+
+274
+00:09:11,040 --> 00:09:12,760
+the edges of the graphic have been
+
+275
+00:09:12,760 --> 00:09:15,360
+softened and faded out so that is how
+
+276
+00:09:15,360 --> 00:09:17,600
+you can go about working with linear and
+
+277
+00:09:17,600 --> 00:09:20,279
+Radial gradients in inkscape if you
+
+278
+00:09:20,279 --> 00:09:22,040
+found this lesson useful then consider
+
+279
+00:09:22,040 --> 00:09:24,519
+checking out my inkscape master class
+
+280
+00:09:24,519 --> 00:09:26,320
+it's a collection of over 60 videos
+
+281
+00:09:26,320 --> 00:09:27,760
+where I go over all of the tools and
+
+282
+00:09:27,760 --> 00:09:29,839
+features in inkscape and I explain what
+
+283
+00:09:29,839 --> 00:09:31,800
+they are and demonstrate how they work
+
+284
+00:09:31,800 --> 00:09:33,880
+kind of like how I did in this video we
+
+285
+00:09:33,880 --> 00:09:35,519
+even have a private Community where you
+
+286
+00:09:35,519 --> 00:09:37,720
+can ask questions and get help from me
+
+287
+00:09:37,720 --> 00:09:39,959
+anytime you want and best of all there's
+
+288
+00:09:39,959 --> 00:09:42,040
+no monthly membership fees you just pay
+
+289
+00:09:42,040 --> 00:09:45,360
+$17 one time and you're in for Life I'll
+
+290
+00:09:45,360 --> 00:09:46,680
+have some information about that down
+
+291
+00:09:46,680 --> 00:09:48,320
+below if you want to check that out as
+
+292
+00:09:48,320 --> 00:09:51,240
+always thanks for
+
+293
+00:09:58,120 --> 00:10:01,120
+watching
+
+294
+00:10:08,600 --> 00:10:11,600
+o
+

@@ -1,0 +1,180 @@
+
+in  this  video  Ill  be  going  over  working
+
+with  clones  which  sounds  similar  to
+
+working  with  duplicates  but  its
+
+actually  a  little  different  and  Ill  be
+
+explaining  that  in  this  video  so  lets
+
+go  ahead  and  get  started  here  just  for
+
+example  Im  gonna  go  ahead  and  create  a
+
+little  ellipse  like  that  and  a  little
+
+red  circle  like  that  Im  gonna  convert
+
+it  to  a  path  and  were  gonna  do  now  is
+
+Im  gonna  go  to  edit  clone  and  Im  gonna
+
+click  the  option  that  says  create  clone
+
+what  thats  gonna  do  is  its  gonna
+
+create  a  cloned  copy  of  that  original
+
+circle  now  you  may  be  asking  yourself
+
+well  why  dont  I  just  create  a  duplicate
+
+instead  why  dont  it  is  right-click  it
+
+and  go  to  duplicate  well  this  is
+
+slightly  different  here  this  object  this
+
+cloned  object  is  linked  to  this  object
+
+here  so  whatever  I  do  to  this  object
+
+its  gonna  happen  to  that  object  as  well
+
+let  me  show  you  as  an  example  Ill  scale
+
+that  down  and  that  scales  down  as  well  I
+
+turn  that  green  that  turns  green  as  well
+
+I  go  to  the  paths  I  go  to  the  other
+
+nodes  tool  might  change  the  nodes  and  it
+
+happens  to  that  as  well  this  is
+
+virtually  a  copy  of  this  object  here  and
+
+anything  I  do  to  this  will  happen  to
+
+this  as  well  if  you  notice  here  if  you
+
+want  to  look  at  the  nodes  theres  no
+
+actual  nodes  here  that  I  can  edit  if  I
+
+want  to  edit  this  clone  I  have  to  edit
+
+the  original  clone  first  in  order  to  do
+
+that  now  if  I  want  to  make  this  clone
+
+its  very  own  object  and  make  it  so
+
+thats  no  longer  linked  to  this  object
+
+right  here  what  I  can  do  is  go  to  edit
+
+clone  and  I  can  click  on  unlink  clone
+
+and  now  it  becomes  its  own  object  and  if
+
+you  notice  here  you  can  see  theres  the
+
+nodes  and  everything  and  when  I  go  and
+
+edit  this  object  over  here  it  doesnt
+
+happen  to  that  object  there  so  thats
+
+how  that  works  now  lets  go  to  edit
+
+clone  relink  -  copied  okay  how  this
+
+works  is  let  me  create  another  copy  Im
+
+gonna  take  this  object  Ill  go  to  edit
+
+clone  create  yet  create  clone  and  heres
+
+a  cloned  object  right  here  what  I  can  do
+
+is  instead  of  take  instead  of  linking
+
+this  clone  to  this  object  I  can  instead
+
+link  it  to  this  object  let  me  just  edit
+
+that  a  little  bit  do  something  like  that
+
+what  I  can  do  is  I  can  copy  that  by
+
+right-clicking  it  and  going  to  copy  or
+
+you  can  just  hit  ctrl  C  on  the  keyboard
+
+and  then  I  could  take  this  clone  right
+
+here  and  go  to  edit  clone
+
+relink  -  copied  and  what  that  does  is  it
+
+real  inks  it  to  that  object  there  if  you
+
+notice  here  made  it  that  same  exact
+
+thing  so  thats  how  that  works
+
+you  look  here  again  edit  clone  select
+
+original  okay  so  lets  say  we  have  a
+
+bunch  of  objects  here  right  Im  gonna
+
+create  a  bunch  of  copies  of  this  clone  a
+
+bunch  of  clones  of  the  clone  Im  gonna
+
+mix  these  all  together  and  shuffle  them
+
+all  around  and  you  want  to  select  the
+
+original  so  you  can  edit  all  of  them  but
+
+you  dont  know  what  you  want  is  the
+
+original  so  what  you  do  is  you  just
+
+click  on  any  one  of  them  and  go  to  edit
+
+clone  select  original  and  then  itll
+
+show  you  where  the  original  one  is  and
+
+then  you  can  go  and  edit  that  further
+
+like  that  so  thats  the  basics  of  how
+
+clones  work  theres  a  couple  of  other
+
+things  I  want  to  show  you  here  in  this
+
+menu  clone  clone  original  path  thats  a
+
+live  a  path  thats  a  live  path  effect
+
+which  is  something  thats  totally
+
+different  Ill  be  going  over  that  in  its
+
+own  video  and  then  theres  create  tiled
+
+clones  which  this  is  an  entirely  long
+
+video  in  and  of  itself  which  Ill  be
+
+going  over  next  but  thats  the  basics  of
+
+how  you  can  work  with  clones  in  Inkscape

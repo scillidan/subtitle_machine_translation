@@ -1,0 +1,388 @@
+
+in  previous  tutorials  I  demonstrated  how
+
+you  can  wrap  text  around  simple  shapes
+
+like  a  circle  by  using  the  place  on  text
+
+command  however  in  this  tutorial  Im
+
+going  to  show  you  how  you  can  wrap  text
+
+around  more  complicated  shapes  such  as  a
+
+heart  and  to  show  you  what  I  mean  if  I
+
+were  to  select  both  of  these  objects
+
+here  and  go  to  text  and  select  put  on
+
+path  you  can  see  we  dont  get  a  very
+
+good  outcome  we  dont  get  to  choose  the
+
+placement  of  the  text  on  the  path  it
+
+just  randomly  chooses  it  and  you  cant
+
+choose  a  different  start  or  end  point
+
+for  this  text  so  to  get  this  result  what
+
+were  going  to  do  is  were  going  to
+
+create  separate  paths  for  each  half  of
+
+the  heart  and  then  create  separate  lines
+
+of  text  for  each  path  so  let  me  get
+
+started  on  that  Im  going  to  grab  my
+
+selection  tool  and  instead  of  placing
+
+the  text  directly  on  this  path  Im  going
+
+to  place  it  on  a  copy  of  the  path  so  Im
+
+going  to  create  a  linked  offset  Im
+
+actually  going  to  create  an  offset  copy
+
+of  the  shape  so  I  could  place  the  text
+
+around  the  outside  padding  of  the  shape
+
+instead  of  placing  it  directly  on  top  of
+
+the  shape  so  let  me  select  this  object  I
+
+will  go  to  path  and  I  will  select  linked
+
+offset  and  then  I  will  go  to  my  nodes
+
+tool  and  I  will  pull  this  node  out  to
+
+create  a  little  bit  of  an  offset  and  I
+
+will  give  this  a  different  color  just  so
+
+I  could  differentiate  it  from  the
+
+original  shape  and  Ill  pull  this  out  to
+
+about
+
+there  and  now  Im  going  to  convert  this
+
+to  a  path  by  going  to  path  object  to
+
+path  and  I  want  to  apply  a  stroke  to
+
+this  so  let  me  grab  my  selection  tool
+
+Im  going  to  hold  the  shift  key  and  Im
+
+going  to  click  the  letter  or  the  color
+
+blue  just  to  apply  a  blue  stroke  and
+
+then  Im  going  to  remove  remove  the  fill
+
+color  now  let  me  make  that  stroke  a
+
+little  smaller  Im  going  to  open  up  my
+
+fill  and  stroke  menu  by  double  clicking
+
+this  stripe  down  here  Ill  go  to  the
+
+stroke  style  Tab  and  Im  just  going  to
+
+make  that
+
+one  so  the  approach  Im  going  to  use
+
+here  is  Im  going  to  break  this  up  into
+
+separate  pads  and  then  Place  separate
+
+lines  on  each  path  so  let  me  select  this
+
+object  and  Im  going  to  go  to  my  nodes
+
+tool  and  I  want  to  select  this  node
+
+right  here  and  I  want  to  break  the  path
+
+at  that  node  so  Ill  come  up  here  to
+
+this  icon  that  says  break  path  at
+
+selected  nodes  when  you  your  cursor  over
+
+and  Ill  click  on  that  and  nothing  Vis
+
+visibly  changes  on  your  screen  but  the
+
+path  has  now  been  broken  up  into
+
+separate  nodes  as  you  can  see  there  and
+
+Ill  come  down  here  and  do  the  same
+
+thing  I  Want  to  Break  these  paths  up  as
+
+well  so  let  me  select  those  and  Im
+
+going  to  break  those  paths  as  well  and
+
+now  Im  going  to  break  apart  the  entire
+
+shape  so  let  me  go  back  to  my  select
+
+tool  I  will  go  to  path  and  select  break
+
+apart  and  now  I  can  just  take  this
+
+little  piece  down  here  and  get  rid  of
+
+this  and  if  you  can  see  now  we  have
+
+separate  paths  for  each  half  of  the
+
+shape  and  what  Im  going  to  do  is  create
+
+separate  lines  of  text  one  line  of  text
+
+going  on  this  side  and  another  line
+
+going  on  this  side  so  I  have  one  line  of
+
+text  right  now  I  want  to  break  this  up
+
+into  two  so  let  me  duplicate  this  by
+
+pressing  contrl  D  or  command  D  if  youre
+
+on  Mac  and  the  way  that  I  set  this  up  is
+
+I  had  up  until  the  word  four  going  over
+
+here  and  then  after  that  the  right  side
+
+begins  so  Im  going  to  end  the  line  of
+
+text  after  the  word  four  Im  going  to
+
+grab  my  text
+
+tool  so  now  that  I  have  my  two  SE
+
+separate  lines  of  text  Im  going  to  take
+
+this  line  of  text  hold  shift  click  on
+
+this  left  path  and  then  go  to  text  and
+
+select  put  on
+
+path  now  we  end  up  with  this  effect  here
+
+which  is  not  what  Im  going  for  so  Im
+
+going  to  click  off  of  that  to  deselect
+
+it  Im  going  to  select  just  the  path  and
+
+now  to  place  the  text  on  the  outside  of
+
+the  path  rather  than  the  inside  Im
+
+going  to  reverse  the  direction  of  the
+
+path  so  I  will  go  to  path  and  select  if
+
+I  can  find  it  reverse  there  it  is  and
+
+now  its  going  to  put  it  on  the  outside
+
+so  the  problem  I  have  now  is  I  have  to
+
+make  this  text  a  little  bigger  to  fill
+
+in  the  rest  of  this  empty  space  here  so
+
+let  me  grab  my  text  tool  and  Im  going
+
+to  Triple  click  this  text  to  select  it
+
+and  Im  going  to  make  the  size  of  this  a
+
+little  bigger  Im  going  to  try  something
+
+like  30  you  see  how  that  looks  Ill
+
+increase  that  maybe
+
+34  okay  34  looks  good  whatever  size  you
+
+use  make  a  mental  note  what  size  that  is
+
+because  were  going  to  use  that  same
+
+size  for  this  text  object  here  so  that
+
+these  two  lines  of  text  look
+
+consistent  so  now  thats  done  and  Ill
+
+come  over  here  and  do  the  same  thing
+
+Ill  select  this  text  object  hold  shift
+
+click  on  the  path  and  go  to  text  and
+
+select  put  on
+
+path  now  Im  going  to  have  to  do  the
+
+same  thing  here  with  the  reversing  of
+
+the  pads  Im  going  to  select  the  path
+
+just  the  path  and  go  to  path  and  select
+
+reverse  and  then  Ill  do  the  same  thing
+
+over  here  Im  going  to  grab  my  text  tool
+
+select  all  the  text  and  I  want  to  make
+
+this  the  same  size  Ill  make  this
+
+34  and  Im  going  to  change  the  spacing
+
+of  this  a  little  bit  I  mentioned  earlier
+
+that  you  cant  really  change  the
+
+position  of  the  text  on  the  path  you  can
+
+a  little  bit  by  adding  spacing  between
+
+the  letters  so  Im  going  to  place  the
+
+cursor  before  the  text  and  just  press  my
+
+space  bar  to  add  some  space  in  there  and
+
+if  you  want  to  add  some  more  space
+
+between  individual  letters  just  move
+
+your  cursor  around  with  the  arrows  if
+
+you  place  the  cursor  between  two  letters
+
+you  can  hold  the  ALT  key  and  use  your
+
+left  and  right  arrows  to  increase  and
+
+decrease  the  spacing  between  the  text  or
+
+if  youre  using  Mac  like  me  you  can  use
+
+the  option  case  so  Im  holding  option
+
+and  then  using  my  right  arrow  key  to
+
+increase  spacing  between  the  letters  and
+
+the  left  Arrow  key  to  decrease  it
+
+and  once  youre  finished  you  can  grab
+
+your  selection  tool  if  you  dont  want
+
+this  ugly  path  sitting  in  your  way  you
+
+can  select  the  path  and  then  turn  off
+
+well  make  sure  you  have  it  selected
+
+because  its  going  to  select  the  text
+
+first  Im  going  to  hold  the  ALT  key  or
+
+the  option  key  and  click  again  so  that
+
+it  grabs  the  path  rather  than  the  text
+
+itself  and  youll  know  you  have  the  path
+
+selected  when  you  see  the  colored  stripe
+
+down  there  and  Im  going  to  turn  off  the
+
+visibility  of  that  path  by  holding  shift
+
+and  clicking  the  X  and  now  its  gone  and
+
+Ill  do  the  same  thing  over  here  to  this
+
+path  I  will  select  it
+
+hold  shift  click  the  X  to  turn  off  the
+
+visibility  and  now  the  path  is  no  longer
+
+visible  its  still  there  its  just  not
+
+visible  if  you  want  to  see  it  at  any
+
+point  you  can  just  come  up  here  to  where
+
+it  says  view  go  to  display  mode  and
+
+choose  outline  overview  and  you  can  see
+
+where  that  path  is  just  make  sure  to  go
+
+back  to  the  normal  View  mode  once  youre
+
+done  so  let  me  go  to  view  display  mode
+
+and  choose  normal  and  there  we  go  if  you
+
+found  this  lesson  useful  then  consider
+
+checking  out  my  inkscape  master  class
+
+its  a  collection  of  over  60  videos
+
+where  I  go  over  all  of  the  the  tools  and
+
+features  in  inkscape  and  I  explain  what
+
+they  are  and  demonstrate  how  they  work
+
+kind  of  like  how  I  did  in  this  video  we
+
+even  have  a  private  Community  where  you
+
+can  ask  questions  and  get  help  from  me
+
+anytime  you  want  and  best  of  all  theres
+
+no  monthly  membership  fees  you  just  pay
+
+$17  one  time  and  youre  in  for  Life  Ill
+
+have  some  information  about  that  down
+
+below  if  you  want  to  check  that  out  as
+
+always  thanks  for  watching
+
+oh

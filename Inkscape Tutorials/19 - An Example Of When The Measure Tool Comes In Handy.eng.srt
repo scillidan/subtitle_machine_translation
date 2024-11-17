@@ -1,0 +1,1024 @@
+1
+00:00:00,060 --> 00:00:02,100
+in this tutorial we'll be going over an
+
+2
+00:00:02,100 --> 00:00:04,019
+example of when the measurement tool
+
+3
+00:00:04,019 --> 00:00:06,299
+would come in handy in inkscape and the
+
+4
+00:00:06,299 --> 00:00:07,799
+example we'll be working with in this
+
+5
+00:00:07,799 --> 00:00:11,639
+lesson is the Gmail logo now this is a
+
+6
+00:00:11,639 --> 00:00:13,980
+rasterized PNG image that I have copied
+
+7
+00:00:13,980 --> 00:00:15,960
+and pasted into inkscape if I zoom in
+
+8
+00:00:15,960 --> 00:00:18,119
+here you can see the pixelation let's
+
+9
+00:00:18,119 --> 00:00:20,400
+say we wanted to trace a vector copy of
+
+10
+00:00:20,400 --> 00:00:22,439
+this logo to work with the way that you
+
+11
+00:00:22,439 --> 00:00:23,820
+would normally do that is by creating
+
+12
+00:00:23,820 --> 00:00:26,100
+individual shapes in this example it
+
+13
+00:00:26,100 --> 00:00:28,740
+would be rectangles that make up the
+
+14
+00:00:28,740 --> 00:00:30,900
+design here now the problem with the
+
+15
+00:00:30,900 --> 00:00:33,000
+Gmail logo is that these lines here go
+
+16
+00:00:33,000 --> 00:00:35,520
+at an unusual angle normally when you're
+
+17
+00:00:35,520 --> 00:00:37,200
+working with inkscape you can rotate
+
+18
+00:00:37,200 --> 00:00:40,079
+objects in 15 degree increments or you
+
+19
+00:00:40,079 --> 00:00:42,120
+can rotate them freehand now the problem
+
+20
+00:00:42,120 --> 00:00:43,620
+with rotating them freehand is that
+
+21
+00:00:43,620 --> 00:00:45,480
+you'll have to guess what size the
+
+22
+00:00:45,480 --> 00:00:47,579
+rectangle has to be before rotating it
+
+23
+00:00:47,579 --> 00:00:49,920
+otherwise it won't be accurate so this
+
+24
+00:00:49,920 --> 00:00:51,539
+is where the measurement tool comes in
+
+25
+00:00:51,539 --> 00:00:52,500
+handy
+
+26
+00:00:52,500 --> 00:00:53,940
+so I'm going to click on the logo to
+
+27
+00:00:53,940 --> 00:00:54,960
+select it and I'm going to bring down
+
+28
+00:00:54,960 --> 00:00:56,760
+the opacity in half just so I can see
+
+29
+00:00:56,760 --> 00:00:58,140
+the measurements that I'm taking on top
+
+30
+00:00:58,140 --> 00:01:00,480
+of it and then I'm going to zoom in here
+
+31
+00:01:00,480 --> 00:01:02,460
+and I want to take a measurement of this
+
+32
+00:01:02,460 --> 00:01:03,960
+line right here to find out what this
+
+33
+00:01:03,960 --> 00:01:05,580
+angle is and to do that I'm going to use
+
+34
+00:01:05,580 --> 00:01:06,780
+the measurement tool which is located
+
+35
+00:01:06,780 --> 00:01:08,880
+over here in the toolbar or you can
+
+36
+00:01:08,880 --> 00:01:10,500
+access it by pressing the letter M on
+
+37
+00:01:10,500 --> 00:01:11,640
+the keyboard
+
+38
+00:01:11,640 --> 00:01:13,560
+and with that tool enabled I'm going to
+
+39
+00:01:13,560 --> 00:01:15,720
+bring my cursor over to the edge of the
+
+40
+00:01:15,720 --> 00:01:17,460
+line here and I'm going to click and
+
+41
+00:01:17,460 --> 00:01:19,140
+drag a line
+
+42
+00:01:19,140 --> 00:01:21,900
+that goes along the edge of the logo
+
+43
+00:01:21,900 --> 00:01:24,180
+there and as you can see the measurement
+
+44
+00:01:24,180 --> 00:01:27,540
+that I'm working with is 37.14 now this
+
+45
+00:01:27,540 --> 00:01:29,040
+isn't totally accurate so I'm just going
+
+46
+00:01:29,040 --> 00:01:30,479
+to change this a little bit just to make
+
+47
+00:01:30,479 --> 00:01:32,640
+sure it's flush against the edge there
+
+48
+00:01:32,640 --> 00:01:34,259
+okay now we have a more accurate
+
+49
+00:01:34,259 --> 00:01:36,380
+measurement this angle right here is
+
+50
+00:01:36,380 --> 00:01:38,700
+36.95 so I'm going to remember that
+
+51
+00:01:38,700 --> 00:01:40,140
+number and now I'm going to create
+
+52
+00:01:40,140 --> 00:01:42,420
+guides and change the angles of those
+
+53
+00:01:42,420 --> 00:01:44,579
+guides to match that right there so let
+
+54
+00:01:44,579 --> 00:01:47,220
+me go back to my selection tool
+
+55
+00:01:47,220 --> 00:01:49,740
+now I'm going to enable the ruler on my
+
+56
+00:01:49,740 --> 00:01:52,380
+canvas so that I can create my guides if
+
+57
+00:01:52,380 --> 00:01:54,060
+you're using Windows or Linux you can
+
+58
+00:01:54,060 --> 00:01:56,700
+get your ruler by pressing Ctrl r or if
+
+59
+00:01:56,700 --> 00:01:58,259
+you're using Mac you could press command
+
+60
+00:01:58,259 --> 00:02:00,299
+R and there we have the ruler on the
+
+61
+00:02:00,299 --> 00:02:01,799
+screen
+
+62
+00:02:01,799 --> 00:02:03,600
+so with the ruler enabled I'm going to
+
+63
+00:02:03,600 --> 00:02:05,159
+bring my cursor to the top edge of the
+
+64
+00:02:05,159 --> 00:02:07,020
+ruler and click and drag down to create
+
+65
+00:02:07,020 --> 00:02:08,399
+a guide like that
+
+66
+00:02:08,399 --> 00:02:10,139
+and now I'm going to change the angle of
+
+67
+00:02:10,139 --> 00:02:11,760
+this guide by hovering my cursor over
+
+68
+00:02:11,760 --> 00:02:13,440
+until it highlights red and then double
+
+69
+00:02:13,440 --> 00:02:15,480
+clicking it and then we'll get this menu
+
+70
+00:02:15,480 --> 00:02:17,220
+here where we can change the angle if
+
+71
+00:02:17,220 --> 00:02:19,080
+you see right here we have angle and
+
+72
+00:02:19,080 --> 00:02:20,940
+this the angle is set to zero so I'm
+
+73
+00:02:20,940 --> 00:02:22,020
+going to change this to my measurement
+
+74
+00:02:22,020 --> 00:02:27,300
+which is 36.95 and I will press ok
+
+75
+00:02:27,300 --> 00:02:29,459
+and now I can take this guide and I can
+
+76
+00:02:29,459 --> 00:02:31,560
+place it up against the edge of the
+
+77
+00:02:31,560 --> 00:02:33,360
+design there and now I can make a
+
+78
+00:02:33,360 --> 00:02:34,560
+duplicate of this guide I can double
+
+79
+00:02:34,560 --> 00:02:37,080
+click it again and I can go to duplicate
+
+80
+00:02:37,080 --> 00:02:39,420
+and I can take this duplicate copy and I
+
+81
+00:02:39,420 --> 00:02:41,400
+can place this on the bottom Edge right
+
+82
+00:02:41,400 --> 00:02:43,580
+here
+
+83
+00:02:43,800 --> 00:02:45,540
+let me just move in a little closer here
+
+84
+00:02:45,540 --> 00:02:46,860
+and make sure that that is a little more
+
+85
+00:02:46,860 --> 00:02:49,280
+accurate
+
+86
+00:02:50,040 --> 00:02:52,319
+okay that's better
+
+87
+00:02:52,319 --> 00:02:53,879
+now you may be wondering if we have to
+
+88
+00:02:53,879 --> 00:02:55,319
+create more guides for this side
+
+89
+00:02:55,319 --> 00:02:57,120
+normally we would but with this design
+
+90
+00:02:57,120 --> 00:02:59,280
+this design is symmetrical so we won't
+
+91
+00:02:59,280 --> 00:03:01,019
+have to do that we can just create the
+
+92
+00:03:01,019 --> 00:03:03,239
+left hand side and then make a duplicate
+
+93
+00:03:03,239 --> 00:03:04,620
+copy and mirror it over here to the
+
+94
+00:03:04,620 --> 00:03:06,239
+right hand side so we're good with these
+
+95
+00:03:06,239 --> 00:03:08,640
+guides as it is let's trace the rest of
+
+96
+00:03:08,640 --> 00:03:10,200
+this logo I'm going to grab my bezier
+
+97
+00:03:10,200 --> 00:03:13,200
+pen by pressing B on the keyboard and I
+
+98
+00:03:13,200 --> 00:03:14,280
+want to make sure I have the proper
+
+99
+00:03:14,280 --> 00:03:15,480
+setting enabled
+
+100
+00:03:15,480 --> 00:03:17,099
+and I'm going to start the line halfway
+
+101
+00:03:17,099 --> 00:03:18,420
+through the design right here first let
+
+102
+00:03:18,420 --> 00:03:20,640
+me turn on snapping so I can snap to the
+
+103
+00:03:20,640 --> 00:03:21,959
+guide
+
+104
+00:03:21,959 --> 00:03:24,000
+I'm going to snap right there
+
+105
+00:03:24,000 --> 00:03:25,739
+and then hold Ctrl and bring the line
+
+106
+00:03:25,739 --> 00:03:27,420
+straight up to the other guide and click
+
+107
+00:03:27,420 --> 00:03:28,680
+again
+
+108
+00:03:28,680 --> 00:03:29,879
+and then I'm going to bring this line
+
+109
+00:03:29,879 --> 00:03:31,739
+all the way out here I want this to I
+
+110
+00:03:31,739 --> 00:03:33,060
+want this to really stick out far
+
+111
+00:03:33,060 --> 00:03:34,140
+because we're going to trim off the
+
+112
+00:03:34,140 --> 00:03:35,400
+edges I'm going to bring this out here
+
+113
+00:03:35,400 --> 00:03:37,140
+and then I'll snap to this line again
+
+114
+00:03:37,140 --> 00:03:38,879
+and then I'll come back to the starting
+
+115
+00:03:38,879 --> 00:03:40,739
+point over here like that
+
+116
+00:03:40,739 --> 00:03:43,440
+and now we've completed the shape
+
+117
+00:03:43,440 --> 00:03:45,180
+so now let's complete the rest of the
+
+118
+00:03:45,180 --> 00:03:47,159
+design I'm going to turn off snapping
+
+119
+00:03:47,159 --> 00:03:50,580
+let me fill in this shape here I'm going
+
+120
+00:03:50,580 --> 00:03:51,780
+to give this a color I'm going to remove
+
+121
+00:03:51,780 --> 00:03:53,519
+The Stroke by holding shift and clicking
+
+122
+00:03:53,519 --> 00:03:55,560
+this red X down here and I'll bring down
+
+123
+00:03:55,560 --> 00:03:57,360
+the opacity of this as well so I can see
+
+124
+00:03:57,360 --> 00:03:59,280
+what's going on beneath it
+
+125
+00:03:59,280 --> 00:04:00,659
+and now I'm going to create another
+
+126
+00:04:00,659 --> 00:04:02,879
+shape for this leg of the logo right
+
+127
+00:04:02,879 --> 00:04:03,840
+here I'm going to come over here to my
+
+128
+00:04:03,840 --> 00:04:05,700
+rectangle tool and I'm going to click
+
+129
+00:04:05,700 --> 00:04:07,680
+and drag to create a rectangle that goes
+
+130
+00:04:07,680 --> 00:04:09,959
+over the top like that I want this to
+
+131
+00:04:09,959 --> 00:04:11,519
+stick out as well and then I'm going to
+
+132
+00:04:11,519 --> 00:04:12,780
+zoom in on this let me make this a
+
+133
+00:04:12,780 --> 00:04:14,220
+different color so I could differentiate
+
+134
+00:04:14,220 --> 00:04:15,000
+it
+
+135
+00:04:15,000 --> 00:04:16,798
+and I'm going to grab my select tool and
+
+136
+00:04:16,798 --> 00:04:18,180
+I'm going to come down here and zoom in
+
+137
+00:04:18,180 --> 00:04:20,339
+a lot just so I can make sure that I get
+
+138
+00:04:20,339 --> 00:04:22,320
+an accurate placement on the edge of the
+
+139
+00:04:22,320 --> 00:04:24,479
+logo there and I did that for the bottom
+
+140
+00:04:24,479 --> 00:04:25,680
+Edge I'll come over here and do this for
+
+141
+00:04:25,680 --> 00:04:27,300
+the right Edge as well
+
+142
+00:04:27,300 --> 00:04:28,860
+I'm going to change this width right
+
+143
+00:04:28,860 --> 00:04:30,180
+here
+
+144
+00:04:30,180 --> 00:04:32,280
+and then I'll do the same over here for
+
+145
+00:04:32,280 --> 00:04:33,419
+the left Edge I'm going to make sure
+
+146
+00:04:33,419 --> 00:04:35,520
+everything is accurate or as close as it
+
+147
+00:04:35,520 --> 00:04:36,720
+can be sometimes it's a little different
+
+148
+00:04:36,720 --> 00:04:37,919
+a little difficult when you have
+
+149
+00:04:37,919 --> 00:04:40,080
+pixelation
+
+150
+00:04:40,080 --> 00:04:42,120
+and now I'm going to trim off these
+
+151
+00:04:42,120 --> 00:04:44,460
+unwanted edges there's various ways that
+
+152
+00:04:44,460 --> 00:04:45,780
+we can do this but for this particular
+
+153
+00:04:45,780 --> 00:04:47,460
+logo I'm just going to select both of
+
+154
+00:04:47,460 --> 00:04:51,360
+these objects and go to path and select
+
+155
+00:04:51,360 --> 00:04:53,160
+fracture
+
+156
+00:04:53,160 --> 00:04:55,740
+and now I can take this object and get
+
+157
+00:04:55,740 --> 00:04:57,600
+rid of it and then I can take this
+
+158
+00:04:57,600 --> 00:04:59,580
+object right here and get rid of that as
+
+159
+00:04:59,580 --> 00:05:01,620
+well and now we can turn off the
+
+160
+00:05:01,620 --> 00:05:03,360
+visibility of the guides because they're
+
+161
+00:05:03,360 --> 00:05:05,220
+just getting in the way now by pressing
+
+162
+00:05:05,220 --> 00:05:06,600
+the vertical Bar Key so I'm going to
+
+163
+00:05:06,600 --> 00:05:07,979
+hold shift and press the vertical Bar
+
+164
+00:05:07,979 --> 00:05:10,020
+Key to turn off the visibility and now
+
+165
+00:05:10,020 --> 00:05:12,060
+let's round these edges
+
+166
+00:05:12,060 --> 00:05:13,620
+so let me zoom in on this if you notice
+
+167
+00:05:13,620 --> 00:05:16,020
+now we have three different shapes that
+
+168
+00:05:16,020 --> 00:05:17,880
+make up the left hand side of that logo
+
+169
+00:05:17,880 --> 00:05:20,759
+so let me zoom in over here let me go to
+
+170
+00:05:20,759 --> 00:05:23,039
+my edit pads my nodes tool
+
+171
+00:05:23,039 --> 00:05:25,800
+and I'm going to enable the corners life
+
+172
+00:05:25,800 --> 00:05:27,000
+path effect and we're going to get these
+
+173
+00:05:27,000 --> 00:05:28,740
+round knots here and I'm going to take
+
+174
+00:05:28,740 --> 00:05:30,120
+this round knot and I'm going to click
+
+175
+00:05:30,120 --> 00:05:33,000
+and drag this down until this corner
+
+176
+00:05:33,000 --> 00:05:34,860
+matches the Contour of the logo there
+
+177
+00:05:34,860 --> 00:05:36,539
+just like that and that looks pretty
+
+178
+00:05:36,539 --> 00:05:38,340
+good so I'll finalize that by going to
+
+179
+00:05:38,340 --> 00:05:41,520
+path and selecting object to path and
+
+180
+00:05:41,520 --> 00:05:42,660
+then I'll come down here and do the same
+
+181
+00:05:42,660 --> 00:05:44,820
+thing I'm going to click on this object
+
+182
+00:05:44,820 --> 00:05:46,320
+and I'm going to enable the live path
+
+183
+00:05:46,320 --> 00:05:48,479
+effect again the corners life path
+
+184
+00:05:48,479 --> 00:05:50,280
+effect and then I'll take this knot and
+
+185
+00:05:50,280 --> 00:05:52,500
+then I will bring this down until this
+
+186
+00:05:52,500 --> 00:05:54,419
+matches the Contour of this left hand
+
+187
+00:05:54,419 --> 00:05:55,620
+side right there
+
+188
+00:05:55,620 --> 00:05:57,560
+and then I'll finalize that by going to
+
+189
+00:05:57,560 --> 00:06:01,259
+path object to path and now we can zoom
+
+190
+00:06:01,259 --> 00:06:03,539
+out and at this point the left hand side
+
+191
+00:06:03,539 --> 00:06:05,460
+of the design is finished we now just
+
+192
+00:06:05,460 --> 00:06:07,020
+have to duplicate it and mirror it to
+
+193
+00:06:07,020 --> 00:06:08,699
+the other side so let me grab my
+
+194
+00:06:08,699 --> 00:06:11,400
+selection tool let me take this take all
+
+195
+00:06:11,400 --> 00:06:13,440
+of these objects and move them over here
+
+196
+00:06:13,440 --> 00:06:15,419
+let me bring the opacity of them all the
+
+197
+00:06:15,419 --> 00:06:16,139
+way up
+
+198
+00:06:16,139 --> 00:06:17,880
+and then I'll bring the opacity of the
+
+199
+00:06:17,880 --> 00:06:19,259
+original logo all the way up as well
+
+200
+00:06:19,259 --> 00:06:20,460
+because we're going to color this in in
+
+201
+00:06:20,460 --> 00:06:21,479
+a minute
+
+202
+00:06:21,479 --> 00:06:23,340
+and I'll move this over as a matter of
+
+203
+00:06:23,340 --> 00:06:25,860
+fact so I don't run out of canvas space
+
+204
+00:06:25,860 --> 00:06:27,360
+and now I'm going to duplicate this I'm
+
+205
+00:06:27,360 --> 00:06:28,259
+going to right click it and go to
+
+206
+00:06:28,259 --> 00:06:29,520
+duplicate
+
+207
+00:06:29,520 --> 00:06:31,080
+I'm going to bring this over here I want
+
+208
+00:06:31,080 --> 00:06:32,639
+to flip this horizontally with this
+
+209
+00:06:32,639 --> 00:06:33,900
+button right here or you can just press
+
+210
+00:06:33,900 --> 00:06:35,699
+the letter H on the keyboard
+
+211
+00:06:35,699 --> 00:06:38,160
+and I'm going to enable snapping again
+
+212
+00:06:38,160 --> 00:06:39,479
+and I'm just going to snap these two
+
+213
+00:06:39,479 --> 00:06:41,039
+together
+
+214
+00:06:41,039 --> 00:06:43,139
+and now I want to unify these two pieces
+
+215
+00:06:43,139 --> 00:06:45,000
+together because this is actually one
+
+216
+00:06:45,000 --> 00:06:46,380
+piece as you can see in here so I'm
+
+217
+00:06:46,380 --> 00:06:48,419
+going to select this object hold shift
+
+218
+00:06:48,419 --> 00:06:51,600
+select this object and go to path
+
+219
+00:06:51,600 --> 00:06:52,919
+Union
+
+220
+00:06:52,919 --> 00:06:55,020
+and now all we have to do is Select each
+
+221
+00:06:55,020 --> 00:06:57,180
+object and grab our dropper tool and
+
+222
+00:06:57,180 --> 00:06:58,740
+change its color so I'm going to select
+
+223
+00:06:58,740 --> 00:06:59,880
+I'm going to start with this object
+
+224
+00:06:59,880 --> 00:07:01,860
+right here I'm going to grab the dropper
+
+225
+00:07:01,860 --> 00:07:04,080
+tool which is located over here or I'm
+
+226
+00:07:04,080 --> 00:07:05,280
+just going to use a keyboard shortcut
+
+227
+00:07:05,280 --> 00:07:07,440
+which is the letter d and then I will
+
+228
+00:07:07,440 --> 00:07:09,240
+just sample that area right there to
+
+229
+00:07:09,240 --> 00:07:10,680
+make that the same color and then I'll
+
+230
+00:07:10,680 --> 00:07:12,240
+go back to my select tool by pressing
+
+231
+00:07:12,240 --> 00:07:15,060
+the letter s select this object and then
+
+232
+00:07:15,060 --> 00:07:16,560
+back to the dropper by pressing the
+
+233
+00:07:16,560 --> 00:07:18,479
+letter d and I'll do the same thing I'll
+
+234
+00:07:18,479 --> 00:07:20,039
+just toggle back and forth between those
+
+235
+00:07:20,039 --> 00:07:23,039
+two tools and fill in the rest of my
+
+236
+00:07:23,039 --> 00:07:26,419
+colors like this
+
+237
+00:07:27,539 --> 00:07:29,880
+and just like that we have created a
+
+238
+00:07:29,880 --> 00:07:32,580
+vector copy of the Gmail logo so that's
+
+239
+00:07:32,580 --> 00:07:34,620
+just one example of when the measurement
+
+240
+00:07:34,620 --> 00:07:37,199
+tool can come in handy in inkscape
+
+241
+00:07:37,199 --> 00:07:39,180
+if you found this lesson useful then
+
+242
+00:07:39,180 --> 00:07:41,039
+consider checking out my inkscape master
+
+243
+00:07:41,039 --> 00:07:43,259
+class it's a collection of over 60
+
+244
+00:07:43,259 --> 00:07:45,180
+videos where I go over all of the tools
+
+245
+00:07:45,180 --> 00:07:46,979
+and features in inkscape and I explain
+
+246
+00:07:46,979 --> 00:07:48,720
+what they are and demonstrate how they
+
+247
+00:07:48,720 --> 00:07:50,460
+work kind of like how I did in this
+
+248
+00:07:50,460 --> 00:07:52,560
+video we even have a private Community
+
+249
+00:07:52,560 --> 00:07:54,479
+where you can ask questions and get help
+
+250
+00:07:54,479 --> 00:07:57,060
+from me anytime you want and best of all
+
+251
+00:07:57,060 --> 00:07:59,039
+there's no monthly membership fees you
+
+252
+00:07:59,039 --> 00:08:02,099
+just pay 17 one time and you're in for
+
+253
+00:08:02,099 --> 00:08:03,780
+Life I'll have some information about
+
+254
+00:08:03,780 --> 00:08:04,919
+that down below if you want to check
+
+255
+00:08:04,919 --> 00:08:09,080
+that out as always thanks for watching
+
+256
+00:08:16,139 --> 00:08:18,500
+oh
+

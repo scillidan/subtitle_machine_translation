@@ -1,0 +1,2292 @@
+1
+00:00:06,950 --> 00:00:09,990
+this is Nick with logos by Nick comm and
+
+2
+00:00:09,990 --> 00:00:11,010
+in today's tutorial I'll be
+
+3
+00:00:11,010 --> 00:00:12,509
+demonstrating how you can create this
+
+4
+00:00:12,509 --> 00:00:15,299
+vintage style text poster using Inkscape
+
+5
+00:00:15,299 --> 00:00:16,470
+and if you'd like to learn more about
+
+6
+00:00:16,470 --> 00:00:18,180
+helping state berks be sure to check out
+
+7
+00:00:18,180 --> 00:00:19,859
+the Inkscape master class which is a
+
+8
+00:00:19,859 --> 00:00:22,260
+collection of over 50 videos where i go
+
+9
+00:00:22,260 --> 00:00:23,880
+over all of the major tools and features
+
+10
+00:00:23,880 --> 00:00:25,920
+in Inkscape and i explain what they are
+
+11
+00:00:25,920 --> 00:00:27,930
+and demonstrate how they work I'll put a
+
+12
+00:00:27,930 --> 00:00:29,220
+link in the description of the video if
+
+13
+00:00:29,220 --> 00:00:31,019
+you want to check that out so I'm gonna
+
+14
+00:00:31,019 --> 00:00:32,130
+go ahead and get started here in
+
+15
+00:00:32,130 --> 00:00:33,390
+Inkscape I'm gonna open up a blank
+
+16
+00:00:33,390 --> 00:00:35,489
+canvas as you can see here and I just
+
+17
+00:00:35,489 --> 00:00:36,750
+want to make sure that we're all working
+
+18
+00:00:36,750 --> 00:00:38,250
+with a similar view before we get
+
+19
+00:00:38,250 --> 00:00:39,510
+started so I'm just gonna come up here
+
+20
+00:00:39,510 --> 00:00:41,850
+to where it says view make sure you have
+
+21
+00:00:41,850 --> 00:00:44,100
+custom selected and then we'll go to
+
+22
+00:00:44,100 --> 00:00:46,730
+zoom we're going to zoom in at 1 to 1
+
+23
+00:00:46,730 --> 00:00:48,780
+and then I'll open up the align and
+
+24
+00:00:48,780 --> 00:00:50,100
+distribute menu with this button over
+
+25
+00:00:50,100 --> 00:00:53,340
+here and then I will open up the Edit
+
+26
+00:00:53,340 --> 00:00:55,170
+objects colors gradients and Stroke menu
+
+27
+00:00:55,170 --> 00:00:58,109
+with this button right here and where it
+
+28
+00:00:58,109 --> 00:00:59,340
+says online and distribute you're gonna
+
+29
+00:00:59,340 --> 00:01:00,840
+want to make sure you have last selected
+
+30
+00:01:00,840 --> 00:01:02,670
+chosen where it says relative too and
+
+31
+00:01:02,670 --> 00:01:04,080
+once we've done that we're good to get
+
+32
+00:01:04,080 --> 00:01:05,790
+started so the first thing we're going
+
+33
+00:01:05,790 --> 00:01:07,650
+to create is the actual text so I'm
+
+34
+00:01:07,650 --> 00:01:09,930
+gonna grab the text tool over here and
+
+35
+00:01:09,930 --> 00:01:11,100
+I'm gonna click on the canvas I'm gonna
+
+36
+00:01:11,100 --> 00:01:13,680
+use all caps for weather right now I'm
+
+37
+00:01:13,680 --> 00:01:15,780
+going to create each text item on its
+
+38
+00:01:15,780 --> 00:01:19,830
+own line so I'm gonna write how for the
+
+39
+00:01:19,830 --> 00:01:24,150
+first line second line to create and for
+
+40
+00:01:24,150 --> 00:01:27,960
+this third line vintage just like I had
+
+41
+00:01:27,960 --> 00:01:29,490
+in the thumbnail of the video how to
+
+42
+00:01:29,490 --> 00:01:36,000
+create vidiq text and posters each on
+
+43
+00:01:36,000 --> 00:01:38,250
+its own line and what I'll do now is let
+
+44
+00:01:38,250 --> 00:01:40,049
+me grab the Select tool I want to take
+
+45
+00:01:40,049 --> 00:01:41,729
+this text right here this middle word
+
+46
+00:01:41,729 --> 00:01:43,560
+vintage if you saw in the thumbnail of
+
+47
+00:01:43,560 --> 00:01:45,899
+the design I had that word over I had it
+
+48
+00:01:45,899 --> 00:01:47,939
+placed on top of like a banner so I want
+
+49
+00:01:47,939 --> 00:01:49,890
+to make sure I use a different font for
+
+50
+00:01:49,890 --> 00:01:52,049
+this for this word right here I'm gonna
+
+51
+00:01:52,049 --> 00:01:53,549
+open up the text editor I'm gonna click
+
+52
+00:01:53,549 --> 00:01:56,130
+on that text and hold ctrl shift T to
+
+53
+00:01:56,130 --> 00:01:57,479
+open up the text editor or you just
+
+54
+00:01:57,479 --> 00:01:59,399
+click on this T icon up here I like to
+
+55
+00:01:59,399 --> 00:02:02,579
+use control shift T cuz it's easier and
+
+56
+00:02:02,579 --> 00:02:05,700
+the font I'm going to use is called Z a
+
+57
+00:02:05,700 --> 00:02:09,628
+B is a zaba Tanna poster I'm gonna go
+
+58
+00:02:09,628 --> 00:02:11,160
+with that I'll have a link in the
+
+59
+00:02:11,160 --> 00:02:12,900
+description to a poster I have all of
+
+60
+00:02:12,900 --> 00:02:13,830
+the fonts
+
+61
+00:02:13,830 --> 00:02:15,600
+and textures I'm gonna be using in this
+
+62
+00:02:15,600 --> 00:02:17,370
+tutorial you don't necessarily have to
+
+63
+00:02:17,370 --> 00:02:19,110
+use these fonts that I'm using you can
+
+64
+00:02:19,110 --> 00:02:20,670
+use whatever fonts you'd like but if you
+
+65
+00:02:20,670 --> 00:02:22,650
+really want to get that vintage look
+
+66
+00:02:22,650 --> 00:02:24,810
+that I have in the a thumbnail the video
+
+67
+00:02:24,810 --> 00:02:26,580
+I'd recommend downloading and installing
+
+68
+00:02:26,580 --> 00:02:29,340
+these fonts so I'm going to apply that I
+
+69
+00:02:29,340 --> 00:02:31,050
+want to make that a little bigger by
+
+70
+00:02:31,050 --> 00:02:33,360
+holding ctrl and shift and clicking and
+
+71
+00:02:33,360 --> 00:02:36,270
+dragging to scale that up and for these
+
+72
+00:02:36,270 --> 00:02:37,530
+text items over here
+
+73
+00:02:37,530 --> 00:02:38,790
+I want the font I'm going to use for
+
+74
+00:02:38,790 --> 00:02:42,660
+that is ctrl shift T I'm going to use
+
+75
+00:02:42,660 --> 00:02:46,140
+League gothic there we go of me use the
+
+76
+00:02:46,140 --> 00:02:48,930
+normal regular size apply that let me
+
+77
+00:02:48,930 --> 00:02:51,390
+make that a little bigger ctrl shift and
+
+78
+00:02:51,390 --> 00:02:54,180
+scale that up and I just want to put
+
+79
+00:02:54,180 --> 00:02:57,690
+everything near each other over here let
+
+80
+00:02:57,690 --> 00:02:59,310
+me click and drag over all of these and
+
+81
+00:02:59,310 --> 00:03:01,410
+in the align distribute menu I'm going
+
+82
+00:03:01,410 --> 00:03:03,630
+to Center them on the vertical axis and
+
+83
+00:03:03,630 --> 00:03:05,520
+then I'll come down here to distribute
+
+84
+00:03:05,520 --> 00:03:07,590
+and I'm going to click on make vertical
+
+85
+00:03:07,590 --> 00:03:10,830
+gaps between objects equal so let me
+
+86
+00:03:10,830 --> 00:03:12,120
+click off of that to deselect everything
+
+87
+00:03:12,120 --> 00:03:14,190
+what I want to do now is make each of
+
+88
+00:03:14,190 --> 00:03:15,720
+these objects the same width
+
+89
+00:03:15,720 --> 00:03:17,700
+except for this middle text right here
+
+90
+00:03:17,700 --> 00:03:19,800
+so let me click on this word right here
+
+91
+00:03:19,800 --> 00:03:21,540
+I'm going to turn on this lock icon
+
+92
+00:03:21,540 --> 00:03:23,760
+where it says when lock changed both the
+
+93
+00:03:23,760 --> 00:03:24,840
+width and the height by the same
+
+94
+00:03:24,840 --> 00:03:26,940
+proportion turn that on I'm gonna right
+
+95
+00:03:26,940 --> 00:03:29,550
+click that and go to copy and then when
+
+96
+00:03:29,550 --> 00:03:31,410
+I click on this top word up here and go
+
+97
+00:03:31,410 --> 00:03:36,090
+to edit paste size paste width and it's
+
+98
+00:03:36,090 --> 00:03:38,519
+gonna make it the same width as the next
+
+99
+00:03:38,519 --> 00:03:40,470
+item I'll come down here and do the same
+
+100
+00:03:40,470 --> 00:03:43,470
+thing edit paste size paste width we're
+
+101
+00:03:43,470 --> 00:03:44,670
+not going to do this with this middle
+
+102
+00:03:44,670 --> 00:03:46,260
+word here because this word needs to be
+
+103
+00:03:46,260 --> 00:03:47,670
+a little bigger than the others because
+
+104
+00:03:47,670 --> 00:03:50,100
+this is gonna go on a banner and it'll
+
+105
+00:03:50,100 --> 00:03:52,019
+do the same thing down here edit paste
+
+106
+00:03:52,019 --> 00:03:55,860
+size paste with and what I will do now
+
+107
+00:03:55,860 --> 00:03:58,350
+is I want to put little lines between
+
+108
+00:03:58,350 --> 00:04:00,750
+these two text items right here so I'm
+
+109
+00:04:00,750 --> 00:04:01,709
+gonna grab the squares and rectangles
+
+110
+00:04:01,709 --> 00:04:04,440
+tool and I'll just click and drag to
+
+111
+00:04:04,440 --> 00:04:06,480
+create a little rectangle in there let
+
+112
+00:04:06,480 --> 00:04:07,890
+me get rid of that stroke by holding
+
+113
+00:04:07,890 --> 00:04:10,890
+shift and clicking the X I want to make
+
+114
+00:04:10,890 --> 00:04:14,340
+that black I grab the Select tool bring
+
+115
+00:04:14,340 --> 00:04:15,600
+that down a little bit these are just
+
+116
+00:04:15,600 --> 00:04:17,640
+meant to be little access little accent
+
+117
+00:04:17,640 --> 00:04:19,320
+pieces they don't have to you don't have
+
+118
+00:04:19,320 --> 00:04:20,728
+to necessarily use these but I think
+
+119
+00:04:20,728 --> 00:04:22,530
+they make the design just come together
+
+120
+00:04:22,530 --> 00:04:24,630
+a little more and again I want to make
+
+121
+00:04:24,630 --> 00:04:26,130
+these I want to make these the same
+
+122
+00:04:26,130 --> 00:04:27,300
+width so I'll go to edit
+
+123
+00:04:27,300 --> 00:04:31,440
+paste size paste width there we go now
+
+124
+00:04:31,440 --> 00:04:33,000
+let me right click that little duplicate
+
+125
+00:04:33,000 --> 00:04:36,780
+bring this one down here there we go let
+
+126
+00:04:36,780 --> 00:04:39,500
+me bring these all a little closer now
+
+127
+00:04:39,500 --> 00:04:42,060
+in fact I want to take this middle text
+
+128
+00:04:42,060 --> 00:04:43,280
+right here and make that even bigger
+
+129
+00:04:43,280 --> 00:04:45,530
+right about there
+
+130
+00:04:45,530 --> 00:04:48,659
+bring these a little closer now I'm
+
+131
+00:04:48,659 --> 00:04:49,770
+going to click and drag over all of
+
+132
+00:04:49,770 --> 00:04:50,759
+these I'm gonna do the same thing again
+
+133
+00:04:50,759 --> 00:04:53,009
+the same thing again I'm gonna Center
+
+134
+00:04:53,009 --> 00:04:55,289
+them on the vertical axis and then
+
+135
+00:04:55,289 --> 00:04:57,720
+distribute make vertical gaps between
+
+136
+00:04:57,720 --> 00:05:00,900
+objects in equal like that okay now I'm
+
+137
+00:05:00,900 --> 00:05:02,069
+going to click off of that to deselect
+
+138
+00:05:02,069 --> 00:05:03,750
+everything now what I'm gonna do is
+
+139
+00:05:03,750 --> 00:05:05,370
+we're gonna work on creating a banner
+
+140
+00:05:05,370 --> 00:05:07,289
+for this word vintage right here so let
+
+141
+00:05:07,289 --> 00:05:08,969
+me take these objects right here and
+
+142
+00:05:08,969 --> 00:05:10,979
+just hold ctrl and just move them out of
+
+143
+00:05:10,979 --> 00:05:13,050
+the way a little bit and I'll take these
+
+144
+00:05:13,050 --> 00:05:14,940
+objects and do the same thing hold ctrl
+
+145
+00:05:14,940 --> 00:05:17,490
+move it up out of the way and now I'm
+
+146
+00:05:17,490 --> 00:05:18,479
+gonna grab the squares and rectangles
+
+147
+00:05:18,479 --> 00:05:20,849
+tool well you know what first what I
+
+148
+00:05:20,849 --> 00:05:21,810
+want to do is let me go back to the
+
+149
+00:05:21,810 --> 00:05:23,729
+Select tool let me click on this text
+
+150
+00:05:23,729 --> 00:05:26,520
+right here and make this white then I'll
+
+151
+00:05:26,520 --> 00:05:28,139
+grab the squares and rectangles tool and
+
+152
+00:05:28,139 --> 00:05:29,759
+I'm gonna create a rectangle going over
+
+153
+00:05:29,759 --> 00:05:32,279
+the text right there I'm gonna make that
+
+154
+00:05:32,279 --> 00:05:36,090
+black grab the Select tool I'm gonna
+
+155
+00:05:36,090 --> 00:05:37,560
+send that to the bottom by clicking the
+
+156
+00:05:37,560 --> 00:05:39,300
+button that says lower selection to the
+
+157
+00:05:39,300 --> 00:05:41,310
+bottom or what I like to do is just
+
+158
+00:05:41,310 --> 00:05:43,020
+press end on the keyboard at the end key
+
+159
+00:05:43,020 --> 00:05:44,460
+and it sends it to the bottom that's
+
+160
+00:05:44,460 --> 00:05:47,340
+good let me just size that up a little
+
+161
+00:05:47,340 --> 00:05:50,250
+better we want a little bit of padding
+
+162
+00:05:50,250 --> 00:05:52,380
+around the edges not too much though and
+
+163
+00:05:52,380 --> 00:05:53,669
+then I'll hold shift and click on the
+
+164
+00:05:53,669 --> 00:05:54,719
+word and just make sure I have it
+
+165
+00:05:54,719 --> 00:05:55,919
+centered up on the vertical and
+
+166
+00:05:55,919 --> 00:05:58,379
+horizontal axis let me click on that
+
+167
+00:05:58,379 --> 00:06:00,259
+click off of it to deselect everything
+
+168
+00:06:00,259 --> 00:06:02,729
+now I'll take just this object right
+
+169
+00:06:02,729 --> 00:06:04,759
+here just this rectangle I'll get a path
+
+170
+00:06:04,759 --> 00:06:07,500
+object to path and then I'm gonna
+
+171
+00:06:07,500 --> 00:06:10,020
+right-click it and go to duplicate and
+
+172
+00:06:10,020 --> 00:06:11,909
+I'm gonna make this red and I'm gonna
+
+173
+00:06:11,909 --> 00:06:13,650
+give this a red stroke by holding shift
+
+174
+00:06:13,650 --> 00:06:16,620
+and clicking on the color red and then I
+
+175
+00:06:16,620 --> 00:06:17,849
+want to send that to the bottom by
+
+176
+00:06:17,849 --> 00:06:20,610
+pressing end on the keyboard and the red
+
+177
+00:06:20,610 --> 00:06:21,810
+stroke I want to make that a little
+
+178
+00:06:21,810 --> 00:06:22,889
+thicker I'm gonna come up here to the
+
+179
+00:06:22,889 --> 00:06:24,569
+stroke style tab but I'm gonna increase
+
+180
+00:06:24,569 --> 00:06:27,449
+the size of that a little bit maybe a
+
+181
+00:06:27,449 --> 00:06:31,949
+little bit more there we go that's
+
+182
+00:06:31,949 --> 00:06:33,719
+that's a good that's a good thickness
+
+183
+00:06:33,719 --> 00:06:36,149
+right there now what I want to do is
+
+184
+00:06:36,149 --> 00:06:37,500
+convert this to a path so I'll go to
+
+185
+00:06:37,500 --> 00:06:39,750
+path stroke the path
+
+186
+00:06:39,750 --> 00:06:43,080
+and then paths break apart and then
+
+187
+00:06:43,080 --> 00:06:46,050
+paths Union and the whole point of that
+
+188
+00:06:46,050 --> 00:06:47,670
+was to end up with the rectangle just
+
+189
+00:06:47,670 --> 00:06:49,830
+like this black one here only slightly
+
+190
+00:06:49,830 --> 00:06:52,440
+thicker on all on both dimensions right
+
+191
+00:06:52,440 --> 00:06:54,570
+there now what I want to do is take this
+
+192
+00:06:54,570 --> 00:06:56,760
+black rectangle and duplicate that I'm
+
+193
+00:06:56,760 --> 00:06:58,890
+gonna click on it then press control D
+
+194
+00:06:58,890 --> 00:07:00,900
+on the keyboard I'm trying to take this
+
+195
+00:07:00,900 --> 00:07:02,280
+and move this down to the left over here
+
+196
+00:07:02,280 --> 00:07:03,720
+like that and I'm gonna send that to the
+
+197
+00:07:03,720 --> 00:07:05,330
+bottom by pressing end on the keyboard
+
+198
+00:07:05,330 --> 00:07:09,030
+let me move this down here like this I'm
+
+199
+00:07:09,030 --> 00:07:11,970
+gonna grab the nodes tool click and drag
+
+200
+00:07:11,970 --> 00:07:13,650
+over these two these two nodes to the
+
+201
+00:07:13,650 --> 00:07:15,840
+right right here hold ctrl and just
+
+202
+00:07:15,840 --> 00:07:17,220
+click and drag these over to the left
+
+203
+00:07:17,220 --> 00:07:18,930
+like that this is gonna be like the tail
+
+204
+00:07:18,930 --> 00:07:21,530
+kind of like the tail of the ribbon
+
+205
+00:07:21,530 --> 00:07:23,760
+right about there is good now I'm gonna
+
+206
+00:07:23,760 --> 00:07:25,260
+click and drag over those nodes right
+
+207
+00:07:25,260 --> 00:07:27,060
+there and I want to insert a new node in
+
+208
+00:07:27,060 --> 00:07:28,200
+the middle so we'll come up here to the
+
+209
+00:07:28,200 --> 00:07:30,090
+very top left where it says insert new
+
+210
+00:07:30,090 --> 00:07:32,580
+nodes into selected segments click on
+
+211
+00:07:32,580 --> 00:07:35,040
+that and then I want to click on just
+
+212
+00:07:35,040 --> 00:07:37,860
+that new node right there and hold ctrl
+
+213
+00:07:37,860 --> 00:07:39,930
+and just move this over to the right to
+
+214
+00:07:39,930 --> 00:07:41,100
+give it kind of like a little bit of a
+
+215
+00:07:41,100 --> 00:07:44,550
+fish tail for the ends there may be a
+
+216
+00:07:44,550 --> 00:07:46,229
+little less that's good right there now
+
+217
+00:07:46,229 --> 00:07:48,210
+let me grab the Select tool again let me
+
+218
+00:07:48,210 --> 00:07:50,280
+duplicate that by hitting ctrl D on the
+
+219
+00:07:50,280 --> 00:07:51,960
+keyboard and I will flip that
+
+220
+00:07:51,960 --> 00:07:55,380
+horizontally and bring this over here to
+
+221
+00:07:55,380 --> 00:07:57,840
+the top right and I want to send this to
+
+222
+00:07:57,840 --> 00:07:59,280
+the bottom as well I'm gonna press end
+
+223
+00:07:59,280 --> 00:08:01,800
+on the keyboard I want to bring this
+
+224
+00:08:01,800 --> 00:08:04,860
+right about here and then I'll hold
+
+225
+00:08:04,860 --> 00:08:07,050
+shift and click on the other one so we
+
+226
+00:08:07,050 --> 00:08:09,060
+have both of these little ribbon tails
+
+227
+00:08:09,060 --> 00:08:11,990
+selected and I'll go to path Union and
+
+228
+00:08:11,990 --> 00:08:14,910
+then I'll hold shift and click on this
+
+229
+00:08:14,910 --> 00:08:17,850
+red rectangle right here and Center it
+
+230
+00:08:17,850 --> 00:08:19,979
+up on the vertical and horizontal axis
+
+231
+00:08:19,979 --> 00:08:22,610
+like that and then I'll go to path
+
+232
+00:08:22,610 --> 00:08:26,520
+difference and there you have our ribbon
+
+233
+00:08:26,520 --> 00:08:29,070
+so let me take this text these text
+
+234
+00:08:29,070 --> 00:08:30,720
+objects right here and just hold ctrl
+
+235
+00:08:30,720 --> 00:08:33,990
+and move them up a little bit and I'll
+
+236
+00:08:33,990 --> 00:08:35,219
+do the same thing with these I'll click
+
+237
+00:08:35,219 --> 00:08:37,140
+and drag over those hold ctrl move these
+
+238
+00:08:37,140 --> 00:08:39,599
+down a little bit like that and that's
+
+239
+00:08:39,599 --> 00:08:41,250
+what I'm looking for right there now
+
+240
+00:08:41,250 --> 00:08:42,510
+what I'm gonna do is I'm gonna click and
+
+241
+00:08:42,510 --> 00:08:45,420
+drag over everything I'm gonna group
+
+242
+00:08:45,420 --> 00:08:46,920
+them together by clicking the button up
+
+243
+00:08:46,920 --> 00:08:48,990
+here that says group selected objects or
+
+244
+00:08:48,990 --> 00:08:51,000
+you could just press ctrl G because I
+
+245
+00:08:51,000 --> 00:08:53,100
+like to do and
+
+246
+00:08:53,100 --> 00:08:54,779
+I'm going to share it a little bit so
+
+247
+00:08:54,779 --> 00:08:56,670
+I'm gonna click on this object again if
+
+248
+00:08:56,670 --> 00:08:57,540
+you notice here when you have it
+
+249
+00:08:57,540 --> 00:08:59,190
+selected you have these arrows right
+
+250
+00:08:59,190 --> 00:09:00,750
+here these are the scaling handles they
+
+251
+00:09:00,750 --> 00:09:03,089
+allow you to scale an object if I click
+
+252
+00:09:03,089 --> 00:09:04,889
+on the object its gonna give us the
+
+253
+00:09:04,889 --> 00:09:06,779
+rotation and the shearing handles which
+
+254
+00:09:06,779 --> 00:09:08,610
+will allow us to either rotate or shear
+
+255
+00:09:08,610 --> 00:09:10,860
+the object I want this shearing handle
+
+256
+00:09:10,860 --> 00:09:12,420
+over here to the right I'm just gonna
+
+257
+00:09:12,420 --> 00:09:14,540
+click and drag that up a little bit
+
+258
+00:09:14,540 --> 00:09:16,800
+maybe about that much right there that's
+
+259
+00:09:16,800 --> 00:09:19,800
+pretty good and now it's time to create
+
+260
+00:09:19,800 --> 00:09:22,319
+kind of like a frame or a border going
+
+261
+00:09:22,319 --> 00:09:24,569
+around the words here so let me grab the
+
+262
+00:09:24,569 --> 00:09:27,089
+squares and rectangles tool again I'm
+
+263
+00:09:27,089 --> 00:09:28,230
+gonna click and drag to create a
+
+264
+00:09:28,230 --> 00:09:29,819
+rectangle going over all of those words
+
+265
+00:09:29,819 --> 00:09:32,699
+I want to make this I want to give this
+
+266
+00:09:32,699 --> 00:09:34,380
+a black outline so I'm gonna hold shift
+
+267
+00:09:34,380 --> 00:09:36,569
+and click on the color black and I want
+
+268
+00:09:36,569 --> 00:09:38,100
+it to have no fill so I'm gonna click on
+
+269
+00:09:38,100 --> 00:09:39,589
+this red X to get rid of a fill color
+
+270
+00:09:39,589 --> 00:09:41,790
+and I want to make that border a little
+
+271
+00:09:41,790 --> 00:09:43,259
+thinner I don't want to be that thick
+
+272
+00:09:43,259 --> 00:09:47,339
+I'm gonna try maybe eight eight pixels
+
+273
+00:09:47,339 --> 00:09:49,560
+that looks pretty good okay so let me go
+
+274
+00:09:49,560 --> 00:09:51,690
+back to the Select tool let me convert
+
+275
+00:09:51,690 --> 00:09:54,000
+that to a path by going to path object
+
+276
+00:09:54,000 --> 00:09:57,120
+to path and then I want to hold shift
+
+277
+00:09:57,120 --> 00:09:59,550
+and click on the text objects just to
+
+278
+00:09:59,550 --> 00:10:01,290
+make sure we have it centered up on this
+
+279
+00:10:01,290 --> 00:10:03,540
+horizontal and vertical axis like that
+
+280
+00:10:03,540 --> 00:10:05,370
+now let me click off of that to deselect
+
+281
+00:10:05,370 --> 00:10:06,839
+everything and click on just this
+
+282
+00:10:06,839 --> 00:10:08,639
+rectangle right here I'm gonna go back
+
+283
+00:10:08,639 --> 00:10:10,699
+to the nodes tool the edit pads by nodes
+
+284
+00:10:10,699 --> 00:10:13,310
+click and drag over these top two nodes
+
+285
+00:10:13,310 --> 00:10:16,410
+insert a new node in there and do the
+
+286
+00:10:16,410 --> 00:10:17,910
+same thing down here take those two
+
+287
+00:10:17,910 --> 00:10:19,920
+nodes and put a new one in there now
+
+288
+00:10:19,920 --> 00:10:22,139
+what I want to do is grab just those two
+
+289
+00:10:22,139 --> 00:10:23,459
+nodes right there click and drag over
+
+290
+00:10:23,459 --> 00:10:25,920
+both of those and up here in the tool
+
+291
+00:10:25,920 --> 00:10:26,970
+settings you're gonna see show
+
+292
+00:10:26,970 --> 00:10:28,740
+transformation handles for selected
+
+293
+00:10:28,740 --> 00:10:31,319
+nodes if I turn that on it's going to
+
+294
+00:10:31,319 --> 00:10:32,910
+give us scaling handles for the nodes
+
+295
+00:10:32,910 --> 00:10:34,230
+that we have selected which is going to
+
+296
+00:10:34,230 --> 00:10:36,089
+be useful here which is what I want I'm
+
+297
+00:10:36,089 --> 00:10:37,740
+gonna hold ctrl and shift and I'm gonna
+
+298
+00:10:37,740 --> 00:10:40,259
+grab the scaling handle up here and you
+
+299
+00:10:40,259 --> 00:10:41,550
+just pull this out a little bit if you
+
+300
+00:10:41,550 --> 00:10:43,649
+notice here we're giving the top and the
+
+301
+00:10:43,649 --> 00:10:46,850
+bottom a little bit of a tip like that
+
+302
+00:10:46,850 --> 00:10:49,350
+now I'm going to turn off the scaling
+
+303
+00:10:49,350 --> 00:10:52,290
+handles show transformation handles for
+
+304
+00:10:52,290 --> 00:10:54,120
+selective nodes turn that back off so it
+
+305
+00:10:54,120 --> 00:10:55,620
+doesn't get in your way the next time
+
+306
+00:10:55,620 --> 00:10:57,380
+you go to use the nodes tool later on
+
+307
+00:10:57,380 --> 00:11:01,050
+I'm gonna grab the select tool okay that
+
+308
+00:11:01,050 --> 00:11:02,100
+right there is looking pretty good
+
+309
+00:11:02,100 --> 00:11:03,899
+that's about what I'm looking for now
+
+310
+00:11:03,899 --> 00:11:05,550
+what I want to do is put another border
+
+311
+00:11:05,550 --> 00:11:06,010
+around
+
+312
+00:11:06,010 --> 00:11:07,660
+outside edge of this border only
+
+313
+00:11:07,660 --> 00:11:10,150
+slightly thinner so what I'm gonna do is
+
+314
+00:11:10,150 --> 00:11:11,500
+I'm gonna duplicate this I'm going to
+
+315
+00:11:11,500 --> 00:11:14,290
+press control D on the keyboard and I'm
+
+316
+00:11:14,290 --> 00:11:15,970
+gonna fill this with white and I'm gonna
+
+317
+00:11:15,970 --> 00:11:17,380
+give this a white outline by holding
+
+318
+00:11:17,380 --> 00:11:19,210
+shift and clicking the the color of
+
+319
+00:11:19,210 --> 00:11:22,420
+white and for the width I'll make this
+
+320
+00:11:22,420 --> 00:11:24,760
+larger I'm gonna go with maybe let's say
+
+321
+00:11:24,760 --> 00:11:26,230
+twelve see how that looks
+
+322
+00:11:26,230 --> 00:11:28,330
+and I want to send this to the bottom
+
+323
+00:11:28,330 --> 00:11:30,450
+lower select objects to the bottom
+
+324
+00:11:30,450 --> 00:11:33,340
+that's going to act this white border is
+
+325
+00:11:33,340 --> 00:11:35,320
+gonna act as a buffer between the large
+
+326
+00:11:35,320 --> 00:11:36,910
+black border and the smaller black
+
+327
+00:11:36,910 --> 00:11:39,160
+border so let me duplicate that again
+
+328
+00:11:39,160 --> 00:11:41,500
+control D and I'll make this one black
+
+329
+00:11:41,500 --> 00:11:43,660
+and give it a black stroke by holding
+
+330
+00:11:43,660 --> 00:11:46,000
+shift and clicking on black and I'll
+
+331
+00:11:46,000 --> 00:11:48,280
+send that to the bottom as well and I'm
+
+332
+00:11:48,280 --> 00:11:49,210
+gonna want to make this one a little
+
+333
+00:11:49,210 --> 00:11:51,810
+better a little bigger I'm gonna try 20
+
+334
+00:11:51,810 --> 00:11:53,740
+okay so that's not quite what I'm
+
+335
+00:11:53,740 --> 00:11:55,090
+looking for let me zoom in a little bit
+
+336
+00:11:55,090 --> 00:11:56,560
+you could zoom in and out by holding
+
+337
+00:11:56,560 --> 00:11:58,480
+ctrl and rolling up the mouse wheel I'm
+
+338
+00:11:58,480 --> 00:12:00,100
+gonna take this white one right here I
+
+339
+00:12:00,100 --> 00:12:02,290
+want this border this gap between the
+
+340
+00:12:02,290 --> 00:12:03,640
+two borders to be bigger so I'm gonna
+
+341
+00:12:03,640 --> 00:12:08,470
+make this one maybe 16 maybe 15 and then
+
+342
+00:12:08,470 --> 00:12:10,060
+I'll take the other at the outer black
+
+343
+00:12:10,060 --> 00:12:13,570
+border over here and I'll make that I'm
+
+344
+00:12:13,570 --> 00:12:15,220
+gonna make this a little bigger than 25
+
+345
+00:12:15,220 --> 00:12:17,620
+looks a little too big
+
+346
+00:12:17,620 --> 00:12:22,300
+let me try 22 a little bigger I'm just
+
+347
+00:12:22,300 --> 00:12:23,770
+going to manually adjust that until it
+
+348
+00:12:23,770 --> 00:12:24,970
+looks about right
+
+349
+00:12:24,970 --> 00:12:26,440
+that right there is about what I'm
+
+350
+00:12:26,440 --> 00:12:27,370
+looking for I think that looks pretty
+
+351
+00:12:27,370 --> 00:12:29,410
+good so now I can click off of
+
+352
+00:12:29,410 --> 00:12:31,810
+everything I want to zoom in and take
+
+353
+00:12:31,810 --> 00:12:34,390
+just this outer border right here I want
+
+354
+00:12:34,390 --> 00:12:38,950
+to go to path stroke to path path break
+
+355
+00:12:38,950 --> 00:12:43,210
+apart path Union and I'm gonna do the
+
+356
+00:12:43,210 --> 00:12:45,100
+same thing to the inner white border
+
+357
+00:12:45,100 --> 00:12:48,550
+right there path stroke the path path
+
+358
+00:12:48,550 --> 00:12:53,800
+break apart path Union and then hold
+
+359
+00:12:53,800 --> 00:12:57,490
+shift and click on the outer black
+
+360
+00:12:57,490 --> 00:12:58,870
+border so that we have both the white
+
+361
+00:12:58,870 --> 00:13:00,670
+and the black borders selected and go to
+
+362
+00:13:00,670 --> 00:13:04,270
+path difference now I'm going to click
+
+363
+00:13:04,270 --> 00:13:06,340
+on the large black border and here the
+
+364
+00:13:06,340 --> 00:13:07,450
+original one and I'm going to convert
+
+365
+00:13:07,450 --> 00:13:09,030
+that to a path as well by going to path
+
+366
+00:13:09,030 --> 00:13:11,890
+stroke the path and then finally I'm
+
+367
+00:13:11,890 --> 00:13:13,690
+going to hold shift I'm gonna click on
+
+368
+00:13:13,690 --> 00:13:14,980
+the other border so we have both of
+
+369
+00:13:14,980 --> 00:13:17,270
+these borders selected and go to path
+
+370
+00:13:17,270 --> 00:13:19,940
+Union now let me press one on the
+
+371
+00:13:19,940 --> 00:13:24,140
+keyboard to zoom back out to 100% let me
+
+372
+00:13:24,140 --> 00:13:25,760
+click off it to deselect everything it's
+
+373
+00:13:25,760 --> 00:13:27,140
+looking pretty good now it's gonna make
+
+374
+00:13:27,140 --> 00:13:28,640
+a few minor edits and we'll be all
+
+375
+00:13:28,640 --> 00:13:30,170
+finished so let me click on the text
+
+376
+00:13:30,170 --> 00:13:32,240
+objects in here and let me ungroup them
+
+377
+00:13:32,240 --> 00:13:34,460
+by clicking the button that says ungroup
+
+378
+00:13:34,460 --> 00:13:36,200
+selected objects or you can press ctrl
+
+379
+00:13:36,200 --> 00:13:40,520
+shift G like that and what I will do now
+
+380
+00:13:40,520 --> 00:13:42,140
+is I want to take this border right here
+
+381
+00:13:42,140 --> 00:13:43,790
+I mean that this border this black
+
+382
+00:13:43,790 --> 00:13:46,910
+rectangle right here I want to duplicate
+
+383
+00:13:46,910 --> 00:13:49,220
+that by pressing control D and I want to
+
+384
+00:13:49,220 --> 00:13:51,020
+make that red and I want to bring the
+
+385
+00:13:51,020 --> 00:13:52,700
+opacity down in half roughly in half
+
+386
+00:13:52,700 --> 00:13:55,130
+what I want to do is create a gap in
+
+387
+00:13:55,130 --> 00:13:56,720
+these borders right here between the
+
+388
+00:13:56,720 --> 00:13:58,460
+ribbon and the borders so I'm gonna use
+
+389
+00:13:58,460 --> 00:14:00,440
+this red rectangle as a reference point
+
+390
+00:14:00,440 --> 00:14:02,360
+for that so let me grab the nodes tool
+
+391
+00:14:02,360 --> 00:14:03,680
+again I'm gonna clicking drag over this
+
+392
+00:14:03,680 --> 00:14:05,930
+top node then I'll hold your shift click
+
+393
+00:14:05,930 --> 00:14:08,270
+and drag over this node over here and
+
+394
+00:14:08,270 --> 00:14:09,860
+I'm gonna hold ctrl and click and drag
+
+395
+00:14:09,860 --> 00:14:13,670
+that up that's what about there that
+
+396
+00:14:13,670 --> 00:14:14,300
+looks good
+
+397
+00:14:14,300 --> 00:14:15,410
+I'll do the same thing down here
+
+398
+00:14:15,410 --> 00:14:17,690
+clicking drag over this node hold shift
+
+399
+00:14:17,690 --> 00:14:19,250
+click and drag over that node and then
+
+400
+00:14:19,250 --> 00:14:21,890
+hold control and move this one down to
+
+401
+00:14:21,890 --> 00:14:24,650
+about there so that is sticking out just
+
+402
+00:14:24,650 --> 00:14:26,090
+a little bit further than the black
+
+403
+00:14:26,090 --> 00:14:28,370
+ribbon beneath it then I'll grab the
+
+404
+00:14:28,370 --> 00:14:30,770
+Select tool hold shift click on your
+
+405
+00:14:30,770 --> 00:14:33,850
+border right there and go to path
+
+406
+00:14:33,850 --> 00:14:36,830
+difference and that right there was the
+
+407
+00:14:36,830 --> 00:14:37,970
+point of that I wanted to create that
+
+408
+00:14:37,970 --> 00:14:39,890
+gap between the poor and the ribbon
+
+409
+00:14:39,890 --> 00:14:42,590
+right there so the next step is I want
+
+410
+00:14:42,590 --> 00:14:44,660
+to add a little bit of a little bit of
+
+411
+00:14:44,660 --> 00:14:46,130
+an accent piece right here in the
+
+412
+00:14:46,130 --> 00:14:47,810
+corners of the top and the bottom so to
+
+413
+00:14:47,810 --> 00:14:49,640
+do that first what I want to do is
+
+414
+00:14:49,640 --> 00:14:50,990
+enable snapping I'm gonna come up here
+
+415
+00:14:50,990 --> 00:14:52,430
+to where it says enable snapping turn
+
+416
+00:14:52,430 --> 00:14:54,200
+that on and we're gonna want to make
+
+417
+00:14:54,200 --> 00:14:55,730
+sure we have this one selected it says
+
+418
+00:14:55,730 --> 00:14:58,520
+snap custom nodes and this was well snap
+
+419
+00:14:58,520 --> 00:15:00,920
+snaps smooth nodes and I'm going to take
+
+420
+00:15:00,920 --> 00:15:02,390
+this border right here and I'm gonna
+
+421
+00:15:02,390 --> 00:15:04,700
+duplicate that by hitting ctrl D on the
+
+422
+00:15:04,700 --> 00:15:07,190
+keyboard and I'm gonna make this red and
+
+423
+00:15:07,190 --> 00:15:09,050
+I'm gonna bring the opacity down in half
+
+424
+00:15:09,050 --> 00:15:10,670
+now it's gonna click and drag and move
+
+425
+00:15:10,670 --> 00:15:15,620
+this up I'm gonna snap this piece I'm
+
+426
+00:15:15,620 --> 00:15:17,870
+gonna snap the bottom corner into the
+
+427
+00:15:17,870 --> 00:15:19,610
+top corner of the original one right
+
+428
+00:15:19,610 --> 00:15:22,190
+there and I want to take this red area
+
+429
+00:15:22,190 --> 00:15:23,600
+what that's sticking out I want to use
+
+430
+00:15:23,600 --> 00:15:25,130
+that as the accent piece so let me grab
+
+431
+00:15:25,130 --> 00:15:28,190
+the Bezier pen which is over here or you
+
+432
+00:15:28,190 --> 00:15:29,960
+could press B on the keyboard
+
+433
+00:15:29,960 --> 00:15:31,880
+and I'm gonna start a line going right
+
+434
+00:15:31,880 --> 00:15:34,160
+here in the middle of the black border
+
+435
+00:15:34,160 --> 00:15:37,270
+come over here through here like this
+
+436
+00:15:37,270 --> 00:15:42,110
+oops we go through here then here then
+
+437
+00:15:42,110 --> 00:15:43,970
+back to the starting point
+
+438
+00:15:43,970 --> 00:15:46,550
+grab the Select tool hold shift on the
+
+439
+00:15:46,550 --> 00:15:48,230
+keyboard and click on the red object and
+
+440
+00:15:48,230 --> 00:15:51,380
+go to the path intersection and that's
+
+441
+00:15:51,380 --> 00:15:52,640
+what I'm looking for right there now I
+
+442
+00:15:52,640 --> 00:15:54,620
+want to duplicate that by hitting ctrl D
+
+443
+00:15:54,620 --> 00:15:57,950
+I want to flip that vertically and I
+
+444
+00:15:57,950 --> 00:16:01,510
+want to click and drag this down here
+
+445
+00:16:02,200 --> 00:16:05,930
+and then snap this onto there like that
+
+446
+00:16:05,930 --> 00:16:07,910
+now let me zoom out a little bit again
+
+447
+00:16:07,910 --> 00:16:09,350
+I'm holding ctrl and rolling down the
+
+448
+00:16:09,350 --> 00:16:11,750
+mouse wheel to zoom I'm gonna hold your
+
+449
+00:16:11,750 --> 00:16:13,610
+shift click on that red object so we
+
+450
+00:16:13,610 --> 00:16:15,950
+have both red objects selected and then
+
+451
+00:16:15,950 --> 00:16:17,540
+I'm gonna hold shift and click on them
+
+452
+00:16:17,540 --> 00:16:22,400
+on the border and go to path Union and
+
+453
+00:16:22,400 --> 00:16:25,460
+now I'll go to path break apart so that
+
+454
+00:16:25,460 --> 00:16:27,020
+everything is an individual piece now
+
+455
+00:16:27,020 --> 00:16:28,070
+and the whole point of that as you can
+
+456
+00:16:28,070 --> 00:16:29,660
+see here is to create this little indent
+
+457
+00:16:29,660 --> 00:16:31,580
+just a nice little accent piece for the
+
+458
+00:16:31,580 --> 00:16:35,540
+design so the final step I would say
+
+459
+00:16:35,540 --> 00:16:38,000
+would be to add the texture but first I
+
+460
+00:16:38,000 --> 00:16:39,980
+want to add a little bit of color so let
+
+461
+00:16:39,980 --> 00:16:42,890
+me uh first let me click and drag over
+
+462
+00:16:42,890 --> 00:16:47,060
+everything and go to path object to path
+
+463
+00:16:47,060 --> 00:16:48,710
+and that's going to take that text and
+
+464
+00:16:48,710 --> 00:16:50,450
+change it from text objects to actual
+
+465
+00:16:50,450 --> 00:16:52,760
+pads that we can work with now I want to
+
+466
+00:16:52,760 --> 00:16:54,260
+click off of it to deselect I want to
+
+467
+00:16:54,260 --> 00:16:55,790
+take just this word vintage right here I
+
+468
+00:16:55,790 --> 00:16:58,880
+want to ungroup it unify it together by
+
+469
+00:16:58,880 --> 00:17:01,730
+going to path Union and then hold shift
+
+470
+00:17:01,730 --> 00:17:03,770
+and click on the banner underneath it
+
+471
+00:17:03,770 --> 00:17:06,500
+and go to path difference and what that
+
+472
+00:17:06,500 --> 00:17:08,300
+did was it pretty much just used the
+
+473
+00:17:08,300 --> 00:17:10,520
+text as a reference to punch negative
+
+474
+00:17:10,520 --> 00:17:11,959
+space punch a hole through the ribbon
+
+475
+00:17:11,959 --> 00:17:13,640
+there so that I can change the colors
+
+476
+00:17:13,640 --> 00:17:15,560
+and do whatever I want to it and as you
+
+477
+00:17:15,560 --> 00:17:17,569
+can see it's kind of like a negative
+
+478
+00:17:17,569 --> 00:17:19,780
+space between there in those words so
+
+479
+00:17:19,780 --> 00:17:22,609
+now that I've done that I want to give
+
+480
+00:17:22,609 --> 00:17:23,839
+this thing some color I'm gonna click
+
+481
+00:17:23,839 --> 00:17:25,730
+and drag over all of it I'm gonna give
+
+482
+00:17:25,730 --> 00:17:28,069
+this like a little royal blue or like a
+
+483
+00:17:28,069 --> 00:17:29,800
+dark navy blue something like that
+
+484
+00:17:29,800 --> 00:17:33,170
+that's pretty good I want to take this
+
+485
+00:17:33,170 --> 00:17:34,700
+word I actually want to take this piece
+
+486
+00:17:34,700 --> 00:17:38,740
+right here and make this a shade of gold
+
+487
+00:17:39,190 --> 00:17:41,300
+obviously you can color this and however
+
+488
+00:17:41,300 --> 00:17:42,350
+you'd like you don't have to use the
+
+489
+00:17:42,350 --> 00:17:44,270
+colors I'm using here
+
+490
+00:17:44,270 --> 00:17:46,820
+I'm gonna go the fill tab up here under
+
+491
+00:17:46,820 --> 00:17:48,260
+the HSL tab I'm gonna take the
+
+492
+00:17:48,260 --> 00:17:49,760
+saturation just bring that down a little
+
+493
+00:17:49,760 --> 00:17:51,950
+bit you bring this up a little bit as
+
+494
+00:17:51,950 --> 00:17:55,310
+well I want to do the same thing I want
+
+495
+00:17:55,310 --> 00:17:56,960
+to hold shift and click on both the word
+
+496
+00:17:56,960 --> 00:17:59,510
+text and this accent piece right here I
+
+497
+00:17:59,510 --> 00:18:02,510
+want to grab the dropper tool and make
+
+498
+00:18:02,510 --> 00:18:06,760
+that the same color as this there we go
+
+499
+00:18:06,760 --> 00:18:09,740
+and I want to take let me grab the nodes
+
+500
+00:18:09,740 --> 00:18:11,750
+tool I'm gonna click on just the word
+
+501
+00:18:11,750 --> 00:18:14,030
+create here and click on that hold shift
+
+502
+00:18:14,030 --> 00:18:15,980
+click on that each letter individually
+
+503
+00:18:15,980 --> 00:18:18,800
+so that we have them all selected go
+
+504
+00:18:18,800 --> 00:18:20,930
+back to the Select tool and then grab
+
+505
+00:18:20,930 --> 00:18:22,820
+the dropper and make that the same color
+
+506
+00:18:22,820 --> 00:18:25,130
+right there and then finally I want to
+
+507
+00:18:25,130 --> 00:18:27,380
+take the outer border right here and I
+
+508
+00:18:27,380 --> 00:18:28,760
+want to make that the same color as the
+
+509
+00:18:28,760 --> 00:18:31,040
+gold so let me select those both grab
+
+510
+00:18:31,040 --> 00:18:34,100
+the dropper over here or you can press D
+
+511
+00:18:34,100 --> 00:18:36,350
+on the keyboard that's also another way
+
+512
+00:18:36,350 --> 00:18:39,530
+to grab it grab the Select tool press 1
+
+513
+00:18:39,530 --> 00:18:41,330
+on the keyboard to zoom back out to 100%
+
+514
+00:18:41,330 --> 00:18:43,640
+and what I'm going to do now is just
+
+515
+00:18:43,640 --> 00:18:44,990
+click and drag over all of this and
+
+516
+00:18:44,990 --> 00:18:48,410
+group this together ctrl G to group it
+
+517
+00:18:48,410 --> 00:18:51,230
+together let me turn off the snapping
+
+518
+00:18:51,230 --> 00:18:52,520
+for now because that's just gonna get in
+
+519
+00:18:52,520 --> 00:18:55,250
+our way the final step is to add a
+
+520
+00:18:55,250 --> 00:18:56,930
+little bit of a texture on here to make
+
+521
+00:18:56,930 --> 00:18:59,990
+it look worn aged and again I'll have a
+
+522
+00:18:59,990 --> 00:19:01,340
+link in the description of the video to
+
+523
+00:19:01,340 --> 00:19:03,260
+a to a page with all of the resources
+
+524
+00:19:03,260 --> 00:19:05,510
+including this texture what I'm going to
+
+525
+00:19:05,510 --> 00:19:07,100
+do is once you have the texture hoping
+
+526
+00:19:07,100 --> 00:19:08,420
+I'm gonna bring my folder over here just
+
+527
+00:19:08,420 --> 00:19:10,190
+so you can see I have my folder over
+
+528
+00:19:10,190 --> 00:19:12,590
+here I'm gonna take the I'm gonna take
+
+529
+00:19:12,590 --> 00:19:15,080
+the texture grunge texture dot PNG and
+
+530
+00:19:15,080 --> 00:19:16,370
+just click and drag it into Inkscape
+
+531
+00:19:16,370 --> 00:19:18,410
+like that and just leave this little
+
+532
+00:19:18,410 --> 00:19:20,390
+window that pops up just leave all the
+
+533
+00:19:20,390 --> 00:19:22,250
+defaults there go ahead and click OK and
+
+534
+00:19:22,250 --> 00:19:24,440
+there you have the texture let me zoom
+
+535
+00:19:24,440 --> 00:19:26,600
+out a little bit so you can see this let
+
+536
+00:19:26,600 --> 00:19:28,100
+me bring the opacity of that down
+
+537
+00:19:28,100 --> 00:19:31,010
+roughly in half so we can see what's on
+
+538
+00:19:31,010 --> 00:19:32,870
+there as well so what I want to do is
+
+539
+00:19:32,870 --> 00:19:35,180
+place this texture over the image right
+
+540
+00:19:35,180 --> 00:19:37,670
+here I'm gonna hold ctrl + shift and
+
+541
+00:19:37,670 --> 00:19:40,220
+scale this down a little bit now if you
+
+542
+00:19:40,220 --> 00:19:41,660
+notice where the black areas of the
+
+543
+00:19:41,660 --> 00:19:42,980
+textures are like this is the black
+
+544
+00:19:42,980 --> 00:19:46,040
+scratch marks when I apply this texture
+
+545
+00:19:46,040 --> 00:19:48,500
+to this design all of those black
+
+546
+00:19:48,500 --> 00:19:50,660
+scratches are gonna represent negative
+
+547
+00:19:50,660 --> 00:19:52,190
+space in the design so all of those
+
+548
+00:19:52,190 --> 00:19:53,480
+black scratches are going to become
+
+549
+00:19:53,480 --> 00:19:55,730
+white or negative space within that
+
+550
+00:19:55,730 --> 00:19:56,840
+design you'll see what I mean when I
+
+551
+00:19:56,840 --> 00:19:57,230
+apply the
+
+552
+00:19:57,230 --> 00:19:59,330
+texture so I'm telling you that so you
+
+553
+00:19:59,330 --> 00:20:01,309
+can you could try to figure out where
+
+554
+00:20:01,309 --> 00:20:03,290
+exactly you want the texture to be
+
+555
+00:20:03,290 --> 00:20:04,850
+because like if you take this area right
+
+556
+00:20:04,850 --> 00:20:06,320
+here which is all black and place it
+
+557
+00:20:06,320 --> 00:20:08,299
+over here it's gonna punch out a big
+
+558
+00:20:08,299 --> 00:20:09,710
+area of the design that's not going to
+
+559
+00:20:09,710 --> 00:20:11,960
+be legible so I like to make sure I not
+
+560
+00:20:11,960 --> 00:20:14,600
+I'm not using too much of the texture
+
+561
+00:20:14,600 --> 00:20:16,549
+over the design maybe something subtle
+
+562
+00:20:16,549 --> 00:20:18,860
+like that now I'll click and drag over
+
+563
+00:20:18,860 --> 00:20:21,380
+both of those bring the opacity all the
+
+564
+00:20:21,380 --> 00:20:26,480
+way up and go to object mask set and
+
+565
+00:20:26,480 --> 00:20:28,309
+there you go I'd say that looks pretty
+
+566
+00:20:28,309 --> 00:20:29,990
+good so I think that should do it for
+
+567
+00:20:29,990 --> 00:20:31,220
+this tutorial that's how you can go
+
+568
+00:20:31,220 --> 00:20:33,860
+about creating a vintage style text
+
+569
+00:20:33,860 --> 00:20:36,080
+poster using Inkscape if you have any
+
+570
+00:20:36,080 --> 00:20:37,549
+questions let me know and as always
+
+571
+00:20:37,549 --> 00:20:39,380
+thanks for watching
+
+572
+00:20:39,380 --> 00:20:47,609
+[Music]
+
+573
+00:20:53,390 --> 00:20:57,519
+[Music]
+

@@ -1,0 +1,258 @@
+
+if  youre  new  to  graphic  design  then  you
+
+may  be  unfamiliar  with  what  the
+
+different  types  of  design  are  why
+
+theyre  used  and  how  theyre  made  in
+
+this  video  Ill  be  giving  you  a  brief
+
+overview  of  what  Vector  design  is  in
+
+particular  and  how  you  can  use  inkscape
+
+to  create
+
+
+
+it  this  is  Nick  with  logos  by  nick.com
+
+and  today  Ill  be  explaining  how
+
+inkscape  Works  in  5  minutes  or  less
+
+inkscape  is  a  free  an  open  source  vector
+
+graphics  editor  similar  to  Adobe
+
+Illustrator  the  graphical  format  you  may
+
+be  most  familiar  with  would  probably  be
+
+the  raster  format  where  youre  working
+
+with  a  bunch  of  individual  colored  boxes
+
+known  as  pixels  this  describes  things
+
+like  photographs  and  jpeg  images  vector
+
+graphics  arent  made  of  pixels  though
+
+theyre  a  series  of  mathematical
+
+equations  that  dictate  the  properties  of
+
+a  graphic  on  an  X  Andy  AIS  the  benefit
+
+of  working  with  vector  graphics  is  that
+
+theyre  easier  to  manipulate  and  you  can
+
+enlarge  them  infin  itely  without  quality
+
+loss  this  makes  vectors  ideal  for  things
+
+like  logos  and  app  icons  where  youll
+
+need  to  use  the  same  design  in  a  variety
+
+of  different  sizes  vector  graphics  can
+
+also  be  used  to  create  things  like
+
+characters  and  mascots  digital
+
+illustrations  menu  icons  for  the  web  and
+
+they  can  even  be  used  in  combination
+
+with  raster  images  to  create
+
+advertisements  headers  for  social  media
+
+or  anything  else  youd  like  my  favorite
+
+tool  for  creating  vector  graphics  is
+
+inkscape  and  on  this  channel  youll  find
+
+hundreds  of  tutorials  for  learning  how
+
+to  use  inkscape  to  create  things  like
+
+logos  icons  posters  textures  and  more
+
+when  you  launch  inkscape  for  the  first
+
+time  after  downloading  it  you  may  notice
+
+that  it  doesnt  quite  look  the  same  on
+
+your  screen  as  it  does  on  mine  when
+
+following  along  with  one  of  my  tutorials
+
+you  can  change  this  by  going  to  edit
+
+preferences  interface  and  theme  and
+
+ticking  on  the  boxes  to  use  a  dark  theme
+
+along  with  the  symbolic  icons  this  is
+
+not  something  thats  necessary  but  it
+
+just  may  be  easier  for  you  to  follow
+
+along  Ong  with  my  lessons  if  things  look
+
+the  same  on  your  screen  as  they  do  on
+
+mine  the  tools  menu  on  the  left  hand
+
+side  of  the  screen  allows  you  to  create
+
+Vector  objects  like  squares  circles
+
+stars  and  polygons  and  you  can  even  use
+
+tools  like  the  beier  pen  and  the
+
+freehand  tool  to  draw  your  own  Vector
+
+shapes  you  can  then  edit  the  structural
+
+properties  of  those  shapes  using  the
+
+edit  pads  by  nodes  tool  which  allows  you
+
+to  change  the  Contours  of  individual
+
+lines  and  the  key  points  of  the  design
+
+otherwise  known  as  nodes  you  can  add
+
+nodes  remove  nodes  and  even  change  the
+
+type  of  node  youre  working  with  you  can
+
+then  give  those  shapes  whatever  color
+
+you  want  using  the  color  palette  at  the
+
+bottom  of  the  screen  or  you  can  choose
+
+Your  Colors  by  RGB  or  hex  code  by
+
+opening  up  the  fill  and  stroke  menu  you
+
+can  even  fill  your  objects  with  a
+
+gradient  which  is  basically  a  transition
+
+between  two  different  colors  the  path
+
+menu  at  the  top  of  the  screen  is  a
+
+series  of  path  operations  that  allows
+
+you  to  take  objects  that  youve  already
+
+created  and  turn  them  into  new  objects
+
+based  on  how  you  make  them  interact  with
+
+each  other  you  can  unify  them  together
+
+subtract  them  from  each  other  use  the
+
+intersecting  area  between  them  to  create
+
+a  new  object  and  more  theres  even  a
+
+more  advanced  feature  known  as  live  path
+
+effects  which  allows  you  to  manipulate
+
+your  vector  objects  even  further
+
+inkscape  also  has  a  powerful  text  editor
+
+built  in  that  allows  you  to  flow  text
+
+inside  of  objects  wrap  it  around  objects
+
+and  even  warp  it  into  different  shapes
+
+and  theres  countless  other  features  in
+
+inkscape  that  make  it  a  powerful  tool
+
+like  texture  masking  and  clone  stamping
+
+once  you  have  a  solid  understanding  of
+
+how  all  of  this  works  you  can  create
+
+some  really  impressive  designs  there
+
+really  are  no  limitations  to  what  you
+
+can  create  with  inkscape  its  just  as
+
+powerful  as  any  other  vector  graphics
+
+tool  out  there  commercial  or  otherwise
+
+Ive  personally  been  using  inkscape  as
+
+my  primary  tool  for  over  a  decade  to
+
+design  logos  for  my  clients  and  graphics
+
+for  my  own  website  I  even  have  an  online
+
+course  called  The  inkscape  Master  Class
+
+where  I  go  over  every  single  tool  and
+
+feature  in  inkscape  and  explain  how  it
+
+works  its  kind  of  like  a  user  manual
+
+but  in  video  format  where  you  can  ask
+
+questions  and  get  help  from  me  anytime
+
+you  want  and  it  may  be  helpful  in  giving
+
+some  context  to  my  lessons  here  on
+
+YouTube  Ill  put  a  link  in  the
+
+description  of  the  video  if  youre
+
+interested  in  checking  that  out
+
+otherwise  if  youre  just  curious  about
+
+seeing  what  inkscape  is  capable  of  and
+
+maybe  dabbling  around  with  it  a  bit  then
+
+feel  free  to  check  out  any  of  the
+
+hundreds  of  tutorials  I  have  on  this
+
+channel  I  even  have  a  beginners  playlist
+
+that  would  be  ideal  for  firsttime  users
+
+if  you  have  any  questions  just  leave  a
+
+comment  below  and  as  always  thanks  for
+
+watching  for

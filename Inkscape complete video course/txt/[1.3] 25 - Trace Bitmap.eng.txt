@@ -1,0 +1,35 @@
+In this lecture, we will use Inkscape to automatically vectorize a bitmap logo.
+I will use Bing Image Creator, to get some ideas for a logo.
+Bing Image Creator is a free service, and you can type what kind of logo you want. I typed: logo,
+coffee shop, flat design, minimalistic, three colors, and on a white background.
+I created several examples, and downloaded a logo I liked. In Inkscape, I go to: File > Import.
+I open the coffee shop logo. I will crop the logo, using the Rectangle tool. I drag over the logo,
+press the spacebar, and position the rectangle. I Shift-click on the image. I right-click,
+and choose: Set Clip. I right-click again, and choose: Crop Image to Clip. I right-click a
+third time, and choose: Trace Bitmap. In the last lecture, we used: Single scan, to create a brush.
+Now we have a color image, so I click on the Multicolor tab. For Detection mode, I choose:
+Colors. Scans, means the amount of paths that will be created, which is by default on 8. Lets see,
+if I can get fewer paths. If I reduce Scans, I see that I can bring the amount of paths down to 6. I
+also want Inkscape to remove the white background. Lets see what happens if I click on Apply. When I
+zoom in, I see some speckles. This means Inkscape made a very detailed scan. So lets try again.
+When I hold my mouse above Speckles, I read that by increasing it, small spots will be ignored.
+So I increase the Speckles value. I will also select: Stack, which attempts to reduce gaps.
+I click on Apply. Now lets optimize the scan In my layers, I see I have a group of paths. I hold
+Alt to look at the layers. I zoom in on the most right element. We see, the path is not smooth.
+So I go to: Path > Simplify. I see that the shortcut is: Ctrl-L. This already looks better.
+Lets have a look at the nodes. I select the Node tool. I think I can reduce the amount of nodes
+even more. So I press Ctrl-L. Now I can easily adjust the shape, when needed. I select the middle
+element. I press Ctrl-L three times. When I click on the left element, I see I have a compound path.
+I prefer to work with individual elements, so I go to: Path > Split Path.
+In my layers, I see I have now two separate paths with the same color. I select the left element.
+I press Ctrl-L two times. Then I select the black outline, and go to: Path > Split Path. I select
+the handle. I press Ctrl-L several times. Now I select the cup outline. I see it get an undesired
+effect in the corner, when I press Ctrl-L. So I press: Ctrl-Z. Lets see what happens, when I
+delete individual superfluous nodes. I remove some nodes at the right. Each time I remove a node,
+Inkscape will restore the curve as good as it can. Finally, lets look at the inside of the cup. I
+select the green element, and press Ctrl-L two times. Because I will expand the shape to remove
+gaps, I will delete all superfluous nodes. Now I only have to drag three nodes, to remove any gaps.
+The shape above, is below the green shape. Here I will press Ctrl-L several times, to remove as
+much nodes as possible. To remove all gaps, I increase its size, holding Shift plus Control.
+I have now traced the logo. And I optimize the paths to a minimum amount of nodes,
+so I can easily adjust the shapes, if needed.

@@ -1,0 +1,18 @@
+In this lecture, I will add some text to the logo. I want the text to stay editable, and also
+the curvature of the text to stay editable. Before, we used Path Effects to curve text.
+For Path Effects however, you need to convert the text to a path. I could also clone the text,
+and work with a clone. That still wouldnt give me the control I want. To rotate text,
+I need my text to be on a circle. I select the text tool, and click on the canvas. For Text
+alignment, I choose: centered. I use Grand Hotel, which is a free Google font. I type: Coffee
+Boutique. I make the size 90 point. I select the Dropper tool, and sample the darker brown.
+Now lets place the text on a path. I select the Ellipse tool. I hold Ctrl, and drag a circle.
+I go to: Path > Object to Path. In Fill and Stroke, I set Alpha to 1 percent. I Shift-click
+on the text. I go to: Text > Put on Path. If I click on the circle again, I can rotate the text.
+The text is now on top of the circle. I want to place the text on the bottom, so I want to
+place the text on the inside of the circle. To do this I click on the Flip Horizontal icon. Now I
+rotate the circle. If I click on the Node tool, I see the text is on the inside of the circle.
+I press the spacebar. By dragging at the top, I can determine the curvature of the text.
+If I drag the circle, the text will move with it.
+But when I move the text, the circle will stay in place.
+I can now curve the text, without the circle being over the logo.
+And I can still adjust the text.

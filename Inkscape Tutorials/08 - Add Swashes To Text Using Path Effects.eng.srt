@@ -1,0 +1,1036 @@
+1
+00:00:00,120 --> 00:00:01,839
+in this tutorial I'll be using path
+
+2
+00:00:01,839 --> 00:00:03,639
+effects and inkscape to show you how you
+
+3
+00:00:03,639 --> 00:00:05,279
+can add these decorative elements to
+
+4
+00:00:05,279 --> 00:00:08,280
+your text known as swashes and to follow
+
+5
+00:00:08,280 --> 00:00:09,400
+along with what I'm doing here you'll
+
+6
+00:00:09,400 --> 00:00:11,280
+need to download and install this font
+
+7
+00:00:11,280 --> 00:00:12,480
+which I will have Linked In the
+
+8
+00:00:12,480 --> 00:00:15,200
+description below so let's get started
+
+9
+00:00:15,200 --> 00:00:17,039
+uh I'm going to grab my text tool and
+
+10
+00:00:17,039 --> 00:00:19,000
+I'm going to write on the canvas swashes
+
+11
+00:00:19,000 --> 00:00:21,039
+just for this demonstration and I'm
+
+12
+00:00:21,039 --> 00:00:22,960
+going to open up my text editor so let
+
+13
+00:00:22,960 --> 00:00:25,240
+me grab my text menu and I'm going to
+
+14
+00:00:25,240 --> 00:00:28,119
+look for that font that I already have
+
+15
+00:00:28,119 --> 00:00:31,960
+installed click apply
+
+16
+00:00:32,520 --> 00:00:33,879
+and I'm going to scale this up a little
+
+17
+00:00:33,879 --> 00:00:35,200
+bit I'm going to hold control while I'm
+
+18
+00:00:35,200 --> 00:00:36,680
+doing that so that it locks the
+
+19
+00:00:36,680 --> 00:00:38,760
+proportions and preserves the aspect
+
+20
+00:00:38,760 --> 00:00:41,120
+ratio and what I will do now is I will
+
+21
+00:00:41,120 --> 00:00:42,760
+convert this to a path so I'll go I will
+
+22
+00:00:42,760 --> 00:00:45,640
+go to path object to path and I'll split
+
+23
+00:00:45,640 --> 00:00:47,760
+the letters apart so I will go to path
+
+24
+00:00:47,760 --> 00:00:51,120
+and choose split
+
+25
+00:00:51,120 --> 00:00:54,719
+path and now it is individual letters so
+
+26
+00:00:54,719 --> 00:00:55,719
+what I'm going to do is I'm going to use
+
+27
+00:00:55,719 --> 00:00:58,239
+the pencil tool to manually draw lines
+
+28
+00:00:58,239 --> 00:00:59,640
+coming off of these letters here to show
+
+29
+00:00:59,640 --> 00:01:02,079
+you what I mean uh I was able to draw a
+
+30
+00:01:02,079 --> 00:01:03,600
+line that comes off the top of this
+
+31
+00:01:03,600 --> 00:01:06,040
+letter H and swoops underneath like that
+
+32
+00:01:06,040 --> 00:01:07,840
+uh we can do that with the pencil tool
+
+33
+00:01:07,840 --> 00:01:09,600
+by just drawing a regular plain line and
+
+34
+00:01:09,600 --> 00:01:11,080
+then we're going to use path effects to
+
+35
+00:01:11,080 --> 00:01:12,640
+make the line look like it's consistent
+
+36
+00:01:12,640 --> 00:01:14,200
+with the style of the text so I'm going
+
+37
+00:01:14,200 --> 00:01:15,840
+to grab the P the pencil tool over here
+
+38
+00:01:15,840 --> 00:01:17,360
+you can access it by pressing the letter
+
+39
+00:01:17,360 --> 00:01:19,280
+P on the keyboard I'm going to use the
+
+40
+00:01:19,280 --> 00:01:21,720
+regular mode the standard uh regular
+
+41
+00:01:21,720 --> 00:01:24,200
+mode for this what I'm doing here and
+
+42
+00:01:24,200 --> 00:01:25,560
+then over here where it says smoothing
+
+43
+00:01:25,560 --> 00:01:27,320
+I'm going to set that to 50 for now you
+
+44
+00:01:27,320 --> 00:01:29,079
+may have to adjust this based on the
+
+45
+00:01:29,079 --> 00:01:31,040
+size of your text on your screen so I'm
+
+46
+00:01:31,040 --> 00:01:32,520
+going to start with those settings and
+
+47
+00:01:32,520 --> 00:01:33,960
+I'm just going to click and drag to draw
+
+48
+00:01:33,960 --> 00:01:36,320
+a line like this that swoops around and
+
+49
+00:01:36,320 --> 00:01:38,720
+goes under the text like that and what
+
+50
+00:01:38,720 --> 00:01:40,000
+you can do now is you can grab your
+
+51
+00:01:40,000 --> 00:01:43,399
+nodes tool and adjust to these nodes so
+
+52
+00:01:43,399 --> 00:01:44,759
+that it looks a little more smooth you
+
+53
+00:01:44,759 --> 00:01:46,520
+may have to delete nodes if you have too
+
+54
+00:01:46,520 --> 00:01:47,960
+many of them if you drew like a very
+
+55
+00:01:47,960 --> 00:01:50,719
+shaky line uh like the fewer nodes you
+
+56
+00:01:50,719 --> 00:01:52,159
+have the smoother of a line you get so
+
+57
+00:01:52,159 --> 00:01:53,439
+I'm going to try deleting some of these
+
+58
+00:01:53,439 --> 00:01:55,520
+nodes and seeing if that gives me a
+
+59
+00:01:55,520 --> 00:01:57,560
+better result so I'm just going to
+
+60
+00:01:57,560 --> 00:02:01,280
+adjust this a little bit
+
+61
+00:02:02,360 --> 00:02:04,000
+and the idea here is that you want this
+
+62
+00:02:04,000 --> 00:02:06,079
+line going consistent with the direction
+
+63
+00:02:06,079 --> 00:02:08,160
+of this part of the letter H so you want
+
+64
+00:02:08,160 --> 00:02:10,878
+this to be nice and consistent so let me
+
+65
+00:02:10,878 --> 00:02:13,680
+adjust this a little
+
+66
+00:02:14,840 --> 00:02:17,200
+more and I'm happy with how that looks
+
+67
+00:02:17,200 --> 00:02:18,360
+what I'm going to do now is I'm going to
+
+68
+00:02:18,360 --> 00:02:19,920
+adjust this a little bit so I'll grab my
+
+69
+00:02:19,920 --> 00:02:21,360
+selection tool I'm going to move this up
+
+70
+00:02:21,360 --> 00:02:23,640
+a little bit and I may even rotate this
+
+71
+00:02:23,640 --> 00:02:25,599
+around a tiny bit as well just so it has
+
+72
+00:02:25,599 --> 00:02:28,640
+more of a uh consistent Direction there
+
+73
+00:02:28,640 --> 00:02:30,760
+and now what I'm going to do is I'm
+
+74
+00:02:30,760 --> 00:02:32,840
+going to grab the power stroke path
+
+75
+00:02:32,840 --> 00:02:34,360
+effects let me open up my path effects
+
+76
+00:02:34,360 --> 00:02:37,200
+menu by going to path and selecting path
+
+77
+00:02:37,200 --> 00:02:39,480
+effects and I'm going to look for Power
+
+78
+00:02:39,480 --> 00:02:42,440
+Stroke so I'll just type in pwe and
+
+79
+00:02:42,440 --> 00:02:44,519
+there it is right there power stroke and
+
+80
+00:02:44,519 --> 00:02:46,319
+with power stroke applied I can grab my
+
+81
+00:02:46,319 --> 00:02:48,239
+nodes tool and you'll see these pink
+
+82
+00:02:48,239 --> 00:02:51,000
+handles now on the path once you apply
+
+83
+00:02:51,000 --> 00:02:52,879
+the power stroke and you can use these
+
+84
+00:02:52,879 --> 00:02:54,720
+pink handles to change the width of the
+
+85
+00:02:54,720 --> 00:02:56,280
+line at that particular point so I'm
+
+86
+00:02:56,280 --> 00:02:57,599
+going to make this line a little more
+
+87
+00:02:57,599 --> 00:02:59,400
+consistent with this part of the letter
+
+88
+00:02:59,400 --> 00:03:01,000
+H if you notice here there's a little
+
+89
+00:03:01,000 --> 00:03:02,680
+bit of a like a little bit of a corner a
+
+90
+00:03:02,680 --> 00:03:04,319
+little bit of a dip don't worry about
+
+91
+00:03:04,319 --> 00:03:05,519
+that we're going to go correct that
+
+92
+00:03:05,519 --> 00:03:07,159
+later we're just looking to get a
+
+93
+00:03:07,159 --> 00:03:10,000
+general consistency here I'm going to
+
+94
+00:03:10,000 --> 00:03:11,640
+take this node and change this as well
+
+95
+00:03:11,640 --> 00:03:12,720
+you may notice that when you're doing
+
+96
+00:03:12,720 --> 00:03:14,159
+this you end up with like this sort of
+
+97
+00:03:14,159 --> 00:03:15,959
+effect right here if you're doing that
+
+98
+00:03:15,959 --> 00:03:17,879
+then just move the node or move the
+
+99
+00:03:17,879 --> 00:03:19,480
+handle back to the other side of the
+
+100
+00:03:19,480 --> 00:03:22,760
+line and you should have a better result
+
+101
+00:03:22,760 --> 00:03:23,959
+and I'm going to take this one and bring
+
+102
+00:03:23,959 --> 00:03:25,680
+this one out like that or I may have to
+
+103
+00:03:25,680 --> 00:03:27,640
+bring this one
+
+104
+00:03:27,640 --> 00:03:30,920
+up and I'll adjust this a little bit
+
+105
+00:03:30,920 --> 00:03:32,040
+and the good thing about this is that
+
+106
+00:03:32,040 --> 00:03:34,319
+you can change the direction of your uh
+
+107
+00:03:34,319 --> 00:03:36,239
+nodes still while you're doing this so
+
+108
+00:03:36,239 --> 00:03:38,480
+nothing is finalized just yet so let me
+
+109
+00:03:38,480 --> 00:03:40,280
+zoom out and see how this looks in
+
+110
+00:03:40,280 --> 00:03:42,760
+comparison um you want to make the the
+
+111
+00:03:42,760 --> 00:03:45,200
+uh weight of the swashes consistent with
+
+112
+00:03:45,200 --> 00:03:47,040
+the weight of the letters so I noticed
+
+113
+00:03:47,040 --> 00:03:48,959
+this is a little too little too heavy so
+
+114
+00:03:48,959 --> 00:03:51,920
+I'll bring that down a little
+
+115
+00:03:52,920 --> 00:03:55,159
+bit there we go I like how that looks
+
+116
+00:03:55,159 --> 00:03:56,640
+right
+
+117
+00:03:56,640 --> 00:03:58,920
+there and I'm going to grab my selection
+
+118
+00:03:58,920 --> 00:04:00,280
+tool now and I'm just going to to change
+
+119
+00:04:00,280 --> 00:04:01,760
+the position of this a little more I may
+
+120
+00:04:01,760 --> 00:04:03,360
+want to rotate this around just a little
+
+121
+00:04:03,360 --> 00:04:05,760
+more just to match the direction of that
+
+122
+00:04:05,760 --> 00:04:07,920
+letter and I'll bring this down some a
+
+123
+00:04:07,920 --> 00:04:09,200
+little
+
+124
+00:04:09,200 --> 00:04:11,239
+bit and that looks pretty good I think
+
+125
+00:04:11,239 --> 00:04:12,680
+I'm going to leave that just as it is
+
+126
+00:04:12,680 --> 00:04:13,879
+and I'm going to come over here and draw
+
+127
+00:04:13,879 --> 00:04:15,200
+another one now so let me come over here
+
+128
+00:04:15,200 --> 00:04:17,600
+to my pencil tool and again I'm going to
+
+129
+00:04:17,600 --> 00:04:19,720
+follow the the direction of the letter
+
+130
+00:04:19,720 --> 00:04:22,639
+and just draw my line you may have to
+
+131
+00:04:22,639 --> 00:04:24,360
+try a couple of times cuz I just messed
+
+132
+00:04:24,360 --> 00:04:25,919
+that one up right there I'm going to
+
+133
+00:04:25,919 --> 00:04:27,880
+press command Z or control Z to undo
+
+134
+00:04:27,880 --> 00:04:31,440
+that and try again
+
+135
+00:04:31,520 --> 00:04:32,840
+okay that one's a little better I'm
+
+136
+00:04:32,840 --> 00:04:34,840
+going to grab my nodes tool now and I'm
+
+137
+00:04:34,840 --> 00:04:36,160
+going to delete some of these extra
+
+138
+00:04:36,160 --> 00:04:38,280
+nodes in here like I don't need this one
+
+139
+00:04:38,280 --> 00:04:40,120
+oops let me try that again I don't need
+
+140
+00:04:40,120 --> 00:04:41,000
+that
+
+141
+00:04:41,000 --> 00:04:43,240
+one and I'm going to adjust these ones a
+
+142
+00:04:43,240 --> 00:04:45,440
+little
+
+143
+00:04:50,160 --> 00:04:52,440
+bit okay so I think that's looking a lot
+
+144
+00:04:52,440 --> 00:04:53,960
+better now like I mentioned earlier the
+
+145
+00:04:53,960 --> 00:04:56,320
+fewer nodes you have the smoother the
+
+146
+00:04:56,320 --> 00:04:58,360
+line is so you want to have as few nodes
+
+147
+00:04:58,360 --> 00:05:00,520
+in there as possible so now that that's
+
+148
+00:05:00,520 --> 00:05:02,520
+done let me go to back to my uh path
+
+149
+00:05:02,520 --> 00:05:04,080
+effects and I'm going to apply another
+
+150
+00:05:04,080 --> 00:05:05,560
+power
+
+151
+00:05:05,560 --> 00:05:08,479
+stroke and now I can grab my nodes tool
+
+152
+00:05:08,479 --> 00:05:11,080
+and adjust the size of the uh or adjust
+
+153
+00:05:11,080 --> 00:05:13,800
+the weight of the
+
+154
+00:05:18,039 --> 00:05:20,280
+line okay so let me grab my selection
+
+155
+00:05:20,280 --> 00:05:23,000
+tool now and position this I'll put this
+
+156
+00:05:23,000 --> 00:05:24,440
+up a little
+
+157
+00:05:24,440 --> 00:05:27,360
+more there we go that looks a lot better
+
+158
+00:05:27,360 --> 00:05:29,919
+and one final touch I'll add here is
+
+159
+00:05:29,919 --> 00:05:32,479
+I'll add another swash to the letter W
+
+160
+00:05:32,479 --> 00:05:34,120
+so let me repeat that same process I'm
+
+161
+00:05:34,120 --> 00:05:35,479
+going to grab my pencil tool I'll just
+
+162
+00:05:35,479 --> 00:05:37,680
+press the letter P on the keyboard draw
+
+163
+00:05:37,680 --> 00:05:39,919
+my
+
+164
+00:05:48,400 --> 00:05:51,120
+line and now I will just reposition this
+
+165
+00:05:51,120 --> 00:05:55,160
+one as well okay so let's address the um
+
+166
+00:05:55,160 --> 00:05:56,919
+these little Corners that show up these
+
+167
+00:05:56,919 --> 00:05:58,800
+little inconsistencies where the swashes
+
+168
+00:05:58,800 --> 00:06:00,880
+connect with the letters to fix that
+
+169
+00:06:00,880 --> 00:06:01,840
+what I'm going to do is I'm going to
+
+170
+00:06:01,840 --> 00:06:03,199
+select the swash and then I'm going to
+
+171
+00:06:03,199 --> 00:06:04,680
+hold shift and select the letter and I'm
+
+172
+00:06:04,680 --> 00:06:06,440
+just going to unify them together before
+
+173
+00:06:06,440 --> 00:06:07,880
+I do that though I do have to warn you
+
+174
+00:06:07,880 --> 00:06:09,400
+that once you do this this effect will
+
+175
+00:06:09,400 --> 00:06:11,000
+be finalized and this will become a
+
+176
+00:06:11,000 --> 00:06:12,720
+regular path you won't be able to change
+
+177
+00:06:12,720 --> 00:06:15,080
+the consistency or the the weight of the
+
+178
+00:06:15,080 --> 00:06:16,880
+line or the direction of it anymore
+
+179
+00:06:16,880 --> 00:06:19,000
+without editing the nodes uh so just to
+
+180
+00:06:19,000 --> 00:06:20,240
+warn you there make sure everything
+
+181
+00:06:20,240 --> 00:06:22,919
+looks good before you do this next step
+
+182
+00:06:22,919 --> 00:06:25,520
+and then go to path
+
+183
+00:06:25,520 --> 00:06:27,479
+Union and now what I'm going to do to
+
+184
+00:06:27,479 --> 00:06:28,680
+smooth this out I'm just going to grab
+
+185
+00:06:28,680 --> 00:06:30,599
+my nodes tool and I'll just go in there
+
+186
+00:06:30,599 --> 00:06:32,280
+and delete those nodes and when you
+
+187
+00:06:32,280 --> 00:06:33,680
+delete those nodes you can take these
+
+188
+00:06:33,680 --> 00:06:35,440
+handles and straighten them out and you
+
+189
+00:06:35,440 --> 00:06:38,479
+have a nice a nice smooth line there so
+
+190
+00:06:38,479 --> 00:06:39,840
+let me do the same thing over here I'll
+
+191
+00:06:39,840 --> 00:06:41,599
+delete these nodes and now we have a
+
+192
+00:06:41,599 --> 00:06:44,199
+nice smooth line and I'll do the same
+
+193
+00:06:44,199 --> 00:06:45,280
+thing over here I'm going to grab my
+
+194
+00:06:45,280 --> 00:06:47,560
+selection tool I'm going to select all
+
+195
+00:06:47,560 --> 00:06:49,039
+of these by holding shift and clicking
+
+196
+00:06:49,039 --> 00:06:52,560
+on them all three objects go to path
+
+197
+00:06:52,560 --> 00:06:55,360
+Union and I will do the same thing over
+
+198
+00:06:55,360 --> 00:06:56,759
+here I'm going to delete these nodes out
+
+199
+00:06:56,759 --> 00:06:59,960
+of here
+
+200
+00:07:04,879 --> 00:07:06,520
+now one final thing I wanted to address
+
+201
+00:07:06,520 --> 00:07:07,919
+with this design is that if you notice
+
+202
+00:07:07,919 --> 00:07:10,039
+the tips of these swashes they end in
+
+203
+00:07:10,039 --> 00:07:12,280
+sharp points and that's not consistent
+
+204
+00:07:12,280 --> 00:07:13,479
+with the rest of these letters these
+
+205
+00:07:13,479 --> 00:07:15,639
+letters for the most part have rounded
+
+206
+00:07:15,639 --> 00:07:17,319
+caps on them so what I'm going to do is
+
+207
+00:07:17,319 --> 00:07:19,080
+I'm going to grab my Eraser and erase
+
+208
+00:07:19,080 --> 00:07:21,759
+the ends of these uh the the ends of
+
+209
+00:07:21,759 --> 00:07:23,800
+these points so there's actually a few
+
+210
+00:07:23,800 --> 00:07:25,199
+ways to do this for this I'm just using
+
+211
+00:07:25,199 --> 00:07:26,599
+the Eraser I'm going to grab the Eraser
+
+212
+00:07:26,599 --> 00:07:30,960
+tool I'm going to set the width to 20
+
+213
+00:07:30,960 --> 00:07:33,160
+okay let me try that again eraser tool
+
+214
+00:07:33,160 --> 00:07:35,919
+set the width to
+
+215
+00:07:37,240 --> 00:07:39,560
+20 and I'm just going to erase off part
+
+216
+00:07:39,560 --> 00:07:42,599
+of this letter right here like
+
+217
+00:07:42,599 --> 00:07:44,800
+that and now I'm going to grab my nodes
+
+218
+00:07:44,800 --> 00:07:47,080
+tool I'm going to select these nodes get
+
+219
+00:07:47,080 --> 00:07:49,280
+rid of them select all these nodes in
+
+220
+00:07:49,280 --> 00:07:51,520
+the middle here not the ones on the ends
+
+221
+00:07:51,520 --> 00:07:53,039
+just the ones in the middle get rid of
+
+222
+00:07:53,039 --> 00:07:55,599
+them and then we can take this line or
+
+223
+00:07:55,599 --> 00:07:57,159
+take these nodes and pull this out like
+
+224
+00:07:57,159 --> 00:07:59,639
+that and now we have a rounded cap on
+
+225
+00:07:59,639 --> 00:08:01,639
+there like I said there's various ways
+
+226
+00:08:01,639 --> 00:08:03,960
+to do this you can draw a bezier path
+
+227
+00:08:03,960 --> 00:08:05,720
+and do a path difference and then
+
+228
+00:08:05,720 --> 00:08:07,759
+reshape it this way but this is just the
+
+229
+00:08:07,759 --> 00:08:09,039
+way I'm doing it for this tutorial I'm
+
+230
+00:08:09,039 --> 00:08:10,840
+just using the Eraser I'll do the same
+
+231
+00:08:10,840 --> 00:08:12,520
+thing over here you have to select the
+
+232
+00:08:12,520 --> 00:08:14,520
+object first then grab the Eraser and
+
+233
+00:08:14,520 --> 00:08:16,080
+then you can draw right through there
+
+234
+00:08:16,080 --> 00:08:18,039
+and erase that off so I'll just go
+
+235
+00:08:18,039 --> 00:08:21,720
+through and erase this
+
+236
+00:08:30,759 --> 00:08:32,159
+and there we go that looks a lot more
+
+237
+00:08:32,159 --> 00:08:33,839
+consistent with the rest of the letters
+
+238
+00:08:33,839 --> 00:08:34,958
+so I think that should do it for this
+
+239
+00:08:34,958 --> 00:08:36,640
+tutorial that's how you can take text
+
+240
+00:08:36,640 --> 00:08:38,559
+and add some decorative elements known
+
+241
+00:08:38,559 --> 00:08:40,958
+as swashes to it using path effects in
+
+242
+00:08:40,958 --> 00:08:43,399
+inkscape if you found this lesson useful
+
+243
+00:08:43,399 --> 00:08:45,160
+then consider checking out my inkscape
+
+244
+00:08:45,160 --> 00:08:47,440
+master class it's a collection of over
+
+245
+00:08:47,440 --> 00:08:49,240
+60 videos where I go over all of the
+
+246
+00:08:49,240 --> 00:08:51,160
+tools and features in inkscape and I
+
+247
+00:08:51,160 --> 00:08:52,800
+explain what they are and demonstrate
+
+248
+00:08:52,800 --> 00:08:54,640
+how they work kind of like how I did in
+
+249
+00:08:54,640 --> 00:08:56,720
+this video we even have a private
+
+250
+00:08:56,720 --> 00:08:58,320
+Community where you can ask questions
+
+251
+00:08:58,320 --> 00:09:00,760
+and get help from me anytime you want
+
+252
+00:09:00,760 --> 00:09:02,480
+and best of all there's no monthly
+
+253
+00:09:02,480 --> 00:09:05,240
+membership fees you just pay $17 one
+
+254
+00:09:05,240 --> 00:09:07,399
+time and you're in for Life I'll have
+
+255
+00:09:07,399 --> 00:09:08,760
+some information about that down below
+
+256
+00:09:08,760 --> 00:09:10,720
+if you want to check that out as always
+
+257
+00:09:10,720 --> 00:09:14,120
+thanks for watching
+
+258
+00:09:18,470 --> 00:09:23,249
+[Music]
+
+259
+00:09:31,000 --> 00:09:33,399
+oh
+

@@ -1,0 +1,529 @@
+
+Inkscape  is  an  incredible  piece  of
+
+software  that  Ive  been  using  for  over  a
+
+decade  to  create  designs  for  myself  and
+
+my  clients  as  much  as  I  love  Inkscape
+
+though  theres  one  particular  problem
+
+that  has  it  Ill  be  addressing  in  this
+
+video  and  Ill  also  be  going  over  some
+
+solutions  for  working  around  it  as  well
+
+
+
+this  is  Nick  with  logos  by  Nick  comm  and
+
+in  this  video  Ill  be  discussing  how  you
+
+can  work  around  ink  scapes  in  ability  to
+
+generate  files  with  the  CMYK  color
+
+profile  and  if  youd  like  to  learn  more
+
+about  how  Inkscape  works  be  sure  to
+
+check  out  my  Inkscape  masterclass  its  a
+
+collection  of  over  60  videos  where  I  go
+
+over  every  tool  and  feature  in  Inkscape
+
+and  I  explain  what  it  is  and  demonstrate
+
+how  it  works  Ill  have  a  link  in  the
+
+description  of  the  video  if  you  want  to
+
+check  that  out  so  one  of  the  biggest
+
+downsides  of  working  with  Inkscape  is
+
+its  inability  to  generate  files  with  the
+
+CMYK  color  profile  this  is  problematic
+
+when  designing  things  for  prints  because
+
+the  only  colors  that  can  be  generated
+
+with  ink  are  colors  that  are  within  the
+
+CMYK  color  space
+
+Inkscape  by  default  works  within  the  RGB
+
+color  space  these  are  colors  that  are
+
+generated  using  light  and  are  intended
+
+for  use  on  screens  and  other  electronics
+
+with  digital  displays  because  of  that
+
+the  RGB  color  space  has  a  wider  range  of
+
+colors  to  work  with  than  CMYK  does
+
+because  light  can  be  used  to  generate
+
+more  colors  than  ink  n  so  if  you  create
+
+a  design  with  Inkscape  then  you  go  to
+
+print  it  chances  are  youre  going  to  be
+
+using  colors  that  are  out  of  gamut  or  in
+
+other  words  not  within  the  range  of  what
+
+can  be  created  with  ink  most  print  shops
+
+will  refuse  to  print  your  document  if
+
+this  is  the  case  because  they  know  that
+
+youre  not  going  to  be  happy  with  the
+
+result  now  you  may  think  to  yourself
+
+okay  Ill  just  use  colors  that  are
+
+within  the  CMYK  color  space  that  it
+
+should  be  fine  right  well  not  exactly
+
+its  a  little  more  complicated  than  just
+
+using  CMYK  colors  every  document  has  a
+
+color  profile  embedded  within  it  and  if
+
+you  created  that  document  with  Inkscape
+
+then  its  going  to  have  an  RGB  profile
+
+because  thats  the  only  format  Inkscape
+
+supports  the  problem  with  printing  an
+
+RGB  document  is  that  youre  taking
+
+colors  that  were  originally  generated
+
+using  light
+
+and  trying  to  reproduce  them  with  ink
+
+this  usually  results  in  their  finished
+
+printed  product  having  colors  that  look
+
+dull  and  muddy  and  just  overall
+
+different  than  they  did  on  your  screen
+
+when  you  design  them  even  if  you  made
+
+sure  to  only  use  colors  that  work  within
+
+the  CMYK  color  space  its  just  not
+
+possible  for  something  to  look  the  same
+
+in  print  as  it  does  on  your  screen  if
+
+youre  creating  it  in  an  RGB  color
+
+profile  and  because  of  that  a  lot  of
+
+print  shops  will  immediately  turn  down
+
+your  document  if  they  see  that  it  has  an
+
+RGB  profile  embedded  now  some  print
+
+shops  will  do  a  spot  conversion  and
+
+adjust  the  colors  for  you  this  is
+
+actually  becoming  a  lot  more  common  and
+
+a  good  example  of  this  would  be  Vista
+
+Print  Ive  printed  RGB  documents  with
+
+them  in  the  past  and  the  results  were
+
+actually  pretty  good  but  they  werent
+
+perfect  the  best  way  to  ensure  that  your
+
+design  will  look  the  same  in  print  as  it
+
+does  on  your  device  is  to  make  sure  that
+
+your  document  is  using  a  CMYK  color
+
+profile  in  illustrator  this  can  be  done
+
+by  going  to  file  document  color  mode  and
+
+choosing  CMYK  color  an  affinity  designer
+
+this  can  be  done  by  going  to  file
+
+document  setup  clicking  on  the  color  tab
+
+and  choosing  CMYK  from  the  color  format
+
+drop-down  Inkscape  however  lacks  the
+
+ability  to  do  this  and  its  one  of  the
+
+biggest  downsides  of  working  with  it  in
+
+my  opinion  designing  things  for  print  is
+
+just  going  to  be  more  challenging  in
+
+Inkscape  but  its  not  impossible
+
+there  are  some  workarounds  for  creating
+
+a  CMYK  document  from  your  Inkscape
+
+designs  and  Id  like  to  share  some  of
+
+them  with  you  in  this  video  now  I  must
+
+warn  you  in  advance  that  these  methods
+
+are  far  from  perfect
+
+but  they  will  get  the  job  done  and  they
+
+are  better  than  nothing
+
+if  youre  a  Linux  user  theres  a
+
+third-party  extension  that  you  can
+
+install  for  Inkscape  that  will  allow  you
+
+to  export  PDF  documents  with  a  CMYK
+
+color  profile  the  extension  is  called
+
+export  PDF  CMYK  and  Ill  have  a  link  in
+
+the  description  for  those  of  you  who  are
+
+linux  users  and  want  to  try  it  out  I
+
+havent  tried  it  myself  but  Ive  heard
+
+good  things  the  benefit  of  using
+
+something  like  this  is  that  it  allows
+
+you  to  export  your  design  in  an  editable
+
+vector  format  where  you  can  manually
+
+adjust  the  DPI  which  is  also  important
+
+for  printing  documents  the  downside
+
+though  is  that  you  can  only  export  a  PDF
+
+document  so  if  your  print  shop  requires
+
+a  rasterized  format  like  jpg  or  TI  F
+
+youre  out  of  luck  the  other  downside  is
+
+that  its  only  for  Linux  users  so  those
+
+of  us  on  Windows  and  Mac  are  also  out  of
+
+luck
+
+Scribus  is  an  open-source  application
+
+for  desktop  publishing  similar  to  Adobe
+
+InDesign  and  its  available  for  all
+
+three  operating  systems  one  great  thing
+
+about  Scribus  is  that  it  allows  you  to
+
+open  PDF  documents  that  were  originally
+
+created  with  Inkscape  and  manually
+
+change  the  colors  based  on  a  CMYK  color
+
+profile  then  once  youre  done  you  can
+
+export  your  design  as  a  PDF  document  and
+
+you  will  now  have  a  print  ready  document
+
+with  a  CMYK  color  profile  embedded  I
+
+made  an  entire  tutorial  about  how  to  do
+
+this  a  few  years  ago  if  you  want  to
+
+check  that  out  Ill  have  it  linked  into
+
+the  description  of  the  video
+
+much  like  the  Linux  extension  the  upside
+
+of  using  Scribus  is  that  you  can  get  an
+
+editable  vector  format  that  most  print
+
+shops  overwhelmingly  accept  the  downside
+
+though  is  that  this  only  works  on  pure
+
+vector  pads  if  your  design  uses  a  lot  of
+
+Inkscape  specific  features  like  Gaussian
+
+blurs  masking  clipped  objects  filters
+
+and  so  on  theyre  not  going  to  translate
+
+over  to  Scribus  unfortunately  in  that
+
+case  youll  have  to  generate  a
+
+rasterized  PNG  file  and  use  a  different
+
+solution
+
+Krita  is  an  open-source  design
+
+application  that  functions  sort  of  like
+
+a  hybrid  between  Inkscape  and  it
+
+allows  you  to  work  with  and  create
+
+vector  objects  but  it  also  allows  you  to
+
+paint  and  manipulate  images  as  well  one
+
+major  benefit  of  use  in  Krita  is  that  it
+
+has  the  ability  to  export  CMYK  documents
+
+already  built-in  there  is  a  catch  though
+
+you  wont  be  able  to  export  your  design
+
+in  a  vector  format  like  SVG  or  PDF
+
+credit  does  allow  you  to  export  in  these
+
+formats  but  unfortunately  your  document
+
+will  be  forced  into  having  an  RGB  color
+
+profile  Krita  is  ideal  if  you  need  a
+
+flattened  raster  format  like  PNG  jpg  and
+
+TI  F  those  formats  can  be  exported  with
+
+the  CMYK  color  profile  to  do  so  first
+
+export  your  design  from  Inkscape  as  a
+
+PNG  file  then  open  it  up  with  credit
+
+then  navigate  to  image  properties  and
+
+under  the  image  color  space  tab  select
+
+the  CMYK  option  from  the  model  drop-down
+
+from  there  you  can  export  your  design  in
+
+any  restor  format  and  it  will  have  a
+
+print  ready  CMYK  color  profile  embedded
+
+another  way  that  you  can  convert  your
+
+Inkscape  document  to  CMYK  is  to  use  a
+
+web-based  color  conversion  service
+
+theres  a  lot  of  them  out  there  but  the
+
+one  Im  most  familiar  with  would  be  RGB
+
+to  CMYK  org  this  allows  you  to  take  a
+
+PNG  file  that  you  exported  from  Inkscape
+
+and  convert  it  to  either  jpg  or  TI  F
+
+format  with  the  CMYK  color  profile
+
+embedded  the  benefit  of  using  a  site
+
+like  this  is  that  its  quick  and
+
+convenient  and  you  wont  have  to
+
+download  any  additional  software  the
+
+downside  though  is  that  youre  limited
+
+to  only  those  two  formats  and  another
+
+problem  Ive  noticed  with  web-based
+
+converters  like  this  is  that  they  tend
+
+to  produce  inconsistent  results  and  you
+
+dont  get  to  see  how  the  final  design
+
+looks  before  saving  it  Ive  had
+
+instances  where  the  final  design  looks
+
+so  different  from  the  original  in  terms
+
+of  color  that  it  was  hardly  usable
+
+the  final  solution  for  generating  a  CMYK
+
+document  from  your  Inkscape  design  is  to
+
+simply  save  it  as  an  SVG  file  then  open
+
+it  up  with  illustrator  or  affinity
+
+designer  and  correct  the  colors  yourself
+
+personally  I  think  this  is  the  best  way
+
+to  approach  the  CMYK  problem  as  an
+
+Inkscape  user  because  it  gives  you  the
+
+most  control  with  all  of  the  other
+
+methods  I  discussed  youre  basically
+
+just  taking  your  document  and  swapping
+
+out  the  color  profile  without  ever
+
+having  an  opportunity  to  correct  your
+
+colors  once  theyve  been  converted
+
+illustrator  allows  you  to  do  that  though
+
+and  I  have  an  entire  tutorial  about
+
+converting  RGB  colors  to  CMYK  while
+
+maintaining  their  vibrance  on  my  other
+
+channel  if  you  want  to  check  that  out
+
+Ill  have  that  link  in  the  description
+
+as  well  this  is  actually  what  I  do
+
+myself  since  Inkscape  is  the  software
+
+Im  most  familiar  with  its  what  I  use
+
+for  most  of  my  design  work  and  that  does
+
+include  designs  that  are  made  for  print
+
+once  Im  finished  creating  my  design  in
+
+Inkscape  I  simply  open  it  up  with
+
+illustrator  set  the  color  mode  to  CMYK
+
+adjust  the  colors  as  needed  and  then
+
+export  it  to  whatever  format  Id  like
+
+and  thats  another  benefit  of  using  this
+
+approach  youre  not  confined  to  just  PDF
+
+or  just  jpg  you  can  save  your  work  in
+
+any  format  imaginable  and  itll  have  a
+
+CMYK  color  profile  embedded  you  can  even
+
+save  your  work  directly  as  an
+
+illustrator  file  which  believe  it  or  not
+
+some  print  shops  do  require  the  same  can
+
+be  done  with  affinity  designer  as  well
+
+just  open  your  Inkscape  SVG  change  the
+
+document  color  mode  to  CMYK  adjust  your
+
+colors  as  needed  then  save  your  work  to
+
+whatever  format  youd  like  I  understand
+
+that  these  two  applications  are  not  free
+
+and  because  of  that  this  may  not  be  a
+
+feasible  option  for  some  of  you  until
+
+Inkscape  implements  some  kind  of  support
+
+for  CMYK
+
+this  is  the  best  option  we  have  and  I
+
+would  highly  recommend  it  if  you  are  in
+
+a  position  to  acquire  one  of  these  two
+
+programs  if  not  that  any  of  the  other
+
+methods  that  were  discussed  in  this
+
+video  should  work  just  fine  that  should
+
+do  it  for  todays  video  if  you  have  any
+
+questions  leave  a  comment  below  and  as
+
+always  thanks  for  watching
+
+
+

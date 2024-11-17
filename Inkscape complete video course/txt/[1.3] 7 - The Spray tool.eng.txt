@@ -1,0 +1,14 @@
+Now lets place some dots. I will use the Spray tool for this. I start by drawing
+an ellipse, and I will give it an orange color. I right-click on the swatch, and choose: Pin Color.
+Now I copy the ellipse, to place it in memory. Then I select the Spray tool. I click on:
+Spray clones of the selection so I can manipulate the result afterwards.
+I do not want the dots to overlap, so I click on: Prevent overlapping objects.
+The orange circle is the spray area. To make the spray area larger, increase:
+Width. The rest of the values are all maxed out, to get maximum variation.
+When I spray, I see I get very small and very large ellipses. I need the dots to be more
+uniform, so I set Scale to 50. This is better. Also on average, the dots are a bit too large.
+So I press the spacebar, to go to the Select tool. If I make the parent ellipse smaller, the children
+will follow. This is about right. Now I spray over the body. If I dont like a result I click Ctrl-Z,
+and spray again. And I can still change the color. I delete the original. To place the ellipses
+in a group, I right click on one. Then I choose: Select Same > Fill Color. I right-click again, and
+choose: Group. I will call the group: dots. In the next lecture, we will shade the drawing.

@@ -1,0 +1,33 @@
+In this lecture and the next one, we will make a 3D text effect, on a sunburst background.
+We will start by making the sunburst background, using radial gradients.
+I right-click on the canvas, and choose: Document Properties. I set the canvas to landscape.
+I activate Snapping. I click on the Rectangle tool. I drag over the canvas, where it will snap.
+Now lets create a radial gradient. I click on the Fill and Stroke tab. I click on: Radial gradient.
+For the inside color, I pick an orange. And for the outer color, I will select red. I
+want to bring the outer color more to orange. To go from red to orange, I will drag the Hue
+to the right. You can also drag on the outer ring of the color wheel. And for fine-tuning,
+you can click on the plus and minus icons. I cant see the inner gradient color very well,
+so I will drag its Hue more to orange. I also want the color to be a bit lighter. To do this,
+I drag the Lightness. By dragging the endpoints, I can change the dimensions of the radial gradient.
+Now that we have our gradient, lets create the sunburst. I click on the Star/Polygon tool.
+Like the Rectangle and Ellipse tool, the Star tool is a live shape. I can make
+spikes longer and shorter. And I can increase or decrease the amount of spikes. To get a triangle,
+I need three corners. And I need the Spoke ratio to be 0.5. I drag, then press Ctrl,
+and rotate until the triangle points down. To use a Path Effect, it is best to use a regular path.
+To turn a live shape to a regular path, I go to: Path > Object to Path. Now I hold Shift, and drag
+the side in. I drag the triangle to the center, until I see: Cusp node to object midpoint.
+Now I want to copy and rotate the triangle. I click on: Path Effects. From the menu, I choose:
+Rotate copies. I click on the Node tool. I drag the rotation origin point, to the midpoint,
+where it will snap. I want the beams to be larger, so I drag over the points. I select:
+Show transformation handles for selected nodes. I scale the beam, until all beams
+are outside the rectangle. I set Number of copies, to: 28. I hold Shift, and drag a side,
+to adjust the width of the beams. I dont want black, but white transparent beams. So I click on
+the white swatch. Then I go to my layers, to set the opacity. I set Opacity to 50 percent. To get a
+better blending with the gradient, I set the Blend mode to: Soft Light. Now I want to hide the beams,
+that go outside the gradient. I right-click on the gradient, and choose: Set Clip Group. I drag the
+sunburst above the Clip folder. I name the path: beams. And I name the rectangle: gradient.
+Now I want to place some sunlight at the top. I click on the Ellipse tool, and drag an ellipse.
+I click on yellow. I set Blur to: 50 percent. I drag the yellow inside the Clip Group,
+and place it below the beams. I hold Shift and drag the side, so that the yellow covers the top
+of the sunburst. I drag the top and bottom handles, to place the sunlight. I name the
+shape sunlight, and the layer sunburst. In the next lecture, we will create the 3D text.

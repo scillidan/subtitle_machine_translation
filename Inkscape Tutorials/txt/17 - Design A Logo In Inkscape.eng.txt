@@ -1,0 +1,1322 @@
+
+in  this  tutorial  well  be  going  over  how
+
+you  can  create  this  simple  badge  style
+
+logo  using  inkscape  so  Ill  come  over
+
+here  into  a  new  document  and  get  started
+
+the  first  thing  we  want  to  do  is  change
+
+the  size  of  the  canvas  so  that  it  is  a
+
+square  so  Im  going  to  open  up  document
+
+Properties  by  pressing  control  shift  and
+
+D  on  the  keyboard  if  youre  a  Mac  User
+
+that  would  be  command  shift  d  and  I  want
+
+to  change  the  width  and  the  height  so
+
+that  theyre  equal  so  for  my  example
+
+here  I  will  use  800  by  800  and  then  I
+
+will  close  out  of  that  and  then  I  want
+
+to  zoom  into  100  %  so  Im  going  to  press
+
+one  on  the  keyboard  to  zoom  into  100%
+
+and  now  Im  going  to  create  a  circle  to
+
+place  in  the  middle  of  the  canvas  here
+
+which  we  will  wrap  the  text  around  so
+
+Im  going  to  grab  the  circles  and
+
+ellipses  tool  Ill  click  and  drag  to
+
+create  a  circle  Im  going  to  hold  the
+
+control  key  while  I  do  that  so  its  nice
+
+and  perfectly  round  and  Ill  make  it
+
+about  that  big  relative  to  the  size  of
+
+the  canvas  and  I  want  to  convert  this  to
+
+a  path  so  Ill  come  up  here  to  where  it
+
+says  object  and  I  will  go  to  no  Im
+
+sorry  Ill  go  to  path  and  I  will  select
+
+object  to  path  and  then  I  want  to  send
+
+Center  this  directly  on  the  canvas  so  I
+
+will  open  up  the  aligned  distribute  menu
+
+by  going  to  object  and  selecting  aligned
+
+distribute  and  from  this  drop  down  over
+
+here  I  want  to  choose  page  and  now  that
+
+we  are  aligning  this  relative  to  the
+
+page  I  want  to  align  this  on  the
+
+vertical  and  the  horizontal  axis  were
+
+selecting  the  center  options  there  and
+
+now  its  perfectly  uh  centered  on  the
+
+canvas  like  that  so  now  Im  going  to
+
+create  some  text  to  put  on  the  circle
+
+let  me  grab  my  selection  tool  first  Im
+
+gon  to  adjust  the  size  of  this  a  little
+
+bit  Im  going  to  hold  control  and  shift
+
+and  scale  this  down  a  little  bit  because
+
+the  text  is  going  to  be  placed  up  here
+
+and  then  down  here  as  well  so  I  want  to
+
+leave  some  room  around  the  edges  of  the
+
+canvas  so  that  I  have  enough  room  for
+
+that  and  now  Im  going  to  create  the
+
+text  to  be  placed  on  the  circle  here  so
+
+Ill  grab  the  text  tool  which  is  located
+
+over  here  and  I  will  click  on  the  canvas
+
+to  create  some  text  Im  going  to  write
+
+for  this  demonstration  Im  just  going  to
+
+write  inkscape  for  the  top  line  of  text
+
+were  going  to  create  two  different  text
+
+items  one  for  the  top  line  that  goes
+
+along  the  top  of  the  circle  and  another
+
+text  item  that  goes  along  the  bottom  so
+
+Im  going  to  write  inkscape  here  Im
+
+going  to  change  this  font  to  something
+
+else  Im  going  to  go  to  text  and  select
+
+text  and  font  and  from  this  editor  I
+
+will  choose  a  different  font  to  work
+
+with  you  can  work  whatever  work  with
+
+whatever  font  youd  like  for  this  uh
+
+design  I  like  the  monserat  font  uh  which
+
+is  a  free  font  if  you  want  to  download
+
+and  install  that  otherwise  you  can  use
+
+whatever  font  youd  like  and  now  I  want
+
+to  put  some  spacing  between  these
+
+letters  so  let  me  come  up  here  to  where
+
+it  says  spacing
+
+and  I  want  to  add  this  I  want  to  add
+
+like  three  to  this  value  Ill  try  Ill
+
+start  off  with  three  and  then  well  take
+
+it  from  there  and  we  want  to  make  sure
+
+that  this  text  is  centered  so  come  over
+
+here  to  the  alignment  option  and  Center
+
+it  like  that  now  its  not  going  to
+
+visibly  change  but  its  important  for
+
+what  were  going  to  do  next  placing  it
+
+on  the  circle  so  let  me  grab  my
+
+selection  tool  now  Im  just  going  to
+
+bring  the  text  over  here  to  the  circle
+
+and  just  try  to  eyeball  the  size  of  it
+
+as  it  is  right  now  its  going  to  be
+
+wrapped  around  the  top  side  of  this
+
+circle  so  you  may  want  to  make  it  a
+
+little  bigger  or  smaller  depending  on
+
+the  size  of  your  circle  and  Im  holding
+
+in  control  and  shift  while  I  scale  like
+
+this  so  it  scales  it  evenly  from  the
+
+center  and  Ill  make  my  text  about  that
+
+big  and  now  I  will  duplicate  this  I  will
+
+right  click  it  and  go  to
+
+duplicate  and  I  will  make  this  one  Ill
+
+make  this  one  the  bottom  line  of  text
+
+that  I  want  down  here  so  let  me  go  back
+
+to  my  text  tool  and  I  will  change  this
+
+one  to  logo
+
+design  and  now  what  we  can  do  is  let  me
+
+adjust  this  the  spacing  between  this  one
+
+let  me  just  make  sure  thats  equal  okay
+
+this  ones  a  little  larger  Im  going  to
+
+adjust  this  I  want  to  make  sure  thats
+
+even  for  both  of  these  I  want  both  of
+
+these  to  be  the  same  amount  of
+
+spacing  there  we
+
+go  and  now  Im  going  to  take  this  text
+
+item  right  here  Im  going  to  select  it
+
+hold  shift  select  the  circle  and  with
+
+them  both  selected  go  to  text  and  select
+
+put  on  path  and  now  click  off  of  it  to
+
+deselect  everything  and  then  click  on
+
+just  the  circle  click  on  it  again  to  get
+
+the  rotation  handles  and  then  hold  your
+
+control  key  and  grab  the  rotation  handle
+
+in  the  corner  then  there  and  rotate  it
+
+around  until  the  text  is  upright  like
+
+that  and  now  Im  going  to  change  the
+
+color  of  this  so  let  me  make  this  a
+
+lighter  shade  of  gray  something  like
+
+that  so  I  just  so  I  can  see  the  text  a
+
+little  better  up  against  the  uh  the
+
+canvas  there  and  what  Ill  do  now  is  Im
+
+going  to  create  another  Circle  for  the
+
+bottom  line  of  text  so  let  me  deselect
+
+that  by  clicking  off  of  it  let  me  move
+
+this  out  of  the  way  Im  going  to  create
+
+another  another  Circle  let  me  grab  my
+
+circles  and  ellipses  tool  click  and  drag
+
+to  create  a  circle  hold  the  control  key
+
+and  I  want  this  circle  to  be  bigger  so
+
+Ill  make  this  one  bigger  and  Ill  make
+
+this  one  A  different  shade  that  from  the
+
+other  Circle  Ill  make  this  one  maybe  a
+
+darker  gray  and  then  Ill  take  this  one
+
+I  want  to  lower  this  to  the  bottom  so
+
+Ill  click  this  button  right  here  that
+
+says  lower  to  the  bottom  and  Im  going
+
+to  Center  this  on  the  page  as  well  so
+
+let  me  come  back  over  here  to  my
+
+alignment  menu  and  I  will  Center  this
+
+vertically  and  horizontally  and  now  Im
+
+going  to  scale  down  this  circle  Im
+
+going  to  grab  this  Arrow  right  here  and
+
+hold  control  and  shift  and  scale  it  down
+
+until  the  top  of  the  circle  touches  the
+
+top  of  that  line  of  text  right  there  and
+
+now  Im  going  to  convert  this  to  a  path
+
+by  going  to  path  and  selecting  object  to
+
+path  and  now  Im  going  to  grab  my  text
+
+item  right  here  and  Ill  do  the  same
+
+thing  that  I  did  previously  Im  going  to
+
+hold  shift  Im  going  to  click  on  the
+
+larger  Circle  this  time  and  go  to  text
+
+and  SE  select  put  on
+
+path  click  off  of  it  to  deselect  select
+
+just  the  large  Circle  click  on  it  again
+
+to  get  the  rotation  handles  and  rotate
+
+this  around  while  holding  control  until
+
+its
+
+upright  and  now  we  just  want  to  flip  the
+
+circle  so  Im  going  to  come  over  here  to
+
+where  it  says  flip  vertical  and  click  on
+
+that  and  now  we  have  the  text  down  there
+
+like  that  so  what  we  can  do  at  this
+
+point  is  we  can  adjust  the  circles  to
+
+make  sure  that  this  text  fills  up  as
+
+much  area  as  we  want  it  to  fill  up  so  if
+
+you  notice  right  now  theres  a  lot  of
+
+empty  space  on  this  side  of  the  circle
+
+on  both  sides  between  the  two  text  items
+
+lets  say  you  want  to  close  that  in  a
+
+bit  Im  going  to  select  both  circles  you
+
+can  do  that  by  holding  shift  and
+
+clicking  on  each  and  then  Im  going  to
+
+hold  control  and  shift  and  scale  them
+
+down  like  like  this  and  if  you  notice
+
+you  can  decrease  the  space  between  the
+
+words  or  you  can  increase  the  space
+
+between  the  words  whatever  works  best
+
+for  your  uh  however  you  have  things
+
+arranged  right  now  I  want  to  leave  some
+
+space  in  there  because  were  going  to
+
+put  were  going  to  be  putting  these  uh
+
+these  little  tails  on  the  end  here  so
+
+Im  going  to  leave  a  little  bit  of  space
+
+for  that  and  Im  going  to  leave  that
+
+just  as  it  is  and  now  Im  just  going  to
+
+adjust  my  circles  to  make  up  for  the  uh
+
+Missing  space  there  because  if  you
+
+notice  this  is  uh  the  larger  Circle  here
+
+is  no  longer  aligned  with  the  other  text
+
+there  we  go
+
+and  that  looks  a  little  better  and  Im
+
+going  to  increase  the  spacing  between
+
+these  letters  down  here  because  these
+
+letters  look  a  little  closer  together
+
+than  these  ones  do  just  because  of  the
+
+Contour  of  the  circle  thats  just  how  it
+
+works  so  let  me  grab  my  text  tool  let  me
+
+select  all  of  the  text  Ill  come  over
+
+here  to  my  spacing  and  Ill  put  a  little
+
+more  spacing  in  there  maybe  for  this  one
+
+Ill  try  five  and  that  looks  a  lot
+
+better  so  what  were  going  to  do  now
+
+once  youre  happy  with  your  text  and  the
+
+placing  and  the  spacing  between
+
+everything  Click  on  each  of  these
+
+circles  and  lets  turn  off  the  fill
+
+color  Al  together  so  select  it  and  then
+
+come  over  here  to  this  red  X  and  click
+
+on  that  and  Ill  do  the  same  thing  Ill
+
+come  over  here  to  this  circle  and  click
+
+on  the  Red  X  over  here  now  from  this
+
+point  forward  its  important  to  remember
+
+that  this  these  text  items  are  linked  to
+
+the  invisible  circles  that  theyre
+
+placed  on  so  try  not  to  click  or  drag
+
+any  of  these  text  items  out  of  the  way
+
+otherwise  youre  going  to  mess  up  the
+
+balance  of  everything  and  if  at  any
+
+point  you  need  to  go  back  to  those
+
+circles  and  adjust  things  if  you  notice
+
+you  cant  click  on  those  circles  now
+
+because  theyre  invisible  you  can  get  to
+
+them  by  going  to  view  and  going  to
+
+display  mode  and  selecting  outline  and
+
+once  you  can  see  the  outlines  then  you
+
+can  click  on  them  and  select  them  thats
+
+just  in  case  you  need  to  go  back  and
+
+edit  this  at  all  though  so  Im  happy
+
+with  how  it  is  so  Im  going  to  go  back
+
+to  my  regular  display  mode  Ill  go  to
+
+view  Ill  go  to  display  mode  and  select
+
+normal  and  now  Im  going  to  create  these
+
+Rings  going  around  either  side  of  the
+
+text  here  so  let  me  come  back  in  here
+
+Im  going  to  go  back  to  my  circles  and
+
+ellipses
+
+tool  click  and  drag  to  create  a  circle
+
+ircle  Im  going  to  hold  control  so  we
+
+have  a  perfectly  round  circle  and  I  want
+
+to  get  rid  of  the  fill  color  and  I  want
+
+to  add  a  black  stroke  so  Im  going  to
+
+hold  shift  and  click  on  the  black  color
+
+over  here  and  then  I  will  grab  my
+
+selection  tool  and  I  will  Center  this  on
+
+the  page  as  well  and  now  I  just  want  to
+
+scale  this  down  so  that  it  encompasses
+
+the  text  there  like  that  and  what  Im
+
+going  to  do  now  is  Im  going  to  come  up
+
+here  to  this  option  where  it  says  when
+
+scaling  objects  scale  the  stroke  width
+
+by  the  same  proportion  make  sure  you
+
+have  that  deselected  if  you  have  it  in
+
+right  now  go  ahead  and  disable  that  and
+
+now  Ill  come  over  here  to  my  well
+
+actually  I  want  to  open  the  fill  and
+
+stroke  menu  so  Ill  come  up  here  to
+
+where  it  says  object  and  go  to  fill  in
+
+stroke  and  I  want  to  click  on  the  stroke
+
+style  Tab  and  I  want  to  change  the  size
+
+or  the  weight  of  this  stroke  so  that
+
+its  kind  of  consistent  with  the  text
+
+there  it  already  looks  like  a  pretty
+
+good  size  as  it  is  but  maybe  a  little
+
+smaller  it  would  look  better  so  Im
+
+going  to  try  eight  and  see  how  that
+
+looks  maybe
+
+nine  okay  nine  looks  good  so  Ill  leave
+
+that  as  it  is  and  now  Im  going  to  right
+
+click  this  and  go  to  duplicate  and  then
+
+Ill  hold  control  and  shift  and  scale
+
+this  down  so  that  we  have  this  ring  on
+
+the  inside  here  and  if  you  notice  as  I
+
+scale  this  down  the  stroke  weight  stays
+
+the  same  size  thats  why  we  disabled
+
+that  option  up  there  so  let  me  make  this
+
+a  little  bigger  what  Im  looking  at  here
+
+is  the  spacing  between  the  bottom  and
+
+the  top  here  we  want  to  make  sure
+
+theres  about  an  equal  amount  of  padding
+
+between  each  of  between  each  of  those
+
+there  we  go  that  looks  pretty  good  let
+
+me  zoom  out  and  now  what  Im  going  to  do
+
+is  Im  going  to  create  this  little  uh
+
+this  little  side  ring  that  you  see  going
+
+along  the  side  here  so  let  me  zoom  out
+
+let  me  come  back  over  here  and  Im  going
+
+to  duplicate  this  again  Im  going  to
+
+right  click  it  and  go  to  duplicate  and
+
+hold  control  and  shift  and  scale  this
+
+down  so  that  its  going  about  halfway
+
+through  these  other  two  rings  right  here
+
+and  thats  looking  good  okay  so  now  I
+
+just  want  to  keep  these  portions  of  the
+
+Ring  I  want  to  clip  off  the  parts  where
+
+theyre  going  through  the  text  so  let  me
+
+grab  my  rectangle  tool  and  let  me  click
+
+and  drag  to  draw  a  rectangle  going
+
+through  the  area  of  that  ring  that  Id
+
+like  to  keep  let  me  change  the  color  of
+
+this  let  me  bring  down  its  opacity  so  I
+
+can  see  through  it  and  Ill  come  over
+
+here  to  my  selection  tool  and  Im  just
+
+going  to  adjust  this  if  you  notice  the
+
+top  of  the  rectangle  is  going  right  here
+
+where  that  text  begins  and  I  want  the
+
+same  thing  down  here  about  the  same
+
+about  the  same
+
+amount  and  once  you  do  that  you  can  hold
+
+shift  and  click  on  the  ring  so  you  have
+
+both  the  ring  and  the  rectangle  selected
+
+and  go  to  path  and  select
+
+cut  path  and  then  click  off  of  it  to
+
+deselect  everything  and  now  you  could
+
+take  the  top  half  of  this  ring  press
+
+delete  to  get  rid  of  it  and  the  same
+
+thing  down  here  click  on  that  press
+
+delete  to  get  rid  of  it  and  if  you
+
+notice  my  Strokes  right  here  have
+
+rounded  caps  on  the  end  of  them  if  yours
+
+are  squared  and  you  want  to  make  them
+
+rounded  like  mine  just  come  over  here
+
+into  the  stroke  style  Tab  and  you  can
+
+see  the  cap  setting  by  default  is  set  to
+
+rounded  if  I  make  it  Square  we  get  that
+
+effect  right  there  but  I  like  how  it
+
+looks  better  rounded  so  Im  going  to  put
+
+that  back  to
+
+rounded  and  now  were  going  to  create
+
+these  little  ribbons  on  the  end  here  or
+
+these  little  Tails  whatever  you  want  to
+
+call  them  so  let  me  come  back  in  here
+
+and  try  to  remember  what  this  value  is
+
+the  size  of  your  stroke  the  size  of  the
+
+stroke  should  be  the  same  for  the  entire
+
+design  so  Im  working  with  a  nine  pixel
+
+stroke  for  my  design  so  I  want  to  make
+
+sure  that  everything  that  I  create  from
+
+here  on  out  also  has  a  nine  pixel  stroke
+
+so  let  me  grab  my  rectangle  tool  Im
+
+going  to  click  and  drag  over  this  area
+
+of  the  circle  where  I  want  that  Banner
+
+to
+
+be  and  Im  going  to  convert  this  to  a
+
+path  I  will  go  to  path  and  select  object
+
+to
+
+path  Ill  grab  my  selection  tool  Ill
+
+come  back  over  here  to  my  alignment  menu
+
+and  I  want  to  make  sure  that  this  is
+
+aligned  vertically  and  horizontally  as
+
+well  and  Ill  make  this  one  maybe  a
+
+little
+
+smaller  there  we  go  let  me  adjust  the
+
+alignment  Im  going  to  remove  the  fill
+
+color  Im  going  to  hold  shift  and  click
+
+on  the  color  black  to  add  that  stroke  on
+
+there  and  again  I  want  this  stroke  to  be
+
+the  same  weight  as  the  other  Strokes  I
+
+can  already  tell  that  this  is  larger  so
+
+let  me  come  back  over  here  to  my  fill
+
+and  stroke  menu  and  Im  going  to  change
+
+this  back  to
+
+nine  and  now  were  going  to  put  little
+
+indents  on  the  ends  here  so  let  me  grab
+
+my  nodes  tool  Ill  click  and  drag  over
+
+these  two  nodes  and  Ill  click  this
+
+button  up  here  that  says  insert  new
+
+nodes  into  selected
+
+segments  and  thats  going  to  put  a  new
+
+node  in  there  and  Ill  do  the  same  thing
+
+over  here  Ill  select  these  two  and  I
+
+will  add  a  new  node  in  there  and  now  I
+
+just  want  to  click  and  drag  over  those
+
+two  middle  nodes  that  I  just  have  those
+
+two  Center  nodes  selected  and  I  will
+
+enable  this  option  up  here  in  the  tool
+
+settings  menu  that  says  show
+
+transformation  handles  for  selected
+
+nodes  and  when  I  click  on  that  you  can
+
+see  we  now  have  these  transformation
+
+handles  Im  going  to  click  and  drag  on
+
+this  Arrow  Im  going  to  hold  control  and
+
+shift  and  scale  this  in  like  that  so
+
+that  it  scales  from  both  sides  and  we
+
+end  up  with  that  sort  of  effect  right
+
+there  and  now  I  will  disable  this
+
+setting  and  go  back  to  my  selection
+
+tool  and  Im  just  going  to  adjust  the
+
+height  of  this  Im  going  to  make  this  a
+
+little  smaller  height-wise  because  I
+
+notice  not  much  of  this  part  of  the
+
+design  is  sticking  out  there  and  Id
+
+like  to  see  more  of  that  so  Im  going  to
+
+adjust  this  height  accordingly  and  I
+
+will  Center  that  and  now  we  just  got  to
+
+clip  out  these  areas  from  here  if  you
+
+notice  we  removed  all  of  these  unwanted
+
+areas  so  lets  go  back  and  do  all  of
+
+that  uh  what  Im  going  to  do  is  first
+
+Im  going  to  select  Im  going  to  select
+
+these  the  smaller  ring  in  the  center  in
+
+the  center  here  I  will  right  click  that
+
+and  go  to  duplicate  and  then  hold  shift
+
+and  click  on  that  rectangle  and  go  to
+
+path  and
+
+select  cut
+
+path  and  now  we  can  click  off  of  it  to
+
+deselect  and  we  can  just  get  rid  of
+
+these  pieces  on  the  inside  here  and  now
+
+Im  going  to  come  over  here  Im  going  to
+
+select  this  object  right  click  go  to
+
+duplicate  hold  shift  click  on  this  path
+
+right  here  and  go  to  path  and  select  cut
+
+path  and  then  I  can  get  rid  of
+
+that  and  then  one  more  time  I  will  do
+
+the  same  thing  to  the  larger  ring  now  so
+
+Ill  take  this  object  right  click  it  go
+
+to  duplicate
+
+hold  shift  click  on  the  larger  ring  go
+
+to  path  and  select  cut  path  and  now  I
+
+can  get  rid  of  this  as  well  now  if  you
+
+notice  over  here  this  stroke  is  sticking
+
+out  you  could  barely  see  it  but  theres
+
+a  tiny  little  bump  sticking  out  there  uh
+
+you  can  adjust  that  by  grabbing  your
+
+nodes  tool  and  selecting  it  and  then
+
+just  moving  it  over  a  little  bit  Im
+
+going  to  hold  control  while  I  do  that  to
+
+make  sure  it  does  not  leave  the
+
+horizontal  axis  and  then  Ill  just  move
+
+it  in  a  little  bit  there  we  go  that
+
+looks  better  and  Ill  do  the  same  thing
+
+over  here  Ill  click  on  this  node  and
+
+then  just  hold  control  and  move  that  in
+
+like  that  and  now  Im  going  to  repeat
+
+this  process  over  here  on  this  side  so
+
+let  me  go  back  to  my  selection  tool  make
+
+a  duplicate  of  this  one  instead  of  right
+
+clicking  and  going  to  duplicate  you  can
+
+just  press  contrl  D  on  your  keyboard  or
+
+command  D  if  youre  using  Mac  to
+
+duplicate  it  hold  shift  click  on  this
+
+stroke  go  to  path  and  select  cut  path
+
+get  rid  of  that  piece  right  there  and  I
+
+will  do  the  same  thing  one  more  time  Im
+
+going  to  duplicate  that  hold  shift  click
+
+on  the  circle  and  we  will  cut  the  path
+
+and  get  rid  of  that  and  there  we  go  so
+
+now  Im  going  to  press  one  of  the
+
+keyboard  to  zoom  out  to
+
+100%  And  if  you  notice  the  way  I  created
+
+this  these  ribbons  are  sticking  out  from
+
+the  circle  a  little  too  far  from  my
+
+liking  so  if  you  want  to  adjust  this
+
+just  go  to  your  nodes  tool  and  select
+
+the  object  and  just  select  these  nodes
+
+right  here  let  me  try  that
+
+again  there  we  go  now  you  can  use  your
+
+left  and  right  arrow  keys  to  move  this
+
+in  so  Im  going  to  move  this  in  one  two
+
+three  and  Ill  come  over  here  just  for
+
+the  sake  of  symmetry  you  want  to  do  the
+
+same  thing  over  here  Im  going  to  select
+
+these  ones  and  move  them  in  three  steps
+
+as  well  so  one  two  three  and  Im  just
+
+pressing  my  arrow  keys  to  do
+
+that  so  now  I  will  create  some  text  to
+
+place  in  here  if  you  notice  on  this
+
+design  I  just  placed  the  year  in  there
+
+2023  Ill  just  write  that  Ill  just
+
+write  the  same  thing  in  there  for  the
+
+sake  of  this  tutorial  obviously  you
+
+would  want  to  write  whatever  you  want  in
+
+there  so  Im  going  to  write
+
+20  let  me  change  the  text  style  of  that
+
+let  me  find  my  original  font  that  I  was
+
+working  with
+
+there  we  go  and  let  me  bring  this  in
+
+here  like
+
+that  scale  that  down  a  little  bit  so  it
+
+fits  select  both  we  want  to  select  both
+
+objects  there  go  to  the  alignment  menu
+
+and  now  were  going  to  change  the
+
+relative  to  last  selected  and  then
+
+Center  that  on  the  horizontal  axis  and
+
+then  Ill  duplicate  this  Ill  press
+
+command  D  or  control  D  and  then  just
+
+bring  this  over  here  again  holding  the
+
+control  key  while  I  slide  this  over  so
+
+it  stays  on  that  horizontal  plane  and  I
+
+will  change  this  one  to
+
+23  Ill  just  move  that  over  a  little  bit
+
+more  and  if  you  notice  over  here  thing
+
+this  part  of  the  stroke  is  sticking  out
+
+a  little  bit  as  well  so  let  me  grab  my
+
+nodes  tool  and  just  make  a  quick  little
+
+adjustment
+
+there  there  we  go  and  this  side  looks
+
+good  although  theres  a  tiny  bit
+
+sticking  out  there  let  me  select  just
+
+that  node  and  bring  that  out  there  we  go
+
+that  looks
+
+better  and  now  what  we  want  to  do  is  the
+
+design  itself  is  is  finished  but  if  you
+
+want  to  color  everything  in  and  stylize
+
+it  were  going  to  have  to  make  a  few
+
+adjustments  here  so  the  first  thing  I
+
+want  to  do  is  select  all  of  the  items
+
+that  are  Strokes  so  Im  going  to  hold
+
+shift  and  click  on  each  of  these  Rings
+
+remember  you  got  to  you  got  to  select
+
+the  top  and  the  bottom  half  of  the  Ring
+
+because  those  are  broken  up  now  and  I
+
+want  to  select  these  pieces  down  here
+
+and  this  piece  over  here  as  well  Ill
+
+select  these  pieces  were  basically
+
+selecting  everything  except  for  the  text
+
+items  and  with  them  all  selected  we  want
+
+to  merge  them  all  together  or  com  Bine
+
+them  rather  well  go  to  path  and  we  will
+
+select  uh  were  looking  for  combine
+
+right  here  and  once  theyre  combined  you
+
+can  change  the  stroke  color  so  let  me
+
+come  over  here  to  my  fill  in  stroke  tab
+
+Ill  go  to  the  stroke  paint  Tab  and  we
+
+can  make  this  a  different  color  Im
+
+going  to  make
+
+this  a  dark  shade  of  blue  like  I  did  in
+
+the
+
+thumbnail  and  now  Im  going  to  make  the
+
+text  the  same  color  so  Im  going  to
+
+select  the  text  items  Im  holding  shift
+
+while  I  do  this  and  I  want  to  go  to  my
+
+dropper  which  is  over  here  and  I  will
+
+just  sample  a  selection  of  this  blue
+
+right  there  and  now  thats  the  same
+
+color  let  me  go  to  the  circles  and
+
+ellipses  tool  and  click  and  drag  to
+
+create  a  circle  and  I  will  make  this  one
+
+a  different  color  Ill  make  this  Im
+
+going  to  use  the  colors  that  I  used  over
+
+here  for  this  thumbnail  Ill  make  this
+
+part  yellow  this  part  blue  and  this  part
+
+A  light  shade  of  red  so  Ill  come  back
+
+in  here  grab  my  selection  tool  Ill  make
+
+this  one  a  lighter  shade  of  yellow  Ill
+
+send  this  to  the
+
+back  and  come  back  over  here  to  my
+
+aligned  distribute  menu  set  this  back  to
+
+page  and  now  I  want  to  Center  this  on
+
+the  page  and  I  will  just  scale  this  up  a
+
+little  bit  Im  going  to  hold  control  and
+
+shift  while  Im  scaling  that  up  and  we
+
+want  this  to  fill  in  the  circle  but  we
+
+dont  want  it  to  extend  beyond  the
+
+circle  so  we  want  it  placed  within  the
+
+boundary  of  that  stroke  there  and  then  I
+
+will  duplicate  this  Ill  press  control  D
+
+to  duplicate  it  and  Ill  make  this  one  a
+
+lighter  shade  of  blue  let  me  just  adjust
+
+that  color  a  little  bit  so  we  have  a
+
+different
+
+shade  and  Ill  lower  this  one  down  a  few
+
+steps  oh  we  dont  want  it  that  far  let
+
+me  raise  it  one  more  we  want  it  to  be
+
+above  the  yellow  one  and  then  Ill  just
+
+hold  control  and  shift  and  scale  this
+
+down  so  that  its  in  there  now  and  then
+
+finally  all  we  have  to  do  now  is  fill  in
+
+these  areas  so  to  do  this  Im  just  going
+
+to  grab  my  my  pen  tool  which  is  located
+
+over  here  or  you  could  press  B  on  the
+
+keyboard  to  access  it  and  make  sure  you
+
+have  the  correct  setting  here  we  want
+
+this  setting  right  here  and  Im  just
+
+going  to  click  to  create  points  going
+
+through  here
+
+and  draw  a  shape  that  matches  the  shape
+
+of  this  object  here  and  let  me  make  that
+
+a  lighter  shade  of  red  like  that  Im
+
+going  to  remove  The  Stroke  by  holding
+
+shift  and  clicking  the  X  grab  the
+
+selection  tool  and  I  will  lower  this  a
+
+few  steps  until  its  beneath  everything
+
+there  we  go  looking  good  and  now  Im
+
+just  going  to  instead  of  drawing  another
+
+shape  over  here  Im  just  going  to
+
+duplicate  this  and  flip  it  so  Ill  press
+
+controll  D  I  will  flip  it  on  the
+
+horizontal  axis  and  then  just  bring  this
+
+over  here  and  I  will  lower  this  down  as
+
+well  and  now  at  this  point  you  can  you
+
+can  import  your  own  graphic  or  your  own
+
+icon  or  whatever  you  want  to  put  in
+
+there  uh  for  this  this  demonstration  I
+
+just  used  the  inkscape  logo  Im  not
+
+going  to  go  through  that  and  do  that
+
+again  its  already  there  but  you  get  the
+
+idea  you  can  now  put  whatever  you  want
+
+in  there  and  once  youre  finished  uh  and
+
+youre  happy  with  everything  you  can
+
+either  save  this  design  as  it  is  right
+
+now  or  you  can  select  the  text  if  you
+
+select  the  text  and  go  to  path  object  to
+
+path  you  can  now  edit  the  design  so  let
+
+me  go  and  convert  this  to  object  to  path
+
+and  now  I  can  select  everything  and  I
+
+can  move  it  around  and  resize  it  if  I
+
+want  if  you  try  moving  moving  it  around
+
+and  resizing  it  before  converting  that
+
+text  to  a  path  then  youre  going  to  lose
+
+the  text  on  the  path  its  not  going  to
+
+be  wrapped  around  that  Circle  anymore  uh
+
+but  the  downside  is  is  once  you  do  that
+
+now  you  cant  edit  the  text  anymore  so
+
+make  sure  you  dont  do  that  until  youre
+
+completely  happy  with  how  the  text  looks
+
+and  lets  say  for  example  you  want  to
+
+scale  this  up  a  little  bit  Im  going  to
+
+hold  control  Im  going  to  scale  this  up
+
+its  going  to  make  those  Strokes  look  a
+
+little
+
+smaller  because  the  weight  of  them  is
+
+fixed  relative  to  the  size  and  once
+
+youre  happy  with  that  as  well  you  can
+
+turn  this  setting  back  on  that  says  uh
+
+scaling  objects  scale  the  stroke  width
+
+by  the  same  proportion  and  Ill  just
+
+group  everything  together  I  will  go  to
+
+object  and  select  group  and  there  you  go
+
+now  you  can  scale  this  and  edit  it
+
+however  you  want  now  you  have  a  simple
+
+logo  that  you  can  work  with  so  thats
+
+how  you  can  go  about  creating  that  logo
+
+with  inkscape  if  you  have  any  questions
+
+let  me  know  and  as  always  thanks  for
+
+watching  if  you  found  this  lesson  useful
+
+then  consider  checking  out  my  inkscape
+
+master  class  its  a  collection  of  over
+
+60  videos  where  I  go  over  all  of  the
+
+tools  and  features  in  inkscape  and  I
+
+explain  what  they  are  and  demonstrate
+
+how  they  work  kind  of  like  how  I  did  in
+
+this  video  we  even  have  a  private
+
+Community  where  you  can  ask  questions
+
+and  get  help  from  me  anytime  you  want
+
+and  best  of  all  theres  no  monthly
+
+members  ship  fees  you  just  pay  $17  one
+
+time  and  youre  in  for  Life  Ill  have
+
+some  information  about  that  down  below
+
+if  you  want  to  check  that  out  as  always
+
+thanks  for
+
+
+
+watching

@@ -1,0 +1,1191 @@
+
+
+
+this  is  nick  with  logosbynic.com  and  in
+
+this  tutorial  ill  be  demonstrating  how
+
+you  can  create  this  vector  dice
+
+illustration
+
+using  inkscape  and  if  youd  like  to
+
+learn  more  about  how  inkscape  works  be
+
+sure  to  check  out  my  inkscape  master
+
+class
+
+its  a  collection  of  over  60  videos
+
+where  i  go  over  all  of  the  tools  and
+
+features  in  inkscape
+
+and  i  explain  what  they  are  and
+
+demonstrate  how  they  work  ill  have  a
+
+link  in  the  description  of  the  video  if
+
+you  want  to  check  that  out
+
+so  to  get  get  us  started  here  in
+
+inkscape  the  first  thing  we  want  to  do
+
+is  set  up  our  documents  so  that  we  are
+
+all  working  with  a  similar  workflow
+
+to  do  that  well  come  up  here  to  where
+
+it  says  view  make  sure  you  have  custom
+
+selected
+
+and  then  well  come  up  here  to  where  it
+
+says  zoom  and  zoom  in  at  one  to  one
+
+and  then  up  here  in  the  snapping  menu  i
+
+just  want  to  click  this  icon  over  here
+
+to  the  top  left  that  says  enable
+
+snapping  as  you  can  see  i  already  have
+
+it  enabled
+
+and  these  are  the  options  were  going  to
+
+want  enabled  for  this  tutorial  right
+
+here  where  it  says
+
+snap  nodes  pads  and  handles  enable  that
+
+and  then  over  here  where  it  says
+
+snap  to  cusp  nodes  and  then  right  next
+
+to  it  where  it  says  snap  to  smooth  nodes
+
+and  once  weve  done  that  im  going  to
+
+open  up  the  align  and  distribute  menu
+
+with  this  icon
+
+over  here  or  you  can  press  ctrl  shift  a
+
+where  it  says  relative  to  i  want  to  set
+
+that  to  last  selected
+
+and  then  ill  open  up  the  um  fill  and
+
+stroke  menu  over  here  with  this  icon  or
+
+you  can  press  ctrl
+
+shift  and  f  on  your  keyboard  to  get  that
+
+open  so  once  we  have  that  open  the  first
+
+thing  we  want  to  do  is  create  a  polygon
+
+so  im  going  to  come  over  here  to  the
+
+stars  and  polygons  tool
+
+and  over  here  from  these  settings  i  want
+
+to  choose  polygon  rather  than  star
+
+where  it  says  corners  i  want  to  make
+
+sure  we  have  six  and  then  rounded  and
+
+randomized  both  set  to  zero  as  you  can
+
+see  i  already  have  these  values
+
+set  beforehand  you  will  probably  have  to
+
+change  these  manually  so  go  ahead  and
+
+type  those  in
+
+and  once  you  do  that  just  click  and  drag
+
+on  the  canvas  to  create  a  polygon  im
+
+going  to  hold  ctrl
+
+and  then  click  and  drag  the  mouse  up
+
+like  that  so  that  it  creates  the  polygon
+
+where  the  points
+
+are  going  vertically  as  opposed  to
+
+horizontally
+
+that  right  there  is  what  were  looking
+
+for  once  weve  done  that  im  going  to
+
+take  this  move  this  towards  the  center
+
+of  the  page
+
+i  want  to  bring  the  opacity  of  this  down
+
+a little  bit  im  going  to  take  this
+
+opacity  over  here  and  just  drop  that
+
+down  roughly  in  half  and  im  going  to
+
+scale  this  down  a little  bit  im  going
+
+to  hold  ctrl  and  shift
+
+and  just  click  and  drag  to  scale  that
+
+down
+
+what  i  want  to  do  now  is  duplicate  so
+
+im  going  to  right  click  this  and  go  to
+
+duplicate
+
+and  im  going  to  click  and  drag  this  up
+
+here  until  these  two  corners  snap  so  we
+
+get  something  like  this  here  where
+
+theres  this  diamond  shape  intersecting
+
+between  the  two  of  them
+
+and  i  want  to  make  this  red  just  so  we
+
+can  differentiate  it  from  the  original
+
+then  i  want  to  duplicate  that  object
+
+again  im  going  to  right  click  that  and
+
+go  to  duplicate
+
+come  over  here  snap  this  over  to  the
+
+left  side  over  here
+
+and  then  do  that  one  more  time  right
+
+click  duplicate
+
+and  snap  this  one  over  to  this  right
+
+side  like  that  and  with  this  red
+
+polygon  still  selected  im  going  to  go
+
+to  edit
+
+select  same  and  click  on  fill  color
+
+its  going  to  select  all  of  the  objects
+
+on  your  canvas  that  have  the  same
+
+red  fill  which  is  these  three  objects
+
+right  here  and  i  want  to  combine  those
+
+together  by  going  to  path
+
+combine  and  once  weve  done  that  i  just
+
+want  to  click  and  drag  over
+
+the  entire  thing  entirely  like  that  so
+
+we  have  everything  selected  including
+
+the  red
+
+object  and  the  original  polygon  in  there
+
+and  then  go  to  path
+
+division  and  whats  going  to  happen
+
+after  you  do  that  you  can  click  off  of
+
+the  graphic  to  deselect  everything
+
+youll  notice  this  has  been  broken  up
+
+into  three  individual  parts  here  so  let
+
+me  just  undo  that  by  hitting  ctrl
+
+z  now  what  im  going to  do  is  im  going
+
+to  create  three
+
+individual  sides  for  the  dice  here  so  to
+
+do  that  im  going  to  grab  the  squares
+
+and  rectangles  tool
+
+and  im  going  to  hold  ctrl  and  shift  on
+
+the  keyboard  and  im  going  to  click  and
+
+drag  to  create  a  perfectly  symmetrical
+
+square  like  that
+
+and  since  this  square  is  going  to
+
+represent  one  of  the  sides  of  the  dice
+
+what  i  want  to  do  is  round  the  corners
+
+of  this  because  as  i  demonstrated  in  the
+
+um
+
+in  the  thumbnail  the  dice  has  rounded
+
+corners  so  im  going  to  take  this  little
+
+handle  up  here  to  the  top  right  this
+
+circle  node
+
+im  just  going  to  click  and  drag  that
+
+down  like  that  so  we  get  some  nice
+
+rounded
+
+nice  rounded  corners  like  that  and  now  i
+
+want  to  create  circles  for  the  inside  of
+
+this
+
+rectangle  that  represent  the  number  on
+
+the  dice  so  im  going  to  grab  the
+
+circles  and  ellipses  tool
+
+hold  ctrl  and  shift  and  click  and  drag
+
+to  create  a  perfectly  round  circle  like
+
+that
+
+i  want  to  make  this  a  different  color  so
+
+ill  make  this  green
+
+let  me  grab  the  select  tool  place  this
+
+over  here  in  the  center
+
+i  mean  the  top  left  right  click  that  go
+
+to  duplicate
+
+hold  control  click  and  drag  this  over  to
+
+the  right  and  the  reason  why  im  holding
+
+control  is  because  its  locking  it  onto
+
+the  vertical  axis  like  that
+
+and  then  i  want  to  hold  shift  and  click
+
+on  the  other  one  so  we  have  them  both
+
+selected
+
+right  click  that  go  to  duplicate  hold
+
+control  click  and  drag  these  ones  down
+
+here
+
+and  then  click  off  of  it  to  deselect
+
+everything  and  then  just  take  one  of
+
+these  right  here
+
+right  click  them  and  go  to  duplicate  and
+
+then  hold  shift
+
+and  click  on  the  red  rectangle  so  that
+
+you  have  the  circle  and  the  green
+
+rectangle  uh  the  red  rectangle  selected
+
+and  center  them  up
+
+on  the  vertical  and  horizontal  axis  like
+
+that
+
+now  if  you  notice  here  i  made  my  circles
+
+a  little  too  big  so  what  im  going  to  do
+
+is  im  just  going  to  click  and  drag  over
+
+those  circles
+
+hold  ctrl  and  scale  those  down  a  little
+
+bit
+
+ill  take  this  one  hold  shift  click  on
+
+both  of  those
+
+click  and  drag  these  down  here  click  off
+
+of  the  deselect
+
+ill  take  these  ones  as  well  again  shift
+
+clicking  them  so  we  select  them  both
+
+bring  them  over  here
+
+and  let  me  try  this  again  ill  take  this
+
+one  in  the  center  hold  shift
+
+click  on  the  uh  the  red  rectangle  there
+
+center  it  up  on  the  vertical  and
+
+horizontal  axis
+
+thats  good  now  we  can  click  off  of  that
+
+now  we  want  to  do  is  just  make  sure  that
+
+we  have  these  green  ones  in  the  corners
+
+centered  up  as  well  so  let  me  click  on
+
+the  green  one  right  here
+
+hold  shift  click  on  the  other  four  on
+
+all  four  of  them  and  group  them  together
+
+by  clicking  this  button  that  says  group
+
+selected  objects
+
+or  you  could  press  ctrl  g  and  then  hold
+
+shift  and  click  on  the  red  rectangle  and
+
+just  center  those  up  on  the  vertical  and
+
+horizontal  axis  like  that
+
+and  then  we  can  go  ahead  and  ungroup
+
+them  so  this  right  here  is  going  to
+
+represent  one  of  the  sides  of  the  dice
+
+now  i  want  to  do  what  i  want  to  do  is
+
+create  two  more  sides
+
+so  to  do  that  im  going  to  click  and
+
+drag  over  all  of  these
+
+and  i  want  to  duplicate  them  by  going  to
+
+right  click  by  right  clicking  and  going
+
+to  duplicate
+
+then  hold  ctrl  and  just  click  and  drag
+
+this  over  here  to  the  right
+
+click  off  of  it  to  deselect  everything
+
+im  just  going  to  delete  these  two
+
+circles  right  here  im  going  to
+
+click  on  it  to  select  it  and  press
+
+delete  same  thing  over  here  press  delete
+
+so  then  we  end  up  with  the  number  three
+
+and  then  finally  i  will  create  one  more
+
+of  these
+
+right  click  it  go  to  duplicate  hold  ctrl
+
+click  and  drag  it  to  the  right
+
+click  off  of  it  to  deselect  and  then  get
+
+rid  of  these  on  the  uh
+
+on  the  sides  here  so  that  we  have  just
+
+the  one  in  the  middle
+
+so  what  im  going  to  do  now  is  im  going
+
+to  select  all  of  these  green  ones  right
+
+here  im  going  to  click  and  drag  over
+
+those  green
+
+objects  to  make  sure  you  just  select  the
+
+green  object  make  sure  you  dont
+
+select  the  red  object  as  well  so  like
+
+just  the  green  objects  right  there
+
+unify  them  together  by  going  to  path
+
+union
+
+and  then  hold  shift  and  click  on  the  red
+
+rectangle  and  go  to
+
+path  difference  and  i  want  to  do  the
+
+same  thing  over  here  select  all  of  these
+
+go  to  path  union  hold  shift  click  on  the
+
+red  rectangle  and  go  to  path
+
+difference  and  then  finally  ill  come
+
+over  here  click  on  the  green  circle
+
+hold  shift  click  on  the  red  rectangle  we
+
+dont  have  to  do  a  union  on  these  ones
+
+because  its  just  one  object
+
+and  go  to  path  difference  so  now  we  have
+
+our  three  sides  to  the  dice  here  so  im
+
+going  to
+
+click  and  drag  over  all  of  these  let  me
+
+hold  ctrl  and  shift  and  scale  these  down
+
+and  i  want  to  place  these  over  where
+
+theyre  going  to  be  implemented  so  im
+
+going  to  take  this  top  one  the  number
+
+five  put  this  on  top
+
+im  going  to  take  this  over  here  the
+
+number  three  put  this  on  the  left
+
+and  ill  take  the  number  one  and  put
+
+this  on  the  right  over  here  what  im
+
+going  to  do  is
+
+change  the  perspective  of  each  of  these
+
+objects  so  that  they  fit  within  this
+
+polygon
+
+so  let  me  zoom  in  on  this  by  holding
+
+ctrl  and  rolling  up  the  mouse  wheel
+
+let  me  click  on  just  this  red  rectangle
+
+right  here  and  go  to
+
+path  path  effects  and  its  going  to  open
+
+up  the  path  effects  menu  there  it  is
+
+right  there
+
+and  with  the  path  effects  menu  open  im
+
+going  to  press  the  plus  icon
+
+and  what  im  looking  for  is  perspective
+
+so  im  going  to  come  up  here  to  where
+
+the  search  icon  is  im  going  to  start
+
+typing
+
+p-e-r-s  and  there  we  go  perspective
+
+envelope  thats  what  we  want
+
+and  once  weve  done  that  come  over  here
+
+to  the  edit  paths  by  nodes  tool
+
+and  what  were  looking  for  right  here  if
+
+you  notice  theres  different  theres  two
+
+different  types  of  nodes  theres  gray
+
+nodes
+
+inside  of  the  object  and  then  theres
+
+white  nodes  on  the  corners  what  were
+
+looking  for
+
+is  the  white  nodes  on  the  corners  that
+
+allows  us  to  change  the  perspective  so
+
+let  me  zoom  back  out
+
+again  to  zoom  in  and  out  im  just
+
+holding  ctrl  and  rolling  up  and  down  the
+
+mouse  wheel
+
+to  move  the  page  around  im  just
+
+pressing  down  the  mouse  wheel  and  moving
+
+the  mouse
+
+let  me  take  this  white  node  and  snap
+
+this  into  the
+
+bottom  corner  of  this  top  object  let  me
+
+take  this  white  node  and  snap  that  into
+
+there
+
+take  this  node  snap  it  into  there  and
+
+then  this  one
+
+into  there  like  that  and  now  i  will
+
+finalize  that  by  going  to  path
+
+object  to  path  now  lets  do  the  same
+
+thing  over  here  lets  click  on  this
+
+go  to  uh  were  going to  come  over  here
+
+to  the  path  effects  menu
+
+click  on  the  uh  the  plus  button  right
+
+here
+
+were  going  to  add  perspective  envelope
+
+and  do  the  same  thing  im  going  to  take
+
+this  corner  and  snap  it  into  here
+
+take  this  corner  snap  it  into  here
+
+this  corner  goes  down  here  and  this
+
+corner  goes  in  here
+
+and  again  finalize  that  by  going  to  path
+
+object  to  path
+
+and  then  i  will  do  the  same  thing  for
+
+this  object  as  well  so  let  me  select
+
+that
+
+add  a  new  path  effect  perspective
+
+envelope
+
+and  then  snap  these  to  their  respective
+
+corners  as  well
+
+ill  put  this  one  down  there  and  then
+
+again  were  going  to  finalize  this  by
+
+going  to
+
+path  object  to  path
+
+so  let  me  zoom  out  a  little  bit  im
+
+going  to  hold  ctrl  roll  down  the mouse
+
+will  zoom  out  let  me  grab  the  select
+
+tool
+
+what  i  want  to  do  now  is  put  a  little
+
+bit  of  space  between  these  three  sides
+
+because  theyre  all  touching  each  other
+
+which  is  not
+
+visually  correct  for  what  were  trying
+
+to  create  so  let  me  select  each  of  these
+
+red  objects  by  shift-clicking  them
+
+and  then  just  move  them  off  of  the  uh
+
+the  polygon
+
+for  for  a  brief  moment  and  i  want  to
+
+reduce  their  size  by  95
+
+so  i want  to  come  up  here  to  where  it
+
+says  width  and  height  or  w  and  h
+
+i  want  to  turn  on  the  lock  right  here  so
+
+it  locks  the  proportions  as  we  scale  it
+
+and  right  here  these  units  of
+
+measurement  where  it  says  px  im  going
+
+to  change  that  to  percentage
+
+and  im  going  to  change  the  width  to  95
+
+so  were  going  to  reduce  the  size  by  95
+
+i  mean  by  5  hit  enter  and  then  just
+
+change  that  back  to  pixel  so  that  you
+
+can
+
+use  that  later  on  and  then  let  me  click
+
+off  of  that  to  deselect  everything
+
+i  want  to  take  this  object  right  here
+
+hold  shift  click  on  the  left  side  of  the
+
+polygon
+
+center  it  up  on  the  vertical  and
+
+horizontal  axis  do  the  same  thing  over
+
+here  take  this  right
+
+right  side  object  hold  shift  click  on
+
+the  polygon
+
+center  it  up  on  the  vertical  and
+
+horizontal  axis  and  then  finally  the
+
+same  thing  over  here  were  going  to
+
+center  it  up
+
+on  the  vertical  and  horizontal  axis  and
+
+thats  what  were  looking  for  right
+
+there  a  little  bit  of  space  between
+
+those  uh
+
+those  sides  of  the  dice  now  what  we  want
+
+to  do  is  click  on
+
+one  of  the  black  objects  in  the
+
+background  the  original  polygon  youll
+
+know  you  have  it  selected  when  you  see
+
+the  black  stripe  down  here  in  the  bottom
+
+left  make  sure  you  dont  accidentally
+
+click  the
+
+the  red  object  click  the  black  object  in
+
+the  back  there
+
+and  go  to  edit  select  same  and  click  on
+
+fill  color
+
+and  its  going  to  select  all  three  of
+
+those  objects  and  we  want  to  unify  those
+
+together  so  lets  go  to  path
+
+union  and  now  im  just  going  to  scale
+
+this  up  a  little  bit
+
+if  you  notice  here  this  is  the  reason
+
+why  were  going  to  scale  this  up  if  you
+
+notice  here
+
+the  padding  between  the  red  object  and
+
+the  black  object
+
+is  thinner  than  the  padding  between
+
+these  two  red  objects
+
+i  want  to  scale  this  up  so  that  it
+
+matches  that  oops
+
+i  want  to  scale  this  up  so  that  it
+
+matches  that  a  little  more  closely  im
+
+going  to  hold  ctrl  and  shift
+
+and  just  scale  it  like  that  if  yours  is
+
+too  big  you  may  have  to  scale  it  down
+
+just  so  just  go  ahead  and  manually
+
+adjust  it  so  it  looks  about  right
+
+right  about  there  looks  pretty  good  and
+
+what  i  want  to  do  now  is  round  to  the
+
+corners
+
+of  this  um  polygon  here  so  to  do  that
+
+im  going  to  add  another  path  effect
+
+and  the  path  effect  im  going  to  look
+
+for  this  time  is  called  corners
+
+corners  philip  chamfer  thats  what  were
+
+looking  for  click  on  that
+
+and  im  going  to  click  this  button  right
+
+here  that  says  add  a  fillet  or  just
+
+click
+
+fill  it  and  now  im  going  to  come  back
+
+over  here  to  the  edit  pads  by  nodes  tool
+
+and  if  you  notice  were  going  to  have
+
+these  green  nodes  in  each  corner  so  let
+
+me  click  and  drag  over  all  of  those
+
+green  nodes
+
+let  me  zoom  in  a  little  bit  and  im  just
+
+going  to  take  one  of  those  green  nodes
+
+and  just  click  and  drag  and  if  you
+
+notice  its  going  to  round  to  the  corner
+
+as  we  do  that
+
+and  that  right  there  is  what  were
+
+looking  for  that  looks  perfect  so  let  me
+
+finalize  that  by  going  to  path
+
+object  to  path  let  me  grab  the  select
+
+tool  we  can  close  out  of  the  path
+
+effects  menu  now  we  shouldnt  need  that
+
+again
+
+so  we  have  the  structure  of  the  dice  in
+
+place  all  we  have  to  do  now  is  color  it
+
+in  so
+
+let  me  take  this  top  object  right  here
+
+and  let  me  break  it  apart  by  going  to
+
+path
+
+break  apart  and  then  i  want  to  hold
+
+shift
+
+and  click  on  the  large  red  object  so
+
+that  we  just  so  that  it  deselects  it  and
+
+we  just  have  these  circles  selected
+
+and  i  want  to  raise  those  circles  to  the
+
+top  by  clicking  this  button  that  says
+
+raise  selection  to  the  top
+
+and  im  going  to  make  those  white  and  i
+
+want  to  do  the  same  thing  over  here
+
+select  this  object
+
+path  break  apart  hold  shift
+
+click  on  that  red  object  to  deselect  it
+
+make  these  white
+
+and  then  raise  them  to  the  top  and  then
+
+finally  the  same  thing  over  here  select
+
+that
+
+path  break  apart  hold  shift
+
+click  on  the  object  to  deselect  it  make
+
+that  white
+
+raise  it  to  the  top  now  let  me  zoom  back
+
+out  lets  click  and  drag  over  everything
+
+and  bring  the  opacity  of  it  all  the  way
+
+up  so  lets  click  off
+
+to  deselect  everything  now  what  we  can
+
+do  is  we  can  choose
+
+colors  to  use  for  our  dice  i  know  in  the
+
+thumbnail  i  use  the  color  green  i  think
+
+for  this  one  ill  use  blue
+
+you  can  use  whatever  color  youd  like  so
+
+im  going  to  start  with  the  base  back
+
+here  the  black  object
+
+and  start  with  the  darker  variation  of
+
+whatever  shade  you  want  to  use  if  you
+
+want  to  make  your  dice  green  start  with
+
+dark  green  if  you  want  to  make  it
+
+orange  start  with  a  dark  orange  im
+
+going  to  start  with  a  dark  blue
+
+over  here  and  then  im  going  to  click
+
+over  here  under  the  fill  tab  where  it
+
+says
+
+linear  gradient  im  going  to  click  that
+
+to  give  it  a  linear  gradient
+
+and  then  im  going  to  grab  the  gradient
+
+tool  which  is  over  here  or  you  can  just
+
+press
+
+g  on  the  keyboard  and  if  you  notice  we
+
+have  a  dark  blue  on  this  stop  and  we
+
+have  transparency  on  this  stop  so  let  me
+
+click  on  that  stop  to  select  it
+
+and  i  want  to  make  this  a  lighter  shade
+
+of  the  color  we  want  so  since  im  using
+
+blue  im  going  to  go  with  lighter  shade
+
+of  blue
+
+let  me  put  this  stop  over  here  on  the
+
+bottom  we  want  the  dark  one  on  the
+
+bottom
+
+take  this  one  the  lighter  one  on  top
+
+hold  ctrl  bring  this  straight  up  so  that
+
+it  locks  it  onto  the  vertical  axis  like
+
+that
+
+and  uh  it  may  be  helpful  to  turn  off
+
+snapping  at  this  point  because  snapping
+
+we  dont  need  it  anymore  and  its  just
+
+going  to  get  in  the  way  from  this  point
+
+forward  so
+
+up  here  where  it  says  enable  snapping  we
+
+can  disable  that
+
+and  now  i  want  to  click  on  this  red
+
+object  right  here  and  i  want  to  make
+
+this  an  even  darker  color  than  the  dark
+
+shade  of  blue
+
+used  over  here  so  let  me  make  this  a
+
+dark  shade  of  blue  like  that
+
+that  looks  pretty  good  and  let  me  give
+
+that  a  linear  gradient
+
+and  i  want  to  take  this  dark  side  and
+
+put  this  to  the  top  left  corner
+
+take  this  one  bring  it  down  here  like
+
+that
+
+and  then  i  want  to  take  this  object
+
+right  here  and  give  that  the  same
+
+gradient  so  well  click  on  linear
+
+gradient  and  instead  of  creating  that
+
+again  we  can  just
+
+choose  it  from  this  list  right  here  its
+
+this  one  we  just  created
+
+put  this  one  right  here  like  that  and
+
+put  this  one  down  here  in  the
+
+bottom  right  corner  there  we  go  and  then
+
+up  here
+
+were  going  to  use  an  even  lighter  shade
+
+of  our  color  than  we  used  for  up  here  so
+
+im  going  to  choose  an  even  lighter
+
+shade  of  blue  like  that
+
+or  maybe  that  looks  pretty  good  and  then
+
+we  will  give  that  a  linear  gradient  as
+
+well
+
+take  this  and  put  this  down  here  and
+
+then  take  the  transparent  stop  and  put
+
+it  up  top  you  can  hold  control
+
+to  lock  it  onto  the  vertical  axis  like
+
+that  now  let  me  grab  the  select  tool  let
+
+me  zoom  out  a  little  bit
+
+if  you  can  see  our  dice  our  vector  dice
+
+is  complete
+
+what  you  can  do  now  is  click  and  drag
+
+over  all  of  it
+
+group  it  together  with  the  group
+
+selected  objects  button
+
+and  im  just  going  to  give  this  a  little
+
+bit  of  a  tilt  to  make  it  look  like  it
+
+was  just  thrown  so
+
+let  me  select  this  let  me  click  on  it
+
+until  we  get  the  rotation  handles
+
+im  going  to  hold  ctrl  and  take  this
+
+corner  node  and  just  bring  this
+
+counterclockwise  one  step
+
+like  that  and  then  i  want  to  right  click
+
+this  and  go  to  duplicate
+
+ungroup  it  go  to  path
+
+union  and  then  lets  make  this
+
+black  click  on  it  again  to  get  back  to
+
+the  scaling  handles  and  i  want  to  take
+
+this
+
+arrow  up  here  in  the  top  in  the  middle
+
+and  then  just  bring  this  all  the  way
+
+down  like  that
+
+and  click  the  button  up  here  that  says
+
+lower  select  lower  selection  to  the
+
+bottom
+
+and  then  just  bring  the  opacity  of  this
+
+down  this  is  going  to  look  somewhat  like
+
+a
+
+casted  shadow  right  there  that
+
+and  now  that  is  looking  perfect  so  i
+
+think  that  should  do  it  for  this
+
+tutorial  thats  how  you  can  go  about
+
+creating  these
+
+vector  dice  illustrations  using  inkscape
+
+if  you  have  any  questions  let  me  know
+
+and  as  always  thanks  for  watching
+

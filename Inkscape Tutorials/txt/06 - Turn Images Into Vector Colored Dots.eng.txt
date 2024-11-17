@@ -1,0 +1,311 @@
+
+in  this  tutorial  Ill  be  demonstrating
+
+how  you  can  use  inkscape  to  trace  an
+
+image  into  a  series  of  individual  Vector
+
+color  dots  and  to  show  you  what  I  mean
+
+for  my  example  here  I  started  off  with
+
+this  image  which  is  a  pixel-based  image
+
+and  I  was  able  to  trace  a  series  of
+
+vector  dots  that  all  have  a  single  fill
+
+color  and  no  gradients  applied  which  is
+
+what  Ill  be  showing  in  this  tutorial
+
+before  we  get  started  though  if  youd
+
+like  to  learn  more  about  inkscape  be
+
+sure  to  check  out  my  inkscape  master
+
+class  its  a  collection  of  over  60
+
+videos  where  I  go  over  all  of  the  tools
+
+and  features  in  inkscape  and  I  explain
+
+what  they  are  and  demonstrate  how  they
+
+work  we  even  have  a  private  Community
+
+where  you  can  ask  questions  and  get  help
+
+from  me  any  time  you  want  Ill  have  some
+
+information  about  that  down  below  if  you
+
+want  to  check  that  out  so  to  get  started
+
+Im  going  to  import  my  image  into
+
+inkscape  and  I  want  to  make  sure  I  have
+
+my  document  the  same  size  as  the  image
+
+so  click  on  the  image  and  press  control
+
+shift  R  if  you  havent  done  so  already
+
+and  that  will  make  the  document  the  same
+
+size  as  the  selected  image  now  lets
+
+open  up  the  layers  menu  by  going  to
+
+layer  and  selecting  layers  and  objects
+
+and  I  want  to  make  sure  I  have  my  image
+
+on  one  layer  by  itself  and  Im  going  to
+
+add  another  layer  on  top  of  that  so  Ill
+
+click  on  this  plus  icon  up  here  and  Im
+
+going  to  name  this  layer  to  which  is  the
+
+default  and  Ill  click
+
+add  and  on  this  layer  I  want  to  create  a
+
+circle  so  Im  going  to  zoom  into  the  top
+
+left  corner  of  my  image  and  Im  going  to
+
+grab  the  circles  and  ellipses  tool  and
+
+Ill  click  and  drag  to  draw  a  circle  and
+
+Ill  hold  the  control  key  while  doing  so
+
+to  make  sure  I  can  draw  a  perfectly
+
+round  circle  like  that  so  now  Ill  grabb
+
+my  selection  tool  and  Ill  open  up  the
+
+fill  and  stroke  menu  by  going  to  object
+
+and  selecting  fill  and
+
+stroke  and  Ill  come  over  here  to  the
+
+fill  Tab  and  I  want  to  make  sure  I
+
+choose  this  option  right  here  which  says
+
+unset  paint  and  when  you  have  an  unset
+
+paint  it  should  turn  black  by  default
+
+and  what  that  will  do  is  itll  make  it
+
+so  that  this  object  can  trace  all  of  the
+
+objects  it  can  trace  the  objects  beneath
+
+it  and  Sample  a  color  from  each  copy
+
+that  we  create  so  let  me  take  this  and
+
+put  this  in  the  top  left  corner  Im
+
+going  to  open  up  the  aligned  distribute
+
+menu  by  going  to  object  and  selecting
+
+aligned
+
+distribute  Ill  set  the  relative  two
+
+make  sure  you  have  this  set  to  page  and
+
+Im  going  to  align  this  on  the  top  Edge
+
+and  the  left  Edge  and  Im  going  to  zoom
+
+out  a  little  bit  just  as  a
+
+comparison  Im  going  to  make  the
+
+circle  about  that  big  you  can  eyeball  it
+
+doesnt  have  to  be  a  specific  size  Ill
+
+go  with  that  size  right  there  and  what
+
+you  want  to  do  now  is  click  on  your
+
+image  and  look  up  here  in  the  width  and
+
+the  height  to  see  what  the  width  and
+
+height  is  and  make  a  mental  note  of
+
+whatever  that  is  so  my  image  is  872  by
+
+1280  so  Ill  select  my  circle  now  and
+
+with  the  circle  selected  I  will  go  to
+
+edit  clone  create  tiled
+
+clones  and  from  this  menu  I  want  to
+
+choose  this  option  over  here  that  says
+
+width  and  height  and  I  want  to  input  the
+
+width  and  height  of  my  image  so  Im
+
+going  to  write  872  by  1280
+
+and  then  Ill  come  over  here  to  the
+
+trace  tab  I  want  to  enable  tracing  and  I
+
+want  to  enable  color  and  I  want  to  turn
+
+off  everything  else  so  whatever  else  in
+
+here  is  enabled  turn  that  off  we  only
+
+want  Trace  color  and  color  and  width  and
+
+height  and  once  thats  done  let  me  make
+
+sure  I  have  my  object  selected  first
+
+there  we  go  my  object  got  deselected
+
+somehow  thats  important  you  got  to  have
+
+your  object  selected  and  now  I  will  make
+
+sure  I  have  everything  set  here  and  then
+
+click  create  and  when  you  click  create
+
+it  may  take  a  minute  or  two  to  load
+
+because  its  pretty  CPU  intensive  mine
+
+rendered  pretty  quick  though  so  as  you
+
+can  see  the  tracing  has  completed  Im
+
+going  to  click  the  x  button  to  get  out
+
+of  this  menu  and  if  you  zoom  in  on  this
+
+a  little  bit  you  can  see  the  individual
+
+color  dots  that  were  traced  over  the
+
+image  and  what  you  could  do  now  is  you
+
+can  scale  them  down  if  you  want  so  if  I
+
+were  to  select  this  dot  if  I  were  to
+
+hold  my  ALT  key  or  if  youre  on  Mac  it
+
+would  be  the  option  key  and  click  again
+
+I  would  select  the  original  dot  on
+
+underneath  it  and  I  would  scale  that
+
+down  by  holding  control  and  shift  and
+
+then  scaling  that  down  just  a  little  bit
+
+and  the  rest  of  the  dots  scale  down  with
+
+it  now  Im  going  to  turn  off  the
+
+visibility  of  the  background  image  so
+
+you  can  see  this  even  better  Ill  come
+
+over  here  to  my  layers  menu  and  Ill
+
+come  all  the  way  down  here  to  the  bottom
+
+of  the  layers  menu  and  Im  going  to  turn
+
+off  the  visibility  of  layer  one  and  you
+
+can  now  see  if  you  zoom  out  you  can  see
+
+the  image  better  but  what  Im  going  to
+
+do  now  is  put  a  background  Behind  these
+
+dots  so  you  can  see  it  better  so  Ill
+
+grab  my  rectangle
+
+tool  Ill  send  this  to  the  bottom  and
+
+now  you  can  see  it  a  little  better  okay
+
+so  if  I  zoom  in  you  can  see  each  dot
+
+here  is  individually  colored  I  could
+
+select  on  each  one  and  you  can  see  the
+
+color  thats  applied  there  theres  no
+
+gradients  here  each  dot  is  a  single
+
+individual
+
+color  and  that  should  do  it  for  this
+
+tutorial  thats  how  you  can  trace  an
+
+image  into  a  series  of  vector  colored
+
+dots  using  inkscape
+
+if  you  found  this  lesson  useful  then
+
+consider  checking  out  my  inkscape  master
+
+class  its  a  collection  of  over  60
+
+videos  where  I  go  over  all  of  the  tools
+
+and  features  in  inkscape  and  I  explain
+
+what  they  are  and  demonstrate  how  they
+
+work  kind  of  like  how  I  did  in  this
+
+video  we  even  have  a  private  Community
+
+where  you  can  ask  questions  and  get  help
+
+from  me  anytime  you  want  and  best  of  all
+
+theres  no  monthly  membership  fees  you
+
+just  pay  $17  one  time  and  youre  in  for
+
+Life  Ill  have  some  information  about
+
+that  down  below  if  you  want  to  check
+
+that  out  as  always  thanks  for  watching
+
+oh
+

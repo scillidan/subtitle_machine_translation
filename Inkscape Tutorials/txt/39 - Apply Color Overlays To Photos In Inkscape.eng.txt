@@ -1,0 +1,411 @@
+
+although  inkscape  is  meant  to  be  a
+
+vector  design  app  that  doesnt  mean  it
+
+cant  be  used  to  edit  photos  as  well
+
+in  fact  id  even  go  as  far  as  saying
+
+that  inkscape  can  handle  certain  photo
+
+editing  tasks  better  than  some
+
+pixel-based  editors
+
+one  example  of  such  would  be  when
+
+applying  color  overlays  to  your
+
+photographs  which  well  be  demonstrating
+
+in  todays  tutorial
+
+
+
+before  we  get  started  with  the  lesson
+
+id  just  like  to  take  a  moment  to  give  a
+
+special  thank  you  to  expressvpn  for
+
+sponsoring  todays  video
+
+expressvpn  helps  you  secure  your  privacy
+
+when  browsing  the  internet  they  do  this
+
+by  routing  your  network  activity  through
+
+their  secure  and  encrypted  servers  not
+
+only  does  this  prevent  your  isp  from
+
+seeing  your  web  browsing  activity  but  it
+
+also  makes  it  more  difficult  for
+
+advertisers  websites  and  government
+
+agencies  to  track  you  by  allowing  you  to
+
+mask  your  ip  address
+
+expressvpn  only  invests  in  premium
+
+servers  which  makes  them  consistently
+
+faster  than  other  vpns  they  offer  24  7
+
+customer  support  if  you  ever  need  it  and
+
+setting  it  up  couldnt  be  easier  in  just
+
+a  few  clicks  i  was  able  to  connect  and
+
+continue  on  with  all  of  my  design
+
+research  with  the  peace  of  mind  of
+
+knowing  that  my  privacy  is  secure
+
+expressvpn  is  your  all-in-one  vpn
+
+provider  click  the  link  in  the
+
+description  below  to  sign  up  today  and
+
+get  three  months  for  free
+
+so  to  get  us  started  here  im  first
+
+going  to  show  you  how  to  do  this
+
+manually  using  a  single  color  with  blend
+
+modes  and  then  ill  show  you  how  to  do
+
+this  using  the  duo  chrome  filter  in
+
+inkscape
+
+so  the  first  thing  i  want  to  do  here  is
+
+import  my  image  onto  the  canvas  now
+
+theres  various  different  ways  to  do
+
+this  but  my  preferred  way  of  importing
+
+images  is  to  just  click  and  drag  the
+
+image  file  onto  the  canvas  let  me  show
+
+you  what  i  mean  here  if  i  bring  in  my
+
+folder  with  my  image  all  i  have  to  do  is
+
+just  click  and  drag  this  onto  the  canvas
+
+like  that  and  then  i  will  get  this
+
+little  prompt  right  here  that  asks  me  if
+
+i  want  to  embed  or  link  it  im  going  to
+
+choose  to  embed  the  image  and  click  ok
+
+and  there  you  go  as  you  can  see  the
+
+image  has  been  embedded
+
+so  let  me  zoom  out  now  im  going  to  hold
+
+ctrl  and  roll  down  my  mouse  wheel  to
+
+zoom  out  a  little  bit  so  i  have  a  better
+
+look  at  this  and  to  move  my  page  around
+
+im  just  pressing  down  the  mouse  wheel
+
+and  moving  the  mouse
+
+now  what  i  want  to  do  is  resize  the
+
+document  to  be  the  same  size  as  this
+
+image  right  here  so  with  this  image
+
+selected  press  ctrl  shift  and  r  on  the
+
+keyboard  and  it  will  change  the  document
+
+to  be  resized  around  this  image  okay  so
+
+now  what  i  want  to  do  is  i  want  to
+
+create  a  rectangle  and  make  it  the  same
+
+size  as  this  image  so  let  me  right  click
+
+this  image  and  go  to  copy
+
+let  me  grab  the  rectangle  tool  over  here
+
+and  im  going  to  click  and  drag  on  my
+
+canvas  to  create  a  rectangle  it  doesnt
+
+need  to  be  the  same  size  as  the  image  it
+
+just  needs  to  be  any  size  were  going  to
+
+address  that  right  now  we  just  go  to
+
+edit  go  to  paste  size  and  select  paste
+
+size  and  its  going  to  take  the  image
+
+size  that  i  have  copied  to  my  clipboard
+
+and  apply  it  to  that  rectangle  now  im
+
+going  to  grab  the  selection  tool  and  im
+
+going  to  change  the  color  of  this
+
+rectangle  to  whatever  color  id  like  my
+
+overlay  to  be  so  for  this  example  i  will
+
+use  a  blue  shade  so  ill  come  down  here
+
+to  my  palette  and  i  will  choose  a  shade
+
+of  blue  like  that
+
+and  now  i  want  to  center  this  up  over
+
+the  image  so  let  me  hold  shift  and  click
+
+on  the  image  so  i  have  both  the
+
+rectangle  and  the  image  selected  and  i
+
+will  open  up  the  align  the  distribute
+
+menu  which  is  located  over  here  you  can
+
+also  access  that  by  pressing  ctrl  shift
+
+and  a  on  your  keyboard
+
+within  the  align  the  distribute  menu  i
+
+want  to  make  sure  that  i  have  the
+
+relative  two  set  to  last  selected  and
+
+then  once  thats  enabled  we  can  center
+
+it  vertically  and  horizontally  like  that
+
+and  as  you  as  you  can  see  the  rectangle
+
+should  be  directly  over  the  image  now
+
+so  let  me  click  off  of  the  graphic  to
+
+deselect  everything  im  going  to  select
+
+just  this  rectangle  right  here  and  now
+
+im  going  to  open  up  the  fill  and  stroke
+
+menu  which  is  located  up  here  or  you  can
+
+access  it  by  pressing  ctrl  shift  and  f
+
+on  the  keyboard
+
+
+
+once  we  are  in  the  fill  and  stroke  menu
+
+if  you  look  down  here  to  the  bottom
+
+right  of  the  menu  you  will  see  this  drop
+
+down  menu  for  blend  modes  by  default  the
+
+blend  mode  is  set  to  normal  meaning  this
+
+rectangle  looks  like  a  normal  rectangle
+
+with  a  solid  fill
+
+we  can  change  the  way  that  this  object
+
+interacts  with  objects  positioned
+
+beneath  it  though  by  changing  this  blend
+
+mode  let  me  show  you  what  i  mean  here
+
+im  going  to  change  this  to  multiply
+
+and  as  you  can  see  it  changes  the
+
+appearance  of  the  image  or  the  way  that
+
+the  rectangle  interacts  with  the  image
+
+beneath  it  and  if  i  use  my  arrow  keys  i
+
+can  cycle  through  all  of  the  different
+
+blend  modes  we  have  here  until  i  find
+
+the  color  overlay  that  i  prefer
+
+now  this  one  right  here  seems  to  work
+
+pretty  well  the  effect  im  looking  for
+
+is  just  a  simple  color  overlay  and  what
+
+this  one  does  the  color  blend  mode  it
+
+just  takes  the  color  and  applies  it  over
+
+the  image  nicely  like  that  without
+
+making  too  many  other  changes  i  should
+
+mention  though  that  every  single  image
+
+is  different  so  if  youre  working  with
+
+the  image  a  different  image  than  this
+
+you  may  want  to  cycle  through  these
+
+blend  modes  to  see  which  one  works  best
+
+now  as  you  can  see  here  if  i  take  this
+
+object  and  move  it  off  of  the  image  over
+
+there  you  can  see  it  looks  the  same  as
+
+it  did  before  the  only  difference  is  the
+
+way  it  interacts  with  the  objects
+
+beneath  it  like  that  and  if  you  dont
+
+like  how  this  works  and  you  want  to  go
+
+back  to  having  a  regular  solid  fill
+
+rectangle  at  any  point  you  could  just
+
+select  it  and  set  the  blend  mode  back  to
+
+normal  like  that  and  as  you  can  see  its
+
+now  a  regular  rectangle  again
+
+so  now  lets  have  a  look  at  an  arguably
+
+easier  and  maybe  even  better  way  to  do
+
+this  using  the  duochrome  filter  and
+
+inkscape
+
+so  what  im  going to  do  is  im  going  to
+
+select  my  image  right  here  and  im  going
+
+to  come  up  here  to  where  it  says  filters
+
+im  looking  for  color  and  then  i  will
+
+choose  duochrome
+
+and  once  youve  done  that  youre  going
+
+to  get  this  little  menu  right  here
+
+the  first  thing  i  want  to  do  with  this
+
+menu  is  where  it  says  live  preview  i
+
+want  to  enable  that  checkbox  right  there
+
+and  as  you  can  see  when  i  enabled  that
+
+it  applied  two  different  colors  to  my
+
+image  it  applied  the  color  blue  to  the
+
+darker  shades  and  it  applied  the  color
+
+green  to  the  lighter  shades  and  the
+
+reason  why  is  because  color  one  up  here
+
+in  this  tab  is  set  to  blue  and  color  two
+
+up  here  in  this  tab  is  set  to  green  now
+
+if  you  want  to  change  your  colors  you
+
+could  do  so  very  easily  up  here  say  for
+
+example  i  want  to  change  the  darker
+
+shades  from  blue  to  something  else  like
+
+pink  i  can  do  that  as  well  if  i  want  to
+
+i  can  change  this  like  that
+
+and  there  we  go  now  we  have  pink  in  the
+
+darker  shades  i  may  even  want  to  make
+
+this  a  little  darker  so  you  can  see  it
+
+better  but  im  sure  you  get  the  idea
+
+thats  one  way  that  you  can  do  that
+
+and  if  i  come  over  here  to  color  two  i
+
+could  change  that  the  lighter  shades  to
+
+something  like  yellow  to  change  up  how
+
+that  works
+
+okay  and  once  youre  finished  you  can  go
+
+ahead  and  click  apply
+
+and  then  close  out  of  the  menu  that  is
+
+how  you  can  go  about  applying  a  simple
+
+color  overlay  or  even  a  duotone  effect
+
+to  a  photograph  using  inkscape  if  you
+
+have  any  questions  let  me  know  and  as
+
+always  thanks  for  watching
+
+
+

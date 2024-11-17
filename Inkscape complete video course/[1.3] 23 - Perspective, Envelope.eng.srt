@@ -1,0 +1,320 @@
+1
+00:00:00,179 --> 00:00:02,580
+in this lecture I will place text on a
+
+2
+00:00:02,580 --> 00:00:04,080
+three-dimensional object
+
+3
+00:00:04,080 --> 00:00:07,500
+let's create a 3D queue in inkscape I've
+
+4
+00:00:07,500 --> 00:00:09,480
+already created a cube before and will
+
+5
+00:00:09,480 --> 00:00:10,920
+show the basics
+
+6
+00:00:10,920 --> 00:00:14,219
+I select the 3D box tool I click and
+
+7
+00:00:14,219 --> 00:00:16,800
+drag from the left corner I've now drawn
+
+8
+00:00:16,800 --> 00:00:19,260
+a small part of the queue to make it fit
+
+9
+00:00:19,260 --> 00:00:21,260
+I drag a front corner to the same place
+
+10
+00:00:21,260 --> 00:00:23,939
+I can increase the length by dragging
+
+11
+00:00:23,939 --> 00:00:25,320
+one of the four nodes
+
+12
+00:00:25,320 --> 00:00:27,840
+to go the other way I hold shift and
+
+13
+00:00:27,840 --> 00:00:30,240
+drag the opposite corner and to make the
+
+14
+00:00:30,240 --> 00:00:32,700
+cube higher I hold Ctrl and drag a
+
+15
+00:00:32,700 --> 00:00:34,920
+corner I can also prolong from the
+
+16
+00:00:34,920 --> 00:00:37,559
+bottom holding Ctrl and I can prolong
+
+17
+00:00:37,559 --> 00:00:39,600
+from the front or from the back holding
+
+18
+00:00:39,600 --> 00:00:42,180
+the control key I go to outline preview
+
+19
+00:00:42,180 --> 00:00:46,040
+mode by pressing Ctrl y
+
+20
+00:00:47,100 --> 00:00:49,260
+if I zoom out I see it Place The
+
+21
+00:00:49,260 --> 00:00:51,300
+Vanishing points of the three converging
+
+22
+00:00:51,300 --> 00:00:53,579
+lines at the same distance using a
+
+23
+00:00:53,579 --> 00:00:54,600
+circle
+
+24
+00:00:54,600 --> 00:00:56,820
+The Vanishing points also have equal
+
+25
+00:00:56,820 --> 00:00:58,559
+distance to each other
+
+26
+00:00:58,559 --> 00:01:01,680
+this way you get a uniform Cube if I
+
+27
+00:01:01,680 --> 00:01:03,420
+bring a vanishing point closer to the
+
+28
+00:01:03,420 --> 00:01:06,180
+cube I will create more perspective
+
+29
+00:01:06,180 --> 00:01:08,220
+in the menu above you can also change
+
+30
+00:01:08,220 --> 00:01:10,380
+finite converging lines to infinite
+
+31
+00:01:10,380 --> 00:01:12,600
+parallel lines by clicking on the toggle
+
+32
+00:01:12,600 --> 00:01:13,560
+icons
+
+33
+00:01:13,560 --> 00:01:15,479
+I prefer however to work with three
+
+34
+00:01:15,479 --> 00:01:18,299
+Vanishing points for realistic results
+
+35
+00:01:18,299 --> 00:01:20,520
+and by dragging the little cross I can
+
+36
+00:01:20,520 --> 00:01:22,799
+move the cube in 3D space
+
+37
+00:01:22,799 --> 00:01:25,020
+I will finalize the cube by going to
+
+38
+00:01:25,020 --> 00:01:27,180
+path object to path
+
+39
+00:01:27,180 --> 00:01:29,520
+in my layers I see the cube exists of
+
+40
+00:01:29,520 --> 00:01:32,640
+six planes if I hold alt I can see which
+
+41
+00:01:32,640 --> 00:01:34,740
+plane corresponds with a path
+
+42
+00:01:34,740 --> 00:01:36,900
+I only need the front planes so I delete
+
+43
+00:01:36,900 --> 00:01:38,640
+the back planes
+
+44
+00:01:38,640 --> 00:01:40,979
+I call the object Q
+
+45
+00:01:40,979 --> 00:01:43,860
+I will flip the cube horizontally
+
+46
+00:01:43,860 --> 00:01:46,740
+now let's place the text to easily place
+
+47
+00:01:46,740 --> 00:01:48,780
+the text on the cube planes I will first
+
+48
+00:01:48,780 --> 00:01:50,579
+place the text on a square
+
+49
+00:01:50,579 --> 00:01:52,439
+with the rectangle tool I create a
+
+50
+00:01:52,439 --> 00:01:55,259
+square by holding Ctrl I will duplicate
+
+51
+00:01:55,259 --> 00:01:58,500
+it twice I select the text tool for my
+
+52
+00:01:58,500 --> 00:02:01,140
+font I will use Alpha slab 1 which is a
+
+53
+00:02:01,140 --> 00:02:03,780
+free Google font I click and type
+
+54
+00:02:03,780 --> 00:02:07,020
+outside I hold down alt and decrease the
+
+55
+00:02:07,020 --> 00:02:09,000
+line height with the arrow up key
+
+56
+00:02:09,000 --> 00:02:11,220
+I will make the text fit the square and
+
+57
+00:02:11,220 --> 00:02:12,959
+leave the edge visible
+
+58
+00:02:12,959 --> 00:02:14,640
+I will also Place text on the other
+
+59
+00:02:14,640 --> 00:02:16,379
+squares
+
+60
+00:02:16,379 --> 00:02:18,780
+to easily place the text on the Queue I
+
+61
+00:02:18,780 --> 00:02:21,300
+will cut the text from the squares so I
+
+62
+00:02:21,300 --> 00:02:23,160
+select the text in a square and go to
+
+63
+00:02:23,160 --> 00:02:25,920
+path difference I will give the pass a
+
+64
+00:02:25,920 --> 00:02:26,580
+name
+
+65
+00:02:26,580 --> 00:02:29,160
+I make the background a bit lighter and
+
+66
+00:02:29,160 --> 00:02:31,800
+I make the cube black
+
+67
+00:02:31,800 --> 00:02:34,140
+to place the text in perspective I go to
+
+68
+00:02:34,140 --> 00:02:35,640
+pathfx
+
+69
+00:02:35,640 --> 00:02:37,680
+from the menu I choose perspective
+
+70
+00:02:37,680 --> 00:02:40,200
+envelope behind type I choose
+
+71
+00:02:40,200 --> 00:02:41,220
+perspective
+
+72
+00:02:41,220 --> 00:02:43,080
+I select the node tool and activate
+
+73
+00:02:43,080 --> 00:02:44,400
+snapping
+
+74
+00:02:44,400 --> 00:02:46,440
+when I drag the corner nodes they will
+
+75
+00:02:46,440 --> 00:02:48,420
+snap to the corners of the cube
+
+76
+00:02:48,420 --> 00:02:50,640
+I may think 80 Gray
+
+77
+00:02:50,640 --> 00:02:54,360
+next I place outside in pathfx I choose
+
+78
+00:02:54,360 --> 00:02:57,239
+perspective envelope with the node tool
+
+79
+00:02:57,239 --> 00:03:01,680
+I place the text finally I place the Box
+
+80
+00:03:01,680 --> 00:03:05,480
+I make the Box 10 Gray
+

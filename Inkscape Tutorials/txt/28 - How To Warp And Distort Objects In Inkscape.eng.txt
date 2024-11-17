@@ -1,0 +1,255 @@
+
+in  this  tutorial  well  be  going  over
+
+some  of  the  ways  in  which  you  can  warp
+
+and  distort  objects  in  inkscape  by  using
+
+various  path  effects  so  to  get  started
+
+well  have  a  look  at  the  envelope
+
+deformation  path  effect  I  have  this  text
+
+object  on  my  screen  here  Im  going  to
+
+convert  this  from  text  to  a  path  by
+
+selecting  it  and  going  to  path  and
+
+selecting  object  to  path  and  now  Ill
+
+open  up  my  path  effects  menu  by  going  to
+
+path  and  selecting  path
+
+effects  from  the  menu  Im  going  to  click
+
+this  plus  icon  down  here  to  add  a  new
+
+path  effect
+
+and  the  path  effect  Im  looking  for  is
+
+envelope  deformation  so  Im  going  to
+
+select
+
+that  and  let  me  zoom  in  on  this  so  I  can
+
+see  it  better  and  if  you  notice  in  the
+
+menu  over  here  we  have  four  different
+
+ways  in  which  we  can  distort  this  object
+
+top  bottom  left  and  right  so  if  I  click
+
+this  button  right  here  bend  the  top  path
+
+were  going  to  get  this  green  line  on
+
+the  canvas  you  could  take  that  green
+
+line  and  move  that  up  like  that  so  you
+
+end  up  with  that  effect  right  there  and
+
+you  can  click  on  each  node  and  change
+
+these  handles  so  that  you  get  this  warp
+
+effect  as  you  can  see  here  and  Ill  do
+
+the  same  thing  down  here  with  the  bottom
+
+path  Ill  change  that  as
+
+well  and  if  you  want  to  change  the  right
+
+and  left  path  you  could  just  click  the
+
+buttons  for  those  as  well  you  can  bring
+
+this  in  or  you  could  bring  it  out  like
+
+that  and  Ill  do  the  same  thing  over
+
+here  for  the  left  path  like  this  Ill
+
+bring  this  one
+
+in  and  then  we  end  up  with  that  effect
+
+right  there  and  then  we  have  these  other
+
+options  over  here  that  we  can  enable  as
+
+well  so  if  I  toggle  off  the  left  and
+
+right  paths  we  end  up  with  this  effect
+
+right  right  there  and  since  this  is  a
+
+path  effect  this  is  temporary  and  can  be
+
+undone  at  any  time  by  just  toggling  off
+
+the  visibility  of  the  path  effect  right
+
+there  or  you  can  remove  it  by  pressing
+
+the  minus  button  right  there  so  Ill
+
+turn  that  back  on  if  you  want  to
+
+finalize  the  effect  just  go  to  path
+
+object  to  path  and  now  you  can  grab  your
+
+nodes  tool  and  you  can  see  that  this  is
+
+finalized  and  the  path  has  been  warped
+
+so  another  way  in  which  you  can  warp
+
+objects  and  inkscape  is  by  using  the
+
+bend  path  effect  which  allows  you  to
+
+bend  an  object  along  a  linear  path  so  a
+
+good  example  for  this  here  I  have  this
+
+drawing  of  a  lion  and  lets  say  I  wanted
+
+to  add  a  tail  to  this  Lon  I  created  this
+
+simple  little  tail  using  an  intersecting
+
+area  between  two  circles  and  a  triangle
+
+and  I  unified  it  all  together  so  Im
+
+going  to  place  the  tail  on  the  lion  here
+
+and  to  make  this  look  curved  so  it  looks
+
+more  natural  Im  going  to  go  to  the  path
+
+effects  menu  and  Im  going  to  add  a  new
+
+path
+
+effect  and  the  path  effect  Im  looking
+
+for  this  time  is  Bend  so  Im  actually
+
+going  to  type  it  up  here  so  I  could  find
+
+it  Bend  there  we  go
+
+and  now  if  you  click  this  button  over
+
+here  where  it  says  Bend  path  you  have
+
+this  green  line  that  you  can  edit  so  I
+
+could  take  this  and  pull  this  down  like
+
+that  and  as  you  can  see  there  the  path
+
+is  being  or  the  object  rather  is  being
+
+bent  along  that  Green  Path  and  you  could
+
+adjust  these  handles  and  you  could  take
+
+this  handle  over  here  if  you  need  to
+
+make  this  wider  like
+
+that  just  like  that  and  there  we  go  we
+
+have  now  we  have  a  bent  path  that  looks
+
+more  natural  like  a  lions  tail  and  the
+
+final  path  effect  well  be  having  a  look
+
+at  is  the  lattice  deformation  which
+
+gives  you  multiple  points  in  which  you
+
+can  warp  an  object  so  if  I  select  my
+
+subject  here  and  I  add  a  path  effect  Im
+
+going  to  look  for  lattice
+
+deformation  there  we  go  and  once  you
+
+have  that  applied  you  can  come  over  here
+
+to  your  edit  pads  by  nodes  tool  and  you
+
+can  see  we  have  this  blue  grid  with
+
+nodes  placed  on  it  and  you  could  take
+
+these  nodes  and  move  them  around  like
+
+this  to  distort  the  object  so  if  I  go
+
+like  that  I  can  make  the  subject  taller
+
+or  shorter  and  can  warp  and  distort  it
+
+in  various  ways  so  that  it  doesnt  look
+
+so  so  much  like  the  original  object
+
+there  like  that  and  if  I  select  my
+
+selection  tool  and  toggle  this  off  you
+
+could  see  the  difference  there  we  were
+
+able  to  warp  this  object  rather  easily
+
+using  that  path  effect  so  thats  just  a
+
+few  of  the  ways  in  which  you  can  warp
+
+and  distort  objects  in  inkscape  if  you
+
+found  this  lesson  useful  then  consider
+
+checking  out  my  inkscape  master  class
+
+its  a  collection  of  over  60  videos
+
+where  I  go  over  all  of  the  tools  and
+
+features  in  inkscape  and  I  explain  what
+
+they  are  and  demonstrate  how  they  work
+
+kind  of  like  how  I  did  in  this  video  we
+
+even  have  a  private  Community  where  you
+
+can  ask  questions  and  get  help  from  me
+
+anytime  you  want  and  best  of  all  theres
+
+no  monthly  membership  fees  you  just  pay
+
+$17  one  time  and  youre  in  for  Life  Ill
+
+have  some  information  about  that  down
+
+below  if  you  want  to  check  that  out  as
+
+always  thanks  for  watching
+

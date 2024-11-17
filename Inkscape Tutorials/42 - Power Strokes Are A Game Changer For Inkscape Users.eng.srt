@@ -1,0 +1,952 @@
+1
+00:00:00,160 --> 00:00:02,000
+in previous tutorials i've demonstrated
+
+2
+00:00:02,000 --> 00:00:04,080
+how to create simple line style drawings
+
+3
+00:00:04,080 --> 00:00:06,160
+from photos by using some of the tool
+
+4
+00:00:06,160 --> 00:00:08,320
+settings in the pen tool but inkscape
+
+5
+00:00:08,320 --> 00:00:10,160
+has come a very long way since then and
+
+6
+00:00:10,160 --> 00:00:11,599
+there's now a better way to do this
+
+7
+00:00:11,599 --> 00:00:13,679
+using the power stroke path effect in
+
+8
+00:00:13,679 --> 00:00:17,920
+this lesson i'll be showing you how
+
+9
+00:00:20,420 --> 00:00:23,719
+[Music]
+
+10
+00:00:24,960 --> 00:00:26,720
+so let's go over how you can use this
+
+11
+00:00:26,720 --> 00:00:28,880
+handy feature in inkscape we're going to
+
+12
+00:00:28,880 --> 00:00:30,960
+start off by drawing a single line using
+
+13
+00:00:30,960 --> 00:00:32,719
+the bezier pen which is located over
+
+14
+00:00:32,719 --> 00:00:34,719
+here in your toolbar or you could access
+
+15
+00:00:34,719 --> 00:00:36,079
+it by pressing the letter b on your
+
+16
+00:00:36,079 --> 00:00:37,200
+keyboard
+
+17
+00:00:37,200 --> 00:00:38,879
+i'm going to click on the canvas once to
+
+18
+00:00:38,879 --> 00:00:40,480
+create a point and then i'm going to
+
+19
+00:00:40,480 --> 00:00:42,320
+hold ctrl on the keyboard and move the
+
+20
+00:00:42,320 --> 00:00:44,399
+line straight across my screen like that
+
+21
+00:00:44,399 --> 00:00:45,920
+and then click again to create another
+
+22
+00:00:45,920 --> 00:00:47,840
+point and then i can let go of control
+
+23
+00:00:47,840 --> 00:00:49,680
+and then i'm going to close the path by
+
+24
+00:00:49,680 --> 00:00:51,520
+pressing enter on the keyboard and now
+
+25
+00:00:51,520 --> 00:00:53,680
+we have a single line here as you can
+
+26
+00:00:53,680 --> 00:00:54,879
+see
+
+27
+00:00:54,879 --> 00:00:56,079
+now what i'm going to do is grab the
+
+28
+00:00:56,079 --> 00:00:57,520
+edit paths by nodes tool which is
+
+29
+00:00:57,520 --> 00:00:59,359
+located over here and i'm going to click
+
+30
+00:00:59,359 --> 00:01:00,960
+and drag on this line like this just to
+
+31
+00:01:00,960 --> 00:01:02,239
+give it a little bit of a curve and then
+
+32
+00:01:02,239 --> 00:01:03,680
+i'm going to click on these nodes over
+
+33
+00:01:03,680 --> 00:01:04,720
+here
+
+34
+00:01:04,720 --> 00:01:06,159
+and i'm going to get access to these
+
+35
+00:01:06,159 --> 00:01:07,840
+handles and use these handles to make
+
+36
+00:01:07,840 --> 00:01:08,640
+this
+
+37
+00:01:08,640 --> 00:01:10,799
+line dip down over here and then rise up
+
+38
+00:01:10,799 --> 00:01:13,680
+over here so we have a fluid curved line
+
+39
+00:01:13,680 --> 00:01:15,520
+like that now i'm creating this because
+
+40
+00:01:15,520 --> 00:01:17,119
+this is a good
+
+41
+00:01:17,119 --> 00:01:20,000
+uh way to depict what this path effect
+
+42
+00:01:20,000 --> 00:01:20,960
+does
+
+43
+00:01:20,960 --> 00:01:22,479
+so once we've done that let's grab the
+
+44
+00:01:22,479 --> 00:01:24,479
+selection tool we now have our line
+
+45
+00:01:24,479 --> 00:01:26,320
+selected i'm going to open up the path
+
+46
+00:01:26,320 --> 00:01:28,479
+effects menu by going to path and
+
+47
+00:01:28,479 --> 00:01:30,960
+selecting path effects
+
+48
+00:01:30,960 --> 00:01:32,479
+and with this line selected i want to
+
+49
+00:01:32,479 --> 00:01:34,079
+click this little plus icon down here in
+
+50
+00:01:34,079 --> 00:01:35,759
+the bottom right corner to add a new
+
+51
+00:01:35,759 --> 00:01:36,880
+path effect
+
+52
+00:01:36,880 --> 00:01:38,240
+and the path effect that we're going to
+
+53
+00:01:38,240 --> 00:01:40,640
+be adding from this list is called power
+
+54
+00:01:40,640 --> 00:01:42,799
+stroke now instead of trying to navigate
+
+55
+00:01:42,799 --> 00:01:44,159
+through this list and find it you can
+
+56
+00:01:44,159 --> 00:01:45,840
+just use the search bar up here and type
+
+57
+00:01:45,840 --> 00:01:46,960
+in power
+
+58
+00:01:46,960 --> 00:01:48,399
+and it should come up right over there
+
+59
+00:01:48,399 --> 00:01:50,000
+as you can see power stroke click on
+
+60
+00:01:50,000 --> 00:01:51,360
+that
+
+61
+00:01:51,360 --> 00:01:53,600
+and now we have a power stroke applied
+
+62
+00:01:53,600 --> 00:01:55,119
+what we want to do to edit this power
+
+63
+00:01:55,119 --> 00:01:56,399
+stroke is come back over here to the
+
+64
+00:01:56,399 --> 00:01:58,399
+edit paths by nodes tool
+
+65
+00:01:58,399 --> 00:02:00,000
+and you'll notice on your path you
+
+66
+00:02:00,000 --> 00:02:02,719
+should see three pink nodes let me zoom
+
+67
+00:02:02,719 --> 00:02:04,079
+in a little bit i'm going to hold ctrl
+
+68
+00:02:04,079 --> 00:02:05,200
+and roll up the mouse wheel so you can
+
+69
+00:02:05,200 --> 00:02:06,320
+see it better
+
+70
+00:02:06,320 --> 00:02:08,318
+there's one pink node right here in the
+
+71
+00:02:08,318 --> 00:02:10,399
+center point of the path
+
+72
+00:02:10,399 --> 00:02:12,239
+and then over here there's another pink
+
+73
+00:02:12,239 --> 00:02:13,760
+point on the
+
+74
+00:02:13,760 --> 00:02:15,360
+on the left hand side of the path or
+
+75
+00:02:15,360 --> 00:02:16,879
+otherwise known as the start point of
+
+76
+00:02:16,879 --> 00:02:18,400
+the path where you originally drew the
+
+77
+00:02:18,400 --> 00:02:20,400
+path first and then over here towards
+
+78
+00:02:20,400 --> 00:02:22,720
+the end point there's another pink path
+
+79
+00:02:22,720 --> 00:02:24,879
+now all all of these handles allow you
+
+80
+00:02:24,879 --> 00:02:27,840
+to change the width of your stroke
+
+81
+00:02:27,840 --> 00:02:29,520
+so if i click and drag on this pink path
+
+82
+00:02:29,520 --> 00:02:31,360
+right here you can see the stroke is
+
+83
+00:02:31,360 --> 00:02:33,599
+becoming wider as i move it like this
+
+84
+00:02:33,599 --> 00:02:35,760
+and if i use this handle down here i can
+
+85
+00:02:35,760 --> 00:02:38,319
+make this end of the line wider as well
+
+86
+00:02:38,319 --> 00:02:40,160
+i could even move this the opposite way
+
+87
+00:02:40,160 --> 00:02:41,840
+and get like a little bit of a crossover
+
+88
+00:02:41,840 --> 00:02:43,519
+effect there but i'm going to use this
+
+89
+00:02:43,519 --> 00:02:45,599
+to make this about that size and then
+
+90
+00:02:45,599 --> 00:02:46,640
+i'll do the same thing over here i'll
+
+91
+00:02:46,640 --> 00:02:48,879
+make this about that size and another
+
+92
+00:02:48,879 --> 00:02:50,640
+thing that you can do is you can move
+
+93
+00:02:50,640 --> 00:02:53,360
+the location of these handles
+
+94
+00:02:53,360 --> 00:02:55,120
+so that you can change the width of any
+
+95
+00:02:55,120 --> 00:02:56,879
+particular spot of your line as you see
+
+96
+00:02:56,879 --> 00:02:58,640
+me doing here i could give this a line a
+
+97
+00:02:58,640 --> 00:03:00,879
+bulge over here so that this kind of
+
+98
+00:03:00,879 --> 00:03:03,360
+looks like a leaf or a paintbrush maybe
+
+99
+00:03:03,360 --> 00:03:05,040
+or i could bring this down here so that
+
+100
+00:03:05,040 --> 00:03:06,640
+we end up with a
+
+101
+00:03:06,640 --> 00:03:08,159
+maybe it looks more like a follicle of
+
+102
+00:03:08,159 --> 00:03:10,159
+hair or something like that okay so let
+
+103
+00:03:10,159 --> 00:03:11,920
+me put this back over here let me show
+
+104
+00:03:11,920 --> 00:03:13,599
+you what some of these tool settings are
+
+105
+00:03:13,599 --> 00:03:14,959
+over here
+
+106
+00:03:14,959 --> 00:03:16,239
+in the bottom right hand corner of the
+
+107
+00:03:16,239 --> 00:03:18,239
+screen now if you notice there's a start
+
+108
+00:03:18,239 --> 00:03:20,879
+cap and then there's an end cap the
+
+109
+00:03:20,879 --> 00:03:23,040
+start cap is the beginning of the path
+
+110
+00:03:23,040 --> 00:03:25,360
+that you originally drew and the end cap
+
+111
+00:03:25,360 --> 00:03:27,920
+is the end of the path that was
+
+112
+00:03:27,920 --> 00:03:29,760
+most recently finished
+
+113
+00:03:29,760 --> 00:03:32,080
+now if i change this by default it's set
+
+114
+00:03:32,080 --> 00:03:33,760
+to zero width if i want to change the
+
+115
+00:03:33,760 --> 00:03:35,519
+start cap to rounded
+
+116
+00:03:35,519 --> 00:03:38,080
+or to let's say for example but
+
+117
+00:03:38,080 --> 00:03:40,159
+it ends up with the flat
+
+118
+00:03:40,159 --> 00:03:41,599
+edge like that so you could take this
+
+119
+00:03:41,599 --> 00:03:42,959
+handle and bring this over here like
+
+120
+00:03:42,959 --> 00:03:45,440
+this and pull this all the way out so
+
+121
+00:03:45,440 --> 00:03:46,959
+you get this sort of effect right here
+
+122
+00:03:46,959 --> 00:03:49,280
+where it kind of looks like a wispy hair
+
+123
+00:03:49,280 --> 00:03:51,200
+okay so let me undo that and then
+
+124
+00:03:51,200 --> 00:03:52,400
+there's other settings in here you could
+
+125
+00:03:52,400 --> 00:03:54,640
+try as well you can make this peak
+
+126
+00:03:54,640 --> 00:03:56,159
+which ends up with something like this
+
+127
+00:03:56,159 --> 00:03:58,400
+right here
+
+128
+00:03:58,400 --> 00:04:01,200
+or you can make this round so that you
+
+129
+00:04:01,200 --> 00:04:03,760
+have a rounded path like that
+
+130
+00:04:03,760 --> 00:04:05,519
+you can make this square so you have a
+
+131
+00:04:05,519 --> 00:04:08,000
+squared path and then zero width takes
+
+132
+00:04:08,000 --> 00:04:09,840
+you back to the starting point with the
+
+133
+00:04:09,840 --> 00:04:12,879
+fine tip like that
+
+134
+00:04:12,879 --> 00:04:15,040
+so let's put this tool into context and
+
+135
+00:04:15,040 --> 00:04:17,040
+use it to create a simple abstract
+
+136
+00:04:17,040 --> 00:04:19,199
+mountain range logo i'm going to grab
+
+137
+00:04:19,199 --> 00:04:20,639
+the bezier pen
+
+138
+00:04:20,639 --> 00:04:22,079
+and i'm going to create some points on
+
+139
+00:04:22,079 --> 00:04:25,280
+my canvas in the shape of a mountain top
+
+140
+00:04:25,280 --> 00:04:27,199
+with a couple of peaks
+
+141
+00:04:27,199 --> 00:04:30,320
+as you can see here like this
+
+142
+00:04:30,320 --> 00:04:32,320
+and i'll press enter
+
+143
+00:04:32,320 --> 00:04:34,320
+and now i'm going to add the power
+
+144
+00:04:34,320 --> 00:04:37,199
+stroke path effect as we did previously
+
+145
+00:04:37,199 --> 00:04:39,199
+grab the edit pads by nodes tool i'm
+
+146
+00:04:39,199 --> 00:04:40,880
+going to use my pink handles over here
+
+147
+00:04:40,880 --> 00:04:43,040
+to make this a little wider i'm going to
+
+148
+00:04:43,040 --> 00:04:44,880
+use this handle over here and put this
+
+149
+00:04:44,880 --> 00:04:47,040
+towards the top of the base of the leg
+
+150
+00:04:47,040 --> 00:04:48,080
+so that it looks a little more
+
+151
+00:04:48,080 --> 00:04:50,160
+consistent
+
+152
+00:04:50,160 --> 00:04:51,759
+there we go and i want this side to be a
+
+153
+00:04:51,759 --> 00:04:53,040
+little thicker than the rest of it so
+
+154
+00:04:53,040 --> 00:04:55,040
+i'll make that a little bigger like that
+
+155
+00:04:55,040 --> 00:04:56,880
+now if you notice here the corners of
+
+156
+00:04:56,880 --> 00:04:58,960
+this mountain range are rounded
+
+157
+00:04:58,960 --> 00:05:00,560
+the reason why that happens is because
+
+158
+00:05:00,560 --> 00:05:02,000
+the default setting over here in the
+
+159
+00:05:02,000 --> 00:05:04,639
+tool settings where it says join
+
+160
+00:05:04,639 --> 00:05:06,720
+is rounded by default if you want
+
+161
+00:05:06,720 --> 00:05:08,000
+corners there what i would recommend
+
+162
+00:05:08,000 --> 00:05:10,240
+doing is selecting miter and as you can
+
+163
+00:05:10,240 --> 00:05:12,320
+see now we get sharp corners like that
+
+164
+00:05:12,320 --> 00:05:14,240
+or if you're working with curved paths
+
+165
+00:05:14,240 --> 00:05:15,360
+sometimes you'll want to use
+
+166
+00:05:15,360 --> 00:05:18,000
+extrapolated arc as well if the corners
+
+167
+00:05:18,000 --> 00:05:20,080
+don't show up using miter
+
+168
+00:05:20,080 --> 00:05:21,840
+for this demonstration we'll be sticking
+
+169
+00:05:21,840 --> 00:05:23,759
+with miter
+
+170
+00:05:23,759 --> 00:05:25,680
+okay so now that that's done i'm going
+
+171
+00:05:25,680 --> 00:05:26,960
+to create another line i'm going to come
+
+172
+00:05:26,960 --> 00:05:28,320
+over here
+
+173
+00:05:28,320 --> 00:05:30,560
+i'm going to draw a line over here
+
+174
+00:05:30,560 --> 00:05:32,240
+start a point right there
+
+175
+00:05:32,240 --> 00:05:34,479
+start another point right there
+
+176
+00:05:34,479 --> 00:05:36,400
+and press enter on the keyboard and i'm
+
+177
+00:05:36,400 --> 00:05:38,000
+going to grab the edit pads by nodes
+
+178
+00:05:38,000 --> 00:05:39,280
+tool i'm just going to click and drag
+
+179
+00:05:39,280 --> 00:05:41,440
+this down like that
+
+180
+00:05:41,440 --> 00:05:42,960
+and i'll take this and i'll maybe bring
+
+181
+00:05:42,960 --> 00:05:45,280
+this line up like that
+
+182
+00:05:45,280 --> 00:05:47,440
+maybe bring this one down a little more
+
+183
+00:05:47,440 --> 00:05:50,400
+we want a nice fluid curve here
+
+184
+00:05:50,400 --> 00:05:52,160
+and i'm going to update my mountain
+
+185
+00:05:52,160 --> 00:05:53,280
+range
+
+186
+00:05:53,280 --> 00:05:55,360
+to to accommodate this swoosh a little
+
+187
+00:05:55,360 --> 00:05:56,720
+bit i'm going to take this side right
+
+188
+00:05:56,720 --> 00:05:58,639
+here move that up a little bit
+
+189
+00:05:58,639 --> 00:06:00,319
+that's a little better
+
+190
+00:06:00,319 --> 00:06:01,600
+and now i'm going to apply a power
+
+191
+00:06:01,600 --> 00:06:04,560
+stroke to this line right here
+
+192
+00:06:04,560 --> 00:06:06,400
+use my nodes right here to make this
+
+193
+00:06:06,400 --> 00:06:08,240
+wider
+
+194
+00:06:08,240 --> 00:06:10,240
+make this a little wider
+
+195
+00:06:10,240 --> 00:06:13,039
+and then make this a little wider
+
+196
+00:06:13,039 --> 00:06:16,479
+and maybe even make this a little wider
+
+197
+00:06:16,479 --> 00:06:18,639
+okay that's looking a lot better
+
+198
+00:06:18,639 --> 00:06:19,840
+and i'm just going to adjust this a
+
+199
+00:06:19,840 --> 00:06:22,080
+little bit make sure this is looking
+
+200
+00:06:22,080 --> 00:06:25,120
+the way i'd like it to look
+
+201
+00:06:25,919 --> 00:06:27,039
+and there we go i'd say that's good
+
+202
+00:06:27,039 --> 00:06:28,080
+enough so what i'm going to do now is
+
+203
+00:06:28,080 --> 00:06:30,080
+grab the selection tool as you can see
+
+204
+00:06:30,080 --> 00:06:31,919
+now as you can see here we have created
+
+205
+00:06:31,919 --> 00:06:34,560
+a very simple abstract mountain logo now
+
+206
+00:06:34,560 --> 00:06:36,000
+at any point you can go back and edit
+
+207
+00:06:36,000 --> 00:06:37,600
+the nodes of these tools you can go back
+
+208
+00:06:37,600 --> 00:06:39,520
+and edit the width of these lines over
+
+209
+00:06:39,520 --> 00:06:41,600
+here like that of the power stroke
+
+210
+00:06:41,600 --> 00:06:43,440
+and if at any point you want to finalize
+
+211
+00:06:43,440 --> 00:06:45,680
+this so that it becomes an editable path
+
+212
+00:06:45,680 --> 00:06:47,680
+all you have to do is select everything
+
+213
+00:06:47,680 --> 00:06:49,199
+and go to path
+
+214
+00:06:49,199 --> 00:06:51,120
+object to path and if you go back to
+
+215
+00:06:51,120 --> 00:06:52,560
+your nodes tool now you can see that
+
+216
+00:06:52,560 --> 00:06:54,960
+this is an individual path that was
+
+217
+00:06:54,960 --> 00:06:57,520
+created using that power stroke function
+
+218
+00:06:57,520 --> 00:06:59,039
+so i think that should do it for today's
+
+219
+00:06:59,039 --> 00:07:00,800
+tutorial that is how you can use the
+
+220
+00:07:00,800 --> 00:07:03,199
+power stroke path effect in inkscape
+
+221
+00:07:03,199 --> 00:07:04,720
+before i end this video if you found
+
+222
+00:07:04,720 --> 00:07:06,319
+this lesson useful then consider
+
+223
+00:07:06,319 --> 00:07:08,880
+checking out my inkscape master class
+
+224
+00:07:08,880 --> 00:07:10,800
+it's a collection of over 60 videos
+
+225
+00:07:10,800 --> 00:07:12,400
+where i go over all of the tools and
+
+226
+00:07:12,400 --> 00:07:14,479
+features in inkscape and i explain what
+
+227
+00:07:14,479 --> 00:07:16,319
+they are and demonstrate how they work
+
+228
+00:07:16,319 --> 00:07:18,319
+kind of like how i did in this video we
+
+229
+00:07:18,319 --> 00:07:19,840
+even have a private community where you
+
+230
+00:07:19,840 --> 00:07:22,080
+can ask questions and get help from me
+
+231
+00:07:22,080 --> 00:07:24,240
+anytime you want and best of all there's
+
+232
+00:07:24,240 --> 00:07:26,160
+no monthly membership fees you just pay
+
+233
+00:07:26,160 --> 00:07:29,440
+17 one time and you're in for life i'll
+
+234
+00:07:29,440 --> 00:07:30,720
+have some information about that in the
+
+235
+00:07:30,720 --> 00:07:32,160
+description of the video if you want to
+
+236
+00:07:32,160 --> 00:07:34,240
+check that out as always thanks for
+
+237
+00:07:34,240 --> 00:07:37,240
+watching
+
+238
+00:07:53,759 --> 00:07:55,840
+you
+

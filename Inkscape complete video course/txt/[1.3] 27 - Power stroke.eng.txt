@@ -1,0 +1,28 @@
+Lets look at how to make this logo. A convenient way to do this, is to use the Power stroke.
+It wasnt until Illustrator CS6, that you were able to create a variable stroke width.
+Its a powerful tool to have in your arsenal. So
+lets have a look. I select the Ellipse tool, and drag a circle.
+I will make the start and end points fit the large arc.
+I go to: Path Effects, and choose: Power stroke. I want the Start and End cap to be rounded.
+I drag the purple control point, to adjust the width.
+I lower the Opacity, so I can clearly see both shapes.
+I zoom in on the start point.
+I fine tune the end point.
+At this moment, I have three points to adjust the line width. But you can remove and add points.
+To add a control point, I Control-click on a purple diamond.
+Now I have four points to control the line with.
+I will create a fifth control point, by Control-clicking on a purple diamond.
+To make the top curve, I duplicate the large arc. I will reposition the start and end points.
+I see I must rotate the arc somewhat. So I press the spacebar.
+I will have to rotate a bit more. But this time, I will reposition the rotation point.
+Ill save my paths, so I can adjust them later if needed. So I duplicate them.
+I hide the original shapes, that have the Live Path Effects. Then
+I will turn the duplicates into regular paths, and unite them.
+Now lets color the path.
+I go to Fill and Stroke, and select: Radial gradient.
+I select the Gradient tool, and move the gradient to the bottom left. I click on the Dropper tool,
+and sample the green. And for the outside color, I sample the blue. I Shift-Ctrl-drag, to make
+the gradient bigger. Now lets place the text. I will use Assistant, which is a free Google font.
+I click on Spacing, and set Spacing between letters to: 15. I want to remove
+the horizontal stroke from the letter A. To do this, I go to: Path > Object to Path.
+I select the Node tool, and drag over the horizontal stroke. I press: Delete.

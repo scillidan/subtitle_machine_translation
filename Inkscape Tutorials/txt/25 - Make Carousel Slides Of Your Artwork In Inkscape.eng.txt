@@ -1,0 +1,447 @@
+
+in  this  tutorial  well  be  going  over  how
+
+you  can  divide  your  artwork  up  into
+
+individual  Carousel  slides  and  then
+
+export  them  as  individual  PNG  or  jpeg
+
+images  using  inkscape  so  Ill  go  ahead
+
+and  get  started  here  in  inkscape  the
+
+example  well  be  working  with  for  this
+
+demonstration  is  the  Instagram  Carousel
+
+slide  which  they  recommend  a  size  of
+
+1080  by  1350  so  what  Im  going  to  do  is
+
+grab  the  rectangle  tool  and  Im  going  to
+
+click  and  drag  to  draw  a  rectangle  and  I
+
+want  to  make  this  to  be  1080  width  by
+
+1350  height  so  I  will  grab  my  selection
+
+tool  Ill  come  up  here  to  where  the
+
+width  and  height  inputs  are  and  Ill
+
+change  the  width  to  well  first  of  all
+
+make  sure  youre  working  with  pixels
+
+here  and  then  make  sure  this  lock  icon
+
+is  turned  off  and  I  will  make  this  a
+
+width  of  1080.
+
+and  then  I  will  make  this  a  height  of
+
+1350.
+
+and  now  we  have  the  size  this  represents
+
+one  slide  on  the  carousel  so  if  you  want
+
+to  have  three  or  four  slides  were  going
+
+to  have  to  create  three  or  four  copies
+
+of  this  and  stack  them  next  to  each
+
+other  so  let  me  first  change  the
+
+documents  so  that  its  the  size  of  this
+
+rectangle  here  so  with  the  rectangle
+
+selected  Im  just  going  to  press  Ctrl
+
+shift  r  on  the  keyboard  or  if  youre
+
+using  Mac  it  would  be  command  shift  R
+
+and  its  going  to  resize  the  document  to
+
+the  selection  as  you  can  see  there  and
+
+now  we  want  to  get  rid  of  that  border
+
+and  the  shadow  around  the  border  so  let
+
+me  go  to  document  properties  Ill  go  to
+
+file
+
+document  properties
+
+and  where  it  says  border  lets  first
+
+turn  off  the  Border  shadow
+
+and  then  we  will  turn  off  the  Border
+
+altogether
+
+and  then  we  can  close  out  of  this  menu
+
+so  we  now  have  a  single  document  for  a
+
+single  tile  so  what  we  have  to  do  is
+
+create  three  or  four  duplicate  copies  of
+
+this  for  the  for  this  demonstration  I
+
+will  create  three  slides  if  you  want  to
+
+create  more  you  can  go  ahead  and  do  that
+
+first  Im  going  to  turn  on  snapping  up
+
+here  in  this  top  right  corner  and  then
+
+Im  going  to  snap  this  rectangle  to  the
+
+right  hand  side  of  the  page  there  like
+
+that  and  then  I  will  grab  the  documents
+
+tool  down  here
+
+I  will  snap  to  the  bottom  right  corner
+
+then  click  and  drag  and  then  snap  to  the
+
+top  left  corner  to  draw  the  second  page
+
+and  if  I  move  this  over  we  now  have  a
+
+second  document  there  now  it  looks  like
+
+one  continuous  document  but  these  are
+
+two  separate  two  separate  documents  here
+
+we  have  page  one  and  then  page  two
+
+so  now  Im  going  to  create  my  third
+
+slide  Im  going  to  snap  this  over  here
+
+to  the  right  hand  side
+
+and  I  will  grab  my  documents  tool  again
+
+snap  to  the  bottom  right  corner
+
+click  and  drag
+
+there  we  go  theres  page  three  so  let  me
+
+grab  this  and  move  this  out  of  the  way
+
+Im  just  going  to  work  with  three  slides
+
+for  this  demonstration  so  Im  going  to
+
+delete  this  rectangle  now  if  you  want
+
+four  or  five  slides  youll  just  have  to
+
+repeat  that  process  a  few  more  times  but
+
+we  now  have  the  template  that  we  can  use
+
+to  design  our  independent  slides  and  Im
+
+gonna  for  this  demonstration  Im  gonna
+
+bring  in  an  image  that  Ive  downloaded
+
+from  a  stock  photo  site  let  me  just  open
+
+this  up  I  have  this  on  my  other  screen
+
+over  here  Im  going  to  click  and  drag
+
+the  image  onto  my  canvas  like  that
+
+okay  so  now  I  have  imported  my  artwork
+
+onto  the  canvas  the  problem  that  we  have
+
+now  is  that  you  cant  see  exactly  where
+
+the  artwork  lines  up  with  the  canvas  so
+
+were  going  to  re-enable  borders  so  that
+
+we  can  see  that  let  me  place  this  on  top
+
+of  the  top  of  the  document  like  that  and
+
+then  I  will  open  up  the  document
+
+properties  menu  again  file  document
+
+properties
+
+and  now
+
+Im  going  to  turn  the  Border  back  on
+
+Im  going  to  make  it  so  that  the  border
+
+is  always  on  top  Im  going  to  tick  that
+
+box  and  now  you  will  see  the  border  on
+
+top  of  your  artwork  and  Im  going  to
+
+leave  show  shadow  turned  off  thats  not
+
+necessary  and  depending  on  the
+
+composition  of  your  image  you  may  want
+
+to  change  the  color  of  your  border  if
+
+you  notice  here  my  border  is  kind  of
+
+blending  in  with  the  image  it  doesnt
+
+stand  out  very  well  so  Im  going  to  make
+
+this  border  white  so  Im  going  to  change
+
+the  Border  color  up  here
+
+then  Im  going  to  make  this  white
+
+and  you  can  see  you  can  see  that  border
+
+much  better  now
+
+and  if  you  want  to  bring  down  the
+
+opacity  of  it  so  it  isnt  so  sharp  you
+
+could  bring  this  down  a  little  bit  and
+
+now  it  gives  you  a  better  idea  of  what
+
+the  continuous  image  will  look  like
+
+because  the  Border  isnt  so  prominent
+
+there  so  let  me  close  out  of  that  now
+
+and  we  now  have  our  document  set  up  with
+
+three  different  Carousel  slides  that  we
+
+can  add  our  contents  to  so  Im  going  to
+
+resize  my  image  to  fit  this  better  Im
+
+going  to  turn  off  snapping  now  we  dont
+
+need  that  anymore
+
+and  Im  going  to  hold  Ctrl  while  Im
+
+scaling  and  Im  going  to  place  my
+
+artwork  right  about  where  I  want  the
+
+three  slides  to  be  so  in  this  first
+
+slide  I  want  the  subject  to  be  in  here
+
+and  then  the  last  two  slides  I  can  let
+
+it  be  the  rest  of  the  image  like  that
+
+and  what  you  could  do  now  is  you  can  go
+
+through  here  and  add  some  contents  so  I
+
+think  for  this  demonstration  Ill  just
+
+add  some  simple  little  dummy  text  and
+
+then  well  take  it  from  there
+
+okay  so  I  have  some  sample  text  in  there
+
+if  you  want  to  make  sure  that  your
+
+elements  that  your  design  elements  are
+
+aligning  perfectly  with  each  individual
+
+slide  of  the  carousel  just  open  up  your
+
+aligned  distribute  menu  by  going  to
+
+object  and  selecting  align  and
+
+distribute  down  here  at  the  bottom  of
+
+the  list
+
+and  then  set  the  relative  to  set  this  to
+
+page  and  now  whichever  page  you  have  the
+
+design  element  placed  over  you  can
+
+Center  and  align  it  based  on  that
+
+particular  page  there  so  Ill  make  a
+
+duplicate  of  that  by  pressing  Ctrl  D  and
+
+Ill  move  this  over  here
+
+and  then  I  will  Center  this  up  on  this
+
+page  as  well
+
+okay  so  lets  say  that  this  is  the
+
+design  I  want  to  export  these  are  the
+
+three  slides  I  want  to  work  with  here
+
+to  do  this  were  going  to  create
+
+separate  images  of  each  tile  here  using
+
+the  batch  export  feature  so  lets  go  up
+
+to  where  it  says  file  and  go  to  export
+
+and  then  over  here  in  the  export  menu
+
+were  going  to  choose  batch  export
+
+because  we  want  to  export  all  three  of
+
+these  slides  at  once
+
+and  were  going  to  choose  pages  over
+
+here  and  if  you  notice  over  here  this  is
+
+a  preview  of  whats  going  to  get
+
+exported  we  have  page  one  page  two  and
+
+Page  Three  now  if  yours  is  not  in  order
+
+dont  worry  sometimes  it  just  indexes
+
+them  here  in  the  wrong  order  but  they
+
+will  be  exported  with  the  proper  name
+
+and  the  and  in  the  proper  order  so  uh
+
+this  this  title  page  one  page  two  page
+
+three  down  here  you  can  choose  like  a
+
+prefix  for  the  name
+
+what  Im  going  to  do  is  Im  going  to
+
+click  this  little  folder  icon  over  here
+
+to  choose  where  I  would  like  to  export
+
+these  designs
+
+so  what  you  can  do  here  is  change  the
+
+name  of  the  files  that  will  be  exported
+
+the  default  here  as  you  can  see  is
+
+bitmap.png  if  I  leave  the  default  here
+
+as  it  is  the  files  are  going  to  be  saved
+
+with  the  names  bitmap  Dash  page1.png  and
+
+then  page2.png  and  so  on  and  so  forth
+
+Im  just  going  to  leave  that  as  it  is
+
+down  here  you  can  choose  your  file  type
+
+if  youd  like  the  default  is  PNG  but  if
+
+you  want  to  export  as  JPEG  or  Tiff  or
+
+webp  there  you  go  there  that  option  is
+
+and  Im  going  to  click  save  and  what
+
+Ill  do  here  is  I  will  just  put  up  on
+
+the  screen  here  the  result  of  exporting
+
+these  three  documents  as  individual
+
+Carousel  slides  and  you  can  now  upload
+
+these  to  Instagram  or  wherever  else  to
+
+have  three  separate  images  that  make  one
+
+continuous  image  so  thats  how  you  can
+
+divide  your  artwork  up  into  individual
+
+Carousel  slides  using  inkscape  if  you
+
+found  this  lesson  useful  then  consider
+
+checking  out  my  inkscape  master  class
+
+its  a  collection  of  over  60  videos
+
+where  I  go  over  all  of  the  tools  and
+
+features  in  inkscape  and  I  explain  what
+
+they  are  and  demonstrate  how  they  work
+
+kind  of  like  how  I  did  in  this  video  we
+
+even  have  a  private  Community  where  you
+
+can  ask  questions  and  get  help  for  me
+
+anytime  you  want  and  best  of  all  theres
+
+no  monthly  membership  fees  you  just  pay
+
+17  one  time  and  youre  in  for  Life  Ill
+
+have  some  information  about  that  down
+
+below  if  you  want  to  check  that  out  as
+
+always  thanks  for  watching
+
+foreign
+

@@ -1,0 +1,387 @@
+
+although  inkscape  is  meant  for  working
+
+with  vector  graphics
+
+it  does  have  some  features  and  tools
+
+that  allow  you  to  make  common  edits  to
+
+photographs  and  other  types  of
+
+rasterized  images
+
+and  even  though  youd  be  better  off
+
+using  proper  photo  editing  software  for
+
+this  sort  of  thing
+
+you  may  find  yourself  working  in  a
+
+vector  environment  once  in  a  while
+
+and  needing  to  just  make  a  quick  edit  to
+
+an  image
+
+in  these  instances  launching  yet  another
+
+application  can  be  an  inconvenience
+
+this  is  where  inkscapes  photo  editing
+
+ability  comes  in  handy
+
+and  in  this  video  ill  be  going  over  8
+
+different  ways  in  which  you  can  edit
+
+photos
+
+in  inkscape
+
+
+
+this  is  nick  with  logosbynick.com  and  in
+
+this  video  ill  be  going  over  some  of
+
+the  ways  in  which  you  can  edit  photos  in
+
+inkscape
+
+but  before  we  get  started  if  youd  like
+
+to  learn  everything  that  there  is  to
+
+know  about  inkscape  be  sure  to  check  out
+
+my  inkscape  master  class
+
+its  a  collection  of  over  60  videos
+
+where  i  go  over  every  tool  and  feature
+
+in  inkscape
+
+and  i  explain  what  it  is  and  demonstrate
+
+how  it  works  ill  have  a  link  in  the
+
+description  of  the  video  if  you  want  to
+
+check  that  out
+
+the  first  way  in  which  you  can  edit  a
+
+photo  in  inkscape  is  by  cropping  it
+
+to  crop  your  photo  all  you  have  to  do  is
+
+create  a  rectangle  going  over  the
+
+portion  of  the  photo  youd  like  to  crop
+
+and  then  create  a  clipping  mask  from  it
+
+from  there  you  can  just  resize  your
+
+document  based  on  the  cropped  image  by
+
+pressing  ctrl
+
+shift  and  r  and  then  from  there  you  can
+
+export  your  work  as  a  png  file
+
+ill  have  a  tutorial  linked  in  the
+
+description  of  the  video  if  you  need
+
+more  details
+
+not  only  can  clipping  pads  be  used  to
+
+crop  photos  in  inkscape
+
+but  they  can  also  be  used  to  extract
+
+subjects  from  the  photo
+
+this  allows  you  to  do  all  kinds  of
+
+unique  things  like  create  a  photo
+
+pop-out  effect  or
+
+remove  a  background  from  an  image  these
+
+extractions  can  be  made  by  simply
+
+grabbing  the  bezier  pen
+
+and  manually  drawing  a  path  around  the
+
+subject  youd  like  to  extract
+
+then  from  there  you  can  create  a
+
+clipping  path  from  it  by  selecting  both
+
+objects
+
+and  navigating  to  object  clip  set
+
+another  way  that  you  can  edit  photos  in
+
+inkscape  is  by  adjusting  their  opacity
+
+and  inkscape  allows  you  to  change
+
+opacity  values  in  a  variety  of  different
+
+ways
+
+you  can  change  the  overall  opacity  of  an
+
+image  by  selecting  it  and  opening  the
+
+fill  and  stroke  menu
+
+from  there  grab  the  opacity  slider  and
+
+adjust  it  to  your  liking
+
+you  can  also  give  a  photo  partial
+
+transparency  or  a  transparency  gradient
+
+by  using  layer  masks  this  makes  it  so
+
+that  one  side  of  an  image  is  visible
+
+but  gradually  tapers  off  to  transparency
+
+this  can  be  really  useful  when  designing
+
+things  like  headers  and  posters  where
+
+you  need  to  incorporate  imagery  with
+
+text  in  other  vector  elements
+
+layer  masking  is  somewhat  of  an  advanced
+
+topic  but  the  gist  of  it  is  that  you
+
+create  an  object  with  the  black  and
+
+white  gradient
+
+and  then  apply  it  over  your  image  as  a
+
+mask  the  black  areas  create  a
+
+transparent  area  in  the  photo  whereas
+
+the  white  areas  remain  opaque
+
+ill  have  a  tutorial  for  this  linked  in
+
+the  description  of the  video  if  you  want
+
+a  more  in-depth  explanation
+
+inkscape  also  allows  you  to  make  some
+
+common  color  adjustments  to  your  photos
+
+for  example  you  can  invert  the  colors  of
+
+an  image  by  selecting  it  and  navigating
+
+to  filters
+
+colors  invert  you  can  also  make  your
+
+image  black  and  white
+
+or  grayscale  by  navigating  to  filters
+
+color
+
+grayscale  and  from  there  you  can  adjust
+
+the  rgb  values  to  your  liking
+
+in  fact  the  filters  menu  has  lots  of
+
+interesting  and  unique  effects  that  can
+
+be  applied  to  your  images
+
+so  be  sure  to  browse  through  there  and
+
+experiment  for  yourself
+
+speaking  of  color  adjustments  inkscape
+
+also  allows  you  to  make  some  more
+
+advanced  color  corrections  like  color
+
+channels  and
+
+levels  and  hsb  values  all  you  have  to  do
+
+to  access  these  settings  is  navigate  to
+
+extensions
+
+and  raster  and  from  there  you  will  have
+
+a  wide  array  of  raster  effects  that  you
+
+can  use  to  edit  your  photos  in  inkscape
+
+in  a  past  tutorial  i  used  these  effects
+
+to  create  a  carved  wood  effect
+
+from  an  image  of  a  piece  of  wood
+
+another  common  edit  you  may  like  to
+
+apply  to  your  photos  once  in  a  while  is
+
+to  apply  a  blur  or  maybe  sharpen  your
+
+image
+
+to  apply  a  blur  open  the  fill  and  stroke
+
+menu  by  pressing  ctrl
+
+shift  and  the  letter  a  on  your  keyboard
+
+and  from  there  you  can  use  the  blur
+
+slider  to  apply  a  gaussian  blur  to  your
+
+liking
+
+to  sharpen  your  image  simply  navigate  to
+
+filters
+
+image  effects  and  select  sharpen
+
+unfortunately
+
+theres  no  way  to  adjust  the  threshold
+
+of  the  filter  but  this  can  still  be  a
+
+handy  trick
+
+for  a  quick  touch-up
+
+as  we  went  over  earlier  you  can  use  the
+
+bezier  pen  to  manually  draw
+
+shapes  over  subjects  to  extract  them
+
+from  their  background
+
+if  the  background  youd  like  to  remove
+
+is  white  though  then  you  wont  need  to
+
+go  through  all  of  that  trouble
+
+you  can  simply  use  the  trace  bitmap
+
+feature  to  generate  a  vector  silhouette
+
+of  your  subject  then  apply  it  as  a
+
+clipping  path
+
+it  should  be  noted  that  this  method  is
+
+far  from  perfect  there  are  instances
+
+where  the  auto  trace  feature  wont  be
+
+able  to  make  an  accurate  distinction
+
+between  the  foreground  and  the
+
+background
+
+but  when  it  does  work  it  can  save  you  an
+
+incredible  amount  of  time
+
+the  final  method  that  you  can  deploy  for
+
+editing  photos  in  inkscape
+
+is  using  blend  modes  this  is  somewhat  of
+
+a  hidden  feature  in  inkscape  that  not  a
+
+lot  of  users  know  about
+
+to  access  it  open  your  layers  menu  by
+
+pressing  ctrl
+
+shift  and  l  on  your  keyboard  from  there
+
+you  can  add  a  new  layer  on  top  of  your
+
+image  layer
+
+and  any  of  the  contents  placed  on  that
+
+layer  can  be  blended  into  the  image
+
+beneath  it
+
+using  the  blend  mode  drop  down  near  the
+
+bottom  of  the  menu
+
+as  you  could  imagine  weve  only  begun  to
+
+scratch  the  surface  of  all  the  different
+
+ways  that  you  can  edit  photos  in
+
+inkscape
+
+although  these  features  may  not  be  as
+
+robust  or  intuitive  as  a  raster  image
+
+editor  like
+
+they  can  still  come  in  handy  if  you  just
+
+need  a  quick  and  basic  edit
+
+and  you  dont  feel  like  launching
+
+another  application  let  me  know  in  the
+
+comments  if  theres  any  ways  that  you
+
+like  to  edit  photos  in  inkscape  that  i
+
+may  not  have  gone  over  in  this  video
+
+and  as  always  thanks  for  watching
+

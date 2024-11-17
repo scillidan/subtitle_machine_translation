@@ -1,0 +1,264 @@
+1
+00:00:00,060 --> 00:00:01,860
+so let's go over how you can change the
+
+2
+00:00:01,860 --> 00:00:04,140
+perspective of an object using inkscape
+
+3
+00:00:04,140 --> 00:00:06,000
+for this demonstration I'll be using a
+
+4
+00:00:06,000 --> 00:00:07,500
+text object so I'm going to grab my text
+
+5
+00:00:07,500 --> 00:00:08,639
+tool and I'm going to click on the
+
+6
+00:00:08,639 --> 00:00:09,840
+canvas and I'm just going to use the
+
+7
+00:00:09,840 --> 00:00:11,820
+word perspective for this demonstration
+
+8
+00:00:11,820 --> 00:00:13,679
+and then I'm going to grab my selection
+
+9
+00:00:13,679 --> 00:00:15,480
+tool and I'm going to make this a little
+
+10
+00:00:15,480 --> 00:00:17,640
+bit bigger so you can see it better
+
+11
+00:00:17,640 --> 00:00:19,320
+now what we want to do is open up our
+
+12
+00:00:19,320 --> 00:00:20,820
+pathfx menu so I'll come up here to
+
+13
+00:00:20,820 --> 00:00:22,920
+where it says path and I will select
+
+14
+00:00:22,920 --> 00:00:24,600
+pathfx
+
+15
+00:00:24,600 --> 00:00:26,699
+now in order for this function to work
+
+16
+00:00:26,699 --> 00:00:28,740
+the object that we're applying it to has
+
+17
+00:00:28,740 --> 00:00:30,660
+to be a path right now this is just a
+
+18
+00:00:30,660 --> 00:00:32,279
+text object so let's convert this to a
+
+19
+00:00:32,279 --> 00:00:35,399
+path by going to path object to path and
+
+20
+00:00:35,399 --> 00:00:36,780
+once you've done that you should be able
+
+21
+00:00:36,780 --> 00:00:38,460
+to click on this little plus icon down
+
+22
+00:00:38,460 --> 00:00:39,899
+here in the menu to add a new path
+
+23
+00:00:39,899 --> 00:00:41,940
+effect and the path effect that we're
+
+24
+00:00:41,940 --> 00:00:43,440
+looking for is called perspective
+
+25
+00:00:43,440 --> 00:00:45,540
+envelope which is located right there if
+
+26
+00:00:45,540 --> 00:00:46,980
+you're having trouble accessing it you
+
+27
+00:00:46,980 --> 00:00:48,059
+could just type it into the search bar
+
+28
+00:00:48,059 --> 00:00:51,120
+up here per s and there it is
+
+29
+00:00:51,120 --> 00:00:53,280
+perspective envelope
+
+30
+00:00:53,280 --> 00:00:55,559
+and now all you have to do is grab your
+
+31
+00:00:55,559 --> 00:00:57,660
+edit paths by nodes tool and if you look
+
+32
+00:00:57,660 --> 00:00:59,100
+in the corners over here you will see
+
+33
+00:00:59,100 --> 00:01:00,960
+these four white nodes and you can take
+
+34
+00:01:00,960 --> 00:01:03,300
+these nodes and use it to change the
+
+35
+00:01:03,300 --> 00:01:05,820
+perspective of your object just like
+
+36
+00:01:05,820 --> 00:01:06,659
+that
+
+37
+00:01:06,659 --> 00:01:08,280
+now if you want to lock the perspective
+
+38
+00:01:08,280 --> 00:01:10,799
+onto a certain axis you can use these
+
+39
+00:01:10,799 --> 00:01:12,900
+settings over here in the pathfx menu so
+
+40
+00:01:12,900 --> 00:01:14,820
+if I select mirror movements in on the
+
+41
+00:01:14,820 --> 00:01:16,740
+horizontal axis it'll make it so that
+
+42
+00:01:16,740 --> 00:01:19,140
+the perspective only changes relative to
+
+43
+00:01:19,140 --> 00:01:20,939
+the horizontal axis like that as you can
+
+44
+00:01:20,939 --> 00:01:22,920
+see there and likewise if you use
+
+45
+00:01:22,920 --> 00:01:24,840
+vertical it'll lock the perspective
+
+46
+00:01:24,840 --> 00:01:27,720
+change onto the vertical axis like that
+
+47
+00:01:27,720 --> 00:01:29,520
+and once you are finished you can
+
+48
+00:01:29,520 --> 00:01:31,799
+finalize the changes by going to path
+
+49
+00:01:31,799 --> 00:01:34,860
+object to path and you are done that is
+
+50
+00:01:34,860 --> 00:01:36,600
+how you can change the perspective of an
+
+51
+00:01:36,600 --> 00:01:39,360
+object using inkscape if you found this
+
+52
+00:01:39,360 --> 00:01:41,040
+lesson useful then consider checking out
+
+53
+00:01:41,040 --> 00:01:43,439
+my inkscape master class it's a
+
+54
+00:01:43,439 --> 00:01:45,299
+collection of over 60 videos where I go
+
+55
+00:01:45,299 --> 00:01:46,740
+over all of the tools and features in
+
+56
+00:01:46,740 --> 00:01:49,020
+inkscape and I explain what they are and
+
+57
+00:01:49,020 --> 00:01:50,759
+demonstrate how they work kind of like
+
+58
+00:01:50,759 --> 00:01:53,100
+how I did in this video we even have a
+
+59
+00:01:53,100 --> 00:01:54,540
+private Community where you can ask
+
+60
+00:01:54,540 --> 00:01:56,640
+questions and get help from me anytime
+
+61
+00:01:56,640 --> 00:01:58,799
+you want and best of all there's no
+
+62
+00:01:58,799 --> 00:02:00,860
+monthly membership fees you just pay 17
+
+63
+00:02:00,860 --> 00:02:03,899
+one time and you're in for Life I'll
+
+64
+00:02:03,899 --> 00:02:05,219
+have some information about that down
+
+65
+00:02:05,219 --> 00:02:06,899
+below if you want to check that out as
+
+66
+00:02:06,899 --> 00:02:10,099
+always thanks for watching
+

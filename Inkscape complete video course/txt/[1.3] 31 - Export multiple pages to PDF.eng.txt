@@ -1,0 +1,12 @@
+In the last lecture, we created a multi-page document. Now I will save the pages as a PDF.
+I go to: File > Save As. Behind Save as type I choose: Portable Document Format. I will choose
+the highest PDF version. If you want your text to stay text, so it can be selected and copied,
+choose: Embed fonts. Otherwise, choose: Convert text to paths. If you used Blur, for example
+for making a shadow, or you applied a filter, you will have to rasterize these effects, if you want
+them displayed in your PDF. Because I save for print, I will set Rasterize filter effects to:
+300 DPI. It is also possible, to save a PDF with extra space around each page, called Bleed. As
+indicated in the menu, you can set page Bleed with the Page tool, which can be found below Margins.
+Keep in mind that for creating PDF files with multiple pages, you can also use a dedicated
+desktop publishing software, like Scribus. I have a complete course about Scribus on this channel. I
+created spreads in Inkscape, so I also would like to view spreads in Acrobat. To do this I can click
+on the Show two pages side-by-side icon. Or I can go to: View > Page Display > Two Page View.

@@ -1,0 +1,488 @@
+
+
+
+this  is  Nick  with  logos  by  Nick  comm  and
+
+in  this  tutorial  Ill  be  giving  you  a
+
+brief  overview  of  all  21  of  Inkscape
+
+stools
+
+Ive  even  put  together  a  written
+
+overview  that  you  can  use  for  a  quick
+
+reference  anytime  youd  like  Ill  have  a
+
+link  to  that  in  the  description  of  the
+
+video  and  if  youd  like  a  more  in-depth
+
+explanation  of  these  tools  along  with
+
+every  other  feature  in  Inkscape  be  sure
+
+to  check  out  my  Inkscape  masterclass
+
+its  a  collection  of  over  60  videos
+
+where  I  go  over  every  tool  and  feature
+
+in  Inkscape  and  I  explain  what  it  is  and
+
+demonstrate  how  it  works
+
+Ill  have  a  link  to  that  in  the
+
+description  of  the  video  as  well  lets
+
+have  a  look  at  the  Select  tool  to  get  us
+
+started  because  this  is  the  tool  that
+
+youll  probably  be  using  most  often  the
+
+Select  tool  as  the  name  suggests  allows
+
+you  to  select  individual  or  multiple
+
+objects  at  a  time  you  can  also  use  it  to
+
+make  some  common  transformation  to  your
+
+objects  like  scaling  rotating  and
+
+shearing
+
+the  Edit  paths  by  nodes  tool  allows  you
+
+to  transform  the  structural  properties
+
+of  an  object  by  altering  the  individual
+
+coordinate  points  of  that  object
+
+otherwise  known  as  nodes  you  can
+
+reposition  them  add  new  nodes  delete
+
+nodes  and  even  change  node  type  whether
+
+it  be  a  sharp  corner  or  a  rounded  edge
+
+the  tool  also  allows  you  to  change  the
+
+contours  of  an  objects  lines  by
+
+manually  moving  them  or  by  adjusting  the
+
+handles  of  its  nearest  node
+
+the  squares  and  rectangles  tool  is  used
+
+to  create  four-sided  vector  objects
+
+whether  it  be  a  rectangle  or  a  perfectly
+
+symmetrical  square  by  default  your
+
+rectangle  will  have  sharp  corners  but
+
+you  can  use  the  little  round  node  at  the
+
+top  right  to  give  you  a  rectangle  of
+
+rounded  corners  you  can  easily  switch
+
+back  to  sharp  corners  anytime  youd  like
+
+by  clicking  the  make  corners  sharp
+
+button  in  the  tool  settings  menu
+
+the  circles  and  ellipses  tool  is  used  to
+
+create  vector  shapes  with  curved  edges
+
+like  ellipses  and  perfectly  round
+
+circles  it  can  also  be  used  to  create
+
+partial  ellipses  by  maneuvering  this
+
+circular  handle  at  the  right  edge  of  the
+
+shape  keeping  your  cursor  outside  of  the
+
+ellipse  will  allow  you  to  change  it  by
+
+its  radius  whereas  moving  your  cursor  to
+
+the  inside  of  the  circle  will  allow  you
+
+to  change  a  by  its  diameter  at  any  point
+
+you  can  reset  the  shape  back  to  being  an
+
+ellipse  in  the  tool  settings  menu
+
+the  stars  and  polygons  tool  is  used  to
+
+create  multi-sided  objects  its  divided
+
+up  into  two  separate  functions  one  for
+
+stars  and  one  for  polygons
+
+when  creating  stars  youll  be  able  to
+
+set  the  number  of  corners  the  star  has
+
+the  spoke  ratio  between  each  star  and
+
+you  can  choose  to  give  your  star  rounded
+
+corners  as  well  if  youd  like
+
+when  creating  polygons  youll  be  able  to
+
+set  the  number  of  sides  and  corners  and
+
+you  can  choose  to  make  them  round  it  if
+
+youd  like  this  can  all  be  done  in  the
+
+tool  settings  menu  or  by  manually
+
+adjusting  the  handles  directly  on  the
+
+canvas
+
+the  3d  boxes  tool  allows  you  to  quickly
+
+create  three-sided  vector  boxes  that
+
+appear  as  if  theyre  three-dimensional
+
+the  X  Y  and  z-axis  can  be  adjusted
+
+independently  in  order  to  determine  the
+
+boxs  width  height  and  depth  the  red
+
+lines  represent  the  height  of  the  box
+
+the  blue  lines  represent  the  width  of
+
+the  box  and  the  yellow  lines  represent
+
+the  boxs  depth  you  can  also  change  the
+
+perspective  of  the  box  by  moving  the
+
+nodes  associated  with  the  red  and  yellow
+
+lines
+
+the  spirals  tool  is  used  to  create
+
+vector  objects  that  follow  a  spiral  path
+
+the  tool  allows  you  to  adjust  the  number
+
+of  turns  the  spiral  has  as  well  as  its
+
+divergence  from  its  center  point  this
+
+can  be  done  either  in  the  tool  settings
+
+menu  or  directly  on  the  canvas
+
+the  Bezier  pen  is  used  for  manually
+
+drawing  your  own  vector  shapes  by
+
+creating  a  series  of  nodes  and  lines  you
+
+can  make  both  straight  and  curved  lines
+
+as  well  as  sharpen  rounded  corners  the
+
+tool  also  has  a  variety  of  settings
+
+built  in  including  spiral  paths  and  B
+
+splines  each  of  which  determines  how  the
+
+pen  behaves  they  can  be  used  to  force
+
+any  behavior  youd  like
+
+including  curved  lines  rounded  corners
+
+parallel  lines  and  more
+
+the  free  hand  lines  tool  functions  much
+
+like  the  Bezier  pen  only  it  allows  you
+
+to  draw  your  shapes  with  your  hands
+
+movement  as  opposed  to  clicking  to
+
+create  a  bunch  of  nodes  this  would  make
+
+it  more  ideal  if  you  were  using  a
+
+drawing  tablet  or  some  kind  of  stylus
+
+much  like  the  Bezier  pen  the  freehand
+
+aligns  tool  has  various  settings  built
+
+in  that  will  dictate  the  tools  behavior
+
+the  calligraphy  pen  allows  you  to  create
+
+freehand  vector  objects  using  a  classic
+
+brushstroke  and  shape  of  your  choosing
+
+the  tool  has  various  presets  built-in
+
+that  will  determine  the  size  and  shape
+
+of  your  brushstrokes  theres  also  a
+
+variety  of  settings  that  you  can  tweak
+
+to  dictate  how  the  tool  will  behave
+
+the  text  objects  tool  is  used  to  create
+
+vector  text  and  wording  of  your  choosing
+
+it  allows  you  to  flow  your  text  into  a
+
+bounding  box  or  simply  generate  it  all
+
+on  a  single  line  you  can  also  use  the
+
+tool  settings  to  adjust  the  font  size
+
+orientation  spacing  between  letters  and
+
+words  as  well  as  various  other
+
+adjustments
+
+the  gradients  tool  allows  you  to  color
+
+your  objects  with  multiple  colors  that
+
+fade  into  each  other  otherwise  known  as
+
+gradients  the  tool  allows  you  to  edit
+
+your  gradients  based  on  colors  used
+
+number  of  colors  and  the  position  of  the
+
+color  is  relative  to  the  object  that
+
+its  being  applied  to  the  gradients  can
+
+follow  either  a  straight  linear  path  or
+
+a  rounded  radio
+
+the  meshs  tool  functions  similarly  to
+
+the  gradients  tool  only  it  allows  you  to
+
+give  your  objects  a  gradient  that
+
+follows  either  a  grid  otherwise  known  as
+
+a  mesh  gradient  or  a  cone  otherwise
+
+known  as  a  conical  gradient  you  can  use
+
+the  tool  to  manually  alter  the  points  of
+
+your  meshes  and  cones  directly  on  the
+
+canvas
+
+the  pick  colors  from  an  image  tool
+
+commonly  referred  to  as  the  dropper
+
+allows  you  to  set  an  objects  filling
+
+stroke  color  based  on  another  objects
+
+color  the  tool  allows  you  to  sample
+
+colors  from  both  vector  objects  and
+
+rasterized  images  your  selected  object
+
+will  be  filled  with  whatever  color  you
+
+sample  from  the  other  object  you  can
+
+also  hold  shift  while  sampling  to  set
+
+the  selection  as  your  objects  stroke
+
+color  you  can  also  click  and  drag  to
+
+create  a  selection  that  the  tool  will
+
+use  to  generate  an  average  color  of  the
+
+colors  in  that  area
+
+the  fill  bounded  areas  tool  commonly
+
+referred  to  as  the  bucket  tool  allows
+
+you  to  fill  empty  spaces  with  the
+
+predetermined  fill  color  in  order  for
+
+the  tool  to  work  the  area  youre  filling
+
+in  must  be  completely  surrounded  by  a
+
+closed  path  it  will  not  work  on  empty
+
+spaces  that  bleed  out  into  the  open
+
+canvas  the  tool  will  reference  whatever
+
+you  have  set  as  the  fill  and  Stroke
+
+color  for  filling  in  your  objects
+
+the  tweak  objects  tool  allows  you  to
+
+make  compound  alterations  to  multiple
+
+objects  pads  and  colors  all  at  once
+
+alterations  include  moving  multiple
+
+objects  at  once  shrinking  them  rotating
+
+them  or  duplicating  them  it  also  allows
+
+you  to  make  adjustments  based  on  colors
+
+and  blurs
+
+the  spray  objects  tool  allows  you  to
+
+generate  multiple  objects  by  spraying
+
+them  onto  your  canvas  the  objects  that
+
+are  sprayed  is  determined  by  the  object
+
+you  have  selected  at  the  moment  the  tool
+
+has  a  variety  of  settings  that  will
+
+allow  you  to  adjust  certain  behaviors
+
+like  whether  or  not  the  objects  overlap
+
+the  size  of  the  scatter  area  whether  or
+
+not  to  rotate  the  sprayed  objects  and
+
+more
+
+the  eraser  tool  is  used  to  delete
+
+segments  of  a  vector  path  in  a  freestyle
+
+technique  that  is  based  on  your  hands
+
+movement  the  tool  can  work  on  multiple
+
+objects  at  a  time  and  it  has  a  variety
+
+of  settings  built-in  that  will  allow  you
+
+to  dictate  how  the  tool  behaves  it
+
+should  be  noted  though  that  this  tool
+
+only  work  on  vector  paths  it  wont  work
+
+on  text  objects  and  rasterized  images
+
+the  diagram  connectors  tool  allows  you
+
+to  create  diagrams  by  generating  pads
+
+and  boxes  that  link  objects  together
+
+much  like  every  other  tool  it  has  a
+
+variety  of  settings  built-in  that  allows
+
+you  to  dictate  how  the  tool  behaves
+
+whether  it  be  avoiding  selected  objects
+
+or  ignoring  selected  objects
+
+the  zoom  tool  allows  you  to  increase  or
+
+decrease  your  view  of  the  canvas  you  can
+
+zoom  in  to  see  fine  details  zoom  out  to
+
+get  a  more  complete  view  of  the  canvas
+
+or  set  the  view  ratio  to  one-to-one  in
+
+order  to  see  how  the  canvas  looks  at
+
+full  size
+
+the  measurement  tool  allows  you  to
+
+measure  any  object  based  on  its  length
+
+width  height  radius  or  diameter  it
+
+allows  you  to  choose  from  a  variety  of
+
+measurement  units  including  pixels
+
+inches  centimeters  millimeters  and  more
+
+the  tool  also  has  a  setting  built-in
+
+that  allows  you  to  convert  your
+
+measurement  into  an  object  that  you  can
+
+work  with  further  and  export  as  a
+
+graphic  of  its  own
+
+and  that  should  do  it  for  all  of
+
+Inkscape  stools  as  a  version  1.0  if  you
+
+have  any  questions  leave  a  comment  below
+
+and  as  always  thanks  for  watching
+
+you

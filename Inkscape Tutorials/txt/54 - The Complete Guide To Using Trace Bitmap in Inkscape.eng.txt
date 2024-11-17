@@ -1,0 +1,691 @@
+
+
+
+this  is  nick  with  logosbynic.com  and  in
+
+this  tutorial  ill  be  demonstrating  how
+
+you  can  use  the  trace
+
+bitmap  feature  located  in  inkscape  and
+
+what  trace  bitmap  does  is  it  allows  you
+
+to  create  a  vector  tracing  of  a
+
+photograph
+
+using  an  automated  algorithm  instead  of
+
+having  to  trace  it  manually  using  the
+
+bezier  pen  and  other  tools
+
+okay  now  the  benefit  of  using  trace
+
+bitmap  is  that  it  saves  you  a  lot  of
+
+time  it  creates  a  really
+
+quick  tracing  of  any  photograph  you  have
+
+the  downside  of  using  it  though
+
+is  that  it  doesnt  always  work  with
+
+every  photo  based  on  the  composition  of
+
+your  photo  sometimes  it  produces  some
+
+sloppy  results  so
+
+youre  never  going  to  get  a  100  accurate
+
+tracing  of  your  photograph
+
+unless  you  trace  it  manually  but  the
+
+downside  of  tracing  it  manually  is  that
+
+it  takes  a  lot  of  time  and  a  little  bit
+
+of  expertise  as  well
+
+so  the  method  you  should  use  depends  on
+
+the  image  youre  working  with  and  what
+
+it  is  youre  trying  to  achieve
+
+if  youre  just  trying  to  create  a  quick
+
+sloppy
+
+automated  vector  tracing  of  your  photo
+
+trace  bitmap  is  great  for  that  so  let  me
+
+show  you  how  to  go  about  doing  that  i
+
+have  these  two  example  photos  here
+
+im  going  to  work  with  this  one  first
+
+im  going  to  come  over  here  to  where  it
+
+says
+
+path  im  going  to  click  on  trace  bitmap
+
+now  if  you  notice  up  here  we  have  three
+
+different  tabs
+
+trace  bitmap  pixel  art  and  help
+
+for  this  tutorial  im  going  to  focus  on
+
+trace  bitmap  pixel  art  would  be  a
+
+separate  tutorial  altogether  so  lets
+
+focus  on  trace  bitmap  for  now
+
+if  you  notice  in  here  we  have  two
+
+different  options  we  have  single  scan
+
+and  we  have  multiple  scans
+
+and  the  difference  between  the  two  of
+
+them  basically  is  one  is  for  black  and
+
+white
+
+one  is  for  color  so  single  scan  would
+
+create  a
+
+single  vector  object  it  would  trace  a
+
+single  vector  object  over  your  photo
+
+in  one  single  color  so  it  would  be  good
+
+for  creating  things  like  silhouettes
+
+or  maybe  even  creating  vector  textures
+
+whereas  multiple  scans  would  be  good  for
+
+creating
+
+uh  vector  tracings  of  photos  that  have  a
+
+lot  of  color  and  you  want  to  retain  some
+
+of  that  color  so  let  me  demonstrate  how
+
+each  works  im  going  to  choose  single
+
+scan  for  this  image  because  this  is  a
+
+black  and  white  image
+
+and  i  just  want  to  create  like  a  like  a
+
+silhouette  sort  of  tracing  this
+
+now  if  you  look  at  this  drop  down  over
+
+here  we  have  a  lot  of  different  options
+
+and  these
+
+options  all  what  these  options  do  is
+
+they  basically
+
+trace  your  image  using  a  different
+
+sort  of  algorithm  and  the  one  that  you
+
+should  use  depends  on  the  composition  of
+
+the  image  youre  working  with  because
+
+every  image  is  different
+
+okay  so  when  youre  tracing  a  bitmap
+
+youre  going to  want  to  cycle  through
+
+these  different  options
+
+and  update  the  preview  to  see  how  it
+
+looks  to  find  out  which  one  is  best  for
+
+your  photo
+
+so  for  this  one  im  just  going  to  leave
+
+the  cut  the  brightness  cut  off  im  going
+
+to  click  update
+
+and  it  shows  you  a  preview  here  of  the
+
+vector  tracing  thats  going  to  be  made
+
+from  the  image
+
+okay  that  looks  pretty  good  i  like  how
+
+that  looks  im  going  to  click  ok  to
+
+create  the  tracing
+
+and  if  you  notice  it  created  a  vector
+
+tracing
+
+over  the  photo  now  this  here  is  a  true
+
+vector  object  you  can  change  the  color
+
+of  that
+
+you  can  perform  path  operations  on  that
+
+you  can  do  everything  that  you  would
+
+normally  do  with  the  vector  object
+
+with  this  right  here  let  me  turn  off
+
+snapping  now  let  me  get  rid  of  that
+
+let  me  show  you  some  of  these  other
+
+options  here  just  to  show  you  what  i
+
+mean  if  you  come  down  here  to  like
+
+something  like  edge  detection  and  you
+
+click  update  youll  notice
+
+it  doesnt  really  trace  anything  in  the
+
+image  theres  some  speckles
+
+caught  in  the  uh  in  the  tracing  there
+
+but  its  not  really  what  im  going  for
+
+so  for  this  sort  of  image
+
+edge  detection  wouldnt  be  good  but
+
+maybe  for  a  different  type  of  image
+
+edge  detection  would  work  perfectly  so
+
+really  like  i  said  it  depends  on  the
+
+image  youre  working  with  so  whenever
+
+youre  trying  to  trace  vectors
+
+using  this  tool  make  sure  to  cycle
+
+through  these  and  see  which  one  gives
+
+you  the  best  result
+
+okay  see  this  right  here  as  an  example
+
+if  i  click  ok
+
+we  end  up  with  a  pretty  sloppy  tracing
+
+this  tracing  right  here  its  also  got  a
+
+lot  of  nodes  in  it  this  is  a  really
+
+complicated  tracing  so
+
+uh  one  thing  id  like  to  warn  you  about
+
+when  using  this  tool  is  to  be  very
+
+careful
+
+about  making  complicated  tracings  like
+
+this  now  my  computer  was  able  to  handle
+
+this  because  i  have  a  pretty  powerful
+
+computer  but  if  youre  using  like  your
+
+your  average
+
+consumer  grade  computer  this  would
+
+probably  lock  up
+
+inkscape  and  cause  you  to  have  to
+
+restart  the  application  so
+
+always  be  careful  when  youre  creating
+
+traces  that  youre  not  creating
+
+something  too  complicated
+
+okay  so  let  me  show  you  now  if  you  go  to
+
+uh  any  of  these  options
+
+here  brightness  cutoff  you  have  some
+
+settings  that  you  can  tweak  over  here
+
+the  brightness  threshold  let  me  update
+
+this
+
+right  now  by  default  its  at  0.450  if  i
+
+change  that  to  something  like  point
+
+eight  and  click  update  it  you  can  see  it
+
+changes
+
+the  tracing  it  changes  the  algorithm  of
+
+the  tracing  there  theres  more  of  the
+
+shadows  being  caught  up  in  the  tracing
+
+there
+
+so  this  is  just  one  of  those  things  that
+
+gives  you  more  granular  control  over
+
+your  tracing
+
+so  when  youre  tracing  an  image  just
+
+cycle  through  these  different  settings
+
+see  which  one  works  best  and  then  you
+
+can  alter  these  settings  a  little  bit  to
+
+see
+
+to  really  fine-tune  your  tracing  now
+
+this  looked  a  lot  better  before
+
+at  0.45  so  im  going to  put  that  back  to
+
+what  it  was  and  click  update
+
+and  then  over  here  we  have  invert  image
+
+if  you  click  on  that  and  you  click
+
+update
+
+you  can  see  it  creates  an  inverted
+
+tracing  if  i  click  ok  to  create  that
+
+tracing
+
+it  pretty  much  creates  a  vector  tracing
+
+of  the  negative  space
+
+and  the  subject  it  creates  a  vector
+
+tracing  of  the  negative  space  of  the
+
+image
+
+and  the  subject  becomes  the  negative
+
+space  of  the  tracing  as  you  can  see
+
+there
+
+okay  so  thats  another  thing  you  might
+
+want  to  pay  attention  to  whenever  youre
+
+tracing  an  image  so  let  me  undo  that
+
+let  me  show  you  now  how  to  trace  images
+
+with  color  if  i  select  this  image  right
+
+here
+
+im  going  to  click  on  multiple  scans  now
+
+because  im  working  with  color
+
+and  again  we  have  all  of  these  different
+
+options  we  can  cycle  through  im  going
+
+to  choose  colors  for  this  one
+
+im  going  to  click  update  and  its
+
+showing  you  how  the  vector  tracing  would
+
+look  in  color  im  going  to  click  ok  to
+
+generate  that
+
+and  as  you  can  see  here  let  me  zoom  in
+
+on  this  if  you  zoom  out  it  looks
+
+photorealistic  but  if  you  zoom  in  you
+
+can  see  that  this  is  indeed  a  vector
+
+tracing
+
+and  now  the  flaws  in  using  auto  tracing
+
+become  a  little  more  apparent  because
+
+you  can  see  theres  a  lot  of
+
+imperfections  in  here  theres  a  lot  of
+
+speckling  and
+
+a  lot  of  details  that  got  included  in
+
+there  that  probably  shouldnt  have  been
+
+but  like  i  said  with  an  auto  tracing  you
+
+cant  expect  it  to  be  perfect  its  never
+
+going  to  be
+
+exact  okay  so  let  me  come  back  over  here
+
+this  image  over  here  we  have  the  number
+
+of  scans
+
+scans  pretty  much  represent  the  number
+
+of  colors
+
+in  an  image  okay  so  with  this  tracing  i
+
+created  eight  scans  meaning  its  gonna
+
+use  eight  different  colors
+
+okay  now  if  i  decrease  that  to  like
+
+maybe  something  like  three
+
+and  click  update  its  only  going  to  use
+
+three  colors
+
+okay  as  you  can  see  there  and  inversely
+
+if  i  increase  it  from  eight  to  maybe
+
+something  like  16
+
+it  includes  more  of the  colors  and  if
+
+you  click  ok
+
+you  end  up  with  a  bigger  tracing  with  a
+
+lot  of  different  options  but  at  the  same
+
+time
+
+it  looks  a  little  more  photorealistic
+
+and  just  to  show  you  that  this  is  indeed
+
+a  vector  tracing  im  going  to  ungroup
+
+this  im  going to  go  to  object
+
+ungroup  and  its  going  to  ungroup  it
+
+into  lots  of  different  little  parts  here
+
+and  you  could  zoom  in
+
+and  you  could  take  these  parts  and
+
+change  them  and  do  whatever  you  want
+
+with  them
+
+okay  then  finally  if  you  click  on  this
+
+image  up  here  youll  notice  theres  a
+
+remove  background  setting
+
+now  if  you  enable  that  its  going  to
+
+remove  the  white  background
+
+from  this  image  here  the  problem  with
+
+using  this  though  is  it  it  only  works  on
+
+images
+
+where  the  background  is  really  defined
+
+this  image  is  a  great  example  because
+
+the  background  is  white  so  if
+
+the  software  will  have  no  problem
+
+determining  where  the  background  is
+
+located
+
+on  more  complex  images  its  just  going
+
+to  exclude  areas  of  the  image
+
+that  it  thinks  is  the  background  even  if
+
+its  not  exactly  accurate  so  let  me  just
+
+show  you  how  that  looks  im  going  to
+
+click
+
+update  im  just  going  to  click  ok
+
+and  it  created  a  vector  tracing  minus
+
+the  background  im  going  to  place  it
+
+over  this  object  here  so  you  can  see
+
+okay  now  you  get  an  idea  ive  removed
+
+the  background  now  some  of  it
+
+some  of  it  got  wrong  like  you  see  here
+
+theres  a  little  bit  of  negative  space
+
+in  there  showing  through  the  image
+
+beneath  it  is  showing  through  there  so
+
+it  removes  some  of  that  as  well  but
+
+thats  okay  because  thats  easy  to  fill
+
+in
+
+otherwise  but  thats  how  that  part  works
+
+and  then  finally  down  here  we  have  some
+
+settings  that  you  can  play  with  if
+
+if  youve  cycled  through  these  options
+
+and  youve  played  with  these
+
+adjustments  and  you  still  cant  get  it
+
+quite  right
+
+you  can  adjust  these  as  well  we  down
+
+here  we  have  speckles
+
+this  says  ignore  small  spots  in  the  in
+
+the  bitmap
+
+the  idea  behind  this  is  that  it
+
+eliminates  some  of  this
+
+fragmentation  in  here  some  of  these
+
+speckles  but  as  you  can  see  its  not
+
+always  perfect
+
+maybe  if  i  were  to  increase  this  a
+
+little  bit  maybe  it  would  do  a  little
+
+better  job  but  im  not  going  to  play
+
+with  that  for  now
+
+over  here  smooth  corners  thats  enabled
+
+by  default  whenever  you  create  a  vector
+
+tracing  at  something  usually
+
+you  end  up  with  sharp  corners  in  your
+
+image  they  end  up  smooth  when  you  trace
+
+them
+
+okay  so  uh  thats  enabled  by  default  and
+
+then  over  here  optimize  try  to  optimize
+
+paths  by  joining  a  paste
+
+adjacent  bezier  curve  segments  the  idea
+
+behind  that  is  that  whenever  you  create
+
+a  vector  tracing  of  an  image
+
+youre  creating  a  really  complex  uh
+
+vector  object  with  a  lot  of  nodes  in  it
+
+let  me  show  you  as  an  example  here  im
+
+going to  trace  this  image  im  going  to
+
+click  on  this
+
+as  you  can  see  my  computer  is  struggling
+
+with  this  a  little  bit  im  going  to
+
+click  on  update
+
+ill  click  ok  now  i  may  regret  trying
+
+this  but  im  going to  give  it  a  try
+
+anyway  im  going  to  select  this  vector
+
+object  and  im  going  to  come  over  here
+
+to  the  edit  paths  by  nodes  tool
+
+okay  now  if  you  notice  this  image  i  mean
+
+this
+
+this  vector  object  is  made  up  of
+
+hundreds  maybe  even  thousands  of  little
+
+nodes  here
+
+okay  now  when  you  create  a  vector  object
+
+with  lots  of  nodes  like  that
+
+um  sometimes  itll  lock  up  your  computer
+
+the  idea  behind  optimize  is  that  if  you
+
+increase  this  threshold  itll  create
+
+less  of  those  nodes
+
+okay  so  thats  pretty  useful  in  creating
+
+a  vector  tracing  that  you  can  actually
+
+work  with  without  a  crash  in  your  system
+
+but  the  downside  is  with  less  nodes  it
+
+may  not  be  as  accurate  as  a  tracing
+
+so  i  think  that  should  do  it  for  this
+
+tutorial  that  is  how  you  can  go  about
+
+uh  creating  vector  tracings  of
+
+photographs
+
+using  inkscape  if  you  have  any  questions
+
+leave  a  comment  below  and  as  always
+
+thanks  for  watching
+

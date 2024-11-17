@@ -1,0 +1,332 @@
+1
+00:00:00,359 --> 00:00:03,840
+in inkscape you can combine pathfx I
+
+2
+00:00:03,840 --> 00:00:05,759
+select the text tool and type some text
+
+3
+00:00:05,759 --> 00:00:08,580
+I will use luckiest guy which is a free
+
+4
+00:00:08,580 --> 00:00:12,719
+Google font I go to pathfx I see that I
+
+5
+00:00:12,719 --> 00:00:14,580
+need to convert the text to a path to
+
+6
+00:00:14,580 --> 00:00:16,020
+use a path effect
+
+7
+00:00:16,020 --> 00:00:18,960
+new in inkscape 1.3 beta is that you can
+
+8
+00:00:18,960 --> 00:00:21,060
+do this now with a single click
+
+9
+00:00:21,060 --> 00:00:23,640
+so I click on convert text to paths
+
+10
+00:00:23,640 --> 00:00:25,680
+from the menu I choose perspective
+
+11
+00:00:25,680 --> 00:00:26,699
+envelope
+
+12
+00:00:26,699 --> 00:00:28,500
+we will look at perspective in the next
+
+13
+00:00:28,500 --> 00:00:31,859
+lecture I select envelope deformation I
+
+14
+00:00:31,859 --> 00:00:34,140
+click on the Node tool I can now drag
+
+15
+00:00:34,140 --> 00:00:36,719
+the Four Corners to deform the shape
+
+16
+00:00:36,719 --> 00:00:38,880
+what I want is the end of the text to be
+
+17
+00:00:38,880 --> 00:00:39,840
+smaller
+
+18
+00:00:39,840 --> 00:00:42,180
+so I hold Ctrl and drag the nodes at the
+
+19
+00:00:42,180 --> 00:00:43,020
+right end
+
+20
+00:00:43,020 --> 00:00:45,600
+now I will add a second effect from the
+
+21
+00:00:45,600 --> 00:00:47,520
+menu I choose band
+
+22
+00:00:47,520 --> 00:00:50,820
+I select edit on canvas I can now curve
+
+23
+00:00:50,820 --> 00:00:53,100
+the text I can switch between the two
+
+24
+00:00:53,100 --> 00:00:55,800
+filters to get the result I want I can
+
+25
+00:00:55,800 --> 00:00:57,360
+even change the order of the filters
+
+26
+00:00:57,360 --> 00:00:59,100
+which will change the look of the shape
+
+27
+00:00:59,100 --> 00:01:01,260
+when I'm happy with the shape I'll
+
+28
+00:01:01,260 --> 00:01:03,480
+finalize it by going to path object to
+
+29
+00:01:03,480 --> 00:01:06,540
+path I will make the text a bit higher I
+
+30
+00:01:06,540 --> 00:01:09,240
+call the path text now I go to path
+
+31
+00:01:09,240 --> 00:01:10,740
+linked offset
+
+32
+00:01:10,740 --> 00:01:13,380
+I select the node tool I set the fill
+
+33
+00:01:13,380 --> 00:01:16,560
+color to Red I drag the note up I go to
+
+34
+00:01:16,560 --> 00:01:19,860
+path object to path I call the path red
+
+35
+00:01:19,860 --> 00:01:22,680
+I go to extensions generate from path
+
+36
+00:01:22,680 --> 00:01:26,520
+long Shadow I set length to 5. I select
+
+37
+00:01:26,520 --> 00:01:28,500
+the long Shadow elements and make them a
+
+38
+00:01:28,500 --> 00:01:30,119
+single path with Union
+
+39
+00:01:30,119 --> 00:01:32,580
+I call the path long shadow
+
+40
+00:01:32,580 --> 00:01:35,159
+I remove the group folders
+
+41
+00:01:35,159 --> 00:01:39,479
+in fill and stroke I make the red darker
+
+42
+00:01:39,479 --> 00:01:42,600
+and inside my text I want a gradient I
+
+43
+00:01:42,600 --> 00:01:44,640
+choose linear gradient and I select the
+
+44
+00:01:44,640 --> 00:01:46,860
+gradient tool
+
+45
+00:01:46,860 --> 00:01:49,020
+I make the gradient vertical
+
+46
+00:01:49,020 --> 00:01:51,420
+I set the gradient to yellow and I make
+
+47
+00:01:51,420 --> 00:01:54,119
+the top color more orange
+
+48
+00:01:54,119 --> 00:01:57,180
+I convert text to a clip group
+
+49
+00:01:57,180 --> 00:01:59,759
+now I'll create a diamond pattern I
+
+50
+00:01:59,759 --> 00:02:02,340
+select the rectangle tool I hold Ctrl
+
+51
+00:02:02,340 --> 00:02:05,040
+and drag a small square I go to path
+
+52
+00:02:05,040 --> 00:02:07,740
+object to path I click on the Square
+
+53
+00:02:07,740 --> 00:02:11,700
+again hold Ctrl and rotate 45 degrees I
+
+54
+00:02:11,700 --> 00:02:14,580
+go to pathfx from the menu I choose
+
+55
+00:02:14,580 --> 00:02:17,760
+tiling I set rows to 50 and columns to
+
+56
+00:02:17,760 --> 00:02:20,580
+150 and I increase the gap between the
+
+57
+00:02:20,580 --> 00:02:24,480
+squares I set offset to 50 I will leave
+
+58
+00:02:24,480 --> 00:02:27,180
+the tiling path effect editable I call
+
+59
+00:02:27,180 --> 00:02:30,420
+the path pattern I set the opacity to 15
+
+60
+00:02:30,420 --> 00:02:33,540
+and the blend mode to multiply I drag
+
+61
+00:02:33,540 --> 00:02:36,239
+the pattern on the clip group I make the
+
+62
+00:02:36,239 --> 00:02:37,860
+pattern smaller
+
+63
+00:02:37,860 --> 00:02:40,860
+I duplicate text and drag it on top
+
+64
+00:02:40,860 --> 00:02:43,080
+I shift-click on white and click on the
+
+65
+00:02:43,080 --> 00:02:45,540
+Red Cross to delete the fill I make the
+
+66
+00:02:45,540 --> 00:02:48,180
+stroke smaller I call the path stroke
+
+67
+00:02:48,180 --> 00:02:51,180
+white I duplicate stroke white I call
+
+68
+00:02:51,180 --> 00:02:54,060
+the original stroke Shadow I shift click
+
+69
+00:02:54,060 --> 00:02:57,000
+on black in fill and stroke I set blur
+
+70
+00:02:57,000 --> 00:02:59,660
+to 10 percent and opacity to 75 percent
+
+71
+00:02:59,660 --> 00:03:03,060
+I hold alt and position The Shadow
+
+72
+00:03:03,060 --> 00:03:05,760
+I duplicate red I make the original Pink
+
+73
+00:03:05,760 --> 00:03:08,220
+I call the path pink
+
+74
+00:03:08,220 --> 00:03:10,980
+I position red on the canvas I select
+
+75
+00:03:10,980 --> 00:03:13,680
+the rectangle tool I drag a rectangle
+
+76
+00:03:13,680 --> 00:03:15,540
+and drag it on the clip group
+
+77
+00:03:15,540 --> 00:03:18,480
+I call the path Horizon now I will
+
+78
+00:03:18,480 --> 00:03:20,580
+duplicate long Shadow to make the shadow
+
+79
+00:03:20,580 --> 00:03:24,540
+below I call the copy Shadow below I
+
+80
+00:03:24,540 --> 00:03:26,340
+place Shadow Below on the bottom and
+
+81
+00:03:26,340 --> 00:03:27,599
+click on black
+
+82
+00:03:27,599 --> 00:03:29,819
+and in fill and stroke I increase the
+
+83
+00:03:29,819 --> 00:03:32,120
+blur
+

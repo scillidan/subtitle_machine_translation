@@ -1,0 +1,293 @@
+
+
+
+this  is  Nick  with  logos  by  Nick  comm  and
+
+in  this  tutorial  Ill  be  demonstrating
+
+how  you  can  create  your  own  custom
+
+brushes  in  Inkscape  and  if  youd  like  to
+
+learn  more  about  how  Inkscape  works  be
+
+sure  to  check  out  my  Inkscape
+
+masterclass  its  a  collection  of  over  50
+
+videos  where  I  go  over  all  of  the  tools
+
+and  features  in  Inkscape  and  I  explain
+
+what  they  are  and  demonstrate  how  they
+
+work  Ill  have  a  link  in  the  description
+
+of  the  video  if  you  want  to  check  that
+
+out  so  to  get  us  started  here  in
+
+Inkscape  the  way  that  this  works  is
+
+Inkscape  doesnt  actually  have  a  brushes
+
+feature  built  in  but  what  it  does  have
+
+is  it  has  tools  like  the  pencil  tool
+
+over  here  which  allow  you  to  use  a
+
+custom  shape  based  on  what  you  have
+
+copied  to  your  clipboard  and  thats  what
+
+well  be  doing  here  so  to  show  you  an
+
+example  of  how  this  works  Im  just  gonna
+
+create  a  square  over  here  a  regular
+
+perfectly  symmetrical  square  like  that
+
+let  me  just  convert  this  to  a  path  by
+
+going  to  path  object  to  path  let  me
+
+scale  that  down  Im  gonna  right  click
+
+this  and  Im  gonna  go  to  copy  and  then
+
+Ill  come  over  here  to  the  pencil  tool
+
+and  if  you  notice  over  here  I  have  these
+
+settings  Im  using  create  regular  Bezier
+
+path  the  smoothing  Im  gonna  have  that
+
+set  to  about  75  Ill  explain  that  in  a
+
+minute  and  where  it  says  shape  Im  gonna
+
+have  this  set  to  from  a  clipboard  and  if
+
+I  click  and  drag  on  the  canvas  like  that
+
+youll  notice  what  it  basically  do  is  it
+
+took  that  square  and  stretched  it  out
+
+along  that  path  right  here  and  if  I  go
+
+to  the  edit  pads  by  nodes  tool  youll
+
+notice  youll  get  a  little  handle  right
+
+here  and  you  can  stretch  out  the  width
+
+of  this  path  right  here  and  you  could
+
+even  change  the  the  path  itself  like  how
+
+it  flows  and  everything  like  that  so  let
+
+me  get  rid  of  this  let  me  come  back  over
+
+here  to  the  pencil  tool  just  to  show  you
+
+something  else  here  over  here  where  it
+
+says  smoothing  this  determines  how  rough
+
+or  how  smooth  the  line  that  you  create
+
+is  if  I  bring  this  smoothing  all  the  way
+
+down  to  something  like  10  and  I  leave  it
+
+there  and  then  I  go  to  create  another
+
+line  youll  notice  its  a  lot  more  a  lot
+
+more  of  my  hand  tremors  are  reflected  in
+
+the  the  contour  of  that  line  right  there
+
+now  let  me  undo  that  if  I  bring  the
+
+smoothing  up  even  higher  if  I  bring  it
+
+up  too  high  to  like  maybe  something  like
+
+92  Ill  go  to  create  a  curved  line  and
+
+wont  curve  as  much  as  as  I  drew  it
+
+itll  be  nice  and  smooth  but  itll  be
+
+hard  to  get  those  real  curves  that  youd
+
+like  to  draw  in  that  line  so  Ive  found
+
+that  a  good  a  good  area  is  about  75  I
+
+like  to  use  about  75  that  gives  you  a
+
+nice  fluid  line  without  having  any  of
+
+the  the  rough  shakes  from  from  your  hand
+
+so  let  me  take  this  get  rid  of  this  now
+
+let  me  show  you  how  this  can  work  with
+
+like  other  custom  shapes  like  stars  Im
+
+gonna  create  this  star  over  here  Im
+
+gonna  use  a  regular  star  instead  of  a
+
+polygon  Im  gonna  use  eight  corners  the
+
+spoke  ratio  is  0.75  and  rounded  and
+
+randomized  both  set  at  zero  and  Im
+
+gonna  click  and  drag  on  the  camp  so  Im
+
+just  gonna  hold  ctrl  and  shift  so  we
+
+create  that  star  like  that  there  we  go
+
+thats  what  Im  looking  for  and  Ill  go
+
+to  path  object  to  path  to  convert  that
+
+to  a  path  object  and  now  I  can  grab  the
+
+Edit  path  by  nodes  tool  and  Im  just
+
+gonna  click  and  drag  over  all  of  those
+
+nodes  and  click  this  little  plus  icon  in
+
+here  to  add  some  new  nodes  in  there  and
+
+then  what  Im  gonna  do  is  Im  gonna  go
+
+to  extensions  modify  path  jitter  nodes
+
+and  I  have  this  set  here  to  3.0  and  3.0
+
+for  both  the  X  and  y-axis  the  shift
+
+nodes  and  shift  handles  both  enabled  and
+
+Im  gonna  click  on  distribution  we  want
+
+uniform  Im  gonna  click  on  live  preview
+
+just  to  see  what  that  looks  like  and
+
+that  right  there  is  what  were  looking
+
+for  like  a  like  a  rough  kind  of  it  kind
+
+of  looks  like  an  inkblot  is  what  Im
+
+looking  for  there  Im  gonna  click  a  pie
+
+and  Im  actually  gonna  simplify  this
+
+path  a  little  bit  Ill  go  to  path
+
+simplify  or  you  can  just  press  ctrl  L
+
+and  you  might  want  to  click  that  a  few
+
+more  times  Ill  try  ctrl  L  a  couple  more
+
+times  something  like  that  looking  pretty
+
+good  now  let  me  scale  that  down  Im
+
+gonna  hold  ctrl  and  shift  and  maintain
+
+the  proportions  and  now  Im  gonna  copy
+
+that  to  the  clipboard  by  right-clicking
+
+it  going  to  copy  come  back  over  here  to
+
+the  pencil  tool  or  the  draw  freehand
+
+lines  tool  and  then  just  click  and  drag
+
+on  the  canvas  like  that  and  youll
+
+notice  it  draws  like  this  nice  it  looks
+
+like  a  streak  of  paint  now  if  you  come
+
+back  over  here  to  the  nodes  tool  you  can
+
+change  the  thickness  of  this  to  make  it
+
+look  even  better  like  that  and  when
+
+youre  drawing  your  lines  let  me  come
+
+back  over  here  to  the  tool  if  when
+
+youre  drawing  your  lines  youre  getting
+
+like  an  outline  with  no  fill  you  can
+
+change  the  settings  of  that  up  here
+
+where  it  says  fill  and  Stroke  you  just
+
+click  on  that
+
+and  it  has  the  tool  settings  right  here
+
+now  I  think  by  default  that  has  this  to
+
+this  tool  zone  style  and  has  that  set  by
+
+default  but  I  just  changed  it  to  this
+
+right  here  last  use  style  so  thats
+
+another  feature  you  can  work  with  a
+
+little  further  here  in  Inkscape  so  I
+
+think  that  should  do  it  for  this
+
+tutorial
+
+oh  wait  you  know  what  one  more  thing  I
+
+just  want  to  show  you  once  youre  happy
+
+with  how  your  your  your  brushstroke
+
+looks  what  you  can  do  is  you  can
+
+finalize  it  by  going  to  path  object  to
+
+path  and  now  you  can  edit  it  and  work
+
+with  it  like  any  other  path  oops  it  has
+
+individual  nodes  as  you  can  see  here  so
+
+I  think  that  should  do  it
+
+I  think  that  should  do  it  for  this
+
+tutorial  if  you
+
+
+

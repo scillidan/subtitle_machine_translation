@@ -1,0 +1,747 @@
+
+
+
+this  is  nick  with  logosbynic.com  and  in
+
+this  tutorial  well  be  going  over  how
+
+you  can  create  simple  animated  gifs
+
+using  inkscape
+
+now  unfortunately  inkscape  doesnt  allow
+
+you  to  export  animated  gifs  so  what
+
+were  going  to  do  is  were  going  to
+
+create  the  frames  individually  and  then
+
+open  them  as  layers  in  and  then
+
+from  there  we  can  export  as  an  animated
+
+gif  and  if  you  dont  know  what  is
+
+its  a  free  and  open  source  image  editor
+
+ill  have  a  link  to  that  in  the
+
+description  of  the  video  if  you  want  to
+
+download  and  install  that  real  quick  and
+
+then  youll  be  good  to  get  started
+
+so  for  my  example  here  as  you  can  see  i
+
+have  this  little  animated  character  that
+
+i  create  we  have  some
+
+basic  facial  movements  going  on  here  and
+
+then  we  have  a  sleeping  cat  on  the  desk
+
+with  his  tail  occasionally  moving  and
+
+the  way  that  i  made  this  was  i  created
+
+these  frames  individually  here  in
+
+inkscape
+
+and  what  i  did  was  i  used  the  batch
+
+export  feature  to  export  all  of  these
+
+individual  images  and  then  open  them
+
+with  and  then  from  there  i  was  able
+
+to  quickly  export  it  so  im  going  to
+
+show  you  how  to  do  something  similar
+
+maybe  not  with  this  particular  design
+
+im  going  to  show  you  how  to  create  like
+
+a  simple  loading  spinner  design  so  lets
+
+open  up  a  new  document  here  and  get
+
+started  now  i  should  mention  that  you
+
+should  be  using  inkscape  version  1.2  or
+
+later  in  order  to  follow  along  with  this
+
+tutorial  because  were  going  to  need  the
+
+batch  export  feature  which  is  new  to
+
+this  version  if  you  dont  know  which
+
+version  youre  using  just  go  to  help  and
+
+about  inkscape
+
+and  it  should  tell  you  right  there  as
+
+you  can  see  im  using  version  1.2  or
+
+version  1.2.1  to  be  specific  so  as  long
+
+as  youre  using  this  version  or  later
+
+youll  be  good  to  go
+
+so  im  going  to  press  1  on  the  keyboard
+
+to  zoom  in  to  100
+
+and  im  going  to  press  down  the  mouse
+
+wheel  and  move  the  mouse  to  get  the  uh
+
+canvas  off  of  the  page  here  were
+
+actually  not  going  to  use  this  canvas  at
+
+all  were  going  to  create  rectangles  and
+
+use  those  for  our  frames  so  im  going  to
+
+grab  the
+
+rectangle  tool  the  squares  and
+
+rectangles  tool  and  im  going  to  create
+
+a
+
+vertical  rectangle  like  that
+
+maybe  a  little  smaller  and  im  going  to
+
+use  this  handle  right  here  to  give  this
+
+a  rounded  edge  we  want  this  to  be  all
+
+the  way  around  it  like  that
+
+and  im  going  to  make  this  a  lighter
+
+shade  of  gray  maybe  something  like  that
+
+now  ill  grab  the  selection  tool
+
+im  going  to  duplicate  this  by  right
+
+clicking  it  and  going  to  duplicate  and
+
+then  im  going  to  move  this  down  but  im
+
+also  going  to  hold  ctrl  on  my  keyboard
+
+while  i  move  it  like  that  so  it  locks  it
+
+onto  the  vertical  axis  and  now  we  have
+
+these  two  rectangles  im  going  to  click
+
+and  drag  over  both  of  those  im  going  to
+
+group  them  together  by  going  to  object
+
+and  selecting  group
+
+and  now  if  i  click  on  this  object  as  you
+
+can  see  here  we  have  these  scaling
+
+handles  represented  by  these  arrows  if  i
+
+click  on  this  again  youll  notice  it
+
+toggles  between  the  scaling  handles  and
+
+the  rotation  handles  with  this  rotation
+
+handle  selected  im  just  going  to  click
+
+and  drag  it  like  this  and  then  im  going
+
+to  hold  the  ctrl  key  and  if  you  notice
+
+as  i  hold  the  ctrl  key  its  locking  it
+
+onto  15  degree  increments  so  im  going
+
+to  start  right  here  and  while  holding
+
+control  and  while  holding  the  click  im
+
+going  to  press  the  space  bar  to  make  a
+
+copy  and  im  going  to  move  this  over  to
+
+the  right  one  two  three
+
+press  the  space  bar  again  one  two  three
+
+space  bar  again  one  two  three  and  for
+
+this  last  one  you  can  just  let  go  and
+
+there  you  go  now  we  have  the  individual
+
+rectangles  for  our  spinner  so  let  me
+
+click  and  drag  over  all  of  this  right
+
+here  and  let  me  go  to  object
+
+ungroup
+
+click  off  of  the  graphic  to  deselect
+
+everything  let  me  just  center  this  up
+
+here  again  to  move  the  page  around  you
+
+just  press  down  the  mouse  wheel  and  move
+
+the  mouse  im  going  to  click  on  this  top
+
+one  right  here  and  im  going  to  make
+
+this  a  darker  shade  like  that
+
+and  now  im  going  to  click  and  drag  over
+
+all  of  this  and  now  i  want  to  group  it
+
+together  by  going  to  object
+
+group
+
+and  let  me  actually  just  scale  this  down
+
+a little  bit  click  and  drag  this  to
+
+scale  it  down  and  then  im  going  to  hold
+
+ctrl  and  shift  to  make  this  a  little
+
+smaller
+
+so  i  want  that  to  be  a  little  smaller
+
+like  that  and  now  im  going  to  create  a
+
+rectangle  going  over  it  or  a  square
+
+rather  im  going  to  click  and  drag  hold
+
+ctrl  to  make  a  perfectly  symmetrical
+
+square  like  that  we  dont  want  rounded
+
+corners  on  this  one  so  im  going  to
+
+click  on  this  little  corner  box  up  here
+
+that  says  make  corner  sharp
+
+and  i  will  make  this  one  white  this  is
+
+going  to  represent  the  background  of  our
+
+design  so  let  me  grab  the  select  tool
+
+let  me  lower  this  to  the  bottom  this
+
+button  right  here  that  says  lower
+
+selection  to  the  bottom
+
+and  now  im  going  to  click  and  drag  over
+
+both  of  these  objects  and  i  want  to  make
+
+sure  that  that  its  centered  up
+
+vertically  and  horizontally  so  im  going
+
+to  open  up  the  alignment  menu  which  is
+
+right  here  the  keyboard  shortcut  is  ctrl
+
+shift  a  so  im  just  going  to  use  that
+
+instead  ctrl  shift  a
+
+where  it  says  relative  to  make  sure  you
+
+have  last  selected  enabled  and  were
+
+going  to  center  this  up  on  the  vertical
+
+axis  and  the  horizontal  axis  like  that
+
+and  i  actually  dont  like  the  contrast
+
+here  id  like  this  to  be  a  little  darker
+
+so  im  just  going  to  grab  the  edit  paths
+
+by  nodes  tool  and  click  on  that  one
+
+object  right  there  and  im  going  to
+
+choose  a  darker  shade
+
+there  we  go  that  looks  a little  better
+
+okay  click  off  of  the  deselect  so  what  i
+
+want  to  do  is  i  basically  want  to  create
+
+copies  of  this  for  each  frame  of  this  i
+
+want  each  of  these  rectangles  to  be
+
+highlighted  in  this  color  in  separate
+
+frames  so  let  me  select  this  right  here
+
+let  me  press  ctrl  d  to  duplicate  it
+
+hold  ctrl  move  it  over  to  the  right  like
+
+this  and  now  we  have  our  second  frame
+
+so  i  want  to  rotate  this  around  im
+
+going  to  click  on  this  object
+
+click  on  it  again  to  get  the  rotation
+
+handles  and  im  going  to  hold  ctrl  im
+
+going  to  rotate  this
+
+three  steps  to  the  right  like  that  so
+
+now  we  have  another  copy  of  this  object
+
+where  this  rectangle  is  illuminated
+
+instead  of  this  one
+
+and  if  you  can  see  where  im  going  with
+
+this  im  going  to  create  more  copies  for
+
+every  single  one  of  these  rectangles  so
+
+let  me  zoom  out  here  to  zoom  in  and  out
+
+im  just  holding  ctrl  and  rolling  up  and
+
+down  the  mouse  wheel  let  me  create
+
+another  copy  of  this
+
+ctrl  d
+
+hold  control  move  it  over  like  that
+
+click  off  of  it  to  deselect
+
+click  on  the  object
+
+click  on  it  again  to  get  the  rotation
+
+handles
+
+and  then  hold  ctrl
+
+one  two  three  and  there  we  go  now  we
+
+have  that  one  so  ill  show  you  this  one
+
+more  time  im  going  to  click  and  drag
+
+over  it
+
+ctrl  d  to  duplicate
+
+hold  ctrl  move  this  over  here
+
+click  off  of  it  deselect
+
+click  on  just  this  object  right  here
+
+click  on  it  again  to  get  the  rotation
+
+handles  hold  control
+
+one  two  three  there  we  go  and  what  ill
+
+do  is  ill  just  fast  forward  through
+
+this  real  quick
+
+okay  so  as  you  can  see  i  have  finished
+
+making  my  frames  the  last  one  that  i  was
+
+going  to  make  is  this  one  right  here
+
+because  the  first  one  is  already
+
+represented  by  this  one  right  here  so
+
+now  we  have  all  of  our  individual  frames
+
+let  me  zoom  out  a  little  bit  so  you  can
+
+see  it  better
+
+once  we  are  finished  making  our  frames
+
+what  we  want  to  do  is  group  them  all
+
+together  individually  so  im  going to
+
+click  and  drag  over  this  one  and  im
+
+going  to  group  it  instead  of  going  to
+
+object  and  selecting  group  an  easier  way
+
+to  do  this  would  be  to  just  press
+
+control  g  on  the  keyboard  so  control  g
+
+click  and  drag  over  this  one  ctrl  g
+
+ctrl  g  and  you  get  the  id  im  just  going
+
+through  and  grouping  these  one  by  one
+
+and  we  want  to  make  sure  that  these  are
+
+grouped  so  that  when  we  batch  export  it
+
+they  will  all  be  their  own  individual
+
+elements  each  frame
+
+okay  so
+
+now  im  going  to  close  out  of  the  align
+
+distribute  menu  what  i  want  now  is  the
+
+layers  menu  so  over  here  where  it  says
+
+view  objects
+
+click  that  button  right  there  keyboard
+
+shortcut  control  shift  and  l
+
+and  if  i  click  on  these  objects  youll
+
+notice  that  they  highlight  as  they
+
+select  them  so  im  going  to  click  on
+
+this  one  right  here  and  as  you  can  see
+
+whats  highlighted  is  this
+
+this  label  right  here  i  want  to  change
+
+the  name  of  this  from  whatever  this  is
+
+to  the  number  one  because  this  is  the
+
+first  frame  in  our  sequence  let  me
+
+double  click  that  im  going  to  change  it
+
+to  one
+
+and  press  enter
+
+ill  click  on  this  one  this  is  frame
+
+number  two  and  this  one  is  whats
+
+highlighted  so  ill  click  on  that  and
+
+change  that  to  two
+
+press  enter
+
+ill  change  this  one  to  three
+
+press  enter
+
+four
+
+five
+
+six
+
+seven
+
+and  eight
+
+and  if  youre  having  trouble  seeing
+
+which  layer  you  have  selected  sometimes
+
+if  youre  working  with  a  complicated
+
+animation  youre  going  to  have  lots  of
+
+different  layers  and  different  frames
+
+going  on  here  you  might  have  to  scroll
+
+up  and  down  through  this  list  here  if
+
+you  have  a  lot  of  items  to  figure  out
+
+which  which  it  is  that  you  have  selected
+
+so  once  weve  finished  doing  that  weve
+
+now  have  our  we  now  have  our  individual
+
+layers  ready  to  go  im  going  to  click
+
+and  drag  over  all  of  these  objects  right
+
+here
+
+and  now  what  i  want  to  do  is  open  up  the
+
+export  menu  i  will  go  to  file  and  i  will
+
+select  export
+
+now  in  this  menu  we  want  to  choose  batch
+
+export  and  we  want  to  make  sure  we  have
+
+selection  we  have  these  three  different
+
+options  we  have  layer  selection  and
+
+pages  we  want  to  choose  selections  now
+
+by  default  if  you  have  all  of  these
+
+selected  you  should  see  its  all  ready
+
+to  go  right  here  we  have  these  check
+
+boxes  here  one  two  three  four  its  not
+
+in  order  but  thats  okay  it  doesnt  have
+
+to  be
+
+and  now  what  im  going  to  do  is  im
+
+going  to  choose  a  place  on  my  computer
+
+to  export  these  two  im  just  going  to
+
+put  these  on  my  desktop  click  this
+
+little  folder  icon  down  right  here  and
+
+im  just  going  to  put  this  on  my  desktop
+
+and  im  going  to  name  this
+
+im  just  going to  name  this  spinner
+
+click  save
+
+leave  these  defaults  as  they  are  and
+
+click  ok  and  then  it  will  export  all  of
+
+those  individually
+
+and  they  should  all  be  there  now  on  your
+
+desktop  so  now  its  time  to  open  up
+
+so  that  we  can  turn  this  into  an
+
+animated  gif  so  let  me  open  up
+
+let  me  open  up
+
+and  once  you  have  opened  what  you
+
+want  to  do  is  go  to  file  and  select  open
+
+as  layers
+
+now  you  should  see  right  here  i  have  my
+
+desktop  opened  heres  the  spinner
+
+graphics  spinner  one  two  three  four  so
+
+on  and  so  forth  you  want  to  select  all
+
+of  these  so  im  gonna  select  it  hold
+
+shift  and  click  on  all  of  these  so  that
+
+we  have  them  all  selected
+
+and  go  to  open
+
+now  this  may  take  a  second  because  it
+
+has  to  open  up  each  of  these  individual
+
+images  one  by  one  as  you  see  it  doing
+
+here  so  give  it  a  second  to  do  its  thing
+
+and  it  should  open  them  in  order  as  long
+
+as  you  numbered  them  like  i  demonstrated
+
+in  the  export  portion  of  the  lesson  they
+
+should  open  up  an  order  like  that  and
+
+now  what  you  can  do  is  you  can  just
+
+export  this  as  an  animated  gif  so  lets
+
+go  to  file  and  go  to  export  as
+
+and  im  going  to  title  this
+
+im  just  going  to  name  this  spinner
+
+and  over  here  where  it  says  select  file
+
+type  im  going  to  choose
+
+gif  image  and  click  export
+
+now  this  parts  really  important  uh
+
+youre  going  to  get  this  menu  that  pops
+
+up  make  sure  where  it  says  as  animation
+
+make  sure  you  have  this  enabled  by
+
+default  when  you  open  up  this  will
+
+be  deselected  if  you  dont  have  this
+
+selected  its  just  going  to  export  it  as
+
+a  static  image  make  sure  you  have  that
+
+selected  right  there  and  this  right  here
+
+delay  between  frames  were  unspecified  in
+
+milliseconds  i  think  by  default  its  200
+
+now  um  the  number  that  you  should  put
+
+here  depends  on  your  graphic  but  for
+
+this  spinner  graphic  im  just  going  to
+
+use  100
+
+if  you  if  you  use  this  number  and  you
+
+find  out  its  too  fast  or  the  animation
+
+is  too  slow  you  can  always  go  back  and
+
+change  this  number  later  on  so  im  going
+
+to  im  just  going to  leave  it  at  100
+
+press  export
+
+and  if  i  go  to  my  desktop  it  should
+
+be  there
+
+let  me  get  out  of  there
+
+where  is  uh
+
+spinner.gif  there  we  go
+
+its  gonna  open  this  up  and  there  you  go
+
+now  we  have  our  spinning  our  little
+
+loading  spinner
+
+animation  that  we  created  with  inkscape
+
+and  with  so
+
+i  think  that  should  do  it  for  this
+
+tutorial  that  is  how  you  can  create
+
+simple  animated  gifs  using  inkscape  if
+
+you  found  this  lesson  useful  then
+
+consider  checking  out  my  inkscape  master
+
+class  its  a  collection  of  over  60
+
+videos  where  i  go  over  all  of  the  tools
+
+and  features  in  inkscape  and  i  explain
+
+what  they  are  and  demonstrate  how  they
+
+work  kind  of  like  how  i  did  in  this
+
+video  we  even  have  a  private  community
+
+where  you  can  ask  questions  and  get  help
+
+from  me  anytime  you  want  ill  have  some
+
+information  about  that  in  the
+
+description  of  the  video  if  you  want  to
+
+check  that  out  as  always  thanks  for
+
+watching
+
+
+

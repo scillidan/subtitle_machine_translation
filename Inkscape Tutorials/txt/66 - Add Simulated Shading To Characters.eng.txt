@@ -1,0 +1,838 @@
+
+this  is  nick  with  logos  by  nick.com  and
+
+in  this  tutorial  ill  be  demonstrating
+
+how  you  can  add  some  simple  shading  to
+
+your  vector  illustrations
+
+using  inkscape  this  is  a  nice  little
+
+touch  you  can  add  to  your  designs  to
+
+make  them  pop  a  little  more
+
+and  if  you  dont  have  an  example  design
+
+to  try  this  out  with  then  ill  have  a
+
+download  link  in  the  description  of  the
+
+video
+
+if  you  want  to  practice  on  this  example
+
+design  that  im  using  here
+
+but  before  we  get  started  if  youd  like
+
+to  learn  more  about  inkscape  be  sure  to
+
+check  out  my  inkscape  master  class
+
+its  a  collection  of  over  60  videos
+
+where  i  go  over  all  of  the  tools  and
+
+features  in  inkscape
+
+and  i  explain  what  they  are  and
+
+demonstrate  how  they  work  ill  have  a
+
+link  in  the  description
+
+of  the  video  if  you  want  to  check  that
+
+out  so  getting  started  here  on  escape  as
+
+you  can  see  i  have  the  software  open  the
+
+first  thing  we  want  to  do  is  just  make
+
+sure  we  have  our  snapping  enabled
+
+up  here  the  top  icon  in  the  very  top
+
+left  that  says
+
+enable  snapping  make  sure  thats  turned
+
+on  we  want  to  come  over  here  to  where  it
+
+says
+
+snap  to  custom  nodes  make  sure  thats
+
+enabled  and  then  snap  to
+
+smooth  nodes  as  well  and  what  im  going
+
+to  do  now  is  im  going  to  import  this
+
+example  design  i  have  it  downloaded  here
+
+in  this  folder
+
+im  just  going  to  click  and  drag  this
+
+onto  the  canvas  like  that  im  going  to
+
+click  ok  to  leave  the  default  settings
+
+as  they  are
+
+and  theres  this  example  shark  design
+
+that  im  going  to  be  working  with
+
+now  let  me  come  up  here  to  where  it  says
+
+view  make  sure  you  have  custom  selected
+
+go  to  zoom  zoom  in  at  one  to  one
+
+and  now  im  just  going  to  hold  ctrl  and
+
+shift  with  the  select  tool  here  hold
+
+ctrl  and  shift  and  grab  one  of  these
+
+arrows
+
+and  scale  this  down  now  for  this
+
+tutorial  you  dont  have  to  necessarily
+
+follow  this  step
+
+what  im  going  to  do  is  im  just  going
+
+to  right  click  this  and  go  to  duplicate
+
+and  im  going  to  apply  this  to  a
+
+duplicate  copy  over  here
+
+im  going  to  leave  this  one  over  here
+
+the  original  so  that  i  can  show  you  the
+
+difference
+
+between  the  finished  design  and  how  it
+
+was  previously  just  to  show  you  how  well
+
+it  makes  the  design  look
+
+so  i  have  this  design  over  here  what  i
+
+want  to  do  now  is  just
+
+ungroup  this  im  going to  come  up  here
+
+to  where  it  says  ungroup  ungroup
+
+selected  objects  click  on  that
+
+you  may  want  to  click  on  that  just  a  few
+
+times  just  to  make  sure  that  theres  not
+
+several  layers  of  groupings  there  and
+
+now  we  can  click  off  and  deselect
+
+everything  what  im  looking  at  here
+
+is  im  just  going  to  imagine  a  light
+
+source  being  over  here  on  the  canvas
+
+right  here
+
+shining  light  going  this  way  so  like  on
+
+this  side  of  the  design
+
+the  right  side  will  be  like  a  glow  or
+
+like  a  highlight  effect
+
+and  over  here  will  be  a  shading  or  a
+
+shadow  effect
+
+so  let  me  zoom  in  on  this  by  holding
+
+ctrl  and  rolling  up  the  mouse  wheel
+
+and  if  you  want  to  move  the  page  around
+
+at  any  point  you  can  just  press  down  the
+
+mouse  wheel  and  move  the  mouse
+
+what  im  going  to  do  is  im  just  going
+
+to  manually  draw  a  shaded  a  shaded  area
+
+right  here  im  going  to  grab  the  bezier
+
+pen  which  is  right  here  with  the
+
+snapping  enabled  as  it  is  there  im  just
+
+going  to  snap  to  this  cusp  node  right
+
+there
+
+click  and  then  come  down  here  and  click
+
+down  here  into  this  blue  area
+
+and  then  im  going  to  bring  the  line
+
+going  through  this  blue  area  here
+
+back  to  the  starting  point  oops
+
+back  to  the  starting  point  like  that
+
+make  sure  youre  going  through  the  dark
+
+blue  area  the  whole  time
+
+and  now  i  want  to  open  up  the  fill  and
+
+stroke  menu  which  is  over  here  fill  in
+
+stroke
+
+or  you  can  press  ctrl  shift  and  f  on  the
+
+keyboard  and  for  the  fill  color
+
+i  want  to  make  this  the  same  shade  of
+
+blue  that  this  light  shade  of  blue  is
+
+here  only
+
+slightly  darker  so  to  do  this  im
+
+actually  going  to  use  the  dropper  tool
+
+first  im  going to  come  over  here  to
+
+where  it  says  pick  colors  from  an  image
+
+or  you  could  press  d
+
+on  the  keyboard  and  just  go  ahead  and
+
+grab  a  sample  selection
+
+from  that  there  and  where  it  says  fill
+
+in  the  fill  tab
+
+im  looking  for  hsl  and  in  the  l
+
+row  im  going  to  take  this  and  bring
+
+this  to  the  left  a  little  bit  just  to
+
+make  that  a  little  darker
+
+and  im  actually  going  to  change  the
+
+shade  of  that  blue  a  little  bit  im
+
+going  to  take  this
+
+im  going  to  take  this  atro  and  just
+
+slide  this  though  right  a  little  bit
+
+just  to  make  that  pop  out  a  little  more
+
+and  i  want  to  get  rid  of  that  black
+
+outline  so  im  going  to  hold  shift  and
+
+click  this  red  x  in  the  bottom  left
+
+corner
+
+and  now  what  i  want  to  do  is  grab  the
+
+select  tool  and  i  want  to  lower  this
+
+beneath  these  blue  objects  so  im  going
+
+to  come  up  here  to  where  it  says
+
+lower  selection  one  step  click  that  once
+
+again
+
+again  and  again  until  it  goes  beneath
+
+these  objects  over  here
+
+now  instead  of  using  this  button  what  i
+
+like  to  do  is  use  the  keyboard  shortcut
+
+which  is
+
+page  down  so  im  just  going  to  press
+
+page  down  until  it  goes  beneath
+
+everything  like  that
+
+or  maybe  not  that  far  okay  perfect  right
+
+there  once  youve  done  that
+
+just  take  your  your  edit  pads  by  nodes
+
+tool  and  take  this  line  and  just
+
+manually  click  and  drag  it  in
+
+so  that  it  follows  a  similar  contour  to
+
+this  blue  this  dark  blue  line  right  here
+
+and  if  you  go  to  the  select  one  you  zoom
+
+back  out  youll  notice  youve  weve
+
+added  a  little  bit  of  shading  right
+
+there
+
+now  im  going  to  take  this  and  make  this
+
+a  little  lighter  i  dont  want  it  quite
+
+that  dark  that  looks  a  little  better
+
+and  im  going  to  go  through  and  do  the
+
+same  thing  right  here  im  going  to  add
+
+another  shape
+
+by  the  fin  right  here  let  me  grab  the
+
+bezier  pen
+
+im  going  to  start  right  here  bring  the
+
+line  right  here
+
+then  over  here  and  then  through  the  blue
+
+areas  the  dark  blue  out
+
+the  dark  blue  areas  until  its  back  to
+
+the  starting  point  like  that
+
+fill  it  in  with  this  shade  right  here  so
+
+im  going  to  grab  the  dropper  fill  that
+
+in
+
+get  rid  of  the  black  outline  by  shift
+
+clicking  the  x
+
+back  to  the  select  tool  and  again  im
+
+using  page  down  until  it  goes  beneath
+
+those  dark  blue  areas  and  now  im  going
+
+to  grab  the  edit  paths  by
+
+nose  tool  and  then  just  adjust  this  so
+
+that  these  lines  follow  the  contour  of
+
+these  lines  over  here
+
+and  that  right  there  is  what  im  looking
+
+for  let  me  zoom  out  a  little  bit  thats
+
+looking  pretty  good
+
+so  now  im  going  to  draw  another  one
+
+right  here  im  going  to  be  im  going  to
+
+use  the  keyboard  shortcuts  now  and  work
+
+a  little  bit  faster  so  im  going to  grab
+
+the  bezier  pen
+
+again  over  here  b  on  the  keyboard  to
+
+grab  that  im  going  to  start  right  here
+
+at  this  corner
+
+bring  the  line  up  here  like  that  and
+
+then  through
+
+the  dark  blue  area
+
+back  to  the  starting  point  press  d  on
+
+the  keyboard  to  grab  the  dropper
+
+make  that  the  same  color  get  rid  of  the
+
+outline  by  shift-clicking  the  red  x
+
+and  now  im  going  to  grab  the  edit  paths
+
+by  nodes  tool  by  pressing
+
+n  on  the  keyboard  and  ill  just  take
+
+this  and  drag  this  in
+
+you  know  what  let  me  go  back  to  the
+
+select  tool  and  lower  this  down  im
+
+going  to  press  page  down  on  the  keyboard
+
+a  few  times  there  we  go
+
+and  now  i  can  go  back  to  the  nodes  tool
+
+and  i  can  click  on  this  node  right  here
+
+the  corner  node
+
+and  then  i  can  get  these  little  handles
+
+thatll  make  it  easier  for  me  to  adjust
+
+so  i  want  to  adjust  these  handles  so
+
+that  this  shadow  is  following  the
+
+contour
+
+of  the  shoulder  here  or  the  dark  blue
+
+border
+
+thats  looking  pretty  good  right  there
+
+as  you  can  see
+
+im  gonna  do  the  same  thing  down  here
+
+only  im  gonna  make  this  shadow
+
+follow  this  this  side  right  here  so  let
+
+me  grab  the  bezier  pen  again
+
+same  steps  as  before  im  going  to  end
+
+this  one  right  about  here  im  not  going
+
+to  take  this  all  the  way  to  the  end
+
+right  here  ill  put  it  right  about  here
+
+back  through  the  starting  point  through
+
+the  dark  blue  areas
+
+there  we  go  make  it  the  same  color  get
+
+rid  of  the  outline  lower  it  down
+
+with  page  down  and  then  back  to  the
+
+nodes  tool
+
+and  we  can  adjust  this  further  and  make
+
+it  fit
+
+make  it  a little  more  fluid  now  you  may
+
+want  to  temporarily
+
+disable  snapping  while  youre  doing  this
+
+to  do  that  you  can  just  come  up  here
+
+and  click  on  that  because  theres
+
+sometimes  youre  going  to  want  to  adjust
+
+these  handles
+
+and  the  snapping  gets  in  the  way  so  you
+
+can  temporarily  turn  that  off  if  you
+
+want  to  adjust  these  handles
+
+like  im  doing  here  and  then  if  you  want
+
+to  turn  it  back  on  you  could  just  press
+
+you  can  just  click  this  button  or  what  i
+
+like  to  do  is  use  the  keyboard  shortcut
+
+which  is
+
+shift  and  five  and  there  we  go  now  its
+
+enabled  again
+
+so  looking  at  this  illustration  here
+
+were  going  to  want  to  apply
+
+this  shadow  effect  maybe
+
+maybe  over  here  where  the  thumb  is  and
+
+then  after  that
+
+well  have  the  shadows  applied  to  the
+
+left  side  of  the  design
+
+and  then  were  going  to  work  on  adding
+
+highlights  to  the  right  side  of  the
+
+design  so  let  me  just  go  through  and
+
+finish  up  the  shadows  really  quick
+
+okay  so  ive  gone  through  and  ive  added
+
+some  shadows  to  the  left  side  of  the
+
+design  now  im  going  to  add  some
+
+highlights  to  the  right  side  of  the
+
+design  and  im  going  to  start  up  here
+
+with  the  sharks  head  up  here  because  as
+
+were  imagining  this  light  source  is
+
+coming  over  here  from  the  right  and
+
+shining  this  way  so
+
+let  me  grab  the  bezier  pen  again  let  me
+
+turn  snapping  back  on  and  i  want  to  snap
+
+to  this  corner
+
+im  going  to  create  the  shot  the
+
+highlight  right  here  going  along  the  top
+
+of  the  head  here
+
+snap  it  back  to  the  starting  point  over
+
+here
+
+bring  it  through  the  border  the  dark
+
+blue  border
+
+whoops  didnt  mean  to  do  that
+
+and  back  to  the  starting  point
+
+and  for  this  one  im  going  to  use  a
+
+lighter  shade  instead  of  a  darker  shade
+
+so  let  me  grab  the  dropper
+
+make  this  the  same  shade  of  blue  only
+
+im  going  to  make  this  one  a  little
+
+lighter
+
+like  that  lets  get  rid  of  the  outline
+
+or  the  stroke  go  back  to  the  select  tool
+
+page  down  a  few  times  to  lower  it
+
+beneath  the  eye
+
+and  beneath  the  dark  blue  area  now  we
+
+can  grab  the  edit  pads  by  nodes  tool
+
+im  going  to  turn  off  snapping  for  this
+
+part  because  i  know  for  a  fact  that  its
+
+going  to  get  in  the  way
+
+take  this  node  down  here  adjust  this
+
+thats  looking  pretty  good  i  just  want
+
+to  get  this  out  of  the  way  of  the  eye
+
+right  here  so  im  going  to  double  click
+
+im  actually  going  to  double  click  right
+
+here  to  add  a  new  node
+
+and  then  just  bring  that  up  like  that
+
+that  didnt  come  out
+
+quite  as  well  as  id  like  so  let  me  undo
+
+that  to  undo  im  just  going  to  hit  ctrl
+
+z  a  couple  of  times
+
+and  let  me  raise  this  back  to  the  top  i
+
+want  to  add  this  node  right  here
+
+there  we  go  and  now  i  can  go  ahead  and
+
+lower  this  down
+
+thats  what  im  looking  for  right  there
+
+thats  looking  pretty  good  so  im  going
+
+to  add  another  highlight  going  right
+
+here
+
+now  since  this  area  is  white  im  just
+
+going  to  use  a  more  vibrant  shade  of
+
+light  blue  for  this  highlight  although
+
+its  technically
+
+technically  if  this  were  like  gray  you
+
+would  use  white  right  here  but  since
+
+this  is  already  white  im  just  going  to
+
+use  a  different
+
+like  a  more  vibrant  blue  like  this  so
+
+let  me  grab  the  bezier  pen  again
+
+im  going  to  start  over  here  im
+
+actually  going  to  start  up  here  let  me
+
+turn  snapping  back  im  going  to  start  at
+
+this  corner
+
+and  ill  come  through  here  like  this
+
+let  me  turn  off  snapping  after  ive
+
+connected  to  that  point
+
+there  we  go  back  through  this  area  right
+
+here
+
+and  i  want  to  make  this  probably  the
+
+same  shade  of  this  maybe  a  little
+
+lighter  so  let  me  grab  the  dropper
+
+there  we  go  get  rid  of  the  outline  lets
+
+lower  this  down
+
+there  we  go  grab  the  nodes  tool  and  then
+
+just  make  this  follow  the  contour  of
+
+that
+
+i  actually  got  to  lower  that  down  some
+
+more  thats  still  sticking  out
+
+there  we  go  and  i  want  to  make  that  a
+
+little  lighter  thats  a  little  too  dark
+
+for  a  little  too  dark  for  it  to  be  a
+
+highlight  like  that  that  looks  pretty
+
+good  right  there
+
+so  now  im  going  to  create  another  one
+
+going  through  the  teeth  right  here  let
+
+me  grab  the  bezier  pen
+
+right  through  there  and  then  right
+
+through  here  like  this
+
+back  to  the  starting  point  make  this  the
+
+same  color  with  the  dropper  tool
+
+get  rid  of  the  stroke  and  then  lower  it
+
+down
+
+like  that  and  as  you  can  see  its  its
+
+really  coming  to  life  here  so  what  im
+
+going to  do  is  im  going  to  add  a  few
+
+more  highlights  through  here
+
+maybe  right  here  on  the  right  side  of
+
+the  shoulder  and  then  over  here  at  the
+
+top  of  the  knuckles  over  here  and  maybe
+
+right  there  as  well  ill  have  to  see  how
+
+it  looks  so  let  me  go  through  and  do
+
+that  real  quick
+
+okay  so  as  you  can  see  i  finished  up
+
+adding  my  highlights
+
+to  the  right  side  and  the  top  side  of
+
+the  areas  of  the  design  here  and  whether
+
+or  not  this  is  actually  correct  like
+
+this  is
+
+how  the  light  would  actually  interact
+
+with  the  subject  like  this
+
+i  dont  know  probably  not  but  it  still
+
+looks  good  enough  for  it  to  be  effective
+
+and  to  make  the  design  pop  a  little  more
+
+let  me  zoom  back  out  here
+
+to  show  you  what  i  mean  im  going  to
+
+take  this  original  design  and  im  going
+
+to  put  it  right  next  to  it
+
+and  as  you  can  see  there  is  a  clear
+
+difference  there  this  design  just  seems
+
+more  alive  it  seems  to  pop  a  little  more
+
+it  just  looks  like  a
+
+like  a  higher  quality  illustration  just
+
+with  some  simple
+
+shading  and  highlights  drawn  with  the
+
+bezier  pen  like  that
+
+so  that  is  how  you  can  go  about  adding
+
+some  highlights  and  shadows  and
+
+shading  features  to  your  simple
+
+illustrations  using  inkscape
+
+if  you  have  any  questions  let  me  know
+
+and  as  always  thanks  for  watching
+
+before  i  end  the  video  id  just  like  to
+
+let  you  know  that  you  can  watch  all
+
+future  tutorials  without  ads
+
+and  before  i  upload  them  to  youtube  at
+
+logosbynic.com
+
+just  click  the  red  bell  at  the  bottom  of
+
+the  page  to  get  notifications  and  every
+
+time  a  new  tutorial  is  posted
+
+youll  get  to  watch  it  before  it  gets
+
+uploaded  to  youtube  and  without  any
+
+advertisements
+
+if  you  have  any  questions  leave  a
+
+comment  below  and  as  always  thanks  for
+
+watching
+
+you

@@ -1,0 +1,28 @@
+Lets have a look at the Rectangle tool. I select it. Now I drag over the body of the crocodile. As
+with the Ellipse tool, I can drag the two squares. And when I drag the circle, all four corners get
+rounded. I want however only to round two corners. I click on the Make corners sharp again icon.
+To round individual corners, I click on the Node tool. I click on: Add corners. Now
+I can adjust each corner individually. To create a curve at the bottom left corner,
+I drag the small circle up. I get two arrows, showing the start and end points of the curve.
+I drag the arrow all the way up. And to round the bottom right corner, I drag the circle to
+the left. I dont want a border, so I Shift-click on the red cross. In the Layers panel, I can see
+I placed a rectangle. I will name the rectangle: body. Because the rectangle was created last,
+it lies above the other elements. So I want to lower the body. When I click on the down arrow,
+I am lowering the body. But when there are many objects, it is faster to drag it to another place.
+Notice I could even add it to a group. When I drag and hold it above a group, the group opens,
+and I can place it where I want. I will press Ctrl-Z to undo, and close the group. With the
+Select tool selected, you can click on the Raise and Lower icons, which do the same as the up and
+down arrows. And with the Raise to Top and Lower to Bottom icons, you can quickly place
+an item to the top or the bottom of a layer. Now lets make the feet. I click on the Rectangle
+tool, and drag over a foot. To quickly go to the Select tool, press the spacebar. Now I can adjust
+from every corner. And to return to the Rectangle tool, press the spacebar again. I drag the circle
+to round the corners. I see the top corners are a bit different, so I click on the Node tool.
+I click on Add corners. To adjust the curve, I drag the left circle up. And at the right,
+I drag the smaller circle down. I press the spacebar, to go to the Select tool.
+Now I duplicate the foot, and drag it to the other foot. I click on the brown swatch, that
+I pinned in the Swatches panel. To place the foot behind the other foot, I click on the Lower icon.
+I Shift-click on the other foot, right-click, and choose: Group. Then I click on the Lower to Bottom
+icon. In the Layers panel, I will call the group: left feet. I right-click on the group, and choose:
+Duplicate. I click on: Lower to Bottom. In the Layers panel, I call the group: right feet. I drag
+the feet. And when I hold Ctrl while dragging, I can drag in a straight line. I can do this
+horizontally, and vertically. In the next lecture, we will create the scutes, using the Pencil tool.

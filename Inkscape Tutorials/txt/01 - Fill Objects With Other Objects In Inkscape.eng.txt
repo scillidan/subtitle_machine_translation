@@ -1,0 +1,522 @@
+
+in  this  tutorial  Ill  be  demonstrating  a
+
+simple  technique  for  taking  a  single
+
+object  and  filling  it  with  another
+
+object  using  inkscape  before  we  get
+
+started  though  if  you  want  to  learn  more
+
+about  how  inkscape  Works  be  sure  to
+
+check  out  my  inkscape  master  class  its
+
+a  collection  of  over  80  videos  where  we
+
+go  over  all  of  the  tools  and  features  in
+
+inkscape  and  I  explain  what  they  are  and
+
+demonstrate  how  they  work  kind  of  like
+
+how  Ill  do  in  this  video  we  even  have  a
+
+private  Community  where  you  can  ask
+
+questions  and  get  help  from  me  anytime
+
+you  need  it  Ill  have  some  information
+
+about  that  down  below  if  you  want  to
+
+check  that  out  and  now  that  that  out  of
+
+the  way  lets  get  started  so  Im  going
+
+to  open  up  a  blank  document  and  Im
+
+going  to  grab  my  text  tool  by  either
+
+grabbing  it  from  the  toolbar  over  here
+
+or  just  pressing  the  letter  t  on  the
+
+keyboard  and  Im  going  to  click  on  the
+
+canvas  and  for  this  demonstration  Im
+
+just  going  to  use  the  letter  s  Im  going
+
+to  use  a  large  capital  letter  s  Im
+
+going  to  hold  control  and  scale  this  up
+
+so  that  we  maintain  the  aspect  ratio  and
+
+let  me  open  up  my  text  editor  by  going
+
+to  text  and  selecting  text  and  font  and
+
+Im  going  to  change  the  font  of  this  to
+
+monserat  Black  and  Im  going  to  use  a
+
+very  heavyweight  front  for  this  because
+
+it  gives  us  more  space  to  fill  in  with
+
+that  object  let  me  scale  this  up  some
+
+more  Im  going  to  convert  this  to  a  path
+
+by  going  to  path  object  to  path  and  then
+
+I  will  quote  unquote  ungroup  it  by  going
+
+to  object  ungroup  now  nothing  visibly
+
+changes  there  but  it  just  its  a
+
+function  thats  required  to  make  this
+
+work  as  needed  and  now  Im  going  to  open
+
+up  the  layers  menu  by  going  to  layer  and
+
+selecting  layers  and  objects  and  if  you
+
+notice  here  this  text  next  object  is
+
+located  on  layer  one  Im  going  to  create
+
+a  new  layer  on  top  of  this  where  Im
+
+going  to  place  the  object  that  I  would
+
+like  to  fill  this  in  with  so  Im  going
+
+to  click  this  plus  icon  up  here  and  its
+
+going  to  add  a  new  layer  and  I  have  an
+
+object  already  copied  to  my  clipboard
+
+Im  just  going  to  press  control  V  to
+
+paste  that  in  there  you  can  use  any
+
+object  you  want  to  fill  in  your  shape  or
+
+letter  you  can  use  a  single  object  or  as
+
+in  my  case  Im  using  a  grouping  of
+
+objects  here  so  I  have  this  orange  slice
+
+that  I  created  Im  just  going  to  fill  it
+
+in  with  this  let  me  scale  this  down  a
+
+little  bit  and  I  want  to  Center  this  I
+
+want  to  put  this  in  the  top  left  corner
+
+of  this  object  but  first  let  me  take
+
+this  object  and  make  note  of  the  size  if
+
+I  come  up  here  to  the  the  settings  where
+
+it  says  W  and  H  for  width  and  height  you
+
+can  see  the  size  Im  going  to  size  this
+
+at  500  pixels  wide  and  then  its  going
+
+to  go  to  about  580  pixels  high  so  Im
+
+going  to  make  a  mental  note  of  this
+
+width  and  height  for  my  instance  here
+
+Im  going  to  use  500  by  600  Im  just
+
+going  to  round  up  to  make  it  easier  Im
+
+going  to  click  on  this  object  hold  shift
+
+click  on  this  object  and  I  want  to  align
+
+those  two  together  so  let  me  come  up
+
+here  to  object  and  go  to  align  and
+
+distribute  and  let  me  choose  last
+
+selected  and  Im  going  to  align  the  left
+
+edges  and  the  top  edges  so  that  it
+
+places  the  object  in  the  top  left  corner
+
+of  this  objects  bounding  box  and  now  I
+
+can  click  off  of  it  to  select  every  to
+
+deselect  everything  so  let  me  just  come
+
+over  here  to  my  layers  menu  and  make
+
+sure  I  have  everything  as  I  need  it  this
+
+object  here  is  in  Layer  Two  and  this
+
+this  object  is  layer  one  everything
+
+looks  good  there  now  Im  going  to  use
+
+the  tiled  clones  feature  to  generate
+
+copies  of  this  image  inside  or  this
+
+graphic  inside  of  this  letter  so  to  do
+
+that  Im  going  to  go  to  edit  clone  and
+
+choose  create  tiled  clones  and  the
+
+settings  Im  going  to  use  for  this  Im
+
+first  going  to  come  over  here  to  scale
+
+and  I  want  to  make  sure  I  have  the
+
+randomized  column  set  to  50%  for  both
+
+the  X  and  the  Y  AIS  make  sure  you  have
+
+zeros  in  here  it  should  be  by  default
+
+but  if  not  just  make  sure  to  enter  zeros
+
+and  then  Ill  come  over  here  to  the
+
+rotation  we  want  to  rotate  this  object
+
+as  well  we  dont  want  it  to  just  be  the
+
+same  rotation  all  the  way  through  we
+
+want  randomized  rotation  so  I  set  the
+
+randomize  to  100%  Im  going  to  leave
+
+these  two  at  zero  and  bluring  opacity
+
+Ill  leave  that  empty  color  Ill  leave
+
+that  empty  and  Ill  come  over  here  to
+
+trace  you  want  to  enable  this  option
+
+right  here  that  says  trace  the  drawing
+
+under  the  Clone  SL  spray  items  and  were
+
+going  to  choose  the  opacity  setting  and
+
+then  only  the  presence  setting  make  sure
+
+you  deselect  these  other  settings  here
+
+and  now  when  we  choose  between  rows  and
+
+columns  or  width  and  height  were  going
+
+to  choose  width  and  height  and  were
+
+going  to  enter  that  width  and  height  of
+
+this  object  that  you  made  note  of
+
+earlier  so  for  my  example  here  I  was
+
+doing  this  earlier  so  these  numbers  are
+
+already  there  its  500  by  600  so  now
+
+with  that  in  place  Im  going  to  click
+
+the  create  button  and  it  should  generate
+
+copies  of  that  object  within  the  other
+
+object  now  if  you  notice  the  copies  are
+
+kind  of  large  I  didnt  really  like  how
+
+that  came  out  so  Im  going  to  press
+
+press  command  Z  or  control  Z  to  undo
+
+that  and  Im  going  to  make  this  object  a
+
+little  smaller  and  try  that  again  Im
+
+going  to  make  that  a  little  bit  smaller
+
+let  me  Zoom  back  out  and  click  the
+
+create  button  again  and  see  how  that
+
+goes  okay  that  looks  a  little  better  but
+
+still  a  little  large  let  me  undo  that
+
+again  and  Ill  make  this  a  little  bit
+
+smaller  and  this  should  do  the  trick
+
+this  time  let  me  try  it  one  more
+
+time  okay  that  looks  a  lot  better  so  now
+
+that  thats  in  place  let  me  zoom  in  on
+
+this  a  little  bit  let  me  close  out  of
+
+the  tille  Clones  menu  we  dont  need  that
+
+anymore  if  you  notice  the  objects  are
+
+overlapping  each  other  which  doesnt
+
+really  create  a  good  effect  we  want  them
+
+to  be  not  overlapping  so  to  correct  that
+
+Im  going  to  hold  control  and  shift  and
+
+take  this  original  object  and  scale  it
+
+down  a  little  bit  and  if  you  notice  when
+
+I  do  that  all  of  the  other  objects  scale
+
+down  as  well  because  these  are  all
+
+linked  clones  so  whatever  I  do  to  this
+
+original  object  it  will  also  happen  to
+
+these  other  objects  so  scaling  it  up  and
+
+down  will  help  increase  and  decrease  the
+
+density  of  the  objects  within  the  shape
+
+and  that  right  there  looks  like  a  good
+
+happy  medium  Im  going  to  move  this  out
+
+of  the  way  if  you  notice  we  have  some
+
+imperfections  in  here  a  lot  of  these
+
+objects  went  outside  of  the  shape  thats
+
+okay  we  could  just  go  through  and  click
+
+on  them  and  press  delete  one  by  one  to
+
+get  rid  of  them  so  Im  just  going  to  go
+
+through  here  and  delete  these  real
+
+quick  and  another  thing  youll  probably
+
+want  to  do  let  me  just  get  rid  of  that
+
+one  as  well  another  thing  youll  want  to
+
+do  is  go  and  move  these  around  a  little
+
+bit  just  to  correct  the  spacing  and  we
+
+were  just  going  to  do  this  manually
+
+were  going  to  go  through  these  one  by
+
+one  let  me  come  up  here  to  the  top  of
+
+the  layers  menu  Im  going  to  collapse
+
+layer  two  so  I  can  see  layer  one  and  I
+
+want  to  lock  layer  one  so  that  I  dont
+
+accidentally  move  the  layer  or  the
+
+object  in  the  layer  with  what  Im  about
+
+to  do  because  what  what  Im  going  to  do
+
+now  is  Im  just  going  to  manually  move
+
+these  objects  around  so  that  they  are
+
+sitting  on  the  edge  of  the  shape  or  the
+
+letter  and  you  may  have  to  just  manually
+
+adjust  these  so  that  they
+
+are  uh  evenly  spaced  out  and  they  dont
+
+overlap  each  other  or  they  dont  look
+
+like  theyre  big  gaps  between  them  so
+
+Im  just  going  to  balance  these  out  a
+
+little  bit  and  again  this  is  something
+
+were  going  to  do  manually  you  can  hold
+
+control  and  scale  it  up  and  down  and  if
+
+you  want  to  make  additional  copies  you
+
+could  just  click  and  drag  it  and  then
+
+press  the  space  bar  and  itll  make
+
+copies  of  it  so  you  can  just  make  copies
+
+in  there  like  that  by  pressing  your
+
+space  bar  and  Ill  move  these  around  a
+
+little  bit  as  well  and  I  think  you  get
+
+the  idea  so  let  me  just  go  through  here
+
+real  quick  and  just  straighten  this  out
+
+so  that  it  looks  good  and  then  I  will
+
+catch  up  with  you  when  Im  finished
+
+all  right  so  for  the  most  part  I
+
+finished  up  here  theres  a  few  loose
+
+ends  that  need  to  be  tied  up  this  one
+
+looks  a  little  big  and  theres  some
+
+empty  gaps  in  there  but  you  should  get
+
+the  idea  by  now  the  really  important
+
+thing  when  doing  this  is  to  make  sure
+
+that  you  have  these  objects  as  close  to
+
+the  edge  of  the  larger  object  as
+
+possible  because  thats  whats  really
+
+going  to  help  it  maintain  its  appearance
+
+as  the  original  shape  if  they  get  too
+
+far  from  The  Edge  its  going  to  kind  of
+
+lose  its  appearance  so  thats  really
+
+important  and  once  youre  done  doing  all
+
+of  this  these  objects  should  still  be
+
+linked  together  so  you  can  still
+
+increase  or  decrease  the  size  of  these
+
+clones  if  you  want  to  using  the  original
+
+but  I  think  it  looks  good  as  it  was  so
+
+Ill  just  put  that  back  and  now  that
+
+thats  done  let  me  come  back  up  here  to
+
+my  top  the  top  of  my  layers  menu  Im
+
+going  to  collapse  Layer  Two  where  all
+
+those  all  of  those  clones  are  and  Ill
+
+come  over  here  to  layer  one  and  Im  just
+
+going  to  turn  off  the  visibility  of  it
+
+and  you  can  see  the  effect  now  Ive
+
+taken  this  object  and  filled  in  the
+
+other  object  with  copies  of  it  and  maybe
+
+Ill  even  make  this  a  little
+
+bigger  yeah  that  looks  pretty  good  I
+
+like  how  that  looks  right  there  and  yeah
+
+I  think  that  should  do  it  for  this
+
+tutorial  so  thats  how  you  can  use  the
+
+tiled  clones  feature  in  inkscape  to  fill
+
+in  an  object  with  another  object  if  you
+
+have  any  questions  just  leave  a  comment
+
+below  and  as  always  thanks  for  watching
+
+if  you  found  this  lesson  useful  then
+
+consider  checking  out  my  inkscape  master
+
+class  its  a  collection  of  over  60
+
+videos  where  I  go  over  all  of  the  tools
+
+and  features  in  inkscape  and  I  explain
+
+what  they  are  and  demonstrate  how  they
+
+work  kind  of  like  how  I  did  in  this
+
+video  we  even  have  a  private  Community
+
+where  you  can  ask  questions  and  get  help
+
+for  me  anytime  you  want  and  best  of  all
+
+theres  no  monthly  membership  fees  you
+
+just  pay  $17  one  time  and  youre  in  for
+
+Life  Ill  have  some  information  about
+
+that  down  below  if  you  want  to  check
+
+that  out  as  always  thanks  for  watching
+
+
+
+oh

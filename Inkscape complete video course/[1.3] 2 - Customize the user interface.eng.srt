@@ -1,0 +1,236 @@
+1
+00:00:00,299 --> 00:00:02,100
+in the last lecture we downloaded
+
+2
+00:00:02,100 --> 00:00:04,319
+inkscape version 1.2
+
+3
+00:00:04,319 --> 00:00:07,259
+ainscape version 1.3 however has big
+
+4
+00:00:07,259 --> 00:00:10,139
+improvements like the shape Builder tool
+
+5
+00:00:10,139 --> 00:00:12,300
+so I downloaded the latest development
+
+6
+00:00:12,300 --> 00:00:14,160
+version from the inkscape website by
+
+7
+00:00:14,160 --> 00:00:15,900
+going to download latest development
+
+8
+00:00:15,900 --> 00:00:16,920
+version
+
+9
+00:00:16,920 --> 00:00:19,020
+this version may still have some bugs in
+
+10
+00:00:19,020 --> 00:00:21,779
+it but I find it already very stable
+
+11
+00:00:21,779 --> 00:00:23,400
+when you open inkscape for the first
+
+12
+00:00:23,400 --> 00:00:25,380
+time you're welcomed by a quick setup
+
+13
+00:00:25,380 --> 00:00:26,340
+screen
+
+14
+00:00:26,340 --> 00:00:28,439
+you can do some settings here but you
+
+15
+00:00:28,439 --> 00:00:30,000
+can also do that later
+
+16
+00:00:30,000 --> 00:00:33,000
+I downloaded inkscape version 1.3 which
+
+17
+00:00:33,000 --> 00:00:34,739
+will soon be the current version
+
+18
+00:00:34,739 --> 00:00:36,360
+if you don't want to go through the tabs
+
+19
+00:00:36,360 --> 00:00:38,160
+you can exit the welcome screen at the
+
+20
+00:00:38,160 --> 00:00:39,120
+top right
+
+21
+00:00:39,120 --> 00:00:40,980
+and when you press escape the welcome
+
+22
+00:00:40,980 --> 00:00:42,960
+screen will not show up anymore when you
+
+23
+00:00:42,960 --> 00:00:45,360
+open inkscape now let's look at how you
+
+24
+00:00:45,360 --> 00:00:47,820
+can customize the user interface I will
+
+25
+00:00:47,820 --> 00:00:50,640
+do this by showing how I created mine at
+
+26
+00:00:50,640 --> 00:00:52,980
+the right I have fill and stroke layers
+
+27
+00:00:52,980 --> 00:00:55,920
+path effects and the swatches panel to
+
+28
+00:00:55,920 --> 00:00:58,559
+add a panel click on the Arrow
+
+29
+00:00:58,559 --> 00:01:00,840
+I can change the order of the panels and
+
+30
+00:01:00,840 --> 00:01:03,180
+I can drag a panel to another place
+
+31
+00:01:03,180 --> 00:01:05,280
+to get more room I can collapse the
+
+32
+00:01:05,280 --> 00:01:07,740
+panels by clicking on the three dots
+
+33
+00:01:07,740 --> 00:01:09,720
+and I can get the panels below more room
+
+34
+00:01:09,720 --> 00:01:12,240
+by dragging the three dots in the
+
+35
+00:01:12,240 --> 00:01:13,920
+document properties I have made the
+
+36
+00:01:13,920 --> 00:01:16,560
+canvas called desk darker by setting
+
+37
+00:01:16,560 --> 00:01:18,960
+lightness to 30. then I went to file
+
+38
+00:01:18,960 --> 00:01:22,080
+save template I called it A4 dark desk
+
+39
+00:01:22,080 --> 00:01:25,259
+and selected set as default template in
+
+40
+00:01:25,259 --> 00:01:27,720
+the view menu I hit the commands bar and
+
+41
+00:01:27,720 --> 00:01:29,340
+the palette colors that normally show at
+
+42
+00:01:29,340 --> 00:01:30,299
+the bottom
+
+43
+00:01:30,299 --> 00:01:32,159
+I also prefer to work in full screen
+
+44
+00:01:32,159 --> 00:01:34,860
+mode to get maximum space in the height
+
+45
+00:01:34,860 --> 00:01:37,920
+under edit preferences windows I chose
+
+46
+00:01:37,920 --> 00:01:40,799
+remember last Windows geometry this
+
+47
+00:01:40,799 --> 00:01:42,420
+means that when I change something in my
+
+48
+00:01:42,420 --> 00:01:45,479
+UI these changes are saved here you can
+
+49
+00:01:45,479 --> 00:01:47,340
+also choose to see the welcome screen
+
+50
+00:01:47,340 --> 00:01:50,159
+when you start inkscape under theming I
+
+51
+00:01:50,159 --> 00:01:52,259
+have the high contrast inverse theme and
+
+52
+00:01:52,259 --> 00:01:53,880
+multi-color icons
+
+53
+00:01:53,880 --> 00:01:55,799
+you can change the colors of these icons
+
+54
+00:01:55,799 --> 00:01:57,060
+if you want
+
+55
+00:01:57,060 --> 00:01:58,920
+and if you have a high resolution screen
+
+56
+00:01:58,920 --> 00:02:01,380
+under toolbars you can increase the size
+
+57
+00:02:01,380 --> 00:02:03,619
+of the icons at the left and at the top
+
+58
+00:02:03,619 --> 00:02:06,000
+in the next lecture we will start
+
+59
+00:02:06,000 --> 00:02:08,840
+creating shapes
+

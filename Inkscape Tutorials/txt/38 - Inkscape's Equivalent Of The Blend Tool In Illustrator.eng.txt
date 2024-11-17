@@ -1,0 +1,588 @@
+
+in  adobe  illustrator  theres  a  really
+
+handy  tool  called  the  blend  tool  which
+
+allows  you  to  make  lots  of  copies  of
+
+objects  and  blend  them  together  in
+
+creative  ways
+
+inkscape  doesnt  have  such  a  tool  but  it
+
+does  come  with  a  couple  of  extensions
+
+that  when  used  in  tandem  can  mimic  the
+
+function  of  illustrators  blend  tool  in
+
+todays  tutorial  ill  be  showing  you  how
+
+
+
+so  getting  us  started  here  in  inkscape
+
+the  first  thing  were  going  to  have  a
+
+look  at  is  the  scatter  extension  which
+
+allows  you  to  take  a  single  object  and
+
+repeat  it  along  a  path  as  many  times  as
+
+youd  like  in  order  to  use  this
+
+extension  were  going  to  need  a  path  to
+
+place  our  object  on  so  for  this
+
+demonstration  im  going  to  be  creating  a
+
+spiral  you  can  create  whatever  path
+
+youd  like  this  is  just  the  example  im
+
+going  to  use  for  this  lesson
+
+if  youd  like  to  follow  along  with  what
+
+im  doing  just  go  ahead  and  pause  the
+
+video  and  input  these  values  up  here
+
+into  the  tool  settings  for  the  spiral
+
+tool  and  then  well  be  good  to  get
+
+started  once  thats  done  im  going  to
+
+click  and  drag  on  the  canvas  like  that
+
+to  create  my  spiral  and  that  right  there
+
+represents  the  path  that  my  object  is
+
+going  to  follow
+
+so  now  i  have  to  actually  create  the
+
+object  for  this  demonstration  ill  just
+
+be  using  a  simple  circle  im  going  to
+
+grab  the  circles  and  ellipses  tool  click
+
+and  drag  on  the  canvas  and  then  hold
+
+ctrl  to  ensure  that  its  a  perfectly
+
+round  circle  like  that
+
+and  im  going  to  give  this  a  gradient
+
+just  to  help
+
+demonstrate  this  effect  a  little  better
+
+im  going  to  make  this  a  solid  fill
+
+color  first  of  something  like  pink
+
+and  then  im  going  to  apply  a  gradient
+
+so  let  me  grab
+
+the  fill  and  stroke  menu  which  is
+
+located  up  here  or  you  can  press  ctrl
+
+shift  and  f  on  the  keyboard  to  access  it
+
+and  up  here  under  the  fill  tab  im  just
+
+going  to  click  this  button  over  here
+
+that  says  linear  gradient  and  as  you  can
+
+see  right  here  we  now  have  a  linear
+
+gradient  on  this  object  so  this  half  of
+
+the  circle  is  pink  i  want  to  make  this
+
+half  a  different  color  so  let  me  click
+
+on  this  handle  right  here  and  im  going
+
+to  change  this  color  to  something  else
+
+im  going  to  use
+
+a  lighter  shade  of  blue  like  that
+
+and  now  im  going  to  take  the  handles  of
+
+this  gradient  and  just  move  this  like
+
+this  im  going  to  put  this  one  up  here
+
+im  going  to  hold  ctrl  to  lock  it  onto
+
+the  axis  so  we  have  a  nice  vertical
+
+gradient  going  like  that
+
+now  what  im  going  to  do  oh  by  the  way
+
+to  zoom  in  and  out  hold  ctrl  roll  up  and
+
+down  the  mouse  wheel
+
+so  now  what  im  going  to do  is  im  going
+
+to  grab  the  selection  tool
+
+and  now  in  order  to  make  this  object
+
+follow  along  this  path  we  have  to  make
+
+sure  that  this  object  is  positioned
+
+above  the  path  now
+
+since  we  created  the  path  first  and  then
+
+the  object  second  we  dont  have  to  worry
+
+about  this  this  is  already  positioned
+
+above  the  path  here  but  i  just  needed  to
+
+point  that  out  in  case  youre  using  this
+
+extension  in  other  ways  and  you  cant
+
+figure  out  why  it  works
+
+the  object  always  has  to  be  positioned
+
+above  the  path  like  that  okay  and  you
+
+can  change  the  positioning  over  here
+
+using  these  up  and  down
+
+you  can  lower  objects  raise  objects  see
+
+right  now  the  path  is  above  the  object
+
+which  is  no  good  we  want  this  to  be  on
+
+top
+
+okay  so  with  that  in  place  let  me  select
+
+both  of  these  objects  and  im  going  to
+
+go  to  extensions
+
+generate  from  path
+
+scatter  okay  so  now  the  the  settings  im
+
+going  to  use  here
+
+as  you  can  see  follow  path  orientation
+
+check  stretch  spaces  to  fit  skeleton
+
+link  uh  length  check
+
+spaces  between  copies  im  going  to  start
+
+off  with  negative  10
+
+and  then  well  take  it  from  there  normal
+
+offset  were  gonna  leave  that  at  zero
+
+zero  cloned  and  randomly  were  gonna
+
+leave  everything  as  it  is  here
+
+and  what  im  gonna  do  once  i  have
+
+negative  10  put  in  here  im  gonna  im
+
+gonna  enable  the  live  preview
+
+and  its  going  to  show  you  what  happens
+
+here  its  going  to  show  you  the  object
+
+being  repeated  along  the  path
+
+now  if  you  notice  theres  lots  of
+
+spacing  between  these  objects  we  want
+
+the  spacing  to  be  decreased  so  we  can
+
+have  more  objects  so  it  looks  more  like
+
+a  solid  line  in  order  to  do  that  were
+
+going  to  have  to  decrease  this  number
+
+here  the  spaces  between  copies  im  going
+
+to  start  off  with  negative  15.  we
+
+started  out  with  negative  10  im  going
+
+to  go  in  increments  of  5.  so  im  going
+
+to  go  down  to  negative  15  now  and  see
+
+how  that  looks
+
+okay  so  that  looks  a  little  better  now
+
+the  reason  why  im  going  in  increments
+
+of  five  is  because  if  you  go  too  far  too
+
+much  its  actually  going  to  lock  up  this
+
+uh  its  gonna  lock  up  the  extension  and
+
+its  not  gonna  work  youll  see  here  in
+
+just  a  minute  let  me  try  negative  20  now
+
+okay  thats  looking  a  lot  better  im
+
+going  to  go  a  little  further  just  for
+
+demonstration  purposes  here  lets  try
+
+negative  25.
+
+and  this  is  what  happens  right  here  you
+
+get  this  error  message  this  means  that
+
+youve  gone  too  far  for  the  for  your
+
+object  and  theres  no  more  like  this  is
+
+as  much  as  the  extension  can  do  now  this
+
+morning  message  is  a  good  thing  here
+
+because  a  few  years  ago  i  actually  made
+
+a  video  demonstrating  how  to  use  this
+
+extension  in  an  older  version  of
+
+inkscape  and  once  you  go  too  far  what  it
+
+used  to  do  is  it  used  to  crash  your
+
+system  and  you  had  to  restart  everything
+
+now  theyve  added  this  uh  fix  in  there
+
+that  stops  it  from  crashing  so  were
+
+going  to  go  ahead  and  click  ok  and  were
+
+going  to  go  back  to  20  and  were  going
+
+to  try  21  instead
+
+okay  that  looks  good  lets  try  22.
+
+and  thats  too  far  so  it  looks  like  21
+
+is  the  max  im  going  to  set  it  to  21.
+
+and  once  im  finished  im  going  to  click
+
+ok  or  apply  and  then  close  and  there  you
+
+go  it  generated  that  object  right  there
+
+kind  of  like  how  the  blend  tool  works  in
+
+adobe  illustrator
+
+okay  now  if  you  zoom  in  on  this  you  can
+
+see  it  just  consists  of  lots  of  tiny
+
+individual  circles  you  may  be  able  to
+
+see  some  of  the  color  banding  in  there
+
+thats  because  this  is  a  bunch  of
+
+individual  circles  okay  but  if  you  zoom
+
+out
+
+it  looks  nice  and  fluid  nice  and  smooth
+
+like  that  so  now  lets  have  a  look  at
+
+the  other  extension  in  inkscape  that
+
+allows  you  to  perform  some  of  the
+
+functions  that  the  blend  tool  does  in
+
+illustrator  this  would  be  the
+
+interpolate  tool  so  to  demonstrate  what
+
+interpolate  does  let  me  create  a  text
+
+object  im  going  to  grab  my  text  tool
+
+im  going  to  click  on  the  canvas  right
+
+here  and  im  going  to  type
+
+blend  in  all  caps  im  going  to  triple
+
+click  the  text  to  highlight  it  and  im
+
+going  to  change  the  font  by  clicking  on
+
+the  text  editor  up  here
+
+and  the  font  im  using  for  this
+
+demonstration  is  called  league
+
+league  gothic  which  is  right  there
+
+click  apply  and  there  we  go  let  me  get
+
+out  of  this  menu  because  it  otherwise
+
+slows  the  system  down  let  me  grab  the
+
+selection  tool  now  let  me
+
+make  this  larger  hold  ctrl  while  im
+
+scaling  to  ensure  that  it  maintains  the
+
+aspect  ratio
+
+and  im  going  to  put  this  copy  over  here
+
+maybe  ill  make  this  a  little  smaller  i
+
+want  to  make  this
+
+a  different  color  i  want  to  make  this
+
+yellow
+
+and  what  i  want  to  do  is  change  this
+
+from  a  text  object  to  an  actual  path
+
+otherwise  this  is  not  going  to  work  this
+
+interpolate  extension  it  only  works  on
+
+objects  that  are  paths  so  to  convert
+
+this  to  a  path  ill  go  to  path  object  to
+
+path
+
+and  now  i  need  to  ungroup  it  ill  go  to
+
+object
+
+on  group
+
+and  then  ill  unify  it  all  together  by
+
+going  to  path
+
+union
+
+and  now  im  going  to  duplicate  this
+
+object  by  right  clicking  it  going  to
+
+duplicate
+
+and  ill  make  this  one  bigger  im
+
+holding  ctrl  while  im  scaling  here  to
+
+maintain  the  aspect  ratio  and  ill  move
+
+this  one  down  here
+
+and  im  going  to  change  this  to  a
+
+different  color  ill  go  with  pink
+
+and  now  im  going  to  select  both  of
+
+these  objects  at  the  same  time
+
+go  to  extensions  generate  from  path  and
+
+interpolate
+
+now  the  settings  ill  be  using  here  as
+
+you  can  see  the  exponent  is  one
+
+interpolation  steps  this  is  the  number
+
+of  copies  that  will  be  created  between
+
+these  two  im  going  to  start  out  with
+
+five  and  then  ill  take  it  from  there
+
+and  these  settings  as  you  can  see  here
+
+we  want  to  leave  these  settings  as  you
+
+see  on  my  screen  and  once  youre  ready
+
+click  live  preview
+
+and  as  you  can  see  it  took  the  two
+
+objects  and  created  five  copies  of  them
+
+based  on  their  properties  now  as  you  can
+
+see  these  copies  they  range  in  size  they
+
+go  from  large  to  small  as  these  two
+
+objects  did  and  then  the  color
+
+transitions  as  well  as  you  can  see  there
+
+so  if  i  could  actually  i  could  actually
+
+increase  this  from  five  to  something
+
+like  10
+
+and  then  you  end  up  with  something  like
+
+that  or  i  could  even  go  as  far  as  20
+
+and  then  you  end  up  with  something  like
+
+that
+
+go  a little  further  30
+
+now  its  looking  more  fluid  like  that
+
+and  unlike  the  other  extension  i  dont
+
+think  this  one  has  a  break  off  point
+
+where  it  locks  up  and  closes  i  think  you
+
+could  go  infinitely  with  this  so  thats
+
+40.
+
+heres  how  50  looks
+
+and  there  you  go  i  think  you  should  get
+
+the  idea  let  me  bring  this  back  down  to
+
+something  a little  more  reasonable  like
+
+10.
+
+click  apply
+
+and  then  close
+
+and  then  once  youre  finished  as  you  can
+
+see  here  it  created  new  copies  from  this
+
+so  your  original  copies  are  still  there
+
+in  place  you  dont  need  to  make
+
+duplicates  you  dont  need  to  make  backup
+
+copies  because  this  is  going  to  generate
+
+a  new  copy  based  on  this  and  if  you  want
+
+to  edit  this  further  you  can  just  go  to
+
+object  on  group
+
+and  now  as  you  can  see  this  consists  of
+
+a  bunch  of  individual  objects  that  were
+
+generated  using  that  extension
+
+so  i  think  that  should  do  it  for  this
+
+tutorial  that  is  how  you  can  go  about
+
+working  around  a  lack  of  the  blend  tool
+
+in  inkscape  if  you  found  this  lesson
+
+useful  then  consider  checking  out  my
+
+inkscape  master  class  its  a  collection
+
+of  over  60  videos  where  i  go  over  all  of
+
+the  tools  and  features  in  inkscape  and  i
+
+explain  what  they  are  and  demonstrate
+
+how  they  work  kind  of  like  how  i  did  in
+
+this  video  we  even  have  a  private
+
+community  where  you  can  ask  questions
+
+and  get  help  from  me  anytime  you  want
+
+and  best  of  all  theres  no  monthly
+
+membership  fees  you  just  pay  17
+
+one  time  and  youre  in  for  life  ill
+
+have  some  information  about  that  down
+
+below  if  you  want  to  check  that  out  as
+
+always  thanks  for  watching
+
+
+
+you

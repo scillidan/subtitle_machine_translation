@@ -1,0 +1,568 @@
+1
+00:00:00,060 --> 00:00:02,040
+in this and the next lecture I will
+
+2
+00:00:02,040 --> 00:00:04,319
+integrate a graph with an image to start
+
+3
+00:00:04,319 --> 00:00:06,120
+let's import the sketch I have for the
+
+4
+00:00:06,120 --> 00:00:09,179
+end result I go to file import and open
+
+5
+00:00:09,179 --> 00:00:12,059
+the sketch I hold shift plus control and
+
+6
+00:00:12,059 --> 00:00:14,400
+make the sketch a bit smaller I call the
+
+7
+00:00:14,400 --> 00:00:17,340
+image sketch and lock it I set the
+
+8
+00:00:17,340 --> 00:00:19,980
+opacity to 25 and the blend mode to
+
+9
+00:00:19,980 --> 00:00:22,859
+multiply I create a new layer and call
+
+10
+00:00:22,859 --> 00:00:25,680
+it legs now I import the image of the
+
+11
+00:00:25,680 --> 00:00:28,320
+soccer player I call the image bicycle
+
+12
+00:00:28,320 --> 00:00:30,720
+kick I will increase the size of the
+
+13
+00:00:30,720 --> 00:00:32,640
+image until it roughly fits the sketch
+
+14
+00:00:32,640 --> 00:00:35,399
+outline as we see with the end result I
+
+15
+00:00:35,399 --> 00:00:37,079
+need the legs to be cut out
+
+16
+00:00:37,079 --> 00:00:38,579
+normally you don't need the high
+
+17
+00:00:38,579 --> 00:00:40,500
+Precision like the letter we traced in
+
+18
+00:00:40,500 --> 00:00:42,600
+the last lecture the node tool in
+
+19
+00:00:42,600 --> 00:00:44,219
+inkscape lets you trace an image
+
+20
+00:00:44,219 --> 00:00:47,100
+extremely fast and the node tool offers
+
+21
+00:00:47,100 --> 00:00:49,200
+many possibilities to customize the
+
+22
+00:00:49,200 --> 00:00:51,300
+result when needed I will hide the
+
+23
+00:00:51,300 --> 00:00:53,579
+sketch before we can utilize the node
+
+24
+00:00:53,579 --> 00:00:55,379
+tool I will first place some nodes
+
+25
+00:00:55,379 --> 00:00:57,600
+around the legs using the pen tool
+
+26
+00:00:57,600 --> 00:00:59,940
+I will place points by roughly following
+
+27
+00:00:59,940 --> 00:01:02,879
+the shape of the legs as we see I do not
+
+28
+00:01:02,879 --> 00:01:05,220
+make any curves I just place a point
+
+29
+00:01:05,220 --> 00:01:07,619
+when there is a change in Direction I
+
+30
+00:01:07,619 --> 00:01:10,080
+don't worry about curves the node tool
+
+31
+00:01:10,080 --> 00:01:12,540
+is much faster at creating curves with
+
+32
+00:01:12,540 --> 00:01:14,460
+the football I only click on the outer
+
+33
+00:01:14,460 --> 00:01:17,040
+edges as we saw in the last lecture
+
+34
+00:01:17,040 --> 00:01:19,380
+so I only click at the bottom the left
+
+35
+00:01:19,380 --> 00:01:21,119
+and the top of the ball
+
+36
+00:01:21,119 --> 00:01:22,619
+where there is some more important
+
+37
+00:01:22,619 --> 00:01:24,780
+detail I will zoom in a bit and place
+
+38
+00:01:24,780 --> 00:01:27,720
+some points what is chopped off by the
+
+39
+00:01:27,720 --> 00:01:29,520
+straight lines will be corrected by the
+
+40
+00:01:29,520 --> 00:01:30,600
+node tool
+
+41
+00:01:30,600 --> 00:01:32,520
+so I click there where there are changes
+
+42
+00:01:32,520 --> 00:01:34,860
+in the direction of the Curve also for
+
+43
+00:01:34,860 --> 00:01:36,540
+the bottom of the shoe I click
+
+44
+00:01:36,540 --> 00:01:38,460
+pretending my lines are curved even
+
+45
+00:01:38,460 --> 00:01:40,560
+though they are not even the sharp
+
+46
+00:01:40,560 --> 00:01:42,540
+points of the soccer shoe studs will be
+
+47
+00:01:42,540 --> 00:01:44,880
+taken care of by the node tool when I
+
+48
+00:01:44,880 --> 00:01:46,560
+have reached the shorts again I can
+
+49
+00:01:46,560 --> 00:01:49,320
+close the path to do this I click again
+
+50
+00:01:49,320 --> 00:01:50,640
+on the first point
+
+51
+00:01:50,640 --> 00:01:53,399
+now I select the node tool I will select
+
+52
+00:01:53,399 --> 00:01:55,380
+some nodes that I don't need by dragging
+
+53
+00:01:55,380 --> 00:01:58,560
+over them then I press delete now I will
+
+54
+00:01:58,560 --> 00:02:00,659
+match the curves by simply dragging the
+
+55
+00:02:00,659 --> 00:02:01,500
+lines
+
+56
+00:02:01,500 --> 00:02:03,600
+I wouldn't do this to trace letters but
+
+57
+00:02:03,600 --> 00:02:06,240
+it works extremely fast I have traced
+
+58
+00:02:06,240 --> 00:02:08,160
+many images in and Photoshop in the
+
+59
+00:02:08,160 --> 00:02:11,038
+past but the node tool of inkscape is
+
+60
+00:02:11,038 --> 00:02:12,540
+probably my favorite tool to trace
+
+61
+00:02:12,540 --> 00:02:13,560
+images
+
+62
+00:02:13,560 --> 00:02:15,980
+this way of working doesn't give the 100
+
+63
+00:02:15,980 --> 00:02:18,599
+accuracy that for example is needed when
+
+64
+00:02:18,599 --> 00:02:20,040
+you create a logo
+
+65
+00:02:20,040 --> 00:02:22,500
+but for tracing bitmap images in my
+
+66
+00:02:22,500 --> 00:02:24,300
+opinion this isn't needed to get good
+
+67
+00:02:24,300 --> 00:02:25,200
+results
+
+68
+00:02:25,200 --> 00:02:27,599
+as we see I have full control over the
+
+69
+00:02:27,599 --> 00:02:30,239
+curve I drag a line and can get it any
+
+70
+00:02:30,239 --> 00:02:32,700
+curvature I want and if I want to add a
+
+71
+00:02:32,700 --> 00:02:35,099
+point I simply double click on a line
+
+72
+00:02:35,099 --> 00:02:37,200
+so now let's look at some extra features
+
+73
+00:02:37,200 --> 00:02:39,840
+that the node tool provides I drew the
+
+74
+00:02:39,840 --> 00:02:41,459
+spikes of the bottom shoe with a single
+
+75
+00:02:41,459 --> 00:02:44,340
+note if I find this a bit too pointy I
+
+76
+00:02:44,340 --> 00:02:46,440
+can easily make them more round
+
+77
+00:02:46,440 --> 00:02:48,540
+I select the spikes by shift clicking on
+
+78
+00:02:48,540 --> 00:02:50,940
+them then I click on the make selected
+
+79
+00:02:50,940 --> 00:02:52,500
+node smooth icon
+
+80
+00:02:52,500 --> 00:02:54,780
+now let's have a look at the other foot
+
+81
+00:02:54,780 --> 00:02:56,819
+I will drag over the top nodes and
+
+82
+00:02:56,819 --> 00:02:59,220
+smooth them it does give me the result I
+
+83
+00:02:59,220 --> 00:03:02,400
+need but you can do more as we see with
+
+84
+00:03:02,400 --> 00:03:04,980
+a smooth note the arms are linked but
+
+85
+00:03:04,980 --> 00:03:06,720
+let's say I want to move the arms
+
+86
+00:03:06,720 --> 00:03:09,480
+independently to do this click once on
+
+87
+00:03:09,480 --> 00:03:11,819
+the make selected nodes Corner icon
+
+88
+00:03:11,819 --> 00:03:14,159
+we see the node changed from a square to
+
+89
+00:03:14,159 --> 00:03:16,319
+a diamond the arms are not connected
+
+90
+00:03:16,319 --> 00:03:17,400
+anymore
+
+91
+00:03:17,400 --> 00:03:19,500
+and if you want to remove the arms click
+
+92
+00:03:19,500 --> 00:03:21,840
+on the make selected nodes Corner icon a
+
+93
+00:03:21,840 --> 00:03:22,980
+second time
+
+94
+00:03:22,980 --> 00:03:25,680
+I will make the node smooth again if you
+
+95
+00:03:25,680 --> 00:03:27,599
+want the arms of a node to have the same
+
+96
+00:03:27,599 --> 00:03:29,519
+length at all times click on make
+
+97
+00:03:29,519 --> 00:03:32,159
+selected nodes symmetric if I drag an
+
+98
+00:03:32,159 --> 00:03:34,319
+arm I see the other arm is mirrored in
+
+99
+00:03:34,319 --> 00:03:37,080
+the node Auto smooth gives special kind
+
+100
+00:03:37,080 --> 00:03:39,420
+of arms that adjusts themselves when you
+
+101
+00:03:39,420 --> 00:03:40,739
+drag the note
+
+102
+00:03:40,739 --> 00:03:42,959
+I will go back to a smooth node where
+
+103
+00:03:42,959 --> 00:03:44,640
+the arms are linked but can have their
+
+104
+00:03:44,640 --> 00:03:46,860
+own length if you want to create a
+
+105
+00:03:46,860 --> 00:03:48,540
+straight line between two curved nodes
+
+106
+00:03:48,540 --> 00:03:50,040
+select the nodes
+
+107
+00:03:50,040 --> 00:03:52,799
+then click on straighten lines now the
+
+108
+00:03:52,799 --> 00:03:54,480
+path between the nodes is straight and
+
+109
+00:03:54,480 --> 00:03:56,459
+the nodes are locked in their Direction
+
+110
+00:03:56,459 --> 00:03:58,319
+this locking is to prevent the straight
+
+111
+00:03:58,319 --> 00:03:59,940
+line to curve when you adjust the
+
+112
+00:03:59,940 --> 00:04:02,640
+handles and to go back to a curve simply
+
+113
+00:04:02,640 --> 00:04:04,860
+drag the line if you want to give an arm
+
+114
+00:04:04,860 --> 00:04:06,540
+a different direction but you don't want
+
+115
+00:04:06,540 --> 00:04:08,459
+to change the length of an arm hold the
+
+116
+00:04:08,459 --> 00:04:09,659
+ALT key
+
+117
+00:04:09,659 --> 00:04:11,879
+and to add a point simply double-click
+
+118
+00:04:11,879 --> 00:04:14,819
+on a line as we see there are many ways
+
+119
+00:04:14,819 --> 00:04:17,040
+to manipulate a curve with a node tool
+
+120
+00:04:17,040 --> 00:04:18,600
+if you don't want to see the arms
+
+121
+00:04:18,600 --> 00:04:20,820
+deselect the show bezier handles icon
+
+122
+00:04:20,820 --> 00:04:23,639
+and to hide the path itself deselect the
+
+123
+00:04:23,639 --> 00:04:26,100
+show path outline icon I will delete
+
+124
+00:04:26,100 --> 00:04:27,840
+some nodes
+
+125
+00:04:27,840 --> 00:04:30,120
+to quickly add nodes without having to
+
+126
+00:04:30,120 --> 00:04:32,400
+double-click many times select two nodes
+
+127
+00:04:32,400 --> 00:04:35,460
+then click on insert new nodes into
+
+128
+00:04:35,460 --> 00:04:38,040
+selected segments each time you click
+
+129
+00:04:38,040 --> 00:04:41,460
+the amount of added nodes will double
+
+130
+00:04:41,460 --> 00:04:44,280
+now my path is ready let's use the path
+
+131
+00:04:44,280 --> 00:04:47,580
+to cut out the legs I call the path legs
+
+132
+00:04:47,580 --> 00:04:50,639
+I right click on the path and choose set
+
+133
+00:04:50,639 --> 00:04:53,100
+clip group I drag the image on the clip
+
+134
+00:04:53,100 --> 00:04:55,199
+group folder I want my image to be
+
+135
+00:04:55,199 --> 00:04:58,320
+duotone so I will add a blue rectangle I
+
+136
+00:04:58,320 --> 00:05:00,600
+click on a blue I call the rectangle
+
+137
+00:05:00,600 --> 00:05:03,720
+blue I set blue to the color blend mode
+
+138
+00:05:03,720 --> 00:05:06,540
+I click on fill and stroke I can now
+
+139
+00:05:06,540 --> 00:05:08,940
+give the duotone the correct color I
+
+140
+00:05:08,940 --> 00:05:12,540
+drag the blue a bit more to cyan
+
+141
+00:05:12,540 --> 00:05:14,580
+in the next lecture we will place the
+
+142
+00:05:14,580 --> 00:05:17,300
+bars in the text
+

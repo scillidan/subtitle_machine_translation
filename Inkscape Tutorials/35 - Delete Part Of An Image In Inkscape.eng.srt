@@ -1,0 +1,632 @@
+1
+00:00:00,420 --> 00:00:01,979
+so let's go over how you can use
+
+2
+00:00:01,979 --> 00:00:04,860
+inkscape to delete part of an image on
+
+3
+00:00:04,860 --> 00:00:06,540
+my screen here I have this example image
+
+4
+00:00:06,540 --> 00:00:08,400
+opened up and for this demonstration I
+
+5
+00:00:08,400 --> 00:00:09,960
+will be removing the zebra from this
+
+6
+00:00:09,960 --> 00:00:12,059
+image so the result will be an area of
+
+7
+00:00:12,059 --> 00:00:13,980
+transparency where the zebra currently
+
+8
+00:00:13,980 --> 00:00:16,199
+is in order to accomplish this I'm going
+
+9
+00:00:16,199 --> 00:00:17,940
+to be creating a vector path in the
+
+10
+00:00:17,940 --> 00:00:19,440
+shape of my subject that I'd like to
+
+11
+00:00:19,440 --> 00:00:21,180
+delete and then I'll be creating an
+
+12
+00:00:21,180 --> 00:00:23,160
+inverse clipping path out of it so let's
+
+13
+00:00:23,160 --> 00:00:25,140
+go over how you can do this so in order
+
+14
+00:00:25,140 --> 00:00:27,300
+to create a shape over my subject here
+
+15
+00:00:27,300 --> 00:00:29,099
+I'm going to custom draw a shape using
+
+16
+00:00:29,099 --> 00:00:30,420
+the pen tool let me zoom in I'm going to
+
+17
+00:00:30,420 --> 00:00:32,159
+hold Ctrl and roll up the mouse wheel a
+
+18
+00:00:32,159 --> 00:00:33,780
+couple of times to zoom in I'm going to
+
+19
+00:00:33,780 --> 00:00:35,219
+grab the bezier pen which is located
+
+20
+00:00:35,219 --> 00:00:36,660
+over here or you could press the letter
+
+21
+00:00:36,660 --> 00:00:38,820
+B on your keyboard
+
+22
+00:00:38,820 --> 00:00:40,379
+and the setting that I'm going to use
+
+23
+00:00:40,379 --> 00:00:42,899
+for this particular subject here is this
+
+24
+00:00:42,899 --> 00:00:44,219
+setting up here that says create B
+
+25
+00:00:44,219 --> 00:00:45,660
+spline
+
+26
+00:00:45,660 --> 00:00:46,920
+and once that's done I'm just going to
+
+27
+00:00:46,920 --> 00:00:48,719
+zoom in over here and I'm going to move
+
+28
+00:00:48,719 --> 00:00:50,219
+the page around by pressing down the
+
+29
+00:00:50,219 --> 00:00:51,840
+mouse wheel and moving the mouse and I'm
+
+30
+00:00:51,840 --> 00:00:53,640
+going to begin clicking to create points
+
+31
+00:00:53,640 --> 00:00:55,680
+around my subject here as you can see
+
+32
+00:00:55,680 --> 00:00:58,199
+here now that wasn't very accurate so
+
+33
+00:00:58,199 --> 00:00:59,640
+let me undo that if you want to undo the
+
+34
+00:00:59,640 --> 00:01:00,780
+points that you create at any point you
+
+35
+00:01:00,780 --> 00:01:02,699
+just have to press Ctrl Z I'm just going
+
+36
+00:01:02,699 --> 00:01:05,159
+to go and create a outline around my
+
+37
+00:01:05,159 --> 00:01:08,280
+subject using the pen tool like this and
+
+38
+00:01:08,280 --> 00:01:09,720
+with this setting with the B spline
+
+39
+00:01:09,720 --> 00:01:11,100
+setting you'll see it automatically
+
+40
+00:01:11,100 --> 00:01:13,140
+makes the lines curved but if at any
+
+41
+00:01:13,140 --> 00:01:15,060
+point you want to make a straight line I
+
+42
+00:01:15,060 --> 00:01:16,860
+mean a sharp corner like you see here
+
+43
+00:01:16,860 --> 00:01:18,600
+all you have to do is hold shift and
+
+44
+00:01:18,600 --> 00:01:20,580
+click and then it creates a sharp corner
+
+45
+00:01:20,580 --> 00:01:22,200
+as you can see there so I'm going to go
+
+46
+00:01:22,200 --> 00:01:23,820
+through here and I'm going to draw my
+
+47
+00:01:23,820 --> 00:01:26,100
+lines like this I'm going to hold shift
+
+48
+00:01:26,100 --> 00:01:28,320
+put a point here
+
+49
+00:01:28,320 --> 00:01:30,600
+continue along the inside of my path
+
+50
+00:01:30,600 --> 00:01:32,040
+here and I'm just going to go around
+
+51
+00:01:32,040 --> 00:01:36,979
+this entire subject and trace an outline
+
+52
+00:01:39,659 --> 00:01:41,100
+and once you're finished drawing your
+
+53
+00:01:41,100 --> 00:01:42,240
+line you can connect it back to the
+
+54
+00:01:42,240 --> 00:01:43,920
+starting point like that to close the
+
+55
+00:01:43,920 --> 00:01:46,140
+path and now we have our shape going
+
+56
+00:01:46,140 --> 00:01:47,880
+around the subject here now let me fill
+
+57
+00:01:47,880 --> 00:01:49,560
+this in with the color just so we can
+
+58
+00:01:49,560 --> 00:01:51,000
+see it I'm going to use the color green
+
+59
+00:01:51,000 --> 00:01:52,560
+here and I'm going to get rid of that
+
+60
+00:01:52,560 --> 00:01:53,939
+outline I'm going to hold shift and
+
+61
+00:01:53,939 --> 00:01:56,100
+click on this little red X down here and
+
+62
+00:01:56,100 --> 00:01:58,560
+now we have a subject that we can use to
+
+63
+00:01:58,560 --> 00:02:00,479
+delete part of our image now the thing
+
+64
+00:02:00,479 --> 00:02:02,460
+is if we use this object and create a
+
+65
+00:02:02,460 --> 00:02:03,720
+clipping mask what it's going to do is
+
+66
+00:02:03,720 --> 00:02:04,920
+the opposite it's going to delete
+
+67
+00:02:04,920 --> 00:02:07,200
+everything except for the zebra so we
+
+68
+00:02:07,200 --> 00:02:09,119
+want to create the inverse of that or an
+
+69
+00:02:09,119 --> 00:02:11,760
+inverse clipping path now inkscape has
+
+70
+00:02:11,760 --> 00:02:13,680
+an inverse clipping path sending built
+
+71
+00:02:13,680 --> 00:02:15,300
+in but unfortunately it only works with
+
+72
+00:02:15,300 --> 00:02:16,980
+Vector objects so in order to do this
+
+73
+00:02:16,980 --> 00:02:18,660
+with the rasterized photo like we have
+
+74
+00:02:18,660 --> 00:02:20,040
+here we're going to have to do this
+
+75
+00:02:20,040 --> 00:02:21,720
+manually so let me grab this selection
+
+76
+00:02:21,720 --> 00:02:23,280
+tool let me click off of the graphic to
+
+77
+00:02:23,280 --> 00:02:25,020
+deselect everything I'm now going to
+
+78
+00:02:25,020 --> 00:02:26,819
+create a rectangle in the size of this
+
+79
+00:02:26,819 --> 00:02:28,260
+image here I'm going to click on the
+
+80
+00:02:28,260 --> 00:02:30,180
+image and I'm going to go to edit
+
+81
+00:02:30,180 --> 00:02:32,580
+copy and then I'm going to grab my
+
+82
+00:02:32,580 --> 00:02:33,840
+rectangle tool and I'm going to click
+
+83
+00:02:33,840 --> 00:02:35,340
+and drag to create a rectangle like that
+
+84
+00:02:35,340 --> 00:02:36,660
+and I'm going to make this a different
+
+85
+00:02:36,660 --> 00:02:38,160
+color than the color we just used I'll
+
+86
+00:02:38,160 --> 00:02:40,260
+just go with blue for now and then I'll
+
+87
+00:02:40,260 --> 00:02:42,120
+go to edit
+
+88
+00:02:42,120 --> 00:02:44,879
+we're looking for paste size and paste
+
+89
+00:02:44,879 --> 00:02:46,080
+size
+
+90
+00:02:46,080 --> 00:02:47,280
+and now I'm going to grab the selection
+
+91
+00:02:47,280 --> 00:02:50,640
+tool and with this rectangle selected
+
+92
+00:02:50,640 --> 00:02:52,080
+I'm going to hold shift and click on the
+
+93
+00:02:52,080 --> 00:02:54,239
+image so we haven't both selected and
+
+94
+00:02:54,239 --> 00:02:55,620
+then I'm going to open up the Align and
+
+95
+00:02:55,620 --> 00:02:56,940
+distribute menu which is over here on
+
+96
+00:02:56,940 --> 00:02:58,319
+the right if you don't have it opened
+
+97
+00:02:58,319 --> 00:03:00,599
+you can press Ctrl shift and a on the
+
+98
+00:03:00,599 --> 00:03:03,239
+keyboard or you can come over to where
+
+99
+00:03:03,239 --> 00:03:06,840
+it says object and select align and
+
+100
+00:03:06,840 --> 00:03:08,280
+distribute and the menu should open up
+
+101
+00:03:08,280 --> 00:03:10,080
+over here on the right now with this
+
+102
+00:03:10,080 --> 00:03:11,580
+menu open I want to make sure I have
+
+103
+00:03:11,580 --> 00:03:13,440
+last selected Chosen and then I'm going
+
+104
+00:03:13,440 --> 00:03:15,180
+to Center this up on the vertical and
+
+105
+00:03:15,180 --> 00:03:16,920
+horizontal axis like that and now I'm
+
+106
+00:03:16,920 --> 00:03:18,300
+going to click off of it to deselect
+
+107
+00:03:18,300 --> 00:03:20,280
+everything I'm going to click on just
+
+108
+00:03:20,280 --> 00:03:22,739
+the blue the blue square here and I'm
+
+109
+00:03:22,739 --> 00:03:24,000
+going to lower this beneath the green
+
+110
+00:03:24,000 --> 00:03:25,319
+object that we created so I'm going to
+
+111
+00:03:25,319 --> 00:03:27,000
+come up here to this menu
+
+112
+00:03:27,000 --> 00:03:29,220
+where it says a lower selection One Step
+
+113
+00:03:29,220 --> 00:03:31,319
+press that and it should lower it
+
+114
+00:03:31,319 --> 00:03:33,420
+beneath the object we just drew and now
+
+115
+00:03:33,420 --> 00:03:34,980
+I'm going to hold shift click on the
+
+116
+00:03:34,980 --> 00:03:36,959
+object so we have them both selected and
+
+117
+00:03:36,959 --> 00:03:39,599
+go to object and I'm sorry path and go
+
+118
+00:03:39,599 --> 00:03:42,060
+to difference and now we have this right
+
+119
+00:03:42,060 --> 00:03:42,900
+here
+
+120
+00:03:42,900 --> 00:03:44,340
+so now we can do is we can click and
+
+121
+00:03:44,340 --> 00:03:45,780
+drag over everything
+
+122
+00:03:45,780 --> 00:03:47,700
+and go to object
+
+123
+00:03:47,700 --> 00:03:49,260
+clip
+
+124
+00:03:49,260 --> 00:03:50,760
+set clip
+
+125
+00:03:50,760 --> 00:03:53,280
+and just like that we have deleted part
+
+126
+00:03:53,280 --> 00:03:55,140
+of the image
+
+127
+00:03:55,140 --> 00:03:57,540
+by creating a clipping mask now the good
+
+128
+00:03:57,540 --> 00:03:58,500
+thing about this is that it's
+
+129
+00:03:58,500 --> 00:04:00,060
+non-destructive meaning you can undo
+
+130
+00:04:00,060 --> 00:04:01,560
+this at any point if at any point you
+
+131
+00:04:01,560 --> 00:04:03,900
+want to put the deleted part of the
+
+132
+00:04:03,900 --> 00:04:05,340
+image back to where it was just select
+
+133
+00:04:05,340 --> 00:04:08,280
+the image and go to object clip and go
+
+134
+00:04:08,280 --> 00:04:09,959
+to release clip and there you go now
+
+135
+00:04:09,959 --> 00:04:11,280
+you're back to where you're started with
+
+136
+00:04:11,280 --> 00:04:13,500
+those objects as they are so I think
+
+137
+00:04:13,500 --> 00:04:14,700
+that should do it for this lesson that
+
+138
+00:04:14,700 --> 00:04:16,620
+is how you can use inkscape to delete
+
+139
+00:04:16,620 --> 00:04:19,199
+part of a pixel based rasterized image
+
+140
+00:04:19,199 --> 00:04:21,298
+if you found this lesson useful then
+
+141
+00:04:21,298 --> 00:04:23,100
+consider checking out my inkscape master
+
+142
+00:04:23,100 --> 00:04:25,380
+class it's a collection of over 60
+
+143
+00:04:25,380 --> 00:04:27,240
+videos where I go over all of the tools
+
+144
+00:04:27,240 --> 00:04:29,040
+and features in inkscape and I explain
+
+145
+00:04:29,040 --> 00:04:30,780
+what they are and demonstrate how they
+
+146
+00:04:30,780 --> 00:04:32,580
+work kind of like how I did in this
+
+147
+00:04:32,580 --> 00:04:34,620
+video we even have a private Community
+
+148
+00:04:34,620 --> 00:04:36,600
+where you can ask questions and get help
+
+149
+00:04:36,600 --> 00:04:39,180
+from me anytime you want and best of all
+
+150
+00:04:39,180 --> 00:04:41,100
+there's no monthly membership fees you
+
+151
+00:04:41,100 --> 00:04:44,220
+just pay 17 one time and you're in for
+
+152
+00:04:44,220 --> 00:04:45,900
+Life I'll have some information about
+
+153
+00:04:45,900 --> 00:04:47,040
+that down below if you want to check
+
+154
+00:04:47,040 --> 00:04:51,139
+that out as always thanks for watching
+
+155
+00:04:56,190 --> 00:04:58,820
+[Music]
+
+156
+00:04:58,820 --> 00:05:01,190
+thank you
+
+157
+00:05:01,190 --> 00:05:04,290
+[Music]
+
+158
+00:05:08,740 --> 00:05:11,619
+[Music]
+

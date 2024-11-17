@@ -1,0 +1,464 @@
+
+in  a  previous  tutorial  I  demonstrated
+
+how  you  can  use  inkscape  to  create  your
+
+own  Vector  letters  but  in  this  tutorial
+
+Ill  be  demonstrating  how  you  can  take
+
+those  letters  and  turn  them  into  a
+
+proper  font  file  in  ttf  format  so
+
+getting  us  started  here  in  inscape  you
+
+can  see  I  have  these  simple  letters  that
+
+Ive  designed  if  I  grab  my  nodes  tool
+
+and  zoom  in  on  this  you  can  see  how  I
+
+created  these  these  are  just  individual
+
+paths  that  I  apply  to  stroke  to  and  Im
+
+going  to  use  these  letters  to  create  a
+
+font  file  uh  for  this  demonstration  so
+
+in  order  turn  these  letters  into  a  font
+
+file  were  going  to  need  to  download  an
+
+application  called  font  uh  font  Forge
+
+its  a  free  and  open-  Source  font  editor
+
+that  allows  you  to  create  your  own  fonts
+
+as  well  so  go  ahead  and  download  a  font
+
+Forge  from  the  link  in  the  description
+
+launch  the  application  and  once  youve
+
+launched  font  Forge  it  should  look
+
+something  like  this  so  Im  going  to
+
+click  on  this  button  right  here  titled
+
+new  so  I  can  create  a  new  font  and  when
+
+I  do  that  were  going  to  get  this  window
+
+with  all  of  these  individual  boxes  in  it
+
+and  these  boxes  all  represent  the
+
+individual  characters  of  the  font  your
+
+creating  so  if  you  notice  we  have  all  of
+
+the  special  characters  here  we  have  the
+
+numbers  we  have  the  uppercase  letters
+
+the  lowercase  letters  and  some
+
+additional  special  characters  down  here
+
+for  this  demonstration  Im  just  going  to
+
+fill  in  the  upper  and  lowercase  letters
+
+Im  going  to  go  back  into  inkscape  and
+
+to  do  this  all  we  have  to  do  is  copy  and
+
+paste  each  letter  into  each  individual
+
+each  individual  box  so  Im  going  to  take
+
+the  letter  a  right  here  Ill  right  click
+
+that  and  go  to  copy  Ill  come  back  over
+
+here  into  font  Forge  and  Im  going  to
+
+select  the  Box  corresponding  with  the
+
+letter  a  and  Im  just  going  to  paste
+
+that  in  there  either  by  right  clicking
+
+it  and  going  to  paste  or  you  could  just
+
+press  contrl  +v  on  the  keyboard  that
+
+paste  that  in  there  now  if  you  notice  in
+
+the  thumbnail  preview  there  the  letter
+
+is  located  in  the  top  left  of  that
+
+preview  box  there  so  were  going  to
+
+adjust  that  by  double  clicking  on  the
+
+letter  to  open
+
+it  and  when  we  open  it  were  going  to
+
+get  this  editor  here  sort  of  like
+
+inkscape  it  allows  you  to  change  the
+
+design  if  youd  like  to  it  also  allows
+
+you  to  change  the  position  now  the  size
+
+of  your  letter  may  vary  depending  on  the
+
+size  of  the  letter  in  the  software  here
+
+here  if  you  find  that  your  letter  is  too
+
+big  or  too  small  you  can  resize  it
+
+manually  using  the  interface  here  or
+
+what  I  would  recommend  doing  is  going
+
+back  into  inkscape  and  resizing  all  of
+
+the  letters  at  the  same  time  so  that
+
+each  letter  is  consistent  when  you
+
+create  your  font  from  it  so  uh  if  you
+
+size  these  down  one  by  one  youre  going
+
+to  have  inconsistent  weights  between  the
+
+letters  so  I  would  recommend  sizing  them
+
+all  at  once  my  size  here  is  pretty  good
+
+Im  going  to  leave  it  as  it  is  what  I  am
+
+going  to  do  though  is  Im  going  to
+
+change  the  position  of  this  letter  if
+
+you  notice  down  here  this  represents  the
+
+Baseline  of  the  text  and  this  area  down
+
+here  represents  the  area  that  goes
+
+beneath  the  Baseline  so  for  example  if
+
+you  were  creating  a  lowercase  G  you
+
+would  want  part  of  the  letter  to  rest  on
+
+the  Baseline  but  youd  want  that  tail  to
+
+dip  down  under  there  so  to  move  this  Im
+
+just  going  to  click  and  drag  over  the
+
+letter  here  and  Im  going  to  click  and
+
+drag  one  of  these  nodes  and  Im  going  to
+
+hold  the  shift  key  and  bring  this  down
+
+until  the  node  snaps  onto  the  Baseline
+
+and  now  you  can  see  we  have  all  of  this
+
+extra  space  in  here  Im  going  to  close
+
+that  by  taking  this  guide  right  here  and
+
+just  bringing  this  in  further  and  I  want
+
+to  leave  a  little  bit  of  space  there
+
+because  this  is  going  to  repres  repr  the
+
+spacing  between  each  letter  so  if  I  were
+
+to  bring  this  all  the  way  in  there  would
+
+be  no  spacing  between  the  letter  a  and
+
+the  next  letter  I  type  I  want  there  to
+
+be  some  spacing  though  so  Ill  put  about
+
+that  much  spacing  in  there  and  that
+
+looks  pretty  good  I  can  close  out  of
+
+that  and  now  you  can  see  the  letter  a  is
+
+all  set  so  Ill  repeat  this  process  now
+
+with  the  letter  B  Ill  just  copy  it  by
+
+pressing  contrl  C  come  back  in  here  come
+
+back  in  here  press  contrl  V  to  paste  it
+
+double  click  the  layer  select  the  letter
+
+and  grab  the  node  and  just  snap  this  to
+
+the  bottom  again  holding  shift  to  lock
+
+it  onto  the  vertical  axis  there  we  go
+
+now  it  snaps  I  can  take  this  line  and
+
+move  this
+
+in  and  close  out  of  that  and  there  we  go
+
+so  what  Im  going  to  do  is  Ill  go
+
+through  here  and  copy  and  paste  all  of
+
+these  letters  in  here  real  quick  and
+
+Ill  catch  up  with  you  when  Im
+
+done  so  one  minor  thing  I  wanted  to
+
+point  out  in  regards  to  letters  like  a
+
+lowercase  G  where  the  tail  descends  down
+
+beneath  the  Baseline  to  move  this  letter
+
+we  want  to  place  the  Baseline  we  want  to
+
+place  this  part  of  the  letter  right  here
+
+on  the  Baseline  and  we  want  this  part  of
+
+the  letter  to  descend  send  beyond  the
+
+Baseline  so  Im  going  to  select
+
+everything  and  instead  of  clicking  and
+
+dragging  the  bottom  node  Im  going  to
+
+take  this  node  right  here  which  is  the
+
+node  that  Id  like  to  be  on  the  Baseline
+
+and  Ill  drag  it  according  to  that  one
+
+again  Ill  hold  shift  and  then  snap  that
+
+node  onto  the  Baseline  and  as  you  can
+
+see  there  the  letter  G  now  descends
+
+beneath  the  Baseline  as  intended  and  I
+
+can  move  this  line  back  in  and  were
+
+good  to
+
+go  and  for  this  particular  font  that  Im
+
+creating  I  dont  have  upper  and
+
+lowercase  variations  of  these  letters  I
+
+just  have  the  lowercase  varieties  so  Im
+
+just  going  to  copy  and  paste  the
+
+uppercase  variety  into  the  lowercase
+
+boxes  uh  so  that  theyre  all  the
+
+same  and  once  youre  finished  generating
+
+all  of  the  characters  for  your  font  you
+
+can  give  your  font  a  name  by  coming  up
+
+here  to  the  element  menu  and  choosing
+
+font  info  now  this  parts  important
+
+because  whatever  you  enter  here  is  going
+
+to  be  the  name  of  your  font  so  if  you
+
+dont  want  your  font  to  be  named
+
+Untitled  one  just  go  ahead  and  change
+
+that  to  something  else  Im  just  going  to
+
+name  this  after  myself  Ill  name  it  Nick
+
+and  uh  if  if  you  want  you  could  fill  in
+
+this  other  metadata  down  here  we  have
+
+all  of  this  other  stuff  that  you  can
+
+look  through  if  youd  like  Im  just
+
+going  to  leave  these  defaults  as  they
+
+are  for  this  lesson  and  Ill  click
+
+okay  and  now  to  generate  a  font  file  Im
+
+going  to  come  up  here  to  where  it  says
+
+file  and  Im  going  to  select  uh  generate
+
+fonts  and  from  this  menu  you  can  choose
+
+where  you  would  like  to  save  your  font
+
+file  to  you  can  use  this  dropdown  to
+
+choose  the  font  file  type  Im  just  going
+
+to  leave  the  default  which  is  ttf  and  my
+
+font  file  is  going  to  be  called  nick.
+
+ttf  and  Im  just  going  to  click  generate
+
+now  when  I  click  generate  Im  going  to
+
+get  these  error  messages  because  I
+
+didnt  create  a  proper  font  file  theres
+
+a  lot  of  errors  with  what  I  created  here
+
+Im  just  going  to  skip  past  this  Im
+
+going  to  click
+
+generate  and  if  you  open  up  your  files
+
+Im  going  to  open  this  right  here  you
+
+can  see  nick.  ttf  there  is  my  font  and
+
+there  is  the  preview  of  the  font  that  I
+
+created  and  Ill  go  ahead  and  install
+
+this  and  now  this  font  can  be  used
+
+virtually  anywhere  in  your  operating
+
+system  not  just  with  inkscape  with  any
+
+design  app  that  you  want  any  word
+
+processor  in  fact  Ill  reload  inkscape
+
+here  just  to  show  you  what  I  mean  let  me
+
+close  out  of  this  and  relaunch  the
+
+software  let  me  shrink  that
+
+down  and  Ill  just  write  in  some
+
+placeholder  text  Ill  press  contr  a  to
+
+select  it  all  and  Im  going  to  go
+
+looking  for  my  font  here  in  this  list  so
+
+Im  looking  for
+
+Nick  there  it  is  Ill  click  apply  and
+
+there  is  the  font  that  Ive  created  and
+
+in  fact  I  can  go  and  change  this  now  you
+
+know  what  let  me  try  that
+
+again
+
+and  if  I  bring  out  let  me  let  me  open
+
+the  rulers  by  pressing  controlr  and  Ill
+
+bring  down  a  horizontal  guide  if  I  place
+
+this  horizontal  guide  here  you  could  see
+
+what  I  was  talking  about  earlier  with
+
+the  uh  the  Baseline  of  the  text  the
+
+Baseline  sits  the  letters  all  sit  on  the
+
+proper  Baseline  and  the  letter  G  and  the
+
+letter  Y  descend  beneath  it  the  same
+
+with  the  letter  P  as  well  so  that  is  how
+
+you  can  go  about  creating  your  own  font
+
+files  using  Vector  elements  if  you  found
+
+this  lesson  useful  then  consider
+
+checking  out  my  inkscape  master  class
+
+its  a  collection  of  over  60  videos
+
+where  I  go  over  all  of  the  tools  and
+
+features  in  inkscape  and  I  explain  what
+
+they  are  and  demonstrate  how  they  work
+
+kind  of  like  how  I  did  in  this  video  we
+
+even  have  a  private  Community  where  you
+
+can  ask  questions  and  get  help  from  me
+
+anytime  you  want  and  best  of  all  theres
+
+no  monthly  membership  fees  you  just  pay
+
+$17  one  time  and  youre  in  for  Life  Ill
+
+have  some  information  about  that  down
+
+below  if  you  want  to  check  that  out  as
+
+always  thanks  for
+
+watching
+
+
+
+h

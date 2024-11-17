@@ -1,0 +1,302 @@
+
+in  this  tutorial  Ill  be  demonstrating
+
+how  you  can  create  a  color  palette  from
+
+the  colors  in  a  pixel-based  image  using
+
+inkscape  so  the  first  thing  youll  want
+
+to  do  is  import  your  image  onto  the
+
+canvas  as  Ive  done  here  with  my  example
+
+image  and  to  sample  the  colors  from  this
+
+image  were  going  to  use  the  trace  bit
+
+map  tool  so  Im  going  to  click  on  the
+
+image  to  select  it  and  Ill  go  to  path
+
+and  I  will  select  Trace
+
+bitmap  now  the  settings  I  want  to  go
+
+with  over  here  on  the  right  hand  side  of
+
+the  screen  I  want  to  choose  the
+
+multicolor  tab  and  then  I  want  to  come
+
+over  here  to  this  dropdown  and  choose
+
+colors  now  right  here  where  you  see  the
+
+number  of  scans  this  represents  the
+
+number  of  colors  that  will  be  sampled
+
+from  your  image  and  you  could  see  a
+
+preview  of  some  of  those  colors  over
+
+here  in  this  preview  menu  now  if  you
+
+notice  I  have  eight  which  is  the  default
+
+which  you  can  see  it  includes  a  lot  of
+
+the  colors  there  but  it  misses  the
+
+pinkish  reddish  color  of  the  Hat  here  so
+
+for  my  example  Im  going  to  increase
+
+this  number  until  I  get  more  of  those
+
+colors  that  I  want  to  include
+
+and  once  youre  finished  all  you  have  to
+
+do  is  click  the  apply  button  and  give  it
+
+a  second  to  process  if  youre  using  a
+
+lot  of  colors  like  I  am  in  my  example
+
+its  going  to  take  a  minute  or  two  to
+
+process  okay  so  the  trace  is  finished
+
+Im  going  to  click  and  drag  the  trace  to
+
+move  it  away  from  the
+
+image  and  then  Im  going  to  select  the
+
+image  and  press  delete  on  the  keyboard
+
+to  get  rid  of  that  cuz  we  dont  need
+
+that  anymore  I  just  want  the  vector
+
+colors  here  and  Im  going  to  ungroup
+
+this  so  I  will  go  to  object  and  I  will
+
+select
+
+ungroup  and  once  youve  done  that  you
+
+can  click  off  of  the  image  to  deselect
+
+everything  and  you  could  zoom  in  to  all
+
+of  the  vector-based  elements  here  to  see
+
+the  different  colors  that  you  could
+
+sample  so  Im  going  to  start  off  with
+
+this  pink  shade  right  here  Im  going  to
+
+click  on  that  to  select  it  and  if  you
+
+notice  over  here  youll  see  the  color
+
+highlight  in  this  little  stripe  down
+
+here  in  the  bottom  left  of  the  screen
+
+Im  just  going  to  double  click  on  this
+
+stripe  and  its  going  to  open  up  the
+
+fill  and  stroke  menu  and  with  this
+
+object  still  selected  I  want  to  go  to
+
+the  fil  Tab  and  then  over  here  I  want  to
+
+I  want  to  choose  this  button  right  here
+
+that  says  Swatch  Im  going  to  click  on
+
+that  and  its  going  to  add  that  color  to
+
+a  new  Swatch  and  now  we  can  go  to  our
+
+swatches  menu  by  going
+
+to  view  and  selecting
+
+swatches  now  you  should  see  your  Swatch
+
+appearing  in  this  list  here  if  you  see
+
+other  colors  populating  here  just  click
+
+on  this  menu  and  choose  Auto  from  this
+
+dropdown  so  now  that  we  know  how  to  do
+
+that  we  can  go  add  some  more  colors  to
+
+our  Swatch  here  so  Im  going  to  come
+
+back  over  here  to  the  fill  and  stroke
+
+menu  Im  going  to  choose  a  shade  of  blue
+
+and  Im  going  to  add  that  to  my  swatch
+
+as  well  and  if  you  notice  each  new
+
+Swatch  you  add  will  be  indexed  in  this
+
+menu  right  here  so  Im  going  to  add  some
+
+more  and  once  youre  finished  once
+
+youre  happy  with  all  of  your  swatches
+
+you  can  zoom  out  you  can  press  control  a
+
+on  your  keyboard  or  command  a  if  youre
+
+using  Mac  to  select  everything  and  then
+
+just  press  delete  because  we  dont  need
+
+it  anymore  now  now  we  have  our  swatches
+
+in  place  and  if  you  want  to  change  the
+
+color  menu  down  here  at  the  bottom  of
+
+the  screen  just  click  on  this  menu  icon
+
+over  here  down  at  the  bottom  right  and
+
+instead  of  inkscape  default  we  want  to
+
+choose  Auto  and  once  we  have  Auto
+
+selected  our  chosen  colors  that  we
+
+created  from  the  image  will  appear  in
+
+the  menu  there  and  if  you  want  to  make
+
+those  icons  bigger  you  can  come  back
+
+over  here  to  the  menu  and  choose
+
+configure  and  you  could  CH  take  the  tile
+
+size  and  increase  it  like  that  and  now
+
+you  have  much  bigger  swatches  to  work
+
+with  down  there  in  the  bottom  left
+
+corner
+
+and  now  when  you  create  new  objects  let
+
+me  show  you  as  an  example  you  can  color
+
+you  your  new  objects  using  these
+
+swatches  down
+
+here  so  now  lets  go  over  how  you  can
+
+save  these  swatches  in  case  you  want  to
+
+use  them  in  other  documents  in  the
+
+future  now  there  is  no  way  to  directly
+
+save  these  swatches  but  there  is  a
+
+workaround  using  templates  so  what  you
+
+want  to  do  is  save  this  entire  document
+
+as  a  template  and  then  itll  be  saved
+
+with  these  swatches  so  that  next  time
+
+you  open  a  new  document  from  that
+
+template  you  will  have  these  in  place  so
+
+Im  going  to  come  up  here  to  where  it
+
+says  file  and  go
+
+to  save
+
+template  and  Im  going  to  give  this  a
+
+name  Im  just  going  to  name  this
+
+nature
+
+pallet  and  Ill  click
+
+save  and  now  if  I  go  to  file  and  I
+
+select  new  from
+
+template  I  can  choose  the  custom  tab  Im
+
+going  to  select  nature  pallet  and  click
+
+create  from  template
+
+and  in  my  new  document  I  can  go  to  view
+
+select  swatches  and  there  my  color
+
+palette  is  so  thats  how  you  can
+
+generate  color  palettes  from  images
+
+using  inkscape  if  you  found  this  lesson
+
+useful  then  consider  checking  out  my
+
+inkscape  master  class  its  a  collection
+
+of  over  60  videos  where  I  go  over  all  of
+
+the  tools  and  features  in  inkscape  and  I
+
+explain  what  they  are  and  demonstrate
+
+how  they  work  kind  of  like  how  I  did  in
+
+this  video  we  even  have  a  private
+
+Community  where  you  can  ask  questions
+
+and  get  help  from  me  anytime  you  want
+
+and  best  of  all  theres  no  monthly
+
+membership  fees  you  just  pay  $17  one
+
+time  and  youre  in  for  Life  Ill  have
+
+some  information  about  that  down  below
+
+if  you  want  to  check  that  out  as  always
+
+thanks  for
+
+
+
+watching

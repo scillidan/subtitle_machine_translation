@@ -1,0 +1,184 @@
+
+in  a  previous  tutorial  from  a  few  years
+
+ago  we  went  over  how  you  can  apply
+
+Vector  Textures  in  inkscape  by  using
+
+path  operations  as  it  turns  out  though
+
+there  is  a  more  efficient  way  to
+
+accomplish  this  using  a  relatively  new
+
+feature  in  inkscape  known  as  inverse
+
+masking  and  Id  like  to  share  that  with
+
+you  in  this  tutorial
+
+so  to  get  us  started  here  the  object  I
+
+will  be  working  with  is  this  text  object
+
+here  that  was  previously  a  text  object
+
+but  I  converted  it  to  a  path  now  its
+
+important  to  understand  that  what  were
+
+going  to  do  in  this  lesson  only  works  on
+
+objects  that  are  vector  pads  so  if
+
+youre  working  with  a  text  object  or  a
+
+shape  that  youve  drawn  with  the  shape
+
+tool  youll  have  to  convert  it  to  a  path
+
+first  by  selecting  it  and  going  to  path
+
+and  selecting  object  to  path  and  once
+
+you  do  that  youll  be  good  to  go  so  what
+
+Im  going  to  do  now  is  import  my  Vector
+
+texture  Im  going  to open  my  folder  and
+
+Im  going  to  grab  the  SVG  file  and  just
+
+click  and  drag  that  onto  the  canvas  if
+
+you  want  to  follow  along  with  what  Im
+
+doing  here  Ill  put  a  link  in  the
+
+description  to  where  you  can  download
+
+these  textures
+
+and  once  its  imported  Im  just  going  to
+
+scale  it  down  and  size  it  up  and
+
+position  it  where  I  would  like  it  to  be
+
+relative  to  the  subject  that  Ill  be
+
+applying  it  to  so  Im  going  to  move  this
+
+on  top  of  it  like  that
+
+now  normally  what  we  would  do  is  we
+
+would  select  both  of  these  objects  and
+
+do  a  path  difference  but  the  problem
+
+with  using  an  object  like  a  texture  to
+
+do  something  like  that  is  that  this
+
+texture  consists  of  thousands  of  nodes
+
+maybe  even  tens  of  thousands  of  nodes
+
+and  if  you  perform  path  operations  with
+
+it  its  going  to  slow  down  your  computer
+
+a  lot  so  its  a  really  inefficient  way
+
+of  doing  things  instead  what  were  going
+
+to  do  is  with  both  objects  selected  we
+
+will  go  to  object
+
+mask  and  were  going  to  choose  set
+
+inverse  mask
+
+and  once  you  do  that  its  going  to  apply
+
+the  texture  to  the  object  as  you  can  see
+
+there  and  if  I  zoom  in  all  the  way  you
+
+can  see  that  the  vector  element  has  been
+
+preserved  in  fact  all  of  that  texture  in
+
+there  is  negative  space  if  I  were  to
+
+grab  my  rectangle  tool  and  draw  a
+
+rectangle  and  position  that  beneath
+
+everything
+
+you  can  see  those  negative  you  can  see
+
+the  black  background  showing  through
+
+those  negative  space  areas  like  that
+
+now  if  at  any  point  you  want  to  remove
+
+the  texture  the  good  thing  about  this
+
+instead  of  using  path  operations  is  that
+
+its  also  non-destructive  so  you  can
+
+undo  this  at  any  point  you  could  just
+
+select  the  object  and  go  to  object  and
+
+go  to  mask  and  choose  release  mask
+
+foreign
+
+point  you  have  your  preserved  text
+
+object  and  the  vector  texture  as  it  was
+
+previously  so  that  is  a  much  more
+
+efficient  way  of  applying  Vector
+
+textures  to  objects  using  inkscape  if
+
+you  found  this  lesson  useful  then
+
+consider  checking  out  my  inkscape  master
+
+class  its  a  collection  of  over  60
+
+videos  where  I  go  over  all  of  the  tools
+
+and  features  in  inkscape  and  I  explain
+
+what  they  are  and  demonstrate  how  they
+
+work  kind  of  like  how  I  did  in  this
+
+video  we  even  have  a  private  Community
+
+where  you  can  ask  questions  and  get  help
+
+from  me  anytime  you  want  and  best  of  all
+
+theres  no  monthly  membership  fees  you
+
+just  pay  17  one  time  and  youre  in  for
+
+Life  Ill  have  some  information  about
+
+that  down  below  if  you  want  to  check
+
+that  out  as  always  thanks  for  watching
+
+thank  you

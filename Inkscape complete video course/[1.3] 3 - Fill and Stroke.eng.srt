@@ -1,0 +1,84 @@
+1
+00:00:00,060 --> 00:00:02,280
+when I draw a shape I can give it a fill
+
+2
+00:00:02,280 --> 00:00:03,840
+and a stroke
+
+3
+00:00:03,840 --> 00:00:05,880
+to hide the fill click on the Red Cross
+
+4
+00:00:05,880 --> 00:00:08,460
+and to hide the stroke shift-click on
+
+5
+00:00:08,460 --> 00:00:10,860
+the Red Cross I shift-click on black
+
+6
+00:00:10,860 --> 00:00:13,200
+again the width of the stroke is two
+
+7
+00:00:13,200 --> 00:00:14,219
+millimeter
+
+8
+00:00:14,219 --> 00:00:16,500
+when I hold my mouse above the value and
+
+9
+00:00:16,500 --> 00:00:18,359
+scroll forward I increase the stroke
+
+10
+00:00:18,359 --> 00:00:20,760
+width it is clear that the stroke is in
+
+11
+00:00:20,760 --> 00:00:22,920
+front of the fill I can place the stroke
+
+12
+00:00:22,920 --> 00:00:24,539
+behind the fill
+
+13
+00:00:24,539 --> 00:00:26,880
+I click on the stroke width value behind
+
+14
+00:00:26,880 --> 00:00:29,340
+order I click on the second icon
+
+15
+00:00:29,340 --> 00:00:31,740
+here I have text with a stroke when I
+
+16
+00:00:31,740 --> 00:00:33,600
+increase the stroke it will obfuscate
+
+17
+00:00:33,600 --> 00:00:36,000
+the text so I click on the second icon
+
+18
+00:00:36,000 --> 00:00:38,280
+the corners of the stroke are rounded
+
+19
+00:00:38,280 --> 00:00:40,800
+you can also choose bevel or miter to
+
+20
+00:00:40,800 --> 00:00:42,420
+get another look
+
+21
+00:00:42,420 --> 00:00:45,860
+and the text is still editable
+

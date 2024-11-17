@@ -1,0 +1,331 @@
+
+lets  go  over  how  you  can  invert  the
+
+colors  of  an  object  using  inkscape  on  my
+
+screen  here  I  have  this  example  design
+
+that  I  downloaded  that  consists  of  a
+
+grouping  of  vector  objects  for  this
+
+demonstration  Im  going  to  create  a
+
+duplicate  of  this  design  here  by
+
+pressing  Ctrl  D  and  Im  going  to  move
+
+this  over  to  the  right  here  just  so  I
+
+have  something  to  compare  the  end  result
+
+to
+
+so  when  you  invert  the  colors  of  objects
+
+what  happens  is  youre  taking  a  color
+
+and  swapping  it  out  with  the  color  that
+
+opposes  it  on  the  color  wheel
+
+so  every  instance  of  blue  will  become
+
+orange  orange  will  become  blue  yellow
+
+will  become  purple  so  on  and  so  forth
+
+so  to  accomplish  this  in  inkscape  the
+
+first  thing  youll  want  to  do  is  select
+
+your  object  or  objects  you  can  use
+
+multiple  objects  if  youd  like  and  with
+
+them  selected  come  up  here  to  where  it
+
+says  filters
+
+go  to  color  and  select  invert
+
+and  once  you  do  that  you  will  get  this
+
+invert  menu  with  some  settings  that  you
+
+can  apply
+
+so  the  first  thing  well  want  to  do  is
+
+turn  on  the  live  preview  so  we  can  see
+
+the  changes  as  theyre  happening  and  if
+
+you  look  just  above  that  youll  see
+
+these  three  options  right  here  the  first
+
+one  is  invert  Hue  if  I  select  that  and
+
+inverts  all  of  the  colors  as  you  can  see
+
+there  but  if  you  notice  the  eyes  which
+
+are  white  or  lighter  in  color  they  dont
+
+change  they  remain  a  light  shade  this  is
+
+because  we  dont  have  invert  lightness
+
+selected  so  if  I  if  I  select  invert
+
+lightness
+
+it  inverts  the  lighter  tones  as  well  so
+
+that  you  get  more  of  this  photo  negative
+
+effect  and  then  finally  down  here  what
+
+invert  transparency  does  is  you  wont
+
+see  it  on  this  example  but  if  youre
+
+working  with  the  graphic  that  has  areas
+
+of  partial  transparency  itll  just
+
+invert  that  so  for  example  if  its  80
+
+opaque  itll  become  20  opaque
+
+so  let  me  undo  this
+
+let  me  undo  the  invert  lightness  because
+
+I  think  for  this  demonstration  it  looks
+
+better  like  that  and  if  you  come  up  here
+
+we  have  this  light  transparency  slider
+
+which  allows  you  to  add  lightness  to  the
+
+design  if  necessary
+
+this  can  be  useful  sometimes  because
+
+when  you  invert  colors  sometimes  you  get
+
+really  dark  results  this  can  help  you
+
+lighten  things  up  a  bit  this  example
+
+looks  good  with  it  not  applied  so  Im
+
+going  to  keep  it  down  to  zero  and  then
+
+finally  up  here  you  can  choose  to  invert
+
+colors  by  the  channels  so  by  default  we
+
+have  no  inversion  but  if  I  invert  by  the
+
+red  and  blue  Channel
+
+you  get  this  effect  right  here  and  if  I
+
+toggle  the  hue
+
+you  can  see  we  end  up  with  that  effect
+
+right  there
+
+so  lets  try  and  invert  by  the  red  and
+
+green  channels  now  we  get  something  like
+
+that
+
+and  without  the  Hue  applied
+
+it  looks  like  that
+
+and  then  finally  we  have  green  and  blue
+
+that  looks  like  that  and  without  the  Hue
+
+you  end  up  with  something  like  that
+
+right  there  so  thats  something  you
+
+could  play  around  with  we  can  get  all  of
+
+these  different  results  here  just  like
+
+that  so  I  liked  my  results  best  with  no
+
+inversion  like  that  and  Im  going  to
+
+click  apply
+
+and  then  I  click  close
+
+and  there  you  go  that  is  how  you  can
+
+invert  the  colors  of  an  object  using
+
+inkscape  now  one  last  thing  Id  like  to
+
+point  out  before  I  end  this  video  is
+
+that  when  you  apply  this  filter  youre
+
+not  actually  changing  the  colors  of  the
+
+objects  youre  just  changing  the  color
+
+of  their  appearance  on  your  screen  now
+
+if  I  click  on  this  object  right  here
+
+this  right  here  is  the  inverted  copy  and
+
+this  over  here  is  the  original  copy  with
+
+this  object  selected  you  can  see  here
+
+this  is  a  light  shade  of  lavender  but  if
+
+you  look  down  here  in  the  color  status
+
+bar  its  still  its  original  color  as  you
+
+can  see  over  here  thats  how  its
+
+registering  because  this  is  just  a
+
+temporary  filter  thats  applied  to  the
+
+object
+
+now  if  youre  going  to  be  taking  your
+
+design  and  exporting  it  as  a  JPEG  or  a
+
+PNG  then  you  can  ignore  this  part  of  the
+
+video  because  this  doesnt  really  apply
+
+here  but  if  youre  going  to  take  the  SVG
+
+file  and  try  to  open  it  in  another
+
+application  such  as  qriket  design  space
+
+or  illustrator  this  effect  is  not  going
+
+to  carry  over  because  this  is  an
+
+inkscape  specific  effect  youre  going  to
+
+end  up  with  this  right  here
+
+so  if  you  truly  want  your  colors  to  be
+
+inverted  what  youll  want  to  do  is  take
+
+an  original  copy  and  swap  out  and  change
+
+the  colors  manually  one  by  one  so  if  I
+
+select  this  object  I  can  come  over  here
+
+to  my  dropper  tool  and  select  that  area
+
+and  now  it  is  the  desired  color  as  you
+
+can  see  there
+
+so  Ill  do  the  same  thing  Im  going  to
+
+click  on  the  nose  now  and  do  the  same
+
+thing  Im  just  going  to  use  the  keyboard
+
+shortcuts  to  toggle  between  the  tools
+
+for  the  dropper  the  keyboard  shortcut  is
+
+d
+
+and  Ill  click  on  that  and  then  Ill
+
+switch  back  to  the  selection  tool  which
+
+is  s  and  Ill  do  the  same  thing  over
+
+here  switch  back  and  forth  between  D  and
+
+S
+
+and  you  could  just  go  through  here  one
+
+by  one  and  change  all  of  these  colors
+
+like  that
+
+and  there  you  go  now  we  have  a  copy  that
+
+has  colors  that  are  truly  inverted  and
+
+then  we  have  this  filtered  copy  over
+
+here  now  if  you  want  to  remove  the
+
+filter  at  any  time  you  could  just  select
+
+the  objects  and  come  up  here  to  where  it
+
+says  filters  and  go  down  to  where  it
+
+says  remove  filters  and  now  its  back  to
+
+how  it  was  previously
+
+so  thats  how  you  can  work  with  color
+
+inversion  in  inkscape  if  you  found  this
+
+lesson  useful  then  consider  checking  out
+
+my  inkscape  master  class  its  a
+
+collection  of  over  60  videos  where  I  go
+
+over  all  of  the  tools  and  features  in
+
+inkscape  and  I  explain  what  they  are  and
+
+demonstrate  how  they  work  kind  of  like
+
+how  I  did  in  this  video  we  even  have  a
+
+private  Community  where  you  can  ask
+
+questions  and  get  help  from  me  anytime
+
+you  want  and  best  of  all  theres  no
+
+monthly  membership  fees  you  just  pay  17
+
+one  time  and  youre  in  for  Life  Ill
+
+have  some  information  about  that  down
+
+below  if  you  want  to  check  that  out  as
+
+always  thanks  for  watching
+
+foreign
+

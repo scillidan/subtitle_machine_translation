@@ -1,0 +1,2612 @@
+1
+00:00:01,020 --> 00:00:06,910
+[Music]
+
+2
+00:00:08,639 --> 00:00:10,960
+this is nick with logosbynic.com and in
+
+3
+00:00:10,960 --> 00:00:12,639
+this tutorial i'll be demonstrating how
+
+4
+00:00:12,639 --> 00:00:13,679
+you can create this
+
+5
+00:00:13,679 --> 00:00:16,720
+rocket logo design using inkscape but
+
+6
+00:00:16,720 --> 00:00:18,000
+before we get started if you'd like to
+
+7
+00:00:18,000 --> 00:00:19,680
+learn more about how inkscape works be
+
+8
+00:00:19,680 --> 00:00:21,359
+sure to check out my inkscape master
+
+9
+00:00:21,359 --> 00:00:22,000
+class
+
+10
+00:00:22,000 --> 00:00:23,840
+it's a collection of over 60 videos
+
+11
+00:00:23,840 --> 00:00:25,359
+where i go over all of the tools and
+
+12
+00:00:25,359 --> 00:00:26,560
+features in inkscape
+
+13
+00:00:26,560 --> 00:00:27,920
+and i explain what they are and
+
+14
+00:00:27,920 --> 00:00:29,519
+demonstrate how they work i'll put a
+
+15
+00:00:29,519 --> 00:00:30,720
+link in the description of the video if
+
+16
+00:00:30,720 --> 00:00:32,399
+you want to check that out
+
+17
+00:00:32,399 --> 00:00:34,480
+so to get us started here in inkscape
+
+18
+00:00:34,480 --> 00:00:35,760
+the first thing i want to do is just set
+
+19
+00:00:35,760 --> 00:00:36,079
+up
+
+20
+00:00:36,079 --> 00:00:37,920
+the uh the screen here so that we're all
+
+21
+00:00:37,920 --> 00:00:39,360
+working with the similar layout i want
+
+22
+00:00:39,360 --> 00:00:41,040
+to come up here to where it says view
+
+23
+00:00:41,040 --> 00:00:43,200
+make sure we have custom selected i'm
+
+24
+00:00:43,200 --> 00:00:44,320
+going to come over here to where it says
+
+25
+00:00:44,320 --> 00:00:46,239
+zoom and i'm going to zoom in at one to
+
+26
+00:00:46,239 --> 00:00:47,120
+one
+
+27
+00:00:47,120 --> 00:00:48,800
+and then i'm going to open up the align
+
+28
+00:00:48,800 --> 00:00:50,160
+and distribute menu with this button
+
+29
+00:00:50,160 --> 00:00:52,000
+over here or you can press ctrl
+
+30
+00:00:52,000 --> 00:00:55,280
+shift and a i want to have last selected
+
+31
+00:00:55,280 --> 00:00:57,039
+chosen from this relative two
+
+32
+00:00:57,039 --> 00:00:58,399
+and then i want to open up the fill and
+
+33
+00:00:58,399 --> 00:00:59,840
+stroke menu which is over here you can
+
+34
+00:00:59,840 --> 00:01:01,520
+click on that or you can press ctrl
+
+35
+00:01:01,520 --> 00:01:04,159
+shift and f to open that up so what i'm
+
+36
+00:01:04,159 --> 00:01:05,519
+going to do first is i'm going to create
+
+37
+00:01:05,519 --> 00:01:06,960
+a circle that is going to
+
+38
+00:01:06,960 --> 00:01:08,799
+encapsulate the entire design so let me
+
+39
+00:01:08,799 --> 00:01:11,040
+grab the circles and ellipses tool
+
+40
+00:01:11,040 --> 00:01:12,560
+i'm going to hold ctrl and shift on the
+
+41
+00:01:12,560 --> 00:01:14,560
+canvas i'm going to hold ctrl and shift
+
+42
+00:01:14,560 --> 00:01:15,840
+and click and drag on the canvas to
+
+43
+00:01:15,840 --> 00:01:17,439
+create a perfectly round circle like
+
+44
+00:01:17,439 --> 00:01:18,080
+that
+
+45
+00:01:18,080 --> 00:01:19,520
+now let me grab the select tool let me
+
+46
+00:01:19,520 --> 00:01:21,759
+move this over what i want to do now is
+
+47
+00:01:21,759 --> 00:01:23,200
+just bring down the opacity of this a
+
+48
+00:01:23,200 --> 00:01:24,799
+little bit i'm going to take the opacity
+
+49
+00:01:24,799 --> 00:01:26,159
+bring that down roughly in half we're
+
+50
+00:01:26,159 --> 00:01:27,360
+going to want to be able to see through
+
+51
+00:01:27,360 --> 00:01:28,640
+what we're working with
+
+52
+00:01:28,640 --> 00:01:31,040
+as we go through this tutorial one other
+
+53
+00:01:31,040 --> 00:01:31,920
+thing i wanted to
+
+54
+00:01:31,920 --> 00:01:33,360
+i forgot to mention up here where it
+
+55
+00:01:33,360 --> 00:01:35,439
+says enable snapping make sure you have
+
+56
+00:01:35,439 --> 00:01:37,040
+this turned off for the duration of this
+
+57
+00:01:37,040 --> 00:01:38,880
+tutorial or for now anyway so
+
+58
+00:01:38,880 --> 00:01:40,479
+go ahead and disable that i think by
+
+59
+00:01:40,479 --> 00:01:42,000
+default it's enabled so just go ahead
+
+60
+00:01:42,000 --> 00:01:42,399
+and
+
+61
+00:01:42,399 --> 00:01:44,799
+disable that so we have our circle right
+
+62
+00:01:44,799 --> 00:01:45,840
+there what i want to do is just
+
+63
+00:01:45,840 --> 00:01:47,600
+duplicate this circle by hitting control
+
+64
+00:01:47,600 --> 00:01:48,159
+d
+
+65
+00:01:48,159 --> 00:01:50,479
+i'm going to make this copy green and
+
+66
+00:01:50,479 --> 00:01:51,840
+i'm going to hold ctrl and shift and
+
+67
+00:01:51,840 --> 00:01:53,280
+scale this down a little bit
+
+68
+00:01:53,280 --> 00:01:54,240
+and what i'm going to do here is i'm
+
+69
+00:01:54,240 --> 00:01:56,079
+going to create some plumes of smoke
+
+70
+00:01:56,079 --> 00:01:58,240
+going towards the bottom of the uh
+
+71
+00:01:58,240 --> 00:01:59,520
+the bottom of the design here let me
+
+72
+00:01:59,520 --> 00:02:01,119
+show you here we're going to create this
+
+73
+00:02:01,119 --> 00:02:02,560
+segment right here using a bunch of
+
+74
+00:02:02,560 --> 00:02:04,079
+individual circles so let me
+
+75
+00:02:04,079 --> 00:02:06,640
+minimize that i'm going to make this one
+
+76
+00:02:06,640 --> 00:02:07,520
+a little bigger
+
+77
+00:02:07,520 --> 00:02:11,200
+put this right about here duplicate this
+
+78
+00:02:11,200 --> 00:02:12,400
+by pressing ctrl d
+
+79
+00:02:12,400 --> 00:02:13,840
+make this one a little smaller again
+
+80
+00:02:13,840 --> 00:02:15,520
+holding ctrl and shift while scaling
+
+81
+00:02:15,520 --> 00:02:18,319
+this down to lock the proportions
+
+82
+00:02:18,319 --> 00:02:20,720
+ctrl d to duplicate again hold ctrl and
+
+83
+00:02:20,720 --> 00:02:22,319
+shift make this one a little smaller
+
+84
+00:02:22,319 --> 00:02:24,080
+maybe i'll put this over here
+
+85
+00:02:24,080 --> 00:02:25,360
+put the medium size over here on the
+
+86
+00:02:25,360 --> 00:02:27,040
+left put the smaller one right here like
+
+87
+00:02:27,040 --> 00:02:29,280
+that
+
+88
+00:02:29,280 --> 00:02:32,400
+maybe make this a little smaller
+
+89
+00:02:32,400 --> 00:02:34,800
+duplicate this by hitting ctrl d bring
+
+90
+00:02:34,800 --> 00:02:37,840
+this over here
+
+91
+00:02:38,480 --> 00:02:41,840
+duplicate this one put this over here
+
+92
+00:02:41,840 --> 00:02:44,879
+maybe like that and right there that's
+
+93
+00:02:44,879 --> 00:02:46,080
+about what i'm looking for i want to
+
+94
+00:02:46,080 --> 00:02:47,040
+have this
+
+95
+00:02:47,040 --> 00:02:49,280
+this is going to represent the the the
+
+96
+00:02:49,280 --> 00:02:50,800
+clouds are like the exhaust coming from
+
+97
+00:02:50,800 --> 00:02:51,920
+the rocket here
+
+98
+00:02:51,920 --> 00:02:53,280
+and uh what i want to do now is i just
+
+99
+00:02:53,280 --> 00:02:54,720
+want to make sure the bottom portion of
+
+100
+00:02:54,720 --> 00:02:56,400
+this design is covered in as well so i'm
+
+101
+00:02:56,400 --> 00:02:57,599
+going to duplicate some more of these
+
+102
+00:02:57,599 --> 00:02:58,879
+circles
+
+103
+00:02:58,879 --> 00:03:00,720
+and just scale them up so that it's
+
+104
+00:03:00,720 --> 00:03:02,319
+covering the entire portion of the
+
+105
+00:03:02,319 --> 00:03:04,080
+design as you can see i'm stamping these
+
+106
+00:03:04,080 --> 00:03:06,000
+circles by pressing spacebar as i move
+
+107
+00:03:06,000 --> 00:03:07,280
+them around
+
+108
+00:03:07,280 --> 00:03:08,239
+that right there is what we're looking
+
+109
+00:03:08,239 --> 00:03:09,440
+for we want to make sure everything's
+
+110
+00:03:09,440 --> 00:03:10,720
+covered here we don't have any of the
+
+111
+00:03:10,720 --> 00:03:12,159
+main circles sticking out let me just
+
+112
+00:03:12,159 --> 00:03:13,360
+zoom in to make sure
+
+113
+00:03:13,360 --> 00:03:16,480
+okay good we don't want any of that
+
+114
+00:03:16,480 --> 00:03:18,319
+and what i'm going to do now is if you
+
+115
+00:03:18,319 --> 00:03:20,400
+notice over here there's little indents
+
+116
+00:03:20,400 --> 00:03:21,760
+coming in from these circles so we're
+
+117
+00:03:21,760 --> 00:03:23,360
+going to create those next
+
+118
+00:03:23,360 --> 00:03:25,200
+so let me go and take i'm going to start
+
+119
+00:03:25,200 --> 00:03:26,799
+with this circle right here
+
+120
+00:03:26,799 --> 00:03:28,400
+to zoom in and out i'm holding ctrl and
+
+121
+00:03:28,400 --> 00:03:29,920
+rolling up the mouse wheel
+
+122
+00:03:29,920 --> 00:03:32,000
+and to move them to move the page around
+
+123
+00:03:32,000 --> 00:03:33,120
+i'm pressing down the mouse wheel and
+
+124
+00:03:33,120 --> 00:03:34,239
+moving the mouse
+
+125
+00:03:34,239 --> 00:03:35,599
+i'm going to duplicate this by hitting
+
+126
+00:03:35,599 --> 00:03:38,239
+control d i'm going to make that red
+
+127
+00:03:38,239 --> 00:03:39,760
+and then i'm going to duplicate it again
+
+128
+00:03:39,760 --> 00:03:41,360
+by hitting control d and i'm going to
+
+129
+00:03:41,360 --> 00:03:42,799
+make this one green
+
+130
+00:03:42,799 --> 00:03:44,560
+and let me just move this one over like
+
+131
+00:03:44,560 --> 00:03:46,000
+this and we're
+
+132
+00:03:46,000 --> 00:03:47,760
+looking at the uh the area that's
+
+133
+00:03:47,760 --> 00:03:49,040
+sticking out here the color of red
+
+134
+00:03:49,040 --> 00:03:50,080
+that's sticking out that's what we want
+
+135
+00:03:50,080 --> 00:03:52,159
+to pay attention to
+
+136
+00:03:52,159 --> 00:03:53,519
+something like that right there is what
+
+137
+00:03:53,519 --> 00:03:55,439
+i'm looking for i'm going to hold shift
+
+138
+00:03:55,439 --> 00:03:57,200
+click on the red circle behind it so we
+
+139
+00:03:57,200 --> 00:03:58,640
+have both of these selected and go to
+
+140
+00:03:58,640 --> 00:03:59,599
+path
+
+141
+00:03:59,599 --> 00:04:01,680
+difference now i want to do the same
+
+142
+00:04:01,680 --> 00:04:03,040
+thing for all of the circles at the top
+
+143
+00:04:03,040 --> 00:04:04,640
+here so let me zoom in so i can see this
+
+144
+00:04:04,640 --> 00:04:05,760
+a little better
+
+145
+00:04:05,760 --> 00:04:07,760
+i want to move this circle over so that
+
+146
+00:04:07,760 --> 00:04:09,200
+it's intersecting with this area a
+
+147
+00:04:09,200 --> 00:04:10,640
+little more so let me duplicate this by
+
+148
+00:04:10,640 --> 00:04:12,159
+hitting ctrl d
+
+149
+00:04:12,159 --> 00:04:14,400
+make that red duplicate it again make it
+
+150
+00:04:14,400 --> 00:04:15,439
+green
+
+151
+00:04:15,439 --> 00:04:16,959
+and i'll move this one out here like
+
+152
+00:04:16,959 --> 00:04:19,199
+this
+
+153
+00:04:19,279 --> 00:04:21,199
+and one thing i'm looking for when i do
+
+154
+00:04:21,199 --> 00:04:22,800
+this i want to make sure if you notice
+
+155
+00:04:22,800 --> 00:04:23,520
+the tip
+
+156
+00:04:23,520 --> 00:04:26,840
+of the uh the red crescent here is going
+
+157
+00:04:26,840 --> 00:04:29,280
+over the red crescent over here that we
+
+158
+00:04:29,280 --> 00:04:30,639
+previously created we want to make sure
+
+159
+00:04:30,639 --> 00:04:32,400
+that those two things are intersecting
+
+160
+00:04:32,400 --> 00:04:34,080
+and overlapping completely
+
+161
+00:04:34,080 --> 00:04:36,080
+you don't want to leave it like this
+
+162
+00:04:36,080 --> 00:04:37,600
+where it's not going all the way through
+
+163
+00:04:37,600 --> 00:04:38,880
+so that's one thing to keep in mind
+
+164
+00:04:38,880 --> 00:04:41,120
+while you're going about this
+
+165
+00:04:41,120 --> 00:04:42,720
+if you have to you can take this one
+
+166
+00:04:42,720 --> 00:04:44,960
+hold shift click the one beneath it and
+
+167
+00:04:44,960 --> 00:04:46,160
+then just click it again to get the
+
+168
+00:04:46,160 --> 00:04:47,680
+rotation handles and just rotate it
+
+169
+00:04:47,680 --> 00:04:48,560
+around
+
+170
+00:04:48,560 --> 00:04:50,800
+to position it in a better spot all
+
+171
+00:04:50,800 --> 00:04:52,000
+right so that that right there is good
+
+172
+00:04:52,000 --> 00:04:53,360
+how it is i'm going to hold shift
+
+173
+00:04:53,360 --> 00:04:55,600
+click both of those and go to path
+
+174
+00:04:55,600 --> 00:04:58,080
+difference there we go
+
+175
+00:04:58,080 --> 00:05:00,320
+and maybe maybe i'll rotate these around
+
+176
+00:05:00,320 --> 00:05:01,919
+a little bit like that
+
+177
+00:05:01,919 --> 00:05:03,120
+and i'm gonna have to move this one i
+
+178
+00:05:03,120 --> 00:05:04,400
+can tell already i'm gonna move this one
+
+179
+00:05:04,400 --> 00:05:05,039
+up here
+
+180
+00:05:05,039 --> 00:05:07,680
+again duplicate that make that red
+
+181
+00:05:07,680 --> 00:05:09,680
+duplicate it again make it green
+
+182
+00:05:09,680 --> 00:05:12,880
+and i'm going to position this one like
+
+183
+00:05:12,880 --> 00:05:15,120
+this
+
+184
+00:05:15,759 --> 00:05:18,960
+maybe over here like this
+
+185
+00:05:19,919 --> 00:05:22,800
+again now this is not overlapping so
+
+186
+00:05:22,800 --> 00:05:24,080
+what i want to do is move this
+
+187
+00:05:24,080 --> 00:05:25,360
+down like that there we go that's what
+
+188
+00:05:25,360 --> 00:05:27,840
+i'm looking for now let me take those go
+
+189
+00:05:27,840 --> 00:05:28,479
+to path
+
+190
+00:05:28,479 --> 00:05:30,160
+difference again to select two objects
+
+191
+00:05:30,160 --> 00:05:32,080
+at the same time just holding shift
+
+192
+00:05:32,080 --> 00:05:34,320
+and clicking each of them do the same
+
+193
+00:05:34,320 --> 00:05:35,759
+thing over here ctrl d
+
+194
+00:05:35,759 --> 00:05:37,120
+we're pretty much just repeating this
+
+195
+00:05:37,120 --> 00:05:38,639
+process over and over again until we get
+
+196
+00:05:38,639 --> 00:05:39,280
+to the
+
+197
+00:05:39,280 --> 00:05:44,000
+end of the exhaust plume here
+
+198
+00:05:44,800 --> 00:05:47,360
+that's good
+
+199
+00:05:48,960 --> 00:05:51,199
+oops did i miss that there we go and
+
+200
+00:05:51,199 --> 00:05:53,120
+we'll do the same thing over here
+
+201
+00:05:53,120 --> 00:05:54,479
+you know i'm going to rotate this around
+
+202
+00:05:54,479 --> 00:05:56,880
+a little bit
+
+203
+00:05:58,319 --> 00:05:59,680
+yeah maybe i'll rotate it around some
+
+204
+00:05:59,680 --> 00:06:03,039
+more like that oops
+
+205
+00:06:03,039 --> 00:06:05,120
+okay that's good and then finally this
+
+206
+00:06:05,120 --> 00:06:06,400
+last one over here i'm going to
+
+207
+00:06:06,400 --> 00:06:09,280
+just adjust that a little bit duplicate
+
+208
+00:06:09,280 --> 00:06:09,680
+that
+
+209
+00:06:09,680 --> 00:06:12,560
+make that red duplicate it again make it
+
+210
+00:06:12,560 --> 00:06:14,880
+green
+
+211
+00:06:16,639 --> 00:06:20,560
+and there we go path difference
+
+212
+00:06:20,560 --> 00:06:22,479
+okay so we have this set in place now
+
+213
+00:06:22,479 --> 00:06:24,319
+what i want to do now is
+
+214
+00:06:24,319 --> 00:06:26,080
+if you notice the areas where the red
+
+215
+00:06:26,080 --> 00:06:27,520
+crescents the tips of them are sticking
+
+216
+00:06:27,520 --> 00:06:28,720
+out from each other i just want to go
+
+217
+00:06:28,720 --> 00:06:29,759
+and manually
+
+218
+00:06:29,759 --> 00:06:31,919
+remove those from certain areas so i'm
+
+219
+00:06:31,919 --> 00:06:33,520
+going to remove this area from this
+
+220
+00:06:33,520 --> 00:06:34,560
+crescent here to do that i'm going to
+
+221
+00:06:34,560 --> 00:06:35,919
+grab the bezier pen
+
+222
+00:06:35,919 --> 00:06:37,680
+which is over here you can press b on
+
+223
+00:06:37,680 --> 00:06:40,560
+the keyboard i'm going to create
+
+224
+00:06:40,560 --> 00:06:42,720
+an object going around the tip of that
+
+225
+00:06:42,720 --> 00:06:44,080
+crescent right there
+
+226
+00:06:44,080 --> 00:06:46,720
+grab the select tool hold shift click on
+
+227
+00:06:46,720 --> 00:06:48,720
+the red shape and go to path
+
+228
+00:06:48,720 --> 00:06:50,639
+difference and i'll do the same thing
+
+229
+00:06:50,639 --> 00:06:52,960
+over here back to the bezier pen
+
+230
+00:06:52,960 --> 00:06:54,080
+i'm just going to press b on the
+
+231
+00:06:54,080 --> 00:06:56,880
+keyboard it's easier to do it that way
+
+232
+00:06:56,880 --> 00:06:59,039
+back to the starting point back to the
+
+233
+00:06:59,039 --> 00:07:00,880
+select tool for that we press s on the
+
+234
+00:07:00,880 --> 00:07:01,599
+keyboard
+
+235
+00:07:01,599 --> 00:07:05,360
+hold shift path difference
+
+236
+00:07:05,360 --> 00:07:06,720
+and i'll go over here and do the same
+
+237
+00:07:06,720 --> 00:07:10,240
+thing let me get rid of the uh
+
+238
+00:07:10,240 --> 00:07:14,840
+this area right here path
+
+239
+00:07:14,840 --> 00:07:17,360
+difference
+
+240
+00:07:17,360 --> 00:07:20,400
+oops path
+
+241
+00:07:20,400 --> 00:07:23,039
+difference there we go and then i'll
+
+242
+00:07:23,039 --> 00:07:24,479
+delete this part right here so let me
+
+243
+00:07:24,479 --> 00:07:26,800
+grab the bezier pen again
+
+244
+00:07:26,800 --> 00:07:30,000
+bring this through like that
+
+245
+00:07:30,000 --> 00:07:32,960
+back to the select tool actually no this
+
+246
+00:07:32,960 --> 00:07:33,919
+one right here
+
+247
+00:07:33,919 --> 00:07:37,280
+path difference there we go
+
+248
+00:07:37,280 --> 00:07:38,720
+okay so now i want to take all of the
+
+249
+00:07:38,720 --> 00:07:40,000
+red objects right here i'm just going to
+
+250
+00:07:40,000 --> 00:07:40,960
+click on one of them
+
+251
+00:07:40,960 --> 00:07:44,639
+and go to edit select same
+
+252
+00:07:44,639 --> 00:07:45,919
+fill color and that's going to select
+
+253
+00:07:45,919 --> 00:07:47,520
+all of the red objects right there and
+
+254
+00:07:47,520 --> 00:07:48,080
+go to
+
+255
+00:07:48,080 --> 00:07:52,160
+path union and now i want to unify
+
+256
+00:07:52,160 --> 00:07:53,599
+all of the green circles together so let
+
+257
+00:07:53,599 --> 00:07:55,120
+me click on the green circle and go to
+
+258
+00:07:55,120 --> 00:07:56,400
+edit
+
+259
+00:07:56,400 --> 00:07:59,680
+select same fill color and go to
+
+260
+00:07:59,680 --> 00:08:03,440
+path union okay so what i want to do now
+
+261
+00:08:03,440 --> 00:08:05,440
+is create an offset
+
+262
+00:08:05,440 --> 00:08:08,639
+of this um this green
+
+263
+00:08:08,639 --> 00:08:10,560
+cloud right here so to do that i'm just
+
+264
+00:08:10,560 --> 00:08:12,160
+going to press ctrl d
+
+265
+00:08:12,160 --> 00:08:14,080
+on the keyboard to duplicate that i'm
+
+266
+00:08:14,080 --> 00:08:15,599
+going to make this blue
+
+267
+00:08:15,599 --> 00:08:17,520
+and i'm going to lower this beneath the
+
+268
+00:08:17,520 --> 00:08:19,039
+other two objects we just created so
+
+269
+00:08:19,039 --> 00:08:20,160
+come up here where it says lower
+
+270
+00:08:20,160 --> 00:08:22,319
+selection one step i'll click that once
+
+271
+00:08:22,319 --> 00:08:23,759
+and then twice we want it to go beneath
+
+272
+00:08:23,759 --> 00:08:25,440
+the red and the green objects and then
+
+273
+00:08:25,440 --> 00:08:26,080
+go to
+
+274
+00:08:26,080 --> 00:08:29,199
+path and we're looking for dynamic
+
+275
+00:08:29,199 --> 00:08:31,360
+offset
+
+276
+00:08:31,360 --> 00:08:32,880
+and once we get dynamic offset we're
+
+277
+00:08:32,880 --> 00:08:33,839
+going to take this little node right
+
+278
+00:08:33,839 --> 00:08:35,760
+here and just bring this out like that
+
+279
+00:08:35,760 --> 00:08:37,679
+maybe about that much that's a good
+
+280
+00:08:37,679 --> 00:08:38,880
+amount of padding right there so we'll
+
+281
+00:08:38,880 --> 00:08:39,279
+go to
+
+282
+00:08:39,279 --> 00:08:43,200
+path object to path to to finalize that
+
+283
+00:08:43,200 --> 00:08:44,560
+we're going to what i'm going to create
+
+284
+00:08:44,560 --> 00:08:47,200
+now is the exhaust trail coming from the
+
+285
+00:08:47,200 --> 00:08:49,200
+rocket let me show you here this little
+
+286
+00:08:49,200 --> 00:08:50,800
+stream this little jet stream coming
+
+287
+00:08:50,800 --> 00:08:51,839
+from the rocket that's going to be the
+
+288
+00:08:51,839 --> 00:08:52,399
+next
+
+289
+00:08:52,399 --> 00:08:54,480
+thing that we create so let's move this
+
+290
+00:08:54,480 --> 00:08:56,080
+off to the side a little bit again to
+
+291
+00:08:56,080 --> 00:08:57,440
+move the page around just
+
+292
+00:08:57,440 --> 00:08:58,720
+pressing down the mouse wheel and moving
+
+293
+00:08:58,720 --> 00:09:00,720
+the mouse i'm going to grab the
+
+294
+00:09:00,720 --> 00:09:02,560
+rectangles tool right here
+
+295
+00:09:02,560 --> 00:09:05,680
+create a rectangle like this make this
+
+296
+00:09:05,680 --> 00:09:07,440
+green because we want that to match this
+
+297
+00:09:07,440 --> 00:09:08,399
+green here
+
+298
+00:09:08,399 --> 00:09:10,000
+and now i'm going to grab the circles
+
+299
+00:09:10,000 --> 00:09:11,760
+and ellipses tool and make another
+
+300
+00:09:11,760 --> 00:09:13,600
+make a an ellipse going over it like
+
+301
+00:09:13,600 --> 00:09:15,040
+that now let me make that red so we can
+
+302
+00:09:15,040 --> 00:09:16,720
+see it
+
+303
+00:09:16,720 --> 00:09:23,839
+grab the select tool
+
+304
+00:09:24,880 --> 00:09:27,120
+duplicate this shape by pressing ctrl d
+
+305
+00:09:27,120 --> 00:09:28,800
+and then hold ctrl and click and drag
+
+306
+00:09:28,800 --> 00:09:30,640
+this off to the right over here
+
+307
+00:09:30,640 --> 00:09:32,080
+and what we're paying attention to is
+
+308
+00:09:32,080 --> 00:09:34,560
+the intersecting area between
+
+309
+00:09:34,560 --> 00:09:36,800
+uh or the absent area between the two
+
+310
+00:09:36,800 --> 00:09:39,680
+red red circles here this green
+
+311
+00:09:39,680 --> 00:09:41,120
+object is what's going to be what
+
+312
+00:09:41,120 --> 00:09:42,720
+remains so let me bring this down a
+
+313
+00:09:42,720 --> 00:09:43,600
+little bit
+
+314
+00:09:43,600 --> 00:09:45,120
+this is going to be our little jet
+
+315
+00:09:45,120 --> 00:09:47,680
+stream right here so
+
+316
+00:09:47,680 --> 00:09:48,959
+i think that looks good right there so
+
+317
+00:09:48,959 --> 00:09:50,560
+i'm going to hold shift click both red
+
+318
+00:09:50,560 --> 00:09:51,600
+circles go to
+
+319
+00:09:51,600 --> 00:09:55,120
+path union hold shift click on the green
+
+320
+00:09:55,120 --> 00:09:57,519
+rectangle and go to path
+
+321
+00:09:57,519 --> 00:09:59,760
+difference and what i'm going to do now
+
+322
+00:09:59,760 --> 00:10:01,600
+is create
+
+323
+00:10:01,600 --> 00:10:03,120
+some empty space in the middle of it
+
+324
+00:10:03,120 --> 00:10:04,720
+like you see right here
+
+325
+00:10:04,720 --> 00:10:07,760
+so to do that let me duplicate this ctrl
+
+326
+00:10:07,760 --> 00:10:10,640
+d i'll make this red i'm going to bring
+
+327
+00:10:10,640 --> 00:10:11,839
+this in a little bit
+
+328
+00:10:11,839 --> 00:10:13,600
+bring this side in a little bit bring
+
+329
+00:10:13,600 --> 00:10:15,760
+this in some more like that
+
+330
+00:10:15,760 --> 00:10:18,399
+move this over that's looking pretty
+
+331
+00:10:18,399 --> 00:10:19,200
+good
+
+332
+00:10:19,200 --> 00:10:21,279
+now let me hold shift and click on both
+
+333
+00:10:21,279 --> 00:10:22,560
+of those so we have them both selected
+
+334
+00:10:22,560 --> 00:10:23,760
+and where it says align we're gonna go
+
+335
+00:10:23,760 --> 00:10:25,760
+to our align menu and click on
+
+336
+00:10:25,760 --> 00:10:28,720
+uh center on vertical axis like that and
+
+337
+00:10:28,720 --> 00:10:29,920
+now i'm just gonna take this
+
+338
+00:10:29,920 --> 00:10:32,399
+maybe bring this down a little bit bring
+
+339
+00:10:32,399 --> 00:10:33,839
+this up a little bit so that
+
+340
+00:10:33,839 --> 00:10:36,079
+it sticks out from the edges there and
+
+341
+00:10:36,079 --> 00:10:37,440
+then select them both
+
+342
+00:10:37,440 --> 00:10:40,640
+and go to path difference
+
+343
+00:10:40,640 --> 00:10:42,320
+and now we have our little jet stream so
+
+344
+00:10:42,320 --> 00:10:44,079
+let me hold ctrl and just scale this
+
+345
+00:10:44,079 --> 00:10:44,880
+down
+
+346
+00:10:44,880 --> 00:10:46,720
+let me put this in place over here with
+
+347
+00:10:46,720 --> 00:10:49,600
+the rest of the design
+
+348
+00:10:50,880 --> 00:10:52,000
+that's looking pretty good i'm going to
+
+349
+00:10:52,000 --> 00:10:53,920
+hold shift click on the circle so we can
+
+350
+00:10:53,920 --> 00:10:56,480
+center this up on our emblem here
+
+351
+00:10:56,480 --> 00:10:57,680
+there we go click off of that to
+
+352
+00:10:57,680 --> 00:10:59,360
+deselect everything now i'm going to
+
+353
+00:10:59,360 --> 00:11:00,000
+take this
+
+354
+00:11:00,000 --> 00:11:01,519
+and i'm going to lower it beneath the
+
+355
+00:11:01,519 --> 00:11:03,120
+cloud here so i'm going to click this
+
+356
+00:11:03,120 --> 00:11:04,480
+button that says lower selection one
+
+357
+00:11:04,480 --> 00:11:05,360
+step
+
+358
+00:11:05,360 --> 00:11:09,200
+one two three we want it going beneath
+
+359
+00:11:09,200 --> 00:11:11,360
+the blue object there but above the
+
+360
+00:11:11,360 --> 00:11:12,959
+black circle here so let me zoom back
+
+361
+00:11:12,959 --> 00:11:14,320
+out
+
+362
+00:11:14,320 --> 00:11:15,440
+this time we're going to use a different
+
+363
+00:11:15,440 --> 00:11:16,800
+approach for creating the offset we're
+
+364
+00:11:16,800 --> 00:11:18,079
+going to use a stroke this time because
+
+365
+00:11:18,079 --> 00:11:19,040
+of the way that this
+
+366
+00:11:19,040 --> 00:11:21,040
+object is structured so let me duplicate
+
+367
+00:11:21,040 --> 00:11:22,880
+this object by hitting ctrl d
+
+368
+00:11:22,880 --> 00:11:24,079
+i'm going to make this blue and then
+
+369
+00:11:24,079 --> 00:11:26,160
+give it a blue stroke by holding shift
+
+370
+00:11:26,160 --> 00:11:28,000
+and clicking on the color blue
+
+371
+00:11:28,000 --> 00:11:30,320
+and i'm going to lower that down until
+
+372
+00:11:30,320 --> 00:11:31,360
+it goes beneath the green
+
+373
+00:11:31,360 --> 00:11:32,880
+object there and i want to come over
+
+374
+00:11:32,880 --> 00:11:34,480
+here to where it says stroke style
+
+375
+00:11:34,480 --> 00:11:37,760
+and just adjust the thickness of it here
+
+376
+00:11:37,760 --> 00:11:39,839
+if you notice the thickness of the blue
+
+377
+00:11:39,839 --> 00:11:41,519
+offset over here
+
+378
+00:11:41,519 --> 00:11:44,320
+we want this to be significantly thicker
+
+379
+00:11:44,320 --> 00:11:44,800
+than that
+
+380
+00:11:44,800 --> 00:11:48,240
+so let me increase that a little bit
+
+381
+00:11:49,680 --> 00:11:50,959
+okay right about there that looks good
+
+382
+00:11:50,959 --> 00:11:52,560
+you can just eyeball it that right there
+
+383
+00:11:52,560 --> 00:11:53,519
+looks pretty good so i'm going to go
+
+384
+00:11:53,519 --> 00:11:54,480
+ahead and go to
+
+385
+00:11:54,480 --> 00:11:58,560
+path stroke to path path
+
+386
+00:11:58,560 --> 00:12:03,839
+break apart we're going to ungroup this
+
+387
+00:12:04,000 --> 00:12:06,720
+and then go to path union and the
+
+388
+00:12:06,720 --> 00:12:08,000
+ungroup is right here if you hover the
+
+389
+00:12:08,000 --> 00:12:09,200
+cursor over the button it says
+
+390
+00:12:09,200 --> 00:12:11,360
+ungroup selected objects i just click it
+
+391
+00:12:11,360 --> 00:12:12,720
+a couple of times just to make sure it's
+
+392
+00:12:12,720 --> 00:12:13,920
+ungrouped
+
+393
+00:12:13,920 --> 00:12:16,079
+and now what we can do is i'm going to
+
+394
+00:12:16,079 --> 00:12:18,880
+take this blue object right here
+
+395
+00:12:18,880 --> 00:12:20,399
+i'm going to duplicate that by pressing
+
+396
+00:12:20,399 --> 00:12:22,639
+ctrl d i'm going to hold shift
+
+397
+00:12:22,639 --> 00:12:24,240
+click on the green object right here and
+
+398
+00:12:24,240 --> 00:12:25,920
+go to path
+
+399
+00:12:25,920 --> 00:12:27,600
+difference and if you notice we now have
+
+400
+00:12:27,600 --> 00:12:29,040
+that cut off there it's going to be
+
+401
+00:12:29,040 --> 00:12:30,560
+separated from the cloud at the bottom
+
+402
+00:12:30,560 --> 00:12:31,600
+there so
+
+403
+00:12:31,600 --> 00:12:33,760
+that's why we did that now i'm going to
+
+404
+00:12:33,760 --> 00:12:35,040
+take the the black circle in the
+
+405
+00:12:35,040 --> 00:12:36,160
+background control d
+
+406
+00:12:36,160 --> 00:12:38,800
+to duplicate that hold shift click on
+
+407
+00:12:38,800 --> 00:12:40,079
+the green cloud right there
+
+408
+00:12:40,079 --> 00:12:43,680
+go to path intersection
+
+409
+00:12:43,680 --> 00:12:44,959
+and then what i want to do is i want to
+
+410
+00:12:44,959 --> 00:12:46,880
+take this blue object
+
+411
+00:12:46,880 --> 00:12:49,440
+hold shift take this blue object and
+
+412
+00:12:49,440 --> 00:12:50,959
+then go to
+
+413
+00:12:50,959 --> 00:12:54,399
+path union
+
+414
+00:12:54,399 --> 00:12:56,240
+and then hold shift and click on the
+
+415
+00:12:56,240 --> 00:12:57,680
+black circle and go to
+
+416
+00:12:57,680 --> 00:13:01,600
+path difference and now we have that
+
+417
+00:13:01,600 --> 00:13:03,200
+there so let me go to
+
+418
+00:13:03,200 --> 00:13:06,399
+now i'm going to go to path break apart
+
+419
+00:13:06,399 --> 00:13:07,920
+click off of the object to deselect
+
+420
+00:13:07,920 --> 00:13:09,120
+everything and if you have this little
+
+421
+00:13:09,120 --> 00:13:10,480
+center piece here in the middle you just
+
+422
+00:13:10,480 --> 00:13:12,320
+take that and get rid of it
+
+423
+00:13:12,320 --> 00:13:13,360
+so what i'm going to do now is i'm going
+
+424
+00:13:13,360 --> 00:13:16,240
+to take this red object right here
+
+425
+00:13:16,240 --> 00:13:18,160
+hold shift click on the green cloud and
+
+426
+00:13:18,160 --> 00:13:20,320
+go to path
+
+427
+00:13:20,320 --> 00:13:23,440
+difference and there we have the uh
+
+428
+00:13:23,440 --> 00:13:26,000
+the exhaust with the um cloud plume
+
+429
+00:13:26,000 --> 00:13:26,639
+there
+
+430
+00:13:26,639 --> 00:13:28,320
+so what we have to do now is let's we
+
+431
+00:13:28,320 --> 00:13:29,680
+can start we can actually start coloring
+
+432
+00:13:29,680 --> 00:13:31,760
+this in now so let me select all of this
+
+433
+00:13:31,760 --> 00:13:33,360
+bring the opacity all the way up like
+
+434
+00:13:33,360 --> 00:13:36,079
+that and i'm going to use a shade
+
+435
+00:13:36,079 --> 00:13:37,519
+similar to what i used for the thumbnail
+
+436
+00:13:37,519 --> 00:13:39,279
+design like a dark purple
+
+437
+00:13:39,279 --> 00:13:41,199
+combined with a lighter shade of purple
+
+438
+00:13:41,199 --> 00:13:43,279
+like that
+
+439
+00:13:43,279 --> 00:13:44,560
+there we go i'm going to take that i'm
+
+440
+00:13:44,560 --> 00:13:45,920
+just going to use the dropper to make
+
+441
+00:13:45,920 --> 00:13:47,199
+that the same color
+
+442
+00:13:47,199 --> 00:13:48,800
+there we go and now i'm going to put
+
+443
+00:13:48,800 --> 00:13:50,160
+some stars in the background here to
+
+444
+00:13:50,160 --> 00:13:51,519
+make it look more like it's
+
+445
+00:13:51,519 --> 00:13:54,160
+more like it's in space like that so go
+
+446
+00:13:54,160 --> 00:13:55,839
+ahead and grab the
+
+447
+00:13:55,839 --> 00:13:58,959
+we're looking for the stars and polygons
+
+448
+00:13:58,959 --> 00:14:01,040
+tool which is right here
+
+449
+00:14:01,040 --> 00:14:02,399
+for the settings we're going to want
+
+450
+00:14:02,399 --> 00:14:03,920
+this one selected right here that says
+
+451
+00:14:03,920 --> 00:14:05,600
+star instead of regular polygon we're
+
+452
+00:14:05,600 --> 00:14:07,120
+going to want four corners
+
+453
+00:14:07,120 --> 00:14:10,320
+spoke ratio 0.401
+
+454
+00:14:10,320 --> 00:14:12,079
+and then rounded and randomized both set
+
+455
+00:14:12,079 --> 00:14:14,240
+to zero i'm just going to hold ctrl and
+
+456
+00:14:14,240 --> 00:14:15,680
+shift and create our little star like
+
+457
+00:14:15,680 --> 00:14:16,320
+that
+
+458
+00:14:16,320 --> 00:14:17,839
+i'm going to get rid of that stroke or
+
+459
+00:14:17,839 --> 00:14:19,600
+that blue outline by holding
+
+460
+00:14:19,600 --> 00:14:21,519
+shift and clicking on this little red x
+
+461
+00:14:21,519 --> 00:14:22,880
+down here
+
+462
+00:14:22,880 --> 00:14:24,320
+and i'll take this and just bring this
+
+463
+00:14:24,320 --> 00:14:26,079
+over here like this scale it down so it
+
+464
+00:14:26,079 --> 00:14:27,120
+fits
+
+465
+00:14:27,120 --> 00:14:29,760
+i'll make this white and i'll just add a
+
+466
+00:14:29,760 --> 00:14:32,079
+few of these in here
+
+467
+00:14:32,079 --> 00:14:34,160
+at different sizes to make it look more
+
+468
+00:14:34,160 --> 00:14:36,639
+natural
+
+469
+00:14:40,000 --> 00:14:41,279
+if you'll make this one a little bigger
+
+470
+00:14:41,279 --> 00:14:44,399
+like that there we go and i'll put the
+
+471
+00:14:44,399 --> 00:14:45,680
+same thing over here on this side so
+
+472
+00:14:45,680 --> 00:14:47,519
+i'll just select all four of those
+
+473
+00:14:47,519 --> 00:14:49,600
+hit ctrl d to duplicate and then flip
+
+474
+00:14:49,600 --> 00:14:50,800
+them horizontally
+
+475
+00:14:50,800 --> 00:14:52,560
+with this button up here and then just
+
+476
+00:14:52,560 --> 00:14:54,959
+move these over here like that
+
+477
+00:14:54,959 --> 00:14:56,880
+and there we go so now we have the stars
+
+478
+00:14:56,880 --> 00:14:59,360
+set in place so the final step now
+
+479
+00:14:59,360 --> 00:15:02,000
+is to create the little rocket at the
+
+480
+00:15:02,000 --> 00:15:04,639
+top of the design here so to do that
+
+481
+00:15:04,639 --> 00:15:07,040
+let's come over here to the side i'm
+
+482
+00:15:07,040 --> 00:15:08,720
+going to grab the circles and ellipses
+
+483
+00:15:08,720 --> 00:15:10,480
+tool hold ctrl and shift and click and
+
+484
+00:15:10,480 --> 00:15:13,279
+drag to create a perfectly round circle
+
+485
+00:15:13,279 --> 00:15:15,040
+and showing up as white on my screen so
+
+486
+00:15:15,040 --> 00:15:16,160
+once you've done that you'll have to
+
+487
+00:15:16,160 --> 00:15:17,519
+change it to a different color like
+
+488
+00:15:17,519 --> 00:15:18,240
+black
+
+489
+00:15:18,240 --> 00:15:20,639
+bring the opacity down in half grab the
+
+490
+00:15:20,639 --> 00:15:21,839
+select tool
+
+491
+00:15:21,839 --> 00:15:23,760
+duplicate it with ctrl d and just hold
+
+492
+00:15:23,760 --> 00:15:25,920
+ctrl and bring this over like this what
+
+493
+00:15:25,920 --> 00:15:27,040
+we're looking at here
+
+494
+00:15:27,040 --> 00:15:29,279
+is the intercepting area between these
+
+495
+00:15:29,279 --> 00:15:30,399
+two circles
+
+496
+00:15:30,399 --> 00:15:31,839
+that's going to make up the top of the
+
+497
+00:15:31,839 --> 00:15:33,759
+rocket so let me select both of those
+
+498
+00:15:33,759 --> 00:15:36,880
+and go to path intersection
+
+499
+00:15:36,880 --> 00:15:38,079
+and now i'm going to create the little
+
+500
+00:15:38,079 --> 00:15:39,519
+fins on the side so to do that i'm
+
+501
+00:15:39,519 --> 00:15:41,120
+actually going to create a triangle so
+
+502
+00:15:41,120 --> 00:15:42,399
+to create a triangle
+
+503
+00:15:42,399 --> 00:15:44,320
+i'm going to grab this the squares and
+
+504
+00:15:44,320 --> 00:15:45,920
+rectangles tool
+
+505
+00:15:45,920 --> 00:15:47,440
+control and shift to create a perfectly
+
+506
+00:15:47,440 --> 00:15:49,680
+symmetrical square like that
+
+507
+00:15:49,680 --> 00:15:51,120
+make sure it has sharp corners by
+
+508
+00:15:51,120 --> 00:15:52,880
+clicking that button right there if
+
+509
+00:15:52,880 --> 00:15:54,160
+it's not if you're not able to click
+
+510
+00:15:54,160 --> 00:15:55,279
+that button that means you already have
+
+511
+00:15:55,279 --> 00:15:57,040
+sharp corners you're good to go
+
+512
+00:15:57,040 --> 00:15:59,199
+convert that to a path by going to path
+
+513
+00:15:59,199 --> 00:16:00,720
+object to path
+
+514
+00:16:00,720 --> 00:16:02,560
+grab the nodes tool and then just take
+
+515
+00:16:02,560 --> 00:16:04,240
+this node right here in the bottom right
+
+516
+00:16:04,240 --> 00:16:05,519
+and press delete on the keyboard to get
+
+517
+00:16:05,519 --> 00:16:06,560
+rid of it
+
+518
+00:16:06,560 --> 00:16:09,120
+now select all three of these nodes and
+
+519
+00:16:09,120 --> 00:16:10,320
+come up here to where it says
+
+520
+00:16:10,320 --> 00:16:13,680
+make selected nodes corner
+
+521
+00:16:13,680 --> 00:16:16,399
+like that go back to the select tool
+
+522
+00:16:16,399 --> 00:16:17,920
+click on the object again so we get the
+
+523
+00:16:17,920 --> 00:16:19,279
+rotation handles and i'm going to hold
+
+524
+00:16:19,279 --> 00:16:20,959
+ctrl and just rotate this counter
+
+525
+00:16:20,959 --> 00:16:22,240
+clockwise like this
+
+526
+00:16:22,240 --> 00:16:23,519
+so that it's sitting up like that i'm
+
+527
+00:16:23,519 --> 00:16:24,959
+going to position this over here next to
+
+528
+00:16:24,959 --> 00:16:26,480
+the side of the rocket
+
+529
+00:16:26,480 --> 00:16:27,680
+you can click on it again to get the
+
+530
+00:16:27,680 --> 00:16:29,680
+scaling handles i'm just going to scale
+
+531
+00:16:29,680 --> 00:16:31,040
+it so that it
+
+532
+00:16:31,040 --> 00:16:33,519
+fits next to the uh the body of the
+
+533
+00:16:33,519 --> 00:16:34,240
+rocket here
+
+534
+00:16:34,240 --> 00:16:35,600
+now i just want to adjust this a little
+
+535
+00:16:35,600 --> 00:16:37,120
+bit so i'm going to grab the nodes tool
+
+536
+00:16:37,120 --> 00:16:37,920
+over here
+
+537
+00:16:37,920 --> 00:16:39,199
+i'm just going to click and drag this
+
+538
+00:16:39,199 --> 00:16:41,360
+node up here like this and maybe i'll
+
+539
+00:16:41,360 --> 00:16:42,720
+take this node and bring this over to
+
+540
+00:16:42,720 --> 00:16:43,600
+the left as well
+
+541
+00:16:43,600 --> 00:16:46,959
+bring this down a little bit maybe bring
+
+542
+00:16:46,959 --> 00:16:50,079
+that up
+
+543
+00:16:50,079 --> 00:16:51,519
+you know what this needs to be down a
+
+544
+00:16:51,519 --> 00:16:52,959
+little more like that that looks better
+
+545
+00:16:52,959 --> 00:16:54,399
+okay so now i'm just going to duplicate
+
+546
+00:16:54,399 --> 00:16:55,120
+that
+
+547
+00:16:55,120 --> 00:16:58,320
+ctrl d flip it horizontally
+
+548
+00:16:58,320 --> 00:17:00,079
+hold ctrl click and drag it over here to
+
+549
+00:17:00,079 --> 00:17:01,839
+the right
+
+550
+00:17:01,839 --> 00:17:03,279
+and now we're going to unify both of
+
+551
+00:17:03,279 --> 00:17:04,559
+them together by holding shift and
+
+552
+00:17:04,559 --> 00:17:05,919
+clicking on both of them so we have them
+
+553
+00:17:05,919 --> 00:17:08,000
+both selected and go to path
+
+554
+00:17:08,000 --> 00:17:11,119
+union and now we can hold shift
+
+555
+00:17:11,119 --> 00:17:12,959
+click on this little uh shape right here
+
+556
+00:17:12,959 --> 00:17:14,720
+center that up where it says a line
+
+557
+00:17:14,720 --> 00:17:16,640
+come over here to where it says center
+
+558
+00:17:16,640 --> 00:17:18,000
+on vertical axis
+
+559
+00:17:18,000 --> 00:17:20,880
+make sure it's centered up go to path
+
+560
+00:17:20,880 --> 00:17:21,760
+union
+
+561
+00:17:21,760 --> 00:17:23,039
+and now i'm just going to close off the
+
+562
+00:17:23,039 --> 00:17:24,559
+bottom over here i'm going to grab the
+
+563
+00:17:24,559 --> 00:17:27,280
+rectangle tool and create a little
+
+564
+00:17:27,280 --> 00:17:30,160
+rectangle going over the bottom there
+
+565
+00:17:30,160 --> 00:17:31,600
+grab the select tool hold
+
+566
+00:17:31,600 --> 00:17:34,799
+shift click on the rocket and go to path
+
+567
+00:17:34,799 --> 00:17:36,640
+union and now i'm just going to add a
+
+568
+00:17:36,640 --> 00:17:37,919
+little circle right here for like a
+
+569
+00:17:37,919 --> 00:17:38,480
+little
+
+570
+00:17:38,480 --> 00:17:39,440
+i guess it's kind of like a little
+
+571
+00:17:39,440 --> 00:17:40,720
+window i'm going to put right there so
+
+572
+00:17:40,720 --> 00:17:42,480
+to do that
+
+573
+00:17:42,480 --> 00:17:43,600
+i'm going to grab the circles and
+
+574
+00:17:43,600 --> 00:17:47,120
+ellipses tool hold ctrl and shift
+
+575
+00:17:47,120 --> 00:17:48,559
+click and drag to create a perfectly
+
+576
+00:17:48,559 --> 00:17:50,400
+round circle right there position that
+
+577
+00:17:50,400 --> 00:17:52,320
+right about there
+
+578
+00:17:52,320 --> 00:17:54,799
+or maybe right there select both of
+
+579
+00:17:54,799 --> 00:17:55,360
+those
+
+580
+00:17:55,360 --> 00:17:58,880
+and center them up on the vertical axis
+
+581
+00:17:58,880 --> 00:18:00,799
+then duplicate this circle take that
+
+582
+00:18:00,799 --> 00:18:03,679
+ctrl d let me zoom in a little bit
+
+583
+00:18:03,679 --> 00:18:06,320
+there we go take the larger circle hold
+
+584
+00:18:06,320 --> 00:18:06,799
+shift
+
+585
+00:18:06,799 --> 00:18:10,160
+and select the rocket as well go to path
+
+586
+00:18:10,160 --> 00:18:13,039
+difference there we go now we have our
+
+587
+00:18:13,039 --> 00:18:14,320
+window set
+
+588
+00:18:14,320 --> 00:18:16,240
+let me select both of those and go to
+
+589
+00:18:16,240 --> 00:18:18,080
+path union
+
+590
+00:18:18,080 --> 00:18:19,840
+and now our rocket is set we just need
+
+591
+00:18:19,840 --> 00:18:21,520
+to place it over the design over here so
+
+592
+00:18:21,520 --> 00:18:22,720
+to do this i'm just going to place it
+
+593
+00:18:22,720 --> 00:18:24,400
+over here
+
+594
+00:18:24,400 --> 00:18:26,840
+i'm going to hold ctrl scale it down a
+
+595
+00:18:26,840 --> 00:18:29,840
+bit
+
+596
+00:18:30,240 --> 00:18:32,400
+let's unify these two objects right here
+
+597
+00:18:32,400 --> 00:18:34,080
+the sky let's take this guy
+
+598
+00:18:34,080 --> 00:18:35,600
+hold shift take the other side of the
+
+599
+00:18:35,600 --> 00:18:37,280
+sky and go to path
+
+600
+00:18:37,280 --> 00:18:38,559
+union because i want to make sure that
+
+601
+00:18:38,559 --> 00:18:39,919
+this rocket is centered up on this
+
+602
+00:18:39,919 --> 00:18:41,919
+design here so let me take the rocket
+
+603
+00:18:41,919 --> 00:18:42,880
+hold shift
+
+604
+00:18:42,880 --> 00:18:44,480
+click on the sky and then center it up
+
+605
+00:18:44,480 --> 00:18:46,720
+on the vertical axis like that
+
+606
+00:18:46,720 --> 00:18:48,160
+just bring this down make it a little
+
+607
+00:18:48,160 --> 00:18:50,240
+smaller like that
+
+608
+00:18:50,240 --> 00:18:51,600
+i'm going to bring the opacity all the
+
+609
+00:18:51,600 --> 00:18:52,799
+way up and i'm going to make it the same
+
+610
+00:18:52,799 --> 00:18:54,480
+color as the sky here so let me grab the
+
+611
+00:18:54,480 --> 00:18:55,039
+dropper
+
+612
+00:18:55,039 --> 00:18:57,919
+and grab that sample selection now i
+
+613
+00:18:57,919 --> 00:18:59,679
+want to create another offset of this to
+
+614
+00:18:59,679 --> 00:19:00,559
+put above the
+
+615
+00:19:00,559 --> 00:19:04,240
+jet stream here so to do that ctrl d
+
+616
+00:19:04,240 --> 00:19:06,640
+make this white hold shift click on
+
+617
+00:19:06,640 --> 00:19:09,120
+white again to give this a white stroke
+
+618
+00:19:09,120 --> 00:19:11,600
+and then lower this lower selection one
+
+619
+00:19:11,600 --> 00:19:13,039
+step to put it beneath
+
+620
+00:19:13,039 --> 00:19:14,640
+the rocket there and come over here to
+
+621
+00:19:14,640 --> 00:19:16,160
+the stroke style tab again
+
+622
+00:19:16,160 --> 00:19:18,720
+and adjust the width of this so that's
+
+623
+00:19:18,720 --> 00:19:19,440
+not quite
+
+624
+00:19:19,440 --> 00:19:25,840
+as wide
+
+625
+00:19:26,240 --> 00:19:27,600
+i'm just going to go ahead and position
+
+626
+00:19:27,600 --> 00:19:29,440
+this where i'd like it to be maybe down
+
+627
+00:19:29,440 --> 00:19:31,919
+a little more
+
+628
+00:19:32,640 --> 00:19:33,840
+that's pretty good right there so once
+
+629
+00:19:33,840 --> 00:19:35,200
+we've done that you can click off it to
+
+630
+00:19:35,200 --> 00:19:36,559
+deselect everything
+
+631
+00:19:36,559 --> 00:19:38,559
+click on the white don't click on the
+
+632
+00:19:38,559 --> 00:19:40,240
+rocket click on the white object beneath
+
+633
+00:19:40,240 --> 00:19:42,160
+the rocket and go to path
+
+634
+00:19:42,160 --> 00:19:46,480
+stroke to path path break apart
+
+635
+00:19:46,480 --> 00:19:50,840
+ungroup and go to path
+
+636
+00:19:50,840 --> 00:19:53,760
+union and now i'm going to hold shift
+
+637
+00:19:53,760 --> 00:19:56,960
+click on the jet stream and go to path
+
+638
+00:19:56,960 --> 00:20:02,080
+difference and then path break apart
+
+639
+00:20:02,080 --> 00:20:03,760
+click off it to deselect we can get rid
+
+640
+00:20:03,760 --> 00:20:05,600
+of these objects now just press delete
+
+641
+00:20:05,600 --> 00:20:07,440
+on the keyboard to get rid of them
+
+642
+00:20:07,440 --> 00:20:09,679
+zoom back out and as you can see we are
+
+643
+00:20:09,679 --> 00:20:10,880
+finished we have created
+
+644
+00:20:10,880 --> 00:20:13,919
+our rocket logo design with inkscape if
+
+645
+00:20:13,919 --> 00:20:15,200
+you want now you can go ahead and add
+
+646
+00:20:15,200 --> 00:20:16,640
+some text if you'd like otherwise you
+
+647
+00:20:16,640 --> 00:20:18,480
+can just export this design and use it
+
+648
+00:20:18,480 --> 00:20:19,679
+as you'd like so
+
+649
+00:20:19,679 --> 00:20:20,960
+if you have any questions leave a
+
+650
+00:20:20,960 --> 00:20:24,240
+comment below and as always thanks for
+
+651
+00:20:24,240 --> 00:20:32,480
+[Music]
+
+652
+00:20:32,840 --> 00:20:35,840
+watching
+
+653
+00:20:38,250 --> 00:20:42,390
+[Music]
+

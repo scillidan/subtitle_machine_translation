@@ -1,0 +1,22 @@
+In the last lecture, we downloaded Inkscape version 1.2. Inkscape version 1.3 however has
+big improvements, like the Shape Builder tool. So I downloaded the latest development version
+from the Inkscape website by going to: DOWNLOAD > Latest Development Version. This version may still
+have some bugs in it, but I find it already very stable. When you open Inkscape for the first time,
+youre welcomed by a quick setup screen. You can do some settings here, but you can also
+do that later. I downloaded Inkscape version 1.3, which will soon be the current version.
+If you dont want to go through the tabs, you can exit the welcome screen at the top right. And when
+you press escape the welcome screen will not show up anymore when you open Inkscape. Now lets look
+at how you can customize the user interface. I will do this by showing how I created mine.
+At the right I have Fill and Stroke, Layers, Path Effects, and the Swatches panel. To add a panel,
+click on the arrow. I can change the order of the panels, and I can drag a panel to another place.
+To get more room, I can collapse the panels by clicking on the three dots. And I can get the
+panels below more room by dragging the three dots. In the Document Properties I have made the canvas,
+called Desk, darker by setting Lightness to: 30. Then I went to: File > Save Template. I called
+it A4 dark desk and selected: Set as default template. In the View menu, I hid the Commands Bar
+and the Palette colors, that normally show at the bottom. I also prefer to work in Fullscreen mode
+to get maximum space in the height. Under Edit > Preferences > Windows, I chose: Remember last
+windows geometry. This means that when I change something in my UI, these changes are saved. Here
+you can also choose to see the Welcome screen when you start Inkscape. Under Theming I have the High
+Contrast Inverse theme, and multicolor icons. You can change the colors of these icons if you want.
+And if you have a high resolution screen, under Toolbars you can increase the size of
+the icons at the left, and at the top. In the next lecture we will start creating shapes.

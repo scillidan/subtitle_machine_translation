@@ -1,0 +1,16 @@
+Just like Adobe Illustrator, Inkscape is a vector graphics editing program. But Inkscape
+is 100% free! With Inkscape, as with illustrator, you can create logos, illustrations and artwork.
+Because the graphics made in Inkscape are vector based, you can scale them
+infinitely without losing quality. So lets download Inkscape. I go to: www.inkscape.org.
+On the Inkscape website you can find a lot of information and resources.
+The latest version is 1.2, but there already is a contest for the new screen for Inkscape 1.3.
+I click on: Download Now!. Inkscape tells me Ive been redirected to the best download,
+which in my case is a Windows Installer Package. MSI stands for Microsoft Software
+Installer, which is normally used to install and update software on Windows. The Microsoft
+installer keeps track of which products have been installed, and to which location. This means with
+an update of the software, it can detect the older version, and can preserve any custom settings or
+configurations that I applied. I click on it to start the download. In my Downloads folder
+I double-click on the MSI file. I click on: Next. Here I can see where Inkscape will be installed.
+You can choose not to install some parts of Inkscape. But I like to have all extensions and
+dictionaries. When asked if I want to proceed the installation, I click on: Yes. Then I click on:
+Finish. In the next lecture well look at how to customize the user interface of Inkscape.

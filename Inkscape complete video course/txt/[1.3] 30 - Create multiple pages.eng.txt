@@ -1,0 +1,14 @@
+If you are working on different logo ideas, and youre running out of space, you can make the page
+bigger. To do this, click on the Pages tool. Now I can simply drag out a corner, to make the artboard
+larger. You can also create a multi-page file, which you can then export as a PDF.
+I have my page set to: A4. To change the page size, I right-click, to open
+Document Properties. If I click behind Format, I can choose from a list of standard formats.
+I can also give in a size. I prefer to work in millimeter, but I can choose another measurement.
+I select the Pages tool. I want to create two spreads. I click on the New Page icon. To
+connect the pages, I drag a page until it snaps. I open Document Properties again. I deselect: Show
+shadow. I create a new page. In Snapping, I enable Alignment. I drag the new page below the spread.
+And I add a fourth page. Ill place it against the page below. I will also place some margins.
+I type: 15 millimeters. I give all four pages a margin.
+You can also drag margins. Or you can set a specific value. I can scroll with my scroll wheel.
+The margins are magnetic.
+In the next lecture, we will export a multi-page PDF.

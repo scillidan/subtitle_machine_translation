@@ -1,0 +1,62 @@
+In this lecture, to get the bars and text aligned, we will look at different alignment methods. I
+will hide the legs, and show the sketch. I create a new layer, and call it: upper body. I zoom
+in on the first bar. I select the Rectangle tool. I drag over the first bar, to match the width.
+I press the spacebar. A technique to align, and duplicate at the same time, is found in
+the Snapping menu. I activate Snapping. I open the menu, and below Alignment I activate: Same
+distances. At the bottom, I click on: Reset to simple snapping. If I want to go back, I click on:
+Advanced mode. We see, there are now only three snapping options. I can snap to: Bounding boxes,
+which is the dotted line we see around the rectangle. And I can snap to: Nodes, which
+I will deactivate, together with Bounding boxes. What I want is to Align, so I will activate it.
+If I drag the rectangle, wherever I press the spacebar, I will create a copy of it.
+I want this rectangle to stay here, so I press: Ctrl-D. When I drag to the right, I see the
+duplicate will align to the original, so I dont have to press Ctrl. When I reach the second graph,
+I press the spacebar. I drag further, to the third graph. Inkscape is now recognizing a
+pattern. We see an alignment line in the middle, and a distribute line at the bottom. So two things
+are happening at the same time; aligning and distributing. All I do is drag, and press the
+spacebar when the distribute sign appears. The rectangles have now equal distances between them.
+But because I am using the drawing, my bars do not align perfectly with the sketch. So I
+will reposition the last bar, and press Ctrl-A to select all bars. I open the Align and Distribute
+panel. To redistribute the bars, I click below Distribute on: Even horizontal gaps. Now the
+bars are perfectly aligned to the sketch. I will drag them out. I dont need the rectangles to
+be a live shape, so I will remove their on shape control widgets. I will position the bars.
+I press Ctrl-A to select all bars. I right-click, and choose: Set Clip Group.
+I select blue and bicycle kick, and duplicate them.
+I drag the duplicates on the Clip Group folder. I will hide the sketch, and show the legs. I also
+need darker bars at the bottom. So I duplicate the Clip folder. I call the group: dark bars. I
+drag the group on the layer, so they get on top. I select the rectangles, and make them black.
+I select the group folder. I set the Opacity of the folder to 60 percent. I show: sketch.
+To be able to select the dark bars in the canvas, I double click on a bar. Now Im inside the dark
+bars group. I click on a bar, and drag it down. I will also do this for the other bars.
+I hide the sketch again. Now I will place the text. I create a new layer, and call it: text.
+I click on the Text tool. When I click, I see a blinking cursor. For my font I choose: Pathway
+Gothic One, which is a free Google font. I will set Text alignment to: Center aligned. I type:
+81%. I click on white to make the text white. I can size the text, by using the menu. I can also
+size text with the Select tool. I hold Shift plus Control, and drag. I want the percent sign to be
+smaller. So I select it, and make it 18 point. I click on: Spacing, and inside: Vertical kerning.
+With my up and down arrows, I can position the glyph. You can also do this on the canvas. If I
+hold Alt, I can move the glyph up and down in small steps. And I can kern the glyph, so
+move it closer a further away from the number, by holding Alt, and pressing the left and right keys.
+I want to repeat this text on the other bars. And I want them to have the same distance, to the top
+of a bar. To do this, I will use a placeholder. I click on the Rectangle tool, and enable Snapping.
+I activate Nodes snapping. I drag a rectangle, and make it orange. I place the rectangle below
+the text. I Shift-click on the text. In Align and Distribute, I choose: Relative to Biggest
+object, and click on: Center on vertical axis. Now I will group them. Then I duplicate the group.
+For Snapping, I only want the corners to snap. So I click on: Advanced mode, and deselect Bounding
+boxes, and other points. I only want Cusp nodes, which means corner nodes, to snap. Now I drag,
+and will not let go of the mouse, until all copies are placed. I drag to the top of the next bar,
+where it will snap. As said, I will not let go of the mouse, but press the spacebar to place a copy.
+I repeat this to create the other copies. Now I click on the Text tool, and give in the
+percentages. To enter a group, I double-click on it. Then I right-click on the orange rectangle,
+and choose: Select Same > Fill Color. I press: Delete, to delete all placeholders. I dont need
+the text to be in a group anymore. So I select them, all right-click, and choose: Ungroup.
+Finally, lets place the team names. I create a new layer, called: teams.
+I select the Text tool, and click on the canvas. I set text alignment, to: left align. I press: Caps
+Lock. I type: Manchester, press Enter, and type: United. I select the text United.
+I hold the Alt key, and with my arrow up key, adjust the spacing.
+I click on the Select tool, and make the text larger. I click on the text again, so I can
+rotate it. I duplicate the text. Then I drag to the right, and with my spacebar, I make copies.
+I double-click on a copy, press Ctrl-A, and change the name.
+I also change the name of the other copies.
+I select the team names. I go to Align and Distribute. Behind Relative to,
+I select: Selection Area. To align the text, I click on: Align top edges.
+And at the top, I type Chance of winning or qualifying.

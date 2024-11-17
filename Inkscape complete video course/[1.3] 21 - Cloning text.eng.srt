@@ -1,0 +1,148 @@
+1
+00:00:00,240 --> 00:00:02,520
+in the last lecture we saw how to clone
+
+2
+00:00:02,520 --> 00:00:05,040
+objects now we will look at cloning text
+
+3
+00:00:05,040 --> 00:00:07,379
+I want to be able to adjust the size and
+
+4
+00:00:07,379 --> 00:00:09,300
+kerning of the percent sign at a later
+
+5
+00:00:09,300 --> 00:00:12,059
+point with many instances it would take
+
+6
+00:00:12,059 --> 00:00:13,620
+a long time to adjust all glyphs
+
+7
+00:00:13,620 --> 00:00:15,780
+individually so I will clone the glyph
+
+8
+00:00:15,780 --> 00:00:16,980
+to be flexible
+
+9
+00:00:16,980 --> 00:00:19,199
+I select the text tool and click on the
+
+10
+00:00:19,199 --> 00:00:21,660
+canvas I want the number to be right
+
+11
+00:00:21,660 --> 00:00:24,060
+aligned then it will always align to the
+
+12
+00:00:24,060 --> 00:00:26,640
+percent sign I make the font size 30
+
+13
+00:00:26,640 --> 00:00:29,580
+point I select the text tool again and
+
+14
+00:00:29,580 --> 00:00:31,439
+click on the canvas
+
+15
+00:00:31,439 --> 00:00:34,200
+now I want left aligned text I type the
+
+16
+00:00:34,200 --> 00:00:36,840
+glyph and make it 18 point I'll place
+
+17
+00:00:36,840 --> 00:00:39,480
+the new text on top and make it white I
+
+18
+00:00:39,480 --> 00:00:41,640
+alt click to select the old text below
+
+19
+00:00:41,640 --> 00:00:43,320
+and press delete
+
+20
+00:00:43,320 --> 00:00:45,239
+now I will clone the glyph
+
+21
+00:00:45,239 --> 00:00:47,399
+I lower the Clone and drag the parent
+
+22
+00:00:47,399 --> 00:00:48,600
+down
+
+23
+00:00:48,600 --> 00:00:50,820
+to increase the size I drag the middle
+
+24
+00:00:50,820 --> 00:00:52,500
+Arrow at the right side
+
+25
+00:00:52,500 --> 00:00:54,539
+this way I do not change the distance
+
+26
+00:00:54,539 --> 00:00:57,300
+between the texts when sizing I hold
+
+27
+00:00:57,300 --> 00:00:59,399
+Ctrl when I resize
+
+28
+00:00:59,399 --> 00:01:01,500
+and to adjust the kerning I double click
+
+29
+00:01:01,500 --> 00:01:04,500
+on the glyph I hold down alt and use my
+
+30
+00:01:04,500 --> 00:01:06,780
+left and right arrow keys I will make
+
+31
+00:01:06,780 --> 00:01:08,700
+the text a group so I can easily move
+
+32
+00:01:08,700 --> 00:01:12,060
+the text around I duplicate the text to
+
+33
+00:01:12,060 --> 00:01:14,400
+enter the group I double click on it and
+
+34
+00:01:14,400 --> 00:01:16,200
+I double click on the number to change
+
+35
+00:01:16,200 --> 00:01:18,600
+it I can now change the size of all
+
+36
+00:01:18,600 --> 00:01:20,820
+instances and I can turn the text and
+
+37
+00:01:20,820 --> 00:01:24,380
+change the height holding Alt
+

@@ -1,0 +1,31 @@
+In this lecture, well use the Shape Builder tool, to create the Helios logo. I open the logo,
+by going to: File > Import. I right click on the canvas, and choose: Document Properties. I
+click on the Resize to content icon. I turn Snapping on. I click on the Rectangle tool and
+draw a rectangle over the logo, which will snap. I set Fill to none. Now I will use the Pen tool to
+draw a leaf. When I hold my mouse at the top, I see it snaps to the midpoint. But the mouse
+doesnt snap to the center. So I will go into the snapping options, and check: Object midpoints.
+Now I click on the object midpoint. Then I click on the top midpoint, and keep the mouse pressed
+down. I drag, and move the mouse to adjust the red line, until the curve fits the leaf.
+Then I let go of the mouse and press Enter, to stop drawing. I press the spacebar, to go to the
+Select tool. At the bottom left I right-click, and choose: Swap fill and stroke. I set the
+Opacity to 50 percent. I duplicate the path. I click on the Object Flip Horizontal icon.
+I drag the copy, until it snaps to the original path. I hold Shift, and click on the other path.
+I go to: Path > Union. Next, I want to rotate the leaf, and make copies of them. I click on the
+Path Effects tab. I open the menu, and choose: Rotate copies. Then I click on the Node tool.
+I drag the rotation origin point to the midpoint, where it will snap. I set Number of copies to 18,
+and press Enter. To complete the effect, I go to: path > Object to Path. I set the Opacity to
+100 percent. I duplicate the path two times, by pressing Ctrl-D twice. Now I click on the Shape
+Builder tool. I drag over the outer leaves, to select them. As long as I keep the mouse pressed
+down, I will create a single path. To show this, I will let go of the mouse, and select the rest
+of the outer leaves. I click on: Finish. As we see, we now have two paths. I will unite them,
+by going to: Path > Union. I will call the layer outer leaves. I select the second path,
+and click on the Shape Builder tool. To select the second row of leaves, I click on them.
+I click on Finish, and go to: Path > Union. I call the path middle leaves. I will click on
+a green swatch, to make them visible. I select the last path, and click on the Shape Builder
+tool. I select the third row of leaves. When I click on a wrong leaf, I can remove it again,
+using the Delete tool. I click on Finish, and go to: Path > Union. I click on a yellow swatch.
+Finally, lets give the logo the correct colors. I drag the original logo to the left. I will delete
+the rectangle that I used for snapping. I click on outer leaves. Then I select the Dropper tool.
+I click on an outer leaf of the logo. I click on middle leaves,
+and sample the color from the logo. And I click on yellow leaves, and assign the yellow.
+We have now vectorized the logo, using the Shape Builder tool.

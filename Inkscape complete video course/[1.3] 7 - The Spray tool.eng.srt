@@ -1,0 +1,144 @@
+1
+00:00:00,359 --> 00:00:02,639
+now let's Place some dots
+
+2
+00:00:02,639 --> 00:00:05,160
+I will use the spray tool for this I
+
+3
+00:00:05,160 --> 00:00:07,319
+start by drawing an ellipse and I will
+
+4
+00:00:07,319 --> 00:00:09,599
+give it an orange color I right click on
+
+5
+00:00:09,599 --> 00:00:12,179
+the Swatch and choose pin color
+
+6
+00:00:12,179 --> 00:00:14,519
+now I copy the ellipse to place it in
+
+7
+00:00:14,519 --> 00:00:17,520
+memory then I select the spray tool I
+
+8
+00:00:17,520 --> 00:00:19,680
+click on spray clones of the selection
+
+9
+00:00:19,680 --> 00:00:21,300
+so I can manipulate the result
+
+10
+00:00:21,300 --> 00:00:22,500
+afterwards
+
+11
+00:00:22,500 --> 00:00:24,960
+I do not want the dots to overlap
+
+12
+00:00:24,960 --> 00:00:26,760
+so I click on prevent overlapping
+
+13
+00:00:26,760 --> 00:00:27,900
+objects
+
+14
+00:00:27,900 --> 00:00:30,720
+the orange circle is the spray area to
+
+15
+00:00:30,720 --> 00:00:32,520
+make the spray area larger increase
+
+16
+00:00:32,520 --> 00:00:35,340
+width the rest of the values are all
+
+17
+00:00:35,340 --> 00:00:37,980
+maxed out to get maximum variation
+
+18
+00:00:37,980 --> 00:00:40,860
+when I spray I see I get very small and
+
+19
+00:00:40,860 --> 00:00:43,320
+very large ellipses I need the dots to
+
+20
+00:00:43,320 --> 00:00:46,260
+be more uniform so I set scale to 50.
+
+21
+00:00:46,260 --> 00:00:47,579
+this is better
+
+22
+00:00:47,579 --> 00:00:50,340
+also on average the dots are a bit too
+
+23
+00:00:50,340 --> 00:00:51,239
+large
+
+24
+00:00:51,239 --> 00:00:53,579
+so I press the space bar to go to the
+
+25
+00:00:53,579 --> 00:00:56,039
+select tool if I make the parent ellipse
+
+26
+00:00:56,039 --> 00:00:58,620
+smaller the children will follow this is
+
+27
+00:00:58,620 --> 00:01:01,680
+about right now I spray over the body if
+
+28
+00:01:01,680 --> 00:01:03,420
+I don't like a result I click control
+
+29
+00:01:03,420 --> 00:01:06,240
+set and spray again and I can still
+
+30
+00:01:06,240 --> 00:01:08,400
+change the color I delete the original
+
+31
+00:01:08,400 --> 00:01:11,159
+to place the ellipses in a group I right
+
+32
+00:01:11,159 --> 00:01:14,040
+click on one then I choose select same
+
+33
+00:01:14,040 --> 00:01:15,540
+fill color
+
+34
+00:01:15,540 --> 00:01:18,900
+I right click again and choose group
+
+35
+00:01:18,900 --> 00:01:21,659
+I will call the group dots in the next
+
+36
+00:01:21,659 --> 00:01:25,340
+lecture we will shade the drawing
+

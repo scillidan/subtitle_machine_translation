@@ -1,0 +1,776 @@
+1
+00:00:00,240 --> 00:00:02,240
+in previous tutorials I demonstrated how
+
+2
+00:00:02,240 --> 00:00:04,080
+you can wrap text around simple shapes
+
+3
+00:00:04,080 --> 00:00:06,040
+like a circle by using the place on text
+
+4
+00:00:06,040 --> 00:00:07,879
+command however in this tutorial I'm
+
+5
+00:00:07,879 --> 00:00:09,400
+going to show you how you can wrap text
+
+6
+00:00:09,400 --> 00:00:11,599
+around more complicated shapes such as a
+
+7
+00:00:11,599 --> 00:00:13,480
+heart and to show you what I mean if I
+
+8
+00:00:13,480 --> 00:00:15,000
+were to select both of these objects
+
+9
+00:00:15,000 --> 00:00:17,600
+here and go to text and select put on
+
+10
+00:00:17,600 --> 00:00:19,720
+path you can see we don't get a very
+
+11
+00:00:19,720 --> 00:00:21,720
+good outcome we don't get to choose the
+
+12
+00:00:21,720 --> 00:00:23,519
+placement of the text on the path it
+
+13
+00:00:23,519 --> 00:00:26,000
+just randomly chooses it and you can't
+
+14
+00:00:26,000 --> 00:00:27,760
+choose a different start or end point
+
+15
+00:00:27,760 --> 00:00:30,279
+for this text so to get this result what
+
+16
+00:00:30,279 --> 00:00:31,640
+we're going to do is we're going to
+
+17
+00:00:31,640 --> 00:00:33,600
+create separate paths for each half of
+
+18
+00:00:33,600 --> 00:00:35,320
+the heart and then create separate lines
+
+19
+00:00:35,320 --> 00:00:38,200
+of text for each path so let me get
+
+20
+00:00:38,200 --> 00:00:40,440
+started on that I'm going to grab my
+
+21
+00:00:40,440 --> 00:00:42,920
+selection tool and instead of placing
+
+22
+00:00:42,920 --> 00:00:45,120
+the text directly on this path I'm going
+
+23
+00:00:45,120 --> 00:00:47,840
+to place it on a copy of the path so I'm
+
+24
+00:00:47,840 --> 00:00:49,680
+going to create a linked offset I'm
+
+25
+00:00:49,680 --> 00:00:51,199
+actually going to create an offset copy
+
+26
+00:00:51,199 --> 00:00:53,280
+of the shape so I could place the text
+
+27
+00:00:53,280 --> 00:00:55,280
+around the outside padding of the shape
+
+28
+00:00:55,280 --> 00:00:57,199
+instead of placing it directly on top of
+
+29
+00:00:57,199 --> 00:01:00,120
+the shape so let me select this object I
+
+30
+00:01:00,120 --> 00:01:03,159
+will go to path and I will select linked
+
+31
+00:01:03,159 --> 00:01:05,400
+offset and then I will go to my nodes
+
+32
+00:01:05,400 --> 00:01:07,960
+tool and I will pull this node out to
+
+33
+00:01:07,960 --> 00:01:09,240
+create a little bit of an offset and I
+
+34
+00:01:09,240 --> 00:01:10,600
+will give this a different color just so
+
+35
+00:01:10,600 --> 00:01:12,560
+I could differentiate it from the
+
+36
+00:01:12,560 --> 00:01:15,119
+original shape and I'll pull this out to
+
+37
+00:01:15,119 --> 00:01:16,159
+about
+
+38
+00:01:16,159 --> 00:01:18,159
+there and now I'm going to convert this
+
+39
+00:01:18,159 --> 00:01:20,280
+to a path by going to path object to
+
+40
+00:01:20,280 --> 00:01:22,479
+path and I want to apply a stroke to
+
+41
+00:01:22,479 --> 00:01:24,400
+this so let me grab my selection tool
+
+42
+00:01:24,400 --> 00:01:25,680
+I'm going to hold the shift key and I'm
+
+43
+00:01:25,680 --> 00:01:27,320
+going to click the letter or the color
+
+44
+00:01:27,320 --> 00:01:29,400
+blue just to apply a blue stroke and
+
+45
+00:01:29,400 --> 00:01:31,720
+then I'm going to remove remove the fill
+
+46
+00:01:31,720 --> 00:01:33,799
+color now let me make that stroke a
+
+47
+00:01:33,799 --> 00:01:35,079
+little smaller I'm going to open up my
+
+48
+00:01:35,079 --> 00:01:36,759
+fill and stroke menu by double clicking
+
+49
+00:01:36,759 --> 00:01:38,520
+this stripe down here I'll go to the
+
+50
+00:01:38,520 --> 00:01:39,920
+stroke style Tab and I'm just going to
+
+51
+00:01:39,920 --> 00:01:41,640
+make that
+
+52
+00:01:41,640 --> 00:01:43,759
+one so the approach I'm going to use
+
+53
+00:01:43,759 --> 00:01:45,520
+here is I'm going to break this up into
+
+54
+00:01:45,520 --> 00:01:47,920
+separate pads and then Place separate
+
+55
+00:01:47,920 --> 00:01:50,320
+lines on each path so let me select this
+
+56
+00:01:50,320 --> 00:01:52,040
+object and I'm going to go to my nodes
+
+57
+00:01:52,040 --> 00:01:54,159
+tool and I want to select this node
+
+58
+00:01:54,159 --> 00:01:55,680
+right here and I want to break the path
+
+59
+00:01:55,680 --> 00:01:57,079
+at that node so I'll come up here to
+
+60
+00:01:57,079 --> 00:01:58,880
+this icon that says break path at
+
+61
+00:01:58,880 --> 00:02:00,680
+selected nodes when you your cursor over
+
+62
+00:02:00,680 --> 00:02:02,880
+and I'll click on that and nothing Vis
+
+63
+00:02:02,880 --> 00:02:04,600
+visibly changes on your screen but the
+
+64
+00:02:04,600 --> 00:02:06,079
+path has now been broken up into
+
+65
+00:02:06,079 --> 00:02:08,318
+separate nodes as you can see there and
+
+66
+00:02:08,318 --> 00:02:09,479
+I'll come down here and do the same
+
+67
+00:02:09,479 --> 00:02:10,919
+thing I Want to Break these paths up as
+
+68
+00:02:10,919 --> 00:02:12,560
+well so let me select those and I'm
+
+69
+00:02:12,560 --> 00:02:15,200
+going to break those paths as well and
+
+70
+00:02:15,200 --> 00:02:16,720
+now I'm going to break apart the entire
+
+71
+00:02:16,720 --> 00:02:18,160
+shape so let me go back to my select
+
+72
+00:02:18,160 --> 00:02:21,720
+tool I will go to path and select break
+
+73
+00:02:21,720 --> 00:02:23,599
+apart and now I can just take this
+
+74
+00:02:23,599 --> 00:02:25,000
+little piece down here and get rid of
+
+75
+00:02:25,000 --> 00:02:26,800
+this and if you can see now we have
+
+76
+00:02:26,800 --> 00:02:28,959
+separate paths for each half of the
+
+77
+00:02:28,959 --> 00:02:31,000
+shape and what I'm going to do is create
+
+78
+00:02:31,000 --> 00:02:33,360
+separate lines of text one line of text
+
+79
+00:02:33,360 --> 00:02:34,760
+going on this side and another line
+
+80
+00:02:34,760 --> 00:02:36,879
+going on this side so I have one line of
+
+81
+00:02:36,879 --> 00:02:38,239
+text right now I want to break this up
+
+82
+00:02:38,239 --> 00:02:40,360
+into two so let me duplicate this by
+
+83
+00:02:40,360 --> 00:02:42,400
+pressing contrl D or command D if you're
+
+84
+00:02:42,400 --> 00:02:44,920
+on Mac and the way that I set this up is
+
+85
+00:02:44,920 --> 00:02:47,800
+I had up until the word four going over
+
+86
+00:02:47,800 --> 00:02:49,879
+here and then after that the right side
+
+87
+00:02:49,879 --> 00:02:51,599
+begins so I'm going to end the line of
+
+88
+00:02:51,599 --> 00:02:53,080
+text after the word four I'm going to
+
+89
+00:02:53,080 --> 00:02:55,680
+grab my text
+
+90
+00:02:57,640 --> 00:02:59,840
+tool so now that I have my two SE
+
+91
+00:02:59,840 --> 00:03:01,159
+separate lines of text I'm going to take
+
+92
+00:03:01,159 --> 00:03:03,239
+this line of text hold shift click on
+
+93
+00:03:03,239 --> 00:03:06,360
+this left path and then go to text and
+
+94
+00:03:06,360 --> 00:03:07,799
+select put on
+
+95
+00:03:07,799 --> 00:03:10,159
+path now we end up with this effect here
+
+96
+00:03:10,159 --> 00:03:11,560
+which is not what I'm going for so I'm
+
+97
+00:03:11,560 --> 00:03:12,879
+going to click off of that to deselect
+
+98
+00:03:12,879 --> 00:03:14,920
+it I'm going to select just the path and
+
+99
+00:03:14,920 --> 00:03:17,000
+now to place the text on the outside of
+
+100
+00:03:17,000 --> 00:03:18,440
+the path rather than the inside I'm
+
+101
+00:03:18,440 --> 00:03:20,080
+going to reverse the direction of the
+
+102
+00:03:20,080 --> 00:03:23,599
+path so I will go to path and select if
+
+103
+00:03:23,599 --> 00:03:26,120
+I can find it reverse there it is and
+
+104
+00:03:26,120 --> 00:03:27,440
+now it's going to put it on the outside
+
+105
+00:03:27,440 --> 00:03:29,200
+so the problem I have now is I have to
+
+106
+00:03:29,200 --> 00:03:31,000
+make this text a little bigger to fill
+
+107
+00:03:31,000 --> 00:03:32,599
+in the rest of this empty space here so
+
+108
+00:03:32,599 --> 00:03:34,519
+let me grab my text tool and I'm going
+
+109
+00:03:34,519 --> 00:03:36,560
+to Triple click this text to select it
+
+110
+00:03:36,560 --> 00:03:37,799
+and I'm going to make the size of this a
+
+111
+00:03:37,799 --> 00:03:39,159
+little bigger I'm going to try something
+
+112
+00:03:39,159 --> 00:03:41,120
+like 30 you see how that looks I'll
+
+113
+00:03:41,120 --> 00:03:42,680
+increase that maybe
+
+114
+00:03:42,680 --> 00:03:45,920
+34 okay 34 looks good whatever size you
+
+115
+00:03:45,920 --> 00:03:47,879
+use make a mental note what size that is
+
+116
+00:03:47,879 --> 00:03:49,000
+because we're going to use that same
+
+117
+00:03:49,000 --> 00:03:51,200
+size for this text object here so that
+
+118
+00:03:51,200 --> 00:03:53,640
+these two lines of text look
+
+119
+00:03:53,640 --> 00:03:56,360
+consistent so now that's done and I'll
+
+120
+00:03:56,360 --> 00:03:57,439
+come over here and do the same thing
+
+121
+00:03:57,439 --> 00:03:59,920
+I'll select this text object hold shift
+
+122
+00:03:59,920 --> 00:04:03,000
+click on the path and go to text and
+
+123
+00:04:03,000 --> 00:04:05,040
+select put on
+
+124
+00:04:05,040 --> 00:04:06,760
+path now I'm going to have to do the
+
+125
+00:04:06,760 --> 00:04:08,000
+same thing here with the reversing of
+
+126
+00:04:08,000 --> 00:04:09,799
+the pads I'm going to select the path
+
+127
+00:04:09,799 --> 00:04:14,040
+just the path and go to path and select
+
+128
+00:04:14,040 --> 00:04:16,040
+reverse and then I'll do the same thing
+
+129
+00:04:16,040 --> 00:04:18,478
+over here I'm going to grab my text tool
+
+130
+00:04:18,478 --> 00:04:19,959
+select all the text and I want to make
+
+131
+00:04:19,959 --> 00:04:21,839
+this the same size I'll make this
+
+132
+00:04:21,839 --> 00:04:24,199
+34 and I'm going to change the spacing
+
+133
+00:04:24,199 --> 00:04:25,919
+of this a little bit I mentioned earlier
+
+134
+00:04:25,919 --> 00:04:27,000
+that you can't really change the
+
+135
+00:04:27,000 --> 00:04:29,080
+position of the text on the path you can
+
+136
+00:04:29,080 --> 00:04:31,720
+a little bit by adding spacing between
+
+137
+00:04:31,720 --> 00:04:32,919
+the letters so I'm going to place the
+
+138
+00:04:32,919 --> 00:04:34,720
+cursor before the text and just press my
+
+139
+00:04:34,720 --> 00:04:36,880
+space bar to add some space in there and
+
+140
+00:04:36,880 --> 00:04:38,160
+if you want to add some more space
+
+141
+00:04:38,160 --> 00:04:39,680
+between individual letters just move
+
+142
+00:04:39,680 --> 00:04:41,560
+your cursor around with the arrows if
+
+143
+00:04:41,560 --> 00:04:43,280
+you place the cursor between two letters
+
+144
+00:04:43,280 --> 00:04:44,880
+you can hold the ALT key and use your
+
+145
+00:04:44,880 --> 00:04:47,400
+left and right arrows to increase and
+
+146
+00:04:47,400 --> 00:04:49,880
+decrease the spacing between the text or
+
+147
+00:04:49,880 --> 00:04:51,360
+if you're using Mac like me you can use
+
+148
+00:04:51,360 --> 00:04:52,960
+the option case so I'm holding option
+
+149
+00:04:52,960 --> 00:04:54,919
+and then using my right arrow key to
+
+150
+00:04:54,919 --> 00:04:57,199
+increase spacing between the letters and
+
+151
+00:04:57,199 --> 00:05:01,479
+the left Arrow key to decrease it
+
+152
+00:05:02,960 --> 00:05:04,160
+and once you're finished you can grab
+
+153
+00:05:04,160 --> 00:05:05,600
+your selection tool if you don't want
+
+154
+00:05:05,600 --> 00:05:07,520
+this ugly path sitting in your way you
+
+155
+00:05:07,520 --> 00:05:09,560
+can select the path and then turn off
+
+156
+00:05:09,560 --> 00:05:10,759
+well make sure you have it selected
+
+157
+00:05:10,759 --> 00:05:11,960
+because it's going to select the text
+
+158
+00:05:11,960 --> 00:05:13,800
+first I'm going to hold the ALT key or
+
+159
+00:05:13,800 --> 00:05:15,600
+the option key and click again so that
+
+160
+00:05:15,600 --> 00:05:17,960
+it grabs the path rather than the text
+
+161
+00:05:17,960 --> 00:05:19,280
+itself and you'll know you have the path
+
+162
+00:05:19,280 --> 00:05:20,800
+selected when you see the colored stripe
+
+163
+00:05:20,800 --> 00:05:22,319
+down there and I'm going to turn off the
+
+164
+00:05:22,319 --> 00:05:24,199
+visibility of that path by holding shift
+
+165
+00:05:24,199 --> 00:05:26,520
+and clicking the X and now it's gone and
+
+166
+00:05:26,520 --> 00:05:27,960
+I'll do the same thing over here to this
+
+167
+00:05:27,960 --> 00:05:30,600
+path I will select it
+
+168
+00:05:30,600 --> 00:05:32,400
+hold shift click the X to turn off the
+
+169
+00:05:32,400 --> 00:05:34,639
+visibility and now the path is no longer
+
+170
+00:05:34,639 --> 00:05:36,800
+visible it's still there it's just not
+
+171
+00:05:36,800 --> 00:05:38,120
+visible if you want to see it at any
+
+172
+00:05:38,120 --> 00:05:39,360
+point you can just come up here to where
+
+173
+00:05:39,360 --> 00:05:41,479
+it says view go to display mode and
+
+174
+00:05:41,479 --> 00:05:44,199
+choose outline overview and you can see
+
+175
+00:05:44,199 --> 00:05:46,160
+where that path is just make sure to go
+
+176
+00:05:46,160 --> 00:05:48,479
+back to the normal View mode once you're
+
+177
+00:05:48,479 --> 00:05:50,039
+done so let me go to view display mode
+
+178
+00:05:50,039 --> 00:05:52,600
+and choose normal and there we go if you
+
+179
+00:05:52,600 --> 00:05:54,360
+found this lesson useful then consider
+
+180
+00:05:54,360 --> 00:05:56,840
+checking out my inkscape master class
+
+181
+00:05:56,840 --> 00:05:58,600
+it's a collection of over 60 videos
+
+182
+00:05:58,600 --> 00:06:00,080
+where I go over all of the the tools and
+
+183
+00:06:00,080 --> 00:06:02,120
+features in inkscape and I explain what
+
+184
+00:06:02,120 --> 00:06:04,120
+they are and demonstrate how they work
+
+185
+00:06:04,120 --> 00:06:06,199
+kind of like how I did in this video we
+
+186
+00:06:06,199 --> 00:06:07,840
+even have a private Community where you
+
+187
+00:06:07,840 --> 00:06:10,039
+can ask questions and get help from me
+
+188
+00:06:10,039 --> 00:06:12,280
+anytime you want and best of all there's
+
+189
+00:06:12,280 --> 00:06:14,319
+no monthly membership fees you just pay
+
+190
+00:06:14,319 --> 00:06:17,639
+$17 one time and you're in for Life I'll
+
+191
+00:06:17,639 --> 00:06:18,960
+have some information about that down
+
+192
+00:06:18,960 --> 00:06:20,639
+below if you want to check that out as
+
+193
+00:06:20,639 --> 00:06:24,520
+always thanks for watching
+
+194
+00:06:31,199 --> 00:06:34,199
+oh
+

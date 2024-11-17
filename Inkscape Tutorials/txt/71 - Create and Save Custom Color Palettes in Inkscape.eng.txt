@@ -1,0 +1,313 @@
+
+this  is  knit  with  logos  by  Nick  comm  and
+
+in  this  tutorial  Ill  be  demonstrating
+
+how  you  can  create  your  own  custom  color
+
+palettes  in  Inkscape  and  save  them  to
+
+your  installation  so  that  you  can  load
+
+them  up  and  work  with  them  at  any  point
+
+in  the  future  if  youd  like  and  if  youd
+
+like  to  learn  more  about  how  Inkscape
+
+works  be  sure  to  check  out  my  Inkscape
+
+masterclass  its  a  collection  of  over  60
+
+videos  where  I  go  over  every  tool  in
+
+future  in  Inkscape  and  I  explain  what  it
+
+is  and  demonstrate  how  it  works  Ill
+
+have  a  link  in  the  description  of  the
+
+video  if  you  want  to  check  that  out  so
+
+to  get  us  started  here  as  you  can  see  I
+
+have  Inkscape  opened  up  on  my  screen  and
+
+if  you  look  down  here  to  the  bottom  of
+
+the  page  youll  notice  we  have  this
+
+color  palette  that  we  normally  work  with
+
+an  Inkscape  and  if  you  click  this  little
+
+arrow  icon  over  here  to  the  bottom  right
+
+youll  get  this  little  flyout  menu  with
+
+a  bunch  of  different  color  palettes  to
+
+choose  from  now  by  default
+
+Inkscape  has  the  Inkscape  default
+
+palette  here  when  you  load  it  up  but  you
+
+can  choose  from  any  of  these  other
+
+options  here  like  for  example  if  you
+
+click  on  greens  itll  give  you  a  wide
+
+spectrum  of  green  shades  to  choose  from
+
+and  coloring  your  objects  and  theres  a
+
+whole  bunch  of  different  options  in  here
+
+if  you  want  to  check  it  out  you  can  look
+
+at  something  like  a  bun  sue  here  where
+
+this  looks  as  if  its  the  Ubuntu
+
+branding  colors  so  on  and  so  forth  now
+
+what  you  can  do  is  you  can  actually
+
+create  your  own  color  palette  and  add  it
+
+to  this  list  using  the  technique  Im
+
+going  to  show  you  in  this  tutorial  so
+
+let  me  set  this  back  to  Inkscape  default
+
+for  now
+
+and  let  me  just  set  up  the  document  here
+
+Im  gonna  go  to  file  document  properties
+
+and  I  want  to  turn  off  the  visibility  of
+
+the  page  border  for  now  so  where  it  says
+
+show  page  border  just  deselect  that  for
+
+now  and  Im  gonna  come  up  here  to  the
+
+grids  tab  and  Im  going  to  add  a  new
+
+rectangular  grid  click  on  new  and  where
+
+it  says  spacing  X  and  space  and  Y  Im
+
+going  to  change  each  of  those  to  100  so
+
+that  theres  100  pixels  of  space  between
+
+each  grid  line  close  out  of  that  were
+
+gonna  go  to  view  zoom  zoom  in  at  1  to  1
+
+so  that  we  have  a  100%  view  of  the
+
+document  here  and  then  finally  Im  going
+
+to  open  up  the  fill  and  Stroke  menu  with
+
+this  button  up  here  or  you  can  press
+
+control  shift  +  F  on  the  keyboard  so
+
+what  Im  going  to  do  now  is  Im
+
+basically  going  to  create  a  bunch  of
+
+objects  and  color  them  all  in  with
+
+whatever  shade
+
+like  to  be  included  in  my  custom  color
+
+palette  that  Im  gonna  load  up  in  here
+
+so  Im  going  to  grab  the  squares  and
+
+rectangles  tool  and  Im  going  to  create
+
+a  square  within  these  grid  lines  and  Im
+
+going  to  color  this  in  with  a  shade  that
+
+I  would  like  to  save  maybe  something
+
+like  that  and  Im  going  to  create
+
+another  shade  I  would  like  to  save  maybe
+
+something  like  that  then  create
+
+something  else  maybe  something  like  that
+
+thats  looking  pretty  good
+
+and  were  going  to  do  is  Im  just  going
+
+to  go  through  and  Im  gonna  create  a
+
+bunch  of  different  objects  and  Im  gonna
+
+color  them  all  in  with  colors  that  I
+
+like  that  Id  like  to  save  to  my  custom
+
+color  palette
+
+okay  so  as  you  can  see  here  Ive  gone
+
+through  and  Ive  created  a  bunch  of
+
+different  squares  and  Ive  colored  them
+
+in  with  colors  that  Id  like  to  save  to
+
+my  palette  once  Im  finished  what  Im
+
+going  to  do  is  Im  going  to  click  off  of
+
+the  graphic  to  deselect  everything  and
+
+then  Im  gonna  come  back  to  the  document
+
+properties  by  going  to  file  document
+
+properties  and  lets  come  back  over  to
+
+the  page  tab  and  Im  going  to  turn  the
+
+visibility  of  the  page  border  back  on
+
+and  Im  gonna  come  over  here  to  where  it
+
+says  resize  page  to  content  Im  going  to
+
+expand  to  that  menu  and  Im  gonna  click
+
+this  button  right  here  that  says  resize
+
+page  to  drawing  or  selection  and  that  we
+
+can  close  out  of  that  menu  and  thats
+
+gonna  do  what  thats  gonna  do  is  its
+
+gonna  make  the  document  size  fit  the
+
+size  of  the  graphic  that  weve  created
+
+here  and  all  Im  gonna  do  now  is  Im
+
+just  gonna  save  this  Im  gonna  go  to
+
+file  save  as  and  for  now  Im  just  gonna
+
+save  this  to  my  desktop  Im  going  to
+
+give  it  whatever  name  Id  like  the  name
+
+of  the  color  palette  to  be  in  this  list
+
+when  I  bring  it  up  so  Im  just  gonna  for
+
+demonstration  purpose  isms  going  to  name
+
+this  u2  palette  and  Im  actually  going
+
+to  save  this  Im  not  going  to  save  this
+
+as  an  SVG  file  Im  going  to  save  it  as  a
+
+dot  GPL  file  or  a  palette  file  and
+
+Im  gonna  go  ahead  and  click  Save  now
+
+let  me  close  out  of  Inkscape  here  let  me
+
+minimize  this  what  we  have  over  here  I
+
+have  this  on  my  desktop  this  is  the  GPL
+
+file  Im  going  to  open  up  a  window  Im
+
+actually  gonna  open  up  a  folder  and  go
+
+to  wherever  it  is  that  you  have  your
+
+Inkscape  whatever  Drive  that  you  have
+
+Inkscape  installed  on  for  most  of  you  is
+
+probably  going  to  be  your  C  Drive  for  me
+
+I  have  it  saved  on  my  e  Drive  so  Im
+
+gonna  open  up  the  e  Drive
+
+Im  gonna  look  for  Program  Files  Im
+
+gonna  go  to  Inkscape  share  Inkscape  and
+
+palettes  and  if  you  noticed  here  we  have
+
+an  index  of  all  of  our  color  palettes
+
+that  are  included  with  our  Inkscape
+
+installation  so  Im  just  going  to  take
+
+this  YouTube  palette  GPL  and  click  and
+
+drag  this  into  the  folder  go  ahead  and
+
+click  continue  to  give  it  permission  to
+
+do  so  and  all  we  have  to  do  now  is
+
+restart  Inkscape  so  let  me  come  back  up
+
+here  let  me  close  out  of  Inkscape
+
+and  let  me  just  load  it  back  up  make  it
+
+fullscreen  there  we  go  and  lets  click
+
+on  this  arrow  again  and  there  you  go
+
+YouTube  padlet  the  GPL  if  you  click  on
+
+that  there  is  our  custom  color  palette
+
+based  on  those  colors  that  I  used  in
+
+that  previous  document  you  can  now  color
+
+this  in  however  you  would  like  so  I
+
+think  that  should  do  it  for  todays
+
+tutorial  that  is  how  you  can  go  about
+
+creating  your  own  custom  color  palettes
+
+in  Inkscape  and  saving  them  so  that  you
+
+can  work  with  them  in  the  future  if  you
+
+have  any  questions  leave  a  comment  below
+
+and  as  always  thanks  for  watching
+
+
+

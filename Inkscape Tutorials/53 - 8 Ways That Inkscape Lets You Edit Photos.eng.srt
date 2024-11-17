@@ -1,0 +1,776 @@
+1
+00:00:00,080 --> 00:00:01,839
+although inkscape is meant for working
+
+2
+00:00:01,839 --> 00:00:03,040
+with vector graphics
+
+3
+00:00:03,040 --> 00:00:04,880
+it does have some features and tools
+
+4
+00:00:04,880 --> 00:00:06,560
+that allow you to make common edits to
+
+5
+00:00:06,560 --> 00:00:08,160
+photographs and other types of
+
+6
+00:00:08,160 --> 00:00:09,840
+rasterized images
+
+7
+00:00:09,840 --> 00:00:11,280
+and even though you'd be better off
+
+8
+00:00:11,280 --> 00:00:13,440
+using proper photo editing software for
+
+9
+00:00:13,440 --> 00:00:14,400
+this sort of thing
+
+10
+00:00:14,400 --> 00:00:15,839
+you may find yourself working in a
+
+11
+00:00:15,839 --> 00:00:17,520
+vector environment once in a while
+
+12
+00:00:17,520 --> 00:00:19,680
+and needing to just make a quick edit to
+
+13
+00:00:19,680 --> 00:00:20,800
+an image
+
+14
+00:00:20,800 --> 00:00:23,119
+in these instances launching yet another
+
+15
+00:00:23,119 --> 00:00:25,439
+application can be an inconvenience
+
+16
+00:00:25,439 --> 00:00:27,279
+this is where inkscape's photo editing
+
+17
+00:00:27,279 --> 00:00:28,640
+ability comes in handy
+
+18
+00:00:28,640 --> 00:00:30,400
+and in this video i'll be going over 8
+
+19
+00:00:30,400 --> 00:00:31,920
+different ways in which you can edit
+
+20
+00:00:31,920 --> 00:00:32,479
+photos
+
+21
+00:00:32,479 --> 00:00:34,390
+in inkscape
+
+22
+00:00:34,390 --> 00:00:40,300
+[Music]
+
+23
+00:00:42,399 --> 00:00:44,800
+this is nick with logosbynick.com and in
+
+24
+00:00:44,800 --> 00:00:46,320
+this video i'll be going over some of
+
+25
+00:00:46,320 --> 00:00:48,320
+the ways in which you can edit photos in
+
+26
+00:00:48,320 --> 00:00:49,200
+inkscape
+
+27
+00:00:49,200 --> 00:00:50,800
+but before we get started if you'd like
+
+28
+00:00:50,800 --> 00:00:52,239
+to learn everything that there is to
+
+29
+00:00:52,239 --> 00:00:54,079
+know about inkscape be sure to check out
+
+30
+00:00:54,079 --> 00:00:55,760
+my inkscape master class
+
+31
+00:00:55,760 --> 00:00:57,440
+it's a collection of over 60 videos
+
+32
+00:00:57,440 --> 00:00:59,199
+where i go over every tool and feature
+
+33
+00:00:59,199 --> 00:01:00,000
+in inkscape
+
+34
+00:01:00,000 --> 00:01:01,760
+and i explain what it is and demonstrate
+
+35
+00:01:01,760 --> 00:01:03,280
+how it works i'll have a link in the
+
+36
+00:01:03,280 --> 00:01:04,479
+description of the video if you want to
+
+37
+00:01:04,479 --> 00:01:07,040
+check that out
+
+38
+00:01:07,040 --> 00:01:08,479
+the first way in which you can edit a
+
+39
+00:01:08,479 --> 00:01:10,960
+photo in inkscape is by cropping it
+
+40
+00:01:10,960 --> 00:01:12,960
+to crop your photo all you have to do is
+
+41
+00:01:12,960 --> 00:01:14,640
+create a rectangle going over the
+
+42
+00:01:14,640 --> 00:01:16,400
+portion of the photo you'd like to crop
+
+43
+00:01:16,400 --> 00:01:18,479
+and then create a clipping mask from it
+
+44
+00:01:18,479 --> 00:01:20,159
+from there you can just resize your
+
+45
+00:01:20,159 --> 00:01:22,159
+document based on the cropped image by
+
+46
+00:01:22,159 --> 00:01:23,280
+pressing ctrl
+
+47
+00:01:23,280 --> 00:01:25,759
+shift and r and then from there you can
+
+48
+00:01:25,759 --> 00:01:27,920
+export your work as a png file
+
+49
+00:01:27,920 --> 00:01:29,280
+i'll have a tutorial linked in the
+
+50
+00:01:29,280 --> 00:01:30,560
+description of the video if you need
+
+51
+00:01:30,560 --> 00:01:33,280
+more details
+
+52
+00:01:34,079 --> 00:01:35,840
+not only can clipping pads be used to
+
+53
+00:01:35,840 --> 00:01:37,360
+crop photos in inkscape
+
+54
+00:01:37,360 --> 00:01:39,200
+but they can also be used to extract
+
+55
+00:01:39,200 --> 00:01:41,040
+subjects from the photo
+
+56
+00:01:41,040 --> 00:01:42,640
+this allows you to do all kinds of
+
+57
+00:01:42,640 --> 00:01:44,320
+unique things like create a photo
+
+58
+00:01:44,320 --> 00:01:45,439
+pop-out effect or
+
+59
+00:01:45,439 --> 00:01:47,840
+remove a background from an image these
+
+60
+00:01:47,840 --> 00:01:49,680
+extractions can be made by simply
+
+61
+00:01:49,680 --> 00:01:51,119
+grabbing the bezier pen
+
+62
+00:01:51,119 --> 00:01:53,600
+and manually drawing a path around the
+
+63
+00:01:53,600 --> 00:01:55,680
+subject you'd like to extract
+
+64
+00:01:55,680 --> 00:01:57,439
+then from there you can create a
+
+65
+00:01:57,439 --> 00:01:59,280
+clipping path from it by selecting both
+
+66
+00:01:59,280 --> 00:01:59,920
+objects
+
+67
+00:01:59,920 --> 00:02:04,960
+and navigating to object clip set
+
+68
+00:02:05,439 --> 00:02:07,040
+another way that you can edit photos in
+
+69
+00:02:07,040 --> 00:02:09,119
+inkscape is by adjusting their opacity
+
+70
+00:02:09,119 --> 00:02:10,639
+and inkscape allows you to change
+
+71
+00:02:10,639 --> 00:02:12,560
+opacity values in a variety of different
+
+72
+00:02:12,560 --> 00:02:13,599
+ways
+
+73
+00:02:13,599 --> 00:02:15,840
+you can change the overall opacity of an
+
+74
+00:02:15,840 --> 00:02:17,520
+image by selecting it and opening the
+
+75
+00:02:17,520 --> 00:02:18,959
+fill and stroke menu
+
+76
+00:02:18,959 --> 00:02:21,040
+from there grab the opacity slider and
+
+77
+00:02:21,040 --> 00:02:22,640
+adjust it to your liking
+
+78
+00:02:22,640 --> 00:02:24,560
+you can also give a photo partial
+
+79
+00:02:24,560 --> 00:02:27,120
+transparency or a transparency gradient
+
+80
+00:02:27,120 --> 00:02:29,680
+by using layer masks this makes it so
+
+81
+00:02:29,680 --> 00:02:31,519
+that one side of an image is visible
+
+82
+00:02:31,519 --> 00:02:34,400
+but gradually tapers off to transparency
+
+83
+00:02:34,400 --> 00:02:36,319
+this can be really useful when designing
+
+84
+00:02:36,319 --> 00:02:38,080
+things like headers and posters where
+
+85
+00:02:38,080 --> 00:02:39,840
+you need to incorporate imagery with
+
+86
+00:02:39,840 --> 00:02:42,160
+text in other vector elements
+
+87
+00:02:42,160 --> 00:02:44,080
+layer masking is somewhat of an advanced
+
+88
+00:02:44,080 --> 00:02:45,920
+topic but the gist of it is that you
+
+89
+00:02:45,920 --> 00:02:47,440
+create an object with the black and
+
+90
+00:02:47,440 --> 00:02:48,239
+white gradient
+
+91
+00:02:48,239 --> 00:02:50,160
+and then apply it over your image as a
+
+92
+00:02:50,160 --> 00:02:52,400
+mask the black areas create a
+
+93
+00:02:52,400 --> 00:02:54,239
+transparent area in the photo whereas
+
+94
+00:02:54,239 --> 00:02:56,160
+the white areas remain opaque
+
+95
+00:02:56,160 --> 00:02:57,680
+i'll have a tutorial for this linked in
+
+96
+00:02:57,680 --> 00:02:59,200
+the description of the video if you want
+
+97
+00:02:59,200 --> 00:03:02,720
+a more in-depth explanation
+
+98
+00:03:03,120 --> 00:03:04,879
+inkscape also allows you to make some
+
+99
+00:03:04,879 --> 00:03:07,120
+common color adjustments to your photos
+
+100
+00:03:07,120 --> 00:03:09,200
+for example you can invert the colors of
+
+101
+00:03:09,200 --> 00:03:10,959
+an image by selecting it and navigating
+
+102
+00:03:10,959 --> 00:03:12,000
+to filters
+
+103
+00:03:12,000 --> 00:03:14,720
+colors invert you can also make your
+
+104
+00:03:14,720 --> 00:03:15,840
+image black and white
+
+105
+00:03:15,840 --> 00:03:18,480
+or grayscale by navigating to filters
+
+106
+00:03:18,480 --> 00:03:19,200
+color
+
+107
+00:03:19,200 --> 00:03:21,360
+grayscale and from there you can adjust
+
+108
+00:03:21,360 --> 00:03:23,760
+the rgb values to your liking
+
+109
+00:03:23,760 --> 00:03:25,920
+in fact the filters menu has lots of
+
+110
+00:03:25,920 --> 00:03:27,680
+interesting and unique effects that can
+
+111
+00:03:27,680 --> 00:03:29,040
+be applied to your images
+
+112
+00:03:29,040 --> 00:03:30,560
+so be sure to browse through there and
+
+113
+00:03:30,560 --> 00:03:33,840
+experiment for yourself
+
+114
+00:03:34,159 --> 00:03:36,239
+speaking of color adjustments inkscape
+
+115
+00:03:36,239 --> 00:03:37,760
+also allows you to make some more
+
+116
+00:03:37,760 --> 00:03:39,680
+advanced color corrections like color
+
+117
+00:03:39,680 --> 00:03:40,400
+channels and
+
+118
+00:03:40,400 --> 00:03:43,519
+levels and hsb values all you have to do
+
+119
+00:03:43,519 --> 00:03:45,519
+to access these settings is navigate to
+
+120
+00:03:45,519 --> 00:03:46,400
+extensions
+
+121
+00:03:46,400 --> 00:03:48,560
+and raster and from there you will have
+
+122
+00:03:48,560 --> 00:03:50,720
+a wide array of raster effects that you
+
+123
+00:03:50,720 --> 00:03:53,200
+can use to edit your photos in inkscape
+
+124
+00:03:53,200 --> 00:03:55,519
+in a past tutorial i used these effects
+
+125
+00:03:55,519 --> 00:03:57,599
+to create a carved wood effect
+
+126
+00:03:57,599 --> 00:04:01,360
+from an image of a piece of wood
+
+127
+00:04:01,360 --> 00:04:03,040
+another common edit you may like to
+
+128
+00:04:03,040 --> 00:04:04,799
+apply to your photos once in a while is
+
+129
+00:04:04,799 --> 00:04:06,720
+to apply a blur or maybe sharpen your
+
+130
+00:04:06,720 --> 00:04:07,599
+image
+
+131
+00:04:07,599 --> 00:04:09,840
+to apply a blur open the fill and stroke
+
+132
+00:04:09,840 --> 00:04:11,519
+menu by pressing ctrl
+
+133
+00:04:11,519 --> 00:04:13,599
+shift and the letter a on your keyboard
+
+134
+00:04:13,599 --> 00:04:15,120
+and from there you can use the blur
+
+135
+00:04:15,120 --> 00:04:17,040
+slider to apply a gaussian blur to your
+
+136
+00:04:17,040 --> 00:04:18,000
+liking
+
+137
+00:04:18,000 --> 00:04:20,160
+to sharpen your image simply navigate to
+
+138
+00:04:20,160 --> 00:04:21,040
+filters
+
+139
+00:04:21,040 --> 00:04:23,199
+image effects and select sharpen
+
+140
+00:04:23,199 --> 00:04:24,160
+unfortunately
+
+141
+00:04:24,160 --> 00:04:25,919
+there's no way to adjust the threshold
+
+142
+00:04:25,919 --> 00:04:27,840
+of the filter but this can still be a
+
+143
+00:04:27,840 --> 00:04:28,720
+handy trick
+
+144
+00:04:28,720 --> 00:04:31,680
+for a quick touch-up
+
+145
+00:04:32,000 --> 00:04:34,080
+as we went over earlier you can use the
+
+146
+00:04:34,080 --> 00:04:35,919
+bezier pen to manually draw
+
+147
+00:04:35,919 --> 00:04:38,160
+shapes over subjects to extract them
+
+148
+00:04:38,160 --> 00:04:39,440
+from their background
+
+149
+00:04:39,440 --> 00:04:41,120
+if the background you'd like to remove
+
+150
+00:04:41,120 --> 00:04:42,880
+is white though then you won't need to
+
+151
+00:04:42,880 --> 00:04:44,320
+go through all of that trouble
+
+152
+00:04:44,320 --> 00:04:46,320
+you can simply use the trace bitmap
+
+153
+00:04:46,320 --> 00:04:48,800
+feature to generate a vector silhouette
+
+154
+00:04:48,800 --> 00:04:50,800
+of your subject then apply it as a
+
+155
+00:04:50,800 --> 00:04:52,000
+clipping path
+
+156
+00:04:52,000 --> 00:04:53,840
+it should be noted that this method is
+
+157
+00:04:53,840 --> 00:04:56,080
+far from perfect there are instances
+
+158
+00:04:56,080 --> 00:04:58,080
+where the auto trace feature won't be
+
+159
+00:04:58,080 --> 00:04:59,759
+able to make an accurate distinction
+
+160
+00:04:59,759 --> 00:05:00,880
+between the foreground and the
+
+161
+00:05:00,880 --> 00:05:01,520
+background
+
+162
+00:05:01,520 --> 00:05:03,440
+but when it does work it can save you an
+
+163
+00:05:03,440 --> 00:05:06,479
+incredible amount of time
+
+164
+00:05:06,880 --> 00:05:08,639
+the final method that you can deploy for
+
+165
+00:05:08,639 --> 00:05:10,160
+editing photos in inkscape
+
+166
+00:05:10,160 --> 00:05:12,720
+is using blend modes this is somewhat of
+
+167
+00:05:12,720 --> 00:05:14,400
+a hidden feature in inkscape that not a
+
+168
+00:05:14,400 --> 00:05:16,080
+lot of users know about
+
+169
+00:05:16,080 --> 00:05:18,479
+to access it open your layers menu by
+
+170
+00:05:18,479 --> 00:05:19,600
+pressing ctrl
+
+171
+00:05:19,600 --> 00:05:22,160
+shift and l on your keyboard from there
+
+172
+00:05:22,160 --> 00:05:24,080
+you can add a new layer on top of your
+
+173
+00:05:24,080 --> 00:05:24,960
+image layer
+
+174
+00:05:24,960 --> 00:05:27,039
+and any of the contents placed on that
+
+175
+00:05:27,039 --> 00:05:28,960
+layer can be blended into the image
+
+176
+00:05:28,960 --> 00:05:29,840
+beneath it
+
+177
+00:05:29,840 --> 00:05:31,840
+using the blend mode drop down near the
+
+178
+00:05:31,840 --> 00:05:32,880
+bottom of the menu
+
+179
+00:05:32,880 --> 00:05:34,960
+as you could imagine we've only begun to
+
+180
+00:05:34,960 --> 00:05:36,560
+scratch the surface of all the different
+
+181
+00:05:36,560 --> 00:05:38,000
+ways that you can edit photos in
+
+182
+00:05:38,000 --> 00:05:38,800
+inkscape
+
+183
+00:05:38,800 --> 00:05:40,479
+although these features may not be as
+
+184
+00:05:40,479 --> 00:05:42,720
+robust or intuitive as a raster image
+
+185
+00:05:42,720 --> 00:05:43,919
+editor like
+
+186
+00:05:43,919 --> 00:05:45,520
+they can still come in handy if you just
+
+187
+00:05:45,520 --> 00:05:47,039
+need a quick and basic edit
+
+188
+00:05:47,039 --> 00:05:48,240
+and you don't feel like launching
+
+189
+00:05:48,240 --> 00:05:50,400
+another application let me know in the
+
+190
+00:05:50,400 --> 00:05:51,919
+comments if there's any ways that you
+
+191
+00:05:51,919 --> 00:05:53,680
+like to edit photos in inkscape that i
+
+192
+00:05:53,680 --> 00:05:55,360
+may not have gone over in this video
+
+193
+00:05:55,360 --> 00:06:07,840
+and as always thanks for watching
+
+194
+00:06:11,590 --> 00:06:15,720
+[Music]
+

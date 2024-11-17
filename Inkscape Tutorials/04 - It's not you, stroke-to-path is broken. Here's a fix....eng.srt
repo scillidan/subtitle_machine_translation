@@ -1,0 +1,200 @@
+1
+00:00:00,399 --> 00:00:02,120
+in this tutorial I'll be addressing a
+
+2
+00:00:02,120 --> 00:00:03,800
+bug that exists in the current version
+
+3
+00:00:03,800 --> 00:00:05,960
+of inkscape where converting a stroke to
+
+4
+00:00:05,960 --> 00:00:07,799
+a path gives you a different result than
+
+5
+00:00:07,799 --> 00:00:09,719
+what you expect and to show you what I
+
+6
+00:00:09,719 --> 00:00:12,200
+mean I have this simple fourpoint shape
+
+7
+00:00:12,200 --> 00:00:14,200
+that is a stroke and if I convert this
+
+8
+00:00:14,200 --> 00:00:16,239
+stroke to a path you can see what
+
+9
+00:00:16,239 --> 00:00:18,840
+happens we end up with a broken shape
+
+10
+00:00:18,840 --> 00:00:20,359
+now this is not what's supposed to
+
+11
+00:00:20,359 --> 00:00:22,000
+happen so I would imagine this is some
+
+12
+00:00:22,000 --> 00:00:24,160
+kind of bug in the software now the
+
+13
+00:00:24,160 --> 00:00:25,720
+inkscape team is usually good with
+
+14
+00:00:25,720 --> 00:00:27,240
+addressing these sorts of things so I'm
+
+15
+00:00:27,240 --> 00:00:28,880
+sure this will be ironed out in the next
+
+16
+00:00:28,880 --> 00:00:30,679
+update but in this tutorial I just want
+
+17
+00:00:30,679 --> 00:00:32,840
+to show you a simple fix for this so let
+
+18
+00:00:32,840 --> 00:00:34,879
+me press contrl Z to undo what I did
+
+19
+00:00:34,879 --> 00:00:36,480
+there what I'm going to do is I'm going
+
+20
+00:00:36,480 --> 00:00:38,719
+to select the object and now before I
+
+21
+00:00:38,719 --> 00:00:41,239
+convert it to a stroke I will go to path
+
+22
+00:00:41,239 --> 00:00:44,600
+and I will select reverse and now if I
+
+23
+00:00:44,600 --> 00:00:46,920
+go to path and select stroke to path you
+
+24
+00:00:46,920 --> 00:00:49,320
+can see we end up with the result as
+
+25
+00:00:49,320 --> 00:00:51,680
+intended now I don't know much about the
+
+26
+00:00:51,680 --> 00:00:53,199
+back end of this software and how this
+
+27
+00:00:53,199 --> 00:00:54,840
+sort of thing works but I would imagine
+
+28
+00:00:54,840 --> 00:00:56,879
+it has something to do with how the
+
+29
+00:00:56,879 --> 00:00:59,680
+start and end point of a path is defined
+
+30
+00:00:59,680 --> 00:01:01,640
+because the reverse function is normally
+
+31
+00:01:01,640 --> 00:01:04,119
+only used when we place text on a path
+
+32
+00:01:04,119 --> 00:01:05,880
+and we want to define whether the text
+
+33
+00:01:05,880 --> 00:01:07,720
+goes on the outside of the path or the
+
+34
+00:01:07,720 --> 00:01:09,880
+inside of the path but in this instance
+
+35
+00:01:09,880 --> 00:01:12,280
+it's also useful here as well another
+
+36
+00:01:12,280 --> 00:01:15,520
+thing you can do you can also flip the
+
+37
+00:01:15,520 --> 00:01:17,119
+object so if I were to press the letter
+
+38
+00:01:17,119 --> 00:01:18,720
+H on my keyboard and flip it
+
+39
+00:01:18,720 --> 00:01:20,960
+horizontally that will also work the
+
+40
+00:01:20,960 --> 00:01:23,759
+same way and I would imagine because it
+
+41
+00:01:23,759 --> 00:01:25,520
+reverses the path the same way path
+
+42
+00:01:25,520 --> 00:01:26,880
+reverse does and then after that you
+
+43
+00:01:26,880 --> 00:01:28,400
+could just press h again and then it's
+
+44
+00:01:28,400 --> 00:01:30,159
+back to the starting point so that
+
+45
+00:01:30,159 --> 00:01:31,640
+should do it for today's video I just
+
+46
+00:01:31,640 --> 00:01:33,479
+wanted to get this fix out there in case
+
+47
+00:01:33,479 --> 00:01:35,159
+you were encountering this problem and
+
+48
+00:01:35,159 --> 00:01:36,960
+it was frustrating you if you have any
+
+49
+00:01:36,960 --> 00:01:38,479
+questions leave a comment below and as
+
+50
+00:01:38,479 --> 00:01:41,920
+always thanks for watching
+

@@ -1,0 +1,156 @@
+1
+00:00:00,120 --> 00:00:03,000
+in this lecture I will add the nose tail
+
+2
+00:00:03,000 --> 00:00:05,819
+and scutes using the pencil tool I
+
+3
+00:00:05,819 --> 00:00:08,639
+select it I click on the green Swatch at
+
+4
+00:00:08,639 --> 00:00:10,440
+the top right I click on the snapping
+
+5
+00:00:10,440 --> 00:00:12,960
+icon to activate it and in the pencil
+
+6
+00:00:12,960 --> 00:00:15,059
+menu I will activate the interactive
+
+7
+00:00:15,059 --> 00:00:17,880
+icon this option will let me improve the
+
+8
+00:00:17,880 --> 00:00:20,340
+curve after drawing it let's draw the
+
+9
+00:00:20,340 --> 00:00:22,980
+tail when I hold my mouse above the edge
+
+10
+00:00:22,980 --> 00:00:25,320
+of the body I see the text handle the
+
+11
+00:00:25,320 --> 00:00:26,100
+path
+
+12
+00:00:26,100 --> 00:00:28,380
+this means the tool will snap to the
+
+13
+00:00:28,380 --> 00:00:31,199
+path Edge when I start drawing I keep my
+
+14
+00:00:31,199 --> 00:00:33,719
+mouse pressed down and follow the Curve
+
+15
+00:00:33,719 --> 00:00:36,360
+when I see the text handle to corner I
+
+16
+00:00:36,360 --> 00:00:38,760
+reach the corner of the body I let go of
+
+17
+00:00:38,760 --> 00:00:39,600
+the mouse
+
+18
+00:00:39,600 --> 00:00:42,000
+as we see right now my curve is not
+
+19
+00:00:42,000 --> 00:00:42,899
+smooth
+
+20
+00:00:42,899 --> 00:00:44,700
+so I will improve it by increasing
+
+21
+00:00:44,700 --> 00:00:47,760
+smoothing let's try 70. now let's make
+
+22
+00:00:47,760 --> 00:00:48,780
+the nose
+
+23
+00:00:48,780 --> 00:00:51,780
+this time I start from the corner
+
+24
+00:00:51,780 --> 00:00:54,239
+I smooth the curve even more by setting
+
+25
+00:00:54,239 --> 00:00:57,719
+smoothing to 100. now I draw the skews I
+
+26
+00:00:57,719 --> 00:01:00,180
+select the brown Swatch I set smoothing
+
+27
+00:01:00,180 --> 00:01:03,600
+to 60. when I stop drawing I see I am
+
+28
+00:01:03,600 --> 00:01:05,760
+missing the lower part of the scutes to
+
+29
+00:01:05,760 --> 00:01:07,920
+continue drawing I hold my mouse above
+
+30
+00:01:07,920 --> 00:01:09,600
+the last point of the path which will
+
+31
+00:01:09,600 --> 00:01:12,600
+become red I draw below the body and end
+
+32
+00:01:12,600 --> 00:01:15,000
+at the first point of the skews I press
+
+33
+00:01:15,000 --> 00:01:17,520
+the space bar to go to the select tool I
+
+34
+00:01:17,520 --> 00:01:19,920
+click on Lower to bottom I will give the
+
+35
+00:01:19,920 --> 00:01:22,560
+new parts a name to quickly localize the
+
+36
+00:01:22,560 --> 00:01:25,140
+parts hold alt and move your mouse over
+
+37
+00:01:25,140 --> 00:01:27,479
+the elements I will place the nostrils
+
+38
+00:01:27,479 --> 00:01:30,000
+on top in the next lecture I will add
+
+39
+00:01:30,000 --> 00:01:33,860
+the dots by using the spray tool
+

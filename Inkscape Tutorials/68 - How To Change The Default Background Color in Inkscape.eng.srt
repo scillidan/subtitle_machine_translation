@@ -1,0 +1,688 @@
+1
+00:00:01,020 --> 00:00:06,910
+[Music]
+
+2
+00:00:07,900 --> 00:00:11,059
+this is Nick with logos by Nick comm and
+
+3
+00:00:11,059 --> 00:00:12,680
+in this tutorial I'll be demonstrating
+
+4
+00:00:12,680 --> 00:00:14,629
+how you can make Inkscape have a dark
+
+5
+00:00:14,629 --> 00:00:17,119
+workspace on the canvas like illustrator
+
+6
+00:00:17,119 --> 00:00:19,160
+has and this is something that I've been
+
+7
+00:00:19,160 --> 00:00:21,020
+asked about a lot especially by those of
+
+8
+00:00:21,020 --> 00:00:22,700
+you who are switching over to Inkscape
+
+9
+00:00:22,700 --> 00:00:25,280
+from Illustrator and find the glaring
+
+10
+00:00:25,280 --> 00:00:27,619
+white canvas of Inkscape to be somewhat
+
+11
+00:00:27,619 --> 00:00:29,570
+of a nuisance when you're working but
+
+12
+00:00:29,570 --> 00:00:31,010
+before we get started if you'd like to
+
+13
+00:00:31,010 --> 00:00:32,628
+learn more about how Inkscape works be
+
+14
+00:00:32,628 --> 00:00:33,829
+sure to check out my Inkscape
+
+15
+00:00:33,829 --> 00:00:36,320
+masterclass it's a collection of over 60
+
+16
+00:00:36,320 --> 00:00:38,030
+videos where I go over all of the tools
+
+17
+00:00:38,030 --> 00:00:40,130
+and features in Inkscape and I explain
+
+18
+00:00:40,130 --> 00:00:41,690
+what they are and demonstrate how they
+
+19
+00:00:41,690 --> 00:00:43,040
+work I'll have a link in the description
+
+20
+00:00:43,040 --> 00:00:44,329
+of the video if you want to check that
+
+21
+00:00:44,329 --> 00:00:47,000
+out so to get us started here the first
+
+22
+00:00:47,000 --> 00:00:48,140
+thing you want to do is just make sure
+
+23
+00:00:48,140 --> 00:00:49,670
+that you are working with the proper
+
+24
+00:00:49,670 --> 00:00:51,860
+version of Inkscape which is version 1.0
+
+25
+00:00:51,860 --> 00:00:53,780
+or above if you don't know what your
+
+26
+00:00:53,780 --> 00:00:55,399
+version is just click on help and go to
+
+27
+00:00:55,399 --> 00:00:58,010
+about Inkscape and it will tell you in
+
+28
+00:00:58,010 --> 00:00:59,960
+this little pop-up window here as you
+
+29
+00:00:59,960 --> 00:01:02,329
+can see I am using version 1.0 if you're
+
+30
+00:01:02,329 --> 00:01:04,819
+using 1.0 or above or greater like a
+
+31
+00:01:04,819 --> 00:01:06,229
+newer version then you're good to go you
+
+32
+00:01:06,229 --> 00:01:08,000
+can close out of that if you're using an
+
+33
+00:01:08,000 --> 00:01:10,909
+older version like 0.9 2.5 or or
+
+34
+00:01:10,909 --> 00:01:13,250
+something even older than that you'll
+
+35
+00:01:13,250 --> 00:01:15,290
+probably have to use one of my older
+
+36
+00:01:15,290 --> 00:01:16,460
+tutorials because what I'm going to
+
+37
+00:01:16,460 --> 00:01:18,350
+demonstrate here won't apply to those
+
+38
+00:01:18,350 --> 00:01:20,450
+older versions so let's close out of
+
+39
+00:01:20,450 --> 00:01:22,220
+that let's set the dark theme first
+
+40
+00:01:22,220 --> 00:01:23,210
+let's come over here to where it says
+
+41
+00:01:23,210 --> 00:01:25,880
+edit and go to preferences and I'm gonna
+
+42
+00:01:25,880 --> 00:01:27,560
+come over to let me close the Tools menu
+
+43
+00:01:27,560 --> 00:01:29,479
+let me open up the interface menu and
+
+44
+00:01:29,479 --> 00:01:32,780
+expand that I'm gonna click on theme I'm
+
+45
+00:01:32,780 --> 00:01:35,390
+gonna use dark theme check that and then
+
+46
+00:01:35,390 --> 00:01:38,299
+use symbolic icons and check that and as
+
+47
+00:01:38,299 --> 00:01:40,369
+you can see here it's already looking a
+
+48
+00:01:40,369 --> 00:01:42,590
+lot more like illustrator so let's close
+
+49
+00:01:42,590 --> 00:01:44,330
+out of this menu what we want to do now
+
+50
+00:01:44,330 --> 00:01:46,310
+is make the workspace have a dark
+
+51
+00:01:46,310 --> 00:01:48,380
+background here so to do that we'll get
+
+52
+00:01:48,380 --> 00:01:52,009
+a file document properties and where it
+
+53
+00:01:52,009 --> 00:01:53,600
+says background color let's open that up
+
+54
+00:01:53,600 --> 00:01:56,180
+and I'm going to choose HSL from the
+
+55
+00:01:56,180 --> 00:01:58,130
+color selector and I'm going to choose
+
+56
+00:01:58,130 --> 00:02:00,530
+the L row down here and just slide that
+
+57
+00:02:00,530 --> 00:02:03,409
+up and as you can see it is changing the
+
+58
+00:02:03,409 --> 00:02:05,720
+background it's changing the canvas
+
+59
+00:02:05,720 --> 00:02:08,209
+background as I change it there and I'm
+
+60
+00:02:08,209 --> 00:02:09,258
+going to leave it right about there
+
+61
+00:02:09,258 --> 00:02:11,150
+that's looking pretty good as you can
+
+62
+00:02:11,150 --> 00:02:12,709
+see it's already a lot easier on the
+
+63
+00:02:12,709 --> 00:02:13,940
+eyes it isn't it isn't
+
+64
+00:02:13,940 --> 00:02:15,190
+you don't have like this bright white
+
+65
+00:02:15,190 --> 00:02:18,260
+background shining into your eyes so let
+
+66
+00:02:18,260 --> 00:02:19,880
+me close out of that and close out of
+
+67
+00:02:19,880 --> 00:02:23,990
+that what we need now is a white like a
+
+68
+00:02:23,990 --> 00:02:26,150
+white art board to work with to do that
+
+69
+00:02:26,150 --> 00:02:28,250
+let me grab the squares and rectangles
+
+70
+00:02:28,250 --> 00:02:30,440
+tool I'm going to create a rectangle and
+
+71
+00:02:30,440 --> 00:02:33,290
+I'm going to grab the select tool let me
+
+72
+00:02:33,290 --> 00:02:35,660
+size this rectangle let me set the
+
+73
+00:02:35,660 --> 00:02:37,010
+increments to pixels I'm going to size
+
+74
+00:02:37,010 --> 00:02:40,580
+it by 1280 by 1280 if you can size it to
+
+75
+00:02:40,580 --> 00:02:41,870
+whatever you want I just like to work
+
+76
+00:02:41,870 --> 00:02:45,140
+with 1280 by 1280 as a default I'm going
+
+77
+00:02:45,140 --> 00:02:47,660
+to make that white and now I'm going to
+
+78
+00:02:47,660 --> 00:02:49,220
+open up the document properties again
+
+79
+00:02:49,220 --> 00:02:51,170
+I'm going to file document properties
+
+80
+00:02:51,170 --> 00:02:56,990
+and over here we're looking for resized
+
+81
+00:02:56,990 --> 00:03:00,380
+page to content right there and resize
+
+82
+00:03:00,380 --> 00:03:02,210
+page to drawing or selection click on
+
+83
+00:03:02,210 --> 00:03:04,160
+that and it's going to resize the page
+
+84
+00:03:04,160 --> 00:03:06,080
+boundaries around that rectangle you
+
+85
+00:03:06,080 --> 00:03:08,270
+have selected and where it says show
+
+86
+00:03:08,270 --> 00:03:10,610
+page Bodrum is going to disable that I'd
+
+87
+00:03:10,610 --> 00:03:12,860
+rather that not be there let's close out
+
+88
+00:03:12,860 --> 00:03:14,660
+of that and as you can see we now have a
+
+89
+00:03:14,660 --> 00:03:16,460
+white artboard to work with let me zoom
+
+90
+00:03:16,460 --> 00:03:18,530
+in on this a little bit but the problem
+
+91
+00:03:18,530 --> 00:03:19,880
+you'll have now is that you can
+
+92
+00:03:19,880 --> 00:03:21,530
+accidentally click this thing and alter
+
+93
+00:03:21,530 --> 00:03:22,910
+it while you're working it'll get your
+
+94
+00:03:22,910 --> 00:03:24,620
+way so in order to anchor this thing
+
+95
+00:03:24,620 --> 00:03:27,080
+down what I'm going to do is use layers
+
+96
+00:03:27,080 --> 00:03:28,430
+so I'll come over here to the layers
+
+97
+00:03:28,430 --> 00:03:30,920
+menu let's click on that ctrl shift and
+
+98
+00:03:30,920 --> 00:03:33,709
+L is the keyboard shortcut and I'm gonna
+
+99
+00:03:33,709 --> 00:03:38,570
+rename this layer to canvas and I'm
+
+100
+00:03:38,570 --> 00:03:40,190
+going to lock it I'm going to lock that
+
+101
+00:03:40,190 --> 00:03:41,989
+layer so that we can't click on it and
+
+102
+00:03:41,989 --> 00:03:43,700
+edit it while we're working and now I'm
+
+103
+00:03:43,700 --> 00:03:45,820
+going to add a new layer on top of it
+
+104
+00:03:45,820 --> 00:03:48,620
+and I'm going to name this content this
+
+105
+00:03:48,620 --> 00:03:53,209
+is the content layer click Add and there
+
+106
+00:03:53,209 --> 00:03:56,300
+you go now you have a set up similar to
+
+107
+00:03:56,300 --> 00:03:58,700
+illustrator where you have a black or a
+
+108
+00:03:58,700 --> 00:04:01,040
+dark work space with a white artboard
+
+109
+00:04:01,040 --> 00:04:03,019
+then you can export as needed a couple
+
+110
+00:04:03,019 --> 00:04:04,220
+of things though I'd like to point out
+
+111
+00:04:04,220 --> 00:04:06,140
+number one is Inkscape does not
+
+112
+00:04:06,140 --> 00:04:08,570
+recognize this white background as an
+
+113
+00:04:08,570 --> 00:04:10,370
+actual background it recognizes it as a
+
+114
+00:04:10,370 --> 00:04:12,620
+white rectangle so if you go to export
+
+115
+00:04:12,620 --> 00:04:15,080
+an object on top of this background it's
+
+116
+00:04:15,080 --> 00:04:17,690
+going to export the white rectangle with
+
+117
+00:04:17,690 --> 00:04:18,950
+it let me show you what I mean here if I
+
+118
+00:04:18,950 --> 00:04:20,690
+grab the the circles and ellipses tool
+
+119
+00:04:20,690 --> 00:04:22,760
+and I click and drag to create the
+
+120
+00:04:22,760 --> 00:04:25,460
+ellipse let me just make that red if I
+
+121
+00:04:25,460 --> 00:04:27,810
+go to file export PNG image
+
+122
+00:04:27,810 --> 00:04:30,780
+and I exported by selection it's going
+
+123
+00:04:30,780 --> 00:04:32,490
+to export everything within this
+
+124
+00:04:32,490 --> 00:04:35,370
+rectangular bounding box including the
+
+125
+00:04:35,370 --> 00:04:37,290
+white background there because like I
+
+126
+00:04:37,290 --> 00:04:39,480
+said Inkscape does not recognize this as
+
+127
+00:04:39,480 --> 00:04:41,460
+a background it recognizes it as a white
+
+128
+00:04:41,460 --> 00:04:43,380
+object so normally it would export to
+
+129
+00:04:43,380 --> 00:04:45,690
+transparency here but now over this
+
+130
+00:04:45,690 --> 00:04:46,980
+object it's going to export with the
+
+131
+00:04:46,980 --> 00:04:49,110
+white background to change that you can
+
+132
+00:04:49,110 --> 00:04:50,820
+just select this option right here that
+
+133
+00:04:50,820 --> 00:04:53,700
+says hide all except selected and with
+
+134
+00:04:53,700 --> 00:04:55,590
+that with that selected you can now
+
+135
+00:04:55,590 --> 00:04:58,380
+export this red ellipse and get a
+
+136
+00:04:58,380 --> 00:05:00,330
+transparent background in the corners
+
+137
+00:05:00,330 --> 00:05:02,370
+here if you want to save this as your
+
+138
+00:05:02,370 --> 00:05:04,590
+startup file so that you don't have to
+
+139
+00:05:04,590 --> 00:05:06,240
+manually create this every time you want
+
+140
+00:05:06,240 --> 00:05:08,790
+to design something just go to file save
+
+141
+00:05:08,790 --> 00:05:12,410
+template and I'm going to title this
+
+142
+00:05:12,410 --> 00:05:17,850
+dark canvas and where it says set as
+
+143
+00:05:17,850 --> 00:05:19,669
+default template go ahead and check that
+
+144
+00:05:19,669 --> 00:05:21,690
+you know what let me get rid of this
+
+145
+00:05:21,690 --> 00:05:22,919
+right let me get rid of this ellipse
+
+146
+00:05:22,919 --> 00:05:25,320
+first and don't want that in there let's
+
+147
+00:05:25,320 --> 00:05:28,830
+go to file save as no I'm sorry not save
+
+148
+00:05:28,830 --> 00:05:33,500
+as save template and save this as dark
+
+149
+00:05:33,500 --> 00:05:37,590
+canvas and set as default template and
+
+150
+00:05:37,590 --> 00:05:39,750
+go ahead and click Save and what happens
+
+151
+00:05:39,750 --> 00:05:41,850
+now is you can go ahead and close out of
+
+152
+00:05:41,850 --> 00:05:44,520
+Inkscape and once you reload Inkscape
+
+153
+00:05:44,520 --> 00:05:46,140
+every time you open up Inkscape now you
+
+154
+00:05:46,140 --> 00:05:48,419
+will get this as your default template
+
+155
+00:05:48,419 --> 00:05:49,620
+so that you don't have to do this all
+
+156
+00:05:49,620 --> 00:05:51,419
+the time if you don't feel like setting
+
+157
+00:05:51,419 --> 00:05:53,280
+this up what I'll do is I will save this
+
+158
+00:05:53,280 --> 00:05:55,919
+document as an SVG file and I will post
+
+159
+00:05:55,919 --> 00:05:57,539
+a link to it in the description of the
+
+160
+00:05:57,539 --> 00:05:58,620
+video so if you want you could just
+
+161
+00:05:58,620 --> 00:06:00,900
+download this file you can open it up
+
+162
+00:06:00,900 --> 00:06:02,340
+with Inkscape and then just go directly
+
+163
+00:06:02,340 --> 00:06:05,910
+to file save template and save it as
+
+164
+00:06:05,910 --> 00:06:09,000
+your default template from there so I
+
+165
+00:06:09,000 --> 00:06:10,050
+think that should do it for this
+
+166
+00:06:10,050 --> 00:06:11,700
+tutorial that is how you can go about
+
+167
+00:06:11,700 --> 00:06:16,530
+creating a a dark workspace in Inkscape
+
+168
+00:06:16,530 --> 00:06:18,030
+like you would have an illustrator if
+
+169
+00:06:18,030 --> 00:06:19,590
+you have any questions leave a comment
+
+170
+00:06:19,590 --> 00:06:21,410
+below and as always thanks for watching
+
+171
+00:06:21,410 --> 00:06:30,609
+[Music]
+
+172
+00:06:36,390 --> 00:06:40,519
+[Music]
+

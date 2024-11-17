@@ -1,0 +1,476 @@
+
+in  previous  tutorials  ive  demonstrated
+
+how  to  create  simple  line  style  drawings
+
+from  photos  by  using  some  of  the  tool
+
+settings  in  the  pen  tool  but  inkscape
+
+has  come  a  very  long  way  since  then  and
+
+theres  now  a  better  way  to  do  this
+
+using  the  power  stroke  path  effect  in
+
+this  lesson  ill  be  showing  you  how
+
+
+
+so  lets  go  over  how  you  can  use  this
+
+handy  feature  in  inkscape  were  going  to
+
+start  off  by  drawing  a  single  line  using
+
+the  bezier  pen  which  is  located  over
+
+here  in  your  toolbar  or  you  could  access
+
+it  by  pressing  the  letter  b  on  your
+
+keyboard
+
+im  going  to  click  on  the  canvas  once  to
+
+create  a  point  and  then  im  going  to
+
+hold  ctrl  on  the  keyboard  and  move  the
+
+line  straight  across  my  screen  like  that
+
+and  then  click  again  to  create  another
+
+point  and  then  i  can  let  go  of  control
+
+and  then  im  going  to  close  the  path  by
+
+pressing  enter  on  the  keyboard  and  now
+
+we  have  a  single  line  here  as  you  can
+
+see
+
+now  what  im  going to  do  is  grab  the
+
+edit  paths  by  nodes  tool  which  is
+
+located  over  here  and  im  going  to  click
+
+and  drag  on  this  line  like  this  just  to
+
+give  it  a  little  bit  of  a  curve  and  then
+
+im  going  to  click  on  these  nodes  over
+
+here
+
+and  im  going  to  get  access  to  these
+
+handles  and  use  these  handles  to  make
+
+this
+
+line  dip  down  over  here  and  then  rise  up
+
+over  here  so  we  have  a  fluid  curved  line
+
+like  that  now  im  creating  this  because
+
+this  is  a  good
+
+uh  way  to  depict  what  this  path  effect
+
+does
+
+so  once  weve  done  that  lets  grab  the
+
+selection  tool  we  now  have  our  line
+
+selected  im  going  to  open  up  the  path
+
+effects  menu  by  going  to  path  and
+
+selecting  path  effects
+
+and  with  this  line  selected  i  want  to
+
+click  this  little  plus  icon  down  here  in
+
+the  bottom  right  corner  to  add  a  new
+
+path  effect
+
+and  the  path  effect  that  were  going  to
+
+be  adding  from  this  list  is  called  power
+
+stroke  now  instead  of  trying  to  navigate
+
+through  this  list  and  find  it  you  can
+
+just  use  the  search  bar  up  here  and  type
+
+in  power
+
+and  it  should  come  up  right  over  there
+
+as  you  can  see  power  stroke  click  on
+
+that
+
+and  now  we  have  a  power  stroke  applied
+
+what  we  want  to  do  to  edit  this  power
+
+stroke  is  come  back  over  here  to  the
+
+edit  paths  by  nodes  tool
+
+and  youll  notice  on  your  path  you
+
+should  see  three  pink  nodes  let  me  zoom
+
+in  a little  bit  im  going  to  hold  ctrl
+
+and  roll  up  the  mouse  wheel  so  you  can
+
+see  it  better
+
+theres  one  pink  node  right  here  in  the
+
+center  point  of  the  path
+
+and  then  over  here  theres  another  pink
+
+point  on  the
+
+on  the  left  hand  side  of  the  path  or
+
+otherwise  known  as  the  start  point  of
+
+the  path  where  you  originally  drew  the
+
+path  first  and  then  over  here  towards
+
+the  end  point  theres  another  pink  path
+
+now  all  all  of  these  handles  allow  you
+
+to  change  the  width  of  your  stroke
+
+so  if  i  click  and  drag  on  this  pink  path
+
+right  here  you  can  see  the  stroke  is
+
+becoming  wider  as  i  move  it  like  this
+
+and  if  i  use  this  handle  down  here  i  can
+
+make  this  end  of  the  line  wider  as  well
+
+i  could  even  move  this  the  opposite  way
+
+and  get  like  a  little  bit  of  a  crossover
+
+effect  there  but  im  going  to  use  this
+
+to  make  this  about  that  size  and  then
+
+ill  do  the  same  thing  over  here  ill
+
+make  this  about  that  size  and  another
+
+thing  that  you  can  do  is  you  can  move
+
+the  location  of  these  handles
+
+so  that  you  can  change  the  width  of  any
+
+particular  spot  of  your  line  as  you  see
+
+me  doing  here  i  could  give  this  a  line  a
+
+bulge  over  here  so  that  this  kind  of
+
+looks  like  a  leaf  or  a  paintbrush  maybe
+
+or  i  could  bring  this  down  here  so  that
+
+we  end  up  with  a
+
+maybe  it  looks  more  like  a  follicle  of
+
+hair  or  something  like  that  okay  so  let
+
+me  put  this  back  over  here  let  me  show
+
+you  what  some  of  these  tool  settings  are
+
+over  here
+
+in  the  bottom  right  hand  corner  of  the
+
+screen  now  if  you  notice  theres  a  start
+
+cap  and  then  theres  an  end  cap  the
+
+start  cap  is  the  beginning  of  the  path
+
+that  you  originally  drew  and  the  end  cap
+
+is  the  end  of  the  path  that  was
+
+most  recently  finished
+
+now  if  i  change  this  by  default  its  set
+
+to  zero  width  if  i  want  to  change  the
+
+start  cap  to  rounded
+
+or  to  lets  say  for  example  but
+
+it  ends  up  with  the  flat
+
+edge  like  that  so  you  could  take  this
+
+handle  and  bring  this  over  here  like
+
+this  and  pull  this  all  the  way  out  so
+
+you  get  this  sort  of  effect  right  here
+
+where  it  kind  of  looks  like  a  wispy  hair
+
+okay  so  let  me  undo  that  and  then
+
+theres  other  settings  in  here  you  could
+
+try  as  well  you  can  make  this  peak
+
+which  ends  up  with  something  like  this
+
+right  here
+
+or  you  can  make  this  round  so  that  you
+
+have  a  rounded  path  like  that
+
+you  can  make  this  square  so  you  have  a
+
+squared  path  and  then  zero  width  takes
+
+you  back  to  the  starting  point  with  the
+
+fine  tip  like  that
+
+so  lets  put  this  tool  into  context  and
+
+use  it  to  create  a  simple  abstract
+
+mountain  range  logo  im  going  to  grab
+
+the  bezier  pen
+
+and  im  going  to  create  some  points  on
+
+my  canvas  in  the  shape  of  a  mountain  top
+
+with  a  couple  of  peaks
+
+as  you  can  see  here  like  this
+
+and  ill  press  enter
+
+and  now  im  going  to  add  the  power
+
+stroke  path  effect  as  we  did  previously
+
+grab  the  edit  pads  by  nodes  tool  im
+
+going  to  use  my  pink  handles  over  here
+
+to  make  this  a  little  wider  im  going  to
+
+use  this  handle  over  here  and  put  this
+
+towards  the  top  of  the  base  of  the  leg
+
+so  that  it  looks  a  little  more
+
+consistent
+
+there  we  go  and  i  want  this  side  to  be  a
+
+little  thicker  than  the  rest  of  it  so
+
+ill  make  that  a  little  bigger  like  that
+
+now  if  you  notice  here  the  corners  of
+
+this  mountain  range  are  rounded
+
+the  reason  why  that  happens  is  because
+
+the  default  setting  over  here  in  the
+
+tool  settings  where  it  says  join
+
+is  rounded  by  default  if  you  want
+
+corners  there  what  i  would  recommend
+
+doing  is  selecting  miter  and  as  you  can
+
+see  now  we  get  sharp  corners  like  that
+
+or  if  youre  working  with  curved  paths
+
+sometimes  youll  want  to  use
+
+extrapolated  arc  as  well  if  the  corners
+
+dont  show  up  using  miter
+
+for  this  demonstration  well  be  sticking
+
+with  miter
+
+okay  so  now  that  thats  done  im  going
+
+to  create  another  line  im  going to  come
+
+over  here
+
+im  going  to  draw  a  line  over  here
+
+start  a  point  right  there
+
+start  another  point  right  there
+
+and  press  enter  on  the  keyboard  and  im
+
+going  to  grab  the  edit  pads  by  nodes
+
+tool  im  just  going  to  click  and  drag
+
+this  down  like  that
+
+and  ill  take  this  and  ill  maybe  bring
+
+this  line  up  like  that
+
+maybe  bring  this  one  down  a little  more
+
+we  want  a  nice  fluid  curve  here
+
+and  im  going  to  update  my  mountain
+
+range
+
+to  to  accommodate  this  swoosh  a  little
+
+bit  im  going  to  take  this  side  right
+
+here  move  that  up  a  little  bit
+
+thats  a  little  better
+
+and  now  im  going  to  apply  a  power
+
+stroke  to  this  line  right  here
+
+use  my  nodes  right  here  to  make  this
+
+wider
+
+make  this  a  little  wider
+
+and  then  make  this  a  little  wider
+
+and  maybe  even  make  this  a  little  wider
+
+okay  thats  looking  a  lot  better
+
+and  im  just  going  to  adjust  this  a
+
+little  bit  make  sure  this  is  looking
+
+the  way  id  like  it  to  look
+
+and  there  we  go  id  say  thats  good
+
+enough  so  what  im going  to  do  now  is
+
+grab  the  selection  tool  as  you  can  see
+
+now  as  you  can  see  here  we  have  created
+
+a  very  simple  abstract  mountain  logo  now
+
+at  any  point  you  can  go  back  and  edit
+
+the  nodes  of  these  tools  you  can  go  back
+
+and  edit  the  width  of  these  lines  over
+
+here  like  that  of  the  power  stroke
+
+and  if  at  any  point  you  want  to  finalize
+
+this  so  that  it  becomes  an  editable  path
+
+all  you  have  to  do  is  select  everything
+
+and  go  to  path
+
+object  to  path  and  if  you  go  back  to
+
+your  nodes  tool  now  you  can  see  that
+
+this  is  an  individual  path  that  was
+
+created  using  that  power  stroke  function
+
+so  i  think  that  should  do  it  for  todays
+
+tutorial  that  is  how  you  can  use  the
+
+power  stroke  path  effect  in  inkscape
+
+before  i  end  this  video  if  you  found
+
+this  lesson  useful  then  consider
+
+checking  out  my  inkscape  master  class
+
+its  a  collection  of  over  60  videos
+
+where  i  go  over  all  of  the  tools  and
+
+features  in  inkscape  and  i  explain  what
+
+they  are  and  demonstrate  how  they  work
+
+kind  of  like  how  i  did  in  this  video  we
+
+even  have  a  private  community  where  you
+
+can  ask  questions  and  get  help  from  me
+
+anytime  you  want  and  best  of  all  theres
+
+no  monthly  membership  fees  you  just  pay
+
+17  one  time  and  youre  in  for  life  ill
+
+have  some  information  about  that  in  the
+
+description  of  the  video  if  you  want  to
+
+check  that  out  as  always  thanks  for
+
+watching
+
+you

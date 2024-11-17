@@ -1,0 +1,368 @@
+1
+00:00:00,179 --> 00:00:03,300
+in inkscape 1.3 there are new on canvas
+
+2
+00:00:03,300 --> 00:00:04,920
+blur controls
+
+3
+00:00:04,920 --> 00:00:07,799
+let's make a logo using directional blur
+
+4
+00:00:07,799 --> 00:00:10,380
+I will create a black background then I
+
+5
+00:00:10,380 --> 00:00:12,179
+select the text tool and click on the
+
+6
+00:00:12,179 --> 00:00:14,820
+canvas I will use Montserrat extra bold
+
+7
+00:00:14,820 --> 00:00:17,460
+which is a free Google font I type
+
+8
+00:00:17,460 --> 00:00:18,900
+inkscape
+
+9
+00:00:18,900 --> 00:00:20,939
+for the text I will have no fill but
+
+10
+00:00:20,939 --> 00:00:23,220
+only a stroke I want to have a gradient
+
+11
+00:00:23,220 --> 00:00:26,279
+inside the stroke I open fill and stroke
+
+12
+00:00:26,279 --> 00:00:28,800
+and stroke paint I click on linear
+
+13
+00:00:28,800 --> 00:00:29,760
+gradient
+
+14
+00:00:29,760 --> 00:00:32,640
+I want my gradient to have four colors I
+
+15
+00:00:32,640 --> 00:00:34,380
+imported a screenshot of the colors I
+
+16
+00:00:34,380 --> 00:00:35,100
+used
+
+17
+00:00:35,100 --> 00:00:37,559
+I will sample them with a dropper tool
+
+18
+00:00:37,559 --> 00:00:40,200
+for the left color stop I hold shift and
+
+19
+00:00:40,200 --> 00:00:41,399
+click on the Green
+
+20
+00:00:41,399 --> 00:00:43,440
+and for the right color stop I hold
+
+21
+00:00:43,440 --> 00:00:45,600
+shift and click on the yellow
+
+22
+00:00:45,600 --> 00:00:47,940
+now I will create two extra color stops
+
+23
+00:00:47,940 --> 00:00:50,579
+I can do this by double clicking on the
+
+24
+00:00:50,579 --> 00:00:51,539
+gradient
+
+25
+00:00:51,539 --> 00:00:53,640
+and I can drag the color stops or
+
+26
+00:00:53,640 --> 00:00:55,440
+position them numerically
+
+27
+00:00:55,440 --> 00:00:58,079
+I make the second color stop blue and
+
+28
+00:00:58,079 --> 00:01:00,719
+the third color stop I make magenta now
+
+29
+00:01:00,719 --> 00:01:03,359
+let's give the text the directional blur
+
+30
+00:01:03,359 --> 00:01:06,119
+for the blur I will duplicate the text
+
+31
+00:01:06,119 --> 00:01:08,400
+I go to fill and stroke and stroke paint
+
+32
+00:01:08,400 --> 00:01:11,040
+I set blur to 30.
+
+33
+00:01:11,040 --> 00:01:13,560
+I only want the blur to be horizontal so
+
+34
+00:01:13,560 --> 00:01:15,960
+I select the node tool I will remove the
+
+35
+00:01:15,960 --> 00:01:17,460
+vertical blur Direction
+
+36
+00:01:17,460 --> 00:01:19,560
+and I will reduce the opacity to 50
+
+37
+00:01:19,560 --> 00:01:20,700
+percent
+
+38
+00:01:20,700 --> 00:01:22,860
+I call the path blur
+
+39
+00:01:22,860 --> 00:01:24,600
+now let's give the text some accent
+
+40
+00:01:24,600 --> 00:01:27,360
+light I duplicate the text and call it
+
+41
+00:01:27,360 --> 00:01:29,820
+accent I make the stroke white and
+
+42
+00:01:29,820 --> 00:01:32,040
+reduce the stroke width I want the white
+
+43
+00:01:32,040 --> 00:01:34,740
+accent to fade out to the bottom to do
+
+44
+00:01:34,740 --> 00:01:36,780
+this I will apply a mask
+
+45
+00:01:36,780 --> 00:01:39,119
+I drag a rectangle over the text which
+
+46
+00:01:39,119 --> 00:01:40,439
+will become the mask
+
+47
+00:01:40,439 --> 00:01:42,900
+in a mask white reveals and black
+
+48
+00:01:42,900 --> 00:01:45,600
+conceals so I will give the rectangle a
+
+49
+00:01:45,600 --> 00:01:48,119
+gradient from white to black I go to
+
+50
+00:01:48,119 --> 00:01:50,640
+fill and stroke and click on fill I
+
+51
+00:01:50,640 --> 00:01:52,380
+click on linear gradient
+
+52
+00:01:52,380 --> 00:01:54,960
+I position the gradient vertically the
+
+53
+00:01:54,960 --> 00:01:57,659
+bottom has to hide so I make it black
+
+54
+00:01:57,659 --> 00:01:59,820
+and the top has to be visible so I make
+
+55
+00:01:59,820 --> 00:02:02,579
+it white I cannot actually see how the
+
+56
+00:02:02,579 --> 00:02:04,259
+end result will look like
+
+57
+00:02:04,259 --> 00:02:06,780
+to easily tweak the actual result I will
+
+58
+00:02:06,780 --> 00:02:09,619
+clone the rectangle
+
+59
+00:02:10,199 --> 00:02:12,599
+in my layers I select the Clone in the
+
+60
+00:02:12,599 --> 00:02:13,860
+accent text
+
+61
+00:02:13,860 --> 00:02:17,400
+I right click and choose set mask I can
+
+62
+00:02:17,400 --> 00:02:19,200
+now adjust the gradient and see the
+
+63
+00:02:19,200 --> 00:02:22,440
+result it has on the accent text
+
+64
+00:02:22,440 --> 00:02:24,900
+I place the original on the bottom
+
+65
+00:02:24,900 --> 00:02:26,940
+I will place the Mast accent in a group
+
+66
+00:02:26,940 --> 00:02:29,400
+to make the effect stronger I will make
+
+67
+00:02:29,400 --> 00:02:30,540
+some copies
+
+68
+00:02:30,540 --> 00:02:32,520
+finally I will make a colored background
+
+69
+00:02:32,520 --> 00:02:35,040
+I will use the same colors I used for
+
+70
+00:02:35,040 --> 00:02:36,180
+the text
+
+71
+00:02:36,180 --> 00:02:38,700
+I duplicate the background I go to fill
+
+72
+00:02:38,700 --> 00:02:41,160
+and stroke and click on fill
+
+73
+00:02:41,160 --> 00:02:43,140
+I will reuse the gradient that I made
+
+74
+00:02:43,140 --> 00:02:44,459
+for the text
+
+75
+00:02:44,459 --> 00:02:46,800
+behind gradient I open the menu and
+
+76
+00:02:46,800 --> 00:02:48,360
+click on the gradient
+
+77
+00:02:48,360 --> 00:02:50,760
+I can get the gradient a name
+
+78
+00:02:50,760 --> 00:02:52,860
+I will use a mask to fade out the
+
+79
+00:02:52,860 --> 00:02:53,879
+gradient
+
+80
+00:02:53,879 --> 00:02:57,420
+I drag an ellipse and make it white
+
+81
+00:02:57,420 --> 00:02:59,400
+to be able to tweak the result I will
+
+82
+00:02:59,400 --> 00:03:01,940
+make a clone
+
+83
+00:03:02,879 --> 00:03:05,840
+I blur the original
+
+84
+00:03:07,080 --> 00:03:09,840
+I place the original on the bottom
+
+85
+00:03:09,840 --> 00:03:12,060
+I select the Clone and shift-click on
+
+86
+00:03:12,060 --> 00:03:14,519
+the gradient to select them both
+
+87
+00:03:14,519 --> 00:03:18,300
+I right click and choose set mask
+
+88
+00:03:18,300 --> 00:03:20,760
+I position the gradient
+
+89
+00:03:20,760 --> 00:03:23,459
+and place the gradient below the text
+
+90
+00:03:23,459 --> 00:03:26,459
+and I lower its opacity
+
+91
+00:03:26,459 --> 00:03:28,680
+by adjusting the original mask I can
+
+92
+00:03:28,680 --> 00:03:31,280
+adjust the result
+

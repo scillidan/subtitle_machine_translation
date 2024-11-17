@@ -1,0 +1,438 @@
+
+in  this  tutorial  Ill  be  demonstrating
+
+how  you  can  create  noise  gradients  using
+
+inkscape  and  the  example  Ill  be
+
+applying  it  to  is  this  eyeball  that
+
+willll  be  recreating  so  let  me  open  up
+
+inkscape  and  we  will  get  started  so  the
+
+first  thing  Im  going  to  do  is  draw  a
+
+circle  so  Im  going  to  grab  the  circles
+
+and  ellipses  tool  and  Im  going  to  hold
+
+control  and  shift  on  the  keyboard  and
+
+click  and  drag  to  create  a  circle  that
+
+starts  from  the
+
+inside  and  then  Im  going  to  make  this
+
+circle  white  and  then  Ill  grab  my
+
+selection  tool  and  I  will  right  click
+
+this  and  go  to  duplicate  and  Ill  make
+
+this  duplicate  copy  black  and  I  want  to
+
+apply  a  radial  gradient  to  this  black
+
+copy  so  Im  going  to  open  up  the  fill
+
+and  stroke  menu  if  you  dont  have  the
+
+fill  and  stroke  menu  opened  on  your
+
+screen  you  could  just  click  on  this
+
+color  stripe  down  here  where  it  says
+
+fill  and  itll  open  up  that  menu  and
+
+Under  The  Fill  tab  Im  going  to  click  on
+
+this  button  right  here  that  says  radial
+
+gradient  when  you  hover  your  cursor  over
+
+it  and  now  I  want  to  reverse  this
+
+gradient  so  that  black  is  on  the  outside
+
+and  transparency  is  on  the  inside  so  let
+
+me  grab  the  gradient  tool  over  here  and
+
+Im  going  to  click  this  icon  up  here  in
+
+the  tool  settings  menu  that  says  reverse
+
+the  direction  of  the
+
+gradient  and  then  Ill  zoom  in  on  this
+
+Im  going  to  double  click  the  path  the
+
+gradient  path  right  here  to  add  a  new
+
+stop  and  Im  going  to  bring  this  out  a
+
+little  bit  and  then  Ill  hold  control
+
+and  shift  and  grab  this  gradient  handle
+
+and  just  bring  this  in  a  little  bit  like
+
+that  and  now  Ill  zoom  out  so  this  is
+
+the  gradient  let  me  adjust  this  just  a
+
+little  more  this  is  the  gradient  that  I
+
+will  be  applying  the  noise  gradient  to
+
+so  let  me  grab  my  selection  tool  let  me
+
+move  this  over  a  little  bit  Im  going  to
+
+come  up  here  to  where  it  says  filters
+
+Ill  go  to  overlays  and  I  will  choose
+
+Im  looking  for  noise  fill  from  this
+
+list  and  Im  going  to  take  this
+
+menu  Im  going  to  tick  the  box  down  here
+
+that  says  live  preview  and  when  I  do
+
+that  you  can  see  there  is  a  noise  uh
+
+filter  applied  to  the  gradient  there  now
+
+a  couple  of  things  to  keep  in  mind  first
+
+things  first  I  want  to  come  over  here  to
+
+where  it  says  noise  color  and  I  want  to
+
+take  this  a  channel  and  make  sure  I  have
+
+this  all  the  way  down  to  zero  if  you
+
+dont  see  an  a  channel  here  just  come  up
+
+here  to  this  drop  down  and  choose  hsl
+
+from  this  list  and  now  Im  going  to  come
+
+back  over  here  to  the  options  Tab  and
+
+the  setting  that  were  going  to  pay
+
+attention  to  the  most  over  here  is
+
+dilation  were  going  to  have  to  adjust
+
+this  dilation  slider  based  on  the  color
+
+that  youre  working  with  and  how  intense
+
+you  want  the  uh  noise  effect  to  look  so
+
+if  I  bring  this  up  you  can  see  it  takes
+
+away  a  lot  of  the  effect  but  if  I  bring
+
+it  down  you  could  see  more  of  the  effect
+
+and  Ill  have  to  adjust  this  according
+
+to  my  own  preferences  so  for  this  design
+
+Im  going  to  bring  this  pretty  low  right
+
+about  there  I  think  maybe  a  little
+
+more  and  that  looks  pretty  good  and  once
+
+you  have  that  applied  you  can  click  the
+
+apply  button  and  now  the  noise  gradient
+
+is  applied  now  if  you  want  to  intensify
+
+this  effect  you  can  apply  it  a  second
+
+time  so  let  me  click  on  live  preview
+
+again  and  you  can  see  we  can  have  we
+
+have  a  second  effect  that  were  applying
+
+there  I  like  how  mine  looks  the  first
+
+time  so  Im  just  going  to  deselect  this
+
+Im  going  to  close  out  of  this  menu  and
+
+one  thing  to  keep  in  mind  if  your
+
+gradient  looks  a  little  blurry  if  the
+
+quality  looks  kind  of  low  uh  it  may  have
+
+something  to  do  with  the  settings  so
+
+come  up  here  to  inkscape  preferences  Im
+
+going  to  go  to  inkscape  and  Im  going  to
+
+click  on  settings  if  youre  using
+
+Windows  just  press  control  shift  p  on
+
+the  keyboard  and  in  this  search  bar  Im
+
+going  to  type
+
+filter  and  Im  going  to  come  down  here
+
+to  where  it  says  filter  effects  quality
+
+I  have  I  have  best  quality  set  for  my
+
+settings  here  and  that  gives  you  the
+
+sharpest  clearest  appearance  for  this
+
+filter  effect  that  were  applying  so  if
+
+yours  looks  a  little  blurry  and  soft
+
+its  probably  because  you  have  average
+
+or  maybe  a  lower  setting  uh  so  set  it  to
+
+best  quality  and  close  out  of  the
+
+menu  and  now  we  can  grab  the  gradient
+
+tool  and  we  can  adjust  this  like  any
+
+other  gradient  you  can  see  we  have  this
+
+noise  effect  here  thats  applied  to  the
+
+gradient  so  Ill  just  adjust  this  a
+
+little  further  and  now  Im  going  to
+
+create  the  rest  of  the  eyeball  so  let  me
+
+grab  my  ellipse  tool  let  me  deselect
+
+everything  by  pressing  the  Escape  key
+
+and  Im  going  to  snap  to  the  center
+
+Center  here  and  Im  going  to  hold
+
+control  and  shift  and  draw  another
+
+Circle  and  I  will  make  this  one  a
+
+lighter  shade  of  blue  and  then  Ill  grab
+
+my  selection  tool  right  click  go  to
+
+duplicate  and  Ill  make  this  second  one
+
+a  darker  shade  of  blue  and  just  like  I
+
+did  previously  this  will  be  the  one  that
+
+I  apply  the  noise  gradient  too  so  let  me
+
+apply  a  radial  gradient  Ill  go  back  to
+
+my  gradient  tool  Ill  reverse  the
+
+direction  of  the
+
+gradient  and  Im  going  to  zoom  in  on
+
+this  a  little  bit  Im  going  to  double
+
+click  the  path  and  just  adjust  this  a
+
+little  bit  there  we
+
+go  and  now  Im  going  to  apply  that
+
+effect  again  so  let  me  grab  my  selection
+
+tool  I  will  go  to
+
+filters  overlays  and  choose  noise  fill
+
+and  Im  going  to  move  my  menu  over  click
+
+the  live  preview  button  and  you  can  see
+
+we  have  the  noise  effect  there  and  Im
+
+going  to  adjust  my  dilation  again  just
+
+so  I  have  the  effect  that  I  want  now  if
+
+you  notice  here  previously  we  used  a
+
+lower  setting  to  get  that  effect  for
+
+this  color  Im  going  to  use  a  higher
+
+setting  Ill  click  apply  close  out  of  it
+
+and  now  I  can  go  back  to  my  gradient
+
+tool  and  adjust  this  as  needed  so  Ill
+
+make  this  oops  let  me  undo  that  Im
+
+going  to  adjust  this  a  little
+
+more  thats  a  little  closer  to  the
+
+effect  that  Im  going
+
+for  and  then  Ill  press  the  Escape  key
+
+to  deselect  everything  and  Ill  grab  my
+
+circle  tool  again  and  create  the  black
+
+circle  for  the  center  of  the  eye  Ill
+
+hold  control  and  shift  and  create
+
+another  Circle  and  it  looks  like  this
+
+ones  already  black  this  is  actually  a
+
+dark  gray  Im  going  to  make  this  black
+
+there  we  go  and  you  can  grab  your
+
+selection  tool  and  you  can  choose  just
+
+how  much  you  want  the  eyeball  to  be
+
+dilated
+
+there  and  then  finally  Im  going  to
+
+apply  a  drop  shadow  behind  everything
+
+here  so  let  me  grab  my  circles  and
+
+ellipses  tool  again  snap  to  the  center
+
+click  and  drag  to  draw  another
+
+Circle  Ill  make  this  one  black  grab  the
+
+selection  tool  and  Im  going  to  lower
+
+this  one  to  the  Bottom  by  clicking  this
+
+button  up  here  in  the  tool  settings  menu
+
+that  says  lower  to  the
+
+bottom  and  for  this  one  Im  going  to
+
+apply  a  and  blur  so  Ill  come  down  here
+
+to  the  blur  slider  and  Ill  bring  that
+
+up  like  that  and  now  I  will  apply
+
+another  noise  overlay  to  this  so  let  me
+
+go  to  filters  overlay  and  I  will  choose
+
+noise  fill  click  live
+
+preview  and  again  we  can  adjust  this  as
+
+needed  and  I  like  how  that  looks  so  I  I
+
+will  finalize  it  by  clicking  apply  close
+
+out  of  the  menu  and  there  you  go  weve
+
+created  that  eyeball  design  that  uses
+
+noise  grading  and  like  I  mentioned
+
+previously  these  gradients  are  editable
+
+like  any  other  gradient  say  for  example
+
+I  wanted  to  change  this  from  a  radial
+
+gradient  to  a  linear  gradient  I  could
+
+just  click  on  the  linear  button  and  now
+
+if  I  grab  my  gradient  tool  you  can  see  I
+
+have  the  editable  linear  gradient  like
+
+that  but  I  liked  how  it  looked
+
+previously  so  Ill  put  that
+
+back  and  there  we  go  that  should  do  it
+
+for  this  tutorial  that  is  how  you  can
+
+apply  noise  gradients  to  objects  using
+
+inkscape  if  you  found  this  lesson  useful
+
+then  consider  checking  out  my  in  inape
+
+master  class  its  a  collection  of  over
+
+60  videos  where  I  go  over  all  of  the
+
+tools  and  features  in  inkscape  and  I
+
+explain  what  they  are  and  demonstrate
+
+how  they  work  kind  of  like  how  I  did  in
+
+this  video  we  even  have  a  private
+
+Community  where  you  can  ask  questions
+
+and  get  help  from  me  anytime  you  want
+
+and  best  of  all  theres  no  monthly
+
+membership  fees  you  just  pay  $17  one
+
+time  and  youre  in  for  Life  Ill  have
+
+some  information  about  that  down  below
+
+if  you  want  to  check  that  out  as  always
+
+thanks  for
+
+watching
+
+
+
+h

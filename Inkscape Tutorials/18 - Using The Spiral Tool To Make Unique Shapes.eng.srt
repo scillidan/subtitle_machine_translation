@@ -1,0 +1,1320 @@
+1
+00:00:00,040 --> 00:00:01,680
+in this tutorial we'll be going over an
+
+2
+00:00:01,680 --> 00:00:03,679
+example of what can be created using the
+
+3
+00:00:03,679 --> 00:00:05,879
+spiral tool in inkscape and to show you
+
+4
+00:00:05,879 --> 00:00:07,640
+what I mean I have this simple spiral
+
+5
+00:00:07,640 --> 00:00:09,400
+path that I started off with and I was
+
+6
+00:00:09,400 --> 00:00:11,240
+able to use it to construct this rolled
+
+7
+00:00:11,240 --> 00:00:12,960
+sheet of paper icon that you could see
+
+8
+00:00:12,960 --> 00:00:14,839
+here and I will be demonstrating how to
+
+9
+00:00:14,839 --> 00:00:17,320
+create this entire thing so let me come
+
+10
+00:00:17,320 --> 00:00:19,000
+over here into a new document and we
+
+11
+00:00:19,000 --> 00:00:21,240
+will get started so the first thing I'm
+
+12
+00:00:21,240 --> 00:00:23,240
+going to do is grab my spiral tool which
+
+13
+00:00:23,240 --> 00:00:25,400
+is located over here and the tool
+
+14
+00:00:25,400 --> 00:00:27,400
+settings I want to use I already have
+
+15
+00:00:27,400 --> 00:00:29,679
+inputed into my input boxes here so go
+
+16
+00:00:29,679 --> 00:00:31,880
+ahead and pause the video and type in
+
+17
+00:00:31,880 --> 00:00:33,480
+these values into each of these three
+
+18
+00:00:33,480 --> 00:00:37,960
+boxes here we want 2.9 2.0 and
+
+19
+00:00:37,960 --> 00:00:40,000
+0.550 and once you do that you'll be
+
+20
+00:00:40,000 --> 00:00:42,000
+good to get started so now what I will
+
+21
+00:00:42,000 --> 00:00:44,079
+do is I will hold the control key and
+
+22
+00:00:44,079 --> 00:00:45,960
+click and drag to the right to create a
+
+23
+00:00:45,960 --> 00:00:48,000
+spiral and the way that I want this
+
+24
+00:00:48,000 --> 00:00:50,320
+spiral positioned I want the tail of the
+
+25
+00:00:50,320 --> 00:00:51,920
+Spiral on the right hand side I want
+
+26
+00:00:51,920 --> 00:00:54,559
+that to rest on the horizontal plane so
+
+27
+00:00:54,559 --> 00:00:56,440
+that it's going up vertically like that
+
+28
+00:00:56,440 --> 00:00:57,800
+we don't want it offc Center like that
+
+29
+00:00:57,800 --> 00:01:00,000
+we want it placed just like that and
+
+30
+00:01:00,000 --> 00:01:01,800
+that's the result we're looking for and
+
+31
+00:01:01,800 --> 00:01:03,239
+now I'm going to convert this to a path
+
+32
+00:01:03,239 --> 00:01:04,519
+so I'll come up here to where it says
+
+33
+00:01:04,519 --> 00:01:07,439
+path and I will go to object to path and
+
+34
+00:01:07,439 --> 00:01:09,479
+I'm going to grab my selection tool and
+
+35
+00:01:09,479 --> 00:01:11,560
+I'm going to flip this vertically by
+
+36
+00:01:11,560 --> 00:01:13,200
+pressing this button right here that
+
+37
+00:01:13,200 --> 00:01:15,799
+says flip uh object vertically or you
+
+38
+00:01:15,799 --> 00:01:17,280
+could just press the letter V on your
+
+39
+00:01:17,280 --> 00:01:19,400
+keyboard and that works as well and I'm
+
+40
+00:01:19,400 --> 00:01:21,079
+going to zoom in on this and I'm going
+
+41
+00:01:21,079 --> 00:01:22,640
+to click on it again to get the rotation
+
+42
+00:01:22,640 --> 00:01:24,200
+handles I'm going to rotate this around
+
+43
+00:01:24,200 --> 00:01:26,240
+a little bit just so that this tail
+
+44
+00:01:26,240 --> 00:01:27,920
+right here is not too far up we don't
+
+45
+00:01:27,920 --> 00:01:30,119
+want that too far up like that we want
+
+46
+00:01:30,119 --> 00:01:31,920
+this down a little bit and that looks a
+
+47
+00:01:31,920 --> 00:01:34,520
+lot better so what I'm going to do now
+
+48
+00:01:34,520 --> 00:01:36,320
+is first of all come up here to the tool
+
+49
+00:01:36,320 --> 00:01:38,720
+settings menu if you hover your cursor
+
+50
+00:01:38,720 --> 00:01:41,520
+over this first of four icons right here
+
+51
+00:01:41,520 --> 00:01:43,920
+it'll say when scaling objects scale the
+
+52
+00:01:43,920 --> 00:01:45,960
+stroke width by the same proportion make
+
+53
+00:01:45,960 --> 00:01:47,880
+sure you have that turned off right now
+
+54
+00:01:47,880 --> 00:01:50,560
+we want that disabled and once we do
+
+55
+00:01:50,560 --> 00:01:52,640
+that I'm going to come back over here to
+
+56
+00:01:52,640 --> 00:01:54,360
+my object click on it again to get back
+
+57
+00:01:54,360 --> 00:01:56,200
+to my scaling handles and I'm going to
+
+58
+00:01:56,200 --> 00:01:58,200
+take this bottom Arrow icon right here
+
+59
+00:01:58,200 --> 00:02:00,439
+and just scale this up like that so we
+
+60
+00:02:00,439 --> 00:02:02,640
+have this distorted effect as you can
+
+61
+00:02:02,640 --> 00:02:05,240
+see here and once we've done that I'm
+
+62
+00:02:05,240 --> 00:02:07,119
+just going to click on it again I'm
+
+63
+00:02:07,119 --> 00:02:09,000
+going to rotate this a little bit more
+
+64
+00:02:09,000 --> 00:02:11,440
+I'm not quite happy with how that looks
+
+65
+00:02:11,440 --> 00:02:13,319
+all right that looks a lot better and
+
+66
+00:02:13,319 --> 00:02:14,519
+now I'm going to open up the fill and
+
+67
+00:02:14,519 --> 00:02:16,000
+stroke menu so come over here to where
+
+68
+00:02:16,000 --> 00:02:18,840
+it says path or No Object and go to fill
+
+69
+00:02:18,840 --> 00:02:21,080
+and stroke and the menu should open up
+
+70
+00:02:21,080 --> 00:02:22,239
+over here on your right hand side of
+
+71
+00:02:22,239 --> 00:02:24,000
+your screen I'm going to select the
+
+72
+00:02:24,000 --> 00:02:26,640
+stroke style Tab and I want to change
+
+73
+00:02:26,640 --> 00:02:28,840
+the width of the stroke from one pixel
+
+74
+00:02:28,840 --> 00:02:30,400
+to five pixel
+
+75
+00:02:30,400 --> 00:02:32,879
+pixels and I want to make the caps
+
+76
+00:02:32,879 --> 00:02:35,560
+rounded as well and then I want to come
+
+77
+00:02:35,560 --> 00:02:37,440
+down here and bring the opacity of this
+
+78
+00:02:37,440 --> 00:02:38,760
+down in half this is just going to make
+
+79
+00:02:38,760 --> 00:02:40,440
+it easier for us to see what we're
+
+80
+00:02:40,440 --> 00:02:43,200
+working with as we move
+
+81
+00:02:43,200 --> 00:02:46,400
+forward so we now have the top portion
+
+82
+00:02:46,400 --> 00:02:48,120
+design so what I'm going to do is I'm
+
+83
+00:02:48,120 --> 00:02:49,560
+going to right click this and go to
+
+84
+00:02:49,560 --> 00:02:51,280
+duplicate and I'm going to hold the
+
+85
+00:02:51,280 --> 00:02:54,080
+control key and move this down here like
+
+86
+00:02:54,080 --> 00:02:56,720
+this this is going to represent the top
+
+87
+00:02:56,720 --> 00:02:58,239
+of the roll of paper and this is going
+
+88
+00:02:58,239 --> 00:02:59,760
+to represent the bottom if I could show
+
+89
+00:02:59,760 --> 00:03:01,319
+show you what I mean here this is the
+
+90
+00:03:01,319 --> 00:03:03,200
+shape we're starting off with and this
+
+91
+00:03:03,200 --> 00:03:04,560
+is what we're putting it we're putting
+
+92
+00:03:04,560 --> 00:03:07,159
+it down there like that and now what I
+
+93
+00:03:07,159 --> 00:03:08,560
+will do is let me click off of that to
+
+94
+00:03:08,560 --> 00:03:11,080
+deselect it I'm going to turn on
+
+95
+00:03:11,080 --> 00:03:12,280
+snapping I'm going to come over here to
+
+96
+00:03:12,280 --> 00:03:14,680
+this magnet icon and enable that let me
+
+97
+00:03:14,680 --> 00:03:17,200
+expand this menu and we don't want
+
+98
+00:03:17,200 --> 00:03:18,920
+advanced mode if you're in advanced mode
+
+99
+00:03:18,920 --> 00:03:20,080
+just come over here to where it says
+
+100
+00:03:20,080 --> 00:03:22,440
+reset to simple snapping mode and the
+
+101
+00:03:22,440 --> 00:03:24,799
+two options we want enabled in simple
+
+102
+00:03:24,799 --> 00:03:27,000
+mode are bounding boxes and nodes and
+
+103
+00:03:27,000 --> 00:03:29,920
+we're going to keep alignment turned off
+
+104
+00:03:29,920 --> 00:03:31,560
+so now I'm going to grab my bezier pen
+
+105
+00:03:31,560 --> 00:03:33,439
+which is located over here or the pen
+
+106
+00:03:33,439 --> 00:03:35,280
+tool as it's called and I'm going to
+
+107
+00:03:35,280 --> 00:03:36,760
+come over here and I'm going to snap to
+
+108
+00:03:36,760 --> 00:03:40,480
+the left side of this spiral and let me
+
+109
+00:03:40,480 --> 00:03:42,360
+zoom out I'm going to bring the line
+
+110
+00:03:42,360 --> 00:03:43,519
+straight down I'm going to hold my
+
+111
+00:03:43,519 --> 00:03:45,239
+control key to lock it onto the vertical
+
+112
+00:03:45,239 --> 00:03:47,599
+axis and then snap to the left edge of
+
+113
+00:03:47,599 --> 00:03:49,480
+the other shape like that and press
+
+114
+00:03:49,480 --> 00:03:51,640
+enter and now we want to give this
+
+115
+00:03:51,640 --> 00:03:53,400
+stroke the same style so let me change
+
+116
+00:03:53,400 --> 00:03:56,200
+this to five pixels and I'll make these
+
+117
+00:03:56,200 --> 00:03:58,040
+caps arounded as well and I'll bring
+
+118
+00:03:58,040 --> 00:04:00,200
+down the opacity of that in half and you
+
+119
+00:04:00,200 --> 00:04:01,959
+can see why I'm turning down the opacity
+
+120
+00:04:01,959 --> 00:04:04,159
+I want to be able to see where this line
+
+121
+00:04:04,159 --> 00:04:06,040
+lines up with the other path with the
+
+122
+00:04:06,040 --> 00:04:07,120
+spiral path I want to make sure
+
+123
+00:04:07,120 --> 00:04:09,000
+everything there is nice and lined up
+
+124
+00:04:09,000 --> 00:04:10,959
+and having partial opacity makes it easy
+
+125
+00:04:10,959 --> 00:04:12,360
+to see through these objects while you
+
+126
+00:04:12,360 --> 00:04:15,360
+do that so now let's create another line
+
+127
+00:04:15,360 --> 00:04:17,798
+going over here let's connect this top
+
+128
+00:04:17,798 --> 00:04:19,798
+part to this bottom part over here I'm
+
+129
+00:04:19,798 --> 00:04:20,918
+going to hold control bring this
+
+130
+00:04:20,918 --> 00:04:23,080
+straight down and then snap it onto the
+
+131
+00:04:23,080 --> 00:04:24,639
+path right there and press enter to
+
+132
+00:04:24,639 --> 00:04:27,360
+create the line I'm going to make the
+
+133
+00:04:27,360 --> 00:04:30,639
+width five pixels make the Caps rounded
+
+134
+00:04:30,639 --> 00:04:32,600
+and bring the opacity down in half like
+
+135
+00:04:32,600 --> 00:04:35,520
+that and now we have the right side in
+
+136
+00:04:35,520 --> 00:04:37,880
+place okay so I'll just zoom in to make
+
+137
+00:04:37,880 --> 00:04:39,440
+sure everything looks correct here we
+
+138
+00:04:39,440 --> 00:04:42,840
+want this nice and smooth we don't want
+
+139
+00:04:42,840 --> 00:04:44,120
+anything off
+
+140
+00:04:44,120 --> 00:04:46,199
+center and now I'm going to do the same
+
+141
+00:04:46,199 --> 00:04:47,600
+thing over here let me snap to this
+
+142
+00:04:47,600 --> 00:04:49,440
+piece bring this straight down by
+
+143
+00:04:49,440 --> 00:04:51,320
+holding the control key snap to the
+
+144
+00:04:51,320 --> 00:04:54,160
+bottom part click again and press enter
+
+145
+00:04:54,160 --> 00:04:57,199
+I'm going to make this five
+
+146
+00:04:58,560 --> 00:05:01,360
+pixels make the caps rounded bring the
+
+147
+00:05:01,360 --> 00:05:03,199
+opacity down and I'll do the same thing
+
+148
+00:05:03,199 --> 00:05:05,479
+over here I'll snap to the right Edge
+
+149
+00:05:05,479 --> 00:05:08,039
+bring the line straight down by holding
+
+150
+00:05:08,039 --> 00:05:10,320
+control there we go let me change the
+
+151
+00:05:10,320 --> 00:05:13,199
+style of this one as
+
+152
+00:05:13,479 --> 00:05:15,680
+well and it's starting to come together
+
+153
+00:05:15,680 --> 00:05:17,240
+as you can see we now have to get rid of
+
+154
+00:05:17,240 --> 00:05:19,360
+this bottom piece down here so uh
+
+155
+00:05:19,360 --> 00:05:21,080
+there's various ways we can get rid of
+
+156
+00:05:21,080 --> 00:05:22,800
+this bottom piece down here the way that
+
+157
+00:05:22,800 --> 00:05:23,840
+I'm going to do this is I'm going to
+
+158
+00:05:23,840 --> 00:05:26,319
+grab my select tool I'm going to enable
+
+159
+00:05:26,319 --> 00:05:28,080
+the ruler on my canvas by pressing
+
+160
+00:05:28,080 --> 00:05:29,840
+controlr on the keyboard if you're using
+
+161
+00:05:29,840 --> 00:05:31,319
+Mac it would be command R so I'm going
+
+162
+00:05:31,319 --> 00:05:33,520
+to press command R and now we have the
+
+163
+00:05:33,520 --> 00:05:36,039
+ruler and I'm going to come up here to
+
+164
+00:05:36,039 --> 00:05:38,600
+the horizontal ruler and click and drag
+
+165
+00:05:38,600 --> 00:05:39,880
+to pull a guide down and I'm going to
+
+166
+00:05:39,880 --> 00:05:42,800
+snap that guide right where the end
+
+167
+00:05:42,800 --> 00:05:44,960
+point of this vertical line is and now
+
+168
+00:05:44,960 --> 00:05:47,720
+I'm going to select this path right here
+
+169
+00:05:47,720 --> 00:05:50,280
+and I will grab my nodes tool and I will
+
+170
+00:05:50,280 --> 00:05:52,440
+double click right there to add a new
+
+171
+00:05:52,440 --> 00:05:54,560
+node and I'll make sure that Noe is
+
+172
+00:05:54,560 --> 00:05:56,400
+selected and I want to come up here to
+
+173
+00:05:56,400 --> 00:05:59,039
+where it says uh not join selected we
+
+174
+00:05:59,039 --> 00:06:00,560
+want this one right here break path at
+
+175
+00:06:00,560 --> 00:06:02,560
+selected nodes and that's going to break
+
+176
+00:06:02,560 --> 00:06:04,080
+that up into separate
+
+177
+00:06:04,080 --> 00:06:06,039
+pieces and now I'm going to grab my
+
+178
+00:06:06,039 --> 00:06:09,680
+select tool I'll go to path and I will
+
+179
+00:06:09,680 --> 00:06:12,039
+select break
+
+180
+00:06:12,039 --> 00:06:14,759
+apart deselect it by clicking off onto
+
+181
+00:06:14,759 --> 00:06:15,960
+the canvas and I'm going to take this
+
+182
+00:06:15,960 --> 00:06:17,400
+piece and just press delete to get rid
+
+183
+00:06:17,400 --> 00:06:19,479
+of it and then I will get rid of the
+
+184
+00:06:19,479 --> 00:06:21,199
+guide I'll press I'll click on the guide
+
+185
+00:06:21,199 --> 00:06:22,520
+hover the cursor over it until it
+
+186
+00:06:22,520 --> 00:06:24,520
+highlights red press the delete key to
+
+187
+00:06:24,520 --> 00:06:26,440
+get rid of the guide and now I will get
+
+188
+00:06:26,440 --> 00:06:28,520
+rid of the ruler as well by holding uh
+
+189
+00:06:28,520 --> 00:06:30,560
+command and pressing r or controlr if
+
+190
+00:06:30,560 --> 00:06:33,400
+you're on Windows or Linux so a lot of
+
+191
+00:06:33,400 --> 00:06:35,560
+this is in place now all we have to do
+
+192
+00:06:35,560 --> 00:06:38,199
+now is create these lines of text or
+
+193
+00:06:38,199 --> 00:06:39,639
+what are supposed to be lines of text
+
+194
+00:06:39,639 --> 00:06:40,919
+and then we'll fill this in with some
+
+195
+00:06:40,919 --> 00:06:43,720
+color so let me uh let me click on this
+
+196
+00:06:43,720 --> 00:06:45,919
+object up here the original spiral path
+
+197
+00:06:45,919 --> 00:06:47,039
+I'm going to right click that and go to
+
+198
+00:06:47,039 --> 00:06:49,919
+duplicate and I'll hold control and
+
+199
+00:06:49,919 --> 00:06:52,080
+bring this straight down like this let's
+
+200
+00:06:52,080 --> 00:06:54,240
+turn off snapping now we don't need that
+
+201
+00:06:54,240 --> 00:06:56,360
+anymore and I just want to I just want
+
+202
+00:06:56,360 --> 00:06:59,280
+to take this segment right here and use
+
+203
+00:06:59,280 --> 00:07:01,879
+it that so let me grab the rectangle
+
+204
+00:07:01,879 --> 00:07:03,800
+tool and I'll click and drag and create
+
+205
+00:07:03,800 --> 00:07:06,120
+a rectangle over that portion of the
+
+206
+00:07:06,120 --> 00:07:07,440
+Spiral right there we just want to take
+
+207
+00:07:07,440 --> 00:07:09,800
+this selection and then I'll select both
+
+208
+00:07:09,800 --> 00:07:13,720
+of those and I will go to path and
+
+209
+00:07:13,720 --> 00:07:16,120
+select cut path and that should break it
+
+210
+00:07:16,120 --> 00:07:17,720
+up into separate pieces and now we can
+
+211
+00:07:17,720 --> 00:07:19,199
+just take this piece right here and get
+
+212
+00:07:19,199 --> 00:07:21,039
+rid of that and get rid of this piece
+
+213
+00:07:21,039 --> 00:07:23,120
+right here as well and let me move this
+
+214
+00:07:23,120 --> 00:07:24,599
+up I'm going to hold control while doing
+
+215
+00:07:24,599 --> 00:07:25,759
+this so that we lock it onto the
+
+216
+00:07:25,759 --> 00:07:28,160
+vertical axis and I'm going to duplicate
+
+217
+00:07:28,160 --> 00:07:29,800
+this instead of right clicking and going
+
+218
+00:07:29,800 --> 00:07:31,039
+to duplicate I'm just going to press
+
+219
+00:07:31,039 --> 00:07:33,560
+contrl D or command D if you're on Mac
+
+220
+00:07:33,560 --> 00:07:35,120
+and then I'll take this duplicate copy
+
+221
+00:07:35,120 --> 00:07:36,680
+and move that down and I'm going to
+
+222
+00:07:36,680 --> 00:07:38,080
+repeat this I'm going to select both of
+
+223
+00:07:38,080 --> 00:07:40,960
+these control D to duplicate bring them
+
+224
+00:07:40,960 --> 00:07:43,240
+down here and I'll do this maybe one
+
+225
+00:07:43,240 --> 00:07:46,319
+more time bring these ones down
+
+226
+00:07:46,319 --> 00:07:48,360
+here and now we want to make sure that
+
+227
+00:07:48,360 --> 00:07:50,360
+these lines are evenly spaced so let me
+
+228
+00:07:50,360 --> 00:07:53,479
+select all of them and I will open up my
+
+229
+00:07:53,479 --> 00:07:55,639
+aligned distribute menu you can access
+
+230
+00:07:55,639 --> 00:07:57,800
+that by going to object and selecting
+
+231
+00:07:57,800 --> 00:08:00,319
+aligned distribute I already have mine
+
+232
+00:08:00,319 --> 00:08:02,720
+open over here in my dock dockable menu
+
+233
+00:08:02,720 --> 00:08:05,479
+so I'll just click on that and the
+
+234
+00:08:05,479 --> 00:08:06,919
+option I'm looking for over here where
+
+235
+00:08:06,919 --> 00:08:08,840
+it says distribute we want to choose
+
+236
+00:08:08,840 --> 00:08:10,720
+this option right here that says even
+
+237
+00:08:10,720 --> 00:08:13,039
+vertical gaps and when I click on
+
+238
+00:08:13,039 --> 00:08:15,840
+that it makes everything spaced apart
+
+239
+00:08:15,840 --> 00:08:17,919
+evenly and what we could do now is I'm
+
+240
+00:08:17,919 --> 00:08:19,479
+just going to adjust this a little bit
+
+241
+00:08:19,479 --> 00:08:20,960
+what we could do now is we can combine
+
+242
+00:08:20,960 --> 00:08:22,360
+all of these Strokes together so that
+
+243
+00:08:22,360 --> 00:08:24,280
+this becomes one shape so I'm going to
+
+244
+00:08:24,280 --> 00:08:27,520
+select everything and I will go to path
+
+245
+00:08:27,520 --> 00:08:30,360
+and select combine
+
+246
+00:08:30,360 --> 00:08:31,840
+and once you do that you can come back
+
+247
+00:08:31,840 --> 00:08:33,799
+over to your fill and stroke menu and we
+
+248
+00:08:33,799 --> 00:08:36,399
+can bring the opacity all the way up and
+
+249
+00:08:36,399 --> 00:08:38,159
+if you want you can make the stroke
+
+250
+00:08:38,159 --> 00:08:40,000
+larger another way that you can make the
+
+251
+00:08:40,000 --> 00:08:41,760
+stroke larger is that you can just scale
+
+252
+00:08:41,760 --> 00:08:43,080
+this down I'm going to hold control and
+
+253
+00:08:43,080 --> 00:08:45,279
+scale this down and since we have this
+
+254
+00:08:45,279 --> 00:08:47,920
+setting disabled as we scale the object
+
+255
+00:08:47,920 --> 00:08:49,880
+the stroke size will stay the same so if
+
+256
+00:08:49,880 --> 00:08:51,760
+you want a heavier stroke you can scale
+
+257
+00:08:51,760 --> 00:08:53,519
+this down like that and you could see
+
+258
+00:08:53,519 --> 00:08:55,279
+the result as it's happening and once
+
+259
+00:08:55,279 --> 00:08:56,720
+you're happy with the thickness of the
+
+260
+00:08:56,720 --> 00:08:58,959
+stroke let's enable this setting again
+
+261
+00:08:58,959 --> 00:09:00,680
+so so that now we can enlarge this
+
+262
+00:09:00,680 --> 00:09:02,519
+object without losing those
+
+263
+00:09:02,519 --> 00:09:05,279
+proportions and I'm actually going to
+
+264
+00:09:05,279 --> 00:09:06,640
+adjust that a little bit I don't want it
+
+265
+00:09:06,640 --> 00:09:07,640
+that
+
+266
+00:09:07,640 --> 00:09:10,760
+heavy okay that looks a little better so
+
+267
+00:09:10,760 --> 00:09:12,240
+all that's left now is to color this
+
+268
+00:09:12,240 --> 00:09:13,519
+thing in so let me zoom in on this a
+
+269
+00:09:13,519 --> 00:09:15,240
+little bit and I'm going to come over
+
+270
+00:09:15,240 --> 00:09:16,680
+here to my stroke paint Tab and I'm
+
+271
+00:09:16,680 --> 00:09:19,079
+going to give this a dark blue color
+
+272
+00:09:19,079 --> 00:09:20,240
+I'll come over here to the original
+
+273
+00:09:20,240 --> 00:09:21,880
+design you can see how I colored it here
+
+274
+00:09:21,880 --> 00:09:22,880
+this is I'm going to go for something
+
+275
+00:09:22,880 --> 00:09:24,920
+similar right here I mean obviously you
+
+276
+00:09:24,920 --> 00:09:26,680
+can color this however you'd like I'm
+
+277
+00:09:26,680 --> 00:09:29,200
+just going to go with this blue theme
+
+278
+00:09:29,200 --> 00:09:30,680
+I'll make this a little
+
+279
+00:09:30,680 --> 00:09:33,000
+darker and I want to fill in these empty
+
+280
+00:09:33,000 --> 00:09:35,120
+areas here using the paint bucket tool
+
+281
+00:09:35,120 --> 00:09:36,920
+so let me grab the paint bucket tool and
+
+282
+00:09:36,920 --> 00:09:38,160
+I'm going to click on this area right
+
+283
+00:09:38,160 --> 00:09:40,240
+here to fill it in and I'm going to
+
+284
+00:09:40,240 --> 00:09:42,320
+change that color to something else oops
+
+285
+00:09:42,320 --> 00:09:43,680
+that was the wrong thing let me press
+
+286
+00:09:43,680 --> 00:09:46,040
+control Z I want to choose the fill tab
+
+287
+00:09:46,040 --> 00:09:48,360
+not the stroke paint tab there we go let
+
+288
+00:09:48,360 --> 00:09:50,240
+me make this a different
+
+289
+00:09:50,240 --> 00:09:53,760
+color I'll go with a lighter shade of
+
+290
+00:09:53,760 --> 00:09:55,959
+blue and I'll come over here and fill
+
+291
+00:09:55,959 --> 00:09:59,839
+this in as well I'll make this a
+
+292
+00:09:59,839 --> 00:10:01,240
+I don't know why it's applying a stroke
+
+293
+00:10:01,240 --> 00:10:03,240
+let me get rid of that there we go I'll
+
+294
+00:10:03,240 --> 00:10:04,440
+take this and I'll make this one a
+
+295
+00:10:04,440 --> 00:10:06,720
+little
+
+296
+00:10:08,279 --> 00:10:10,600
+darker maybe I'll put a little more blue
+
+297
+00:10:10,600 --> 00:10:12,800
+in
+
+298
+00:10:13,600 --> 00:10:15,640
+there and then I'll do this one more
+
+299
+00:10:15,640 --> 00:10:17,440
+time I'll fill that one in and I'll make
+
+300
+00:10:17,440 --> 00:10:19,560
+this one the darkest of them all so let
+
+301
+00:10:19,560 --> 00:10:22,240
+me make it a little
+
+302
+00:10:22,240 --> 00:10:24,079
+darker and I'm actually going to make
+
+303
+00:10:24,079 --> 00:10:26,279
+this stroke a little darker as well to
+
+304
+00:10:26,279 --> 00:10:29,279
+accommodate these uh other colors and
+
+305
+00:10:29,279 --> 00:10:30,680
+once that's done we want to raise this
+
+306
+00:10:30,680 --> 00:10:32,000
+to the top so I'm going to press this
+
+307
+00:10:32,000 --> 00:10:33,800
+button over here that says raise to the
+
+308
+00:10:33,800 --> 00:10:36,240
+top we want that we want the stroke
+
+309
+00:10:36,240 --> 00:10:38,480
+object on top of everything else on top
+
+310
+00:10:38,480 --> 00:10:39,880
+of the fill objects and we could zoom
+
+311
+00:10:39,880 --> 00:10:42,200
+out and you can see we are finished so
+
+312
+00:10:42,200 --> 00:10:43,880
+that's an example of what you can do
+
+313
+00:10:43,880 --> 00:10:47,040
+using the spiral tool in inkscape if you
+
+314
+00:10:47,040 --> 00:10:48,760
+found this lesson useful then consider
+
+315
+00:10:48,760 --> 00:10:51,279
+checking out my inkscape master class
+
+316
+00:10:51,279 --> 00:10:53,120
+it's a collection of over 60 videos
+
+317
+00:10:53,120 --> 00:10:54,480
+where I go over all of the tools and
+
+318
+00:10:54,480 --> 00:10:56,560
+features in inkscape and I explain what
+
+319
+00:10:56,560 --> 00:10:58,519
+they are and demonstrate how they work
+
+320
+00:10:58,519 --> 00:11:00,440
+kind of like how how I did in this video
+
+321
+00:11:00,440 --> 00:11:02,160
+we even have a private Community where
+
+322
+00:11:02,160 --> 00:11:03,920
+you can ask questions and get help from
+
+323
+00:11:03,920 --> 00:11:06,440
+me anytime you want and best of all
+
+324
+00:11:06,440 --> 00:11:08,240
+there's no monthly membership fees you
+
+325
+00:11:08,240 --> 00:11:11,399
+just pay $17 one time and you're in for
+
+326
+00:11:11,399 --> 00:11:13,079
+Life I'll have some information about
+
+327
+00:11:13,079 --> 00:11:14,240
+that down below if you want to check
+
+328
+00:11:14,240 --> 00:11:17,959
+that out as always thanks for
+
+329
+00:11:23,370 --> 00:11:27,959
+[Music]
+
+330
+00:11:27,959 --> 00:11:30,959
+watching
+

@@ -1,0 +1,267 @@
+
+in  this  tutorial  well  be  going  over  how
+
+you  can  create  half  tone  gradients  using
+
+inkscape  so  to  get  started  the  first
+
+thing  Im  going  to  do  is  create  a  new
+
+document  size  to  1280x720  your  document
+
+doesnt  have  to  be  that  size  just  make
+
+your  document  in  whatever  size  youd
+
+like  your  gradient  to  be
+
+so  Ill  turn  on  snapping  up  here  and
+
+Ill  grab  my  rectangle  tool  and  Im
+
+going  to  snap  to  the  corners  of  my
+
+document  and  click  and  drag  to  create  a
+
+rectangle  in  the  size  of  my  document
+
+now  Im  going  to  make  this  rectangle
+
+white  and  Im  going  to  apply  a  black  and
+
+white  gradient  so  let  me  open  up  the
+
+fill  and  stroke  menu  by  coming  up  here
+
+to  where  it  says  object  and  selecting
+
+fill  and  stroke
+
+now  Under  The  Fill  tab  Im  going  to
+
+select  this  button  right  here  that  says
+
+linear  gradient
+
+and  when  we  get  these  handles  here  on
+
+the  screen  Im  going  to  select  this
+
+handle  over  here  on  the  right  and  Im
+
+going  to  make  this  one  black
+
+and  then  Im  going  to  take  this  gradient
+
+handle  and  snap  it  to  the  bottom  right
+
+corner  and  Ill  take  this  gradient
+
+handle  and  snap  it  to  the  top  right
+
+corner
+
+and  now  we  have  a  white  to  black  radiant
+
+like  that
+
+so  now  lets  open  up  the  layers  menu  let
+
+me  grab  my  select  tool  lets  come  up
+
+here  to  where  it  says  layer  and  select
+
+layers  and  objects
+
+and  what  were  going  to  do  now  is  were
+
+going  to  turn  off  actually  no  were
+
+going  to  lock  the  layer  here  and  then
+
+click  the  plus  icon  over  here  to  create
+
+a  new  layer
+
+Im  going  to  click  add  Im  going  to
+
+leave  the  default  as  it  is  make  sure
+
+its  above  current  and  click  add  and  now
+
+Im  going  to  zoom  in  on  the  top  left
+
+corner  of  my  document  over  here  and  Im
+
+going  to  grab  my  ellipse  tool  Im  going
+
+to  snap  to  the  top  left  corner  and  Im
+
+going  to  click  and  drag  to  create  a
+
+circle  and  Im  going  to  hold  to  the
+
+control  key  to  make  sure  were  creating
+
+a  perfectly  round  circle  and  Ill  make
+
+it  about  that  size  right  there  dont
+
+worry  too  much  about  the  size  at  this
+
+point  we  can  go  back  and  change  that
+
+later
+
+now  this  step  is  important  if  youre
+
+using  one  of  the  newer  versions  of
+
+inkscape  because  I  noticed  by  default  it
+
+sets  the  stroke  to  unknown  so  come  over
+
+here  to  the  fill  and  stroke  Tab  and
+
+under  the  stroke  paint  tab  if  you  have
+
+this  question  mark  box  highlighted  just
+
+click  this  x  right  here  to  make  sure
+
+theres  no  stroke  because  if  that  is
+
+enabled  then  its  going  to  mess  up  what
+
+were  about  to  do
+
+so  now  once  youve  done  that
+
+grab  your  selection  tool  with  the  object
+
+selected  go  to  edit
+
+clone  create  titled  clones
+
+and  the  settings  were  going  to  use  here
+
+were  going  to  use  Trace
+
+select  the  option  right  here  that  says
+
+trace  the  drawing  under  the  Clones  we
+
+want  to  trace  by  color
+
+were  going  to  leave  these  set  to  zero
+
+and  the  only  two  options  we  want  enabled
+
+over  here  are  size  and  color  and  then
+
+come  down  here  and  choose  width  and
+
+height  over  rows  and  columns  now  where
+
+it  says  width  and  height  input  the  width
+
+and  height  of  your  document  my  document
+
+was  1280x720  so  I  have  that  there
+
+already  and  then  I  just  have  this
+
+enabled  here  to  save  these  settings  next
+
+time  I  use  this  so  Ill  click  create  now
+
+and  once  you  do  that  you  can  see  it
+
+generates  those  it  generates  that  black
+
+circle  over  the  linear  gradient  and
+
+turns  it  into  this  halftone  gradient  so
+
+lets  work  with  this  some  more  lets
+
+first  go  back  to  our  layers  menu  let  me
+
+collapse  this  and  Ill  turn  off  the
+
+visibility  of  layer  1.  so  now  we  just
+
+have  the  halftone  gradient  and  if  you
+
+want  to  change  the  size  of  these  dots
+
+you  could  zoom  in  on  this  let  me  grab
+
+the  original  dot  over  here
+
+and  let  me  turn  off  snapping  now  because
+
+thatll  just  get  in  the  way  and  Ill
+
+make  this  a  little  smaller
+
+and  you  can  see  what  happens  as  I  make
+
+that  smaller  it  makes  the  gradient
+
+smaller  as  well  and  I  can  make  this
+
+bigger  and  get  the  opposite  effect
+
+now  we  have  that  effect  right  there  and
+
+anything  I  do  to  this  object  will  also
+
+be  applied  to  the  rest  of  these  dots  so
+
+you  can  change  the  color  now  if  youd
+
+like  as  well
+
+and  there  you  go  that  is  how  you  can
+
+create  a  simple  halftone  gradient  using
+
+inkscape  if  you  found  this  lesson  useful
+
+then  consider  checking  out  my  inkscape
+
+master  class  its  a  collection  of  over
+
+60  videos  where  I  go  over  all  of  the
+
+tools  and  features  in  inkscape  and  I
+
+explain  what  they  are  and  demonstrate
+
+how  they  work  kind  of  like  how  I  did  in
+
+this  video  we  even  have  a  private
+
+Community  where  you  can  ask  questions
+
+and  get  help  from  me  anytime  you  want
+
+and  best  of  all  theres  no  monthly
+
+membership  fees  you  just  pay  17  one  time
+
+and  youre  in  for  Life  Ill  have  some
+
+information  about  that  down  below  if  you
+
+want  to  check  that  out  as  always  thanks
+
+for  watching
+
+
+
+thank  you
+
+thank  you
+

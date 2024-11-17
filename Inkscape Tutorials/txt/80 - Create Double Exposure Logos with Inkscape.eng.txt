@@ -1,0 +1,297 @@
+
+
+
+this  is  Nick  with  logos  by  Nick  comm  and
+
+in  todays  tutorial  Ill  be
+
+demonstrating  how  you  can  create  these
+
+double  exposure  logos  using  Inkscape  and
+
+if  youd  like  to  learn  more  about  how
+
+Inkscape  works  be  sure  to  check  out  the
+
+Inkscape  master  class  which  is  a
+
+collection  of  over  50  videos  where  I  go
+
+over  all  of  the  tools  and  features  in
+
+Inkscape  and  I  explain  what  they  are  and
+
+demonstrate  how  they  work
+
+Ill  put  a  link  in  the  description  if
+
+you  want  to  check  that  out  so  Im  gonna
+
+get  started  here  in  Inkscape  the  first
+
+thing  we  want  to  do  is  just  set  up  our
+
+documents  that  were  all  working  with
+
+this  similar  workflow  Im  gonna  come  up
+
+here  where  it  says  view  and  I  want  to
+
+make  sure  we  have  custom  selected  and
+
+then  Ill  zoom  go  to  zoom  zoom  in  at  1
+
+to  1  and  then  I  want  to  open  up  the
+
+align  and  distribute  menu  with  this
+
+button  over  here  were  gonna  want  last
+
+selected  chosen  from  that  drop-down  and
+
+then  Ill  open  up  the  Edit  objects
+
+colors  gradients  and  Stroke  menu  with
+
+this  button  right  here  so  that  we  have
+
+those  two  menus  open  now  what  were
+
+gonna  do  is  were  going  to  import  some
+
+graphics  from  from  pixabay  which  is  like
+
+a  free  stock  photo  site  with  a  double
+
+exposure  logo  youre  pretty  much  doing
+
+is  youre  taking  two  different  objects
+
+and  combining  them  together  into  one
+
+object  now  let  me  show  you  what  I  mean
+
+here  Im  gonna  open  up  this  website  here
+
+Ill  have  a  link  to  all  of  this
+
+information  in  the  description  of  the
+
+video  Im  gonna  take  a  combination  of
+
+this  like  this  silhouette  of  a  skyline
+
+of  trees  here  and  combine  it  with  one  of
+
+these  animals  here  for  the  thumbnail  I
+
+use  the  bear  thats  what  Ill  be  using
+
+in  this  tutorial  so  what  Im  gonna  do  is
+
+Im  going  to  download  this  click  on  free
+
+download  Im  gonna  choose  the  vector
+
+graphic  the  SVG  download  that  let  me
+
+minimize  this  and  just  click  and  drag
+
+this  into  Inkscape  there  we  go  and  I
+
+want  to  come  over  here  and  do  the  same
+
+thing  download  this  the  SVG  download
+
+there  we  go
+
+click  and  drag  that  into  Inkscape  and
+
+there  we  go  now  let  me  open  up  Inkscape
+
+again  let  me  zoom  out  a  little  bit  Im
+
+gonna  hold  ctrl  and  roll  down  the  mouse
+
+wheel  a  few  times  to  zoom  out  I  want  to
+
+take  this  over  here  let  me  try
+
+ungrouping  this  is  seeing  if  I  could
+
+there  we  go  just  take  this  Im  gonna
+
+work  with  this  one  with  this  one  animal
+
+right  here  and  I  take  the  rest  of  these
+
+and  press  Delete  on  the  keyboard  to  get
+
+rid  of  them  and  what  Im  gonna  do  is  Im
+
+gonna  take  these  objects  and  make  them
+
+different  colors  and  bring  the  opacity
+
+down  so  I  can  see  them  a  little  better
+
+okay  so  Im  gonna  start  off  with  this
+
+object  right  here  Im  gonna  make  this
+
+red  bring  me  the  opacity  down  roughly
+
+and
+
+and  then  Ill  take  the  bear  Im  gonna
+
+make  this  blue  and  Ill  bring  the
+
+opacity  of  that  down  roughly  in  half  as
+
+well  and  Im  gonna  flick  this
+
+horizontally  actually  enough  where  it
+
+says  up  here  flip  selected  objects
+
+horizontally  Im  gonna  flip  that  over
+
+there  and  Im  trying  to  position  the
+
+bear  over  the  area  of  the  trees  where
+
+Id  like  to  combine  it  and  Im  gonna
+
+zoom  in  a  little  bit  by  holding  ctrl  and
+
+rolling  up  the  mouse  wheel  if  you  want
+
+to  move  the  page  around  you  just  press
+
+down  the  mouse-wheel  and  move  the  mouse
+
+Im  just  gonna  hold  ctrl  and  scale  this
+
+up  a  little  bit  I  want  to  grab  a  sample
+
+basically  what  Im  going  to  do  is  Im
+
+gonna  take  the  bear  and  the  trees  and
+
+Im  gonna  do  a  path  intersection  between
+
+the  two  of  them  and  its  gonna  create  an
+
+object  that  combines  the  two  of  these
+
+shapes  right  here  but  when  I  do  that
+
+its  gonna  cut  out  the  tops  of  the  trees
+
+here  because  thats  extending  further
+
+than  where  the  bear  is  but  I  want  to
+
+include  those  trees  in  this  design  so
+
+what  Im  gonna  do  first  is  Im  gonna
+
+grab  it  the  Bezier  pen  which  is  over
+
+here  you  can  just  press  B  on  the
+
+keyboard  its  a  keyboard  shortcut  and
+
+Im  gonna  manually  create  a  shape  going
+
+around  the  tops  of  these  trees  here  and
+
+Im  gonna  unify  it  with  the  bear  so  let
+
+me  start  out  right  over  here  Im  gonna
+
+click  to  create  a  shape  going  around  the
+
+outside  around  here  let  me  zoom  in  a
+
+little  bit  so  I  can  see  this  a  little
+
+better  right  over  here  there  we  go  is
+
+zoom  out  bring  it  straight  through  the
+
+object  and  back  to  the  starting  point
+
+like  that  now  what  Im  gonna  do  is  go  to
+
+the  Select  tool  Im  gonna  hold  shift  Im
+
+gonna  click  on  the  bear  graphic  with
+
+them  both  selected  Ill  go  to  path  Union
+
+and  now  I  will  hold  shift  and  click  on
+
+the  trees  so  that  I  have  both  of  those
+
+objects  selected  and  I  will  go  to  path
+
+intersection  you  may  have  to  give  this  a
+
+second  to  process  because  its  a  pretty
+
+uh  its  a  large  photo  here  it  looks  like
+
+it  didnt  work  for  this  one
+
+let  me  des  elect  it  there  might  be  this
+
+actually  might  be  a  group  of  images  so
+
+let  me  try  ungrouping  this  you  see  if
+
+that  helps  oh  there  we  go
+
+it  was  grouped  thats  why  let  me  bring
+
+the  opacity  down  let  me  click  off  of  the
+
+graphic  to  deselect  everything  and  start
+
+off  with  this  again
+
+click  on  this  hold  shift  click  on  this
+
+go  to  path  intersection  give  it  a  second
+
+and  do  its  thing  and  there  we  go  as  you
+
+can  see  we  have  a  combination  of  those
+
+two  objects  there  then  let  me  bring  the
+
+opacity  of  this  all  the  way  up
+
+let  me  make  this  black  or  dark  gray  and
+
+and  from  here  on  out  you  can  just  go
+
+ahead  and  add  your  test  your  text  and
+
+whatever  else  youd  like  to  add  and  that
+
+should  pretty  much  do  it  for  this
+
+tutorial  thats  how  you  can  go  about
+
+creating  those  double  exposure  style
+
+logos  using  Inkscape  if  you  have  any
+
+questions  let  me  know  and  as  always
+
+thanks  for  watching
+
+
+

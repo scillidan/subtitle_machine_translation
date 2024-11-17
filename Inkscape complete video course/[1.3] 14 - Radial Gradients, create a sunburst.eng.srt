@@ -1,0 +1,336 @@
+1
+00:00:00,299 --> 00:00:02,820
+in this lecture and the next one we will
+
+2
+00:00:02,820 --> 00:00:05,160
+make a 3D text effect on a Sunburst
+
+3
+00:00:05,160 --> 00:00:06,000
+background
+
+4
+00:00:06,000 --> 00:00:07,919
+we will start by making the Sunburst
+
+5
+00:00:07,919 --> 00:00:10,559
+background using radial gradients I
+
+6
+00:00:10,559 --> 00:00:12,420
+right click on the canvas and choose
+
+7
+00:00:12,420 --> 00:00:15,179
+document properties I set the canvas to
+
+8
+00:00:15,179 --> 00:00:16,199
+landscape
+
+9
+00:00:16,199 --> 00:00:18,060
+I activate snapping
+
+10
+00:00:18,060 --> 00:00:20,520
+I click on the rectangle tool I drag
+
+11
+00:00:20,520 --> 00:00:23,160
+over the canvas where it will snap now
+
+12
+00:00:23,160 --> 00:00:25,619
+let's create a radial gradient I click
+
+13
+00:00:25,619 --> 00:00:27,900
+on the fill and stroke tab I click on
+
+14
+00:00:27,900 --> 00:00:30,779
+radial gradient for the inside color I
+
+15
+00:00:30,779 --> 00:00:31,980
+pick an orange
+
+16
+00:00:31,980 --> 00:00:34,020
+and for the outer color I will select
+
+17
+00:00:34,020 --> 00:00:36,660
+red I want to bring the outer color more
+
+18
+00:00:36,660 --> 00:00:37,680
+to Orange
+
+19
+00:00:37,680 --> 00:00:40,320
+to go from red to orange I will drag the
+
+20
+00:00:40,320 --> 00:00:42,960
+Hue to the right you can also drag on
+
+21
+00:00:42,960 --> 00:00:45,059
+the outer ring of the color wheel and
+
+22
+00:00:45,059 --> 00:00:46,860
+for fine tuning you can click on the
+
+23
+00:00:46,860 --> 00:00:49,379
+plus and minus icons I can't see the
+
+24
+00:00:49,379 --> 00:00:51,600
+inner gradient color very well so I will
+
+25
+00:00:51,600 --> 00:00:54,539
+drag its Hue more to Orange I also want
+
+26
+00:00:54,539 --> 00:00:56,879
+the color to be a bit lighter to do this
+
+27
+00:00:56,879 --> 00:00:59,460
+I drag the lightness by dragging the
+
+28
+00:00:59,460 --> 00:01:01,500
+endpoints I can change the dimensions of
+
+29
+00:01:01,500 --> 00:01:04,019
+the radial gradient now that we have our
+
+30
+00:01:04,019 --> 00:01:06,479
+gradient let's create the Sunburst I
+
+31
+00:01:06,479 --> 00:01:09,240
+click on the star polygon tool like the
+
+32
+00:01:09,240 --> 00:01:11,040
+rectangle and ellipse tool the start
+
+33
+00:01:11,040 --> 00:01:13,680
+tool is a live shape I can make spikes
+
+34
+00:01:13,680 --> 00:01:14,939
+longer and shorter
+
+35
+00:01:14,939 --> 00:01:16,740
+and I can increase or decrease the
+
+36
+00:01:16,740 --> 00:01:19,500
+amount of spikes to get a triangle I
+
+37
+00:01:19,500 --> 00:01:21,780
+need three corners and I need the spoke
+
+38
+00:01:21,780 --> 00:01:25,500
+ratio to be 0.5 I drag then press Ctrl
+
+39
+00:01:25,500 --> 00:01:27,479
+and rotate until the triangle points
+
+40
+00:01:27,479 --> 00:01:28,320
+down
+
+41
+00:01:28,320 --> 00:01:30,780
+to use a path effect it is best to use a
+
+42
+00:01:30,780 --> 00:01:31,979
+regular path
+
+43
+00:01:31,979 --> 00:01:34,439
+to turn a live shape to a regular path I
+
+44
+00:01:34,439 --> 00:01:37,380
+go to path object to path now I hold
+
+45
+00:01:37,380 --> 00:01:40,320
+shift and drag the side in I drag the
+
+46
+00:01:40,320 --> 00:01:42,840
+triangle to the center until I see cusp
+
+47
+00:01:42,840 --> 00:01:44,579
+node to object midpoint
+
+48
+00:01:44,579 --> 00:01:46,380
+now I want to copy and rotate the
+
+49
+00:01:46,380 --> 00:01:47,400
+triangle
+
+50
+00:01:47,400 --> 00:01:51,000
+I click on pathfx from the menu I choose
+
+51
+00:01:51,000 --> 00:01:54,479
+rotate copies I click on the Node tool I
+
+52
+00:01:54,479 --> 00:01:56,579
+drag the rotation origin point to the
+
+53
+00:01:56,579 --> 00:01:59,040
+midpoint where it will snap I want the
+
+54
+00:01:59,040 --> 00:02:01,200
+beams to be larger so I drag over the
+
+55
+00:02:01,200 --> 00:02:03,720
+points I select show transformation
+
+56
+00:02:03,720 --> 00:02:06,479
+handles for selected nodes I scale the
+
+57
+00:02:06,479 --> 00:02:08,520
+beam until all beams are outside the
+
+58
+00:02:08,520 --> 00:02:12,360
+rectangle I set number of copies to 28 I
+
+59
+00:02:12,360 --> 00:02:14,879
+hold shift and drag aside to adjust the
+
+60
+00:02:14,879 --> 00:02:17,099
+width of the beams I don't want black
+
+61
+00:02:17,099 --> 00:02:19,800
+but white transparent beams so I click
+
+62
+00:02:19,800 --> 00:02:21,780
+on the white Swatch then I go to my
+
+63
+00:02:21,780 --> 00:02:23,879
+layers to set the opacity
+
+64
+00:02:23,879 --> 00:02:26,819
+I set opacity to 50 to get a better
+
+65
+00:02:26,819 --> 00:02:28,800
+blending with a gradient I set the blend
+
+66
+00:02:28,800 --> 00:02:30,239
+mode to soft light
+
+67
+00:02:30,239 --> 00:02:32,340
+now I want to hide the beams that go
+
+68
+00:02:32,340 --> 00:02:34,440
+outside the gradient I right click on
+
+69
+00:02:34,440 --> 00:02:37,500
+the gradient and choose set clip group I
+
+70
+00:02:37,500 --> 00:02:39,420
+drag the Sunburst above the clip folder
+
+71
+00:02:39,420 --> 00:02:42,660
+I name the path beams and I name the
+
+72
+00:02:42,660 --> 00:02:45,180
+rectangle gradient now I want to place
+
+73
+00:02:45,180 --> 00:02:46,800
+some sunlight at the top
+
+74
+00:02:46,800 --> 00:02:48,900
+I click on the ellipse tool and drag an
+
+75
+00:02:48,900 --> 00:02:49,860
+ellipse
+
+76
+00:02:49,860 --> 00:02:54,000
+I click on yellow I set blur to 50 I
+
+77
+00:02:54,000 --> 00:02:55,620
+drag the yellow inside the clip group
+
+78
+00:02:55,620 --> 00:02:58,080
+and place it below the beams I hold
+
+79
+00:02:58,080 --> 00:03:00,360
+shift and drag the side so that the
+
+80
+00:03:00,360 --> 00:03:02,760
+yellow covers the top of the Sunburst I
+
+81
+00:03:02,760 --> 00:03:04,800
+drag the top and bottom handles to place
+
+82
+00:03:04,800 --> 00:03:07,620
+the sunlight I name the shape sunlight
+
+83
+00:03:07,620 --> 00:03:09,840
+and the layer Sunburst in the next
+
+84
+00:03:09,840 --> 00:03:13,819
+lecture we will create the 3D text
+

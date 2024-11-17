@@ -1,0 +1,136 @@
+1
+00:00:00,420 --> 00:00:02,280
+if you are working on different logo
+
+2
+00:00:02,280 --> 00:00:04,019
+ideas and you're running out of space
+
+3
+00:00:04,019 --> 00:00:06,660
+you can make the page bigger to do this
+
+4
+00:00:06,660 --> 00:00:09,540
+click on the pages tool now I can simply
+
+5
+00:00:09,540 --> 00:00:11,400
+drag out a corner to make the artboard
+
+6
+00:00:11,400 --> 00:00:14,099
+larger you can also create a multi-page
+
+7
+00:00:14,099 --> 00:00:17,160
+file which you can then export as a PDF
+
+8
+00:00:17,160 --> 00:00:20,279
+I have my page set to A4 to change the
+
+9
+00:00:20,279 --> 00:00:22,859
+page size I right click to open document
+
+10
+00:00:22,859 --> 00:00:25,859
+properties if I click behind format I
+
+11
+00:00:25,859 --> 00:00:27,180
+can choose from a list of standard
+
+12
+00:00:27,180 --> 00:00:30,720
+formats I can also give it a size I
+
+13
+00:00:30,720 --> 00:00:32,579
+prefer to work in millimeter but I can
+
+14
+00:00:32,579 --> 00:00:35,480
+choose another measurement
+
+15
+00:00:36,899 --> 00:00:39,059
+I select the pages tool
+
+16
+00:00:39,059 --> 00:00:41,579
+I want to create two spreads I click on
+
+17
+00:00:41,579 --> 00:00:43,200
+the new page icon
+
+18
+00:00:43,200 --> 00:00:45,540
+to connect the pages I drag a page until
+
+19
+00:00:45,540 --> 00:00:46,800
+it snaps
+
+20
+00:00:46,800 --> 00:00:49,440
+I open document properties again I
+
+21
+00:00:49,440 --> 00:00:52,260
+deselect show Shadow I create a new page
+
+22
+00:00:52,260 --> 00:00:55,800
+in snapping I enable alignment
+
+23
+00:00:55,800 --> 00:00:58,440
+I drag the new page below the spread and
+
+24
+00:00:58,440 --> 00:01:00,000
+I add a fourth page
+
+25
+00:01:00,000 --> 00:01:02,399
+I'll place it against the page below
+
+26
+00:01:02,399 --> 00:01:05,519
+I will also Place some margins
+
+27
+00:01:05,519 --> 00:01:08,220
+I type 15 millimeters
+
+28
+00:01:08,220 --> 00:01:11,880
+I give all four pages a margin
+
+29
+00:01:11,880 --> 00:01:14,220
+you can also drag margins
+
+30
+00:01:14,220 --> 00:01:17,580
+or you can set a specific value
+
+31
+00:01:17,580 --> 00:01:21,320
+I can scroll with my scroll wheel
+
+32
+00:01:25,020 --> 00:01:28,400
+the margins are magnetic
+
+33
+00:01:29,280 --> 00:01:31,380
+in the next lecture we will export a
+
+34
+00:01:31,380 --> 00:01:34,400
+multi-page PDF
+

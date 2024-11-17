@@ -1,0 +1,30 @@
+In this lecture, I will place text on a three-dimensional object.
+Lets create a 3D cube in Inkscape. Ive already created a cube before, and will show the basics.
+I select the 3D Box tool. I click, and drag from the left corner.
+Ive now drawn a small part of the cube. To make it fit, I drag a front corner to the same place.
+I can increase the length, by dragging one of the four nodes. To go the other way, I hold Shift,
+and drag the opposite corner. And to make the cube higher, I hold Ctrl, and drag a corner.
+I can also prolong from the bottom, holding Ctrl. And I can prolong from the front,
+or from the back, holding the Ctrl key. I go to Outline preview mode, by pressing: Ctrl-Y.
+If I zoom out, I see I placed the vanishing points of the three converging lines, at the
+same distance, using a circle. The vanishing points also have equal distance to each other.
+This way, you get a uniform cube. If I bring a vanishing point closer to the cube, I will create
+more perspective. In the menu above, you can also change finite converging lines, to infinite
+parallel lines, by clicking on the toggle icons. I prefer however to work with three vanishing
+points, for realistic results. And by dragging the little cross, I can move the cube in 3D space.
+I will finalize the cube, by going to: Path > Object to Path. In my layers, I see the
+cube exists of six planes. If I hold Alt, I can see which plane corresponds with a path.
+I only need the front planes, so I delete the back planes. I call the object: Cube. I will
+flip the cube horizontally. Now lets place the text. To easily place the text on the cube planes,
+I will first place the text on a square. With the Rectangle tool I create a square, by holding Ctrl.
+I will duplicate it twice. I select the Text tool. For my font I will use Alpha Slab One, which is a
+free Google font. I click, and type: outside. I hold down Alt, and decrease the line height,
+with the arrow up key. I will make the text fit the square, and leave the edge visible.
+I will also place text on the other squares. To easily place the text on the cube, I will cut
+the text from the squares. So I select the text and a square, and go to path: Difference. I will
+give the paths a name. I make the background a bit lighter. And I make the cube black.
+To place the text in perspective, I go to: Path Effects. From the menu, I choose:
+Perspective/Envelope. Behind Type, I choose: Perspective. I select the Node tool, and activate
+Snapping. When I drag the corner nodes, they will snap to the corners of the cube. I make think
+80 percent gray. Next I place outside. In Path Effects, I choose: Perspective/Envelope. With
+the Node tool I place the text. Finally, I place the box. I make the box 10 percent gray.

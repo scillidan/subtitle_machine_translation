@@ -1,0 +1,21 @@
+Lets have a look at converting color to grayscale. And the challenges you may
+encounter. Here I have used three very different colors, that are easily distinguished. Lets see,
+how they look like in grayscale. I go to: Filters > Color > Grayscale. I click on Live preview.
+We see, in grayscale, they now look exactly the same. So how do we solve this problem? I will
+remove the grayscale effect by going to: Filters > Remove Filters. Lets try again. I go to:
+Filters > Color > Grayscale. Lets say, I want blue to be the darkest color.
+To do this, I will decrease the Lightness of blue. And I want red to be in between blue and green.
+I want to further increase the contrast between the colors. I increase Lightness. And I make
+blue and red darker. I click on: Apply, and on: Close. This is what I would expect these
+colors to look like in grayscale. I need a black and white variant of my logo. But applying the
+grayscale filter, will not actually change the colors. This is because a filter, is like a Live
+Path Effect. The Path Effect changes a path, but the original path still exists. And this
+is also true for a filter. The Grayscale filter only changes the appearance of the colors. The
+filter will be applied, when I export a PNG. But if I want to send someone a true grayscale SVG,
+I will have to change the actual colors. For this video, I gave the paths their corresponding color.
+To quickly see what colors you used in your document, open: Document Resources.
+I see I used five colors. I can not only see what colors I used, but also which fonts.
+Now lets convert the colors to grayscale. I will drag Fill and Stroke to the tabs below. I click
+on steam middle. I drag Saturation to zero. If a color is used in more paths, I right-click
+and choose: Select Same > Fill Color. Then I drag Saturation to zero. I do this for all five colors.
+Now lets say, I want the cup to be completely black. To do this, I drag Lightness to zero.

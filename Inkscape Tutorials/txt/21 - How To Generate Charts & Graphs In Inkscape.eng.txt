@@ -1,0 +1,292 @@
+
+in  a  video  that  I  uploaded  last  week
+
+discussing  some  of  the  differences
+
+between  illustrator  and  inkscape  one  of
+
+the  items  that  I  pointed  out  was  that  in
+
+inkscape  you  dont  have  the  ability  to
+
+generate  charts  and  graphs  like  you  can
+
+in  illustrator  but  it  turns  out  I  spoke
+
+too  soon  on  that  one  as  a  commenter
+
+pointed  out  there  is  an  extension  in
+
+inkscape  that  allows  you  to  do  this  and
+
+although  it  is  pretty  rudimentary  it
+
+does  work  well  enough  so  lets  go  over
+
+how  to  use  this  extension
+
+Im  going  to  open  up  a  new  document  and
+
+to  access  this  extension  were  going  to
+
+come  up  here  to  where  it  says  extensions
+
+were  going  to  go  down  to  render
+
+and  the  item  were  looking  for  is  nice
+
+charts
+
+and  in  this  menu
+
+if  you  come  over  here  to  where  it  says
+
+data  you  can  see  we  have  two  different
+
+types  of  data  that  we  can  input  we  can
+
+choose  data  from  a  file  I  havent  tried
+
+this  myself  but  apparently  you  can
+
+import  data  from  a  CSV  file  if  youd
+
+like  and  then  over  here  we  have  direct
+
+input  which  is  were  going  to  be
+
+focusing  on  for  this  lesson
+
+now  this  is  where  things  get  a  little
+
+complicated  if  you  come  down  here  to
+
+this  text  input  box  youll  see  this  is
+
+how  we  go  about  adding  items  to  our
+
+chart  so  every  item  that  you  add  has  to
+
+have  a  name  here  like  Ive  done  Ive
+
+written  in  Sample  item  and  then  add  a
+
+colon  and  then  the  number  representing
+
+the  percentage  of  that  chart  and  then
+
+add  a  comma  separating  it  from  the  next
+
+item
+
+so  its  kind  of  like  writing  code  here
+
+youre  gonna  have  to  write  this  for  each
+
+one  of  the  items  that  you  want  in  your
+
+chart  and  if  youre  using  the  percentage
+
+pie  chart  like  Im  using  youre  going  to
+
+want  to  make  sure  that  these  numbers  add
+
+up  to  100.
+
+so  Im  going  to  move  this  menu  off  to
+
+the  side  and  Im  going  to  tick  the  live
+
+preview  box
+
+and  its  going  to  show  you  a  preview  of
+
+what  gets  generated  here
+
+so  if  I  come  down  here  to  the  chart  type
+
+drop  down  you  can  see  we  have  four
+
+different  types  of  charts  that  we  can
+
+choose  from  if  I  choose  bar  chart
+
+we  get  something  like  this  right  here  if
+
+I  choose  pie  chart  we  get  the  regular
+
+pie  chart
+
+if  we  choose  pie  chart  percentage  it
+
+gives  you  the  same  pie  chart  but  with
+
+the  numbers  having  a  percentage  symbol
+
+after  them
+
+and  then  finally  we  have  stacked  bar
+
+chart  down  here  which  looks  like  that
+
+so  Im  going  to  go  back  to  pie  chart
+
+percentage
+
+and  if  you  come  over  here  to  the  labels
+
+tab  we  have  some  options  that  we  can
+
+work  with  you  can  change  the  font  if
+
+youd  like  you  can  change  the  font  size
+
+and  you  could  change  the  font  color  now
+
+the  problem  with  using  this  menu  is  that
+
+if  you  want  to  change  the  color  youre
+
+going  to  have  to  manually  type  in  the
+
+hex  code  and  if  you  want  to  change  the
+
+font  youll  have  to  manually  type  in  the
+
+font  name  here  so  maybe  this  menu  isnt
+
+the  best  way  to  go  about  doing  this  once
+
+youre  finished  generating  the  chart  you
+
+can  go  and  do  all  of  that  retroactively
+
+using  the  text  tool  in  the  fill  and
+
+stroke  menu  so  thats  probably  a  much
+
+easier  way  to  do  that  so  Im  going  to
+
+ignore  this  part  of  the  menu  and  Ill
+
+come  over  here  to  the  charts  tab
+
+and  if  you  notice  we  have  some  more
+
+options  that  we  can  work  with  more
+
+specifically  we  have  the  color  scheme
+
+that  we  can  change  if  I  click  on  this
+
+drop  down  right  here  I  can  choose  a  blue
+
+color  scheme  which  looks  like  that  I  can
+
+choose  gray  which  looks  like  that
+
+and  then  we  have  contrast  and  then  we
+
+have  sap
+
+so  thats  what  those  options  look  like
+
+Im  going  to set  this  back  to  default
+
+again  this  would  probably  be  easier  to
+
+change  after  we  generate  the  chart  so
+
+Im  going  to  leave  that  as  it  is  for  now
+
+and  then  over  here  we  can  add  or  remove
+
+a  drop  shadow  so  this  is  what  it  looks
+
+like  with  the  drop  shadow  added  beneath
+
+the  chart  if  I  deselect  that  we  just
+
+have  a  flat  chart  as  you  can  see  there
+
+and  then  finally  Ill  come  over  here  to
+
+the  values  tab  now  the  values  represent
+
+the  numbers  after  the  item  name  so  if
+
+you  dont  want  those  numbers  being
+
+displayed  there  you  can  just  untick  that
+
+box  and  then  those  values  will  be
+
+removed
+
+so  Im  going  to  put  them  back  on  there
+
+and  once  youre  finished  you  can  just
+
+click  the  apply  button  and  then  close
+
+out  of  the  menu  and  now  you  have  a  pie
+
+chart  that  you  can  work  with  and  you  can
+
+click  on  these  items  individually  and
+
+change  their  colors  like  any  other
+
+Vector  object  as  you  see  me  doing  here
+
+and  if  you  want  to  change  the  font  of
+
+the  text  you  just  grab  your  text  tool
+
+um  if  you  could  find  it  Im  just  going
+
+to  press  the  letter  t  on  the  keyboard  to
+
+access  it  and  you  can  just  triple  click
+
+your  text  to  select  it  and  choose  a  new
+
+font  using  the  text  menu  if  youd  like
+
+so  thats  how  you  can  go  about
+
+generating  charts  and  graphs  using  the
+
+nice  charts  extension  in  inkscape
+
+if  you  found  this  lesson  useful  then
+
+consider  checking  out  my  inkscape  master
+
+class  its  a  collection  of  over  60
+
+videos  where  I  go  over  all  of  the  tools
+
+and  features  in  inkscape  and  I  explain
+
+what  they  are  and  demonstrate  how  they
+
+work  kind  of  like  how  I  did  in  this
+
+video  we  even  have  a  private  Community
+
+where  you  can  ask  questions  and  get  help
+
+from  me  anytime  you  want  and  best  of  all
+
+theres  no  monthly  membership  fees  you
+
+just  pay  17  one  time  and  youre  in  for
+
+Life  Ill  have  some  information  about
+
+that  down  below  if  you  want  to  check
+
+that  out  as  always  thanks  for  watching
+
+all  right

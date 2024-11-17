@@ -1,0 +1,112 @@
+
+lets  go  over  how  you  can  save  an  object
+
+with  a  transparent  background  using
+
+inkscape  the  first  thing  youll  want  to
+
+do  is  create  a  selection  around  the
+
+object  youd  like  to  save  so  Im  going
+
+to  click  on  this  grouping  of  objects
+
+right  here  and  for  this  demonstration
+
+Im  going  to  save  this  icon  with  a
+
+transparent  background  once  you  have
+
+your  selection  enabled  open  up  the
+
+export  menu  by  going  to  file  and
+
+selecting
+
+export  from  the  export  menu  make  sure
+
+you  have  the  selection  tab  enabled  and
+
+come  down  here  to  this  little  thumbnail
+
+preview  that  shows  you  a  preview  of
+
+whats  going  to  be  saved
+
+now  if  you  just  want  your  selection  to
+
+be  saved  with  a  transparent  background
+
+and  nothing  else  make  sure  to  click  this
+
+button  right  here  that  says  export
+
+selection  only  and  once  you  do  that
+
+youll  notice  the  background  there
+
+changes  to  a  checkerboard  pattern
+
+indicating  transparency  if  you  dont
+
+have  this  option  selected  its  going  to
+
+export  everything  within  the  bounding
+
+box  of  the  selection  here  which  is  what
+
+I  dont  want  so  Im  going  to  enable  that
+
+again  and  now  to  save  this  Im  going  to
+
+click  on  this  folder  icon  down  here  to
+
+choose  a  location  on  my  hard  drive  to
+
+save  it  to  before  you  do  that  though
+
+come  over  here  to  this  drop  down  and
+
+make  sure  you  choose  portable  Network
+
+graphic  or  PNG  PNG  is  the  file  format
+
+that  supports  transparency  once  you  do
+
+that  click  on  the  folder  choose  a  name
+
+for  your  document  Im  just  going  to  name
+
+this  icon  and  then  Im  going  to  click
+
+save  and  if  you  navigate  over  to  the
+
+section  on  your  hard  drive  where  you
+
+have  saved  your  file  you  should  see  your
+
+PNG  has  been  saved  there  with  a
+
+transparent  background  as  you  can  see
+
+there  and  that  is  how  you  can  export  a
+
+PNG  with  a  transparent  background  using
+
+inkscape  join  the  logos  by  Nick  mailing
+
+listing  get  over  200  free  design
+
+templates  including  logos  avatars
+
+textures  infographics  and  more  as  a
+
+member  youll  receive  news  updates  and
+
+tips  about  your  favorite  design  apps
+
+just  use  the  link  below  to  subscribe  for
+
+free  and  download  your  templates  as
+
+always  thanks  for  watching

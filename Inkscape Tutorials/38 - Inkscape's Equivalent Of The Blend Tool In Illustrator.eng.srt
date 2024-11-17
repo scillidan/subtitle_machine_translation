@@ -1,0 +1,1176 @@
+1
+00:00:00,080 --> 00:00:01,760
+in adobe illustrator there's a really
+
+2
+00:00:01,760 --> 00:00:03,679
+handy tool called the blend tool which
+
+3
+00:00:03,679 --> 00:00:05,520
+allows you to make lots of copies of
+
+4
+00:00:05,520 --> 00:00:07,359
+objects and blend them together in
+
+5
+00:00:07,359 --> 00:00:08,720
+creative ways
+
+6
+00:00:08,720 --> 00:00:10,800
+inkscape doesn't have such a tool but it
+
+7
+00:00:10,800 --> 00:00:12,559
+does come with a couple of extensions
+
+8
+00:00:12,559 --> 00:00:15,120
+that when used in tandem can mimic the
+
+9
+00:00:15,120 --> 00:00:17,279
+function of illustrator's blend tool in
+
+10
+00:00:17,279 --> 00:00:19,350
+today's tutorial i'll be showing you how
+
+11
+00:00:19,350 --> 00:00:28,800
+[Music]
+
+12
+00:00:28,800 --> 00:00:30,480
+so getting us started here in inkscape
+
+13
+00:00:30,480 --> 00:00:31,519
+the first thing we're going to have a
+
+14
+00:00:31,519 --> 00:00:33,520
+look at is the scatter extension which
+
+15
+00:00:33,520 --> 00:00:35,200
+allows you to take a single object and
+
+16
+00:00:35,200 --> 00:00:37,200
+repeat it along a path as many times as
+
+17
+00:00:37,200 --> 00:00:38,960
+you'd like in order to use this
+
+18
+00:00:38,960 --> 00:00:40,879
+extension we're going to need a path to
+
+19
+00:00:40,879 --> 00:00:42,800
+place our object on so for this
+
+20
+00:00:42,800 --> 00:00:44,800
+demonstration i'm going to be creating a
+
+21
+00:00:44,800 --> 00:00:46,559
+spiral you can create whatever path
+
+22
+00:00:46,559 --> 00:00:47,920
+you'd like this is just the example i'm
+
+23
+00:00:47,920 --> 00:00:49,520
+going to use for this lesson
+
+24
+00:00:49,520 --> 00:00:50,800
+if you'd like to follow along with what
+
+25
+00:00:50,800 --> 00:00:52,160
+i'm doing just go ahead and pause the
+
+26
+00:00:52,160 --> 00:00:54,480
+video and input these values up here
+
+27
+00:00:54,480 --> 00:00:55,920
+into the tool settings for the spiral
+
+28
+00:00:55,920 --> 00:00:57,120
+tool and then we'll be good to get
+
+29
+00:00:57,120 --> 00:00:59,199
+started once that's done i'm going to
+
+30
+00:00:59,199 --> 00:01:00,879
+click and drag on the canvas like that
+
+31
+00:01:00,879 --> 00:01:02,879
+to create my spiral and that right there
+
+32
+00:01:02,879 --> 00:01:04,640
+represents the path that my object is
+
+33
+00:01:04,640 --> 00:01:05,920
+going to follow
+
+34
+00:01:05,920 --> 00:01:07,600
+so now i have to actually create the
+
+35
+00:01:07,600 --> 00:01:09,360
+object for this demonstration i'll just
+
+36
+00:01:09,360 --> 00:01:11,920
+be using a simple circle i'm going to
+
+37
+00:01:11,920 --> 00:01:13,920
+grab the circles and ellipses tool click
+
+38
+00:01:13,920 --> 00:01:15,280
+and drag on the canvas and then hold
+
+39
+00:01:15,280 --> 00:01:17,119
+ctrl to ensure that it's a perfectly
+
+40
+00:01:17,119 --> 00:01:18,799
+round circle like that
+
+41
+00:01:18,799 --> 00:01:20,159
+and i'm going to give this a gradient
+
+42
+00:01:20,159 --> 00:01:21,360
+just to help
+
+43
+00:01:21,360 --> 00:01:23,280
+demonstrate this effect a little better
+
+44
+00:01:23,280 --> 00:01:24,720
+i'm going to make this a solid fill
+
+45
+00:01:24,720 --> 00:01:27,439
+color first of something like pink
+
+46
+00:01:27,439 --> 00:01:29,119
+and then i'm going to apply a gradient
+
+47
+00:01:29,119 --> 00:01:30,560
+so let me grab
+
+48
+00:01:30,560 --> 00:01:32,320
+the fill and stroke menu which is
+
+49
+00:01:32,320 --> 00:01:34,560
+located up here or you can press ctrl
+
+50
+00:01:34,560 --> 00:01:37,759
+shift and f on the keyboard to access it
+
+51
+00:01:37,759 --> 00:01:39,280
+and up here under the fill tab i'm just
+
+52
+00:01:39,280 --> 00:01:40,400
+going to click this button over here
+
+53
+00:01:40,400 --> 00:01:42,640
+that says linear gradient and as you can
+
+54
+00:01:42,640 --> 00:01:44,560
+see right here we now have a linear
+
+55
+00:01:44,560 --> 00:01:46,880
+gradient on this object so this half of
+
+56
+00:01:46,880 --> 00:01:48,399
+the circle is pink i want to make this
+
+57
+00:01:48,399 --> 00:01:49,920
+half a different color so let me click
+
+58
+00:01:49,920 --> 00:01:52,479
+on this handle right here and i'm going
+
+59
+00:01:52,479 --> 00:01:55,200
+to change this color to something else
+
+60
+00:01:55,200 --> 00:01:56,560
+i'm going to use
+
+61
+00:01:56,560 --> 00:01:58,799
+a lighter shade of blue like that
+
+62
+00:01:58,799 --> 00:02:00,000
+and now i'm going to take the handles of
+
+63
+00:02:00,000 --> 00:02:01,520
+this gradient and just move this like
+
+64
+00:02:01,520 --> 00:02:03,840
+this i'm going to put this one up here
+
+65
+00:02:03,840 --> 00:02:05,520
+i'm going to hold ctrl to lock it onto
+
+66
+00:02:05,520 --> 00:02:07,680
+the axis so we have a nice vertical
+
+67
+00:02:07,680 --> 00:02:10,160
+gradient going like that
+
+68
+00:02:10,160 --> 00:02:11,680
+now what i'm going to do oh by the way
+
+69
+00:02:11,680 --> 00:02:13,840
+to zoom in and out hold ctrl roll up and
+
+70
+00:02:13,840 --> 00:02:15,200
+down the mouse wheel
+
+71
+00:02:15,200 --> 00:02:16,480
+so now what i'm going to do is i'm going
+
+72
+00:02:16,480 --> 00:02:18,319
+to grab the selection tool
+
+73
+00:02:18,319 --> 00:02:20,239
+and now in order to make this object
+
+74
+00:02:20,239 --> 00:02:22,000
+follow along this path we have to make
+
+75
+00:02:22,000 --> 00:02:23,920
+sure that this object is positioned
+
+76
+00:02:23,920 --> 00:02:26,720
+above the path now
+
+77
+00:02:26,720 --> 00:02:29,520
+since we created the path first and then
+
+78
+00:02:29,520 --> 00:02:31,520
+the object second we don't have to worry
+
+79
+00:02:31,520 --> 00:02:33,040
+about this this is already positioned
+
+80
+00:02:33,040 --> 00:02:35,360
+above the path here but i just needed to
+
+81
+00:02:35,360 --> 00:02:36,879
+point that out in case you're using this
+
+82
+00:02:36,879 --> 00:02:38,879
+extension in other ways and you can't
+
+83
+00:02:38,879 --> 00:02:40,640
+figure out why it works
+
+84
+00:02:40,640 --> 00:02:42,640
+the object always has to be positioned
+
+85
+00:02:42,640 --> 00:02:45,120
+above the path like that okay and you
+
+86
+00:02:45,120 --> 00:02:46,800
+can change the positioning over here
+
+87
+00:02:46,800 --> 00:02:48,480
+using these up and down
+
+88
+00:02:48,480 --> 00:02:50,400
+you can lower objects raise objects see
+
+89
+00:02:50,400 --> 00:02:52,239
+right now the path is above the object
+
+90
+00:02:52,239 --> 00:02:53,760
+which is no good we want this to be on
+
+91
+00:02:53,760 --> 00:02:54,800
+top
+
+92
+00:02:54,800 --> 00:02:57,040
+okay so with that in place let me select
+
+93
+00:02:57,040 --> 00:02:58,720
+both of these objects and i'm going to
+
+94
+00:02:58,720 --> 00:03:00,400
+go to extensions
+
+95
+00:03:00,400 --> 00:03:02,840
+generate from path
+
+96
+00:03:02,840 --> 00:03:05,920
+scatter okay so now the the settings i'm
+
+97
+00:03:05,920 --> 00:03:07,360
+going to use here
+
+98
+00:03:07,360 --> 00:03:09,360
+as you can see follow path orientation
+
+99
+00:03:09,360 --> 00:03:11,840
+check stretch spaces to fit skeleton
+
+100
+00:03:11,840 --> 00:03:14,159
+link uh length check
+
+101
+00:03:14,159 --> 00:03:16,000
+spaces between copies i'm going to start
+
+102
+00:03:16,000 --> 00:03:17,680
+off with negative 10
+
+103
+00:03:17,680 --> 00:03:19,360
+and then we'll take it from there normal
+
+104
+00:03:19,360 --> 00:03:21,280
+offset we're gonna leave that at zero
+
+105
+00:03:21,280 --> 00:03:23,840
+zero cloned and randomly we're gonna
+
+106
+00:03:23,840 --> 00:03:25,599
+leave everything as it is here
+
+107
+00:03:25,599 --> 00:03:26,879
+and what i'm gonna do once i have
+
+108
+00:03:26,879 --> 00:03:28,640
+negative 10 put in here i'm gonna i'm
+
+109
+00:03:28,640 --> 00:03:31,760
+gonna enable the live preview
+
+110
+00:03:31,760 --> 00:03:33,120
+and it's going to show you what happens
+
+111
+00:03:33,120 --> 00:03:34,959
+here it's going to show you the object
+
+112
+00:03:34,959 --> 00:03:36,799
+being repeated along the path
+
+113
+00:03:36,799 --> 00:03:38,159
+now if you notice there's lots of
+
+114
+00:03:38,159 --> 00:03:40,159
+spacing between these objects we want
+
+115
+00:03:40,159 --> 00:03:41,840
+the spacing to be decreased so we can
+
+116
+00:03:41,840 --> 00:03:43,680
+have more objects so it looks more like
+
+117
+00:03:43,680 --> 00:03:45,760
+a solid line in order to do that we're
+
+118
+00:03:45,760 --> 00:03:47,440
+going to have to decrease this number
+
+119
+00:03:47,440 --> 00:03:49,440
+here the spaces between copies i'm going
+
+120
+00:03:49,440 --> 00:03:51,599
+to start off with negative 15. we
+
+121
+00:03:51,599 --> 00:03:52,959
+started out with negative 10 i'm going
+
+122
+00:03:52,959 --> 00:03:54,640
+to go in increments of 5. so i'm going
+
+123
+00:03:54,640 --> 00:03:56,319
+to go down to negative 15 now and see
+
+124
+00:03:56,319 --> 00:03:58,879
+how that looks
+
+125
+00:03:58,879 --> 00:04:00,799
+okay so that looks a little better now
+
+126
+00:04:00,799 --> 00:04:02,319
+the reason why i'm going in increments
+
+127
+00:04:02,319 --> 00:04:04,400
+of five is because if you go too far too
+
+128
+00:04:04,400 --> 00:04:06,319
+much it's actually going to lock up this
+
+129
+00:04:06,319 --> 00:04:08,000
+uh it's gonna lock up the extension and
+
+130
+00:04:08,000 --> 00:04:09,519
+it's not gonna work you'll see here in
+
+131
+00:04:09,519 --> 00:04:14,080
+just a minute let me try negative 20 now
+
+132
+00:04:14,080 --> 00:04:15,439
+okay that's looking a lot better i'm
+
+133
+00:04:15,439 --> 00:04:16,639
+going to go a little further just for
+
+134
+00:04:16,639 --> 00:04:18,399
+demonstration purposes here let's try
+
+135
+00:04:18,399 --> 00:04:20,079
+negative 25.
+
+136
+00:04:20,079 --> 00:04:21,440
+and this is what happens right here you
+
+137
+00:04:21,440 --> 00:04:23,280
+get this error message this means that
+
+138
+00:04:23,280 --> 00:04:25,040
+you've gone too far for the for your
+
+139
+00:04:25,040 --> 00:04:27,440
+object and there's no more like this is
+
+140
+00:04:27,440 --> 00:04:30,000
+as much as the extension can do now this
+
+141
+00:04:30,000 --> 00:04:31,520
+morning message is a good thing here
+
+142
+00:04:31,520 --> 00:04:33,440
+because a few years ago i actually made
+
+143
+00:04:33,440 --> 00:04:35,040
+a video demonstrating how to use this
+
+144
+00:04:35,040 --> 00:04:36,800
+extension in an older version of
+
+145
+00:04:36,800 --> 00:04:39,600
+inkscape and once you go too far what it
+
+146
+00:04:39,600 --> 00:04:40,880
+used to do is it used to crash your
+
+147
+00:04:40,880 --> 00:04:42,720
+system and you had to restart everything
+
+148
+00:04:42,720 --> 00:04:45,120
+now they've added this uh fix in there
+
+149
+00:04:45,120 --> 00:04:46,639
+that stops it from crashing so we're
+
+150
+00:04:46,639 --> 00:04:48,400
+going to go ahead and click ok and we're
+
+151
+00:04:48,400 --> 00:04:49,840
+going to go back to 20 and we're going
+
+152
+00:04:49,840 --> 00:04:52,960
+to try 21 instead
+
+153
+00:04:52,960 --> 00:04:57,479
+okay that looks good let's try 22.
+
+154
+00:04:58,479 --> 00:05:00,400
+and that's too far so it looks like 21
+
+155
+00:05:00,400 --> 00:05:04,080
+is the max i'm going to set it to 21.
+
+156
+00:05:04,720 --> 00:05:06,240
+and once i'm finished i'm going to click
+
+157
+00:05:06,240 --> 00:05:09,840
+ok or apply and then close and there you
+
+158
+00:05:09,840 --> 00:05:12,080
+go it generated that object right there
+
+159
+00:05:12,080 --> 00:05:14,000
+kind of like how the blend tool works in
+
+160
+00:05:14,000 --> 00:05:15,600
+adobe illustrator
+
+161
+00:05:15,600 --> 00:05:17,199
+okay now if you zoom in on this you can
+
+162
+00:05:17,199 --> 00:05:19,680
+see it just consists of lots of tiny
+
+163
+00:05:19,680 --> 00:05:21,360
+individual circles you may be able to
+
+164
+00:05:21,360 --> 00:05:22,960
+see some of the color banding in there
+
+165
+00:05:22,960 --> 00:05:24,240
+that's because this is a bunch of
+
+166
+00:05:24,240 --> 00:05:26,639
+individual circles okay but if you zoom
+
+167
+00:05:26,639 --> 00:05:27,360
+out
+
+168
+00:05:27,360 --> 00:05:30,080
+it looks nice and fluid nice and smooth
+
+169
+00:05:30,080 --> 00:05:32,320
+like that so now let's have a look at
+
+170
+00:05:32,320 --> 00:05:34,080
+the other extension in inkscape that
+
+171
+00:05:34,080 --> 00:05:35,520
+allows you to perform some of the
+
+172
+00:05:35,520 --> 00:05:37,039
+functions that the blend tool does in
+
+173
+00:05:37,039 --> 00:05:38,720
+illustrator this would be the
+
+174
+00:05:38,720 --> 00:05:41,280
+interpolate tool so to demonstrate what
+
+175
+00:05:41,280 --> 00:05:43,199
+interpolate does let me create a text
+
+176
+00:05:43,199 --> 00:05:45,280
+object i'm going to grab my text tool
+
+177
+00:05:45,280 --> 00:05:46,560
+i'm going to click on the canvas right
+
+178
+00:05:46,560 --> 00:05:48,240
+here and i'm going to type
+
+179
+00:05:48,240 --> 00:05:50,880
+blend in all caps i'm going to triple
+
+180
+00:05:50,880 --> 00:05:52,160
+click the text to highlight it and i'm
+
+181
+00:05:52,160 --> 00:05:54,080
+going to change the font by clicking on
+
+182
+00:05:54,080 --> 00:05:55,759
+the text editor up here
+
+183
+00:05:55,759 --> 00:05:57,039
+and the font i'm using for this
+
+184
+00:05:57,039 --> 00:05:58,880
+demonstration is called league
+
+185
+00:05:58,880 --> 00:06:01,199
+league gothic which is right there
+
+186
+00:06:01,199 --> 00:06:03,039
+click apply and there we go let me get
+
+187
+00:06:03,039 --> 00:06:04,400
+out of this menu because it otherwise
+
+188
+00:06:04,400 --> 00:06:06,800
+slows the system down let me grab the
+
+189
+00:06:06,800 --> 00:06:08,479
+selection tool now let me
+
+190
+00:06:08,479 --> 00:06:10,319
+make this larger hold ctrl while i'm
+
+191
+00:06:10,319 --> 00:06:12,639
+scaling to ensure that it maintains the
+
+192
+00:06:12,639 --> 00:06:14,080
+aspect ratio
+
+193
+00:06:14,080 --> 00:06:15,600
+and i'm going to put this copy over here
+
+194
+00:06:15,600 --> 00:06:17,520
+maybe i'll make this a little smaller i
+
+195
+00:06:17,520 --> 00:06:19,520
+want to make this
+
+196
+00:06:19,520 --> 00:06:21,120
+a different color i want to make this
+
+197
+00:06:21,120 --> 00:06:22,479
+yellow
+
+198
+00:06:22,479 --> 00:06:23,840
+and what i want to do is change this
+
+199
+00:06:23,840 --> 00:06:25,759
+from a text object to an actual path
+
+200
+00:06:25,759 --> 00:06:27,440
+otherwise this is not going to work this
+
+201
+00:06:27,440 --> 00:06:29,680
+interpolate extension it only works on
+
+202
+00:06:29,680 --> 00:06:31,759
+objects that are paths so to convert
+
+203
+00:06:31,759 --> 00:06:34,639
+this to a path i'll go to path object to
+
+204
+00:06:34,639 --> 00:06:35,600
+path
+
+205
+00:06:35,600 --> 00:06:37,199
+and now i need to ungroup it i'll go to
+
+206
+00:06:37,199 --> 00:06:39,600
+object
+
+207
+00:06:39,759 --> 00:06:41,039
+on group
+
+208
+00:06:41,039 --> 00:06:42,560
+and then i'll unify it all together by
+
+209
+00:06:42,560 --> 00:06:44,080
+going to path
+
+210
+00:06:44,080 --> 00:06:45,280
+union
+
+211
+00:06:45,280 --> 00:06:46,560
+and now i'm going to duplicate this
+
+212
+00:06:46,560 --> 00:06:48,000
+object by right clicking it going to
+
+213
+00:06:48,000 --> 00:06:49,199
+duplicate
+
+214
+00:06:49,199 --> 00:06:50,639
+and i'll make this one bigger i'm
+
+215
+00:06:50,639 --> 00:06:52,720
+holding ctrl while i'm scaling here to
+
+216
+00:06:52,720 --> 00:06:54,560
+maintain the aspect ratio and i'll move
+
+217
+00:06:54,560 --> 00:06:56,479
+this one down here
+
+218
+00:06:56,479 --> 00:06:57,520
+and i'm going to change this to a
+
+219
+00:06:57,520 --> 00:07:00,160
+different color i'll go with pink
+
+220
+00:07:00,160 --> 00:07:01,759
+and now i'm going to select both of
+
+221
+00:07:01,759 --> 00:07:03,919
+these objects at the same time
+
+222
+00:07:03,919 --> 00:07:07,280
+go to extensions generate from path and
+
+223
+00:07:07,280 --> 00:07:09,440
+interpolate
+
+224
+00:07:09,440 --> 00:07:10,960
+now the settings i'll be using here as
+
+225
+00:07:10,960 --> 00:07:12,720
+you can see the exponent is one
+
+226
+00:07:12,720 --> 00:07:14,560
+interpolation steps this is the number
+
+227
+00:07:14,560 --> 00:07:16,000
+of copies that will be created between
+
+228
+00:07:16,000 --> 00:07:17,599
+these two i'm going to start out with
+
+229
+00:07:17,599 --> 00:07:19,520
+five and then i'll take it from there
+
+230
+00:07:19,520 --> 00:07:21,039
+and these settings as you can see here
+
+231
+00:07:21,039 --> 00:07:22,800
+we want to leave these settings as you
+
+232
+00:07:22,800 --> 00:07:24,800
+see on my screen and once you're ready
+
+233
+00:07:24,800 --> 00:07:27,199
+click live preview
+
+234
+00:07:27,199 --> 00:07:28,560
+and as you can see it took the two
+
+235
+00:07:28,560 --> 00:07:31,039
+objects and created five copies of them
+
+236
+00:07:31,039 --> 00:07:33,360
+based on their properties now as you can
+
+237
+00:07:33,360 --> 00:07:35,520
+see these copies they range in size they
+
+238
+00:07:35,520 --> 00:07:38,000
+go from large to small as these two
+
+239
+00:07:38,000 --> 00:07:39,680
+objects did and then the color
+
+240
+00:07:39,680 --> 00:07:42,080
+transitions as well as you can see there
+
+241
+00:07:42,080 --> 00:07:43,599
+so if i could actually i could actually
+
+242
+00:07:43,599 --> 00:07:45,039
+increase this from five to something
+
+243
+00:07:45,039 --> 00:07:47,120
+like 10
+
+244
+00:07:47,120 --> 00:07:48,400
+and then you end up with something like
+
+245
+00:07:48,400 --> 00:07:52,400
+that or i could even go as far as 20
+
+246
+00:07:52,400 --> 00:07:53,599
+and then you end up with something like
+
+247
+00:07:53,599 --> 00:07:54,400
+that
+
+248
+00:07:54,400 --> 00:07:57,759
+go a little further 30
+
+249
+00:07:57,759 --> 00:07:59,599
+now it's looking more fluid like that
+
+250
+00:07:59,599 --> 00:08:01,280
+and unlike the other extension i don't
+
+251
+00:08:01,280 --> 00:08:02,800
+think this one has a break off point
+
+252
+00:08:02,800 --> 00:08:05,120
+where it locks up and closes i think you
+
+253
+00:08:05,120 --> 00:08:07,039
+could go infinitely with this so that's
+
+254
+00:08:07,039 --> 00:08:08,400
+40.
+
+255
+00:08:08,400 --> 00:08:11,199
+here's how 50 looks
+
+256
+00:08:11,199 --> 00:08:12,479
+and there you go i think you should get
+
+257
+00:08:12,479 --> 00:08:13,840
+the idea let me bring this back down to
+
+258
+00:08:13,840 --> 00:08:15,520
+something a little more reasonable like
+
+259
+00:08:15,520 --> 00:08:17,840
+10.
+
+260
+00:08:20,240 --> 00:08:21,599
+click apply
+
+261
+00:08:21,599 --> 00:08:23,360
+and then close
+
+262
+00:08:23,360 --> 00:08:24,800
+and then once you're finished as you can
+
+263
+00:08:24,800 --> 00:08:27,120
+see here it created new copies from this
+
+264
+00:08:27,120 --> 00:08:29,039
+so your original copies are still there
+
+265
+00:08:29,039 --> 00:08:30,000
+in place you don't need to make
+
+266
+00:08:30,000 --> 00:08:31,520
+duplicates you don't need to make backup
+
+267
+00:08:31,520 --> 00:08:33,039
+copies because this is going to generate
+
+268
+00:08:33,039 --> 00:08:35,120
+a new copy based on this and if you want
+
+269
+00:08:35,120 --> 00:08:36,640
+to edit this further you can just go to
+
+270
+00:08:36,640 --> 00:08:39,200
+object on group
+
+271
+00:08:39,200 --> 00:08:41,120
+and now as you can see this consists of
+
+272
+00:08:41,120 --> 00:08:43,120
+a bunch of individual objects that were
+
+273
+00:08:43,120 --> 00:08:45,600
+generated using that extension
+
+274
+00:08:45,600 --> 00:08:46,880
+so i think that should do it for this
+
+275
+00:08:46,880 --> 00:08:48,480
+tutorial that is how you can go about
+
+276
+00:08:48,480 --> 00:08:51,440
+working around a lack of the blend tool
+
+277
+00:08:51,440 --> 00:08:53,360
+in inkscape if you found this lesson
+
+278
+00:08:53,360 --> 00:08:55,040
+useful then consider checking out my
+
+279
+00:08:55,040 --> 00:08:57,440
+inkscape master class it's a collection
+
+280
+00:08:57,440 --> 00:08:59,519
+of over 60 videos where i go over all of
+
+281
+00:08:59,519 --> 00:09:01,519
+the tools and features in inkscape and i
+
+282
+00:09:01,519 --> 00:09:03,200
+explain what they are and demonstrate
+
+283
+00:09:03,200 --> 00:09:05,040
+how they work kind of like how i did in
+
+284
+00:09:05,040 --> 00:09:07,120
+this video we even have a private
+
+285
+00:09:07,120 --> 00:09:08,800
+community where you can ask questions
+
+286
+00:09:08,800 --> 00:09:11,040
+and get help from me anytime you want
+
+287
+00:09:11,040 --> 00:09:12,880
+and best of all there's no monthly
+
+288
+00:09:12,880 --> 00:09:15,360
+membership fees you just pay 17
+
+289
+00:09:15,360 --> 00:09:17,600
+one time and you're in for life i'll
+
+290
+00:09:17,600 --> 00:09:18,880
+have some information about that down
+
+291
+00:09:18,880 --> 00:09:20,560
+below if you want to check that out as
+
+292
+00:09:20,560 --> 00:09:23,839
+always thanks for watching
+
+293
+00:09:29,060 --> 00:09:37,140
+[Music]
+
+294
+00:09:42,000 --> 00:09:44,080
+you
+

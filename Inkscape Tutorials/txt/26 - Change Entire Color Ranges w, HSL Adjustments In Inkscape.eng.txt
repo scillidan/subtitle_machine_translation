@@ -1,0 +1,209 @@
+
+so  as  you  may  already  know  you  can
+
+change  the  colors  of  objects  in  inkscape
+
+by  clicking  on  them  one  by  one  and
+
+applying  fill  colors
+
+but  what  if  you  wanted  to  change  an
+
+entire  range  of  colors  all  at  once  so
+
+that  you  get  a  more  consistent  result
+
+like  this  while  saving  yourself  a  bunch
+
+of  time
+
+this  is  where  the  hsl  adjustment
+
+extension  comes  in  handy  and  in  this
+
+tutorial  well  be  going  over  how  you  can
+
+use  it
+
+so  to  get  started  I  have  this  example
+
+design  here  on  my  canvas  it  just
+
+consists  of  individual  Vector  objects
+
+Im  going  to  click  and  drag  over  all  of
+
+them  to  select  them  and  group  it  all
+
+together  by  going  to  object  and
+
+selecting  group
+
+now  Im  going  to  open  up  my  extensions
+
+menu  over  here  Ill  come  down  to  where
+
+it  says  color  and  I  will  select  hsl
+
+adjust
+
+let  me  bring  this  menu  over  here  now  hsl
+
+stands  for  Hue  saturation  and  lightness
+
+to  show  you  how  this  works  let  me  turn
+
+on  the  live  preview
+
+first  Ill  show  you  what  saturation  and
+
+lightness  does  and  then  I  will  explain
+
+you  so  saturation  is  the  intensity  of
+
+the  color  so  if  I  bring  this  all  the  way
+
+up  we  have  more  vibrant  intense  colors
+
+if  I  bring  this  all  the  way  down
+
+the  colors  become  more  muted  and  if  I
+
+bring  it  all  the  way  down  like  that  we
+
+end  up  with  an  almost  or  a  black  and
+
+white  image  as  you  can  see  there  in  that
+
+grayscale
+
+let  me  set  this  back  to  zero
+
+lightness  represents  the  lightness  of
+
+the  color  so  if  I  bring  this  up  we  end
+
+up  with  the  lighter  result  like  that  or
+
+if  I  bring  this  down  we  end  up  with  a
+
+darker  result  like  that
+
+so  let  me  reset  that  as  well
+
+and  then  finally  Hue  is  what  you  would
+
+use  to  change  the  actual  color  so  if  I
+
+move  this  over  here
+
+we  end  up  with  this  color  or  if  I  move
+
+this  down  more  we  end  up  with  that  color
+
+and  as  you  go  up  and  down  this  scale
+
+here  you  can  run  through  the  entire
+
+gamut  the  entire  range  of  colors  you  can
+
+make  this  object  virtually  any  color
+
+that  you  want  you  can  use  green  blue  or
+
+whatever  and  the  thumbnail  of  the  video
+
+I  used  a  pinkish  purple  so  I  will  use
+
+something  like  that  right  there  and  then
+
+you  can  if  you  want  to  you  can  change
+
+the  saturation  to  increase  the  the
+
+intensity  of  that  color
+
+and  then  finally  over  here  you  can  use
+
+your  lightness  to  adjust  that  if  you
+
+want  I  think  this  looks  better
+
+with  a  modest  lightness  like  that  and
+
+once  youre  finished  click  the  apply
+
+button  once  and  I  say  once  because  once
+
+you  click  it  nothing  visibly  is  going  to
+
+happen  on  your  screen  well  nothing
+
+nothings  going  to  change  that  you  can
+
+see  anyway  but  the  changes  are  now
+
+applied  and  if  you  click  that  button
+
+again  its  going  to  apply  those  changes
+
+a  second  time  so  youll  end  up  with  a
+
+different  result  so  thats  one  thing  to
+
+keep  in  mind  click  that  button  once  and
+
+once  you  click  it  close  out  of  the  menu
+
+and  now  if  I  ungroup  these  objects  and
+
+select  them  one  by  one  you  can  see  their
+
+colors  have  indeed  been  changed  this  is
+
+not  a  temporary  filter  or  some  kind  of
+
+adjustment  layer  these  are  actual
+
+changes  that  have  been  applied  to  the
+
+subject  as  you  can  see  there
+
+so  that  is  how  you  can  change  colors
+
+globally  using  the  hsl  adjustment  in
+
+inkscape  if  you  found  this  lesson  useful
+
+then  consider  checking  out  my  inkscape
+
+master  class  its  a  collection  of  over
+
+60  videos  where  I  go  over  all  of  the
+
+tools  and  features  in  inkscape  and  I
+
+explain  what  they  are  and  demonstrate
+
+how  they  work  kind  of  like  how  I  did  in
+
+this  video  we  even  have  a  private
+
+Community  where  you  can  ask  questions
+
+and  get  help  from  me  anytime  you  want
+
+and  best  of  all  theres  no  monthly
+
+membership  fees  you  just  pay  17  one  time
+
+and  youre  in  for  Life  Ill  have  some
+
+information  about  that  down  below  if  you
+
+want  to  check  that  out  as  always  thanks
+
+for  watching
+
+foreign
+

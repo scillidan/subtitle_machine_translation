@@ -1,0 +1,507 @@
+
+in  this  tutorial  Ill  be  going  over  how
+
+you  can  use  the  transform  tool  in
+
+inkscape  Ill  first  be  going  over  a
+
+quick  demonstration  of  what  it  is  and
+
+how  it  works  and  then  Ill  show  you  an
+
+example  of  how  to  create  something
+
+interesting  with  it  like  Ive  done  here
+
+with  this  spiraling  hexagon  design
+
+before  we  get  started  though  if  you  want
+
+to  learn  more  about  how  inkscape  Works
+
+be  sure  to  check  out  my  inkscape  master
+
+class  its  a  collection  of  over  80
+
+videos  where  we  go  over  all  of  the  tools
+
+and  features  in  inkscape  and  I  explain
+
+what  they  are  and  demonstrate  how  they
+
+work  kind  of  like  how  Im  doing  in  this
+
+video  we  even  have  a  private  Community
+
+where  you  can  ask  questions  and  get  help
+
+from  me  anytime  you  want  Ill  have  some
+
+information  about  that  down  below  in  the
+
+description  if  you  want  to  check  that
+
+out  and  with  that  out  of  the  way  lets
+
+get  started  so  I  have  this  example
+
+graphic  placed  on  my  document  here  and
+
+Im  going  to  open  up  the  transform  menu
+
+by  going  to  object  and  selecting
+
+transform  and  it  should  open  up  over
+
+here  on  the  right  hand  side  of  your
+
+screen  now  what  the  transform  tool  does
+
+is  it  allows  you  to  make  basic
+
+transformations  to  objects  that  you
+
+would  normally  make  with  the  selection
+
+tool  only  it  allows  you  to  do  it  using
+
+numerical  values  so  if  you  come  over
+
+here  to  the  top  you  can  see  these  tabs
+
+we  have  these  different  options  for
+
+moving  scaling  rotating  skewing  and
+
+Matrix  were  going  to  ignore  the  Matrix
+
+one  for  this  demonstration  Im  just
+
+going  to  show  you  how  these  other  ones
+
+work  so  lets  say  I  have  this  object  on
+
+my  page  and  I  want  to  move  it  over  a
+
+certain  number  of  pixels  you  can
+
+normally  move  objects  by  just  clicking
+
+and  dragging  but  the  problem  with  doing
+
+it  that  way  is  that  you  dont  get  a
+
+precise  movement  lets  say  I  wanted  to
+
+move  this  over  exactly  50  pixels  I  can
+
+can  come  over  here  to  the  horizontal
+
+input  and  type  in  50  and  then  come  down
+
+here  and  click  apply  and  you  can  see  it
+
+moves  the  object  over  50  pixels  so  let
+
+me  undo  what  I  just  did  right  there  let
+
+me  reset  this  value  and  now  Ill  show
+
+you  how  scale  works  scale  is  useful
+
+because  normally  when  you  want  to  scale
+
+an  object  by  a  certain  numerical  value
+
+you  would  use  the  width  and  height
+
+inputs  in  the  toolbar  up  top  so  if  I
+
+wanted  to  scale  this  down  to  400  pixels
+
+wide  I  would  type  that  in  and  press
+
+enter  and  you  can  see  it  scales  it  down
+
+but  the  the  problem  with  using  this
+
+approach  is  that  it  takes  the  object  off
+
+of  the  center  of  its  axis  so  if  you
+
+notice  the  object  is  no  longer  in  the
+
+center  of  my  document  it  now  went  to  the
+
+top  left  because  with  these  inputs  up
+
+here  it  scales  the  object  from  the
+
+bottom  right  to  the  top  left  now  if  I
+
+undo  that  itll  put  it  back  in  the
+
+center  the  benefit  of  using  the
+
+transform  tool  is  that  it  allows  you  to
+
+scale  the  object  using  the  numerical
+
+value  directly  from  the  center  and  you
+
+can  also  use  a  percentage  value  as  well
+
+now  if  you  want  to  use  pixels  you  can  go
+
+ahead  and  select  pixels  but  for  this
+
+demonstration  Ill  just  use  percentages
+
+and  Im  just  going  to  type  in  well  first
+
+Im  going  to  select  scale
+
+proportionately  so  it  scales  both
+
+dimensions  and  Im  going  to  scale  this
+
+down  by
+
+50%  and  I  will  click  apply  and  you  can
+
+see  what  happens  it  scales  the  object
+
+down  exactly  in  the  center  so  that  it
+
+doesnt  lose  its  alignment  on  the
+
+page  now  lets  go  over  the  rotate  tab
+
+normally  when  you  want  to  rotate  an
+
+object  you  can  click  on  it  to  select  it
+
+click  on  it  again  to  get  the  rotation
+
+handles  and  you  can  rotate  it  around
+
+freeh  hands  like  that  or  you  can  hold
+
+the  control  key  and  lock  it  to  15  degree
+
+increments  the  problem  with  using  this
+
+approach  is  that  you  dont  get  an  exact
+
+rotation  so  lets  say  you  wanted  to
+
+rotate  your  object  by  a  specific
+
+numerical  value  like  26°  or  some  kind  of
+
+random  number  you  would  normally  have  to
+
+click  and  drag  like  this  and  look
+
+towards  the  bottom  of  the  screen  to  see
+
+the  Angles  and  hope  that  you  can  release
+
+the  click  exactly  where  you  need  it  to
+
+be  or  you  can  just  use  the  rotation  tool
+
+so  I  can  come  over  here  and  type  in  let
+
+me  just  replace  this  value  type  in  26
+
+and  you  can  choose  whether  to  rotate  it
+
+clockwise  or  counterclockwise  and  then
+
+click  apply  and  you  can  see  it  rotated
+
+the  object  26°  and  the  way  the  transform
+
+tool  works  is  this  is  all  cumulative  so
+
+if  I  keep  clicking  apply  over  and  over
+
+again  itll  rotate  it
+
+26°  relative  to  its  previous  position  so
+
+I  can  keep  rotating  this  indefinitely
+
+like  that  and  you  get  the
+
+idea  now  lets  go  over  how  you  can
+
+create  that  spiraling  hexagon  design
+
+that  I  showed  you  at  the  beginning  of
+
+the  video  Im  going  to  grab  my  stars  and
+
+polygons  tool  over  here  and  the  settings
+
+I  want  to  use  are  polygon  I  want  six
+
+corners  and  rounded  and  randomize  both
+
+set  to  zero  and  then  Im  going  to  click
+
+and  drag  on  the  canvas  and  then  hold
+
+control  and  shift  and  click  and  drag  so
+
+that  we  get  a  nice  uh  upright  hexagon
+
+like  that  you  can  rotate  it  around  to
+
+make  sure  that  the  corners  are  going
+
+perfectly  up  and  down  vertically  like
+
+that  and  Im  going  to  grab  my  selection
+
+tool  and  I  first  want  to  Center  this  on
+
+the  page  so  I  will  come  over  here  to
+
+object  and  I  will  choose  a  line
+
+distribute  and  Im  going  to  choose  page
+
+from  the  relative  to  dropdown  and  Im
+
+going  to  Center  this  up  on  the  page  and
+
+then  Im  going  to  zoom  in  and  Im  going
+
+to  hold  control  and  shift  and  scale  this
+
+down  to  make  it  really  small  we  want
+
+this  object  to  be  pretty  small  and  Im
+
+going  to  remove  the  fill  color  by
+
+clicking  the  Red  X  down  here  and  Im
+
+going  to  apply  a  black  Stroke  by  holding
+
+the  shift  key  and  pressing  the  color
+
+black  next  to  that  uh  number  right  there
+
+or  next  to  that  red  X  and  now  I  want  to
+
+make  sure  that  this  stroke  is  one  pixel
+
+so  Ill  open  open  up  my  fill  and  stroke
+
+menu  by  double  clicking  this  stroke  box
+
+down  here  and  Ill  come  over  here  to  the
+
+stroke  style  Tab  and  Im  going  to  size
+
+this  at  one  pixel  and  I  want  to  make
+
+sure  that  the  join  has  sharp  corners  and
+
+then  I  want  to  come  up  here  to  this
+
+setting  in  the  toolbar  that  says  when
+
+scaling  objects  scale  the  stroke  width
+
+by  the  same  proportion  I  want  to  make
+
+sure  that  that  is  enabled  and  now  what
+
+Im  going  to  do  is  Im  going  to  come
+
+over  here  to  my  transform  tool  and  Im
+
+going  to  use  two  different
+
+Transformations  Im  first  going  to  scale
+
+it  by  110%  and  then  Im  going  to  rotate
+
+it  by  10°  but  before  I  do  that  I  want  to
+
+make  a  duplicate  copy  so  this  is  the
+
+original  copy  Im  going  to  make  a
+
+duplicate  by  either  right  clicking  it
+
+and  going  to  duplicate  or  just  pressing
+
+command  D  or  controll  D  and  when  you
+
+press  that  youll  have  a  duplicate  copy
+
+there  and  once  you  do  that  come  over
+
+here  to  the  scale  tab  lets  scale  this
+
+well  first  of  all  enable  scale
+
+proportionately  and  were  going  to  scale
+
+this  by
+
+110°  or  110%  and  click  apply  and  then
+
+well  come  over  here  to  rotate  were
+
+going  to  rotate  this  by  10°  so  let  me
+
+replate  this  replace  this  with  10  and
+
+there  we  go  and  now  Im  just  going  to
+
+repeat  that  process  over  and  over  until
+
+we  get  the  intended  effect  so  Im  going
+
+to  press  command  D  again  to  duplicate
+
+the  object  and  I  will  rotate  it  and  then
+
+come  over  here  and  scale  it  and  then  I
+
+will  do  that  again  press  control  D  to
+
+duplicate  scale  it  and  then  rotate  it
+
+and  then  do  the  same  thing  control  D  to
+
+duplicate  rotate  it  scale  it  and  you  can
+
+see  that  the  design  is  starting  to  come
+
+together  as  I  do  this  so  Im  going  to
+
+duplicate  this  a  bunch  of  times  and
+
+apply  these  Transformations  and  then  I
+
+will  catch  up  with  you  when  Im  all
+
+done  and  you  can  make  as  many  copies  as
+
+you  want  I  made  this  many  right  here  if
+
+I  click  and  drag  over  all  of  these  itll
+
+show  you  how  many  objects  you  have
+
+selected  let  me  move  this  out  of  the  way
+
+you  can  see  we  have  19  objects  selected
+
+so  I  have  19  copies  in  total  what  Im
+
+going  to  do  is  Im  going  to  convert
+
+these  to  a  path  so  Ill  go  to  path  and
+
+select  stroke  to  path  and  then  I  will
+
+unify  them  together  by  going  to  path  and
+
+selecting  Union  and  now  what  I  will  do
+
+is  I  will  come  back  over  here  to  my  fill
+
+and  stroke  tab  I  want  to  bring  the
+
+opacity  down  in  half  so  I  can  see  what
+
+Im  about  to  do  once  I  do  this  and  now  I
+
+will  go  to  path  and  select  break  apart
+
+and  you  can  see  what  I  mean  there  once
+
+you  break  that  apart  you  can  see  all  of
+
+the  different  layers  beneath  the
+
+original  so  Ill  click  off  of  that  to
+
+deselect  it  and  I  want  to  take  this
+
+larger  hexagon  in  the  back  here  and  just
+
+press  delete  on  the  keyboard  to  get  rid
+
+of  that  and  then  Ill  take  this  object
+
+in  the  center  and  press  delete  to  get
+
+press  delete  to  get  rid  of  that  and  then
+
+I  will  bring  the  opacity  of  this  up  to
+
+to  100%  And  if  you  want  you  can  go  and
+
+color  in  each  of  these  arms  a  different
+
+color  if  you  want  to  apply  your  own
+
+design  uh  your  own  style  to  it  or  what
+
+you  could  do  is  you  could  just  select  it
+
+all  and  go  to  path  and  select  Union  and
+
+we  end  up  with  this  cool  little  abstract
+
+sort  of  hexagon  shape  so  I  think  that
+
+should  do  it  for  this  tutorial  thats
+
+just  one  example  of  how  you  can  use  the
+
+transform  tool  in  inkscape  to  create  an
+
+interesting  design  if  you  found  this
+
+lesson  useful  then  consider  checking  out
+
+my  inkscape  master  class  its  a
+
+collection  of  over  60  videos  where  I  go
+
+over  all  of  the  tools  and  features  in
+
+inkscape  and  I  explain  what  they  are  and
+
+demonstrate  how  they  work  kind  of  like
+
+how  I  did  in  this  video  we  even  have  a
+
+private  Community  where  you  can  ask
+
+questions  and  get  help  from  me  anytime
+
+you  want  and  best  of  all  theres  no
+
+monthly  membership  fees  you  just  pay  $17
+
+one  time  and  youre  in  for  Life  Ill
+
+have  some  information  about  that  down
+
+below  if  you  want  to  check  that  out  as
+
+always  thanks  for  watching
+
+oh
+

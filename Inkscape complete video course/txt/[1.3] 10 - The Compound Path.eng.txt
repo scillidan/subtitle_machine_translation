@@ -1,0 +1,31 @@
+In previous lectures, we have seen you can group elements, by selecting them and choose: Group.
+You can move and scale a group, like it is one object. We have also seen you can merge objects together,
+using the Union operation. Although the Union operation is destructive when paths overlap,
+this is normally what you want. As we see, after  the Union operation, the original circles are gone.
+But there also is a non-destructive way of merging overlapping paths, called the compound path.
+I select these two circles.  To make them a compound path, I go to:
+Path > Combine. In the Layers panel we see, we have merged two paths into a single path.
+But when I click on the Node tool, I see I still have the two original circles. I select a circle,
+by selecting its nodes. To do this, I hold my mouse above one of the nodes, which then becomes red.
+Then I hold down Control, and scroll forward, until all nodes are selected. I can now move the circle.
+If I click on the Show transformation handles icon, the circle can also be scaled.
+I press the spacebar to go to the Select tool. So the compound path gives non-destructive results.
+But its real power is that it can create holes in shapes. I duplicate a circle and make it smaller.
+I want the orange circle, to punch a hole in the green circle. Because the circles dont overlap,
+there is no danger of losing geometry, so I dont have to use Combine. With both circles selected,
+I go to: Path > Difference. When I click on the Node tool, I see I still have the two paths.
+I hold my mouse above a node of the inner circle, press Ctrl, and scroll forward until all nodes
+are selected. We see Im able to move and scale the Inner circle. So why does the Inner circle
+create a hole? With this circle, we can see the path direction. I duplicate it, and make
+it smaller. I go to: Path > Difference. Inkscape, like Illustrator, will reverse the path direction,
+which creates the hole. If I select the inner path and go to: Path > Reverse, the inner circle
+doesnt create a hole anymore, because both paths now go in the same direction. I reverse the path
+again, and I have a hole! This knowledge can be especially useful when handling text. This text
+is a single path, so a compound path. If I want to manipulate the letters individually, I can go to:
+Path > Break Apart. We see however, with this operation, we lost the holes in the letters.
+To get single letters without this problem, I go to: Path > Split Path.
+Now I have individual letters, and the holes are retained. I have encountered this problem
+in the past when opening PDFs containing text in Illustrator. To make the letter e a compound
+path again, I make sure the larger part is placed behind the cutout path. Then I select both paths.
+I go to: Path > Difference. I will do the same for the o. If you still not get the hole,
+which I have encountered in the past, select the inner circle. Then go to: Path > Reverse.

@@ -1,0 +1,704 @@
+1
+00:00:00,179 --> 00:00:02,340
+in this tutorial we'll be going over how
+
+2
+00:00:02,340 --> 00:00:04,440
+you can fill between paths using
+
+3
+00:00:04,440 --> 00:00:06,899
+inkscape and to show you what I mean I
+
+4
+00:00:06,899 --> 00:00:09,480
+have this series of individual lines on
+
+5
+00:00:09,480 --> 00:00:11,340
+my screen here if I grab my nodes tool
+
+6
+00:00:11,340 --> 00:00:12,900
+you can see these are just independent
+
+7
+00:00:12,900 --> 00:00:14,099
+paths
+
+8
+00:00:14,099 --> 00:00:17,100
+and if I select all of these paths and
+
+9
+00:00:17,100 --> 00:00:20,220
+try to apply a fill color you can see
+
+10
+00:00:20,220 --> 00:00:22,439
+that nothing happens there because these
+
+11
+00:00:22,439 --> 00:00:24,060
+shapes between these paths aren't
+
+12
+00:00:24,060 --> 00:00:26,100
+actually shapes this is just empty space
+
+13
+00:00:26,100 --> 00:00:27,779
+that takes on the appearance of a shape
+
+14
+00:00:27,779 --> 00:00:30,599
+so if I want to fill in these spaces we
+
+15
+00:00:30,599 --> 00:00:32,820
+have to use a different approach
+
+16
+00:00:32,820 --> 00:00:34,200
+so there's actually several different
+
+17
+00:00:34,200 --> 00:00:36,239
+ways that you can do this and the method
+
+18
+00:00:36,239 --> 00:00:37,620
+that you should use depends on which
+
+19
+00:00:37,620 --> 00:00:39,540
+result you're going for so let's have a
+
+20
+00:00:39,540 --> 00:00:41,879
+closer look if I select all of these
+
+21
+00:00:41,879 --> 00:00:44,879
+shapes right here I can go to path and
+
+22
+00:00:44,879 --> 00:00:47,340
+choose fracture
+
+23
+00:00:47,340 --> 00:00:49,200
+and what happens is it creates
+
+24
+00:00:49,200 --> 00:00:51,360
+independent shapes out of all of those
+
+25
+00:00:51,360 --> 00:00:53,460
+empty spaces there and now you can just
+
+26
+00:00:53,460 --> 00:00:54,960
+select them and go and change their
+
+27
+00:00:54,960 --> 00:00:56,760
+colors as you'd like
+
+28
+00:00:56,760 --> 00:00:58,620
+another way that you can do this is by
+
+29
+00:00:58,620 --> 00:01:00,780
+using the shape Builder tool if I select
+
+30
+00:01:00,780 --> 00:01:02,219
+all of these shapes and go into the
+
+31
+00:01:02,219 --> 00:01:04,080
+shape Builder tool I can get the same
+
+32
+00:01:04,080 --> 00:01:06,119
+result as fracture the only difference
+
+33
+00:01:06,119 --> 00:01:08,340
+now is that I can make I can combine
+
+34
+00:01:08,340 --> 00:01:10,200
+some of these shapes together so I can
+
+35
+00:01:10,200 --> 00:01:13,200
+create this cube-like effect like that
+
+36
+00:01:13,200 --> 00:01:15,780
+now the problem with using this approach
+
+37
+00:01:15,780 --> 00:01:18,659
+is that it doesn't just fill in those
+
+38
+00:01:18,659 --> 00:01:20,939
+empty spaces it also gets rid of the uh
+
+39
+00:01:20,939 --> 00:01:22,680
+the lines that I had there so if you
+
+40
+00:01:22,680 --> 00:01:24,240
+want to do this in such a way that you
+
+41
+00:01:24,240 --> 00:01:26,580
+can fill between these paths and still
+
+42
+00:01:26,580 --> 00:01:28,920
+preserve these paths one way to do that
+
+43
+00:01:28,920 --> 00:01:31,439
+would be to use the paint bucket tool so
+
+44
+00:01:31,439 --> 00:01:32,520
+I'm going to come over here and grab the
+
+45
+00:01:32,520 --> 00:01:34,140
+paint bucket tool in the in the toolbar
+
+46
+00:01:34,140 --> 00:01:35,700
+you can also access it by pressing the
+
+47
+00:01:35,700 --> 00:01:37,500
+letter U on your keyboard
+
+48
+00:01:37,500 --> 00:01:39,060
+and we'll come up here to the tool
+
+49
+00:01:39,060 --> 00:01:40,860
+settings menu and make sure you have the
+
+50
+00:01:40,860 --> 00:01:43,500
+fill by set to visible colors make sure
+
+51
+00:01:43,500 --> 00:01:45,960
+your threshold is set to 50. we'll start
+
+52
+00:01:45,960 --> 00:01:47,640
+out at 50 and if we need to adjust it
+
+53
+00:01:47,640 --> 00:01:50,340
+we'll increase or decrease it grow and
+
+54
+00:01:50,340 --> 00:01:51,840
+Shrink make sure you have that set to
+
+55
+00:01:51,840 --> 00:01:55,200
+zero and close gaps set to none
+
+56
+00:01:55,200 --> 00:01:57,420
+now you can choose a fill color that
+
+57
+00:01:57,420 --> 00:01:59,520
+you'd like to use it's indicated up here
+
+58
+00:01:59,520 --> 00:02:01,079
+in the top right corner you can see as
+
+59
+00:02:01,079 --> 00:02:04,020
+of right now green is my fill color if I
+
+60
+00:02:04,020 --> 00:02:05,460
+want to change my fill color I could
+
+61
+00:02:05,460 --> 00:02:06,960
+just come down here to the color bar and
+
+62
+00:02:06,960 --> 00:02:08,639
+pick one of these other colors
+
+63
+00:02:08,639 --> 00:02:10,979
+and now if I click on one of these empty
+
+64
+00:02:10,979 --> 00:02:13,680
+spaces it fills in that empty space with
+
+65
+00:02:13,680 --> 00:02:15,300
+the new Vector shape
+
+66
+00:02:15,300 --> 00:02:17,160
+now if I zoom in on this you can see
+
+67
+00:02:17,160 --> 00:02:19,680
+where this effect is not perfect you can
+
+68
+00:02:19,680 --> 00:02:21,480
+see there are a little bit of gaps in
+
+69
+00:02:21,480 --> 00:02:23,580
+there it didn't exactly fill it in
+
+70
+00:02:23,580 --> 00:02:25,560
+precisely so let me undo that by
+
+71
+00:02:25,560 --> 00:02:27,720
+pressing Ctrl Z or command Z if you're
+
+72
+00:02:27,720 --> 00:02:29,640
+on Mac and I'm going to come up here to
+
+73
+00:02:29,640 --> 00:02:31,860
+the tool settings what we can choose to
+
+74
+00:02:31,860 --> 00:02:34,319
+do is we can choose to grow or Shrink
+
+75
+00:02:34,319 --> 00:02:36,060
+The Fill using this setting right here
+
+76
+00:02:36,060 --> 00:02:39,480
+so if I increase this to 0.7
+
+77
+00:02:39,480 --> 00:02:41,459
+and try that again
+
+78
+00:02:41,459 --> 00:02:43,860
+you can see it fills it in better as you
+
+79
+00:02:43,860 --> 00:02:45,840
+can see there but the problem now is
+
+80
+00:02:45,840 --> 00:02:48,180
+that it's overlapping some of the path
+
+81
+00:02:48,180 --> 00:02:50,220
+here so what you'll want to do is grab
+
+82
+00:02:50,220 --> 00:02:52,319
+your select tool and then just lower
+
+83
+00:02:52,319 --> 00:02:55,680
+this beneath the pads like that and now
+
+84
+00:02:55,680 --> 00:02:58,379
+you can grab the paint bucket tool again
+
+85
+00:02:58,379 --> 00:03:02,280
+and proceed to fill in the other colors
+
+86
+00:03:02,280 --> 00:03:03,959
+now if you want to change colors while
+
+87
+00:03:03,959 --> 00:03:05,459
+you're filling them in make sure to
+
+88
+00:03:05,459 --> 00:03:07,739
+press the Escape key so you can deselect
+
+89
+00:03:07,739 --> 00:03:09,060
+whatever object you currently have
+
+90
+00:03:09,060 --> 00:03:11,099
+selected and then you can choose your
+
+91
+00:03:11,099 --> 00:03:12,599
+next color like that
+
+92
+00:03:12,599 --> 00:03:14,220
+and then press Escape when you want to
+
+93
+00:03:14,220 --> 00:03:15,780
+choose another color again
+
+94
+00:03:15,780 --> 00:03:18,300
+and then you could fill it like that
+
+95
+00:03:18,300 --> 00:03:19,920
+okay so now what I'm going to do is I'm
+
+96
+00:03:19,920 --> 00:03:21,720
+going to take all of my shapes here I'm
+
+97
+00:03:21,720 --> 00:03:24,560
+going to select them all
+
+98
+00:03:25,080 --> 00:03:26,459
+and I'm going to send them all to the
+
+99
+00:03:26,459 --> 00:03:28,739
+back so that we can see the paths on top
+
+100
+00:03:28,739 --> 00:03:29,580
+of them
+
+101
+00:03:29,580 --> 00:03:31,920
+and you can see again this approach is
+
+102
+00:03:31,920 --> 00:03:33,900
+not perfect we have these gaps in here
+
+103
+00:03:33,900 --> 00:03:36,360
+despite using despite changing those
+
+104
+00:03:36,360 --> 00:03:37,920
+settings so I'm going to grab my nodes
+
+105
+00:03:37,920 --> 00:03:39,420
+tool and I'm going to take these nodes
+
+106
+00:03:39,420 --> 00:03:42,360
+and move them and adjust them so that
+
+107
+00:03:42,360 --> 00:03:46,760
+everything here is filled in accurately
+
+108
+00:03:48,720 --> 00:03:51,120
+and there we go foreign
+
+109
+00:03:51,120 --> 00:03:53,340
+so one thing to keep in mind when using
+
+110
+00:03:53,340 --> 00:03:55,379
+the paint bucket tool is if I fill in
+
+111
+00:03:55,379 --> 00:03:57,480
+this shape right here I have a shape but
+
+112
+00:03:57,480 --> 00:03:59,519
+if I try doing that over here it doesn't
+
+113
+00:03:59,519 --> 00:04:01,560
+work and the reason why is because if I
+
+114
+00:04:01,560 --> 00:04:03,540
+zoom in you can see there is a gap
+
+115
+00:04:03,540 --> 00:04:05,819
+between these paths here meaning this is
+
+116
+00:04:05,819 --> 00:04:08,340
+all open space the paint bucket tool
+
+117
+00:04:08,340 --> 00:04:11,220
+mostly only works on closed spaces there
+
+118
+00:04:11,220 --> 00:04:13,019
+are no gaps here so it worked over here
+
+119
+00:04:13,019 --> 00:04:15,120
+there is a setting that you can use to
+
+120
+00:04:15,120 --> 00:04:16,680
+change this though so if I come up here
+
+121
+00:04:16,680 --> 00:04:18,120
+to the tool settings where it says close
+
+122
+00:04:18,120 --> 00:04:20,699
+gaps I can start off with small and see
+
+123
+00:04:20,699 --> 00:04:22,680
+if that works so I'll set it to small
+
+124
+00:04:22,680 --> 00:04:24,060
+and click on it
+
+125
+00:04:24,060 --> 00:04:26,759
+okay so this is this must be larger than
+
+126
+00:04:26,759 --> 00:04:28,500
+what inkscapes considers to be a small
+
+127
+00:04:28,500 --> 00:04:30,060
+Gap so I'm going to try medium now
+
+128
+00:04:30,060 --> 00:04:32,340
+because that didn't work so let's try
+
+129
+00:04:32,340 --> 00:04:34,759
+medium
+
+130
+00:04:35,580 --> 00:04:37,979
+there we go
+
+131
+00:04:37,979 --> 00:04:40,620
+and this time it works so based on the
+
+132
+00:04:40,620 --> 00:04:42,240
+size of the of the gaps between your
+
+133
+00:04:42,240 --> 00:04:43,800
+paths go ahead and cycle through those
+
+134
+00:04:43,800 --> 00:04:45,000
+options there to see if one of those
+
+135
+00:04:45,000 --> 00:04:46,320
+will work if you're encountering that
+
+136
+00:04:46,320 --> 00:04:48,479
+problem
+
+137
+00:04:48,479 --> 00:04:50,100
+so all of the methods that we've gone
+
+138
+00:04:50,100 --> 00:04:51,840
+over at this point have been imperfect
+
+139
+00:04:51,840 --> 00:04:54,240
+in some way let's go over a workflow
+
+140
+00:04:54,240 --> 00:04:56,280
+that is perfect what I'm going to do is
+
+141
+00:04:56,280 --> 00:04:58,320
+I'm going to select my paths here and
+
+142
+00:04:58,320 --> 00:04:59,639
+I'm going to combine them together by
+
+143
+00:04:59,639 --> 00:05:03,780
+going to path and selecting combine
+
+144
+00:05:03,780 --> 00:05:06,000
+now I'm going to duplicate that I'm
+
+145
+00:05:06,000 --> 00:05:07,620
+going to right click it and go to
+
+146
+00:05:07,620 --> 00:05:09,720
+duplicate
+
+147
+00:05:09,720 --> 00:05:12,240
+and now I'm going to apply the fracture
+
+148
+00:05:12,240 --> 00:05:14,759
+to this duplicated path here so I'll go
+
+149
+00:05:14,759 --> 00:05:18,240
+to path and select fracture
+
+150
+00:05:18,240 --> 00:05:20,699
+and now I can change the colors of my
+
+151
+00:05:20,699 --> 00:05:22,979
+shapes and I could remove The Stroke by
+
+152
+00:05:22,979 --> 00:05:24,720
+holding shift and clicking on this red X
+
+153
+00:05:24,720 --> 00:05:27,000
+over here and now I can send them to the
+
+154
+00:05:27,000 --> 00:05:29,639
+back and this workflow right here gives
+
+155
+00:05:29,639 --> 00:05:31,740
+you the best result the only problem
+
+156
+00:05:31,740 --> 00:05:33,900
+with this method here is that now you
+
+157
+00:05:33,900 --> 00:05:35,340
+have to go and change all of these
+
+158
+00:05:35,340 --> 00:05:37,860
+colors individually if you need the
+
+159
+00:05:37,860 --> 00:05:39,419
+colors to be different
+
+160
+00:05:39,419 --> 00:05:41,280
+so that is how you can go about filling
+
+161
+00:05:41,280 --> 00:05:44,220
+between paths using inkscape if you
+
+162
+00:05:44,220 --> 00:05:45,900
+found this lesson useful then consider
+
+163
+00:05:45,900 --> 00:05:47,820
+checking out my inkscape master class
+
+164
+00:05:47,820 --> 00:05:50,039
+it's a collection of over 60 videos
+
+165
+00:05:50,039 --> 00:05:51,660
+where I go over all of the tools and
+
+166
+00:05:51,660 --> 00:05:53,639
+features in inkscape and I explain what
+
+167
+00:05:53,639 --> 00:05:55,199
+they are and demonstrate how they work
+
+168
+00:05:55,199 --> 00:05:57,780
+kind of like how I did in this video we
+
+169
+00:05:57,780 --> 00:05:59,520
+even have a private Community where you
+
+170
+00:05:59,520 --> 00:06:01,259
+can ask questions and get help from me
+
+171
+00:06:01,259 --> 00:06:03,780
+anytime you want and best of all there's
+
+172
+00:06:03,780 --> 00:06:05,759
+no monthly membership fees you just pay
+
+173
+00:06:05,759 --> 00:06:09,180
+17 one time and you're in for Life I'll
+
+174
+00:06:09,180 --> 00:06:10,500
+have some information about that down
+
+175
+00:06:10,500 --> 00:06:12,180
+below if you want to check that out as
+
+176
+00:06:12,180 --> 00:06:16,820
+always thanks for watching foreign
+

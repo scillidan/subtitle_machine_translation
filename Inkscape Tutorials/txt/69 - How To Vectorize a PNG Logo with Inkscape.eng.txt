@@ -1,0 +1,665 @@
+
+if  the  only  copies  you  have  for  your
+
+logo  are  rasterized  formats  like  PNG  and
+
+jpg  then  you  wont  be  able  to  reap  the
+
+benefits  of  having  a  vector  SVG  file
+
+like  infinite  scaling  and  being  able  to
+
+edit  your  logo  in  the  future  in  that
+
+case  youll  need  to  generate  a  vector
+
+copy  of  your  logo  using  vector  design
+
+software  and  thats  what  Ill  be
+
+demonstrating  in  this  video  this  is  Nick
+
+with  logos  by  Nick  comm  and  in  this
+
+tutorial  Ill  be  demonstrating  two
+
+different  ways  in  which  you  can  take  a
+
+logo  in  PNG  format  and  trace  a  vector
+
+SVG  copy  of  it  but  before  we  get  started
+
+if  youd  like  to  learn  more  about  how
+
+Inkscape  works  be  sure  to  check  out  my
+
+Inkscape  masterclass  its  a  collection
+
+of  over  60  videos  where  I  go  over  every
+
+tool  and  feature  in  Inkscape  and  I
+
+explain  what  it  is  and  demonstrate  how
+
+it  works  Ill  have  a  link  in  the
+
+description  of  the  video  if  you  want  to
+
+check  that  out  so  getting  started  as  you
+
+can  see  I  have  Inkscape  opened  up  here
+
+on  my  screen  and  the  first  thing  I  want
+
+to  do  is  just  set  up  the  documents  that
+
+we  are  all  working  with  a  similar  layout
+
+I  want  to  come  up  here  to  where  it  says
+
+enable  snapping  and  turn  that  off  and
+
+then  I  want  to  come  up  here  to  where  it
+
+says  view  make  sure  we  have  custom
+
+selected  and  then  come  over  here  to
+
+where  it  says  view  go  to  zoom  view  zoom
+
+and  zoom  in  at  1  to  1  so  what  Im  going
+
+to  do  now  is  Im  going  to  import  my  PNG
+
+logo  into  Inkscape  and  the  way  that  Im
+
+going  to  do  that  is  by  opening  the
+
+folder  where  its  located  and  in
+
+clicking  and  dragging  the  file  onto  the
+
+canvas  now  you  wont  be  able  to  see  me
+
+doing  this  because  I  have  the  folder
+
+opened  up  on  my  other  monitor  but  I  am
+
+clicking  and  dragging  the  file  onto  the
+
+canvas  they  are  in  Inkscape  now  were
+
+gonna  hit  this  little  menu  that  pops  up
+
+Im  going  to  choose  embed  Im  going  to
+
+choose  default  import  resolution  and
+
+then  Im  going  to  choose  none  Ill  click
+
+OK  and  there  you  can  see  that  is  the
+
+Inkscape  logo  that  I  will  be  using  for
+
+this  demonstration  now  let  me  just  zoom
+
+in  on  this  just  to  show  you  that  this  is
+
+indeed  a  raster  format  this  is  not  a
+
+vector  design  so  let  me  zoom  back  out
+
+here  what  I  want  to  do  now  is  I  want  to
+
+change  the  size  of  my  page  border  so
+
+that  it  fits  the  size  of  the  logo  here
+
+so  to  do  that  Im  going  to  select  the
+
+logo  as  you  can  see  here  and  go  to  file
+
+properties  and  I  want  to  expand  this
+
+menu  that  says  resize  page  to  content
+
+and  then  down  here  where  it  says  resize
+
+page  to  drawing  or  selection  go  ahead
+
+and  click  that  and  its  going  to  change
+
+the  page  boundaries  to  where  the  logo  is
+
+so  let  me  go  ahead  and  close  out  of  that
+
+so  like  I  said  at  the  beginning  of  the
+
+video  theres  two  different  ways  where
+
+we  can  go  about  tracing  a  vector  copy  of
+
+this  design  one  is  an  easier  way  where
+
+its  kind  of  like  an  auto  trace  function
+
+using  the  trace  bitmap  feature  and  if
+
+your  design  is  so  complicated  that  that
+
+wont  work  youll  have  to  manually  trace
+
+it  so  Im  gonna  show  you  both  on  you
+
+show  you  the  auto  trace  feature  first  I
+
+want  to  select  the  logo  just  make  sure
+
+you  have  the  logo  selected  here  youll
+
+notice  you  have  it  selected  when  you  see
+
+these  arrows  enabled  and  I  want  to  come
+
+up  here  to  where  it  says  path  and  I  want
+
+to  go  to  trace  bitmap  and  under  this
+
+menu  we  have  these  two  different  options
+
+single  scan  and  multiple  scans  for  this
+
+design  its  just  black  and  white  so  Im
+
+going  to  leave  it  as  single  scan  if  your
+
+design  has  colors  you  might  want  to
+
+click  on  multiple  scans  and  then  you  can
+
+choose  the  number  of  colors  in  the  scan
+
+right  there  but  this  design  is  just
+
+black  and  white  so  Im  gonna  leave  it  a
+
+single  scan  Im  going  to  leave  these
+
+defaults  just  as  they  are  and  Im  going
+
+to  click  update  and  its  gonna  show  you
+
+a  preview  of  whats  going  to  be  traced
+
+in  the  preview  window  here  now  for  these
+
+default  settings  this  worked  pretty  well
+
+thats  exactly  what  Im  looking  to  do
+
+right  there  if  yours  didnt  come  out  as
+
+well  you  may  have  to  adjust  these
+
+settings  a  little  bit  and  play  with  them
+
+a  little  bit  may  even  want  to  change  the
+
+the  type  of  a  trace  that  you  do  here  but
+
+this  worked  well  for  me  so  I  was  going
+
+to  click  OK  and  its  going  to  generate  a
+
+vector  copy  right  on  top  of  that  so  let
+
+me  close  out  of  that  menu  Im  gonna  take
+
+this  if  I  move  this  out  of  the  way  you
+
+can  see  now  this  is  the  vector  copy  this
+
+is  the  original  this  is  the  vector  and
+
+Ill  zoom  in  on  that  just  to  show  you
+
+that  is  indeed  a  vector  copy  you  can
+
+grab  the  nodes  tool  and  you  can  edit
+
+those  nodes  individually  like  you  would
+
+with  any  other  vector  object  so  what  you
+
+can  do  is  now  you  can  color  that  in  you
+
+can  do  whatever  you  want  with  that  one
+
+thing  you  may  notice  is  that  the  filled
+
+in  area  right  here  the  filled  in  area
+
+where  is  white  is  now  negative  space  its
+
+transparency  in  there  if  youre  okay
+
+with  that  then  youre  good  to  go  if
+
+youd  like  to  fill  that  in  with  the
+
+color  or  fill  it  in
+
+white  as  I  did  here  you  can  use  the
+
+bucket  fill  tool  for  that  so  let  me  make
+
+this  black  the  way  it  was  before
+
+let  me  grab  the  bucket  fill  tool  and  Im
+
+gonna  click  on  that  that  empty  space
+
+right  there  to  fill  it  in  now  it  filled
+
+it  in  with  the  color  black  Im  just
+
+gonna  change  this  to  red  to  annouce  so  I
+
+can  see  the  difference  here  and  if  you
+
+notice  its  sticking  out  of  the  edges  a
+
+little  bit  so  Im  going  to  change  that
+
+by  going  to  path  dynamic  offset  and  Im
+
+going  to  take  this  little  note  up  here
+
+and  just  pull  that  out  so  that  it
+
+believes  out  into  the  design  like  that
+
+now  let  me  finalize  that  by  going  to
+
+path  object  to  path  let  me  go  back  to
+
+the  Select  tool  and  I  want  to  lower  this
+
+to  the  bottom  Im  gonna  click  this
+
+button  that  says  lower  selection  to  the
+
+bottom  and  now  its  lowered  beneath  the
+
+design  there  and  I  can  make  that  white
+
+and  as  you  can  see  that  is  no  longer
+
+transparent  that  is  now  filled  with
+
+white  and  down  here  you  could  do  the
+
+same  thing  because  this  is  negative
+
+space  as  well  so  thats  the  auto  trace
+
+thats  the  automated  way  of  tracing  a
+
+vector  copy  of  your  logo  if  that  doesnt
+
+work  because  that  feature  wont  always
+
+work  for  more  elaborate  designs  if  your
+
+design  is  it  maybe  its  like  not  a  high
+
+enough  resolution  that  that  feature  can
+
+work  youll  have  to  manually  trace  a
+
+copy  of  that  using  the  Bezier  a  pen  so
+
+let  me  show  you  how  to  do  that  now  the
+
+first  thing  I  want  to  do  over  here  is
+
+open  up  the  filling  stroke  menu  with
+
+this  button  over  here  the  keyboard
+
+shortcut  would  be  ctrl  shift  F  on  to
+
+take  the  original  logo  right  here  and  I
+
+want  to  bring  me  opacity  down  in  half  so
+
+I  can  see  what  Im  doing  as  a  trace  over
+
+it  and  I  want  to  grab  the  Bezier  pen
+
+which  is  over  here  or  you  could  press  B
+
+on  the  keyboard  and  depending  on  the
+
+type  of  design  you  have  this  design  has
+
+a  lot  of  curves  and  bends  and  contours
+
+and  stuff  for  this  sort  of  design  I  want
+
+to  use  the  b-spline  setting  of  the  tool
+
+Im  gonna  click  b-splines
+
+what  this  does  is  it  basically  forces
+
+you  to  draw  curved  lines  its  kind  of
+
+like  training  wheels  for  the  pen  tool  if
+
+youve  never  used  the  pen  tool  before
+
+this  is  a  great  option  to  use  because  it
+
+forces  you  to  draw  curved  lines  that
+
+will  be  able  thatll  make  it  easier  for
+
+you  to  trace  this  design  right  here  so
+
+let  me  get  rid  of  that  Im  gonna  go
+
+ahead  and  start  tracing  around  this
+
+design  right  here  and  to  move  the  page
+
+around  basic  functions  Im  just  pressing
+
+down  the  mouse  wheel  Im  moving  the
+
+mouse  and  to  zoom  in  and  out  Im  holding
+
+ctrl  and  rolling  up  and  down  the  mouse
+
+wheel  so  Im  just  going  to  go  around  and
+
+points  going  around  the  design  over  here
+
+to  trace  to  trace  a  shape  going  around
+
+the  logo  and  if  at  any  point  you  need  to
+
+create  a  sharp  corner  because  this  tool
+
+setting  will  not  allow  you  to  create
+
+corners  by  default  what  you  can  do  is
+
+just  hold  shift  and  then  click  and  then
+
+itll  allow  you  to  create  a  corner  as
+
+you  can  see  there  but  Ill  be
+
+demonstrating  that  in  a  minute  when  I  go
+
+over  this  area  right  here  so  let  me  undo
+
+that  Im  gonna  go  and  trace  over  this
+
+logo  really  quickly  Im  just  gonna  do  a
+
+very  quick  and  rudimentary  tracing  of
+
+this  because  Im  not  actually  trying  to
+
+make  a  copy  of  this  logo  Im  just  doing
+
+this  for  a  demonstration
+
+okay  so  once  youre  finished  tracing
+
+around  your  object  here  you  can  just
+
+click  on  the  original  node  right  there
+
+to  close  the  path  and  if  you  zoom  out
+
+you  can  see  let  me  grab  the  Select  tool
+
+move  this  you  can  see  weve  traced  a
+
+shape  over  that  shape  right  there  so  let
+
+me  put  that  back  what  I  want  to  do  now
+
+is  trace  this  other  shape  right  here  so
+
+let  me  go  back  to  the  Bessie  a  penny  let
+
+me  zoom  in  Im  going  to  start  tracing
+
+around  to  this  and  this  is  where  Id
+
+like  to  demonstrate  the  the  corner
+
+feature  so  Im  gonna  bring  this  over
+
+here  like  this  and  again  right  here  we
+
+have  a  sharp  corner  so  Im  gonna  hold
+
+shift  and  click  and  there  you  go  now  you
+
+have  a  sharp  corner  same  thing  up  here
+
+we  have  another  corner  area  hold  shift
+
+click  in  fact  for  the  rest  of  these
+
+points  Im  gonna  be  holding  shift  the
+
+whole  time  to  create  sharp  corners  like
+
+that  until  we  get  right  there  and  now  I
+
+collect  all  of  shift  and  get  back  to
+
+tracing  around  this  design  like  this  now
+
+like  I  said  before  this  b-spline  setting
+
+in  this  tool  its  pretty  much  like
+
+training  wheels  for  the  pen  tool  theres
+
+easier  theres  easier  ways  to  do  this  if
+
+youre  more  advanced  with  using  this
+
+software  but  this  tutorial  is  not  for
+
+advanced  users  this  tutorial  is  for
+
+newcomers  to  Inkscape  who  just  need  to
+
+create  a  vector  tracing  of  a  logo  that
+
+they  have  in  PNG  format  so  let  me  go
+
+ahead  and  finish  tracing  this  back  to
+
+the  starting  point  like  that  looking
+
+pretty  good  now  Im  gonna  go  ahead  and
+
+trace  this  part  down  here  as  well
+
+okay  so  as  you  can  see  I  have  finished
+
+up  Ive  went  and  created  these  shapes  as
+
+well  and  the  shape  and  that  shape  as
+
+well  so  I  dont  know  what  to  do  now  is
+
+we  have  the  shape  we  have  the  designs
+
+wrong  we  just  have  to  color  it  in  now  so
+
+let  me  grab  the  Select  tool  let  me  click
+
+on  the  original  logo  at  the  back  there
+
+at  the  bottom  and  bring  the  opacity  of
+
+that  all  the  way  back  up  now  Im  just
+
+gonna  move  this  out  of  the  way  for  now
+
+if  you  want  to  color  your  design  in  with
+
+the  same  color  as  your  original  design
+
+head  what  you  can  do  is  you  could  just
+
+click  on  the  shape  grab  the  dropper  tool
+
+which  is  over  here  and  then  grab  a
+
+selection  of  that  color  now  this  is  just
+
+black  and  white  so  I  mean  I  could  just
+
+click  the  black  and  white  colors  down
+
+here  but  Im  doing  this  assuming  that
+
+your  logo  that  youre  trying  to  check
+
+trace  is  in  color  so  Im  going  to  show
+
+you  how  to  do  this  as  if  this  were  in
+
+color  let  me  go  back  to  the  select  tool
+
+click  on  this  shape  I  want  to  make  that
+
+white  as  well
+
+if  you  notice  you  cant  see  the  white
+
+there  because  its  a  white  background
+
+its  its  blending  in  against  it  but  it
+
+is  indeed  filled  with  white  let  me  go
+
+back  to  the  dropper  fill  that  in  with
+
+white  and  I  want  to  get  rid  of  that
+
+those  black  outlines  as  well  to  get  rid
+
+of  the  black  outline  just  hold  shift  and
+
+click  on  the  red  X  down  here  now  let  me
+
+go  back  to  the  Select  tool  let  me  take
+
+this  shape  I  wanna  get  rid  of  that  black
+
+outline  as  well  Im  gonna  hold  shift
+
+click  on  the  X  and  then  finally  Im
+
+gonna  make  the  larger  shape  over  here
+
+Im  gonna  make  that  black  hold  shift
+
+click  on  the  X  click  this  shape  do  the
+
+same  thing  just  fill  it  in  with  its
+
+intended  colors  you  can  use  the  dropper
+
+tool  like  I  did  previously  or  you  can
+
+just  fill  it  in  manually  with  these
+
+colors  down  here  like  Im  doing  theres
+
+also  other  ways  you  can  fill  you  can
+
+choose  based  on  RGB  HSL  if  you  have  like
+
+an  HTML  like  a  hex  code  for  your  for
+
+your  design  youd  like  to  fill  it  with
+
+you  can  put  it  right  there
+
+followed  by  FF  so  what  Im  going  to  do
+
+now  is  Im  going  to  convert  this  to  a
+
+path  Im  going  to  select  over  everything
+
+click  and  drag  over  everything  and  go  to
+
+path  object  to  path  and  thats  gonna
+
+change  that  from  be  spline  shapes  to
+
+actual  true  vector  paths  now  we  can  take
+
+the  original  logo  and  get  rid  of  that
+
+and  as  you  can  see  weve  finished  we
+
+have  traced  our  vector  logo  so  all  we
+
+have  to  do  now  is  save  a  vector  file
+
+effective  copy  of  it  so  to  do  that  Ill
+
+go  to  file  save  as  and  Im  going  to  save
+
+it  as  a  dot  SVG  file  or  in  Inkscape  SVG
+
+file  or  if  youd  like  to  export  it  as  a
+
+PNG  like  lets  say  you
+
+want  to  enlarge  it  lets  say  the  whole
+
+point  of  vectorizing  your  logo  is  that
+
+you  could  enlarge  it  like  that  and  then
+
+export  a  copy  of  it  what  you  can  do  is
+
+go  to  file  export  PNG  image  and  then
+
+from  here  you  can  choose  export  as  you
+
+can  click  on  that  choose  your  name  and
+
+location  right  there  and  then  click
+
+export  to  export  it  and  I  think  that
+
+should  do  it  for  this  tutorial  so  that
+
+is  how  you  can  go  about  creating  a
+
+vector  copy  of  your  rasterized  PNG  logos
+
+with  Inkscape  if  you  have  any  questions
+
+leave  a  comment  below  and  as  always
+
+thanks  for  watching
+
+
+

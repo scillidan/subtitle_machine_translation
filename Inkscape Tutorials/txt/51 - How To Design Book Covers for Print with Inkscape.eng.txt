@@ -1,0 +1,1219 @@
+
+
+
+this  is  nick  with  logosbynic.com  and  in
+
+this  tutorial  ill  be  demonstrating  how
+
+you  can  design  your  own  book  covers
+
+using  inkscape  and  i  dont  just  mean  a
+
+book  cover  for  an  ebook  i  mean  an  actual
+
+physical  book  cover  that  you  would  print
+
+and  use  on  a  book  as  you  can  see  here  in
+
+the  mock-up  before  we  get  started  though
+
+if  youd  like  to  learn  everything  that
+
+there  is  to  know  about  enscape
+
+be  sure  to  check  out  my  inkscape  master
+
+class  its  a  collection  of  over  60
+
+videos  where  i  go  over
+
+all  of  the  tools  and  features  in
+
+inkscape  and  i  explained  what  they  are
+
+and  demonstrate  how  they  work
+
+ill  have  a  link  in  the  description  of
+
+the  video  if  you  want  to  check  that  out
+
+okay  so  as  you  can  see  here  ive  opened
+
+up  the  kindle  direct  publishing
+
+uh  this  is  there  this  is  amazons  print
+
+on  demand  service  for  uh  having  your  own
+
+books
+
+printed  ill  be  showing  you  how  to  use
+
+this  service  here  because  this  is  the
+
+one  that  people  most  commonly  use  when
+
+they  have  books  printed
+
+in  order  to  design  your  book  cover  with
+
+inkscape  you  first  have  to  come  here  and
+
+download  a  template
+
+for  the  size  of  book  youd  like  to  print
+
+so  if  you  notice  over  here  we  have  all
+
+these  different  sizes  to  choose  from  we
+
+have  a  page  count  to  choose  from  and  we
+
+have
+
+color  options  to  choose  from  for  the
+
+paper  as  well  for  this  demonstration
+
+ill  be  showing
+
+you  how  to  design  a  six  inches  by  nine
+
+inches  book  with  200  pages  in  it
+
+with  white  paper  now  if  you  go  ahead  and
+
+click  the  download  cover  template  button
+
+you  should  get  a  zip  folder  and  within
+
+that  zip  folder  is  a
+
+dot  png  file  that  we  will  be  working
+
+with  in  inkscape
+
+okay  so  getting  started  here  in  inkscape
+
+the  first  thing  i  want  to  do  is  just  set
+
+up  the  documents  that  we  all  have  a
+
+similar  workflow  here
+
+im  going  to  come  up  here  and  turn  off
+
+snapping  i  want  to  change  the
+
+units  of  measurement  to  pixels  and  then
+
+i  will  come  up  here  to  where  it  says
+
+view  and  make  sure  you  have  custom
+
+selected
+
+and  now  what  im  going  to  do  is  im
+
+going  to  import  that  png  template  onto
+
+my  canvas  here  by  just  clicking  and
+
+dragging  it  onto  the  canvas  like  that
+
+now  you  cant  see  where  this  is  coming
+
+from  because  i  have  this  folder  opened
+
+up  on  my  other  monitor  but  if  you  take
+
+the  dot  png  file
+
+and  click  and  drag  it  onto  your  canvas
+
+like  that  you  should  get  this  little
+
+this  little  menu  that  pops  up  and  from
+
+these  defaults  here  we  want  to  make  sure
+
+we  have  embed
+
+from  image  dpi  default  import  resolution
+
+and  for  image  rendering  mode
+
+none  and  once  you  have  those  presets  as
+
+they  are  click  ok
+
+and  it  should  import  your  image  as  you
+
+can  see  here  now  let  me  zoom  out  a
+
+little  bit  so  i  can  see  that  a  little
+
+better
+
+you  hold  ctrl  roll  down  the  mouse  wheel
+
+a  couple  of  times
+
+okay  so  theres  our  template  a  couple  of
+
+things  about  this  template
+
+this  image  right  here  represents  the
+
+size  that  our  document  needs  to  be  so
+
+what  im  going  to  do  is  i  want  to  resize
+
+the  document  so  that  it  fits
+
+this  image  right  here  now  if  you  notice
+
+this  is  the  document  size  right  here  as
+
+it  stands
+
+so  in  order  to  change  that  what  im
+
+going  to  do  is  im  going  to  select  the
+
+image
+
+and  im  going  to  press  ctrl  shift  and  r
+
+on  the  keyboard
+
+and  thats  going  to  change  the  document
+
+size  to  match
+
+the  size  of  the  selection  there  as  you
+
+can  see  there  a  couple  of  more  things  uh
+
+worth  noting  about  this  template  over
+
+here  youll  notice  this  dotted  line
+
+going  around  the  edge
+
+of  the  image  here  this  dotted  line
+
+represents  the  bleed  cutoff
+
+once  this  document  is  printed  everything
+
+outside  of  this  dotted  line  will  be
+
+trimmed  off
+
+and  then  this  pink  area  right  here
+
+represents  the  safe  area
+
+meaning  all  of  your  contents  of  your
+
+design  need  to  be
+
+away  from  this  pink  area  if  you  have  any
+
+elements  like  text  or  imagery  that  touch
+
+this  pink  area  or  start  to  bleed  out
+
+into  that  area
+
+uh  amazon  will  reject  your  book  cover
+
+design  so  thats  something  important  to
+
+keep  in  mind  as  were  going  through  and
+
+creating  this  design  you  want  to  make
+
+sure  you  keep  everything
+
+in  this  white  space  in  here  now  as  you
+
+can  see  over  here  on  the  right
+
+we  have  the  cover  of  the  book  the  front
+
+cover  over  here  on  the  left  we  have  the
+
+back  cover
+
+and  this  right  here  is  the  spine  of  the
+
+book  now  the  way  this  works  is  this  will
+
+be  printed  out  as  one
+
+entire  document  and  then  just  wrapped
+
+around  the  book  as  a  single
+
+a  single  piece  of  paper  and  then  over
+
+here  we  have
+
+the  barcode  now  when  were  designing  we
+
+want  to  make  sure  we  do  not  put  anything
+
+over  here  we  do  not  need  to  put  the
+
+barcode  on  the  design  ourselves  amazon
+
+will  handle  that  themselves  all  we  have
+
+to  do
+
+is  make  sure  that  we  leave  this  space
+
+right  here  free
+
+so  let  me  zoom  out  a  little  bit  let  me
+
+open  up  the  layers  menu
+
+which  is  located  over  here  you  can  also
+
+press  shift  control  l  as  a  keyboard
+
+shortcut
+
+and  what  i  want  to  do  is  i  want  to
+
+rename  this  layer  to
+
+template  and  i  want  to  create  a  new
+
+layer
+
+by  clicking  the  plus  button  over  here
+
+and  i  want  to  name  this  contents
+
+all  of  the  contents  the  design  is  going
+
+to  be  on  this  layer  i  want  to  put  this
+
+below  current
+
+and  click  add  so  we  have  the  contents
+
+layer  where  the  design  is  going  to  be
+
+and  then  we  have  the  template  layer  up
+
+here  which  were  going  to  use  for  a
+
+reference  as  were  creating  our  design
+
+now  instead  of  using  this  template  right
+
+here  im  just  going  to  create  some
+
+simple  guides  to  make  sure  that  im
+
+staying  within  these  boundaries  here  so
+
+the  first  thing  i  want  to  do  is  let  me
+
+grab  the  rectangles  tool
+
+and  im  going  to  create  a  rectangle
+
+going  over  the  white  space  right  here
+
+of  the  back  cover  and  i  want  to  give
+
+that  an  outline  um
+
+or  a  stroke  im  going to  hold  shift  and
+
+click  on  the  color  green  to  give  that
+
+an  outline  let  me  remove  the  fill  color
+
+let  me  grab  the  select  tool
+
+im  going  to  be  moving  through  these
+
+steps  a  little  quicker  than  normal  this
+
+is  going  to  be  more  of  like  an
+
+intermediate  tutorial  because
+
+theres  a  lot  for  me  to  go  over  in  this
+
+lesson  so  im  not  going  to  be  explaining
+
+every  single  click  like  i  normally  do  so
+
+thats  something  to  keep  in  mind
+
+let  me  zoom  in  over  here  i  want  to  make
+
+sure  i  have  this  option  up  here  disabled
+
+where  it  says  when  scaling  objects  scale
+
+the  stroke  width  by  the  same
+
+proportion  have  that  turned  off  and  i
+
+just  want  to  make  sure
+
+that  the  edge  of  this  green  stroke  is
+
+resting  on  the  edge
+
+of  this  white  safe  space  right  here
+
+there  we  go  looking  pretty  good  and
+
+again  to  zoom  in  and  out  holding  control
+
+rolling  up  and  down  the  mouse  wheel  to
+
+move  the  page  around  pressing  down  the
+
+mouse  wheel  and  moving  the  mouse
+
+i  want  to  create  another  one  going  over
+
+this  barcode  right  here
+
+there  we  go
+
+im  going  to  grab  the  select  tool
+
+duplicate  that  by  pressing  ctrl  d
+
+im  going  to  move  this  over  here  like
+
+that
+
+and  then  ill  create  another  one  for  the
+
+spine  control  d  to  duplicate  it  move
+
+this  one  over  here
+
+there  we  go  and  ill  just  resize  that  to
+
+fit
+
+the  uh  i  want  to  make  sure  it  fits  the
+
+spine  right  there
+
+okay  looking  pretty  good  okay  let  me
+
+just  zoom  out
+
+okay  looking  pretty  good  here  weve  got
+
+uh  green  strokes  for  all  of  the
+
+important  areas
+
+what  i  want  to  do  is  i  want  to  select
+
+this  image  the  template  and  i  want  to
+
+right  click  it  and  go  to  copy
+
+and  then  i  want  to  turn  off  the
+
+visibility  of  the  templates  layer  i  want
+
+to  come  down  here  to  the  contents  layer
+
+and  i  want  to  create  another  rectangle
+
+so  just  create  a  rectangle  like  that
+
+give  this  a  fill  color  im  going  to  make
+
+this  as  you  can  see  in  the  thumbnail
+
+design  i  made  this  book  cover
+
+yellow  with  some  white  going  through
+
+here  so  im  going to  make  this  yellow
+
+the  cover  out  the  color  i  want  the  book
+
+cover  to  be
+
+ill  make  that  yellow  let  me  get  rid  of
+
+that  stroke  by  holding  shift  and
+
+clicking  the  x
+
+and  i  want  to  make  this  the  same  size  as
+
+the  template  that  we  just  copied  so  to
+
+do  that
+
+let  me  go  to  edit  paste  size  paste  size
+
+and  itll  paste  the  width  and  height  of
+
+that  image  like  that
+
+and  then  i  just  want  to  align  this  on
+
+the  artboard  here  or  the  canvas  so  let
+
+me  open  up  the  alignment  menu  over  here
+
+ctrl  shift  a  is  the  keyboard  shortcut
+
+and  im  going  to  align  this  relative  to
+
+the  page  im  going  to  put  that  on  the
+
+vertical  and  horizontal  axis  like  that
+
+okay  now  well  come  back  over  here  to
+
+the  layers  menu  now  that  we  have  that  in
+
+place
+
+we  can  select  the  template  layer  turn
+
+the  visibility  of  that  back  on
+
+and  what  i  want  to  do  is  take  this
+
+template  and  we  dont  need  this  anymore
+
+you  could  just  press  delete  on  your
+
+keyboard  and  get  rid  of  that
+
+and  as  you  can  see  we  have  the  book
+
+cover  design  which  is  the  yellow
+
+rectangle
+
+with  these  guides  in  place  to  let  us
+
+know  where  the  important  content  should
+
+go
+
+and  where  we  should  not  be  putting  any
+
+content  so  let  me
+
+lock  this  layer  so  that  i  dont
+
+accidentally
+
+move  any  of  these  guides  as  im
+
+designing  and  there  we  go  now  im  going
+
+to  click  on  the  contents  layer
+
+and  now  we  are  ready  to  start  designing
+
+so  as  you  can  see  here  this  book  cover
+
+is
+
+yellow  and  i  have  some  white  in  there  so
+
+im  going  to  go  ahead  and  create  that
+
+aspect  of  it  real  quick  let  me
+
+take  this  image  right  here  and  duplicate
+
+that  by  pressing  ctrl  d
+
+and  im  going  to  make  this  white  and  im
+
+just  going  to  scale  this  down  like  this
+
+kind  of  like  that  now  im  going to  grab
+
+my  text  tool
+
+and  im  going  to  put  some  text  in  here
+
+im  going  to  write
+
+how  to  create  a
+
+now  let  me  change  the  font  im  going  to
+
+go  to  text  text  and  font
+
+and  the  font  im  looking  for  is
+
+montserrat  obviously  you  can  use
+
+whatever  font  youd  like  im  just
+
+showing  you  how  i  created  this  specific
+
+design  im  going  to  apply  that  font  like
+
+that
+
+let  me  scale  that  up  im  holding  ctrl
+
+while  i  scale  to  lock  the  proportions
+
+place  this  right  about  there  and  im
+
+going  to  duplicate  that  control  d
+
+bring  that  down  there  and  im  going  to
+
+change
+
+this  to  with  inkscape
+
+and  the  text  in  the  middle  here  is  going
+
+to  be  a  different  font  let  me  just  make
+
+sure  i  have  this  centered  up  first  im
+
+going  to  select  both  of  these
+
+come  back  over  here  to  the  align
+
+distribute  menu  and  set  this  to
+
+last  selected  and  just  make  sure  i  have
+
+that  centered  up  like  that
+
+now  if  you  notice  here  i  have  a  book
+
+cover  design  in  the  middle  here  with  a
+
+different  font  so  im  going to  go  ahead
+
+and  create  that  next
+
+let  me  grab  my  text  tool  again  im  going
+
+to  write
+
+book  cover  design
+
+there  we  go  let  me  change  the  font  of
+
+that  to
+
+sirona  make  sure  i  have  that
+
+centered  and  im  just  going  to  scale
+
+that  up  as  well
+
+im  actually  going  to  move  this  out  of
+
+the  way  i  want  to  make  this  i  want  this
+
+title  to  take  up  the  whole  width  of  this
+
+of  this  uh  of  this  cover  right  here  just
+
+like  that
+
+let  me  center  that  up  on  there
+
+and  let  me  just  change  this  white  stripe
+
+right  here  to  accommodate  the  change
+
+in  the  size  of  the  text  like  that  let  me
+
+move  this  up
+
+move  this  up  now  if  you  notice  over  here
+
+i  also  have  these  little  white  stripes
+
+on  the  top  and  bottom  of  each  of  them  so
+
+what  im  going  to  do  is  im  going  to
+
+duplicate  that
+
+ctrl  d  move  this  over  here  like  this
+
+and  just  bring  down  the  height  of  that
+
+and  ill  just  duplicate  that  and  bring
+
+that  up  there
+
+and  i  want  to  make  sure  that  all  three
+
+of  these  white  stripes  are
+
+spaced  out  apart  evenly  so  im  going  to
+
+hold  shift  and  click  on  each  of  them
+
+come  over  here  to  align  and  distribute
+
+and  click  on  where  it  says
+
+make  vertical  gaps  between  objects  equal
+
+there  we  go
+
+and  now  i  just  want  to  align  my  text
+
+again  to  make  sure  that  its  aligned
+
+after  that  change  right  there  and  im
+
+just  trying  to  make  sure  that  this  is
+
+centered
+
+like  that  im  going  to  take  this  text
+
+and  this  text
+
+select  them  both  and  then  center  it  up
+
+with  this  text  just  to  make  sure  that
+
+everything  is  aligned
+
+in  the  center  like  that  let  me  move  that
+
+up
+
+there  we  go  okay  so  what  im  going to  do
+
+next
+
+is  down  here  all  of  the  secrets  of  book
+
+cover  design  revealed
+
+and  then  by  author  name  let  me  add  that
+
+text  in  there  real  quick
+
+and  im  going  to  give  this  text  a  little
+
+bit  of  a  shear  by  clicking  on  it  again
+
+and  getting  these  shearing  handles  just
+
+to  make  it  look  like  its  italics
+
+because  theres  no  italics  version  of
+
+this  font
+
+let  me  just  do  that  there  we  go  and  i
+
+want  to  make  sure  i  have  that  centered
+
+right  there
+
+there  we  go  and  then  down  here  finally  i
+
+have
+
+by  author  name  this  is  where  you  put
+
+your  author  right  here  so  let  me
+
+im  just  going  to  use  this  text  item
+
+right  here  im  going  to  duplicate  that
+
+by  author  name  and  ill  make  this  one
+
+smaller  because  this  one  is  less
+
+less  prominent  there  we  go  put  that  down
+
+there
+
+towards  the  bottom  center  that  up  i  want
+
+to  make  sure  i  have  everything  centered
+
+up  here  so  im  going  to  click  on
+
+click  and  drag  over  all  of  that  make
+
+sure  its  all  centered  up  like  that
+
+and  i  want  to  make  sure  its  all
+
+centered  relative  to  the  page  there
+
+and  what  i  might  want  to  do  is  just
+
+space  things  out  vertically  a  little
+
+better  so  let  me  move  this  down
+
+let  me  move  this  down  im  going  to  group
+
+all  of  this  right  here  together
+
+im  going  to  just  press  ctrl  g  to  group
+
+that  together  like  that
+
+move  this  down  like  this  now  if  you  can
+
+see  here
+
+i  have  the  um  the  inkscape  logo  up  top
+
+there  so  let  me  import  that  in  here  and
+
+place  that  real  quick
+
+okay  so  there  we  go  theres  the  inkscape
+
+logo  and  now  im  just  going  to  select
+
+all  of  these  objects  or  actually  you
+
+know  what  let  me  make  sure  i  have  this
+
+centered  first
+
+there  we  go  im  going  to  select  all  of
+
+these  objects
+
+and  i  just  want  to  space  them  all  apart
+
+evenly  vertically  like  this
+
+there  we  go  and  maybe  move  that  up  a
+
+little  bit
+
+all  right  were  looking  pretty  good  here
+
+okay  so  what  im  going to  do  now  is  the
+
+cover  of  the  book
+
+is  now  finished  im  going  to  work  on  the
+
+spine  now  as  you  can  see  in  the  spine
+
+i  have  the  inkscape  logo  i  have  the
+
+author  name  i  have  the  title
+
+and  then  i  have  some  subtext  over  here
+
+so  let  me  add  that  in  here
+
+let  me  put  the  escape  logo  in  there  im
+
+going  to  duplicate  that  by  pressing  ctrl
+
+d
+
+i  have  to  make  this  small
+
+there  we  go  put  that  right  about  there
+
+and  im  going  to  put  some  text  right
+
+here  that  says  the  author  name
+
+let  me  just  duplicate  this  text  and  move
+
+it  over  here
+
+and  just  rotate  that  around  like  that  so
+
+that  it  fits  in  there
+
+you  may  have  to  scale  it  down  a  bit  like
+
+that  there  we  go
+
+now  im  going  to  put  the  book  title  in
+
+this  white  space  right  here  so  im  going
+
+to  duplicate
+
+first  let  me  ungroup  that  im  going  to
+
+duplicate  this  design  right  here  im
+
+going  to
+
+duplicate  this  text  right  here  and  i
+
+want  to  put  this  text  all  on  one  line
+
+like  that
+
+oops  scale  that  down
+
+rotate  that  place  this  in  here
+
+and  scale  this  down  so  that  it  doesnt
+
+it  doesnt  touch  the  green  edges  right
+
+here  you  want  to  make  sure  its  well
+
+within  that  safe  area
+
+and  then  just  center  that  up  there  we  go
+
+looking  pretty  good
+
+now  what  im  going  to  do  is  im  going  to
+
+put  some  subtext  down  here
+
+uh  let  me  just  duplicate  this
+
+the  secrets  im  going  to  im  going  to
+
+abbreviate  this  text  so  that  it  doesnt
+
+take  up  too  much  space  down  here
+
+the  secrets  of  book  cover  design  lets
+
+see  if  that  works
+
+okay  looking  pretty  good  alright  so  now
+
+the  spine  is  finished
+
+the  final  step  would  be  to  work  on  the
+
+back  cover  of  the  book
+
+so  im  going  to  put  some  text  up  there
+
+some  placeholder  text  in  the  middle  and
+
+then  about  the  author
+
+uh  down  there  at  the  bottom  so  well  go
+
+ahead  and  get  started  on  that
+
+i  have  up  here  learn  how  to  design  book
+
+covers  okay  so  im  going  to  grab
+
+this  text  im  going  to  duplicate  that
+
+put  this  over  here  ill  make  this  a
+
+little  smaller
+
+let  me  uh  change  this  learn  how  to
+
+did  i  have  that  on  two  lines  or  one  line
+
+learn  how  to
+
+design  book  covers  okay  learn  how  to
+
+design  book  covers
+
+perfect  ill  scale  that  down
+
+and  now  im  going  to  put  some
+
+placeholder  text  in  here  some  lorem
+
+ipsum  text  you  would  obviously  want  to
+
+write  like  a  description  of  the  book  or
+
+something
+
+this  is  just  a  tutorial  so  im  going  to
+
+put  some  lorem  if  some  text  in  there
+
+ill  go  to  extensions  render
+
+and  actually  no  extensions  text  and
+
+lorem  ipsum  and  i  want  to  choose
+
+two  paragraphs  six  sentences  per
+
+paragraph
+
+and  four  for  the  paragraph  im  just
+
+putting  random  numbers  in  here
+
+let  me  close  out  of  that  and  this  text
+
+pretty  small  i  got  it  was  generated  over
+
+here  in  the  top  left  corner  so  let  me
+
+let  me  grab  that  place  this  in  here  let
+
+me  go  to  the  text  editor
+
+let  me  select  the  text  with  the  text
+
+tool
+
+and  i  want  to  change  this  to  montserrat
+
+i  want  to  make  this  uh  medium  or
+
+semi-bold
+
+make  this  a  little  bigger  maybe  28
+
+see  how  that  looks  maybe  a  little  bigger
+
+than  that
+
+36.  looking  better
+
+okay  thats  good  enough  ill  leave  it  at
+
+36.  ill  place  this  over  here  towards
+
+the  top  left
+
+again  making  sure  its  not  its  not
+
+going  anywhere  near  that  green  border
+
+let  me  go  back  to  the  text  tool  and  im
+
+just  going  to  take  this  little  node
+
+right  here  and  bring  that
+
+in  so  that  it  forces  the  text  within
+
+this  area  right  here
+
+and  then  i  will  center  align  that  text
+
+and  just  to  uh  let  me  bring  this  down  a
+
+little  bit
+
+there  we  go  just  to  make  this  look  a
+
+little  better  im  going  to  add  some
+
+spacing  between  these  lines  because
+
+something  about  this  text  right  here  is
+
+just  not  visually  appealing  it  just
+
+looks  like  a  cluster  of  text  so
+
+i  want  to  space  this  out  a  little  bit
+
+let  me  grab  the  text  tool
+
+select  that  and  over  here  uh  spacing
+
+between  baselines  im  just  gonna
+
+increase  that
+
+there  we  go  that  looks  a lot  better  okay
+
+now  down  here
+
+bottom  left  we  have  about  the  author  and
+
+some  more  lorem  ipsum
+
+text  so  lets  go  ahead  and  create  that
+
+and  then  well  be  done  so  let  me  take
+
+this  text  let  me  duplicate  that
+
+and  then  ill  just  take  this  text  over
+
+here  and  just  duplicate  that  ill  put
+
+this  down  here
+
+let  me  go  back  to  the  text  tool  im
+
+going  to  give  this  im  going  to  align
+
+this  to  the  left
+
+there  we  go  ill  bring  this  in  like  this
+
+and  i  want  to  make  this  text  smaller
+
+this  is  less  prominent  if  youre
+
+following
+
+the  rules  of  visual  hierarchy  here  this
+
+here  is  the  most  prominent  this  is
+
+secondary  and  then  this  is
+
+uh  down  here  the  least  important  text
+
+let  me  uh
+
+shrink  that  down  let  me  try  24.
+
+see  how  that  looks  okay  that  looks
+
+pretty  good
+
+im  gonna  get  rid  of  some  of  these  lines
+
+of  text  in  here  so  that  its  not
+
+bleeding  out  into  the  uh  the  bleed  cut
+
+off
+
+um  there  we  go
+
+and  if  you  want  you  could  add  like  a
+
+little  picture  right  here  a  picture  of
+
+the  author  and
+
+you  know  whatever  else  you  want  to  add
+
+in  there  okay  so  the  design  portion  of
+
+the  book  cover  is  finished
+
+okay  so  how  do  we  go  from  here  to  having
+
+an  actual  file  that  we  can  send  to  the
+
+printers  and  have  printed
+
+what  we  want  to  do  first  is  come  over
+
+here  to  the  layers  menu  and  where  it
+
+says  template  we  want  to  just  turn  off
+
+the  visibility  of  that  layer  we  dont
+
+need  that  anymore
+
+and  what  we  want  to  do  now  is  export
+
+this  as  a  jpeg  image  so  well  go  to  file
+
+and  well  go  to  export  png  image  its
+
+labeled  as  png  image  but  it  also  allows
+
+you  to  export  other  formats  such  as  jpg
+
+if  youre  working  with  inkscape  version
+
+1.1  or  later  so  lets  open  up  the  export
+
+menu
+
+and  i  want  to  leave  all  of  the  defaults
+
+as  they  are  the  export  area  we  are
+
+exporting  the  page
+
+and  just  leave  all  of  these  defaults  as
+
+they  are  and  then  just  go  ahead  and
+
+click  on  export  as  and  when  you  click  on
+
+that  its  gonna  its  gonna  ask  you  to
+
+choose  a  location  on  your  hard  drive  to
+
+save  this  file  to
+
+and  its  also  going  to  ask  you  to  its
+
+also  going  to  ask  you  to  choose  a  file
+
+format
+
+now  for  this  probably  a  good  idea  to
+
+choose  jpeg
+
+so  um  yeah  whenever  youre  printing
+
+something  jpeg  is  always  better  than  png
+
+and  once  you  save  that  file  you  should
+
+be  done  you  should  be  able  to  take  that
+
+file  that  jpeg  file  that  youve  exported
+
+and  upload  it  to  kindle  direct
+
+publishing
+
+to  have  your  book  cover  printed  so  i
+
+think  that  should  do  it  for  this
+
+tutorial  thats  how  you  can  go  about
+
+designing  your  own  book  covers
+
+using  inkscape  if  you  have  any  questions
+
+just  leave  a  comment  below  and  as  always
+
+thanks  for  watching
+

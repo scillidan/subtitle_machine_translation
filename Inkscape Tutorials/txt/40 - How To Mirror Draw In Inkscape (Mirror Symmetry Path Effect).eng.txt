@@ -1,0 +1,405 @@
+
+in  todays  lesson  well  be  having  a  look
+
+at  a  path  effect  in  inkscape  that  allows
+
+you  to  draw  in  mirror  mode  it  works  by
+
+creating  a  copy  of  what  youve  created
+
+and  mirroring  it  on  an  opposing  axis
+
+whats  more  any  edits  that  you  make  to
+
+the  original  copy  will  also  be  applied
+
+to  the  mirrored  copy  lets  have  a
+
+
+
+look  so  getting  us  started  here  at
+
+inkscape  the  first  thing  Im  going  to  do
+
+is  demonstrate  how  this  feature  works
+
+and  then  I  will  give  you  a  working
+
+example  of  when  this  sort  of  feature
+
+would  be  useful  so  to  start  us  out  here
+
+lets  create  a  circle  Im  going  to  grab
+
+the  circles  and  ellipses  tool  and  Im
+
+going  to  hold  control  on  my  keyboard  and
+
+click  and  drag  so  we  get  a  nice  round
+
+circle  like  that  now  what  Im  going  to
+
+do  is  Im  going  to  use  the  mirror
+
+symmetry  path  effect  to  create  a
+
+mirrored  copy  of  this  object  and
+
+whatever  I  do  to  this  object  will  also
+
+happen  to  the  mirrored  object  let  me
+
+show  you  what  I  mean  with  the  circle
+
+selected  Ill  go  to  path  and  I  will
+
+select  path
+
+effects  and  from  the  path  effects  menu
+
+over  here  Im  going  to  choose  the  little
+
+plus  icon  down  here  in  the  bottom  right
+
+corner  Im  going  to  click  on  that  to  add
+
+a  new  path  effect  and  the  path  effect
+
+Im  looking  for  is  called  mirror
+
+symmetry  which  is  right  there  you  could
+
+also  access  it  by  just  typing  into  the
+
+search  bar  here  m  i  r  r  begin  typing  it
+
+and  there  it  is  right  there  mirror
+
+symmetry  and  as  you  can  see  there  its
+
+going  to  take  the  uh  object  and  create  a
+
+cloned  copy  over  of  it  over  here  on  the
+
+right  hand  side  now  if  you  want  to  edit
+
+this  object  just  grab  your  edit  paths  by
+
+nodes  tool  and  you  should  notice  Let  Me
+
+zoom  in  on  on  this  you  should  notice
+
+this  blue  line  going  between  the  two
+
+objects  now  if  I  take  this  node  in  the
+
+center  and  move  this  over  like  this  you
+
+can  see  that  Im  moving  the  object  the
+
+Clones  copy  away  from  the  original  one
+
+and  these  nodes  down  here  I  can  use
+
+these  nodes  to  rotate  the  Clones  copy
+
+like  that  if  need  be  the  bottom  one
+
+rotates  it  that  way  and  the  top  one  will
+
+rotate  it  this  way  like  that  okay  so  the
+
+way  this  works  is  anything  I  do  to  this
+
+object  will  also  happen  to  this  object
+
+so  if  I  select  this  object  and  then  make
+
+this  green  both  objects  will  become
+
+green  if  I  take  this  node  right  here  and
+
+bring  in  the  width  like  that  as  you  can
+
+see  the  width  of  the  other  object
+
+changes  as  well  like  that  and  now  we  are
+
+drawing  in  mirror  symmetry  so  once  Im
+
+finished  using  this  effect  and  I  want  to
+
+finalize  this  I  can  go  to  path  object  to
+
+path  and  if  I  grab  my  nodes  tool  I
+
+already  have  it  selected  you  can  see
+
+these  are  now  two  individual  paths  these
+
+are  no  longer  linked  as  mirrored  copies
+
+these  were  just  individual  paths  that
+
+were  created  from  a  mirrored  copy  and
+
+thats  prettyy  much  the  basics  of  how
+
+the  mirror  symmetry  path  effect  works  in
+
+inkscape  so  lets  have  a  look  at  a
+
+working  example  of  when  something  like
+
+this  would  be  useful  the  example  Im
+
+going  to  use  here  is  creating  an  emoji
+
+smiley  face  so  let  me  grab  my  circles
+
+and  ellipses  tool  Im  going  to  click  and
+
+drag  on  the  canvas  like  that  Im  going
+
+to  hold  control  and  I  want  to  make  my
+
+smiley  face  yellow  Im  going  to  grab  the
+
+selection  tool  Im  going  to  duplicate
+
+this  circle  by  pressing  control  D  Ill
+
+make  this  copy  white  and  then  Ill  hold
+
+contr  control  and  shift  and  Ill  scale
+
+this  down  like  that  this  circle  right
+
+here  is  actually  going  to  represent  a
+
+smile  the  bottom  half  of  the  circle
+
+anyway  its  going  to  be  the  smiling  uh
+
+face  of  the  uh  Emoji  here  and  so  in
+
+order  to  turn  this  into  a  smiley  I  need
+
+to  cut  off  this  bottom  part  right  here
+
+Im  going  to  use  the  rectangle  tool  to
+
+do  that  Im  going  to  click  and  drag  to
+
+create  a  rectangle  going  over  that
+
+bottom  half  like  that  Im  going  to
+
+change  this  to  a  different  color  cuz  Id
+
+like  to  be  able  to  see  this  rectangle
+
+Ill  make  this  red  and  I  will  bring  down
+
+the  opacity  of  this  as  well  Ill  just
+
+make  this  something  like  50  just  so  I
+
+can  see  through  it  there  and  if  you
+
+notice  the  intersecting  area  between  the
+
+circle  and  the  red  rectangle  is  going  to
+
+represent  the  smiley  face  so  Im  going
+
+to  grab  the  selection  tool  hold  shift
+
+click  on  the  circle  so  we  have  both  the
+
+rectangle  and  the  circle  selected  and  go
+
+to  path  and  select  intersection  and
+
+there  is  the  smile  part  of  the  Emoji  now
+
+what  Im  going  to  do  is  Im  going  to
+
+create  a  single  eye  up  here  and  then  Im
+
+going  to  use  the  mirror  symmetry  path
+
+effect  to  create  the  other  eye  for  the
+
+other  side  so  that  I  can  adjust  the  two
+
+eyes  together  at  the  same  time  so  let  me
+
+grab  the  uh  circles  and  ellipses  tool
+
+click  and  drag  to  create  a  circle  hold
+
+control  like  that  let  me  make  this  white
+
+let  me  bring  the  opacity  of  this  back  up
+
+to
+
+100%  grab  the  selection  tool  now  for
+
+what  I  want  to  do  the  way  I  want  to  edit
+
+this  I  want  to  convert  this  circle  into
+
+a  path  so  let  me  go  to  path  and  choose
+
+object  to  path  and  thats  now  a  path
+
+with  nodes  on  it  rather  than  a  circle
+
+object  so  let  me  right  click  this  and  go
+
+to  duplicate  Ill  make  this  one  black
+
+Im  going  to  hold  control  and  shift  like
+
+that  scale  that  down  and  maybe  even  move
+
+that  down  a  little  bit  like  that  so  what
+
+Im  going  to  do  is  I  want  to  group  these
+
+two  objects  together  the  White  and  the
+
+black  circle  and  I  want  to  group  them
+
+together  as  a  single  unit  so  that  I  can
+
+mirror  both  objects  at  the  same  time  so
+
+Im  going  to  hold  shift  and  click  on  the
+
+circle  with  them  both  selected  go  to
+
+object  group  and  now  Im  going  to  mirror
+
+the  grouped  object  so  Im  going  to  click
+
+the  plus  icon  down  here  again  our  path
+
+effects  menu  click  plus  mirror
+
+symmetry  and  now  we  have  another  copy
+
+over  over  there  Im  going  to  grab  the
+
+edit  paths  by  nodes  tool  Im  going  to
+
+move  this  one  over  Im  going  to  hold
+
+control  while  Im  doing  this  to  make
+
+sure  it  stays  locked  on  that  same
+
+horizontal  axis  that  the  other  eye  is  on
+
+and  now  what  I  could  do  is  I  could  take
+
+this  object  here  hold  shift  take  this
+
+object  here  with  the  nodes  tool  select
+
+them  both  Im  going  to  turn  on  the
+
+transformation  handles  like  that  and  if
+
+I  select  all  of  these  nodes  like  that  I
+
+can  now  take  these  nodes  and  scale  these
+
+eyes  up  and  down  like  that  and  as  you
+
+can  see  whatever  change  I  make  to  the
+
+one  eye  is  also  happening  to  the  other
+
+eye  and  I  can  also  rotate  this  around  if
+
+i  like  as  you  can  see  here  Im  rotating
+
+the  eyes  around  I  can  move  them  over
+
+like
+
+this  maybe  Ill  deselect  that  Ill
+
+select  just  this  one  right  here  and  Ill
+
+make  this  one  whoops  there  we  go  make
+
+this  one  a  little  bigger  like
+
+that  and  Im  sure  you  get  the  idea
+
+anything  that  I  do  to  this  grouping  of
+
+objects  will  also  happen  to  this
+
+grouping  of  objects  over  here
+
+okay  so  Ill  take  this  one  right  here
+
+move  this  one
+
+over  maybe  up  a  little  bit  turn  off  the
+
+transformation  handles  when  Im
+
+done  and  there  you  go  that  is  how  I  was
+
+able  to  use  the  mirror  symmetry  tool  to
+
+create  one  eye  and  create  a  copy  a
+
+symmetry  a  mirror  symmetry  copy  of  the
+
+other  eye  and  I  can  edit  them  together
+
+by  just  editing  one  of  them  so  that  is
+
+just  one  example  of  how  you  can  use  the
+
+mirror  symmetry  path  effect  in  inkscape
+
+if  you  found  this  lesson  useful  then
+
+consider  checking  out  my  inkscape  master
+
+class  its  a  collection  of  over  60
+
+videos  where  I  go  over  all  of  the  tools
+
+and  features  in  inkscape  and  I  explain
+
+what  they  are  and  demonstrate  how  they
+
+work  kind  of  like  how  I  did  in  this
+
+video  we  even  have  a  private  Community
+
+where  you  can  ask  questions  and  get  help
+
+from  me  anytime  you  want  and  best  of  all
+
+theres  no  monthly  membership  fees  you
+
+just  pay  $17  one  time  and  youre  in  for
+
+Life  Ill  have  some  information  about
+
+that  down  below  if  you  want  to  check
+
+that  out  as  always  thanks  for  watching
+
+oh
+

@@ -1,0 +1,29 @@
+In this lecture, I will make my own grunge brush, and use it to make a vector sticker. I will create
+the brush from an image. I go to: File > Import. I open an image with waterfalls, that I downloaded
+from Pixabay. To better see the potential of the water, I go to: Filters > Grayscale.
+I lower the Lightness. I will use the water on the left. I click on the Rectangle tool,
+and select a piece of the water. I hold Shift, and also select the image. I right-click and choose:
+Set Clip. Now I will trace the water. To prevent tracing the whole image,
+I right-click, and choose: Crop Image to Clip. I right-click again, and choose: Trace Bitmap.
+To get the largest preview possible, I will drag the Trace bitmap tab out of the tab group.
+And I will adjust the window, to the top and bottom of my screen. For Detection mode,
+I will choose: Brightness cutoff. With Threshold I determine how much of the water gets white.
+I will set Threshold to: 0.5. I will click on Invert to get a black brush. I click on
+Apply. I now have a black brush. I will call the path: brush. I will delete the image.
+I will remove some water from the bottom, and from the side. To do this,
+I select the Node tool. I will also remove the nodes that are at the edges.
+The brush is finished, and I will rotate it, to make it horizontal.
+Now I will drag a circle. I will duplicate the circle twice. I select the brush, and copy it.
+I will hide two of the three circles. I go to path Effects. From the menu I choose: Pattern
+Along Path. Behind Pattern, I choose: Single, stretched. I click on the Paste path icon.
+To make the brush a bit thinner, I use the Edit on-canvas tool. I drag the handle in. In my
+layers, I reveal the other circle, and make it a bit smaller. To apply the effect, I go to:
+Path > Object to Path. To make the circle and the edge interact, I Shift-click on the circle. Then I
+go to: Path > Exclusion. Now the circle and the edge are a single path. I will place some text.
+I select the Text tool, and click on the sticker. I use Grand hotel, which is a free Google font.
+I type: Best. To make the text italic, I can skew the text. And for the text below, I will use
+Varela Round, which also is a free Google font. To make the text more bold, I Shift-click on white.
+At the bottom left, I make the stroke smaller. Finally, I want to add a grunge stroke. I will
+make the last circle a bit smaller. And I give it a white stroke. I make the stroke thinner. To get
+a grunge stroke, I use two Path Effects. First, I will choose: Taper stroke. And then I will add:
+Roughen. You can try out different looks, by clicking on the Reseed icon.

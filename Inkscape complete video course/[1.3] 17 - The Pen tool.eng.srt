@@ -1,0 +1,424 @@
+1
+00:00:00,179 --> 00:00:02,940
+now let's have a look at the pen tool as
+
+2
+00:00:02,940 --> 00:00:05,040
+an illustrator with the pen tool you can
+
+3
+00:00:05,040 --> 00:00:07,319
+create curved paths I outlined the
+
+4
+00:00:07,319 --> 00:00:09,360
+letter d and made a screenshot of its
+
+5
+00:00:09,360 --> 00:00:11,580
+nodes and handles I will recreate the
+
+6
+00:00:11,580 --> 00:00:14,099
+letter d with the pen tool as we can see
+
+7
+00:00:14,099 --> 00:00:16,560
+the nodes of the large curves are placed
+
+8
+00:00:16,560 --> 00:00:18,660
+at the outer edges of the curve and
+
+9
+00:00:18,660 --> 00:00:20,400
+their handles are perfectly horizontal
+
+10
+00:00:20,400 --> 00:00:21,480
+or vertical
+
+11
+00:00:21,480 --> 00:00:23,580
+to place the first point I click and
+
+12
+00:00:23,580 --> 00:00:24,960
+hold down the mouse
+
+13
+00:00:24,960 --> 00:00:27,660
+I now see a handle or arm that I can
+
+14
+00:00:27,660 --> 00:00:28,680
+move around
+
+15
+00:00:28,680 --> 00:00:30,960
+when I press Ctrl I can place the arm
+
+16
+00:00:30,960 --> 00:00:32,640
+perfectly vertical
+
+17
+00:00:32,640 --> 00:00:34,380
+I will place the arm at the same height
+
+18
+00:00:34,380 --> 00:00:36,840
+as in the example now I let go of the
+
+19
+00:00:36,840 --> 00:00:38,040
+mouse in control
+
+20
+00:00:38,040 --> 00:00:40,020
+then I click on the second point which
+
+21
+00:00:40,020 --> 00:00:42,300
+is the highest point of the curve I hold
+
+22
+00:00:42,300 --> 00:00:44,700
+down the mouse down again and press Ctrl
+
+23
+00:00:44,700 --> 00:00:46,680
+now I drag the handle perfectly
+
+24
+00:00:46,680 --> 00:00:49,140
+horizontal I will make the length of the
+
+25
+00:00:49,140 --> 00:00:51,059
+left arm fit the left example
+
+26
+00:00:51,059 --> 00:00:53,340
+the right arm needs to be shorter but I
+
+27
+00:00:53,340 --> 00:00:55,680
+will do that at a later point I click on
+
+28
+00:00:55,680 --> 00:00:58,140
+the third point and drag I don't have to
+
+29
+00:00:58,140 --> 00:01:00,120
+press Ctrl because the arm doesn't have
+
+30
+00:01:00,120 --> 00:01:02,399
+to be horizontal I will match the left
+
+31
+00:01:02,399 --> 00:01:03,600
+arm
+
+32
+00:01:03,600 --> 00:01:06,180
+now I will go up because I also have a
+
+33
+00:01:06,180 --> 00:01:08,280
+right arm I have a curve and not a
+
+34
+00:01:08,280 --> 00:01:10,740
+straight line to get a straight line I
+
+35
+00:01:10,740 --> 00:01:12,780
+need to remove the right arm to remove
+
+36
+00:01:12,780 --> 00:01:16,080
+the right arm I press shift plus l i see
+
+37
+00:01:16,080 --> 00:01:18,180
+I now have a straight line because I
+
+38
+00:01:18,180 --> 00:01:19,979
+need the line to go up vertically I
+
+39
+00:01:19,979 --> 00:01:22,619
+press Ctrl I click on the point above
+
+40
+00:01:22,619 --> 00:01:25,020
+and still hold down control to also get
+
+41
+00:01:25,020 --> 00:01:27,479
+a vertical arm I click on the next Point
+
+42
+00:01:27,479 --> 00:01:29,759
+hold Ctrl and drag to match the right
+
+43
+00:01:29,759 --> 00:01:32,700
+arm I have a sharp corner again so I
+
+44
+00:01:32,700 --> 00:01:34,140
+press shift plus l
+
+45
+00:01:34,140 --> 00:01:36,900
+now we have a new situation I can't drag
+
+46
+00:01:36,900 --> 00:01:38,640
+on the Note above because that would
+
+47
+00:01:38,640 --> 00:01:41,579
+give me a curve below so I hold Ctrl and
+
+48
+00:01:41,579 --> 00:01:43,740
+click on the next point now I press
+
+49
+00:01:43,740 --> 00:01:46,380
+enter to continue I click on the last
+
+50
+00:01:46,380 --> 00:01:49,140
+point and hold down the mouse I drag out
+
+51
+00:01:49,140 --> 00:01:50,280
+a single arm
+
+52
+00:01:50,280 --> 00:01:52,860
+I click on the next Point drag and match
+
+53
+00:01:52,860 --> 00:01:54,060
+the left arm
+
+54
+00:01:54,060 --> 00:01:56,399
+to get a sharp corner I press shift L
+
+55
+00:01:56,399 --> 00:01:57,180
+again
+
+56
+00:01:57,180 --> 00:01:59,399
+I hold Ctrl click on the next Point
+
+57
+00:01:59,399 --> 00:02:01,860
+still hold Ctrl and drag out a vertical
+
+58
+00:02:01,860 --> 00:02:02,820
+arm
+
+59
+00:02:02,820 --> 00:02:05,159
+I click press enter and drag out the
+
+60
+00:02:05,159 --> 00:02:06,119
+left arm
+
+61
+00:02:06,119 --> 00:02:08,580
+I press shift L and click
+
+62
+00:02:08,580 --> 00:02:11,038
+I hold Ctrl and click on the point below
+
+63
+00:02:11,038 --> 00:02:14,099
+at the corner I only need a left arm
+
+64
+00:02:14,099 --> 00:02:16,140
+so I press enter and then drag the left
+
+65
+00:02:16,140 --> 00:02:17,040
+arm
+
+66
+00:02:17,040 --> 00:02:20,099
+I click and drag and press shift l i
+
+67
+00:02:20,099 --> 00:02:22,200
+hold Ctrl and click on the point above
+
+68
+00:02:22,200 --> 00:02:24,599
+then I click on the next point which
+
+69
+00:02:24,599 --> 00:02:26,340
+also gives a straight line
+
+70
+00:02:26,340 --> 00:02:29,280
+I press enter and drag an arm out then I
+
+71
+00:02:29,280 --> 00:02:31,500
+click and hold Ctrl and match the left
+
+72
+00:02:31,500 --> 00:02:32,400
+arm
+
+73
+00:02:32,400 --> 00:02:34,260
+this is the second point where I will
+
+74
+00:02:34,260 --> 00:02:36,599
+adjust the right arm later to finish the
+
+75
+00:02:36,599 --> 00:02:38,340
+path I click on the first Point again
+
+76
+00:02:38,340 --> 00:02:41,280
+hold Ctrl and match the bottom arm
+
+77
+00:02:41,280 --> 00:02:43,680
+now I click on the Node tool I will
+
+78
+00:02:43,680 --> 00:02:45,599
+adjust the two right arms that are too
+
+79
+00:02:45,599 --> 00:02:48,239
+long I click on the note on top and hold
+
+80
+00:02:48,239 --> 00:02:51,060
+my mouse above the right arm I hold Ctrl
+
+81
+00:02:51,060 --> 00:02:53,700
+and drag the arm to match I do the same
+
+82
+00:02:53,700 --> 00:02:56,220
+for the bottom note I click on it hold
+
+83
+00:02:56,220 --> 00:02:59,280
+Ctrl and drag the right arm in the outer
+
+84
+00:02:59,280 --> 00:03:00,780
+path is now finished
+
+85
+00:03:00,780 --> 00:03:03,599
+now I draw the Inner Path I click on the
+
+86
+00:03:03,599 --> 00:03:07,620
+pen tool I click hold Ctrl and drag then
+
+87
+00:03:07,620 --> 00:03:10,980
+I click hold Ctrl and drag again as
+
+88
+00:03:10,980 --> 00:03:12,900
+before I will adjust the right arm later
+
+89
+00:03:12,900 --> 00:03:16,560
+I click and drag to get a corner I press
+
+90
+00:03:16,560 --> 00:03:17,940
+shift L again
+
+91
+00:03:17,940 --> 00:03:21,480
+I hold Ctrl and click I press enter and
+
+92
+00:03:21,480 --> 00:03:24,659
+drag an arm then I click hold Ctrl and
+
+93
+00:03:24,659 --> 00:03:28,500
+drag and to finish I click hold Ctrl and
+
+94
+00:03:28,500 --> 00:03:29,280
+drag
+
+95
+00:03:29,280 --> 00:03:31,800
+like before I adjust the top and bottom
+
+96
+00:03:31,800 --> 00:03:34,440
+arms I click on the note on top and hold
+
+97
+00:03:34,440 --> 00:03:36,239
+my mouse above the right arm
+
+98
+00:03:36,239 --> 00:03:39,480
+I hold Ctrl and drag the arm to match I
+
+99
+00:03:39,480 --> 00:03:41,760
+do the same for the bottom node I click
+
+100
+00:03:41,760 --> 00:03:43,920
+on it hold Ctrl and drag the right arm
+
+101
+00:03:43,920 --> 00:03:47,340
+in the Inner Path is now finished now I
+
+102
+00:03:47,340 --> 00:03:49,799
+have to make the paths a compound path I
+
+103
+00:03:49,799 --> 00:03:51,480
+select them both and go to path
+
+104
+00:03:51,480 --> 00:03:53,879
+difference I will make the trace Letter
+
+105
+00:03:53,879 --> 00:03:56,519
+Black in the next lecture we will have a
+
+106
+00:03:56,519 --> 00:03:59,659
+closer look at the node tool
+

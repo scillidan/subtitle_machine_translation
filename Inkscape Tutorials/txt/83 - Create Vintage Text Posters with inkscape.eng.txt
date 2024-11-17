@@ -1,0 +1,1145 @@
+
+this  is  Nick  with  logos  by  Nick  comm  and
+
+in  todays  tutorial  Ill  be
+
+demonstrating  how  you  can  create  this
+
+vintage  style  text  poster  using  Inkscape
+
+and  if  youd  like  to  learn  more  about
+
+helping  state  berks  be  sure  to  check  out
+
+the  Inkscape  master  class  which  is  a
+
+collection  of  over  50  videos  where  i  go
+
+over  all  of  the  major  tools  and  features
+
+in  Inkscape  and  i  explain  what  they  are
+
+and  demonstrate  how  they  work  Ill  put  a
+
+link  in  the  description  of  the  video  if
+
+you  want  to  check  that  out  so  Im  gonna
+
+go  ahead  and  get  started  here  in
+
+Inkscape  Im  gonna  open  up  a  blank
+
+canvas  as  you  can  see  here  and  I  just
+
+want  to  make  sure  that  were  all  working
+
+with  a  similar  view  before  we  get
+
+started  so  Im  just  gonna  come  up  here
+
+to  where  it  says  view  make  sure  you  have
+
+custom  selected  and  then  well  go  to
+
+zoom  were  going  to  zoom  in  at  1  to  1
+
+and  then  Ill  open  up  the  align  and
+
+distribute  menu  with  this  button  over
+
+here  and  then  I  will  open  up  the  Edit
+
+objects  colors  gradients  and  Stroke  menu
+
+with  this  button  right  here  and  where  it
+
+says  online  and  distribute  youre  gonna
+
+want  to  make  sure  you  have  last  selected
+
+chosen  where  it  says  relative  too  and
+
+once  weve  done  that  were  good  to  get
+
+started  so  the  first  thing  were  going
+
+to  create  is  the  actual  text  so  Im
+
+gonna  grab  the  text  tool  over  here  and
+
+Im  gonna  click  on  the  canvas  Im  gonna
+
+use  all  caps  for  weather  right  now  Im
+
+going  to  create  each  text  item  on  its
+
+own  line  so  Im  gonna  write  how  for  the
+
+first  line  second  line  to  create  and  for
+
+this  third  line  vintage  just  like  I  had
+
+in  the  thumbnail  of  the  video  how  to
+
+create  vidiq  text  and  posters  each  on
+
+its  own  line  and  what  Ill  do  now  is  let
+
+me  grab  the  Select  tool  I  want  to  take
+
+this  text  right  here  this  middle  word
+
+vintage  if  you  saw  in  the  thumbnail  of
+
+the  design  I  had  that  word  over  I  had  it
+
+placed  on  top  of  like  a  banner  so  I  want
+
+to  make  sure  I  use  a  different  font  for
+
+this  for  this  word  right  here  Im  gonna
+
+open  up  the  text  editor  Im  gonna  click
+
+on  that  text  and  hold  ctrl  shift  T  to
+
+open  up  the  text  editor  or  you  just
+
+click  on  this  T  icon  up  here  I  like  to
+
+use  control  shift  T  cuz  its  easier  and
+
+the  font  Im  going  to  use  is  called  Z  a
+
+B  is  a  zaba  Tanna  poster  Im  gonna  go
+
+with  that  Ill  have  a  link  in  the
+
+description  to  a  poster  I  have  all  of
+
+the  fonts
+
+and  textures  Im  gonna  be  using  in  this
+
+tutorial  you  dont  necessarily  have  to
+
+use  these  fonts  that  Im  using  you  can
+
+use  whatever  fonts  youd  like  but  if  you
+
+really  want  to  get  that  vintage  look
+
+that  I  have  in  the  a  thumbnail  the  video
+
+Id  recommend  downloading  and  installing
+
+these  fonts  so  Im  going  to  apply  that  I
+
+want  to  make  that  a  little  bigger  by
+
+holding  ctrl  and  shift  and  clicking  and
+
+dragging  to  scale  that  up  and  for  these
+
+text  items  over  here
+
+I  want  the  font  Im  going  to  use  for
+
+that  is  ctrl  shift  T  Im  going  to  use
+
+League  gothic  there  we  go  of  me  use  the
+
+normal  regular  size  apply  that  let  me
+
+make  that  a  little  bigger  ctrl  shift  and
+
+scale  that  up  and  I  just  want  to  put
+
+everything  near  each  other  over  here  let
+
+me  click  and  drag  over  all  of  these  and
+
+in  the  align  distribute  menu  Im  going
+
+to  Center  them  on  the  vertical  axis  and
+
+then  Ill  come  down  here  to  distribute
+
+and  Im  going  to  click  on  make  vertical
+
+gaps  between  objects  equal  so  let  me
+
+click  off  of  that  to  deselect  everything
+
+what  I  want  to  do  now  is  make  each  of
+
+these  objects  the  same  width
+
+except  for  this  middle  text  right  here
+
+so  let  me  click  on  this  word  right  here
+
+Im  going  to  turn  on  this  lock  icon
+
+where  it  says  when  lock  changed  both  the
+
+width  and  the  height  by  the  same
+
+proportion  turn  that  on  Im  gonna  right
+
+click  that  and  go  to  copy  and  then  when
+
+I  click  on  this  top  word  up  here  and  go
+
+to  edit  paste  size  paste  width  and  its
+
+gonna  make  it  the  same  width  as  the  next
+
+item  Ill  come  down  here  and  do  the  same
+
+thing  edit  paste  size  paste  width  were
+
+not  going  to  do  this  with  this  middle
+
+word  here  because  this  word  needs  to  be
+
+a  little  bigger  than  the  others  because
+
+this  is  gonna  go  on  a  banner  and  itll
+
+do  the  same  thing  down  here  edit  paste
+
+size  paste  with  and  what  I  will  do  now
+
+is  I  want  to  put  little  lines  between
+
+these  two  text  items  right  here  so  Im
+
+gonna  grab  the  squares  and  rectangles
+
+tool  and  Ill  just  click  and  drag  to
+
+create  a  little  rectangle  in  there  let
+
+me  get  rid  of  that  stroke  by  holding
+
+shift  and  clicking  the  X  I  want  to  make
+
+that  black  I  grab  the  Select  tool  bring
+
+that  down  a  little  bit  these  are  just
+
+meant  to  be  little  access  little  accent
+
+pieces  they  dont  have  to  you  dont  have
+
+to  necessarily  use  these  but  I  think
+
+they  make  the  design  just  come  together
+
+a  little  more  and  again  I  want  to  make
+
+these  I  want  to  make  these  the  same
+
+width  so  Ill  go  to  edit
+
+paste  size  paste  width  there  we  go  now
+
+let  me  right  click  that  little  duplicate
+
+bring  this  one  down  here  there  we  go  let
+
+me  bring  these  all  a  little  closer  now
+
+in  fact  I  want  to  take  this  middle  text
+
+right  here  and  make  that  even  bigger
+
+right  about  there
+
+bring  these  a  little  closer  now  Im
+
+going  to  click  and  drag  over  all  of
+
+these  Im  gonna  do  the  same  thing  again
+
+the  same  thing  again  Im  gonna  Center
+
+them  on  the  vertical  axis  and  then
+
+distribute  make  vertical  gaps  between
+
+objects  in  equal  like  that  okay  now  Im
+
+going  to  click  off  of  that  to  deselect
+
+everything  now  what  Im  gonna  do  is
+
+were  gonna  work  on  creating  a  banner
+
+for  this  word  vintage  right  here  so  let
+
+me  take  these  objects  right  here  and
+
+just  hold  ctrl  and  just  move  them  out  of
+
+the  way  a  little  bit  and  Ill  take  these
+
+objects  and  do  the  same  thing  hold  ctrl
+
+move  it  up  out  of  the  way  and  now  Im
+
+gonna  grab  the  squares  and  rectangles
+
+tool  well  you  know  what  first  what  I
+
+want  to  do  is  let  me  go  back  to  the
+
+Select  tool  let  me  click  on  this  text
+
+right  here  and  make  this  white  then  Ill
+
+grab  the  squares  and  rectangles  tool  and
+
+Im  gonna  create  a  rectangle  going  over
+
+the  text  right  there  Im  gonna  make  that
+
+black  grab  the  Select  tool  Im  gonna
+
+send  that  to  the  bottom  by  clicking  the
+
+button  that  says  lower  selection  to  the
+
+bottom  or  what  I  like  to  do  is  just
+
+press  end  on  the  keyboard  at  the  end  key
+
+and  it  sends  it  to  the  bottom  thats
+
+good  let  me  just  size  that  up  a  little
+
+better  we  want  a  little  bit  of  padding
+
+around  the  edges  not  too  much  though  and
+
+then  Ill  hold  shift  and  click  on  the
+
+word  and  just  make  sure  I  have  it
+
+centered  up  on  the  vertical  and
+
+horizontal  axis  let  me  click  on  that
+
+click  off  of  it  to  deselect  everything
+
+now  Ill  take  just  this  object  right
+
+here  just  this  rectangle  Ill  get  a  path
+
+object  to  path  and  then  Im  gonna
+
+right-click  it  and  go  to  duplicate  and
+
+Im  gonna  make  this  red  and  Im  gonna
+
+give  this  a  red  stroke  by  holding  shift
+
+and  clicking  on  the  color  red  and  then  I
+
+want  to  send  that  to  the  bottom  by
+
+pressing  end  on  the  keyboard  and  the  red
+
+stroke  I  want  to  make  that  a  little
+
+thicker  Im  gonna  come  up  here  to  the
+
+stroke  style  tab  but  Im  gonna  increase
+
+the  size  of  that  a  little  bit  maybe  a
+
+little  bit  more  there  we  go  thats
+
+thats  a  good  thats  a  good  thickness
+
+right  there  now  what  I  want  to  do  is
+
+convert  this  to  a  path  so  Ill  go  to
+
+path  stroke  the  path
+
+and  then  paths  break  apart  and  then
+
+paths  Union  and  the  whole  point  of  that
+
+was  to  end  up  with  the  rectangle  just
+
+like  this  black  one  here  only  slightly
+
+thicker  on  all  on  both  dimensions  right
+
+there  now  what  I  want  to  do  is  take  this
+
+black  rectangle  and  duplicate  that  Im
+
+gonna  click  on  it  then  press  control  D
+
+on  the  keyboard  Im  trying  to  take  this
+
+and  move  this  down  to  the  left  over  here
+
+like  that  and  Im  gonna  send  that  to  the
+
+bottom  by  pressing  end  on  the  keyboard
+
+let  me  move  this  down  here  like  this  Im
+
+gonna  grab  the  nodes  tool  click  and  drag
+
+over  these  two  these  two  nodes  to  the
+
+right  right  here  hold  ctrl  and  just
+
+click  and  drag  these  over  to  the  left
+
+like  that  this  is  gonna  be  like  the  tail
+
+kind  of  like  the  tail  of  the  ribbon
+
+right  about  there  is  good  now  Im  gonna
+
+click  and  drag  over  those  nodes  right
+
+there  and  I  want  to  insert  a  new  node  in
+
+the  middle  so  well  come  up  here  to  the
+
+very  top  left  where  it  says  insert  new
+
+nodes  into  selected  segments  click  on
+
+that  and  then  I  want  to  click  on  just
+
+that  new  node  right  there  and  hold  ctrl
+
+and  just  move  this  over  to  the  right  to
+
+give  it  kind  of  like  a  little  bit  of  a
+
+fish  tail  for  the  ends  there  may  be  a
+
+little  less  thats  good  right  there  now
+
+let  me  grab  the  Select  tool  again  let  me
+
+duplicate  that  by  hitting  ctrl  D  on  the
+
+keyboard  and  I  will  flip  that
+
+horizontally  and  bring  this  over  here  to
+
+the  top  right  and  I  want  to  send  this  to
+
+the  bottom  as  well  Im  gonna  press  end
+
+on  the  keyboard  I  want  to  bring  this
+
+right  about  here  and  then  Ill  hold
+
+shift  and  click  on  the  other  one  so  we
+
+have  both  of  these  little  ribbon  tails
+
+selected  and  Ill  go  to  path  Union  and
+
+then  Ill  hold  shift  and  click  on  this
+
+red  rectangle  right  here  and  Center  it
+
+up  on  the  vertical  and  horizontal  axis
+
+like  that  and  then  Ill  go  to  path
+
+difference  and  there  you  have  our  ribbon
+
+so  let  me  take  this  text  these  text
+
+objects  right  here  and  just  hold  ctrl
+
+and  move  them  up  a  little  bit  and  Ill
+
+do  the  same  thing  with  these  Ill  click
+
+and  drag  over  those  hold  ctrl  move  these
+
+down  a  little  bit  like  that  and  thats
+
+what  Im  looking  for  right  there  now
+
+what  Im  gonna  do  is  Im  gonna  click  and
+
+drag  over  everything  Im  gonna  group
+
+them  together  by  clicking  the  button  up
+
+here  that  says  group  selected  objects  or
+
+you  could  just  press  ctrl  G  because  I
+
+like  to  do  and
+
+Im  going  to  share  it  a  little  bit  so
+
+Im  gonna  click  on  this  object  again  if
+
+you  notice  here  when  you  have  it
+
+selected  you  have  these  arrows  right
+
+here  these  are  the  scaling  handles  they
+
+allow  you  to  scale  an  object  if  I  click
+
+on  the  object  its  gonna  give  us  the
+
+rotation  and  the  shearing  handles  which
+
+will  allow  us  to  either  rotate  or  shear
+
+the  object  I  want  this  shearing  handle
+
+over  here  to  the  right  Im  just  gonna
+
+click  and  drag  that  up  a  little  bit
+
+maybe  about  that  much  right  there  thats
+
+pretty  good  and  now  its  time  to  create
+
+kind  of  like  a  frame  or  a  border  going
+
+around  the  words  here  so  let  me  grab  the
+
+squares  and  rectangles  tool  again  Im
+
+gonna  click  and  drag  to  create  a
+
+rectangle  going  over  all  of  those  words
+
+I  want  to  make  this  I  want  to  give  this
+
+a  black  outline  so  Im  gonna  hold  shift
+
+and  click  on  the  color  black  and  I  want
+
+it  to  have  no  fill  so  Im  gonna  click  on
+
+this  red  X  to  get  rid  of  a  fill  color
+
+and  I  want  to  make  that  border  a  little
+
+thinner  I  dont  want  to  be  that  thick
+
+Im  gonna  try  maybe  eight  eight  pixels
+
+that  looks  pretty  good  okay  so  let  me  go
+
+back  to  the  Select  tool  let  me  convert
+
+that  to  a  path  by  going  to  path  object
+
+to  path  and  then  I  want  to  hold  shift
+
+and  click  on  the  text  objects  just  to
+
+make  sure  we  have  it  centered  up  on  this
+
+horizontal  and  vertical  axis  like  that
+
+now  let  me  click  off  of  that  to  deselect
+
+everything  and  click  on  just  this
+
+rectangle  right  here  Im  gonna  go  back
+
+to  the  nodes  tool  the  edit  pads  by  nodes
+
+click  and  drag  over  these  top  two  nodes
+
+insert  a  new  node  in  there  and  do  the
+
+same  thing  down  here  take  those  two
+
+nodes  and  put  a  new  one  in  there  now
+
+what  I  want  to  do  is  grab  just  those  two
+
+nodes  right  there  click  and  drag  over
+
+both  of  those  and  up  here  in  the  tool
+
+settings  youre  gonna  see  show
+
+transformation  handles  for  selected
+
+nodes  if  I  turn  that  on  its  going  to
+
+give  us  scaling  handles  for  the  nodes
+
+that  we  have  selected  which  is  going  to
+
+be  useful  here  which  is  what  I  want  Im
+
+gonna  hold  ctrl  and  shift  and  Im  gonna
+
+grab  the  scaling  handle  up  here  and  you
+
+just  pull  this  out  a  little  bit  if  you
+
+notice  here  were  giving  the  top  and  the
+
+bottom  a  little  bit  of  a  tip  like  that
+
+now  Im  going  to  turn  off  the  scaling
+
+handles  show  transformation  handles  for
+
+selective  nodes  turn  that  back  off  so  it
+
+doesnt  get  in  your  way  the  next  time
+
+you  go  to  use  the  nodes  tool  later  on
+
+Im  gonna  grab  the  select  tool  okay  that
+
+right  there  is  looking  pretty  good
+
+thats  about  what  Im  looking  for  now
+
+what  I  want  to  do  is  put  another  border
+
+around
+
+outside  edge  of  this  border  only
+
+slightly  thinner  so  what  Im  gonna  do  is
+
+Im  gonna  duplicate  this  Im  going  to
+
+press  control  D  on  the  keyboard  and  Im
+
+gonna  fill  this  with  white  and  Im  gonna
+
+give  this  a  white  outline  by  holding
+
+shift  and  clicking  the  the  color  of
+
+white  and  for  the  width  Ill  make  this
+
+larger  Im  gonna  go  with  maybe  lets  say
+
+twelve  see  how  that  looks
+
+and  I  want  to  send  this  to  the  bottom
+
+lower  select  objects  to  the  bottom
+
+thats  going  to  act  this  white  border  is
+
+gonna  act  as  a  buffer  between  the  large
+
+black  border  and  the  smaller  black
+
+border  so  let  me  duplicate  that  again
+
+control  D  and  Ill  make  this  one  black
+
+and  give  it  a  black  stroke  by  holding
+
+shift  and  clicking  on  black  and  Ill
+
+send  that  to  the  bottom  as  well  and  Im
+
+gonna  want  to  make  this  one  a  little
+
+better  a  little  bigger  Im  gonna  try  20
+
+okay  so  thats  not  quite  what  Im
+
+looking  for  let  me  zoom  in  a  little  bit
+
+you  could  zoom  in  and  out  by  holding
+
+ctrl  and  rolling  up  the  mouse  wheel  Im
+
+gonna  take  this  white  one  right  here  I
+
+want  this  border  this  gap  between  the
+
+two  borders  to  be  bigger  so  Im  gonna
+
+make  this  one  maybe  16  maybe  15  and  then
+
+Ill  take  the  other  at  the  outer  black
+
+border  over  here  and  Ill  make  that  Im
+
+gonna  make  this  a  little  bigger  than  25
+
+looks  a  little  too  big
+
+let  me  try  22  a  little  bigger  Im  just
+
+going  to  manually  adjust  that  until  it
+
+looks  about  right
+
+that  right  there  is  about  what  Im
+
+looking  for  I  think  that  looks  pretty
+
+good  so  now  I  can  click  off  of
+
+everything  I  want  to  zoom  in  and  take
+
+just  this  outer  border  right  here  I  want
+
+to  go  to  path  stroke  to  path  path  break
+
+apart  path  Union  and  Im  gonna  do  the
+
+same  thing  to  the  inner  white  border
+
+right  there  path  stroke  the  path  path
+
+break  apart  path  Union  and  then  hold
+
+shift  and  click  on  the  outer  black
+
+border  so  that  we  have  both  the  white
+
+and  the  black  borders  selected  and  go  to
+
+path  difference  now  Im  going  to  click
+
+on  the  large  black  border  and  here  the
+
+original  one  and  Im  going  to  convert
+
+that  to  a  path  as  well  by  going  to  path
+
+stroke  the  path  and  then  finally  Im
+
+going  to  hold  shift  Im  gonna  click  on
+
+the  other  border  so  we  have  both  of
+
+these  borders  selected  and  go  to  path
+
+Union  now  let  me  press  one  on  the
+
+keyboard  to  zoom  back  out  to  100%  let  me
+
+click  off  it  to  deselect  everything  its
+
+looking  pretty  good  now  its  gonna  make
+
+a  few  minor  edits  and  well  be  all
+
+finished  so  let  me  click  on  the  text
+
+objects  in  here  and  let  me  ungroup  them
+
+by  clicking  the  button  that  says  ungroup
+
+selected  objects  or  you  can  press  ctrl
+
+shift  G  like  that  and  what  I  will  do  now
+
+is  I  want  to  take  this  border  right  here
+
+I  mean  that  this  border  this  black
+
+rectangle  right  here  I  want  to  duplicate
+
+that  by  pressing  control  D  and  I  want  to
+
+make  that  red  and  I  want  to  bring  the
+
+opacity  down  in  half  roughly  in  half
+
+what  I  want  to  do  is  create  a  gap  in
+
+these  borders  right  here  between  the
+
+ribbon  and  the  borders  so  Im  gonna  use
+
+this  red  rectangle  as  a  reference  point
+
+for  that  so  let  me  grab  the  nodes  tool
+
+again  Im  gonna  clicking  drag  over  this
+
+top  node  then  Ill  hold  your  shift  click
+
+and  drag  over  this  node  over  here  and
+
+Im  gonna  hold  ctrl  and  click  and  drag
+
+that  up  thats  what  about  there  that
+
+looks  good
+
+Ill  do  the  same  thing  down  here
+
+clicking  drag  over  this  node  hold  shift
+
+click  and  drag  over  that  node  and  then
+
+hold  control  and  move  this  one  down  to
+
+about  there  so  that  is  sticking  out  just
+
+a  little  bit  further  than  the  black
+
+ribbon  beneath  it  then  Ill  grab  the
+
+Select  tool  hold  shift  click  on  your
+
+border  right  there  and  go  to  path
+
+difference  and  that  right  there  was  the
+
+point  of  that  I  wanted  to  create  that
+
+gap  between  the  poor  and  the  ribbon
+
+right  there  so  the  next  step  is  I  want
+
+to  add  a  little  bit  of  a  little  bit  of
+
+an  accent  piece  right  here  in  the
+
+corners  of  the  top  and  the  bottom  so  to
+
+do  that  first  what  I  want  to  do  is
+
+enable  snapping  Im  gonna  come  up  here
+
+to  where  it  says  enable  snapping  turn
+
+that  on  and  were  gonna  want  to  make
+
+sure  we  have  this  one  selected  it  says
+
+snap  custom  nodes  and  this  was  well  snap
+
+snaps  smooth  nodes  and  Im  going  to  take
+
+this  border  right  here  and  Im  gonna
+
+duplicate  that  by  hitting  ctrl  D  on  the
+
+keyboard  and  Im  gonna  make  this  red  and
+
+Im  gonna  bring  the  opacity  down  in  half
+
+now  its  gonna  click  and  drag  and  move
+
+this  up  Im  gonna  snap  this  piece  Im
+
+gonna  snap  the  bottom  corner  into  the
+
+top  corner  of  the  original  one  right
+
+there  and  I  want  to  take  this  red  area
+
+what  thats  sticking  out  I  want  to  use
+
+that  as  the  accent  piece  so  let  me  grab
+
+the  Bezier  pen  which  is  over  here  or  you
+
+could  press  B  on  the  keyboard
+
+and  Im  gonna  start  a  line  going  right
+
+here  in  the  middle  of  the  black  border
+
+come  over  here  through  here  like  this
+
+oops  we  go  through  here  then  here  then
+
+back  to  the  starting  point
+
+grab  the  Select  tool  hold  shift  on  the
+
+keyboard  and  click  on  the  red  object  and
+
+go  to  the  path  intersection  and  thats
+
+what  Im  looking  for  right  there  now  I
+
+want  to  duplicate  that  by  hitting  ctrl  D
+
+I  want  to  flip  that  vertically  and  I
+
+want  to  click  and  drag  this  down  here
+
+and  then  snap  this  onto  there  like  that
+
+now  let  me  zoom  out  a  little  bit  again
+
+Im  holding  ctrl  and  rolling  down  the
+
+mouse  wheel  to  zoom  Im  gonna  hold  your
+
+shift  click  on  that  red  object  so  we
+
+have  both  red  objects  selected  and  then
+
+Im  gonna  hold  shift  and  click  on  them
+
+on  the  border  and  go  to  path  Union  and
+
+now  Ill  go  to  path  break  apart  so  that
+
+everything  is  an  individual  piece  now
+
+and  the  whole  point  of  that  as  you  can
+
+see  here  is  to  create  this  little  indent
+
+just  a  nice  little  accent  piece  for  the
+
+design  so  the  final  step  I  would  say
+
+would  be  to  add  the  texture  but  first  I
+
+want  to  add  a  little  bit  of  color  so  let
+
+me  uh  first  let  me  click  and  drag  over
+
+everything  and  go  to  path  object  to  path
+
+and  thats  going  to  take  that  text  and
+
+change  it  from  text  objects  to  actual
+
+pads  that  we  can  work  with  now  I  want  to
+
+click  off  of  it  to  deselect  I  want  to
+
+take  just  this  word  vintage  right  here  I
+
+want  to  ungroup  it  unify  it  together  by
+
+going  to  path  Union  and  then  hold  shift
+
+and  click  on  the  banner  underneath  it
+
+and  go  to  path  difference  and  what  that
+
+did  was  it  pretty  much  just  used  the
+
+text  as  a  reference  to  punch  negative
+
+space  punch  a  hole  through  the  ribbon
+
+there  so  that  I  can  change  the  colors
+
+and  do  whatever  I  want  to  it  and  as  you
+
+can  see  its  kind  of  like  a  negative
+
+space  between  there  in  those  words  so
+
+now  that  Ive  done  that  I  want  to  give
+
+this  thing  some  color  Im  gonna  click
+
+and  drag  over  all  of  it  Im  gonna  give
+
+this  like  a  little  royal  blue  or  like  a
+
+dark  navy  blue  something  like  that
+
+thats  pretty  good  I  want  to  take  this
+
+word  I  actually  want  to  take  this  piece
+
+right  here  and  make  this  a  shade  of  gold
+
+obviously  you  can  color  this  and  however
+
+youd  like  you  dont  have  to  use  the
+
+colors  Im  using  here
+
+Im  gonna  go  the  fill  tab  up  here  under
+
+the  HSL  tab  Im  gonna  take  the
+
+saturation  just  bring  that  down  a  little
+
+bit  you  bring  this  up  a  little  bit  as
+
+well  I  want  to  do  the  same  thing  I  want
+
+to  hold  shift  and  click  on  both  the  word
+
+text  and  this  accent  piece  right  here  I
+
+want  to  grab  the  dropper  tool  and  make
+
+that  the  same  color  as  this  there  we  go
+
+and  I  want  to  take  let  me  grab  the  nodes
+
+tool  Im  gonna  click  on  just  the  word
+
+create  here  and  click  on  that  hold  shift
+
+click  on  that  each  letter  individually
+
+so  that  we  have  them  all  selected  go
+
+back  to  the  Select  tool  and  then  grab
+
+the  dropper  and  make  that  the  same  color
+
+right  there  and  then  finally  I  want  to
+
+take  the  outer  border  right  here  and  I
+
+want  to  make  that  the  same  color  as  the
+
+gold  so  let  me  select  those  both  grab
+
+the  dropper  over  here  or  you  can  press  D
+
+on  the  keyboard  thats  also  another  way
+
+to  grab  it  grab  the  Select  tool  press  1
+
+on  the  keyboard  to  zoom  back  out  to  100%
+
+and  what  Im  going  to  do  now  is  just
+
+click  and  drag  over  all  of  this  and
+
+group  this  together  ctrl  G  to  group  it
+
+together  let  me  turn  off  the  snapping
+
+for  now  because  thats  just  gonna  get  in
+
+our  way  the  final  step  is  to  add  a
+
+little  bit  of  a  texture  on  here  to  make
+
+it  look  worn  aged  and  again  Ill  have  a
+
+link  in  the  description  of  the  video  to
+
+a  to  a  page  with  all  of  the  resources
+
+including  this  texture  what  Im  going  to
+
+do  is  once  you  have  the  texture  hoping
+
+Im  gonna  bring  my  folder  over  here  just
+
+so  you  can  see  I  have  my  folder  over
+
+here  Im  gonna  take  the  Im  gonna  take
+
+the  texture  grunge  texture  dot  PNG  and
+
+just  click  and  drag  it  into  Inkscape
+
+like  that  and  just  leave  this  little
+
+window  that  pops  up  just  leave  all  the
+
+defaults  there  go  ahead  and  click  OK  and
+
+there  you  have  the  texture  let  me  zoom
+
+out  a  little  bit  so  you  can  see  this  let
+
+me  bring  the  opacity  of  that  down
+
+roughly  in  half  so  we  can  see  whats  on
+
+there  as  well  so  what  I  want  to  do  is
+
+place  this  texture  over  the  image  right
+
+here  Im  gonna  hold  ctrl  +  shift  and
+
+scale  this  down  a  little  bit  now  if  you
+
+notice  where  the  black  areas  of  the
+
+textures  are  like  this  is  the  black
+
+scratch  marks  when  I  apply  this  texture
+
+to  this  design  all  of  those  black
+
+scratches  are  gonna  represent  negative
+
+space  in  the  design  so  all  of  those
+
+black  scratches  are  going  to  become
+
+white  or  negative  space  within  that
+
+design  youll  see  what  I  mean  when  I
+
+apply  the
+
+texture  so  Im  telling  you  that  so  you
+
+can  you  could  try  to  figure  out  where
+
+exactly  you  want  the  texture  to  be
+
+because  like  if  you  take  this  area  right
+
+here  which  is  all  black  and  place  it
+
+over  here  its  gonna  punch  out  a  big
+
+area  of  the  design  thats  not  going  to
+
+be  legible  so  I  like  to  make  sure  I  not
+
+Im  not  using  too  much  of  the  texture
+
+over  the  design  maybe  something  subtle
+
+like  that  now  Ill  click  and  drag  over
+
+both  of  those  bring  the  opacity  all  the
+
+way  up  and  go  to  object  mask  set  and
+
+there  you  go  Id  say  that  looks  pretty
+
+good  so  I  think  that  should  do  it  for
+
+this  tutorial  thats  how  you  can  go
+
+about  creating  a  vintage  style  text
+
+poster  using  Inkscape  if  you  have  any
+
+questions  let  me  know  and  as  always
+
+thanks  for  watching
+
+
+

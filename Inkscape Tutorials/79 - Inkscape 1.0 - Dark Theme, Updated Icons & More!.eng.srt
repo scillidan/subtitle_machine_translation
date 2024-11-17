@@ -1,0 +1,692 @@
+1
+00:00:01,020 --> 00:00:06,910
+[Music]
+
+2
+00:00:08,389 --> 00:00:11,849
+Inkscape recently introduced version 1.0
+
+3
+00:00:11,849 --> 00:00:13,650
+as a new release and this was not your
+
+4
+00:00:13,650 --> 00:00:15,960
+typical update this new release comes
+
+5
+00:00:15,960 --> 00:00:17,789
+packed with lots of new features and
+
+6
+00:00:17,789 --> 00:00:19,830
+functionality that might make your life
+
+7
+00:00:19,830 --> 00:00:22,320
+a little easier as an Inkscape user I'll
+
+8
+00:00:22,320 --> 00:00:23,850
+have a link in the description to the
+
+9
+00:00:23,850 --> 00:00:25,710
+wiki page with a complete list of all
+
+10
+00:00:25,710 --> 00:00:27,359
+the new features and updates added if
+
+11
+00:00:27,359 --> 00:00:28,980
+you want to check that out but in this
+
+12
+00:00:28,980 --> 00:00:30,900
+video I'd just like to go over a few of
+
+13
+00:00:30,900 --> 00:00:32,340
+those features that I'm really excited
+
+14
+00:00:32,340 --> 00:00:34,230
+about in particular and if you are
+
+15
+00:00:34,230 --> 00:00:36,000
+enrolled in my Inkscape masterclass I
+
+16
+00:00:36,000 --> 00:00:37,710
+have updated the course contents
+
+17
+00:00:37,710 --> 00:00:39,840
+according to the new release and if
+
+18
+00:00:39,840 --> 00:00:41,129
+you're not enrolled maybe consider
+
+19
+00:00:41,129 --> 00:00:42,360
+checking it out if you want to learn
+
+20
+00:00:42,360 --> 00:00:44,190
+more about Inkscape I'll have a link in
+
+21
+00:00:44,190 --> 00:00:45,539
+the description for more information
+
+22
+00:00:45,539 --> 00:00:48,260
+about that as well
+
+23
+00:00:48,460 --> 00:00:50,830
+to get us started Inkscape has
+
+24
+00:00:50,830 --> 00:00:52,660
+officially added support for theme
+
+25
+00:00:52,660 --> 00:00:55,030
+customization gone are the days where we
+
+26
+00:00:55,030 --> 00:00:56,830
+had to tinker with system files and
+
+27
+00:00:56,830 --> 00:00:59,200
+perform other types of voodoo magic just
+
+28
+00:00:59,200 --> 00:01:01,030
+to get a more visually appealing dark
+
+29
+00:01:01,030 --> 00:01:03,550
+theme with a more modern icon pack it's
+
+30
+00:01:03,550 --> 00:01:05,800
+now built right in you can just navigate
+
+31
+00:01:05,800 --> 00:01:08,800
+to edit preferences and click on theme
+
+32
+00:01:08,800 --> 00:01:11,020
+under the interface tab and from there
+
+33
+00:01:11,020 --> 00:01:12,760
+you can choose from a variety of themes
+
+34
+00:01:12,760 --> 00:01:14,650
+and yes that does include a dark theme
+
+35
+00:01:14,650 --> 00:01:16,630
+not only that but you can also switch to
+
+36
+00:01:16,630 --> 00:01:18,760
+a more modern icon pack with the
+
+37
+00:01:18,760 --> 00:01:20,830
+monochromatic style that looks more like
+
+38
+00:01:20,830 --> 00:01:23,080
+it belongs in the year 2020 you can even
+
+39
+00:01:23,080 --> 00:01:24,820
+go as far as changing the color of those
+
+40
+00:01:24,820 --> 00:01:28,170
+icons if you so desire
+
+41
+00:01:28,670 --> 00:01:31,100
+one new feature that I'm really excited
+
+42
+00:01:31,100 --> 00:01:33,740
+about an Inkscape version 1.0 has to do
+
+43
+00:01:33,740 --> 00:01:35,960
+with the text tool if you generate some
+
+44
+00:01:35,960 --> 00:01:37,820
+text on your canvas you'll notice that
+
+45
+00:01:37,820 --> 00:01:39,649
+there's now a little note on the bottom
+
+46
+00:01:39,649 --> 00:01:41,720
+right side of your text item clicking
+
+47
+00:01:41,720 --> 00:01:43,250
+and dragging that node will allow you to
+
+48
+00:01:43,250 --> 00:01:45,530
+determine where a line of text should
+
+49
+00:01:45,530 --> 00:01:47,869
+end this will be really useful when
+
+50
+00:01:47,869 --> 00:01:49,580
+designing things like brochures where
+
+51
+00:01:49,580 --> 00:01:51,470
+you have to confine your text to a
+
+52
+00:01:51,470 --> 00:01:53,750
+specific vertical column you won't have
+
+53
+00:01:53,750 --> 00:01:55,280
+to worry about making the bounding box
+
+54
+00:01:55,280 --> 00:01:57,860
+of that text fit that column any longer
+
+55
+00:01:57,860 --> 00:02:00,259
+you can simply adjust that node to make
+
+56
+00:02:00,259 --> 00:02:02,929
+your lines of text end exactly where you
+
+57
+00:02:02,929 --> 00:02:05,170
+want
+
+58
+00:02:05,580 --> 00:02:07,980
+those of you who use illustrator may
+
+59
+00:02:07,980 --> 00:02:10,020
+already be familiar with the concept of
+
+60
+00:02:10,020 --> 00:02:11,790
+outline mode which allows you to view
+
+61
+00:02:11,790 --> 00:02:13,800
+your design as somewhat of a skeleton
+
+62
+00:02:13,800 --> 00:02:15,660
+where you can see all of the individual
+
+63
+00:02:15,660 --> 00:02:17,460
+paths and boundaries that make up a
+
+64
+00:02:17,460 --> 00:02:19,530
+design without fill colors and other
+
+65
+00:02:19,530 --> 00:02:21,870
+design elements getting in the way this
+
+66
+00:02:21,870 --> 00:02:23,850
+is useful because sometimes you need to
+
+67
+00:02:23,850 --> 00:02:25,800
+select or work with a particular object
+
+68
+00:02:25,800 --> 00:02:27,810
+but you can't select it because you
+
+69
+00:02:27,810 --> 00:02:29,520
+don't know where it is because it's
+
+70
+00:02:29,520 --> 00:02:31,140
+positioned beneath other objects with
+
+71
+00:02:31,140 --> 00:02:33,210
+fill data this is one of the reasons why
+
+72
+00:02:33,210 --> 00:02:34,950
+I tend to make objects with partial
+
+73
+00:02:34,950 --> 00:02:36,210
+transparency when I'm designing
+
+74
+00:02:36,210 --> 00:02:38,580
+something you just need to be able to
+
+75
+00:02:38,580 --> 00:02:40,110
+know where things are sometimes and
+
+76
+00:02:40,110 --> 00:02:42,870
+Inkscape has now made that easier with
+
+77
+00:02:42,870 --> 00:02:44,580
+their own version of outline mode and
+
+78
+00:02:44,580 --> 00:02:46,080
+I'll even go as far as saying that
+
+79
+00:02:46,080 --> 00:02:47,730
+they've outdone illustrator with this
+
+80
+00:02:47,730 --> 00:02:49,470
+update because it offers a lot more
+
+81
+00:02:49,470 --> 00:02:51,780
+versatility the first way you can view
+
+82
+00:02:51,780 --> 00:02:53,190
+your work in outline mode is by
+
+83
+00:02:53,190 --> 00:02:55,020
+navigating to the View menu and clicking
+
+84
+00:02:55,020 --> 00:02:57,450
+on x-ray mode this will allow you to use
+
+85
+00:02:57,450 --> 00:02:59,100
+your cursor as somewhat of a viewfinder
+
+86
+00:02:59,100 --> 00:03:01,260
+where you can hover it over specific
+
+87
+00:03:01,260 --> 00:03:03,240
+areas of your design to see all of the
+
+88
+00:03:03,240 --> 00:03:05,670
+individual outlines the second way you
+
+89
+00:03:05,670 --> 00:03:07,500
+can view your design is outlines is by
+
+90
+00:03:07,500 --> 00:03:09,000
+navigating to the View menu and
+
+91
+00:03:09,000 --> 00:03:11,340
+selecting split view mode this will
+
+92
+00:03:11,340 --> 00:03:13,019
+generate a guide through the center of
+
+93
+00:03:13,019 --> 00:03:13,500
+your screen
+
+94
+00:03:13,500 --> 00:03:15,540
+that will show how your design normally
+
+95
+00:03:15,540 --> 00:03:17,430
+looks on one side and how it looks an
+
+96
+00:03:17,430 --> 00:03:19,530
+outline mode on the other side you can
+
+97
+00:03:19,530 --> 00:03:21,180
+move the guide around by clicking and
+
+98
+00:03:21,180 --> 00:03:22,830
+dragging it and you can also change the
+
+99
+00:03:22,830 --> 00:03:24,900
+orientation and position of your guide
+
+100
+00:03:24,900 --> 00:03:28,730
+by clicking on the individual arrows
+
+101
+00:03:29,020 --> 00:03:30,970
+if you open up your align and distribute
+
+102
+00:03:30,970 --> 00:03:33,550
+menu you'll notice a new icon in the top
+
+103
+00:03:33,550 --> 00:03:36,160
+left portion of the menu labeled enable
+
+104
+00:03:36,160 --> 00:03:38,770
+on canvas alignment handles if you hover
+
+105
+00:03:38,770 --> 00:03:41,230
+your cursor over it enabling that icon
+
+106
+00:03:41,230 --> 00:03:43,540
+will allow you to align objects directly
+
+107
+00:03:43,540 --> 00:03:45,760
+on the canvas without having to use the
+
+108
+00:03:45,760 --> 00:03:48,400
+alignment menu interface the way that it
+
+109
+00:03:48,400 --> 00:03:50,440
+works is that you select the objects
+
+110
+00:03:50,440 --> 00:03:52,450
+you'd like to align click on them once
+
+111
+00:03:52,450 --> 00:03:54,370
+to display the rotation handles then
+
+112
+00:03:54,370 --> 00:03:56,200
+click on them a second time to display
+
+113
+00:03:56,200 --> 00:03:58,780
+the new alignment handles then from
+
+114
+00:03:58,780 --> 00:04:00,370
+there you can simply click on those
+
+115
+00:04:00,370 --> 00:04:02,650
+handles to align your objects the same
+
+116
+00:04:02,650 --> 00:04:04,450
+way you normally would in the align and
+
+117
+00:04:04,450 --> 00:04:06,730
+distribute menu this is a unique feature
+
+118
+00:04:06,730 --> 00:04:08,770
+that I have not seen anywhere else and
+
+119
+00:04:08,770 --> 00:04:10,120
+it's one of those things that you didn't
+
+120
+00:04:10,120 --> 00:04:13,650
+know you needed until you tried it
+
+121
+00:04:13,849 --> 00:04:16,130
+another new feature that I know I'll be
+
+122
+00:04:16,130 --> 00:04:18,470
+using a lot is the new offset live path
+
+123
+00:04:18,470 --> 00:04:20,899
+effect this functions very similarly to
+
+124
+00:04:20,899 --> 00:04:23,150
+the standard dynamic offset path
+
+125
+00:04:23,150 --> 00:04:25,370
+operation only with one very big
+
+126
+00:04:25,370 --> 00:04:27,199
+improvement and that is that it now
+
+127
+00:04:27,199 --> 00:04:29,630
+allows you to maintain sharp corners
+
+128
+00:04:29,630 --> 00:04:31,340
+to see what I mean if you were to
+
+129
+00:04:31,340 --> 00:04:33,860
+perform a dynamic offset on an object
+
+130
+00:04:33,860 --> 00:04:35,810
+with sharp corners like a star you'll
+
+131
+00:04:35,810 --> 00:04:37,610
+notice that the corners become rounded
+
+132
+00:04:37,610 --> 00:04:40,009
+as you offset the object this is fine
+
+133
+00:04:40,009 --> 00:04:41,900
+for objects with rounded corners but
+
+134
+00:04:41,900 --> 00:04:43,610
+it's useless in scenarios where you need
+
+135
+00:04:43,610 --> 00:04:45,289
+to maintain the sharp corners of an
+
+136
+00:04:45,289 --> 00:04:47,960
+object my workaround for dealing with
+
+137
+00:04:47,960 --> 00:04:49,699
+this in the past was to offset the
+
+138
+00:04:49,699 --> 00:04:51,530
+object by adding a stroke with sharp
+
+139
+00:04:51,530 --> 00:04:53,810
+corners then convert the stroke to a
+
+140
+00:04:53,810 --> 00:04:56,030
+path to work with it further now those
+
+141
+00:04:56,030 --> 00:04:58,009
+days are over thanks to the new offset
+
+142
+00:04:58,009 --> 00:05:00,080
+live path effect which allows you to
+
+143
+00:05:00,080 --> 00:05:02,509
+maintain sharp corners on an object as
+
+144
+00:05:02,509 --> 00:05:05,150
+you offset it to access the new feature
+
+145
+00:05:05,150 --> 00:05:07,009
+select the object you'd like to offset
+
+146
+00:05:07,009 --> 00:05:09,349
+then navigates a path and path effects
+
+147
+00:05:09,349 --> 00:05:11,539
+to bring up the path effects window then
+
+148
+00:05:11,539 --> 00:05:13,310
+click on the little plus sign to add a
+
+149
+00:05:13,310 --> 00:05:15,380
+new path effects and from the path
+
+150
+00:05:15,380 --> 00:05:18,110
+effects menu search for offset and apply
+
+151
+00:05:18,110 --> 00:05:20,539
+that then you can grab the edit pads by
+
+152
+00:05:20,539 --> 00:05:22,759
+nodes tool and use the little node to
+
+153
+00:05:22,759 --> 00:05:24,560
+offset your object while maintaining
+
+154
+00:05:24,560 --> 00:05:27,759
+sharp corners
+
+155
+00:05:28,550 --> 00:05:31,379
+excape version 1.0 comes with lots of
+
+156
+00:05:31,379 --> 00:05:33,330
+welcomed improvements like support for
+
+157
+00:05:33,330 --> 00:05:35,550
+high-resolution displays if you're using
+
+158
+00:05:35,550 --> 00:05:37,889
+a 4k monitor you'll actually be able to
+
+159
+00:05:37,889 --> 00:05:40,469
+see the user interface now there's also
+
+160
+00:05:40,469 --> 00:05:42,330
+some other subtle changes like in the
+
+161
+00:05:42,330 --> 00:05:44,339
+way that stroke to path works when you
+
+162
+00:05:44,339 --> 00:05:46,080
+convert a stroke to a path it now
+
+163
+00:05:46,080 --> 00:05:48,269
+retains the fill segment of that stroke
+
+164
+00:05:48,269 --> 00:05:50,909
+as a separate object like I mentioned
+
+165
+00:05:50,909 --> 00:05:52,800
+earlier there's lots of new updates and
+
+166
+00:05:52,800 --> 00:05:54,479
+details to comb through so be sure to
+
+167
+00:05:54,479 --> 00:05:56,159
+check out that wiki page for a complete
+
+168
+00:05:56,159 --> 00:05:57,959
+overview let me know what you think of
+
+169
+00:05:57,959 --> 00:05:59,219
+the new version of Inkscape in the
+
+170
+00:05:59,219 --> 00:06:00,959
+comments below and as always thanks for
+
+171
+00:06:00,959 --> 00:06:02,090
+watching
+
+172
+00:06:02,090 --> 00:06:10,320
+[Music]
+
+173
+00:06:16,100 --> 00:06:20,229
+[Music]
+

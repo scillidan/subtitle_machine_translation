@@ -1,0 +1,104 @@
+1
+00:00:00,560 --> 00:00:02,800
+in lecture 12 I assigned the shortcut
+
+2
+00:00:02,800 --> 00:00:05,040
+control y to toggle between normal and
+
+3
+00:00:05,040 --> 00:00:07,000
+outline mode as it is an
+
+4
+00:00:07,000 --> 00:00:09,480
+illustrator in inkscape this function
+
+5
+00:00:09,480 --> 00:00:12,120
+doesn't have a shortcut by default I
+
+6
+00:00:12,120 --> 00:00:14,839
+also want inkscape and scribus to
+
+7
+00:00:14,839 --> 00:00:16,600
+have the same shortcuts for the same
+
+8
+00:00:16,600 --> 00:00:20,320
+tools to change shortcuts I go to edit
+
+9
+00:00:20,320 --> 00:00:22,800
+preferences I open interface and click
+
+10
+00:00:22,800 --> 00:00:25,320
+on keyboard if you would like to have
+
+11
+00:00:25,320 --> 00:00:27,039
+the shortcuts from another software
+
+12
+00:00:27,039 --> 00:00:29,359
+program behind keyboard file there is a
+
+13
+00:00:29,359 --> 00:00:31,119
+list with options
+
+14
+00:00:31,119 --> 00:00:33,559
+I would like the illustrator shortcuts
+
+15
+00:00:33,559 --> 00:00:35,800
+toggling between normal and outline mode
+
+16
+00:00:35,800 --> 00:00:37,719
+by default doesn't have a shortcut set
+
+17
+00:00:37,719 --> 00:00:40,600
+so I will add it in the search window I
+
+18
+00:00:40,600 --> 00:00:43,520
+type toggle I see that display mode
+
+19
+00:00:43,520 --> 00:00:46,440
+toggle doesn't have a shortcut yet to
+
+20
+00:00:46,440 --> 00:00:48,239
+add it I click at the right in the
+
+21
+00:00:48,239 --> 00:00:52,399
+shortcut column I now see the text new
+
+22
+00:00:52,399 --> 00:00:55,879
+accelerator I type control y if the
+
+23
+00:00:55,879 --> 00:00:57,920
+shortcut is already used you can choose
+
+24
+00:00:57,920 --> 00:01:00,600
+to reuse it for another function so I
+
+25
+00:01:00,600 --> 00:01:03,519
+click on yes and I close the
+
+26
+00:01:03,519 --> 00:01:06,519
+window
+

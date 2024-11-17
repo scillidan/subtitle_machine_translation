@@ -1,0 +1,709 @@
+
+one  of  my  favorite  things  about  working
+
+with  vectors  is  having  the  ability  to
+
+make  complex  designs  out  of  simple
+
+shapes  a  good  example  of  such  would  be
+
+this  iconic  leaf  design  that  was  made
+
+using  only  two  circles  a  square  and  a
+
+little  bit  of  design  magic  in  todays
+
+lesson  ill  be  showing  you  how
+
+so  getting  us  started  here  the  first
+
+thing  were  going  to  do  is  draw  our
+
+circle  so  im  going  to  locate  the
+
+circles  and  ellipses  tool  which  is
+
+located  over  here
+
+and  then  im  going  to  click  and  drag  on
+
+the  canvas  while  holding  down  the
+
+control  key  so  we  get  a  nice  perfectly
+
+round  circle  like  that
+
+now  what  im  going  to  do  is  open  up  the
+
+fill  and  stroke  menu  which  is  located
+
+over  here  or  you  can  press  ctrl  shift
+
+and  f  to  open  that  up  and  it  should  open
+
+up  on  the  right  hand  side  of  your  screen
+
+over  here  now  you  can  use  these  sliders
+
+to  make  this  whatever  color  youd  like
+
+im  going  to  make  my  leaf  green  so  im
+
+going  to  use  a  green  shade  over  here
+
+
+
+there  we  go
+
+and  what  im  going  to  do  now  is  reduce
+
+the  opacity  of  this  circle  i  want  to
+
+drop  this  down  roughly  in  half  because
+
+its  important  that  were  going  to  see
+
+through  the  shapes  that  were  about  to
+
+work  with
+
+once  youve  done  that  you  can  go  back  to
+
+the  select  tool  over  here  and  what  i
+
+want  to  do  is  right  click  on  this  object
+
+and  go  to  duplicate  now  we  have  two
+
+copies  of  it
+
+so  now  im  going  to  hold  down  my  control
+
+key  and  click  and  drag  this  shape  down
+
+here  so  that  we  have  this  intersecting
+
+area  between  these  two  circles  right
+
+here  which  is  going  to  represent  our
+
+leaf  shape  so  now  im  going  to  create  a
+
+new  object  out  of  these  intersecting
+
+areas  by  clicking  and  dragging  over  both
+
+of  them  we  want  to  make  sure  we  have
+
+both  of  them  selected  and  then  go  to
+
+path  and  select  intersection
+
+and  this  is  going  to  represent  part  of
+
+our  leaf  anyway
+
+so  now  were  going  to  create  this  stem
+
+im  going  to  put  this  off  to  the  side
+
+for  now  im  going  to  use  a  couple  of
+
+squares  to  make  this  stem  im  going  to
+
+grab  the  squares  and  rectangles  tool
+
+which  is  over  here
+
+click  and  drag  on  the  canvas  to  create
+
+your  shape  hold  down  control  to  lock  the
+
+aspect  ratio  so  we  get  a  nice
+
+symmetrical  square  like  that
+
+and  now  what  we  want  to  do  is  first  make
+
+sure  that  the  corners  of  the  square  are
+
+sharp  up  here  in  the  toolbar  this  icon
+
+right  here  that  reads  make  corners  sharp
+
+when  you  hover  your  cursor  over  it  if
+
+its  grayed  out  then  that  means  your
+
+corners  are  already  sharp  and  youre
+
+good  to  go  if  you  have  rounded  corners
+
+go  ahead  and  click  that  button  and  itll
+
+make  your  corner  sharp
+
+okay  so  lets  convert  this  to  a  path  now
+
+lets  go  to  path  and  select  object  to
+
+path
+
+and  now  we  can  grab  the  nodes  tool  which
+
+is  right  here  and  im  going  to  click  and
+
+drag  over  this  node  right  here  to  select
+
+it  and  im  going  to  press  delete  on  the
+
+keyboard  to  get  rid  of  that  node
+
+and  then  im  going  to  click  and  drag
+
+over  the  remaining  three  nodes  and  make
+
+them  sharp  by  clicking  on  this  button  up
+
+here  that  says  make  selected  nodes
+
+corner
+
+and  now  we  have  this  triangle  shape  like
+
+that
+
+so  lets  go  back  to  our  select  tool
+
+lets  give  this  a  different  color  so  we
+
+can  differentiate  it  from  the  leaf  when
+
+we  apply  it  over  im  going to  make  this
+
+red
+
+and  im  going  to  right  click  this  and  go
+
+to  duplicate
+
+and  im  going  to  make  this  one  a
+
+different  color  ill  make  this  one  blue
+
+and  then  ill  come  up  here  where  it  says
+
+flip  selected  objects  vertically  ill  do
+
+that  so  its  flipped  vertically  and  im
+
+going  to  hold  ctrl  and  move  this  one
+
+down  here  like  that  now  we  want  this  to
+
+attach  to  this  right  here  so  im  going
+
+to  temporarily  turn  on  snapping  which  is
+
+this  little  magnet  icon  up  here  in  the
+
+top  right  corner  and  then  you  should  be
+
+able  to  just  click  and  drag  and  snap  it
+
+in  place  like  that  and  then  we  also  want
+
+to  flip  this  horizontally  so  come  over
+
+here  where  it  says  flip  selected  objects
+
+horizontally  and  select  that  this  is
+
+what  were  looking  for  right  here
+
+so  lets  turn  off  snapping  now
+
+actually  no  you  know  what  lets  leave
+
+that  on  for  now  im  going  to  click  and
+
+drag  over  both  of  these  objects
+
+im  going  to  group  them  together  by
+
+going  to  object
+
+and  selecting
+
+
+
+and  then  im  just  going  to  take  this
+
+bottom  node  right  here  or  this  bottom
+
+handle  and  just  bring  this  up  so  that  we
+
+end  up  with  a  shape  like  this  so  we  have
+
+these  two  triangles  these  two  long
+
+triangles  going  this  way
+
+and  now  im  going  to  take  my  leaf  let  me
+
+bring  this  over  here  let  me  make  this  a
+
+little  bigger  im  going  to  hold  ctrl  and
+
+im  going  to  click  and  drag  this  scaling
+
+handle  right  here
+
+to  scale  that  up
+
+and  i  want  to  take  the  corners  this
+
+corner  of  this  object  right  here  and
+
+snap  it
+
+into  this  corner  right  here  just  like
+
+that  and  now  we  can  turn  off  our
+
+snapping  because  if  we  leave  that
+
+enabled  any  further  its  just  going  to
+
+get  in  our  way
+
+so  now  we  have  our  stem  in  place  im
+
+just  going  to  hold  ctrl  and  move  this
+
+over  like  this
+
+i  might  even  make  this  a  little  more  a
+
+little  longer  like  that
+
+and  whats  how  this  works  is  this  red
+
+object  is  going  to  represent  the  stem
+
+and  this  blue  object  is  actually  going
+
+to  be  used  as  negative  space  for  this
+
+leaf  let  me  show  you  what  i mean  here
+
+lets  ungroup  this  object  lets  go  to
+
+object  and  select
+
+ungroup  and  then  click  off  of  the
+
+graphic  to  deselect  everything  im  going
+
+to  select  just  this  blue  shape  right
+
+here  and  then  im  going  to  hold  shift
+
+and  click  on  the  green  leaf  right  there
+
+so  we  have  both  of  them  selected  and  im
+
+going  to  subtract  those  two  shapes  from
+
+each  other  by  going  to  path
+
+difference
+
+and  now  we  end  up  with  something  like
+
+that  right  there
+
+so  lets  click  and  drag  over  everything
+
+here  both  of  those  objects  and  go  to
+
+path
+
+union  and  now  we  have  our  base  shape  for
+
+the  leaf  in  fact  we  can  take  the  opacity
+
+of  this  and  bring  this  back  up  and  im
+
+going  to  scale  this  down  im  going  to
+
+hold  ctrl  and  to  lock  the  proportions
+
+and  scale  that  down  like  that  so  we  have
+
+a  rudimentary  leaf  here  were  going  to
+
+make  this  look  a  little  more  whimsical
+
+and  and  with  curved  edges  uh  by  using
+
+the  pen  tool  so  let  me  uh  right  click  on
+
+this  and  go  to  copy
+
+or  the  pencil  tool  router  come  over  here
+
+to  the  pencil  tool  or  the  draw  free  hand
+
+lines  tool  you  can  use  the  letter  p  on
+
+your  keyboard  to  access  that
+
+and  up  here  where  it  says  shape  in  the
+
+tool  setting  we  want  to  change  that  to
+
+from  clipboard
+
+and  the  smoothing  up  here  this  is
+
+important  as  well  this  is  based  on  this
+
+will  vary  based  on  your  screen
+
+resolution  but  im  going  to  start  out
+
+with  60  and  see  how  that  looks
+
+and  now  what  im  going  to  do  is  im  just
+
+going  to  click  and  drag  like  this  to
+
+create
+
+a  line  like  that  and  if  you  notice  it
+
+took  that  strap  that  it  took  that  uh
+
+shape  and  stretched  it  out  along  that
+
+path
+
+now  the  problem  here  is  that  the  the
+
+leaf  is  way  too  thin  so  lets  come  over
+
+here  to  the  edit  pads  my  nodes  tool
+
+and  there  should  be  some  little  there
+
+should  be  a  little  handle  right  here
+
+that  you  could  just  pull  out  like  this
+
+and  it  increases
+
+the  size  of  your  leaf  as  you  can  see
+
+here
+
+and  this  right  here  is  the  effect  were
+
+going  for
+
+so  let  me  make  this  green
+
+let  me  remove  the  stroke  by  holding
+
+shift  and  clicking  on  the  red  x  over
+
+here
+
+and  now  im  going  to  grab  my  selection
+
+tool  and  scale  this  down  to  size  a
+
+little  more  a little  more  of  a  normal
+
+size  like  that
+
+and  now  what  im  going to  do  is  im
+
+going  to  finalize  this  by  converting  it
+
+to  a  path  ill  go  to  path
+
+and  select  object  to  path
+
+and  we  have  a  little  bit  of  a  whimsical
+
+leaf  here  now  the  problem  is  im  not  too
+
+happy  with  how  these  lines  look  they
+
+dont  look  as  fluid  as  they  could  be  so
+
+what  im  going to  do  is  im  going  to
+
+manually  adjust  them  let  me  zoom  in  on
+
+this  by  holding  ctrl  and  rolling  up  the
+
+mouse  wheel
+
+im  going  to  grab  my  edit  paths  by  nodes
+
+tool  im  going  to  click  on  this  object
+
+to  select  it  and  if  you  see  all  of  these
+
+little  nodes  here  going  along  this  edge
+
+im  going  to  select  all  of  those  nodes
+
+im  going  to  hold  shift  while  doing  this
+
+to  make  sure  i  can  select  multiple  nodes
+
+at  a  time  and  we  want  to  have  only  these
+
+nodes  selected  up  here  and  then  just
+
+press  delete  on  the  keyboard  to  get  rid
+
+of  them  and  now  you  should  have  these
+
+two  handles  that  you  can  adjust
+
+according  to  your  preference  so  i  want
+
+to  give  this  more  of  a  fluid  contour
+
+like  that  that  looks  a  lot  better  so  im
+
+going to  do  the  same  thing  down  here  now
+
+im  going  to  start  selecting  these  nodes
+
+while  holding  shift  on  my  keyboard  so  i
+
+can  select  multiple  nodes  at  a  time
+
+and  then  press  delete  on  the  keyboard  to
+
+get  rid  of  them
+
+and  now  i  can  take  this  handle  and
+
+manually  shape  it
+
+however  i  please
+
+
+
+okay  there  we  go  that  looks  a  lot  better
+
+so  let  me  grab  the  selection  tool  im
+
+gonna  press  one  on  the  keyboard  to  zoom
+
+back  out  to  a  hundred  percent  and  there
+
+you  go  now  we  have  one  of  our  leaves
+
+okay  so  let  me  show  you  another  way  you
+
+can  do  this  or  actually  let  me  just  show
+
+you  how  to  make  another  leaf  of  another
+
+uh  style
+
+instead  of  drawing  the  curved  line  like
+
+it  did  before  im  going  to  draw  like  a
+
+u-shaped  line  so  i  should  still  have
+
+this  copied  to  my  clipboard  we  do  have
+
+the  settings  in  place  here  from
+
+clipboard  im  just  going  to  click  and
+
+drag  to  create  like  a  smiley  face  like
+
+that
+
+okay  that  didnt  come  out  as  expected
+
+that  looks  really  sloppy  right  there  so
+
+im  going  to  press  ctrl  z  to  undo  that
+
+im  going  to  increase  the  smoothing  up
+
+to  70.
+
+and  try  that  again
+
+
+
+okay  that  looks  a  little  better  that
+
+thats  not  thats  still  not  what  im
+
+looking  for  but  thats  enough  for  me  to
+
+work  with  so  im  going to  leave  it  as  it
+
+is  let  me  grab  my  selection  tool  let  me
+
+scale  this  down  like  that  im  going  to
+
+hold  ctrl  and  shift  while  scaling  so  i
+
+could  scale  from  the  center  and  preserve
+
+the  proportions
+
+and  im  going  to  make  this  green
+
+ill  remove  the  stroke  by  holding  shift
+
+and  clicking  the  x
+
+and  i  will  go  to  path
+
+object  to  path
+
+and  now  i  can  go  to  my  edit  pads  by
+
+nodes  tool  and  let  me  zoom  in  and  clean
+
+this  up  a  little  bit
+
+press  the  delete  key  to  get  rid  of  those
+
+nodes  just  like  we  did  before  same
+
+process
+
+take  this  handle  and
+
+take  this  handle  and  bring  that  in  a
+
+little  bit
+
+
+
+there  we  go
+
+
+
+and  then  i  will  take  these  handle  take
+
+these  nodes  down  here  and  get  rid  of
+
+them
+
+just  like  i  did  before  just  to  make  this
+
+more  smooth  i  missed  one  right  there  let
+
+me  get  rid  of  that  one  there  we  go
+
+so  let  me  adjust  this  handle
+
+and  i  think  this  one  looks  pretty  good
+
+yeah  thats  good  enough  and  once  youre
+
+done  you  can  grab  the  selection  tool
+
+zoom  out  to  100
+
+by  pressing  one  on  the  keyboard  and
+
+there  we  go  now  we  have  another  leaf
+
+and  there  you  go  you  should  get  the  idea
+
+you  can  draw  all  of  these  different
+
+whimsical  style  leaves  by  grabbing  your
+
+pencil  tool  over  here  and  drawing
+
+different  contours  as  you  can  see  there
+
+like  that  or  maybe  not  maybe  not  as
+
+sloppy  but  you  get  the  idea
+
+okay
+
+so  there  we  go  let  me  take  this  one
+
+scale  this  down
+
+
+
+and  there  we  go  there  is  another  leaf
+
+okay  so  now  we  have  all  of  these
+
+different  leaves  and  different  shapes
+
+going  in  different  directions  and
+
+different  contours  and  you  could
+
+actually  arrange  these  to  make  somewhat
+
+of  a  pattern  or  you  can  use  these  for
+
+logos  or  icons  or  whatever  else  youd
+
+like
+
+so  i  think  that  should  do  it  for  this
+
+tutorial  that  is  how  you  can  draw  simple
+
+iconic  leaves  using  inkscape  before  i
+
+end  this  video  if  you  found  this  lesson
+
+useful  then  consider  checking  out  my
+
+inkscape  master  class  its  a  collection
+
+of  over  60  videos  where  i  go  over  all  of
+
+the  tools  and  features  in  inkscape  and  i
+
+explain  what  they  are  and  demonstrate
+
+how  they  work  kind  of  like  how  i  did  in
+
+this  video  we  even  have  a  private
+
+community  where  you  can  ask  questions
+
+and  get  help  from  me  anytime  you  want
+
+and  best  of  all  theres  no  monthly
+
+membership  fees  you  just  pay  17  one  time
+
+and  youre  in  for  life  ill  have  some
+
+information  about  that  in  the
+
+description  of  the  video  if  you  want  to
+
+check  that  out  as  always  thanks  for
+
+watching
+

@@ -1,0 +1,1170 @@
+
+in  this  video  Ill  be  demonstrating  some
+
+of  the  more  advanced  Transformations
+
+that  you  can  make  when  working  with
+
+nodes  and  inkscape  by  showing  you  how  to
+
+create  this  cassette  tape  design  and
+
+this  will  be  more  of  an  advanced
+
+tutorial  in  that  Im  not  going  to  be
+
+going  over  every  step  in  fine  detail  but
+
+if  youre  already  somewhat  familiar  with
+
+the  software  you  should  be  able  to  get  a
+
+sense  of  what  Im  doing  as  I  go  through
+
+these  steps  so  Im  going  to  come  over
+
+here  into  new  document  and  get  started
+
+Im  going  to  draw  a  rectangle  to  start
+
+off  and  let  me  grab  my  selection  tool
+
+Im  going  to  make  this  rectangle  I
+
+believe  I  used  400  by
+
+250  and  let  me  zoom  in  on  this  let  me  go
+
+back  to  my  rectangle  tool  Im  going  to
+
+make  these  Corners  a  little
+
+rounded  there  we  go  and  now  Im  going  to
+
+put  some  circles  in  the  corners  to  uh
+
+serve  as  screws  the  screws  in  the
+
+corners  of  the  uh  cassette  tape  so  Ill
+
+put  that  right  there  and  Ill  make  a  few
+
+copies  of  this  Im  going  to  press
+
+controll  D  or  command  D  to  duplicate  it
+
+move  this  over
+
+here  make  another  duplicate  of  these
+
+bring  these  down  here
+
+and  Im  going  to  group  these  together
+
+and  Im  going  to  Center  this  up  on  the
+
+document  here  so  let  me  open  this  up  and
+
+Center  it  so  now  I  have  the  four  screws
+
+centered  in  the  uh  corners  of  the
+
+cassette  tape  as  you  can  see  here  thats
+
+uh  this  part  of  the  design  so  let  me
+
+come  back  in  here  and  next  Im  going  to
+
+create  the  bottom  part  this  uh  this
+
+little  bottom  part  of  the  design  right
+
+here  so  Im  going  to  grab  my  rectangle
+
+tool  again  and  Im  going  to  click  and
+
+drag  to  draw  a
+
+rectangle  and  Im  going  to  make  the
+
+corners  of  this  one  Shar  for  now  Im
+
+going  to  go  back  and  make  those  Corners
+
+rounded  later  on  but  I  first  want  to
+
+change  the  I  want  to  distort  the  shape
+
+of
+
+this  so  Ill  convert  this  to  a
+
+path  grab  my  nodes  tool  and  I  want  to
+
+grab  these  two  nodes  right  here  and  let
+
+me  scale  those  down  I  dont  know  why
+
+that  just  layered  beneath  the  other
+
+object  but  Ill  have  to  raise  that  up
+
+again  let  me  move  that
+
+up  okay  that  looks  good  right  there  I
+
+want  to  round  these  Corners  a  little  bit
+
+so  Im  going  to  come  over  here  and
+
+choose  the  uh  this  handy  new  feature  the
+
+corner  is  live  path  effect  Im  going  to
+
+select  all  of  the
+
+nodes  and  Im  going  to  scale  let  me  turn
+
+off  the  scaling  handles  and  Im  going  to
+
+bring  this  in  like  this  just  to  make
+
+these
+
+rounded  there  we  go  and  I  just  want  to
+
+make  sure  that  this  is  centered  there  we
+
+go  and  Im  going  to  put  some
+
+more  Im  going  to  put  these  uh  these
+
+little  round  parts  of  the  design  in
+
+there  now  so  let  me  come  back  over  here
+
+and  for  that  Ill  just  duplicate  let  me
+
+ungroup  these  circles  Im  just  going  to
+
+duplicate  these  circles  and  use  these
+
+copies  to  make  those  uh  to  make  those
+
+parts  of  the  design  Ill  scale  that
+
+up  duplicate  that  control  D  or  command  D
+
+is  the  shortcut  for  duplicating  very
+
+handy  shortcut  to
+
+know  move  that  over  let  me  zoom  out  a
+
+little  bit  to  see  how  that  looks  in
+
+proportion  I  guess  that  looks  pretty
+
+good  maybe  Ill  make  it  a  little
+
+smaller  and  Im  going  to  duplicate  the
+
+these  and  I  will  flip  these  horizontally
+
+and  move  these  over  here  and  now  I  want
+
+to  Center  this  up  on  the  uh  bottom  part
+
+of  this  design  here  so  let  me  group  that
+
+and  Ill  Center  these
+
+together  let  me  move  that  down  it  looked
+
+better  down  there  there  we  go  now  I  can
+
+ungroup
+
+them  okay  so  the  next  part  of  the  design
+
+I  will  make  is  Ill  make  this  inner  part
+
+of  the  cassette  tape  or  the  label  so  let
+
+me  come  back  in  here  Im  going  to  grab
+
+my  rectangle  tool  and  Im  going  to  make
+
+a  rectangle  in  the  uh  on  the  inside  of
+
+the  uh  cassette  tape  there  and  let  me
+
+just  make  sure  I  have  this  centered  up
+
+on  the  other  rectangle  there  we  go  and
+
+Im  going  to  change  this  a  little  bit
+
+let  me  make  this  a  little  less  tall
+
+vertically  and  I  want  to  convert  this  to
+
+a  path  as  well  and  now  to  make  the
+
+corners  have  this  cut  off  effect  were
+
+going  to  use  a  path  effect  for  that  so
+
+let  me  come  back  over  here  to  my  nodes
+
+tool  and  I  want  to  enable  the  Corners
+
+live  path  effect  again  and  I  want  to
+
+select  both  of  these  and  now  I  can  roll
+
+them  down  like  that  now  the  corners  are
+
+rounded  right  now  but  thats  okay  were
+
+going  to  go  in  and  change  that  setting
+
+so  Im  going  to  open  up  the  path  effects
+
+menu  path  path
+
+effects  and  now  I  should  be  able  to
+
+change  the  corners  to  chamfer  and  now  I
+
+have  those  squared  Corners  that  I
+
+preferred  let  me  make  those  a  little
+
+less  let  me  scale  those  down  a  little
+
+bit  oh  okay  that  looks  good  now  we  can
+
+close  out  of  that  uh  let  me  get  out  of
+
+that  and  the  next  part  I  guess  I  will
+
+make  I  Ill  start  working  on  the  little
+
+spindles  here  in  the  center  this  is  uh
+
+probably  the  most  elaborate  part  of  this
+
+whole  thing  so  lets  go  get  that
+
+started  Im  going  to  grab  my  circles  and
+
+ellipses  tool  and  Im  going  to  click  and
+
+drag  to  draw  a
+
+circle  and  let  move  this  over  Im  going
+
+to  duplicate  this  circle  make  this
+
+circle  a  little
+
+smaller  and  Im  going  to  make  these
+
+teeth  that  go  on  the  inside  of  the  uh
+
+the  spindle  there  so  let  me  deselect
+
+everything  and  to  do  this  Im  going  to
+
+use  clones  and  this  is  going  to  make  it
+
+a  lot  easier  to  adjust  things  Ill  show
+
+you  what  I  mean  here  Im  going  to  click
+
+and  drag  to  draw  a  rectangle  its  going
+
+to  represent  one  of  the  teeth  of  this  uh
+
+of  the  spindle  and  Im  going  to  right
+
+click  this  and  go  to  instead  of
+
+duplicate  Im  going  to  use  clone  and  Im
+
+going  to  take  the  Clone  copy  and  Im
+
+going  to  bring  it  down
+
+here  and  I  just  want  to  group  both  of
+
+these  together  make  sure  I  have  them
+
+centered  on  the  circle  so  let  me  come
+
+back  over  here  to  my  aligned  distribute
+
+menu  and  now  Im  going  to  clone  these
+
+again  so  Im  going  to  right  click  and  go
+
+to  clone  and  Im  going  to  rotate  this
+
+copy  that  many  steps  and  then  Ill  clone
+
+that  again  so  Ill  right  click  that  go
+
+to  clone  and  Ill  rotate  it  hold  the
+
+control  key  and  just  rotate  it  around
+
+like  that  there  we  go  now  the  reason  I
+
+did  that  is  because  if  I  want  to  change
+
+the  width  of  these  teeth  sometimes
+
+youll  make  it  too  big  or  too  small
+
+without  realizing  it  uh  youll  have  to
+
+go  back  and  undo  all  of  it  when  you  use
+
+clones  though  you  can  just  adjust  one  of
+
+them  and  it  adjusts  all  of  them  so  Im
+
+going  to  hold  my  shift  key  and  scale
+
+this  part  in  like  that  and  its  going  to
+
+change  the  size  of  all  the  other  teeth
+
+like  that  so  let  me  move  that  out  a
+
+little  bit  it  looks  better  in  a  larger
+
+size  let  me  zoom  out  a  little  bit  its
+
+hard  to  really  perfectly  visualize  how
+
+its  going  to  look  until  you  unify  it
+
+with  the  other
+
+shape  let  me  try  that  one  more
+
+time  okay  I  think  Ill  leave  that  as  it
+
+is  Im  going  to  select  all  of  these  now
+
+I  have  all  of  them  selected  and  Im
+
+going  to  unlink  the  Clones  so  Ill  go  to
+
+edit  and  I  will  choose  clone  and  I  will
+
+select  unlink  clone  and  now  I  can
+
+ungroup  them  well  go  to  object  ungroup
+
+and  unify  them  all  together  path  Union
+
+and  then  subtract  it  from  that  smaller
+
+Circle  so  Ill  hold  shift  and  click  on
+
+that  Circle  and  go  to  path  difference
+
+and  now  we  have  the  teeth  of  the  uh  of
+
+that  wheel  there  let  me  scale  that  up  a
+
+little
+
+bit  and  Ill  take  this  part  and  scale
+
+this
+
+down  and  now  Im  going  to  create  the  uh
+
+the  tape  going  around  the  uh  the  wheel
+
+here  so  let  me  Zoom  back  out  let  me  come
+
+back  in  here  and  Ill  take  this  larger
+
+Circle  Im  going  to  remove  the  fill  and
+
+Im  going  to  make  a  duplicate  of  this
+
+Im  going  to  press  command  D  and  then
+
+hold  control  and  shift  and  scale  this  up
+
+about  that  much  and  Im  going  to  take
+
+both  of  these  circles  now  and  Im  going
+
+to  combine  them  together  so  Ill  go  to
+
+path  and  I  will  choose  combine  and  now
+
+Im  going  to  apply  the  interp
+
+interpolate  path  effects  so  Im  going  to
+
+come  over  here  to  my  path  effects  menu
+
+and  Im  looking  for
+
+interpolate  uh  interpolate  interpolate
+
+sub  paths  not  points  the  one  they  use
+
+here  is  sub  paths  and  now  I  can  increase
+
+or
+
+decrease  the  uh  number  of  paths  between
+
+those  circles  I  think  this  looks  good
+
+with  seven  for  now  but  Im  going  to  go
+
+back  and  change  that  later  as  I  adjust
+
+things  so  for  now  that  looks  good  Ill
+
+leave  it  at
+
+seven  and  next  I  will  Im  going  to  make
+
+a  duplicate  copy  of  this  and  move  this
+
+over  here  so  we  have  two  of  these  now  so
+
+Im  going  to  select  all  of  these  let  me
+
+group  it  together  let  me  duplicate  this
+
+and  just  move  this  one  over  like
+
+that  and  then  Ill  group  these  together
+
+and  then  Center  them  on  this  uh  larger
+
+rectangle  and  that  looks  pretty
+
+good  okay  let  me  ungroup  those
+
+now  and  now  Im  going  to  trim  off  the
+
+edges  Im  going  create  Im  going  to
+
+create  the  inner  part  like  the  window  I
+
+guess  you  can  call  it  of  this  cassette
+
+tape  and  Im  going  to  trim  off  all  of
+
+the  other  excess  areas  so  let  me  come
+
+back  in  here  and  to  do  that  Im  going  to
+
+turn  on  my  snapping  and  Im  going  to
+
+draw  a
+
+rectangle  Ill  start  the
+
+rectangle  up  here  and  Ill  end  it  down
+
+here  like  that  and  Im  going  to  grab  my
+
+selection  tool  now  and  Im  going  to  snap
+
+it  to  the  right  Edge  and  then  snap  it  to
+
+the  left  Edge  basically  Im  creating  a
+
+rounded  rectangle  that  goes  around  the
+
+two  wheels  of  the  cassette  tape  so  Im
+
+going  to  grab  my  rectangle  tool  now  and
+
+round  the
+
+corners  there  we  go  thats  the  effect
+
+Im  going  for  and  what  Ill  do  next  is
+
+Im  going  to  convert  this  to  a  path
+
+well  get  to  path  object  to
+
+path  grab  my  selection  tool  and  Im
+
+going  to  duplicate  this  and  now  I  want
+
+to  select  all  of  the  wheels  Im  going  to
+
+select  the  uh  Im  going  to  select  this
+
+wheel  right  here  and  Im  going  to  hold
+
+shift  and  select  this  wheel  right  here
+
+and  I  want  to  group  them  all  together  by
+
+pressing  command  G  or  contr  G  and  I  want
+
+to  take  this  duplicate  copy  and  then
+
+select  the  grouped  wheels  and  go  to
+
+object  clip  set  clip  so  now  it  is  a
+
+clipped  object  and  what  I  could  do  now
+
+is  I  can  take  this  rectangle  and
+
+duplicate  that  well  go  to  duplicate  and
+
+I  will  apply  an  offset  to  that  so  I  will
+
+go  to  path  and
+
+choose  Dynamic
+
+offset  let  me  go  to  my  nodes  tool  Im
+
+going  to  take  this  node  and  bring  that
+
+out  let  me  turn  off  my  snapping  for  now
+
+and  I  think  that  looks  pretty  good  as  it
+
+is  I  think  Ill  will  leave  it  like  that
+
+now  I  want  to  create  some  asymmetry
+
+between  these  two  wheels  here  if  you
+
+notice  in  my  original  design  theres
+
+more  tape  on  this  wheel  than  there  is  on
+
+this  wheel  so  thats  the  effect  I  want
+
+to  uh  I  want  to  create  to  do  that  Im
+
+going  to  uh  and  this  is  where  path
+
+effects  really  come  in  handy  because
+
+this  is  still  editable  as  a  path  effect
+
+so  if  I  go  to  my  nodes  tool  I  can  still
+
+select  this  and  Im  going  to  select
+
+these  nodes  Im  going  to  hold  shift  and
+
+click  on  them  and  Ill  turn  on  my
+
+transformation  handles  and  now  I  can
+
+scale  this  up  like  that  and  all  those
+
+other  circles  in  there  scale  with  it  the
+
+problem  is  that  there  are  a  little  more
+
+SPAC  out  so  Im  going  to  go  back  into  my
+
+uh  path  effects  menu  and  add  some  more
+
+sub  paths  in
+
+there  and  Ill  do  the  opposite  over  here
+
+Ill  maybe  shrink  this  one  down  a  little
+
+bit  let  me  move  this
+
+over  and  let  me  select  these
+
+nodes  and  Ill  scale  these  ones
+
+down  and  now  I  will  remove  some  of  those
+
+sub  paths  in  there  to  make  it  look
+
+evenly  spaced  out  with  the  other  ones  so
+
+that  looks  a  lot  better  I  think  let  me
+
+turn  off  the  uh  transformation
+
+handles  and  that  looks  a  lot  better  we
+
+have  some  asymmetry  there  now  between
+
+those  two  uh  objects  now  I  just  want  to
+
+size  this  up  so  it  fits  the  cassette
+
+tape  overall  and  uh  and  its  nicely
+
+aligned  um  you  know  what  before  I  do
+
+that  lets  trim  off  all  of  this  other
+
+excess  stuff  because  if  I  go  to  my  nodes
+
+tool  you  can  see  if  I  hover  my  cursor
+
+these  other  lines  still  exist  with
+
+within  the  clip  you  just  dont  see  them
+
+because  theyre  hidden  behind  the
+
+clipping  mask  that  we  created  I  want  to
+
+finalize  these  and  make  these  um  like
+
+plain  Vector  paths  so  to  do  that  Im
+
+going  to  select  this  all  and  Im  going
+
+to  come  over  here  into  the  shape  Builder
+
+tool  and  now  Im  just  going  to  build  the
+
+shape  that  I  want  out  of  this  so  Im
+
+going  to  click  on  this  part  to  add  that
+
+and  everything  that  I  make  blue  is  going
+
+to  be  what  gets  kept  and  everything
+
+thats  not  blue  will  be  deleted  so  Im
+
+going  to  combine  all  of  this
+
+together
+
+and  Im  making  separate  shapes  out  of
+
+each  of  these  because  I  want  everything
+
+in  here  to  be  its  own  shape  so  I  can  add
+
+color  to  it  which  you  will  see  in  just  a
+
+few  minutes  so  that  right  there  is  what
+
+Im  going  for  I  want  everything  divided
+
+into  its  own  shape  and  if  I  go  back  to
+
+my  selection  tool  now  it  is  everything
+
+uh  its  designed  just  how  I  want  it  so  I
+
+have  these  individual  shapes  here  that  I
+
+can  edit  and  work  with  however  I  need  so
+
+now  that  thats  done  let  me  select
+
+everything  here  and  group  it  together
+
+and  I  want  to  center  it  up  over  this
+
+rectangle  so  let  me  come  back  into  my
+
+alignment  tab  and  I  may  have  to  make
+
+this  one  a  little  bigger  relative  to  the
+
+relative  to  the  uh  the  tape  because
+
+normally  the  wheel  goes  out  almost  past
+
+the  corner  of  this  uh  part  of  the  tape
+
+right  here  so  I  got  to  make  mine  oops
+
+let  me  undo  that  I  got  to  make  mine  a
+
+little  bigger  uh  maybe  not  bigger  but
+
+longer  so  let  me  ungroup  everything  Im
+
+going  to  grab  my  nodes  tool  and  Im
+
+going  to  select  these  nodes  over  here
+
+and  Ill  just  move  these  over  like
+
+that  and  now  were  elongating  it  without
+
+having  to  um  scale  it  so  let  me  group  it
+
+together  now  and  let  me  try  centering  it
+
+again  see  if  it  looks  any  better  and
+
+thats  more  along  the  lines  of  what  Im
+
+going  for  you  know  what  I  think
+
+something  got  taken  off  center  here  let
+
+me  redo  that  this  is  one  of  the
+
+downsides  of  working  with  a  trackpad  if
+
+Im  working  with  the  mouse  I  dont  have
+
+that  problem  so  now  lets  uh  lets  make
+
+these  little  lines  right  here  this  this
+
+is  like  a  blank  label  where  you  can
+
+write  in  your  own  label  on  the  cassette
+
+tape  Im  going  to  grab  the  pen  tool  to
+
+make
+
+those  hold  control  so  we  get  a  straight
+
+line  press  enter  to  close  the  path  and
+
+Im  going  to  make  this  the  same  size  as
+
+The  Strokes  on  the  other  shapes  which  is
+
+three  so  Ill  come  back  over  here  stroke
+
+style  tab  make  this  three  pixels  I  want
+
+this  to  have  rounded
+
+caps  and  Ill  make  a  duplicate  of  this
+
+and  bring  this  down  here  so  Im  going  to
+
+hold  the  control
+
+key  that  looks  good  maybe  Ill  make  this
+
+a  little
+
+bigger  and  Im  just  going  to  size  this
+
+up  and  adjust  it  until  it  looks
+
+right  okay  there  we  go  so  Im  going  for
+
+a  nice  balanced  look  here  where
+
+everything  is  spaced  up  spaced  out
+
+nicely  Im  going  to  ungroup  that  now  and
+
+the  cassette  tape  part  of  the  design  is
+
+finished  now  I  want  to  create  this  um
+
+this  rainbow  ribbon  background  here  that
+
+I  put  behind  the  cassette  tape  so  let  me
+
+come  back  over  here  for  this  I  want  to
+
+make  sure  I  have  my  snapping  enabled  and
+
+Im  going  to  grab  my  rectangle  tool  and
+
+Im  going  to  draw  a  elongated
+
+rectangle  and  Im  going  to  make  the
+
+corner  Sharp  and  I  want  to  make  cop  I
+
+want  to  make  five  copies  of  this  so  Im
+
+going  to  press  control  D  to  make  a  copy
+
+Ill  snap  this  copy  over  here  to  the
+
+left  end  or  to  the  right  end  and  Ill
+
+just  repeat  this  until  I  have  five
+
+copies  there  we  go  let  me  select  all  of
+
+those  convert  them  to  a
+
+path  path  object  to  path  and  now  Im
+
+going  to  do  Im  going  to  duplicate  these
+
+and  Im  going  to  put  these  down  here  and
+
+snap  these  to  the  bottom  and  this  time
+
+Im  going  to  go  with  combin  so  Ill  go
+
+with  uh  path  and  and  I  will  choose
+
+combine  and  Im  going  to  move  this
+
+up  and  now  I  want  to  use  the  perspective
+
+path  effect  to  make  this  uh  wider  so  Im
+
+going  to  come  back  over  here  to  my  path
+
+effects  and  Im  looking  for
+
+perspective  there  we  go  grab  my  nodes
+
+tool  I  want  to  lock  this  in  the  uh  or
+
+mirror  it  in  the  vertical  axis  and  now  I
+
+can  just  scale  that  out  like
+
+that  that  looks  pretty  good  now  Im
+
+going  to  convert  that  to  a  path  as  well
+
+we  go  to  path  object  to  path  grab  my  S
+
+ction  tool  and  I  want  to  break  this
+
+apart  so  Ill  go  to  path  and  I  will
+
+choose  break  apart  and  now  these  should
+
+already  be  broken  apart  yeah  I  need
+
+these  to  be  individual  objects  so  what
+
+Im  going  to  do  is  Im  going  to  start
+
+unifying  these  objects  together  Im
+
+going  to  hold  my  option  key  or  ALT  key
+
+and  just  draw  a  line  between  those  two
+
+objects  unify  them  together  by  going  to
+
+path  Union  or  the  keyboard  shortcut  is
+
+control  shift  and  the  plus  key  so  Im
+
+just  going  to  use  that  for  the  rest  of
+
+these  were  going  to  repeat  this  process
+
+Im  going  select  those  unify  those
+
+together
+
+do  the  same  thing  over  here  oops  let  me
+
+un  deselect
+
+that  control  shift  plus
+
+deselect  select  these  ones  and  there  you
+
+go  one  more  to
+
+go  okay  so  thats  what  were  going  for
+
+now  and  to  make  these  rounded  what  I
+
+will  do  is  I  want  to  select  all  of  them
+
+first  so  Im  going  to  hold  shift  and
+
+click  on  each  of
+
+these
+
+and  I  want  to  combine  these  together  so
+
+Ill  go  to  path  and  I  will  choose
+
+combine  let  me  move  move  this  out  of  the
+
+way  of  the  cassette  tape  Im  going  to
+
+turn  off  the  snapping  now  and  Im  going
+
+to  go  back  to  the  nodes  tool  and  Im
+
+going  to  turn  on  the  corner  live  path
+
+effect  for  this  and  Im  going  to  select
+
+these  nodes  right  here  let  me  try  that
+
+again  there  we  go  and  Im  just  going  to
+
+round  this  like  that  so  we  get  a  nice
+
+rounded  effect
+
+there
+
+okay  that  looks  good  Ill  leave  that  as
+
+it  is  and  now  Im  going  to  go  into  my
+
+shape  Builder  tool  and  Im  just  going  to
+
+click  on  each  of  these  one  by  one  to
+
+make  sure  that  they  are  all  separate
+
+shapes  and  that  they  no  longer  have  the
+
+path  effect  applied  theyre  just  plain
+
+Vector  pads  and  there  you  go  now  were
+
+finished  so  let  me  go  back  over  here  now
+
+and  I  could  take  this  and  move  this  over
+
+here  you  know  what  let  me  leave  this
+
+here  Im  going  to  take  the  cassette  tape
+
+group  it  together  and  place  it  over  on
+
+top  of  uh  this  backdrop  here  I  want  to
+
+raise  this  up  so  its  layered  above
+
+it  and  Im  going  to  Center  both  of
+
+these  and  the  final  step  is  to  just  add
+
+some  color  as  you  can  see  that  Ive  done
+
+over  here  in  my  original  design  so  let
+
+me  come  back  in  here  Im  going  to  start
+
+coloring  this  thing  in  so  Ill  start
+
+with  these  stripes  down  here  let  me
+
+ungroup  these  or  break  them  apart  rather
+
+object  path  break
+
+apart  and  for  the  colors  it  was  just  red
+
+orange  yellow  green  and  blue  so  Ill  add
+
+some  variation  of  those  Shades  let  me
+
+start  with  this
+
+one  and  now  Im  going  to  start  adding
+
+some  color  to  the  cassette  tape  so  let
+
+me  ungroup  that
+
+now  and  I  want  to  change  the  color  Im
+
+going  to  use  this  object  right  here  as  a
+
+starting  point  Ill  make  that  one  white
+
+and  Ill  make  this  one  white  as  well  and
+
+the  smaller  shape  inside  of  it  Im  going
+
+to  hold  my  ALT  key  to  select  that
+
+smaller  shape  and  Im  going  to  make  this
+
+a  dark  shade  of  gray  about  as  dark  as  it
+
+can  get  without  it  Contra  without  it
+
+losing  its  contrast  with  the  black
+
+stroke  so  Im  going  to  go  with  a  really
+
+dark  shade  let  me  go  over  here  to  my
+
+fill  and  stroke  menu  and  adjust  this
+
+manually  make  it  a  little  darker  that
+
+looks  pretty  good  and  Im  going  to  use
+
+this  shade  for  a  lot  of  other  things  so
+
+Im  going  to  select  this  one  over  here
+
+use  the  same  color  with  my  dropper  tool
+
+and  I  will  select  this  shape  in
+
+here  let  me  try  that  again  there  we  go  I
+
+want  to  make  that  the  same  color  and  I
+
+want  to  make  all  of  these  wheels  that
+
+same  color  or  that  same  shade  of  gray
+
+rather  there  we  go  and  I  could  take  this
+
+rectangle  Im  going  to  make  this  a
+
+darker  shade  of  gray  Ill  make  this  a
+
+lighter  shade  of
+
+gray  and  Ill  make  this  one  over  here  a
+
+much  lighter  shade  of  gray  its  going  to
+
+be  gray  but  its  going  to  be  much
+
+lighter  and  now  Im  going  to  take  the  uh
+
+well  Im  going  to  take  this  shape  right
+
+here  Ill  start  here  and  I  will  make
+
+this  the  same  shade  of  gray  that  this
+
+cassette  tape  is  and  now  I  can  take  the
+
+tape  inside  of  here  or  the  rolls  of  uh
+
+tape  and  Im  going  to  select  all  of
+
+those  and  make  them  this  shade  maybe
+
+Ill  make  these  a  little  bit
+
+darker  and  then  Ill  do  the  same  thing
+
+over  here  with  these  ones  Ill  select
+
+these  ones  as
+
+well  and  Im  not  quite  satisfied  with
+
+the  contrast  between  these  darker  Shades
+
+of  Gray  so  let  me  make  those  a  little
+
+darker  Im  going  to  select  that  and  I
+
+want  to  apply  this  to  all  of  the  other
+
+objects  that  have  that  color  so  Ill  go
+
+to  edit  select  same  and  Ill  choose  fill
+
+color  and  now  that  I  have  those  all
+
+selected  I  can  change  the  shade  and
+
+darken  it  as
+
+needed  okay  that  looks  good
+
+enough  all  right  so  I  guess  one  last
+
+step  would  be  to  add  a  background  as
+
+Ive  done  here  let  me  just  go  back  in
+
+here  Im  going  to  turn  on  snapping  to  do
+
+this  makes  it  a  lot  easier  Ill  snap  to
+
+this  corner  and  then  Ill  snap  to  this
+
+corner  up  here  and  now  I  can  just  grab
+
+my  selection  tool  and  scale  this  out  as
+
+needed  again  using  the  snapping  controls
+
+let  me  send  this  to  the
+
+bottom  let  me  make  this  a  shade  of
+
+yellow  Ill  use  this  as  a  starting  point
+
+but  I  want  it  to  be
+
+lighter  and  there  you  go  that  should  do
+
+it  for  this  tutorial  thats  how  you  can
+
+use  some  of  the  more  advanced  uh  node
+
+editing  features  in  in  incap  to  create
+
+something  like  this  cassette  tape  design
+
+if  you  found  this  lesson  useful  then
+
+consider  checking  out  my  inkscape  master
+
+class  its  a  collection  of  over  60
+
+videos  where  I  go  over  all  of  the  tools
+
+and  features  in  inkscape  and  I  explain
+
+what  they  are  and  demonstrate  how  they
+
+work  kind  of  like  how  I  did  in  this
+
+video  we  even  have  a  private  Community
+
+where  you  can  ask  questions  and  get  help
+
+from  me  anytime  you  want  and  best  of  all
+
+theres  no  monthly  membership  fees  you
+
+just  pay  $17  one  time  and  youre  in  for
+
+Life  Ill  have  some  information  about
+
+that  down  if  you  want  to  check  that  out
+
+as  always  thanks  for
+
+
+
+watching

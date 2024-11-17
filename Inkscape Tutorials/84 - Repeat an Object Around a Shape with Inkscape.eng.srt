@@ -1,0 +1,1104 @@
+1
+00:00:01,020 --> 00:00:06,910
+[Music]
+
+2
+00:00:07,740 --> 00:00:10,690
+this is Nick with logos by Nick comm and
+
+3
+00:00:10,690 --> 00:00:11,920
+in today's tutorial I'll be
+
+4
+00:00:11,920 --> 00:00:13,510
+demonstrating how you can use the
+
+5
+00:00:13,510 --> 00:00:16,390
+pattern along path function in Inkscape
+
+6
+00:00:16,390 --> 00:00:18,130
+to create some unique and interesting
+
+7
+00:00:18,130 --> 00:00:20,619
+designs and patterns and if you'd like
+
+8
+00:00:20,619 --> 00:00:22,090
+to learn more about how Inkscape works
+
+9
+00:00:22,090 --> 00:00:24,010
+be sure to check out the Inkscape master
+
+10
+00:00:24,010 --> 00:00:26,200
+class which is a collection of over 60
+
+11
+00:00:26,200 --> 00:00:27,580
+videos that I created where I go over
+
+12
+00:00:27,580 --> 00:00:29,020
+all of the different tools and features
+
+13
+00:00:29,020 --> 00:00:31,030
+in Inkscape and I explain what they are
+
+14
+00:00:31,030 --> 00:00:32,770
+and demonstrate how they work we even
+
+15
+00:00:32,770 --> 00:00:34,210
+have a private community where I could
+
+16
+00:00:34,210 --> 00:00:35,590
+personally help you out and answer any
+
+17
+00:00:35,590 --> 00:00:37,329
+questions you have I'll put a link in
+
+18
+00:00:37,329 --> 00:00:38,469
+the description of the video if you want
+
+19
+00:00:38,469 --> 00:00:40,510
+to check that out so we're going to get
+
+20
+00:00:40,510 --> 00:00:42,129
+started here in Inkscape the first thing
+
+21
+00:00:42,129 --> 00:00:43,359
+we want to do is just make sure we're
+
+22
+00:00:43,359 --> 00:00:45,460
+all working with a similar page setup so
+
+23
+00:00:45,460 --> 00:00:47,289
+I'm going to go to view make sure you
+
+24
+00:00:47,289 --> 00:00:49,659
+have custom selected and then we're go
+
+25
+00:00:49,659 --> 00:00:53,649
+to view zoom and zoom in at 1 to 1 and
+
+26
+00:00:53,649 --> 00:00:55,449
+then I want to open up the align and
+
+27
+00:00:55,449 --> 00:00:57,280
+distribute menu with this button up here
+
+28
+00:00:57,280 --> 00:00:59,379
+we're gonna want last selected chosen
+
+29
+00:00:59,379 --> 00:01:01,120
+from this drop-down and then I'm going
+
+30
+00:01:01,120 --> 00:01:02,710
+to open up the Edit objects colors
+
+31
+00:01:02,710 --> 00:01:04,540
+gradients and Stroke menu with this
+
+32
+00:01:04,540 --> 00:01:07,690
+button over here so if you notice here I
+
+33
+00:01:07,690 --> 00:01:10,090
+have this shape selected and what I'm
+
+34
+00:01:10,090 --> 00:01:11,380
+gonna do is I'm gonna use the pattern
+
+35
+00:01:11,380 --> 00:01:13,360
+along path function in Inkscape to take
+
+36
+00:01:13,360 --> 00:01:14,980
+this stretch to take this shape and
+
+37
+00:01:14,980 --> 00:01:17,890
+stretch it out and repeat it around a
+
+38
+00:01:17,890 --> 00:01:19,690
+circle now you don't have to use this
+
+39
+00:01:19,690 --> 00:01:21,070
+shape you can use whatever shape you'd
+
+40
+00:01:21,070 --> 00:01:22,630
+like you could use a circle or a star
+
+41
+00:01:22,630 --> 00:01:24,190
+you can create some kind of custom shape
+
+42
+00:01:24,190 --> 00:01:25,690
+and shape if you'd like but what I'm
+
+43
+00:01:25,690 --> 00:01:26,980
+gonna do is I'm gonna grab the circles
+
+44
+00:01:26,980 --> 00:01:28,810
+and ellipses tool and I'm gonna hold
+
+45
+00:01:28,810 --> 00:01:30,640
+ctrl and shift and I'm gonna click and
+
+46
+00:01:30,640 --> 00:01:32,200
+drag in the campus to create a perfectly
+
+47
+00:01:32,200 --> 00:01:34,810
+round circle like that and this is the
+
+48
+00:01:34,810 --> 00:01:36,790
+path that I want to make this shape
+
+49
+00:01:36,790 --> 00:01:39,070
+follow along so I want to take copies of
+
+50
+00:01:39,070 --> 00:01:41,830
+this shape and make it repeat going all
+
+51
+00:01:41,830 --> 00:01:44,290
+along the edges of this circle right
+
+52
+00:01:44,290 --> 00:01:46,780
+here so what I'm gonna do first is I'm
+
+53
+00:01:46,780 --> 00:01:48,490
+just going to convert this to a path
+
+54
+00:01:48,490 --> 00:01:50,530
+I'll get a path object to path and
+
+55
+00:01:50,530 --> 00:01:53,410
+that's no longer a a circle or ellipse
+
+56
+00:01:53,410 --> 00:01:55,780
+object it's now recognized as a regular
+
+57
+00:01:55,780 --> 00:01:57,670
+path and what I'm going to do is I'm
+
+58
+00:01:57,670 --> 00:02:00,790
+going to open up the the path the path
+
+59
+00:02:00,790 --> 00:02:03,130
+effects menu by going to path and
+
+60
+00:02:03,130 --> 00:02:06,400
+clicking on path effects and what I'm
+
+61
+00:02:06,400 --> 00:02:07,990
+gonna do is I'm gonna click plus over
+
+62
+00:02:07,990 --> 00:02:10,360
+here to add a new path effect to this
+
+63
+00:02:10,360 --> 00:02:12,700
+circle and I'm gonna look for pattern
+
+64
+00:02:12,700 --> 00:02:14,230
+along path it should be about halfway
+
+65
+00:02:14,230 --> 00:02:16,330
+through the list here pattern along path
+
+66
+00:02:16,330 --> 00:02:18,150
+click Add
+
+67
+00:02:18,150 --> 00:02:20,290
+and what I want to do now is I want to
+
+68
+00:02:20,290 --> 00:02:21,730
+click on the shape that I'd like to
+
+69
+00:02:21,730 --> 00:02:23,290
+apply around the circle I'm gonna grab
+
+70
+00:02:23,290 --> 00:02:25,060
+the select tool I'm gonna click on my
+
+71
+00:02:25,060 --> 00:02:26,530
+shape right here like I said you can use
+
+72
+00:02:26,530 --> 00:02:27,790
+any shape you'd like you don't have to
+
+73
+00:02:27,790 --> 00:02:29,709
+use this here I'm gonna right click this
+
+74
+00:02:29,709 --> 00:02:31,959
+and go to copy and then I'm gonna click
+
+75
+00:02:31,959 --> 00:02:34,450
+on this circle and over here in the
+
+76
+00:02:34,450 --> 00:02:36,610
+pattern along path menu I'm gonna choose
+
+77
+00:02:36,610 --> 00:02:38,170
+where it says pattern copies i'm gonna
+
+78
+00:02:38,170 --> 00:02:40,840
+choose repeated stretched and i'm gonna
+
+79
+00:02:40,840 --> 00:02:42,370
+click on this button over here that says
+
+80
+00:02:42,370 --> 00:02:44,950
+link path on clipboard and if you notice
+
+81
+00:02:44,950 --> 00:02:47,380
+it took this object and repeated it
+
+82
+00:02:47,380 --> 00:02:49,000
+around the edge of that circle right
+
+83
+00:02:49,000 --> 00:02:52,239
+here and now this this circle here is
+
+84
+00:02:52,239 --> 00:02:54,430
+linked to this original shape so as i
+
+85
+00:02:54,430 --> 00:02:57,280
+add it this shape this will edit along
+
+86
+00:02:57,280 --> 00:03:00,580
+with it now let me zoom in let me zoom
+
+87
+00:03:00,580 --> 00:03:02,340
+in let me scale this down a little bit
+
+88
+00:03:02,340 --> 00:03:05,470
+let me make that back to black again i'm
+
+89
+00:03:05,470 --> 00:03:08,500
+gonna scale this down and you're gonna
+
+90
+00:03:08,500 --> 00:03:10,959
+notice it scales down the size of the
+
+91
+00:03:10,959 --> 00:03:12,670
+pattern here as well you'll notice if i
+
+92
+00:03:12,670 --> 00:03:15,070
+make this smaller there's now more of
+
+93
+00:03:15,070 --> 00:03:17,019
+these shapes in here because the smaller
+
+94
+00:03:17,019 --> 00:03:19,150
+size means more of these shapes can fit
+
+95
+00:03:19,150 --> 00:03:21,580
+within this circle now it works the
+
+96
+00:03:21,580 --> 00:03:23,760
+other way as well if i make that larger
+
+97
+00:03:23,760 --> 00:03:26,200
+now less of those shapes can fit within
+
+98
+00:03:26,200 --> 00:03:28,000
+that circle if you notice here start you
+
+99
+00:03:28,000 --> 00:03:29,310
+get starting to get a little bit of a
+
+100
+00:03:29,310 --> 00:03:31,540
+little bit of distortion in there so i'm
+
+101
+00:03:31,540 --> 00:03:33,750
+gonna make that a little smaller and
+
+102
+00:03:33,750 --> 00:03:37,720
+that's how the repeated stretch let me
+
+103
+00:03:37,720 --> 00:03:39,370
+click on that again repeated stretch
+
+104
+00:03:39,370 --> 00:03:40,390
+that's how that works
+
+105
+00:03:40,390 --> 00:03:41,769
+now if you what you want to do is you
+
+106
+00:03:41,769 --> 00:03:43,750
+can if you want you can add some spacing
+
+107
+00:03:43,750 --> 00:03:44,950
+between these where it says space and
+
+108
+00:03:44,950 --> 00:03:48,070
+then click on 5 and it adds 5 units of
+
+109
+00:03:48,070 --> 00:03:50,260
+spacing between each object right there
+
+110
+00:03:50,260 --> 00:03:51,940
+if you notice there and that works on
+
+111
+00:03:51,940 --> 00:03:53,620
+the negative as well if i add negative 3
+
+112
+00:03:53,620 --> 00:03:55,239
+you'll notice they start to overlap with
+
+113
+00:03:55,239 --> 00:03:57,190
+each other each of those objects now let
+
+114
+00:03:57,190 --> 00:04:00,910
+me put that back to zero another thing
+
+115
+00:04:00,910 --> 00:04:04,060
+you can do is nope there we go another
+
+116
+00:04:04,060 --> 00:04:05,530
+thing you could do is you can use single
+
+117
+00:04:05,530 --> 00:04:07,750
+stretched and if you choose single
+
+118
+00:04:07,750 --> 00:04:08,739
+stretch what it's going to do is it's
+
+119
+00:04:08,739 --> 00:04:10,870
+gonna take this object and it's gonna
+
+120
+00:04:10,870 --> 00:04:13,299
+stretch it out all the way you learn all
+
+121
+00:04:13,299 --> 00:04:16,690
+the way around the perimeter of this
+
+122
+00:04:16,690 --> 00:04:19,630
+path here now if you know you probably
+
+123
+00:04:19,630 --> 00:04:20,890
+it's probably hard to tell what that is
+
+124
+00:04:20,890 --> 00:04:23,620
+but you can if you if you really look
+
+125
+00:04:23,620 --> 00:04:25,180
+closely you can see it took this object
+
+126
+00:04:25,180 --> 00:04:28,030
+and stretched it out like that so let me
+
+127
+00:04:28,030 --> 00:04:29,500
+undo that let me put this back at
+
+128
+00:04:29,500 --> 00:04:30,849
+repeated stretched and what
+
+129
+00:04:30,849 --> 00:04:32,110
+you're done once you're happy with how
+
+130
+00:04:32,110 --> 00:04:33,969
+this looks what you're wanting what you
+
+131
+00:04:33,969 --> 00:04:35,649
+want to do is you want to finalize it
+
+132
+00:04:35,649 --> 00:04:37,749
+before you finalize it if you want you
+
+133
+00:04:37,749 --> 00:04:39,610
+can remove the path and you it'll put it
+
+134
+00:04:39,610 --> 00:04:41,199
+back to a circle let me undo that
+
+135
+00:04:41,199 --> 00:04:43,659
+or you can finalize it by going to path
+
+136
+00:04:43,659 --> 00:04:46,779
+object to path and now that's no longer
+
+137
+00:04:46,779 --> 00:04:50,619
+a pattern along path object now this
+
+138
+00:04:50,619 --> 00:04:52,179
+doesn't just work with circles you can
+
+139
+00:04:52,179 --> 00:04:53,860
+do this with virtually any shape and
+
+140
+00:04:53,860 --> 00:04:55,330
+I'll show you what I mean let me scale
+
+141
+00:04:55,330 --> 00:04:57,039
+that down put that out of the way I'm
+
+142
+00:04:57,039 --> 00:04:59,709
+gonna grab the Bezier pen over here and
+
+143
+00:04:59,709 --> 00:05:01,389
+I'm gonna click to create a point I'm
+
+144
+00:05:01,389 --> 00:05:03,729
+gonna hold ctrl bring the line across
+
+145
+00:05:03,729 --> 00:05:05,889
+the screen like this and then click to
+
+146
+00:05:05,889 --> 00:05:07,449
+create another point and then press
+
+147
+00:05:07,449 --> 00:05:09,699
+ENTER on the keyboard and I'm gonna grab
+
+148
+00:05:09,699 --> 00:05:11,289
+the Edit path by nodes tool and I'm
+
+149
+00:05:11,289 --> 00:05:12,969
+gonna edit this line a little bit give
+
+150
+00:05:12,969 --> 00:05:16,449
+it a little bit of a curve that right
+
+151
+00:05:16,449 --> 00:05:17,409
+there is what I'm looking for or
+
+152
+00:05:17,409 --> 00:05:19,569
+something like that and now I'm gonna
+
+153
+00:05:19,569 --> 00:05:20,769
+again and once again I'm going to copy
+
+154
+00:05:20,769 --> 00:05:23,679
+this right click copy I'm gonna click on
+
+155
+00:05:23,679 --> 00:05:25,689
+this path I'm gonna add I'm gonna come
+
+156
+00:05:25,689 --> 00:05:27,039
+back up here to the path effects menu
+
+157
+00:05:27,039 --> 00:05:28,599
+click the plus to add a path effect
+
+158
+00:05:28,599 --> 00:05:32,050
+pattern a long path we want to use
+
+159
+00:05:32,050 --> 00:05:34,569
+repeated stretched and I'm gonna go
+
+160
+00:05:34,569 --> 00:05:37,539
+ahead and click link and if you notice
+
+161
+00:05:37,539 --> 00:05:40,539
+here took the object and it stretched it
+
+162
+00:05:40,539 --> 00:05:42,610
+a lot and it repeated that along that
+
+163
+00:05:42,610 --> 00:05:45,279
+path but it took on the properties of
+
+164
+00:05:45,279 --> 00:05:47,139
+the line that we drew where it had a
+
+165
+00:05:47,139 --> 00:05:49,059
+one-point stroke in no fill color so I'm
+
+166
+00:05:49,059 --> 00:05:50,769
+gonna give that a fill color and I'm
+
+167
+00:05:50,769 --> 00:05:52,300
+gonna get rid of the outline otherwise
+
+168
+00:05:52,300 --> 00:05:53,919
+known as the stroke by holding shift and
+
+169
+00:05:53,919 --> 00:05:56,740
+clicking on the X right there and that
+
+170
+00:05:56,740 --> 00:05:58,779
+right there it took this pattern and it
+
+171
+00:05:58,779 --> 00:06:01,029
+applied it along this path here now
+
+172
+00:06:01,029 --> 00:06:02,259
+another thing you can do with this is
+
+173
+00:06:02,259 --> 00:06:03,849
+you can use this to create like kind of
+
+174
+00:06:03,849 --> 00:06:05,019
+like a wreath let me show you what I
+
+175
+00:06:05,019 --> 00:06:06,309
+mean here I'm gonna grab the circles and
+
+176
+00:06:06,309 --> 00:06:08,379
+ellipses tool I'm gonna hold ctrl and
+
+177
+00:06:08,379 --> 00:06:10,809
+shift to create a circle like that let
+
+178
+00:06:10,809 --> 00:06:12,389
+me bring the opacity down a little bit
+
+179
+00:06:12,389 --> 00:06:15,159
+grab the Select tool duplicate that by
+
+180
+00:06:15,159 --> 00:06:18,069
+hitting ctrl D and hold ctrl move this
+
+181
+00:06:18,069 --> 00:06:21,189
+over to the right click and drag over
+
+182
+00:06:21,189 --> 00:06:23,610
+both of those and go to path
+
+183
+00:06:23,610 --> 00:06:26,110
+intersection and this shape right here
+
+184
+00:06:26,110 --> 00:06:27,399
+is what we're looking for I'm gonna
+
+185
+00:06:27,399 --> 00:06:30,369
+right click that and go to copy and now
+
+186
+00:06:30,369 --> 00:06:33,189
+I'm going to create another circle I'm
+
+187
+00:06:33,189 --> 00:06:35,259
+going to hold ctrl and shift click and
+
+188
+00:06:35,259 --> 00:06:36,939
+drag click and drag to create a circle
+
+189
+00:06:36,939 --> 00:06:39,279
+convert that to a path by going to path
+
+190
+00:06:39,279 --> 00:06:41,060
+object to path
+
+191
+00:06:41,060 --> 00:06:43,790
+and now I will add a path effect to this
+
+192
+00:06:43,790 --> 00:06:47,840
+again once again pattern along path I'm
+
+193
+00:06:47,840 --> 00:06:50,060
+gonna choose repeated stretched and I'm
+
+194
+00:06:50,060 --> 00:06:52,130
+going to go ahead and link it and if you
+
+195
+00:06:52,130 --> 00:06:53,720
+notice here it's taking this object and
+
+196
+00:06:53,720 --> 00:06:56,180
+linking it it's it's repeating it around
+
+197
+00:06:56,180 --> 00:06:58,100
+the outside of that circle so let me
+
+198
+00:06:58,100 --> 00:07:00,620
+grab the Select tool I want to click on
+
+199
+00:07:00,620 --> 00:07:02,780
+this object click on it again to get the
+
+200
+00:07:02,780 --> 00:07:04,280
+rotation handles I'm just gonna hold
+
+201
+00:07:04,280 --> 00:07:06,650
+ctrl and rotate this to the right a
+
+202
+00:07:06,650 --> 00:07:08,450
+couple of times like that and if you
+
+203
+00:07:08,450 --> 00:07:10,010
+notice here on the left side we're
+
+204
+00:07:10,010 --> 00:07:11,750
+starting to get what appears to be kind
+
+205
+00:07:11,750 --> 00:07:13,460
+of like this this could be kind of like
+
+206
+00:07:13,460 --> 00:07:16,880
+a reef like a of a wreath of leaves let
+
+207
+00:07:16,880 --> 00:07:20,900
+me scale this down to show you I'm gonna
+
+208
+00:07:20,900 --> 00:07:22,520
+add some spacing in there let me click
+
+209
+00:07:22,520 --> 00:07:25,400
+on the on the on the path effect here
+
+210
+00:07:25,400 --> 00:07:27,530
+I'm gonna add some spacing in there
+
+211
+00:07:27,530 --> 00:07:30,710
+woops messed something up there there we
+
+212
+00:07:30,710 --> 00:07:36,680
+go let's add to see how that looks maybe
+
+213
+00:07:36,680 --> 00:07:41,150
+a little less than that maybe a little
+
+214
+00:07:41,150 --> 00:07:43,190
+more let me rotate this around a little
+
+215
+00:07:43,190 --> 00:07:45,919
+bit and as you rotate it it changes the
+
+216
+00:07:45,919 --> 00:07:48,350
+position as you can see there now I like
+
+217
+00:07:48,350 --> 00:07:49,520
+how that looks right there I'm gonna
+
+218
+00:07:49,520 --> 00:07:51,110
+finalize that by clicking on it and
+
+219
+00:07:51,110 --> 00:07:54,050
+going to path object to path and I'm
+
+220
+00:07:54,050 --> 00:07:55,880
+going to create another circle inside of
+
+221
+00:07:55,880 --> 00:07:57,560
+there let me grab the circles and
+
+222
+00:07:57,560 --> 00:08:00,500
+ellipses tool hold ctrl and shift click
+
+223
+00:08:00,500 --> 00:08:02,120
+and drag to create a slightly smaller
+
+224
+00:08:02,120 --> 00:08:05,180
+circle than this one Center it up inside
+
+225
+00:08:05,180 --> 00:08:06,620
+of here click and drag over both of
+
+226
+00:08:06,620 --> 00:08:08,900
+those and Center them up on the center
+
+227
+00:08:08,900 --> 00:08:12,410
+on the vertical and horizontal axis path
+
+228
+00:08:12,410 --> 00:08:15,770
+object to path and now I'll click on
+
+229
+00:08:15,770 --> 00:08:17,810
+this I want these leaves to go the
+
+230
+00:08:17,810 --> 00:08:19,729
+opposite way the opposite direction of
+
+231
+00:08:19,729 --> 00:08:21,080
+these so I'm just gonna flip this one
+
+232
+00:08:21,080 --> 00:08:22,669
+horizontally I'll click on this button
+
+233
+00:08:22,669 --> 00:08:24,289
+up here that says flip selected objects
+
+234
+00:08:24,289 --> 00:08:27,160
+horizontally right click that go to copy
+
+235
+00:08:27,160 --> 00:08:29,240
+click on this path and make that a
+
+236
+00:08:29,240 --> 00:08:32,089
+little bit bigger and once again I will
+
+237
+00:08:32,089 --> 00:08:34,458
+add a path effect same way as I did with
+
+238
+00:08:34,458 --> 00:08:37,059
+the other objects repeated stretched
+
+239
+00:08:37,059 --> 00:08:41,958
+link it and two point spacing like we
+
+240
+00:08:41,958 --> 00:08:43,940
+did before we make that a little bigger
+
+241
+00:08:43,940 --> 00:08:46,520
+I think I used less spacing than that
+
+242
+00:08:46,520 --> 00:08:49,600
+let me bring that down a little bit
+
+243
+00:08:51,550 --> 00:08:56,060
+okay that looks pretty good right about
+
+244
+00:08:56,060 --> 00:08:58,940
+there and I will go I will finalize that
+
+245
+00:08:58,940 --> 00:09:01,699
+by going to path object to path and now
+
+246
+00:09:01,699 --> 00:09:02,660
+what I'm gonna do is I'm gonna break
+
+247
+00:09:02,660 --> 00:09:04,040
+this apart so what this is all
+
+248
+00:09:04,040 --> 00:09:06,500
+individual pieces I'll go to path break
+
+249
+00:09:06,500 --> 00:09:09,769
+apart and let me get rid of some of
+
+250
+00:09:09,769 --> 00:09:12,410
+these extras in here I want to just keep
+
+251
+00:09:12,410 --> 00:09:14,000
+the left side here so let me get rid of
+
+252
+00:09:14,000 --> 00:09:17,089
+these press Delete on the keyboard to
+
+253
+00:09:17,089 --> 00:09:19,129
+get rid of them and I'll do the same
+
+254
+00:09:19,129 --> 00:09:23,480
+thing over here path break apart let me
+
+255
+00:09:23,480 --> 00:09:25,220
+get rid of these extras over here like I
+
+256
+00:09:25,220 --> 00:09:26,629
+said I'm just keeping the left hand side
+
+257
+00:09:26,629 --> 00:09:32,660
+for now and as you can see here we have
+
+258
+00:09:32,660 --> 00:09:34,279
+like the left-hand side of kind of like
+
+259
+00:09:34,279 --> 00:09:35,899
+a little accent piece or a wreath like
+
+260
+00:09:35,899 --> 00:09:37,420
+that let me bring the opacity to this up
+
+261
+00:09:37,420 --> 00:09:39,889
+let me group it together by clicking the
+
+262
+00:09:39,889 --> 00:09:42,199
+group selected objects button and now I
+
+263
+00:09:42,199 --> 00:09:44,259
+can duplicate that by hitting ctrl D
+
+264
+00:09:44,259 --> 00:09:46,910
+hold ctrl click and drag this off to the
+
+265
+00:09:46,910 --> 00:09:50,000
+right flip this horizontally and there
+
+266
+00:09:50,000 --> 00:09:51,319
+you go now you can put some kind of
+
+267
+00:09:51,319 --> 00:09:52,490
+design in the middle here you can create
+
+268
+00:09:52,490 --> 00:09:54,439
+some kind of like little law maybe like
+
+269
+00:09:54,439 --> 00:09:56,990
+an award graphic or some kind of logo
+
+270
+00:09:56,990 --> 00:09:59,000
+with these sorts of decorations on it
+
+271
+00:09:59,000 --> 00:10:01,069
+but I think that should do it for this
+
+272
+00:10:01,069 --> 00:10:02,600
+video that take and go about using the
+
+273
+00:10:02,600 --> 00:10:05,000
+pattern along path effects with Inkscape
+
+274
+00:10:05,000 --> 00:10:06,350
+if you have any questions let me know
+
+275
+00:10:06,350 --> 00:10:07,950
+and as always thanks for watching
+
+276
+00:10:07,950 --> 00:10:27,799
+[Music]
+

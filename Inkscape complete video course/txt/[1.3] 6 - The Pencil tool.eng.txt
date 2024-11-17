@@ -1,0 +1,15 @@
+In this lecture, I will add the nose, tail, and scutes using the Pencil tool. I select it. I click
+on the green swatch. At the top right, I click on the Snapping icon, to activate it. And in the
+Pencil menu, I will activate the interactive icon. This option will let me improve the curve, after
+drawing it! Lets draw the tail. When I hold my mouse above the edge of the body, I see the text:
+Handle to path. This means the tool will snap to the path edge when I start drawing. I
+keep my mouse pressed down, and follow the curve. When I see the text: Handle to corner, I reached
+the corner of the body. I let go of the mouse. As we see, right now my curve is not smooth.
+So I will improve it, by increasing Smoothing. Lets try 70. Now lets make the nose. This time
+I start from the corner. I smooth the curve even more, by setting Smoothing to 100. Now I draw the
+scutes. I select the brown swatch. I set Smoothing to 60. When I stop drawing, I see I am missing the
+lower part of the scutes. To continue drawing, I hold my mouse above the last point of the path,
+which will become red. I draw below the body, and end at the first point of the scutes. I press the
+spacebar to go to the Select tool. I click on: Lower to Bottom. I will give the new parts a
+name. To quickly localize the parts, hold Alt, and move your mouse over the elements. I will
+place the nostrils on top. In the next lecture. I will add the dots, by using the Spray tool.

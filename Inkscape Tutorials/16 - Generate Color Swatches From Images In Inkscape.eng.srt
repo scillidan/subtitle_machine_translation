@@ -1,0 +1,604 @@
+1
+00:00:00,160 --> 00:00:01,839
+in this tutorial I'll be demonstrating
+
+2
+00:00:01,839 --> 00:00:03,959
+how you can create a color palette from
+
+3
+00:00:03,959 --> 00:00:07,160
+the colors in a pixel-based image using
+
+4
+00:00:07,160 --> 00:00:09,080
+inkscape so the first thing you'll want
+
+5
+00:00:09,080 --> 00:00:10,840
+to do is import your image onto the
+
+6
+00:00:10,840 --> 00:00:12,679
+canvas as I've done here with my example
+
+7
+00:00:12,679 --> 00:00:15,200
+image and to sample the colors from this
+
+8
+00:00:15,200 --> 00:00:16,960
+image we're going to use the trace bit
+
+9
+00:00:16,960 --> 00:00:18,600
+map tool so I'm going to click on the
+
+10
+00:00:18,600 --> 00:00:21,840
+image to select it and I'll go to path
+
+11
+00:00:21,840 --> 00:00:23,920
+and I will select Trace
+
+12
+00:00:23,920 --> 00:00:26,039
+bitmap now the settings I want to go
+
+13
+00:00:26,039 --> 00:00:27,359
+with over here on the right hand side of
+
+14
+00:00:27,359 --> 00:00:28,640
+the screen I want to choose the
+
+15
+00:00:28,640 --> 00:00:30,759
+multicolor tab and then I want to come
+
+16
+00:00:30,759 --> 00:00:33,040
+over here to this dropdown and choose
+
+17
+00:00:33,040 --> 00:00:35,239
+colors now right here where you see the
+
+18
+00:00:35,239 --> 00:00:37,960
+number of scans this represents the
+
+19
+00:00:37,960 --> 00:00:39,879
+number of colors that will be sampled
+
+20
+00:00:39,879 --> 00:00:41,600
+from your image and you could see a
+
+21
+00:00:41,600 --> 00:00:43,200
+preview of some of those colors over
+
+22
+00:00:43,200 --> 00:00:45,520
+here in this preview menu now if you
+
+23
+00:00:45,520 --> 00:00:47,960
+notice I have eight which is the default
+
+24
+00:00:47,960 --> 00:00:49,840
+which you can see it includes a lot of
+
+25
+00:00:49,840 --> 00:00:52,120
+the colors there but it misses the
+
+26
+00:00:52,120 --> 00:00:54,160
+pinkish reddish color of the Hat here so
+
+27
+00:00:54,160 --> 00:00:56,079
+for my example I'm going to increase
+
+28
+00:00:56,079 --> 00:00:58,199
+this number until I get more of those
+
+29
+00:00:58,199 --> 00:01:01,920
+colors that I want to include
+
+30
+00:01:02,000 --> 00:01:03,359
+and once you're finished all you have to
+
+31
+00:01:03,359 --> 00:01:05,840
+do is click the apply button and give it
+
+32
+00:01:05,840 --> 00:01:07,680
+a second to process if you're using a
+
+33
+00:01:07,680 --> 00:01:09,640
+lot of colors like I am in my example
+
+34
+00:01:09,640 --> 00:01:12,200
+it's going to take a minute or two to
+
+35
+00:01:12,200 --> 00:01:14,520
+process okay so the trace is finished
+
+36
+00:01:14,520 --> 00:01:16,240
+I'm going to click and drag the trace to
+
+37
+00:01:16,240 --> 00:01:17,960
+move it away from the
+
+38
+00:01:17,960 --> 00:01:20,040
+image and then I'm going to select the
+
+39
+00:01:20,040 --> 00:01:21,720
+image and press delete on the keyboard
+
+40
+00:01:21,720 --> 00:01:22,880
+to get rid of that cuz we don't need
+
+41
+00:01:22,880 --> 00:01:24,560
+that anymore I just want the vector
+
+42
+00:01:24,560 --> 00:01:27,479
+colors here and I'm going to ungroup
+
+43
+00:01:27,479 --> 00:01:30,520
+this so I will go to object and I will
+
+44
+00:01:30,520 --> 00:01:32,200
+select
+
+45
+00:01:32,200 --> 00:01:34,079
+ungroup and once you've done that you
+
+46
+00:01:34,079 --> 00:01:35,840
+can click off of the image to deselect
+
+47
+00:01:35,840 --> 00:01:38,280
+everything and you could zoom in to all
+
+48
+00:01:38,280 --> 00:01:40,759
+of the vector-based elements here to see
+
+49
+00:01:40,759 --> 00:01:41,920
+the different colors that you could
+
+50
+00:01:41,920 --> 00:01:43,280
+sample so I'm going to start off with
+
+51
+00:01:43,280 --> 00:01:44,520
+this pink shade right here I'm going to
+
+52
+00:01:44,520 --> 00:01:47,000
+click on that to select it and if you
+
+53
+00:01:47,000 --> 00:01:49,360
+notice over here you'll see the color
+
+54
+00:01:49,360 --> 00:01:50,920
+highlight in this little stripe down
+
+55
+00:01:50,920 --> 00:01:52,000
+here in the bottom left of the screen
+
+56
+00:01:52,000 --> 00:01:53,640
+I'm just going to double click on this
+
+57
+00:01:53,640 --> 00:01:55,600
+stripe and it's going to open up the
+
+58
+00:01:55,600 --> 00:01:57,600
+fill and stroke menu and with this
+
+59
+00:01:57,600 --> 00:01:59,439
+object still selected I want to go to
+
+60
+00:01:59,439 --> 00:02:02,280
+the fil Tab and then over here I want to
+
+61
+00:02:02,280 --> 00:02:03,520
+I want to choose this button right here
+
+62
+00:02:03,520 --> 00:02:04,960
+that says Swatch I'm going to click on
+
+63
+00:02:04,960 --> 00:02:07,360
+that and it's going to add that color to
+
+64
+00:02:07,360 --> 00:02:09,720
+a new Swatch and now we can go to our
+
+65
+00:02:09,720 --> 00:02:11,920
+swatches menu by going
+
+66
+00:02:11,920 --> 00:02:16,239
+to view and selecting
+
+67
+00:02:16,239 --> 00:02:18,959
+swatches now you should see your Swatch
+
+68
+00:02:18,959 --> 00:02:20,599
+appearing in this list here if you see
+
+69
+00:02:20,599 --> 00:02:22,760
+other colors populating here just click
+
+70
+00:02:22,760 --> 00:02:26,120
+on this menu and choose Auto from this
+
+71
+00:02:26,120 --> 00:02:28,360
+dropdown so now that we know how to do
+
+72
+00:02:28,360 --> 00:02:30,560
+that we can go add some more colors to
+
+73
+00:02:30,560 --> 00:02:32,560
+our Swatch here so I'm going to come
+
+74
+00:02:32,560 --> 00:02:33,760
+back over here to the fill and stroke
+
+75
+00:02:33,760 --> 00:02:36,480
+menu I'm going to choose a shade of blue
+
+76
+00:02:36,480 --> 00:02:38,040
+and I'm going to add that to my swatch
+
+77
+00:02:38,040 --> 00:02:39,959
+as well and if you notice each new
+
+78
+00:02:39,959 --> 00:02:42,360
+Swatch you add will be indexed in this
+
+79
+00:02:42,360 --> 00:02:45,920
+menu right here so I'm going to add some
+
+80
+00:02:47,000 --> 00:02:49,319
+more and once you're finished once
+
+81
+00:02:49,319 --> 00:02:51,080
+you're happy with all of your swatches
+
+82
+00:02:51,080 --> 00:02:53,640
+you can zoom out you can press control a
+
+83
+00:02:53,640 --> 00:02:55,280
+on your keyboard or command a if you're
+
+84
+00:02:55,280 --> 00:02:57,000
+using Mac to select everything and then
+
+85
+00:02:57,000 --> 00:02:58,680
+just press delete because we don't need
+
+86
+00:02:58,680 --> 00:03:01,040
+it anymore now now we have our swatches
+
+87
+00:03:01,040 --> 00:03:03,400
+in place and if you want to change the
+
+88
+00:03:03,400 --> 00:03:05,000
+color menu down here at the bottom of
+
+89
+00:03:05,000 --> 00:03:07,080
+the screen just click on this menu icon
+
+90
+00:03:07,080 --> 00:03:09,239
+over here down at the bottom right and
+
+91
+00:03:09,239 --> 00:03:11,319
+instead of inkscape default we want to
+
+92
+00:03:11,319 --> 00:03:14,159
+choose Auto and once we have Auto
+
+93
+00:03:14,159 --> 00:03:16,280
+selected our chosen colors that we
+
+94
+00:03:16,280 --> 00:03:17,680
+created from the image will appear in
+
+95
+00:03:17,680 --> 00:03:18,840
+the menu there and if you want to make
+
+96
+00:03:18,840 --> 00:03:20,319
+those icons bigger you can come back
+
+97
+00:03:20,319 --> 00:03:21,599
+over here to the menu and choose
+
+98
+00:03:21,599 --> 00:03:24,319
+configure and you could CH take the tile
+
+99
+00:03:24,319 --> 00:03:26,080
+size and increase it like that and now
+
+100
+00:03:26,080 --> 00:03:28,120
+you have much bigger swatches to work
+
+101
+00:03:28,120 --> 00:03:29,400
+with down there in the bottom left
+
+102
+00:03:29,400 --> 00:03:30,400
+corner
+
+103
+00:03:30,400 --> 00:03:32,120
+and now when you create new objects let
+
+104
+00:03:32,120 --> 00:03:34,239
+me show you as an example you can color
+
+105
+00:03:34,239 --> 00:03:37,040
+you your new objects using these
+
+106
+00:03:37,040 --> 00:03:39,239
+swatches down
+
+107
+00:03:39,239 --> 00:03:41,840
+here so now let's go over how you can
+
+108
+00:03:41,840 --> 00:03:44,080
+save these swatches in case you want to
+
+109
+00:03:44,080 --> 00:03:45,840
+use them in other documents in the
+
+110
+00:03:45,840 --> 00:03:48,519
+future now there is no way to directly
+
+111
+00:03:48,519 --> 00:03:50,400
+save these swatches but there is a
+
+112
+00:03:50,400 --> 00:03:52,879
+workaround using templates so what you
+
+113
+00:03:52,879 --> 00:03:55,280
+want to do is save this entire document
+
+114
+00:03:55,280 --> 00:03:57,360
+as a template and then it'll be saved
+
+115
+00:03:57,360 --> 00:03:58,879
+with these swatches so that next time
+
+116
+00:03:58,879 --> 00:04:00,439
+you open a new document from that
+
+117
+00:04:00,439 --> 00:04:02,360
+template you will have these in place so
+
+118
+00:04:02,360 --> 00:04:03,400
+I'm going to come up here to where it
+
+119
+00:04:03,400 --> 00:04:05,840
+says file and go
+
+120
+00:04:05,840 --> 00:04:07,879
+to save
+
+121
+00:04:07,879 --> 00:04:09,720
+template and I'm going to give this a
+
+122
+00:04:09,720 --> 00:04:11,480
+name I'm just going to name this
+
+123
+00:04:11,480 --> 00:04:13,519
+nature
+
+124
+00:04:13,519 --> 00:04:16,000
+pallet and I'll click
+
+125
+00:04:16,000 --> 00:04:19,440
+save and now if I go to file and I
+
+126
+00:04:19,440 --> 00:04:22,400
+select new from
+
+127
+00:04:22,400 --> 00:04:26,199
+template I can choose the custom tab I'm
+
+128
+00:04:26,199 --> 00:04:28,199
+going to select nature pallet and click
+
+129
+00:04:28,199 --> 00:04:31,000
+create from template
+
+130
+00:04:31,000 --> 00:04:34,759
+and in my new document I can go to view
+
+131
+00:04:34,759 --> 00:04:38,520
+select swatches and there my color
+
+132
+00:04:38,520 --> 00:04:40,440
+palette is so that's how you can
+
+133
+00:04:40,440 --> 00:04:42,240
+generate color palettes from images
+
+134
+00:04:42,240 --> 00:04:44,520
+using inkscape if you found this lesson
+
+135
+00:04:44,520 --> 00:04:46,120
+useful then consider checking out my
+
+136
+00:04:46,120 --> 00:04:48,600
+inkscape master class it's a collection
+
+137
+00:04:48,600 --> 00:04:50,680
+of over 60 videos where I go over all of
+
+138
+00:04:50,680 --> 00:04:52,720
+the tools and features in inkscape and I
+
+139
+00:04:52,720 --> 00:04:54,360
+explain what they are and demonstrate
+
+140
+00:04:54,360 --> 00:04:56,199
+how they work kind of like how I did in
+
+141
+00:04:56,199 --> 00:04:58,280
+this video we even have a private
+
+142
+00:04:58,280 --> 00:04:59,880
+Community where you can ask questions
+
+143
+00:04:59,880 --> 00:05:02,320
+and get help from me anytime you want
+
+144
+00:05:02,320 --> 00:05:04,039
+and best of all there's no monthly
+
+145
+00:05:04,039 --> 00:05:06,800
+membership fees you just pay $17 one
+
+146
+00:05:06,800 --> 00:05:08,919
+time and you're in for Life I'll have
+
+147
+00:05:08,919 --> 00:05:10,320
+some information about that down below
+
+148
+00:05:10,320 --> 00:05:12,240
+if you want to check that out as always
+
+149
+00:05:12,240 --> 00:05:14,680
+thanks for
+
+150
+00:05:20,070 --> 00:05:24,850
+[Music]
+
+151
+00:05:28,479 --> 00:05:31,479
+watching
+

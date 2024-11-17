@@ -1,0 +1,336 @@
+
+in  this  tutorial  well  be  going  over  how
+
+you  can  Arch  text  in  inkscape  to  create
+
+this  classic  athletic  t-shirt  design
+
+and  if  you  just  want  to  know  how  to  arch
+
+text  then  you  could  skip  to  that  part  of
+
+the  lesson  using  the  chapters  in  the
+
+play  bar  below
+
+if  you  do  want  to  recreate  this  design
+
+just  make  sure  to  download  and  install
+
+this  font  that  Ill  have  Linked  In  the
+
+description  of  the  video
+
+so  Ill  come  over  here  into  a  new
+
+document  and  get  started  the  first  thing
+
+we  want  to  do  is  add  some  text  so  Im
+
+going  to  grab  my  text  tool  and  Im  going
+
+to  click  on  the  canvas  and  Im  going  to
+
+type  inkscape
+
+and  then  Im  going  to  click  again  to
+
+create  another  text  item  and  Im  going
+
+to  write  the  EST  date  which  is  2003.
+
+and  then  Ill  come  down  here  and  make
+
+one  more  text  item  that  has  the  tagline
+
+which  is  draw  freely
+
+and  once  you  do  that  lets  go  back  to
+
+the  select  tool  lets  select  all  three
+
+text  items  and  change  their  font  so  Ill
+
+come  up  here  to  text  and  I  will  select
+
+text  and  font
+
+and  from  this  menu  were  looking  for  the
+
+varsity  team  font  as  its  called  so  let
+
+me  locate  that  highlight  it  and  then
+
+click  apply
+
+and  now  Im  just  going  to  resize  my  text
+
+items
+
+accordingly  so  Im  going  to  make  this
+
+one  a  little  bigger  Ill  keep  this  one  a
+
+little  smaller  and  Ill  make  this  one
+
+the  biggest  ad  the  biggest  of  them  all
+
+now  make  sure  to  hold  your  control  key
+
+while  youre  scaling  to  ensure  that  you
+
+preserve  the  aspect  ratio
+
+and  now  Im  going  to  create  a  rounded
+
+rectangle  to  place  behind  this  text  here
+
+so  let  me  grab  my  rectangle  tool  Im
+
+going  to  click  and  drag  over  the  object
+
+to  create  the  rectangle
+
+and  Im  going  to use  this  little  round
+
+handle  up  here  in  the  top  right  corner
+
+to  round  the  corners  of  this  rectangle
+
+rectangle  ever  so  slightly
+
+and  then  I  will  grab  my  selection  tool
+
+and  place  this  beneath  the  text  so  Ill
+
+click  on  this  button  over  here  that  says
+
+lower  selection  one  step
+
+now  Im  just  going  to  size  this  up
+
+according  to  the  text  there
+
+and  now  Im  going  to  select  both  and  Im
+
+going  to  align  them  so  let  me  open  up
+
+the  Align  and  distribute  menu  by  going
+
+to  object  and  selecting  align  and
+
+distribute
+
+and  Im  going  to  choose  relative  2  and
+
+Im  going  to  align  it  vertically  and
+
+horizontally
+
+and  with  the  items  still  selected  lets
+
+go  to  path  and  select  difference  and
+
+what  thats  going  to  do  is  subtract  the
+
+text  from  the  rectangle  and  now  this
+
+rectangle  has  empty  space  in  it  in  the
+
+shape  of  those  letters  so  that  any
+
+backdrop  that  you  place  it  on  top  of
+
+will  show  through  where  those  letters
+
+are
+
+so  let  me  zoom  out  Im  going  to  make  all
+
+of  this  the  same  color  Im  going  to
+
+select  everything  here  and  choose  a
+
+color  that  Id  like  to  work  with  if  you
+
+want  to  choose  a  different  color  other
+
+than  what  you  see  down  here  you  can  open
+
+up  your  fill  and  stroke  menu  just  double
+
+click  this  color  stripe  over  here  and
+
+itll  open  up  the  fill  and  stroke  menu
+
+and  Im  going  to  choose  my  color
+
+there  we  go  and  now  I  just  want  to  make
+
+sure  that  everything  here  is  aligned  so
+
+Im  going  to come  over  here  to  the  align
+
+the  distribute  menu  and  Im  going  to
+
+align  it  vertically  and  let  me  make
+
+these  items  a  little  closer  together
+
+Im  just  going  to  move  them  up  like  that
+
+now  again  to  select  multiple  objects  I
+
+click  I  click  on  them  while  holding
+
+shift  and  while  Im  moving  them  Im
+
+holding  the  control  key  to  ensure  that
+
+they  are  locked  to  the  vertical  axis
+
+there  and  they  do  not  lose  their
+
+alignment
+
+and  once  youve  done  that  lets  apply  an
+
+arch  to  this  text  right  here  so  Im
+
+going  to  click  on  the  text  to  select  it
+
+and  Im  going  to  convert  it  to  a  path  by
+
+going  to  path  and  selecting  object  to
+
+path
+
+and  now  I  will  open  up  the  pathfx  menu
+
+so  lets  come  back  up  here  to  path  and
+
+lets  choose  pathfx
+
+from  the  pathfx  menu  Im  going  to  choose
+
+the  envelope  deformation  option  which  is
+
+right  here
+
+and  in  the  settings  menu  I  want  to
+
+disable  this  setting  right  here  that
+
+says  enable  left  and  right  paths  we  only
+
+want  to  enable  the  top  and  bottom  for
+
+what  were  doing  here  so  let  me  deselect
+
+that  and  then  click  on  this  button  right
+
+here  that  says  Top  Bend  path
+
+and  once  you  do  that  youll  get  this
+
+little  green  line  at  the  top  of  the
+
+object  here  and  if  you  hover  your  cursor
+
+over  you  can  click  and  drag
+
+to  bend  the  text  up  like  that
+
+and  then  well  do  the  same  thing  here
+
+well  choose  the  bottom  bent  path  and
+
+well  bend  that  text  up  like  that
+
+and  just  like  that  we  have  arced  our
+
+text  so  let  me  grab  my  selection  tool
+
+lets  move  these  items  up  a  little  bit
+
+and  Im  just  going  to  Center  this  up  one
+
+more  time  just  to  make  sure  everything
+
+is  still  aligned
+
+and  now  Im  going  to  make  this  much
+
+bigger  because  if  youre  going  to  print
+
+this  on  a  shirt  youre  going  to  want
+
+this  design  to  be  really  big  so  let  me
+
+make  this  a  lot  bigger
+
+again  holding  the  control  key  while  I
+
+scale  to  ensure  that  everything  remains
+
+proportionate  and  now  Im  going  to
+
+resize  my  document  to  match  this
+
+selection  right  here  so  with  everything
+
+selected  Im  going  to  press  Ctrl  shift
+
+and  R  or  if  youre  using  Mac  it  would  be
+
+command  shift  and  R  and  there  we  go  now
+
+were  finished  you  could  take  this
+
+design  export  it  and  upload  it  to  a  site
+
+like  Teespring  or  spreadshirt  or
+
+wherever  else  and  have  your  shirt
+
+printed  so  I  think  that  should  do  it  for
+
+todays  tutorial  that  is  how  you  can
+
+Arch  text  to  create  a  simple  athletic
+
+T-shirt  design  using  inkscape  if  you
+
+found  this  lesson  useful  then  consider
+
+checking  out  my  inkscape  master  class
+
+its  a  collection  of  over  60  videos
+
+where  I  go  over  all  of  the  tools  and
+
+features  in  inkscape  and  I  explain  what
+
+they  are  and  demonstrate  how  they  work
+
+kind  of  like  how  I  did  in  this  video  we
+
+even  have  a  private  Community  where  you
+
+can  ask  questions  and  get  help  from  me
+
+anytime  you  want  and  best  of  all  theres
+
+no  monthly  membership  fees  you  just  pay
+
+17  one  time  and  youre  in  for  Life  Ill
+
+have  some  information  about  that  down
+
+below  if  you  want  to  check  that  out  as
+
+always  thanks  for  watching
+
+thank  you
+
+foreign

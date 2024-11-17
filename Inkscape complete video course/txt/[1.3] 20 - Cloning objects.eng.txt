@@ -1,0 +1,24 @@
+Lets say, you have many objects that are the same. And at a later point, you want to adjust
+them. Then you could use cloning. Lets create a custom bullet. I select the Rectangle tool,
+and drag a rectangle. To get rounded corners, I drag the circle shape control widget down.
+I want the rectangle to stay a live shape, so I will not convert it to a path.
+I press the spacebar. In my layers, I will set the Blend mode to: Multiply.
+Now I will clone the rectangle. You clone an object, by pressing Alt-D. I drag the
+clone down. For my bullet, I need a second rectangle. So I will clone the original again.
+I click on the rectangle again, so I can rotate it. I hold Ctrl, and rotate it 90 degrees.
+I turn on Snapping, and open the menu. I want the corners of the Bounding boxes to snap. I select
+both rectangles, and click on them again, so I can rotate. I hold Ctrl, and rotate 45 degrees.
+I want to add a third rectangle, and I want the two clones to mask it. So I right-click on the
+rectangles, and choose: Set Clip Group. Now I clone the original again. I drag the clone in
+place. To mask, I drag the clone on the Clip Group. Now lets say, I want the rectangles to
+be shorter. To do this, I drag the left side of the original in. Because the rectangle is still a
+live shape, the corners will stay round after scaling! Now I select the bullet, and clone it.
+We see the clone now is a single shape. I will create a layer for it, and call it bullets.
+I call the other layer: parents. I drag the single shape bullet, on the bullets layer. I
+select the parent objects, and drag them on the pasteboard. Now I will hide them.
+I dont have to clone the newest object anymore; I can just duplicate it. I will activate: Alignment,
+and select: Same distances. I can now duplicate instances of the bullet, by pressing the spacebar.
+Now lets say, I want the bullets to be smaller. I show parents.
+When I make the parent bullet smaller, the children will follow. I hold Shift plus
+Control while scaling. And to change the color of the bullets, I select the original rectangle.
+In Fill and Stroke, I adjust the color. And I make the arms of the bullets a bit shorter.

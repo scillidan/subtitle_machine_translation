@@ -1,0 +1,551 @@
+
+
+
+this  is  Nick  with  logos  by  Nick  comm  and
+
+in  todays  tutorial  Ill  be
+
+demonstrating  how  you  can  use  the
+
+pattern  along  path  function  in  Inkscape
+
+to  create  some  unique  and  interesting
+
+designs  and  patterns  and  if  youd  like
+
+to  learn  more  about  how  Inkscape  works
+
+be  sure  to  check  out  the  Inkscape  master
+
+class  which  is  a  collection  of  over  60
+
+videos  that  I  created  where  I  go  over
+
+all  of  the  different  tools  and  features
+
+in  Inkscape  and  I  explain  what  they  are
+
+and  demonstrate  how  they  work  we  even
+
+have  a  private  community  where  I  could
+
+personally  help  you  out  and  answer  any
+
+questions  you  have  Ill  put  a  link  in
+
+the  description  of  the  video  if  you  want
+
+to  check  that  out  so  were  going  to  get
+
+started  here  in  Inkscape  the  first  thing
+
+we  want  to  do  is  just  make  sure  were
+
+all  working  with  a  similar  page  setup  so
+
+Im  going  to  go  to  view  make  sure  you
+
+have  custom  selected  and  then  were  go
+
+to  view  zoom  and  zoom  in  at  1  to  1  and
+
+then  I  want  to  open  up  the  align  and
+
+distribute  menu  with  this  button  up  here
+
+were  gonna  want  last  selected  chosen
+
+from  this  drop-down  and  then  Im  going
+
+to  open  up  the  Edit  objects  colors
+
+gradients  and  Stroke  menu  with  this
+
+button  over  here  so  if  you  notice  here  I
+
+have  this  shape  selected  and  what  Im
+
+gonna  do  is  Im  gonna  use  the  pattern
+
+along  path  function  in  Inkscape  to  take
+
+this  stretch  to  take  this  shape  and
+
+stretch  it  out  and  repeat  it  around  a
+
+circle  now  you  dont  have  to  use  this
+
+shape  you  can  use  whatever  shape  youd
+
+like  you  could  use  a  circle  or  a  star
+
+you  can  create  some  kind  of  custom  shape
+
+and  shape  if  youd  like  but  what  Im
+
+gonna  do  is  Im  gonna  grab  the  circles
+
+and  ellipses  tool  and  Im  gonna  hold
+
+ctrl  and  shift  and  Im  gonna  click  and
+
+drag  in  the  campus  to  create  a  perfectly
+
+round  circle  like  that  and  this  is  the
+
+path  that  I  want  to  make  this  shape
+
+follow  along  so  I  want  to  take  copies  of
+
+this  shape  and  make  it  repeat  going  all
+
+along  the  edges  of  this  circle  right
+
+here  so  what  Im  gonna  do  first  is  Im
+
+just  going  to  convert  this  to  a  path
+
+Ill  get  a  path  object  to  path  and
+
+thats  no  longer  a  a  circle  or  ellipse
+
+object  its  now  recognized  as  a  regular
+
+path  and  what  Im  going  to  do  is  Im
+
+going  to  open  up  the  the  path  the  path
+
+effects  menu  by  going  to  path  and
+
+clicking  on  path  effects  and  what  Im
+
+gonna  do  is  Im  gonna  click  plus  over
+
+here  to  add  a  new  path  effect  to  this
+
+circle  and  Im  gonna  look  for  pattern
+
+along  path  it  should  be  about  halfway
+
+through  the  list  here  pattern  along  path
+
+click  Add
+
+and  what  I  want  to  do  now  is  I  want  to
+
+click  on  the  shape  that  Id  like  to
+
+apply  around  the  circle  Im  gonna  grab
+
+the  select  tool  Im  gonna  click  on  my
+
+shape  right  here  like  I  said  you  can  use
+
+any  shape  youd  like  you  dont  have  to
+
+use  this  here  Im  gonna  right  click  this
+
+and  go  to  copy  and  then  Im  gonna  click
+
+on  this  circle  and  over  here  in  the
+
+pattern  along  path  menu  Im  gonna  choose
+
+where  it  says  pattern  copies  im  gonna
+
+choose  repeated  stretched  and  im  gonna
+
+click  on  this  button  over  here  that  says
+
+link  path  on  clipboard  and  if  you  notice
+
+it  took  this  object  and  repeated  it
+
+around  the  edge  of  that  circle  right
+
+here  and  now  this  this  circle  here  is
+
+linked  to  this  original  shape  so  as  i
+
+add  it  this  shape  this  will  edit  along
+
+with  it  now  let  me  zoom  in  let  me  zoom
+
+in  let  me  scale  this  down  a  little  bit
+
+let  me  make  that  back  to  black  again  im
+
+gonna  scale  this  down  and  youre  gonna
+
+notice  it  scales  down  the  size  of  the
+
+pattern  here  as  well  youll  notice  if  i
+
+make  this  smaller  theres  now  more  of
+
+these  shapes  in  here  because  the  smaller
+
+size  means  more  of  these  shapes  can  fit
+
+within  this  circle  now  it  works  the
+
+other  way  as  well  if  i  make  that  larger
+
+now  less  of  those  shapes  can  fit  within
+
+that  circle  if  you  notice  here  start  you
+
+get  starting  to  get  a  little  bit  of  a
+
+little  bit  of  distortion  in  there  so  im
+
+gonna  make  that  a  little  smaller  and
+
+thats  how  the  repeated  stretch  let  me
+
+click  on  that  again  repeated  stretch
+
+thats  how  that  works
+
+now  if  you  what  you  want  to  do  is  you
+
+can  if  you  want  you  can  add  some  spacing
+
+between  these  where  it  says  space  and
+
+then  click  on  5  and  it  adds  5  units  of
+
+spacing  between  each  object  right  there
+
+if  you  notice  there  and  that  works  on
+
+the  negative  as  well  if  i  add  negative  3
+
+youll  notice  they  start  to  overlap  with
+
+each  other  each  of  those  objects  now  let
+
+me  put  that  back  to  zero  another  thing
+
+you  can  do  is  nope  there  we  go  another
+
+thing  you  could  do  is  you  can  use  single
+
+stretched  and  if  you  choose  single
+
+stretch  what  its  going  to  do  is  its
+
+gonna  take  this  object  and  its  gonna
+
+stretch  it  out  all  the  way  you  learn  all
+
+the  way  around  the  perimeter  of  this
+
+path  here  now  if  you  know  you  probably
+
+its  probably  hard  to  tell  what  that  is
+
+but  you  can  if  you  if  you  really  look
+
+closely  you  can  see  it  took  this  object
+
+and  stretched  it  out  like  that  so  let  me
+
+undo  that  let  me  put  this  back  at
+
+repeated  stretched  and  what
+
+youre  done  once  youre  happy  with  how
+
+this  looks  what  youre  wanting  what  you
+
+want  to  do  is  you  want  to  finalize  it
+
+before  you  finalize  it  if  you  want  you
+
+can  remove  the  path  and  you  itll  put  it
+
+back  to  a  circle  let  me  undo  that
+
+or  you  can  finalize  it  by  going  to  path
+
+object  to  path  and  now  thats  no  longer
+
+a  pattern  along  path  object  now  this
+
+doesnt  just  work  with  circles  you  can
+
+do  this  with  virtually  any  shape  and
+
+Ill  show  you  what  I  mean  let  me  scale
+
+that  down  put  that  out  of  the  way  Im
+
+gonna  grab  the  Bezier  pen  over  here  and
+
+Im  gonna  click  to  create  a  point  Im
+
+gonna  hold  ctrl  bring  the  line  across
+
+the  screen  like  this  and  then  click  to
+
+create  another  point  and  then  press
+
+ENTER  on  the  keyboard  and  Im  gonna  grab
+
+the  Edit  path  by  nodes  tool  and  Im
+
+gonna  edit  this  line  a  little  bit  give
+
+it  a  little  bit  of  a  curve  that  right
+
+there  is  what  Im  looking  for  or
+
+something  like  that  and  now  Im  gonna
+
+again  and  once  again  Im  going  to  copy
+
+this  right  click  copy  Im  gonna  click  on
+
+this  path  Im  gonna  add  Im  gonna  come
+
+back  up  here  to  the  path  effects  menu
+
+click  the  plus  to  add  a  path  effect
+
+pattern  a  long  path  we  want  to  use
+
+repeated  stretched  and  Im  gonna  go
+
+ahead  and  click  link  and  if  you  notice
+
+here  took  the  object  and  it  stretched  it
+
+a  lot  and  it  repeated  that  along  that
+
+path  but  it  took  on  the  properties  of
+
+the  line  that  we  drew  where  it  had  a
+
+one-point  stroke  in  no  fill  color  so  Im
+
+gonna  give  that  a  fill  color  and  Im
+
+gonna  get  rid  of  the  outline  otherwise
+
+known  as  the  stroke  by  holding  shift  and
+
+clicking  on  the  X  right  there  and  that
+
+right  there  it  took  this  pattern  and  it
+
+applied  it  along  this  path  here  now
+
+another  thing  you  can  do  with  this  is
+
+you  can  use  this  to  create  like  kind  of
+
+like  a  wreath  let  me  show  you  what  I
+
+mean  here  Im  gonna  grab  the  circles  and
+
+ellipses  tool  Im  gonna  hold  ctrl  and
+
+shift  to  create  a  circle  like  that  let
+
+me  bring  the  opacity  down  a  little  bit
+
+grab  the  Select  tool  duplicate  that  by
+
+hitting  ctrl  D  and  hold  ctrl  move  this
+
+over  to  the  right  click  and  drag  over
+
+both  of  those  and  go  to  path
+
+intersection  and  this  shape  right  here
+
+is  what  were  looking  for  Im  gonna
+
+right  click  that  and  go  to  copy  and  now
+
+Im  going  to  create  another  circle  Im
+
+going  to  hold  ctrl  and  shift  click  and
+
+drag  click  and  drag  to  create  a  circle
+
+convert  that  to  a  path  by  going  to  path
+
+object  to  path
+
+and  now  I  will  add  a  path  effect  to  this
+
+again  once  again  pattern  along  path  Im
+
+gonna  choose  repeated  stretched  and  Im
+
+going  to  go  ahead  and  link  it  and  if  you
+
+notice  here  its  taking  this  object  and
+
+linking  it  its  its  repeating  it  around
+
+the  outside  of  that  circle  so  let  me
+
+grab  the  Select  tool  I  want  to  click  on
+
+this  object  click  on  it  again  to  get  the
+
+rotation  handles  Im  just  gonna  hold
+
+ctrl  and  rotate  this  to  the  right  a
+
+couple  of  times  like  that  and  if  you
+
+notice  here  on  the  left  side  were
+
+starting  to  get  what  appears  to  be  kind
+
+of  like  this  this  could  be  kind  of  like
+
+a  reef  like  a  of  a  wreath  of  leaves  let
+
+me  scale  this  down  to  show  you  Im  gonna
+
+add  some  spacing  in  there  let  me  click
+
+on  the  on  the  on  the  path  effect  here
+
+Im  gonna  add  some  spacing  in  there
+
+woops  messed  something  up  there  there  we
+
+go  lets  add  to  see  how  that  looks  maybe
+
+a  little  less  than  that  maybe  a  little
+
+more  let  me  rotate  this  around  a  little
+
+bit  and  as  you  rotate  it  it  changes  the
+
+position  as  you  can  see  there  now  I  like
+
+how  that  looks  right  there  Im  gonna
+
+finalize  that  by  clicking  on  it  and
+
+going  to  path  object  to  path  and  Im
+
+going  to  create  another  circle  inside  of
+
+there  let  me  grab  the  circles  and
+
+ellipses  tool  hold  ctrl  and  shift  click
+
+and  drag  to  create  a  slightly  smaller
+
+circle  than  this  one  Center  it  up  inside
+
+of  here  click  and  drag  over  both  of
+
+those  and  Center  them  up  on  the  center
+
+on  the  vertical  and  horizontal  axis  path
+
+object  to  path  and  now  Ill  click  on
+
+this  I  want  these  leaves  to  go  the
+
+opposite  way  the  opposite  direction  of
+
+these  so  Im  just  gonna  flip  this  one
+
+horizontally  Ill  click  on  this  button
+
+up  here  that  says  flip  selected  objects
+
+horizontally  right  click  that  go  to  copy
+
+click  on  this  path  and  make  that  a
+
+little  bit  bigger  and  once  again  I  will
+
+add  a  path  effect  same  way  as  I  did  with
+
+the  other  objects  repeated  stretched
+
+link  it  and  two  point  spacing  like  we
+
+did  before  we  make  that  a  little  bigger
+
+I  think  I  used  less  spacing  than  that
+
+let  me  bring  that  down  a  little  bit
+
+okay  that  looks  pretty  good  right  about
+
+there  and  I  will  go  I  will  finalize  that
+
+by  going  to  path  object  to  path  and  now
+
+what  Im  gonna  do  is  Im  gonna  break
+
+this  apart  so  what  this  is  all
+
+individual  pieces  Ill  go  to  path  break
+
+apart  and  let  me  get  rid  of  some  of
+
+these  extras  in  here  I  want  to  just  keep
+
+the  left  side  here  so  let  me  get  rid  of
+
+these  press  Delete  on  the  keyboard  to
+
+get  rid  of  them  and  Ill  do  the  same
+
+thing  over  here  path  break  apart  let  me
+
+get  rid  of  these  extras  over  here  like  I
+
+said  Im  just  keeping  the  left  hand  side
+
+for  now  and  as  you  can  see  here  we  have
+
+like  the  left-hand  side  of  kind  of  like
+
+a  little  accent  piece  or  a  wreath  like
+
+that  let  me  bring  the  opacity  to  this  up
+
+let  me  group  it  together  by  clicking  the
+
+group  selected  objects  button  and  now  I
+
+can  duplicate  that  by  hitting  ctrl  D
+
+hold  ctrl  click  and  drag  this  off  to  the
+
+right  flip  this  horizontally  and  there
+
+you  go  now  you  can  put  some  kind  of
+
+design  in  the  middle  here  you  can  create
+
+some  kind  of  like  little  law  maybe  like
+
+an  award  graphic  or  some  kind  of  logo
+
+with  these  sorts  of  decorations  on  it
+
+but  I  think  that  should  do  it  for  this
+
+video  that  take  and  go  about  using  the
+
+pattern  along  path  effects  with  Inkscape
+
+if  you  have  any  questions  let  me  know
+
+and  as  always  thanks  for  watching
+

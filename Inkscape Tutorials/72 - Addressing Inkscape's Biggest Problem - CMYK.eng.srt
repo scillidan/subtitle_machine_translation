@@ -1,0 +1,1060 @@
+1
+00:00:00,060 --> 00:00:01,770
+Inkscape is an incredible piece of
+
+2
+00:00:01,770 --> 00:00:03,330
+software that I've been using for over a
+
+3
+00:00:03,330 --> 00:00:05,490
+decade to create designs for myself and
+
+4
+00:00:05,490 --> 00:00:07,919
+my clients as much as I love Inkscape
+
+5
+00:00:07,919 --> 00:00:09,660
+though there's one particular problem
+
+6
+00:00:09,660 --> 00:00:11,099
+that has it I'll be addressing in this
+
+7
+00:00:11,099 --> 00:00:12,840
+video and I'll also be going over some
+
+8
+00:00:12,840 --> 00:00:15,850
+solutions for working around it as well
+
+9
+00:00:15,850 --> 00:00:21,750
+[Music]
+
+10
+00:00:22,910 --> 00:00:25,859
+this is Nick with logos by Nick comm and
+
+11
+00:00:25,859 --> 00:00:27,779
+in this video I'll be discussing how you
+
+12
+00:00:27,779 --> 00:00:30,330
+can work around ink scapes in ability to
+
+13
+00:00:30,330 --> 00:00:32,700
+generate files with the CMYK color
+
+14
+00:00:32,700 --> 00:00:34,710
+profile and if you'd like to learn more
+
+15
+00:00:34,710 --> 00:00:36,300
+about how Inkscape works be sure to
+
+16
+00:00:36,300 --> 00:00:38,670
+check out my Inkscape masterclass it's a
+
+17
+00:00:38,670 --> 00:00:40,620
+collection of over 60 videos where I go
+
+18
+00:00:40,620 --> 00:00:42,510
+over every tool and feature in Inkscape
+
+19
+00:00:42,510 --> 00:00:44,640
+and I explain what it is and demonstrate
+
+20
+00:00:44,640 --> 00:00:46,350
+how it works I'll have a link in the
+
+21
+00:00:46,350 --> 00:00:47,640
+description of the video if you want to
+
+22
+00:00:47,640 --> 00:00:49,350
+check that out so one of the biggest
+
+23
+00:00:49,350 --> 00:00:51,329
+downsides of working with Inkscape is
+
+24
+00:00:51,329 --> 00:00:53,520
+its inability to generate files with the
+
+25
+00:00:53,520 --> 00:00:56,969
+CMYK color profile this is problematic
+
+26
+00:00:56,969 --> 00:00:58,710
+when designing things for prints because
+
+27
+00:00:58,710 --> 00:01:00,359
+the only colors that can be generated
+
+28
+00:01:00,359 --> 00:01:02,879
+with ink are colors that are within the
+
+29
+00:01:02,879 --> 00:01:04,580
+CMYK color space
+
+30
+00:01:04,580 --> 00:01:08,430
+Inkscape by default works within the RGB
+
+31
+00:01:08,430 --> 00:01:10,560
+color space these are colors that are
+
+32
+00:01:10,560 --> 00:01:12,659
+generated using light and are intended
+
+33
+00:01:12,659 --> 00:01:15,090
+for use on screens and other electronics
+
+34
+00:01:15,090 --> 00:01:17,280
+with digital displays because of that
+
+35
+00:01:17,280 --> 00:01:20,220
+the RGB color space has a wider range of
+
+36
+00:01:20,220 --> 00:01:22,740
+colors to work with than CMYK does
+
+37
+00:01:22,740 --> 00:01:24,360
+because light can be used to generate
+
+38
+00:01:24,360 --> 00:01:26,610
+more colors than ink n so if you create
+
+39
+00:01:26,610 --> 00:01:28,560
+a design with Inkscape then you go to
+
+40
+00:01:28,560 --> 00:01:30,540
+print it chances are you're going to be
+
+41
+00:01:30,540 --> 00:01:32,909
+using colors that are out of gamut or in
+
+42
+00:01:32,909 --> 00:01:34,890
+other words not within the range of what
+
+43
+00:01:34,890 --> 00:01:37,409
+can be created with ink most print shops
+
+44
+00:01:37,409 --> 00:01:39,329
+will refuse to print your document if
+
+45
+00:01:39,329 --> 00:01:40,829
+this is the case because they know that
+
+46
+00:01:40,829 --> 00:01:42,299
+you're not going to be happy with the
+
+47
+00:01:42,299 --> 00:01:44,310
+result now you may think to yourself
+
+48
+00:01:44,310 --> 00:01:46,170
+okay I'll just use colors that are
+
+49
+00:01:46,170 --> 00:01:48,659
+within the CMYK color space that it
+
+50
+00:01:48,659 --> 00:01:51,570
+should be fine right well not exactly
+
+51
+00:01:51,570 --> 00:01:53,040
+it's a little more complicated than just
+
+52
+00:01:53,040 --> 00:01:56,310
+using CMYK colors every document has a
+
+53
+00:01:56,310 --> 00:01:58,710
+color profile embedded within it and if
+
+54
+00:01:58,710 --> 00:02:00,540
+you created that document with Inkscape
+
+55
+00:02:00,540 --> 00:02:03,030
+then it's going to have an RGB profile
+
+56
+00:02:03,030 --> 00:02:05,159
+because that's the only format Inkscape
+
+57
+00:02:05,159 --> 00:02:07,469
+supports the problem with printing an
+
+58
+00:02:07,469 --> 00:02:09,330
+RGB document is that you're taking
+
+59
+00:02:09,330 --> 00:02:10,919
+colors that were originally generated
+
+60
+00:02:10,919 --> 00:02:12,400
+using light
+
+61
+00:02:12,400 --> 00:02:14,170
+and trying to reproduce them with ink
+
+62
+00:02:14,170 --> 00:02:16,569
+this usually results in their finished
+
+63
+00:02:16,569 --> 00:02:18,700
+printed product having colors that look
+
+64
+00:02:18,700 --> 00:02:20,530
+dull and muddy and just overall
+
+65
+00:02:20,530 --> 00:02:22,120
+different than they did on your screen
+
+66
+00:02:22,120 --> 00:02:24,040
+when you design them even if you made
+
+67
+00:02:24,040 --> 00:02:25,900
+sure to only use colors that work within
+
+68
+00:02:25,900 --> 00:02:28,659
+the CMYK color space it's just not
+
+69
+00:02:28,659 --> 00:02:30,370
+possible for something to look the same
+
+70
+00:02:30,370 --> 00:02:33,220
+in print as it does on your screen if
+
+71
+00:02:33,220 --> 00:02:35,560
+you're creating it in an RGB color
+
+72
+00:02:35,560 --> 00:02:37,900
+profile and because of that a lot of
+
+73
+00:02:37,900 --> 00:02:39,640
+print shops will immediately turn down
+
+74
+00:02:39,640 --> 00:02:41,560
+your document if they see that it has an
+
+75
+00:02:41,560 --> 00:02:44,440
+RGB profile embedded now some print
+
+76
+00:02:44,440 --> 00:02:46,269
+shops will do a spot conversion and
+
+77
+00:02:46,269 --> 00:02:48,190
+adjust the colors for you this is
+
+78
+00:02:48,190 --> 00:02:50,079
+actually becoming a lot more common and
+
+79
+00:02:50,079 --> 00:02:51,670
+a good example of this would be Vista
+
+80
+00:02:51,670 --> 00:02:54,129
+Print I've printed RGB documents with
+
+81
+00:02:54,129 --> 00:02:55,510
+them in the past and the results were
+
+82
+00:02:55,510 --> 00:02:57,430
+actually pretty good but they weren't
+
+83
+00:02:57,430 --> 00:02:59,650
+perfect the best way to ensure that your
+
+84
+00:02:59,650 --> 00:03:01,989
+design will look the same in print as it
+
+85
+00:03:01,989 --> 00:03:04,239
+does on your device is to make sure that
+
+86
+00:03:04,239 --> 00:03:06,849
+your document is using a CMYK color
+
+87
+00:03:06,849 --> 00:03:09,549
+profile in illustrator this can be done
+
+88
+00:03:09,549 --> 00:03:12,129
+by going to file document color mode and
+
+89
+00:03:12,129 --> 00:03:15,670
+choosing CMYK color an affinity designer
+
+90
+00:03:15,670 --> 00:03:17,379
+this can be done by going to file
+
+91
+00:03:17,379 --> 00:03:20,230
+document setup clicking on the color tab
+
+92
+00:03:20,230 --> 00:03:23,169
+and choosing CMYK from the color format
+
+93
+00:03:23,169 --> 00:03:25,599
+drop-down Inkscape however lacks the
+
+94
+00:03:25,599 --> 00:03:27,069
+ability to do this and it's one of the
+
+95
+00:03:27,069 --> 00:03:28,840
+biggest downsides of working with it in
+
+96
+00:03:28,840 --> 00:03:30,909
+my opinion designing things for print is
+
+97
+00:03:30,909 --> 00:03:32,829
+just going to be more challenging in
+
+98
+00:03:32,829 --> 00:03:34,690
+Inkscape but it's not impossible
+
+99
+00:03:34,690 --> 00:03:36,669
+there are some workarounds for creating
+
+100
+00:03:36,669 --> 00:03:38,980
+a CMYK document from your Inkscape
+
+101
+00:03:38,980 --> 00:03:40,750
+designs and I'd like to share some of
+
+102
+00:03:40,750 --> 00:03:42,909
+them with you in this video now I must
+
+103
+00:03:42,909 --> 00:03:44,799
+warn you in advance that these methods
+
+104
+00:03:44,799 --> 00:03:45,909
+are far from perfect
+
+105
+00:03:45,909 --> 00:03:47,650
+but they will get the job done and they
+
+106
+00:03:47,650 --> 00:03:50,579
+are better than nothing
+
+107
+00:03:50,870 --> 00:03:53,000
+if you're a Linux user there's a
+
+108
+00:03:53,000 --> 00:03:54,560
+third-party extension that you can
+
+109
+00:03:54,560 --> 00:03:56,299
+install for Inkscape that will allow you
+
+110
+00:03:56,299 --> 00:03:59,180
+to export PDF documents with a CMYK
+
+111
+00:03:59,180 --> 00:04:01,879
+color profile the extension is called
+
+112
+00:04:01,879 --> 00:04:05,030
+export PDF CMYK and I'll have a link in
+
+113
+00:04:05,030 --> 00:04:06,500
+the description for those of you who are
+
+114
+00:04:06,500 --> 00:04:08,299
+linux users and want to try it out I
+
+115
+00:04:08,299 --> 00:04:10,220
+haven't tried it myself but I've heard
+
+116
+00:04:10,220 --> 00:04:12,079
+good things the benefit of using
+
+117
+00:04:12,079 --> 00:04:13,849
+something like this is that it allows
+
+118
+00:04:13,849 --> 00:04:16,190
+you to export your design in an editable
+
+119
+00:04:16,190 --> 00:04:18,320
+vector format where you can manually
+
+120
+00:04:18,320 --> 00:04:21,108
+adjust the DPI which is also important
+
+121
+00:04:21,108 --> 00:04:23,120
+for printing documents the downside
+
+122
+00:04:23,120 --> 00:04:25,010
+though is that you can only export a PDF
+
+123
+00:04:25,010 --> 00:04:27,410
+document so if your print shop requires
+
+124
+00:04:27,410 --> 00:04:30,380
+a rasterized format like jpg or TI F
+
+125
+00:04:30,380 --> 00:04:32,780
+you're out of luck the other downside is
+
+126
+00:04:32,780 --> 00:04:34,880
+that it's only for Linux users so those
+
+127
+00:04:34,880 --> 00:04:36,650
+of us on Windows and Mac are also out of
+
+128
+00:04:36,650 --> 00:04:38,580
+luck
+
+129
+00:04:38,580 --> 00:04:41,320
+Scribus is an open-source application
+
+130
+00:04:41,320 --> 00:04:43,600
+for desktop publishing similar to Adobe
+
+131
+00:04:43,600 --> 00:04:45,400
+InDesign and it's available for all
+
+132
+00:04:45,400 --> 00:04:47,860
+three operating systems one great thing
+
+133
+00:04:47,860 --> 00:04:49,660
+about Scribus is that it allows you to
+
+134
+00:04:49,660 --> 00:04:51,970
+open PDF documents that were originally
+
+135
+00:04:51,970 --> 00:04:54,220
+created with Inkscape and manually
+
+136
+00:04:54,220 --> 00:04:56,740
+change the colors based on a CMYK color
+
+137
+00:04:56,740 --> 00:04:59,530
+profile then once you're done you can
+
+138
+00:04:59,530 --> 00:05:02,050
+export your design as a PDF document and
+
+139
+00:05:02,050 --> 00:05:04,510
+you will now have a print ready document
+
+140
+00:05:04,510 --> 00:05:07,270
+with a CMYK color profile embedded I
+
+141
+00:05:07,270 --> 00:05:09,550
+made an entire tutorial about how to do
+
+142
+00:05:09,550 --> 00:05:10,840
+this a few years ago if you want to
+
+143
+00:05:10,840 --> 00:05:12,430
+check that out I'll have it linked into
+
+144
+00:05:12,430 --> 00:05:13,360
+the description of the video
+
+145
+00:05:13,360 --> 00:05:16,150
+much like the Linux extension the upside
+
+146
+00:05:16,150 --> 00:05:18,220
+of using Scribus is that you can get an
+
+147
+00:05:18,220 --> 00:05:20,650
+editable vector format that most print
+
+148
+00:05:20,650 --> 00:05:23,530
+shops overwhelmingly accept the downside
+
+149
+00:05:23,530 --> 00:05:25,540
+though is that this only works on pure
+
+150
+00:05:25,540 --> 00:05:28,330
+vector pads if your design uses a lot of
+
+151
+00:05:28,330 --> 00:05:30,790
+Inkscape specific features like Gaussian
+
+152
+00:05:30,790 --> 00:05:34,030
+blurs masking clipped objects filters
+
+153
+00:05:34,030 --> 00:05:36,130
+and so on they're not going to translate
+
+154
+00:05:36,130 --> 00:05:38,680
+over to Scribus unfortunately in that
+
+155
+00:05:38,680 --> 00:05:39,850
+case you'll have to generate a
+
+156
+00:05:39,850 --> 00:05:42,490
+rasterized PNG file and use a different
+
+157
+00:05:42,490 --> 00:05:45,030
+solution
+
+158
+00:05:45,040 --> 00:05:47,320
+Krita is an open-source design
+
+159
+00:05:47,320 --> 00:05:49,210
+application that functions sort of like
+
+160
+00:05:49,210 --> 00:05:51,460
+a hybrid between Inkscape and it
+
+161
+00:05:51,460 --> 00:05:52,930
+allows you to work with and create
+
+162
+00:05:52,930 --> 00:05:55,060
+vector objects but it also allows you to
+
+163
+00:05:55,060 --> 00:05:57,700
+paint and manipulate images as well one
+
+164
+00:05:57,700 --> 00:05:59,830
+major benefit of use in Krita is that it
+
+165
+00:05:59,830 --> 00:06:03,010
+has the ability to export CMYK documents
+
+166
+00:06:03,010 --> 00:06:05,110
+already built-in there is a catch though
+
+167
+00:06:05,110 --> 00:06:07,540
+you won't be able to export your design
+
+168
+00:06:07,540 --> 00:06:10,150
+in a vector format like SVG or PDF
+
+169
+00:06:10,150 --> 00:06:12,610
+credit does allow you to export in these
+
+170
+00:06:12,610 --> 00:06:14,860
+formats but unfortunately your document
+
+171
+00:06:14,860 --> 00:06:16,690
+will be forced into having an RGB color
+
+172
+00:06:16,690 --> 00:06:19,390
+profile Krita is ideal if you need a
+
+173
+00:06:19,390 --> 00:06:23,170
+flattened raster format like PNG jpg and
+
+174
+00:06:23,170 --> 00:06:25,960
+TI F those formats can be exported with
+
+175
+00:06:25,960 --> 00:06:28,840
+the CMYK color profile to do so first
+
+176
+00:06:28,840 --> 00:06:31,120
+export your design from Inkscape as a
+
+177
+00:06:31,120 --> 00:06:33,640
+PNG file then open it up with credit
+
+178
+00:06:33,640 --> 00:06:36,820
+then navigate to image properties and
+
+179
+00:06:36,820 --> 00:06:39,580
+under the image color space tab select
+
+180
+00:06:39,580 --> 00:06:42,310
+the CMYK option from the model drop-down
+
+181
+00:06:42,310 --> 00:06:44,740
+from there you can export your design in
+
+182
+00:06:44,740 --> 00:06:46,480
+any restor format and it will have a
+
+183
+00:06:46,480 --> 00:06:51,639
+print ready CMYK color profile embedded
+
+184
+00:06:51,639 --> 00:06:53,560
+another way that you can convert your
+
+185
+00:06:53,560 --> 00:06:56,500
+Inkscape document to CMYK is to use a
+
+186
+00:06:56,500 --> 00:06:58,539
+web-based color conversion service
+
+187
+00:06:58,539 --> 00:07:00,340
+there's a lot of them out there but the
+
+188
+00:07:00,340 --> 00:07:02,620
+one I'm most familiar with would be RGB
+
+189
+00:07:02,620 --> 00:07:06,159
+to CMYK org this allows you to take a
+
+190
+00:07:06,159 --> 00:07:08,770
+PNG file that you exported from Inkscape
+
+191
+00:07:08,770 --> 00:07:11,560
+and convert it to either jpg or TI F
+
+192
+00:07:11,560 --> 00:07:14,409
+format with the CMYK color profile
+
+193
+00:07:14,409 --> 00:07:16,300
+embedded the benefit of using a site
+
+194
+00:07:16,300 --> 00:07:17,620
+like this is that it's quick and
+
+195
+00:07:17,620 --> 00:07:18,759
+convenient and you won't have to
+
+196
+00:07:18,759 --> 00:07:20,949
+download any additional software the
+
+197
+00:07:20,949 --> 00:07:22,569
+downside though is that you're limited
+
+198
+00:07:22,569 --> 00:07:24,969
+to only those two formats and another
+
+199
+00:07:24,969 --> 00:07:26,349
+problem I've noticed with web-based
+
+200
+00:07:26,349 --> 00:07:28,389
+converters like this is that they tend
+
+201
+00:07:28,389 --> 00:07:30,939
+to produce inconsistent results and you
+
+202
+00:07:30,939 --> 00:07:32,529
+don't get to see how the final design
+
+203
+00:07:32,529 --> 00:07:34,479
+looks before saving it I've had
+
+204
+00:07:34,479 --> 00:07:36,430
+instances where the final design looks
+
+205
+00:07:36,430 --> 00:07:38,169
+so different from the original in terms
+
+206
+00:07:38,169 --> 00:07:41,840
+of color that it was hardly usable
+
+207
+00:07:41,840 --> 00:07:44,360
+the final solution for generating a CMYK
+
+208
+00:07:44,360 --> 00:07:47,120
+document from your Inkscape design is to
+
+209
+00:07:47,120 --> 00:07:49,790
+simply save it as an SVG file then open
+
+210
+00:07:49,790 --> 00:07:51,410
+it up with illustrator or affinity
+
+211
+00:07:51,410 --> 00:07:53,660
+designer and correct the colors yourself
+
+212
+00:07:53,660 --> 00:07:55,880
+personally I think this is the best way
+
+213
+00:07:55,880 --> 00:07:58,070
+to approach the CMYK problem as an
+
+214
+00:07:58,070 --> 00:07:59,810
+Inkscape user because it gives you the
+
+215
+00:07:59,810 --> 00:08:01,850
+most control with all of the other
+
+216
+00:08:01,850 --> 00:08:03,710
+methods I discussed you're basically
+
+217
+00:08:03,710 --> 00:08:05,510
+just taking your document and swapping
+
+218
+00:08:05,510 --> 00:08:07,310
+out the color profile without ever
+
+219
+00:08:07,310 --> 00:08:09,500
+having an opportunity to correct your
+
+220
+00:08:09,500 --> 00:08:11,380
+colors once they've been converted
+
+221
+00:08:11,380 --> 00:08:13,370
+illustrator allows you to do that though
+
+222
+00:08:13,370 --> 00:08:15,169
+and I have an entire tutorial about
+
+223
+00:08:15,169 --> 00:08:18,260
+converting RGB colors to CMYK while
+
+224
+00:08:18,260 --> 00:08:20,330
+maintaining their vibrance on my other
+
+225
+00:08:20,330 --> 00:08:21,770
+channel if you want to check that out
+
+226
+00:08:21,770 --> 00:08:23,419
+I'll have that link in the description
+
+227
+00:08:23,419 --> 00:08:25,280
+as well this is actually what I do
+
+228
+00:08:25,280 --> 00:08:27,710
+myself since Inkscape is the software
+
+229
+00:08:27,710 --> 00:08:29,750
+I'm most familiar with it's what I use
+
+230
+00:08:29,750 --> 00:08:31,639
+for most of my design work and that does
+
+231
+00:08:31,639 --> 00:08:33,289
+include designs that are made for print
+
+232
+00:08:33,289 --> 00:08:35,630
+once I'm finished creating my design in
+
+233
+00:08:35,630 --> 00:08:37,580
+Inkscape I simply open it up with
+
+234
+00:08:37,580 --> 00:08:40,120
+illustrator set the color mode to CMYK
+
+235
+00:08:40,120 --> 00:08:42,799
+adjust the colors as needed and then
+
+236
+00:08:42,799 --> 00:08:44,570
+export it to whatever format I'd like
+
+237
+00:08:44,570 --> 00:08:46,550
+and that's another benefit of using this
+
+238
+00:08:46,550 --> 00:08:48,950
+approach you're not confined to just PDF
+
+239
+00:08:48,950 --> 00:08:51,650
+or just jpg you can save your work in
+
+240
+00:08:51,650 --> 00:08:53,720
+any format imaginable and it'll have a
+
+241
+00:08:53,720 --> 00:08:56,839
+CMYK color profile embedded you can even
+
+242
+00:08:56,839 --> 00:08:58,160
+save your work directly as an
+
+243
+00:08:58,160 --> 00:09:00,230
+illustrator file which believe it or not
+
+244
+00:09:00,230 --> 00:09:02,690
+some print shops do require the same can
+
+245
+00:09:02,690 --> 00:09:04,130
+be done with affinity designer as well
+
+246
+00:09:04,130 --> 00:09:07,280
+just open your Inkscape SVG change the
+
+247
+00:09:07,280 --> 00:09:10,280
+document color mode to CMYK adjust your
+
+248
+00:09:10,280 --> 00:09:12,500
+colors as needed then save your work to
+
+249
+00:09:12,500 --> 00:09:14,839
+whatever format you'd like I understand
+
+250
+00:09:14,839 --> 00:09:16,820
+that these two applications are not free
+
+251
+00:09:16,820 --> 00:09:18,950
+and because of that this may not be a
+
+252
+00:09:18,950 --> 00:09:21,290
+feasible option for some of you until
+
+253
+00:09:21,290 --> 00:09:23,510
+Inkscape implements some kind of support
+
+254
+00:09:23,510 --> 00:09:24,410
+for CMYK
+
+255
+00:09:24,410 --> 00:09:26,360
+this is the best option we have and I
+
+256
+00:09:26,360 --> 00:09:28,190
+would highly recommend it if you are in
+
+257
+00:09:28,190 --> 00:09:30,200
+a position to acquire one of these two
+
+258
+00:09:30,200 --> 00:09:32,390
+programs if not that any of the other
+
+259
+00:09:32,390 --> 00:09:33,680
+methods that were discussed in this
+
+260
+00:09:33,680 --> 00:09:35,839
+video should work just fine that should
+
+261
+00:09:35,839 --> 00:09:37,490
+do it for today's video if you have any
+
+262
+00:09:37,490 --> 00:09:39,290
+questions leave a comment below and as
+
+263
+00:09:39,290 --> 00:09:40,290
+always thanks for watching
+
+264
+00:09:40,290 --> 00:09:49,510
+[Music]
+
+265
+00:09:55,290 --> 00:09:59,419
+[Music]
+

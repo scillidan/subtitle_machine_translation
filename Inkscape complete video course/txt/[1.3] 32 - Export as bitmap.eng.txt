@@ -1,0 +1,27 @@
+We have seen that filters and effects must be rasterized, to be visible in a PDF.
+Also, when importing an SVG in Scribus, you will not see the blur effect. Youll see the
+original vector shape, but effects like blur are emitted. So artwork often must be rasterized,
+to be visible in other programs. The two most used bitmap formats, are PNG and JPEG.
+JPEG doesnt support transparency, so transparent areas will be filled in with
+white. Also, JPEG uses a lossy compression algorithm, sacrificing image quality.
+So PNG is higher quality, and the best choice for everything except photographs. Lets see how to
+save this logo as a bitmap. I will save one for the internet, and one for print. What we will see,
+is that you always save in pixels. I go to: File > Export. I see, I can save the entire page.
+When I click on: Document, I see the area that will be exported, comprises the visible elements.
+I only want to export the logo, so I drag over the logo. Then I go to: Selection. Now I see
+the export area is confined to the selection. The logo for the website has to be 200 pixels high. So
+for Height, I give in: 200. When I press Enter, I see the Width is automatically set to: 175 pixels.
+DPI is unrelated to pixel dimensions. Changing the DPI, will also change the amount of pixels.
+So I leave DPI as it is. I click on: Export Selected only.
+I click on: Select export format, and choose: PNG. At the right are different options.
+I prefer Compression on: 9, to get the smallest file size. And Antialias should be on:
+2. Antialias on 0 gives ragged edges. Click on the folder icon, to choose a location to save.
+Then click on Export. When I open the PNG in GIMP, I see the size is 175 by 200 pixels.
+Now lets save the logo for print. For print you also save in pixels. This is because 300 pixels,
+is the same as one inch. Lets say, my logo has to be two and a half inches high.
+So two and a half, times 300 pixels, is 750 pixels. So for Height, I give in: 750. When
+I press tab, Width is automatically calculated, to 657 pixels. I see, the DPI value has also changed.
+Again, in this situation, the DPI value is unrelated to the pixel dimensions.
+The only time you use the DPI value field, is on the Page tab. This is because a page,
+has a concrete dimension, like A4. To export a page for print, you set it to: 300 DPI. Changing
+the DPI, changed the pixel dimensions. Now we can see, that an A4, is 2480 by 358 pixels for print.

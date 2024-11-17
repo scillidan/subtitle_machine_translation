@@ -1,0 +1,408 @@
+1
+00:00:00,359 --> 00:00:02,760
+in this lecture I will make another 3D
+
+2
+00:00:02,760 --> 00:00:05,220
+text effect using tiling to easily
+
+3
+00:00:05,220 --> 00:00:07,379
+create a pattern I click on the text
+
+4
+00:00:07,379 --> 00:00:11,280
+tool and type 3D text I use shrikan
+
+5
+00:00:11,280 --> 00:00:14,219
+which is a free Google font I duplicate
+
+6
+00:00:14,219 --> 00:00:16,740
+the text and drag it below I double
+
+7
+00:00:16,740 --> 00:00:19,380
+click on it to get to the text tool I
+
+8
+00:00:19,380 --> 00:00:22,439
+press Ctrl a and type inkscape
+
+9
+00:00:22,439 --> 00:00:25,260
+click on the select tool I hold Ctrl and
+
+10
+00:00:25,260 --> 00:00:27,300
+drag the right side in to match the size
+
+11
+00:00:27,300 --> 00:00:29,820
+of the text above now I drag the text
+
+12
+00:00:29,820 --> 00:00:31,800
+above to the right so that the T and the
+
+13
+00:00:31,800 --> 00:00:33,480
+E show a straight line
+
+14
+00:00:33,480 --> 00:00:35,219
+I would like to have some curvature in
+
+15
+00:00:35,219 --> 00:00:37,680
+the text to do this I have to convert
+
+16
+00:00:37,680 --> 00:00:40,320
+the text to paths I select them both and
+
+17
+00:00:40,320 --> 00:00:42,719
+go to path object to path
+
+18
+00:00:42,719 --> 00:00:46,379
+to curve 3D text I go to pathfx from the
+
+19
+00:00:46,379 --> 00:00:49,200
+menu I choose envelope deformation I
+
+20
+00:00:49,200 --> 00:00:51,239
+click on the edit on canvas button at
+
+21
+00:00:51,239 --> 00:00:53,760
+the right of bottom band path now I see
+
+22
+00:00:53,760 --> 00:00:56,160
+a green line at the bottom of the text I
+
+23
+00:00:56,160 --> 00:00:58,199
+can drag the line to curve the text at
+
+24
+00:00:58,199 --> 00:00:59,760
+the bottom
+
+25
+00:00:59,760 --> 00:01:02,460
+now let's curve the text below I go to
+
+26
+00:01:02,460 --> 00:01:06,060
+pathfx and choose envelope deformation I
+
+27
+00:01:06,060 --> 00:01:08,100
+select the edit on canvas button at the
+
+28
+00:01:08,100 --> 00:01:10,979
+right of top end path I control drag the
+
+29
+00:01:10,979 --> 00:01:13,380
+left note up and I drag the green line
+
+30
+00:01:13,380 --> 00:01:14,460
+down
+
+31
+00:01:14,460 --> 00:01:17,340
+I also control drag to write note up I
+
+32
+00:01:17,340 --> 00:01:19,260
+dragged the green line down again
+
+33
+00:01:19,260 --> 00:01:21,540
+I see I can drag the left note a bit
+
+34
+00:01:21,540 --> 00:01:23,939
+further up and I can drag the green line
+
+35
+00:01:23,939 --> 00:01:26,780
+a bit further down
+
+36
+00:01:26,939 --> 00:01:28,979
+I want to compress the text a bit so I
+
+37
+00:01:28,979 --> 00:01:30,299
+select them both
+
+38
+00:01:30,299 --> 00:01:32,820
+I drag the text a bit in
+
+39
+00:01:32,820 --> 00:01:35,040
+to finalize the effect I go to path
+
+40
+00:01:35,040 --> 00:01:36,840
+object to path
+
+41
+00:01:36,840 --> 00:01:39,240
+now I will make them a single path
+
+42
+00:01:39,240 --> 00:01:41,520
+I want the 3d effect to go from light
+
+43
+00:01:41,520 --> 00:01:44,220
+blue to a darker blue I duplicate the
+
+44
+00:01:44,220 --> 00:01:46,680
+text and give it a darker blue I hold
+
+45
+00:01:46,680 --> 00:01:48,720
+shift and control and make the duplicate
+
+46
+00:01:48,720 --> 00:01:51,180
+smaller I shift-click on the larger text
+
+47
+00:01:51,180 --> 00:01:53,520
+I want to create a transition from One
+
+48
+00:01:53,520 --> 00:01:55,140
+path to the other
+
+49
+00:01:55,140 --> 00:01:57,540
+I go to extensions generate from path
+
+50
+00:01:57,540 --> 00:02:00,659
+interpolate between paths I will make 50
+
+51
+00:02:00,659 --> 00:02:02,759
+copies in between them and click on live
+
+52
+00:02:02,759 --> 00:02:03,899
+preview
+
+53
+00:02:03,899 --> 00:02:06,899
+I click on apply and on close in my
+
+54
+00:02:06,899 --> 00:02:09,119
+layers I see a new group which are the
+
+55
+00:02:09,119 --> 00:02:11,640
+transitioning paths I will place the
+
+56
+00:02:11,640 --> 00:02:14,400
+original light blue text on top and I
+
+57
+00:02:14,400 --> 00:02:16,140
+will make it dark blue
+
+58
+00:02:16,140 --> 00:02:19,379
+I call the path top text I duplicate top
+
+59
+00:02:19,379 --> 00:02:22,260
+text and call it pattern I go to fill
+
+60
+00:02:22,260 --> 00:02:24,599
+and stroke and for the fill I choose
+
+61
+00:02:24,599 --> 00:02:25,739
+pattern
+
+62
+00:02:25,739 --> 00:02:29,400
+for my pattern I choose abstract one now
+
+63
+00:02:29,400 --> 00:02:31,620
+I will make my own pattern I click on
+
+64
+00:02:31,620 --> 00:02:34,500
+the ellipse tool I hold Ctrl and drag a
+
+65
+00:02:34,500 --> 00:02:37,920
+small circle I go to pathfx I choose
+
+66
+00:02:37,920 --> 00:02:40,920
+tiling I will make 30 rows and 60
+
+67
+00:02:40,920 --> 00:02:42,060
+columns
+
+68
+00:02:42,060 --> 00:02:44,220
+to get smaller circles at the top and
+
+69
+00:02:44,220 --> 00:02:46,440
+larger circles at the bottom I set scale
+
+70
+00:02:46,440 --> 00:02:48,540
+to seven percent and I want to shift
+
+71
+00:02:48,540 --> 00:02:51,000
+each row 50 percent so I set offset to
+
+72
+00:02:51,000 --> 00:02:53,640
+50. I zoom out and I will size the
+
+73
+00:02:53,640 --> 00:02:55,920
+pattern to fit the text I will make the
+
+74
+00:02:55,920 --> 00:02:57,000
+pattern White
+
+75
+00:02:57,000 --> 00:02:58,920
+to get the pattern covering the 3d
+
+76
+00:02:58,920 --> 00:03:01,080
+effect I right click on the group and
+
+77
+00:03:01,080 --> 00:03:03,120
+choose set clip group
+
+78
+00:03:03,120 --> 00:03:06,000
+I name the pattern circles I drag
+
+79
+00:03:06,000 --> 00:03:08,700
+circles on the clip group I set the
+
+80
+00:03:08,700 --> 00:03:11,879
+opacity of circles to 25 percent with my
+
+81
+00:03:11,879 --> 00:03:14,099
+arrow keys I now choose which part I
+
+82
+00:03:14,099 --> 00:03:16,319
+like best of the circles I can also
+
+83
+00:03:16,319 --> 00:03:19,319
+resize to get larger or smaller circles
+
+84
+00:03:19,319 --> 00:03:21,900
+I will create a black background I click
+
+85
+00:03:21,900 --> 00:03:23,879
+on the rectangle tool and drag over the
+
+86
+00:03:23,879 --> 00:03:26,640
+canvas I press the space bar and click
+
+87
+00:03:26,640 --> 00:03:28,920
+on Lower to bottom to make the edges
+
+88
+00:03:28,920 --> 00:03:31,080
+visible I will add some Strokes
+
+89
+00:03:31,080 --> 00:03:34,379
+I duplicate top text in my swatches I
+
+90
+00:03:34,379 --> 00:03:36,900
+click on none and I shift click on White
+
+91
+00:03:36,900 --> 00:03:39,659
+at the bottom right I scroll backwards
+
+92
+00:03:39,659 --> 00:03:42,120
+to set the stroke to half a millimeter
+
+93
+00:03:42,120 --> 00:03:45,180
+I call the path white I duplicate the
+
+94
+00:03:45,180 --> 00:03:48,120
+path twice I call the top layer blue and
+
+95
+00:03:48,120 --> 00:03:50,459
+shift-click on the light blue Swatch I
+
+96
+00:03:50,459 --> 00:03:53,040
+hide blue I click on white go to fill
+
+97
+00:03:53,040 --> 00:03:55,860
+and stroke and stroke paint I set blur
+
+98
+00:03:55,860 --> 00:03:58,799
+to 10 percent I call the path white blur
+
+99
+00:03:58,799 --> 00:04:01,739
+I shift click on white and choose group
+
+100
+00:04:01,739 --> 00:04:04,379
+I drag the group a bit down
+
+101
+00:04:04,379 --> 00:04:06,599
+I reveal blue and scale it from the
+
+102
+00:04:06,599 --> 00:04:08,840
+bottom
+

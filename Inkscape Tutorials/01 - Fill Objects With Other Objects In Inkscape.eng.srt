@@ -1,0 +1,1044 @@
+1
+00:00:00,120 --> 00:00:01,839
+in this tutorial I'll be demonstrating a
+
+2
+00:00:01,839 --> 00:00:03,679
+simple technique for taking a single
+
+3
+00:00:03,679 --> 00:00:05,480
+object and filling it with another
+
+4
+00:00:05,480 --> 00:00:08,320
+object using inkscape before we get
+
+5
+00:00:08,320 --> 00:00:09,519
+started though if you want to learn more
+
+6
+00:00:09,519 --> 00:00:10,960
+about how inkscape Works be sure to
+
+7
+00:00:10,960 --> 00:00:13,080
+check out my inkscape master class it's
+
+8
+00:00:13,080 --> 00:00:14,879
+a collection of over 80 videos where we
+
+9
+00:00:14,879 --> 00:00:16,520
+go over all of the tools and features in
+
+10
+00:00:16,520 --> 00:00:18,640
+inkscape and I explain what they are and
+
+11
+00:00:18,640 --> 00:00:20,240
+demonstrate how they work kind of like
+
+12
+00:00:20,240 --> 00:00:22,680
+how I'll do in this video we even have a
+
+13
+00:00:22,680 --> 00:00:24,119
+private Community where you can ask
+
+14
+00:00:24,119 --> 00:00:25,680
+questions and get help from me anytime
+
+15
+00:00:25,680 --> 00:00:27,359
+you need it I'll have some information
+
+16
+00:00:27,359 --> 00:00:28,480
+about that down below if you want to
+
+17
+00:00:28,480 --> 00:00:30,320
+check that out and now that that out of
+
+18
+00:00:30,320 --> 00:00:32,520
+the way let's get started so I'm going
+
+19
+00:00:32,520 --> 00:00:33,879
+to open up a blank document and I'm
+
+20
+00:00:33,879 --> 00:00:36,280
+going to grab my text tool by either
+
+21
+00:00:36,280 --> 00:00:37,680
+grabbing it from the toolbar over here
+
+22
+00:00:37,680 --> 00:00:38,920
+or just pressing the letter t on the
+
+23
+00:00:38,920 --> 00:00:40,520
+keyboard and I'm going to click on the
+
+24
+00:00:40,520 --> 00:00:42,079
+canvas and for this demonstration I'm
+
+25
+00:00:42,079 --> 00:00:43,360
+just going to use the letter s I'm going
+
+26
+00:00:43,360 --> 00:00:46,079
+to use a large capital letter s I'm
+
+27
+00:00:46,079 --> 00:00:47,719
+going to hold control and scale this up
+
+28
+00:00:47,719 --> 00:00:50,760
+so that we maintain the aspect ratio and
+
+29
+00:00:50,760 --> 00:00:53,320
+let me open up my text editor by going
+
+30
+00:00:53,320 --> 00:00:56,079
+to text and selecting text and font and
+
+31
+00:00:56,079 --> 00:00:58,640
+I'm going to change the font of this to
+
+32
+00:00:58,640 --> 00:01:00,920
+monserat Black and I'm going to use a
+
+33
+00:01:00,920 --> 00:01:02,399
+very heavyweight front for this because
+
+34
+00:01:02,399 --> 00:01:04,280
+it gives us more space to fill in with
+
+35
+00:01:04,280 --> 00:01:07,479
+that object let me scale this up some
+
+36
+00:01:07,479 --> 00:01:10,000
+more I'm going to convert this to a path
+
+37
+00:01:10,000 --> 00:01:12,799
+by going to path object to path and then
+
+38
+00:01:12,799 --> 00:01:14,759
+I will quote unquote ungroup it by going
+
+39
+00:01:14,759 --> 00:01:18,000
+to object ungroup now nothing visibly
+
+40
+00:01:18,000 --> 00:01:19,360
+changes there but it just it's a
+
+41
+00:01:19,360 --> 00:01:20,840
+function that's required to make this
+
+42
+00:01:20,840 --> 00:01:23,000
+work as needed and now I'm going to open
+
+43
+00:01:23,000 --> 00:01:26,320
+up the layers menu by going to layer and
+
+44
+00:01:26,320 --> 00:01:28,880
+selecting layers and objects and if you
+
+45
+00:01:28,880 --> 00:01:30,680
+notice here this text next object is
+
+46
+00:01:30,680 --> 00:01:33,000
+located on layer one I'm going to create
+
+47
+00:01:33,000 --> 00:01:34,680
+a new layer on top of this where I'm
+
+48
+00:01:34,680 --> 00:01:36,119
+going to place the object that I would
+
+49
+00:01:36,119 --> 00:01:37,439
+like to fill this in with so I'm going
+
+50
+00:01:37,439 --> 00:01:39,920
+to click this plus icon up here and it's
+
+51
+00:01:39,920 --> 00:01:42,680
+going to add a new layer and I have an
+
+52
+00:01:42,680 --> 00:01:44,759
+object already copied to my clipboard
+
+53
+00:01:44,759 --> 00:01:46,439
+I'm just going to press control V to
+
+54
+00:01:46,439 --> 00:01:48,280
+paste that in there you can use any
+
+55
+00:01:48,280 --> 00:01:51,000
+object you want to fill in your shape or
+
+56
+00:01:51,000 --> 00:01:53,520
+letter you can use a single object or as
+
+57
+00:01:53,520 --> 00:01:55,159
+in my case I'm using a grouping of
+
+58
+00:01:55,159 --> 00:01:57,399
+objects here so I have this orange slice
+
+59
+00:01:57,399 --> 00:01:58,600
+that I created I'm just going to fill it
+
+60
+00:01:58,600 --> 00:02:00,680
+in with this let me scale this down a
+
+61
+00:02:00,680 --> 00:02:03,360
+little bit and I want to Center this I
+
+62
+00:02:03,360 --> 00:02:05,079
+want to put this in the top left corner
+
+63
+00:02:05,079 --> 00:02:07,000
+of this object but first let me take
+
+64
+00:02:07,000 --> 00:02:09,679
+this object and make note of the size if
+
+65
+00:02:09,679 --> 00:02:11,280
+I come up here to the the settings where
+
+66
+00:02:11,280 --> 00:02:13,920
+it says W and H for width and height you
+
+67
+00:02:13,920 --> 00:02:15,760
+can see the size I'm going to size this
+
+68
+00:02:15,760 --> 00:02:18,160
+at 500 pixels wide and then it's going
+
+69
+00:02:18,160 --> 00:02:21,440
+to go to about 580 pixels high so I'm
+
+70
+00:02:21,440 --> 00:02:22,680
+going to make a mental note of this
+
+71
+00:02:22,680 --> 00:02:24,640
+width and height for my instance here
+
+72
+00:02:24,640 --> 00:02:26,599
+I'm going to use 500 by 600 I'm just
+
+73
+00:02:26,599 --> 00:02:28,480
+going to round up to make it easier I'm
+
+74
+00:02:28,480 --> 00:02:31,040
+going to click on this object hold shift
+
+75
+00:02:31,040 --> 00:02:33,480
+click on this object and I want to align
+
+76
+00:02:33,480 --> 00:02:35,120
+those two together so let me come up
+
+77
+00:02:35,120 --> 00:02:38,720
+here to object and go to align and
+
+78
+00:02:38,720 --> 00:02:40,760
+distribute and let me choose last
+
+79
+00:02:40,760 --> 00:02:44,120
+selected and I'm going to align the left
+
+80
+00:02:44,120 --> 00:02:46,360
+edges and the top edges so that it
+
+81
+00:02:46,360 --> 00:02:49,040
+places the object in the top left corner
+
+82
+00:02:49,040 --> 00:02:51,599
+of this object's bounding box and now I
+
+83
+00:02:51,599 --> 00:02:53,159
+can click off of it to select every to
+
+84
+00:02:53,159 --> 00:02:55,400
+deselect everything so let me just come
+
+85
+00:02:55,400 --> 00:02:56,680
+over here to my layers menu and make
+
+86
+00:02:56,680 --> 00:02:58,319
+sure I have everything as I need it this
+
+87
+00:02:58,319 --> 00:02:59,879
+object here is in Layer Two and this
+
+88
+00:02:59,879 --> 00:03:01,480
+this object is layer one everything
+
+89
+00:03:01,480 --> 00:03:03,560
+looks good there now I'm going to use
+
+90
+00:03:03,560 --> 00:03:05,959
+the tiled clones feature to generate
+
+91
+00:03:05,959 --> 00:03:08,560
+copies of this image inside or this
+
+92
+00:03:08,560 --> 00:03:11,200
+graphic inside of this letter so to do
+
+93
+00:03:11,200 --> 00:03:14,599
+that I'm going to go to edit clone and
+
+94
+00:03:14,599 --> 00:03:17,319
+choose create tiled clones and the
+
+95
+00:03:17,319 --> 00:03:19,280
+settings I'm going to use for this I'm
+
+96
+00:03:19,280 --> 00:03:21,400
+first going to come over here to scale
+
+97
+00:03:21,400 --> 00:03:22,640
+and I want to make sure I have the
+
+98
+00:03:22,640 --> 00:03:25,000
+randomized column set to 50% for both
+
+99
+00:03:25,000 --> 00:03:27,200
+the X and the Y AIS make sure you have
+
+100
+00:03:27,200 --> 00:03:28,840
+zeros in here it should be by default
+
+101
+00:03:28,840 --> 00:03:31,200
+but if not just make sure to enter zeros
+
+102
+00:03:31,200 --> 00:03:32,120
+and then I'll come over here to the
+
+103
+00:03:32,120 --> 00:03:33,959
+rotation we want to rotate this object
+
+104
+00:03:33,959 --> 00:03:35,280
+as well we don't want it to just be the
+
+105
+00:03:35,280 --> 00:03:37,239
+same rotation all the way through we
+
+106
+00:03:37,239 --> 00:03:39,319
+want randomized rotation so I set the
+
+107
+00:03:39,319 --> 00:03:42,000
+randomize to 100% I'm going to leave
+
+108
+00:03:42,000 --> 00:03:45,519
+these two at zero and bluring opacity
+
+109
+00:03:45,519 --> 00:03:47,879
+I'll leave that empty color I'll leave
+
+110
+00:03:47,879 --> 00:03:49,400
+that empty and I'll come over here to
+
+111
+00:03:49,400 --> 00:03:51,360
+trace you want to enable this option
+
+112
+00:03:51,360 --> 00:03:53,000
+right here that says trace the drawing
+
+113
+00:03:53,000 --> 00:03:56,319
+under the Clone SL spray items and we're
+
+114
+00:03:56,319 --> 00:03:58,519
+going to choose the opacity setting and
+
+115
+00:03:58,519 --> 00:04:00,319
+then only the presence setting make sure
+
+116
+00:04:00,319 --> 00:04:02,720
+you deselect these other settings here
+
+117
+00:04:02,720 --> 00:04:05,079
+and now when we choose between rows and
+
+118
+00:04:05,079 --> 00:04:06,439
+columns or width and height we're going
+
+119
+00:04:06,439 --> 00:04:08,159
+to choose width and height and we're
+
+120
+00:04:08,159 --> 00:04:10,560
+going to enter that width and height of
+
+121
+00:04:10,560 --> 00:04:11,879
+this object that you made note of
+
+122
+00:04:11,879 --> 00:04:13,519
+earlier so for my example here I was
+
+123
+00:04:13,519 --> 00:04:15,040
+doing this earlier so these numbers are
+
+124
+00:04:15,040 --> 00:04:18,880
+already there it's 500 by 600 so now
+
+125
+00:04:18,880 --> 00:04:20,040
+with that in place I'm going to click
+
+126
+00:04:20,040 --> 00:04:22,680
+the create button and it should generate
+
+127
+00:04:22,680 --> 00:04:24,800
+copies of that object within the other
+
+128
+00:04:24,800 --> 00:04:27,160
+object now if you notice the copies are
+
+129
+00:04:27,160 --> 00:04:28,600
+kind of large I didn't really like how
+
+130
+00:04:28,600 --> 00:04:29,720
+that came out so I'm going to press
+
+131
+00:04:29,720 --> 00:04:31,840
+press command Z or control Z to undo
+
+132
+00:04:31,840 --> 00:04:33,479
+that and I'm going to make this object a
+
+133
+00:04:33,479 --> 00:04:34,960
+little smaller and try that again I'm
+
+134
+00:04:34,960 --> 00:04:36,880
+going to make that a little bit smaller
+
+135
+00:04:36,880 --> 00:04:38,440
+let me Zoom back out and click the
+
+136
+00:04:38,440 --> 00:04:40,720
+create button again and see how that
+
+137
+00:04:40,720 --> 00:04:43,120
+goes okay that looks a little better but
+
+138
+00:04:43,120 --> 00:04:44,759
+still a little large let me undo that
+
+139
+00:04:44,759 --> 00:04:49,120
+again and I'll make this a little bit
+
+140
+00:04:49,440 --> 00:04:51,600
+smaller and this should do the trick
+
+141
+00:04:51,600 --> 00:04:53,560
+this time let me try it one more
+
+142
+00:04:53,560 --> 00:04:56,960
+time okay that looks a lot better so now
+
+143
+00:04:56,960 --> 00:04:58,960
+that that's in place let me zoom in on
+
+144
+00:04:58,960 --> 00:05:00,479
+this a little bit let me close out of
+
+145
+00:05:00,479 --> 00:05:02,320
+the tille Clones menu we don't need that
+
+146
+00:05:02,320 --> 00:05:04,520
+anymore if you notice the objects are
+
+147
+00:05:04,520 --> 00:05:06,039
+overlapping each other which doesn't
+
+148
+00:05:06,039 --> 00:05:07,680
+really create a good effect we want them
+
+149
+00:05:07,680 --> 00:05:10,400
+to be not overlapping so to correct that
+
+150
+00:05:10,400 --> 00:05:12,199
+I'm going to hold control and shift and
+
+151
+00:05:12,199 --> 00:05:13,880
+take this original object and scale it
+
+152
+00:05:13,880 --> 00:05:15,560
+down a little bit and if you notice when
+
+153
+00:05:15,560 --> 00:05:17,520
+I do that all of the other objects scale
+
+154
+00:05:17,520 --> 00:05:18,880
+down as well because these are all
+
+155
+00:05:18,880 --> 00:05:20,720
+linked clones so whatever I do to this
+
+156
+00:05:20,720 --> 00:05:23,160
+original object it will also happen to
+
+157
+00:05:23,160 --> 00:05:25,520
+these other objects so scaling it up and
+
+158
+00:05:25,520 --> 00:05:27,880
+down will help increase and decrease the
+
+159
+00:05:27,880 --> 00:05:31,199
+density of the objects within the shape
+
+160
+00:05:31,199 --> 00:05:32,560
+and that right there looks like a good
+
+161
+00:05:32,560 --> 00:05:34,199
+happy medium I'm going to move this out
+
+162
+00:05:34,199 --> 00:05:36,160
+of the way if you notice we have some
+
+163
+00:05:36,160 --> 00:05:38,160
+imperfections in here a lot of these
+
+164
+00:05:38,160 --> 00:05:40,280
+objects went outside of the shape that's
+
+165
+00:05:40,280 --> 00:05:41,600
+okay we could just go through and click
+
+166
+00:05:41,600 --> 00:05:43,360
+on them and press delete one by one to
+
+167
+00:05:43,360 --> 00:05:44,880
+get rid of them so I'm just going to go
+
+168
+00:05:44,880 --> 00:05:48,120
+through here and delete these real
+
+169
+00:05:50,240 --> 00:05:52,360
+quick and another thing you'll probably
+
+170
+00:05:52,360 --> 00:05:53,639
+want to do let me just get rid of that
+
+171
+00:05:53,639 --> 00:05:55,720
+one as well another thing you'll want to
+
+172
+00:05:55,720 --> 00:05:57,240
+do is go and move these around a little
+
+173
+00:05:57,240 --> 00:05:59,000
+bit just to correct the spacing and we
+
+174
+00:05:59,000 --> 00:06:00,120
+we're just going to do this manually
+
+175
+00:06:00,120 --> 00:06:01,919
+we're going to go through these one by
+
+176
+00:06:01,919 --> 00:06:03,120
+one let me come up here to the top of
+
+177
+00:06:03,120 --> 00:06:04,919
+the layers menu I'm going to collapse
+
+178
+00:06:04,919 --> 00:06:07,800
+layer two so I can see layer one and I
+
+179
+00:06:07,800 --> 00:06:09,520
+want to lock layer one so that I don't
+
+180
+00:06:09,520 --> 00:06:11,960
+accidentally move the layer or the
+
+181
+00:06:11,960 --> 00:06:13,599
+object in the layer with what I'm about
+
+182
+00:06:13,599 --> 00:06:14,960
+to do because what what I'm going to do
+
+183
+00:06:14,960 --> 00:06:16,800
+now is I'm just going to manually move
+
+184
+00:06:16,800 --> 00:06:18,440
+these objects around so that they are
+
+185
+00:06:18,440 --> 00:06:20,680
+sitting on the edge of the shape or the
+
+186
+00:06:20,680 --> 00:06:22,960
+letter and you may have to just manually
+
+187
+00:06:22,960 --> 00:06:24,680
+adjust these so that they
+
+188
+00:06:24,680 --> 00:06:27,520
+are uh evenly spaced out and they don't
+
+189
+00:06:27,520 --> 00:06:29,240
+overlap each other or they don't look
+
+190
+00:06:29,240 --> 00:06:31,199
+like they're big gaps between them so
+
+191
+00:06:31,199 --> 00:06:32,360
+I'm just going to balance these out a
+
+192
+00:06:32,360 --> 00:06:33,560
+little bit and again this is something
+
+193
+00:06:33,560 --> 00:06:35,240
+we're going to do manually you can hold
+
+194
+00:06:35,240 --> 00:06:37,280
+control and scale it up and down and if
+
+195
+00:06:37,280 --> 00:06:38,680
+you want to make additional copies you
+
+196
+00:06:38,680 --> 00:06:39,840
+could just click and drag it and then
+
+197
+00:06:39,840 --> 00:06:41,440
+press the space bar and it'll make
+
+198
+00:06:41,440 --> 00:06:43,000
+copies of it so you can just make copies
+
+199
+00:06:43,000 --> 00:06:44,280
+in there like that by pressing your
+
+200
+00:06:44,280 --> 00:06:46,720
+space bar and I'll move these around a
+
+201
+00:06:46,720 --> 00:06:49,120
+little bit as well and I think you get
+
+202
+00:06:49,120 --> 00:06:50,520
+the idea so let me just go through here
+
+203
+00:06:50,520 --> 00:06:51,880
+real quick and just straighten this out
+
+204
+00:06:51,880 --> 00:06:53,680
+so that it looks good and then I will
+
+205
+00:06:53,680 --> 00:06:57,520
+catch up with you when I'm finished
+
+206
+00:07:00,720 --> 00:07:02,080
+all right so for the most part I
+
+207
+00:07:02,080 --> 00:07:03,599
+finished up here there's a few loose
+
+208
+00:07:03,599 --> 00:07:05,160
+ends that need to be tied up this one
+
+209
+00:07:05,160 --> 00:07:06,639
+looks a little big and there's some
+
+210
+00:07:06,639 --> 00:07:07,960
+empty gaps in there but you should get
+
+211
+00:07:07,960 --> 00:07:10,039
+the idea by now the really important
+
+212
+00:07:10,039 --> 00:07:11,440
+thing when doing this is to make sure
+
+213
+00:07:11,440 --> 00:07:13,120
+that you have these objects as close to
+
+214
+00:07:13,120 --> 00:07:15,319
+the edge of the larger object as
+
+215
+00:07:15,319 --> 00:07:16,400
+possible because that's what's really
+
+216
+00:07:16,400 --> 00:07:18,680
+going to help it maintain its appearance
+
+217
+00:07:18,680 --> 00:07:20,720
+as the original shape if they get too
+
+218
+00:07:20,720 --> 00:07:22,160
+far from The Edge it's going to kind of
+
+219
+00:07:22,160 --> 00:07:23,919
+lose its appearance so that's really
+
+220
+00:07:23,919 --> 00:07:25,840
+important and once you're done doing all
+
+221
+00:07:25,840 --> 00:07:27,560
+of this these objects should still be
+
+222
+00:07:27,560 --> 00:07:29,560
+linked together so you can still
+
+223
+00:07:29,560 --> 00:07:31,240
+increase or decrease the size of these
+
+224
+00:07:31,240 --> 00:07:33,240
+clones if you want to using the original
+
+225
+00:07:33,240 --> 00:07:34,800
+but I think it looks good as it was so
+
+226
+00:07:34,800 --> 00:07:36,639
+I'll just put that back and now that
+
+227
+00:07:36,639 --> 00:07:38,000
+that's done let me come back up here to
+
+228
+00:07:38,000 --> 00:07:40,160
+my top the top of my layers menu I'm
+
+229
+00:07:40,160 --> 00:07:41,560
+going to collapse Layer Two where all
+
+230
+00:07:41,560 --> 00:07:43,560
+those all of those clones are and I'll
+
+231
+00:07:43,560 --> 00:07:45,240
+come over here to layer one and I'm just
+
+232
+00:07:45,240 --> 00:07:46,599
+going to turn off the visibility of it
+
+233
+00:07:46,599 --> 00:07:48,440
+and you can see the effect now I've
+
+234
+00:07:48,440 --> 00:07:50,440
+taken this object and filled in the
+
+235
+00:07:50,440 --> 00:07:52,919
+other object with copies of it and maybe
+
+236
+00:07:52,919 --> 00:07:56,039
+I'll even make this a little
+
+237
+00:07:57,240 --> 00:07:59,080
+bigger yeah that looks pretty good I
+
+238
+00:07:59,080 --> 00:08:01,599
+like how that looks right there and yeah
+
+239
+00:08:01,599 --> 00:08:02,479
+I think that should do it for this
+
+240
+00:08:02,479 --> 00:08:03,960
+tutorial so that's how you can use the
+
+241
+00:08:03,960 --> 00:08:06,240
+tiled clones feature in inkscape to fill
+
+242
+00:08:06,240 --> 00:08:08,520
+in an object with another object if you
+
+243
+00:08:08,520 --> 00:08:10,000
+have any questions just leave a comment
+
+244
+00:08:10,000 --> 00:08:12,560
+below and as always thanks for watching
+
+245
+00:08:12,560 --> 00:08:14,159
+if you found this lesson useful then
+
+246
+00:08:14,159 --> 00:08:16,240
+consider checking out my inkscape master
+
+247
+00:08:16,240 --> 00:08:18,440
+class it's a collection of over 60
+
+248
+00:08:18,440 --> 00:08:20,080
+videos where I go over all of the tools
+
+249
+00:08:20,080 --> 00:08:22,159
+and features in inkscape and I explain
+
+250
+00:08:22,159 --> 00:08:23,680
+what they are and demonstrate how they
+
+251
+00:08:23,680 --> 00:08:25,440
+work kind of like how I did in this
+
+252
+00:08:25,440 --> 00:08:27,759
+video we even have a private Community
+
+253
+00:08:27,759 --> 00:08:29,560
+where you can ask questions and get help
+
+254
+00:08:29,560 --> 00:08:32,200
+for me anytime you want and best of all
+
+255
+00:08:32,200 --> 00:08:34,000
+there's no monthly membership fees you
+
+256
+00:08:34,000 --> 00:08:37,120
+just pay $17 one time and you're in for
+
+257
+00:08:37,120 --> 00:08:38,839
+Life I'll have some information about
+
+258
+00:08:38,839 --> 00:08:39,958
+that down below if you want to check
+
+259
+00:08:39,958 --> 00:08:44,719
+that out as always thanks for watching
+
+260
+00:08:49,070 --> 00:08:53,529
+[Music]
+
+261
+00:09:01,640 --> 00:09:04,440
+oh
+

@@ -1,0 +1,512 @@
+1
+00:00:00,359 --> 00:00:01,920
+in this tutorial we'll be going over
+
+2
+00:00:01,920 --> 00:00:03,360
+some of the ways in which you can warp
+
+3
+00:00:03,360 --> 00:00:05,799
+and distort objects in inkscape by using
+
+4
+00:00:05,799 --> 00:00:08,240
+various path effects so to get started
+
+5
+00:00:08,240 --> 00:00:09,519
+we'll have a look at the envelope
+
+6
+00:00:09,519 --> 00:00:11,799
+deformation path effect I have this text
+
+7
+00:00:11,799 --> 00:00:13,599
+object on my screen here I'm going to
+
+8
+00:00:13,599 --> 00:00:15,599
+convert this from text to a path by
+
+9
+00:00:15,599 --> 00:00:18,560
+selecting it and going to path and
+
+10
+00:00:18,560 --> 00:00:21,439
+selecting object to path and now I'll
+
+11
+00:00:21,439 --> 00:00:23,359
+open up my path effects menu by going to
+
+12
+00:00:23,359 --> 00:00:25,640
+path and selecting path
+
+13
+00:00:25,640 --> 00:00:27,760
+effects from the menu I'm going to click
+
+14
+00:00:27,760 --> 00:00:29,519
+this plus icon down here to add a new
+
+15
+00:00:29,519 --> 00:00:31,000
+path effect
+
+16
+00:00:31,000 --> 00:00:32,759
+and the path effect I'm looking for is
+
+17
+00:00:32,759 --> 00:00:34,399
+envelope deformation so I'm going to
+
+18
+00:00:34,399 --> 00:00:35,440
+select
+
+19
+00:00:35,440 --> 00:00:37,600
+that and let me zoom in on this so I can
+
+20
+00:00:37,600 --> 00:00:39,640
+see it better and if you notice in the
+
+21
+00:00:39,640 --> 00:00:42,160
+menu over here we have four different
+
+22
+00:00:42,160 --> 00:00:44,840
+ways in which we can distort this object
+
+23
+00:00:44,840 --> 00:00:46,879
+top bottom left and right so if I click
+
+24
+00:00:46,879 --> 00:00:49,680
+this button right here bend the top path
+
+25
+00:00:49,680 --> 00:00:51,039
+we're going to get this green line on
+
+26
+00:00:51,039 --> 00:00:52,440
+the canvas you could take that green
+
+27
+00:00:52,440 --> 00:00:55,079
+line and move that up like that so you
+
+28
+00:00:55,079 --> 00:00:56,719
+end up with that effect right there and
+
+29
+00:00:56,719 --> 00:00:58,480
+you can click on each node and change
+
+30
+00:00:58,480 --> 00:01:00,480
+these handles so that you get this warp
+
+31
+00:01:00,480 --> 00:01:02,879
+effect as you can see here and I'll do
+
+32
+00:01:02,879 --> 00:01:04,280
+the same thing down here with the bottom
+
+33
+00:01:04,280 --> 00:01:07,840
+path I'll change that as
+
+34
+00:01:07,840 --> 00:01:09,920
+well and if you want to change the right
+
+35
+00:01:09,920 --> 00:01:11,200
+and left path you could just click the
+
+36
+00:01:11,200 --> 00:01:12,600
+buttons for those as well you can bring
+
+37
+00:01:12,600 --> 00:01:14,600
+this in or you could bring it out like
+
+38
+00:01:14,600 --> 00:01:16,640
+that and I'll do the same thing over
+
+39
+00:01:16,640 --> 00:01:18,240
+here for the left path like this I'll
+
+40
+00:01:18,240 --> 00:01:20,240
+bring this one
+
+41
+00:01:20,240 --> 00:01:22,479
+in and then we end up with that effect
+
+42
+00:01:22,479 --> 00:01:24,079
+right there and then we have these other
+
+43
+00:01:24,079 --> 00:01:25,799
+options over here that we can enable as
+
+44
+00:01:25,799 --> 00:01:27,439
+well so if I toggle off the left and
+
+45
+00:01:27,439 --> 00:01:29,720
+right paths we end up with this effect
+
+46
+00:01:29,720 --> 00:01:31,560
+right right there and since this is a
+
+47
+00:01:31,560 --> 00:01:33,320
+path effect this is temporary and can be
+
+48
+00:01:33,320 --> 00:01:35,320
+undone at any time by just toggling off
+
+49
+00:01:35,320 --> 00:01:36,840
+the visibility of the path effect right
+
+50
+00:01:36,840 --> 00:01:38,799
+there or you can remove it by pressing
+
+51
+00:01:38,799 --> 00:01:40,720
+the minus button right there so I'll
+
+52
+00:01:40,720 --> 00:01:42,240
+turn that back on if you want to
+
+53
+00:01:42,240 --> 00:01:45,000
+finalize the effect just go to path
+
+54
+00:01:45,000 --> 00:01:47,200
+object to path and now you can grab your
+
+55
+00:01:47,200 --> 00:01:48,920
+nodes tool and you can see that this is
+
+56
+00:01:48,920 --> 00:01:52,079
+finalized and the path has been warped
+
+57
+00:01:52,079 --> 00:01:53,560
+so another way in which you can warp
+
+58
+00:01:53,560 --> 00:01:56,079
+objects and inkscape is by using the
+
+59
+00:01:56,079 --> 00:01:57,840
+bend path effect which allows you to
+
+60
+00:01:57,840 --> 00:02:00,479
+bend an object along a linear path so a
+
+61
+00:02:00,479 --> 00:02:01,880
+good example for this here I have this
+
+62
+00:02:01,880 --> 00:02:04,240
+drawing of a lion and let's say I wanted
+
+63
+00:02:04,240 --> 00:02:06,520
+to add a tail to this Lon I created this
+
+64
+00:02:06,520 --> 00:02:08,399
+simple little tail using an intersecting
+
+65
+00:02:08,399 --> 00:02:10,598
+area between two circles and a triangle
+
+66
+00:02:10,598 --> 00:02:12,400
+and I unified it all together so I'm
+
+67
+00:02:12,400 --> 00:02:14,440
+going to place the tail on the lion here
+
+68
+00:02:14,440 --> 00:02:16,239
+and to make this look curved so it looks
+
+69
+00:02:16,239 --> 00:02:17,920
+more natural I'm going to go to the path
+
+70
+00:02:17,920 --> 00:02:20,519
+effects menu and I'm going to add a new
+
+71
+00:02:20,519 --> 00:02:21,360
+path
+
+72
+00:02:21,360 --> 00:02:23,400
+effect and the path effect I'm looking
+
+73
+00:02:23,400 --> 00:02:26,440
+for this time is Bend so I'm actually
+
+74
+00:02:26,440 --> 00:02:27,840
+going to type it up here so I could find
+
+75
+00:02:27,840 --> 00:02:31,440
+it Bend there we go
+
+76
+00:02:31,440 --> 00:02:33,200
+and now if you click this button over
+
+77
+00:02:33,200 --> 00:02:35,440
+here where it says Bend path you have
+
+78
+00:02:35,440 --> 00:02:37,959
+this green line that you can edit so I
+
+79
+00:02:37,959 --> 00:02:39,480
+could take this and pull this down like
+
+80
+00:02:39,480 --> 00:02:41,599
+that and as you can see there the path
+
+81
+00:02:41,599 --> 00:02:43,760
+is being or the object rather is being
+
+82
+00:02:43,760 --> 00:02:46,519
+bent along that Green Path and you could
+
+83
+00:02:46,519 --> 00:02:48,239
+adjust these handles and you could take
+
+84
+00:02:48,239 --> 00:02:49,480
+this handle over here if you need to
+
+85
+00:02:49,480 --> 00:02:51,640
+make this wider like
+
+86
+00:02:51,640 --> 00:02:53,920
+that just like that and there we go we
+
+87
+00:02:53,920 --> 00:02:56,440
+have now we have a bent path that looks
+
+88
+00:02:56,440 --> 00:02:59,159
+more natural like a lion's tail and the
+
+89
+00:02:59,159 --> 00:03:00,680
+final path effect we'll be having a look
+
+90
+00:03:00,680 --> 00:03:02,440
+at is the lattice deformation which
+
+91
+00:03:02,440 --> 00:03:04,080
+gives you multiple points in which you
+
+92
+00:03:04,080 --> 00:03:06,319
+can warp an object so if I select my
+
+93
+00:03:06,319 --> 00:03:08,519
+subject here and I add a path effect I'm
+
+94
+00:03:08,519 --> 00:03:10,920
+going to look for lattice
+
+95
+00:03:10,920 --> 00:03:13,879
+deformation there we go and once you
+
+96
+00:03:13,879 --> 00:03:15,080
+have that applied you can come over here
+
+97
+00:03:15,080 --> 00:03:17,000
+to your edit pads by nodes tool and you
+
+98
+00:03:17,000 --> 00:03:18,959
+can see we have this blue grid with
+
+99
+00:03:18,959 --> 00:03:20,560
+nodes placed on it and you could take
+
+100
+00:03:20,560 --> 00:03:22,360
+these nodes and move them around like
+
+101
+00:03:22,360 --> 00:03:25,879
+this to distort the object so if I go
+
+102
+00:03:25,879 --> 00:03:28,360
+like that I can make the subject taller
+
+103
+00:03:28,360 --> 00:03:30,879
+or shorter and can warp and distort it
+
+104
+00:03:30,879 --> 00:03:33,000
+in various ways so that it doesn't look
+
+105
+00:03:33,000 --> 00:03:35,480
+so so much like the original object
+
+106
+00:03:35,480 --> 00:03:37,799
+there like that and if I select my
+
+107
+00:03:37,799 --> 00:03:39,760
+selection tool and toggle this off you
+
+108
+00:03:39,760 --> 00:03:41,519
+could see the difference there we were
+
+109
+00:03:41,519 --> 00:03:44,480
+able to warp this object rather easily
+
+110
+00:03:44,480 --> 00:03:46,640
+using that path effect so that's just a
+
+111
+00:03:46,640 --> 00:03:48,040
+few of the ways in which you can warp
+
+112
+00:03:48,040 --> 00:03:50,319
+and distort objects in inkscape if you
+
+113
+00:03:50,319 --> 00:03:52,079
+found this lesson useful then consider
+
+114
+00:03:52,079 --> 00:03:54,560
+checking out my inkscape master class
+
+115
+00:03:54,560 --> 00:03:56,360
+it's a collection of over 60 videos
+
+116
+00:03:56,360 --> 00:03:57,799
+where I go over all of the tools and
+
+117
+00:03:57,799 --> 00:03:59,920
+features in inkscape and I explain what
+
+118
+00:03:59,920 --> 00:04:01,840
+they are and demonstrate how they work
+
+119
+00:04:01,840 --> 00:04:03,959
+kind of like how I did in this video we
+
+120
+00:04:03,959 --> 00:04:05,560
+even have a private Community where you
+
+121
+00:04:05,560 --> 00:04:07,760
+can ask questions and get help from me
+
+122
+00:04:07,760 --> 00:04:10,000
+anytime you want and best of all there's
+
+123
+00:04:10,000 --> 00:04:12,079
+no monthly membership fees you just pay
+
+124
+00:04:12,079 --> 00:04:15,360
+$17 one time and you're in for Life I'll
+
+125
+00:04:15,360 --> 00:04:16,720
+have some information about that down
+
+126
+00:04:16,720 --> 00:04:18,358
+below if you want to check that out as
+
+127
+00:04:18,358 --> 00:04:22,280
+always thanks for watching
+
+128
+00:04:26,910 --> 00:04:30,720
+[Music]
+

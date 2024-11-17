@@ -1,0 +1,189 @@
+
+when  inkscape  released  version  1.0
+
+earlier  this  year  they  made  a  pretty  big
+
+change  to  the  way  that  the  stroke  to
+
+path  function  works
+
+and  it  was  significant  enough  that  it
+
+actually  broke  some  of  my  older
+
+tutorials
+
+so  i  wanted  to  put  this  video  together
+
+to  address  this  problem  and  how  you  can
+
+work  around  it  if  youre  following  along
+
+with  one  of  my  older  tutorials
+
+and  getting  stuck  on  the  stroke  to  path
+
+part
+
+
+
+so  on  my  screen  here  i  have  two
+
+different  versions  of  inkscape  opened
+
+this  is  the  older  version  of  inkscape
+
+which  is
+
+0.92.5  and  then  this  over  here  is  the
+
+new  version  of  inkscape  which  is  version
+
+1.0
+
+and  as  you  can  see  i  have  the  same
+
+object  posted  into  each
+
+each  installation  if  you  notice  this  is
+
+a  circle  its  a  green  circle  with  a
+
+green  fill  and  a  red  stroke  as  you  can
+
+see  here  in  the  data
+
+the  fill  is  green  the  stroke  is  red  and
+
+what  happens  is
+
+in  the  older  version  of  inkscape  if  you
+
+go  to  path
+
+stroke  to  path  it  takes  that  red  stroke
+
+and  turns  it  into  a  path  of  its  own  if
+
+you  go  to  the  nodes  tool  youll  see
+
+now  that  is  now  a  red  object  of  its  own
+
+its  no  longer  a  stroke
+
+so  let  me  just  undo  that  and  come  over
+
+here  to  the  newer  version  of  inkscape  to
+
+show  you  how  it  works  now
+
+now  if  you  go  to  path  stroke  to  path
+
+nothing  visual  nothing  visibly  changes
+
+on  the  screen  but  what  it  did  was  it
+
+took
+
+this  it  took  the  red  stroke  and  turned
+
+it  into  a  path  of  its  own
+
+only  it  didnt  get  rid  of  the  green  fill
+
+it  kept  the  green  fill  as  a  separate
+
+object
+
+grouped  together  with  the  red  stroke  and
+
+to  see  what  i  mean  youll  have  to  go  to
+
+object
+
+ungroup  and  you  can  see  it  is  now  two
+
+separate  objects  so  you  have  this  here
+
+you  have  this  red  stroke  which  is  now
+
+its  own  path  but  it  also
+
+kept  this  green  fill  here  as  a  separate
+
+object
+
+so  let  me  undo  this  even  further  i  want
+
+to  show  you  what  the  uh  the  work  around
+
+is  now
+
+lets  come  back  over  here  to  the
+
+original  one  now  in  the  if  youre
+
+following  along  with  one  of  these
+
+tutorials  and  i  tell  you  to  do  stroke  to
+
+path
+
+break  apart  union  let  me  show  you  how
+
+that  works  if  you  go  to  path
+
+stroke  to  path  path  break  apart
+
+path  union  you  end  up  with  this  right
+
+here
+
+this  this  sequence  doesnt  work  in  the
+
+new  installation  of  inkscape  though  so
+
+what  you  have  to  do  is  you  have  to
+
+select  it
+
+and  go  to  path  stroke  to  path
+
+and  then  object  on  group
+
+and  then  path  union  so  basically  what
+
+youre  doing  is  were  taking  the
+
+sequence
+
+stroke  to  path  break  apart  union  and
+
+replacing  it  with
+
+stroke  to  path  on  group  union  ill  have
+
+this  all  written
+
+out  in  the  description  below  in  case  you
+
+find  it  easier  to  follow  along  with  that
+
+so
+
+i  just  wanted  to  put  this  video  together
+
+real  quick  to  address  that  problem
+
+hopefully  this  isnt  too  much  of  a
+
+disruption  to  your  learning  experience
+
+if  you  have  any  questions  just  leave  a
+
+comment  below  and  as  always  thanks  for
+
+watching
+
+
+

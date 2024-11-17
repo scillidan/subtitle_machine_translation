@@ -1,0 +1,705 @@
+
+taking  a  peek  into  the  world  of  graphic
+
+design  for  the  first  time  can  be  a  bit
+
+overwhelming
+
+theres  a  lot  to  learn  in  terms  of
+
+design  principles  color  theory
+
+techniques  and  branding  in  general  but
+
+if  you  want  to  create  digital  art  then
+
+you  first  have  to  familiarize  yourself
+
+with  the  tools  that  we  use  as  graphic
+
+designers
+
+as  of  right  now  the  industry  standard  is
+
+the  adobe  creative  suite  with
+
+applications  like  photoshop  and
+
+illustrator  leading  the  way
+
+these  programs  cost  a  lot  of  money
+
+though  and  they  come  with  some  pretty
+
+daunting  hardware  requirements
+
+this  can  be  a  bit  off-putting  for
+
+someone  who  just  has  a  casual  passing
+
+interest  in  graphic  design
+
+and  because  of  this  you  may  find
+
+yourself  looking  into  free  alternatives
+
+like  inkscape  and
+
+and  wondering  what  the  differences  are
+
+in  this  video  ill  be  comparing  both
+
+applications  going  over  what  their
+
+intended  uses  are
+
+the  pros  and  cons  of  each  and  most
+
+importantly  ill  be  helping  you
+
+determine  which  one  is  best  for  you
+
+this  is  nick  with  logosbynic.com  and  in
+
+this  video  well  be  doing  a
+
+comprehensive  comparison
+
+of  both  inkscape  and  the  first
+
+thing  you  need  to  understand  about
+
+inkscape  and  is  that
+
+although  theyre  both  free  and  open
+
+source  design  applications
+
+theyre  actually  quite  different
+
+comparing  inkscape  versus  is  no  way
+
+an  apples  to  apples  comparison
+
+theyre  two  very  different  tools  with
+
+very  different  intentions
+
+lets  have  a  closer  look
+
+despite  the  various  different  types  of
+
+graphic  formats  that  exist  in  the  world
+
+the  types  well  be  looking  at  in  this
+
+video  are  raster  and  vector  and  its
+
+important  to  understand  the  differences
+
+between  these  two  because  they  both
+
+represent  the  intended  uses
+
+for  inkscape  and  rasterization  is  a
+
+digital  imagery  format  where  the  image
+
+is  made  of  individual  colored  boxes
+
+known  as  pixels
+
+and  its  the  format  that  youre  probably
+
+most  familiar  with  this  is  commonly  used
+
+in  things  like  photos
+
+jpegs  and  other  types  of  imagery  you
+
+commonly  see  on  the  web
+
+the  raster  format  is  preferred  if  youre
+
+going  to  do  any  kind  of  design  work
+
+where  youll  be  editing  photographs  but
+
+its  not  ideal  for  things  like
+
+illustrations  and
+
+designs  where  you  need  clean  lines  and
+
+crisp  edges
+
+vector  graphics  on  the  other  hand  are  a
+
+different  type  of  imagery  format
+
+altogether
+
+vector  graphics  are  not  made  of  pixels
+
+theyre  a  series  of  coordinate  points
+
+that  dictate  the  properties  of  a  graphic
+
+on  an  x  and  y
+
+axis  this  makes  vector  graphics  ideal
+
+for  things  like  illustrations
+
+and  designs  where  you  need  to  have  crisp
+
+definitive  edges
+
+but  its  not  the  ideal  format  for
+
+working  with  photos  where  inkscape  and
+
+come  into  play  is  that  is
+
+intended  for  working  with  raster  imagery
+
+making  it  ideal  for  editing  photos  and
+
+inkscape
+
+is  a  vector  graphics  editor  making  it
+
+ideal  for  creating  digital  illustrations
+
+lets  take  a  more  in-depth  look  at  this
+
+is  a  free  and  open  source
+
+application  that  functions  in  the  raster
+
+environment
+
+and  its  widely  recognized  as  the  go-to
+
+free  alternative  for  adobe  photoshop
+
+which  stands  for  general  image
+
+manipulation  program
+
+was  originally  founded  in  1995  by
+
+developers  spencer  kimball  and  peter
+
+mattis  who  were  both  students  at  uc
+
+berkeley  at  the  time
+
+according  to  wikipedia  it  was  a
+
+semester-long  project  they  were  working
+
+on  for  the  experimental  computing
+
+facility
+
+as  the  years  went  by  continued  to
+
+evolve  as  it  saw  lots  of
+
+updates  and  new  features  from  a  bustling
+
+community  of  users  and  supporters
+
+believe  it  or  not  was  actually  used
+
+to  create  the  original  google  logo  in
+
+1998
+
+so  keep  that  in  mind  for  the  next  time
+
+that  somebody  wants  to  tell  you  that
+
+professional  work  cant  be  done  with
+
+open  source  software
+
+would  be  the  ideal  program  for  you
+
+if  youre  a  photographer  looking  to
+
+retouch  your  photos
+
+it  allows  you  to  adjust  things  like  the
+
+white  balance  the  exposure
+
+color  saturation  and  it  allows  for  some
+
+complex  color  correction  using  curves
+
+and  levels  as  well
+
+it  even  has  some  cool  features  that
+
+allow  you  to  do  things  like  alter  the
+
+shadows  and  highlights  of  a  photograph
+
+as  well  as  the  brightness  and  contrast
+
+would  also  be  ideal  if  youre  just
+
+looking  to  crop  an  image  or  maybe  crop
+
+something  from  an  image  and  remove
+
+the  background  theres  some  really
+
+advanced  tools  and  features  that  allow
+
+you  to  extract  subjects  from  your  photos
+
+even  if  they  have  strands  of  hair  and
+
+other  fine  details  that  make  it
+
+difficult  to  define
+
+you  can  also  use  to  make  some  quick
+
+and  easy  corrections  to  subtle
+
+imperfections  like
+
+skin  blemishes  and  yellow  teeth  you  can
+
+change  the  color  of  someones  eyes
+
+create  different  color  variations  for  a
+
+product  that  you  may  be  selling
+
+and  you  can  even  restore  color  to  black
+
+and  white  photos  and  by  the  way  i  have
+
+lessons  demonstrating  how  to  do  all  of
+
+these  things  on  my  channel
+
+if  you  want  to  check  that  out  isnt
+
+just  used  for  editing  photos  though
+
+you  can  also  use  it  to  create  some
+
+pretty  cool  effects  to  interact  with
+
+your  photos  like
+
+a  sliced  effect  mosaic  collages  3d
+
+text  and  you  could  even  turn  yourself
+
+into  a  caricature  if  youd  like
+
+finally  is  the  right  tool  for  you
+
+if  you  do  a  lot  of  sketching
+
+painting  or  airbrushing  it  comes
+
+equipped  with  lots  of
+
+brushes  and  presets  attended  for
+
+freehand  drawing  whether  it  be  by  mouse
+
+or  with  a  drawing  tablet
+
+you  can  even  download  brushes  that  were
+
+intended  for  photoshop  and  use  them  in
+
+
+and  if  you  cant  find  the  brush  youre
+
+looking  for  you  can  simply  create  a
+
+custom  brush  of  your  own
+
+although  is  a  great  tool  its  not
+
+the  right  tool  for  everything
+
+a  good  example  of  this  would  be  for
+
+designing  things  like  logos
+
+symbols  and  other  types  of  simple  iconic
+
+illustrations
+
+these  things  have  lots  of  individual
+
+moving  parts  that  you  need  to  regularly
+
+move  around  and  transform
+
+independent  of  the  rest  of  the  image  and
+
+the  way  that  functions  just
+
+isnt  suitable  for  this  sort  of  thing  it
+
+can  technically  be  done
+
+but  its  kind  of  like  using  a  fork  to
+
+eat  your  cereal  youre  making  life  a
+
+little  more  difficult  for  yourself  than
+
+it  needs  to  be  because
+
+theres  better  tools  that  you  can  use
+
+another  problem  with  using  is  that
+
+by  nature
+
+the  designs  you  create  will  not  be
+
+scalable  you  can  scale
+
+down  without  a  problem  but  if  you  try  to
+
+enlarge  your  image  youre  going  to  end
+
+up  with  pixelation
+
+or  in  other  words  the  individual  colored
+
+boxes  that  make  up  the  image
+
+are  going  to  become  more  visible  this
+
+reduces  the  quality  and  resolution  of
+
+the  image
+
+if  you  want  a  more  dynamic  graphic  that
+
+can  be  scaled  to  fit
+
+many  different  sizes  and  applications
+
+then  its  best  to  stick  with  vectors
+
+lets  talk  a  little  bit  about  inkscape
+
+now  unlike
+
+inkscape  doesnt  work  with  pixels  its  a
+
+vector  graphics  editor  and  its  widely
+
+recognized  as  the  best  free  alternative
+
+to  adobe  illustrator
+
+inkscape  started  out  as  a  code  fork  for
+
+sodipode  an  open  source  vector  graphics
+
+editor  that  was  discontinued  in  2004.
+
+the  project  was  led  by  developers  ted
+
+gould  bryce  harrington
+
+nathan  hearst  and  another  developer  who
+
+goes  by  the  name  mental  guy
+
+inkscape  has  come  a  long  way  since  then
+
+theyve  added  lots  of  useful  features
+
+like
+
+live  path  effects  text  manipulation  and
+
+various  third-party  extensions
+
+the  core  functionality  of  inkscape
+
+remains  the  same  though  so  you  never
+
+quite  feel  like  you  have  to  relearn
+
+anything
+
+despite  all  of  the  additions  and
+
+improvements
+
+inkscape  would  be  the  best  tool  to  use
+
+for  designing  logos
+
+logo  design  is  unique  from  other  types
+
+of  design  because  logos  are  typically
+
+used  in  a  wider  variety  of  contexts
+
+a  logo  needs  to  be  scaled  up  large
+
+enough  to  work  as  a  sign
+
+and  resize  to  fit  various  different
+
+dimensions
+
+one  of  the  benefits  of  working  with
+
+vector  graphics  is  that  they  can  be
+
+scaled  up
+
+infinitely  without  quality  loss  this
+
+means  that  you  can  take  your  logo  and
+
+enlarge  it  for  use  on  a  billboard  or  the
+
+side  of  a  van
+
+without  having  to  worry  about  pixelation
+
+the  vector  format  is  the  best
+
+platform  for  providing  a  logo  with  the
+
+versatility  that  it  needs
+
+inkscape  is  also  useful  when  it  comes  to
+
+creating  simple  illustrations  like  icons
+
+buttons  and  user  interface  inkscape
+
+makes  it  easy  to  work  with  simple  shapes
+
+and  objects  that  can  be  combined  and
+
+transformed  into  whatever  you  like
+
+you  can  also  adjust  the  coordinate
+
+points  of  an  object  otherwise  known  as
+
+nodes
+
+to  create  your  custom  shapes  another
+
+thing  inkscape  is  great  for  is  creating
+
+digital  illustrations
+
+mascots  and  characters  with  a
+
+cartoon-like  style
+
+this  can  technically  be  done  with
+
+as  well  but  the  vector  format  allows  you
+
+to  give  your  illustrations  clean
+
+crisp  and  definitive  lines  making
+
+inkscape  the  ideal  tool  for  this
+
+and  if  youre  creating  characters  for  a
+
+2d  game  design  then  youre  going  to  need
+
+the  scalable  benefit
+
+of  working  with  vectors  as  well  inkscape
+
+would  also  be  the  best  tool  for
+
+designing  graphics  for  mobile
+
+applications  like
+
+app  icons  splash  screens  buttons  and
+
+various  other  types  of  user  interface
+
+the  vector  format  is  great  for  this
+
+because  it  provides  the  versatility
+
+needed  for  these  designs  to  fit
+
+any  screen  resolution  without  quality
+
+loss
+
+finally  the  illustrative  nature  of
+
+inkscape  allows  you  to  create  some  other
+
+unique  types  of  designs  like
+
+infographics  charts  and  repeatable
+
+background  tiles  with  an  abstract
+
+pattern
+
+one  of  the  downsides  of  inkscape  is  that
+
+you  can  only  work  with  photos  in  a  very
+
+limited  capacity
+
+since  inkscape  is  intended  for  creating
+
+vector  designs
+
+theres  really  not  much  you  can  do  with
+
+rasterized  photographs
+
+you  can  create  clipping  paths  to  remove
+
+the  background  or
+
+even  use  them  as  a  texture  mask  if  you
+
+like  but  thats  about  it
+
+if  youre  looking  to  do  any  kind  of
+
+extensive  photo  editing
+
+youre  better  off  sticking  with
+
+another  downside  to  using  inkscape  is
+
+that  its  not  ideal  for  doing  any  kind
+
+of  painting  or  sketching
+
+there  are  tools  that  allow  you  to  paint
+
+and  sketch  in  inkscape  but  they  should
+
+only  be  used  in  a  limited  capacity
+
+the  way  that  vector  graphics  works  is
+
+that  youll  put  a  lot  of  strain  on  your
+
+hardware
+
+if  you  create  too  many  brush  strokes  and
+
+the  file  size  will  be  enormous
+
+not  only  that  but  you  wont  get  all  of
+
+the  brush  settings  and  realistic
+
+textures  that  you  get
+
+with  something  like
+
+the  application  that  you  should  use  when
+
+choosing  between  inkscape  and
+
+depends  entirely  on  the  type  of  design
+
+work  youre  doing
+
+if  youre  working  with  a  lot  of  photos
+
+you  should  probably  stick  to
+
+but  if  youre  creating  simple
+
+illustrations  then  youre  better  off
+
+with  inkscape
+
+one  software  is  not  objectively  better
+
+than  the  other  it  depends  entirely  on
+
+the  context  of  what  youre  designing
+
+if  youre  wondering  if  its  more
+
+important  to  learn  one  over  the  other
+
+its  not  theyre  both  equally  important
+
+as  a  graphic  designer  you  should
+
+familiarize  yourself  with  both
+
+vector  and  raster  design  knowing  how  to
+
+work  with  both  allows  you  to  create  some
+
+really  dynamic  designs  combining
+
+elements  from  both  inkscape
+
+and  and  itll  make  you  a  more
+
+complete  designer  as  well
+
+if  youd  like  to  learn  more  about
+
+inkscape  and  i  have  hundreds  of
+
+tutorials  on  this  channel  that  will  walk
+
+you  through  each  step  in  such  a  way  that
+
+even  a  first-time  user  could  follow
+
+along
+
+i  also  have  video  courses  for  each
+
+application  where  i  go  through  every
+
+tool  and  feature  and  explain  how  it  all
+
+works
+
+and  that  should  do  it  for  todays  video
+
+if  you  have  any  questions  for  which
+
+software  you  should  use  for  a  particular
+
+type  of  design  that  i  may  not  have
+
+covered  in  this  video
+
+just  leave  a  comment  below  and  as  always
+
+thanks  for  watching
+
+you

@@ -1,0 +1,345 @@
+
+
+
+Inkscape  recently  introduced  version  1.0
+
+as  a  new  release  and  this  was  not  your
+
+typical  update  this  new  release  comes
+
+packed  with  lots  of  new  features  and
+
+functionality  that  might  make  your  life
+
+a  little  easier  as  an  Inkscape  user  Ill
+
+have  a  link  in  the  description  to  the
+
+wiki  page  with  a  complete  list  of  all
+
+the  new  features  and  updates  added  if
+
+you  want  to  check  that  out  but  in  this
+
+video  Id  just  like  to  go  over  a  few  of
+
+those  features  that  Im  really  excited
+
+about  in  particular  and  if  you  are
+
+enrolled  in  my  Inkscape  masterclass  I
+
+have  updated  the  course  contents
+
+according  to  the  new  release  and  if
+
+youre  not  enrolled  maybe  consider
+
+checking  it  out  if  you  want  to  learn
+
+more  about  Inkscape  Ill  have  a  link  in
+
+the  description  for  more  information
+
+about  that  as  well
+
+to  get  us  started  Inkscape  has
+
+officially  added  support  for  theme
+
+customization  gone  are  the  days  where  we
+
+had  to  tinker  with  system  files  and
+
+perform  other  types  of  voodoo  magic  just
+
+to  get  a  more  visually  appealing  dark
+
+theme  with  a  more  modern  icon  pack  its
+
+now  built  right  in  you  can  just  navigate
+
+to  edit  preferences  and  click  on  theme
+
+under  the  interface  tab  and  from  there
+
+you  can  choose  from  a  variety  of  themes
+
+and  yes  that  does  include  a  dark  theme
+
+not  only  that  but  you  can  also  switch  to
+
+a  more  modern  icon  pack  with  the
+
+monochromatic  style  that  looks  more  like
+
+it  belongs  in  the  year  2020  you  can  even
+
+go  as  far  as  changing  the  color  of  those
+
+icons  if  you  so  desire
+
+one  new  feature  that  Im  really  excited
+
+about  an  Inkscape  version  1.0  has  to  do
+
+with  the  text  tool  if  you  generate  some
+
+text  on  your  canvas  youll  notice  that
+
+theres  now  a  little  note  on  the  bottom
+
+right  side  of  your  text  item  clicking
+
+and  dragging  that  node  will  allow  you  to
+
+determine  where  a  line  of  text  should
+
+end  this  will  be  really  useful  when
+
+designing  things  like  brochures  where
+
+you  have  to  confine  your  text  to  a
+
+specific  vertical  column  you  wont  have
+
+to  worry  about  making  the  bounding  box
+
+of  that  text  fit  that  column  any  longer
+
+you  can  simply  adjust  that  node  to  make
+
+your  lines  of  text  end  exactly  where  you
+
+want
+
+those  of  you  who  use  illustrator  may
+
+already  be  familiar  with  the  concept  of
+
+outline  mode  which  allows  you  to  view
+
+your  design  as  somewhat  of  a  skeleton
+
+where  you  can  see  all  of  the  individual
+
+paths  and  boundaries  that  make  up  a
+
+design  without  fill  colors  and  other
+
+design  elements  getting  in  the  way  this
+
+is  useful  because  sometimes  you  need  to
+
+select  or  work  with  a  particular  object
+
+but  you  cant  select  it  because  you
+
+dont  know  where  it  is  because  its
+
+positioned  beneath  other  objects  with
+
+fill  data  this  is  one  of  the  reasons  why
+
+I  tend  to  make  objects  with  partial
+
+transparency  when  Im  designing
+
+something  you  just  need  to  be  able  to
+
+know  where  things  are  sometimes  and
+
+Inkscape  has  now  made  that  easier  with
+
+their  own  version  of  outline  mode  and
+
+Ill  even  go  as  far  as  saying  that
+
+theyve  outdone  illustrator  with  this
+
+update  because  it  offers  a  lot  more
+
+versatility  the  first  way  you  can  view
+
+your  work  in  outline  mode  is  by
+
+navigating  to  the  View  menu  and  clicking
+
+on  x-ray  mode  this  will  allow  you  to  use
+
+your  cursor  as  somewhat  of  a  viewfinder
+
+where  you  can  hover  it  over  specific
+
+areas  of  your  design  to  see  all  of  the
+
+individual  outlines  the  second  way  you
+
+can  view  your  design  is  outlines  is  by
+
+navigating  to  the  View  menu  and
+
+selecting  split  view  mode  this  will
+
+generate  a  guide  through  the  center  of
+
+your  screen
+
+that  will  show  how  your  design  normally
+
+looks  on  one  side  and  how  it  looks  an
+
+outline  mode  on  the  other  side  you  can
+
+move  the  guide  around  by  clicking  and
+
+dragging  it  and  you  can  also  change  the
+
+orientation  and  position  of  your  guide
+
+by  clicking  on  the  individual  arrows
+
+if  you  open  up  your  align  and  distribute
+
+menu  youll  notice  a  new  icon  in  the  top
+
+left  portion  of  the  menu  labeled  enable
+
+on  canvas  alignment  handles  if  you  hover
+
+your  cursor  over  it  enabling  that  icon
+
+will  allow  you  to  align  objects  directly
+
+on  the  canvas  without  having  to  use  the
+
+alignment  menu  interface  the  way  that  it
+
+works  is  that  you  select  the  objects
+
+youd  like  to  align  click  on  them  once
+
+to  display  the  rotation  handles  then
+
+click  on  them  a  second  time  to  display
+
+the  new  alignment  handles  then  from
+
+there  you  can  simply  click  on  those
+
+handles  to  align  your  objects  the  same
+
+way  you  normally  would  in  the  align  and
+
+distribute  menu  this  is  a  unique  feature
+
+that  I  have  not  seen  anywhere  else  and
+
+its  one  of  those  things  that  you  didnt
+
+know  you  needed  until  you  tried  it
+
+another  new  feature  that  I  know  Ill  be
+
+using  a  lot  is  the  new  offset  live  path
+
+effect  this  functions  very  similarly  to
+
+the  standard  dynamic  offset  path
+
+operation  only  with  one  very  big
+
+improvement  and  that  is  that  it  now
+
+allows  you  to  maintain  sharp  corners
+
+to  see  what  I  mean  if  you  were  to
+
+perform  a  dynamic  offset  on  an  object
+
+with  sharp  corners  like  a  star  youll
+
+notice  that  the  corners  become  rounded
+
+as  you  offset  the  object  this  is  fine
+
+for  objects  with  rounded  corners  but
+
+its  useless  in  scenarios  where  you  need
+
+to  maintain  the  sharp  corners  of  an
+
+object  my  workaround  for  dealing  with
+
+this  in  the  past  was  to  offset  the
+
+object  by  adding  a  stroke  with  sharp
+
+corners  then  convert  the  stroke  to  a
+
+path  to  work  with  it  further  now  those
+
+days  are  over  thanks  to  the  new  offset
+
+live  path  effect  which  allows  you  to
+
+maintain  sharp  corners  on  an  object  as
+
+you  offset  it  to  access  the  new  feature
+
+select  the  object  youd  like  to  offset
+
+then  navigates  a  path  and  path  effects
+
+to  bring  up  the  path  effects  window  then
+
+click  on  the  little  plus  sign  to  add  a
+
+new  path  effects  and  from  the  path
+
+effects  menu  search  for  offset  and  apply
+
+that  then  you  can  grab  the  edit  pads  by
+
+nodes  tool  and  use  the  little  node  to
+
+offset  your  object  while  maintaining
+
+sharp  corners
+
+excape  version  1.0  comes  with  lots  of
+
+welcomed  improvements  like  support  for
+
+high-resolution  displays  if  youre  using
+
+a  4k  monitor  youll  actually  be  able  to
+
+see  the  user  interface  now  theres  also
+
+some  other  subtle  changes  like  in  the
+
+way  that  stroke  to  path  works  when  you
+
+convert  a  stroke  to  a  path  it  now
+
+retains  the  fill  segment  of  that  stroke
+
+as  a  separate  object  like  I  mentioned
+
+earlier  theres  lots  of  new  updates  and
+
+details  to  comb  through  so  be  sure  to
+
+check  out  that  wiki  page  for  a  complete
+
+overview  let  me  know  what  you  think  of
+
+the  new  version  of  Inkscape  in  the
+
+comments  below  and  as  always  thanks  for
+
+watching
+
+
+

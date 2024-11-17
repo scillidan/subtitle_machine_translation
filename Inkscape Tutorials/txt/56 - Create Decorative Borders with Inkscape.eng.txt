@@ -1,0 +1,729 @@
+
+
+
+this  is  nick  with  logosbynic.com  and  in
+
+this  tutorial  ill  be  demonstrating  how
+
+you  can  create  this  decorative  border
+
+design
+
+using  inkscape  before  we  get  started
+
+though  if  youd  like  to  learn
+
+everything  that  there  is  to  know  about
+
+inkscape  be  sure  to  check  out  my
+
+inkscape  master  class
+
+its  a  collection  of  over  60  videos
+
+where  i  go  over  every  tool  and  feature
+
+in  inkscape
+
+and  i  explain  what  it  is  and  demonstrate
+
+how  it  works  ill  have  a  link  to  that  in
+
+the  description  of  the  video  if  you  want
+
+to  check  that  out
+
+so  to  get  us  started  here  in  inkscape
+
+the  first  thing  we  have  to  do  is  set  up
+
+our  documents  lets  come  over  here  to
+
+file
+
+and  click  on  document  properties  and  for
+
+this  tutorial  i  want  to  make  sure  the
+
+display  units  is  set  to  pixels  or  px
+
+and  i  just  want  to  turn  off  the
+
+visibility  of  the  page  border  right  here
+
+where  it  says  show  page  border  and  then
+
+close  out  of  that
+
+and  then  we  want  to  come  up  here  to
+
+where  it  says  view  make  sure  you  have
+
+custom  selected
+
+and  then  go  to  zoom  and  well  zoom  in  at
+
+one  to  one
+
+and  then  well  open  up  the  fill  and
+
+stroke  menu  which  is  located  right  here
+
+or  you  could  press
+
+ctrl  shift  and  f  on  the  keyboard  to  open
+
+that  and  then  well  open  up  the  align
+
+and  distribute  menu  which  is  right  here
+
+or  you  can  press  ctrl
+
+shift  and  a  to  open  that  and  they  should
+
+be  open  right  here
+
+and  if  you  notice  they  opened  in  these
+
+separate  menus  over  here  so  what  im
+
+going  to  do  is  im  going  to  take  this
+
+top  menu  and  just  click  and  drag  this
+
+like  this  until  we  get  the  blue
+
+activation  box
+
+so  i  can  dock  that  up  top  and  i  have
+
+this  one  open  so  we  have  them  both  open
+
+at  the  same
+
+time  like  that  and  then  finally  we  want
+
+to  come  up  here  to  where  it  says  enable
+
+snapping  make  sure  you  have  that  turned
+
+on
+
+and  the  settings  we  want  turned  on  for
+
+this  tutorial  are  this  one  right  here
+
+that  says  snap  nodes  pads  and  handles
+
+the  next  one  that  says  snap  to  paths
+
+were  going  to  want  to  snap
+
+to  cusp  nodes  and  then  snap  to  smooth
+
+nodes  as  well
+
+okay  so  the  first  thing  were  going  to
+
+do  is  uh  were  going  to  create  a  square
+
+because  the  way  were  going  to  approach
+
+this  border  design  is  that  were  going
+
+to  design  the  corners  of  it  first
+
+because  the  corners  are  pretty
+
+complicated  as  well
+
+as  as  soon  as  we  create  one  corner  we
+
+should  be  able  to  duplicate  it  and
+
+mirror  it  and  use  it  as  a  border  that
+
+way  so
+
+lets  grab  the  squares  and  rectangles
+
+tool  over  here
+
+and  im  just  going  to  click  and  drag  on
+
+the  canvas  im  going  to  hold  ctrl  and
+
+shift  to  create  a  perfectly  symmetrical
+
+square  like  that
+
+i  want  to  make  sure  that  is  black  i  want
+
+to  make  sure  it  has  sharp  corners  come
+
+up  here
+
+to  where  it  says  this  this  icon  right
+
+here  that  says  make  karn  make
+
+corner  sharp  if  its  grayed  out  and  you
+
+cant  click  on  it  that  means  you  already
+
+have  sharp  corners  like  i  have  here  if
+
+you  use  if  yours  has  rounded  corners
+
+just  go  ahead  and  click  on  that  to
+
+make  those  make  those  corners  sharp  now
+
+what  im  going  to  do  is  grab  the  select
+
+tool
+
+and  i  want  to  change  the  size  of  this  to
+
+50  pixels  by  50  pixels  so
+
+im  going  to  come  up  here  between  the  w
+
+and  the  h  which  is  the  width  and  the
+
+height
+
+im  going  to  turn  on  this  lock  icon
+
+right  here  that  says  when  locked  change
+
+both  the  width  and  the  height  by  the
+
+same  proportions
+
+and  i  want  to  change  the  width  of  this
+
+to  50.  so  ill  hit  5.0  and  press  enter
+
+and  i  want  to  take  the  opacity  of  this
+
+and  bring  this  down  roughly  in  half
+
+now  what  i  want  to  do  is  duplicate  this
+
+so  lets  right  click  that  and  go  to
+
+duplicate
+
+lets  make  this  duplicate  copy  red  and
+
+lets  add
+
+50  pixels  to  each  dimension  of  this  one
+
+so  50  plus  50  would  be  100  so  lets
+
+remove  that  1  0  0  and  press  enter
+
+and  now  i  want  to  lower  that  beneath  the
+
+original  square  so  im  going  to  come  up
+
+here  to  where  it  says
+
+lower  selection  one  step  or  what  i  like
+
+to  do  is  just  press  page  down
+
+on  the  keyboard  and  itll  lower  it
+
+beneath  the  black  square
+
+and  then  i  want  to  click  and  drag  over
+
+both  of  those  and  just  center  them  up
+
+on  the  vertical  and  horizontal  axis  like
+
+that
+
+and  as  i  mentioned  previously  you  got  to
+
+make  sure  you  have  last  selected  chosen
+
+from  this  drop  down  otherwise
+
+you  may  end  up  with  a  different  result
+
+here  okay  so  once  weve  done  that
+
+lets  click  off  of  that  to  deselect
+
+everything  lets  create  another  copy  of
+
+this  square  here  so  lets  click  on  the
+
+red  square
+
+lets  duplicate  that  instead  of  right
+
+clicking  it  and  going  to  duplicate
+
+well  just  press  ctrl  d  on  the  keyboard
+
+and  ill  make  that  copy  black  and  i  will
+
+add  another  50  pixels  to  this  one  so
+
+this  one  would  be
+
+150  like  that  and  then  i  will  lower  that
+
+to  the  bottom
+
+with  this  button  up  here  that  says  lower
+
+selection  to  the  bottom  or  we  could
+
+press  the  end
+
+key  on  your  keyboard  lets  press  end
+
+there  we  go
+
+and  then  ill  center  this  up  as  well
+
+click  and  drag  over  all  of  that  to
+
+select  it
+
+center  it  up  vertically  and  horizontally
+
+like  that
+
+click  off  of  it  to  deselect  everything
+
+and  now  what  i  want  to  do  is  create  a
+
+rectangle  coming  down  here  like  an  arm
+
+coming  extending  down  from  the  square  so
+
+im  going  to  zoom  in  on  this  a little
+
+bit  so  i  can  see  it  better  to  zoom  in
+
+im  just  going  to  hold  ctrl  and  roll  up
+
+the  mouse  wheel  a  few  times  to  move  the
+
+page  around  like  this  just  press  down
+
+the  mouse  wheel  and  move  the  mouse
+
+and  lets  grab  the  rectangles  and
+
+squares  tool  lets  snap  to  this  top  left
+
+corner
+
+click  and  drag  and  then  snap  to  this
+
+bottom  corner  over  here  like  that
+
+and  then  well  convert  that  to  a  path  by
+
+going  to  path  object  to  path
+
+and  then  lets  take  the  select  tool
+
+lets  take  this  bottom  arrow  right  here
+
+and  just  bring  this  down
+
+like  that  we  want  to  bring  that  down  let
+
+me  zoom  out  im  going  to  press  1  on  the
+
+keyboard  to  zoom  back  out  to  100
+
+and  once  weve  done  that  lets  create  a
+
+duplicate  of  that  by  pressing  ctrl
+
+d  and  lets  hold  shift  and  click  on  this
+
+little
+
+square  right  here  in  the  mental  in  the
+
+middle  and  center  this  up
+
+according  to  the  actually  no  instead  of
+
+centering  it  were  going  to  align  the
+
+left  edges  so  click  on  the  button  that
+
+says  align  left  edges  click  off  of  it  to
+
+deselect  everything
+
+and  lets  create  another  copy  for  up
+
+here  up  top  so  lets  take  this  copy
+
+right  here
+
+ctrl  d  to  duplicate  it  rotate  this  90
+
+degrees  like  that
+
+with  this  button  right  here  that  says
+
+rotate  selection  90  degrees  clockwise
+
+and  then  hold  shift  click  on  the  large
+
+black  square  in  the  background  there
+
+were  going  to  align  top  edges  and
+
+align  left  edges  like  that  now  click  off
+
+of  it  to
+
+deselect  take  a  copy  of  this  right  here
+
+click  on  that
+
+control  d  hold  shift  click  on  the
+
+smaller  black  square  in  the  middle  there
+
+and  lets  align  the  top  edges  again  so
+
+that  we  end  up  with  this  right  here  now
+
+we  can  click  off  of  this  to  deselect
+
+everything
+
+so  what  im  going  to  do  next  is  im
+
+going  to  take  this  large  black  square
+
+right  here  im  going  to  duplicate  that
+
+by  pressing  ctrl  d
+
+i  want  to  make  this  one  red  and  again  we
+
+are  going  to  add  50  to  50  pixels  to  each
+
+dimension  so  lets  come  up  here  and
+
+change  this  from  150
+
+to  200  and  i  want  to  make  sure  i  have
+
+this  centered  up  above  the  other  the
+
+other  squares  here  so  let  me  move  this
+
+off  to  the  side  im  going  to  hold  shift
+
+click  on  one  of  these  squares  and  then
+
+just  center  it  up  on  the  vertical  and
+
+horizontal  axis  like  that
+
+click  off  of  it  to  deselect  everything
+
+and  now  what  you  want  to  do  is  take  this
+
+red  square  right  here
+
+duplicate  it  by  pressing  ctrl  d  hold
+
+shift  click  on  this  rectangle  right  here
+
+and  go  to  path  difference
+
+and  then  well  do  the  same  thing  over
+
+here  for  this  one  take  this  red  square
+
+only  this  time  were  not  going  to
+
+duplicate  it  were  going  to  take  that  as
+
+it  is
+
+hold  shift  click  on  this  rectangle  right
+
+here  path
+
+difference  and  now  what  we  want  to  do  is
+
+duplicate
+
+this  object  by  pressing  ctrl  d
+
+and  then  just  bring  this  one  down  here
+
+like  that  now  well  take  this
+
+little  leg  right  here  ctrl  d  to
+
+duplicate  it  bring  this  one  up  here  like
+
+that
+
+and  now  i  want  to  make  it  so  that  these
+
+two  i  want  to  clip  off  the
+
+little  the  two  little  tails  that  are
+
+extending  beyond  the  uh
+
+border  there  so  to  do  that  let  me  zoom
+
+in  im  going  to  hold  ctrl  roll  up  the
+
+mouse  wheel
+
+grab  the  edit  pads  by  nodes  tool  which
+
+is  the  second  tool  down  from  the  top  up
+
+here
+
+click  and  drag  over  these  two  nodes  and
+
+then  hold  ctrl  and  just  click  and  drag
+
+them  both  straight  up  like  that  until
+
+they  snap  onto  the  edge  of  that
+
+rectangle  well  do  the  same  thing  over
+
+here  take  this  click  and  drag  over  those
+
+two
+
+hold  ctrl  click  and  drag  until  it  snaps
+
+over  there  like  that
+
+and  now  we  can  zoom  back  out  lets  go  to
+
+the  select  tool
+
+lets  click  and  drag  over  everything  so
+
+we  have  it  all  selected
+
+and  now  we  just  want  to  deselect  this
+
+black  square  and  deselect  this  red
+
+square  so  to  do  that  im  going  to  hold
+
+shift
+
+click  on  that  black  square  to  deselect
+
+it  hold  shift  again
+
+click  on  this  red  square  to  deselect
+
+that  and  now  what  we  have  selected  we
+
+just  want  to  unify  it
+
+so  to  do  that  go  to  path  union
+
+and  now  i  want  to  hold  shift  click  on
+
+this  red  square
+
+go  to  path  difference
+
+now  if  we  press  one  on  the  keyboard  to
+
+zoom  back  out  to  100
+
+we  can  click  and  drag  over  everything
+
+here  bring  the  opacity  all  the  way  up
+
+and  you  could  even  unify  together  by
+
+going  to  path  union
+
+and  now  we  have  a  corner  to  use  of  this
+
+decorative  border  so  lets  go  ahead  and
+
+create  an  actual  border  around  something
+
+using  this  so
+
+im  just  going  to  scale  this  down  a
+
+little  bit  im  going  to  hold  ctrl  and
+
+shift  and  scale  this  down
+
+im  going  to  create  like  a  little
+
+rectangle  on  the  canvas  here  so  im
+
+going  to  grab  the  rectangle  tool
+
+click  and  drag  to  create  a  rectangle
+
+like  this
+
+maybe  i  will  make  this  a  different  color
+
+like  something  like  a  light  green
+
+and  i  want  to  use  this  object  right  here
+
+as  a  border  around  this  red  rectangle  so
+
+let  me  grab  the  select  tool
+
+let  me  take  this  corner  let  me  bring
+
+this  over  here  its  layered  beneath
+
+the  uh  the  green  rectangle  so  im  just
+
+going  to  come  over  here  to  where  it  says
+
+raise  selection  to  the  top
+
+and  i  want  to  place  this  in  the  corner
+
+up  here  like  that  okay  now  i  want  to
+
+duplicate  this
+
+ctrl  d  to  duplicate  it  bring  this  down
+
+here  lets  flip  this
+
+vertically  like  that  put  this  over  here
+
+like  that  snap  that  into  this
+
+and  lets  take  both  of  those  right  there
+
+right  click
+
+duplicate  now  lets  flip  these
+
+horizontally
+
+and  bring  these  over  here  like  this
+
+okay  now  in  order  to  close  these  in  all
+
+we  have  to  do  now  is  lets  click  off  of
+
+that  to  deselect  everything
+
+lets  grab  the  edit  paths  by  nodes  tool
+
+lets  click  on  this  border  right  here
+
+and  im  going  to  take  these  nodes  over
+
+here
+
+ill  probably  i  should  probably  zoom  in
+
+on  this  so  you can  see  it  better
+
+click  and  drag  over  these  nodes  right
+
+here  and  then  just  bring  them  over
+
+to  this  object  right  here  like  that
+
+well  do  the  same  thing  over  here  take
+
+these  nodes  bring  them  straight  up  like
+
+that
+
+hold  ctrl  so  it  locks  onto  the  vertical
+
+axis  you  can  either  snap  it  on  there
+
+like  that
+
+or  you  could  just  hold  ctrl  and  bring
+
+them  into  so  that  it  protrudes  into  the
+
+other  one
+
+like  that  and  i  prefer  doing  it  that  way
+
+because  if  you  dont  if  you  snap  them
+
+like  that  youll  notice  if  you  zoom  out
+
+theres  a  little  bit  of  a  disconnect
+
+between  the  two  probably  difficult  to
+
+see  it  on  my  screen  but
+
+i  can  see  it  pretty  well  okay  so  let  me
+
+fix  that
+
+bring  that  up  further  and  ill  do  the
+
+same  thing  right  here  ill  take  this
+
+bring  this  in  over  here  hold  ctrl  bring
+
+that  to  that  side
+
+and  then  the  same  thing  right  here  take
+
+that  bring  that  to  that  side  like  that
+
+and  there  you  go  okay  and  using  that
+
+method
+
+you  can  use  that  method  to  apply  this
+
+border  to
+
+any  rectangle  youd  like  so  i  think  that
+
+should  do  it  for  this  tutorial  that  is
+
+how  you  can  go  about  creating  this
+
+simple
+
+decorative  style  border  using  inkscape
+
+if  you  have  any  questions  leave  a
+
+comment
+
+below  and  as  always  thanks  for  watching
+

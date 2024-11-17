@@ -1,0 +1,220 @@
+1
+00:00:00,359 --> 00:00:02,399
+now let's give the crocodile a grain
+
+2
+00:00:02,399 --> 00:00:04,740
+shading texture some of the techniques
+
+3
+00:00:04,740 --> 00:00:07,259
+uses will be explained more in depth in
+
+4
+00:00:07,259 --> 00:00:09,900
+later lectures to shade the body I will
+
+5
+00:00:09,900 --> 00:00:12,000
+first combine the body parts I right
+
+6
+00:00:12,000 --> 00:00:14,519
+click on the body and choose select same
+
+7
+00:00:14,519 --> 00:00:16,199
+fill color
+
+8
+00:00:16,199 --> 00:00:18,840
+then I go to path Union
+
+9
+00:00:18,840 --> 00:00:21,960
+I call the United path body parts
+
+10
+00:00:21,960 --> 00:00:24,000
+I will drag the body parts path out of
+
+11
+00:00:24,000 --> 00:00:26,640
+the feed group above the feet I right
+
+12
+00:00:26,640 --> 00:00:28,859
+click on the body parts path and choose
+
+13
+00:00:28,859 --> 00:00:31,800
+set clip group I name the clip group
+
+14
+00:00:31,800 --> 00:00:34,739
+body shaving you can recognize a clip
+
+15
+00:00:34,739 --> 00:00:36,480
+Group by a folder with a scissor sign
+
+16
+00:00:36,480 --> 00:00:39,239
+when I open the body shading folder I
+
+17
+00:00:39,239 --> 00:00:41,579
+see a folder called clip whatever is in
+
+18
+00:00:41,579 --> 00:00:43,440
+this folder will be used as a clipping
+
+19
+00:00:43,440 --> 00:00:46,020
+mask I want to reuse the body parts path
+
+20
+00:00:46,020 --> 00:00:48,899
+so I press Ctrl d i drag the copy
+
+21
+00:00:48,899 --> 00:00:50,640
+outside the clip folder
+
+22
+00:00:50,640 --> 00:00:53,840
+and I duplicate it again
+
+23
+00:00:54,239 --> 00:00:56,340
+with the rectangle tool I draw a
+
+24
+00:00:56,340 --> 00:00:58,140
+rectangle that is larger than the body
+
+25
+00:00:58,140 --> 00:01:00,379
+parts
+
+26
+00:01:01,020 --> 00:01:04,739
+I drag body parts above the rectangle
+
+27
+00:01:04,739 --> 00:01:08,720
+then I press Ctrl 9 3 times
+
+28
+00:01:09,840 --> 00:01:11,880
+what I did is inset the path with three
+
+29
+00:01:11,880 --> 00:01:14,460
+steps I hold shift and also select the
+
+30
+00:01:14,460 --> 00:01:17,880
+rectangle I go to path difference I call
+
+31
+00:01:17,880 --> 00:01:21,000
+the result texture I close an open layer
+
+32
+00:01:21,000 --> 00:01:23,280
+too to get more room and open body
+
+33
+00:01:23,280 --> 00:01:25,860
+shading again I drag the fill and stroke
+
+34
+00:01:25,860 --> 00:01:27,840
+panel all the way to the bottom until I
+
+35
+00:01:27,840 --> 00:01:30,180
+see a blue blinking rectangle then I let
+
+36
+00:01:30,180 --> 00:01:33,180
+go of the mouse I click on texture at
+
+37
+00:01:33,180 --> 00:01:34,979
+the bottom of fill and stroke I increase
+
+38
+00:01:34,979 --> 00:01:37,500
+blur to about 30. I click on the black
+
+39
+00:01:37,500 --> 00:01:40,860
+Swatch I go to filters overlays noise
+
+40
+00:01:40,860 --> 00:01:43,860
+fill I click on the noise color Tab and
+
+41
+00:01:43,860 --> 00:01:45,960
+set Alpha to zero then I click on
+
+42
+00:01:45,960 --> 00:01:48,900
+options I click on live preview for
+
+43
+00:01:48,900 --> 00:01:51,180
+turbulence type I choose fractal noise
+
+44
+00:01:51,180 --> 00:01:53,460
+with horizontal and vertical frequency
+
+45
+00:01:53,460 --> 00:01:55,259
+you can make the grain smaller and
+
+46
+00:01:55,259 --> 00:01:58,979
+larger I click on apply at some parts I
+
+47
+00:01:58,979 --> 00:02:00,960
+want more grain and at some parts less
+
+48
+00:02:00,960 --> 00:02:03,720
+to do this I click on the Node tool
+
+49
+00:02:03,720 --> 00:02:06,299
+right now there are 32 nodes I can drag
+
+50
+00:02:06,299 --> 00:02:08,940
+which I find too many so I go to path
+
+51
+00:02:08,940 --> 00:02:12,239
+simplify now I have 18 nodes which is
+
+52
+00:02:12,239 --> 00:02:14,640
+better I also lower the opacity of the
+
+53
+00:02:14,640 --> 00:02:17,940
+texture I will set it to 25 percent now
+
+54
+00:02:17,940 --> 00:02:19,500
+I will adjust the visibility of the
+
+55
+00:02:19,500 --> 00:02:23,000
+grain by dragging the nose
+

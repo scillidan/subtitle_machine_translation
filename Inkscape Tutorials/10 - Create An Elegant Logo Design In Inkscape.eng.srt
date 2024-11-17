@@ -1,0 +1,1740 @@
+1
+00:00:00,080 --> 00:00:01,719
+in this tutorial I'll be demonstrating
+
+2
+00:00:01,719 --> 00:00:03,560
+how you can use inkscape to create this
+
+3
+00:00:03,560 --> 00:00:05,879
+Elegant Style logo design and if you
+
+4
+00:00:05,879 --> 00:00:07,240
+want to follow along with what I'm doing
+
+5
+00:00:07,240 --> 00:00:08,800
+in this lesson I will have a link in the
+
+6
+00:00:08,800 --> 00:00:10,040
+description of the video to where you
+
+7
+00:00:10,040 --> 00:00:12,120
+can download the fonts that I used here
+
+8
+00:00:12,120 --> 00:00:14,160
+and I'll also include a download link to
+
+9
+00:00:14,160 --> 00:00:15,879
+the file itself in case you want to skip
+
+10
+00:00:15,879 --> 00:00:18,359
+the tutorial and just use this design so
+
+11
+00:00:18,359 --> 00:00:20,080
+I'll come over here into a new document
+
+12
+00:00:20,080 --> 00:00:22,400
+and we will get started the first thing
+
+13
+00:00:22,400 --> 00:00:24,320
+I'm going to do is grab my pen tool
+
+14
+00:00:24,320 --> 00:00:25,480
+which is located over here in the
+
+15
+00:00:25,480 --> 00:00:27,240
+toolbar or you can access it by pressing
+
+16
+00:00:27,240 --> 00:00:29,599
+the letter B on your keyboard I'm going
+
+17
+00:00:29,599 --> 00:00:30,720
+to come up here to the settings and I'm
+
+18
+00:00:30,720 --> 00:00:32,840
+going to make sure I have the spiral
+
+19
+00:00:32,840 --> 00:00:35,399
+path option enabled and then I'm going
+
+20
+00:00:35,399 --> 00:00:37,320
+to hold the control key and click once
+
+21
+00:00:37,320 --> 00:00:39,120
+on the canvas to draw a line and bring
+
+22
+00:00:39,120 --> 00:00:41,039
+this line straight up and while still
+
+23
+00:00:41,039 --> 00:00:43,120
+holding control click again and then we
+
+24
+00:00:43,120 --> 00:00:44,920
+can let go of control and bring the line
+
+25
+00:00:44,920 --> 00:00:47,399
+out here and then click again and now I
+
+26
+00:00:47,399 --> 00:00:50,320
+can continue drawing this curve until it
+
+27
+00:00:50,320 --> 00:00:53,600
+spirals to the inside like that once
+
+28
+00:00:53,600 --> 00:00:55,000
+you're happy with the placement you can
+
+29
+00:00:55,000 --> 00:00:57,680
+press the enter key to place it and if
+
+30
+00:00:57,680 --> 00:00:59,440
+you're not entirely happy with how it
+
+31
+00:00:59,440 --> 00:01:01,039
+looks you can come over here to the edit
+
+32
+00:01:01,039 --> 00:01:03,879
+paths by nodes edit paths by nodes tool
+
+33
+00:01:03,879 --> 00:01:05,960
+and zoom in on this and just adjust
+
+34
+00:01:05,960 --> 00:01:07,880
+these nodes a little bit now since this
+
+35
+00:01:07,880 --> 00:01:11,360
+is a Spyro path it will be a little hard
+
+36
+00:01:11,360 --> 00:01:13,320
+to control but that's to ensure that it
+
+37
+00:01:13,320 --> 00:01:14,920
+remains fluid and smooth so I'm going to
+
+38
+00:01:14,920 --> 00:01:16,400
+adjust this a little bit until I'm happy
+
+39
+00:01:16,400 --> 00:01:18,200
+with how it looks and I think that looks
+
+40
+00:01:18,200 --> 00:01:19,799
+pretty good right there what I'm looking
+
+41
+00:01:19,799 --> 00:01:21,079
+for mainly is I want to make sure
+
+42
+00:01:21,079 --> 00:01:22,720
+there's an equal amount of space going
+
+43
+00:01:22,720 --> 00:01:24,680
+through here I don't want too much space
+
+44
+00:01:24,680 --> 00:01:27,360
+on one side I want it to look fairly
+
+45
+00:01:27,360 --> 00:01:29,360
+even so now that that's said I'm going
+
+46
+00:01:29,360 --> 00:01:30,640
+to zoom out
+
+47
+00:01:30,640 --> 00:01:32,200
+I'm going to take this node right here
+
+48
+00:01:32,200 --> 00:01:33,720
+click on it to select it let me Zoom
+
+49
+00:01:33,720 --> 00:01:35,759
+down a little bit I'm going to select
+
+50
+00:01:35,759 --> 00:01:37,320
+this node right here and then I'm going
+
+51
+00:01:37,320 --> 00:01:38,799
+to hold the control key and just click
+
+52
+00:01:38,799 --> 00:01:40,520
+and drag that node up like that I want
+
+53
+00:01:40,520 --> 00:01:42,360
+to shorten that a little bit because now
+
+54
+00:01:42,360 --> 00:01:44,479
+I'm going to grab the selection tool and
+
+55
+00:01:44,479 --> 00:01:45,759
+I'm going to right click this and go to
+
+56
+00:01:45,759 --> 00:01:47,719
+duplicate and I'm going to flip it
+
+57
+00:01:47,719 --> 00:01:49,640
+vertically and horizontally and I'm
+
+58
+00:01:49,640 --> 00:01:51,799
+going to bring this down here on this
+
+59
+00:01:51,799 --> 00:01:53,560
+side now to snap these together I'm
+
+60
+00:01:53,560 --> 00:01:54,799
+going to come up here and click on this
+
+61
+00:01:54,799 --> 00:01:57,399
+magnet icon to enable snapping and I
+
+62
+00:01:57,399 --> 00:01:58,640
+just want to make sure I have these
+
+63
+00:01:58,640 --> 00:02:00,799
+simple controls in place I want these
+
+64
+00:02:00,799 --> 00:02:03,119
+two options highlighted and now I can
+
+65
+00:02:03,119 --> 00:02:07,200
+zoom in on this and snap this onto the
+
+66
+00:02:07,200 --> 00:02:10,560
+line I'm bring that up a little bit I'm
+
+67
+00:02:10,560 --> 00:02:12,120
+just eyeballing this here and that looks
+
+68
+00:02:12,120 --> 00:02:13,640
+pretty good as it is now I'm going to
+
+69
+00:02:13,640 --> 00:02:15,160
+create another one for this side so let
+
+70
+00:02:15,160 --> 00:02:16,760
+me right click this and go to duplicate
+
+71
+00:02:16,760 --> 00:02:18,840
+again and I'm going to take this one I'm
+
+72
+00:02:18,840 --> 00:02:21,400
+going to flip it vertically and I'm
+
+73
+00:02:21,400 --> 00:02:23,160
+going to hold my control key and scale
+
+74
+00:02:23,160 --> 00:02:25,080
+this one down a little bit now before I
+
+75
+00:02:25,080 --> 00:02:26,879
+do that let me undo what I just did
+
+76
+00:02:26,879 --> 00:02:28,560
+right there before you scale that down
+
+77
+00:02:28,560 --> 00:02:30,920
+make sure you have this setting disabled
+
+78
+00:02:30,920 --> 00:02:32,720
+this option here that says when scaling
+
+79
+00:02:32,720 --> 00:02:34,160
+objects scale the stroke width by the
+
+80
+00:02:34,160 --> 00:02:35,920
+same proportion we want that turned off
+
+81
+00:02:35,920 --> 00:02:37,360
+for this tutorial so make sure that's
+
+82
+00:02:37,360 --> 00:02:40,400
+disabled and then scale this down so
+
+83
+00:02:40,400 --> 00:02:42,560
+that it maintains the same stroke width
+
+84
+00:02:42,560 --> 00:02:43,920
+and I'm going to I'm going to place this
+
+85
+00:02:43,920 --> 00:02:45,959
+one I'm going to snap it right over here
+
+86
+00:02:45,959 --> 00:02:47,560
+right about there I may make this one a
+
+87
+00:02:47,560 --> 00:02:49,080
+little bigger I don't like how small
+
+88
+00:02:49,080 --> 00:02:51,400
+that one is I'll make that a little
+
+89
+00:02:51,400 --> 00:02:54,120
+bigger and I'll bring that down
+
+90
+00:02:54,120 --> 00:02:56,519
+here so now that that's in place let me
+
+91
+00:02:56,519 --> 00:02:58,440
+click off of it to deselect everything
+
+92
+00:02:58,440 --> 00:02:59,760
+and I'm going to go back to my pen tool
+
+93
+00:02:59,760 --> 00:03:01,440
+cool and I'm going to draw another
+
+94
+00:03:01,440 --> 00:03:03,879
+little line coming off of the center of
+
+95
+00:03:03,879 --> 00:03:05,400
+this line here so let me snap to the
+
+96
+00:03:05,400 --> 00:03:07,280
+line hold control bring the line
+
+97
+00:03:07,280 --> 00:03:09,599
+Straight Up Click again and then bring
+
+98
+00:03:09,599 --> 00:03:12,040
+this one out here right about there
+
+99
+00:03:12,040 --> 00:03:14,120
+press enter and there you go that's
+
+100
+00:03:14,120 --> 00:03:15,319
+about what I'm looking for and again if
+
+101
+00:03:15,319 --> 00:03:16,640
+you're not happy with the placement you
+
+102
+00:03:16,640 --> 00:03:18,159
+could just grab the nodes tool and
+
+103
+00:03:18,159 --> 00:03:20,680
+adjust it until it looks good I'm going
+
+104
+00:03:20,680 --> 00:03:22,239
+to take this and bring this down a
+
+105
+00:03:22,239 --> 00:03:23,560
+little bit I'm going to hold control
+
+106
+00:03:23,560 --> 00:03:25,400
+while I do this so that it snaps or so
+
+107
+00:03:25,400 --> 00:03:28,400
+that it locks it onto the vertical axis
+
+108
+00:03:28,400 --> 00:03:29,760
+and let me right click this and
+
+109
+00:03:29,760 --> 00:03:31,799
+duplicate it and I'm going to flip this
+
+110
+00:03:31,799 --> 00:03:33,879
+vertically and horizontally and bring
+
+111
+00:03:33,879 --> 00:03:36,560
+this down here so that we have another
+
+112
+00:03:36,560 --> 00:03:38,640
+piece down here going the opposite way
+
+113
+00:03:38,640 --> 00:03:39,640
+and that right there is what we're
+
+114
+00:03:39,640 --> 00:03:42,280
+looking for so what I'll do next is I'm
+
+115
+00:03:42,280 --> 00:03:43,680
+going to draw another line coming out of
+
+116
+00:03:43,680 --> 00:03:45,280
+the top right here I'm going to grab my
+
+117
+00:03:45,280 --> 00:03:47,720
+pen tool again I'm going to snap to this
+
+118
+00:03:47,720 --> 00:03:50,799
+intersecting area and then just click
+
+119
+00:03:50,799 --> 00:03:53,120
+and drag or just click a couple of times
+
+120
+00:03:53,120 --> 00:03:55,640
+rather to draw a line sort of like that
+
+121
+00:03:55,640 --> 00:03:56,920
+and press enter it's not going to look
+
+122
+00:03:56,920 --> 00:03:58,200
+good at first but that's okay CU we're
+
+123
+00:03:58,200 --> 00:03:59,920
+going to go to the edit pads by no noes
+
+124
+00:03:59,920 --> 00:04:01,879
+tool and adjust this until it looks
+
+125
+00:04:01,879 --> 00:04:04,319
+right so I'm going to move this you got
+
+126
+00:04:04,319 --> 00:04:06,239
+to be careful of the snapping here there
+
+127
+00:04:06,239 --> 00:04:08,760
+we go and maybe I'll adjust that a
+
+128
+00:04:08,760 --> 00:04:10,959
+little
+
+129
+00:04:13,560 --> 00:04:16,839
+bit okay that looks good as it is okay
+
+130
+00:04:16,839 --> 00:04:18,320
+so let me zoom out now what I'm going to
+
+131
+00:04:18,320 --> 00:04:19,759
+do is I'm going to grab my selection
+
+132
+00:04:19,759 --> 00:04:21,680
+tool I want to select all of these
+
+133
+00:04:21,680 --> 00:04:23,280
+pieces and I want to convert them from
+
+134
+00:04:23,280 --> 00:04:25,680
+spiral paths to just regular paths so
+
+135
+00:04:25,680 --> 00:04:27,280
+I'll come up here to path and I will
+
+136
+00:04:27,280 --> 00:04:30,120
+select object to path
+
+137
+00:04:30,120 --> 00:04:31,360
+and now I'm going to group them together
+
+138
+00:04:31,360 --> 00:04:34,759
+by going to object group and now I'm
+
+139
+00:04:34,759 --> 00:04:36,600
+going to click on it to get the rotation
+
+140
+00:04:36,600 --> 00:04:38,240
+handles and I want to rotate this around
+
+141
+00:04:38,240 --> 00:04:40,120
+clockwise until it's sitting flat like
+
+142
+00:04:40,120 --> 00:04:42,320
+this and what I'm looking for is the
+
+143
+00:04:42,320 --> 00:04:44,320
+bottom of this side and the bottom of
+
+144
+00:04:44,320 --> 00:04:45,600
+this side I want to make sure they're
+
+145
+00:04:45,600 --> 00:04:48,479
+both sitting flat on the bounding box of
+
+146
+00:04:48,479 --> 00:04:50,120
+the selection while I rotate it so let
+
+147
+00:04:50,120 --> 00:04:52,800
+me just make sure um let me just make
+
+148
+00:04:52,800 --> 00:04:54,199
+sure everything's even that looks pretty
+
+149
+00:04:54,199 --> 00:04:57,039
+good as it is and now I can zoom out and
+
+150
+00:04:57,039 --> 00:04:58,400
+now we're going to ungroup this so let's
+
+151
+00:04:58,400 --> 00:05:01,000
+come up here to object and go to
+
+152
+00:05:01,000 --> 00:05:03,280
+ungroup and then open up the fill and
+
+153
+00:05:03,280 --> 00:05:04,720
+stroke menu and I'll do that just by
+
+154
+00:05:04,720 --> 00:05:06,400
+double clicking this black stripe down
+
+155
+00:05:06,400 --> 00:05:07,600
+here and that'll open up the fill and
+
+156
+00:05:07,600 --> 00:05:09,919
+stroke menu I want to come over here to
+
+157
+00:05:09,919 --> 00:05:12,160
+the stroke style Tab and I want to
+
+158
+00:05:12,160 --> 00:05:13,720
+increase the width so I'm going to click
+
+159
+00:05:13,720 --> 00:05:15,960
+on this plus icon and hold that click to
+
+160
+00:05:15,960 --> 00:05:18,960
+make this to make those lines thicker
+
+161
+00:05:18,960 --> 00:05:21,560
+and I want to give them rounded
+
+162
+00:05:21,560 --> 00:05:23,960
+caps and now I'm going to click off of
+
+163
+00:05:23,960 --> 00:05:25,840
+it to deselect everything I'm going to
+
+164
+00:05:25,840 --> 00:05:28,759
+add little circles at the ends of these
+
+165
+00:05:28,759 --> 00:05:30,360
+uh lines here show you what I mean in
+
+166
+00:05:30,360 --> 00:05:31,919
+this design over here I have these
+
+167
+00:05:31,919 --> 00:05:33,720
+little circles on these ends so let me
+
+168
+00:05:33,720 --> 00:05:35,800
+show you how you can do that I'm going
+
+169
+00:05:35,800 --> 00:05:38,120
+to select this object right here first
+
+170
+00:05:38,120 --> 00:05:39,440
+and I'll come over here to the markers
+
+171
+00:05:39,440 --> 00:05:40,840
+in the stroke style tab I'm going to
+
+172
+00:05:40,840 --> 00:05:42,039
+come over here to where it says markers
+
+173
+00:05:42,039 --> 00:05:44,000
+and I want to add an ends marker I'm
+
+174
+00:05:44,000 --> 00:05:45,360
+going to click on this drop down and I'm
+
+175
+00:05:45,360 --> 00:05:48,080
+going to choose this round option but
+
+176
+00:05:48,080 --> 00:05:49,120
+when you do that it's going to be a
+
+177
+00:05:49,120 --> 00:05:50,360
+little too big so I'm going to bring
+
+178
+00:05:50,360 --> 00:05:51,680
+that down in size a little bit I'm going
+
+179
+00:05:51,680 --> 00:05:54,319
+to manually type in the default size is
+
+180
+00:05:54,319 --> 00:05:55,880
+one I'm going to bring this down to
+
+181
+00:05:55,880 --> 00:05:58,039
+about 0.5 and see how that
+
+182
+00:05:58,039 --> 00:06:00,199
+looks okay that's a a good proportion
+
+183
+00:06:00,199 --> 00:06:01,919
+right there so I'll leave that as it is
+
+184
+00:06:01,919 --> 00:06:03,039
+and I'm going to do the same thing over
+
+185
+00:06:03,039 --> 00:06:04,319
+here I'm going to apply that to this
+
+186
+00:06:04,319 --> 00:06:05,720
+object as well I'm going to apply that
+
+187
+00:06:05,720 --> 00:06:07,919
+same marker now now that you applied the
+
+188
+00:06:07,919 --> 00:06:10,000
+first marker you should have it up here
+
+189
+00:06:10,000 --> 00:06:11,680
+in your recently used markers and you
+
+190
+00:06:11,680 --> 00:06:13,199
+can just select it and you won't have to
+
+191
+00:06:13,199 --> 00:06:15,199
+resize this one it'll inherit the size
+
+192
+00:06:15,199 --> 00:06:16,599
+of the previous
+
+193
+00:06:16,599 --> 00:06:19,160
+one and I'll apply that to this part as
+
+194
+00:06:19,160 --> 00:06:21,319
+well let me come up here and choose uh
+
+195
+00:06:21,319 --> 00:06:23,680
+the same
+
+196
+00:06:24,720 --> 00:06:26,560
+marker and now I'm just going to put
+
+197
+00:06:26,560 --> 00:06:27,880
+just as like a decorative element I'm
+
+198
+00:06:27,880 --> 00:06:29,160
+going to put three little circles in
+
+199
+00:06:29,160 --> 00:06:30,440
+there so let me come back in here and
+
+200
+00:06:30,440 --> 00:06:32,199
+add those three little circles let me
+
+201
+00:06:32,199 --> 00:06:34,000
+grab my circles and ellipses tool I'm
+
+202
+00:06:34,000 --> 00:06:35,319
+going to turn off snapping right now
+
+203
+00:06:35,319 --> 00:06:37,160
+that's just going to get in the way and
+
+204
+00:06:37,160 --> 00:06:38,840
+I'll hold control and click and drag to
+
+205
+00:06:38,840 --> 00:06:41,520
+draw perfectly around Circle go back to
+
+206
+00:06:41,520 --> 00:06:42,680
+my selection
+
+207
+00:06:42,680 --> 00:06:45,800
+tool and I will make this a little
+
+208
+00:06:45,800 --> 00:06:47,880
+bigger actually no I'll leave that as it
+
+209
+00:06:47,880 --> 00:06:51,039
+is I'll right click it go to duplicate
+
+210
+00:06:51,039 --> 00:06:54,080
+and I'll make this one a little
+
+211
+00:06:54,680 --> 00:06:56,800
+bigger and then I'll create one more
+
+212
+00:06:56,800 --> 00:06:59,000
+right click duplicate and I'll make this
+
+213
+00:06:59,000 --> 00:07:01,199
+one even even
+
+214
+00:07:01,199 --> 00:07:03,520
+bigger holding control while I do this
+
+215
+00:07:03,520 --> 00:07:06,080
+to lock the aspect ratio there we go now
+
+216
+00:07:06,080 --> 00:07:08,199
+I'm going to zoom
+
+217
+00:07:08,199 --> 00:07:10,360
+out okay that looks pretty good so what
+
+218
+00:07:10,360 --> 00:07:12,479
+I'm going to do now is I'm going to
+
+219
+00:07:12,479 --> 00:07:14,240
+select all of this well first of all let
+
+220
+00:07:14,240 --> 00:07:15,759
+me click on one of these and find out
+
+221
+00:07:15,759 --> 00:07:17,560
+what exactly the stroke weight is so for
+
+222
+00:07:17,560 --> 00:07:20,199
+mine the stroke weight is six so
+
+223
+00:07:20,199 --> 00:07:21,800
+whatever your number is keep that in
+
+224
+00:07:21,800 --> 00:07:23,000
+mind we're going to use that in just a
+
+225
+00:07:23,000 --> 00:07:26,000
+minute let me select all of this go to
+
+226
+00:07:26,000 --> 00:07:29,080
+object group and now I'm going to create
+
+227
+00:07:29,080 --> 00:07:30,879
+a Circle so I'm going to grab my circles
+
+228
+00:07:30,879 --> 00:07:33,280
+and ellipses tool click and drag while
+
+229
+00:07:33,280 --> 00:07:35,160
+holding control to create a perfectly
+
+230
+00:07:35,160 --> 00:07:36,759
+round circle and I want to give this the
+
+231
+00:07:36,759 --> 00:07:38,560
+same properties that this these objects
+
+232
+00:07:38,560 --> 00:07:40,520
+have so I'm going to remove the fill by
+
+233
+00:07:40,520 --> 00:07:42,199
+clicking the Red X and I'm going to hold
+
+234
+00:07:42,199 --> 00:07:43,840
+shift and click on the color black to
+
+235
+00:07:43,840 --> 00:07:45,639
+apply a stroke and it looks like it
+
+236
+00:07:45,639 --> 00:07:47,319
+inherited that stroke width already so I
+
+237
+00:07:47,319 --> 00:07:49,000
+don't have to manually type that in if
+
+238
+00:07:49,000 --> 00:07:50,599
+this were any other number than six I'd
+
+239
+00:07:50,599 --> 00:07:52,080
+have to type that in and press enter but
+
+240
+00:07:52,080 --> 00:07:54,440
+it looks like I'm good to go so let me
+
+241
+00:07:54,440 --> 00:07:55,720
+take this and move this over I'm going
+
+242
+00:07:55,720 --> 00:07:58,120
+to scale this down accordingly I'll
+
+243
+00:07:58,120 --> 00:08:00,240
+bring it down maybe that much
+
+244
+00:08:00,240 --> 00:08:01,360
+and I want to make sure that this is
+
+245
+00:08:01,360 --> 00:08:03,280
+sitting on the same horizontal plane
+
+246
+00:08:03,280 --> 00:08:04,919
+that this object is so let me select
+
+247
+00:08:04,919 --> 00:08:07,479
+this object hold shift select this
+
+248
+00:08:07,479 --> 00:08:09,360
+object and then open up the aligned
+
+249
+00:08:09,360 --> 00:08:12,960
+distribute menu by going to object and
+
+250
+00:08:12,960 --> 00:08:14,159
+aligned
+
+251
+00:08:14,159 --> 00:08:16,520
+distribute and I'm going to choose last
+
+252
+00:08:16,520 --> 00:08:18,639
+selected from the relative two dropdown
+
+253
+00:08:18,639 --> 00:08:20,080
+and I want to choose this option down
+
+254
+00:08:20,080 --> 00:08:22,039
+here that says align bottom edges and
+
+255
+00:08:22,039 --> 00:08:23,919
+that's going to put both of those on the
+
+256
+00:08:23,919 --> 00:08:26,400
+same horizontal plane and I'm going
+
+257
+00:08:26,400 --> 00:08:27,800
+click off of that to deselect it and
+
+258
+00:08:27,800 --> 00:08:29,039
+then I'll take this one and just move
+
+259
+00:08:29,039 --> 00:08:30,680
+this in a little bit and I'm holding
+
+260
+00:08:30,680 --> 00:08:32,320
+control while I click and drag so that I
+
+261
+00:08:32,320 --> 00:08:34,039
+lock it onto that horizontal plane and I
+
+262
+00:08:34,039 --> 00:08:37,560
+don't lose that alignment that I just
+
+263
+00:08:38,039 --> 00:08:41,360
+made okay so let me take this object now
+
+264
+00:08:41,360 --> 00:08:43,519
+right click it go to duplicate I'm going
+
+265
+00:08:43,519 --> 00:08:45,279
+to flip this one
+
+266
+00:08:45,279 --> 00:08:47,800
+horizontally hold control and move this
+
+267
+00:08:47,800 --> 00:08:50,200
+one over here just like
+
+268
+00:08:50,200 --> 00:08:52,399
+that and now I'm going to select both of
+
+269
+00:08:52,399 --> 00:08:53,880
+these I'm holding shift while I click on
+
+270
+00:08:53,880 --> 00:08:55,720
+each of them to select them both and I
+
+271
+00:08:55,720 --> 00:08:57,320
+want to group them together we'll go to
+
+272
+00:08:57,320 --> 00:08:59,600
+object group and I want to Center it on
+
+273
+00:08:59,600 --> 00:09:00,920
+this circle just to make sure that
+
+274
+00:09:00,920 --> 00:09:02,720
+everything is perfectly symmetrical I'll
+
+275
+00:09:02,720 --> 00:09:06,040
+select the uh Center on vertical axis
+
+276
+00:09:06,040 --> 00:09:08,360
+there we go and now I can ungroup
+
+277
+00:09:08,360 --> 00:09:10,560
+everything so I'll go to object and
+
+278
+00:09:10,560 --> 00:09:11,600
+select
+
+279
+00:09:11,600 --> 00:09:14,000
+ungroup and now I'm going to put another
+
+280
+00:09:14,000 --> 00:09:16,120
+Circle in the center here so let me take
+
+281
+00:09:16,120 --> 00:09:17,720
+this circle right click it go to
+
+282
+00:09:17,720 --> 00:09:20,440
+duplicate hold control and shift and
+
+283
+00:09:20,440 --> 00:09:24,160
+scale this down about that much and in
+
+284
+00:09:24,160 --> 00:09:25,519
+here you can put whatever you want
+
+285
+00:09:25,519 --> 00:09:27,560
+whether it be a letter or an icon or any
+
+286
+00:09:27,560 --> 00:09:29,519
+other graphical depiction for my
+
+287
+00:09:29,519 --> 00:09:31,560
+demonstration I use the inkscape logo I
+
+288
+00:09:31,560 --> 00:09:33,000
+figured it makes sense since this is an
+
+289
+00:09:33,000 --> 00:09:35,040
+inkscape tutorial but you could put
+
+290
+00:09:35,040 --> 00:09:35,920
+whatever you want in there I'm just
+
+291
+00:09:35,920 --> 00:09:37,519
+going to leave it blank for now and now
+
+292
+00:09:37,519 --> 00:09:39,040
+I'm going to put some lines underneath
+
+293
+00:09:39,040 --> 00:09:40,760
+it here if you notice I had some lines
+
+294
+00:09:40,760 --> 00:09:42,800
+going underneath these
+
+295
+00:09:42,800 --> 00:09:44,880
+elements so let me come back in here I'm
+
+296
+00:09:44,880 --> 00:09:47,040
+going to grab my pen tool again let me
+
+297
+00:09:47,040 --> 00:09:49,680
+choose the regular pen mode and then
+
+298
+00:09:49,680 --> 00:09:52,240
+I'll come out here click to add a point
+
+299
+00:09:52,240 --> 00:09:54,240
+hold control bring the line straight
+
+300
+00:09:54,240 --> 00:09:56,279
+across right towards the end of the
+
+301
+00:09:56,279 --> 00:09:58,160
+other side click again and now we can
+
+302
+00:09:58,160 --> 00:10:00,240
+let go of control and and press enter to
+
+303
+00:10:00,240 --> 00:10:02,600
+have that line made and I want to make
+
+304
+00:10:02,600 --> 00:10:04,399
+that stroke the same size let me grab my
+
+305
+00:10:04,399 --> 00:10:06,519
+selection tool I'll come back over here
+
+306
+00:10:06,519 --> 00:10:08,200
+to the fill in stroke menu the stroke
+
+307
+00:10:08,200 --> 00:10:10,800
+style tab I'll change this to
+
+308
+00:10:10,800 --> 00:10:13,800
+six I want this to have rounded caps and
+
+309
+00:10:13,800 --> 00:10:15,480
+I'm going to put those markers on the
+
+310
+00:10:15,480 --> 00:10:17,160
+ends of these so let me use this drop
+
+311
+00:10:17,160 --> 00:10:18,680
+down and select those markers for the
+
+312
+00:10:18,680 --> 00:10:21,399
+first and the last the start and the end
+
+313
+00:10:21,399 --> 00:10:23,839
+point of that path and it now has those
+
+314
+00:10:23,839 --> 00:10:26,120
+markers so let me make another copy of
+
+315
+00:10:26,120 --> 00:10:27,640
+this now I'm going to right click it and
+
+316
+00:10:27,640 --> 00:10:30,120
+go to duplicate hold control and bring
+
+317
+00:10:30,120 --> 00:10:32,279
+this one down here about that much now
+
+318
+00:10:32,279 --> 00:10:33,760
+the amount of spacing between these two
+
+319
+00:10:33,760 --> 00:10:35,440
+lines I'm going to use these circles as
+
+320
+00:10:35,440 --> 00:10:37,560
+a reference I want the spacing between
+
+321
+00:10:37,560 --> 00:10:39,800
+these two lines to be about equal to the
+
+322
+00:10:39,800 --> 00:10:41,639
+spacing between these two circles so I'm
+
+323
+00:10:41,639 --> 00:10:43,120
+just going to eyeball that and use my
+
+324
+00:10:43,120 --> 00:10:45,760
+own judgment it just gives the design an
+
+325
+00:10:45,760 --> 00:10:47,800
+overall more balanced and symmetrical
+
+326
+00:10:47,800 --> 00:10:50,000
+look and once that's in place I'm going
+
+327
+00:10:50,000 --> 00:10:51,399
+to hold control and shift and I'm just
+
+328
+00:10:51,399 --> 00:10:52,720
+going to scale this down a little bit I
+
+329
+00:10:52,720 --> 00:10:54,079
+want this line to be a little shorter
+
+330
+00:10:54,079 --> 00:10:56,160
+than the other line and that right there
+
+331
+00:10:56,160 --> 00:10:57,800
+is what we're going for so now we're
+
+332
+00:10:57,800 --> 00:11:00,519
+going to add our text
+
+333
+00:11:00,519 --> 00:11:03,040
+let me grab the text tool click and for
+
+334
+00:11:03,040 --> 00:11:04,160
+this demonstration I'm just going to
+
+335
+00:11:04,160 --> 00:11:05,200
+write
+
+336
+00:11:05,200 --> 00:11:08,160
+elegant grab my selection tool and I'm
+
+337
+00:11:08,160 --> 00:11:09,880
+going to open up the text editor which
+
+338
+00:11:09,880 --> 00:11:12,440
+can be accessed by uh going to you can
+
+339
+00:11:12,440 --> 00:11:13,959
+use this icon down here in the bottom
+
+340
+00:11:13,959 --> 00:11:15,560
+right of the screen this letter T click
+
+341
+00:11:15,560 --> 00:11:18,040
+on that and now we have our text editor
+
+342
+00:11:18,040 --> 00:11:20,120
+so let me find the font that I'm using
+
+343
+00:11:20,120 --> 00:11:22,600
+it's called
+
+344
+00:11:22,800 --> 00:11:26,200
+Brittanic there we go I'll click apply
+
+345
+00:11:26,200 --> 00:11:28,800
+and I'm just going to scale this up to
+
+346
+00:11:28,800 --> 00:11:30,639
+make make it an appropriate size for the
+
+347
+00:11:30,639 --> 00:11:32,839
+logo maybe I'll scale this down a little
+
+348
+00:11:32,839 --> 00:11:34,240
+bit and again we're always holding
+
+349
+00:11:34,240 --> 00:11:35,920
+control when we scale so that it locks
+
+350
+00:11:35,920 --> 00:11:37,320
+the aspect ratio if you let go of
+
+351
+00:11:37,320 --> 00:11:38,800
+control you get a lot of distortion
+
+352
+00:11:38,800 --> 00:11:41,240
+which you don't want and now I'm just
+
+353
+00:11:41,240 --> 00:11:42,880
+going to write logo in a different font
+
+354
+00:11:42,880 --> 00:11:44,079
+next to it so let me go back over here
+
+355
+00:11:44,079 --> 00:11:46,399
+to my text tool click again and I'm just
+
+356
+00:11:46,399 --> 00:11:48,800
+going to use all caps
+
+357
+00:11:48,800 --> 00:11:52,160
+logo and the font for this one is
+
+358
+00:11:52,160 --> 00:11:55,000
+monserat monserat medium and again I'll
+
+359
+00:11:55,000 --> 00:11:56,519
+have the links to these fonts where you
+
+360
+00:11:56,519 --> 00:11:58,560
+can download them and install them in
+
+361
+00:11:58,560 --> 00:11:59,720
+the descript description of the video
+
+362
+00:11:59,720 --> 00:12:01,560
+These are free fonts so you should be
+
+363
+00:12:01,560 --> 00:12:03,720
+able to use them without a problem let
+
+364
+00:12:03,720 --> 00:12:05,519
+me move this in
+
+365
+00:12:05,519 --> 00:12:08,200
+here scale it up so it's about the same
+
+366
+00:12:08,200 --> 00:12:10,399
+size and I want to decrease the the
+
+367
+00:12:10,399 --> 00:12:12,040
+spacing between these letters so let me
+
+368
+00:12:12,040 --> 00:12:13,800
+come back in here to my text tool I'm
+
+369
+00:12:13,800 --> 00:12:15,399
+going to place the cursor between these
+
+370
+00:12:15,399 --> 00:12:17,440
+two letters and I'm going to hold my ALT
+
+371
+00:12:17,440 --> 00:12:18,959
+key or if you're on Mac it would be the
+
+372
+00:12:18,959 --> 00:12:21,279
+option key and then use the left Arrow
+
+373
+00:12:21,279 --> 00:12:22,600
+just to bring that
+
+374
+00:12:22,600 --> 00:12:24,760
+in and I'll do the same thing over here
+
+375
+00:12:24,760 --> 00:12:26,720
+I'll move the cursor over here holding
+
+376
+00:12:26,720 --> 00:12:28,880
+my option key or ALT key and just use
+
+377
+00:12:28,880 --> 00:12:30,600
+using the arrows to bring those letters
+
+378
+00:12:30,600 --> 00:12:32,639
+closer
+
+379
+00:12:32,639 --> 00:12:34,480
+together now I'm going to grab my
+
+380
+00:12:34,480 --> 00:12:37,000
+selection tool select both of these and
+
+381
+00:12:37,000 --> 00:12:38,399
+I'm just going to scale this up so that
+
+382
+00:12:38,399 --> 00:12:42,120
+it fits the logo more
+
+383
+00:12:42,120 --> 00:12:45,560
+nicely and at this point the problem we
+
+384
+00:12:45,560 --> 00:12:47,800
+have now is that the design doesn't look
+
+385
+00:12:47,800 --> 00:12:49,800
+very consistent the lines of the
+
+386
+00:12:49,800 --> 00:12:51,760
+ornaments here are much thinner than the
+
+387
+00:12:51,760 --> 00:12:54,120
+lines of the letters uh an easy little
+
+388
+00:12:54,120 --> 00:12:55,720
+trick to fix that you could just select
+
+389
+00:12:55,720 --> 00:12:57,760
+everything hold your control key and
+
+390
+00:12:57,760 --> 00:12:59,399
+scale it down a little bit
+
+391
+00:12:59,399 --> 00:13:01,720
+and as you scale It Down The Strokes
+
+392
+00:13:01,720 --> 00:13:03,240
+will remain the same weight but they
+
+393
+00:13:03,240 --> 00:13:05,040
+will just look bigger because they're
+
+394
+00:13:05,040 --> 00:13:06,839
+being sized smaller and I'll just bring
+
+395
+00:13:06,839 --> 00:13:08,800
+this down until it looks pretty
+
+396
+00:13:08,800 --> 00:13:10,079
+consistent with the weight of the
+
+397
+00:13:10,079 --> 00:13:12,040
+letters and that's really the secret
+
+398
+00:13:12,040 --> 00:13:13,399
+here to making this design look good you
+
+399
+00:13:13,399 --> 00:13:15,320
+want all of the lines to be a consistent
+
+400
+00:13:15,320 --> 00:13:19,000
+weight so that it has a uniform
+
+401
+00:13:19,760 --> 00:13:22,360
+look okay that looks good as it is let
+
+402
+00:13:22,360 --> 00:13:24,320
+me uh let me update the spacing now a
+
+403
+00:13:24,320 --> 00:13:26,760
+little bit I'm going to move this down
+
+404
+00:13:26,760 --> 00:13:28,120
+I'm going to move this line let me
+
+405
+00:13:28,120 --> 00:13:29,279
+deselect that
+
+406
+00:13:29,279 --> 00:13:30,639
+I'm going to move this line down a
+
+407
+00:13:30,639 --> 00:13:33,079
+little bit and now I'm going to adjust
+
+408
+00:13:33,079 --> 00:13:36,120
+the spacing in here to accommodate the
+
+409
+00:13:36,120 --> 00:13:37,560
+spacing change that I made there let me
+
+410
+00:13:37,560 --> 00:13:39,199
+scale that down a little bit I'm holding
+
+411
+00:13:39,199 --> 00:13:40,959
+control and shift while I scale this
+
+412
+00:13:40,959 --> 00:13:42,760
+inward so that I don't lose the
+
+413
+00:13:42,760 --> 00:13:47,480
+orientation with the circle above
+
+414
+00:13:47,519 --> 00:13:49,680
+it and there we go that should do it for
+
+415
+00:13:49,680 --> 00:13:51,480
+this tutorial that is how you can create
+
+416
+00:13:51,480 --> 00:13:53,399
+these decorative elements to make an
+
+417
+00:13:53,399 --> 00:13:56,880
+elegant style logo using inkscape if you
+
+418
+00:13:56,880 --> 00:13:58,480
+found this lesson useful then consider
+
+419
+00:13:58,480 --> 00:14:00,320
+check checking out my inkscape master
+
+420
+00:14:00,320 --> 00:14:02,519
+class it's a collection of over 60
+
+421
+00:14:02,519 --> 00:14:04,160
+videos where I go over all of the tools
+
+422
+00:14:04,160 --> 00:14:06,199
+and features in inkscape and I explain
+
+423
+00:14:06,199 --> 00:14:07,759
+what they are and demonstrate how they
+
+424
+00:14:07,759 --> 00:14:09,480
+work kind of like how I did in this
+
+425
+00:14:09,480 --> 00:14:11,839
+video we even have a private Community
+
+426
+00:14:11,839 --> 00:14:13,560
+where you can ask questions and get help
+
+427
+00:14:13,560 --> 00:14:16,279
+from me anytime you want and best of all
+
+428
+00:14:16,279 --> 00:14:18,040
+there's no monthly membership fees you
+
+429
+00:14:18,040 --> 00:14:21,199
+just pay $17 one time and you're in for
+
+430
+00:14:21,199 --> 00:14:22,920
+Life I'll have some information about
+
+431
+00:14:22,920 --> 00:14:24,040
+that down below if you want to check
+
+432
+00:14:24,040 --> 00:14:27,680
+that out as always thanks for
+
+433
+00:14:27,680 --> 00:14:30,680
+watching
+
+434
+00:14:33,170 --> 00:14:37,950
+[Music]
+
+435
+00:14:45,240 --> 00:14:48,240
+oh
+

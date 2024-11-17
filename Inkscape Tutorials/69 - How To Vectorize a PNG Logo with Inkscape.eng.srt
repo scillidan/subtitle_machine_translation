@@ -1,0 +1,1332 @@
+1
+00:00:00,030 --> 00:00:02,280
+if the only copies you have for your
+
+2
+00:00:02,280 --> 00:00:05,220
+logo are rasterized formats like PNG and
+
+3
+00:00:05,220 --> 00:00:07,859
+jpg then you won't be able to reap the
+
+4
+00:00:07,859 --> 00:00:10,440
+benefits of having a vector SVG file
+
+5
+00:00:10,440 --> 00:00:13,019
+like infinite scaling and being able to
+
+6
+00:00:13,019 --> 00:00:14,490
+edit your logo in the future in that
+
+7
+00:00:14,490 --> 00:00:16,920
+case you'll need to generate a vector
+
+8
+00:00:16,920 --> 00:00:19,020
+copy of your logo using vector design
+
+9
+00:00:19,020 --> 00:00:20,550
+software and that's what I'll be
+
+10
+00:00:20,550 --> 00:00:31,050
+demonstrating in this video this is Nick
+
+11
+00:00:31,050 --> 00:00:32,850
+with logos by Nick comm and in this
+
+12
+00:00:32,850 --> 00:00:34,380
+tutorial I'll be demonstrating two
+
+13
+00:00:34,380 --> 00:00:35,850
+different ways in which you can take a
+
+14
+00:00:35,850 --> 00:00:39,149
+logo in PNG format and trace a vector
+
+15
+00:00:39,149 --> 00:00:42,059
+SVG copy of it but before we get started
+
+16
+00:00:42,059 --> 00:00:43,379
+if you'd like to learn more about how
+
+17
+00:00:43,379 --> 00:00:45,300
+Inkscape works be sure to check out my
+
+18
+00:00:45,300 --> 00:00:47,160
+Inkscape masterclass it's a collection
+
+19
+00:00:47,160 --> 00:00:49,379
+of over 60 videos where I go over every
+
+20
+00:00:49,379 --> 00:00:51,210
+tool and feature in Inkscape and I
+
+21
+00:00:51,210 --> 00:00:52,920
+explain what it is and demonstrate how
+
+22
+00:00:52,920 --> 00:00:54,270
+it works I'll have a link in the
+
+23
+00:00:54,270 --> 00:00:55,350
+description of the video if you want to
+
+24
+00:00:55,350 --> 00:00:57,600
+check that out so getting started as you
+
+25
+00:00:57,600 --> 00:00:59,579
+can see I have Inkscape opened up here
+
+26
+00:00:59,579 --> 00:01:01,320
+on my screen and the first thing I want
+
+27
+00:01:01,320 --> 00:01:03,030
+to do is just set up the documents that
+
+28
+00:01:03,030 --> 00:01:04,530
+we are all working with a similar layout
+
+29
+00:01:04,530 --> 00:01:06,360
+I want to come up here to where it says
+
+30
+00:01:06,360 --> 00:01:09,360
+enable snapping and turn that off and
+
+31
+00:01:09,360 --> 00:01:10,350
+then I want to come up here to where it
+
+32
+00:01:10,350 --> 00:01:12,360
+says view make sure we have custom
+
+33
+00:01:12,360 --> 00:01:14,189
+selected and then come over here to
+
+34
+00:01:14,189 --> 00:01:16,950
+where it says view go to zoom view zoom
+
+35
+00:01:16,950 --> 00:01:20,310
+and zoom in at 1 to 1 so what I'm going
+
+36
+00:01:20,310 --> 00:01:22,619
+to do now is I'm going to import my PNG
+
+37
+00:01:22,619 --> 00:01:24,990
+logo into Inkscape and the way that I'm
+
+38
+00:01:24,990 --> 00:01:26,670
+going to do that is by opening the
+
+39
+00:01:26,670 --> 00:01:28,080
+folder where it's located and in
+
+40
+00:01:28,080 --> 00:01:30,299
+clicking and dragging the file onto the
+
+41
+00:01:30,299 --> 00:01:32,100
+canvas now you won't be able to see me
+
+42
+00:01:32,100 --> 00:01:33,659
+doing this because I have the folder
+
+43
+00:01:33,659 --> 00:01:35,909
+opened up on my other monitor but I am
+
+44
+00:01:35,909 --> 00:01:38,189
+clicking and dragging the file onto the
+
+45
+00:01:38,189 --> 00:01:39,930
+canvas they are in Inkscape now we're
+
+46
+00:01:39,930 --> 00:01:41,430
+gonna hit this little menu that pops up
+
+47
+00:01:41,430 --> 00:01:43,740
+I'm going to choose embed I'm going to
+
+48
+00:01:43,740 --> 00:01:45,600
+choose default import resolution and
+
+49
+00:01:45,600 --> 00:01:47,729
+then I'm going to choose none I'll click
+
+50
+00:01:47,729 --> 00:01:50,460
+OK and there you can see that is the
+
+51
+00:01:50,460 --> 00:01:52,680
+Inkscape logo that I will be using for
+
+52
+00:01:52,680 --> 00:01:54,329
+this demonstration now let me just zoom
+
+53
+00:01:54,329 --> 00:01:55,979
+in on this just to show you that this is
+
+54
+00:01:55,979 --> 00:01:58,920
+indeed a raster format this is not a
+
+55
+00:01:58,920 --> 00:02:01,140
+vector design so let me zoom back out
+
+56
+00:02:01,140 --> 00:02:03,090
+here what I want to do now is I want to
+
+57
+00:02:03,090 --> 00:02:05,340
+change the size of my page border so
+
+58
+00:02:05,340 --> 00:02:07,259
+that it fits the size of the logo here
+
+59
+00:02:07,259 --> 00:02:09,209
+so to do that I'm going to select the
+
+60
+00:02:09,209 --> 00:02:12,080
+logo as you can see here and go to file
+
+61
+00:02:12,080 --> 00:02:14,900
+properties and I want to expand this
+
+62
+00:02:14,900 --> 00:02:17,030
+menu that says resize page to content
+
+63
+00:02:17,030 --> 00:02:19,640
+and then down here where it says resize
+
+64
+00:02:19,640 --> 00:02:21,290
+page to drawing or selection go ahead
+
+65
+00:02:21,290 --> 00:02:23,120
+and click that and it's going to change
+
+66
+00:02:23,120 --> 00:02:27,080
+the page boundaries to where the logo is
+
+67
+00:02:27,080 --> 00:02:29,440
+so let me go ahead and close out of that
+
+68
+00:02:29,440 --> 00:02:31,850
+so like I said at the beginning of the
+
+69
+00:02:31,850 --> 00:02:33,440
+video there's two different ways where
+
+70
+00:02:33,440 --> 00:02:35,330
+we can go about tracing a vector copy of
+
+71
+00:02:35,330 --> 00:02:37,550
+this design one is an easier way where
+
+72
+00:02:37,550 --> 00:02:38,990
+it's kind of like an auto trace function
+
+73
+00:02:38,990 --> 00:02:41,510
+using the trace bitmap feature and if
+
+74
+00:02:41,510 --> 00:02:43,580
+your design is so complicated that that
+
+75
+00:02:43,580 --> 00:02:45,410
+won't work you'll have to manually trace
+
+76
+00:02:45,410 --> 00:02:46,640
+it so I'm gonna show you both on you
+
+77
+00:02:46,640 --> 00:02:49,130
+show you the auto trace feature first I
+
+78
+00:02:49,130 --> 00:02:51,020
+want to select the logo just make sure
+
+79
+00:02:51,020 --> 00:02:52,850
+you have the logo selected here you'll
+
+80
+00:02:52,850 --> 00:02:54,200
+notice you have it selected when you see
+
+81
+00:02:54,200 --> 00:02:56,480
+these arrows enabled and I want to come
+
+82
+00:02:56,480 --> 00:02:58,370
+up here to where it says path and I want
+
+83
+00:02:58,370 --> 00:03:01,910
+to go to trace bitmap and under this
+
+84
+00:03:01,910 --> 00:03:04,580
+menu we have these two different options
+
+85
+00:03:04,580 --> 00:03:07,190
+single scan and multiple scans for this
+
+86
+00:03:07,190 --> 00:03:08,720
+design it's just black and white so I'm
+
+87
+00:03:08,720 --> 00:03:10,850
+going to leave it as single scan if your
+
+88
+00:03:10,850 --> 00:03:12,350
+design has colors you might want to
+
+89
+00:03:12,350 --> 00:03:14,090
+click on multiple scans and then you can
+
+90
+00:03:14,090 --> 00:03:15,860
+choose the number of colors in the scan
+
+91
+00:03:15,860 --> 00:03:18,350
+right there but this design is just
+
+92
+00:03:18,350 --> 00:03:19,519
+black and white so I'm gonna leave it a
+
+93
+00:03:19,519 --> 00:03:20,959
+single scan I'm going to leave these
+
+94
+00:03:20,959 --> 00:03:23,000
+defaults just as they are and I'm going
+
+95
+00:03:23,000 --> 00:03:24,980
+to click update and it's gonna show you
+
+96
+00:03:24,980 --> 00:03:26,540
+a preview of what's going to be traced
+
+97
+00:03:26,540 --> 00:03:29,000
+in the preview window here now for these
+
+98
+00:03:29,000 --> 00:03:31,400
+default settings this worked pretty well
+
+99
+00:03:31,400 --> 00:03:32,720
+that's exactly what I'm looking to do
+
+100
+00:03:32,720 --> 00:03:34,700
+right there if yours didn't come out as
+
+101
+00:03:34,700 --> 00:03:36,110
+well you may have to adjust these
+
+102
+00:03:36,110 --> 00:03:37,370
+settings a little bit and play with them
+
+103
+00:03:37,370 --> 00:03:39,170
+a little bit may even want to change the
+
+104
+00:03:39,170 --> 00:03:43,430
+the type of a trace that you do here but
+
+105
+00:03:43,430 --> 00:03:44,750
+this worked well for me so I was going
+
+106
+00:03:44,750 --> 00:03:47,390
+to click OK and it's going to generate a
+
+107
+00:03:47,390 --> 00:03:49,400
+vector copy right on top of that so let
+
+108
+00:03:49,400 --> 00:03:52,280
+me close out of that menu I'm gonna take
+
+109
+00:03:52,280 --> 00:03:53,840
+this if I move this out of the way you
+
+110
+00:03:53,840 --> 00:03:56,330
+can see now this is the vector copy this
+
+111
+00:03:56,330 --> 00:03:58,100
+is the original this is the vector and
+
+112
+00:03:58,100 --> 00:03:59,630
+I'll zoom in on that just to show you
+
+113
+00:03:59,630 --> 00:04:01,940
+that is indeed a vector copy you can
+
+114
+00:04:01,940 --> 00:04:03,950
+grab the nodes tool and you can edit
+
+115
+00:04:03,950 --> 00:04:05,930
+those nodes individually like you would
+
+116
+00:04:05,930 --> 00:04:09,170
+with any other vector object so what you
+
+117
+00:04:09,170 --> 00:04:10,700
+can do is now you can color that in you
+
+118
+00:04:10,700 --> 00:04:12,230
+can do whatever you want with that one
+
+119
+00:04:12,230 --> 00:04:14,630
+thing you may notice is that the filled
+
+120
+00:04:14,630 --> 00:04:16,910
+in area right here the filled in area
+
+121
+00:04:16,910 --> 00:04:19,760
+where is white is now negative space its
+
+122
+00:04:19,760 --> 00:04:21,440
+transparency in there if you're okay
+
+123
+00:04:21,440 --> 00:04:22,610
+with that then you're good to go if
+
+124
+00:04:22,610 --> 00:04:24,380
+you'd like to fill that in with the
+
+125
+00:04:24,380 --> 00:04:25,400
+color or fill it in
+
+126
+00:04:25,400 --> 00:04:27,710
+white as I did here you can use the
+
+127
+00:04:27,710 --> 00:04:29,270
+bucket fill tool for that so let me make
+
+128
+00:04:29,270 --> 00:04:31,190
+this black the way it was before
+
+129
+00:04:31,190 --> 00:04:33,350
+let me grab the bucket fill tool and I'm
+
+130
+00:04:33,350 --> 00:04:35,630
+gonna click on that that empty space
+
+131
+00:04:35,630 --> 00:04:37,370
+right there to fill it in now it filled
+
+132
+00:04:37,370 --> 00:04:39,229
+it in with the color black I'm just
+
+133
+00:04:39,229 --> 00:04:41,330
+gonna change this to red to annouce so I
+
+134
+00:04:41,330 --> 00:04:43,880
+can see the difference here and if you
+
+135
+00:04:43,880 --> 00:04:45,800
+notice it's sticking out of the edges a
+
+136
+00:04:45,800 --> 00:04:47,750
+little bit so I'm going to change that
+
+137
+00:04:47,750 --> 00:04:52,370
+by going to path dynamic offset and I'm
+
+138
+00:04:52,370 --> 00:04:53,449
+going to take this little note up here
+
+139
+00:04:53,449 --> 00:04:54,919
+and just pull that out so that it
+
+140
+00:04:54,919 --> 00:04:56,509
+believes out into the design like that
+
+141
+00:04:56,509 --> 00:04:58,669
+now let me finalize that by going to
+
+142
+00:04:58,669 --> 00:05:01,460
+path object to path let me go back to
+
+143
+00:05:01,460 --> 00:05:02,960
+the Select tool and I want to lower this
+
+144
+00:05:02,960 --> 00:05:04,190
+to the bottom I'm gonna click this
+
+145
+00:05:04,190 --> 00:05:05,690
+button that says lower selection to the
+
+146
+00:05:05,690 --> 00:05:07,970
+bottom and now it's lowered beneath the
+
+147
+00:05:07,970 --> 00:05:09,410
+design there and I can make that white
+
+148
+00:05:09,410 --> 00:05:11,240
+and as you can see that is no longer
+
+149
+00:05:11,240 --> 00:05:12,860
+transparent that is now filled with
+
+150
+00:05:12,860 --> 00:05:15,530
+white and down here you could do the
+
+151
+00:05:15,530 --> 00:05:16,970
+same thing because this is negative
+
+152
+00:05:16,970 --> 00:05:19,550
+space as well so that's the auto trace
+
+153
+00:05:19,550 --> 00:05:21,680
+that's the automated way of tracing a
+
+154
+00:05:21,680 --> 00:05:24,020
+vector copy of your logo if that doesn't
+
+155
+00:05:24,020 --> 00:05:25,669
+work because that feature won't always
+
+156
+00:05:25,669 --> 00:05:28,009
+work for more elaborate designs if your
+
+157
+00:05:28,009 --> 00:05:31,039
+design is it maybe it's like not a high
+
+158
+00:05:31,039 --> 00:05:32,960
+enough resolution that that feature can
+
+159
+00:05:32,960 --> 00:05:34,669
+work you'll have to manually trace a
+
+160
+00:05:34,669 --> 00:05:37,039
+copy of that using the Bezier a pen so
+
+161
+00:05:37,039 --> 00:05:38,960
+let me show you how to do that now the
+
+162
+00:05:38,960 --> 00:05:40,130
+first thing I want to do over here is
+
+163
+00:05:40,130 --> 00:05:42,349
+open up the filling stroke menu with
+
+164
+00:05:42,349 --> 00:05:43,820
+this button over here the keyboard
+
+165
+00:05:43,820 --> 00:05:46,970
+shortcut would be ctrl shift F on to
+
+166
+00:05:46,970 --> 00:05:49,070
+take the original logo right here and I
+
+167
+00:05:49,070 --> 00:05:50,630
+want to bring me opacity down in half so
+
+168
+00:05:50,630 --> 00:05:52,370
+I can see what I'm doing as a trace over
+
+169
+00:05:52,370 --> 00:05:55,220
+it and I want to grab the Bezier pen
+
+170
+00:05:55,220 --> 00:05:57,139
+which is over here or you could press B
+
+171
+00:05:57,139 --> 00:05:59,330
+on the keyboard and depending on the
+
+172
+00:05:59,330 --> 00:06:01,580
+type of design you have this design has
+
+173
+00:06:01,580 --> 00:06:04,370
+a lot of curves and bends and contours
+
+174
+00:06:04,370 --> 00:06:06,530
+and stuff for this sort of design I want
+
+175
+00:06:06,530 --> 00:06:08,810
+to use the b-spline setting of the tool
+
+176
+00:06:08,810 --> 00:06:10,070
+I'm gonna click b-splines
+
+177
+00:06:10,070 --> 00:06:11,930
+what this does is it basically forces
+
+178
+00:06:11,930 --> 00:06:13,909
+you to draw curved lines it's kind of
+
+179
+00:06:13,909 --> 00:06:15,560
+like training wheels for the pen tool if
+
+180
+00:06:15,560 --> 00:06:17,020
+you've never used the pen tool before
+
+181
+00:06:17,020 --> 00:06:20,030
+this is a great option to use because it
+
+182
+00:06:20,030 --> 00:06:21,560
+forces you to draw curved lines that
+
+183
+00:06:21,560 --> 00:06:23,330
+will be able that'll make it easier for
+
+184
+00:06:23,330 --> 00:06:25,099
+you to trace this design right here so
+
+185
+00:06:25,099 --> 00:06:26,870
+let me get rid of that I'm gonna go
+
+186
+00:06:26,870 --> 00:06:28,760
+ahead and start tracing around this
+
+187
+00:06:28,760 --> 00:06:31,310
+design right here and to move the page
+
+188
+00:06:31,310 --> 00:06:32,930
+around basic functions I'm just pressing
+
+189
+00:06:32,930 --> 00:06:34,010
+down the mouse wheel I'm moving the
+
+190
+00:06:34,010 --> 00:06:35,570
+mouse and to zoom in and out I'm holding
+
+191
+00:06:35,570 --> 00:06:37,010
+ctrl and rolling up and down the mouse
+
+192
+00:06:37,010 --> 00:06:39,110
+wheel so I'm just going to go around and
+
+193
+00:06:39,110 --> 00:06:41,540
+points going around the design over here
+
+194
+00:06:41,540 --> 00:06:46,910
+to trace to trace a shape going around
+
+195
+00:06:46,910 --> 00:06:49,460
+the logo and if at any point you need to
+
+196
+00:06:49,460 --> 00:06:51,740
+create a sharp corner because this tool
+
+197
+00:06:51,740 --> 00:06:54,110
+setting will not allow you to create
+
+198
+00:06:54,110 --> 00:06:56,330
+corners by default what you can do is
+
+199
+00:06:56,330 --> 00:06:58,490
+just hold shift and then click and then
+
+200
+00:06:58,490 --> 00:06:59,900
+it'll allow you to create a corner as
+
+201
+00:06:59,900 --> 00:07:01,040
+you can see there but I'll be
+
+202
+00:07:01,040 --> 00:07:02,450
+demonstrating that in a minute when I go
+
+203
+00:07:02,450 --> 00:07:04,580
+over this area right here so let me undo
+
+204
+00:07:04,580 --> 00:07:06,890
+that I'm gonna go and trace over this
+
+205
+00:07:06,890 --> 00:07:08,840
+logo really quickly I'm just gonna do a
+
+206
+00:07:08,840 --> 00:07:11,780
+very quick and rudimentary tracing of
+
+207
+00:07:11,780 --> 00:07:13,640
+this because I'm not actually trying to
+
+208
+00:07:13,640 --> 00:07:15,080
+make a copy of this logo I'm just doing
+
+209
+00:07:15,080 --> 00:07:17,680
+this for a demonstration
+
+210
+00:07:20,009 --> 00:07:22,150
+okay so once you're finished tracing
+
+211
+00:07:22,150 --> 00:07:23,650
+around your object here you can just
+
+212
+00:07:23,650 --> 00:07:25,150
+click on the original node right there
+
+213
+00:07:25,150 --> 00:07:27,160
+to close the path and if you zoom out
+
+214
+00:07:27,160 --> 00:07:29,020
+you can see let me grab the Select tool
+
+215
+00:07:29,020 --> 00:07:30,729
+move this you can see we've traced a
+
+216
+00:07:30,729 --> 00:07:33,520
+shape over that shape right there so let
+
+217
+00:07:33,520 --> 00:07:35,440
+me put that back what I want to do now
+
+218
+00:07:35,440 --> 00:07:38,979
+is trace this other shape right here so
+
+219
+00:07:38,979 --> 00:07:41,500
+let me go back to the Bessie a penny let
+
+220
+00:07:41,500 --> 00:07:43,720
+me zoom in I'm going to start tracing
+
+221
+00:07:43,720 --> 00:07:45,970
+around to this and this is where I'd
+
+222
+00:07:45,970 --> 00:07:50,050
+like to demonstrate the the corner
+
+223
+00:07:50,050 --> 00:07:51,220
+feature so I'm gonna bring this over
+
+224
+00:07:51,220 --> 00:07:53,620
+here like this and again right here we
+
+225
+00:07:53,620 --> 00:07:54,909
+have a sharp corner so I'm gonna hold
+
+226
+00:07:54,909 --> 00:07:56,530
+shift and click and there you go now you
+
+227
+00:07:56,530 --> 00:07:58,270
+have a sharp corner same thing up here
+
+228
+00:07:58,270 --> 00:08:00,039
+we have another corner area hold shift
+
+229
+00:08:00,039 --> 00:08:02,080
+click in fact for the rest of these
+
+230
+00:08:02,080 --> 00:08:03,520
+points I'm gonna be holding shift the
+
+231
+00:08:03,520 --> 00:08:05,949
+whole time to create sharp corners like
+
+232
+00:08:05,949 --> 00:08:08,380
+that until we get right there and now I
+
+233
+00:08:08,380 --> 00:08:09,940
+collect all of shift and get back to
+
+234
+00:08:09,940 --> 00:08:12,970
+tracing around this design like this now
+
+235
+00:08:12,970 --> 00:08:15,250
+like I said before this b-spline setting
+
+236
+00:08:15,250 --> 00:08:17,199
+in this tool it's pretty much like
+
+237
+00:08:17,199 --> 00:08:19,240
+training wheels for the pen tool there's
+
+238
+00:08:19,240 --> 00:08:21,729
+easier there's easier ways to do this if
+
+239
+00:08:21,729 --> 00:08:23,199
+you're more advanced with using this
+
+240
+00:08:23,199 --> 00:08:24,940
+software but this tutorial is not for
+
+241
+00:08:24,940 --> 00:08:26,889
+advanced users this tutorial is for
+
+242
+00:08:26,889 --> 00:08:29,560
+newcomers to Inkscape who just need to
+
+243
+00:08:29,560 --> 00:08:32,140
+create a vector tracing of a logo that
+
+244
+00:08:32,140 --> 00:08:34,539
+they have in PNG format so let me go
+
+245
+00:08:34,539 --> 00:08:37,149
+ahead and finish tracing this back to
+
+246
+00:08:37,149 --> 00:08:39,070
+the starting point like that looking
+
+247
+00:08:39,070 --> 00:08:40,179
+pretty good now I'm gonna go ahead and
+
+248
+00:08:40,179 --> 00:08:43,889
+trace this part down here as well
+
+249
+00:08:45,930 --> 00:08:47,970
+okay so as you can see I have finished
+
+250
+00:08:47,970 --> 00:08:49,920
+up I've went and created these shapes as
+
+251
+00:08:49,920 --> 00:08:51,660
+well and the shape and that shape as
+
+252
+00:08:51,660 --> 00:08:53,310
+well so I don't know what to do now is
+
+253
+00:08:53,310 --> 00:08:55,380
+we have the shape we have the designs
+
+254
+00:08:55,380 --> 00:08:57,300
+wrong we just have to color it in now so
+
+255
+00:08:57,300 --> 00:08:58,830
+let me grab the Select tool let me click
+
+256
+00:08:58,830 --> 00:09:00,390
+on the original logo at the back there
+
+257
+00:09:00,390 --> 00:09:02,160
+at the bottom and bring the opacity of
+
+258
+00:09:02,160 --> 00:09:04,260
+that all the way back up now I'm just
+
+259
+00:09:04,260 --> 00:09:05,520
+gonna move this out of the way for now
+
+260
+00:09:05,520 --> 00:09:08,250
+if you want to color your design in with
+
+261
+00:09:08,250 --> 00:09:09,779
+the same color as your original design
+
+262
+00:09:09,779 --> 00:09:11,310
+head what you can do is you could just
+
+263
+00:09:11,310 --> 00:09:13,830
+click on the shape grab the dropper tool
+
+264
+00:09:13,830 --> 00:09:15,270
+which is over here and then grab a
+
+265
+00:09:15,270 --> 00:09:17,850
+selection of that color now this is just
+
+266
+00:09:17,850 --> 00:09:19,860
+black and white so I mean I could just
+
+267
+00:09:19,860 --> 00:09:21,270
+click the black and white colors down
+
+268
+00:09:21,270 --> 00:09:23,610
+here but I'm doing this assuming that
+
+269
+00:09:23,610 --> 00:09:24,990
+your logo that you're trying to check
+
+270
+00:09:24,990 --> 00:09:26,850
+trace is in color so I'm going to show
+
+271
+00:09:26,850 --> 00:09:28,080
+you how to do this as if this were in
+
+272
+00:09:28,080 --> 00:09:29,850
+color let me go back to the select tool
+
+273
+00:09:29,850 --> 00:09:31,710
+click on this shape I want to make that
+
+274
+00:09:31,710 --> 00:09:32,460
+white as well
+
+275
+00:09:32,460 --> 00:09:34,230
+if you notice you can't see the white
+
+276
+00:09:34,230 --> 00:09:35,279
+there because it's a white background
+
+277
+00:09:35,279 --> 00:09:37,380
+it's it's blending in against it but it
+
+278
+00:09:37,380 --> 00:09:39,210
+is indeed filled with white let me go
+
+279
+00:09:39,210 --> 00:09:40,529
+back to the dropper fill that in with
+
+280
+00:09:40,529 --> 00:09:42,960
+white and I want to get rid of that
+
+281
+00:09:42,960 --> 00:09:44,490
+those black outlines as well to get rid
+
+282
+00:09:44,490 --> 00:09:46,200
+of the black outline just hold shift and
+
+283
+00:09:46,200 --> 00:09:50,130
+click on the red X down here now let me
+
+284
+00:09:50,130 --> 00:09:51,360
+go back to the Select tool let me take
+
+285
+00:09:51,360 --> 00:09:53,370
+this shape I wanna get rid of that black
+
+286
+00:09:53,370 --> 00:09:54,930
+outline as well I'm gonna hold shift
+
+287
+00:09:54,930 --> 00:09:57,839
+click on the X and then finally I'm
+
+288
+00:09:57,839 --> 00:09:59,250
+gonna make the larger shape over here
+
+289
+00:09:59,250 --> 00:10:01,200
+I'm gonna make that black hold shift
+
+290
+00:10:01,200 --> 00:10:04,800
+click on the X click this shape do the
+
+291
+00:10:04,800 --> 00:10:06,750
+same thing just fill it in with its
+
+292
+00:10:06,750 --> 00:10:09,570
+intended colors you can use the dropper
+
+293
+00:10:09,570 --> 00:10:11,130
+tool like I did previously or you can
+
+294
+00:10:11,130 --> 00:10:12,330
+just fill it in manually with these
+
+295
+00:10:12,330 --> 00:10:14,850
+colors down here like I'm doing there's
+
+296
+00:10:14,850 --> 00:10:16,380
+also other ways you can fill you can
+
+297
+00:10:16,380 --> 00:10:19,050
+choose based on RGB HSL if you have like
+
+298
+00:10:19,050 --> 00:10:21,270
+an HTML like a hex code for your for
+
+299
+00:10:21,270 --> 00:10:22,290
+your design you'd like to fill it with
+
+300
+00:10:22,290 --> 00:10:23,279
+you can put it right there
+
+301
+00:10:23,279 --> 00:10:26,850
+followed by FF so what I'm going to do
+
+302
+00:10:26,850 --> 00:10:28,140
+now is I'm going to convert this to a
+
+303
+00:10:28,140 --> 00:10:29,910
+path I'm going to select over everything
+
+304
+00:10:29,910 --> 00:10:31,830
+click and drag over everything and go to
+
+305
+00:10:31,830 --> 00:10:34,410
+path object to path and that's gonna
+
+306
+00:10:34,410 --> 00:10:37,080
+change that from be spline shapes to
+
+307
+00:10:37,080 --> 00:10:40,080
+actual true vector paths now we can take
+
+308
+00:10:40,080 --> 00:10:41,580
+the original logo and get rid of that
+
+309
+00:10:41,580 --> 00:10:43,680
+and as you can see we've finished we
+
+310
+00:10:43,680 --> 00:10:45,959
+have traced our vector logo so all we
+
+311
+00:10:45,959 --> 00:10:48,150
+have to do now is save a vector file
+
+312
+00:10:48,150 --> 00:10:50,040
+effective copy of it so to do that I'll
+
+313
+00:10:50,040 --> 00:10:52,800
+go to file save as and I'm going to save
+
+314
+00:10:52,800 --> 00:10:56,070
+it as a dot SVG file or in Inkscape SVG
+
+315
+00:10:56,070 --> 00:10:58,230
+file or if you'd like to export it as a
+
+316
+00:10:58,230 --> 00:10:59,520
+PNG like let's say you
+
+317
+00:10:59,520 --> 00:11:02,280
+want to enlarge it let's say the whole
+
+318
+00:11:02,280 --> 00:11:03,960
+point of vectorizing your logo is that
+
+319
+00:11:03,960 --> 00:11:05,430
+you could enlarge it like that and then
+
+320
+00:11:05,430 --> 00:11:07,530
+export a copy of it what you can do is
+
+321
+00:11:07,530 --> 00:11:11,280
+go to file export PNG image and then
+
+322
+00:11:11,280 --> 00:11:14,280
+from here you can choose export as you
+
+323
+00:11:14,280 --> 00:11:16,020
+can click on that choose your name and
+
+324
+00:11:16,020 --> 00:11:17,310
+location right there and then click
+
+325
+00:11:17,310 --> 00:11:20,580
+export to export it and I think that
+
+326
+00:11:20,580 --> 00:11:21,930
+should do it for this tutorial so that
+
+327
+00:11:21,930 --> 00:11:23,640
+is how you can go about creating a
+
+328
+00:11:23,640 --> 00:11:27,000
+vector copy of your rasterized PNG logos
+
+329
+00:11:27,000 --> 00:11:28,920
+with Inkscape if you have any questions
+
+330
+00:11:28,920 --> 00:11:30,210
+leave a comment below and as always
+
+331
+00:11:30,210 --> 00:11:31,880
+thanks for watching
+
+332
+00:11:31,880 --> 00:11:40,159
+[Music]
+
+333
+00:11:46,880 --> 00:11:49,990
+[Music]
+

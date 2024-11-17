@@ -1,0 +1,14 @@
+In the last lecture, we saw how to clone objects. Now we will look at cloning text.
+I want to be able to adjust the size and kerning, of the percent sign, at a later point. With many
+instances, it would take a long time to adjust all glyphs individually. So I will clone the glyph,
+to be flexible. I select the Text tool, and click on the canvas. I want the number to be right
+aligned. Then it will always align to the percent sign. I make the font size 30 point. I select the
+Text tool again, and click on the canvas. Now I want left aligned text. I type the glyph,
+and make it 18 point. Ill place the new text on top, and make it white. I Alt click to select
+the old text below, and press: Delete. Now I will clone the glyph. I lower the clone,
+and drag the parent down. To increase the size, I drag the middle arrow at the right side.
+This way, I do not change the distance between the texts, when sizing. I hold Ctrl when I resize.
+And to adjust the kerning, I double-click on the glyph. I hold down Alt, and use my left and right
+arrow keys. I will make the text a group, so I can easily move the text around. I duplicate the text.
+To enter the group, I double-click on it. And I double-click on the number, to change it. I can
+now change the size of all instances. And I can kern the text, and change the height, holding Alt.

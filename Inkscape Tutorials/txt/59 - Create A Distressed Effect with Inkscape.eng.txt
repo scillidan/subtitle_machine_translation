@@ -1,0 +1,431 @@
+
+
+
+this  is  nick  with  logosbynic.com  and  in
+
+this  tutorial  ill  be  demonstrating  how
+
+you  can  create  this  distressed  text
+
+effect
+
+using  inkscape  but  before  we  get  started
+
+if  youd  like  to  learn  more  about  how
+
+inkscape  works  be  sure  to  check  out  my
+
+inkscape  master  class
+
+its  a  collection  of  over  60  videos
+
+where  i  go  over  every  tool  and  feature
+
+in  inkscape
+
+and  i  explain  what  it  is  and  demonstrate
+
+how  it  works  ill  have  a  link  in  the
+
+description  of  the  video  if  you  want  to
+
+check  that  out
+
+so  to  get  us  started  here  in  inkscape
+
+the  first  thing  we  want  to  do  is  set  up
+
+our  document  so  that  we  are  all  working
+
+with  a  similar  workflow
+
+to  do  that  ill  come  up  here  to  where  it
+
+says  view  make  sure  we  have  custom
+
+selected
+
+and  then  go  to  zoom  and  where  it  says  go
+
+to  view  zoom  and  were  looking  for  zoom
+
+one  to  one
+
+like  that  and  for  this  tutorial  were
+
+going  to  want  to  disable  snapping  which
+
+is  up  here  this
+
+icon  in  the  top  left  hand  corner  just
+
+click  on  that  to  disable  it
+
+if  you  already  have  it  deselected  then
+
+youre  good  to  go  and  then  finally  we
+
+want  to  open  up  the  fill  and  stroke  menu
+
+which  is  over  here
+
+or  you  could  press  the  uh  you  could
+
+press  ctrl  shift  and  f  on  the  keyboard
+
+to  open  that  up
+
+so  the  first  thing  im  going  to  do  is
+
+create  some  text  so  let  me  grab  the  text
+
+tool  over  here
+
+click  on  the  canvas  and  for  this
+
+tutorial  im  just  going  to  use  a  capital
+
+letter  g
+
+you  can  use  whatever  letter  or  number
+
+you  want  though
+
+and  im  going  to  change  the  font  of  this
+
+im  going  to  click  on  the  text  editor  up
+
+here  this  little  t
+
+icon  and  im  going  to  change  this  to
+
+league
+
+gothic  you  dont  have  to  use  this  font
+
+you  could  use  whatever  font  youd  like
+
+it  should  work  just  fine  with  this
+
+tutorial  and  let  me  grab  the  select  tool
+
+over  here
+
+and  let  me  just  scale  this  up  oops  not
+
+like  that  let  me  grab  this  arrow  right
+
+here  then  hold  ctrl
+
+to  lock  the  proportions  put  this  towards
+
+the  center  of  the  page  scale  it  up  a
+
+little  more
+
+thats  looking  pretty  good  and  now  what
+
+i  want  to  do  is  convert  this  from  a  text
+
+object  to  a  path  so  that  we  can  edit  it
+
+further
+
+to  do  that  ill  go  to  path  object  to
+
+path
+
+and  then  click  on  the  ungroup  button
+
+over  here  which  is  uh  this  icon  that
+
+says  ungroup  or  you  could
+
+press  ctrl  shift  and  g
+
+now  i  will  take  the  opacity  and  bring
+
+this  down  roughly  in  half
+
+and  in  order  to  give  this  the  distressed
+
+effect  were  going  to  do  two  different
+
+things  to  it
+
+number  one  were  going  to  roughen  the
+
+edges  so  it  looks  more  whimsical
+
+and  number  two  were  going  to  add  a
+
+vector  texture  to  the  center  of  the
+
+letter  here
+
+so  starting  first  with  the  the  rough  the
+
+roughened  edges  to  do  that  im  going  to
+
+grab  the  edit  paths  by  nodes  tool
+
+and  what  were  looking  at  is  the  number
+
+of  nodes  here  in  the  letter  if  you
+
+notice
+
+during  in  this  curve  over  here  we  have  a
+
+lot  of  nodes  but  in  this  straight  line
+
+we  dont  have
+
+very  many  nodes  at  all  so  what  we  want
+
+to  do  is  add  some  new  nodes  in  here
+
+by  double  clicking  these  lines  so  that
+
+its  more  consistent  with  the  rest  of
+
+the  design
+
+because  the  way  were  going  to  roughen
+
+these  edges  is  by  altering  the  position
+
+of  these  nodes  using  an  extension  which
+
+im  going  to  show  you  in  just  a  minute
+
+so
+
+go  ahead  and  add  some  new  nodes  where
+
+they  are  needed  so  that  it  looks  more
+
+consistent  all  the  way  through  maybe
+
+ill  put  one  here
+
+another  one  right  here
+
+and  id  say  thats  looking  pretty  good
+
+right  there  so  well  go  back  to  the
+
+select  tool
+
+what  i  want  to  do  now  is  go  to
+
+extensions  modify  path
+
+and  click  on  jitter  nodes  and  im  going
+
+to  use  these  presets  right  here
+
+1.0  1.0  shift  node  selected
+
+shift  node  handles  deselected  uniform
+
+and  go  ahead  and  click  live  preview  to
+
+see  how  it  looks
+
+now  the  numbers  that  you  should  use  here
+
+depend  entirely  on  the  size  of  your
+
+letter  if  you  notice  here
+
+displacing  these  two  axis  at  one  pixel
+
+is  perfect  it  looks  good  right  there  if
+
+this  were  too  high  lets  say  if  i  had
+
+something  like  10
+
+it  would  look  something  like  that  or
+
+thats  not  thats  not  thats  thats  too
+
+much  it  doesnt  even  look  like  a  letter
+
+anymore  so  i  want  to  lower  that  to  1.
+
+now  im  mentioning  this  because  youre
+
+probably  going  to  have  to  use  a
+
+different  value
+
+other  than  one  in  order  to  get  this
+
+result  so  make  sure  to  play  around  with
+
+these  numbers  a  little  bit  to  see  what
+
+gets  the  best  result
+
+what  were  looking  for  is  this  right
+
+here  where  the  edges  just  look  a  little
+
+roughened  like  that  thats  perfect  as  it
+
+is  so
+
+ill  click  apply  then  close  out  of  that
+
+and  now  we  want  to  do  is  apply  a  texture
+
+to  this  letter
+
+but  i  dont  want  to  apply  the  texture  to
+
+the  entire  letter  i  want  it
+
+to  only  be  applied  to  the  center  of  the
+
+letter  here  the  middle  portion  so  im
+
+going  to  create  a  duplicate  of  this
+
+letter  and  then  offset  it
+
+to  make  it  smaller  and  then  use  that  as
+
+the  reference  selection
+
+for  applying  the  texture  so  im  going  to
+
+right  click  this  object  and  go  to
+
+duplicate
+
+and  im  going  to  make  this  green  just  so
+
+we  can  differentiate  it
+
+and  im  going to  come  up  here  to  where
+
+it  says  path  and  im  going  to  click  on
+
+simplify  to  get  rid  of  some  of  those
+
+nodes  that  we  added
+
+and  then  well  come  over  here  and  go  to
+
+path  and  i  will  look  for
+
+dynamic  offset  and  now  i  want  to  take
+
+this  little  node  up  here  and  just  bring
+
+this  down
+
+so  that  we  have  this  smaller  version  of
+
+the  letter
+
+inside  of  it  like  that  and  that  green
+
+area  thats  where  we  want  the  texture  to
+
+be  applied
+
+so  lets  finalize  that  by  going  to  path
+
+object  to  path
+
+go  back  to  the  select  tool  and  now  what
+
+i  want  to  do  is  import  a  vector  texture
+
+i  will  have  this  linked  in  the
+
+description  of  the  video  to  where  you
+
+can  go  and  download  this  svg  texture  so
+
+you  can  work  with  it  im  just  going  to
+
+open  up  the  folder  here  on  my  other
+
+monitor  and  uh
+
+well  ill  show  you  over  here  i  have  this
+
+open  like  this  im  going  to  take  this
+
+scratch.svg  and  im  just  going  to  click
+
+and  drag  that  into  inkscape  like  that
+
+and  its  going  to  ask  all  of  this  stuff
+
+im  just  going  to  leave  the  defaults
+
+click  ok
+
+and  there  is  our  let  me  zoom  out  a
+
+little  bit  to  zoom  out  im  going  to  hold
+
+ctrl  and  roll  down  the  mouse  wheel
+
+there  is  our  vector  texture  now  let  me
+
+position  this  over  the  green  area  if  you
+
+notice  where  the  red
+
+and  the  green  are  intersecting  thats
+
+going  to  be  the  area  where  the
+
+the  texture  is  applied  to  the  letter  so
+
+i  just  want  to  make  sure  i  have  it
+
+positioned  where  i  want  it
+
+that  right  there  looks  pretty  good  so
+
+im  going  to  hold  im  going  to  click  on
+
+this  green  letter  to  select  that
+
+and  then  im  going  to  hold  shift  and
+
+click  on  the  red  texture
+
+and  with  them  both  selected  ill  go  to
+
+path  intersection
+
+and  then  ill  hold  shift  and  click  on
+
+the  letter  and  go  to  path
+
+difference  and  what  we  can  do  now  is
+
+bring  the  opacity  all  the  way  back  up
+
+and  zoom  out  and  as  you  can  see  we  are
+
+finished  that  is  how  you  can
+
+pretty  easily  create  a  distressed  text
+
+effect  using  inkscape  so
+
+if  you  have  any  questions  just  leave  a
+
+comment  below  and  as  always  thanks  for
+
+watching
+

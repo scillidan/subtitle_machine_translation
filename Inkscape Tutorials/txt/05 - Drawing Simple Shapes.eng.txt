@@ -1,0 +1,1266 @@
+
+in  this  tutorial  Ill  be  demonstrating
+
+how  you  can  create  these  six  icon
+
+designs  using  nothing  but  basic  shapes
+
+in  inkscape  before  we  get  started  though
+
+if  you  want  to  learn  more  about  how
+
+inkscape  Works  be  sure  to  check  out  my
+
+inkscape  master  class  its  a  collection
+
+of  over  80  videos  where  we  go  over  all
+
+of  the  tools  and  features  in  inkscape
+
+and  I  explain  what  they  are  and
+
+demonstrate  how  they  work  we  even  have  a
+
+private  Community  where  you  can  ask
+
+questions  and  get  help  from  me  anytime
+
+you
+
+want  so  the  first  thing  Im  going  to
+
+demonstrate  is  how  to  draw  a  heart  so
+
+let  me  grab  the  squares  and  rectangles
+
+tool  Ill  click  and  drag  on  the  canvas
+
+to  draw  a  vertically  elongated  rectangle
+
+and  then  Ill  grab  my  selection  tool  and
+
+I  want  to  make  sure  I  have  this  lock
+
+icon  turned  off  up  here  in  the  toolbar
+
+and  for  the  width  I  want  the  width  to  be
+
+100  pixels  and  I  want  the  height  to  be
+
+225
+
+pixels  and  then  Im  going  to  zoom  in  on
+
+this  object  Im  going  to  go  back  to  my
+
+rectangle  tool  and  Im  going  to  grab
+
+this  circular  knot  right  here  and  bring
+
+this  all  the  way  down  so  that  we  have
+
+rounded  edges  like  that
+
+then  Ill  grab  my  selection  tool  Ill
+
+right  click  the  object  and  go  to
+
+duplicate  I  will  rotate  it
+
+90°  select  both  objects  click  on  them  to
+
+get  the  rotation  handles  and  then  hold
+
+your  control  key  and  grab  the  rotation
+
+handle  in  the  corner  here  and  rotate  it
+
+around  until  its  upright  like  that
+
+where  it  sort  of  looks  like  an  X  and  now
+
+you  can  go  into  your  shape  Builder  tool
+
+make  sure  you  have  the  addition  option
+
+enabled  and  click  and  drag  to  draw  a
+
+line  going  through  the  area  of  the
+
+shapes  to  draw  a  heart  now  you  can  go
+
+back  to  your  selection  tool  and  just
+
+like  that  youve  drawn  a
+
+heart  now  lets  go  over  how  you  can  draw
+
+this  waving  flag  icon  Im  going  to  grab
+
+my  rectangle  tool  Ill  click  and  drag  on
+
+the  canvas  to  draw  a
+
+rectangle  and  I  want  to  make  sure  that  I
+
+have  the  edges  rounded  as  I  did  for  the
+
+previous  object  that  we
+
+created  and  then  Im  going  to  draw
+
+another  rectangle  right  about  here  and
+
+bring  it  out  about  that  far
+
+and  I  want  to  get  rid  of  the  rounded
+
+edges  here  so  Ill  come  up  here  and
+
+click  on  this  button  in  the
+
+toolbar  Ill  grab  my  selection  tool  move
+
+this  over  about  here  and  use  this
+
+scaling  handle  right  here  to  size  the
+
+rectangle  appropriately  about  where  it
+
+needs  to  be  relative  to  the  pole  Ill
+
+place  this  right  about  here  we  want  a
+
+little  bit  of  space  to  be  between  the
+
+pole  and  the
+
+flag  once  thats  done  lets  create  an
+
+object  to  place  on  top  of  the  flag  for
+
+my  example  here  I  just  used  a  star  so  I
+
+will  use  that  for  this  demonstration  as
+
+well  but  you  can  use  whatever  youd  like
+
+Im  going  to  grab  my  stars  and  polygons
+
+tool  Im  going  to  choose  the  star  option
+
+I  want  five  corners  and  I  want  the  spoke
+
+ratio  to  be
+
+0.375  and  the  rounded  and  randomized
+
+both  set  to  zero  and  then  I  can  click
+
+and  drag  on  my  canvas  to  draw  a  star
+
+Ill  hold  control  and
+
+shift  and  bring  my  cursor  straight  up
+
+like
+
+that  and  then  Ill  grab  my  selection
+
+tool  Ill  place  this  in  the  center  of
+
+the
+
+rectangle  to  scale  it  down  Im  holding
+
+control  and  shift  and  clicking  and
+
+dragging  the
+
+handle  and  to  place  this  in  the  center
+
+of  the  rectangle  Ill  hold  shift  and
+
+click  on  the  rectangle  so  that  I  have
+
+both  object  selected  and  I  will  open  up
+
+my  aligned  distribute  menu  by  going  to
+
+object  and  selecting  aligned
+
+distribute  I  want  to  make  sure  I  have
+
+last  selected  chosen  from  this  dropdown
+
+and  I  will  Center  it  vertically  and
+
+horizontally
+
+and  then  I  will  go  to  path  and  select
+
+difference  and  its  going  to  subtract
+
+the  star  from  the  rectangle  so  that  it
+
+creates  a  negative  space  area  within  it
+
+now  let  me  just  place  this  over  here  to
+
+readjust  it  I  want  to  make  these  two
+
+corners  of  the  rectangle  rounded  so  let
+
+me  come  over  here  to  my  nodes  tool  Ill
+
+click  on  this  icon  up  here  that  says  add
+
+Corners  live  path  effect  and  Ill  click
+
+on  this  node  to  select  it  and  then  hold
+
+shift  and  click  on  this  node  to  select
+
+it  with  those  two  nodes  selected  you  can
+
+grab  these  white  knots  right  here  and
+
+click  and  drag  them  to  round  the  corners
+
+of  the  selected  nodes  now  Im  going  to
+
+bring  that  down  a  little  more  so  its
+
+not  too
+
+rounded  right  about  there  looks  good  and
+
+once  youre  done  with  that  you  can  click
+
+on  this  Square  icon  up  here  to  convert
+
+them  to  a  path  and  that  finalizes  the
+
+effect  now  Im  going  to  give  the  flag  a
+
+waving  effect  so  to  do  that  let  me  grab
+
+my  selection  tool  Im  going  to  open  up
+
+the  path  effects  menu  by  going  to  path
+
+and  selecting  path  effects  and  from  this
+
+drop  down  over  here  Im  looking  for
+
+envelope  deformation  Im  going  to  select
+
+that  and  I  want  to  uncheck  this  box
+
+right  here  that  says  enable  left  and
+
+right  paths  and  Im  going  to  select  top
+
+Bend  path  right  here  and  Im  going  to
+
+grab  this  top  Edge  and  click  and  drag  it
+
+up  like  that  and  then  Ill  click  on  this
+
+note  over  here  and  Ill  take  this  handle
+
+and  bring  this  down  like  that  so  we  want
+
+a  little  bit  of  a  contour  going  on  the
+
+top  edge  of  the  flag  dont  worry  about
+
+whats  happening  on  the  left  and  right
+
+and  down  here  thats  going  to  come
+
+together  once  we  finish  making  all  of
+
+these  adjustments  so  Im  just  going  to
+
+adjust  this
+
+accordingly  and  then  I  want  to  do  the
+
+same  thing  with  the  bottom  Edge  so  Ill
+
+come  over  here  and  select  bottom  path
+
+and  Ill  do  the  same  thing  Ill  take
+
+this  line  and  Ill  bring  this  one  up  and
+
+Ill  bring  this  one  down  so  that  the
+
+Contours  are  consistent  on  the  top  and
+
+the
+
+bottom  and  that  looks  good  right  there
+
+and  once  youre  finish  you  can  finalize
+
+this  by  going  to  path  and  selecting
+
+object  to  path  and  just  like  that  youve
+
+created  a  waving  FL  FL
+
+icon  now  well  go  over  how  to  create
+
+this  wi  glass  shape  so  Im  going  to  grab
+
+my  circles  and  ellipses  tool  and  Ill
+
+click  and  drag  on  the  canvas  to  draw  an
+
+elongated  ellipse  like  that  and  Ill
+
+make  this  black  and  Im  going  to  open  up
+
+my  fill-in  stroke  menu  by  double
+
+clicking  the  color  stripe  down  here  next
+
+to  the  fill  label  and  Ill  bring  the
+
+opacity  of  this  down  roughly  in
+
+half  now  I  want  to  make  a  duplicate  copy
+
+of  this  so  let  me  go  to  my  selection
+
+tool  Ill  right  click  this  and  go  to
+
+duplicate  and  Ill  hold  my  shift  key  and
+
+Ill  grab  this  top  Arrow  up  here  and
+
+click  and  drag  to  scale  this  in  and  as
+
+long  as  youre  holding  shift  itll  scale
+
+inward  from  the  top  and  bottom  like  that
+
+and  we  want  to  make  this  about  that
+
+height  right  about
+
+there  and  now  Im  going  to  right  click
+
+this  and  go  to  duplicate  Ill  hold
+
+control  and  bring  this  all  the  way  down
+
+here  and  Ill  make  this  a  little  smaller
+
+by  holding  control  and  taking  this  top
+
+arrow  and  scaling  that  down  a  little
+
+bit  and  then  Im  going  to  convert  this
+
+to  a  path  by  going  to  path  and  selecting
+
+object  to  path  Ill  grab  the  nodes  tool
+
+and  Ill  take  this  node  right  here  and
+
+click  on  it  to  select  it  and  then  hold
+
+control  and  click  and  drag  it  up  about
+
+that  far  and  the  same  thing  with  this
+
+node  Ill  select  this  Noe  and  Ill  click
+
+and  drag  this  up  just  a  tiny  bit  though
+
+not  much  maybe  about  that  far  and  this
+
+is  going  to  be  the  base  of  the  wine
+
+glass  so  now  Im  going  to  grab  the
+
+rectangle  tool  and  Im  going  to  click
+
+and  drag  to  draw  a  rectangle  going
+
+between  the  two  objects  here  to
+
+represent  the  stem  of  the  wine  glass  and
+
+I  will  make  these  Corners  sharp  by
+
+clicking  on  this
+
+button  and  Ill  scale  this  down  a  little
+
+bit  Im  going  to  hold  my  shift  key  and
+
+use  this  handle  right  here  to  scale  that
+
+down  and  I  want  to  make  sure  I  have
+
+everything  here  centered  so  let  me  zoom
+
+out  let  me  select  everything  let  come
+
+over  here  to  my  align  and  distribute
+
+menu  and  make  sure  I  have  everything
+
+centered  on  the  vertical
+
+axis  and  now  I  can  come  over  here  into
+
+the  shape  Builder  tool  and  I  can  draw  a
+
+line  through  these  areas  to  draw  the
+
+shape  shape  that  Im  trying  to  create
+
+and  if  I  go  back  to  the  selection  tool
+
+now  all  we  have  to  do  is  round  these
+
+Corners  in  here  so  let  me  grab  the  nodes
+
+tool  and  click  on  the  object  Im  going
+
+to  select  these  four  nodes  right
+
+here  Ill  click  on  this  button  up  here
+
+to  add
+
+Corners  let  me  select  them
+
+again  and  Ill  take  this  handle  and
+
+bring  this  in  or  this  white  this  little
+
+round  white  knot  and  bring  that  in  a
+
+little  bit  just  to  give  a  little  bit  of
+
+a  rounded  rounded  transition  between  the
+
+stem  and  the  other  parts  of  the  glass
+
+and  now  we  can  go  back  to  the  select
+
+tool  and  zoom
+
+out  and  now  we  can  go  to  our  fill  and
+
+stroke  menu  bring  the  opacity  back  up  to
+
+100%  and  there  is  our  wine
+
+glass  next  well  go  over  how  to  create
+
+this  shopping  cart  icon  so  Ill  come
+
+back  into  inkscape  Im  going  to  grab  my
+
+beier  pen  which  is  located  over  here  in
+
+the  toolbar  or  you  can  access  it  by
+
+pressing  the  letter  B  on  your  keyboard
+
+and  up  here  in  the  tool  settings  menu  I
+
+want  to  choose  this  option  right  here
+
+that  says  create  a  sequence  of  straight
+
+line  segments  and  I  want  to  click  once
+
+on  the  canvas  to  create  a  point  and  then
+
+hold  the  control  key  and  bring  the  line
+
+straight  across  about  that  far  and  then
+
+click  again  to  create  another  point  and
+
+then  Im  going  to  bring  the  line  down
+
+about  this  far  but  Im  going  to  hold  the
+
+control  key  so  that  it  locks  it  onto  a
+
+75  degree  angle  and  if  you  look  in  the
+
+status  bar  at  the  bottom  of  the  screen
+
+itll  show  you  which  angle  you  currently
+
+have  the  line  going  at  so  if  I  move  it
+
+around  you  can  see  this  angle  changes  I
+
+want  the  angle  to  be  75  degrees  so  Ill
+
+move  it  about  that  far
+
+and  again  while  Im  holding  control
+
+click  to  add  a  point  and  then  bring  this
+
+line  straight  across  about  that  far  like
+
+that  and  then  press  the  enter  key  to
+
+close  the  path  now  well  come  over  here
+
+to  the  stroke  style  tab  under  the  fill
+
+and  stroke  Tab  and  I  want  to  hold  up  on
+
+this  plus  icon  to  make  this  stroke
+
+thicker  or  give  it  a  heavier
+
+weight  and  I  want  it  to  have  rounded
+
+caps  as  well  so  Ill  click  on  this
+
+rounded  caps  button  and  I  want  it  to
+
+have  rounded  Corners  as  well  or  rounded
+
+joins  so  Ill  select  that  option  as  well
+
+and  now  Im  going  to  grabb  the  rectangle
+
+tool  let  me  press  the  Escape  key  to
+
+deselect  everything  there  and  Ill  click
+
+and  drag  to  draw  a  rectangle  going  over
+
+the  object  like
+
+this  and  Ill  convert  that  to  a  path  by
+
+going  to  path  and  selecting  object  to
+
+path  and  Ill  grab  the  nodes  tool  and
+
+Ill  take  this  node  and  bring  this  down
+
+and  over  like  that  we  want  the  top  Edge
+
+and  the  right  Edge  going  straight  like  a
+
+90°  angle  and  then  down  here  this  bottom
+
+Edge  dips  down
+
+and  you  can  resize  this  as  needed  so  Im
+
+going  to  resize  this  Im  going  to  scale
+
+this  down  to  make  sure  to  hold  the
+
+control  key  while  you  scale  it  down  to
+
+preserve  the  aspect
+
+ratio  and  I  noticed  that  this  part  of
+
+the  cart  down  here  sticks  out  a  little
+
+too  far  so  Ill  grab  my  nodes  tool  and
+
+Ill  just  bring  that  node  in  a  little
+
+bit  and  Ill  hold  control  while  Im
+
+doing  that  so  it  locks  it  onto  the
+
+horizontal
+
+axis  now  Ill  select  the  basket  of  the
+
+cart  and  Im  going  to  apply  the  corner
+
+is  life  path  effect  as
+
+well  select  each  of  these  nodes  by
+
+clicking  on  both  of  them  or  holding
+
+shift  and  clicking  on  both  of  them  and
+
+then  grab  the  white  knot  and  bring  that
+
+in  like  that  just  to  give  them  rounded
+
+Corners  like
+
+that  now  Im  going  to  add  some  Wheels  to
+
+the  cart  so  let  me  grab  the  circles  and
+
+ellipses  tool  Ill  click  and  drag  Ill
+
+hold  the  control  key  and  click  and  drag
+
+to  draw  a  perfectly  round  circle  like
+
+that  grab  the  selection  tool  place  it
+
+right  under  the  cart  duplicate  it  by
+
+right  clicking  it  and  going  to  duplicate
+
+and  then  hold  your  control  key  and  click
+
+and  drag  this  straight  across  like  that
+
+and  now  what  Ill  do  is  for  one  final
+
+step  Ill  click  on  this  part  of  the  cart
+
+go  back  to  the  nodes  tool  add  the  corner
+
+live  path  effect  and  then  click  on  this
+
+node  right  here  and  just  make  this
+
+rounded  using  that
+
+knot  there  we  go  once  youre  finished
+
+you  can  click  the  square  icon  to  convert
+
+this  to  a  path  and  then  youre  going  to
+
+want  to  convert  the  stroke  to  a  path  as
+
+well  so  well  go  to  path  and  select
+
+stroke  to
+
+path  and  we  can  select  everything  now
+
+and  go  to  path  Union  and  now  we  have  a
+
+shopping  cart
+
+icon  now  lets  go  over  how  to  create
+
+this  sword
+
+icon  Im  going  to  grab  the  circles  and
+
+ellipses  tool  and  Ill  hold  my  control
+
+key  and  click  and  drag  to  draw  a
+
+perfectly  round  circle  Ill  grab  my
+
+selection  tool  move  it  towards  the
+
+bottom  of  the  page  click  off  of  the
+
+graphic  to  deselect  it  and  then  Ill
+
+grab  my  rectangle  tool  and  Ill  click
+
+and  drag  a  rectangle  going  through  the
+
+circle  about  that
+
+wide  and  then  I  want  to  grab  my
+
+selection  tool  select  both  of  these  go
+
+to  the  aligned  distribute  menu  and
+
+Center  them  up  vertically  click  off  of
+
+it  to  deselect  everything  and  I  want  to
+
+select  just  the  rectangle  here  and  hold
+
+my  shift  key  and  use  this  right  arrow  to
+
+scale  this  down  or  up  a  little  bit
+
+depending  on  how  big  or  small  your
+
+rectangle  is  uh  the  idea  is  we  want  Im
+
+paying  attention  to  down  here  where  this
+
+circle  meets  I  want  some  of  the  circles
+
+sticking  out  between  that  from  that
+
+rectangle  there  if  I  make  it  too  big
+
+its  not  quite  obvious  that  theres  a
+
+circle  there  but  if  I  make  it  smaller  it
+
+looks  a  little  out  of  place  or  too  big
+
+so  I  want  to  find  a  happy  medium  which  I
+
+think  is  right  about
+
+there  and  then  once  thats  done  I  will
+
+bring  this  up  a  little  more  and  Im
+
+going  to  convert  this  to  a  path  by  going
+
+to  path  and  selecting  object  to  path  and
+
+then  Ill  grab  my  nodes  tool  and  I  want
+
+to  select  these  two  nodes  up  top  over
+
+here  and  I  want  to  enable  this  setting
+
+up  here  in  the  tool  settings  menu  that
+
+says  show  transformation  hand  so  Ill
+
+click  on  that  to  enable  it  and  then  I
+
+want  to  hold  control  and  shift  and  grab
+
+this  Arrow  right  here  and  scale  this  out
+
+like  that  so  that  we  make  this  we  make
+
+the  top  of  this  wider  than  the
+
+bottom  now  we  can  disable  that  setting
+
+with  these  two  nodes  still  selected  we
+
+can  come  up  here  and  select  this  button
+
+that  says  insert  new  nodes  into  selected
+
+segments  and  then  click  on  just  that  new
+
+node  right  there  and  then  hold  your
+
+control  key  and  click  and  drag  it  up
+
+like  that  to  create  the  point  of  the
+
+sword  so  Ill  bring  it  up  a  about  that
+
+far  and  now  well  create  the  handle  of
+
+the  sword  so  Ill  go  back  to  my
+
+rectangle  tool  Ill  click  and  drag  to
+
+draw  rectangle  about  that
+
+size  let  me  grab  my  selection  tool  and
+
+reposition
+
+this  I  want  to  make  sure  everything  here
+
+is  centered  so  Ill  select  everything
+
+Center  it  up
+
+vertically  and  select  just  this  object
+
+right  here  and  Im  going  to  convert  this
+
+to  a  path  Ill  go  to  path  object  to  path
+
+Ill  go  to  my  nodes  tool  and  select
+
+these  two  nodes  no  Im  sorry  Ill  add
+
+the  cornner  live  path  effect  first  and
+
+then  I  will  select  these  two  nodes  and
+
+bring  this  hand  bring  these  Handles  in
+
+like  this  so  that  we  have  rounded
+
+edges  then  we  can  convert  that  to  a  path
+
+by  clicking  the  square
+
+icon  and  now  I  want  to  create  a  little
+
+bit  of  separation  between  the  handle  and
+
+the  sword  or  the  blade  of  the  sword  kind
+
+of  like  how  I  did  over  here  you  can  see
+
+that  separation  there  so  to  do  that
+
+let  me  just  take  this  object  right  click
+
+it  go  to  duplicate  make  it  white  and
+
+bring  this  up  like  that  just  click  and
+
+drag  this  handle  up  and  then  click  this
+
+button  that  says  lower  selection  one
+
+step  to  lower  it  beneath  the  black
+
+object  and  you  can  just  take  this  handle
+
+and  make  this  in  as  big  or  as  small  as
+
+youd  like  it  to  be  it  may  help  to  zoom
+
+out  and  see  exactly  how  it  looks  in
+
+comparison  to  the  rest  of  the  objects
+
+and  once  youre  happy  with  the  size  just
+
+hold  shift  and  click  on  the  blade  and  go
+
+to  path  difference
+
+then  you  could  select  everything  and  go
+
+to  path
+
+Union  and  now  you  have  created  a  sword
+
+icon  and  for  the  final  part  of  this
+
+tutorial  I  will  demonstrate  how  to
+
+create  this  book
+
+icon  so  to  do  this  Im  going  to  grab  my
+
+stars  and  polygons  tool  I  want  to  come
+
+up  here  to  the  toolbar  and  choose  the
+
+polygon  setting  I  want  six  corners  and
+
+rounded  and  randomize  both  set  to  zero
+
+and  then  Im  going  to  hold  control  and
+
+shift  on  my  keyboard  and  click  and  drag
+
+up  in  an  upward  motion  with  my  cursor  so
+
+that  I  create  a  hexagon  where  the
+
+corners  are  going  up  and  down  vertically
+
+like  that  let  me  grab  my  selection  tool
+
+and  put  this  towards  the  center  of  the
+
+page  now  Im  going  to  convert  this  to  a
+
+path  by  going  to  path  and  selecting
+
+object  to  path  and  Ill  go  to  my  nodes
+
+tool  and  I  want  to  select  these  nodes
+
+down  here  these  three  nodes  down  here  in
+
+the  bottom  hold  your  control  key  and
+
+click  and  drag  them  up  about  that
+
+far  now  Im  going  to  grab  my  selection
+
+tool  click  on  the  object  to  get  the
+
+rotation  handles  and  hold  your  control
+
+key  and  grab  this  corner  handle  and
+
+rotate  it  left  four  steps  so  one  2  3
+
+four  and  when  you  do  that  you  should  see
+
+these  left  edges  are  flat  against  the
+
+bounding  box  of  the  object
+
+selection  now  Ill  grab  my  nodes  tool
+
+select  these  three  nodes  up  here  hold  my
+
+control  key  and  click  and  drag  these  up
+
+like
+
+that  go  back  to  my  selection  tool  click
+
+on  the  object  again  to  get  the  rotation
+
+handles  and  and  now  Im  going  to  hold
+
+control  and  rotate  it  four  steps
+
+clockwise  so  in  the  other  direction  now
+
+so  this  time  I  will  go  to  the  right  1  2
+
+3  four  and  again  were  holding  control
+
+the  whole  time  we  do  this  to  lock  it
+
+into  15  Dee  increments  like
+
+that  and  once  thats  done  lets
+
+rightclick  the  object  and  go  to
+
+duplicate  and  I  want  to  make  this  a
+
+different  color  just  so  I  can
+
+differentiate  it  Im  going  to  make  this
+
+green  and  then  Ill  rightclick  this  and
+
+duplicate  it  again  and  Ill  make  this
+
+one  a  different  color  as  well  so  Ill
+
+make  this  one  red  and  I  will  turn  on
+
+snapping  by  clicking  this  magnet  icon  up
+
+here  in  the  top  right  corner  of  the
+
+screen  and  I  want  to  take  this  object
+
+and  just  snap  the  corners  there  right
+
+about  there  like  that  so  that  the  bottom
+
+area  this  green  kind  of  looks  like  a
+
+green  check  mark  and  once  thats  done
+
+hold  your  shift  key  and  click  on  the
+
+green  object  so  that  you  have  both  of
+
+these  objects  selected  here  and  go  to
+
+path  and  select
+
+difference  now  Im  going  to  use  the
+
+offset  path  effects  so  let  me  come  over
+
+here  to  my  path  effects  menu  if  you
+
+dont  have  a  path  effects  menu  just  go
+
+to  path  and  select  path
+
+effects  and  the  path  effect  Im  looking
+
+for  is  offset  so  Im  going  to  use  this
+
+search  box  right  here  and  type  off  and
+
+there  it  is  right  there
+
+offset  Ill  grab  my  nodes  tool  and  I
+
+will  make  sure  first  of  all  make  sure
+
+you  have  these  options  enabled  down  here
+
+we  want  the  the  join  set  to  miter  units
+
+this  is  not  really  important  so  you  can
+
+ignore  that  offset  zero  and  miter  limit
+
+4  and  then  use  these  settings  as  well
+
+and  once  thats  set  set  I  will  grab  this
+
+red  circle  and  click  and  drag  this  down
+
+like
+
+that  about  that
+
+far  and  once  thats  done  you  can  go  to
+
+path  object  to  path  to  finalize  that  and
+
+now  we  can  grab  our  selection  tool
+
+select  both  of  these  objects  click  on  it
+
+to  get  the  rotation  handle  and  hold  your
+
+control  key  and  rotate  it  to  the  right
+
+one  two  two  steps  like  that  now  you  can
+
+click  off  of  it  to  deselect  everything
+
+take  just  this  green  object  grab  your
+
+nodes  to  tool  and  take  these  two  nodes
+
+right  here  and  hold  your  control  key  and
+
+click  and  drag  them  out  like  that  we
+
+want  this  to  to  extend  beyond  that  black
+
+shape  and  now  we  can  go  back  to  our
+
+selection  tool  select  everything  let  me
+
+turn  off  the  snapping  Now  by  clicking
+
+this  magnet  icon  again  and  now  I  can
+
+click  on  the  object  to  get  the  rotation
+
+handles  and  now  Im  going  to  hold
+
+control  and  rotate  it  to  the  left  two
+
+steps  so  one  two  and  now  I  will  go  to
+
+path  difference  and  that  right  there  is
+
+the  effect  were  looking  for  so  now  I
+
+have  to  make  the  corners  of  these  a
+
+little  rounded  because  as  of  right  now
+
+theyre  a  little  too  Square  so  to  do
+
+that  Im  going  to  grab  my  nodes  tool
+
+click  on  the  book  to  select  it  add  the
+
+corners  live  path  effect  and  Im  going
+
+to  select  these  four  nodes  over  here  on
+
+the  left  and  I  will  grab  one  of  these
+
+handles  one  of  these  white  knots  and
+
+scale  that  in  like  that  just  to  make
+
+these  Corners
+
+rounded  and  then  Ill  come  over  here  and
+
+do  the  same  thing  I  want  to  select  these
+
+three  notes
+
+and  give  them  a  little  bit  of  a  rounded
+
+Edge  as
+
+well  and  then  Ill  come  over  here  and  do
+
+the  same  thing  select  these  nodes  on  the
+
+right  hand  side  and  scale  them  down  its
+
+good  to  scale  each  of  these  segments
+
+individually  because  the  amount  that  you
+
+want  around  them  is  going  to  be
+
+different  for  each  side  so  its  you  get
+
+a  better  result  doing  it  this  way  and
+
+Ill  come  up  here  and  use  this  one  as
+
+well  so  Ill  click  on  that  one  and  this
+
+should  be  the  last  one  right  here  Ill
+
+Ill  r  that  off  a  little
+
+bit  and  there  we  go  Im  going  to  click
+
+on  the  square  button  up  here  to  convert
+
+to  a
+
+path  okay  so  there  we  go  theres  the
+
+book  icon  now  one  final  part  of  the  book
+
+icon  if  you  notice  here  I  put  a  little
+
+bit  of  a  bookmark  down  there  just  to
+
+emphasize  that  its  a  book  it  makes  it
+
+look  more  like  a  book  when  you  do  that
+
+so  to  create  that  bookmark  Im  just
+
+going  to  grab  my  rectangle  tool  and  Ill
+
+click  and  drag  to  draw  a  rectangle  over
+
+this  portion  of  the  object  Im  going  to
+
+grab  my  selection  tool  click  on  it  again
+
+to  get  the  rotation  handles  but  instead
+
+of  rotating  were  going  to  Shear  were
+
+going  to  use  the  icon  over  here  on  the
+
+right  hand  side  and  hold  the  option  key
+
+or  the  ALT  key  if  youre  on  Windows  and
+
+just  bring  this  down  two
+
+steps  so  that  the  edges  match  in
+
+Direction  like  that  and  we  can  bring
+
+this  right  about
+
+there  and  Im  going  to  scale  that  down  a
+
+little  bit  let  me  try  that
+
+again  and  if  you  need  to  make  the  this
+
+bottom  longer  or  shorter  Im  placing  it
+
+so  that  the  top  Edge  goes  halfway
+
+through  the  books  pages  here  and  I  want
+
+this  to  be  a  little  outside  of  the
+
+bottom  so  let  me  grab  the  nodes  tool  and
+
+let  me  convert  this  to  a  path  Ill  go  to
+
+path  object  to  path  and  now  I  can  take
+
+those  nodes  and  hold  control  and  move
+
+them  up  like  that  and  I  can  add  new
+
+nodes  in  there  as  well  with  those  two
+
+nodes  selected  I  can  click  on  this
+
+button  over  here  that  says  add  new
+
+nodes  and  just  select  this  node  right
+
+here  and  move  that  up
+
+and  now  I  want  to  create  a  little  bit  of
+
+an  offset  between  the  book  and  the
+
+bookmark  so  let  me  make  this  black  and
+
+let  me  right  click  this  and  go  to
+
+duplicate  Ill  make  the  duplicate  copy
+
+white  and  Ill  hold  control  and  shift
+
+and  scale  it  up  and  I  want  to  lower  it
+
+beneath  the  black  object  so  Ill  click
+
+on  the  lower  selection  one  step  and  then
+
+I  can  just  scale  this  up  or  down
+
+depending  on  how  much  I  want  the  offset
+
+to  be  and  again  Im  holding  control  and
+
+shift  while  I  do  this  to  scale  it  from
+
+the  center
+
+and  then  once  youre  happy  with  how  it
+
+looks  hold  shift  and  click  on  the  book
+
+and  go  to  path
+
+difference  and  now  we  can  select  both
+
+objects  and  go  to  path  Union  and  we  have
+
+created  our  book
+
+icon  so  that  should  do  it  for  todays
+
+tutorial  we  have  created  all  six  of
+
+these  icons  using  nothing  but  simple
+
+shapes  in  inkscape  if  you  have  any
+
+questions  let  me  know  and  as  always
+
+thanks  for  watching  join  the  logos  by
+
+Nick  mailing  list  and  get  over  200  free
+
+design  templates  including  logos  avatars
+
+textures  infographics  and  more  as  a
+
+member  youll  receive  news  updates  and
+
+tips  about  your  favorite  design  apps
+
+just  use  the  link  below  to  subscribe  for
+
+free  and  download  your  templates  as
+
+always  thanks  for  watching

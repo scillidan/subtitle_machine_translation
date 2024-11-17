@@ -1,0 +1,605 @@
+
+in  this  tutorial  well  be  going  over
+
+everything  you  need  to  know  about
+
+drawing  lines  in  inkscape  so  getting  us
+
+started  lets  first  go  over  how  you  can
+
+draw  simple  straight  lines  to  do  that
+
+were  going  to  use  the  pencil  tool  which
+
+could  be  located  over  here  in  your
+
+toolbar  or  you  can  access  it  by  pressing
+
+the  letter  P  on  your
+
+keyboard  when  you  have  the  pencil  tool
+
+enabled  youll  notice  up  here  in  the
+
+tool  settings  we  have  these  three
+
+different  modes  that  we  can  work  with
+
+these  are  the  different  types  of  lines
+
+that  you  can  draw  and  in  this  lesson
+
+well  be  going  over  all  three  but  lets
+
+first  focus  on  this  setting  right  here
+
+which  allows  us  to  draw  simple  straight
+
+lines  so  to  draw  your  straight  line  all
+
+you  have  to  do  is  Click  once  to  add  a
+
+point  and  then  move  your  cursor  wherever
+
+you  would  like  the  line  to  be  and  then
+
+click  again  to  add  another  point  and  now
+
+we  have  a  simple  two-point  line  as  you
+
+can  see  there  if  you  want  to  continue
+
+drawing  this  line  all  you  have  to  do  is
+
+connect  back  to  one  of  these  nodes  and
+
+click  move  your  cursor  wherever  you
+
+would  like  the  next  line  to  be  placed
+
+and  click  again  and  now  we  have  a  single
+
+three-point  line  that  follows  a  Bend
+
+here  so  lets  say  you  want  to  draw
+
+straight  lines  that  follow  a  perfect
+
+vertical  or  horizontal  path  all  you  have
+
+to  do  is  click  to  add  your  point  and
+
+then  while  placing  your  line  hold  the
+
+control  key  on  your  keyboard  and  if  you
+
+bring  your  cursor  down  and  up  you  get  a
+
+perfectly  vertical  line  or  if  you  bring
+
+it  left  and  right  you  get  a  perfectly
+
+horizontal  line  and  you  can  rotate  it
+
+around  like  this  to  place  your  line  in
+
+15°  increments  so  Im  going  to  create  a
+
+vertical  line  right  here  click  to  add
+
+the  point  and  Im  going  to  continue
+
+drawing  straight  lines  down  here  Im
+
+going  to  hold  Im  going  to  hold  control
+
+and  draw  a  horizontal  line  now  and  then
+
+I  will  draw  one  more  line  up  here  back
+
+to  the  starting  point  and  we  end  up  with
+
+something  like  that  right  there  so  let
+
+me  get  rid  of  that  and  show  you  what
+
+else  this  Bode  can  do  so  going  back  to
+
+the  pencil  tool  another  thing  you  can  do
+
+with  this  tool  is  draw  freehand  lines  so
+
+if  I  click  and  drag  like  that  youll
+
+notice  we  get  a  scribbled  line  that
+
+follows  my  hand  movement  so  this  would
+
+be  useful  if  youre  creating  something
+
+like  a  signature  or  maybe  if  youre
+
+using  a  stylus  or  a  pen  and  youre  want
+
+and  you  want  to  draw  calligraphy  or
+
+something  like  that  that  would  be  a  good
+
+mode  to  use  for  that  the  problem  with
+
+using  this  pen  mode  though  is  that  its
+
+hard  to  get  really  smooth  lines  so  lets
+
+say  I  wanted  to  draw  a  curse  of  letter  L
+
+like  that  this  does  not  look  very  fluid
+
+because  it  follows  my  hand  movement  and
+
+my  hand  isnt  perfectly  stable  so  this
+
+is  where  these  other  pen  modes  come  in
+
+handy  Im  going  to  click  on  the  Spyro
+
+option  now  this  middle  option  right  here
+
+that  says  create  spiral  path  this  makes
+
+it  so  that  the  freehand  lines  you  draw
+
+follow  a  much  more  fluid  Contour  so  if  I
+
+were  to  draw  that  same  letter  L  over
+
+here  I  get  a  different  output  over  here
+
+it  looks  much  more  smooth  in  fluid  now
+
+to  show  you  what  I  mean  even  more  let  me
+
+change  the  size  of  this  so  we  can  see
+
+this  line  better  and  Ill  do  the  same
+
+thing  to  this  line  over  here  Ill  make
+
+this  bigger  as  well  Im  going  to  change
+
+the  stroke  size  to
+
+seven  now  Im  going  to  select  this  line
+
+right  here  and  Im  going  to  grab  the
+
+nodes  tool  and  if  you  know  notice  the
+
+blue  path  on  there  represents  the  line
+
+that  I  drew  but  the  black  line
+
+represents  smooth  path  that  was  created
+
+so  if  I  move  these  nodes  around  I  can
+
+change  the  Contour  of  the  line  but  it
+
+stays  smooth  the  whole  time  it  never
+
+its  never  not  smooth  it  remains  pretty
+
+fluid  as  you  can  see  there  so  that  isnt
+
+exactly  the  case  over  here  if  I  click  on
+
+these  handles  over  here  you  dont  really
+
+get  that  smoothness  maintained  you  have
+
+more  control  from  these  handles  this  is
+
+better  for  creating  accurate  lines  but
+
+this  is  better  over  here  for  creating
+
+really  smooth
+
+lines  so  lets  go  over  that  final  option
+
+now  Im  going  to  go  back  to  the  let  me
+
+deselect  everything  and  go  back  to  the
+
+pencil  tool  and  we  have  this  final
+
+option  over  here  which  is  creating  Beast
+
+blind  paths  now  this  is  more  useful  when
+
+it  comes  to  using  the  bezier  pen  which
+
+well  go  over  in  just  a  minute  but  this
+
+does  work  with  the  pencil  as  well  so  let
+
+me  show  you  how  this  works  this  also
+
+allows  you  to  draw  smooth  lines  but  it
+
+gives  you  more  control  over  the  nodes
+
+afterwards  so  if  I  change  the  size  of
+
+this  let  me  make  this  seven  again  I  can
+
+come  over  here  to  the  nodes  tool  and  if
+
+you  notice  we  have  this  path  that  we  can
+
+edit  but  the  lines  are  drawn  using
+
+straight  lines  for  the  path  and  then  the
+
+actual  stroke  itself  follows  a  curved
+
+line  so  this  the  trade-off  youre  making
+
+here  this  is  not  as  fluid  as  this  option
+
+over  here  but  this  option  over  here
+
+gives  you  more  control  over  where
+
+exactly  you  can  place  the  Contours  of
+
+the  line  This  option  over  here  gives  you
+
+smoother  lines  but  its  kind  of  hard  to
+
+really  control  where  the  lines  get
+
+placed  because  its  always  making  sure
+
+that  the  lines  were  made  smooth  now
+
+lets  go  over  how  you  can  draw  lines
+
+using  the  be  pen  which  is  located  over
+
+here  in  your  toolbar  or  you  can  access
+
+it  by  pressing  the  letter  B  on  your
+
+keyboard  and  when  you  have  this  tool
+
+enabled  up  here  in  the  tool  settings  you
+
+notice  we  have  the  three  same  settings
+
+that  we  had  previously  in  the  pencil
+
+tool  in  addition  to  these  other  two  so
+
+lets  go  over  what  all  of  this  does  Now
+
+to  create  straight  lines  with  the  bezi
+
+pen  all  you  have  to  do  is  click  to  add  a
+
+point  just  like  the  PC  tool  but  the
+
+difference  is  that  as  you  add  points  the
+
+line  does  not  end  the  line  goes  on  as
+
+long  as  youd  like  it  to  go  on  so  this
+
+is  ideal  for  drawing  one  long  continuous
+
+line  as  you  can  see  there  and  this  line
+
+does  not  end  until  you  either  connect
+
+back  to  the  starting  point  or  you  press
+
+enter  on  the  keyboard  to  end  the  path
+
+like  that  and  another  thing  that  you  can
+
+do  with  this  mode  is  you  can  also  draw
+
+curved  lines  in  addition  to  the  straight
+
+lines  so  if  I  were  to  draw  a  straight
+
+line  like  this  and  make  it  vertical  and
+
+click  to  add  my  point  I  can  come  up  here
+
+and  I  can  click  and  drag  to  add  my  point
+
+and  as  Im  clicking  and  dragging  it
+
+curves  the  line  as  you  can  see  there  and
+
+then  you  could  bring  the  other  side  down
+
+like  this  over  here  bring  this  line
+
+straight  down  and  connect  it  back  to  the
+
+starting  point  and  now  we  end  up  with
+
+this  Pac-Man  sort  of  shape  right  here
+
+now  the  problem  with  drawing  curved
+
+lines  in  this  method  is  that  theres  a
+
+pretty  steep  learning  curve  with  this
+
+sort  of  method  its  really  hard  to
+
+create  accurate  lines  that  follow  the
+
+the  Contour  that  you  want  so  this  is
+
+where  these  other  modes  come  in  handy  so
+
+let  me  get  rid  of  all  of  this
+
+here  and  Im  going  to  choose  the  spiral
+
+path  now  now  if  I  click  to  add  my  points
+
+its  creating  an  automatic  spiral  path
+
+as  you  can  see  there  and  if  I  draw  My
+
+Curse  of  letter  L  that  I  tried  with  the
+
+pencil  tool  earlier  I  end  up  with  a  much
+
+better  result  here  because  this  allows
+
+me  to  create  more  accurate  placements  of
+
+where  the  line  is  clicking  and  dragging
+
+is  always  less  accurate  than  clicking  to
+
+add  individual  points  and  you  can  see
+
+here  we  end  up  with  a  much  better  result
+
+so  let  me  make  this
+
+bigger  Im  able  to  get  the  proportions
+
+just  how  I  like
+
+it  and  if  I  grab  my  nodes  tool  youll
+
+notice  we  have  these  editable  nodes  here
+
+the  path  remains  smooth  no  matter  what  I
+
+do  to
+
+it  and  then  finally  over  here  we  have
+
+let  me  go  back  to  the  pen  tool  over  here
+
+up  top  we  have  the  be  lines  this  works
+
+the  same  way  were  clicking  to  add
+
+points  and  its  creating  a  curved  line
+
+although  were  drawing  a  straight  path
+
+were  drawing  straight  lines  indicated
+
+by  the  Blue  Line  there  and  then  the  path
+
+being
+
+drawn  is  curved  so  I  can  press  enter
+
+like  that  and  the  downside  with  this  is
+
+that  the  path  isnt  as  smooth  but  the  N
+
+the  nodes  are  easier  to  control  same
+
+with  the  pencil  tool  it  just  gives  you
+
+more  control  over  these  nodes  here  like
+
+that  let  me  make  this  bigger  so  you  can
+
+see  it
+
+better  and  there  you  go  now  another
+
+thing  that  you  should  keep  in  mind  when
+
+using  this  mode  this  is  actually  one  of
+
+the  best  modes  to  use  with  the  pen  tool
+
+I  use  this  more  than  anything  because
+
+not  only  can  you  draw  curved  lines
+
+easily  you  can  also  create  straight
+
+lines  as  well  if  you  hold  the  shift  key
+
+so  Im  going  to  hold  shift  and  click  to
+
+add  a  point  and  now  we  have  a  corner
+
+node  there  and  if  I  hold  shift  again  and
+
+control  I  can  draw  a  straight  line  like
+
+that  and  now  we  have  a  combination  of
+
+straight  lines  and  curved  lines  as  you
+
+can  see  there  and  this  is  actually  the
+
+tool  that  I  use  whenever  Im  tracing  a
+
+subject  to  create  a  silhouette  or
+
+something  like  that  Ill  put  a  uh  a
+
+little  video  up  on  the  screen  here  so
+
+you  can  see  what  I  mean  this  allows  you
+
+to  create  nice  smooth  fluid  lines  that
+
+follow  what  youre  tracing  accurately
+
+while  also  allowing  you  to  create
+
+straight  lines  to  go  with  it  so  let  me
+
+get  rid  of  all  this  and  lets  go  over
+
+these  final  two  modes  right  here  this
+
+one  right  here  is  for  creating  only
+
+straight  lines  so  if  I  select  this  pen
+
+mode  right  here  its  only  going  to  draw
+
+straight  lines  now  you  may  be  wondering
+
+what  the  point  of  this  mode  is  because
+
+the  original  pen  mode  lets  you  draw
+
+straight  lines  as  well  well  the
+
+difference  is  that  with  this  tool  you
+
+cant  accidentally  draw  curved  lines  so
+
+if  I  click  and  drag  its  not  going  to
+
+draw  curved  line  its  always  going  to  be
+
+a  straight  line  as  you  can  see  there  now
+
+if  I  go  back  to  my  original  pen  mode  and
+
+I  click  like  that  if  you  click  ever  so
+
+slightly  you  end  up  with  a  very  slight
+
+Bend  in  that  line  there  even  if  you
+
+cant  see  it  its  there  and  you  could
+
+see  by  the  handles  if  theres  a  handle
+
+showing  there  youll  notice  its  a
+
+curved  line  so  this  is  actually  a
+
+problem  when  youre  trying  to  draw
+
+straight  lines  with  this  pen  mode
+
+sometimes  youll  accidentally  create  a
+
+curved  line  without  realizing  it  when
+
+you  really  need  a  straight  line  so  this
+
+is  when  this  mode  up  here  comes  in  handy
+
+and  then  finally  we  have  this  setting  up
+
+here  which  is  for  drawing  parallel  lines
+
+so  if  I  if  I  choose  this  option  and
+
+start  drawing  my  lines  youll  notice
+
+every  line  that  I  draw  goes  parallel  to
+
+the  original  line  that  I  drew  so  this
+
+could  be  really  useful  if  youre  doing
+
+something  like  drawing  a  floor  plan  or
+
+tracing  over  something  that  where  you
+
+need  to  keep  the  angles  preserved  just
+
+like  that  and  you  can  connect  it  back  to
+
+the  starting  point  as  you  can  see  there
+
+if  I  start  off  drawing  a  perfectly
+
+horizontal  line  its  going  to  make  it  so
+
+that  every  line  that  I  draw  is  vertical
+
+and  horizontal  like  that  so  this  could
+
+actually  be  really  useful  if  youre
+
+doing  something  like  tracing  over  a
+
+Skyline  and  you  want  to  create  like
+
+buildings  like  that  it  ensures  that  you
+
+never  draw  any  kind  of  curved  path  at
+
+all  so  those  are  all  of  the  ways  in
+
+which  you  can  go  about  drawing  lines  in
+
+inkscape  if  you  found  this  lesson  useful
+
+then  consider  checking  out  my  inkscape
+
+master  class  its  a  collection  of  over
+
+60  videos  where  I  go  over  all  of  the
+
+tools  and  features  in  inkscape  and  I
+
+explain  what  they  are  and  demonstrate
+
+how  they  work  kind  of  like  how  I  did  in
+
+this  video  we  even  have  a  private
+
+Community  where  you  can  ask  questions
+
+and  get  help  from  me  anytime  you  want
+
+and  best  of  all  theres  no  monthly
+
+membership  fees  you  just  pay  $17  one
+
+time  and  youre  in  for  Life  Ill  have
+
+some  information  about  that  down  below
+
+if  you  want  to  check  that  out  as  always
+
+thanks  for  watching
+

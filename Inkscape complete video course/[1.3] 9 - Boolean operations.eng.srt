@@ -1,0 +1,192 @@
+1
+00:00:00,480 --> 00:00:02,879
+in the last lecture I used two Boolean
+
+2
+00:00:02,879 --> 00:00:06,000
+operations Union and difference in this
+
+3
+00:00:06,000 --> 00:00:07,440
+lecture we will look at the different
+
+4
+00:00:07,440 --> 00:00:10,320
+Boolean operations with Union you can
+
+5
+00:00:10,320 --> 00:00:12,000
+combine different paths into a single
+
+6
+00:00:12,000 --> 00:00:14,400
+path here I have two circles and a
+
+7
+00:00:14,400 --> 00:00:16,920
+rectangle with rounded Corners I select
+
+8
+00:00:16,920 --> 00:00:19,160
+the three elements and go to path union
+
+9
+00:00:19,160 --> 00:00:22,859
+now I have a cloud the second Boolean is
+
+10
+00:00:22,859 --> 00:00:25,619
+difference the Apple logo has a bite out
+
+11
+00:00:25,619 --> 00:00:28,199
+of it the top Circle will be subtracted
+
+12
+00:00:28,199 --> 00:00:29,699
+from the Apple below
+
+13
+00:00:29,699 --> 00:00:31,859
+with intersection only the parts that
+
+14
+00:00:31,859 --> 00:00:33,660
+overlap remain
+
+15
+00:00:33,660 --> 00:00:35,700
+with just two circles you can make a
+
+16
+00:00:35,700 --> 00:00:38,160
+leaf exclude does the opposite as
+
+17
+00:00:38,160 --> 00:00:40,800
+intersection overlapping parts are
+
+18
+00:00:40,800 --> 00:00:42,600
+excluded from the end result creating
+
+19
+00:00:42,600 --> 00:00:45,000
+holes division is the same as
+
+20
+00:00:45,000 --> 00:00:46,860
+intersection but will keep the parts
+
+21
+00:00:46,860 --> 00:00:49,020
+coming from the bottom object
+
+22
+00:00:49,020 --> 00:00:51,239
+so with the X on top of the circle the
+
+23
+00:00:51,239 --> 00:00:53,100
+parts of the x that stick out are
+
+24
+00:00:53,100 --> 00:00:55,860
+removed but with a circle on top the X
+
+25
+00:00:55,860 --> 00:00:57,420
+will determine the cutout and
+
+26
+00:00:57,420 --> 00:00:59,460
+non-overlapping circle parts are removed
+
+27
+00:00:59,460 --> 00:01:02,579
+cut path is for cutting strokes this
+
+28
+00:01:02,579 --> 00:01:04,920
+means the fill will be removed and the
+
+29
+00:01:04,920 --> 00:01:06,680
+stroke of the apple is cut into pieces
+
+30
+00:01:06,680 --> 00:01:09,299
+fracture is the same as intersection and
+
+31
+00:01:09,299 --> 00:01:11,820
+division but now all parts remain
+
+32
+00:01:11,820 --> 00:01:13,979
+to create a heart shape I drag a
+
+33
+00:01:13,979 --> 00:01:16,560
+rectangle and round the corners I press
+
+34
+00:01:16,560 --> 00:01:18,780
+the space bar to go to the select tool
+
+35
+00:01:18,780 --> 00:01:21,240
+when I click on the rectangle again I
+
+36
+00:01:21,240 --> 00:01:24,180
+can rotate the object when I hold Ctrl I
+
+37
+00:01:24,180 --> 00:01:26,700
+can rotate in 15 degree increments I
+
+38
+00:01:26,700 --> 00:01:29,700
+will rotate 45 degrees I duplicate the
+
+39
+00:01:29,700 --> 00:01:32,100
+shape I click on the flip object
+
+40
+00:01:32,100 --> 00:01:35,100
+horizontal icon I hold Ctrl and move
+
+41
+00:01:35,100 --> 00:01:37,799
+them a bit closer I select them both and
+
+42
+00:01:37,799 --> 00:01:40,500
+go to path fracture by holding down the
+
+43
+00:01:40,500 --> 00:01:43,079
+ALT key I can select the heart shape I
+
+44
+00:01:43,079 --> 00:01:45,840
+go to path union now I can remove the
+
+45
+00:01:45,840 --> 00:01:48,420
+parts I don't need and finally you have
+
+46
+00:01:48,420 --> 00:01:50,399
+flattened which is the same as fracture
+
+47
+00:01:50,399 --> 00:01:52,020
+but will only make Cuts there where
+
+48
+00:01:52,020 --> 00:01:54,740
+lines are visible
+

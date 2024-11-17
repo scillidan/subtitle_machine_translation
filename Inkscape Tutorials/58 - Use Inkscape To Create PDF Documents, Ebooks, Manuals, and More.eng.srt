@@ -1,0 +1,2544 @@
+1
+00:00:01,020 --> 00:00:06,910
+[Music]
+
+2
+00:00:08,880 --> 00:00:11,040
+this is nick with logos by nick.com and
+
+3
+00:00:11,040 --> 00:00:12,480
+in this tutorial i'll be demonstrating
+
+4
+00:00:12,480 --> 00:00:13,360
+how you can use
+
+5
+00:00:13,360 --> 00:00:15,839
+inkscape for desktop publishing purposes
+
+6
+00:00:15,839 --> 00:00:17,520
+to create things like reports
+
+7
+00:00:17,520 --> 00:00:20,080
+manuals ebooks and various other types
+
+8
+00:00:20,080 --> 00:00:21,680
+of pdf documents
+
+9
+00:00:21,680 --> 00:00:23,760
+now granted inkscape probably isn't the
+
+10
+00:00:23,760 --> 00:00:25,359
+best tool for this sort of thing
+
+11
+00:00:25,359 --> 00:00:27,119
+but if you just need to create a simple
+
+12
+00:00:27,119 --> 00:00:28,560
+one or two page document
+
+13
+00:00:28,560 --> 00:00:30,720
+or maybe even a short ebook and you're
+
+14
+00:00:30,720 --> 00:00:33,040
+already somewhat familiar with inkscape
+
+15
+00:00:33,040 --> 00:00:34,960
+then it would probably be more practical
+
+16
+00:00:34,960 --> 00:00:36,480
+than taking the time to learn
+
+17
+00:00:36,480 --> 00:00:38,399
+an entirely new piece of software like
+
+18
+00:00:38,399 --> 00:00:40,079
+scribus or indesign
+
+19
+00:00:40,079 --> 00:00:42,079
+i've used inkscape myself to create
+
+20
+00:00:42,079 --> 00:00:44,000
+manuals and ebooks in the past so i know
+
+21
+00:00:44,000 --> 00:00:45,440
+that it's perfectly capable in that
+
+22
+00:00:45,440 --> 00:00:46,480
+regard
+
+23
+00:00:46,480 --> 00:00:47,760
+before we get started though if you'd
+
+24
+00:00:47,760 --> 00:00:49,120
+like to learn everything that there is
+
+25
+00:00:49,120 --> 00:00:50,320
+to know about inkscape
+
+26
+00:00:50,320 --> 00:00:52,000
+be sure to check out my inkscape master
+
+27
+00:00:52,000 --> 00:00:54,000
+class it's a collection of over 60
+
+28
+00:00:54,000 --> 00:00:55,039
+videos where i go over
+
+29
+00:00:55,039 --> 00:00:57,199
+every tool and feature in inkscape and i
+
+30
+00:00:57,199 --> 00:00:58,879
+explain what it is and demonstrate how
+
+31
+00:00:58,879 --> 00:00:59,520
+it works
+
+32
+00:00:59,520 --> 00:01:00,719
+i'll have a link in the description of
+
+33
+00:01:00,719 --> 00:01:02,320
+the video if you want to check that out
+
+34
+00:01:02,320 --> 00:01:03,840
+so to get us started here in inkscape
+
+35
+00:01:03,840 --> 00:01:05,360
+i'm going to open up a new document and
+
+36
+00:01:05,360 --> 00:01:06,960
+then set up the documents that we are
+
+37
+00:01:06,960 --> 00:01:08,799
+all working with a similar workflow
+
+38
+00:01:08,799 --> 00:01:10,320
+come up here to where it says view make
+
+39
+00:01:10,320 --> 00:01:12,240
+sure we have custom selected
+
+40
+00:01:12,240 --> 00:01:14,240
+and then come up to zoom and go to zoom
+
+41
+00:01:14,240 --> 00:01:16,159
+in at one to one
+
+42
+00:01:16,159 --> 00:01:17,360
+and then we'll open up the align and
+
+43
+00:01:17,360 --> 00:01:18,799
+distribute menu with this button right
+
+44
+00:01:18,799 --> 00:01:19,600
+here
+
+45
+00:01:19,600 --> 00:01:21,200
+and then open up the fill and stroke
+
+46
+00:01:21,200 --> 00:01:24,159
+menu with this button right here
+
+47
+00:01:24,159 --> 00:01:26,400
+and over here where it says snapping we
+
+48
+00:01:26,400 --> 00:01:27,600
+want to make sure we have enable
+
+49
+00:01:27,600 --> 00:01:29,119
+snapping enabled
+
+50
+00:01:29,119 --> 00:01:30,640
+and we want this one enabled right here
+
+51
+00:01:30,640 --> 00:01:32,159
+that says snap nodes
+
+52
+00:01:32,159 --> 00:01:34,159
+pads and handles we also want this one
+
+53
+00:01:34,159 --> 00:01:36,159
+enabled that says snap to cusp nodes
+
+54
+00:01:36,159 --> 00:01:37,520
+including rectangle corners
+
+55
+00:01:37,520 --> 00:01:39,200
+and the one next to it as well snap to
+
+56
+00:01:39,200 --> 00:01:41,360
+smoothnose we're going to enable that
+
+57
+00:01:41,360 --> 00:01:43,759
+and then over here where it says snap
+
+58
+00:01:43,759 --> 00:01:45,600
+text anchors and baselines
+
+59
+00:01:45,600 --> 00:01:47,840
+enable that and then finally over here
+
+60
+00:01:47,840 --> 00:01:49,360
+where it says snap to the page border
+
+61
+00:01:49,360 --> 00:01:50,640
+enable that as well
+
+62
+00:01:50,640 --> 00:01:51,759
+and also you're going to want to make
+
+63
+00:01:51,759 --> 00:01:53,759
+sure you have snap guides enabled as
+
+64
+00:01:53,759 --> 00:01:54,000
+well
+
+65
+00:01:54,000 --> 00:01:55,439
+but that should be enabled by default
+
+66
+00:01:55,439 --> 00:01:57,520
+but if it's not go ahead and enable that
+
+67
+00:01:57,520 --> 00:01:58,880
+so what i want to do now is set up the
+
+68
+00:01:58,880 --> 00:02:00,560
+canvas so that it's suitable for
+
+69
+00:02:00,560 --> 00:02:01,360
+creating these
+
+70
+00:02:01,360 --> 00:02:02,880
+pdf documents we're going to create so
+
+71
+00:02:02,880 --> 00:02:04,000
+we'll come over here to where it says
+
+72
+00:02:04,000 --> 00:02:04,799
+file
+
+73
+00:02:04,799 --> 00:02:07,840
+click on document properties
+
+74
+00:02:07,840 --> 00:02:09,679
+then where it says display units i want
+
+75
+00:02:09,679 --> 00:02:12,239
+to change that to inches
+
+76
+00:02:12,239 --> 00:02:14,319
+and over here where it says page size we
+
+77
+00:02:14,319 --> 00:02:15,840
+have a list of templates here i'm going
+
+78
+00:02:15,840 --> 00:02:16,879
+to choose us
+
+79
+00:02:16,879 --> 00:02:19,520
+letter which is 8.5 by 11 inches if you
+
+80
+00:02:19,520 --> 00:02:21,280
+want to create something like an a5 or
+
+81
+00:02:21,280 --> 00:02:23,440
+an a1 or maybe even us legal you can use
+
+82
+00:02:23,440 --> 00:02:24,879
+that if you want for this tutorial i'm
+
+83
+00:02:24,879 --> 00:02:26,720
+just going to do the standard 8.5 by 11
+
+84
+00:02:26,720 --> 00:02:27,599
+inches
+
+85
+00:02:27,599 --> 00:02:28,959
+over here where it says border we want
+
+86
+00:02:28,959 --> 00:02:31,360
+to leave show page border enabled
+
+87
+00:02:31,360 --> 00:02:32,879
+border on top of drawing we're going to
+
+88
+00:02:32,879 --> 00:02:34,400
+enable that that should be helpful when
+
+89
+00:02:34,400 --> 00:02:35,680
+we're creating our design
+
+90
+00:02:35,680 --> 00:02:37,440
+and then show border shadow let's just
+
+91
+00:02:37,440 --> 00:02:38,879
+disable that
+
+92
+00:02:38,879 --> 00:02:40,319
+and then finally over here where it says
+
+93
+00:02:40,319 --> 00:02:42,400
+background color i'm going to change
+
+94
+00:02:42,400 --> 00:02:43,200
+this
+
+95
+00:02:43,200 --> 00:02:44,800
+i'm going to click on the hsl tab and
+
+96
+00:02:44,800 --> 00:02:46,480
+i'm going to come down here to the l row
+
+97
+00:02:46,480 --> 00:02:47,760
+and slide this to the left a little bit
+
+98
+00:02:47,760 --> 00:02:48,879
+if you notice the canvas
+
+99
+00:02:48,879 --> 00:02:50,800
+is becoming darker as i do that and we
+
+100
+00:02:50,800 --> 00:02:52,400
+want the canvas to be slightly darker
+
+101
+00:02:52,400 --> 00:02:53,280
+than white because
+
+102
+00:02:53,280 --> 00:02:54,959
+white is going to be the color of the
+
+103
+00:02:54,959 --> 00:02:56,400
+page we create here
+
+104
+00:02:56,400 --> 00:02:58,239
+so let me close out of that we should be
+
+105
+00:02:58,239 --> 00:02:59,920
+all set now close out of that
+
+106
+00:02:59,920 --> 00:03:01,680
+what i want to do now is create a
+
+107
+00:03:01,680 --> 00:03:03,519
+rectangle to place in this page border
+
+108
+00:03:03,519 --> 00:03:05,040
+here is going to represent the white
+
+109
+00:03:05,040 --> 00:03:07,120
+page of the document so i'll grab the
+
+110
+00:03:07,120 --> 00:03:08,959
+squares and rectangles tool
+
+111
+00:03:08,959 --> 00:03:10,959
+and i'll snap to the top left corner of
+
+112
+00:03:10,959 --> 00:03:13,040
+the page click and drag and then snap to
+
+113
+00:03:13,040 --> 00:03:14,319
+the bottom right corner of the page to
+
+114
+00:03:14,319 --> 00:03:16,159
+create this rectangle there
+
+115
+00:03:16,159 --> 00:03:18,720
+and i want to make this rectangle white
+
+116
+00:03:18,720 --> 00:03:20,319
+make sure your opacity is all the way up
+
+117
+00:03:20,319 --> 00:03:21,360
+at 100
+
+118
+00:03:21,360 --> 00:03:22,959
+and make sure you don't have an outline
+
+119
+00:03:22,959 --> 00:03:24,640
+around your object otherwise known as a
+
+120
+00:03:24,640 --> 00:03:26,400
+stroke if you do have a stroke added to
+
+121
+00:03:26,400 --> 00:03:27,519
+your object just hold
+
+122
+00:03:27,519 --> 00:03:29,680
+shift and click this red x down here to
+
+123
+00:03:29,680 --> 00:03:30,560
+get rid of it
+
+124
+00:03:30,560 --> 00:03:32,400
+and then finally up here where it says
+
+125
+00:03:32,400 --> 00:03:34,239
+make shoulders make corners sharp we
+
+126
+00:03:34,239 --> 00:03:36,000
+want to make sure we have sharp corners
+
+127
+00:03:36,000 --> 00:03:37,599
+while we're doing this so if this is not
+
+128
+00:03:37,599 --> 00:03:39,280
+grayed out go ahead and click on that
+
+129
+00:03:39,280 --> 00:03:40,879
+we don't want our page to have rounded
+
+130
+00:03:40,879 --> 00:03:42,560
+corners
+
+131
+00:03:42,560 --> 00:03:44,799
+okay so now that we have our page set we
+
+132
+00:03:44,799 --> 00:03:46,319
+need to define the content
+
+133
+00:03:46,319 --> 00:03:47,920
+area of this page we don't want the
+
+134
+00:03:47,920 --> 00:03:50,000
+content to run all the way to the edges
+
+135
+00:03:50,000 --> 00:03:51,599
+here so we want to create one inch of
+
+136
+00:03:51,599 --> 00:03:53,439
+padding going around the document here
+
+137
+00:03:53,439 --> 00:03:55,120
+so to do that let me grab the select
+
+138
+00:03:55,120 --> 00:03:58,159
+tool let me right click on this
+
+139
+00:03:58,159 --> 00:03:59,599
+dot this rectangle here and go to
+
+140
+00:03:59,599 --> 00:04:01,280
+duplicate and i'm just going to make
+
+141
+00:04:01,280 --> 00:04:03,040
+this red so we can differentiate it this
+
+142
+00:04:03,040 --> 00:04:04,560
+is just temporarily
+
+143
+00:04:04,560 --> 00:04:06,480
+and up here where it says width and
+
+144
+00:04:06,480 --> 00:04:08,080
+height or w and h
+
+145
+00:04:08,080 --> 00:04:09,760
+we're going to remove an inch from each
+
+146
+00:04:09,760 --> 00:04:13,040
+dimension so it's going to be 7.5 by 11.
+
+147
+00:04:13,040 --> 00:04:14,400
+before we do this though make sure you
+
+148
+00:04:14,400 --> 00:04:16,160
+don't have this lock icon enabled make
+
+149
+00:04:16,160 --> 00:04:17,680
+sure it's disabled like i have it here
+
+150
+00:04:17,680 --> 00:04:19,839
+so i'm going to change this to 7.5
+
+151
+00:04:19,839 --> 00:04:21,440
+i'm going to hit tab to skip over to the
+
+152
+00:04:21,440 --> 00:04:23,280
+height and change that to 10
+
+153
+00:04:23,280 --> 00:04:25,360
+and then press enter and it should now
+
+154
+00:04:25,360 --> 00:04:27,199
+be an inch smaller now what we have to
+
+155
+00:04:27,199 --> 00:04:28,080
+do is center this
+
+156
+00:04:28,080 --> 00:04:30,160
+up on the page so where it says relative
+
+157
+00:04:30,160 --> 00:04:32,080
+to change this to page over here in the
+
+158
+00:04:32,080 --> 00:04:33,680
+align distribute menu
+
+159
+00:04:33,680 --> 00:04:35,919
+and we're looking for center on vertical
+
+160
+00:04:35,919 --> 00:04:38,800
+axis and center on horizontal axis
+
+161
+00:04:38,800 --> 00:04:40,639
+and this right here is going to define
+
+162
+00:04:40,639 --> 00:04:42,160
+where the contents of the page
+
+163
+00:04:42,160 --> 00:04:43,840
+are we don't want to leave this red
+
+164
+00:04:43,840 --> 00:04:44,960
+object sitting here though so we're
+
+165
+00:04:44,960 --> 00:04:46,400
+going to convert this to guides
+
+166
+00:04:46,400 --> 00:04:48,560
+come up here to where it says object and
+
+167
+00:04:48,560 --> 00:04:49,680
+go to
+
+168
+00:04:49,680 --> 00:04:52,639
+convert objects to guides and now we
+
+169
+00:04:52,639 --> 00:04:54,479
+have guides there to reference as we're
+
+170
+00:04:54,479 --> 00:04:56,000
+creating our design
+
+171
+00:04:56,000 --> 00:04:57,280
+so the first thing we're going to do to
+
+172
+00:04:57,280 --> 00:04:58,800
+create the design that i showed you in
+
+173
+00:04:58,800 --> 00:05:00,000
+the beginning of the video is we're
+
+174
+00:05:00,000 --> 00:05:00,880
+going to create some
+
+175
+00:05:00,880 --> 00:05:03,360
+header text or title text up here let me
+
+176
+00:05:03,360 --> 00:05:03,919
+grab the
+
+177
+00:05:03,919 --> 00:05:06,639
+text tool let me click and drag actually
+
+178
+00:05:06,639 --> 00:05:08,400
+i'm going to snap to the corner of these
+
+179
+00:05:08,400 --> 00:05:10,000
+these guides over here and then just
+
+180
+00:05:10,000 --> 00:05:11,919
+click and drag to create a title area
+
+181
+00:05:11,919 --> 00:05:14,000
+i'm just going to title this monthly
+
+182
+00:05:14,000 --> 00:05:15,840
+report
+
+183
+00:05:15,840 --> 00:05:18,400
+and i'm going to change this make this
+
+184
+00:05:18,400 --> 00:05:20,160
+bold
+
+185
+00:05:20,160 --> 00:05:22,080
+maybe make this a smaller size go with
+
+186
+00:05:22,080 --> 00:05:23,360
+something like 20
+
+187
+00:05:23,360 --> 00:05:24,639
+and if you want to change the font you
+
+188
+00:05:24,639 --> 00:05:25,840
+can do so over here i'm going to leave
+
+189
+00:05:25,840 --> 00:05:27,280
+the default sans font
+
+190
+00:05:27,280 --> 00:05:30,080
+for now leave that now i want to put a
+
+191
+00:05:30,080 --> 00:05:30,560
+page
+
+192
+00:05:30,560 --> 00:05:32,000
+number over here so let me just
+
+193
+00:05:32,000 --> 00:05:33,759
+duplicate this text object i'll right
+
+194
+00:05:33,759 --> 00:05:35,120
+click it go to duplicate
+
+195
+00:05:35,120 --> 00:05:37,360
+and i'll change this let me grab the
+
+196
+00:05:37,360 --> 00:05:39,680
+text tool change this to zero
+
+197
+00:05:39,680 --> 00:05:41,919
+one because this will be page one and
+
+198
+00:05:41,919 --> 00:05:42,880
+let me uh
+
+199
+00:05:42,880 --> 00:05:44,880
+let me make this a little smaller first
+
+200
+00:05:44,880 --> 00:05:46,160
+of all i wanna remove the bold i'm gonna
+
+201
+00:05:46,160 --> 00:05:47,360
+make this normal
+
+202
+00:05:47,360 --> 00:05:48,720
+and then i'll just make this maybe
+
+203
+00:05:48,720 --> 00:05:50,880
+something like 16
+
+204
+00:05:50,880 --> 00:05:52,639
+that looks pretty good and now we can
+
+205
+00:05:52,639 --> 00:05:54,160
+just place this in the top right corner
+
+206
+00:05:54,160 --> 00:05:55,520
+over here
+
+207
+00:05:55,520 --> 00:05:56,960
+i'm going to zoom in on this to zoom in
+
+208
+00:05:56,960 --> 00:05:58,319
+i'm just holding ctrl and rolling up the
+
+209
+00:05:58,319 --> 00:06:00,080
+mouse wheel to move the page just press
+
+210
+00:06:00,080 --> 00:06:01,680
+down the mouse wheel and move the mouse
+
+211
+00:06:01,680 --> 00:06:03,120
+i just want to manually place this in
+
+212
+00:06:03,120 --> 00:06:04,800
+the corner here unfortunately these text
+
+213
+00:06:04,800 --> 00:06:06,000
+objects will not snap into
+
+214
+00:06:06,000 --> 00:06:07,680
+your guides unless it's the base of the
+
+215
+00:06:07,680 --> 00:06:09,440
+text object like you see here but
+
+216
+00:06:09,440 --> 00:06:10,560
+that's not what we're looking for so
+
+217
+00:06:10,560 --> 00:06:11,600
+we're going to leave that right there as
+
+218
+00:06:11,600 --> 00:06:14,240
+it is let me zoom back out
+
+219
+00:06:14,240 --> 00:06:15,440
+and now i just want to create like a
+
+220
+00:06:15,440 --> 00:06:17,360
+little divider to put right here so i'm
+
+221
+00:06:17,360 --> 00:06:19,520
+going to grab the rectangle tool again
+
+222
+00:06:19,520 --> 00:06:20,960
+click and drag to create like a little
+
+223
+00:06:20,960 --> 00:06:22,560
+rectangle going from one side to the
+
+224
+00:06:22,560 --> 00:06:24,080
+other
+
+225
+00:06:24,080 --> 00:06:25,360
+that's looking pretty good i'll make
+
+226
+00:06:25,360 --> 00:06:27,600
+this something like yellow
+
+227
+00:06:27,600 --> 00:06:30,000
+grab the select tool move this up like
+
+228
+00:06:30,000 --> 00:06:31,919
+that
+
+229
+00:06:31,919 --> 00:06:33,440
+let me zoom in so i can get a little
+
+230
+00:06:33,440 --> 00:06:35,600
+closer there we go that's what i'm
+
+231
+00:06:35,600 --> 00:06:36,319
+looking for
+
+232
+00:06:36,319 --> 00:06:38,240
+and i want to make a copy of this
+
+233
+00:06:38,240 --> 00:06:39,440
+divider and put it at the bottom of the
+
+234
+00:06:39,440 --> 00:06:40,960
+page too so let me right click this and
+
+235
+00:06:40,960 --> 00:06:42,160
+go to duplicate
+
+236
+00:06:42,160 --> 00:06:43,759
+and i will put this divider at the
+
+237
+00:06:43,759 --> 00:06:45,039
+bottom of the page where the bottom of
+
+238
+00:06:45,039 --> 00:06:46,639
+the margin is
+
+239
+00:06:46,639 --> 00:06:48,479
+and now i want to create some content
+
+240
+00:06:48,479 --> 00:06:50,000
+area for our design here
+
+241
+00:06:50,000 --> 00:06:51,520
+what i'm going to do for this particular
+
+242
+00:06:51,520 --> 00:06:53,199
+design i'm going to create two columns
+
+243
+00:06:53,199 --> 00:06:54,240
+of text
+
+244
+00:06:54,240 --> 00:06:55,919
+if you want you could just use one giant
+
+245
+00:06:55,919 --> 00:06:57,360
+block of text i'm going to put a little
+
+246
+00:06:57,360 --> 00:06:58,560
+more design into this so i'm going to
+
+247
+00:06:58,560 --> 00:07:00,479
+use two columns of text here so
+
+248
+00:07:00,479 --> 00:07:02,479
+let me grab the rectangle tool again let
+
+249
+00:07:02,479 --> 00:07:03,840
+me create another rectangle going
+
+250
+00:07:03,840 --> 00:07:04,960
+through the uh
+
+251
+00:07:04,960 --> 00:07:07,599
+through the uh guidelines here and let
+
+252
+00:07:07,599 --> 00:07:09,120
+me just make this red let me bring down
+
+253
+00:07:09,120 --> 00:07:11,280
+the opacity
+
+254
+00:07:11,280 --> 00:07:13,199
+and i want to divide this up into two
+
+255
+00:07:13,199 --> 00:07:15,599
+separate evenly sized and evenly spaced
+
+256
+00:07:15,599 --> 00:07:16,240
+apart
+
+257
+00:07:16,240 --> 00:07:17,520
+rectangle so to do that i'm going to
+
+258
+00:07:17,520 --> 00:07:18,960
+create another rectangle going through
+
+259
+00:07:18,960 --> 00:07:19,759
+the center here
+
+260
+00:07:19,759 --> 00:07:22,000
+like this and i'm going to center that
+
+261
+00:07:22,000 --> 00:07:23,520
+up on the page
+
+262
+00:07:23,520 --> 00:07:26,800
+grab the select tool hold shift
+
+263
+00:07:26,800 --> 00:07:31,360
+click on the object there and go to path
+
+264
+00:07:31,360 --> 00:07:33,039
+difference so those are now two
+
+265
+00:07:33,039 --> 00:07:34,720
+different objects and i'm just going to
+
+266
+00:07:34,720 --> 00:07:36,160
+zoom in i'm going to hold ctrl roll up
+
+267
+00:07:36,160 --> 00:07:37,680
+the mouse wheel to zoom in a little bit
+
+268
+00:07:37,680 --> 00:07:39,840
+position this down here a little further
+
+269
+00:07:39,840 --> 00:07:41,199
+we don't want this
+
+270
+00:07:41,199 --> 00:07:42,639
+we don't want this flush against the
+
+271
+00:07:42,639 --> 00:07:44,000
+guide here because the text is going to
+
+272
+00:07:44,000 --> 00:07:45,440
+be in this red area we don't want the
+
+273
+00:07:45,440 --> 00:07:46,879
+text to be stacked on top of this
+
+274
+00:07:46,879 --> 00:07:47,840
+divider so
+
+275
+00:07:47,840 --> 00:07:49,199
+a little bit of padding in there should
+
+276
+00:07:49,199 --> 00:07:50,960
+help something like that looks pretty
+
+277
+00:07:50,960 --> 00:07:51,440
+good
+
+278
+00:07:51,440 --> 00:07:53,039
+and i don't want these text columns to
+
+279
+00:07:53,039 --> 00:07:54,479
+be this high so i'm just going to take
+
+280
+00:07:54,479 --> 00:07:56,080
+this top arrow and just bring this down
+
+281
+00:07:56,080 --> 00:07:57,360
+i'm going to leave these two text
+
+282
+00:07:57,360 --> 00:07:58,000
+columns right
+
+283
+00:07:58,000 --> 00:08:00,960
+here and i'm going to put some other
+
+284
+00:08:00,960 --> 00:08:02,240
+contents up here
+
+285
+00:08:02,240 --> 00:08:04,560
+which we will go over momentarily so let
+
+286
+00:08:04,560 --> 00:08:06,479
+me zoom in
+
+287
+00:08:06,479 --> 00:08:08,160
+let's break this apart into two separate
+
+288
+00:08:08,160 --> 00:08:10,080
+objects we'll go to path
+
+289
+00:08:10,080 --> 00:08:14,879
+break apart and now we'll go to
+
+290
+00:08:14,879 --> 00:08:18,400
+objects object to guides
+
+291
+00:08:18,400 --> 00:08:20,319
+and we now just created guides that we
+
+292
+00:08:20,319 --> 00:08:22,240
+can reference for placing our text
+
+293
+00:08:22,240 --> 00:08:23,680
+so let's go ahead and place some
+
+294
+00:08:23,680 --> 00:08:25,599
+placeholder text in here i'm just going
+
+295
+00:08:25,599 --> 00:08:26,800
+to copy and paste
+
+296
+00:08:26,800 --> 00:08:31,120
+some lorem ipsum dummy text
+
+297
+00:08:31,120 --> 00:08:33,599
+and let me grab the text tool over here
+
+298
+00:08:33,599 --> 00:08:35,599
+click and drag this corner
+
+299
+00:08:35,599 --> 00:08:38,399
+down to here like that i'm just going to
+
+300
+00:08:38,399 --> 00:08:39,120
+hit ctrl
+
+301
+00:08:39,120 --> 00:08:41,519
+v to paste my text in there now this is
+
+302
+00:08:41,519 --> 00:08:42,880
+a little too big let me
+
+303
+00:08:42,880 --> 00:08:45,279
+let me select all of this and ctrl a to
+
+304
+00:08:45,279 --> 00:08:46,240
+select all
+
+305
+00:08:46,240 --> 00:08:47,760
+i want to bring the size down to like
+
+306
+00:08:47,760 --> 00:08:49,920
+maybe 12.
+
+307
+00:08:49,920 --> 00:08:51,040
+i'm just going to go ahead and add some
+
+308
+00:08:51,040 --> 00:08:52,800
+more text in here now let me just copy
+
+309
+00:08:52,800 --> 00:08:54,160
+and paste more of this alarm if some
+
+310
+00:08:54,160 --> 00:08:55,360
+text now if you notice
+
+311
+00:08:55,360 --> 00:08:57,200
+if you if your text is too long it's
+
+312
+00:08:57,200 --> 00:08:58,880
+going to run to the end of the page here
+
+313
+00:08:58,880 --> 00:09:00,399
+so let me take this little node and just
+
+314
+00:09:00,399 --> 00:09:02,080
+drag this down
+
+315
+00:09:02,080 --> 00:09:04,000
+and as you can see the text is running
+
+316
+00:09:04,000 --> 00:09:05,360
+through the edge here so if
+
+317
+00:09:05,360 --> 00:09:06,720
+your text is bleeding out to the edge
+
+318
+00:09:06,720 --> 00:09:08,880
+just go ahead and select it and delete
+
+319
+00:09:08,880 --> 00:09:09,120
+it
+
+320
+00:09:09,120 --> 00:09:10,560
+and you'll have to continue it on in
+
+321
+00:09:10,560 --> 00:09:12,399
+this column over here this is one of the
+
+322
+00:09:12,399 --> 00:09:14,080
+reasons why i think inkscape probably
+
+323
+00:09:14,080 --> 00:09:15,279
+isn't the best tool for this sort of
+
+324
+00:09:15,279 --> 00:09:16,080
+thing because
+
+325
+00:09:16,080 --> 00:09:18,399
+you got to do a lot of manual copy and
+
+326
+00:09:18,399 --> 00:09:20,320
+pasting with the text
+
+327
+00:09:20,320 --> 00:09:22,080
+if you want if you notice the text here
+
+328
+00:09:22,080 --> 00:09:23,760
+we have this spacing on the right side
+
+329
+00:09:23,760 --> 00:09:25,200
+if you want to make it so that the text
+
+330
+00:09:25,200 --> 00:09:28,080
+runs to the to the edges of both sides
+
+331
+00:09:28,080 --> 00:09:29,600
+uh what you can do is you can come up to
+
+332
+00:09:29,600 --> 00:09:31,360
+the uh justification up here
+
+333
+00:09:31,360 --> 00:09:33,519
+the alignment rather and then change to
+
+334
+00:09:33,519 --> 00:09:34,880
+change it to this option right here and
+
+335
+00:09:34,880 --> 00:09:36,720
+if you notice it spaces the text out so
+
+336
+00:09:36,720 --> 00:09:38,480
+it runs to the edges like that
+
+337
+00:09:38,480 --> 00:09:39,839
+i don't like how that looks personally
+
+338
+00:09:39,839 --> 00:09:41,279
+it looks too like robotic so i'm just
+
+339
+00:09:41,279 --> 00:09:42,240
+gonna
+
+340
+00:09:42,240 --> 00:09:44,399
+leave it as it was before and then we're
+
+341
+00:09:44,399 --> 00:09:45,519
+gonna do the same thing over here create
+
+342
+00:09:45,519 --> 00:09:47,279
+some more text i'm gonna make this box
+
+343
+00:09:47,279 --> 00:09:49,279
+even bigger this time so i don't have to
+
+344
+00:09:49,279 --> 00:09:52,320
+change the size of it and again we're
+
+345
+00:09:52,320 --> 00:09:53,440
+just gonna uh
+
+346
+00:09:53,440 --> 00:09:55,200
+i'm just gonna control paste use this
+
+347
+00:09:55,200 --> 00:09:57,920
+dummy text here
+
+348
+00:09:57,920 --> 00:10:00,000
+let me select all control a to select
+
+349
+00:10:00,000 --> 00:10:01,440
+all change the size of this to match the
+
+350
+00:10:01,440 --> 00:10:04,720
+size of the other text i'm gonna use 12.
+
+351
+00:10:04,720 --> 00:10:06,240
+and for this one i'm going to maybe
+
+352
+00:10:06,240 --> 00:10:08,079
+shorten this
+
+353
+00:10:08,079 --> 00:10:09,600
+by about this much because for this
+
+354
+00:10:09,600 --> 00:10:11,600
+design i'm going to use
+
+355
+00:10:11,600 --> 00:10:14,480
+like a placeholder graphic over here
+
+356
+00:10:14,480 --> 00:10:16,079
+like a chart or some kind of
+
+357
+00:10:16,079 --> 00:10:18,240
+pie chart or something like that go back
+
+358
+00:10:18,240 --> 00:10:19,360
+to the select tool
+
+359
+00:10:19,360 --> 00:10:20,880
+okay so now that part is done what we
+
+360
+00:10:20,880 --> 00:10:22,800
+could do now is create like a text area
+
+361
+00:10:22,800 --> 00:10:24,959
+in here like a like a header section
+
+362
+00:10:24,959 --> 00:10:26,880
+to do that i'm going to grab the white
+
+363
+00:10:26,880 --> 00:10:28,640
+rectangle that represents the page
+
+364
+00:10:28,640 --> 00:10:29,839
+i'm going to right click that and go to
+
+365
+00:10:29,839 --> 00:10:31,680
+duplicate and i'm just going to take
+
+366
+00:10:31,680 --> 00:10:33,360
+this bottom arrow and scale it up like
+
+367
+00:10:33,360 --> 00:10:33,680
+this
+
+368
+00:10:33,680 --> 00:10:35,519
+bring it up to about there let me change
+
+369
+00:10:35,519 --> 00:10:36,800
+the color of this so we can see what
+
+370
+00:10:36,800 --> 00:10:37,920
+we're doing here i'm going to make this
+
+371
+00:10:37,920 --> 00:10:41,040
+like a dark shade of blue like that
+
+372
+00:10:41,040 --> 00:10:42,800
+you can use whatever color you like i'll
+
+373
+00:10:42,800 --> 00:10:45,200
+take this top arrow bring this down
+
+374
+00:10:45,200 --> 00:10:46,640
+and we're going to use this area right
+
+375
+00:10:46,640 --> 00:10:48,399
+here to add some like uh
+
+376
+00:10:48,399 --> 00:10:51,519
+leader text or header text and before i
+
+377
+00:10:51,519 --> 00:10:52,720
+do that though i just want to make sure
+
+378
+00:10:52,720 --> 00:10:54,480
+that this is evenly spaced out between
+
+379
+00:10:54,480 --> 00:10:55,680
+this text object
+
+380
+00:10:55,680 --> 00:10:58,240
+this blue rectangle and this yellow
+
+381
+00:10:58,240 --> 00:10:59,680
+divider i want to make sure all three of
+
+382
+00:10:59,680 --> 00:11:01,120
+these are evenly spaced out so i'm going
+
+383
+00:11:01,120 --> 00:11:02,480
+to click on the divider
+
+384
+00:11:02,480 --> 00:11:05,200
+hold shift click on the blue box hold
+
+385
+00:11:05,200 --> 00:11:05,600
+shift
+
+386
+00:11:05,600 --> 00:11:07,680
+click on the text and come over here to
+
+387
+00:11:07,680 --> 00:11:08,959
+where it says distribute
+
+388
+00:11:08,959 --> 00:11:10,240
+and we're looking for this icon down
+
+389
+00:11:10,240 --> 00:11:11,519
+here towards the bottom right that says
+
+390
+00:11:11,519 --> 00:11:13,440
+make vertical gaps between objects equal
+
+391
+00:11:13,440 --> 00:11:15,360
+go ahead and click on that
+
+392
+00:11:15,360 --> 00:11:18,160
+and there we go so let me uh create some
+
+393
+00:11:18,160 --> 00:11:19,360
+text to put in here i'm going to grab
+
+394
+00:11:19,360 --> 00:11:20,800
+the text tool
+
+395
+00:11:20,800 --> 00:11:24,640
+snap to the left guide right here
+
+396
+00:11:24,640 --> 00:11:26,000
+put that right there i'm just going to
+
+397
+00:11:26,000 --> 00:11:29,120
+use header text
+
+398
+00:11:29,120 --> 00:11:32,000
+i'm going to make that white
+
+399
+00:11:32,240 --> 00:11:35,279
+and maybe i'll make that a little bigger
+
+400
+00:11:35,279 --> 00:11:37,920
+maybe something like 30 32 that should
+
+401
+00:11:37,920 --> 00:11:39,360
+be pretty good
+
+402
+00:11:39,360 --> 00:11:40,880
+and now i want to use this divider for
+
+403
+00:11:40,880 --> 00:11:41,920
+this design i'm going to use this
+
+404
+00:11:41,920 --> 00:11:43,360
+divider down here as well so let me take
+
+405
+00:11:43,360 --> 00:11:44,160
+that divider
+
+406
+00:11:44,160 --> 00:11:45,920
+duplicate that by right clicking it
+
+407
+00:11:45,920 --> 00:11:47,440
+going to duplicate
+
+408
+00:11:47,440 --> 00:11:49,519
+put this over here and i want this
+
+409
+00:11:49,519 --> 00:11:51,200
+divider to be the same width of this
+
+410
+00:11:51,200 --> 00:11:53,200
+text so let me click on the text
+
+411
+00:11:53,200 --> 00:11:55,120
+right click it and go to copy and then
+
+412
+00:11:55,120 --> 00:11:57,120
+click on the divider and go to edit
+
+413
+00:11:57,120 --> 00:12:00,320
+paste size paste with
+
+414
+00:12:00,320 --> 00:12:02,320
+and then i can go ahead and paste this
+
+415
+00:12:02,320 --> 00:12:04,000
+move this over here like that
+
+416
+00:12:04,000 --> 00:12:05,600
+i'm going to zoom in so that the snaps
+
+417
+00:12:05,600 --> 00:12:08,560
+won't get in the way there we go
+
+418
+00:12:08,560 --> 00:12:10,240
+and now i'm going to put some subtext
+
+419
+00:12:10,240 --> 00:12:12,000
+down here so let me click on this
+
+420
+00:12:12,000 --> 00:12:14,399
+right click it duplicate put this down
+
+421
+00:12:14,399 --> 00:12:15,360
+here
+
+422
+00:12:15,360 --> 00:12:20,639
+make this white grab the text tool again
+
+423
+00:12:20,880 --> 00:12:24,160
+and uh sub
+
+424
+00:12:24,160 --> 00:12:28,160
+text can go here
+
+425
+00:12:28,480 --> 00:12:30,160
+let me just stack this next to it like
+
+426
+00:12:30,160 --> 00:12:31,600
+that
+
+427
+00:12:31,600 --> 00:12:33,040
+now it's looking pretty good let me zoom
+
+428
+00:12:33,040 --> 00:12:34,800
+in just make sure these are
+
+429
+00:12:34,800 --> 00:12:37,200
+evenly spaced apart looking pretty good
+
+430
+00:12:37,200 --> 00:12:38,639
+now i'm going to put some text in here
+
+431
+00:12:38,639 --> 00:12:40,639
+on this right side to do that
+
+432
+00:12:40,639 --> 00:12:42,880
+let me grab the text tool i'm going to
+
+433
+00:12:42,880 --> 00:12:44,480
+start over here on this guideline
+
+434
+00:12:44,480 --> 00:12:47,839
+click and drag like this let me try that
+
+435
+00:12:47,839 --> 00:12:48,880
+again i'm going to click and drag to
+
+436
+00:12:48,880 --> 00:12:50,720
+create this text box
+
+437
+00:12:50,720 --> 00:12:52,560
+ctrl v to paste there we go make that
+
+438
+00:12:52,560 --> 00:12:54,079
+white
+
+439
+00:12:54,079 --> 00:12:55,839
+uh ctrl a to select it all i'm going to
+
+440
+00:12:55,839 --> 00:12:57,440
+make this one slightly bigger than this
+
+441
+00:12:57,440 --> 00:12:59,200
+body text over here so this was size to
+
+442
+00:12:59,200 --> 00:13:01,120
+12. i'm going to size this at maybe uh
+
+443
+00:13:01,120 --> 00:13:03,120
+16 see how that looks
+
+444
+00:13:03,120 --> 00:13:05,200
+that looks pretty good i'm going to go
+
+445
+00:13:05,200 --> 00:13:06,480
+ahead and remove some of this that we
+
+446
+00:13:06,480 --> 00:13:09,760
+don't have so much of that in there
+
+447
+00:13:12,720 --> 00:13:14,240
+okay looking pretty good now if you're
+
+448
+00:13:14,240 --> 00:13:16,160
+not happy with the width of this text
+
+449
+00:13:16,160 --> 00:13:17,440
+what you can do is let me zoom in a
+
+450
+00:13:17,440 --> 00:13:18,160
+little bit
+
+451
+00:13:18,160 --> 00:13:21,760
+you can move this over like this
+
+452
+00:13:21,760 --> 00:13:23,040
+and then you can go back to the text
+
+453
+00:13:23,040 --> 00:13:25,279
+tool and take this node right here and
+
+454
+00:13:25,279 --> 00:13:26,880
+just snap it to the right side so that
+
+455
+00:13:26,880 --> 00:13:28,880
+it changes the uh the orientation of it
+
+456
+00:13:28,880 --> 00:13:29,920
+like that
+
+457
+00:13:29,920 --> 00:13:31,680
+now let me grab the select tool i want
+
+458
+00:13:31,680 --> 00:13:33,519
+to center this text up within this blue
+
+459
+00:13:33,519 --> 00:13:35,279
+object so i'm going to hold shift and
+
+460
+00:13:35,279 --> 00:13:36,880
+click on the blue text i mean the blue
+
+461
+00:13:36,880 --> 00:13:37,760
+object
+
+462
+00:13:37,760 --> 00:13:39,360
+and i'm going to change the relative to
+
+463
+00:13:39,360 --> 00:13:40,480
+i'm going to change that to last
+
+464
+00:13:40,480 --> 00:13:41,680
+selected
+
+465
+00:13:41,680 --> 00:13:43,279
+and i'm going to center it up on the
+
+466
+00:13:43,279 --> 00:13:44,880
+horizontal axis like that
+
+467
+00:13:44,880 --> 00:13:46,720
+and now i want this text to to be
+
+468
+00:13:46,720 --> 00:13:48,000
+aligned to the top of this
+
+469
+00:13:48,000 --> 00:13:50,160
+text so let me click and drag over those
+
+470
+00:13:50,160 --> 00:13:51,839
+three objects right there to select them
+
+471
+00:13:51,839 --> 00:13:53,040
+or what you could do is you could just
+
+472
+00:13:53,040 --> 00:13:54,639
+click them one by one while holding
+
+473
+00:13:54,639 --> 00:13:55,920
+shift
+
+474
+00:13:55,920 --> 00:13:57,279
+and then just group them together with
+
+475
+00:13:57,279 --> 00:13:58,800
+this button that says group selected
+
+476
+00:13:58,800 --> 00:13:59,440
+objects
+
+477
+00:13:59,440 --> 00:14:02,959
+or you can just press ctrl g hold shift
+
+478
+00:14:02,959 --> 00:14:04,639
+click on this text right here and then
+
+479
+00:14:04,639 --> 00:14:07,360
+just where it says uh align top edges
+
+480
+00:14:07,360 --> 00:14:09,279
+click on that and that right there is
+
+481
+00:14:09,279 --> 00:14:10,480
+what we're looking for so let me zoom
+
+482
+00:14:10,480 --> 00:14:11,519
+out a little bit
+
+483
+00:14:11,519 --> 00:14:13,040
+let me click off of this to deselect
+
+484
+00:14:13,040 --> 00:14:14,959
+everything now what you could do now is
+
+485
+00:14:14,959 --> 00:14:16,880
+you can import an image in here if you
+
+486
+00:14:16,880 --> 00:14:18,320
+want to do what i did if you want to
+
+487
+00:14:18,320 --> 00:14:21,120
+add some more flair to this design what
+
+488
+00:14:21,120 --> 00:14:22,560
+i'm going to do is i'm going to
+
+489
+00:14:22,560 --> 00:14:24,800
+import my image over here i have it
+
+490
+00:14:24,800 --> 00:14:26,240
+opened up on my other monitor if i can
+
+491
+00:14:26,240 --> 00:14:30,880
+just find it we go
+
+492
+00:14:30,880 --> 00:14:32,959
+i'll bring my folder this is the folder
+
+493
+00:14:32,959 --> 00:14:34,160
+right here
+
+494
+00:14:34,160 --> 00:14:35,680
+i'll bring it into the screen if you
+
+495
+00:14:35,680 --> 00:14:37,199
+just take your image and just click and
+
+496
+00:14:37,199 --> 00:14:39,040
+drag it onto inkscape like that
+
+497
+00:14:39,040 --> 00:14:41,600
+leave the defaults as it is click ok and
+
+498
+00:14:41,600 --> 00:14:42,880
+there's my image
+
+499
+00:14:42,880 --> 00:14:44,399
+i just want to send this to the bottom
+
+500
+00:14:44,399 --> 00:14:45,680
+of the image i'm going to right click
+
+501
+00:14:45,680 --> 00:14:46,000
+this
+
+502
+00:14:46,000 --> 00:14:47,279
+actually no i'm going to come over here
+
+503
+00:14:47,279 --> 00:14:49,199
+to where it says lower selection to the
+
+504
+00:14:49,199 --> 00:14:49,920
+bottom
+
+505
+00:14:49,920 --> 00:14:51,600
+click on that and then i want to raise
+
+506
+00:14:51,600 --> 00:14:53,279
+that one step so it's above
+
+507
+00:14:53,279 --> 00:14:55,040
+the white page so i'm going to click
+
+508
+00:14:55,040 --> 00:14:56,399
+this button over here that says raise
+
+509
+00:14:56,399 --> 00:14:57,199
+selection
+
+510
+00:14:57,199 --> 00:14:59,360
+one step and if at any point you want to
+
+511
+00:14:59,360 --> 00:15:00,880
+see how your design is looking without
+
+512
+00:15:00,880 --> 00:15:02,160
+these guides in the way you could just
+
+513
+00:15:02,160 --> 00:15:03,920
+come over here where it says view
+
+514
+00:15:03,920 --> 00:15:05,760
+and then deselect guides what i like to
+
+515
+00:15:05,760 --> 00:15:07,519
+do is use the keyboard shortcut which is
+
+516
+00:15:07,519 --> 00:15:07,920
+this
+
+517
+00:15:07,920 --> 00:15:09,839
+vertical line right here so i'm going to
+
+518
+00:15:09,839 --> 00:15:11,440
+toggle them off and on to see how they
+
+519
+00:15:11,440 --> 00:15:12,480
+look
+
+520
+00:15:12,480 --> 00:15:14,079
+okay so let me center this up on the
+
+521
+00:15:14,079 --> 00:15:16,000
+blue box right here let me select that
+
+522
+00:15:16,000 --> 00:15:18,000
+hold shift click on the blue box
+
+523
+00:15:18,000 --> 00:15:19,680
+center it up vertically and horizontally
+
+524
+00:15:19,680 --> 00:15:21,839
+like that click off of it to deselect
+
+525
+00:15:21,839 --> 00:15:23,040
+everything
+
+526
+00:15:23,040 --> 00:15:24,720
+take just this blue box and bring the
+
+527
+00:15:24,720 --> 00:15:26,079
+opacity down a little bit so
+
+528
+00:15:26,079 --> 00:15:28,480
+the image shows beneath it then i want
+
+529
+00:15:28,480 --> 00:15:29,759
+to take this image
+
+530
+00:15:29,759 --> 00:15:31,600
+hold ctrl and shift and scale it down
+
+531
+00:15:31,600 --> 00:15:33,759
+like that
+
+532
+00:15:33,759 --> 00:15:36,079
+that's pretty good let me zoom in move
+
+533
+00:15:36,079 --> 00:15:38,560
+this up
+
+534
+00:15:39,040 --> 00:15:40,720
+okay so now i just want to crop this
+
+535
+00:15:40,720 --> 00:15:42,480
+image so that it fits this blue square
+
+536
+00:15:42,480 --> 00:15:43,680
+right here so let me take the blue
+
+537
+00:15:43,680 --> 00:15:44,639
+square
+
+538
+00:15:44,639 --> 00:15:47,040
+right click it go to duplicate hold
+
+539
+00:15:47,040 --> 00:15:47,839
+shift
+
+540
+00:15:47,839 --> 00:15:51,440
+click on the image and go to object clip
+
+541
+00:15:51,440 --> 00:15:54,720
+object clip set and there we go
+
+542
+00:15:54,720 --> 00:15:56,480
+now let me take this and just adjust the
+
+543
+00:15:56,480 --> 00:16:00,000
+opacity so that some of it shows through
+
+544
+00:16:00,000 --> 00:16:03,360
+that right there looks pretty good
+
+545
+00:16:03,360 --> 00:16:06,160
+now let me zoom out i'm going to come
+
+546
+00:16:06,160 --> 00:16:08,000
+over here now to where it says view let
+
+547
+00:16:08,000 --> 00:16:09,839
+me toggle off the guide so we can see
+
+548
+00:16:09,839 --> 00:16:10,800
+how it looks
+
+549
+00:16:10,800 --> 00:16:12,399
+and as you can see our design is looking
+
+550
+00:16:12,399 --> 00:16:13,920
+pretty good now you can use this area
+
+551
+00:16:13,920 --> 00:16:15,600
+here to import like an infographic or a
+
+552
+00:16:15,600 --> 00:16:17,040
+pie chart or something like i did i'm
+
+553
+00:16:17,040 --> 00:16:19,680
+going to leave it blank for now
+
+554
+00:16:19,680 --> 00:16:21,920
+as it stands this design is looking like
+
+555
+00:16:21,920 --> 00:16:23,199
+it's finished so what i'm going to do is
+
+556
+00:16:23,199 --> 00:16:24,720
+i'm going to save it as a pdf document
+
+557
+00:16:24,720 --> 00:16:26,079
+i'll go to file
+
+558
+00:16:26,079 --> 00:16:29,120
+save as i'm just going to title this
+
+559
+00:16:29,120 --> 00:16:29,920
+thing
+
+560
+00:16:29,920 --> 00:16:33,040
+report and for the file
+
+561
+00:16:33,040 --> 00:16:34,880
+save save as type i'm going to change
+
+562
+00:16:34,880 --> 00:16:36,240
+that to pdf
+
+563
+00:16:36,240 --> 00:16:37,759
+right there there we go and i'll go
+
+564
+00:16:37,759 --> 00:16:39,600
+ahead and save
+
+565
+00:16:39,600 --> 00:16:41,759
+you leave the defaults as they are go
+
+566
+00:16:41,759 --> 00:16:43,519
+ahead and click ok
+
+567
+00:16:43,519 --> 00:16:46,000
+ok now the downside of one of the other
+
+568
+00:16:46,000 --> 00:16:47,839
+downsides of doing this with inkscape is
+
+569
+00:16:47,839 --> 00:16:49,199
+that you'll have to design
+
+570
+00:16:49,199 --> 00:16:51,680
+your report or your book one page at a
+
+571
+00:16:51,680 --> 00:16:52,320
+time
+
+572
+00:16:52,320 --> 00:16:54,079
+and then save all of the individual
+
+573
+00:16:54,079 --> 00:16:56,160
+pages as individual pdfs
+
+574
+00:16:56,160 --> 00:16:58,720
+and then use something like pdf sam to
+
+575
+00:16:58,720 --> 00:17:00,240
+merge the pdf document together i'll
+
+576
+00:17:00,240 --> 00:17:01,600
+show you that in just a minute
+
+577
+00:17:01,600 --> 00:17:03,040
+again this is one of the downsides of
+
+578
+00:17:03,040 --> 00:17:04,720
+using inkscape that's why i recommend if
+
+579
+00:17:04,720 --> 00:17:06,079
+you're creating something really long
+
+580
+00:17:06,079 --> 00:17:08,160
+like a 50 or 60 page book
+
+581
+00:17:08,160 --> 00:17:09,839
+probably not a good idea to use inkscape
+
+582
+00:17:09,839 --> 00:17:11,039
+but if you just want to create a one or
+
+583
+00:17:11,039 --> 00:17:12,720
+two page report like this
+
+584
+00:17:12,720 --> 00:17:16,000
+that's fine so let me um let me uh
+
+585
+00:17:16,000 --> 00:17:17,439
+minimize this now let me come back over
+
+586
+00:17:17,439 --> 00:17:19,160
+here to my folder i'm looking for
+
+587
+00:17:19,160 --> 00:17:21,280
+report.pdf what i'm going to do is we're
+
+588
+00:17:21,280 --> 00:17:23,280
+going to save a second copy of this
+
+589
+00:17:23,280 --> 00:17:26,400
+file save as i'm going to save a second
+
+590
+00:17:26,400 --> 00:17:27,760
+a second copy of this just so i can
+
+591
+00:17:27,760 --> 00:17:30,840
+demonstrate how this works
+
+592
+00:17:30,840 --> 00:17:33,200
+report to
+
+593
+00:17:33,200 --> 00:17:38,240
+pdf click save
+
+594
+00:17:39,120 --> 00:17:40,559
+so now what i've done here is i opened
+
+595
+00:17:40,559 --> 00:17:42,400
+up a piece of software known as pdf sam
+
+596
+00:17:42,400 --> 00:17:43,760
+this is a free piece of software i'll
+
+597
+00:17:43,760 --> 00:17:44,799
+have a link in the description if you
+
+598
+00:17:44,799 --> 00:17:46,400
+want to download it this just allows you
+
+599
+00:17:46,400 --> 00:17:48,240
+to merge pdf documents together pretty
+
+600
+00:17:48,240 --> 00:17:48,960
+quickly
+
+601
+00:17:48,960 --> 00:17:50,559
+if you want you can use a web-based
+
+602
+00:17:50,559 --> 00:17:51,919
+solution if you'd like you don't have to
+
+603
+00:17:51,919 --> 00:17:53,360
+download software to do this
+
+604
+00:17:53,360 --> 00:17:55,200
+come over here to where it says merge
+
+605
+00:17:55,200 --> 00:17:56,240
+and i'm going to take these two
+
+606
+00:17:56,240 --> 00:17:58,840
+documents and place them in here like
+
+607
+00:17:58,840 --> 00:18:01,120
+this and it's going to ask you where you
+
+608
+00:18:01,120 --> 00:18:02,160
+want to place this i'm going to place it
+
+609
+00:18:02,160 --> 00:18:03,360
+where it originally was
+
+610
+00:18:03,360 --> 00:18:04,960
+and i'm going to leave everything as it
+
+611
+00:18:04,960 --> 00:18:08,160
+is and click run
+
+612
+00:18:08,880 --> 00:18:11,360
+and there we go so let me open up this
+
+613
+00:18:11,360 --> 00:18:12,559
+document
+
+614
+00:18:12,559 --> 00:18:14,480
+and as you can see here we have a
+
+615
+00:18:14,480 --> 00:18:16,720
+two-page pdf document that we created
+
+616
+00:18:16,720 --> 00:18:18,640
+with inkscape and you can take this text
+
+617
+00:18:18,640 --> 00:18:20,240
+and highlight it and copy and paste it
+
+618
+00:18:20,240 --> 00:18:21,679
+just like you would with any other pdf
+
+619
+00:18:21,679 --> 00:18:22,320
+document
+
+620
+00:18:22,320 --> 00:18:23,760
+and the great thing about this again is
+
+621
+00:18:23,760 --> 00:18:25,440
+since we created this in inkscape this
+
+622
+00:18:25,440 --> 00:18:26,559
+is a vector
+
+623
+00:18:26,559 --> 00:18:28,880
+design meaning you can zoom in on this
+
+624
+00:18:28,880 --> 00:18:30,640
+and you won't get that pixelization you
+
+625
+00:18:30,640 --> 00:18:31,120
+get that
+
+626
+00:18:31,120 --> 00:18:32,799
+the benefit of working with vectors like
+
+627
+00:18:32,799 --> 00:18:35,280
+that so i think that should do it for
+
+628
+00:18:35,280 --> 00:18:36,480
+this tutorial that's how you can go
+
+629
+00:18:36,480 --> 00:18:38,000
+about using inkscape
+
+630
+00:18:38,000 --> 00:18:40,799
+for some pretty rudimentary desktop
+
+631
+00:18:40,799 --> 00:18:42,160
+publishing purposes
+
+632
+00:18:42,160 --> 00:18:43,520
+if you have any questions just leave a
+
+633
+00:18:43,520 --> 00:18:46,180
+comment below and as always thanks for
+
+634
+00:18:46,180 --> 00:18:54,840
+[Music]
+
+635
+00:18:54,840 --> 00:18:56,860
+watching
+
+636
+00:18:56,860 --> 00:19:07,989
+[Music]
+

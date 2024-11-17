@@ -1,0 +1,896 @@
+1
+00:00:00,000 --> 00:00:02,100
+in this tutorial we'll be going over how
+
+2
+00:00:02,100 --> 00:00:03,780
+you can divide your artwork up into
+
+3
+00:00:03,780 --> 00:00:06,299
+individual Carousel slides and then
+
+4
+00:00:06,299 --> 00:00:09,360
+export them as individual PNG or jpeg
+
+5
+00:00:09,360 --> 00:00:12,179
+images using inkscape so I'll go ahead
+
+6
+00:00:12,179 --> 00:00:13,740
+and get started here in inkscape the
+
+7
+00:00:13,740 --> 00:00:15,179
+example we'll be working with for this
+
+8
+00:00:15,179 --> 00:00:17,340
+demonstration is the Instagram Carousel
+
+9
+00:00:17,340 --> 00:00:19,260
+slide which they recommend a size of
+
+10
+00:00:19,260 --> 00:00:22,560
+1080 by 1350 so what I'm going to do is
+
+11
+00:00:22,560 --> 00:00:24,240
+grab the rectangle tool and I'm going to
+
+12
+00:00:24,240 --> 00:00:26,340
+click and drag to draw a rectangle and I
+
+13
+00:00:26,340 --> 00:00:29,400
+want to make this to be 1080 width by
+
+14
+00:00:29,400 --> 00:00:32,399
+1350 height so I will grab my selection
+
+15
+00:00:32,399 --> 00:00:34,680
+tool I'll come up here to where the
+
+16
+00:00:34,680 --> 00:00:36,480
+width and height inputs are and I'll
+
+17
+00:00:36,480 --> 00:00:38,219
+change the width to well first of all
+
+18
+00:00:38,219 --> 00:00:39,420
+make sure you're working with pixels
+
+19
+00:00:39,420 --> 00:00:41,760
+here and then make sure this lock icon
+
+20
+00:00:41,760 --> 00:00:43,559
+is turned off and I will make this a
+
+21
+00:00:43,559 --> 00:00:45,719
+width of 1080.
+
+22
+00:00:45,719 --> 00:00:47,640
+and then I will make this a height of
+
+23
+00:00:47,640 --> 00:00:49,379
+1350.
+
+24
+00:00:49,379 --> 00:00:51,840
+and now we have the size this represents
+
+25
+00:00:51,840 --> 00:00:55,440
+one slide on the carousel so if you want
+
+26
+00:00:55,440 --> 00:00:57,000
+to have three or four slides we're going
+
+27
+00:00:57,000 --> 00:00:58,440
+to have to create three or four copies
+
+28
+00:00:58,440 --> 00:00:59,820
+of this and stack them next to each
+
+29
+00:00:59,820 --> 00:01:02,460
+other so let me first change the
+
+30
+00:01:02,460 --> 00:01:04,260
+documents so that it's the size of this
+
+31
+00:01:04,260 --> 00:01:06,119
+rectangle here so with the rectangle
+
+32
+00:01:06,119 --> 00:01:07,680
+selected I'm just going to press Ctrl
+
+33
+00:01:07,680 --> 00:01:09,659
+shift r on the keyboard or if you're
+
+34
+00:01:09,659 --> 00:01:11,400
+using Mac it would be command shift R
+
+35
+00:01:11,400 --> 00:01:13,500
+and it's going to resize the document to
+
+36
+00:01:13,500 --> 00:01:15,240
+the selection as you can see there and
+
+37
+00:01:15,240 --> 00:01:16,740
+now we want to get rid of that border
+
+38
+00:01:16,740 --> 00:01:18,780
+and the shadow around the border so let
+
+39
+00:01:18,780 --> 00:01:21,180
+me go to document properties I'll go to
+
+40
+00:01:21,180 --> 00:01:22,439
+file
+
+41
+00:01:22,439 --> 00:01:25,320
+document properties
+
+42
+00:01:25,320 --> 00:01:27,479
+and where it says border let's first
+
+43
+00:01:27,479 --> 00:01:29,340
+turn off the Border shadow
+
+44
+00:01:29,340 --> 00:01:30,960
+and then we will turn off the Border
+
+45
+00:01:30,960 --> 00:01:32,280
+altogether
+
+46
+00:01:32,280 --> 00:01:34,560
+and then we can close out of this menu
+
+47
+00:01:34,560 --> 00:01:37,079
+so we now have a single document for a
+
+48
+00:01:37,079 --> 00:01:38,520
+single tile so what we have to do is
+
+49
+00:01:38,520 --> 00:01:40,799
+create three or four duplicate copies of
+
+50
+00:01:40,799 --> 00:01:42,360
+this for the for this demonstration I
+
+51
+00:01:42,360 --> 00:01:44,640
+will create three slides if you want to
+
+52
+00:01:44,640 --> 00:01:45,960
+create more you can go ahead and do that
+
+53
+00:01:45,960 --> 00:01:47,880
+first I'm going to turn on snapping up
+
+54
+00:01:47,880 --> 00:01:49,979
+here in this top right corner and then
+
+55
+00:01:49,979 --> 00:01:51,600
+I'm going to snap this rectangle to the
+
+56
+00:01:51,600 --> 00:01:53,159
+right hand side of the page there like
+
+57
+00:01:53,159 --> 00:01:55,560
+that and then I will grab the documents
+
+58
+00:01:55,560 --> 00:01:57,119
+tool down here
+
+59
+00:01:57,119 --> 00:01:58,979
+I will snap to the bottom right corner
+
+60
+00:01:58,979 --> 00:02:01,320
+then click and drag and then snap to the
+
+61
+00:02:01,320 --> 00:02:03,060
+top left corner to draw the second page
+
+62
+00:02:03,060 --> 00:02:05,640
+and if I move this over we now have a
+
+63
+00:02:05,640 --> 00:02:07,619
+second document there now it looks like
+
+64
+00:02:07,619 --> 00:02:09,598
+one continuous document but these are
+
+65
+00:02:09,598 --> 00:02:11,580
+two separate two separate documents here
+
+66
+00:02:11,580 --> 00:02:14,640
+we have page one and then page two
+
+67
+00:02:14,640 --> 00:02:16,080
+so now I'm going to create my third
+
+68
+00:02:16,080 --> 00:02:17,640
+slide I'm going to snap this over here
+
+69
+00:02:17,640 --> 00:02:19,080
+to the right hand side
+
+70
+00:02:19,080 --> 00:02:21,120
+and I will grab my documents tool again
+
+71
+00:02:21,120 --> 00:02:23,819
+snap to the bottom right corner
+
+72
+00:02:23,819 --> 00:02:26,760
+click and drag
+
+73
+00:02:26,760 --> 00:02:29,220
+there we go there's page three so let me
+
+74
+00:02:29,220 --> 00:02:30,360
+grab this and move this out of the way
+
+75
+00:02:30,360 --> 00:02:32,400
+I'm just going to work with three slides
+
+76
+00:02:32,400 --> 00:02:33,900
+for this demonstration so I'm going to
+
+77
+00:02:33,900 --> 00:02:35,879
+delete this rectangle now if you want
+
+78
+00:02:35,879 --> 00:02:37,260
+four or five slides you'll just have to
+
+79
+00:02:37,260 --> 00:02:39,360
+repeat that process a few more times but
+
+80
+00:02:39,360 --> 00:02:41,280
+we now have the template that we can use
+
+81
+00:02:41,280 --> 00:02:43,319
+to design our independent slides and I'm
+
+82
+00:02:43,319 --> 00:02:44,819
+gonna for this demonstration I'm gonna
+
+83
+00:02:44,819 --> 00:02:46,620
+bring in an image that I've downloaded
+
+84
+00:02:46,620 --> 00:02:48,720
+from a stock photo site let me just open
+
+85
+00:02:48,720 --> 00:02:50,400
+this up I have this on my other screen
+
+86
+00:02:50,400 --> 00:02:52,379
+over here I'm going to click and drag
+
+87
+00:02:52,379 --> 00:02:56,060
+the image onto my canvas like that
+
+88
+00:02:58,260 --> 00:03:00,660
+okay so now I have imported my artwork
+
+89
+00:03:00,660 --> 00:03:02,819
+onto the canvas the problem that we have
+
+90
+00:03:02,819 --> 00:03:04,980
+now is that you can't see exactly where
+
+91
+00:03:04,980 --> 00:03:07,680
+the artwork lines up with the canvas so
+
+92
+00:03:07,680 --> 00:03:10,260
+we're going to re-enable borders so that
+
+93
+00:03:10,260 --> 00:03:11,819
+we can see that let me place this on top
+
+94
+00:03:11,819 --> 00:03:14,340
+of the top of the document like that and
+
+95
+00:03:14,340 --> 00:03:15,599
+then I will open up the document
+
+96
+00:03:15,599 --> 00:03:18,300
+properties menu again file document
+
+97
+00:03:18,300 --> 00:03:19,500
+properties
+
+98
+00:03:19,500 --> 00:03:21,060
+and now
+
+99
+00:03:21,060 --> 00:03:23,700
+I'm going to turn the Border back on
+
+100
+00:03:23,700 --> 00:03:25,319
+I'm going to make it so that the border
+
+101
+00:03:25,319 --> 00:03:26,940
+is always on top I'm going to tick that
+
+102
+00:03:26,940 --> 00:03:28,560
+box and now you will see the border on
+
+103
+00:03:28,560 --> 00:03:31,080
+top of your artwork and I'm going to
+
+104
+00:03:31,080 --> 00:03:33,060
+leave show shadow turned off that's not
+
+105
+00:03:33,060 --> 00:03:35,220
+necessary and depending on the
+
+106
+00:03:35,220 --> 00:03:36,720
+composition of your image you may want
+
+107
+00:03:36,720 --> 00:03:38,280
+to change the color of your border if
+
+108
+00:03:38,280 --> 00:03:40,019
+you notice here my border is kind of
+
+109
+00:03:40,019 --> 00:03:41,340
+blending in with the image it doesn't
+
+110
+00:03:41,340 --> 00:03:43,379
+stand out very well so I'm going to make
+
+111
+00:03:43,379 --> 00:03:45,299
+this border white so I'm going to change
+
+112
+00:03:45,299 --> 00:03:47,819
+the Border color up here
+
+113
+00:03:47,819 --> 00:03:50,280
+then I'm going to make this white
+
+114
+00:03:50,280 --> 00:03:52,260
+and you can see you can see that border
+
+115
+00:03:52,260 --> 00:03:53,640
+much better now
+
+116
+00:03:53,640 --> 00:03:55,140
+and if you want to bring down the
+
+117
+00:03:55,140 --> 00:03:57,900
+opacity of it so it isn't so sharp you
+
+118
+00:03:57,900 --> 00:03:59,819
+could bring this down a little bit and
+
+119
+00:03:59,819 --> 00:04:01,440
+now it gives you a better idea of what
+
+120
+00:04:01,440 --> 00:04:02,819
+the continuous image will look like
+
+121
+00:04:02,819 --> 00:04:04,680
+because the Border isn't so prominent
+
+122
+00:04:04,680 --> 00:04:07,560
+there so let me close out of that now
+
+123
+00:04:07,560 --> 00:04:10,019
+and we now have our document set up with
+
+124
+00:04:10,019 --> 00:04:12,659
+three different Carousel slides that we
+
+125
+00:04:12,659 --> 00:04:14,280
+can add our contents to so I'm going to
+
+126
+00:04:14,280 --> 00:04:16,380
+resize my image to fit this better I'm
+
+127
+00:04:16,380 --> 00:04:17,760
+going to turn off snapping now we don't
+
+128
+00:04:17,760 --> 00:04:18,959
+need that anymore
+
+129
+00:04:18,959 --> 00:04:20,699
+and I'm going to hold Ctrl while I'm
+
+130
+00:04:20,699 --> 00:04:22,260
+scaling and I'm going to place my
+
+131
+00:04:22,260 --> 00:04:24,060
+artwork right about where I want the
+
+132
+00:04:24,060 --> 00:04:26,520
+three slides to be so in this first
+
+133
+00:04:26,520 --> 00:04:29,160
+slide I want the subject to be in here
+
+134
+00:04:29,160 --> 00:04:31,740
+and then the last two slides I can let
+
+135
+00:04:31,740 --> 00:04:35,699
+it be the rest of the image like that
+
+136
+00:04:35,699 --> 00:04:37,380
+and what you could do now is you can go
+
+137
+00:04:37,380 --> 00:04:39,900
+through here and add some contents so I
+
+138
+00:04:39,900 --> 00:04:41,160
+think for this demonstration I'll just
+
+139
+00:04:41,160 --> 00:04:43,440
+add some simple little dummy text and
+
+140
+00:04:43,440 --> 00:04:46,400
+then we'll take it from there
+
+141
+00:04:48,360 --> 00:04:50,400
+okay so I have some sample text in there
+
+142
+00:04:50,400 --> 00:04:51,960
+if you want to make sure that your
+
+143
+00:04:51,960 --> 00:04:53,580
+elements that your design elements are
+
+144
+00:04:53,580 --> 00:04:55,800
+aligning perfectly with each individual
+
+145
+00:04:55,800 --> 00:04:58,139
+slide of the carousel just open up your
+
+146
+00:04:58,139 --> 00:04:59,639
+aligned distribute menu by going to
+
+147
+00:04:59,639 --> 00:05:01,680
+object and selecting align and
+
+148
+00:05:01,680 --> 00:05:02,940
+distribute down here at the bottom of
+
+149
+00:05:02,940 --> 00:05:04,139
+the list
+
+150
+00:05:04,139 --> 00:05:06,660
+and then set the relative to set this to
+
+151
+00:05:06,660 --> 00:05:09,300
+page and now whichever page you have the
+
+152
+00:05:09,300 --> 00:05:11,880
+design element placed over you can
+
+153
+00:05:11,880 --> 00:05:13,919
+Center and align it based on that
+
+154
+00:05:13,919 --> 00:05:15,419
+particular page there so I'll make a
+
+155
+00:05:15,419 --> 00:05:17,820
+duplicate of that by pressing Ctrl D and
+
+156
+00:05:17,820 --> 00:05:19,440
+I'll move this over here
+
+157
+00:05:19,440 --> 00:05:21,479
+and then I will Center this up on this
+
+158
+00:05:21,479 --> 00:05:23,580
+page as well
+
+159
+00:05:23,580 --> 00:05:25,199
+okay so let's say that this is the
+
+160
+00:05:25,199 --> 00:05:26,699
+design I want to export these are the
+
+161
+00:05:26,699 --> 00:05:29,220
+three slides I want to work with here
+
+162
+00:05:29,220 --> 00:05:30,419
+to do this we're going to create
+
+163
+00:05:30,419 --> 00:05:33,419
+separate images of each tile here using
+
+164
+00:05:33,419 --> 00:05:35,759
+the batch export feature so let's go up
+
+165
+00:05:35,759 --> 00:05:39,539
+to where it says file and go to export
+
+166
+00:05:39,539 --> 00:05:41,460
+and then over here in the export menu
+
+167
+00:05:41,460 --> 00:05:43,139
+we're going to choose batch export
+
+168
+00:05:43,139 --> 00:05:45,000
+because we want to export all three of
+
+169
+00:05:45,000 --> 00:05:46,800
+these slides at once
+
+170
+00:05:46,800 --> 00:05:48,720
+and we're going to choose pages over
+
+171
+00:05:48,720 --> 00:05:51,060
+here and if you notice over here this is
+
+172
+00:05:51,060 --> 00:05:52,020
+a preview of what's going to get
+
+173
+00:05:52,020 --> 00:05:54,180
+exported we have page one page two and
+
+174
+00:05:54,180 --> 00:05:56,280
+Page Three now if yours is not in order
+
+175
+00:05:56,280 --> 00:05:58,139
+don't worry sometimes it just indexes
+
+176
+00:05:58,139 --> 00:05:59,639
+them here in the wrong order but they
+
+177
+00:05:59,639 --> 00:06:01,199
+will be exported with the proper name
+
+178
+00:06:01,199 --> 00:06:03,900
+and the and in the proper order so uh
+
+179
+00:06:03,900 --> 00:06:06,120
+this this title page one page two page
+
+180
+00:06:06,120 --> 00:06:08,280
+three down here you can choose like a
+
+181
+00:06:08,280 --> 00:06:09,720
+prefix for the name
+
+182
+00:06:09,720 --> 00:06:11,039
+what I'm going to do is I'm going to
+
+183
+00:06:11,039 --> 00:06:12,660
+click this little folder icon over here
+
+184
+00:06:12,660 --> 00:06:14,340
+to choose where I would like to export
+
+185
+00:06:14,340 --> 00:06:15,900
+these designs
+
+186
+00:06:15,900 --> 00:06:17,880
+so what you can do here is change the
+
+187
+00:06:17,880 --> 00:06:19,680
+name of the files that will be exported
+
+188
+00:06:19,680 --> 00:06:21,139
+the default here as you can see is
+
+189
+00:06:21,139 --> 00:06:23,880
+bitmap.png if I leave the default here
+
+190
+00:06:23,880 --> 00:06:26,160
+as it is the files are going to be saved
+
+191
+00:06:26,160 --> 00:06:29,639
+with the names bitmap Dash page1.png and
+
+192
+00:06:29,639 --> 00:06:31,979
+then page2.png and so on and so forth
+
+193
+00:06:31,979 --> 00:06:33,360
+I'm just going to leave that as it is
+
+194
+00:06:33,360 --> 00:06:35,160
+down here you can choose your file type
+
+195
+00:06:35,160 --> 00:06:37,080
+if you'd like the default is PNG but if
+
+196
+00:06:37,080 --> 00:06:39,000
+you want to export as JPEG or Tiff or
+
+197
+00:06:39,000 --> 00:06:41,039
+webp there you go there that option is
+
+198
+00:06:41,039 --> 00:06:43,500
+and I'm going to click save and what
+
+199
+00:06:43,500 --> 00:06:45,000
+I'll do here is I will just put up on
+
+200
+00:06:45,000 --> 00:06:46,919
+the screen here the result of exporting
+
+201
+00:06:46,919 --> 00:06:49,740
+these three documents as individual
+
+202
+00:06:49,740 --> 00:06:52,139
+Carousel slides and you can now upload
+
+203
+00:06:52,139 --> 00:06:54,660
+these to Instagram or wherever else to
+
+204
+00:06:54,660 --> 00:06:57,000
+have three separate images that make one
+
+205
+00:06:57,000 --> 00:06:59,280
+continuous image so that's how you can
+
+206
+00:06:59,280 --> 00:07:01,199
+divide your artwork up into individual
+
+207
+00:07:01,199 --> 00:07:04,199
+Carousel slides using inkscape if you
+
+208
+00:07:04,199 --> 00:07:05,880
+found this lesson useful then consider
+
+209
+00:07:05,880 --> 00:07:07,800
+checking out my inkscape master class
+
+210
+00:07:07,800 --> 00:07:09,960
+it's a collection of over 60 videos
+
+211
+00:07:09,960 --> 00:07:11,580
+where I go over all of the tools and
+
+212
+00:07:11,580 --> 00:07:13,620
+features in inkscape and I explain what
+
+213
+00:07:13,620 --> 00:07:15,180
+they are and demonstrate how they work
+
+214
+00:07:15,180 --> 00:07:17,759
+kind of like how I did in this video we
+
+215
+00:07:17,759 --> 00:07:19,440
+even have a private Community where you
+
+216
+00:07:19,440 --> 00:07:21,180
+can ask questions and get help for me
+
+217
+00:07:21,180 --> 00:07:23,759
+anytime you want and best of all there's
+
+218
+00:07:23,759 --> 00:07:25,740
+no monthly membership fees you just pay
+
+219
+00:07:25,740 --> 00:07:29,160
+17 one time and you're in for Life I'll
+
+220
+00:07:29,160 --> 00:07:30,479
+have some information about that down
+
+221
+00:07:30,479 --> 00:07:32,160
+below if you want to check that out as
+
+222
+00:07:32,160 --> 00:07:35,360
+always thanks for watching
+
+223
+00:07:35,639 --> 00:07:37,819
+foreign
+
+224
+00:07:40,560 --> 00:07:44,370
+[Music]
+

@@ -1,0 +1,512 @@
+
+in  this  tutorial  well  be  going  over  an
+
+example  of  when  the  measurement  tool
+
+would  come  in  handy  in  inkscape  and  the
+
+example  well  be  working  with  in  this
+
+lesson  is  the  Gmail  logo  now  this  is  a
+
+rasterized  PNG  image  that  I  have  copied
+
+and  pasted  into  inkscape  if  I  zoom  in
+
+here  you  can  see  the  pixelation  lets
+
+say  we  wanted  to  trace  a  vector  copy  of
+
+this  logo  to  work  with  the  way  that  you
+
+would  normally  do  that  is  by  creating
+
+individual  shapes  in  this  example  it
+
+would  be  rectangles  that  make  up  the
+
+design  here  now  the  problem  with  the
+
+Gmail  logo  is  that  these  lines  here  go
+
+at  an  unusual  angle  normally  when  youre
+
+working  with  inkscape  you  can  rotate
+
+objects  in  15  degree  increments  or  you
+
+can  rotate  them  freehand  now  the  problem
+
+with  rotating  them  freehand  is  that
+
+youll  have  to  guess  what  size  the
+
+rectangle  has  to  be  before  rotating  it
+
+otherwise  it  wont  be  accurate  so  this
+
+is  where  the  measurement  tool  comes  in
+
+handy
+
+so  Im  going  to  click  on  the  logo  to
+
+select  it  and  Im  going  to bring  down
+
+the  opacity  in  half  just  so  I  can  see
+
+the  measurements  that  Im  taking  on  top
+
+of  it  and  then  Im  going  to  zoom  in  here
+
+and  I  want  to  take  a  measurement  of  this
+
+line  right  here  to  find  out  what  this
+
+angle  is  and  to  do  that  Im  going  to  use
+
+the  measurement  tool  which  is  located
+
+over  here  in  the  toolbar  or  you  can
+
+access  it  by  pressing  the  letter  M  on
+
+the  keyboard
+
+and  with  that  tool  enabled  Im  going  to
+
+bring  my  cursor  over  to  the  edge  of  the
+
+line  here  and  Im  going  to  click  and
+
+drag  a  line
+
+that  goes  along  the  edge  of  the  logo
+
+there  and  as  you  can  see  the  measurement
+
+that  Im  working  with  is  37.14  now  this
+
+isnt  totally  accurate  so  Im  just  going
+
+to  change  this  a  little  bit  just  to  make
+
+sure  its  flush  against  the  edge  there
+
+okay  now  we  have  a  more  accurate
+
+measurement  this  angle  right  here  is
+
+36.95  so  Im  going  to  remember  that
+
+number  and  now  Im  going  to  create
+
+guides  and  change  the  angles  of  those
+
+guides  to  match  that  right  there  so  let
+
+me  go  back  to  my  selection  tool
+
+now  Im  going  to  enable  the  ruler  on  my
+
+canvas  so  that  I  can  create  my  guides  if
+
+youre  using  Windows  or  Linux  you  can
+
+get  your  ruler  by  pressing  Ctrl  r  or  if
+
+youre  using  Mac  you  could  press  command
+
+R  and  there  we  have  the  ruler  on  the
+
+screen
+
+so  with  the  ruler  enabled  Im  going  to
+
+bring  my  cursor  to  the  top  edge  of  the
+
+ruler  and  click  and  drag  down  to  create
+
+a  guide  like  that
+
+and  now  Im  going  to  change  the  angle  of
+
+this  guide  by  hovering  my  cursor  over
+
+until  it  highlights  red  and  then  double
+
+clicking  it  and  then  well  get  this  menu
+
+here  where  we  can  change  the  angle  if
+
+you  see  right  here  we  have  angle  and
+
+this  the  angle  is  set  to  zero  so  Im
+
+going  to  change  this  to  my  measurement
+
+which  is  36.95  and  I  will  press  ok
+
+and  now  I  can  take  this  guide  and  I  can
+
+place  it  up  against  the  edge  of  the
+
+design  there  and  now  I  can  make  a
+
+duplicate  of  this  guide  I  can  double
+
+click  it  again  and  I  can  go  to  duplicate
+
+and  I  can  take  this  duplicate  copy  and  I
+
+can  place  this  on  the  bottom  Edge  right
+
+here
+
+let  me  just  move  in  a  little  closer  here
+
+and  make  sure  that  that  is  a  little  more
+
+accurate
+
+okay  thats  better
+
+now  you  may  be  wondering  if  we  have  to
+
+create  more  guides  for  this  side
+
+normally  we  would  but  with  this  design
+
+this  design  is  symmetrical  so  we  wont
+
+have  to  do  that  we  can  just  create  the
+
+left  hand  side  and  then  make  a  duplicate
+
+copy  and  mirror  it  over  here  to  the
+
+right  hand  side  so  were  good  with  these
+
+guides  as  it  is  lets  trace  the  rest  of
+
+this  logo  Im  going  to  grab  my  bezier
+
+pen  by  pressing  B  on  the  keyboard  and  I
+
+want  to  make  sure  I  have  the  proper
+
+setting  enabled
+
+and  Im  going  to  start  the  line  halfway
+
+through  the  design  right  here  first  let
+
+me  turn  on  snapping  so  I  can  snap  to  the
+
+guide
+
+Im  going  to  snap  right  there
+
+and  then  hold  Ctrl  and  bring  the  line
+
+straight  up  to  the  other  guide  and  click
+
+again
+
+and  then  Im  going  to  bring  this  line
+
+all  the  way  out  here  I  want  this  to  I
+
+want  this  to  really  stick  out  far
+
+because  were  going  to  trim  off  the
+
+edges  Im  going  to  bring  this  out  here
+
+and  then  Ill  snap  to  this  line  again
+
+and  then  Ill  come  back  to  the  starting
+
+point  over  here  like  that
+
+and  now  weve  completed  the  shape
+
+so  now  lets  complete  the  rest  of  the
+
+design  Im  going  to  turn  off  snapping
+
+let  me  fill  in  this  shape  here  Im  going
+
+to  give  this  a  color  Im  going  to  remove
+
+The  Stroke  by  holding  shift  and  clicking
+
+this  red  X  down  here  and  Ill  bring  down
+
+the  opacity  of  this  as  well  so  I  can  see
+
+whats  going  on  beneath  it
+
+and  now  Im  going  to  create  another
+
+shape  for  this  leg  of  the  logo  right
+
+here  Im  going  to come  over  here  to  my
+
+rectangle  tool  and  Im  going  to  click
+
+and  drag  to  create  a  rectangle  that  goes
+
+over  the  top  like  that  I  want  this  to
+
+stick  out  as  well  and  then  Im  going  to
+
+zoom  in  on  this  let  me  make  this  a
+
+different  color  so  I  could  differentiate
+
+it
+
+and  Im  going  to  grab  my  select  tool  and
+
+Im  going  to  come  down  here  and  zoom  in
+
+a  lot  just  so  I  can  make  sure  that  I  get
+
+an  accurate  placement  on  the  edge  of  the
+
+logo  there  and  I  did  that  for  the  bottom
+
+Edge  Ill  come  over  here  and  do  this  for
+
+the  right  Edge  as  well
+
+Im  going  to  change  this  width  right
+
+here
+
+and  then  Ill  do  the  same  over  here  for
+
+the  left  Edge  Im  going  to  make  sure
+
+everything  is  accurate  or  as  close  as  it
+
+can  be  sometimes  its  a  little  different
+
+a  little  difficult  when  you  have
+
+pixelation
+
+and  now  Im  going  to  trim  off  these
+
+unwanted  edges  theres  various  ways  that
+
+we  can  do  this  but  for  this  particular
+
+logo  Im  just  going  to  select  both  of
+
+these  objects  and  go  to  path  and  select
+
+fracture
+
+and  now  I  can  take  this  object  and  get
+
+rid  of  it  and  then  I  can  take  this
+
+object  right  here  and  get  rid  of  that  as
+
+well  and  now  we  can  turn  off  the
+
+visibility  of  the  guides  because  theyre
+
+just  getting  in  the  way  now  by  pressing
+
+the  vertical  Bar  Key  so  Im  going  to
+
+hold  shift  and  press  the  vertical  Bar
+
+Key  to  turn  off  the  visibility  and  now
+
+lets  round  these  edges
+
+so  let  me  zoom  in  on  this  if  you  notice
+
+now  we  have  three  different  shapes  that
+
+make  up  the  left  hand  side  of  that  logo
+
+so  let  me  zoom  in  over  here  let  me  go  to
+
+my  edit  pads  my  nodes  tool
+
+and  Im  going  to  enable  the  corners  life
+
+path  effect  and  were  going  to  get  these
+
+round  knots  here  and  Im  going  to  take
+
+this  round  knot  and  Im  going  to  click
+
+and  drag  this  down  until  this  corner
+
+matches  the  Contour  of  the  logo  there
+
+just  like  that  and  that  looks  pretty
+
+good  so  Ill  finalize  that  by  going  to
+
+path  and  selecting  object  to  path  and
+
+then  Ill  come  down  here  and  do  the  same
+
+thing  Im  going  to  click  on  this  object
+
+and  Im  going  to enable  the  live  path
+
+effect  again  the  corners  life  path
+
+effect  and  then  Ill  take  this  knot  and
+
+then  I  will  bring  this  down  until  this
+
+matches  the  Contour  of  this  left  hand
+
+side  right  there
+
+and  then  Ill  finalize  that  by  going  to
+
+path  object  to  path  and  now  we  can  zoom
+
+out  and  at  this  point  the  left  hand  side
+
+of  the  design  is  finished  we  now  just
+
+have  to  duplicate  it  and  mirror  it  to
+
+the  other  side  so  let  me  grab  my
+
+selection  tool  let  me  take  this  take  all
+
+of  these  objects  and  move  them  over  here
+
+let  me  bring  the  opacity  of  them  all  the
+
+way up
+
+and  then  Ill  bring  the  opacity  of  the
+
+original  logo  all  the  way up  as  well
+
+because  were  going  to  color  this  in  in
+
+a  minute
+
+and  Ill  move  this  over  as  a  matter  of
+
+fact  so  I  dont  run  out  of  canvas  space
+
+and  now  Im  going  to  duplicate  this  Im
+
+going  to  right  click  it  and  go  to
+
+duplicate
+
+Im  going  to  bring  this  over  here  I  want
+
+to  flip  this  horizontally  with  this
+
+button  right  here  or  you  can  just  press
+
+the  letter  H  on  the  keyboard
+
+and  Im  going  to  enable  snapping  again
+
+and  Im  just  going  to  snap  these  two
+
+together
+
+and  now  I  want  to  unify  these  two  pieces
+
+together  because  this  is  actually  one
+
+piece  as  you  can  see  in  here  so  Im
+
+going  to  select  this  object  hold  shift
+
+select  this  object  and  go  to  path
+
+Union
+
+and  now  all  we  have  to  do  is  Select  each
+
+object  and  grab  our  dropper  tool  and
+
+change  its  color  so  Im  going  to  select
+
+Im  going  to start  with  this  object
+
+right  here  Im  going  to  grab  the  dropper
+
+tool  which  is  located  over  here  or  Im
+
+just  going  to  use  a  keyboard  shortcut
+
+which  is  the  letter  d  and  then  I  will
+
+just  sample  that  area  right  there  to
+
+make  that  the  same  color  and  then  Ill
+
+go  back  to  my  select  tool  by  pressing
+
+the  letter  s  select  this  object  and  then
+
+back  to  the  dropper  by  pressing  the
+
+letter  d  and  Ill  do  the  same  thing  Ill
+
+just  toggle  back  and  forth  between  those
+
+two  tools  and  fill  in  the  rest  of  my
+
+colors  like  this
+
+and  just  like  that  we  have  created  a
+
+vector  copy  of  the  Gmail  logo  so  thats
+
+just  one  example  of  when  the  measurement
+
+tool  can  come  in  handy  in  inkscape
+
+if  you  found  this  lesson  useful  then
+
+consider  checking  out  my  inkscape  master
+
+class  its  a  collection  of  over  60
+
+videos  where  I  go  over  all  of  the  tools
+
+and  features  in  inkscape  and  I  explain
+
+what  they  are  and  demonstrate  how  they
+
+work  kind  of  like  how  I  did  in  this
+
+video  we  even  have  a  private  Community
+
+where  you  can  ask  questions  and  get  help
+
+from  me  anytime  you  want  and  best  of  all
+
+theres  no  monthly  membership  fees  you
+
+just  pay  17  one  time  and  youre  in  for
+
+Life  Ill  have  some  information  about
+
+that  down  below  if  you  want  to  check
+
+that  out  as  always  thanks  for  watching
+
+oh

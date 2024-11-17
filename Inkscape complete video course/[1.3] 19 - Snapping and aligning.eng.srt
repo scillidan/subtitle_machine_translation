@@ -1,0 +1,600 @@
+1
+00:00:00,060 --> 00:00:02,399
+in this lecture to get the bars and text
+
+2
+00:00:02,399 --> 00:00:03,780
+aligned we will look at different
+
+3
+00:00:03,780 --> 00:00:06,240
+alignment methods I will hide the legs
+
+4
+00:00:06,240 --> 00:00:09,059
+and show the sketch I create a new layer
+
+5
+00:00:09,059 --> 00:00:11,940
+and call it upper body I zoom in on the
+
+6
+00:00:11,940 --> 00:00:15,240
+first bar I select the rectangle tool I
+
+7
+00:00:15,240 --> 00:00:17,220
+drag over the first bar to match the
+
+8
+00:00:17,220 --> 00:00:20,520
+width I press the space bar a technique
+
+9
+00:00:20,520 --> 00:00:22,740
+to align and duplicate at the same time
+
+10
+00:00:22,740 --> 00:00:25,560
+is found in the snapping menu I activate
+
+11
+00:00:25,560 --> 00:00:28,439
+snapping I open the menu and Below
+
+12
+00:00:28,439 --> 00:00:31,380
+alignment I activate same distances at
+
+13
+00:00:31,380 --> 00:00:33,239
+the bottom I click on reset to simple
+
+14
+00:00:33,239 --> 00:00:35,940
+snapping if I want to go back I click on
+
+15
+00:00:35,940 --> 00:00:38,700
+advanced mode we see there are now only
+
+16
+00:00:38,700 --> 00:00:41,160
+three snapping options I can snap to
+
+17
+00:00:41,160 --> 00:00:43,140
+bounding boxes which is the dotted line
+
+18
+00:00:43,140 --> 00:00:45,480
+we see around the rectangle and I can
+
+19
+00:00:45,480 --> 00:00:47,460
+snap to nodes which I will deactivate
+
+20
+00:00:47,460 --> 00:00:50,219
+together with bounding boxes what I want
+
+21
+00:00:50,219 --> 00:00:53,100
+is to align so I will activate it if I
+
+22
+00:00:53,100 --> 00:00:55,199
+drag the rectangle wherever I press the
+
+23
+00:00:55,199 --> 00:00:57,840
+space bar I will create a copy of it
+
+24
+00:00:57,840 --> 00:01:00,300
+I want this rectangle to stay here so I
+
+25
+00:01:00,300 --> 00:01:03,059
+press Ctrl D when I drag to the right I
+
+26
+00:01:03,059 --> 00:01:04,500
+see the duplicate will align to the
+
+27
+00:01:04,500 --> 00:01:07,020
+original so I don't have to press Ctrl
+
+28
+00:01:07,020 --> 00:01:09,060
+when I reach the second graph I press
+
+29
+00:01:09,060 --> 00:01:11,820
+the space bar I drag further to the
+
+30
+00:01:11,820 --> 00:01:14,520
+third graph inkscape is now recognizing
+
+31
+00:01:14,520 --> 00:01:16,920
+a pattern we see an alignment line in
+
+32
+00:01:16,920 --> 00:01:18,600
+the middle and a distribute line at the
+
+33
+00:01:18,600 --> 00:01:19,560
+bottom
+
+34
+00:01:19,560 --> 00:01:21,479
+so two things are happening at the same
+
+35
+00:01:21,479 --> 00:01:24,360
+time aligning and distributing all I do
+
+36
+00:01:24,360 --> 00:01:27,000
+is drag and press the space bar when the
+
+37
+00:01:27,000 --> 00:01:29,400
+distribute sign appears the rectangles
+
+38
+00:01:29,400 --> 00:01:32,040
+have now equal distances between them
+
+39
+00:01:32,040 --> 00:01:34,080
+but because I am using the drawing my
+
+40
+00:01:34,080 --> 00:01:35,880
+bars do not align perfectly with the
+
+41
+00:01:35,880 --> 00:01:38,520
+sketch so I will reposition the last bar
+
+42
+00:01:38,520 --> 00:01:41,939
+and press Ctrl a to select all bars I
+
+43
+00:01:41,939 --> 00:01:44,340
+open the Align and distribute panel to
+
+44
+00:01:44,340 --> 00:01:46,259
+redistribute the bars I click below
+
+45
+00:01:46,259 --> 00:01:49,200
+distribute uneven horizontal gaps now
+
+46
+00:01:49,200 --> 00:01:50,880
+the bars are perfectly aligned to the
+
+47
+00:01:50,880 --> 00:01:53,520
+sketch I will drag them out I don't need
+
+48
+00:01:53,520 --> 00:01:55,740
+the rectangles to be a live shape so I
+
+49
+00:01:55,740 --> 00:01:56,939
+will remove their own shape control
+
+50
+00:01:56,939 --> 00:02:00,780
+widgets I will position the bars
+
+51
+00:02:00,780 --> 00:02:04,140
+I press Ctrl a to select all bars I
+
+52
+00:02:04,140 --> 00:02:07,020
+right click and choose set clip group
+
+53
+00:02:07,020 --> 00:02:09,360
+I select blue and bicycle kick and
+
+54
+00:02:09,360 --> 00:02:10,619
+duplicate them
+
+55
+00:02:10,619 --> 00:02:12,480
+I drag the duplicates on the clip group
+
+56
+00:02:12,480 --> 00:02:15,000
+folder I will hide the sketch and show
+
+57
+00:02:15,000 --> 00:02:16,200
+the legs
+
+58
+00:02:16,200 --> 00:02:19,020
+I also need darker bars at the bottom so
+
+59
+00:02:19,020 --> 00:02:21,420
+I duplicate the clip folder I call the
+
+60
+00:02:21,420 --> 00:02:24,300
+group dark bars I drag the group on the
+
+61
+00:02:24,300 --> 00:02:26,879
+layer so they get on top I select the
+
+62
+00:02:26,879 --> 00:02:29,099
+rectangles and make them black
+
+63
+00:02:29,099 --> 00:02:31,680
+I select the group folder I set the
+
+64
+00:02:31,680 --> 00:02:34,560
+opacity of the folder to 60 percent I
+
+65
+00:02:34,560 --> 00:02:36,900
+show sketch to be able to select the
+
+66
+00:02:36,900 --> 00:02:39,000
+dark bars in the canvas I double click
+
+67
+00:02:39,000 --> 00:02:41,580
+on a bar now I'm inside the dark bars
+
+68
+00:02:41,580 --> 00:02:44,280
+group I click on a bar and drag it down
+
+69
+00:02:44,280 --> 00:02:47,819
+I will also do this for the other bars
+
+70
+00:02:47,819 --> 00:02:49,800
+I hide the sketch again
+
+71
+00:02:49,800 --> 00:02:52,560
+now I will place the text I create a new
+
+72
+00:02:52,560 --> 00:02:55,019
+layer and call it text I click on the
+
+73
+00:02:55,019 --> 00:02:57,840
+text tool when I click I see a blinking
+
+74
+00:02:57,840 --> 00:03:00,540
+cursor for my font I choose pathway
+
+75
+00:03:00,540 --> 00:03:03,660
+Gothic 1 which is a free Google font I
+
+76
+00:03:03,660 --> 00:03:05,220
+will set text alignment to Center
+
+77
+00:03:05,220 --> 00:03:09,420
+aligned I type 81 I click on white to
+
+78
+00:03:09,420 --> 00:03:11,760
+make the text white I can size the text
+
+79
+00:03:11,760 --> 00:03:14,760
+by using the menu I can also size text
+
+80
+00:03:14,760 --> 00:03:17,459
+with the select tool I hold shift plus
+
+81
+00:03:17,459 --> 00:03:20,220
+control and drag I want the percent sign
+
+82
+00:03:20,220 --> 00:03:22,980
+to be smaller so I select it and make it
+
+83
+00:03:22,980 --> 00:03:25,800
+18 point I click on spacing and inside
+
+84
+00:03:25,800 --> 00:03:28,200
+vertical kerning with my up and down
+
+85
+00:03:28,200 --> 00:03:30,900
+arrows I can position the glyph you can
+
+86
+00:03:30,900 --> 00:03:33,599
+also do this on the canvas if I hold alt
+
+87
+00:03:33,599 --> 00:03:35,280
+I can move the glyph up and down in
+
+88
+00:03:35,280 --> 00:03:38,040
+small steps and I can turn the glyph so
+
+89
+00:03:38,040 --> 00:03:40,140
+move it closer a further away from the
+
+90
+00:03:40,140 --> 00:03:42,299
+number by holding alt and pressing the
+
+91
+00:03:42,299 --> 00:03:44,459
+left and right keys I want to repeat
+
+92
+00:03:44,459 --> 00:03:47,159
+this text on the other bars and I want
+
+93
+00:03:47,159 --> 00:03:48,959
+them to have the same distance to the
+
+94
+00:03:48,959 --> 00:03:51,780
+top of a bar to do this I will use a
+
+95
+00:03:51,780 --> 00:03:54,000
+placeholder I click on the rectangle
+
+96
+00:03:54,000 --> 00:03:57,480
+tool and enable snapping I activate node
+
+97
+00:03:57,480 --> 00:04:00,239
+snapping I drag a rectangle and make it
+
+98
+00:04:00,239 --> 00:04:00,959
+Orange
+
+99
+00:04:00,959 --> 00:04:03,900
+I place the rectangle below the text I
+
+100
+00:04:03,900 --> 00:04:05,640
+shift-click on the text
+
+101
+00:04:05,640 --> 00:04:07,620
+in align and distribute I choose
+
+102
+00:04:07,620 --> 00:04:09,720
+relative to biggest object and click on
+
+103
+00:04:09,720 --> 00:04:12,420
+Center on vertical axis now I will group
+
+104
+00:04:12,420 --> 00:04:14,939
+them then I duplicate the group
+
+105
+00:04:14,939 --> 00:04:17,220
+for snapping I only want the corners to
+
+106
+00:04:17,220 --> 00:04:19,918
+snap so I click on advanced mode and
+
+107
+00:04:19,918 --> 00:04:22,260
+deselect bounding boxes and other points
+
+108
+00:04:22,260 --> 00:04:24,780
+I only want cusp nodes which means
+
+109
+00:04:24,780 --> 00:04:28,080
+Corner nodes to snap now I drag and will
+
+110
+00:04:28,080 --> 00:04:30,240
+not let go of the mouse until all copies
+
+111
+00:04:30,240 --> 00:04:32,639
+are placed I drag to the top of the next
+
+112
+00:04:32,639 --> 00:04:35,759
+bar where it will snap as said I will
+
+113
+00:04:35,759 --> 00:04:37,740
+not let go of the mouse but press the
+
+114
+00:04:37,740 --> 00:04:39,960
+space bar to place a copy
+
+115
+00:04:39,960 --> 00:04:43,860
+I repeat this to create the other copies
+
+116
+00:04:43,860 --> 00:04:46,080
+now I click on the text tool and given
+
+117
+00:04:46,080 --> 00:04:48,180
+the percentages
+
+118
+00:04:48,180 --> 00:04:51,240
+to enter a group I double click on it
+
+119
+00:04:51,240 --> 00:04:52,680
+then I right click on the orange
+
+120
+00:04:52,680 --> 00:04:55,259
+rectangle and choose select same fill
+
+121
+00:04:55,259 --> 00:04:56,220
+color
+
+122
+00:04:56,220 --> 00:04:58,080
+I press delete to delete all
+
+123
+00:04:58,080 --> 00:04:59,340
+placeholders
+
+124
+00:04:59,340 --> 00:05:00,900
+I don't need the text to be in a group
+
+125
+00:05:00,900 --> 00:05:03,960
+anymore so I select them all right click
+
+126
+00:05:03,960 --> 00:05:06,180
+and choose ungroup
+
+127
+00:05:06,180 --> 00:05:09,240
+finally let's place the team names I
+
+128
+00:05:09,240 --> 00:05:12,180
+create a new layer called teams I select
+
+129
+00:05:12,180 --> 00:05:14,940
+the text tool and click on the canvas I
+
+130
+00:05:14,940 --> 00:05:17,400
+set text alignment to left align
+
+131
+00:05:17,400 --> 00:05:20,460
+I press caps lock I type Manchester
+
+132
+00:05:20,460 --> 00:05:23,820
+press enter and type United I select the
+
+133
+00:05:23,820 --> 00:05:25,020
+text United
+
+134
+00:05:25,020 --> 00:05:27,419
+I hold the ALT key and with my arrow up
+
+135
+00:05:27,419 --> 00:05:30,240
+key adjust the spacing I click on the
+
+136
+00:05:30,240 --> 00:05:32,759
+select tool and make the text larger
+
+137
+00:05:32,759 --> 00:05:34,919
+I click on the text again so I can
+
+138
+00:05:34,919 --> 00:05:37,979
+rotate it I duplicate the text then I
+
+139
+00:05:37,979 --> 00:05:40,440
+drag to the right and with my spacebar I
+
+140
+00:05:40,440 --> 00:05:43,039
+make copies
+
+141
+00:05:45,479 --> 00:05:48,120
+I double click on a copy press Ctrl a
+
+142
+00:05:48,120 --> 00:05:49,800
+and change the name
+
+143
+00:05:49,800 --> 00:05:51,360
+I also change the name of the other
+
+144
+00:05:51,360 --> 00:05:53,840
+copies
+
+145
+00:05:56,940 --> 00:05:59,580
+I select the team names I go to align
+
+146
+00:05:59,580 --> 00:06:02,039
+and distribute behind relative 2 I
+
+147
+00:06:02,039 --> 00:06:04,860
+select selection area to align the text
+
+148
+00:06:04,860 --> 00:06:07,800
+I click on align top edges
+
+149
+00:06:07,800 --> 00:06:10,320
+and at the top I type chance of winning
+
+150
+00:06:10,320 --> 00:06:13,220
+or qualifying
+

@@ -1,0 +1,878 @@
+
+in  this  lesson  well  be  going  over  how
+
+to  use  mesh  gradients  which  is  in  my
+
+opinion  the  most  advanced  feature  in
+
+inkscape  so  if  you  can  get  the  hang  of
+
+how  to  use  this  then  you  should  be
+
+pretty  Limitless  with  the  rest  of  the
+
+software  before  we  get  started  though  I
+
+would  recommend  that  you  save  your
+
+document  and  get  in  the  habit  of
+
+pressing  Ctrl  s  every  few  steps  because
+
+this  tool  can  be  a  little  glitchy  at
+
+times  and  you  may  experience  some
+
+crashing  so  it  would  be  good  to  save
+
+your  work  so  that  you  dont  lose  your
+
+progress
+
+so  to  get  started  Im  going  to  grab  the
+
+rectangle  tool  and  Im  going  to  click
+
+and  drag  on  my  canvas  to  draw  a
+
+rectangle  like  that
+
+and  Im  going  to  take  this  rounded
+
+handle  over  here  and  bring  this  all  the
+
+way  down  so  that  we  have  rounded  ends  so
+
+that  we  have  this  pill  like  shape
+
+and  then  Im  going  to  convert  that  to  a
+
+path  by  going  to  path  and  selecting
+
+object  to  path
+
+so  what  I  will  do  now  is  I  will  come
+
+over  here  to  my  meshes  tool  you  can
+
+locate  it  over  here  in  the  toolbar  Im
+
+going  to  click  on  that
+
+and  the  way  this  tool  works  is  it  allows
+
+you  to  assign  colors  to  an  object  based
+
+on  a  grid  of  coordinate  points  and
+
+theres  two  different  ways  that  you  can
+
+do  this  you  have  regular  mesh  gradients
+
+and  then  you  have  conical  gradients  and
+
+you  can  apply  it  to  the  fill  or  you  can
+
+apply  to  the  stroke  so  Im  going  to  show
+
+you  how  to  use  both  of  these  starting
+
+off  with  the  regular  mesh  gradient
+
+so  if  you  notice  up  here  in  the  tool
+
+settings  youll  see  we  have  two
+
+different  settings  here  we  have  rows  and
+
+columns
+
+Im  going  to  start  off  with  just  two
+
+rows  and  two  columns  so  if  yours  doesnt
+
+say  two  and  two  just  manually  type  in
+
+two  and  two  and  then  take  your  cursor
+
+and  click  and  drag  over  your  object  like
+
+that  and  youll  see  that  we  now  have  a
+
+grid  of  coordinate  points  placed  over
+
+the  object
+
+what  Im  going  to  do  is  Im  going  to
+
+click  and  drag  over  all  of  those
+
+coordinate  points  and  Im  going  to
+
+change  their  color  to  something  like
+
+pink  down  here  you  could  choose  whatever
+
+color  youd  like  just  choose  a  mid-tone
+
+nothing  too  light  or  too  dark
+
+and  what  Im  going  to  do  now  is  Im
+
+going  to  press  escape  to  deselect  those
+
+nodes  and  Im  going  to  click  on  this
+
+node  right  here  Im  just  going  to  bring
+
+this  towards  the  edge  of  the  rectangle
+
+right  there  and  Im  going  to  take  these
+
+handles  and  just  straighten  them  out
+
+like  that  or  rather  round  them  so  that
+
+they  they  go  along  the  Contour  of  this
+
+object  here  and  you  may  have  to  take
+
+these  handles  and  move  them  up  a  little
+
+bit  to  accommodate  that  spacing
+
+and  Im  just  going  to  adjust  these
+
+handles  so  that  we  have  the  edge  of  this
+
+mesh  going  around  the  Contour  of  the
+
+object
+
+a  little  more  smoothly
+
+Ill  take  this  handle  move  this  out  a
+
+little  more
+
+Ill  adjust  this  one  down  a  little  bit
+
+and  again  we  want  a  nice  smooth  Contour
+
+there  it  doesnt  have  to  be  perfect
+
+youre  probably  not  going  to  get  it
+
+perfect  but  close  enough  is  good  enough
+
+there  like  that  and  Ill  do  the  same
+
+thing  with  this  node  here  I  want  these  I
+
+want  my  mesh  to  nicely  hug  the  Contour
+
+of  my  object  so  Im  going  to  adjust  all
+
+of  these  handles  here  until  I  have  that
+
+result
+
+and  then  Im  going  to  come  over  here  to
+
+this  side  and  do  the  same  thing  Ill
+
+move  this  one  out  a  little  bit
+
+Im  going  to  move  this  Im  going  to  move
+
+this  node  in  close  to  the  edge  and  Ill
+
+take  these  handles  and  just  move  them
+
+out  like  that
+
+and  once  youve  done  that  Im  going  to
+
+take  this  node  here  in  the  center  and
+
+Im  going  to  bring  this  down  like  this
+
+and  then  Im  going  to  use  these  handles
+
+over  here  to  make  it  so  that  this  line
+
+kind  of  like  dips  down  kind  of  kind  of
+
+sort  of  like  follows  the  Contour  of  the
+
+shape  here  Ill  do  this  with  both  sides
+
+as  well  I  want  to  bring  this  down  like
+
+that
+
+and  now  what  we  can  do  is  we  can  click
+
+on  each  of  these  coordinate  points  and
+
+change  their  colors  so  if  I  click  on
+
+this  coordinate  point  right  here
+
+I  can  hold  shift  and  click  on  this
+
+coordinate  point  over  here  as  well  I
+
+have  them  both  selected  now  and  then  Im
+
+going  to  hold  shift  and  click  on  this
+
+coordinate  point  over  here  and  now  I
+
+have  all  three  of  those  coordinate
+
+points  selected  and  Im  going  to  change
+
+the  color  here  just  by  darkening  it  a
+
+little  bit  and  you  can  see  we  end  up
+
+with  the  result  like  that
+
+and  then  Ill  do  the  same  thing  down
+
+here  Ill  select  these  coordinate  points
+
+by  holding  shift  and  clicking  on  them
+
+and  Ill  make  these  ones  even  darker
+
+so  you  can  see  the  result  were  getting
+
+here  it  kind  of  looks  like  a  3D  pill  now
+
+if  you  notice  we  have  a  little  bit  of  a
+
+little  bit  of  color  error  here  so  Im
+
+going  to  click  on  this  handle  right  here
+
+and  Im  going  to  bring  this  handle  up
+
+just  to  adjust  this  a  little  bit  just  to
+
+make  this  a  little  more  smooth
+
+there  we  go  you  may  have  to  bring  it  up
+
+a  little  bit
+
+and  I  would  recommend  coming  up  here  to
+
+the  smoothing  and  changing  this  from
+
+Koontz  to  bicubic  and  thatll  make
+
+things  just  look  even  more  smooth
+
+so  now  we  have  dark  we  have  a  darker
+
+gradient  here  on  the  bottom  Im  going  to
+
+put  a  lighter  gradient  up  top  here  so
+
+Im  going  to  double  click  this  line
+
+right  here
+
+and  thats  going  to  allow  us  to  create  a
+
+new  line  there  let  me  actually  undo  that
+
+Im  going  to  press  Ctrl  Z  to  undo  that
+
+Im  going  to  put  that  a  little  lower
+
+there  we  go  and  Ill  bring  this  handle
+
+and  move  this  up
+
+Ill  take  this  handle  and  bring  it  down
+
+and  Im  going  to  click  on  this  node
+
+right  here  and  Im  going  to  move  this
+
+handle  so  that  the  Contour  is  going  up
+
+now  like  that  and  Ill  do  the  same  thing
+
+over  here  on  this  side  Ill  bring  this
+
+up  like  that
+
+and  now  I  will  click  on  this  node  right
+
+here  and  I  will  make  this  white  and  you
+
+can  see  the  effect  there  now  it  kind  of
+
+looks  like  a  3D  pill  now  if  you  want  to
+
+add  even  more  in  here  you  can  you  can
+
+add  more  points  to  this  grid  so  Im
+
+going  to  double  click  the  line  over  here
+
+and  now  we  have  another  point  to  work
+
+with  Im  going  to  click  on  that  one  and
+
+Im  going  to  make  this  one  white
+
+and  then  Ill  do  the  same  thing  over
+
+here  Ill  click  on  this  one  or  double
+
+click  on  this  one  and  make  that  white
+
+there  we  go  and  if  I  zoom  out  and  go  to
+
+my  selection  tool  you  can  see  what  weve
+
+done  there  weve  used  the  mesh  gradient
+
+to  create  this  3D  pill  looking  shape
+
+so  thats  how  the  mesh  gradient  Works
+
+lets  have  a  look  at  the  conical
+
+gradient  now
+
+now  lets  have  a  look  at  how  to  use
+
+conical  gradients  Im  going  to  grab  my
+
+circles  and  Ellipsis  tool  over  here  for
+
+this  demonstration  were  going  to  create
+
+a  CD  so  Im  going  to  click  and  drag  to
+
+create  a  circle  Im  going  to  hold  the
+
+control  key  so  we  have  a  perfectly  round
+
+circle  like  that
+
+and  let  me  grab  my  selection  tool  and
+
+move  this  towards  the  center  of  the  page
+
+and  zoom  on  zoom  in  on  it  a  little  bit
+
+Im  going  to  come  back  over  here  to  my
+
+meshes  tool  and  now  Im  going  to  come  up
+
+here  and  select  this  option  that  says
+
+create  conical  gradient  and  this  works
+
+similarly  to  the  regular  mesh  instead  of
+
+putting  it  on  a  rectangular  grid  though
+
+it  wraps  it  around  a  circle
+
+so  to  show  you  what  I  mean  Im  going  to
+
+change  the  rows  and  columns  this  time  I
+
+want  one  row  and  I  want  20  columns  20  is
+
+the  maximum  value  for  either  of  these
+
+input  boxes  here  so  Im  going  to  go  with
+
+1  and  20  and  now  Im  going  to  click  and
+
+drag  like  that  and  you  can  see  we  now
+
+have  these  nodes  going  in  the  direction
+
+of  a  circle  rather  than  on  a  rectangular
+
+grid
+
+so  let  me  select  all  of  these  and  Im
+
+going  to  change  their  color  to  30  gray
+
+you  can  access  that  by  coming  down  here
+
+to  the  color  bar  and  hovering  your
+
+cursor  over  the  colors  if  you  notice
+
+right  here  it  says  30  gray  Im  going  to
+
+choose  that  one
+
+and  now  all  of  these  are  20  gray  and  now
+
+Im  going  to  press  the  Escape  key  to
+
+deselect  them
+
+and  now  Im  going  to  zoom  in  over  here
+
+Im  looking  at  the  top  Center  Line  right
+
+here  Im  going  to  double  click  this  part
+
+of  the  line  right  here  right  between
+
+these  two  lines  to  add  a  new  line  in
+
+here  just  like  that  and  Ill  come  over
+
+here  and  add  a  new  line  on  this  side  as
+
+well  Ill  double  click  that  line
+
+and  then  Im  going  to  come  down  here  and
+
+do  the  same  thing  to  the  bottom  side  Im
+
+going  to  starting  off  with  the  center
+
+line  as  a  reference  move  over  here  to
+
+the  left  and  put  a  new  line  in  here  and
+
+then  Ill  come  over  to  the  right  side
+
+and  do  the  same  thing
+
+and  now  what  Im  going  to  do  is  Im
+
+going  to  click  on  this  line  right  here
+
+now  when  you  click  on  the  line  youre
+
+going  to  select  its  going  to  select  the
+
+entire  area  right  there  and  Im  going  to
+
+hold  shift  and  Im  going  to  click  on
+
+this  line  to  select  that  as  well  and  now
+
+I  have  both  of  those  lines  selected  and
+
+Im  going  to  change  their  color  to
+
+Yellow
+
+and  Im  going  to  make  this  a  lighter
+
+shade  of  yellow  over  here
+
+and  now  Im  going  to  select  the  lines
+
+next  to  it  so  Im  going  to  come  over
+
+here  and  click  on  this  line  right  here
+
+to  the  left  and  then  Ill  hold  shift  and
+
+click  on  this  line  right  here  to  the
+
+right
+
+and  then  Ill  come  down  here  and  do  the
+
+same  thing  Im  going  to  hold  shift  click
+
+on  this  line  right  here
+
+to  select  it  and  youll  know  its
+
+selected  when  you  see  that  node
+
+highlighted  and  then  Ill  hold  shift  and
+
+click  on  this  line  as  well  now  one  thing
+
+I  want  to  point  out  when  youre  doing
+
+this  is  to  make  sure  that  youre
+
+selecting  your  line  youre  going  to
+
+hover  your  cursor  over  the  line  and  when
+
+its  directly  placed  over  the  line
+
+youll  notice  that  a  plus  symbol
+
+populates  on  the  cursor  letting  you  know
+
+that  its  active  now  make  sure  you  see
+
+that  plus  symbol  because  if  its  not
+
+there  and  you  accidentally  click  youre
+
+going  to deselect  the  object  and  youre
+
+going  to  have  to  start  all  over  again
+
+with  your  selection  so  Im  going  to  hold
+
+shift  and  click  on  that  and  now  I  have
+
+all  four  of  those  lines  selected  Im
+
+going  to  change  their  color  to  Pink
+
+and  Im  going  to  bring  down
+
+the  lightness  of  that  as  well  so  that  we
+
+end  up  with  something  like  that  right
+
+there
+
+and  now  Im  going  to  do  the  same  thing
+
+again  over  here  Im  going  to  select  this
+
+line  out  here
+
+hold  shift  select  this  line  over  here
+
+and  then  come  down  here  and  do  the  same
+
+thing  on  this  side  select  this  line
+
+and  then  this  line
+
+and  these  ones  Im  going  to  make  cyan
+
+and  again  Ill  use  a  lighter  shade  here
+
+and  now  I  want  to  make  it  look  like  the
+
+disc  is  reflecting  a  glare  of  light  so
+
+Im  going  to  select  this  line  right  here
+
+and  then  hold  shift  and  select  this  line
+
+over  here  on  the  other  side  and  I  will
+
+make  those  ones  white  so  that  it  looks
+
+like  its  a  little  glare  of  light
+
+so  you  can  see  what  we  have  here  its
+
+starting  to  look  like  a  CD
+
+so  now  that  we  have  that  in  place  Im
+
+going  to  create  another  object  on  top  of
+
+this  and  apply  a  mesh  gradient  to  that
+
+as  well  so  let  me  grab  my  selection  tool
+
+click  on  the  object  and  then  right  click
+
+it  and  go  to  duplicate  and  Im  just
+
+going  to  change  the  color  of  the  entire
+
+object  Im  just  going  to  make  that  white
+
+just  to  clear  that  mesh  that  was
+
+previously  on  there
+
+and  now  Im  going  to  go  back  to  my
+
+meshes  tool  and  now  Im  going  to  use  the
+
+opposite  values  instead  of  one  row  and
+
+20  columns  Im  going  to  use  20  rows  and
+
+one  column
+
+and  now  Im  going  to  click  and  drag  like
+
+that  and  now  we  have  our  conical
+
+gradient  going  in  circles  as  opposed  to
+
+lines
+
+so  let  me  select  all  of  these  nodes  here
+
+and  remove  their  color  by  clicking  on
+
+the  Red  X  down  here
+
+and  now  what  I  want  to  do  is  let  me
+
+press  escape  to  deselect  them  I  want  to
+
+select  each  node  here
+
+I  want  to  select  every  other  node  going
+
+up  this  vertical  plane  right  here  so  I
+
+selected  this  node  Im  going  to  hold
+
+shift  Im  going  to  skip  this  node  and
+
+Im  going  to  select  the  next  one  and  Im
+
+just  going  to  repeat  that  going  all  the
+
+way  up  Im  going  to  select  every  other
+
+node  while  holding  shift  so  that  I  have
+
+them  all  selected
+
+and  once  youve  done  that  you  can  fill
+
+them  in  with  white  and  now  we  have  that
+
+sort  of  effect  right  there  and  Im  going
+
+to  come  down  here  to  the  bottom  and  do
+
+the  same  thing  Ill  select  this  node  and
+
+again  every  other  node  going  down  this
+
+vertical  plane
+
+and  then  finally  I  want  to  make  these
+
+areas  if  you  notice  the  gradient  sort  of
+
+ends  right  here  this  right  hand  side  is
+
+the  end  point  of  the  gradient  so  I  want
+
+to  make  these  areas  white  as  well  Im
+
+going  to  select  these  lines  right  here
+
+Im  going  to  click  on  the  line  itself  as
+
+opposed  to  just  the  node  and  Im  going
+
+to  hold  shift  and  go  through  here  and
+
+select  each  of  the  lines  as  well  and
+
+again  not  just  the  node  but  the  entire
+
+line  we  want  the  whole  segment  selected
+
+and  then  I  will  make  those  white
+
+just  like  that  and  now  Im  going  to  grab
+
+my  selection  tool  Im  going  to  change
+
+the  blend  mode  of  this  object  Im  going
+
+to come  over  here  to  my  fill  and  stroke
+
+menu  if  you  see  over  here  where  it  says
+
+blend  mode  just  click  on  that  and  change
+
+this  to  color  burn
+
+and  now  we  have  that  effect  right  there
+
+so  Im  going  to  bring  down  the  opacity
+
+of  this  a  little  bit  we  dont  want  that
+
+to  be  too  prominent  Im  going  to  bring
+
+that  down  a  little  bit
+
+and  now  Im  going  to  create  some  more
+
+circles  to  place  on  top  of  here  so  it
+
+looks  more  like  a  CD  so  let  me  grab  my
+
+circles  and  ellipses  tool  let  me  click
+
+and  drag  to  create  another  Circle
+
+Im  holding  control  while  I  do  that  to
+
+lock  the  aspect  ratio  and  let  me  bring
+
+the  opacity  of  this  up  and  let  me  make
+
+this  a  darker  shade  of  gray  something
+
+like  60  percent
+
+and  Ill  place  this  directly  over  the
+
+center  of  the  circle  here  Im  going  to
+
+hold  shift  and  select  both  of  these  and
+
+Im  going  to  Center  them  up  vertically
+
+and  horizontally  make  sure  you  have
+
+relative  two  make  sure  you  have  that  to
+
+last  selected  and  again  if  you  dont
+
+have  your  outline  distribute  menu  active
+
+you  can  open  it  by  going  to  object  and
+
+selecting  a  line  and  distribute  which  is
+
+down  here  at  the  bottom  of  the  list
+
+and  once  thats  centered  let  me  deselect
+
+it  Im  going  to  take  just  this  object
+
+right  here  and  Im  going  to  hold  Ctrl
+
+and  shift  and  just  scale  this  down  like
+
+that
+
+and  Im  going  to  change  the  blend  mode
+
+of  this  one  as  well  let  me  come  back
+
+over  here  to  my  fill  and  stroke  menu  Im
+
+going  to  change  the  Blends  mode  to  I
+
+think  this  one  is  multiply  there  we  go
+
+yeah  now  we  have  multiply  and  let  me
+
+duplicate  this  again  Im  going  to  right
+
+click  this  and  go  to  duplicate  Ill  make
+
+this  one  white
+
+and  Ill  change  the  blend  mode  of  this
+
+back  to  normal
+
+and  Ill  just  scale  this  down  like  that
+
+and  now  it  looks  sort  of  like  a  compact
+
+disc  and  you  can  change  you  can  adjust
+
+the  size  of  these  circles  if  you  want
+
+Im  just  eyeballing  this  here  I  dont
+
+know  if  this  accurately  represents  the
+
+proportions  of  a  CD  but  that  looks  close
+
+enough  and  then  finally  Ill  put  one
+
+more  circle  behind  the  disk  sort  of  like
+
+as  a  bevel  so  Ill  take  this  one  here
+
+Ill  right  click  it  go  to  duplicate
+
+Ill  make  this  one  a  lighter  shade  of
+
+gray  maybe  20  percent
+
+Ill  scale  this  up
+
+send  it  all  the  way  to  the  back  by
+
+clicking  this  button  up  here  that  says
+
+lower  to  the  bottom
+
+and  Ill  just  resize  this  accordingly
+
+Ill  make  that  a  little  smaller
+
+and  Ill  maybe  even  make  that  a  little
+
+darker  just  so  it  stands  out  a  little
+
+more
+
+and  there  you  go  we  have  used  conical
+
+gradients  to  create  that  CD  design
+
+so  that  is  how  you  can  work  with  mesh
+
+gradients  and  conical  gradients  in
+
+inkscape
+
+found  this  lesson  useful  then  consider
+
+checking  out  my  inkscape  master  class
+
+its  a  collection  of  over  60  videos
+
+where  I  go  over  all  of  the  tools  and
+
+features  in  inkscape  and  I  explain  what
+
+they  are  and  demonstrate  how  they  work
+
+kind  of  like  how  I  did  in  this  video  we
+
+even  have  a  private  Community  where  you
+
+can  ask  questions  and  get  help  from  me
+
+anytime  you  want  and  best  of  all  theres
+
+no  monthly  membership  fees  you  just  pay
+
+17  one  time  and  youre  in  for  Life  Ill
+
+have  some  information  about  that  down
+
+below  if  you  want  to  check  that  out  as
+
+always  thanks  for  watching
+
+
+
+thank  you

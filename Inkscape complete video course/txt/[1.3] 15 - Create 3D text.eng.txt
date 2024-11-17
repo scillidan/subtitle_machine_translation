@@ -1,0 +1,51 @@
+In this lecture, we will create the 3D text. I click on the Text tool. I click on the canvas,
+and type: Inkscape. I use Shrikhand, which is a free Google font. I click on the Select tool. When
+I hold Ctrl, I can easily change the size of the text. I would like to curve the text. To do this,
+Path Effects. From the menu I choose: Bend. I click on the Edit on-canvas icon. Now
+I see a green line. Using the tool, I can curve the line. To finalize the effect,
+I go to: Path > Object to Path. I press the spacebar. I go to my Layers. I call the path:
+Inkscape. Now I want to give the text some depth. To do this, I go to: Extensions > Generate
+from Path > Long Shadow. I click on: Live preview. I set Length to: 2. I click on Apply,
+and on Close. We see, below the text I have a group. Like before, I want this group to be a
+single path. I open the group. I click on the top path. I drag the scrollbar to the bottom, and I
+Shift-click on the bottom path. Now that all paths are selected, I go to: Path > Union. I make the
+path 30 percent gray. I call the path: gray. Inkscape, like illustrator, is very good at making
+groups. But I dont need them to be in a group. So I right-click on the top group, and choose:
+Ungroup. And I right-click on the folder where gray is in, and choose: Ungroup. Now I duplicate
+gray. I lower the duplicate one step. I make the path blue. I call the path: light blue. I zoom
+in, hold Ctrl, and drag the blue path below the gray path. In my layers, I place blue below gray.
+I hold Ctrl, and drag the blue path up, until it is roughly a quarter of the size of gray.
+I click on Fill and Stroke. I change the color a bit more to blue.
+Now I duplicate gray. I click on: Lower to Bottom. I go to: Path > Dynamic Offset. I click on the
+Node tool. Above the letter k there is a node. I drag the node up to make the path larger.
+To finalize the effect, I go to: Path > Object to Path. I hide the other paths. I see the new shape
+has some holes in it. To remove them, I go to: Path > Break Apart. Then I go to: Path > Union.
+I will make the path a darker blue. I drag the blue a bit more to cyan. I call the path:
+dark blue. I want the shape to go from dark blue, to light blue. I right-click on dark blue,
+and choose: Set Clip Group. I click on the Pen tool. I click on the canvas, click somewhere else,
+and press Enter. I now have a line. I click on the Node tool. When I drag the line in the middle,
+I can bend the line. I will drag the end nodes outside the dark blue area. At the bottom left,
+I will increase the width of the line to about 75. I click on the Dropper tool, and Shift-click
+on light blue. I will call the path: light blue line. I click on Fill and Stroke, and
+click on Stroke paint. I set Blur to 30. I click on the Node tool, to get the curve right. I drag
+the line up. To move the line, I press Ctrl-A, to select both nodes. Then I drag one of the nodes.
+I want to be able to drag the text independent from the gradient. So I select the text related
+paths, and group them. Now I can move the text up, to get a more 3D look. I also want the gradient to
+be 3D, so I duplicate it. I drag the duplicate on top in the layer, and click on: Lower to Bottom.
+I go to Extensions > Generate from Path > Long Shadow. I set Length to: 7. I click on Apply,
+and on Close. I place the group on the bottom. As before, I will unify the 3D effect into a
+single path. I open the group. I click on the top path. I drag the scrollbar to the bottom, and I
+Shift-click on the bottom path. I go to: Path > Union. And as before, I dont need them to be in
+a group, so I right-click on the top group, and choose: Ungroup. And I right click on the folder
+where the 3D effect is in, and choose: Ungroup. I will call the new path: long shadow. I go
+to Fill and Stroke, and make long shadow a bit darker. To see the long shadow better,
+I will add a gradient. I will use dark blue for that. I make dark blue black. I call the path:
+gradient. I go to Fill and Stroke. I set Blur to: 25 percent. I will use long shadow to clip
+the gradient. I right-click on it, and choose: Set Clip Group. I drag gradient in the Clip Group.
+I lower its opacity to 75 percent. I also would like a shadow below the text. So I duplicate
+Inkscape. I click on black. I set Blur to 10 percent. I call the path: shadow. I
+press Ctrl, and drag it down. I click on: Lower to Bottom. I can also move the shadow with my arrow
+keys. To move in smaller increments, hold the Alt key, while pressing the arrow keys. Finally,
+I will place a shadow below the whole text object. I duplicate dark blue. I drag it on the top of the
+layer. I call the path: shadow below. I make it black. I set Blur to 30. I press Ctrl, and drag
+the shadow down. I click on: Lower to Bottom. And with my arrow keys, I can position the shadow.

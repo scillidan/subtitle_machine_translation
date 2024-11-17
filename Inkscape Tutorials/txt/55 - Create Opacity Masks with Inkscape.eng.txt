@@ -1,0 +1,367 @@
+
+if  youre  familiar  with  how  gradients
+
+work  in  inkscape  then  you  probably
+
+already  know  that  you  can  take  an  object
+
+and  give  it  partial  transparency
+
+by  applying  a  gradient  like  that  now  as
+
+you  can  see  the  left-hand  side  of  the
+
+object  still  has  all  of  its  color
+
+whereas  the  right-hand  side  slowly
+
+transitions  to  transparency  what  if  you
+
+wanted  to  do  the  same  thing  to  a  group
+
+of  objects  though
+
+well  if  you  select  your  group  of  objects
+
+and  you  try  to  apply
+
+a  gradient  the  same  way  you  end  up  with
+
+something  like  this  right  here  its
+
+pretty  safe  to  say  that  this  is  probably
+
+not  the  effect  youre  going  for
+
+so  how  would  you  go  about  applying
+
+partial  transparency  to  this  group  of
+
+objects  like  you  did  to  this  object
+
+right  here
+
+this  is  where  opacity  masks  will  come
+
+into  play  and  thats  what  i  will  be
+
+demonstrating  in  this  tutorial
+
+this  is  nick  with  logosbynick.com  and  in
+
+this  tutorial  ill  be  demonstrating  how
+
+you  can  create  an  opacity  mask
+
+using  inkscape  before  we  get  started
+
+though  if  youd  like  to  learn  everything
+
+that  there  is  to  know  about  inkscape
+
+be  sure  to  check  out  my  inkscape  master
+
+class  its  a  collection  of  over  60
+
+videos  where  i  go  over  every  tool  and
+
+feature  in  inkscape
+
+and  i  explain  what  it  is  and  demonstrate
+
+how  it  works  ill  have  a  link  in  the
+
+description  of  the  video  if  you  want  to
+
+check  that  out
+
+so  to  get  us  started  here  in  inkscape  as
+
+you  can  see  i  have  this  selection  of
+
+objects  here  if  i
+
+click  and  drag  over  all  of  them  this  is
+
+uh  this  entire  design  consists  of  a
+
+bunch  of  individual  objects
+
+im  going  to  go  ahead  and  group  them
+
+together  using  this  button  right  here
+
+that  says  group  selected  objects
+
+and  what  i  want  to  do  is  apply  an
+
+opacity  mask  to  this
+
+so  that  i  can  have  partial  transparency
+
+so  to  do  that  let  me  first  open  up  the
+
+fill  and  stroke  menu  which  is  over  here
+
+you  can  click  on  this  or  you  can  go  to
+
+object
+
+fill  and  stroke  and  that  will  open  up
+
+that  menu  right  here  okay
+
+so  what  im  going  to  do  is  im  going  to
+
+use  the  masking  feature  instead  of
+
+applying  a  linear  gradient  like  i  would
+
+with  an  individual  object
+
+im  going  to  use  the  masking  feature
+
+instead  okay  and  the  way
+
+masking  works  is  that  you  take  an  object
+
+and  you  apply  it  over  the  group  of
+
+objects
+
+and  whatever  whenever  the  object  is
+
+black  it  becomes  transparent  on  the
+
+group  of  objects  but  when  its  white  it
+
+becomes  opaque
+
+its  a  lot  easier  for  me  to  demonstrate
+
+how  this  works  and  it  is  to  explain  it
+
+so  let  me  go  ahead  and  do  that  im  going
+
+to  grab  the  squares  and  rectangles  tool
+
+and  im  going  to  click  and  drag  to
+
+create  a  rectangle  covering  the  entire
+
+subject  here
+
+and  what  im  going  to  do  is  im  going  to
+
+make  this  black  and  im  going  to  give
+
+this  a  linear  gradient  with  this  button
+
+right  here
+
+and  im  going  to  click  on  this  stop  on
+
+the  right  hand  side  and  im  just  going
+
+to  make  that  white  so  we  have  a  gradient
+
+going  from  black
+
+to  white  like  this  now  how  this  works  is
+
+what  when  i  take
+
+this  object  right  here  and  apply  it  as  a
+
+mask
+
+to  the  group  of  objects  beneath  it
+
+whatever  is  black
+
+will  become  transparent  and  whatever  is
+
+white  will  remain  opaque
+
+okay  so  let  me  show  you  what  i  mean  here
+
+let  me  grab  the  select  tool
+
+let  me  click  and  drag  over  both  of  these
+
+objects  my  grouping  of  objects
+
+as  well  as  the  mask  that  i  created  here
+
+with  this  rectangle
+
+i  can  go  to  object  mask
+
+set  and  as  you  can  see  theres  some
+
+partial  transparency  here
+
+over  here  on  the  right  hand  side  was  the
+
+color  white  so  this  is  more  visible
+
+whereas  over  here  is  the  color  black  so
+
+this  becomes  more  transparent
+
+now  if  you  want  to  alter  this  further
+
+you  can  go  to  object  mask
+
+release  and  let  me  click  off  of  that  to
+
+deselect  everything  let  me  click  on  just
+
+this  object  right  here  and  im  going  to
+
+grab  the  gradient  tool  which  is  right
+
+here
+
+and  im  going  to  move  this  white  stop  in
+
+like  this  and  im  going  to  move  this
+
+black  stop  in  like  this  and  im  holding
+
+ctrl  when  i  do  this  to  lock  it  onto  the
+
+horizontal  axis
+
+now  if  i  go  back  to  the  select  tool  and
+
+i  select  both  of  those  objects  and  go  to
+
+object  mask  set  as  you  can  see
+
+the  right  hand  side  of  this  is  more
+
+visible  now  because  there  was  more  white
+
+included  in  that
+
+mask  whereas  the  left  hand  side  is  more
+
+transparent  because  there  was  more
+
+black  included  in  that  mask  and  a  tip
+
+one  helpful  tip  for  how  you  can  go  about
+
+adjusting  this  better  what  im  going  to
+
+do  is  im  going  to  release  this
+
+object  mask  release  what  you  can  do
+
+is  you  can  take  this  object  right  here
+
+and  bring  the  opacity  down  a little  bit
+
+so  you  can  see  exactly  where  the  black
+
+and  white  lines  up
+
+so  if  i  take  that  and  i  go  back  to  the
+
+gradient  tool  i  can  take  this  white  stop
+
+and  put  it
+
+directly  in  the  middle  like  this  and  i
+
+can  take  this  black  stop  and  put  it
+
+almost  next  to  it  like  that  and  now  what
+
+i  can  do  is  go  back  to  the  select  tool
+
+take  the  object  take  the  mask  and  bring
+
+the  opacity  of  it  all  the  way  back  up
+
+if  you  apply  the  mask  with  partial
+
+transparency  youre  going  to  have
+
+partial  opacity  in  your  object  which  is
+
+not  what  youre  looking  for  so
+
+make  sure  to  bring  that  opacity  all  the
+
+way  back  up  click  and  drag  over
+
+both  objects  object  mask
+
+set  and  there  you  go  and  i  think  that
+
+should  do  it  for  this  lesson  that  is  how
+
+you  can  go  about  creating  an
+
+opacity  mask  with  inkscape  and  by  the
+
+way  this  doesnt  just  work  with  linear
+
+gradients  this  can  work
+
+with  a  radial  gradient  as  well  ill  show
+
+you  that  real  quick  im  going  to  choose
+
+a  radial  gradient
+
+and  lets  go  ahead  and  apply  it  again
+
+object  mask
+
+set  and  as  you  can  see  the  center  where
+
+the  black  was  became  transparent  where
+
+the  outside
+
+became  fully  opaque  one  last  thing  i
+
+want  to  show  you  though  before  i  end
+
+this  video
+
+you  can  take  your  object  go  to  the
+
+gradient  tool  and  you  can  click  on
+
+i  believe  its  this  button  right  here
+
+reverse  the  direction  of  the
+
+gradient  lets  say  you  want  the  outside
+
+to  be  black  and  the  inside  to  be  white
+
+just  click  that  button  right  there  and
+
+it  reverses  it  for  you
+
+and  now  you  can  click  and  drag  over  both
+
+of  it  go  to  object
+
+mask  set  and  there  you  go  and  that
+
+should  do  it  for  this  tutorial  that  is
+
+how  you  can  go  about  easily  creating
+
+an  opacity  mask  using  inkscape  if  you
+
+have  any  questions  leave  a  comment  below
+
+and  as  always  thanks  for  watching
+

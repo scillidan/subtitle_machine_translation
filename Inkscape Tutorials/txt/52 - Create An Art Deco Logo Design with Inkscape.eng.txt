@@ -1,0 +1,1243 @@
+
+
+
+this  is  nick  with  logosbynic.com  and  in
+
+this  tutorial  ill  be  demonstrating  how
+
+you  can  create  this  vintage  style  logo
+
+design
+
+using  inkscape  in  order  to  follow  along
+
+with  this  tutorial  though  you  will  need
+
+to  download  and  install  the  font  that  i
+
+used  for  the  word  design  here  its
+
+called  festival  bedai
+
+ill  have  a  link  in  the  description  of
+
+the  video  so  go  ahead  and  download  and
+
+install  that  font  before
+
+launching  inkscape  and  then  well  be
+
+good  to  go  before  we  get  started  though
+
+if  youd  like  to  learn  more  about  how
+
+inkscape  works  be  sure  to  check  out  my
+
+inkscape  master  class
+
+its  a  collection  of  over  60  videos
+
+where  i  go  through  every  single  tool  and
+
+feature  in  inkscape
+
+and  i  explain  what  it  is  and  i
+
+demonstrate  how  it  works  ill  have  some
+
+information  about  that
+
+in  the  description  of  the  video  if  you
+
+want  to  check  that  out
+
+so  well  go  ahead  and  get  started  here
+
+in  inkscape  the  first  thing  i  want  to  do
+
+is  just  set  up  the  document  i  want  to
+
+come  up  here  to  where  it  says  view
+
+make  sure  you  have  custom  selected  lets
+
+go  to  zoom  lets  zoom  in  at  one  to  one
+
+and  then  im  going  to  turn  off  snapping
+
+up  here  in  the  top  left  corner  and  then
+
+im  going  to  open
+
+up  the  um  the  document  properties  menu
+
+to  get  rid  of  this  page  border  and
+
+change  the  unit  of  measurement  here  so
+
+ill  go  to
+
+file  document  properties  and  it  should
+
+open  up  over  here  on  the  side
+
+display  units  im  going  to  change  that
+
+to  pixels  and  im  going  to
+
+turn  off  the  visibility  of  the  page
+
+border  which  is  over  here
+
+so  now  we  can  close  out  of  document
+
+properties  lets  open  up  the  fill  and
+
+stroke  menu  which  is  over  here  the  edit
+
+objects  colors  gradients  and  stroke  menu
+
+if  you  click  on  that
+
+or  a  keyboard  shortcut  you  can  just
+
+press  ctrl  shift  and  f  and  thatll  open
+
+it  as  well
+
+so  the  first  thing  im  going  to  do  is
+
+create  the  text  so  lets  grab  the  text
+
+tool
+
+which  is  if  i  could  find  it it  should  be
+
+over  here  im  used  to  using  these
+
+keyboard  shortcuts  so  i  sometimes  get
+
+lost  over  here  in  the  sidebar  so
+
+let  me  just  type  in  design  as  i  did  for
+
+the  thumbnail  here  if  you  notice  i  have
+
+the  word  design  as  the
+
+primary  text  im  going  to  change  the
+
+font  of  that
+
+im  going  to  go  to  text  text  and  font
+
+and  im  going  to  look  for  the  font  that
+
+i  installed  called  festival  badaya
+
+click  apply  and  there  you  go  there  you
+
+have  the  text  now  we  can  close  out  of
+
+the  text  menu
+
+im  going  to  grab  the  select  tool  and
+
+im  going  to  scale  this  up  and  im  just
+
+going  to  hold  ctrl  while  i  do  that  to
+
+make  sure  it  locks  the  proportions  like
+
+that
+
+and  now  what  i  want  to  do  is  convert
+
+this  to  a  path  and  ungroup  it  so  ill  go
+
+to  path
+
+object  to  path  and  then  go  to  object
+
+and  were  looking  for  ungroup  and  im
+
+going  to  bring  down  the  opacity  of  this
+
+roughly  in  half  now  you  have  to  have  the
+
+fill  and  stroke  menu  open  in  order  to  do
+
+this  so  make  sure  you  have  that  opened
+
+im  going to  bring  down  the  opacity
+
+roughly  in  half  and  now  i  want  to  move
+
+these  letters  a  little  closer  together
+
+so  im  going  to  hold
+
+ctrl  im  going  to  zoom  in  by  holding
+
+ctrl  and  rolling  up  the  mouse  wheel
+
+click  off  of  the  graphic  to  deselect
+
+everything  and  im  going to  take  this
+
+letter  d  and  im  just  going  to  move  this
+
+closer  but  im  going  to  hold  ctrl  while
+
+i  do  that  to  lock  it  onto  the  horizontal
+
+axis  like  that
+
+and  then  im going  to  hold  shift  and
+
+click  on  the  letter  e  so  i  have  both  of
+
+these  letters  selected
+
+hold  ctrl  move  this  closer  now  i
+
+understand  that  the  letter  s
+
+here  is  overlapping  with  the  letters  but
+
+thats  okay  in  fact  thats  kind  of  the
+
+point  of  the  design  im  going  to  be
+
+incorporating  that  into  the  design  here
+
+as  you  can  see  so  im  going  to  hold
+
+shift  click  on  the  letter  s  so  we  have
+
+all  three  of  these  letters  selected
+
+and  to  move  your  view  around  like  this
+
+to  move  the  page  you  can  just  press  down
+
+the  mouse  wheel  and  move  the  mouse
+
+let  me  move  these  over  while  holding
+
+control  to  lock  the  proportions
+
+and  then  just  do  the  same  thing  for  the
+
+rest  of  the  word  just  go  ahead  and  bring
+
+these  letters  in
+
+like  that  and  now  i  will  press  one  on
+
+the  keyboard  to  zoom  back  out  to  100
+
+so  now  what  im  going  to  do  is  im  going
+
+to  create  this  shape  in  the  background
+
+here  this  emblem  so  let  me
+
+go  back  into  inkscape  and  im  going  to
+
+grab  the  squares  and  rectangles  tool
+
+which  is  over  here
+
+and  im  going  to  click  and  drag  like
+
+this  to  create  a  nice  vertical  rectangle
+
+going  through  the  word  like  that  you
+
+want  to  make  sure  you  have  sharp  corners
+
+up  here  if  your  if  your  corners  are
+
+rounded  just  go  ahead  and  click  this
+
+corner  button  up  here  to  make  the
+
+corners  sharp
+
+and  now  i  will  grab  these  circles  and
+
+ellipses  tool  and  i  will  click  and  drag
+
+to  create  any  lips  going  through  that
+
+rectangle  kind  of  like  that
+
+now  if  you  notice  what  im  doing  here
+
+im  going  to  take  the  intersecting  area
+
+between  those  two  shapes
+
+in  order  to  create  this  shape  right  here
+
+so  to  do  that
+
+first  let  me  make  sure  i  have  them
+
+aligned  im  going  to  grab  the  select
+
+tool  im  going  to  hold  shift  and  click
+
+on  the  rectangle  so  i  have  them  both
+
+selected
+
+and  then  ill  open  up  the  align  and
+
+distribute  menu  which  is
+
+over  here  or  you  can  press  ctrl  shift
+
+and  a
+
+and  i  want  to  have  the  relative  set  to
+
+last  selected
+
+and  im  going  to  center  it  up  on  the
+
+vertical  axis  and  then  ill  go  to
+
+path  intersection  and  there  we  go  now  we
+
+have  that
+
+shape  now  dont  worry  about  this  shape
+
+being  too  big  or  too  small  were  going
+
+to  change  that  later  on
+
+so  im  going  to  place  this  right  about
+
+here  in  fact  what  i  want  to  do  is  i  want
+
+to  click  and  drag  over  the  text
+
+right  here  to  select  the  text  items
+
+click  and  drag  over  just  the  text  not
+
+the  whole
+
+shape  just  the  text  itself  and  go  to
+
+object
+
+group  and  then  i  want  to  click  and  drag
+
+over  everything
+
+just  to  make  sure  i  have  this  aligned
+
+vertically  im  going  to  click  on  uh
+
+center  on  vertical  axis  right  there  and
+
+then  click  off  to  deselect
+
+everything  now  what  i  could  do  is  i
+
+could  take  this  im  going  to  hold  ctrl
+
+and  shift  and  either  scale  it  up  or
+
+scale  it  down  whatever  you  want  to  do
+
+whatever
+
+whatever  you  need  to  do  to  make  it  fit
+
+the  design  better  i  like  how  this  looks
+
+right  about  here
+
+im  going  to  grab  the  edit  paths  by
+
+nodes  tool  im  going  to  click  and  drag
+
+over  these  top  nodes  right  here  and  then
+
+just  bring  them  down
+
+by  holding  ctrl  and  just  click  and
+
+dragging  them  down  like  that
+
+there  we  go  now  lets  go  back  to  the
+
+select  tool  lets  make  this  thing  into
+
+an  outline  rather  than  a  solid  fill  so
+
+lets  remove  the  fill  color  by  clicking
+
+on  this  little  red  x  down  here  in  the
+
+bottom  left  corner
+
+and  then  give  this  a  black  stroke  by
+
+holding  shift  and  clicking  on  the  color
+
+black  over  there
+
+now  the  thickness  of  this  will  vary  uh
+
+you  can  change  that  by  coming  over  here
+
+to  the  fill  and  stroke  menu
+
+im  going  to  tap  im  going  to  click  on
+
+stroke  style
+
+and  i  want  this  to  be  about  15  looks
+
+pretty  good
+
+now  whatever  it  is  that  you  make  the
+
+thickness  of  your  stroke  be
+
+make  sure  you  make  a  mental  note  of  what
+
+that  is  because  were  going  to  were
+
+going  to  need  that  number  in  just  a
+
+minute  so
+
+15  is  for  this  first  one  right  here  now
+
+well  go  to
+
+path  stroke  to  path  path
+
+uh  break  apart  and  then  go  to
+
+path  difference
+
+oops  that  was  a  mistake  let  me  undo  that
+
+edit  undo  difference
+
+and  then  click  off  of  it  to  deselect
+
+everything  and  then  take  this  larger
+
+shape  right  here
+
+send  that  to  the  back  by  pressing  this
+
+button  over  here  that  says  lower
+
+selection  to  the  bottom
+
+and  then  hold  shift  and  click  on  the
+
+smaller  shape  right  there  and  go  to
+
+path  difference  so  that  you  end  up  with
+
+this  shape  right  here  that  is  a
+
+path  and  not  a  stroke  now  lets
+
+duplicate  this  lets  press  ctrl  d  on  the
+
+keyboard  to  make  a  duplicate  copy  of
+
+this
+
+go  to  path  uh  break  apart
+
+and  well  go  to  path  union
+
+and  now  what  im  going  to  do  is  im
+
+going to  make  this  red  and  im  going  to
+
+give  this  a  red  outline  by  holding  shift
+
+and  clicking  on  the  color  red  like  that
+
+and  im  going  to  make  this  outline  a
+
+little  bigger  im  going  to make  this
+
+maybe
+
+10.  this  is  going  to  represent  the  space
+
+between  the  two  borders  here  if  you
+
+notice  we  made  this  first  border  already
+
+now  were  going  to  make  this  second
+
+border  this  red  object  is  going  to
+
+represent  the  space  between  those  two
+
+borders
+
+so  let  me  go  back  in  there  and  finish
+
+this  up  let  me  change  this  make  this  a
+
+little  bigger
+
+you  hold  the  plus  icon  to  make  that
+
+bigger  like  that
+
+thats  looking  pretty  good  now  when
+
+youre  doing  this  i  probably  should  have
+
+noted  over  here  where  it  says  join  make
+
+sure  you  have  a  square  join  you  dont
+
+want  a  rounded  join  like  that  you  want
+
+it  to  be  nice  and  square  so  you  get
+
+those  square  corners
+
+maybe  ill  make  that  a  little  bit  bigger
+
+and  ill  do  this  again  ill  go  to
+
+path  stroke  to  path  path
+
+break  apart  if  i  can  find  it  there  it  is
+
+go  to  object  ungroup  and  then  go  to
+
+path  union  now  were  going  to  do  this
+
+one  more  time  im  going  to  add  a  smaller
+
+stroke  over  here  now  this  stroke  right
+
+here  was  15  pixels  im  going  to  make
+
+this  one  a  little  bit  smaller  so  im
+
+going  to  hold  shift  and  click  on  the
+
+color  black  to  give  that  an  outline
+
+lets  click  the  red  x  to  get  rid  of  the
+
+red  fill  and  im  going  to  make  this
+
+something  smaller  than  15.  maybe
+
+something  like  10.
+
+that  right  there  looks  pretty  good  now
+
+again  we  want  to  make  sure  we  have
+
+squared
+
+a  square  join  a  squared  cap  like  that
+
+and  id  say  thats  looking  pretty  good
+
+right  here  now  again  you  want  to  make  a
+
+mental  note  of  this  so  for  this  one  i
+
+used  15  for  this  one  i  used  10.
+
+lets  go  to  path  stroke  to  path  and
+
+there  we  go
+
+now  we  can  click  off  of  that  to  deselect
+
+everything  so  lets  start  working  on
+
+these  little  um
+
+horizontal  bars  going  across  the  design
+
+right  here  well  do  that  next
+
+to  do  that  what  im  going  to  do  is  im
+
+going  to  grab  the  squares  and  rectangles
+
+tool
+
+im  going  to  click  and  drag  to  create  a
+
+rectangle  going  through  the  design  right
+
+here
+
+and  i  want  to  get  rid  of  that  outline
+
+im  going  to  hold  shift  and  click  on  the
+
+red
+
+x  and  im  just  going  to  give  that  a
+
+black  fill  by  clicking  on  black  right
+
+there
+
+and  this  is  where  were  going  to  have  to
+
+remember  this  number  that  we  used  we
+
+want  to  make  the  height  of  this  the  same
+
+thickness  of  this  border  right  here  so
+
+that  its  consistent  all  the  way  through
+
+the  design
+
+so  let  me  grab  the  select  tool  let  me
+
+change  the  height  of  this  well  first  let
+
+me  change  the  pixels
+
+let  me  change  this  to  pixels  change  the
+
+height  of  this  to  15.
+
+there  we  go  move  this  over  here  a  little
+
+closer  to  the  word
+
+maybe  make  this  a  little  wider  you  can
+
+go  ahead  and  adjust  the  size  of  this  as
+
+needed
+
+and  then  i  just  want  to  make  sure  that
+
+this  is  aligned  on  the
+
+vertical  axis  here  so  im  going  to  hold
+
+shift  click  on  the  emblem  behind  it
+
+come  back  up  here  to  the  line  distribute
+
+menu  and  make  sure  you  have  it  centered
+
+on  the  vertical  axis  like  that
+
+and  now  click  off  of  the  deselect
+
+everything  and  what  im  going to  do  now
+
+is  im  going  to  take  this
+
+shape  right  here  and  duplicate  that  by
+
+pressing  ctrl  d
+
+hold  ctrl  move  this  up  like  this  and
+
+again  were  holding  ctrl  and  clicking
+
+and  dragging  to  lock  it  onto  the  axis
+
+like  that  so  it  doesnt  go
+
+off  off  center  and  i  want  to  make  the
+
+height  of  this  the  same  as  the  thickness
+
+of  this  border  so  i  used  10  pixels  for
+
+that  one  so  ill  make  this  one  10  pixels
+
+high
+
+and  there  you  go  now  im  just  going  to
+
+zoom  in  let  me  just  zoom  in  a little  bit
+
+whoops  and  i  just  want  to  make  sure  that
+
+the  spacing  between  these  two  lines
+
+is  about  equal  to  the  spacing  between
+
+those  two  lines  if  you  want  you  can  be
+
+meticulous  with  this  and  measurement
+
+measure  it  if  you  want  im  just  gonna
+
+im  just  gonna  leave  it  right  about
+
+there  i  think  that  looks  close  enough
+
+and  then  i  want  to  take  this  and  just
+
+move  this  in  a little  bit  take  this
+
+arrow  move  that  in
+
+take  that  arrow  move  that  in  like  that
+
+and  then  hold  shift  click  on  the
+
+original  design  behind  it
+
+and  then  just  make  sure  you  have  that
+
+centered  like  that  now  we  can  click  off
+
+of  the  graphic  to  deselect  everything
+
+let  me  press  one  on  the  keyboard  to  zoom
+
+back  out  to  100
+
+and  now  im  going  to  click  and  drag  over
+
+just  those  two  rectangles  right  there
+
+that  we  just
+
+created  and  i  want  to  duplicate  them
+
+ill  press  ctrl  d
+
+hold  ctrl  move  these  ones  down  here
+
+and  i  just  want  to  flip  them  vertically
+
+i  could  you  can  click  on  this  button  up
+
+here  that  says  flip  selected  objects
+
+vertically  what  i  like  to  do  is  just
+
+press  the  letter  v
+
+on  the  keyboard  much  easier  and  once
+
+youve  done  that  you  can  click  off  of
+
+that
+
+okay  so  if  you  notice  what  we  have  here
+
+we  have  the  structure  of  the  design  in
+
+place
+
+now  we  just  have  to  go  through  and  uh
+
+fix  some  of  the  spacing  issues  or  uh
+
+finish  up  what  we  were  doing  here  as  far
+
+as  the  spacing  goes  let  me  click  on  the
+
+word  right  here  and  then  ungroup  those
+
+letters  ill  go  to  object
+
+ungroup  because  we  previously  had  those
+
+letters  grouped  together  let  me  click
+
+off  that  to  deselect  everything
+
+and  now  i  want  to  delete  out  the  area  of
+
+the  emblem  in  the  background  where  these
+
+words  are  so  let  me  zoom  in  a  little  bit
+
+let  me  grab  the  squares  and  rectangles
+
+tool  im  going  to  create  a  rectangle
+
+going  over  the  word  like  that  im  going
+
+to  make  this  red  so  i  can  see  it  against
+
+everything  else
+
+and  if  you  notice  over  here  i  have  the
+
+rectangle  let  me  grab  the  select  tool
+
+i  have  the  rectangle  going  through  this
+
+bar  right  here  at  the  at  the  top  and  i
+
+have  it  going  through  this  bar
+
+oops  i  have  it  going  through  this  bar
+
+down  here  at  the  bottom
+
+and  now  what  i  want  to  do  is  duplicate
+
+that  by  pressing  ctrl  d
+
+hold  shift  click  on  this  shape  go  to
+
+path
+
+difference  then  take  this  red  shape  hold
+
+shift  click  on  this  object  out  here  and
+
+go  to
+
+path  difference
+
+let  me  try  that  again  path  difference
+
+there  we  go
+
+and  now  i  just  want  to  delete  out  the
+
+areas  of  this  bar  up  here  so  let  me  grab
+
+the  rectangles  and  squares  tool  again
+
+create  a  rectangle  going  through  here
+
+like  this
+
+grab  the  select  tool  hold  shift  click  on
+
+that  object  to  go  to  path
+
+difference  well  do  that  one  more  time
+
+come  down  here  to  this  one
+
+so  that  it  looks  the  same  on  the  bottom
+
+as  it  does  on  the  top
+
+hold  shift  click  on  that  go  to  path
+
+i  dont  know  why  thats  not  working  half
+
+the  time  but  there  we  go  now  its
+
+working
+
+okay  so  um  oh  you  know  what  i  made  a
+
+mistake  here  let  me  just  edit  that
+
+i  should  have  moved  that  in  a  little
+
+more  there  we  go
+
+okay  now  to  do  that  if  you  need  to  do
+
+what  i  just  did  there  you  just  grab  the
+
+nodes  tool  click  and  drag  over  those  two
+
+nodes  you  can  just  move  them  in  and  out
+
+like  that
+
+you  can  hold  ctrl  to  lock  it  onto  the
+
+horizontal  axis
+
+there  we  go  all  right  so  now  lets  take
+
+care  of  the  lettering  in  here  if  you
+
+notice  i  have  the  letter  s
+
+overlapping  everything  in  its  way  lets
+
+go  ahead  and  create  that  right  now  so
+
+let  me  grab  the  letter  s  right  here
+
+let  me  create  a  duplicate  of  that  by
+
+pressing  ctrl  d  and  im  going  to  make
+
+this
+
+green  and  im  going  to  give  this  a  green
+
+stroke  so  im  going  to  hold  shift  and
+
+press  on  green
+
+again  and  im  going  to  come  over  here  to
+
+the  fill  and  stroke  menu
+
+stroke  style  and  im  just  going  to
+
+increase  the  size  of  this
+
+until  its  as  big  as  i  need  it  to  be
+
+okay  so  i  want  this  to  be  big  enough
+
+that  its  going  through
+
+that  its  covering  the  tip  of  the  letter
+
+e  here
+
+like  that  but  at  the  same  time  i  dont
+
+want  it  clipping  off  the  top  of  the  e
+
+right  here  but  thats  okay  ill  fix  that
+
+in  just  a  minute
+
+okay  so  that  right  there  is  a  pretty
+
+good  size  im  going  to  go  to  path
+
+stroke  to  path  object
+
+ungroup  and  then  path
+
+union  and  now  what  i  will  do  is  i  will
+
+im  going  to  cut  out  this  little  area
+
+right  here  that  i  dont  want  let  me  grab
+
+the  pen  tool  which  is
+
+um  over  here  the  bezier  pen  you  just
+
+press  b  on  the  keyboard
+
+and  i  want  to  make  sure  i  have  the
+
+proper  mode  selected  which  is  create
+
+regular  bezier  path
+
+and  im  going  to  draw  a  shape  going
+
+through  this  intersecting  area  right
+
+here
+
+go  back  to  the  select  tool  hold  shift
+
+click  on  that  green  letter  and  go  to
+
+path
+
+difference  and  there  we  go  now  what  i
+
+will  do  is  i  will  take  this  green  letter
+
+press  ctrl  d  to  duplicate  it  hold  shift
+
+click  on  the  letter  e  right  here  and  go
+
+to  path
+
+oops  path  difference  do  the  same  thing
+
+over  here
+
+duplicate  it  again  ctrl  d  hold  shift
+
+click  on  the  letter  i
+
+path  difference  and  then  one  more  time
+
+take  this  letter
+
+s  hold  shift  click  on  this  bar  right
+
+here  go  to  path
+
+difference  okay  so  now  lets  clean  up
+
+this  these  little  extra  objects  in  here
+
+that  we  dont  want
+
+with  this  object  right  here  selected  go
+
+to  path  break  apart
+
+and  then  well  have  everything  broken  up
+
+into  individual  pieces  im  going  to  hold
+
+shift  and  click  on  this  piece  to
+
+deselect  it
+
+then  hold  shift  click  on  this  piece  to
+
+deselect  it  and  then  the  only  thing  left
+
+selected  will  be  the  objects  we  dont
+
+want  and  then  you  can  just  press  delete
+
+on  the  keyboard  to  get  rid  of  it
+
+and  for  this  letter  e  right  here  i  want
+
+to  get  rid  of  this  area  im  just  going
+
+to  for  this  im  just  going  to  grab  the
+
+nodes  tool  im  going  to  go  in  there  and
+
+select  those  nodes
+
+and  then  press  delete  on  the  keyboard  to
+
+get  rid  of  that  same  thing  over  here
+
+when  i  get  rid  of  this  little  letter
+
+the  tip  of  this  little  letter  i  press
+
+delete  there  we  go
+
+we  grab  the  select  tool  let  me  press  one
+
+on  the  keyboard  to  zoom  out  to  a  hundred
+
+percent
+
+now  i  can  click  and  drag  over  everything
+
+come  over  here  to  the  fill  and  stroke
+
+tab
+
+the  fill  menu  and  bring  the  opacity  all
+
+the  way  up  to  a  hundred  percent
+
+and  as  you  can  see  the  logo  is  starting
+
+to  come  together  its  looking  pretty
+
+good
+
+what  im  going  to  do  now  is  im  going  to
+
+add  some  text  in  here  im  going  to  add
+
+some  more  text  let  me  grab  the  text  tool
+
+let  me  click  right  there  and  im  just
+
+going  to  write  all  caps
+
+vintage  logo  so  its  vintage  logo
+
+design  let  me  change  the  text  of  that
+
+well  go  to  text
+
+text  and  font  and  for  this  im  going  to
+
+use  montserrat  like  a  bolder
+
+a  bolder  heavier  weight  font  you  can  use
+
+whatever  font  youd  like  for  this  any
+
+kind  of  sans  font  should  work  it  doesnt
+
+have  to  be  montserrat
+
+close  out  of  that  there  we  go  and  move
+
+this  back  in  a little  bit
+
+let  me  grab  the  select  tool  im  just
+
+going  to  put  this  over  here  towards  the
+
+center
+
+maybe  ill  scale  this  down  oops  maybe
+
+ill  scale  this  down  a little  bit
+
+maybe  ill  put  some  spacing  between
+
+those  letters  let  me  go  back  to  the  text
+
+tool
+
+click  on  the  text  and  let  me  just  change
+
+the  spacing  to  like  maybe
+
+10.  see  how  that  looks  thats  too  much
+
+maybe  seven
+
+okay  good  enough  now  well  grab  the
+
+select  tool  hold  shift  click  on  the  logo
+
+there  and  just  center  it  up  on  the
+
+vertical  axis  like  that
+
+and  for  this  for  this  part  you  could  put
+
+whatever  you  want  up  here
+
+uh  for  this  thumbnail  design  i  put  the
+
+inkscape  logo  up  here  just  to  show  you
+
+that  this  was  an  inkscape  tutorial
+
+but  im  just  gonna  for  this  for  this
+
+demonstration  ill  just  put  some  stars
+
+in  here  so  let  me  grab  the  stars  and
+
+polygons  tool
+
+from  the  settings  up  here  you  want  to
+
+make  sure  you  have  star  selected  instead
+
+of  polygon
+
+five  corners  spoke  ratio  of  0.375
+
+and  then  zeros  for  both  rounded  and
+
+randomized  now  you  can  just  go  ahead  and
+
+create  a  star  like  that
+
+hold  ctrl  and  bring  your  cursor  up
+
+straight  up  like  that  to  create
+
+a  star  like  that  now  let  me  get  rid  of
+
+the  the  green  stroke  around  there  by
+
+holding  shift  and  clicking  on  the  red
+
+x  let  me  make  this  black  grab  the  select
+
+tool
+
+hold  ctrl  and  shift  and  scale  that  down
+
+like  that  and  put  that
+
+right  about  there
+
+and  then  i  want  to  make  a  duplicate  of
+
+that  im  going  to  press  ctrl  d
+
+then  hold  ctrl  and  move  this  over  here
+
+like  that  maybe  ill  make  this  one  a
+
+little  smaller
+
+bring  that  down  a  little  bit  ctrl  d  make
+
+a  duplicate  of  that  hold  ctrl  move  that
+
+over  like  that
+
+and  then  select  all  three  of  those  stars
+
+and  make  sure  that  theyre  spaced  apart
+
+evenly  come  over  here  to  the
+
+align  and  distribute  menu  and  were
+
+looking  for  a  distribute  right  here
+
+and  then  over  here  where  it  says  make
+
+horizontal  gaps  between  objects  equal
+
+click  on  that
+
+and  now  you  can  just  group  that  all
+
+together  by  going  to  object
+
+group  and  then  you  could  press  you  could
+
+hold  shift  on  the  keyboard  and  click
+
+on  the  object  right  there  and  just  make
+
+sure  you  have  that  centered
+
+up  like  that  now  im  going  to  go  in  here
+
+and  adjust  the  spacing  a little  bit  so
+
+it  looks  a little  more  consistent  maybe
+
+even  make  this  a  little  bigger
+
+press  one  of  the  keyboard  to  zoom  back
+
+out  to  100  and  as  you  can  see  we  are
+
+done
+
+so  that  is  how  you  can  go  about  creating
+
+that  vintage  style
+
+logo  design  using  inkscape  if  you  have
+
+any  questions  just  leave  a  comment  below
+
+and  as  always  thanks  for  watching
+

@@ -1,0 +1,352 @@
+
+this  is  Nick  with  logos  by  Nick  comm  and
+
+in  this  tutorial  Ill  be  demonstrating
+
+how  you  can  use  a  drawing  tablet  with
+
+Inkscape  and  if  youd  like  to  learn  more
+
+about  how  Inkscape  works  be  sure  to
+
+check  out  my  Inkscape  masterclass  its  a
+
+collection  of  over  50  videos  where  I  go
+
+over  every  single  tool  and  feature  in
+
+Inkscape  and  I  explain  what  it  is  and
+
+demonstrate  how  it  works  Ill  have  a
+
+link  in  the  description  of  the  video  if
+
+you  want  to  check  that  out  so  to  get  us
+
+started  here  as  you  can  see  I  have
+
+Inkscape  opened  up  on  my  screen  and  I
+
+have  my  drawing  tablet  here  on  my  desk
+
+and  the  way  that  a  drawing  tablet  works
+
+is  that  it  basically  allows  you  to
+
+create  freehand  digital  art  the  same  way
+
+you  would  with  the  pencil  and  paper  and
+
+the  tablet  Im  using  here  is  a  Wacom
+
+Intuos  Ill  have  a  link  in  the
+
+description  to  a  short  review  I  wrote
+
+about  it  last  year  in  case  youre
+
+interested  the  way  that  this  works  is
+
+that  you  plug  it  in  through  a  USB  Drive
+
+and  if  youre  using  Windows  10  it  should
+
+be  automatically  recognized  and
+
+functional  without  having  to  install
+
+anything  that  was  the  case  for  me  anyway
+
+if  that  doesnt  work  for  you  then  youll
+
+probably  have  to  install  some  drivers
+
+depending  on  your  operating  system  Ill
+
+have  a  link  in  the  description  for  those
+
+as  well  if  you  need  to  download  them  and
+
+once  you  have  your  tablet  installed  it
+
+basically  functions  the  same  way  a  mouse
+
+would  let  me  show  you  what  I  mean  here
+
+Im  gonna  take  the  tip  of  the  pen  and
+
+hover  it  above  the  surface  of  the  tablet
+
+right  here  and  if  you  notice  as  I  move
+
+it  around  it  moves  the  cursor  on  this
+
+screen  as  well  and  if  you  notice  Im  not
+
+actually  touching  the  surface  of  a
+
+tablet  once  I  do  touch  the  surface  of
+
+the  tablet  it  registers  the  same  way  it
+
+would  is  if  you  were  to  click  and  drag
+
+with  your  mouse  and  by  the  way  this
+
+works  system-wide  you  dont  just  have  to
+
+install  this  with  Inkscape  once  you  have
+
+this  installed  you  can  use  this  with  any
+
+of  your  other  applications  as  well  so
+
+this  this  works  its  kind  of  like
+
+installing  fonts  where  once  its
+
+installed  it  works  it  works  system-wide
+
+and  the  way  that  this  works  here  is  that
+
+the  surface  area  of  the  tablet  is
+
+represented  by  the  perimeter  of  your
+
+screen  so  if  you  bring  your  if  you  bring
+
+the  pen  to  the  top  left  portion  of  the
+
+tablet  the  cursor  is  located  in  the  top
+
+left  portion  of  the  screen  and  then  down
+
+here  to  the  bottom  right  so  on  and  so
+
+forth  you  get  the  idea  now  once  you  have
+
+your  tablet  installed  I  would  recommend
+
+that  you  go  through  some  of  the  settings
+
+and  get  them  set  up  first  so  what  youre
+
+wrong  what  youre  gonna  want  to  do  is
+
+come  over  here  to  where  it  says  search
+
+and  type  in  Wacom  youre  looking  for  a
+
+Wacom  tablet  property
+
+you  click  on  that  and  over  here  you  can
+
+just  take  these  buttons  on  the  tablet
+
+and  program  and  to  do  whatever  you  want
+
+these  are  these  buttons  over  here  I
+
+dont  use  them  personally  but  if  you
+
+want  to  you  can  program  that  to  whatever
+
+you  want  what  Im  paying  attention  to
+
+mostly  is  the  pen  and  mapping  so  first
+
+of  all  with  the  pen  you  can  adjust  the
+
+sensitivity  to  the  pen  or  the  distance
+
+between  the  pen  and  a  tablet  with  these
+
+settings  over  here  over  here  youll
+
+notice  you  can  program  the  buttons  on
+
+the  pen  if  you  look  at  the  pen  closely  I
+
+dont  know  if  you  can  tell  in  the  video
+
+but  theres  two  buttons  on  this  pen  here
+
+theres  one  down  here  and  one  up  here
+
+and  you  can  program  these  buttons  to  do
+
+whatever  you  want  if  you  click  this  drop
+
+down  over  here  you  can  see  all  the
+
+different  things  you  could  program  it  to
+
+do  I  programmed  it  to  do  a  specific
+
+keystroke  which  is  control  Z  which  is
+
+the  undo  function  and  I  find  that  useful
+
+because  sometimes  Ill  be  drawing
+
+brushstrokes  or  something  and  I  dont
+
+like  how  it  came  out
+
+instead  of  having  to  come  over  to  the
+
+keyboard  and  press  control  Z  I  can  just
+
+press  that  button  on  the  pen  and  undo
+
+that  brushstroke  so  thats  really  useful
+
+and  the  other  thing  over  here  disabled
+
+this  other  button  I  havent  found  a  use
+
+for  it  yet  so  like  I  just  left  it
+
+disabled  and  then  finally  over  here
+
+where  it  says  mapping  this  is
+
+particularly  important  if  youre  using
+
+multiple  monitors  like  I  am  as  you  can
+
+see  here  I  have  a  triple  monitor  setup
+
+but  I  have  it  set  up  so  that  this  tablet
+
+only  works  on  this  Center  monitor  right
+
+here  which  is  the  monitor  Im  using  for
+
+this  video
+
+by  default  when  I  first  installed  when  I
+
+first  installed  this  tablet  when  I  first
+
+plugged  it  in  it  had  all  three  monitors
+
+indicated  here  so  that  when  I  used  the
+
+surface  area  of  the  tablet  this  whole
+
+width  of  the  tablet  represented  the
+
+entire  width  of  all  three  of  these
+
+monitors  but  the  height  stayed  the  same
+
+this  created  a  distortion  of  an  aspect
+
+ratio  of  three  to  one  and  it  was  really
+
+difficult  to  draw  I  couldnt  figure  out
+
+why  things  that  I  was  drawing  with  the
+
+tablet  didnt  look  right  on  the  screen
+
+like  for  example  if  you  were  to  draw  a
+
+perfectly  round  circle  on  the  tablet  it
+
+would  be  represented  by  a  really
+
+elongated  ellipse  on  the  screen  here  and
+
+I  couldnt  figure  out  why  that  was  and
+
+then  eventually  I  realized  it  was
+
+because  I  had  I  had  the  surface  area  of
+
+the  tablet  mapped  to  all  three  monitors
+
+so  if  youre  using  multiple  monitors
+
+make  sure  to  come  over  here  to  the  to
+
+the  mapping  tab  and  just  set  it  up  so
+
+youre  just  using  one  monitor  here  then
+
+we  can  close  out  of  that  and  now  were
+
+good  to  get  started  here  in  Inkscape
+
+theres  a  few  different  things  you  can
+
+do  with  the  drawing  tablet  here  in
+
+Inkscape  one  thing  you  can  do  is  you  can
+
+come  over  here  to  the  free  hand  lines
+
+tool  the  tutorial  I  did  the  other  day
+
+about  using  custom  brushes  you  can  use
+
+that  another  thing  you  could  do  is  you
+
+can  create  some  calligraphy  with  the
+
+calligraphy  pen  over  here  for  this  I
+
+like  to  use  the  dip  pen  the  width  I  have
+
+set  to  37  the  thinning  set  to  10  and
+
+then  the  rest  the  defaults  are  just  the
+
+default  as  they  are  and  then  you  just
+
+come  over  to  your  canvas  over  here  to
+
+your  drawing  tablet  and  then  just  click
+
+and  drag  like  that  or  actually  press
+
+down  the  pen  and  move  it  around  to
+
+create  some  calligraphy  like  that  and  as
+
+you  can  see  it  draws  it  on  the  screen  so
+
+thats  one  thing  you  can  do  with  the
+
+drawing  tablet  in  Inkscape  another  thing
+
+this  would  be  useful  for  is  if  youre
+
+creating  those  line  art  style  logos  that
+
+I  did  in  the  previous  tutorial  a  couple
+
+years  ago  it  would  be  really  useful  for
+
+that  sort  of  thing  is  where  you  could
+
+just  draw  them  freehand  without  having
+
+to  do  all  of  that  with  the  with  the
+
+mouse  and  clicking  and  dragging  so  I
+
+think  that  should  do  it  for  this
+
+tutorial  thats  how  you  can  go  about
+
+getting  yourself  set  up  with  a  drawing
+
+tablet  and  Inkscape  if  you  have  any
+
+questions  leave  a  comment  below  and  as
+
+always  thanks  for  watching
+
+you

@@ -1,0 +1,518 @@
+
+in  this  tutorial  Ill  be  using  path
+
+effects  and  inkscape  to  show  you  how  you
+
+can  add  these  decorative  elements  to
+
+your  text  known  as  swashes  and  to  follow
+
+along  with  what  Im  doing  here  youll
+
+need  to  download  and  install  this  font
+
+which  I  will  have  Linked  In  the
+
+description  below  so  lets  get  started
+
+uh  Im  going  to  grab  my  text  tool  and
+
+Im  going  to  write  on  the  canvas  swashes
+
+just  for  this  demonstration  and  Im
+
+going  to  open  up  my  text  editor  so  let
+
+me  grab  my  text  menu  and  Im  going  to
+
+look  for  that  font  that  I  already  have
+
+installed  click  apply
+
+and  Im  going  to  scale  this  up  a  little
+
+bit  Im  going  to  hold  control  while  Im
+
+doing  that  so  that  it  locks  the
+
+proportions  and  preserves  the  aspect
+
+ratio  and  what  I  will  do  now  is  I  will
+
+convert  this  to  a  path  so  Ill  go  I  will
+
+go  to  path  object  to  path  and  Ill  split
+
+the  letters  apart  so  I  will  go  to  path
+
+and  choose  split
+
+path  and  now  it  is  individual  letters  so
+
+what  Im  going  to  do  is  Im  going  to  use
+
+the  pencil  tool  to  manually  draw  lines
+
+coming  off  of  these  letters  here  to  show
+
+you  what  I  mean  uh  I  was  able  to  draw  a
+
+line  that  comes  off  the  top  of  this
+
+letter  H  and  swoops  underneath  like  that
+
+uh  we  can  do  that  with  the  pencil  tool
+
+by  just  drawing  a  regular  plain  line  and
+
+then  were  going  to  use  path  effects  to
+
+make  the  line  look  like  its  consistent
+
+with  the  style  of  the  text  so  Im  going
+
+to  grab  the  P  the  pencil  tool  over  here
+
+you  can  access  it  by  pressing  the  letter
+
+P  on  the  keyboard  Im  going  to  use  the
+
+regular  mode  the  standard  uh  regular
+
+mode  for  this  what  Im  doing  here  and
+
+then  over  here  where  it  says  smoothing
+
+Im  going  to  set  that  to  50  for  now  you
+
+may  have  to  adjust  this  based  on  the
+
+size  of  your  text  on  your  screen  so  Im
+
+going  to  start  with  those  settings  and
+
+Im  just  going  to  click  and  drag  to  draw
+
+a  line  like  this  that  swoops  around  and
+
+goes  under  the  text  like  that  and  what
+
+you  can  do  now  is  you  can  grab  your
+
+nodes  tool  and  adjust  to  these  nodes  so
+
+that  it  looks  a  little  more  smooth  you
+
+may  have  to  delete  nodes  if  you  have  too
+
+many  of  them  if  you  drew  like  a  very
+
+shaky  line  uh  like  the  fewer  nodes  you
+
+have  the  smoother  of  a  line  you  get  so
+
+Im  going  to  try  deleting  some  of  these
+
+nodes  and  seeing  if  that  gives  me  a
+
+better  result  so  Im  just  going  to
+
+adjust  this  a  little  bit
+
+and  the  idea  here  is  that  you  want  this
+
+line  going  consistent  with  the  direction
+
+of  this  part  of  the  letter  H  so  you  want
+
+this  to  be  nice  and  consistent  so  let  me
+
+adjust  this  a  little
+
+more  and  Im  happy  with  how  that  looks
+
+what  Im  going  to  do  now  is  Im  going  to
+
+adjust  this  a  little  bit  so  Ill  grab  my
+
+selection  tool  Im  going  to  move  this  up
+
+a  little  bit  and  I  may  even  rotate  this
+
+around  a  tiny  bit  as  well  just  so  it  has
+
+more  of  a  uh  consistent  Direction  there
+
+and  now  what  Im  going  to  do  is  Im
+
+going  to  grab  the  power  stroke  path
+
+effects  let  me  open  up  my  path  effects
+
+menu  by  going  to  path  and  selecting  path
+
+effects  and  Im  going  to  look  for  Power
+
+Stroke  so  Ill  just  type  in  pwe  and
+
+there  it  is  right  there  power  stroke  and
+
+with  power  stroke  applied  I  can  grab  my
+
+nodes  tool  and  youll  see  these  pink
+
+handles  now  on  the  path  once  you  apply
+
+the  power  stroke  and  you  can  use  these
+
+pink  handles  to  change  the  width  of  the
+
+line  at  that  particular  point  so  Im
+
+going  to  make  this  line  a  little  more
+
+consistent  with  this  part  of  the  letter
+
+H  if  you  notice  here  theres  a  little
+
+bit  of  a  like  a  little  bit  of  a  corner  a
+
+little  bit  of  a  dip  dont  worry  about
+
+that  were  going  to  go  correct  that
+
+later  were  just  looking  to  get  a
+
+general  consistency  here  Im  going  to
+
+take  this  node  and  change  this  as  well
+
+you  may  notice  that  when  youre  doing
+
+this  you  end  up  with  like  this  sort  of
+
+effect  right  here  if  youre  doing  that
+
+then  just  move  the  node  or  move  the
+
+handle  back  to  the  other  side  of  the
+
+line  and  you  should  have  a  better  result
+
+and  Im  going  to  take  this  one  and  bring
+
+this  one  out  like  that  or  I  may  have  to
+
+bring  this  one
+
+up  and  Ill  adjust  this  a  little  bit
+
+and  the  good  thing  about  this  is  that
+
+you  can  change  the  direction  of  your  uh
+
+nodes  still  while  youre  doing  this  so
+
+nothing  is  finalized  just  yet  so  let  me
+
+zoom  out  and  see  how  this  looks  in
+
+comparison  um  you  want  to  make  the  the
+
+uh  weight  of  the  swashes  consistent  with
+
+the  weight  of  the  letters  so  I  noticed
+
+this  is  a  little  too  little  too  heavy  so
+
+Ill  bring  that  down  a  little
+
+bit  there  we  go  I  like  how  that  looks
+
+right
+
+there  and  Im  going  to  grab  my  selection
+
+tool  now  and  Im  just  going  to  to  change
+
+the  position  of  this  a  little  more  I  may
+
+want  to  rotate  this  around  just  a  little
+
+more  just  to  match  the  direction  of  that
+
+letter  and  Ill  bring  this  down  some  a
+
+little
+
+bit  and  that  looks  pretty  good  I  think
+
+Im  going  to  leave  that  just  as  it  is
+
+and  Im  going  to  come  over  here  and  draw
+
+another  one  now  so  let  me  come  over  here
+
+to  my  pencil  tool  and  again  Im  going  to
+
+follow  the  the  direction  of  the  letter
+
+and  just  draw  my  line  you  may  have  to
+
+try  a  couple  of  times  cuz  I  just  messed
+
+that  one  up  right  there  Im  going  to
+
+press  command  Z  or  control  Z  to  undo
+
+that  and  try  again
+
+okay  that  ones  a  little  better  Im
+
+going  to  grab  my  nodes  tool  now  and  Im
+
+going  to  delete  some  of  these  extra
+
+nodes  in  here  like  I  dont  need  this  one
+
+oops  let  me  try  that  again  I  dont  need
+
+that
+
+one  and  Im  going  to  adjust  these  ones  a
+
+little
+
+bit  okay  so  I  think  thats  looking  a  lot
+
+better  now  like  I  mentioned  earlier  the
+
+fewer  nodes  you  have  the  smoother  the
+
+line  is  so  you  want  to  have  as  few  nodes
+
+in  there  as  possible  so  now  that  thats
+
+done  let  me  go  to  back  to  my  uh  path
+
+effects  and  Im  going  to  apply  another
+
+power
+
+stroke  and  now  I  can  grab  my  nodes  tool
+
+and  adjust  the  size  of  the  uh  or  adjust
+
+the  weight  of  the
+
+line  okay  so  let  me  grab  my  selection
+
+tool  now  and  position  this  Ill  put  this
+
+up  a  little
+
+more  there  we  go  that  looks  a  lot  better
+
+and  one  final  touch  Ill  add  here  is
+
+Ill  add  another  swash  to  the  letter  W
+
+so  let  me  repeat  that  same  process  Im
+
+going  to  grab  my  pencil  tool  Ill  just
+
+press  the  letter  P  on  the  keyboard  draw
+
+my
+
+line  and  now  I  will  just  reposition  this
+
+one  as  well  okay  so  lets  address  the  um
+
+these  little  Corners  that  show  up  these
+
+little  inconsistencies  where  the  swashes
+
+connect  with  the  letters  to  fix  that
+
+what  Im  going  to  do  is  Im  going  to
+
+select  the  swash  and  then  Im  going  to
+
+hold  shift  and  select  the  letter  and  Im
+
+just  going  to  unify  them  together  before
+
+I  do  that  though  I  do  have  to  warn  you
+
+that  once  you  do  this  this  effect  will
+
+be  finalized  and  this  will  become  a
+
+regular  path  you  wont  be  able  to  change
+
+the  consistency  or  the  the  weight  of  the
+
+line  or  the  direction  of  it  anymore
+
+without  editing  the  nodes  uh  so  just  to
+
+warn  you  there  make  sure  everything
+
+looks  good  before  you  do  this  next  step
+
+and  then  go  to  path
+
+Union  and  now  what  Im  going  to  do  to
+
+smooth  this  out  Im  just  going  to  grab
+
+my  nodes  tool  and  Ill  just  go  in  there
+
+and  delete  those  nodes  and  when  you
+
+delete  those  nodes  you  can  take  these
+
+handles  and  straighten  them  out  and  you
+
+have  a  nice  a  nice  smooth  line  there  so
+
+let  me  do  the  same  thing  over  here  Ill
+
+delete  these  nodes  and  now  we  have  a
+
+nice  smooth  line  and  Ill  do  the  same
+
+thing  over  here  Im  going  to  grab  my
+
+selection  tool  Im  going  to  select  all
+
+of  these  by  holding  shift  and  clicking
+
+on  them  all  three  objects  go  to  path
+
+Union  and  I  will  do  the  same  thing  over
+
+here  Im  going  to  delete  these  nodes  out
+
+of  here
+
+now  one  final  thing  I  wanted  to  address
+
+with  this  design  is  that  if  you  notice
+
+the  tips  of  these  swashes  they  end  in
+
+sharp  points  and  thats  not  consistent
+
+with  the  rest  of  these  letters  these
+
+letters  for  the  most  part  have  rounded
+
+caps  on  them  so  what  Im  going  to  do  is
+
+Im  going  to  grab  my  Eraser  and  erase
+
+the  ends  of  these  uh  the  the  ends  of
+
+these  points  so  theres  actually  a  few
+
+ways  to  do  this  for  this  Im  just  using
+
+the  Eraser  Im  going  to  grab  the  Eraser
+
+tool  Im  going  to  set  the  width  to  20
+
+okay  let  me  try  that  again  eraser  tool
+
+set  the  width  to
+
+20  and  Im  just  going  to  erase  off  part
+
+of  this  letter  right  here  like
+
+that  and  now  Im  going  to  grab  my  nodes
+
+tool  Im  going  to  select  these  nodes  get
+
+rid  of  them  select  all  these  nodes  in
+
+the  middle  here  not  the  ones  on  the  ends
+
+just  the  ones  in  the  middle  get  rid  of
+
+them  and  then  we  can  take  this  line  or
+
+take  these  nodes  and  pull  this  out  like
+
+that  and  now  we  have  a  rounded  cap  on
+
+there  like  I  said  theres  various  ways
+
+to  do  this  you  can  draw  a  bezier  path
+
+and  do  a  path  difference  and  then
+
+reshape  it  this  way  but  this  is  just  the
+
+way  Im  doing  it  for  this  tutorial  Im
+
+just  using  the  Eraser  Ill  do  the  same
+
+thing  over  here  you  have  to  select  the
+
+object  first  then  grab  the  Eraser  and
+
+then  you  can  draw  right  through  there
+
+and  erase  that  off  so  Ill  just  go
+
+through  and  erase  this
+
+and  there  we  go  that  looks  a  lot  more
+
+consistent  with  the  rest  of  the  letters
+
+so  I  think  that  should  do  it  for  this
+
+tutorial  thats  how  you  can  take  text
+
+and  add  some  decorative  elements  known
+
+as  swashes  to  it  using  path  effects  in
+
+inkscape  if  you  found  this  lesson  useful
+
+then  consider  checking  out  my  inkscape
+
+master  class  its  a  collection  of  over
+
+60  videos  where  I  go  over  all  of  the
+
+tools  and  features  in  inkscape  and  I
+
+explain  what  they  are  and  demonstrate
+
+how  they  work  kind  of  like  how  I  did  in
+
+this  video  we  even  have  a  private
+
+Community  where  you  can  ask  questions
+
+and  get  help  from  me  anytime  you  want
+
+and  best  of  all  theres  no  monthly
+
+membership  fees  you  just  pay  $17  one
+
+time  and  youre  in  for  Life  Ill  have
+
+some  information  about  that  down  below
+
+if  you  want  to  check  that  out  as  always
+
+thanks  for  watching
+
+
+
+oh

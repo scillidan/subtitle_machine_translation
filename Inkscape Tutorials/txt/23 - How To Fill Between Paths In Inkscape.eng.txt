@@ -1,0 +1,352 @@
+
+in  this  tutorial  well  be  going  over  how
+
+you  can  fill  between  paths  using
+
+inkscape  and  to  show  you  what  I  mean  I
+
+have  this  series  of  individual  lines  on
+
+my  screen  here  if  I  grab  my  nodes  tool
+
+you  can  see  these  are  just  independent
+
+paths
+
+and  if  I  select  all  of  these  paths  and
+
+try  to  apply  a  fill  color  you  can  see
+
+that  nothing  happens  there  because  these
+
+shapes  between  these  paths  arent
+
+actually  shapes  this  is  just  empty  space
+
+that  takes  on  the  appearance  of  a  shape
+
+so  if  I  want  to  fill  in  these  spaces  we
+
+have  to  use  a  different  approach
+
+so  theres  actually  several  different
+
+ways  that  you  can  do  this  and  the  method
+
+that  you  should  use  depends  on  which
+
+result  youre  going  for  so  lets  have  a
+
+closer  look  if  I  select  all  of  these
+
+shapes  right  here  I  can  go  to  path  and
+
+choose  fracture
+
+and  what  happens  is  it  creates
+
+independent  shapes  out  of  all  of  those
+
+empty  spaces  there  and  now  you  can  just
+
+select  them  and  go  and  change  their
+
+colors  as  youd  like
+
+another  way  that  you  can  do  this  is  by
+
+using  the  shape  Builder  tool  if  I  select
+
+all  of  these  shapes  and  go  into  the
+
+shape  Builder  tool  I  can  get  the  same
+
+result  as  fracture  the  only  difference
+
+now  is  that  I  can  make  I  can  combine
+
+some  of  these  shapes  together  so  I  can
+
+create  this  cube-like  effect  like  that
+
+now  the  problem  with  using  this  approach
+
+is  that  it  doesnt  just  fill  in  those
+
+empty  spaces  it  also  gets  rid  of  the  uh
+
+the  lines  that  I  had  there  so  if  you
+
+want  to  do  this  in  such  a  way  that  you
+
+can  fill  between  these  paths  and  still
+
+preserve  these  paths  one  way  to  do  that
+
+would  be  to  use  the  paint  bucket  tool  so
+
+Im  going  to  come  over  here  and  grab  the
+
+paint  bucket  tool  in  the  in  the  toolbar
+
+you  can  also  access  it  by  pressing  the
+
+letter  U  on  your  keyboard
+
+and  well  come  up  here  to  the  tool
+
+settings  menu  and  make  sure  you  have  the
+
+fill  by  set  to  visible  colors  make  sure
+
+your  threshold  is  set  to  50.  well  start
+
+out  at  50  and  if  we  need  to  adjust  it
+
+well  increase  or  decrease  it  grow  and
+
+Shrink  make  sure  you  have  that  set  to
+
+zero  and  close  gaps  set  to  none
+
+now  you  can  choose  a  fill  color  that
+
+youd  like  to  use  its  indicated  up  here
+
+in  the  top  right  corner  you  can  see  as
+
+of  right  now  green  is  my  fill  color  if  I
+
+want  to  change  my  fill  color  I  could
+
+just  come  down  here  to  the  color  bar  and
+
+pick  one  of  these  other  colors
+
+and  now  if  I  click  on  one  of  these  empty
+
+spaces  it  fills  in  that  empty  space  with
+
+the  new  Vector  shape
+
+now  if  I  zoom  in  on  this  you  can  see
+
+where  this  effect  is  not  perfect  you  can
+
+see  there  are  a  little  bit  of  gaps  in
+
+there  it  didnt  exactly  fill  it  in
+
+precisely  so  let  me  undo  that  by
+
+pressing  Ctrl  Z  or  command  Z  if  youre
+
+on  Mac  and  Im  going  to  come  up  here  to
+
+the  tool  settings  what  we  can  choose  to
+
+do  is  we  can  choose  to  grow  or  Shrink
+
+The  Fill  using  this  setting  right  here
+
+so  if  I  increase  this  to  0.7
+
+and  try  that  again
+
+you  can  see  it  fills  it  in  better  as  you
+
+can  see  there  but  the  problem  now  is
+
+that  its  overlapping  some  of  the  path
+
+here  so  what  youll  want  to  do  is  grab
+
+your  select  tool  and  then  just  lower
+
+this  beneath  the  pads  like  that  and  now
+
+you  can  grab  the  paint  bucket  tool  again
+
+and  proceed  to  fill  in  the  other  colors
+
+now  if  you  want  to  change  colors  while
+
+youre  filling  them  in  make  sure  to
+
+press  the  Escape  key  so  you  can  deselect
+
+whatever  object  you  currently  have
+
+selected  and  then  you  can  choose  your
+
+next  color  like  that
+
+and  then  press  Escape  when  you  want  to
+
+choose  another  color  again
+
+and  then  you  could  fill  it  like  that
+
+okay  so  now  what  Im  going  to  do  is  Im
+
+going  to  take  all  of  my  shapes  here  Im
+
+going  to  select  them  all
+
+and  Im  going  to  send  them  all  to  the
+
+back  so  that  we  can  see  the  paths  on  top
+
+of  them
+
+and  you  can  see  again  this  approach  is
+
+not  perfect  we  have  these  gaps  in  here
+
+despite  using  despite  changing  those
+
+settings  so  Im  going  to  grab  my  nodes
+
+tool  and  Im  going  to  take  these  nodes
+
+and  move  them  and  adjust  them  so  that
+
+everything  here  is  filled  in  accurately
+
+and  there  we  go  foreign
+
+so  one  thing  to  keep  in  mind  when  using
+
+the  paint  bucket  tool  is  if  I  fill  in
+
+this  shape  right  here  I  have  a  shape  but
+
+if  I  try  doing  that  over  here  it  doesnt
+
+work  and  the  reason  why  is  because  if  I
+
+zoom  in  you  can  see  there  is  a  gap
+
+between  these  paths  here  meaning  this  is
+
+all  open  space  the  paint  bucket  tool
+
+mostly  only  works  on  closed  spaces  there
+
+are  no  gaps  here  so  it  worked  over  here
+
+there  is  a  setting  that  you  can  use  to
+
+change  this  though  so  if  I  come  up  here
+
+to  the  tool  settings  where  it  says  close
+
+gaps  I  can  start  off  with  small  and  see
+
+if  that  works  so  Ill  set  it  to  small
+
+and  click  on  it
+
+okay  so  this  is  this  must  be  larger  than
+
+what  inkscapes  considers  to  be  a  small
+
+Gap  so  Im  going  to  try  medium  now
+
+because  that  didnt  work  so  lets  try
+
+medium
+
+there  we  go
+
+and  this  time  it  works  so  based  on  the
+
+size  of  the  of  the  gaps  between  your
+
+paths  go  ahead  and  cycle  through  those
+
+options  there  to  see  if  one  of  those
+
+will  work  if  youre  encountering  that
+
+problem
+
+so  all  of  the  methods  that  weve  gone
+
+over  at  this  point  have  been  imperfect
+
+in  some  way  lets  go  over  a  workflow
+
+that  is  perfect  what  Im  going  to  do  is
+
+Im  going  to  select  my  paths  here  and
+
+Im  going  to  combine  them  together  by
+
+going  to  path  and  selecting  combine
+
+now  Im  going  to  duplicate  that  Im
+
+going  to  right  click  it  and  go  to
+
+duplicate
+
+and  now  Im  going  to  apply  the  fracture
+
+to  this  duplicated  path  here  so  Ill  go
+
+to  path  and  select  fracture
+
+and  now  I  can  change  the  colors  of  my
+
+shapes  and  I  could  remove  The  Stroke  by
+
+holding  shift  and  clicking  on  this  red  X
+
+over  here  and  now  I  can  send  them  to  the
+
+back  and  this  workflow  right  here  gives
+
+you  the  best  result  the  only  problem
+
+with  this  method  here  is  that  now  you
+
+have  to  go  and  change  all  of  these
+
+colors  individually  if  you  need  the
+
+colors  to  be  different
+
+so  that  is  how  you  can  go  about  filling
+
+between  paths  using  inkscape  if  you
+
+found  this  lesson  useful  then  consider
+
+checking  out  my  inkscape  master  class
+
+its  a  collection  of  over  60  videos
+
+where  I  go  over  all  of  the  tools  and
+
+features  in  inkscape  and  I  explain  what
+
+they  are  and  demonstrate  how  they  work
+
+kind  of  like  how  I  did  in  this  video  we
+
+even  have  a  private  Community  where  you
+
+can  ask  questions  and  get  help  from  me
+
+anytime  you  want  and  best  of  all  theres
+
+no  monthly  membership  fees  you  just  pay
+
+17  one  time  and  youre  in  for  Life  Ill
+
+have  some  information  about  that  down
+
+below  if  you  want  to  check  that  out  as
+
+always  thanks  for  watching  foreign

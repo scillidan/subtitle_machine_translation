@@ -1,0 +1,33 @@
+In Inkscape 1.3 there are new on canvas blur controls. Lets make a logo using directional
+blur. I will create a black background. Then I select the Text tool and click on the canvas.
+I will use Montserrat extra bold, which is a free Google font. I type: Inkscape.
+For the text, I will have no fill, but only a stroke. I want to have a gradient inside
+the stroke. I open Fill and Stroke, and Stroke paint. I click on: Linear gradient.
+I want my gradient to have four colors. I imported a screenshot of the colors I used.
+I will sample them with the Dropper tool. For the left color stop, I hold Shift,
+and click on the green. And for the right color stop, I hold Shift, and click on the yellow.
+Now I will create two extra color stops. I can do this by double-clicking on the gradient.
+And I can drag the color stops, or position them numerically. I make the second color stop blue.
+And the third color stop I make magenta. Now lets give the text the directional blur. For the blur I
+will duplicate the text. I go to Fill and Stroke, and Stroke paint. I set Blur to: 30. I only want
+the blur to be horizontal, so I select the Node tool. I will remove the vertical blur direction,
+and I will reduce the Opacity to: 50%. I call the path: Blur. Now lets give the text some
+accent light. I duplicate the text, and call it: accent. I make the stroke white, and reduce the
+stroke width. I want the white accent to fade out to the bottom. To do this, I will apply a mask. I
+drag a rectangle over the text, which will become the mask. In a mask, white reveals, and black
+conceals. So I will give the rectangle a gradient from white to black. I go to Fill and Stroke,
+and click on Fill. I click on Linear gradient. I position the gradient vertically. The bottom has
+to hide, so I make it black. And the top has to be visible, so I make it white. I cannot actually see
+how the end result will look like. To easily tweak the actual result, I will clone the rectangle.
+In my layers, I select the clone and the accent text. I right-click, and choose:
+Set Mask. I can now adjust the gradient, and see the result it has on the accent text.
+I place the original on the bottom. I will place the masked accent in a group. To make the effect
+stronger, I will make some copies. Finally, I will make a colored background. I will use the
+same colors I used for the text. I duplicate the background. I go to Fill and Stroke, and click on
+Fill. I will reuse the gradient that I made for the text. Behind Gradient I open the menu, and
+click on the gradient. I can give the gradient a name. I will use a mask, to fade out the gradient.
+I drag an ellipse, and make it white. To be able to tweak the result, I will make a clone.
+I blur the original.
+I place the original on the bottom. I select the clone, and Shift-click on the gradient, to select
+them both. I right-click, and choose: Set Mask. I position the gradient. I place the gradient below
+the text. And I lower its Opacity. By adjusting the original mask, I can adjust the result.

@@ -1,0 +1,387 @@
+
+in  previous  tutorials  ive  gone  over  a
+
+method  of  duplicating  objects  around  a
+
+circle  where  an  object  is  rotated  and
+
+stamped  in  multiple  places
+
+this  is  a  really  useful  technique  for
+
+any  inkscape  user  to  know  and  ive  had  a
+
+lot  of  people  ask  me  how  to  do  something
+
+like  this  in  the  past
+
+so  i  feel  like  this  deserves  a  video  of
+
+its  own
+
+
+
+this  is  nick  with  logosbynic.com  and  in
+
+this  tutorial  ill  be  demonstrating  how
+
+you  can  stamp  an
+
+object  around  a  circle  using  inkscape
+
+but  before  we  get  started  if  youd  like
+
+to  learn  more  about  inkscape  be  sure  to
+
+check  out  the  inkscape  master  class  its
+
+a  collection  of  over  60  videos  where  i
+
+go  over
+
+all  of  the  tools  and  features  in
+
+inkscape  and  i  explain  what  they  are  and
+
+demonstrate  how  they  work
+
+ill  have  a  link  in  the  description  of
+
+the  video  if  you  want  to  check  that  out
+
+so  to  get  us  started  here  on  inkscape
+
+the  first  thing  we  want  to  do  is  just
+
+set  up  the  document  so  that  we  are  all
+
+working  with  a  similar
+
+layout  up  here  where  it  says  view  make
+
+sure  you  have  custom  selected
+
+and  then  come  up  here  to  where  it  says
+
+zoom  and  zoom  in  at  one  to  one
+
+and  to  get  us  started  here  as  you  can
+
+see  i  have  this  example  object
+
+just  for  demonstrative  purposes  you
+
+dont  have  to  use  this  object  you  can
+
+use  whatever  object  youd  like  if  you
+
+want  to  follow  along  you  can  use  a
+
+circle  or  a  star  or  a  letter  or  whatever
+
+youd  like
+
+so  if  you  zoom  in  on  this  object  over
+
+here  im  just  going to  hold  ctrl  and
+
+roll  up  the  mouse  wheel  to  zoom  in
+
+i  have  this  object  selected  with  the
+
+select  tool  and  by  default  it  gives  us
+
+the  scaling  handles  over  here  that
+
+allows  us  to  scale  the  image
+
+but  if  you  click  on  the  object  again
+
+youll  get  the  rotation  handles  which
+
+allows  us  to  rotate  the
+
+image  or  the  object  around  a  center
+
+point
+
+and  the  center  point  is  located  right
+
+here  it  may  be  difficult  for  you  to  see
+
+on  my  screen  but  its  this  little
+
+crosshair  right  here
+
+this  represents  the  axis  on  which  the
+
+object  rotates  and  you  can  actually  move
+
+that  around  if  you  take  this  and  move
+
+this  over  here  to  the  side
+
+youll  notice  that  now  the  object
+
+rotates  around
+
+that  that  point  right  there  now  let  me
+
+undo  that  by  pressing  ctrl  z
+
+and  you  can  take  this  center  point  and
+
+move  this  anywhere  you  can  move  this  all
+
+the way  out  here  if  you  want  to
+
+and  now  itll  rotate  around  that  axis
+
+okay  so  and  if  at  any  point  if  you  want
+
+to  put  the  rotation  center
+
+back  in  the  middle  of  the  object  all  you
+
+have  to  do  is  hold  shift  and  click  on  it
+
+and  itll  place  it  right  back  in  the
+
+middle
+
+so  if  you  wanted  to  take  this  object  and
+
+duplicate  it  around  a  circle
+
+we  can  take  advantage  of  this  feature
+
+right  here  so  let  me  zoom  out  a  little
+
+bit  im  going to  hold  ctrl  and  roll  down
+
+the  mouse  wheel
+
+im  going  to  take  this  little  crosshair
+
+and  im  going  to  bring  this  down  here
+
+but  im  going to  hold  ctrl  so  it  locks
+
+it  onto  the  vertical  axis
+
+we  want  to  come  straight  down  like  this
+
+all  the  way  down  here
+
+now  what  you  can  do  is  you  can  take  this
+
+rotation
+
+handle  on  the  corner  here  and  rotate
+
+this  around  in  a  circle
+
+and  to  create  duplicate  copies  of  this
+
+what  you  can  do
+
+is  as  youre  rotating  it  you  can  press
+
+the  space  bar
+
+and  every  time  you  press  the  space  bar
+
+itll  stamp  a  copy  of  it
+
+as  you  see  happening  on  my  screen  now
+
+let  me  go  ahead  and  undo  that
+
+if  you  want  to  take  this  object  and
+
+rotate  it  in  such  a  way  that  you  create
+
+a  symmetrical  shape
+
+with  each  with  each  individual  object
+
+being  equally  spaced  apart
+
+what  you  can  do  is  while  youre  rotating
+
+hold  the  ctrl  key  and  it  will  lock  the
+
+rotation  onto  15  degree  increments
+
+so  you  can  start  here  go  there
+
+there  and  as  you  see  i  am  creating  a
+
+symmetrical  shape
+
+where  this  object  is  being  stamped
+
+around  a  circle
+
+okay  so  lets  say  you  want  to  take  this
+
+shape  and  wrap  it  around
+
+a  circle  that  has  a  predetermined  size
+
+so  let  me  move  this  out  of  the  way
+
+lets  create  a  circle  here  the  circles
+
+and  ellipses  tool  im  going  to  click  and
+
+drag  hold  ctrl  to  create  a  perfectly
+
+round  circle
+
+lets  say  you  have  a  circle  like  this
+
+and  lets  say
+
+its  sized  at  let  me  just  change  the
+
+size  to  200  pixels  lets  say  you  want  to
+
+wrap  this  around  a  200  pixel  circle
+
+what  you  can  do  is  you  can  take  this
+
+object  here  let  me  get  rid  of  these
+
+objects
+
+you  can  take  this  object  here  select  it
+
+hold  shift  click  on  this  object  here  the
+
+circle
+
+and  lets  open  up  the  alignment  menu
+
+over  here  where  it  says  align  and
+
+distribute  objects
+
+and  i  want  to  make  sure  i  have  last
+
+selected  chosen  from  this  drop  down
+
+and  where  i  want  to  align  it  is  right
+
+here  where  it  says
+
+align  bottom  edges  of  objects  to  the  top
+
+edge  of  the  anchor  so  its  going  to
+
+stack  it  right  on  top  of  the  circle
+
+and  then  i  want  to  center  it  up  on  the
+
+vertical  axis  so  its  going  to  put  it  in
+
+the  center
+
+of  this  object  and  its  going  to  put  it
+
+on  the  top  of  this  object  like  this
+
+now  let  me  click  off  of  it  to  deselect
+
+everything  let  me  zoom  in  a  little  bit
+
+so  what  i  want  to  do  is  i  want  to  take
+
+this  object  and  wrap  it  around  this
+
+circle
+
+so  what  i  want  to  do  is  take  the  center
+
+point  or  that  cross  hair  for  this  object
+
+and  place  it  in  the  center
+
+of  the  circle  and  the  way  to  do  that  to
+
+make  sure  that  its  exactly  in  the
+
+center  of  the  circle  what  you  could  do
+
+is  you  could  turn  on  snapping  up  here
+
+where  it says  enable  snapping  turn  that
+
+on  if  its  not  on  already
+
+and  over  here  what  were  looking  for
+
+snap  centers  of  objects  click  on  that
+
+snap  and  items  rotation  center  we  want
+
+to  click  on  that  we  want  to  make  sure
+
+this  is  the  important  one  right  here
+
+snap  and  items  rotation  center
+
+this  will  make  it  so  that  when  you  grab
+
+that  little  crosshair  it  will  snap  it
+
+into  the  center  of  the  object  you  place
+
+it  over
+
+so  let  me  click  on  this  again  to  get
+
+back  to  the  rotation  handles  and  theres
+
+the  center  point
+
+as  it  already  is  let  me  just  shift-click
+
+that  to  put  that  back  in  the  center
+
+as  if  we  were  starting  fresh  now  im
+
+going  to  take  this  crosshair  and  im
+
+going  to  snap  it  into  the  center  of  the
+
+circle
+
+and  if  you  notice  it  automatically  snaps
+
+it  right  into  the  center  there
+
+and  what  you  can  do  now  is  you  can
+
+rotate  this  around  you  can  hold  ctrl
+
+and  go  through  and  stamp  this
+
+and  again  at  each  position  you  just
+
+press  the  spacebar  and  its  stamping  it
+
+around  the  circle  like  that
+
+and  that  should  do  it  for  todays
+
+tutorial  that  is  how  you  can  go  about
+
+duplicating  objects  around  a  circle
+
+using  inkscape
+
+if  you  have  any  questions  let  me  know
+
+and  as  always  thanks  for  watching
+

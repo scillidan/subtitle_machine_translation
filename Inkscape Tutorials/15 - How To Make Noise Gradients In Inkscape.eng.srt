@@ -1,0 +1,876 @@
+1
+00:00:00,160 --> 00:00:01,839
+in this tutorial I'll be demonstrating
+
+2
+00:00:01,839 --> 00:00:04,279
+how you can create noise gradients using
+
+3
+00:00:04,279 --> 00:00:06,120
+inkscape and the example I'll be
+
+4
+00:00:06,120 --> 00:00:07,879
+applying it to is this eyeball that
+
+5
+00:00:07,879 --> 00:00:09,800
+will'll be recreating so let me open up
+
+6
+00:00:09,800 --> 00:00:12,759
+inkscape and we will get started so the
+
+7
+00:00:12,759 --> 00:00:14,240
+first thing I'm going to do is draw a
+
+8
+00:00:14,240 --> 00:00:15,639
+circle so I'm going to grab the circles
+
+9
+00:00:15,639 --> 00:00:17,840
+and ellipses tool and I'm going to hold
+
+10
+00:00:17,840 --> 00:00:19,320
+control and shift on the keyboard and
+
+11
+00:00:19,320 --> 00:00:21,000
+click and drag to create a circle that
+
+12
+00:00:21,000 --> 00:00:22,760
+starts from the
+
+13
+00:00:22,760 --> 00:00:24,720
+inside and then I'm going to make this
+
+14
+00:00:24,720 --> 00:00:27,840
+circle white and then I'll grab my
+
+15
+00:00:27,840 --> 00:00:29,599
+selection tool and I will right click
+
+16
+00:00:29,599 --> 00:00:31,640
+this and go to duplicate and I'll make
+
+17
+00:00:31,640 --> 00:00:34,040
+this duplicate copy black and I want to
+
+18
+00:00:34,040 --> 00:00:36,840
+apply a radial gradient to this black
+
+19
+00:00:36,840 --> 00:00:38,120
+copy so I'm going to open up the fill
+
+20
+00:00:38,120 --> 00:00:40,079
+and stroke menu if you don't have the
+
+21
+00:00:40,079 --> 00:00:41,719
+fill and stroke menu opened on your
+
+22
+00:00:41,719 --> 00:00:43,079
+screen you could just click on this
+
+23
+00:00:43,079 --> 00:00:44,600
+color stripe down here where it says
+
+24
+00:00:44,600 --> 00:00:46,719
+fill and it'll open up that menu and
+
+25
+00:00:46,719 --> 00:00:48,600
+Under The Fill tab I'm going to click on
+
+26
+00:00:48,600 --> 00:00:50,120
+this button right here that says radial
+
+27
+00:00:50,120 --> 00:00:51,719
+gradient when you hover your cursor over
+
+28
+00:00:51,719 --> 00:00:53,640
+it and now I want to reverse this
+
+29
+00:00:53,640 --> 00:00:55,559
+gradient so that black is on the outside
+
+30
+00:00:55,559 --> 00:00:57,719
+and transparency is on the inside so let
+
+31
+00:00:57,719 --> 00:01:00,280
+me grab the gradient tool over here and
+
+32
+00:01:00,280 --> 00:01:01,680
+I'm going to click this icon up here in
+
+33
+00:01:01,680 --> 00:01:03,280
+the tool settings menu that says reverse
+
+34
+00:01:03,280 --> 00:01:04,920
+the direction of the
+
+35
+00:01:04,920 --> 00:01:07,200
+gradient and then I'll zoom in on this
+
+36
+00:01:07,200 --> 00:01:08,920
+I'm going to double click the path the
+
+37
+00:01:08,920 --> 00:01:10,640
+gradient path right here to add a new
+
+38
+00:01:10,640 --> 00:01:12,640
+stop and I'm going to bring this out a
+
+39
+00:01:12,640 --> 00:01:15,240
+little bit and then I'll hold control
+
+40
+00:01:15,240 --> 00:01:17,000
+and shift and grab this gradient handle
+
+41
+00:01:17,000 --> 00:01:18,520
+and just bring this in a little bit like
+
+42
+00:01:18,520 --> 00:01:22,079
+that and now I'll zoom out so this is
+
+43
+00:01:22,079 --> 00:01:23,600
+the gradient let me adjust this just a
+
+44
+00:01:23,600 --> 00:01:25,880
+little more this is the gradient that I
+
+45
+00:01:25,880 --> 00:01:29,040
+will be applying the noise gradient to
+
+46
+00:01:29,040 --> 00:01:31,479
+so let me grab my selection tool let me
+
+47
+00:01:31,479 --> 00:01:33,040
+move this over a little bit I'm going to
+
+48
+00:01:33,040 --> 00:01:34,799
+come up here to where it says filters
+
+49
+00:01:34,799 --> 00:01:37,640
+I'll go to overlays and I will choose
+
+50
+00:01:37,640 --> 00:01:40,600
+I'm looking for noise fill from this
+
+51
+00:01:40,600 --> 00:01:43,079
+list and I'm going to take this
+
+52
+00:01:43,079 --> 00:01:45,399
+menu I'm going to tick the box down here
+
+53
+00:01:45,399 --> 00:01:47,280
+that says live preview and when I do
+
+54
+00:01:47,280 --> 00:01:49,960
+that you can see there is a noise uh
+
+55
+00:01:49,960 --> 00:01:52,719
+filter applied to the gradient there now
+
+56
+00:01:52,719 --> 00:01:54,600
+a couple of things to keep in mind first
+
+57
+00:01:54,600 --> 00:01:55,840
+things first I want to come over here to
+
+58
+00:01:55,840 --> 00:01:57,920
+where it says noise color and I want to
+
+59
+00:01:57,920 --> 00:01:59,640
+take this a channel and make sure I have
+
+60
+00:01:59,640 --> 00:02:02,039
+this all the way down to zero if you
+
+61
+00:02:02,039 --> 00:02:03,799
+don't see an a channel here just come up
+
+62
+00:02:03,799 --> 00:02:06,560
+here to this drop down and choose hsl
+
+63
+00:02:06,560 --> 00:02:08,318
+from this list and now I'm going to come
+
+64
+00:02:08,318 --> 00:02:10,959
+back over here to the options Tab and
+
+65
+00:02:10,959 --> 00:02:12,040
+the setting that we're going to pay
+
+66
+00:02:12,040 --> 00:02:13,560
+attention to the most over here is
+
+67
+00:02:13,560 --> 00:02:15,200
+dilation we're going to have to adjust
+
+68
+00:02:15,200 --> 00:02:17,560
+this dilation slider based on the color
+
+69
+00:02:17,560 --> 00:02:19,400
+that you're working with and how intense
+
+70
+00:02:19,400 --> 00:02:22,599
+you want the uh noise effect to look so
+
+71
+00:02:22,599 --> 00:02:25,280
+if I bring this up you can see it takes
+
+72
+00:02:25,280 --> 00:02:27,280
+away a lot of the effect but if I bring
+
+73
+00:02:27,280 --> 00:02:30,040
+it down you could see more of the effect
+
+74
+00:02:30,040 --> 00:02:31,920
+and I'll have to adjust this according
+
+75
+00:02:31,920 --> 00:02:34,200
+to my own preferences so for this design
+
+76
+00:02:34,200 --> 00:02:36,120
+I'm going to bring this pretty low right
+
+77
+00:02:36,120 --> 00:02:38,840
+about there I think maybe a little
+
+78
+00:02:38,840 --> 00:02:41,400
+more and that looks pretty good and once
+
+79
+00:02:41,400 --> 00:02:42,959
+you have that applied you can click the
+
+80
+00:02:42,959 --> 00:02:45,720
+apply button and now the noise gradient
+
+81
+00:02:45,720 --> 00:02:48,159
+is applied now if you want to intensify
+
+82
+00:02:48,159 --> 00:02:50,040
+this effect you can apply it a second
+
+83
+00:02:50,040 --> 00:02:51,760
+time so let me click on live preview
+
+84
+00:02:51,760 --> 00:02:53,720
+again and you can see we can have we
+
+85
+00:02:53,720 --> 00:02:55,760
+have a second effect that we're applying
+
+86
+00:02:55,760 --> 00:02:58,000
+there I like how mine looks the first
+
+87
+00:02:58,000 --> 00:02:59,760
+time so I'm just going to deselect this
+
+88
+00:02:59,760 --> 00:03:01,720
+I'm going to close out of this menu and
+
+89
+00:03:01,720 --> 00:03:03,440
+one thing to keep in mind if your
+
+90
+00:03:03,440 --> 00:03:05,159
+gradient looks a little blurry if the
+
+91
+00:03:05,159 --> 00:03:07,560
+quality looks kind of low uh it may have
+
+92
+00:03:07,560 --> 00:03:08,959
+something to do with the settings so
+
+93
+00:03:08,959 --> 00:03:10,680
+come up here to inkscape preferences I'm
+
+94
+00:03:10,680 --> 00:03:11,799
+going to go to inkscape and I'm going to
+
+95
+00:03:11,799 --> 00:03:13,799
+click on settings if you're using
+
+96
+00:03:13,799 --> 00:03:15,840
+Windows just press control shift p on
+
+97
+00:03:15,840 --> 00:03:17,640
+the keyboard and in this search bar I'm
+
+98
+00:03:17,640 --> 00:03:19,159
+going to type
+
+99
+00:03:19,159 --> 00:03:21,000
+filter and I'm going to come down here
+
+100
+00:03:21,000 --> 00:03:23,400
+to where it says filter effects quality
+
+101
+00:03:23,400 --> 00:03:26,280
+I have I have best quality set for my
+
+102
+00:03:26,280 --> 00:03:27,599
+settings here and that gives you the
+
+103
+00:03:27,599 --> 00:03:29,920
+sharpest clearest appearance for this
+
+104
+00:03:29,920 --> 00:03:31,560
+filter effect that we're applying so if
+
+105
+00:03:31,560 --> 00:03:33,319
+yours looks a little blurry and soft
+
+106
+00:03:33,319 --> 00:03:35,120
+it's probably because you have average
+
+107
+00:03:35,120 --> 00:03:37,760
+or maybe a lower setting uh so set it to
+
+108
+00:03:37,760 --> 00:03:39,519
+best quality and close out of the
+
+109
+00:03:39,519 --> 00:03:41,879
+menu and now we can grab the gradient
+
+110
+00:03:41,879 --> 00:03:44,040
+tool and we can adjust this like any
+
+111
+00:03:44,040 --> 00:03:45,720
+other gradient you can see we have this
+
+112
+00:03:45,720 --> 00:03:47,280
+noise effect here that's applied to the
+
+113
+00:03:47,280 --> 00:03:49,480
+gradient so I'll just adjust this a
+
+114
+00:03:49,480 --> 00:03:51,519
+little further and now I'm going to
+
+115
+00:03:51,519 --> 00:03:53,400
+create the rest of the eyeball so let me
+
+116
+00:03:53,400 --> 00:03:56,640
+grab my ellipse tool let me deselect
+
+117
+00:03:56,640 --> 00:03:58,599
+everything by pressing the Escape key
+
+118
+00:03:58,599 --> 00:03:59,680
+and I'm going to snap to the center
+
+119
+00:03:59,680 --> 00:04:00,560
+Center here and I'm going to hold
+
+120
+00:04:00,560 --> 00:04:02,560
+control and shift and draw another
+
+121
+00:04:02,560 --> 00:04:05,720
+Circle and I will make this one a
+
+122
+00:04:05,720 --> 00:04:08,239
+lighter shade of blue and then I'll grab
+
+123
+00:04:08,239 --> 00:04:10,799
+my selection tool right click go to
+
+124
+00:04:10,799 --> 00:04:13,040
+duplicate and I'll make this second one
+
+125
+00:04:13,040 --> 00:04:15,040
+a darker shade of blue and just like I
+
+126
+00:04:15,040 --> 00:04:16,639
+did previously this will be the one that
+
+127
+00:04:16,639 --> 00:04:18,720
+I apply the noise gradient too so let me
+
+128
+00:04:18,720 --> 00:04:20,959
+apply a radial gradient I'll go back to
+
+129
+00:04:20,959 --> 00:04:23,160
+my gradient tool I'll reverse the
+
+130
+00:04:23,160 --> 00:04:24,560
+direction of the
+
+131
+00:04:24,560 --> 00:04:26,400
+gradient and I'm going to zoom in on
+
+132
+00:04:26,400 --> 00:04:27,880
+this a little bit I'm going to double
+
+133
+00:04:27,880 --> 00:04:29,759
+click the path and just adjust this a
+
+134
+00:04:29,759 --> 00:04:32,039
+little bit there we
+
+135
+00:04:32,039 --> 00:04:35,039
+go and now I'm going to apply that
+
+136
+00:04:35,039 --> 00:04:36,680
+effect again so let me grab my selection
+
+137
+00:04:36,680 --> 00:04:39,440
+tool I will go to
+
+138
+00:04:39,440 --> 00:04:43,680
+filters overlays and choose noise fill
+
+139
+00:04:43,680 --> 00:04:45,479
+and I'm going to move my menu over click
+
+140
+00:04:45,479 --> 00:04:47,479
+the live preview button and you can see
+
+141
+00:04:47,479 --> 00:04:49,479
+we have the noise effect there and I'm
+
+142
+00:04:49,479 --> 00:04:52,080
+going to adjust my dilation again just
+
+143
+00:04:52,080 --> 00:04:53,800
+so I have the effect that I want now if
+
+144
+00:04:53,800 --> 00:04:55,440
+you notice here previously we used a
+
+145
+00:04:55,440 --> 00:04:57,840
+lower setting to get that effect for
+
+146
+00:04:57,840 --> 00:04:59,680
+this color I'm going to use a higher
+
+147
+00:04:59,680 --> 00:05:02,960
+setting I'll click apply close out of it
+
+148
+00:05:02,960 --> 00:05:04,440
+and now I can go back to my gradient
+
+149
+00:05:04,440 --> 00:05:06,520
+tool and adjust this as needed so I'll
+
+150
+00:05:06,520 --> 00:05:08,680
+make this oops let me undo that I'm
+
+151
+00:05:08,680 --> 00:05:10,240
+going to adjust this a little
+
+152
+00:05:10,240 --> 00:05:12,560
+more that's a little closer to the
+
+153
+00:05:12,560 --> 00:05:14,160
+effect that I'm going
+
+154
+00:05:14,160 --> 00:05:16,440
+for and then I'll press the Escape key
+
+155
+00:05:16,440 --> 00:05:18,600
+to deselect everything and I'll grab my
+
+156
+00:05:18,600 --> 00:05:20,400
+circle tool again and create the black
+
+157
+00:05:20,400 --> 00:05:21,880
+circle for the center of the eye I'll
+
+158
+00:05:21,880 --> 00:05:23,120
+hold control and shift and create
+
+159
+00:05:23,120 --> 00:05:25,039
+another Circle and it looks like this
+
+160
+00:05:25,039 --> 00:05:26,560
+one's already black this is actually a
+
+161
+00:05:26,560 --> 00:05:28,759
+dark gray I'm going to make this black
+
+162
+00:05:28,759 --> 00:05:30,479
+there we go and you can grab your
+
+163
+00:05:30,479 --> 00:05:32,840
+selection tool and you can choose just
+
+164
+00:05:32,840 --> 00:05:34,240
+how much you want the eyeball to be
+
+165
+00:05:34,240 --> 00:05:36,160
+dilated
+
+166
+00:05:36,160 --> 00:05:38,240
+there and then finally I'm going to
+
+167
+00:05:38,240 --> 00:05:40,680
+apply a drop shadow behind everything
+
+168
+00:05:40,680 --> 00:05:42,360
+here so let me grab my circles and
+
+169
+00:05:42,360 --> 00:05:44,639
+ellipses tool again snap to the center
+
+170
+00:05:44,639 --> 00:05:46,880
+click and drag to draw another
+
+171
+00:05:46,880 --> 00:05:50,759
+Circle I'll make this one black grab the
+
+172
+00:05:50,759 --> 00:05:52,080
+selection tool and I'm going to lower
+
+173
+00:05:52,080 --> 00:05:53,440
+this one to the Bottom by clicking this
+
+174
+00:05:53,440 --> 00:05:54,960
+button up here in the tool settings menu
+
+175
+00:05:54,960 --> 00:05:56,440
+that says lower to the
+
+176
+00:05:56,440 --> 00:05:58,880
+bottom and for this one I'm going to
+
+177
+00:05:58,880 --> 00:06:00,800
+apply a and blur so I'll come down here
+
+178
+00:06:00,800 --> 00:06:03,080
+to the blur slider and I'll bring that
+
+179
+00:06:03,080 --> 00:06:06,199
+up like that and now I will apply
+
+180
+00:06:06,199 --> 00:06:08,360
+another noise overlay to this so let me
+
+181
+00:06:08,360 --> 00:06:12,880
+go to filters overlay and I will choose
+
+182
+00:06:12,880 --> 00:06:15,440
+noise fill click live
+
+183
+00:06:15,440 --> 00:06:20,080
+preview and again we can adjust this as
+
+184
+00:06:20,360 --> 00:06:22,880
+needed and I like how that looks so I I
+
+185
+00:06:22,880 --> 00:06:25,080
+will finalize it by clicking apply close
+
+186
+00:06:25,080 --> 00:06:27,240
+out of the menu and there you go we've
+
+187
+00:06:27,240 --> 00:06:28,800
+created that eyeball design that uses
+
+188
+00:06:28,800 --> 00:06:30,599
+noise grading and like I mentioned
+
+189
+00:06:30,599 --> 00:06:32,360
+previously these gradients are editable
+
+190
+00:06:32,360 --> 00:06:34,120
+like any other gradient say for example
+
+191
+00:06:34,120 --> 00:06:36,360
+I wanted to change this from a radial
+
+192
+00:06:36,360 --> 00:06:37,800
+gradient to a linear gradient I could
+
+193
+00:06:37,800 --> 00:06:39,880
+just click on the linear button and now
+
+194
+00:06:39,880 --> 00:06:42,680
+if I grab my gradient tool you can see I
+
+195
+00:06:42,680 --> 00:06:45,240
+have the editable linear gradient like
+
+196
+00:06:45,240 --> 00:06:46,759
+that but I liked how it looked
+
+197
+00:06:46,759 --> 00:06:49,840
+previously so I'll put that
+
+198
+00:06:49,919 --> 00:06:51,919
+back and there we go that should do it
+
+199
+00:06:51,919 --> 00:06:53,240
+for this tutorial that is how you can
+
+200
+00:06:53,240 --> 00:06:55,599
+apply noise gradients to objects using
+
+201
+00:06:55,599 --> 00:06:58,000
+inkscape if you found this lesson useful
+
+202
+00:06:58,000 --> 00:06:59,800
+then consider checking out my in inape
+
+203
+00:06:59,800 --> 00:07:02,039
+master class it's a collection of over
+
+204
+00:07:02,039 --> 00:07:03,800
+60 videos where I go over all of the
+
+205
+00:07:03,800 --> 00:07:05,759
+tools and features in inkscape and I
+
+206
+00:07:05,759 --> 00:07:07,400
+explain what they are and demonstrate
+
+207
+00:07:07,400 --> 00:07:09,199
+how they work kind of like how I did in
+
+208
+00:07:09,199 --> 00:07:11,280
+this video we even have a private
+
+209
+00:07:11,280 --> 00:07:12,919
+Community where you can ask questions
+
+210
+00:07:12,919 --> 00:07:15,360
+and get help from me anytime you want
+
+211
+00:07:15,360 --> 00:07:17,039
+and best of all there's no monthly
+
+212
+00:07:17,039 --> 00:07:19,800
+membership fees you just pay $17 one
+
+213
+00:07:19,800 --> 00:07:21,919
+time and you're in for Life I'll have
+
+214
+00:07:21,919 --> 00:07:23,360
+some information about that down below
+
+215
+00:07:23,360 --> 00:07:25,280
+if you want to check that out as always
+
+216
+00:07:25,280 --> 00:07:27,680
+thanks for
+
+217
+00:07:28,319 --> 00:07:31,319
+watching
+
+218
+00:07:33,070 --> 00:07:37,850
+[Music]
+
+219
+00:07:45,080 --> 00:07:48,080
+h
+

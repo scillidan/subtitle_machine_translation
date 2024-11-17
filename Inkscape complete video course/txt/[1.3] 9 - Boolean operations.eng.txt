@@ -1,0 +1,20 @@
+In the last lecture, I used two Boolean operations: Union and Difference. In this lecture,
+we will look at the different Boolean operations. With Union, you can combine different paths into
+a single path. Here I have two circles, and a rectangle with rounded corners. I select the
+three elements, and go to: Path > Union. Now I have a cloud. The second Boolean is Difference.
+The Apple logo has a bite out of it. The top circle, will be subtracted from the apple below.
+With Intersection, only the parts that overlap remain. With just two circles,
+you can make a leaf. Exclude does the opposite as Intersection. Overlapping parts are excluded from
+the end result, creating holes. Division is the same as Intersection, but will keep the parts,
+coming from the bottom object. So with the X on top of the circle, the parts of the X that
+stick out, are removed. But with a circle on top, the X will determine the cutout,
+and non-overlapping circle parts are removed. Cut Path is for cutting strokes. This means
+the fill will be removed, and the stroke of the apple is cut into pieces. Fracture
+is the same as Intersection and Division, but now all parts remain.
+To create a heart shape, I drag a rectangle and round the corners. I press the spacebar, to go
+to the Select tool. When I click on the rectangle again, I can rotate the object. When I hold Ctrl,
+I can rotate in 15 degree increments. I will rotate 45 degrees. I duplicate the shape. I click
+on the Flip Object Horizontal icon. I hold Ctrl, and move them a bit closer. I select them both,
+and go to: Path > Fracture. By holding down the Alt key, I can select the heart shape. I go to
+Path > Union. Now I can remove the parts I dont need. And finally you have Flatten,
+which is the same as Fracture, but will only make cuts there where lines are visible.

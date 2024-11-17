@@ -1,0 +1,732 @@
+1
+00:00:00,199 --> 00:00:01,839
+in this tutorial I'll be demonstrating
+
+2
+00:00:01,839 --> 00:00:03,719
+how you can take your initials or any
+
+3
+00:00:03,719 --> 00:00:06,319
+series of letters and use them to create
+
+4
+00:00:06,319 --> 00:00:08,599
+a logo where the letters overlap each
+
+5
+00:00:08,599 --> 00:00:10,480
+other and to follow along with what I'm
+
+6
+00:00:10,480 --> 00:00:11,880
+doing here in this tutorial I'm going to
+
+7
+00:00:11,880 --> 00:00:13,920
+recommend that you download and install
+
+8
+00:00:13,920 --> 00:00:15,759
+this font that I used for this logo
+
+9
+00:00:15,759 --> 00:00:17,800
+design because this font works really
+
+10
+00:00:17,800 --> 00:00:19,720
+well for this sort of thing so check the
+
+11
+00:00:19,720 --> 00:00:21,920
+description of the video for a download
+
+12
+00:00:21,920 --> 00:00:24,039
+link to that font and install it before
+
+13
+00:00:24,039 --> 00:00:25,640
+you launch inkscape and then you'll be
+
+14
+00:00:25,640 --> 00:00:28,320
+good to go so let's get rid of this and
+
+15
+00:00:28,320 --> 00:00:29,800
+we'll get started here I'm going to grab
+
+16
+00:00:29,800 --> 00:00:32,159
+my my text tool and I'm going to click
+
+17
+00:00:32,159 --> 00:00:33,640
+on the canvas and I'm going to use the
+
+18
+00:00:33,640 --> 00:00:35,840
+letters c and b for this demonstration I
+
+19
+00:00:35,840 --> 00:00:37,320
+found that these letters work really
+
+20
+00:00:37,320 --> 00:00:38,800
+well together but this works with pretty
+
+21
+00:00:38,800 --> 00:00:40,559
+much any letter as long as you're using
+
+22
+00:00:40,559 --> 00:00:42,200
+this font and I'm going to select the
+
+23
+00:00:42,200 --> 00:00:44,879
+letters and I'll open up my text editor
+
+24
+00:00:44,879 --> 00:00:46,920
+by going to text and going to text and
+
+25
+00:00:46,920 --> 00:00:49,399
+font and the font I'm looking for is
+
+26
+00:00:49,399 --> 00:00:51,120
+called winner so I'm going to type that
+
+27
+00:00:51,120 --> 00:00:54,800
+in and apply it and now we have the font
+
+28
+00:00:54,800 --> 00:00:57,719
+applied so let me collapse this menu I'm
+
+29
+00:00:57,719 --> 00:00:59,440
+going to grab my selection tool and I'm
+
+30
+00:00:59,440 --> 00:01:00,840
+going to in increase the size of this
+
+31
+00:01:00,840 --> 00:01:02,440
+I'm going to hold my control key while I
+
+32
+00:01:02,440 --> 00:01:04,400
+do that so we can scale it up
+
+33
+00:01:04,400 --> 00:01:06,080
+proportionately and I'm going to place
+
+34
+00:01:06,080 --> 00:01:08,720
+it in the center of the page so now
+
+35
+00:01:08,720 --> 00:01:10,560
+let's convert this from a text object to
+
+36
+00:01:10,560 --> 00:01:13,119
+a path by going to path and selecting
+
+37
+00:01:13,119 --> 00:01:15,200
+object to path and then we want to split
+
+38
+00:01:15,200 --> 00:01:16,799
+the letters apart so I'll go back to the
+
+39
+00:01:16,799 --> 00:01:19,479
+path menu and I will choose split path
+
+40
+00:01:19,479 --> 00:01:21,200
+and now we have two separate letters and
+
+41
+00:01:21,200 --> 00:01:22,520
+I'll zoom in on this so you can see it
+
+42
+00:01:22,520 --> 00:01:24,159
+better so what we're going to do here is
+
+43
+00:01:24,159 --> 00:01:25,600
+I'm going to take this letter C and I'm
+
+44
+00:01:25,600 --> 00:01:27,320
+going to collapse its height and then
+
+45
+00:01:27,320 --> 00:01:29,040
+elongate it so that it can intertwine
+
+46
+00:01:29,040 --> 00:01:30,840
+with this letter B here here and to do
+
+47
+00:01:30,840 --> 00:01:32,479
+that we're going to use the nodes tool
+
+48
+00:01:32,479 --> 00:01:34,439
+so let me select the letter and then
+
+49
+00:01:34,439 --> 00:01:36,479
+I'll come over to my nodes tool and I'm
+
+50
+00:01:36,479 --> 00:01:38,200
+going to click and drag over these nodes
+
+51
+00:01:38,200 --> 00:01:39,759
+to select them and then I'm going to
+
+52
+00:01:39,759 --> 00:01:41,159
+click and drag them down I'm going to
+
+53
+00:01:41,159 --> 00:01:42,840
+hold my control key while I do that and
+
+54
+00:01:42,840 --> 00:01:45,399
+click and drag to bring these nodes down
+
+55
+00:01:45,399 --> 00:01:48,079
+like this we want this letter C to fit
+
+56
+00:01:48,079 --> 00:01:50,600
+within this letter B uh and in order to
+
+57
+00:01:50,600 --> 00:01:52,360
+do that we need to shrink that down now
+
+58
+00:01:52,360 --> 00:01:54,119
+a problem I'm running into here is that
+
+59
+00:01:54,119 --> 00:01:56,119
+this part of the design this part of the
+
+60
+00:01:56,119 --> 00:01:57,840
+letter anyway is starting to collapse in
+
+61
+00:01:57,840 --> 00:01:59,399
+on itself so I'm going to move these up
+
+62
+00:01:59,399 --> 00:02:01,039
+a little bit I'm going to select just
+
+63
+00:02:01,039 --> 00:02:02,600
+these nodes right here and I'm going to
+
+64
+00:02:02,600 --> 00:02:04,520
+use my arrow keys to move them up I'm
+
+65
+00:02:04,520 --> 00:02:06,159
+going to use my up Arrow key and I'm
+
+66
+00:02:06,159 --> 00:02:08,399
+going to count the number of steps that
+
+67
+00:02:08,399 --> 00:02:10,520
+I used to move these nodes because I
+
+68
+00:02:10,520 --> 00:02:12,360
+want to move these nodes over here down
+
+69
+00:02:12,360 --> 00:02:14,040
+by the same number of steps so I'm going
+
+70
+00:02:14,040 --> 00:02:16,599
+to press the up Arrow key 1 2 3 four
+
+71
+00:02:16,599 --> 00:02:19,040
+five six seven
+
+72
+00:02:19,040 --> 00:02:21,400
+eight 15 times and I'll do the same
+
+73
+00:02:21,400 --> 00:02:22,440
+thing down here I'm going to select
+
+74
+00:02:22,440 --> 00:02:24,360
+these nodes and I'll move them down 15
+
+75
+00:02:24,360 --> 00:02:26,920
+Steps as well 1 2 3
+
+76
+00:02:26,920 --> 00:02:29,440
+4 and we do that just to maintain the
+
+77
+00:02:29,440 --> 00:02:31,120
+symmetry tree so let me grab my
+
+78
+00:02:31,120 --> 00:02:32,560
+selection tool now and I'm going to move
+
+79
+00:02:32,560 --> 00:02:35,640
+this letter over here and put it on top
+
+80
+00:02:35,640 --> 00:02:37,160
+of the letter B where I would like it to
+
+81
+00:02:37,160 --> 00:02:39,040
+be and I'll go back to my nodes tool and
+
+82
+00:02:39,040 --> 00:02:40,640
+I'm just going to use the nodes tool to
+
+83
+00:02:40,640 --> 00:02:42,959
+select these nodes and adjust the size
+
+84
+00:02:42,959 --> 00:02:44,280
+of this some more so I'm going to hold
+
+85
+00:02:44,280 --> 00:02:46,440
+control while I do this so it locks it
+
+86
+00:02:46,440 --> 00:02:49,000
+onto the horizontal axis while I move
+
+87
+00:02:49,000 --> 00:02:51,840
+these nodes and I'm going to collapse
+
+88
+00:02:51,840 --> 00:02:53,360
+this down a little more what I'm paying
+
+89
+00:02:53,360 --> 00:02:55,200
+attention to right here is where the arm
+
+90
+00:02:55,200 --> 00:02:58,440
+of the C intersects with the um negative
+
+91
+00:02:58,440 --> 00:02:59,800
+space of the letter B here I want the
+
+92
+00:02:59,800 --> 00:03:01,560
+this to be roughly halfway through so
+
+93
+00:03:01,560 --> 00:03:04,120
+let me move this up a little bit and now
+
+94
+00:03:04,120 --> 00:03:05,599
+it looks like it's going about halfway
+
+95
+00:03:05,599 --> 00:03:06,959
+through and I'll do the same thing to
+
+96
+00:03:06,959 --> 00:03:08,400
+these top nodes over here I'll move
+
+97
+00:03:08,400 --> 00:03:10,239
+these ones down and again I'm holding
+
+98
+00:03:10,239 --> 00:03:12,000
+control the whole time I do this to make
+
+99
+00:03:12,000 --> 00:03:13,239
+sure that we're locking it onto the
+
+100
+00:03:13,239 --> 00:03:14,400
+vertical
+
+101
+00:03:14,400 --> 00:03:16,840
+axis and what I'll do now is I'll grab
+
+102
+00:03:16,840 --> 00:03:18,680
+my selection tool and I will select both
+
+103
+00:03:18,680 --> 00:03:19,920
+of these letters and I'm going to open
+
+104
+00:03:19,920 --> 00:03:22,720
+up my alignment menu by going over to
+
+105
+00:03:22,720 --> 00:03:25,760
+object and selecting aligned distribute
+
+106
+00:03:25,760 --> 00:03:27,599
+and I want to choose last selected and
+
+107
+00:03:27,599 --> 00:03:28,840
+I'm just going to make sure that they
+
+108
+00:03:28,840 --> 00:03:31,840
+are aligned horizontally and vertically
+
+109
+00:03:31,840 --> 00:03:34,000
+and then I'll collapse this menu and
+
+110
+00:03:34,000 --> 00:03:35,760
+what we can do now is I'm going to make
+
+111
+00:03:35,760 --> 00:03:37,720
+a duplicate copy of these two letters so
+
+112
+00:03:37,720 --> 00:03:38,920
+I'm going to rightclick them and go to
+
+113
+00:03:38,920 --> 00:03:41,040
+duplicate and I want to make offset
+
+114
+00:03:41,040 --> 00:03:42,799
+copies of these so with them selected
+
+115
+00:03:42,799 --> 00:03:44,799
+I'm going to go to path and I'm going to
+
+116
+00:03:44,799 --> 00:03:47,239
+select outset and that's going to
+
+117
+00:03:47,239 --> 00:03:49,840
+increase the offset of the letters and
+
+118
+00:03:49,840 --> 00:03:51,120
+I'm going to do that a couple of more
+
+119
+00:03:51,120 --> 00:03:53,879
+times uh this offset represents the
+
+120
+00:03:53,879 --> 00:03:55,360
+spacing that's going to be between the
+
+121
+00:03:55,360 --> 00:03:56,799
+letters when they're overlapping each
+
+122
+00:03:56,799 --> 00:03:59,000
+other so depending on how large or small
+
+123
+00:03:59,000 --> 00:04:00,599
+is you may want to repeat this step a
+
+124
+00:04:00,599 --> 00:04:02,360
+few more times I'm going to repeat this
+
+125
+00:04:02,360 --> 00:04:04,840
+one more time I'm going to choose
+
+126
+00:04:04,840 --> 00:04:06,840
+outset and maybe I'll do it one more
+
+127
+00:04:06,840 --> 00:04:08,319
+time just because I have my letters
+
+128
+00:04:08,319 --> 00:04:11,360
+pretty large I'll go to path outset and
+
+129
+00:04:11,360 --> 00:04:13,120
+now that's looking much bigger than the
+
+130
+00:04:13,120 --> 00:04:14,920
+original letters so what we want to do
+
+131
+00:04:14,920 --> 00:04:16,358
+now is let's click and drag over
+
+132
+00:04:16,358 --> 00:04:18,160
+everything we want to select everything
+
+133
+00:04:18,160 --> 00:04:19,918
+and now we can use the shape Builder
+
+134
+00:04:19,918 --> 00:04:21,839
+tool to morph this into what we want it
+
+135
+00:04:21,839 --> 00:04:22,960
+to be so I'm going to come over here to
+
+136
+00:04:22,960 --> 00:04:24,600
+the shape Builder tool and I'm going to
+
+137
+00:04:24,600 --> 00:04:26,639
+zoom in on this and I want to make sure
+
+138
+00:04:26,639 --> 00:04:28,759
+I have the plus icon selected here the
+
+139
+00:04:28,759 --> 00:04:31,039
+add option and now I can just click and
+
+140
+00:04:31,039 --> 00:04:34,039
+drag through the areas of the design and
+
+141
+00:04:34,039 --> 00:04:35,880
+shape it how I would like it to be
+
+142
+00:04:35,880 --> 00:04:37,280
+shaped so I'm going to click and drag
+
+143
+00:04:37,280 --> 00:04:38,440
+through this part of the design right
+
+144
+00:04:38,440 --> 00:04:39,960
+here because I want this part of the
+
+145
+00:04:39,960 --> 00:04:42,120
+letter B to overlap this part of the
+
+146
+00:04:42,120 --> 00:04:44,039
+letter c and then I want this part of
+
+147
+00:04:44,039 --> 00:04:45,919
+the letter c to overlap the letter B
+
+148
+00:04:45,919 --> 00:04:48,600
+over here and then we get that effect so
+
+149
+00:04:48,600 --> 00:04:50,240
+I'll come down here and repeat this but
+
+150
+00:04:50,240 --> 00:04:51,720
+the opposite way I'm going to make this
+
+151
+00:04:51,720 --> 00:04:53,720
+part overlap and then I'll make this
+
+152
+00:04:53,720 --> 00:04:55,720
+part overlap and then I'm going to click
+
+153
+00:04:55,720 --> 00:04:57,080
+on this part right here to highlight it
+
+154
+00:04:57,080 --> 00:04:59,560
+in blue now it's important that you
+
+155
+00:04:59,560 --> 00:05:00,880
+highlight everything that you want to
+
+156
+00:05:00,880 --> 00:05:02,520
+keep in blue you have to click on it to
+
+157
+00:05:02,520 --> 00:05:04,320
+highlight it in blue and if you don't do
+
+158
+00:05:04,320 --> 00:05:05,639
+that it's going to be deleted once
+
+159
+00:05:05,639 --> 00:05:07,000
+you're finished so everything that's
+
+160
+00:05:07,000 --> 00:05:08,720
+gray is going to be deleted everything
+
+161
+00:05:08,720 --> 00:05:10,280
+that's not blue is going to be deleted
+
+162
+00:05:10,280 --> 00:05:12,039
+and once you're finished you can press
+
+163
+00:05:12,039 --> 00:05:15,039
+the check mark button up here and just
+
+164
+00:05:15,039 --> 00:05:16,440
+like that we have created an
+
+165
+00:05:16,440 --> 00:05:19,280
+interlocking letter logo using the shape
+
+166
+00:05:19,280 --> 00:05:21,880
+Builder tool in inkscape if you found
+
+167
+00:05:21,880 --> 00:05:23,280
+this lesson useful then consider
+
+168
+00:05:23,280 --> 00:05:25,840
+checking out my inkscape master class
+
+169
+00:05:25,840 --> 00:05:27,600
+it's a collection of over 60 videos
+
+170
+00:05:27,600 --> 00:05:29,039
+where I go over all of the tools and
+
+171
+00:05:29,039 --> 00:05:31,120
+features in inkscape and I explain what
+
+172
+00:05:31,120 --> 00:05:33,120
+they are and demonstrate how they work
+
+173
+00:05:33,120 --> 00:05:35,199
+kind of like how I did in this video we
+
+174
+00:05:35,199 --> 00:05:36,840
+even have a private Community where you
+
+175
+00:05:36,840 --> 00:05:39,039
+can ask questions and get help from me
+
+176
+00:05:39,039 --> 00:05:41,280
+anytime you want and best of all there's
+
+177
+00:05:41,280 --> 00:05:43,360
+no monthly membership fees you just pay
+
+178
+00:05:43,360 --> 00:05:46,639
+$17 one time and you're in for Life I'll
+
+179
+00:05:46,639 --> 00:05:48,000
+have some information about that down
+
+180
+00:05:48,000 --> 00:05:49,639
+below if you want to check that out as
+
+181
+00:05:49,639 --> 00:05:52,560
+always thanks for
+
+182
+00:05:58,479 --> 00:06:01,479
+watching
+
+183
+00:06:10,080 --> 00:06:13,080
+oh
+

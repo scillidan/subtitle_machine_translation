@@ -1,0 +1,704 @@
+1
+00:00:07,250 --> 00:00:10,320
+this is Nick with logos by Nick comm and
+
+2
+00:00:10,320 --> 00:00:11,969
+in this tutorial I'll be demonstrating
+
+3
+00:00:11,969 --> 00:00:13,949
+how you can use a drawing tablet with
+
+4
+00:00:13,949 --> 00:00:15,539
+Inkscape and if you'd like to learn more
+
+5
+00:00:15,539 --> 00:00:17,310
+about how Inkscape works be sure to
+
+6
+00:00:17,310 --> 00:00:19,320
+check out my Inkscape masterclass it's a
+
+7
+00:00:19,320 --> 00:00:21,210
+collection of over 50 videos where I go
+
+8
+00:00:21,210 --> 00:00:23,010
+over every single tool and feature in
+
+9
+00:00:23,010 --> 00:00:24,840
+Inkscape and I explain what it is and
+
+10
+00:00:24,840 --> 00:00:26,700
+demonstrate how it works I'll have a
+
+11
+00:00:26,700 --> 00:00:28,050
+link in the description of the video if
+
+12
+00:00:28,050 --> 00:00:30,420
+you want to check that out so to get us
+
+13
+00:00:30,420 --> 00:00:31,800
+started here as you can see I have
+
+14
+00:00:31,800 --> 00:00:33,750
+Inkscape opened up on my screen and I
+
+15
+00:00:33,750 --> 00:00:35,820
+have my drawing tablet here on my desk
+
+16
+00:00:35,820 --> 00:00:37,770
+and the way that a drawing tablet works
+
+17
+00:00:37,770 --> 00:00:39,210
+is that it basically allows you to
+
+18
+00:00:39,210 --> 00:00:41,790
+create freehand digital art the same way
+
+19
+00:00:41,790 --> 00:00:43,410
+you would with the pencil and paper and
+
+20
+00:00:43,410 --> 00:00:45,660
+the tablet I'm using here is a Wacom
+
+21
+00:00:45,660 --> 00:00:47,010
+Intuos I'll have a link in the
+
+22
+00:00:47,010 --> 00:00:48,690
+description to a short review I wrote
+
+23
+00:00:48,690 --> 00:00:49,980
+about it last year in case you're
+
+24
+00:00:49,980 --> 00:00:52,320
+interested the way that this works is
+
+25
+00:00:52,320 --> 00:00:54,480
+that you plug it in through a USB Drive
+
+26
+00:00:54,480 --> 00:00:56,640
+and if you're using Windows 10 it should
+
+27
+00:00:56,640 --> 00:00:58,350
+be automatically recognized and
+
+28
+00:00:58,350 --> 00:00:59,579
+functional without having to install
+
+29
+00:00:59,579 --> 00:01:02,130
+anything that was the case for me anyway
+
+30
+00:01:02,130 --> 00:01:03,780
+if that doesn't work for you then you'll
+
+31
+00:01:03,780 --> 00:01:05,579
+probably have to install some drivers
+
+32
+00:01:05,579 --> 00:01:07,469
+depending on your operating system I'll
+
+33
+00:01:07,469 --> 00:01:09,060
+have a link in the description for those
+
+34
+00:01:09,060 --> 00:01:10,590
+as well if you need to download them and
+
+35
+00:01:10,590 --> 00:01:12,630
+once you have your tablet installed it
+
+36
+00:01:12,630 --> 00:01:14,639
+basically functions the same way a mouse
+
+37
+00:01:14,639 --> 00:01:16,020
+would let me show you what I mean here
+
+38
+00:01:16,020 --> 00:01:17,639
+I'm gonna take the tip of the pen and
+
+39
+00:01:17,639 --> 00:01:19,560
+hover it above the surface of the tablet
+
+40
+00:01:19,560 --> 00:01:21,209
+right here and if you notice as I move
+
+41
+00:01:21,209 --> 00:01:23,729
+it around it moves the cursor on this
+
+42
+00:01:23,729 --> 00:01:25,770
+screen as well and if you notice I'm not
+
+43
+00:01:25,770 --> 00:01:27,479
+actually touching the surface of a
+
+44
+00:01:27,479 --> 00:01:29,670
+tablet once I do touch the surface of
+
+45
+00:01:29,670 --> 00:01:31,859
+the tablet it registers the same way it
+
+46
+00:01:31,859 --> 00:01:33,240
+would is if you were to click and drag
+
+47
+00:01:33,240 --> 00:01:35,130
+with your mouse and by the way this
+
+48
+00:01:35,130 --> 00:01:36,779
+works system-wide you don't just have to
+
+49
+00:01:36,779 --> 00:01:38,549
+install this with Inkscape once you have
+
+50
+00:01:38,549 --> 00:01:40,349
+this installed you can use this with any
+
+51
+00:01:40,349 --> 00:01:42,569
+of your other applications as well so
+
+52
+00:01:42,569 --> 00:01:44,579
+this this works it's kind of like
+
+53
+00:01:44,579 --> 00:01:46,020
+installing fonts where once it's
+
+54
+00:01:46,020 --> 00:01:48,060
+installed it works it works system-wide
+
+55
+00:01:48,060 --> 00:01:49,439
+and the way that this works here is that
+
+56
+00:01:49,439 --> 00:01:51,299
+the surface area of the tablet is
+
+57
+00:01:51,299 --> 00:01:53,999
+represented by the perimeter of your
+
+58
+00:01:53,999 --> 00:01:56,369
+screen so if you bring your if you bring
+
+59
+00:01:56,369 --> 00:01:58,319
+the pen to the top left portion of the
+
+60
+00:01:58,319 --> 00:02:01,109
+tablet the cursor is located in the top
+
+61
+00:02:01,109 --> 00:02:03,090
+left portion of the screen and then down
+
+62
+00:02:03,090 --> 00:02:05,069
+here to the bottom right so on and so
+
+63
+00:02:05,069 --> 00:02:06,869
+forth you get the idea now once you have
+
+64
+00:02:06,869 --> 00:02:09,538
+your tablet installed I would recommend
+
+65
+00:02:09,538 --> 00:02:10,800
+that you go through some of the settings
+
+66
+00:02:10,800 --> 00:02:12,239
+and get them set up first so what you're
+
+67
+00:02:12,239 --> 00:02:13,440
+wrong what you're gonna want to do is
+
+68
+00:02:13,440 --> 00:02:14,640
+come over here to where it says search
+
+69
+00:02:14,640 --> 00:02:17,430
+and type in Wacom you're looking for a
+
+70
+00:02:17,430 --> 00:02:19,090
+Wacom tablet property
+
+71
+00:02:19,090 --> 00:02:21,939
+you click on that and over here you can
+
+72
+00:02:21,939 --> 00:02:23,620
+just take these buttons on the tablet
+
+73
+00:02:23,620 --> 00:02:25,090
+and program and to do whatever you want
+
+74
+00:02:25,090 --> 00:02:26,590
+these are these buttons over here I
+
+75
+00:02:26,590 --> 00:02:28,030
+don't use them personally but if you
+
+76
+00:02:28,030 --> 00:02:29,829
+want to you can program that to whatever
+
+77
+00:02:29,829 --> 00:02:31,870
+you want what I'm paying attention to
+
+78
+00:02:31,870 --> 00:02:35,019
+mostly is the pen and mapping so first
+
+79
+00:02:35,019 --> 00:02:36,549
+of all with the pen you can adjust the
+
+80
+00:02:36,549 --> 00:02:38,560
+sensitivity to the pen or the distance
+
+81
+00:02:38,560 --> 00:02:40,329
+between the pen and a tablet with these
+
+82
+00:02:40,329 --> 00:02:42,640
+settings over here over here you'll
+
+83
+00:02:42,640 --> 00:02:44,200
+notice you can program the buttons on
+
+84
+00:02:44,200 --> 00:02:45,939
+the pen if you look at the pen closely I
+
+85
+00:02:45,939 --> 00:02:47,079
+don't know if you can tell in the video
+
+86
+00:02:47,079 --> 00:02:48,969
+but there's two buttons on this pen here
+
+87
+00:02:48,969 --> 00:02:50,859
+there's one down here and one up here
+
+88
+00:02:50,859 --> 00:02:52,810
+and you can program these buttons to do
+
+89
+00:02:52,810 --> 00:02:54,370
+whatever you want if you click this drop
+
+90
+00:02:54,370 --> 00:02:55,480
+down over here you can see all the
+
+91
+00:02:55,480 --> 00:02:56,799
+different things you could program it to
+
+92
+00:02:56,799 --> 00:02:58,919
+do I programmed it to do a specific
+
+93
+00:02:58,919 --> 00:03:01,569
+keystroke which is control Z which is
+
+94
+00:03:01,569 --> 00:03:04,180
+the undo function and I find that useful
+
+95
+00:03:04,180 --> 00:03:05,409
+because sometimes I'll be drawing
+
+96
+00:03:05,409 --> 00:03:06,879
+brushstrokes or something and I don't
+
+97
+00:03:06,879 --> 00:03:07,870
+like how it came out
+
+98
+00:03:07,870 --> 00:03:09,639
+instead of having to come over to the
+
+99
+00:03:09,639 --> 00:03:11,349
+keyboard and press control Z I can just
+
+100
+00:03:11,349 --> 00:03:13,209
+press that button on the pen and undo
+
+101
+00:03:13,209 --> 00:03:15,189
+that brushstroke so that's really useful
+
+102
+00:03:15,189 --> 00:03:18,669
+and the other thing over here disabled
+
+103
+00:03:18,669 --> 00:03:20,139
+this other button I haven't found a use
+
+104
+00:03:20,139 --> 00:03:21,489
+for it yet so like I just left it
+
+105
+00:03:21,489 --> 00:03:23,470
+disabled and then finally over here
+
+106
+00:03:23,470 --> 00:03:24,729
+where it says mapping this is
+
+107
+00:03:24,729 --> 00:03:26,379
+particularly important if you're using
+
+108
+00:03:26,379 --> 00:03:29,019
+multiple monitors like I am as you can
+
+109
+00:03:29,019 --> 00:03:31,629
+see here I have a triple monitor setup
+
+110
+00:03:31,629 --> 00:03:33,699
+but I have it set up so that this tablet
+
+111
+00:03:33,699 --> 00:03:35,799
+only works on this Center monitor right
+
+112
+00:03:35,799 --> 00:03:37,359
+here which is the monitor I'm using for
+
+113
+00:03:37,359 --> 00:03:38,019
+this video
+
+114
+00:03:38,019 --> 00:03:41,620
+by default when I first installed when I
+
+115
+00:03:41,620 --> 00:03:43,209
+first installed this tablet when I first
+
+116
+00:03:43,209 --> 00:03:45,489
+plugged it in it had all three monitors
+
+117
+00:03:45,489 --> 00:03:48,190
+indicated here so that when I used the
+
+118
+00:03:48,190 --> 00:03:50,650
+surface area of the tablet this whole
+
+119
+00:03:50,650 --> 00:03:52,540
+width of the tablet represented the
+
+120
+00:03:52,540 --> 00:03:54,040
+entire width of all three of these
+
+121
+00:03:54,040 --> 00:03:56,470
+monitors but the height stayed the same
+
+122
+00:03:56,470 --> 00:03:58,810
+this created a distortion of an aspect
+
+123
+00:03:58,810 --> 00:04:00,430
+ratio of three to one and it was really
+
+124
+00:04:00,430 --> 00:04:01,989
+difficult to draw I couldn't figure out
+
+125
+00:04:01,989 --> 00:04:04,030
+why things that I was drawing with the
+
+126
+00:04:04,030 --> 00:04:05,769
+tablet didn't look right on the screen
+
+127
+00:04:05,769 --> 00:04:07,569
+like for example if you were to draw a
+
+128
+00:04:07,569 --> 00:04:09,519
+perfectly round circle on the tablet it
+
+129
+00:04:09,519 --> 00:04:12,129
+would be represented by a really
+
+130
+00:04:12,129 --> 00:04:14,379
+elongated ellipse on the screen here and
+
+131
+00:04:14,379 --> 00:04:16,089
+I couldn't figure out why that was and
+
+132
+00:04:16,089 --> 00:04:17,560
+then eventually I realized it was
+
+133
+00:04:17,560 --> 00:04:20,949
+because I had I had the surface area of
+
+134
+00:04:20,949 --> 00:04:22,690
+the tablet mapped to all three monitors
+
+135
+00:04:22,690 --> 00:04:24,610
+so if you're using multiple monitors
+
+136
+00:04:24,610 --> 00:04:26,229
+make sure to come over here to the to
+
+137
+00:04:26,229 --> 00:04:27,729
+the mapping tab and just set it up so
+
+138
+00:04:27,729 --> 00:04:29,770
+you're just using one monitor here then
+
+139
+00:04:29,770 --> 00:04:31,000
+we can close out of that and now we're
+
+140
+00:04:31,000 --> 00:04:32,770
+good to get started here in Inkscape
+
+141
+00:04:32,770 --> 00:04:34,149
+there's a few different things you can
+
+142
+00:04:34,149 --> 00:04:35,379
+do with the drawing tablet here in
+
+143
+00:04:35,379 --> 00:04:37,839
+Inkscape one thing you can do is you can
+
+144
+00:04:37,839 --> 00:04:40,059
+come over here to the free hand lines
+
+145
+00:04:40,059 --> 00:04:42,039
+tool the tutorial I did the other day
+
+146
+00:04:42,039 --> 00:04:43,809
+about using custom brushes you can use
+
+147
+00:04:43,809 --> 00:04:45,369
+that another thing you could do is you
+
+148
+00:04:45,369 --> 00:04:47,800
+can create some calligraphy with the
+
+149
+00:04:47,800 --> 00:04:49,569
+calligraphy pen over here for this I
+
+150
+00:04:49,569 --> 00:04:51,969
+like to use the dip pen the width I have
+
+151
+00:04:51,969 --> 00:04:54,399
+set to 37 the thinning set to 10 and
+
+152
+00:04:54,399 --> 00:04:56,319
+then the rest the defaults are just the
+
+153
+00:04:56,319 --> 00:04:58,300
+default as they are and then you just
+
+154
+00:04:58,300 --> 00:04:59,949
+come over to your canvas over here to
+
+155
+00:04:59,949 --> 00:05:02,439
+your drawing tablet and then just click
+
+156
+00:05:02,439 --> 00:05:04,210
+and drag like that or actually press
+
+157
+00:05:04,210 --> 00:05:05,800
+down the pen and move it around to
+
+158
+00:05:05,800 --> 00:05:08,680
+create some calligraphy like that and as
+
+159
+00:05:08,680 --> 00:05:11,499
+you can see it draws it on the screen so
+
+160
+00:05:11,499 --> 00:05:13,569
+that's one thing you can do with the
+
+161
+00:05:13,569 --> 00:05:15,969
+drawing tablet in Inkscape another thing
+
+162
+00:05:15,969 --> 00:05:17,319
+this would be useful for is if you're
+
+163
+00:05:17,319 --> 00:05:19,270
+creating those line art style logos that
+
+164
+00:05:19,270 --> 00:05:20,860
+I did in the previous tutorial a couple
+
+165
+00:05:20,860 --> 00:05:22,749
+years ago it would be really useful for
+
+166
+00:05:22,749 --> 00:05:24,069
+that sort of thing is where you could
+
+167
+00:05:24,069 --> 00:05:25,869
+just draw them freehand without having
+
+168
+00:05:25,869 --> 00:05:27,459
+to do all of that with the with the
+
+169
+00:05:27,459 --> 00:05:29,619
+mouse and clicking and dragging so I
+
+170
+00:05:29,619 --> 00:05:31,089
+think that should do it for this
+
+171
+00:05:31,089 --> 00:05:32,559
+tutorial that's how you can go about
+
+172
+00:05:32,559 --> 00:05:34,419
+getting yourself set up with a drawing
+
+173
+00:05:34,419 --> 00:05:36,490
+tablet and Inkscape if you have any
+
+174
+00:05:36,490 --> 00:05:38,199
+questions leave a comment below and as
+
+175
+00:05:38,199 --> 00:05:41,099
+always thanks for watching
+
+176
+00:05:46,969 --> 00:05:49,029
+you
+

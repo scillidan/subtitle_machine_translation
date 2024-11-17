@@ -1,0 +1,399 @@
+
+
+
+this  is  nick  with  logos  by  nick.com  and
+
+in  this  tutorial  ill  be  demonstrating
+
+how  you  can  take  an  image  and  use  it  to
+
+trace  a  vector  halftone  portrait  using
+
+inkscape  so  getting  us  started  here  in
+
+inkscape  the  first  thing  i  want  to  do  is
+
+just  set  up  the  workflow  so  that  we  all
+
+have  a  similar  setup  on  our  screen  im
+
+going  to  come  up  here  to  where  it  says
+
+view
+
+i  want  to  make  sure  i  have  custom
+
+selected  and  then  i  want  to  zoom  i  want
+
+to  go  to  view  zoom  and  zoom  in  at  one  to
+
+one
+
+okay  now  what  im  going  to  do  is  im
+
+going  to  import  my  example  photo  so  i
+
+have  over  here  my  other  my  other  monitor
+
+i  have  my  example  photo  im  going  to
+
+click  and  drag  that  file  into  inkscape
+
+im  going  to  leave  the  defaults  as  they
+
+are  and  click  ok  and  there  we  go  there
+
+is  the  example  photo  i  will  be  using  for
+
+this  tutorial  this  is  just  a  stock  photo
+
+that  i  grabbed  off  the  internet  ill
+
+have  a  link  in  the  description  of  the
+
+video  if  you  want  to  use  this  image
+
+otherwise  you  can  use  whatever  image
+
+youd  like
+
+so  the  first  thing  we  have  to  do  is  make
+
+this  image  black  and  white  so  im  going
+
+to  make  sure  i  have  the  image  selected
+
+and  ill  come  up  here  to  where  it  says
+
+filters  and  ill  come  over  to  color  and
+
+im  looking  for  grayscale
+
+now  im  going  to  take  this  menu  im
+
+going  to  tick  the  preview  box  right  here
+
+just  to  give  us  a  preview  of  how  this
+
+looks  uh  if  you  want  you  can  adjust  your
+
+rgb  values  up  here  as  well  as  the  as  the
+
+uh  the  lightness  i  like  how  this  looks
+
+as  it  is  so  im  just  going  to  leave  it
+
+as  it  is  and  click  apply
+
+and  now  that  weve  done  that  now  that
+
+this  is  applied  we  can  close  out  of  this
+
+menu  and  now  i  want  to  open  up  the
+
+layers  menu  which  is  located
+
+over  here  or  you  can  just  press  ctrl
+
+shift  and  l  on  your  keyboard
+
+so  right  this  right  here  layer  one  this
+
+is  the  layer  where  the  image  is  located
+
+we  want  to  create  a  new  layer  to  trace
+
+our  halftone  portrait  over  this  image  so
+
+im  going  to  click  the  plus  icon  down
+
+here  and  im  going  to  add  a  new  layer
+
+im  going  to  use  the  layer  name  im  just
+
+going  to  leave  the  default  and  position
+
+we  want  to  make  sure  we  have  above
+
+current  and  then  go  ahead  and  click  add
+
+now  what  im  going  to  do  is  im  going  to
+
+create  a  single  circle  going  over  this
+
+image  right  here  so  let  me  grab  the
+
+circles  and  ellipses  tool  im  going  to
+
+click  and  drag  on  the  canvas  to  create  a
+
+circle  im  going  to  hold  ctrl  on  the
+
+keyboard  so  it  makes  a  perfectly  round
+
+circle  like  that
+
+and  im  going  to  make  this  black  let  me
+
+grab  the  select  tool  and  put  this
+
+towards  the  top  of  the  uh  the  top  left
+
+corner  of  the  image  right  here  and  in
+
+fact  im  going  to  scale  that  down  a
+
+little  more
+
+what  i  want  to  do  is  align  this  in  the
+
+top  left  corner  here  so  lets  open  up
+
+the  alignment  menu  which  is  over  here  or
+
+you  could  press  ctrl  shift  a
+
+and  with  this  circle  selected  im  going
+
+to  hold  shift  and  im  going  to  click  on
+
+the  image  so  we  have  them  both  selected
+
+and  in  the  align  distribute  menu  i  want
+
+to  make  sure  i  have  last  selected  chosen
+
+from  this  relative  drop  down  and  i  want
+
+to  align  this
+
+to  the  left  edge  and  then  i  want  to
+
+align  this  to  the  top  edge  so  that  is
+
+right  there  in  the  top  left  corner  and
+
+now  we  can  click  off  of  that  to  deselect
+
+everything
+
+so  now  im  going  to  click  and  drag  over
+
+the  circle  so  i  have  just  the  circle
+
+selected  and  im  going  to  go  to  edit
+
+clone
+
+create  tiled  clones
+
+and  in  this  menu  over  here  what  were
+
+looking  for  is
+
+the  trace  option
+
+now  from  these  settings  over  here  you
+
+want  to  make  sure  you  have  traced  the
+
+drawing  under  the  clone  spray  items  you
+
+want  to  have  that  selected  you  want  to
+
+have  color  selected  you  want  to  leave
+
+the  defaults  as  they  are  over  here  and
+
+then  down  here  we  only  want  presence  and
+
+size  selected  we  dont  want  either  of
+
+these  selected  and  then  down  here  apply
+
+the  tiled  clones  to  we  want  to  choose
+
+width  and  height  and  we  want  to  change
+
+the  width  and  height  to  match  the  width
+
+and  height  of  this  image  so  let  me  click
+
+on  this  image  here  so  i  can  see  the
+
+width  and  height  as  you  can  see  the
+
+width  is  a  thousand  pixels  wide  and  then
+
+778
+
+pixels  high
+
+so  im  going  to  change  this  over  here
+
+let  me  select  the  circle  again
+
+im  going  to  change  this  to  pixels  and
+
+im  going  to  change  this  to  the  same
+
+size  that  uh  the  images  over  here  which
+
+is  1000  by  778  as  you  can  see  i  already
+
+have  it  inputted  here  so  once  youve
+
+done  that  you  can  just  go  ahead  and
+
+click  create
+
+and  as  you  can  see  its  going  to  create
+
+a  bunch  of  copies  of  that
+
+a  bunch  of  copies  of  that  circle  and  use
+
+it  to  trace  over  the  image  here  and  you
+
+can  see  it  a  little  better  if  you  come
+
+over  here  to  the  layers  menu  and  turn
+
+off  the  visibility  of  layer  one  you  can
+
+see  where  it  traced  that  image  a  little
+
+better
+
+now  let  me  turn  that  back  on  let  me  come
+
+over  here  let  me  undo  what  i  just  did
+
+there  by  pressing  ctrl  z  let  me  undo  it
+
+again  ctrl  z  one  more  time  ctrl  z  and
+
+there  we  go  what  i  want  to  do  is  make
+
+this  circle  a  little  smaller  and  see  if
+
+i  can  get  a  better  result  because  i
+
+clicked  on  the  wrong  thing  let  me  make
+
+this  a  little  smaller
+
+click  on  create
+
+and  as  you  can  see  with  the  smaller
+
+circle  it  added  more  circles  in  here
+
+theres  more  circle  density  so  i  think
+
+that  looks  a  little  better  if  you  want
+
+let  me  undo  that  again
+
+if  you  want  you  can  make  this  larger  and
+
+see  how  that  looks  this  is  just  a  matter
+
+of  personal  preference  at  this  point  if
+
+you  go  ahead  and  click  on  create  you  can
+
+see  how  that  looks  right  there  i  liked
+
+how  it  looked  better  with  the  smaller
+
+circle  so  let  me  undo  that  one  more  time
+
+and  let  me  just  make  that  a  little
+
+smaller  like  that  click  on  create
+
+there  we  go  now  im  going  to  come  over
+
+here  to  the  layers  menu  im  going  to
+
+turn  off  the  visibility  of  layer  one  and
+
+if  you  zoom  out  you  can  really  see  the
+
+portrait  it  almost  looks  like  an  actual
+
+image  but  if  you  zoom  in  all  the  way  you
+
+can  see  this  is  indeed  a  vector  tracing
+
+there  is  no  quality  loss  here  as  you
+
+zoom  in  these  are  vectors  and  the  cool
+
+thing  about  this  is  that  all  of  these
+
+circles  are  linked  to  the  original
+
+circle  so  whatever  you  do  to  that
+
+original  circle  will  be  applied  to  all
+
+of  the  other  circles  as  well  let  me  show
+
+you  what  i  mean  im  going  to  zoom  in
+
+over  here  im  going  to  take  this
+
+original  circle  and  move  it  out  of  the
+
+way
+
+let  me  zoom  out  to  zoom  im  just  holding
+
+ctrl  and  rolling  up  and  down  the  mouse
+
+wheel  to  move  the  page  around  just
+
+pressing  down  the  mouse  wheel  and  moving
+
+the  mouse  im  going  to  take  that  circle
+
+and  im  going  to  make  that  blue
+
+and  as  you  can  see  it  made  all  of  the
+
+other  circles  blue  and  this  works  with
+
+any  other  transformation  as  well  if  i
+
+make  this  a  little  bigger
+
+its  going  to  make  all  of  those  circles
+
+a  little  bigger  and  i  think  that  looks
+
+better  right  there  up  close  it  looks
+
+like  a  tracing  of  a  bunch  of  little
+
+circles  but  if  you  zoom  out  you  can  see
+
+it  looks  more  like  a  photograph
+
+so  i  think  that  should  do  it  for  this
+
+tutorial  that  is  how  you  can  very  easily
+
+go  about  creating  your  own
+
+halftone  portraits  using  images  in
+
+inkscape  if  you  have  any  questions  just
+
+leave  a  comment  below  and  as  always
+
+thanks  for  watching
+
+
+
